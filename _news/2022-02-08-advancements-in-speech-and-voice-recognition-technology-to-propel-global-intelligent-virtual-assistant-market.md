@@ -41,20 +41,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Robotic Prosthetic Market Size Expected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
-    excerpt: "Growing demand for robotic prosthetic products due to increasing incidents ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors to impact market revenue growth."
-    publishedDateTime: 2022-02-04T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robotic-prosthetic-market-size-expected-to-reach-usd-2384-4-million-at-a-cagr-of-8-9-in-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
     excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
     publishedDateTime: 2022-02-07T21:44:00Z

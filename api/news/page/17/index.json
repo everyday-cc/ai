@@ -2,6 +2,136 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-01-21-intuit-ceo-on-the-power-of-machine-learning-for-small-businesses.md",
+      "title": "Intuit CEO on the Power of Machine Learning for Small Businesses",
+      "excerpt": "CEO Sasan Goodarzi talks about the many applications and capabilities of machine learning. Sasan Goodarzi: We apply machine learning to everything that I know about you. How many accounts payables do you have?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
+      "originalUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
+      "publishedDateTime": "2022-01-21T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-how-computers-understand-text-for-machine-learning-speech-and-more.md",
+      "title": "How computers understand text for machine learning, speech and more",
+      "excerpt": "If you are interested in learning more about how computers understand text and natural language processing for text speech, machine learning applications and other numerical algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/how-computers-understand-text-for-machine-learning-text-speech-21-01-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/how-computers-understand-text-for-machine-learning-text-speech-21-01-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/01/how-computers-understand-text-speech.jpg",
+          "width": 700,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-21T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-six-steps-to-execute-responsible-ai-in-the-enterprise.md",
+      "title": "Six Steps To Execute Responsible AI In The Enterprise",
+      "excerpt": "While organizations today may see Responsible AI (RAI) as an important part of their AI journey, we will see some significant shifts as new legislation creates reputational and financial risks for businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/global_south_africa_electrity_pylons.jpg",
+          "width": 3905,
+          "height": 2509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
+      "publishedDateTime": "2022-01-21T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock.md",
       "title": "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock",
       "excerpt": "(Bloomberg) --The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman will be a venture partner at Greylock ...",
@@ -1024,126 +1154,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-zenoss-names-blair-duncan-chief-financial-officer.md",
-      "title": "Zenoss Names Blair Duncan Chief Financial Officer",
-      "excerpt": "Zenoss Inc., a leader in AI-driven full-stack monitoring, today announced Blair Duncan as the company’s new chief financial officer. Duncan is a seasoned executive with more than 25 years of experience leading finance organizations and driving strategy at high-growth companies.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023.md",
-      "title": "Jidu Robocar Teased From Baidu With Level 4 Autonomy, Production Version To Follow In 2023",
-      "excerpt": "Below you can see an earlier presentation from Jidu, where a 3D model of Baidu’s robotaxi was used to explain the nature of a robocar. Hilariously Poor Tesla Full Self Driving Performance In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/",
-      "originalUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ycrv6Xv4e4E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/amp/",
-      "publishedDateTime": "2022-01-20T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-elogic-hires-manufacturing-leader-as-industry-solution-architect.md",
-      "title": "eLogic Hires Manufacturing Leader as Industry Solution Architect",
-      "excerpt": "Azure Machine Learning, Azure SQL, and Azure Data Lake. \"I am excited to start this new phase of my career and leverage my extensive functional and technical experience to help manufacturers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/elogic-hires-manufacturing-leader-as-industry-solution-architect/article_63ee750f-398c-5c0d-9562-d27909ffc145.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/elogic-hires-manufacturing-leader-as-industry-solution-architect/article_63ee750f-398c-5c0d-9562-d27909ffc145.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

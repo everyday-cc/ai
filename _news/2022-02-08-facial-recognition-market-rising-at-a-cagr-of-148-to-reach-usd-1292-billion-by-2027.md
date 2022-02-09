@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotic Prosthetic Market Size Expected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
-    excerpt: "Growing demand for robotic prosthetic products due to increasing incidents ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors to impact market revenue growth."
-    publishedDateTime: 2022-02-04T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robotic-prosthetic-market-size-expected-to-reach-usd-2384-4-million-at-a-cagr-of-8-9-in-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Advancements in Speech and Voice Recognition Technology to Propel Global Intelligent Virtual Assistant Market"
     excerpt: "Conversational e-commerce has emerged as a result of the increasing usage of smart speaker-based solutions for home automation and digitalization in the retail industry. This factor is expected to propel the global intelligent virtual assistant market forward."
     publishedDateTime: 2022-02-08T05:41:00Z

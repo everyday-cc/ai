@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-27-deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027.md",
+      "title": "Deep Learning Chipset Market Expected To Witness a Sustainable Growth Over 2027",
+      "excerpt": "Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is estimated to expand at a CAGR of ~24% ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/Lego-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-26T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-25-unmanned-aerial-system-based-weed-mapping-in-sod-production-using-a-convolutional-neural-network.md",
       "title": "Unmanned Aerial System-Based Weed Mapping in Sod Production Using a Convolutional Neural Network.",
       "excerpt": "Weeds are a persistent problem on sod farms, and herbicides to control different weed species are one of the largest chemical inputs. Recent advances in unmanned aerial systems (UAS) and artificial intelligence provide opportunities for weed mapping on sod farms.",

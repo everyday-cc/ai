@@ -3,8 +3,8 @@ category: news
 title: "Self-driving taxies set to go into service in western Seoul"
 excerpt: "The first batch of self-driving taxies in Seoul will go into service in the city's western region this week, the city government said Wednesday. Four autonomous cars will start providing public taxi services in the Sangam-dong district in western Seoul on Thursday,"
 publishedDateTime: 2022-02-09T04:14:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/281_323572.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/281_323572.html?fl"
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/281_323572.html"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/281_323572.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323572"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323572"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 631
     isCached: true
 
-secured: "DX0Fg4cRttwSAHZC6AAAmXwUxMLzLUJbOZFmdRxK4Rgwkw+2BsrECPINQnyuKH4j/HIwWf6motbc6P0a0e1RUW4W12aICvyRvKKlDxR9//LWSMRJiRefi51csMoL95Ktu4G8thKHGiPKLLVQGMTjsajdDkvrAC77ZBeSdnWy39gd5t4hiA3xJ1ViR9oEaUxga8K/CeuxpuY9GaFe1JtNgioWpcPBv6EKIm0VsKU62OdA+h42eTmImwieU2u4nkGtNTRm9NLml6Ge5BZPnAGzuNGPOajberOwLP4rP5oXVPZTnl3LmsOljIi6o1QNJwCkrmU/bHKfSyC2d+0QwxaPRZQNpZmC/7ZKZstQTqpu/YQ=;jy4sGfhhNdsaHgnJ2pyTng=="
+secured: "+f0eskPlg7uJm8yWaxULxaoM6XYdJ5QbXyWLqI2Qmpx+xfF6zf+HWTPbgdFHAQOSkbZOgybfOtVESBO3yLoLvsVlrk1GSEE1A1H+vq5WJWi9qdTtoVqlzj9OsmpgCldWjJmlyYhJqEtCx4d2apDpCKvD+gw2tGuPYbMKAR3x0kT2eSQJOysdCOXfWdFhvmNkX/FXEidrf+8WakWzmwmqbFq6pq01Ccpn9V7vCAQOU5akdLM38m1blpTibOCkgbD2Y6PeSmAb1Ae3Eu+B6YzrR0P2p5l1aQdEoWZJQIkmXCBBi4L6yRKEUveHzsRqr9aldE9uKC3TBhwJIVO/2IjCvsm/E6Nr3b8AzLC778uOwa4=;TBfflVJ0ZK12dTJs4MCcMA=="
 ---
 

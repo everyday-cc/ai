@@ -81,6 +81,20 @@ related:
         width: 1600
         height: 1068
         isCached: true
+  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global facial recognition market to grow with a CAGR of 17."
+    publishedDateTime: 2022-02-09T06:52:00Z
+    webUrl: "https://menafn.com/1103662399/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324610"
+        width: 318
+        height: 250
+        isCached: true
   - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
     publishedDateTime: 2022-02-05T03:40:00Z

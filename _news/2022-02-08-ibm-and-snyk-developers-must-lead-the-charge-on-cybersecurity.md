@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-le
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cybersecurity startup SecureThings.ai picks up $3.5 million in funding led by Inflexor Ventures"
+    excerpt: "SecureThings.ai, founded by Vishal Bajpai will use the fresh capital towards product enhancement, business growth in India and overseas markets."
+    publishedDateTime: 2022-02-09T06:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/articleshow/89447433.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-86882,msid-89447462/securethings-founder.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
     excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
     publishedDateTime: 2022-02-06T18:35:00Z

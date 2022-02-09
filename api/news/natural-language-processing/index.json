@@ -1117,49 +1117,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-25-facebook-parent-meta-creates-powerful-ai-supercomputer.md",
-      "title": "Facebook parent Meta creates powerful AI supercomputer",
-      "excerpt": "analyze text and translate between languages, said Tuomas Sandholm, a computer science professor and co-director of the AI center at Carnegie Mellon University. \"We hope RSC will help us build ...",
-      "sourceUrl": null,
-      "webUrl": "https://mainichi.jp/english/articles/20220125/p2g/00m/0bu/043000c",
-      "originalUrl": "https://mainichi.jp/english/articles/20220125/p2g/00m/0bu/043000c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mainichi.jp/vol1/2022/01/25/20220125p2g00m0bu042000p/0c10.jpg?1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mainichi.jp",
-        "domain": "mainichi.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-25-vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology.md",
       "title": "Vodafone upgrades customer service with AI and speech recognition technology",
       "excerpt": "Ever get frustrated when you can’t talk to a real person? Vodafone’s answer to this won’t be adding real people but rather AI-powered chat bots and smart speech recognition tools as a way of improving the customer experience.",
@@ -1403,6 +1360,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-ai-revolutionizes-hospital-procurement-services.md",
+      "title": "AI revolutionizes hospital procurement services",
+      "excerpt": "Artificial intelligence (AI) is a formidable tool ... learning algorithms with the ability to translate structured and unstructured text into usable language and data points (ideal for evaluating ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/01/ai-revolutionizes-hospital-procurement-services/",
+      "originalUrl": "https://medcitynews.com/2022/01/ai-revolutionizes-hospital-procurement-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2022/01/GettyImages-1352661806.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

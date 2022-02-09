@@ -40,34 +40,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
-    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
-    publishedDateTime: 2022-02-04T14:45:00Z
-    webUrl: "https://menafn.com/1103642231/Jio-Platforms-invests-15-mn-in-AI-VR-startup-Two-Platforms"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?150158"
-        width: 432
-        height: 250
-        isCached: true
-  - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
-    excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."
-    publishedDateTime: 2022-02-04T14:56:00Z
-    webUrl: "https://www.bloombergquint.com/business/reliance-buys-stake-in-silicon-valley-startup-two-platforms"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 22
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-02%2F0571cc1d-b393-454c-80ba-518960938df6%2F355638075.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yYpA4cWj+zeB9Q3ekyg7wnX3EYv9rhiN2NF60BTEVUOk/3K9aNlPYensOFFjJGglPzyBG7bag1Di9SSoLMM6JBs4uo5+26ifgopP1XpT/3LScc8LiyOXRc55bVUaJLYK/H6GHEhsJCgnfPEWdWb5+DZgEQMapPvkQITkaEhwvySouU1rWDvPTuABV2dQBIVxpbdj2r9mRj/lgxPaOR6hYwF6OVfaHl4vjK0vX0bNlJtMj+9BTL5oQQGUybfeVKGqx4LNvjUyJrKHasq8+/AcQHKNP/UavO0T5hhALbWbu5J2mfnY+Jgq0Y5aw4EuHlyqxL//c9OIWdA40CrB5oZHcb8SdYMJE+cRnzUoWisrX6Q=;8JbNqczTEwIyu9tvVcktVA=="
 ---

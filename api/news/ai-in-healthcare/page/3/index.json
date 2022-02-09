@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-01-04-caris-life-sciences-to-present-at-the-40th-annual-jp-morgan-healthcare-conference.md",
-      "title": "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference",
-      "excerpt": "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
-      "originalUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPVI",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-04-ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery.md",
       "title": "AI, robotics, home care and mental health to lead healthcare delivery",
       "excerpt": "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,",

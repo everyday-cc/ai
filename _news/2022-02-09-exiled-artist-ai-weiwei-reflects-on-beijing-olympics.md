@@ -51,21 +51,7 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 37
-  - title: "Ai Weiwei helped design Beijing’s Olympic stadium. But he regrets how it’s being used today"
-    excerpt: "As the Beijing Winter Olympics gets underway, artist Ai Weiwei is once again criticizing ... Olympic Charter and the organization’s code of ethics. “Given the diverse participation in the ..."
-    publishedDateTime: 2022-02-04T14:00:00Z
-    webUrl: "https://kesq.com/entertainment/cnn-style/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-2/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 29
-    images:
-      - url: "https://kesq.b-cdn.net/2022/02/hypatia-h_20bc3886d6b780ed071131ea390b553d-h_4325c5147a3e40b6f29d52a467415dc5-300-scaled.jpg"
-        width: 2560
-        height: 1715
-        isCached: true
 
-secured: "tUoUJGlQIjjXx0+A+UVDH+VO706UVM950AvFwEcLSpUX43NNGlPUEqiN/j2+FhY/Z3o4CP7+0f5gVm7bVLT6GC4j4l5eZosh8WiNu5i/U1QG4kzucgYCkQVvHpAM4JPDH+5lsciOsKdGkSCjCPQDQd9FFaRiwC0LcNLfIS5/6/XCRUAhWrHK84aPjwP4AMwQfmB8sLK8a6pnvtT9Qb5Rve+K+D3eBGB31zs71ieOPQ8CxPlUi3RaymhZXrcljbZE2+3LLNTkSjLHZiK1YzxLDwQLzo4GIa3xFxqditSPAt/lGN/UBgrmgcLkg4gdF1ii4GAVbkQM4GntISVgU2bPmbjEfzfTOrXs+tVsKsC/9VM=;tvL6ZlKc/Y3FGEXAmUDgHA=="
+secured: "1X4CBWN/IpmgFPpPxvcjYcYpMH4PkJsKpaDQJVujyoXwF6sgcmCaQp9+6Y+3R584vXS039wKfy2DTe7tKI8g0qR0/UAxe1OGaWDP9gBW40II33I6iIr1AUB6dkwPJ/LAyoeRazzeJYAuWlgEbSHfsFIbQB2KtCskfcPzQTmHSAorxhvzBz48bcqY4OmdkexSir4oIbQK9rvhmjfj4RY1k1mStgeee9Y+WUv16K4GHPzfhWClQOhazDSvXrtTKW6p6tJBgLJWJVx4xhdgm5mgM5Pg41V6g4vw8E9s9+uwEwPVjf9Ccblio2hXXQKFZqqrBA1ZcW6iNtAlmxVmyMsSPkCUBAIBJQNLtjTpQUXOcm8vjpL6T+1YlfByB3GgycsNQxe42E+1u3mBUPBrW+r7mluab0CxCwR0g8vPvGde5nbtBx6aO9vwA0jUjBzQY/mEYbOBxwADo6ne42UpJWzNz+oFdEE2EZ86D8YkMLhedGQ41FwnpSs7hgQ2mdl9fgpREj/2Et04FnFnLqcfm65Hvg==;UvDWJRElv5JGBow7Nq5PEQ=="
 ---
 

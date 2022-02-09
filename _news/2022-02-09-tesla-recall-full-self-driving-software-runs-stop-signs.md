@@ -2,26 +2,26 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-publishedDateTime: 2022-02-08T20:08:00Z
-originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.firstcoastnews.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-09T05:24:00Z
+originalUrl: "https://www.wtsp.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.wtsp.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: First Coast News
-  domain: firstcoastnews.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.firstcoastnews.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+  - url: "https://media.wtsp.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -59,6 +59,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
+    excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
+    publishedDateTime: 2022-02-09T05:53:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
     publishedDateTime: 2022-02-05T07:37:00Z
@@ -74,6 +85,6 @@ related:
         height: 900
         isCached: true
 
-secured: "HPT0JRIHAEezkSTtCFj/3Gi1oc7cms06308IsXJewapE42Nl8ib8s7B7ro5WKU7Lcs1b8aGEwpMmgIKj8JtMTUuRvQlCKShGs9VFhRdqKseYcYZ+UUERHZtOrG5M85fpA1pRcqWSyhQUEws8a+wuca35hlrb9rjF41IAqcxTDGL4Wiyweh3InQk7ybNoiHQ/Wf6T2LDIvee386aSZkEYeR4WMxPsho7AB3zbrljpTueF//Eh9vuS7ZZvXnOYp3boAhViUkB+goB9HEFWjjL5c0Hi62j3WoMA2v85FsdWBnRpl7Fkp8P9X5hsnHU6E+zXCBmJ/H7I5dd4nlcHyDsqbfjYO10YoMUFwjPGApaLOAA=;SVnQc5olRQTK6YRcmiOFOA=="
+secured: "nmwljN4I4NuqLTLoFZmz4j71HHGXwF7w0D/mH4kYN6qsUNgHdasmJH09KHdFtzhPdrMbbN3EynrV3fb4c7wtWO9RYOWfKBBoXvSCs3KkzNxounc+mU7t1BiF3ntwK/TINIBTK5BK6JYA/s1WulyWhswgfraVNn1mU8hxc+xyHckn8z/pohuDfWl2gQGOVn1DzbMmkGQT6D4+A3I1BYk8zFBBAZOdzsgbumF6uTc9cYYHPPSu94UdFLLACLC69VUEUf1klnDVG7ZWYGJLqsbHXHfhn5vDvca8i9OXm+UNlj1DDM1WQoXwE6WMiBW5eicM0wi61iDkUPp9gf2fhmOmU7QxFNzLmxWJY6Y55P/ZxjU=;n+xRaT3knaDUwcHN+SdGDw=="
 ---
 

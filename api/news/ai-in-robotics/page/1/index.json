@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-09-dubai-diaries-when-a-robot-delivers-pizza.md",
+      "title": "Dubai Diaries: When a robot delivers pizza",
+      "excerpt": "I knew it was my seven-cheese pizza — so I fished out a Dh5 bill from my wallet for the rider who came all the way to our desert village just to bring me my lunch. But when I opened the door, the pizza box was already at our doorstep and no one was there — except a robot rolling away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza",
+      "originalUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=a94933f3-afe1-5c12-9766-2b1117e73eb2&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza?amp=1",
+      "publishedDateTime": "2022-02-08T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop.md",
       "title": "Six Flags Magic Mountain hires robot security guard who looks nothing like RoboCop",
       "excerpt": "The new Roameo security robot will start patrolling Magic Mountain in the next week, according to Six Flags officials.",
@@ -1301,49 +1344,6 @@
       "provider": {
         "name": "The National Law Review",
         "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-western-new-england-university-debuts-oscar-sort-intuitive-trash-robot.md",
-      "title": "Western New England University Debuts Oscar Sort Intuitive Trash Robot",
-      "excerpt": "Western New England University (WNE) is the first U.S. institution of higher education to feature Oscar Sort, an AI-driven, intuitive, trash-sorting robot. This intuitive robot educates the campus community at the point of recycling and disposal and helps them to better understand how waste is measured,",
-      "sourceUrl": null,
-      "webUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
-      "originalUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://businesswest.com/wp-content/gallery/women-of-impact-luncheon-2019/WOI-BW-DANIFINECOMMERCIAL-2019-SHERATON-SPRINGFIELD-MA-175.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T04:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessWest",
-        "domain": "businesswest.com",
         "images": null,
         "publishers": null,
         "authors": null

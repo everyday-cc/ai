@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 522
         isCached: true
-  - title: "How You Can Improve Chances of AI Project Success"
-    excerpt: "In this special guest feature, AJ Sunder, CIO at RFPIO, discusses two thought-providing topics: 7 reasons why AI initiatives fail, coupled with 7 secrets to executing successful AI projects. AI projects continue to fail at a prolific rate."
-    publishedDateTime: 2022-02-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/02/04/how-you-can-improve-chances-of-ai-project-success/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
 
 secured: "HiqAb4xaaGdku1GGXlNjkU9tsv2pOdtlQRml3u7xaIMLn1rUMoDqmV2CFYYAwESh2J3J6swhoCqWx2RsRFNnog997CZ1Ka6QYxVVb7nQFLf+DmCov1RMSkpQYbtvkjBH6Vl98TolmDHWC5YieUpi1ujgVVfBtF7zZhYQLPvkw4LT0s4sVMzADjvU5MEMTuUuOHB5N7rrXsN5vNDJkZH48TpfZ3ZkbR6aTmHLPHDVD/kl7wQOjOszYrhB6s/+Ui1HJAgzuhxoQ47CzB2UkqeKXyMQxnajauHgYxdVJGnM32PNdvrdcDL0nn6tclS2bwMP1V4adxGxV12HDyKoP8scFokdbjx64y4EIqeMnscOJ2VTKkwuTQ95rlnuy09QuUgTNuJjBhZBj+K6HxT/WCk3Us7bOcoBeqlTzta9i62rdHR4EHOROCOFTeRFOeYkCOYJyiirKSdQGanbE8Z3qysll71Mht5OgQZ9zomERglcZdLsqzGBNyv4+TDcz1e3qwTRmw5CCRGyGmEA1ggV+5syFQ==;ghFGOTHpkSOyOzqkbh1Djw=="
 ---

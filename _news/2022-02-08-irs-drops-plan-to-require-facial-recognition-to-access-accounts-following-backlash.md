@@ -546,6 +546,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IRS says it will scrap facial-recognition ID.me plan following backlash"
+    excerpt: "The IRS on Monday said it will stop using face-recognition technology to authenticate taxpayers when they create online accounts. The decision comes amid a backlash from privacy advocates, taxpayers and lawmakers against the image-based system from ..."
+    publishedDateTime: 2022-02-08T19:27:00Z
+    webUrl: "https://www.cbsnews.com/news/irs-id-me-facial-recognition-tax-returns-backlash/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/irs-id-me-facial-recognition-tax-returns-backlash/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/irs-id-me-facial-recognition-tax-returns-backlash/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/11/3d791689-4fb9-4421-a446-dae871b4af40/thumbnail/1200x630/96422b27f7337af35e31743540440084/cbsn-fusion-irs-warns-of-frustrating-tax-filing-season-ahead-thumbnail-870962-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP lawmakers move to stop IRS facial recognition technology"
     excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
     publishedDateTime: 2022-02-04T21:06:00Z
@@ -741,20 +757,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/02/08/9b/18/c0/f5/bb/72/8a/34/00P4y000011p6OsEAI.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-04T14:44:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361604/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 25
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/04/020322faceidGE/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Opinion: Government agencies are tapping a facial recognition company to prove you're you. Watch out."
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."

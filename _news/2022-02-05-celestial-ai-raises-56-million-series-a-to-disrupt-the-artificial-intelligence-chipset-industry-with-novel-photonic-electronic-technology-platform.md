@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Celestial AI lands $56M to develop light-based AI accelerator chips"
-    excerpt: "... launched in 2019 to develop a hardware and software platform for AI chipsets that use light to move data across chips. Celestial today announced that it raised $56 million in funding at a $ ..."
-    publishedDateTime: 2022-02-04T14:15:00Z
-    webUrl: "https://venturebeat.com/2022/02/04/celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips/"
-    ampWebUrl: "https://venturebeat.com/2022/02/04/celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 204
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all"
-        width: 1200
-        height: 595
-        isCached: true
   - title: "Celestial AI raises $56M for its hybrid photonic-electronic AI chip"
     excerpt: "Celestial AI Inc., a startup developing photonics technology for artificial intelligence applications, has raised $56 million in funding to support its engineering efforts. Sunnyvale, California ..."
     publishedDateTime: 2022-02-04T19:17:00Z

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Facebook parent Meta says its new AI supercomputer will be world's fastest"
-excerpt: "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid ..."
-publishedDateTime: 2022-01-24T20:19:00Z
-originalUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest"
-webUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest"
-ampWebUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp"
+excerpt: "Jan 24 (Reuters) - Facebook parent Meta Platforms Inc (FB.O) said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the ..."
+publishedDateTime: 2022-01-24T18:28:00Z
+originalUrl: "https://www.reuters.com/technology/meta-introduces-fastest-ai-supercomputer-2022-01-24/"
+webUrl: "https://www.reuters.com/technology/meta-introduces-fastest-ai-supercomputer-2022-01-24/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
-secured: "sPKb3vM4RoKLZt36vfA9A8BEMO6JT4MwrkGL/pG9ek2k+TmOxEGHioRIzwm0R6WCTFANN5rsmhCBQdnSWrYeLLDeXVZQJuybdMwltcP4OgJjYklS4y/Ra5JAlRhccwG7o8cSA1YoF7TmgYJQasr76xIA/qQxjwIdUeXW3gZiNnB+ZQKBQFeSBYRF089/aKb6vDKsPpODm/MQJ9GqA/FGsaqjSBv/efg6jU4NMFMNFnSKWPEWnjqkHn2RW35uFpk8k0keRE3AVkNfEFXdBfMHbkeNw9E63SOh3i/Z7uxxblu+75cpzpnjEuTZDGLM7V71HeaALgX/EwDB9xLZTmUDSNlAAGyP+qD3VDWvE+QpIbY=;crn2zb5rlk1b/VNVCn7UuQ=="
+images:
+  - url: "https://www.reuters.com/resizer/xTQMYST5eYX3kuLJUazqYj5uiTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AKPG4VBNRNWVA3MJ4AX6HWD5M.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "js0tu5tnc6WgqJJZu/kSVG3FPZSq6eK+daoIex2tGZeGwFlpwIZG0Kv4qD6kHmSo7uo24iJvpsspN5ffzsuOBYpNuzmTOQVUirqPOEU7bjo3AwI1y7HZEv2qwhcUWQzUTK/Yc8QFl6+8xusWfUhPnt32et7wgZiftwOHmPESUamACrYJwnKYagB10kW3trWqzzikYLOKrZ9Z+KI8yQ4hUoNWv79TMFie93KSpq2aRzHQvPpkQgqmSGkxNPLQ8XYzabr7JMOp8oTWBRqoN/IrQtgmr5UCtdsQMty9/3P/s7tTpgCMZG1zSv2v25Od6ErLXvnf8xiE8VHHadYFyF0WT7VZi3s/WRUSo8YJi0AvdYg=;909uTlYw5YaEEBoiehv/LA=="
 ---
 

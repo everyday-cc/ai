@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "analyze text and translate between languages, said Tuomas Sandholm, a computer science professor and co-director of the AI center at Carnegie Mellon University. \"We hope RSC will help us build ..."
-publishedDateTime: 2022-01-25T09:30:00Z
-originalUrl: "https://mainichi.jp/english/articles/20220125/p2g/00m/0bu/043000c"
-webUrl: "https://mainichi.jp/english/articles/20220125/p2g/00m/0bu/043000c"
+excerpt: "Facebook's parent company Meta says it has ... The computer, which is already up and running but is still being built, is called AI Research SuperCluster. Meta says it will help its AI researchers ..."
+publishedDateTime: 2022-01-24T21:34:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
 type: article
 
 provider:
-  name: mainichi.jp
-  domain: mainichi.jp
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.mainichi.jp/vol1/2022/01/25/20220125p2g00m0bu042000p/0c10.jpg?1"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "EVwukANyUDxtRE8g+isbYSFK6K+0QKQ7TDYWIrwcxkzsIJc7UZcvguGm+0JKNMgEhmB0da6SnyALhuluVbjnPi4MiT2WhJWsz4f1iq72ORNokBNOkWnzB5cwQlwRTazVWuhW+7p5VcMyMOSmeWn0cgAYTFYs0FliMwG05/BlGJP8e/LiZ7j7oreXiVVabiLw5LdL1eV3DdfW+KjOpj+jx0kAy520gQ1Qg9gm+RfYJV87niH8+4fa37a2rbB//xUWd2fBpYlPlMVqRrJ9GKJgmyVBy5rQ2dUlQs7bZTJiufDtZA+qIWeuWDBjRJonfLq6nBoMhKudoUhM6KfdXoDJF0ngNw23Qkk5mNtk29PoLvo=;J/mysziEIv+oVrTsByZPlQ=="
+secured: "LRWdAGoazLZCzMUoxGXRXHJeq3Xd3j+KXhrhA6/O/aF63lTvfTadC273fkX8ckeMqfEy0kiO0VeEGMcqlCSL/k54Lzlb3VJEWTF2+kbj6CZtXYCsm31s+rZjVj193Z6wQdeMpzFSynWRFAX0LBd5IluZVrSFsnAP8XZCUazJYZlAnodX/Bv6HcPT25wXp+BI2XYzdtCK1dfCldpl9N+5w7hHAD9s8iNIJp5vlR26o8UbIysSsZEBagigTxWclhgesZLNMtJjAjRoK8Yvys54R+BBcZ+Xmw6snmq3LTGAz3xIYQYrtNECRvBR5vTZFTLE73YjRI0+NtWFUJtrQ9lVLWtdVSv86PpZm3W6tDVL3s4=;FpYtXDRChDTOgjHf8Y9eaQ=="
 ---
 

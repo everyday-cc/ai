@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-imagination-and-andes-jointly-validate-gpu-with-risc-v-cpu-ip.md",
+      "title": "Imagination and Andes jointly validate GPU with RISC-V CPU IP",
+      "excerpt": "Imagination Technologies and Andes Technology announces the successful testing and validation of the IMG B-Series Graphics Processing Units (GPU) with the RISC-V compliant Andes AX45, a 64-bit high performance-efficient and configurable superscalar Central Processing Unit (CPU).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-imagination-andes-jointly-validate-gpu-with-risc-v-/2022/01/18/9528055.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-imagination-andes-jointly-validate-gpu-with-risc-v-/2022/01/18/9528055.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-brainchip-launches-neuromorphic-process-for-ai-at-the-edge.md",
       "title": "BrainChip launches neuromorphic process for AI at the edge",
       "excerpt": "BrainChip claims to be the first commercial producer of neuromorphic AI chips, which could deliver benefits in ultra-low power.",
@@ -1352,49 +1386,6 @@
       "provider": {
         "name": "Sharecast",
         "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-car-makers-lock-in-long-term-deals-with-chip-giants-for-future-autonomous-vehicles.md",
-      "title": "Car makers lock in long-term deals with chip giants for future autonomous vehicles",
-      "excerpt": "The battle between chip giants in the autonomous vehicle space isn't a two-horse race like it was for desktop PCs. Car makers have a somewhat wider choice of silicon vendors. At CES, Intel, Qualcomm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "originalUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/12/07/car_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "publishedDateTime": "2022-01-06T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christi
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/78/1786f1da-6bc0-5005-879b-c12394011d55/61fcb2ff9b2be.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ai Weiwei helped design Beijing’s Olympic stadium. But he regrets how it’s being used today"
-    excerpt: "As the Beijing Winter Olympics gets underway, artist Ai Weiwei is once again criticizing ... Olympic Charter and the organization’s code of ethics. “Given the diverse participation in the ..."
-    publishedDateTime: 2022-02-04T14:00:00Z
-    webUrl: "https://kesq.com/entertainment/cnn-style/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-2/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 29
-    images:
-      - url: "https://kesq.b-cdn.net/2022/02/hypatia-h_20bc3886d6b780ed071131ea390b553d-h_4325c5147a3e40b6f29d52a467415dc5-300-scaled.jpg"
-        width: 2560
-        height: 1715
         isCached: true
 
 secured: "YuJKEV556Tpcie35yIR5yvGLIh5gr4nTqOe/4PZR7i/fGOPEf6B0mQQixD6vultzEOihXBNnmXkAqJpWwaNEo1+bStMX0zoKL7q73qNyhsYAWBKTpVSF6nloRphlktRsaqA5fnVnBMHo8tUYuUQj9mxgrHC7aUbFouWJDtnLEO5EPbSoWqizg5kr/zwPtmrXFD1XttZozYKNdRvvowtSPOSGJuiTl5Qr/ctVCYupjq06xDnToansve4q/YV8W1MkMXzPOa9S10FMCvgnnWFalFzAz1dwQi5bSb4Gqc4Gu07B5gezNesNroA8LnxMPwrtyZ5Qa4GeZjNR9Wbo7mt7hyd961IgwzDYvxCvAkR0i+8=;HU2dc0bk74flK4icgUX4nA=="

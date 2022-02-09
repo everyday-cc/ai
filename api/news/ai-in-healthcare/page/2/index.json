@@ -2,41 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-01-18-pinc-aitm-launches-insights-an-enhanced-technology-offering-for-customized-on-demand-healthcare-analytics.md",
-      "title": "PINC AI(TM) Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics",
-      "excerpt": "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/18/pinc-ai-tm-launches-insights-an-enhanced-technology-offering-for-customized-on",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/18/pinc-ai-tm-launches-insights-an-enhanced-technology-offering-for-customized-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-microsoft-forms-new-coalition-for-ai-in-healthcare.md",
       "title": "Microsoft forms new coalition for AI in healthcare",
       "excerpt": "Microsoft has created the Artificial Intelligence Industry Innovation Coalition (AI3C) to drive the use of artificial intelligence (AI) in healthcare by providing recommendations, tools and best practices.",
@@ -1334,6 +1299,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-caris-life-sciences-to-present-at-the-40th-annual-jp-morgan-healthcare-conference.md",
+      "title": "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference",
+      "excerpt": "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
+      "originalUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPVI",
+        "domain": "kpvi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

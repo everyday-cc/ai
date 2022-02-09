@@ -57,6 +57,22 @@ related:
         width: 806
         height: 434
         isCached: true
+  - title: "Komprise partners with Microsoft to support Azure File Data Migration program"
+    excerpt: "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. Krishna Subramanian, President and COO of Komprise says, “By working closely with the Microsoft Azure ..."
+    publishedDateTime: 2022-02-09T05:57:00Z
+    webUrl: "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 71
+    images:
+      - url: "https://images.assettype.com/freepressjournal/import/2016/01/handshake.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "PROS expands collaboration with Microsoft to boost adoption of AI-backed digital selling"
     excerpt: "The solution, built on the Azure cloud computing platform, will deliver AI-powered personalized offers within existing Dynamics 365 sales motion, reducing friction so that companies can deliver ..."
     publishedDateTime: 2022-02-08T14:11:00Z
