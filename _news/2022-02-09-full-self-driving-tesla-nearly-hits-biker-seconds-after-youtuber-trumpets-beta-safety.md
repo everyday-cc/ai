@@ -57,6 +57,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
+    excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
+    publishedDateTime: 2022-02-09T22:20:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-cutting-corners-self-driving"
+    ampWebUrl: "https://futurism.com/tesla-cutting-corners-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-cutting-corners-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2022/02/tesla-cutting-corners-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "n/2KpV+I6X7xULUuDz3O9uoi1LdyLiAsW76vBnEO7XAO4wP1q1D0zBjZ4pTGwgcsRIlpuu0r2Y6PPFaI6FAlCx+FBHfq+LTkgna3NBLYkUcxnYcVuAAIC1qZSpsK8biVxEa9Ot0i+c/G2cp2HWgKLbiMck7vTP85FlY811qqJlBhjzWUASHbRv8SNG7fTfIqkiHeZw3RHi783OnU0TFN/I2o+6N+/1UbVxwzHEKfOnq5DxcSKFthkXzqatfjnoi59TjQX+HqpZtgBpZ1ih1jxrVkmTM0XjRcTtjODd5h9UiP74UJZNEZ2hzVGFEQKQpcWWiyKQrH10BWEWQshyk/nOwyv1WE00VQUZ3dUsZfsor3ZghWLiGKfxO7G7W4598/rRjJT73x/lXfh3qYHhOsFTl8NIS0V+SJdqhu2KJiehgmt8cunYnp9ee8tJRH0gwnFeXfcBUduBe0muoUhTyopmafDRWnL/mB7rEyKYoFHBCYwYVt8TnxgQKrZNiznRZwzvyv4kwE9HXvDgS7tRijIg==;z/yBxfIZKeoPxaLaFXBrKw=="
 ---

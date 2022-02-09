@@ -2,6 +2,161 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-27-digitalowl-raises-20m-to-analyze-medical-records-for-insurers.md",
+      "title": "DigitalOwl raises $20M to analyze medical records for insurers",
+      "excerpt": "DigitalOwl, a startup developing an AI-powered system to analyze medical records for insurers, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/health-analytics.jpg?w=1200&strip=all",
+          "width": 1070,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
+      "publishedDateTime": "2022-01-26T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding.md",
+      "title": "SiteAware, which leverages AI and drones to track construction site progress, nabs additional funding",
+      "excerpt": "SiteAware, which is developing a platform that leverages drones and AI to keep tabs on construction sites, has raised $30 in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/04/dump-truck-trash-garbage-construction.jpg?w=1200&strip=all",
+          "width": 1181,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
+      "publishedDateTime": "2022-01-26T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-minios-earns-unicorn-status-for-multicloud-object-storage-apps.md",
+      "title": "MinIO’s earns unicorn status for multicloud object storage apps",
+      "excerpt": "MinIO earned unicorn status based on its multicloud, AWS S3-compatible object storage suite of apps that the companies says reliesversatility and AI separate it from competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/unicorn.jpg?w=1200&strip=all",
+          "width": 1100,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "publishedDateTime": "2022-01-26T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management.md",
       "title": "Vimaan Emerges from Stealth with First of its Kind Computer Vision Platform for Inventory Management",
       "excerpt": "SANTA CLARA, Calif., Jan. 26, 2022 /PRNewswire/ -- Vimaan, a computer vision company for warehouse inventory management, emerged from stealth to announce its leading-edge, field proven solutions ...",
@@ -1032,126 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-baidus-car-making-jv-raises-400-million.md",
-      "title": "Baidu's car-making JV raises $400 million",
-      "excerpt": "Jidu, a joint venture between Chinese technology giant Baidu and Chinese carmaker Geely, said Wednesday that it has raised nearly $400 million from its two parents. The joint venture, established in January 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202201/26/61f0ae6ea310cdd3d8292ce3.jpeg",
-          "width": 711,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-iot-under-fire-defining-ai-metas-new-ai-supercomputer.md",
-      "title": "IoT under fire — Defining AI? — Meta’s new AI supercomputer",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
-      "publishedDateTime": "2022-01-26T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers.md",
-      "title": "Data platform modernization delivering richer insights and powering dynamic digital experiences for TD customers",
-      "excerpt": "including Azure Machine Learning. \"Banking is one of the most data-intense industries in the world. Using Azure as its primary cloud platform across all lines of business including their data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers-850619154.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers-850619154.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

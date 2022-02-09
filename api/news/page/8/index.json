@@ -2,6 +2,152 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-01-cfpb-warnings-of-bias-in-ai-could-spook-lenders.md",
+      "title": "CFPB warnings of bias in AI could spook lenders",
+      "excerpt": "Rohit Chopra, the director of the Consumer Financial Protection Bureau, has cautioned banks, credit unions and fintechs about fair-lending violations that may stem from reliance on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/creditunions/news/cfpb-warnings-of-bias-in-ai-could-spook-lenders",
+      "originalUrl": "https://www.americanbanker.com/creditunions/news/cfpb-warnings-of-bias-in-ai-could-spook-lenders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/ec56e5a/2147483647/strip/true/crop/3936x2066+0+279/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F7c%2Fb0%2Fdd18a1c44935b3770f8d2716c7ef%2F380308684.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-31T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-power-bi-and-azure-as-the-future-of-enterprise-analytics.md",
+      "title": "Power BI and Azure as the future of enterprise analytics",
+      "excerpt": "The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you’re trying to predict and what data you have available, and iterates through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
+      "originalUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/06/power-bi-reports.jpg?x75348",
+          "width": 770,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
+      "publishedDateTime": "2022-01-31T21:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-using-cosmic-radiation-to-make-art-with-ai-and-blockchain.md",
+      "title": "Using Cosmic Radiation To Make Art With AI And Blockchain",
+      "excerpt": "AI-generated image as part of art work initative Celestium on the International Space Station. Celestium, developed by Artificial Mind and the artist Cecilie Waagner Falkenstrøm, is a hybrid AI-blockchain algorithm that uses data from cosmic radiation it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f884edf630cd90e840ec2b/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1017,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
+      "publishedDateTime": "2022-01-31T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-how-a-decades-old-database-became-a-hugely-profitable-dossier-on-the-health-of-270-million-americans.md",
       "title": "How a decades-old database became a hugely profitable dossier on the health of 270 million Americans",
       "excerpt": "The deal was based almost entirely on the potential to combine its sprawling databases with the power of IBM’s Watson artificial intelligence engine to “change the face of health care.”",
@@ -1006,153 +1152,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-chinese-scientists-create-ai-nanny-to-look-after-babies-in-artificial-womb.md",
-      "title": "Chinese scientists create AI nanny to look after babies in artificial womb",
-      "excerpt": "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/30/3a67679c-ae63-438d-9823-d9cd26b35347_133e8188.jpg?itok=V-lHp7fa&v=1643542137",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
-      "publishedDateTime": "2022-01-30T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-5-ways-aws-robomaker-is-transforming-the-robot-programming-game.md",
-      "title": "5 ways AWS RoboMaker is transforming the robot programming game",
-      "excerpt": "5: Giving educators a machine learning tool Amazon revealed a new hardware product at AWS re:Invent: DeepRacer. It’s a 1:18 scale race car that uses reinforcement learning to teach it to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
-      "originalUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/11/amazon-aws-deepracer.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
-      "publishedDateTime": "2022-01-30T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-china-sets-the-pace-in-adoption-of-ai-in-healthcare-technology.md",
-      "title": "China sets the pace in adoption of AI in healthcare technology",
-      "excerpt": "It’s like I am back in China with her. The technology is so convenient,” says Li. China has been quick to deploy a range of new technologies to relieve the burden on hospitals, care systems and families caring for the sick and elderly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59",
-      "originalUrl": "https://www.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd231b63e-2186-47c8-9939-6645634a32e5.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59",
-      "publishedDateTime": "2022-01-30T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

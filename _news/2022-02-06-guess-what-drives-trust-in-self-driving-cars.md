@@ -69,20 +69,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Companies are racing to make self-driving cars. But why?"
-    excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
-    publishedDateTime: 2022-02-05T06:42:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2022/02/04/self-driving-cars-why/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLYRGECUJVDKHKA4JM4QHQHQDY.jpg&w=1440"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "D4+TV3Ow5BsG7oeBHnPciIKewD7w4t3L0tomwYKqqL8zIf+U7u8bL4TWNQFTDXkx6WiM4W0N3fL4cwPY16OC5DChn/lnzVYhSvegaQjIFIqq/IAqP7RW3ZBr7KIud4FxYLn2VjaLVvTMGhIBvXQyu/TMP0PnHKW73m7706uXp7+frz6e75nLG6g7Piv7Pj+XYAc4gpFfe9pI3Cviz/hCkn3LXulJCCAfpXmnDlD+4cvixR9PZEddN0KO0ubLF0Y/lb5yggWMmZuvYNs9iCHvyRYJP+GBmxiExIAbycV8gKn3Fw2Qn5qpG2d4A/MxwO8bZ0xxZ3e3aII6AbfPxyvwRk/e3X3sobzHlRBtKC6C5x+3rAFjDocjeAZwJAJgUOtnJJuu3rXHFQnPFqSx2fSFe5JoOZACmUVAsWuG1cdmWYjlJNKg3r7UmKVxn6jRMIN9MA/76kVJko+/PTPoLrWgGLRfm4YfLdUZFfPIHYcVNNTrtJwCvJ/jP5RFD3qEXGObbTEmmcofK6XEuc0KyQbSSQ==;3BeunkISpXHt/mP3bW4Q6A=="
 ---

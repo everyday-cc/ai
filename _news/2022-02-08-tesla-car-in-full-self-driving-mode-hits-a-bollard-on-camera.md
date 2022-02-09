@@ -43,6 +43,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
+    excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
+    publishedDateTime: 2022-02-09T22:20:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-cutting-corners-self-driving"
+    ampWebUrl: "https://futurism.com/tesla-cutting-corners-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-cutting-corners-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2022/02/tesla-cutting-corners-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "'Full Self-Driving' Tesla Nearly Hits Biker Seconds After YouTuber Trumpets Beta Safety"
     excerpt: "It's no secret that fans of Tesla always stand at the ready to defend the company and its technology, regardless of the situation. A particularly painful video from Tesla pundits who almost hit a cyclist shows just how dangerous this attitude can be,"
     publishedDateTime: 2022-02-09T11:30:00Z

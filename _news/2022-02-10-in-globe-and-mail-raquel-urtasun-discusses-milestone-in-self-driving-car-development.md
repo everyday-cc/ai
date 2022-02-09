@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Raquel Urtasun’s tech company develops self-driving vehicle simulator"
-    excerpt: "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away"
-    publishedDateTime: 2022-02-09T11:40:00Z
-    webUrl: "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html"
+    excerpt: "One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away from the road. Raquel Urtasun’s Toronto-based company Waabi revealed Wednesday that it has built a high-fidelity,"
+    publishedDateTime: 2022-02-09T11:15:00Z
+    webUrl: "https://www.insauga.com/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/"
     type: article
     provider:
-      name: Waterloo Region Record
-      domain: therecord.com
+      name: Mississauga's Top 5 Fish
+      domain: insauga.com
     quality: 24
     images:
-      - url: "https://images.thestar.com/8Qq2zwQDs_vk-ucYdpGjkdWp9xI=/1280x1024/smart/filters:cb(1644404719950)/https://www.therecord.com/content/dam/thestar/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg"
+      - url: "https://www.insauga.com/wp-content/uploads/2022/02/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg"
         width: 1280
-        height: 1024
+        height: 919
         isCached: true
   - title: "Raquel Urtasun’s Waabi unveils “revolutionary” autonomous vehicle testing simulator"
     excerpt: "Artificial intelligence and self-driving car expert Raquel Urtasun says the next generation of self-driving technology is here."
@@ -54,6 +54,6 @@ related:
         height: 700
         isCached: true
 
-secured: "IFR+87JsUUC2546CODNJfZhm8kZMFjUiJjwuzgTJxijn7iHNvCMBToI3Ag4GEGOdfm61qF40mq44F4YmoW0ZMkAqh3lZexisk26LU4LRu6mz+g+CP5byjM2jjmkBQMe7UfmECDuLLBbc3GVhpxUYnweThd4SM+nB4zoFPF/d6VtekB2lFe1IWFKrawb6PdvyUkRlRPuv6ncqeXAaR+kdyf7Qae97VSHeOBahS30mZtRpr9yQEJgkIlzGg0q98Ixes2hOoxUDkCfBC3GXaansBw1Fejlb+Gpu+t07c9zzUkgTnzV7jqOpbfRujc7Bg2adUojzBi5yZ+CwKmRF7PkxpVycor3+DgrB8Gltn3HxLfk=;cBeApg2sD5Kw5S4oRgx6Lw=="
+secured: "XN/n+Kc5A63JTmee6LqKxZawo8X8pBELg2xvsOwCaAmFa97L4H2bnxaw8a4tsJqZizMru5NeC6ZZvMFJDNIIG9H012eidX2RMlxfBZDiEeKj6LuY0Wxy7kwMQ8TjfnDwuCtdWlVoh16Ud/LiBICbGzZOzUpRt59t1P0EDeCvPqHilsyQe2N4QSghIU6iR/vQULgBCZXxSMRYlAnoSMXVFyDPjaiXmHryXwAUbTPawBZYij4vG5xvuvfZn06DMGYu/zhpEva61QDu7uIWoN6NtokFozLNH6H92ubJgImWmnPIZJUiVbFPVrCBaRiYGi9GUzQozj96+CKPnUNxsDRuzYrErmNjTyoU3zckviZth8a0eKjGILk3gCulMjOoofFcE+EaiChnnL/6TNfHBv8JJoGPyZIdyKr9dW4DNn6/O8tUPcCBiYzf3gBUnUep1y0WGYxzHIthY7mJlxQGJbEiNFHobAnV6fZqj7jRZ4It8r8zvIZML2/Vxy7Vou7C8Bj4xdirJel/7wpOE+NK89RATA==;raeWKl2GILQAfe5GxBcurw=="
 ---
 

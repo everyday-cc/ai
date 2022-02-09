@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-05-heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence.md",
+      "title": "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence",
+      "excerpt": "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
+      "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b1d7deef3a26e9e75536b73e1a5d4822.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
+      "publishedDateTime": "2022-02-04T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-can-you-trust-ai-to-protect-ai.md",
+      "title": "Can you trust AI to protect AI?",
+      "excerpt": "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
+      "originalUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
+      "publishedDateTime": "2022-02-04T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model.md",
+      "title": "AI Weekly: DeepMind’s AlphaCode, automatic age verification, and a new open language model",
+      "excerpt": "Register here. This week in AI, DeepMind detailed a new code-generating system, AlphaCode, that it claims is competitive with top human programmers. Supermarket chains in the U.K. announced that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/",
+      "originalUrl": "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/",
+      "publishedDateTime": "2022-02-04T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-celestial-ai-raises-56m-for-its-hybrid-photonic-electronic-ai-chip.md",
       "title": "Celestial AI raises $56M for its hybrid photonic-electronic AI chip",
       "excerpt": "Celestial AI Inc., a startup developing photonics technology for artificial intelligence applications, has raised $56 million in funding to support its engineering efforts. Sunnyvale, California ...",
@@ -1030,153 +1186,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times.md",
-      "title": "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times",
-      "excerpt": "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights.",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
-      "originalUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
-      "publishedDateTime": "2022-02-03T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
-      "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
-      "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y26,safe&fit=crop",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "publishedDateTime": "2022-02-03T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-google-has-lost-2-ethical-ai-researchers-to-a-research-institute-founded-by-ousted-colleague-timnit-gebru.md",
-      "title": "Google has lost 2 ethical AI researchers to a research institute founded by ousted colleague Timnit Gebru",
-      "excerpt": "Alex Hanna and Dylan Baker will join Timnit Gebru, who left Google at the end of 2020. Gebru launched the DAIR Institute to scrutinize major tech firms' use of AI. Two more members of Google's ethical AI team are leaving the company to join a nonprofit led ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dair-institute.org/press-release",
-      "originalUrl": "https://www.businessinsider.com/two-google-researchers-quit-to-join-timnit-gebru-ethical-ai-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
-          "width": 1440,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

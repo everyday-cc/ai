@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Robot Sensors Market revenue to cross USD 5 Bn by 2028: Global Market Insights Inc.'"
-excerpt: "The robot sensors market size is anticipated to record a valuation of USD 5 billion by 2028, according to the most recent study by Global Market Insights Inc. Market growth is credited to the rising popularity of small robotic toys or bots for in-house entertainment."
-publishedDateTime: 2022-02-09T10:52:00Z
-originalUrl: "https://menafn.com/1103663605/Robot-Sensors-Market-revenue-to-cross-USD-5-Bn-by-2028-Global-Market-Insights-Inc"
-webUrl: "https://menafn.com/1103663605/Robot-Sensors-Market-revenue-to-cross-USD-5-Bn-by-2028-Global-Market-Insights-Inc"
+title: "Robot Sensors Market revenue to cross USD 5 Bn by 2028: Global Market Insights Inc."
+excerpt: "Growing advancements in Artificial Intelligence (AI) and robotic sensor technology allow flexible thoughts and motion in robots. These advancements also include the performance of a variety of entertainment tasks, such as playing music, watching TV shows ..."
+publishedDateTime: 2022-02-09T08:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robot-sensors-market-revenue-to-cross-usd-5-bn-by-2028-global-market-insights-inc/article_8f49d272-5cd1-58d4-a7cc-8d4c1014ba31.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robot-sensors-market-revenue-to-cross-usd-5-bn-by-2028-global-market-insights-inc/article_8f49d272-5cd1-58d4-a7cc-8d4c1014ba31.html"
 type: article
-quality: 32
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-02/09/PN_c1db5445-b_Image_In_Body.jpg"
-    width: 400
-    height: 210
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/b0/8b053879-52e3-5eda-8af9-faa6c5b19596/62038a80d0245.image.jpg?crop=1200%2C630%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "536eWMZILQr2L+U2OnqzDjL1fVoFGyqmBEk0dWW3DxBNrGgejOrux4yyz5i7ZimRWfb3uW21wLvnDoG6NHucyggRhEXxafs/8U7MQYkikJw6xT0OEtgD4CzUXiON4kGXZT7rlJJjLzsZCzDaxkTrspx3NabW1Nz+DpROts4p21pqSS2jIUj8a/eERvYXPthLljKP5clfSQ39ibb149uPJJsV6nPBA6M6cebikS9nq5PSzwT6MQjE9B+Swdv6IBC+RfErYo/ppjeke0eyOnoPKzovbaoQ4cdBvn+/eOTaxG+TnKOKTOLkxFHoPAxjAntAiGEkNPRg1KzLRS2PgnODBK2v3pt2OXBkFH6/nlynu5A=;EG+XJAnIu8TRcbvKo1eYUA=="
+secured: "+iDU8tyuc0Pso53lfujZMfi/8kSAaBN1IwtqYZRiwdCpUIHOr35ABLax/QVS2mN8puhRlwuJnVajSy7VJtmAUhddtPX7xHl0TG6vT5oUlsCN4pVF6XI9INcbH1TfOOX517gZvHcw8nej9IguvODGybqKWOwN9/8W7Vz6w0sOrfPottBbOSp7Q65ixPCYYiLxQtlSWYAQW2lj263I+xgw6gGIzGUpjcqot1WF9WUBH+cvncM3LmMnqFuDicvAofgJ4UeTZ3VhX2JudN9F5tyAkBZTxh1qyh6cyWsZuftM415ahh7yotI/y9BMrMyjhiMzjjQHRUkHTlMkntTemF2AYBfM2ZC2cXbnbP9RspLwRH8=;6Q+8Bj92uwYQbNFthIR1YQ=="
 ---
 

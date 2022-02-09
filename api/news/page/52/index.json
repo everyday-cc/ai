@@ -2,6 +2,136 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-12-23-cfte-with-its-mission-of-education-at-scale-in-fintech-with-2021-a-year-of-limitless-possibilities.md",
+      "title": "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities",
+      "excerpt": "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFLSa4vMp8XqA/article-cover_image-shrink_720_1280/0/1640193398856?e=1646870400&v=beta&t=26PAPjp8ikt6PHh00U_mkbFzM5gKDmJeKMyeEeSlhs4",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-4-internet-of-medical-things-iomt-stocks-to-buy-for-2022.md",
+      "title": "4 Internet of Medical Things (IoMT) Stocks to Buy for 2022",
+      "excerpt": "The Internet of Medical Things (IoMT) is swiftly gaining pace as healthcare companies are looking for ways to innovate and keep up with technology to help patients and physicians better monitor and track diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022",
+      "originalUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022?amp",
+      "publishedDateTime": "2021-12-23T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
+      "title": "In Africa, rescuing the languages that Western tech ignores",
+      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
+      "originalUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-pope-demands-humility-in-new-zinger-filled-christmas-speech.md",
       "title": "Pope demands humility in new zinger-filled Christmas speech",
       "excerpt": "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission.",
@@ -944,118 +1074,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-deadwood-sd.md",
-      "title": "Computer Vision Scientist Salary in Deadwood, SD",
-      "excerpt": "How much does a Computer Vision Scientist make in Deadwood, SD? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
-      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheLadders.com",
-        "domain": "theladders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
-      "title": "Computer Vision Scientist Salary in Rockville, UT",
-      "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
-      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheLadders.com",
-        "domain": "theladders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft.md",
-      "title": "AI in Social Media Market by Product, Applications, Geographic and Key Players: Google, Facebook, Microsoft",
-      "excerpt": "Instagram (owned by Facebook) uses AI to identify visuals. The AI in Social Media Market research report provides a thorough and comprehensive analysis of the global Industry. It contains ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-in-Social-Media.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI",
         "Microsoft AI"
       ]

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-10-the-best-speech-to-text-software-for-2022.md",
+      "title": "The best speech-to-text software for 2022",
+      "excerpt": "... is a dedicated mobile speech-to-text app that delivers a high degree of accuracy thanks to its industry-leading speech recognition software that can adapt to your own speech patterns. In other words, Dragon Anywhere can actually learn how you speak ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/",
+      "originalUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mansitatdeskathomeofficeroomholdingsmart.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/business/best-speech-to-text-software-2022/?amp",
+      "publishedDateTime": "2022-02-09T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition.md",
       "title": "Extract entities from insurance documents using Amazon Comprehend named entity recognition",
       "excerpt": "Intelligent document processing (IDP) is a common use case for customers on AWS. You can utilize&nbsp;Amazon Comprehend&nbsp;and&nbsp;Amazon Textract&nbsp;for a variety of use cases ranging from document extraction, data classification, and entity extraction. One specific industry that uses IDP is insurance.",
@@ -1350,51 +1402,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
-      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
-      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

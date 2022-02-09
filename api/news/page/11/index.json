@@ -2,6 +2,156 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-28-tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-in-2022.md",
+      "title": "Tesla News: Automaker Prioritizes New Humanoid Robot Over Vehicle Models In 2022",
+      "excerpt": "Tesla is prioritizing the development of a humanoid robot over its vehicles in 2022 and it will be designed to perform dangerous, repetitive, or physical tasks only humans can complete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
+      "originalUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dc.newsweek.com/en/full/2043470/how-did-elon-musk-become-times-person-year.jpg",
+          "width": 2500,
+          "height": 1720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
+      "publishedDateTime": "2022-01-27T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
+      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
+      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/662546/a-person-working-on-a-digital-dashboard-analyzing-data.jpg",
+          "width": 5760,
+          "height": 3240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-will-teslas-dojo-supercomputer-disrupt-ai-in-2022.md",
+      "title": "Will Tesla's Dojo Supercomputer Disrupt AI in 2022?",
+      "excerpt": "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 te",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/663092/gettyimages-1294874384.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-2021-growth-opportunities-in-artificial-intelligence-supercomputers-and-quantum-computing-report-researchandmarketscom.md",
       "title": "2021 Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing Report - ResearchAndMarkets.com",
       "excerpt": "The \"Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in Machine Learning,",
@@ -548,7 +698,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1014,161 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-digitalowl-raises-20m-to-analyze-medical-records-for-insurers.md",
-      "title": "DigitalOwl raises $20M to analyze medical records for insurers",
-      "excerpt": "DigitalOwl, a startup developing an AI-powered system to analyze medical records for insurers, has raised $20 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/health-analytics.jpg?w=1200&strip=all",
-          "width": 1070,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
-      "publishedDateTime": "2022-01-26T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding.md",
-      "title": "SiteAware, which leverages AI and drones to track construction site progress, nabs additional funding",
-      "excerpt": "SiteAware, which is developing a platform that leverages drones and AI to keep tabs on construction sites, has raised $30 in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/04/dump-truck-trash-garbage-construction.jpg?w=1200&strip=all",
-          "width": 1181,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
-      "publishedDateTime": "2022-01-26T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-minios-earns-unicorn-status-for-multicloud-object-storage-apps.md",
-      "title": "MinIO’s earns unicorn status for multicloud object storage apps",
-      "excerpt": "MinIO earned unicorn status based on its multicloud, AWS S3-compatible object storage suite of apps that the companies says reliesversatility and AI separate it from competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/unicorn.jpg?w=1200&strip=all",
-          "width": 1100,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
-      "publishedDateTime": "2022-01-26T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

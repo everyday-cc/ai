@@ -2,6 +2,153 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-01-24-migrate-from-estimator-to-keras-apis.md",
+      "title": "Migrate from Estimator to Keras APIs",
+      "excerpt": "(For migrating model/checkpoint saving workflows to TensorFlow 2, check out the SavedModel and Checkpoint migration guides.) This example shows how to perform training and evaluation with tf.estimator.Estimator in TensorFlow 1. Start by defining a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/migrating_estimator",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/migrating_estimator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
+      "title": "How AI, machine learning are being increasingly used to drive social good",
+      "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/23/full/1642956258-155.jpg?im=Resize,width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "publishedDateTime": "2022-01-23T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities.md",
+      "title": "Australian Space Agency believes existing robotics can be used for terrestrial activities",
+      "excerpt": "Robotics used in mining, for instance, could provide sustainable solutions for space exploration, the agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "originalUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/dc3b79f93d7c9d39148f428678cf93140ee41f9e/2022/01/23/fce9aace-98b8-42a2-8b9a-ec1c7daf4607/robotic-roadmap.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "publishedDateTime": "2022-01-23T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-bigtech-in-financial-services.md",
       "title": "BigTech in Financial Services",
       "excerpt": "BigTechs are applying new approaches to existing financial services products and services such as underwriting using big data and are also applying machine learning for their key business decisions, such as pricing and risk management across multiple ...",
@@ -1044,153 +1191,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-everything-connected-18-orchestrating-intelligence.md",
-      "title": "Everything Connected 18 - Orchestrating Intelligence",
-      "excerpt": "Douglas Adams in the Hitchhiker's Guide to the Galaxy states that the answer to life, the universe and everything is 42, but what really is the question? We talk about Big Data and all the analytics that it entails to try to intelligently solve problems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
-      "originalUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGzx4KA1WRijA/article-cover_image-shrink_720_1280/0/1642784572532?e=1649289600&v=beta&t=I7qMHowAGeh6fPtPB4GcoJX8Y2e5Tf8ztHmDJLAX2dY",
-          "width": 1236,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-watson-health-assets-to-investment-firm.md",
-      "title": "IBM Sells Watson Health Assets to Investment Firm",
-      "excerpt": "The tech giant said its deal with Francisco Partners wouldn’t weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-471681/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "publishedDateTime": "2022-01-21T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence.md",
-      "title": "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence",
-      "excerpt": "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

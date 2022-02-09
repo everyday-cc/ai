@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0c8a753c32c780b7957c697e0385651f.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Companies are racing to make self-driving cars. But why?"
-    excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
-    publishedDateTime: 2022-02-05T06:42:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2022/02/04/self-driving-cars-why/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLYRGECUJVDKHKA4JM4QHQHQDY.jpg&w=1440"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Guess what drives trust in self-driving cars"
     excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
