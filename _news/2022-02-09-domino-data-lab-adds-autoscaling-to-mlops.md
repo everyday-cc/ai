@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops
 ampWebUrl: "https://www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/b61c7907e86210dfb3ced032662b9a22a9763d65/2022/02/08/08c0dfa8-2677-4880-ac25-65e91de12f4b/ds.png?width=1200&fit=bounds&format=pjpg&auto=webp"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-as
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Dynatrace Delivers Coverage for Microsoft Azure and Google Cloud functions"
+    excerpt: "In addition to existing support for AWS Lambda, this includes Microsoft Azure Functions, Google Cloud Functions ... and enabling teams to automate operations with precise, AI-powered insights, Dynatrace allows organizations to adopt modern approaches ..."
+    publishedDateTime: 2022-02-09T15:57:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Dynatrace-Delivers-Coverage-for-Microsoft-Azure-and-Google-Cloud-functions-151364.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 52
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Komprise Partners with Microsoft to Support Microsoft Azure File Data Migration Program"
     excerpt: "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. “By working closely with the Microsoft Azure ..."

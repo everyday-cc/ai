@@ -2,6 +2,144 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-01-14-jb-hunt-will-be-waymos-first-self-driving-freight-customer.md",
+      "title": "J.B. Hunt will be Waymo’s first self-driving freight customer",
+      "excerpt": "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "publishedDateTime": "2022-01-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-december-retail-sales-slide-19-amid-shortages-omicron.md",
+      "title": "December retail sales slide 1.9% amid shortages, omicron",
+      "excerpt": "Americans, beset by product shortages, rising prices and the arrival of omicron, sharply cut their spending in December after a burst of spending in the fall that helped bolster the holiday season",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20220111005911/en/DeepScribe-Raises-30M-To-Become-First-Widely-Accepted-Application-of-Voice-AI-in-Healthcare",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/december-retail-sales-slide-19-amid-shortages-omicron-82264798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
+      "title": "China’s robotaxis charged ahead in 2021",
+      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "publishedDateTime": "2022-01-14T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
       "title": "Amazon fixes security flaw in AWS Glue service",
       "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
@@ -1021,134 +1159,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold.md",
-      "title": "Local Robotics Company Leases 32,000 Square Feet in Pasadena, Increased Footprint Eleven-Fold",
-      "excerpt": "Miso Robotics, a developer of artificial intelligence-driven robots that assist chefs in food preparation, has leased 32,623 square feet of office and lab space in Pasadena. The Pasadena company is leasing 21,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
-      "originalUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2022/01/Flippy-2-CROP-740x400-1.jpg",
-          "width": 740,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Now",
-        "domain": "pasadenanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-btyse-2022-marked-by-strong-mix-of-technological-inventions-for-benefit-of-all.md",
-      "title": "BTYSE 2022 marked by strong mix of technological inventions for benefit of all",
-      "excerpt": "They pursued their project in light of evidence that heading footballs can cause cognitive damage and they ... especially when waiting for emergency services to arrive. Their “lever and piston ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/news/science/btyse-2022-marked-by-strong-mix-of-technological-inventions-for-benefit-of-all-1.4775916",
-      "originalUrl": "https://www.irishtimes.com/news/science/btyse-2022-marked-by-strong-mix-of-technological-inventions-for-benefit-of-all-1.4775916",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4775914&origw=1440",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-highspot-raises-248m-at-35b-valuation-as-demand-rises-for-software-that-helps-salespeople.md",
-      "title": "Highspot raises $248M at $3.5B valuation as demand rises for software that helps salespeople",
-      "excerpt": "Highspot raised another big round, this time reeling in $248 million as part of a Series F round. It is now valued at $3.5 billion, which is up 4X over the past two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/",
-      "originalUrl": "https://www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/amp/",
-      "publishedDateTime": "2022-01-13T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

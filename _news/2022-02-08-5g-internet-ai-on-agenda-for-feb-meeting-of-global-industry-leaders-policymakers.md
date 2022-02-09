@@ -23,6 +23,17 @@ images:
     height: 375
     isCached: true
 
+related:
+  - title: "Israel's Leading AI Week 2022 Showcases Global Industry Trailblazers and Exciting Future in Artificial Intelligence"
+    excerpt: "This sentiment was mirrored by Professor Eviatar Matania, Co-Head of Israel's AI Initiative, who said, \"The desire in generating a holistic program for Israel in artificial intelligence was because of the understanding that AI…is going to dominate the ..."
+    publishedDateTime: 2022-02-09T15:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/israels-leading-ai-week-2022-showcases-global-industry-trailblazers-and-exciting-future-in-artificial-intelligence/article_6efddb75-6894-56e9-8670-e40bc8e6bf64.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 10
+
 secured: "BKkijbckqROM7cpekdc4zkQN1xYs6Y6PmQTuZNaT1MqiMESyi3DVtVZWNNXNp+dQbi07Tf0ROkj+D5YXat+6ijtR1ZarOfkEAS0yEPvcg4n+S5dOumsxD5qvVVTccd2CIdtDk+71zvrF58Fkle7K3j7yTsAeCpPhx82oGBeLmLlhCkamdfNMMx+Odk9LS/gg30YFvA3hFWLFXiKd9YpRwfXYJEeHeCT+OJC6H+2V7FRABTX5b3ZGWpayU1SgsBPWp3QcbWlM9XDshk6HxcxyDSwr1OTl6aKQ3CYEY9CQ8dxApc6W+kEQHTYuaSWlHGOsvP8bV82vU3Mw3+2c8Cxgsyf+J+7tVXDrwISqJIH74w0=;MEnY8tVLGNjmH7ErG4q4kg=="
 ---
 

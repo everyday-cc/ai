@@ -157,6 +157,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "IRS will transition away from facial recognition after wave of criticism"
+    excerpt: "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ..."
+    publishedDateTime: 2022-02-09T16:39:00Z
+    webUrl: "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 88
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg"
+        width: 3800
+        height: 2533
+        isCached: true
   - title: "ID.me Says It Will Make Facial Recognition Optional for Government Agencies"
     excerpt: "The major reversal comes one day after the IRS ended its use of ID.me's facial recognition service and amidst an outpouring of public pushback."
     publishedDateTime: 2022-02-08T23:33:00Z
@@ -466,20 +482,6 @@ related:
         isCached: true
   - title: "Facial Recognition Plan from IRS Raises Big Concerns"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-05T00:31:00Z
-    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 54
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-06T08:50:00Z
     webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=via"
     type: article
@@ -523,22 +525,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face.jpeg"
         width: 1280
         height: 1270
-        isCached: true
-  - title: "Republicans, Democrats come together to fight IRS’ plan to use facial recognition for taxes"
-    excerpt: "In a rare display of bipartisanship, legislators from across the aisle came together this week in protest of the Internal Revenue Service’s (IRS) use of facial recognition software. Last week it was revealed that the government agency had entered into a ..."
-    publishedDateTime: 2022-02-04T23:53:00Z
-    webUrl: "https://www.dailydot.com/debug/irs-facial-recognition-bipartisan-pushback/"
-    ampWebUrl: "https://www.dailydot.com/debug/irs-facial-recognition-bipartisan-pushback/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/irs-facial-recognition-bipartisan-pushback/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 49
-    images:
-      - url: "https://uploads.dailydot.com/2022/02/IRS-face-scan.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
         isCached: true
   - title: "IRS says it will scrap facial-recognition ID.me plan following backlash"
     excerpt: "Tax agency backtracks after lawmakers and taxpayers voice concern that ID system could put personal data at risk."
@@ -803,6 +789,20 @@ related:
       - url: "https://media.timesfreepress.com/img/photos/2022/01/28/1643403351_013122b07-FPbrashers_gs_t1070_h684b61466ec9e7246f14b31fcd97b3eb03969075.jpg"
         width: 1070
         height: 713
+        isCached: true
+  - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
+    excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."
+    publishedDateTime: 2022-02-09T15:15:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/02/09/irs-idme-facial-recognition-login/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 14
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2P6BFEF2MI6ZFI4DYGMG4R6KM.jpg&w=1440"
+        width: 1440
+        height: 833
         isCached: true
   - title: "IRS to halt use of ID.me’s facial recognition software for identity authentication"
     excerpt: "The Internal Revenue Service will stop using facial recognition software to authenticate taxpayers’ identities, the federal agency said Monday. The move responds to mounting backlash from lawmakers, advocates and members of the public about the use of ..."

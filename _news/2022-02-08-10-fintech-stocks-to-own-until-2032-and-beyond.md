@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "3 Fintech Stocks You Can Buy Today"
-    excerpt: "Upstart Holdings is another beaten-down fintech. After peaking at more than $400 in October ... for loans through its website and app and then uses artificial intelligence (AI) to quantify the risk of those loans based on 1,600 variables."
-    publishedDateTime: 2022-02-09T14:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-you-can-buy-today"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-you-can-buy-today?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-you-can-buy-today?amp"
+    excerpt: "Three fintech stocks you can buy today are Silvergate Capital (NYSE ... demand for loans through its website and app and then uses artificial intelligence (AI) to quantify the risk of those loans based on 1,600 variables. It then connects those loans ..."
+    publishedDateTime: 2022-02-09T06:26:00Z
+    webUrl: "https://www.fool.com/investing/2022/02/09/3-fintech-stocks-you-can-buy-today/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/665000/bitcoin-exchange-2022-getty.jpg"
+        width: 2291
+        height: 1309
+        isCached: true
   - title: "5 innovative Belgian fintech companies to watch"
     excerpt: "AI, automation and big data analytics are key themes for Belgian fintech, as innovative companies look to solve common problems in the financial services sector. Fintech is, broadly, technology that is applied to financial services or the management of ..."
     publishedDateTime: 2022-02-07T07:03:00Z
@@ -214,6 +217,20 @@ related:
       - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Regulate cryptocurrencies and fintech products before it's too late, urges author"
+    excerpt: "In fact, she's hoping that Driverless Finance: Fintech's Impact on Financial Stability can spook ... Now, she sees the possibility of financial collapse on an even greater scale with AI technology being used in the financial industry; “smart contracts ..."
+    publishedDateTime: 2022-02-09T15:00:00Z
+    webUrl: "https://www.abajournal.com/books/article/podcast-episode-164"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 19
+    images:
+      - url: "https://www.abajournal.com/images/main_images/DriverlessFinance_bookcover.png"
+        width: 300
+        height: 408
         isCached: true
 
 secured: "sIiCG7UIiuI4vKnqI5OOa8Uynzm6D8U2kdonvPmMu0Ocej+T4pudnzrVohyfZzH844m8nHFEXXuw4DmWHhBosiMS/Iie2nXQg3nUdBKafXASUJlRQzsn9CiMl7GMCvr62RRYPmogyaGefTubh1C5a7y+FIwd7QThMsofaxa2DEfRPHB9da16sGg5ybElC0Lp819t/YvaBBNUwu6WF3KBxSlA/9Lc/nxfzHkYLwVBx43VSKLhuIePcQcieoZ5wPBXGc9DJCesL9V9Z8kvEIgQvlRQMFN0F+gO4hiNFOHRVaFqCdwiRQb0rVaE4BkSiwpk1u6r6qpUdbM7xoz3x+QJ4wjz0XcCvOKRIB14WIOpj03G7V8aIRoW++Z9ddPEnjUDx2ardRy9vxF6SifB8ffXRX9ooJSpGettOS4oFCXt+x6FxMDrQxmOd8YxW/2+BShzzmxWmgqeK5vXZ9QxRMXAopElpS7msptzb5T4S2FatOe7sxh35CxAQkKByY9vt3RB29ifsaplUGWnC8HDx0DJVA==;Om7K5tN6UvEgLE2wo9TT9g=="

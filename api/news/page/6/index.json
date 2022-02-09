@@ -2,6 +2,159 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-02-call-center-conversation-intelligence-startup-talkmap-nabs-8m.md",
+      "title": "Call center conversation intelligence startup Talkmap nabs $8M",
+      "excerpt": "Customer conversation intelligence startup Talkmap has raised $8 million from Stage 1 Ventures in a Series A round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/shutterstock_291603116.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/",
+      "publishedDateTime": "2022-02-02T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-mental-health-helpline-ends-ai-data-sharing-relationship.md",
+      "title": "Mental health helpline ends AI data-sharing relationship",
+      "excerpt": "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-60218894?via=indexdotco",
+      "originalUrl": "https://www.bbc.com/news/technology-60218894?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1837D/production/_123079199_depressed2gettyimages-1223735400.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform.md",
+      "title": "HireEZ, formerly Hiretual, raises $26M to expand its AI-powered recruitment platform",
+      "excerpt": "HireEZ, formerly Hiretual, has raised $26 million in a funding round to expand its AI-powered tools for job candidate recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
+      "publishedDateTime": "2022-02-02T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-the-rise-of-the-ai-enabled-practitioner.md",
       "title": "The Rise Of The AI-Enabled Practitioner",
       "excerpt": "A new role - AI-Enabled Practitioners will be needed as AI dominates all industries. What is an AI-Enabled Practitioner? Why is this needed? How can you become one?",
@@ -1043,153 +1196,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
-      "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
-      "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "originalUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-829804548.jpg?w=1200&strip=all",
-          "width": 564,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "publishedDateTime": "2022-02-01T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-tesla-recalls-all-53822-vehicles-with-its-full-self-driving-feature.md",
-      "title": "Tesla recalls all 53,822 vehicles with its 'full self-driving' feature",
-      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
-      "originalUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/2/e5/2e53caaf-721e-5592-8f36-0e9e74c5c348/61f97c7ad628b.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
-      "cdnAmpWebUrl": "https://www-wkow-com.cdn.ampproject.org/c/s/www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
-      "publishedDateTime": "2022-02-01T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKOW",
-        "domain": "wkow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-mongodbs-co-founder-is-trying-to-universalize-robotic-deployment.md",
-      "title": "MongoDB’s co-founder is trying to universalize robotic deployment",
-      "excerpt": "To this end they are developing a series of core components, such as object recognition, navigation and gripping,” USV managing partner Albert Wenger said in a post tied to last year’s seed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
-      "originalUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
-      "publishedDateTime": "2022-02-01T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

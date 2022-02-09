@@ -2,6 +2,145 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-01-05-the-power-of-deep-learning-in-marketing-campaigns-for-fashion-brands.md",
+      "title": "The Power of Deep Learning in Marketing Campaigns for Fashion Brands",
+      "excerpt": "We can (and do) buy everything online nowadays. There is strong competition in almost every domain, as retailers fight to carve out their digital space, but perhaps no type of online sales is as competitive as fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
+      "originalUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHKIxFSXWTm0g/article-cover_image-shrink_600_2000/0/1641395897480?e=1646870400&v=beta&t=dw-LAm5x5_SjFy813CLh3jNTCzpit4PC0XTti722Ls0",
+          "width": 1559,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services.md",
+      "title": "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services",
+      "excerpt": "Sensory Inc., a Silicon Valley innovator of machine learning solutions for speech recognition and biometric identification, announces the beta release of SensoryCloud.ai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensorycloud-ai-launches-cloud-based-voice-and-vision-ai-services/article_80415a91-b610-5684-89db-5cd5c8b0d6ae.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensorycloud-ai-launches-cloud-based-voice-and-vision-ai-services/article_80415a91-b610-5684-89db-5cd5c8b0d6ae.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/c5/5c50f657-b3c4-5f6c-8abe-ab37ed895a8d/60c0e2770671e.image.jpg?crop=1500%2C788%2C0%2C26&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-va-turns-to-ai-to-streamline-administrative-tasks.md",
+      "title": "VA Turns to AI to Streamline Administrative Tasks",
+      "excerpt": "The Department of Veterans Affairs is exploring how to use artificial intelligence tools to drive efficiencies in a wide range of medical and clerical areas.",
+      "sourceUrl": null,
+      "webUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
+      "originalUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202201/GettyImages-1300745916.jpg?itok=8Qx7rF5Z",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
+      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
+      "publishedDateTime": "2022-01-05T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fedtechmagazine.com",
+        "domain": "fedtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022.md",
       "title": "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022",
       "excerpt": "Designed with prosumer content creators and mid-level enterprises in mind, the innovative camera robot system defines the next generation of motion control through its proprietary user-friendly ...",
@@ -1044,144 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-why-home-robots-are-a-lot-further-away-than-you-think.md",
-      "title": "Why ‘home robots’ are a lot further away than you think",
-      "excerpt": "We all want robot companions, butlers, and laborers. We also want time travel and magic beer mugs that get empty.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-home-robots-are-further-away-than-you-think",
-      "originalUrl": "https://thenextweb.com/news/why-home-robots-are-further-away-than-you-think",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fpinnochio.jpg&signature=8b9996b535d66c0e8fa2152d0c7a643e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-self-driving-advances-could-accelerate-in-2022.md",
-      "title": "Self-Driving Advances Could Accelerate in 2022",
-      "excerpt": "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "publishedDateTime": "2022-01-04T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles.md",
-      "title": "Ambarella launches 16-core CV3 AI chip for autonomous vehicles",
-      "excerpt": "Ambarella launched its latest CV3 artificial intelligence domain controller family to power autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Ambarella-CV3_SUV-System-Diagram_Embargoed-Until-Jan.-4-2022.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/",
-      "publishedDateTime": "2022-01-04T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

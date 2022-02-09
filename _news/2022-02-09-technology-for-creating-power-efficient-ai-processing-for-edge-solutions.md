@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "LALAL.AI Presents Phoenix, a Supreme Solution for Voice Isolation"
+    excerpt: "Due to architectural improvements, Phoenix analyses more data, allowing for better recognition of the sought-for source’s characteristics and the instruments making up a composition. “Phoenix processes and splits files into stems twice as fast ..."
+    publishedDateTime: 2022-02-09T15:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/lalal-ai-presents-phoenix-a-supreme-solution-for-voice-isolation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://cdn.newswire.com/files/x/b4/9e/9838f11e71a6974b86199e36e02e.jpg"
+        width: 512
+        height: 331
+        isCached: true
 
 secured: "J/b29zNqM7+D1tw51A3/zONPt43DSrr+FGUTkhuJ72/T3Kyq8eF+9aZzeHQMLz7qZeqBV0sZfaRUnis9fUlfNxq19yEZCBGEOoBYmvOkDzqoeMD5mH4T+3MhYxOw3HSFsDLOULdb+BV4a+Bn9s79jTHH5LZg7mqGdo+jI6vmc0Y5viuF3N+8xBhgQU37MMuDGr2SJxf3uM3PlJhSjyzzoA//OcacrVuBGynNy/rhak3RQCESFnUSyrTYqlnQA6EMXyhAa6LENQ4RWDt56kET1n89oSGH8s+HB0/i4De/NtvNqn1Nq3sXFEsv0/Q4hruF+rX35F7MawoNdHRQQu4R1a8mYXAbe5SK7vf1XhE2xy9S2F0HerAjb5ZHWCzCg1hePX0LZVxpLHDGIYcXswfR3ZEhfoHNvjeDCCmTdiTdTvjt9jgy6x5oyaCWsBG3N5SZVeSsPrieaTYIOMNOhTG0Akj+R6HNERhFmAqlyv9+Dwch0GFcuYVzSzORXbuHz9GNtRUMXNZMO/L4/NTR4dNWGQ==;8dhpYr0ijIjWULtP4uMP0w=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-14-were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact.md",
+      "title": "We’re failing at the ethics of AI. Here’s how we make real impact",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Stefan Klebert, Chief Executive Officer,",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/",
+      "originalUrl": "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2022/01/robots.jpeg",
+          "width": 716,
+          "height": 1002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/amp/",
+      "publishedDateTime": "2022-01-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic.md",
       "title": "New startup shows how emotion-detecting AI is intrinsically problematic",
       "excerpt": "Hume, a new company emerging from stealth, claims that it is 'ethically' applying emotion AI. But the science is shaky at best.",
@@ -1387,58 +1430,6 @@
         "name": "Breaking Defense",
         "domain": "breakingdefense.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-eliminating-artificial-intelligence-bias-is-everyones-job.md",
-      "title": "Eliminating artificial intelligence bias is everyone's job",
-      "excerpt": "A call for more awareness and training behind AI deployments. Not just for developers and data scientists, bur also product managers, executives, marketing managers, and merchandisers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
-      "originalUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1460b5152eaefc84d5de78d1e39527d080c1adc5/2021/12/24/bc4cbcd8-b327-40f7-b832-0a3a799e11a3/img-8571.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
-      "publishedDateTime": "2021-12-24T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3797138-viq-solutions-nabs-us-pate
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797138-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Seeking Alpha
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "LALAL.AI Presents Phoenix, a Supreme Solution for Voice Isolation"
+    excerpt: "Due to architectural improvements, Phoenix analyses more data, allowing for better recognition of the sought-for source’s characteristics and the instruments making up a composition. “Phoenix processes and splits files into stems twice as fast ..."
+    publishedDateTime: 2022-02-09T15:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/lalal-ai-presents-phoenix-a-supreme-solution-for-voice-isolation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://cdn.newswire.com/files/x/b4/9e/9838f11e71a6974b86199e36e02e.jpg"
+        width: 512
+        height: 331
+        isCached: true
   - title: "Technology for creating power-efficient AI processing for Edge solutions"
     excerpt: "Our intimate knowledge of memory technology means that we have been able to create a solution for the next technology demand of integrating arithmetic operations within the memory. It is another example of us seeing what the industry will require in the near future and developing a solution that will be ready when the need for AI at the Edge becomes mainstream."
     publishedDateTime: 2022-02-09T09:18:00Z

@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-08-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation.md",
+      "title": "VIQ Solutions nabs U.S. Patent for Artificial Intelligence Innovation",
+      "excerpt": "VIQ Solutions (NASDAQ:VQS) announced the U.S. Patent and Trademark Office has granted a patent for its Parallel Processing Framework for Voice to Text Digital Media. This patent recognizes ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3797138-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation",
+      "originalUrl": "https://seekingalpha.com/news/3797138-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3797138-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797138-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation",
+      "publishedDateTime": "2022-02-08T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-spell-graphcore-partner-to-build-next-gen-ai-infrastructure.md",
+      "title": "Spell, Graphcore partner to build next-gen AI infrastructure",
+      "excerpt": "“We had the opportunity to highlight Spell.ml’s capabilities in a recent Cool Vendor research note, “Cool Vendors in Enterprise AI Operationalization and Engineering,” Dekate said.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "publishedDateTime": "2022-02-08T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home.md",
+      "title": "Cutting OPEX With Five New AI Workforce Optimizations To Place Broadband In Every Home",
+      "excerpt": "Bottom Line: For a viable telco business model, service providers need more operational efficiency. Five Ways To Empower Your Teams With AI Analytics For Better Service By empowering customer service professionals with the right AI analytics, telco staff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62011fae3902ba8469b672f0/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "publishedDateTime": "2022-02-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-data-integration-remains-essential-for-ai-and-machine-learning.md",
+      "title": "Data integration remains essential for AI and machine learning",
+      "excerpt": "The nature of human consciousness has so far evaded all, from philosophers to neuroscientists. It should therefore be of no surprise that the artificial intelligence (AI) that we can currently build is limited to more basic pattern recognition within sets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
+      "originalUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a279596285.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
+      "publishedDateTime": "2022-02-08T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-google-subsidiary-deepmind-goes-retro-to-push-ai-forward.md",
       "title": "Google Subsidiary DeepMind Goes RETRO to Push AI Forward",
       "excerpt": "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness.",
@@ -34,48 +224,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week.md",
-      "title": "Sony And Gran Turismo 7 Dev Tease Big AI News For This Week",
-      "excerpt": "Sony AI and Polyphony Digital released a teaser for a project between them which will be revealed on February 9. The announcement is related to the Gran Turismo franchise, which Polyphony Digital is known for. The trailer shows the Gran Turismo logo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
-      "originalUrl": "https://www.gamespot.com/articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1646/16465123/3937436-granturismo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
-      "publishedDateTime": "2022-02-07T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -673,7 +821,7 @@
       "originalUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1007,7 +1155,7 @@
       "originalUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1040,135 +1188,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-microsoft-azure-data-scientist-associate-certification-guide.md",
-      "title": "Microsoft Azure Data Scientist Associate certification guide",
-      "excerpt": "... for individuals who have expertise in applying data science and machine learning to implement and run machine learning workloads on Azure. The certification requires passing the Designing and Implementing a Data Science Solution on Azure certification ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html",
-      "originalUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/02/certification_education_knowledge_learning_silhouette_with_graduation_cap_with_abstract_technology_imagery_by_monsitj_gettyimages-862136832_1200x800-100766599-orig-100850417-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp",
-      "publishedDateTime": "2022-02-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-insig-ai-boosted-by-inclusion-in-pwc-fintech-programme.md",
-      "title": "Insig AI boosted by inclusion in PwC FinTech programme",
-      "excerpt": "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzAyXC8yMDE5LTA5LTMwLTEzLTIxLTUyLTA4Y2NhNzNiNmZiMmQwYmVkNDgyMTEyNDQ4MjA3OGEzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/973290",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290",
-      "publishedDateTime": "2022-02-07T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-healthtech-startup-qureai-32-mn-from-uks-sbri-healthcare-for-cancer-detection-solution.md",
-      "title": "Healthtech Startup Qure.ai £3.2 Mn From UK’s SBRI Healthcare For Cancer Detection Solution",
-      "excerpt": "Qure.ai’s model involves selling its diagnostic tools directly to hospitals, collaborate with health-centric non-profits, and medical devices companies among others. The startup claims that ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/",
-      "originalUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/02/qure-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/",
-      "publishedDateTime": "2022-02-06T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

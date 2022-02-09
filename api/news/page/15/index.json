@@ -2,6 +2,153 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-25-us-artificial-intelligence-market-2026-size-share-trends-and-forecast.md",
+      "title": "US Artificial Intelligence Market 2026: Size, Share, Trends and Forecast",
+      "excerpt": "Jan 25, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United States Artificial Intelligence ... robots, and self-driving cars, over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-2026-size-share-trends-and-forecast-2022-01-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-2026-size-share-trends-and-forecast-2022-01-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse.md",
+      "title": "Facebook parent Meta creates powerful AI supercomputer to support metaverse",
+      "excerpt": "Facebook’s parent company Meta on Monday ... The computer, which is already up and running but is still being built, is called AI Research SuperCluster. Meta says it will help its AI researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "originalUrl": "https://www.marketwatch.com/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-473186/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "publishedDateTime": "2022-01-24T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-facebook-parent-meta-creates-powerful-ai-supercomputer.md",
+      "title": "Facebook parent Meta creates powerful AI supercomputer",
+      "excerpt": "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779",
+      "publishedDateTime": "2022-01-24T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-getting-ai-from-the-lab-to-production.md",
       "title": "Getting AI from the lab to production",
       "excerpt": "The enterprise is eager to push AI out of the lab and into production environments, where it will hopefully usher in a new era of productivity and profitability. But this is not as easy as it seems because it turns out that AI tends to behave much differently in the test bed than it does in the real world.",
@@ -1039,143 +1186,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-meta-taps-nvidia-to-build-a-massive-ai-supercomputer-to-master-human-speech-and-the-metaverse.md",
-      "title": "Meta Taps NVIDIA To Build A Massive AI Supercomputer To Master Human Speech And The Metaverse",
-      "excerpt": "the parent company to Facebook, have a new and powerful toy to play with courtesy of a collaboration with NVIDIA. Meta designed and NVIDIA built what is called the AI Research SuperCluster (RSC ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "originalUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57468/content/NVIDIA_AI_Supercomputer.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "publishedDateTime": "2022-01-24T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-oh-great-ai-can-not-only-be-racist-and-sexist-but-ageist-too.md",
-      "title": "Oh great — AI can not only be racist and sexist, but ageist too",
-      "excerpt": "Current research on bias in AI focuses mainly on gender and race. But what about age-related bias — can AI be ageist?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FElderly-woman-AI-hed.jpg&signature=acb61ad7c179237f58c19be72fcf6bb6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
-      "title": "LG to showcase self driving vehicle next month",
-      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "publishedDateTime": "2022-01-24T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews.com",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
