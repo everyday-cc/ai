@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/taarinikaurdang/2022/02/09/why-do-startups
 ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2022/02/09/why-do-startups-fail-and-can-we-create-an-ai-formula-to-prevent-failure-an-interview-with-harvard-business-school-professor-tom-eisenmann/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2022/02/09/why-do-startups-fail-and-can-we-create-an-ai-formula-to-prevent-failure-an-interview-with-harvard-business-school-professor-tom-eisenmann/amp/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://secure.gravatar.com/avatar/e968d610d83ad1a84197805c24766fdb?s=400&d=mm&r=g"

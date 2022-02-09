@@ -444,6 +444,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "You & facial recognition: Look for government to find more verification options"
+    excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
+    publishedDateTime: 2022-02-09T11:18:00Z
+    webUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/"
+    ampWebUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 55
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
+        width: 1264
+        height: 710
+        isCached: true
   - title: "Facial Recognition Plan from IRS Raises Big Concerns"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-05T00:31:00Z
@@ -744,20 +760,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
-    excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
-    publishedDateTime: 2022-02-04T21:00:00Z
-    webUrl: "https://www.fastcompany.com/90719029/irs-facial-recognition-plan-gets-fierce-blowback-from-bipartisan-senators"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 38
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "IRS Drops Plan To Require Facial Recognition To Access Accounts Following Backlash"
     excerpt: "WASHINGTON (CNN) — The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website ..."

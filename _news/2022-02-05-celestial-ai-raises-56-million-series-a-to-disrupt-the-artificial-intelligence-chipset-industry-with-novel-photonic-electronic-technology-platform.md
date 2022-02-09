@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Celestial AI raises $56M for its hybrid photonic-electronic AI chip"
-    excerpt: "Celestial AI Inc., a startup developing photonics technology for artificial intelligence applications, has raised $56 million in funding to support its engineering efforts. Sunnyvale, California ..."
-    publishedDateTime: 2022-02-04T19:17:00Z
-    webUrl: "https://siliconangle.com/2022/02/04/celestial-ai-raises-56m-hybrid-photonic-electronic-ai-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/unsplash.png"
-        width: 870
-        height: 500
-        isCached: true
   - title: "Celestial AI Raises $56M in Series A Funding"
     excerpt: "Celestial AI, a Sunnyvale, Calif.-based AI-accelerator company with ... proprietary Photonic Fabric™ technology that uses light for data movement both within chip and between chips. The Photonic Fabric enables optically addressable memory and compute ..."
     publishedDateTime: 2022-02-05T12:41:00Z

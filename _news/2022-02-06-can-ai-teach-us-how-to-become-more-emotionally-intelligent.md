@@ -41,34 +41,6 @@ related:
         width: 566
         height: 400
         isCached: true
-  - title: "TIFIN Wealth Launches TIFIN Grow with Over 500 Financial Advisors Using AI and Investment Intelligence Driven Personalization"
-    excerpt: "TIFIN an AI-powered fintech, leverages data science, investment intelligence, and technology to help deliver engaging and personalized investor experiences. By connecting individuals to advice and investments, TIFIN bridges the gap among retail investors ..."
-    publishedDateTime: 2022-02-08T17:54:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/687585msn/tifin-wealth-launches-tifin-grow-with-over-500-financial-advisors-using-ai-and-investment-intelligence-driven-personalization"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 12
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/687585/Vinay-Nair-PhD-TIFIN.jpeg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "TIFIN Wealth Launches TIFIN Grow with Over 500 Financial Advisors Using AI and Investment Intelligence Driven Personalization"
-    excerpt: "“We believe that many advisors like to start their journey into automated personalization with individual modules, while others find the full offering most helpful with a united and integrated experience from front to back. This is an important time in ..."
-    publishedDateTime: 2022-02-08T13:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/tifin-wealth-launches-tifin-grow-with-over-500-financial-advisors-using-ai-and-investment-intelligence-driven-personalization"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/687585/Vinay-Nair-PhD-TIFIN.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "KUN+rGX73BV4AjceTdrIFh+9tr6GuB7aMUF87wqGuXB++Bn3FUgHSS6yPLsEogD8IUKc/pKhq+l+hzlb+ukluAzZ56v75jQ6YJZPsCpLfsVvJNra07lw0+LjXuejQFuhC7rh2ePwx/lqxmMTImwBVkPsf8PC80ZPI9anCPvpfawVycX9CjjKgKSAgtyO/U2O/9BeoxkZVLfZGR6h5PCknhEMjZJrq31LB7ArJJfmGLAny8kzeNoWxo4rSZCT2OgbrPKpso/lm8TKKr7/Wre7OQmvMe4tWL/Wiys8FjiokJsrjR+NU8l6Fmoao00ys1vrWqmqTpoqnmdc7FEo5yrZS+RHhSZDDmYQCxndU1z5Ii8=;pxMh9r+C0lVrapFVksQdKg=="
 ---

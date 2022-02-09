@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103655048/Facial-Recognition-Market-Rising-at-
 webUrl: "https://menafn.com/1103655048/Facial-Recognition-Market-Rising-at-a-CAGR-of-148-to-Reach-USD-1292-Billion-by-2027"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,47 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Advancements in Speech and Voice Recognition Technology to Propel Global Intelligent Virtual Assistant Market"
-    excerpt: "Conversational e-commerce has emerged as a result of the increasing usage of smart speaker-based solutions for home automation and digitalization in the retail industry. This factor is expected to propel the global intelligent virtual assistant market forward."
-    publishedDateTime: 2022-02-08T05:41:00Z
-    webUrl: "https://techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/"
-    ampWebUrl: "https://techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/amp/"
+  - title: "Machine Learning Market to Expand at a CAGR of ~27% | 2020-2030"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,"
+    publishedDateTime: 2022-02-09T11:25:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/09/machine-learning-market-to-expand-at-a-cagr-of-27-2020-2030/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/09/machine-learning-market-to-expand-at-a-cagr-of-27-2020-2030/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/machine-learning-market-to-expand-at-a-cagr-of-27-2020-2030/?amp=1"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 25
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/Intelligent-Virtual-Assistant-1.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
-  - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
-    excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
-    publishedDateTime: 2022-02-07T21:44:00Z
-    webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
-        width: 363
-        height: 250
-        isCached: true
-  - title: "Augmented Reality & Virtual Reality Market Size for Education Industry Estimated to Reach $22.4 Billion by 2027"
-    excerpt: "Increasing penetration of interactive learning process for effective visualization of subjects by leveraging digital age technologies such as Artificial Intelligence (AI), Machine Learning ... storage to Microsoft’s Azure cloud, which in turn has ..."
-    publishedDateTime: 2022-02-08T23:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/augmented-reality-virtual-reality-market-size-for-education-industry-estimated-to-reach-22-4-billion-by-2027"
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 39
+  - title: "Facial Recognition Market Expected to Rise at a CAGR of 17.2% during 2021-2026"
+    excerpt: "According to IMARC Group latest report titled” Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-02-09T12:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-expected-to-rise-at-a-cagr-of-17-2-during-2021-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 21
+    quality: 35
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjrHGMESTGfMWE2Qk7pg0BFP4qsOHu-PS9CozxSt4eTnriErQOfiKdfsQ1IqvSg3u-b7ogqhHq5BsbK6qOqqoQKMTgyU6Nq9d5APoTVvXQ4LJ1Q_P0icLWC4byNB04b0240Oi8RwcClXj-bQO6-4OAMXJRU3pb3qQNk4QTsrAikEqKgPQu82QFIbiE=w423-h238"
+        width: 423
+        height: 238
+        isCached: true
+  - title: "Global FinTech Market projected to grow at a CAGR of 26.87%"
+    excerpt: "AI, Central Bank Digital Currencies, RegTech and more aiming to plug a gaping hole in the industry’s talent deficit issues. Students will be provided unlimited access to short self-paced courses, exclusive fintech events, disruptive start-up journeys and ..."
+    publishedDateTime: 2022-02-07T14:59:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/02/07/global-fintech-market-projected-to-grow-at-a-cagr-of-2687"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 24
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/2/20/entrepreneurship.ashx?h=450&w=750&hash=7B59C4FF1A9F1DCB3CCFEF12B33F59E2"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "CNC Tool And Cutter Grinding Machine Market is expected to exhibit a CAGR of 4.52% by forecast till 2030"
+    excerpt: "Request a Free Sample @ https://www.marketresearchfuture.com/sample_request/6163 The advent of the Internet of Things (IoT) and the steady development of machine learning are elements anticipated to affect market demand. Consequent utilization of CNC tools ..."
+    publishedDateTime: 2022-02-08T10:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cnc-tool-and-cutter-grinding-machine-market-is-expected-to-exhibit-a-cagr-of-4-52-by-forecast-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 7
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/NFT-Artwork-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true

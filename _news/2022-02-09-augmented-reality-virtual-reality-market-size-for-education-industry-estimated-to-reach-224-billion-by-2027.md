@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Rising at a CAGR of 14.8% to Reach USD 12.92 Billion by 2027"
-    excerpt: "The global Facial Recognition Market size is expected to hit USD 12.92 billion by 2027 while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by manufacturers."
-    publishedDateTime: 2022-02-08T04:56:00Z
-    webUrl: "https://menafn.com/1103655048/Facial-Recognition-Market-Rising-at-a-CAGR-of-148-to-Reach-USD-1292-Billion-by-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_5.jpg?534683"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Advancements in Speech and Voice Recognition Technology to Propel Global Intelligent Virtual Assistant Market"
     excerpt: "Conversational e-commerce has emerged as a result of the increasing usage of smart speaker-based solutions for home automation and digitalization in the retail industry. This factor is expected to propel the global intelligent virtual assistant market forward."
     publishedDateTime: 2022-02-08T05:41:00Z
@@ -55,20 +41,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/02/Intelligent-Virtual-Assistant-1.jpg"
         width: 1920
         height: 1281
-        isCached: true
-  - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
-    excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
-    publishedDateTime: 2022-02-07T21:44:00Z
-    webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
-        width: 363
-        height: 250
         isCached: true
 
 secured: "ENlzhJYH2hljremH7ClvkvrG09JHBj84CA6XXj2Irt3pzk4xA7WE2WVZbHkfZuAOJgS0j0A34ZadoHbDJKSHIpe7R98ppSpMvxIMCArMuRg9SCPdNU0blqtrR7eu3fv32Kvo2SiXqon2X4OwYC4yVkfvEYsTmBNBU9FwfQ5yUtw/XuWet5yntRXy32KWxHiNHESsSZkig67usBu13AjyHUjUyOT+RQ1H179GtIhGOJ/YvEiQa1kLinup3Qew/c7YUOu/xjBJipbmAGOYZdtpnmG31pdOBDZaGUVUglWondSiBOfxhU79n71v1V8sAtnlAdP/gT/VxQV8yf5T5q84GlUq13MCagA4RyyVFXYDqMY=;XaPbftPG+HZOq8A3vG7hHQ=="

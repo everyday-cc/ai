@@ -59,6 +59,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "'Full Self-Driving' Tesla Nearly Hits Biker Seconds After YouTuber Trumpets Beta Safety"
+    excerpt: "It's no secret that fans of Tesla always stand at the ready to defend the company and its technology, regardless of the situation. A particularly painful video from Tesla pundits who almost hit a cyclist shows just how dangerous this attitude can be,"
+    publishedDateTime: 2022-02-09T11:30:00Z
+    webUrl: "https://www.thedrive.com/news/44216/this-tesla-self-driving-fail-video-is-exactly-whats-wrong-with-tesla-stans"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 31
+    images:
+      - url: "https://www.thedrive.com/content-b/message-editor%2F1644370325024-tweet.png?quality=60"
+        width: 584
+        height: 581
+        isCached: true
 
 secured: "6NS8ME+9YGYFiWcKwTvvqd3uiFKNTj/ALSIaZnlfG4mievCSW31c4DZGVfd9zYG12qn4CGHaZdFG8GT4pPoqv7KNGssn64lbDYZaVAd8O1D/Wy7euU5Ba/7qyT+ZNdy+TPt7cGisdWqSez1wRTYckocSyUqm9NoTZzOJgUqOPH05Df7YRSDt6ri2egjdkJEdy4AGE0fBxo/jMJJjEXkoofauUkKSlXubdNyzB9c0k49UwAaCXJPsAOw/SX+Vhk5y+U1eoi32Jc1PCsu7S/ZPJJmqcaE0HYrw4q4Dm/7mLUY0F/Il9NJWQ11Pnfd7KdbDooksmPpz0jSwallXIb4XKT5awbJPoA5pBTsVACxCrBw=;DkYxL1oSIFm1H7OsaOTeFw=="
 ---

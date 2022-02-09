@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Age of Intelligence: Reimagining human lives with conversational artificial intelligence"
-    excerpt: "The whole blueprint of technology today is underpinned by one pillar – Artificial Intelligence (AI). AI is the meticulously worked project by the best tech minds to provide a melange of human intelligence amalgamated with machine analytics. In the past ..."
-    publishedDateTime: 2022-02-07T10:53:00Z
-    webUrl: "https://www.dqindia.com/the-age-of-intelligence-reimagining-human-lives-with-conversational-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/the-age-of-intelligence-reimagining-human-lives-with-conversational-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-age-of-intelligence-reimagining-human-lives-with-conversational-artificial-intelligence/amp/"
+  - title: "Personalization And Context: AI’s Surging Role In Advertising"
+    excerpt: "The advertising industry is still a long way from perfecting artificial intelligence, but the technology is promising."
+    publishedDateTime: 2022-02-09T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 48
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/07/artificial-intelligence.jpg"
-        width: 566
-        height: 400
-        isCached: true
-  - title: "Can AI Teach Us How to Become More Emotionally Intelligent?"
-    excerpt: "Gong isn’t a small startup proselytizing the promises of AI. It was most recently valued at $7.25 billion and its roster of clients includes companies such as Accenture, LinkedIn, Service Titan ..."
-    publishedDateTime: 2022-02-06T09:55:00Z
-    webUrl: "https://hbr.org/2022/01/can-ai-teach-us-how-to-become-more-emotionally-intelligent?twitter=@aneeshnair"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/01/Jan22_25_1339250539.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6202a95d936f0afd86b5c9b8/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
-        height: 675
+        height: 818
         isCached: true
   - title: "TIFIN Wealth Launches TIFIN Grow with Over 500 Financial Advisors Using AI and Investment Intelligence Driven Personalization"
     excerpt: "“We believe that many advisors like to start their journey into automated personalization with individual modules, while others find the full offering most helpful with a united and integrated experience from front to back. This is an important time in ..."

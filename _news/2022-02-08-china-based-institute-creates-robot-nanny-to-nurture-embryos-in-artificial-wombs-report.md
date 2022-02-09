@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/ch
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/china-based-institute-creates-robot-nanny-to-nurture-embryos-in-artificial-wombs-report-articleshow.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 768
     height: 439
     isCached: true
-
-related:
-  - title: "Chinese scientists build robot nanny to care for babies in artificial womb"
-    excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
-    publishedDateTime: 2022-02-04T19:08:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 57
-    images:
-      - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 899
-        isCached: true
-  - title: "Chinese self-driving start-up AutoX passes 1,000-vehicle milestone for its RoboTaxi fleet"
-    excerpt: "The start-up has also opened a new US-based RoboTaxi operations center in San Francisco to expand self-driving vehicle testing in the western US city. Previously, AutoX RoboTaxis have been testing in the greater San Jose, California, since 2016."
-    publishedDateTime: 2022-02-09T07:09:00Z
-    webUrl: "https://www.globaltimes.cn/page/202202/1251822.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 15
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-02-09/0e3a75df-8b6a-4d14-8a95-22ad61af444e.jpeg"
-        width: 2000
-        height: 1200
-        isCached: true
 
 secured: "IMVRtVPCmmDNmfyIH/gxobwf2YB4iCGctnbFfE2CM61nrHtUMXBVqKdrRTSWo07XeBfVLxFzgNc6vv/wKSWOUOZ613DhVamFknOq0yxjtU2tOTZcwAc4qdgZSoYeF5hJHTaessbQl94HhVNOkLTZ3L/Hp/shgCVuxXzkrIX1AYkf6hic7UkSywc5YwXlWlB2jCdwvjr+sZyP0Zg88fc3pnnuJbSXOKiwn8L3dcTlPWxkwNW2CcD+UCcM2//jaw7JEcMQ/ej3TpuwAKbTgKoEJIBs79yJqM5gQAq+L3HtV0UiIbx2GubRKFrX3XCzn+vKytm9dlhV+qbhRJI/SHevBxzpArQ9gbsiaV9TXFK8LKL0aPe7moApI2S7/djCRmZg1tQcAG3UoZjLA6blU1tBweCKs2npJRgQ0GklZ87oo2LagpQmorrsKggUq3jgGd680qXRgbFwbRammPL2Iv+frje8Xdel0uBFrdyAtmHPlaaY9fE2W46HG2jSgUyfSmAI480TfzQEzTQ0fuvDH0G4Kw==;/watzzkLKOfkZnIKztdBgQ=="
 ---

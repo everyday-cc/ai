@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Traction Programme unveils 8 startup graduates on Digital Demo Day"
+    excerpt: "Armenia Startup Academy mentors provided us with regular feedback ... Meet the Academy Traction Batch 2 Companies Modicus Prime is a self-service AI company enabling process and quality control for biotech research and manufacturing."
+    publishedDateTime: 2022-02-09T12:55:00Z
+    webUrl: "https://www.panarmenian.net/eng/news/298361/"
+    type: article
+    provider:
+      name: PanARMENIAN.Net
+      domain: panarmenian.net
+    quality: 22
+    images:
+      - url: "https://media.pn.am/media/issue/298/361/photo/339x226_thumb_photo_298361_1f5e9ed63.jpg"
+        width: 339
+        height: 226
+        isCached: true
   - title: "Insig Ai Plc Regulatory News"
     excerpt: "Insig AI plc (AIM:INSG), the data science and machine learning company, is delighted to announce that it has been selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as ..."
     publishedDateTime: 2022-02-07T07:16:00Z

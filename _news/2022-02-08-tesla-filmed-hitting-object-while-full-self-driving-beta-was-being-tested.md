@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "'Full Self-Driving' Tesla Nearly Hits Biker Seconds After YouTuber Trumpets Beta Safety"
+    excerpt: "It's no secret that fans of Tesla always stand at the ready to defend the company and its technology, regardless of the situation. A particularly painful video from Tesla pundits who almost hit a cyclist shows just how dangerous this attitude can be,"
+    publishedDateTime: 2022-02-09T11:30:00Z
+    webUrl: "https://www.thedrive.com/news/44216/this-tesla-self-driving-fail-video-is-exactly-whats-wrong-with-tesla-stans"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 31
+    images:
+      - url: "https://www.thedrive.com/content-b/message-editor%2F1644370325024-tweet.png?quality=60"
+        width: 584
+        height: 581
         isCached: true
 
 secured: "dPp67Pi7hSKk3lEaxVV8HBq7o2EGcb/3p5IhzRUJ5E4LYCd4LLTsMVZH1FrNydL5Aa2nnkp14j8JwuYUDWvo6x2smjWve+UQrcSpmdyt3Xfmn9AqY7022IcTHr4+D2UrXcrA3oFzD26cdJyL6+kPZrtJ+GiWQD5lJPElflENHuUgITISms0v/AY0jbuPhCqujoZ61f40222sr4aSGjdGwgJdWBI8+R/1CoGWaOM2to43Bu9xoYcC4suckC+jxgLKiV1KTN3ZR9ZDIsZ9tarGW25KfQQvGM/365SSBTAnUQCypCeO0Uw7cM8U8WyA25lGl+viDNoEW0Ek0AfOZQEwdO68zzcHg/p2LID052LZYbCFx8c8Nwp3sJRZeQu3Qr99/4f6cOOiIE+0CUx6VJGjK2KHbvC/AOzYPi59AniQHODgUyQvUJCvEgygdfGwjsQSC0djNUflmBHk1vRAEZVc81cYCVKaVxl2eaHXRzLMwYylp7klmrCP3h42WJj0Cox6Mk+oeswg+GMpwctC91IlLg==;xFkqi6LxFW3TBy9mLBtfog=="

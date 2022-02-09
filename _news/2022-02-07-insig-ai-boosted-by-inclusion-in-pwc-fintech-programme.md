@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/973290"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Traction Programme unveils 8 startup graduates on Digital Demo Day"
+    excerpt: "Armenia Startup Academy mentors provided us with regular feedback ... Meet the Academy Traction Batch 2 Companies Modicus Prime is a self-service AI company enabling process and quality control for biotech research and manufacturing."
+    publishedDateTime: 2022-02-09T12:55:00Z
+    webUrl: "https://www.panarmenian.net/eng/news/298361/"
+    type: article
+    provider:
+      name: PanARMENIAN.Net
+      domain: panarmenian.net
+    quality: 22
+    images:
+      - url: "https://media.pn.am/media/issue/298/361/photo/339x226_thumb_photo_298361_1f5e9ed63.jpg"
+        width: 339
+        height: 226
+        isCached: true
   - title: "Insig Ai Plc Regulatory News"
     excerpt: "Insig AI plc (AIM:INSG), the data science and machine learning company, is delighted to announce that it has been selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as ..."
     publishedDateTime: 2022-02-07T07:16:00Z
@@ -51,6 +65,6 @@ related:
       domain: lse.co.uk
     quality: 19
 
-secured: "kB2B4b8xm5kUUGFVSn5R/SwGltXgUi9dVBFCUJUkDzxU4/oi0WpLEPLk2xCtQozfnK3i+l0jhxXMmPasEwMjEkSVOUR8cy7/sprYOsfjNybJ8Rw0MyDqEmlpyUBN1uT0sIu435O/QcB849Yq9JalkH8AxiL0TSCZwuXRix5DROYXTbThr30YJ/BfS0godP4zQNVJfAmYNXFD5A7oNdeAxJ7mu7R787Y8Rqvy9wV5kSxx0fPOjreTOXSwBkGUx1F8WPaLLGRIdL7mviimd3gr0qU+P/fVNBKHdR88GIs3JG/bYFOkYIDATRYSUTErXWujZDMP9HwmNIFkS58gg9EGasOPpDgsI1/E13FNA+JDiZI=;qy/3T9Ldr02Mnx4dJ+r5gg=="
+secured: "0MPjfSUK7RpZR0OcykmMlEXb4DVFybC4R5QsnmmTQ5KzpTMa8sKYlYl0uGSBYrqNz6fnHzILybRLwuprmOAKk40LqaIjKn4XSUyhnzCvP9EVDES3r3puyw/KC0SzzAWduxS+duwKy/Y4/EkQH7dDhHl84M82cWlc8W32pdJ6y5u8Fkrht7yQAGnA44tgzfwuMg43sXOZceLvB+g/sytrdGlTUJ1eoFhzFFtRBPQRjMKQQFChWq3dxC0hlY4khZUu/ac4+rEqtvQwKzfPJvNYjSwv0/lRmAoqx/WoI2bpaBxvhjrHLn5t2yGyphpD9GsPwcuDDY+p0vtuOZ4btwv+cvGnSW5CH1tigdzvt/Gb0OTElnTexfbg6ddbP5Zf+gC+fX48aXCRab14K7EJjj/dzS/+M+Quvnn+kO40X34xSbbBOl8k8A4xe8G6JFqitYhKtozK7r14LQiLSpTP1SetltQEi2YatOAZjp5A4+ZxG1DIbGUaJZsWBRcq0uvZcg7F7rwu2NLXFsF2jf3qlJAZHw==;fF1sCKi3yGabmxtHLdeYmA=="
 ---
 
