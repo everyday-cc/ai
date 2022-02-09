@@ -123,6 +123,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "ID.me Says It Will Make Facial Recognition Optional for Government Agencies"
+    excerpt: "The major reversal comes one day after the IRS ended its use of ID.me's facial recognition service and amidst an outpouring of public pushback."
+    publishedDateTime: 2022-02-08T23:33:00Z
+    webUrl: "https://gizmodo.com/id-me-facial-recognition-optional-government-1848503651"
+    ampWebUrl: "https://gizmodo.com/id-me-facial-recognition-optional-government-1848503651/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/id-me-facial-recognition-optional-government-1848503651/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f846c5dff36aca7c00d3ea36f7440d14.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The IRS won’t make you verify your identity with facial recognition after all"
     excerpt: "The IRS announced plans Monday to back away from a third-party facial recognition system that collects biometric data from U.S. taxpayers who want to log in to the agency’s online portal."
     publishedDateTime: 2022-02-07T20:43:00Z
@@ -519,20 +535,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/11/3d791689-4fb9-4421-a446-dae871b4af40/thumbnail/1200x630/96422b27f7337af35e31743540440084/cbsn-fusion-irs-warns-of-frustrating-tax-filing-season-ahead-thumbnail-870962-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
-    excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
-    publishedDateTime: 2022-02-04T08:20:00Z
-    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
-        width: 1199
-        height: 777
         isCached: true
   - title: "GOP lawmakers move to stop IRS facial recognition technology"
     excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."

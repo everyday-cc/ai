@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
-    excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
-    publishedDateTime: 2022-02-04T07:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-may-see-big-move-inbenta-technologies-ipsoft-nuance-communications-complyadvantage"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "FD8dCPeX5M6q6ufgAn2XHuWWuH9NAWLkZEzOd6bnMpV11ZZY/oNy6fUm4H9Hiwpou9RcXR0Vm4qhXPGw6IAWJg8awbyORE6FYwdN+S/sn9kBcc39Mzsimi4xjyRwLCHcpFQhz8s1QfV5gFAqQXL7zJZFT6zu0XoazOnfdAHXJVdSclfH1FwSaHboqyTifzP7U2s7b8v0gT83Rm8UmdSHdLxWKbgPuU3ugMdQHG6yU1tZZLTJYtx0VnojGobrPb1+pL903lE+Sufr5AWqFHf3sT0wvwiBWdL4EPlHtVJxdVA0QrEN9Ku/pme+zD9FD1aqRt/L0xY1KGZzVCncy8SoH+EEByzYS/fpupLFE7mwl/k=;oVIyuh2u3Cmtnd8njWBXWQ=="
 ---

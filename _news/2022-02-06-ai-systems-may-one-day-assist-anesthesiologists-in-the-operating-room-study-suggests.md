@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20220206/AI-systems-may-one-day-assis
 ampWebUrl: "https://www.news-medical.net/amp/news/20220206/AI-systems-may-one-day-assist-anesthesiologists-in-the-operating-room-study-suggests.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220206/AI-systems-may-one-day-assist-anesthesiologists-in-the-operating-room-study-suggests.aspx"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"

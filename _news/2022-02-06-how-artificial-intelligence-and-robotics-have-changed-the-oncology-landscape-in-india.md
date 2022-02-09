@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
-    excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
-    publishedDateTime: 2022-02-04T07:09:00Z
-    webUrl: "https://www.telegraphindia.com/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    ampWebUrl: "https://www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 40
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1643954674_ver-10-rbi-fintech.JPG"
-        width: 708
-        height: 412
-        isCached: true
   - title: "💸💰 Funding in Indian AI startups in 2021"
     excerpt: "Editorial We have released our annual study on funding in Indian AI startups in 2021. The report analyses received funding by Indian start-ups in the AI & analytics landscape."
     publishedDateTime: 2022-02-06T00:00:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnEzm-BwEX4A/article-cover_image-shrink_720_1280/0/1644146501974?e=1649894400&v=beta&t=PxGNT83fNrHYWQpt7Q3wsDa-LBzxjPxJ_nCObJF0UGU"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Fandrum, India’s First AI Based Mobile App for Celebrity Fans Launched"
+    excerpt: "Fandrum has launched an AI-Based Mobile App seeking to be home to the world of fans, celebrities, influencers, ideas, opinions, reviews & entertaining"
+    publishedDateTime: 2022-02-08T23:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fandrum-indias-first-ai-based-mobile-app-for-celebrity-fans-launched"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "7o/O0iQq2Izj03qG3PYXIYGFk63a7oBFoBoLgjwgYGlp3ubIvqVFHORSnVpMoghyDi5TkeuU8k85HCKwiGzWqNiYYtjlWRZtSwwke/fgFwqH9+ORPHBYL27sdv01RcaZFMVBY2E4gCEkU1PqNx+WPmGxXpjhxs+PjmKvZXmrxU5G0rPtD7kSLwiWea2QFDQJuNCRUixO6C2VF+NcStU6/7LimB3YNVpw0L1w75m1bRxGqIfqe46yJi5ZdYoJlJ77HKQOoyG5NgRTedF3s7wa0VlxUnLJs3GpRdFa0s5iLsvmdVjQTkWE5wzswGxi6S/w/g0nAtKLJey4ryWO2+LSDXBed2deHqQ4lV94USFAScfHdTqiTwmLVyPseJrYM2CLzUTxUQSyfYjtdFoesiLB5IoH4tir1u5WEGeZbiIklTIDNz1La/MEXnwoYiy13H+19V2BOBmP5YfEFE6NFv+UvejbyXwIieiBSf8SKxfc+OgF/EAYiLyE0xz5O00PBKwWrt/L4diGHtOHm9Qt2cLoNQ==;gVQi1LzcISfxKgc7ZwmQLw=="

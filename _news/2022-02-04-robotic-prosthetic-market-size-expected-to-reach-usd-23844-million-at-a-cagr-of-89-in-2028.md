@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in healthcare market to reach $208.2 billion by 2030, report"
-    excerpt: "The global artificial intelligence in healthcare market size is expected to reach $208.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 38."
-    publishedDateTime: 2022-02-04T08:54:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/artificial-intelligence-in-healthcare-market-to-reach-$208.2-billion-by-2030-report/"
-    type: article
-    provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 47
-    images:
-      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
-        width: 336
-        height: 280
-        isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
-    publishedDateTime: 2022-02-08T12:40:00Z
-    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Size Expected to Reach USD 4.51 Billion at a CAGR of 34.0% By 2026"
     excerpt: "The global Artificial Intelligence (AI) in the Construction market is forecast to reach USD 4.51 Billion by 2026, according to a new report by Reports and Data. The easy risk mitigation of quality, and safety, coupled with the time and cost consumption ..."
     publishedDateTime: 2022-02-04T10:41:00Z
@@ -81,19 +53,47 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
-    excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
-    publishedDateTime: 2022-02-07T07:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-report-2027-overview-size-share-analysis-key-players-and-outlook"
+  - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
+    excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
+    publishedDateTime: 2022-02-07T21:44:00Z
+    webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
+        width: 363
+        height: 250
+        isCached: true
+  - title: "Augmented Reality & Virtual Reality Market Size for Education Industry Estimated to Reach $22.4 Billion by 2027"
+    excerpt: "Increasing penetration of interactive learning process for effective visualization of subjects by leveraging digital age technologies such as Artificial Intelligence (AI), Machine Learning ... storage to Microsoft’s Azure cloud, which in turn has ..."
+    publishedDateTime: 2022-02-08T23:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/augmented-reality-virtual-reality-market-size-for-education-industry-estimated-to-reach-22-4-billion-by-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 29
+    quality: 21
     images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
-        width: 724
-        height: 483
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "CNC Tool And Cutter Grinding Machine Market is expected to exhibit a CAGR of 4.52% by forecast till 2030"
+    excerpt: "Request a Free Sample @ https://www.marketresearchfuture.com/sample_request/6163 The advent of the Internet of Things (IoT) and the steady development of machine learning are elements anticipated to affect market demand. Consequent utilization of CNC tools ..."
+    publishedDateTime: 2022-02-08T10:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cnc-tool-and-cutter-grinding-machine-market-is-expected-to-exhibit-a-cagr-of-4-52-by-forecast-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 7
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/NFT-Artwork-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "yKRq+p7iWxupKFZHluHaDXnwf65A5ozz/OR94AmqRGVpsBpTIckZ4sqsecrgQEF5tmPJY6s5buYi25GCEUpUbJFbXvn6gsECd72mvenV/nDlyj9wHdzWoo0u948FlZyxPW5b+3vUVqrK7Xs0M6szAJDNPBgRYM1ELQEqyNiJIa9+u3OE7cEqYKy98kzV20hsGu1mESMF+DPsRAE5dKxXbbnisB8kHZz4wCg4OrVD5cy2QzuKFRvN6FrFe3ODo0iZL3Wfcon8N8KUcGZK1y7OlilnwuoWCAg3IJPSyeyzqICmzn3alh0KvEq96+cEws4HxOQjxuzax4Cmkvm+KZ8h0GE85JB9En0hceFuwPbLX08=;cxQKKGGfizURXP1RDY06VA=="

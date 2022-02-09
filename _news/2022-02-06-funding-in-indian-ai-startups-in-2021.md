@@ -44,21 +44,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
-    excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
-    publishedDateTime: 2022-02-04T07:09:00Z
-    webUrl: "https://www.telegraphindia.com/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    ampWebUrl: "https://www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+  - title: "Fandrum, India’s First AI Based Mobile App for Celebrity Fans Launched"
+    excerpt: "Fandrum has launched an AI-Based Mobile App seeking to be home to the world of fans, celebrities, influencers, ideas, opinions, reviews & entertaining"
+    publishedDateTime: 2022-02-08T23:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fandrum-indias-first-ai-based-mobile-app-for-celebrity-fans-launched"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 40
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1643954674_ver-10-rbi-fintech.JPG"
-        width: 708
-        height: 412
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "vTSEMaqEz04CjcAy/L7K2+WUAGxcoHvIw5LDbv+UJJu8I2YRAvaybiMFNDU8uj6jIJTlzGOyeifo9FtJpkvUQZQDruFkQKjUzZwxdIiXepyhakhhuZMkOLU2zDvcEwiBCXK7Re3TG7isx80EbijB4MhX21lQ3TOXI/3Z6mv8EQSdd5oLen9tfdfXSPhx2RkAVvfGtN7fDNF/zF1sEfjlYvZmz9bOayxyn7q+XD+iKoK8FAfX2kCuO2I5OfNEkpUtmssUowOqROaULiB+mzzClhRRY6JfXif4aWSG9a8Seww6celYlVAQRpd0LpOCv9ToGWeqCK7xTBVgI6ipegWZJT2zkcJugYhICQVcU+rtqNQHmR6PBNjFLnXE1+gSOGROEEO4YpmIxfkMduEfxlrTxiiUppsdmNOe40RFZUQxP8aN6zKOuCKbS578vNiYxQujWjJDYTX0Y1vuh+wSLza6olqT/QPUIj3hi6NwsajCECZ6irKPaAhHvw91qRdDb1VCcRwX6hCYbrg0qMMJfo/P5g==;GKzsGRf7H2FuE7x7iGyEsA=="

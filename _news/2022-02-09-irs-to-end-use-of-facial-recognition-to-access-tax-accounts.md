@@ -137,6 +137,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ID.me Says It Will Make Facial Recognition Optional for Government Agencies"
+    excerpt: "The major reversal comes one day after the IRS ended its use of ID.me's facial recognition service and amidst an outpouring of public pushback."
+    publishedDateTime: 2022-02-08T23:33:00Z
+    webUrl: "https://gizmodo.com/id-me-facial-recognition-optional-government-1848503651"
+    ampWebUrl: "https://gizmodo.com/id-me-facial-recognition-optional-government-1848503651/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/id-me-facial-recognition-optional-government-1848503651/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f846c5dff36aca7c00d3ea36f7440d14.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The IRS won’t make you verify your identity with facial recognition after all"
     excerpt: "The IRS announced plans Monday to back away from a third-party facial recognition system that collects biometric data from U.S. taxpayers who want to log in to the agency’s online portal."
     publishedDateTime: 2022-02-07T20:43:00Z
@@ -534,20 +550,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
-    excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
-    publishedDateTime: 2022-02-04T08:20:00Z
-    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
-        width: 1199
-        height: 777
-        isCached: true
   - title: "GOP lawmakers move to stop IRS facial recognition technology"
     excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
     publishedDateTime: 2022-02-04T21:06:00Z
@@ -788,6 +790,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "d+/OpkjaKp/JiktpLSTcGnAlnGI2dIOYvDYTLH9uAUG6baNKWAd79qDH4nvq0elwn0mjY8yPeh6dFFXB4+hrJaLaV+dvWR1vgw8UtfmcKMP4b+pVpmQVa6QzNYTzmG/LZ5uE+1HpPffXhBiMjeKx7Y6UDQSH1+vijZeFs0+AXfjxCoO18J/RnYs8oZUkzh4hYqXjMndKKp0hRY0OpsrrkeMZfWuvQfCQX3FoQJdju6fQX9oqipblodSg3CKJW4X34Br69UI/GQI+RB+MLqqRGgdrrDY/A83Pte96ru/Pi1E/7QnIUO6g66LV65fVE4/P5Ci/15ulvqpcC3O0KUjWDAZC8Qw6qHWFFrW8wNu8OKs=;0gQj1ejgTgqmPHPZZInmzg=="
+secured: "mJIyhnPaUpqglBGY8tkkRUYkNCKiNThVpeedxnrL4kaFwPhbp6N7assZocT65JOljqk5N8AeU1BUPM/+Si0GQsmjSgooDq8fIpSImozQi+TLCpD9T5F8zFUqSND64b7qoGEQaZ+jzo3SrAsQM1aw8EysJ9NV4tQYDNiBmKHy0V4v0+S20oikJTjaGBHYlIvm6/q6Qu0x6kqAFb4U+pFdHgbbRlFxvjj0Q/OOX13mBMDL/3SpDxDGcHij2LI55bMVF5mw8QNgyDbv3a/TH3ylq3ZKt5Z2dqS3m1m9G/+1iXrTiG4C8np0y3LRaxMV0zkQ4THlICZOpaiaTBdx1Yh9tOZhNiqSg5e6usEc1zz5i5Gmc0IdkH5hghXfjFzSQfW4/aNSYH+Zto9G9oKgCQXkzdSS9FKz9c16PoEIMSExJ/hLkaQjTdI0Mf9TYEVKTwQtiiEFlI7UlSVuRAaBIDds+zV8Phk+0XSN4qD5bMCCyY2qSUVoNO2Y5ojXURNMf7desU8MtdlipEOIBVU6XNdByQ==;D/+MLctlzonmBeXTJCGK6Q=="
 ---
 
