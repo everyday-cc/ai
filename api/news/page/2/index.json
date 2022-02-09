@@ -2,6 +2,156 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-08-nuance-dragon-medical-one-earns-1-best-in-klas-2022-award-for-speech-recognition-front-end-emr.md",
+      "title": "Nuance Dragon Medical One Earns #1 Best in KLAS 2022 Award for Speech Recognition: Front-End EMR",
+      "excerpt": "BURLINGTON, Mass., Feb. 8, 2022 /PRNewswire/ -- Nuance Communications, Inc. (NASDAQ: NUAN) today announced that the Nuance Dragon® Medical One speech recognition solution has been named the 2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nuance-dragon-medical-one-earns-1-best-in-klas-2022-award-for-speech-recognition-front-end-emr-1031171984",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nuance-dragon-medical-one-earns-1-best-in-klas-2022-award-for-speech-recognition-front-end-emr-1031171984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg",
+          "width": 400,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-five-ways-to-reduce-your-cloud-security-blast-radius.md",
+      "title": "Five Ways To Reduce Your Cloud Security Blast Radius",
+      "excerpt": "CEO and co-founder of Ermetic, a provider of public cloud security technology for AWS, Azure and Google Cloud infrastructures ... which may rely on artificial intelligence and machine learning, can deliver an immediate alert that lets you stay ahead ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60c2605210f137d4201e38ff/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/amp/",
+      "publishedDateTime": "2022-02-08T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-5-ways-ai-and-ml-will-make-sports-broadcasting-smarter.md",
+      "title": "5 ways AI and ML will make sports broadcasting smarter",
+      "excerpt": "3. Object Identification can be integrated with mainstream production tools. Amazon, Azure, and Google have large object and AI libraries that technology providers can access to reference objects within a frame of video to be accurately identified and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadcastnow.co.uk/tech-innovation/5-ways-ai-and-ml-will-make-sports-broadcasting-smarter/5167373.article",
+      "originalUrl": "https://www.broadcastnow.co.uk/tech-innovation/5-ways-ai-and-ml-will-make-sports-broadcasting-smarter/5167373.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/5/2/1362852_quidich_systemcricketgraphics_719837.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation.md",
       "title": "VIQ Solutions nabs U.S. Patent for Artificial Intelligence Innovation",
       "excerpt": "VIQ Solutions (NASDAQ:VQS) announced the U.S. Patent and Trademark Office has granted a patent for its Parallel Processing Framework for Voice to Text Digital Media. This patent recognizes ...",
@@ -320,7 +470,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -424,7 +574,7 @@
       "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
       "featuredContent": null,
       "highlight": null,
-      "heat": 629,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -1050,144 +1200,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-driving-value-in-your-supply-chain-with-robotics-and-automation.md",
-      "title": "Driving Value in Your Supply Chain With Robotics and Automation",
-      "excerpt": "Robots are capable of picking those individual pieces and ... By feeding the same data into artificial intelligence and business intelligence systems, companies can also track and predict demand and better understand customer purchasing intentions and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
-      "originalUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Nov-2021-SM.jpg?crop=1&height=348&t=1636504089&width=271",
-          "width": 271,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse.md",
-      "title": "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse",
-      "excerpt": "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
-      "publishedDateTime": "2022-02-07T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-two-members-of-google-ethical-ai-research-group-left-the-company.md",
-      "title": "Two Members Of Google Ethical AI Research Group Left The Company",
-      "excerpt": "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-5.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
-      "publishedDateTime": "2022-02-07T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

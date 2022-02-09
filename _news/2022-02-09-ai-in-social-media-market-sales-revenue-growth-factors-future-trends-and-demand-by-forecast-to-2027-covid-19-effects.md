@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
-    excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
-    publishedDateTime: 2022-02-09T08:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Voice Assistant Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, and Foreseen 2027"
     excerpt: "The Voice Assistant Market is anticipated to grow by US$7.30 Billion by 2025 rapidly growing at a CAGR of 24.32% during the forecast"
     publishedDateTime: 2022-02-09T11:18:00Z

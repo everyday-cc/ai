@@ -2,6 +2,187 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-01-13-machine-learning-ai-used-to-rapidly-detect-sepsis.md",
+      "title": "Machine learning, AI used to rapidly detect sepsis",
+      "excerpt": "Sepsis strikes roughly 2 million people each year and is the cause of one in three hospital deaths in the United States, according to the Centers for Disease Control and Prevention. “Sepsis is the body’s extreme response to an infection and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "originalUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/8fTbEGrlh6x5xJYQWrHSKMW_Q68=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-12-2022/t_966c65e132e24545b6b37ee7896e70eb_name_sepsis.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "publishedDateTime": "2022-01-12T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-navrina-singh-ceo-and-founder-of-credo-ai-interview-series.md",
+      "title": "Navrina Singh, CEO and Founder of Credo AI – Interview Series",
+      "excerpt": "Navrina Singh is CEO and Founder of Credo AI, a company designing the first comprehensive AI governance SaaS platform that enables companies and individuals to better understand and deliver trustworthy and ethical AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/navrina-singh-ceo-and-founder-of-credo-ai-interview-series/",
+      "originalUrl": "https://www.unite.ai/navrina-singh-ceo-and-founder-of-credo-ai-interview-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:941/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/NavrinaSingh2021_Headshot.png",
+          "width": 899,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry.md",
+      "title": "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry",
+      "excerpt": "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "originalUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "publishedDateTime": "2022-01-12T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-platform-finalist.md",
+      "title": "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards ‘Top Small Business Lending Platform’ Finalist",
+      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today congratulated its customer Reliant Funding for being recognized as a LendIT Fintech Industry Awards 2021 finalist. The fifth annual LendIT Fintech Industry Awards honor the world’s leading influencers and innovators in 14 unique categories.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-california-may-finally-regulate-teslas-full-self-driving-beta-test.md",
       "title": "California May Finally Regulate Tesla's \"Full Self-Driving\" Beta Test",
       "excerpt": "California allows vehicle manufacturers to implement Level 2 systems in production vehicles but has much more stringent requirements for tests of any semi-autonomous system meant to move further up the chain.",
@@ -954,168 +1135,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-government-backs-turing-institute-in-bid-to-set-global-ai-technical-standards.md",
-      "title": "Government backs Turing Institute in bid to set global AI technical standards",
-      "excerpt": "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
-      "originalUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
-      "publishedDateTime": "2022-01-12T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-science-fiction-no-mind-controlled-robots-are-truly-here.md",
-      "title": "Science Fiction? No, Mind-Controlled Robots are Truly Here!",
-      "excerpt": "Mind-controlled robots are new robots. These robots use machine learning algorithms to get commands from the users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/science-fiction-no-mind-controlled-robots-are-truly-here/",
-      "originalUrl": "https://www.analyticsinsight.net/science-fiction-no-mind-controlled-robots-are-truly-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Science-Fiction-No-Mind-Controlled-Robots-are-Truly-Here.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-dldsr.md",
-      "title": "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)",
-      "excerpt": "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
-      "originalUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
-      "title": "How managed services will evolve in 2022: The data analytics revolution",
-      "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "publishedDateTime": "2022-01-11T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

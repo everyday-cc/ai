@@ -2,26 +2,26 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-publishedDateTime: 2022-02-09T16:25:00Z
-originalUrl: "https://www.wtol.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.wtol.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.wtol.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-09T17:41:00Z
+originalUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WTOL
-  domain: wtol.com
+  name: KSDK
+  domain: ksdk.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.wtol.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+  - url: "https://media.ksdk.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -85,6 +85,6 @@ related:
         height: 900
         isCached: true
 
-secured: "jZerDF6PjQ97RTxWgsjJqwUfLXx30NbfwNG1wfv2eQCkey9RC20swJxWr3EJzenFM/5KZj1xDhAuXWe5KNrwB01aFpATe8AuKh6nb2PxNa9HwmdVwdGCauMK1RC0P671htaPRlkGg2Q7+deQUORxGIeFFLBKPVgPFRiuF4al2pA7eqV3lfr/GbgpjncRqlSDPqvU2UVqdIXTRpZuToV6gPtU6bqTrGu9SmsftKh2kpKq1jpMYfqlu+apeytG2dICmJm3ssNgadBaXAxTWg7GvkP8mC4NaSOLj8Yd/Dglr8SDdY9TW2mz8EpK3lmwIIMxuy8k9RB9vvthmOOgQgDx3Z4Tqz8KQ8jRlWOgP+grxNE=;th7/9MnDIn4L+LgRYJDDlA=="
+secured: "4c1rNJO9YcQGaDlgjeYi7AbF0SjVvlRVwC0yVgfRkPuNlECMvPj6zd0uukSae3lKiB/AJxQ4JUOfy+Jpic7txXdilAHEwcbxqf8zmv4B7XMnQ4k9zdQeLG2EJzqLr1wl8kC0blnYIDi+rbdxUh+gCo9Xt8S4UFgdz9bLLn4ziEfP7nqBoBMw7wOVyN9m6joUjW4LePHnLJowFuK0c5ONm/bcU/V51XVIZ9w26lU3SLPB6gYyAThsaFEqtpaMvEXMbDvrUe2qhHfPBCuu+3t7Y7nFFxE1GpwXwJpM+bdzfH9JYdBMCeD0nzsO83owzV+o9/mfwE/hIq9dlzoub96/5NHcON0HIpLHxKzW34krmhI=;5oncEZB146lLj5kaVlG3og=="
 ---
 

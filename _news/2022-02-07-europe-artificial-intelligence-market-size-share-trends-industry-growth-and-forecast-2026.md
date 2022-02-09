@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
-    publishedDateTime: 2022-02-08T12:40:00Z
-    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+  - title: "Machine Learning Market 2022: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2022 (The Expresswire) -- “Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments and market potential ..."
+    publishedDateTime: 2022-02-08T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2022-02-08"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Overview, Merger and Acquisitions , Drivers, Restraints and Industry Forecast By 2027"
-    excerpt: "Artificial Intelligence in the Education Sector Market Size – USD 1.08 Billion in 2019, Market Growth – at a CAGR of 43.8%, Market Trends – Rise in venture capital funding in EdTech companies. Growing demand for artificial intelligence (AI ..."
-    publishedDateTime: 2022-02-08T13:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Google-office-logo-AFP-01-e1643044163307-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
     excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
@@ -95,6 +81,34 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324610"
         width: 318
         height: 250
+        isCached: true
+  - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
+    excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
+    publishedDateTime: 2022-02-09T08:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Robot Software Market Size In 2022: Recent Innovations, Top Countries Data with CAGR Value & Growth Insights to 2028"
+    excerpt: "Germany is leading the market due to presence of key players in the country such as ABB, KUKA, and Kawasaki Robotics. The extensive research and development of artificial intelligence in the region has benefitted these key players in upgrading their ..."
+    publishedDateTime: 2022-02-08T12:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robot-software-market-size-in-2022-recent-innovations-top-countries-data-with-cagr-value-growth-insights-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://markettrendandforecast.files.wordpress.com/2022/02/c-m-ivfofaeghqu-unsplash.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."

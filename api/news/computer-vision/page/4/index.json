@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-03-how-ar-and-computer-vision-lead-to-smart-policing.md",
+      "title": "How AR And Computer Vision Lead To Smart Policing",
+      "excerpt": "AR and computer vision play their part in smart city policing by automating routine yet critical tasks performed by law enforcement personnel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d2ae2e967372eeb3ce8cd4%2F0x0.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
+      "publishedDateTime": "2022-01-03T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-02-maine-voices-recognition-needed-that-first-responders-face-growing-mental-health-toll.md",
       "title": "Maine Voices: Recognition needed that first responders face growing mental health toll",
       "excerpt": "I want to develop and maintain a culture where a law enforcement officer asking for help is applauded as an act of courage, says Maine’s U.S. Attorney.",

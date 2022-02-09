@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot As A Service Market to Reach US$ 41.3 Bn by end of 2028, Says Coherent Market Insights"
+    excerpt: "The highest in the industry, the new robot will enable customers to maximize the use of their warehouses. Growing use of advanced technologies such as automation, artificial intelligence, and machine learning for reducing cost is expected to offer ..."
+    publishedDateTime: 2022-02-09T18:51:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robot-as-a-service-market-to-reach-us-41-3-bn-by-end-of-2028/article_3906a1aa-9be1-5394-8887-6ad94b2c99ee.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d4/2d499fad-25d4-5e32-a92d-0955ecb91282/6166f8a0cc6a6.image.jpg?crop=1213%2C637%2C143%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "536eWMZILQr2L+U2OnqzDjL1fVoFGyqmBEk0dWW3DxBNrGgejOrux4yyz5i7ZimRWfb3uW21wLvnDoG6NHucyggRhEXxafs/8U7MQYkikJw6xT0OEtgD4CzUXiON4kGXZT7rlJJjLzsZCzDaxkTrspx3NabW1Nz+DpROts4p21pqSS2jIUj8a/eERvYXPthLljKP5clfSQ39ibb149uPJJsV6nPBA6M6cebikS9nq5PSzwT6MQjE9B+Swdv6IBC+RfErYo/ppjeke0eyOnoPKzovbaoQ4cdBvn+/eOTaxG+TnKOKTOLkxFHoPAxjAntAiGEkNPRg1KzLRS2PgnODBK2v3pt2OXBkFH6/nlynu5A=;EG+XJAnIu8TRcbvKo1eYUA=="
 ---

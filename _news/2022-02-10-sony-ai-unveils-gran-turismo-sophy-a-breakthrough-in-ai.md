@@ -106,6 +106,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sony AI and Polyphonic Unveil Gran Turismo Sophy"
+    excerpt: "Christian Gerdes. In a blog post made on Sony AI’s blog, the team described the many challenges in making Sophy a reality. To start, the AI had to learn Gran Turismo‘s physics engine–a ..."
+    publishedDateTime: 2022-02-09T18:34:00Z
+    webUrl: "https://gameranx.com/updates/id/287895/article/sony-ai-and-polyphonic-unveil-gran-turismo-sophy/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 37
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2021/11/gameranx-icon.png"
+        width: 500
+        height: 499
+        isCached: true
   - title: "Sony AI Announces Superhuman AI Agent Called Gran Turismo Sophy - News"
     excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced a the \"first superhuman AI agent\" called Gran Turismo Sophy. The AI was designed to \"outrace the world’s best drivers of the highly realistic PlayStation 4 racing simulation ..."
     publishedDateTime: 2022-02-09T16:36:00Z
@@ -119,6 +133,34 @@ related:
       - url: "https://www.vgchartz.com/articles_media/images/bloomberg-new-assassins-creed-to-help-fill-ubisofts-schedule-beyond-good-923182_featured.jpg"
         width: 600
         height: 250
+        isCached: true
+  - title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
+    excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
+    publishedDateTime: 2022-02-09T16:55:00Z
+    webUrl: "https://twinfinite.net/2022/02/gran-turismo-sophy-sony/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 37
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2022/02/Gran-Turismo-Sophy.jpg"
+        width: 1920
+        height: 1078
+        isCached: true
+  - title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
+    excerpt: "A new AI racer from Sony can beat world champions at Gran Turismo, and it's just the first step to \"unimagined opportunities\" for using AI in games. Sony unveiled Gran Turismo Sophy today, the first major announcement from Sony AI and the result of an ..."
+    publishedDateTime: 2022-02-09T18:47:00Z
+    webUrl: "https://www.gamesradar.com/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dQsLErTFoxCpKhKtac7icC-1200-80.jpeg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sony Announces Gran Turismo Sophy, a New Artificial Intelligence"
     excerpt: "Sony has announced Gran Turismo Sophy, an artificial intelligence built in collaboration between Sony AI and Polyphony Digital. Revealed as part of the Race Together Media Event, Sony claims that the new artificial intelligence, which has been trained ..."

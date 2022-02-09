@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/retail-industry-2021-year-revie
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The National Law Review
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Fear Index review: A psychological thriller with a dash of AI"
+    excerpt: "Josh Hartnett (Pearl Harbor, The Black Dahlia) stars as Alex Hoffman, a wealthy technology entrepreneur who invents an AI-driven system capable of predicting ... tragedy prompts some of their employees to start to question the morality of the whole endeavour."
+    publishedDateTime: 2022-02-09T18:03:00Z
+    webUrl: "https://www.newscientist.com/article/mg25333730-500-the-fear-index-review-a-psychological-thriller-with-a-dash-of-ai/"
+    ampWebUrl: "https://www.newscientist.com/article/mg25333730-500-the-fear-index-review-a-psychological-thriller-with-a-dash-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25333730-500-the-fear-index-review-a-psychological-thriller-with-a-dash-of-ai/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/09125950/PRI_221368334.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Alphabet’s 2021 year in review: What propelled the 40% growth"
     excerpt: "Stealing the show from most big tech companies, Alphabet Inc, for the last quarter of 2021, reported $257.6 billion in revenue, calculating the growth of 41% YoY. Just in the last quarter, the company reported $75."
     publishedDateTime: 2022-02-08T04:30:00Z

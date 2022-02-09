@@ -56,6 +56,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Query.AI Earns Gold in the 2022 Cybersecurity Excellence Awards"
+    excerpt: "Because of its unique ability to unlock access to and value from cybersecurity data wherever it is stored, regardless of vendor or technology, and without requiring centralization, the Query.AI Security Investigations Platform has won gold in the 2022 ..."
+    publishedDateTime: 2022-02-09T18:32:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/query-ai-earns-gold-in-the-2022-cybersecurity-excellence-awards/article_e53548bf-154f-5b84-8a4f-ebd40f4ee8b0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/47/a47d5221-522f-5117-a471-b8bc996fa2b4/61ae1b6ba12df.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
+        width: 1194
+        height: 627
+        isCached: true
 
 secured: "duHZ/RbitjuURYVampqBuwmbV69DhsgVol+7YVAdm52Rbx1dZRxNb3/VLxE8of3ujic6V9R32G7eWHm1r3ugfHLKoQXP+qLsBrunupZtr77iecZzeN2n0zHutuEljlQOMhIhCQDmI7YyNT6NXRlFt+FIL3JKNn3D+8JXW8vLNApsFUyaYZQgp/qYeo6gC3ISFulQNmKI/9F+3hifDuUrcicADt2BXtXgLpob3RqlAkrcG03ellmt+D2w9KGW4GkQxFr0a9/tIgEWZ2KR8Ex0cervpbhaQtVAzetUsrUohrJ4yZ/QmIM5x5DMHpiG6APE2+PZDrcGbyfmO9935LAEW7PBw1bPEunD8CBl5mS4EVU=;eryDwXMQn0UfF3erUE0i6Q=="
 ---

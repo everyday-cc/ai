@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "I.R.S. to End Use of Facial Recognition for Identity Verification"
-    excerpt: "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ..."
-    publishedDateTime: 2022-02-07T18:47:00Z
-    webUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "IRS does an about-face on facial recognition plans"
     excerpt: "The IRS is abandoning plans to require facial recognition to authenticate online access following criticism from politicians, privacy advocates, and tech experts, forcing the agency to look at"
     publishedDateTime: 2022-02-09T00:52:00Z
@@ -288,22 +272,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "IRS to end facial recognition for identity verification"
-    excerpt: "Last month, ID.me faced criticism when CEO Blake Hall admitted in a Linkedin post that the company used Amazon's Rekognition technology to compare video selfies submitted by users to its own, bigger internal database of previous applicants. FOX Business ..."
-    publishedDateTime: 2022-02-07T23:19:00Z
-    webUrl: "https://www.q13fox.com/news/irs-ending-facial-recognition-identity-verification"
-    ampWebUrl: "https://www.q13fox.com/news/irs-ending-facial-recognition-identity-verification.amp"
-    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/irs-ending-facial-recognition-identity-verification.amp"
-    type: article
-    provider:
-      name: Q13 FOX News
-      domain: q13fox.com
-    quality: 61
-    images:
-      - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/02/932/470/IRS-building.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Face off: IRS scrap facial recognition after blowback"
     excerpt: "No one should be forced to submit to facial recognition to access critical government services,” said Senate Finance Chair Ron Wyden said in a statement after the IRS"
     publishedDateTime: 2022-02-08T01:42:00Z
@@ -399,6 +367,22 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
         width: 864
         height: 486
+        isCached: true
+  - title: "Florida DEO contractor drops facial recognition plan after backlash"
+    excerpt: "(CNN) — On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website."
+    publishedDateTime: 2022-02-09T17:54:00Z
+    webUrl: "https://nbc-2.com/news/state/2022/02/09/florida-deo-contractor-drops-facial-recognition-plan-after-backlash/"
+    ampWebUrl: "https://nbc-2.com/news/state/2022/02/09/florida-deo-contractor-drops-facial-recognition-plan-after-backlash/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2022/02/09/florida-deo-contractor-drops-facial-recognition-plan-after-backlash/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 59
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2022/02/id-me.jpg"
+        width: 2500
+        height: 1663
         isCached: true
   - title: "After criticism, IRS to end use of facial recognition to identify taxpayers"
     excerpt: "WASHINGTON (AP) — The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy ..."

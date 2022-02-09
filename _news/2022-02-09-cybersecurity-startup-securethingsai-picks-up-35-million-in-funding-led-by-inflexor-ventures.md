@@ -42,6 +42,20 @@ related:
         width: 1918
         height: 1080
         isCached: true
+  - title: "Query.AI Earns Gold in the 2022 Cybersecurity Excellence Awards"
+    excerpt: "Because of its unique ability to unlock access to and value from cybersecurity data wherever it is stored, regardless of vendor or technology, and without requiring centralization, the Query.AI Security Investigations Platform has won gold in the 2022 ..."
+    publishedDateTime: 2022-02-09T18:32:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/query-ai-earns-gold-in-the-2022-cybersecurity-excellence-awards/article_e53548bf-154f-5b84-8a4f-ebd40f4ee8b0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/47/a47d5221-522f-5117-a471-b8bc996fa2b4/61ae1b6ba12df.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
+        width: 1194
+        height: 627
+        isCached: true
   - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
     excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
     publishedDateTime: 2022-02-06T18:35:00Z

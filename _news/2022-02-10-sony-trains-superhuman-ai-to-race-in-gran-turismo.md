@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2022/02/sony-trains-superhuman-ai-to-
 webUrl: "https://arstechnica.com/cars/2022/02/sony-trains-superhuman-ai-to-race-in-gran-turismo/"
 type: article
 quality: 67
-heat: 177
+heat: 207
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sony AI and Polyphonic Unveil Gran Turismo Sophy"
+    excerpt: "Christian Gerdes. In a blog post made on Sony AI’s blog, the team described the many challenges in making Sophy a reality. To start, the AI had to learn Gran Turismo‘s physics engine–a ..."
+    publishedDateTime: 2022-02-09T18:34:00Z
+    webUrl: "https://gameranx.com/updates/id/287895/article/sony-ai-and-polyphonic-unveil-gran-turismo-sophy/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 37
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2021/11/gameranx-icon.png"
+        width: 500
+        height: 499
+        isCached: true
   - title: "Sony AI Announces Superhuman AI Agent Called Gran Turismo Sophy - News"
     excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced a the \"first superhuman AI agent\" called Gran Turismo Sophy. The AI was designed to \"outrace the world’s best drivers of the highly realistic PlayStation 4 racing simulation ..."
     publishedDateTime: 2022-02-09T16:36:00Z
@@ -115,6 +129,34 @@ related:
       - url: "https://www.vgchartz.com/articles_media/images/bloomberg-new-assassins-creed-to-help-fill-ubisofts-schedule-beyond-good-923182_featured.jpg"
         width: 600
         height: 250
+        isCached: true
+  - title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
+    excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
+    publishedDateTime: 2022-02-09T16:55:00Z
+    webUrl: "https://twinfinite.net/2022/02/gran-turismo-sophy-sony/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 37
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2022/02/Gran-Turismo-Sophy.jpg"
+        width: 1920
+        height: 1078
+        isCached: true
+  - title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
+    excerpt: "A new AI racer from Sony can beat world champions at Gran Turismo, and it's just the first step to \"unimagined opportunities\" for using AI in games. Sony unveiled Gran Turismo Sophy today, the first major announcement from Sony AI and the result of an ..."
+    publishedDateTime: 2022-02-09T18:47:00Z
+    webUrl: "https://www.gamesradar.com/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dQsLErTFoxCpKhKtac7icC-1200-80.jpeg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sony Announces Gran Turismo Sophy, a New Artificial Intelligence"
     excerpt: "Sony has announced Gran Turismo Sophy, an artificial intelligence built in collaboration between Sony AI and Polyphony Digital. Revealed as part of the Race Together Media Event, Sony claims that the new artificial intelligence, which has been trained ..."
@@ -182,6 +224,6 @@ related:
         height: 720
         isCached: true
 
-secured: "cIeC/rvviv8mr+WOyeUKSafVa8l9HmWDg70U8mYQJWEP3v+MHX89NHYEJ4k/7/ute16ojpZM4VXOxBLvDPKu1bio7TKlsdy1RvBrKRhGTyW+bUZ/4C9NnXEOk0Xv20NU8Q5F1h+GrbF/w0LUiqt2EQ7xuhfxUGmSEIIgu4TOQFNGSnv2XEwM0MYW222cJF4Lcg/QSrZKRSEi0Jy5Z7wlZ2wwXI3LeNalZ54vfrCbLdpz5Uqfy/MPamJJHOZdKCCYgzRmLpBTT3VPXGhtiUjLexy3AoEoWY1d2o/hfeoA+Od68I2ErWm9fQlWZPm+KcpTh4bzfri7h2HWsvxwcyCtt5h8Q5NtcmPGrpSBSu47fNg=;sxRtz86hNLce/7gOStz4vA=="
+secured: "LR0ntXKZ8Q0vpsq/gy7N02igVw018Br7i2LFw++0hxqNCR5qJS1D8rLzbmuF9bI+MvnUJhoN7CAqoddMkSUxwrFdcmtxIwg38A72s5GP0HtjekShfhXND+XiQqgK1zgC3GCsvaI0EdI7TEZNIiCbdXTYs4nHf7YWY39qFgIFofiFspV+zw+Qy0KYyZHz/hVdoocp9VbOwHlScp6cRLyRnQY0NzEgIzOlG9WEh3iHlIw+mxDaw75Xy6Y7Vmc8dUVRJuRpnyGnppzfLQJIknLS8NvgVC13kwj6PXchxweyLxdLRs/nADAMhCHnb8L1sMjTVRQnu3Kk9trwuwGv9hMyQY3UFSw/xMKZC20NKqtOnmHY3hLJbcZW7N7gdH6bwIMh8vhbtSGUi7iUHxdTGzWPCeiwZgiKyENcV+JhDI1I5oYBxNbW08cPWlbmdst6Yg+ymlErrk55DxjpufpzdnkWYZbY0H+OySrR8yQgqen8qTtEsKjTOg4W72zMeiuoXBDUv11DdqLsk1eG5JDrZmDIHQ==;7nK1qFJan/5Z+hrwxo5Spw=="
 ---
 

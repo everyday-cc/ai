@@ -2,6 +2,178 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-12-23-facial-recognition-systems-regulation-outlook-for-2022.md",
+      "title": "Facial Recognition Systems Regulation: Outlook for 2022",
+      "excerpt": "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/d1086a6/2147483647/crop/7888x3032%2B27%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-seven-ways-robots-help-improve-our-lives.md",
+      "title": "Seven Ways Robots Help Improve Our Lives",
+      "excerpt": "Depictions of robots have been common in science fiction stories for decades. Sometimes they are helpful, sometimes they are villains, sometimes they work with humans, and sometimes they try to destroy humans (à la Terminator).",
+      "sourceUrl": null,
+      "webUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
+      "originalUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smallbusinessbonfire.com/wp-content/uploads/2021/12/Robots.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T00:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "How to Write a Fact Sheet",
+        "domain": "smallbusinessbonfire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-gpu-accelerated-data-analytics-startup-brytlyt-raises-5m.md",
+      "title": "GPU-accelerated data analytics startup Brytlyt raises $5M",
+      "excerpt": "British data analytics and visualization technology startup Brytlyt Ltd. revealed today that it has closed on a $5 million round led by AlbionVC. Existing investors Amadeus Capital Partners and Finch Capital also participated in the Series A extension.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/22/gpu-accelerated-data-analytics-startup-brytlyt-raises-5m/",
+      "originalUrl": "https://siliconangle.com/2021/12/22/gpu-accelerated-data-analytics-startup-brytlyt-raises-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Brytlyt-768x513.jpg",
+          "width": 768,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-deepmind-just-taught-ai-how-to-win-a-game-without-knowing-the-rules.md",
+      "title": "DeepMind just taught AI how to win a game without knowing the rules",
+      "excerpt": "Alphabet's AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
+      "originalUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=82&strip=all",
+          "width": 1599,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
+      "publishedDateTime": "2021-12-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till-2024.md",
       "title": "Natural Language Processing (NLP) Market||Industry Analysis Insights, Future Growth, and Forecast till - 2024",
       "excerpt": "Japan, Japan, Thu, 23 Dec 2021 04:35:31 / Comserve Inc. / -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) market size to grow from USD 10.2 billion in 2019 to USD 26.4 ...",
@@ -880,187 +1052,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-these-will-be-the-5-most-in-demand-tech-jobs-in-2022.md",
-      "title": "These will be the 5 most in-demand tech jobs in 2022",
-      "excerpt": "So, if you’re wondering what the most in demand tech jobs will be in 2022 ... A data scientist’s job is to use machine learning to predict and analyze data. Specific tasks include things ...",
-      "sourceUrl": null,
-      "webUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/",
-      "originalUrl": "https://venturebeat.com/2021/12/21/these-will-be-the-5-most-in-demand-tech-jobs-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insights.dice.com/wp-content/uploads/2021/04/shutterstock_1379131412.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
-      "cdnAmpWebUrl": "https://insights-dice-com.cdn.ampproject.org/c/s/insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
-      "publishedDateTime": "2021-12-21T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-microsoft-partners-with-royal-spanish-academy-for-language-resources.md",
-      "title": "Microsoft partners with Royal Spanish Academy for language resources",
-      "excerpt": "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
-      "originalUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10652/img-Microsoft-REA-partnership_940x443.jpg",
-          "width": 940,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals.md",
-      "title": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals",
-      "excerpt": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals. Program to work on creating products and solutions from research. Take courses under Pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T02:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-visually-impaired-persons-try-their-hand-at-offering-massage-therapy.md",
-      "title": "Visually impaired persons try their hand at offering massage therapy",
-      "excerpt": "Massage therapy business is among the most affected businesses as it was restricted severally yet the business has been increasingly viable for visually impaired people. Beth Gatonye, founder of Seeing Hands Rwanda- an organization aimed to improve the social and economic wellbeing of people with visual impairments-said that she runs a massage therapy centre that employs visually impaired people but where operations were severely affected following the Covid-19 pandemic times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newtimes.co.rw/business/visually-impaired-persons-try-their-hand-offering-massage-therapy",
-      "originalUrl": "https://www.newtimes.co.rw/business/visually-impaired-persons-try-their-hand-offering-massage-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newtimes.co.rw/sites/default/files/main/articles/2021/12/21/beth.jpg",
-          "width": 847,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Times",
-        "domain": "newtimes.co.rw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
