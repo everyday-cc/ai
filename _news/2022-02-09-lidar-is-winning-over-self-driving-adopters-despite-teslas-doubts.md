@@ -69,6 +69,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Two Senators Tell Elon Musk They’re “Deeply Troubled” By Tesla’s Driving Systems In Open Letter"
+    excerpt: "Read Also: Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested The regulator recently appointed an expert in the field who has been openly critical of the way in which Tesla operates. Although neither the automaker nor NHTSA say that ..."
+    publishedDateTime: 2022-02-09T19:29:00Z
+    webUrl: "https://www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/2021-Tesla-Model-S-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
     publishedDateTime: 2022-02-05T07:37:00Z

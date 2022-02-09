@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
-excerpt: "A new AI racer from Sony can beat world champions at Gran Turismo, and it's just the first step to \"unimagined opportunities\" for using AI in games. Sony unveiled Gran Turismo Sophy today, the first major announcement from Sony AI and the result of an ..."
+excerpt: "On the other hand, now that the proof-of-concept is here, you never know where this kind of AI tech may start popping up. Check out our Gran Turismo 7 preview to see how else it changes the racing game. I got a BA in journalism from Central Michigan ..."
 publishedDateTime: 2022-02-09T18:47:00Z
-originalUrl: "https://www.gamesradar.com/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
-webUrl: "https://www.gamesradar.com/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+originalUrl: "https://www.gamesradar.com/uk/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+webUrl: "https://www.gamesradar.com/uk/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
 type: article
 quality: 37
 heat: -1
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sony AI defeats human racers in Gran Turismo PlayStation game"
+    excerpt: "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors ..."
+    publishedDateTime: 2022-02-09T20:41:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sony trains “superhuman” AI to race in Gran Turismo"
     excerpt: "A team of researchers at Sony AI have used deep reinforcement learning to teach an artificial intelligence to play Gran Turismo at a world-class level. While previous experiments have taught AI ..."
     publishedDateTime: 2022-02-09T16:18:00Z
@@ -220,6 +236,6 @@ related:
         height: 720
         isCached: true
 
-secured: "lUBKgsMKbqn+zNldnx0ClHhNJmKCFozIew9Nd2xQtD9aI0clySpTGJ3rApXZhtJ4dRqUFj/OFwn3/fz95VNKlLDNlNlKWoAnDtG2YIldmveR5y7tWzrWQKXWeafrmoTHhTNfnBuAAL/vrunIUA9MA+Hz/nHS8Pi0PO//s4e1cskHopI3pVpZtQPWBil6tJGYN49AYB0xA+oLrhtTueo7PAC3IRXy0faA0tDI+UdNFY2yxRNtwnfXnLJ0yKUjBEgo1oO6GGibtdHl78EyASSnICEpZLJsZ10tLY2MloT71n1z+PAYad8rQvVODTykCA+a2Tyl6zZUATOZuevhfQyInXaS28fw8X6KWGHxB4SHuqo=;305Q74DDjJ2tO5D5jWtXzg=="
+secured: "6odalWDYeYmcI5flIPtL6n1cx3n1iTVsQJVuZmpsBmzSc2sRSqCoFXiP5K+50T2f1zIsDZztEwnjGsR7mEQxGsbcdXByyk9kPyiO67Hlo60PUC7i5ZsExOTP+TiA+rzhjd1d9hk1H6RnWDGx+kghX43na/S+f56GenuLn77x6CBsDyXQAhkWe9/0tEtFf0YoPIURLx5r8nGPLcD1i7LRdIC0j8ZYCgTwaO/OTK+qrTNctqvjSsCYEYjrXDN2sYTi6Cs9+IQ+xiT/X7umfrn6oYmcTpXLXo5Zv1rPl4DFzMaG6B91hJM+hSU02TP3FtztmpUH/z2kWhb4+iILFylz90utDXKMDDH1HqyYLmk8mZY=;Ii3aslaTsYiWLl8G7iMHeg=="
 ---
 

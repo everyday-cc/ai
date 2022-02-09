@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Democrats Urge Federal Agencies to Abandon Use of Facial Recognition"
+    excerpt: "\"Facial recognition tools pose a serious threat to the public's civil liberties and privacy rights, and Clearview AI's product is particularly dangerous,\" warn four progressive lawmakers. A quartet of progressives in Congress sent letters to five U.S ..."
+    publishedDateTime: 2022-02-09T20:32:00Z
+    webUrl: "https://www.commondreams.org/news/2022/02/09/democrats-urge-federal-agencies-abandon-use-facial-recognition"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 41
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "S5TL4d+k6y+pPaBkIKH4rkY+e+2++n0uVC08iPj3enCpoQs/xPdvE0822mpvGTpXf7bnZXtYPBnOyycO5wyF3/TR8uTMvCmXe/SFh5w3V2H0NkUIKdDRW3kyrlhmeLMw/9DRIBG/CBWSSqZkoHdN0f/1G1atX4R5Ft2K3rbU/sUM3DE0ljJuYogUC+Cfs37VBqygZ8xjyDN3xgBh9SSN29xY+A4zF+FicM6MKb/OQyvvsCEiIL3Yf8pWfSo/nH9cYQ/rr4XcnsxOzIc8QCF4jegpeVobZ7PLP59+8lthjVf+1vsQ1DNy1unDZ95WHvb41j9esbf91CElE2LSTM6NyOqGrla4/rlqXKWY28ptoaM=;HalSxIz/LC4mItC4jhQXZQ=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Two Senators Tell Elon Musk They’re “Deeply Troubled” By Tesla’s Driving Systems In Open Letter"
+    excerpt: "Read Also: Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested The regulator recently appointed an expert in the field who has been openly critical of the way in which Tesla operates. Although neither the automaker nor NHTSA say that ..."
+    publishedDateTime: 2022-02-09T19:29:00Z
+    webUrl: "https://www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/2021-Tesla-Model-S-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
     excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
     publishedDateTime: 2022-02-09T05:53:00Z

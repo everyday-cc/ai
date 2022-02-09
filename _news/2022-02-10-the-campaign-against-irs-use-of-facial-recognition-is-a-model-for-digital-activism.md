@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-
 webUrl: "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Democrats Urge Federal Agencies to Abandon Use of Facial Recognition"
+    excerpt: "\"Facial recognition tools pose a serious threat to the public's civil liberties and privacy rights, and Clearview AI's product is particularly dangerous,\" warn four progressive lawmakers. A quartet of progressives in Congress sent letters to five U.S ..."
+    publishedDateTime: 2022-02-09T20:32:00Z
+    webUrl: "https://www.commondreams.org/news/2022/02/09/democrats-urge-federal-agencies-abandon-use-facial-recognition"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 41
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch out for the facial recognition overlords"
     excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on ..."
     publishedDateTime: 2022-02-07T08:13:00Z
@@ -44,6 +58,6 @@ related:
         height: 489
         isCached: true
 
-secured: "V+VqWaCOg7jiX405MJpQIdvYNbri2dEteaJRpzQXwj1uskbL2t9UFFzEbCJD4XasmHerv76cs6h+jLgrITeEZZTSmLmUSsyWBN7DZy1CJeLqDIAwu/XcGkbPJaLjWrpxaBRUVAOaC1njs9LTLNd+plswVkLmwM6p5AEyPU1+0NffJrQc3OpF4akjhuvTCA6VHGreNJh4jzhnVYKzYePrye9CGaBbSIrm+irL5KdruPEEuiEgom6PScnC9RgCh4QxySuhxisacTmfyJCV4mZXgZnw3KyZhgXg/NeOWE2VM7MyrILS6HQ/7zrNRnX7Bx3tWBWuYKxAWjSozK6Xw+A9nFlOXIyYRngm43rmTGHsou4=;w6jT7zeWuxSqz+SF22HjlQ=="
+secured: "7I/6hjdU6mzzuhteu4AZiIJharqy4/cGteLAdojldrGp42gC7bAUZ9H1/e1DjlgJOQHD/+OndpfIDGCcLC8G6Zz3QBlvnJQlqFZlxKMi/hRgU0e39fTTBU6PyDfH/6Dvhmis9sGxZGtS3t7MV0qh4HINE952SMLerFN/dtvEk7zeYbApXLuHe5K+Yqu4C7Hr3Wh/bOXRqFKYdBVlMAeUbloRT4wtbvHYkA+Vbzf8anMpX3RNkh6O3XWmyYQ8ASuTcFAoPIvC1bga9qWzv5NHOyvahJYr2yokaOvIk6BToVCaEkNIur/dDsHRp/Yi2X2eZ0fdtjfJ7GdgdXXpqfmY8ZCR6I2qkYrEfwuW7IY477ynYnFL2/ajOoZJOEn6X/+7bskdhlMI8btIgP4dpLNsAwZXGFhFLD47MeVq47PDKX30TjteGf630mUEP8xVwE7BxDbrZAvxKZ8QgnIil2b1s671UXkNLG4VjkNJAaK9JbvGbVexaJd/OAZHjXQMq5Tb7/PCaCu05ST3fvVYbQp7iw==;7IkzWrKEcw19tNzn2TzbHQ=="
 ---
 

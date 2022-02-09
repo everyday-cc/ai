@@ -59,6 +59,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Two Senators Tell Elon Musk They’re “Deeply Troubled” By Tesla’s Driving Systems In Open Letter"
+    excerpt: "Read Also: Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested The regulator recently appointed an expert in the field who has been openly critical of the way in which Tesla operates. Although neither the automaker nor NHTSA say that ..."
+    publishedDateTime: 2022-02-09T19:29:00Z
+    webUrl: "https://www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/two-senators-tell-elon-musk-theyre-deeply-troubled-by-teslas-driving-systems-in-open-letter/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/2021-Tesla-Model-S-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
     excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
     publishedDateTime: 2022-02-09T05:53:00Z
@@ -85,6 +101,6 @@ related:
         height: 900
         isCached: true
 
-secured: "4c1rNJO9YcQGaDlgjeYi7AbF0SjVvlRVwC0yVgfRkPuNlECMvPj6zd0uukSae3lKiB/AJxQ4JUOfy+Jpic7txXdilAHEwcbxqf8zmv4B7XMnQ4k9zdQeLG2EJzqLr1wl8kC0blnYIDi+rbdxUh+gCo9Xt8S4UFgdz9bLLn4ziEfP7nqBoBMw7wOVyN9m6joUjW4LePHnLJowFuK0c5ONm/bcU/V51XVIZ9w26lU3SLPB6gYyAThsaFEqtpaMvEXMbDvrUe2qhHfPBCuu+3t7Y7nFFxE1GpwXwJpM+bdzfH9JYdBMCeD0nzsO83owzV+o9/mfwE/hIq9dlzoub96/5NHcON0HIpLHxKzW34krmhI=;5oncEZB146lLj5kaVlG3og=="
+secured: "oLE6rUu3bLdKXPv58N0A0kVyB/9v1MliqSdbxVhi67AST8l9xcKiHc522bzJi/0eOSNGYxiEhf6qL5JOPnetMqBqPz1PK7alOp3ib7P89M1m0B/0BSqUsh07W+o404qI1VVsK+irTcxZxG2Xtexwss/O/VVxIUlP/AsuAeAvShxV5LSQDkT9YCVul9mo4z+n7TvkLZQR/Vju64OhFciXIaAbLUvbx+V2kmg2sRBuDIjgEmj+vjiRPBdBujZcFE1XLely8RIV9jO5eEfgq5QBJQyibOfQK5jZTYd46iqPw45wNnhKw1UpNHFqAH4SLGL+bo63qkyKS8nDYxXSxAAhgMK+/0D364eIsL3jO2KFjY49gikp3TG4YIxBG651GAWhB8UR0N3PgoDdjVX+OewNhiSBjQyx7wD1gSBngDGHHcEyIbz1ZFYz5IL7GUaOzdpVo5T5BJIHU30so1TsWlURsPGYw+u1pWh8yuCRjPwbnQeSGPtIERLtLnI+7PEyb8yI10jAQXSpHqI4uLXoF0uBWg==;I0Ff8zC0StU2oqoyc3y28Q=="
 ---
 
