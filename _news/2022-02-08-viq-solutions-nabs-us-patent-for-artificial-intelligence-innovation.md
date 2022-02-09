@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3797138-viq-solutions-nabs-us-pate
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797138-viq-solutions-nabs-us-patent-for-artificial-intelligence-innovation"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 1200
     isCached: true
+
+related:
+  - title: "Technology for creating power-efficient AI processing for Edge solutions"
+    excerpt: "Our intimate knowledge of memory technology means that we have been able to create a solution for the next technology demand of integrating arithmetic operations within the memory. It is another example of us seeing what the industry will require in the near future and developing a solution that will be ready when the need for AI at the Edge becomes mainstream."
+    publishedDateTime: 2022-02-09T09:18:00Z
+    webUrl: "https://www.electropages.com/2022/02/technology-creating-power-efficient-ai-processing-edge-solutions"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 18
 
 secured: "nh3SH3p/nlA4Wwx6XkS4U3FiqT2C1bcwP0y60/8z2XJIjDMVCy9wYdYN75TN9XZE1RwWu+7z+xO/8m1lu3bOlaFF6mVdYvm/8zF2JAyeUOOF1zlEvqM/nlhVKgi0IBSS222gXdr7AB7fYKfIETu1Afhqd2Yn8b+DH3J5U8xFqGD45eQwT61sviE7BHx7I8xYNkWEDG+tHhKF8AacrqjMcNqRkXBv6ytzALJZ1dCqb6nSTv+HEeb61cO85MLty6hA8lnvFvwjCTTKnXt0sD2ybIqw/f5KhNCw6aCeB2KIwXykGjurk6Bnk84D7pmo4En2mmO/7a9nWpyM3W+IQdBwJrXd2uYangCXfP73TIHOetA=;KSjG2NsbX+AptX6eDHAodQ=="
 ---

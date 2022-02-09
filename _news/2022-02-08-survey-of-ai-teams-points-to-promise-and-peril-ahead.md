@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/02/07/survey-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/02/07/survey-of-ai-teams-points-to-promise-and-peril-ahead/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

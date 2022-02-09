@@ -2,6 +2,169 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-26-iot-under-fire-defining-ai-metas-new-ai-supercomputer.md",
+      "title": "IoT under fire — Defining AI? — Meta’s new AI supercomputer",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
+      "publishedDateTime": "2022-01-26T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers.md",
+      "title": "Data platform modernization delivering richer insights and powering dynamic digital experiences for TD customers",
+      "excerpt": "including Azure Machine Learning. \"Banking is one of the most data-intense industries in the world. Using Azure as its primary cloud platform across all lines of business including their data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers-850619154.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers-850619154.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-baidus-ev-project-jidu-secures-400-million-in-series-a.md",
+      "title": "Baidu’s EV project Jidu secures $400 million in Series A",
+      "excerpt": "Baidu’s electric vehicle (EV) project Jidu Auto announced on Wednesday that it has raised nearly $400 million in Series A as the Chinese search engine giant accelerates the development of EVs with self-driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "publishedDateTime": "2022-01-25T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-machine-learning-ml-market-is-expected-to-reach-usd-18389-billion-in-2030.md",
+      "title": "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030",
+      "excerpt": "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
+      "originalUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-01/26/EP_dee60image_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-baidus-electric-vehicle-arm-jidu-raises-400-mln-in-new-funding-round.md",
       "title": "Baidu's electric vehicle arm Jidu raises $400 mln in new funding round",
       "excerpt": "Baidu's electric vehicle arm Jidu Auto said on Wednesday that it has raised nearly $400 million from Baidu and Zhejiang Geely Holding Group in a new funding round. BEIJING, Jan 26 (Reuters ...",
@@ -959,180 +1122,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
-      "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
-      "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
-      "originalUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dev.rodpub.com/images/248/280_main.jpg",
-          "width": 1542,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Contract Pharma",
-        "domain": "contractpharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management.md",
-      "title": "Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management",
-      "excerpt": "Vectra AI, a leader in AI-driven threat detection and response, today announced it has acquired Siriux Security Technologies, a leading provider of",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-how-minority-languages-found-an-unlikely-ally-in-translation-companies.md",
-      "title": "How minority languages found an unlikely ally in translation companies",
-      "excerpt": "Professional translation companies are becoming an unlikely partner in protecting minority languages for future generations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
-      "originalUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.openglobalrights.org/userfiles/image/Tirosh_Images_01-25-22.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openglobalrights",
-        "domain": "openglobalrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-mercedes-sees-luminar-eyes-in-its-self-driving-cars.md",
-      "title": "Mercedes sees Luminar eyes in its self-driving cars",
-      "excerpt": "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/",
-      "originalUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/",
-      "publishedDateTime": "2022-01-25T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -937,6 +937,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-26-data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers.md",
+      "title": "Data platform modernization delivering richer insights and powering dynamic digital experiences for TD customers",
+      "excerpt": "including Azure Machine Learning. \"Banking is one of the most data-intense industries in the world. Using Azure as its primary cloud platform across all lines of business including their data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers-850619154.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-for-td-customers-850619154.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-blameless-new-commsflow-streamlines-how-engineers-manage-incidents-and-keep-all-stakeholders-informed.md",
       "title": "Blameless New CommsFlow(™) Streamlines How Engineers Manage Incidents and Keep All Stakeholders Informed",
       "excerpt": "Blameless, the leading Reliability Engineering platform, is announcing the availability of its new CommsFlow product capability, designed to keep all stakeholders updated as the reliability of services and applications are impacted by incidents.",
@@ -1383,49 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-begalileo-the-mathematical-thinking-cognitive-capability-building-program-signs-up-sania-mirza-as-brand-ambassador.md",
-      "title": "beGalileo, the Mathematical Thinking & Cognitive Capability Building Program signs up Sania Mirza as Brand Ambassador",
-      "excerpt": "He hoped that she will help them put the brand in the 'zone' when parents look for that 'one' option that will aid their child with core foundational & cognitive skills to stay ahead in life.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1730479/Sania_Mirza.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

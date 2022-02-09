@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/02/09/scandit-raises-150m-to-automate
 webUrl: "https://venturebeat.com/2022/02/09/scandit-raises-150m-to-automate-inventory-scanning-with-computer-vision/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1023
         height: 576
         isCached: true
+  - title: "Scandit, the Smart Data Capture Leader, Announces $150m Series D Investment Led by Warburg Pincus"
+    excerpt: "Scandit, the global leader in smart data capture, has completed a Series D funding round of $150 million at a company valuation in excess"
+    publishedDateTime: 2022-02-09T07:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scandit-the-smart-data-capture-leader-announces-150m-series-d-investment-led-by-warburg-pincus/article_05ba6673-b592-5bcc-a8b2-f2de4a65b2ef.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/b4/9b40b06c-7d3e-5db2-addd-30c6fadbb3e5/62037bb92a5d4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "RAecnykzEg+gJTbEKwkS3yAeizdQJor7HfM5J5LcFIeqsxbownSSq3YOmwndZE4/4R3TtriQGKU7q8Tmguk6mqf8qa2lD6Rnc1yw2g/OwtAygsyNln4UwzJnF/M63lGEMfNC8zTIvbj+jZIbmYOSjeAFgy44SWCSPhRZT4U67WDDYiYhdrKVSP2cGEP4X4o+loIRRFV2msVxOpTZkM1ktYGiscziN3oyOz6CitcrnPqcQGLwViSaC+CkF6UZ8abplNb/8rPZAuUpQI6GSjNnR3Le+F8Xk3nNW9AJct0QivYGAfmFTTkI6c+Mc9nJWY+Z996nwmpMcFmwT2g9RlR9nmWeB+Lz7zC/mLa3t5lzRns=;D5iK1BIVax1ozvUH5iSG9Q=="
+secured: "WaiPRUfyqGswWLD1k9CEbAX8Ni5dMOkeVuAjlAephhmpPbto++nrDDDQx02vL136GteIZqswXsLkF1RcduJGyCq3pLNFFtgQe8Ux+fe2raWPfHYjJHpHEwIH4tFXT+QX/LfLypF6m5siXoVD1NE12UzMnjIOhDss5FonY37JXNJ30jbqMy9pQQIdeOlCJzTJr343O92EogUSURBDj9b0COo7YQ4G9cXSqwYuFf92bda/iiWzPuphkg6xQfeGY/tiYhjs0/izjko9dV6t+nfXejglJEdcS0oZVwMeJ0CeiUbmj5KEDdGwdVQATX/jRYk8cER4gz+BrWys7Pn07lZDjDT/ajZTpqWR51KoaGUiIw7QuSDshKw1nnNPhSekJNXsQLjbCS1lEgGkJ/T+qILrFi17yq8/Q7dLlG7U+DoQYFD4vHpC9Ky+MgZGrMj6MO6HeHphHfhb319qiDEJtiiZ8t9n2TRHm4HuJLXfj3zB/5x4tYc5KT0fJSMhl3b4wmaFcMudGxO7jgch4FDmdHddrg==;ffivvTMUDbx6+6CDLptXuQ=="
 ---
 

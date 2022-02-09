@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-24-tesla-agrees-to-stop-letting-drivers-play-video-games-while-driving.md",
+      "title": "Tesla agrees to stop letting drivers play video games while driving",
+      "excerpt": "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg",
+          "width": 2880,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "publishedDateTime": "2021-12-24T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-baidu-gears-up-for-imminent-metaverse-app-launch.md",
       "title": "Baidu gears up for imminent metaverse app launch",
       "excerpt": "Baidu aims to unveil its technological advances and applications in areas like artificial intelligence, intelligent transportation, biocomputing, quantum computing, and autonomous driving.",

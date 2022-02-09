@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

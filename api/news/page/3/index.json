@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-05-heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence.md",
+      "title": "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence",
+      "excerpt": "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
+      "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b1d7deef3a26e9e75536b73e1a5d4822.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
+      "publishedDateTime": "2022-02-04T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-can-you-trust-ai-to-protect-ai.md",
       "title": "Can you trust AI to protect AI?",
       "excerpt": "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ...",
@@ -1133,48 +1185,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times.md",
-      "title": "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times",
-      "excerpt": "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights.",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
-      "originalUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
-      "publishedDateTime": "2022-02-03T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-a
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

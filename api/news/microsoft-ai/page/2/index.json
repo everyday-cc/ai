@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-24-begalileo-the-mathematical-thinking-cognitive-capability-building-program-signs-up-sania-mirza-as-brand-ambassador.md",
+      "title": "beGalileo, the Mathematical Thinking & Cognitive Capability Building Program signs up Sania Mirza as Brand Ambassador",
+      "excerpt": "He hoped that she will help them put the brand in the 'zone' when parents look for that 'one' option that will aid their child with core foundational & cognitive skills to stay ahead in life.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1730479/Sania_Mirza.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
       "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
       "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
@@ -1344,49 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions.md",
-      "title": "Acuity Brands expands tie-up with Microsoft to enable sustainable building solutions",
-      "excerpt": "Acuity Brands (AYI) expands its collaboration with Microsoft (MSFT) to bring new capabilities to AYI smart lighting, lighting controls and building automation",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "originalUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "publishedDateTime": "2022-01-12T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

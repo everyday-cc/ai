@@ -217,6 +217,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The IRS Drops Facial Recognition Verification After Uproar"
+    excerpt: "The Internal Revenue Service is dropping a controversial facial recognition system that requires people to upload video selfies when creating new IRS online accounts. Ars Technica This story originally appeared on Ars Technica, a trusted source for ..."
+    publishedDateTime: 2022-02-08T21:35:00Z
+    webUrl: "https://www.wired.com/story/irs-drops-facial-recognition-verification/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/6202db28c14aa6d334a5d857/191:100/w_1280,c_limit/Business_IRS-1233687835.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "IRS says it will back away from facial recognition amid outcry"
     excerpt: "The IRS has told Senator Ron Wyden it will back away from facial recognition tech following pressure from politicians and other critics.."
     publishedDateTime: 2022-02-08T06:19:00Z
@@ -255,20 +269,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-02/2fa983a0-8837-11ec-9aa5-a4e12e896b56"
         width: 4500
         height: 3068
-        isCached: true
-  - title: "The IRS Drops Facial Recognition Verification After Uproar"
-    excerpt: "The Internal Revenue Service is dropping a controversial facial recognition system that requires people to upload video selfies when creating new IRS online accounts. Ars Technica This story originally appeared on Ars Technica, a trusted source for ..."
-    publishedDateTime: 2022-02-08T21:35:00Z
-    webUrl: "https://www.wired.com/story/irs-drops-facial-recognition-verification/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/6202db28c14aa6d334a5d857/191:100/w_1280,c_limit/Business_IRS-1233687835.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "IRS stops requiring selfies after facial recognition system is widely panned"
     excerpt: "The ID.me system is \"using Amazon's controversial Rekognition technology\" and had verified 20.9 million users' selfies by January 25, Bloomberg wrote. The Treasury Department last year signed a ..."
@@ -504,20 +504,6 @@ related:
         width: 754
         height: 388
         isCached: true
-  - title: "Another lawmaker raises concerns with IRS plan to use facial recognition"
-    excerpt: "Sen. Roger Wicker, R-Miss., is asking the IRS to provide answers to a series of questions around their use of facial recognition and third-party vendor ID.me by Feb. 17. (Photo by Joshua Roberts/Getty Images) The ranking Republican on the Senate Commerce ..."
-    publishedDateTime: 2022-02-04T18:55:00Z
-    webUrl: "https://www.scmagazine.com/analysis/data-security/another-lawmaker-raises-concerns-with-irs-plan-to-use-facial-recognition"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 53
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2022/02/Wicker-e1643998430844.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Republicans, Democrats come together to fight IRS’ plan to use facial recognition for taxes"
     excerpt: "In a rare display of bipartisanship, legislators from across the aisle came together this week in protest of the Internal Revenue Service’s (IRS) use of facial recognition software. Last week it was revealed that the government agency had entered into a ..."
     publishedDateTime: 2022-02-04T23:53:00Z
@@ -565,6 +551,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/11/3d791689-4fb9-4421-a446-dae871b4af40/thumbnail/1200x630/96422b27f7337af35e31743540440084/cbsn-fusion-irs-warns-of-frustrating-tax-filing-season-ahead-thumbnail-870962-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IRS Drops Controversial Facial Recognition Contract"
+    excerpt: "The recent controversy was just one of many issues that the IRS has faced in 2022. Last November, the Internal Revenue Service (IRS) announced that it was teaming up with a vendor called ID.me to install a new level of security for tax filings."
+    publishedDateTime: 2022-02-09T09:03:00Z
+    webUrl: "https://nationalinterest.org/blog/politics/irs-drops-controversial-facial-recognition-contract-200457"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 41
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/Facial%20recognition.jpg"
+        width: 1222
+        height: 815
         isCached: true
   - title: "GOP lawmakers move to stop IRS facial recognition technology"
     excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
@@ -692,6 +692,17 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "Huge government agencies clash over imposing facial recognition"
+    excerpt: "The General Services Administration, which oversees federal offices and technology, says face-scanning technology has too many problems to justify its use as an identity-verification service."
+    publishedDateTime: 2022-02-09T06:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/huge-government-agencies-clash-over-imposing-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/huge-government-agencies-clash-over-imposing-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/huge-government-agencies-clash-over-imposing-facial-recognition/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "IRS Backs Away From Facial Recognition Technology"
     excerpt: "In a Feb. 7 press release the IRS said it would transition away from the third-party service and \"quickly develop and bring online an additional authentication process that does not involve facial recognition.\" \"The IRS takes taxpayer privacy and ..."
     publishedDateTime: 2022-02-09T08:35:00Z

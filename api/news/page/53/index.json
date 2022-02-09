@@ -2,6 +2,188 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-12-19-facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content.md",
+      "title": "Facebook parent Meta uses AI to tackle new types of harmful content",
+      "excerpt": "Meta, formerly known as Facebook, said Wednesday it has created artificial intelligence technology ... that's being pushed at the forefront of research.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/w0oWTJaKxo5pqALFnH32KUwNH-w=/1200x630/2021/12/07/3116a286-fdac-435c-bb72-912eea99533a/gettyimages-1349988105.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "publishedDateTime": "2021-12-18T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-19-the-top-10-computer-vision-papers-of-2021.md",
+      "title": "The Top 10 Computer Vision Papers of 2021",
+      "excerpt": "A curated list of the top 10 computer vision papers in 2021 with video demos, articles, code and paper reference. - top-10-cv-papers-2021/README.md at main · louisfb01/top-10-cv-papers-2021",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/louisfb01/top-10-cv-papers-2021/blob/main/README.md",
+      "originalUrl": "https://github.com/louisfb01/top-10-cv-papers-2021/blob/main/README.md",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/322b60a1434cfb2f63fb8e3883041d60a569aa8f4a49791b59b3cc884a174b96/louisfb01/top-10-cv-papers-2021",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-19-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
+      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
+      "excerpt": "A short film featuring Cozmo. Cozmo implements AI for a lot of its functionality—particularly object recognition and machine vision for finding its cubes and recognizing people. But the emphasis is on using AI to give Cozmo the ability to convey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
+          "width": 6504,
+          "height": 3659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-19-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
+      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
+      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-the-growing-cost-of-deep-learning-for-source-code.md",
       "title": "The Growing Cost of Deep Learning for Source Code",
       "excerpt": "This would surely have sounded like a vision of a distant future just a decade ago, but such quick progress is indicative of the substantial and unique potential of deep learning for software engineering tasks and domains.",
@@ -876,169 +1058,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-developing-ai-applications-on-azure.md",
-      "title": "Developing AI Applications on Azure",
-      "excerpt": "Next, this course introduces the machine learning tools available in Microsoft Azure. We'll review standardized approaches to data analytics and you'll receive specific guidance on Microsoft's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform.md",
-      "title": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform",
-      "excerpt": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform By Deepdub Ltd Dec 15, 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
-      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
-      "excerpt": "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space",
-      "sourceUrl": null,
-      "webUrl": "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html",
-      "originalUrl": "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/b/d3/bd383cd7-b4c6-5c8d-8e85-7a3bc9fc0e30/61b9ea6acca60.image.jpg?crop=1500%2C788%2C0%2C293&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Killeen Daily Herald",
-        "domain": "kdhnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-solving-the-data-conundrum-with-hpc-and-ai.md",
-      "title": "Solving the data conundrum with HPC and AI",
-      "excerpt": "HPC’s GPU parallel computing has been a real game-changer for AI as parallel computing can process all this data, in a short amount of time using GPUs. As workloads have grown, so too have GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/solving-the-data-conundrum-with-hpc-and-ai/",
-      "originalUrl": "https://www.itproportal.com/features/solving-the-data-conundrum-with-hpc-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/j8xQT8TiEmHDu3wUTRJ647-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/solving-the-data-conundrum-with-hpc-and-ai/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/solving-the-data-conundrum-with-hpc-and-ai/",
-      "publishedDateTime": "2021-12-15T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

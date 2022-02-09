@@ -29,15 +29,6 @@ related:
     quality: 3
   - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
     excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
-    publishedDateTime: 2022-02-04T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234248&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
-    excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
     publishedDateTime: 2022-02-06T18:35:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234531&cat=PR News Wire"
     type: article

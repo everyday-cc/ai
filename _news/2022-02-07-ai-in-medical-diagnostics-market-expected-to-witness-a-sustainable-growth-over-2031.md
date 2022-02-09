@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-medical-diagnostics-market
 webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-diagnostics-market-expected-to-witness-a-sustainable-growth-over-2031"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "AI in Drug Discovery Market Estimated To Experience a Hike in Growth By 2021-2031"
+    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
+    publishedDateTime: 2022-02-09T10:37:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 32
 
 secured: "Cg9M9zQWy+Hi2o5sXkajQtSwIqsbUQqyJ6KyqU0oAqQA0RcDWdYtckRIvLPokHYKokJhyyDFTJoZMrAa0W97Z6PTWQDQfPQouqSpwwtAXDSN6hsV1OMQTBlSXjVR8qIwOCzzrH6urOYnxaHlKa28nWntXjZy08Jev+Smi4Ve2ZXTDOtin2gO7NaHte5xBWYIhyifIuoVJHjzsz9ZdMMmQFaVDYaElsGG6gFRc8Q/zek4evpeTwd5T6wqXdyV3Ho6ZqGSwN+A8A8J0v4LEaNGwc58C/NqA2fNYMXBFg1adM2u/W1IWM6t3lAoDTBiBYkMFmeAHAVs08M2yUJsebCrIYQeY4MqGDQ48tV+AX2KN9Y=;gi025xnknAfU3bKwlqcdqQ=="
 ---

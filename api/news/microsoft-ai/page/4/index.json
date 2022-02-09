@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-03-the-cognitive-behaviour-therapist.md",
+      "title": "the Cognitive Behaviour Therapist",
+      "excerpt": "You are leaving Cambridge Core and will be taken to this journal's article submission site. To send this article to your account, please select one or more formats and confirm that you agree to abide by our usage policies. If this is the first time you use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/volume/C6DAAC9D66D8BB395165BC5F79B27810",
+      "originalUrl": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/volume/C6DAAC9D66D8BB395165BC5F79B27810",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/services/aop-file-manager/file/56ab7c9d40b4e47e0c389966",
+          "width": 512,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-02-covid-is-making-americans-stupid-study-shows-worrying-about-virus-leads-to-people-making-bad-choices-and-performing-poorly-on-simple-cognitive.md",
       "title": "COVID is making Americans stupid: Study shows worrying about virus leads to people making bad choices and performing poorly on simple cognitive tests",
       "excerpt": "The basic cognitive abilities measured here are crucial for healthy daily living and decision-making,' said study author and McGill graduate student Kevin da Silva Castanheira in a statement ...",
@@ -1276,59 +1319,7 @@
         "Microsoft AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
-      "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
-      "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "originalUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806-490x264.png",
-          "width": 490,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

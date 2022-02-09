@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-09T07:51:00Z
 originalUrl: "https://newbusinessethiopia.com/nbe-blog/how-to-incorporate-artificial-intelligence-in-enterprises/"
 webUrl: "https://newbusinessethiopia.com/nbe-blog/how-to-incorporate-artificial-intelligence-in-enterprises/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://newbusinessethiopia.com/wp-content/uploads/2021/12/How-to-combat-business-crimes-in-Ethiopia.png"

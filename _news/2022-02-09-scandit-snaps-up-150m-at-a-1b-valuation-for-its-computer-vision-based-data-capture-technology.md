@@ -45,7 +45,21 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Scandit, the Smart Data Capture Leader, Announces $150m Series D Investment Led by Warburg Pincus"
+    excerpt: "Scandit, the global leader in smart data capture, has completed a Series D funding round of $150 million at a company valuation in excess"
+    publishedDateTime: 2022-02-09T07:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scandit-the-smart-data-capture-leader-announces-150m-series-d-investment-led-by-warburg-pincus/article_05ba6673-b592-5bcc-a8b2-f2de4a65b2ef.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/b4/9b40b06c-7d3e-5db2-addd-30c6fadbb3e5/62037bb92a5d4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "sOf7kY00AGtjVddNK9iykiyS0aukm4mZubX63BBvSd24cpIu/ayM8J0y1QXTxSFORVVhDKlF6QQ6NNSIPb2CqxdKKZxHjmvv55NAnQJiqSLDCgbXXlPbEqEz+IbD/uYGzpIJQ4q/TEqqMQ89BmOJgEM9DnwIVEldOcJvkxrPX7pWclW2jfC+/jJgpzz+ozsBF5uR8/Mitcy07xLnhsfwTEqiYOPx2KqmIobDGhHhadX5tz+pJ7DYxSKM0Cm0YODO83hcyrx6K9zEUmYJc//iudQpjYKl2HAk911Enn88WvXB2kjE8/sHeTmHNAEHhY+cn18mrgUVi1LG2xSVFBpre81PTBDtFoKEia+PNCpZXgw=;8nv75rGmpFs3rTuPBFqZ8w=="
+secured: "cc214OwiV06xEx0xhuo77GeU1nueEXmpIaTYnPdKf2L9M2FvJ0/Wcy/l0gOE/iW1ypcHYXhbH7hbWN2LWumSUwpfXw9afUomcCjI0/FiUks5zlkFYBTDjiGDMQW2Ek0LVH3QUfaXuZITG+Xo/RXyDcjvFSJgay3gn7GdwYSKS/68KmcpEAtA8UngxGEIJBadLe1zDkYo7WRXiRJ5FW2FIvtCb014jMKraDYNaKXxlDPU8e2a/cVFiyiwToHdpkyAJVyhvSnp6E1Wdrpb9RohZK+6q08uDtsT6qNJFLg26NGzXvyYBDh2qtyf/L4iMD8I+J2It3mZkyCDnYlWMBlsCf/rEWc6zwhorP1ewdtTy/KRo38OJhMf2b6GjAsy/M9hfx8YKQRdXhCP6ohZK0PtPZBm9TOPEDBd98Ss/+6X6aAtwQlirvIm15upeZAwNE7SpzTTu8EsAzYuqdRLQQyjKzVqt3fqdumEOA/p9t9nRP5rBCUOWcmU3WyTokfVhWtJU4WWS3hlgKbxtWKD5f7uhg==;rT9B9W1F/sI/Ts2OTU1/6A=="
 ---
 

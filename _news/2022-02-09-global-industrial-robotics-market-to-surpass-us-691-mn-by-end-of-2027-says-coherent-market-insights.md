@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Robot Sensors Market revenue to cross USD 5 Bn by 2028: Global Market Insights Inc.'"
+    excerpt: "The robot sensors market size is anticipated to record a valuation of USD 5 billion by 2028, according to the most recent study by Global Market Insights Inc. Market growth is credited to the rising popularity of small robotic toys or bots for in-house entertainment."
+    publishedDateTime: 2022-02-09T10:52:00Z
+    webUrl: "https://menafn.com/1103663605/Robot-Sensors-Market-revenue-to-cross-USD-5-Bn-by-2028-Global-Market-Insights-Inc"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/09/PN_c1db5445-b_Image_In_Body.jpg"
+        width: 400
+        height: 210
+        isCached: true
+
 secured: "am/kw1fDsYX5/lkUIX869NW9Dn9w0hzbBP+5bA7AusGk5FPLbVDT4b/b7SGsK3sFdnb23weVdZJtCcXX4jpMrEI8VDMeTMkr3v6jgzB4ECxGi0KHFq1dCG9EM3CmQxnjO8kuJERcGWzSNIuEXFJU3dcpUljkhein6OhV22usbf1Vsj0adNCL8GLwnu7XLTSMOe6Z5XOj9wT5o0S99ZgKXIdmGCUAg3ET/OSDJU8R38xvhpJhON1Fgcng4F55T+ufizFPy/Ubl1/IUENBjncotOtf2ZzrtriFfiKWLhyCIWKwWNZT1hh9PLzl37PhsMD9KJbzA3PLTiKwMNzhc5AwP2l7T1vSwrNqwMZdJ2ldr6Y=;UXHVn2uOc31J+GPyzaqUWQ=="
 ---
 

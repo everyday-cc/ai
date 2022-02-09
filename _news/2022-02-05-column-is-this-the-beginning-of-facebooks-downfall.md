@@ -26,6 +26,17 @@ images:
     height: 280
     isCached: true
 
+related:
+  - title: "Is this the beginning of Facebook’s downfall?"
+    excerpt: "If there’s a single immutable law in human biology, it’s that no one lives forever. The same goes for corporations. The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms,"
+    publishedDateTime: 2022-02-09T10:07:00Z
+    webUrl: "https://lasvegassun.com/news/2022/feb/09/is-this-the-beginning-of-facebooks-downfall/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 4
+
 secured: "uzLY2SEf6SbbTe64G+AM6ffaa56PyZHgWn67cZEmQ4MQNn1lhnqZo58Wu0dyUh6HMoLPDMF4HiR7UH1U+i4VrdL7POyVyzp/SqPyZAuYh8HFse+7Y8eQIteFe/t9FA7J2C0mrzdnEvdnDVnnQ3YcSOv1pNPoS6/qIEQdYVMLrTVqLlYWj2wnNbxFOimqrTmrUsYlwJTazJKd0+2Th5ZyWCLgtRpNytzupPuaq0m6dLpFcsrlGrGPbXTM3Z9Z2ci/pdKqWB2Yqdqbht0aUqqxr/vk2Xe8Q8ishUZzfGej9q+HJFOKx7OObpEd7FwwfApA5ToEvB0UxmZIpXsQnt8n1R79l92Xj1I6TUyQamclwMx5O/8VnS3jEV7/chNbZyYpLSaNYOTXuaY3/3Z7fmStOtSf2N9iH77llalpwfUxqvaWQOefG9wDc9t1FHQRQpg824WtTUOayxBMu+PHc8BwIeBqA7Q2LXI5qWnuYIlEgN1xZh6lRJ38TKgRO5z/ekQY6iGhKwgN9ZhGIPak7QWnaw==;jkRr6EqiipsC4cZPDTHFjw=="
 ---
 

@@ -2,6 +2,161 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-27-siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding.md",
+      "title": "SiteAware, which leverages AI and drones to track construction site progress, nabs additional funding",
+      "excerpt": "SiteAware, which is developing a platform that leverages drones and AI to keep tabs on construction sites, has raised $30 in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/04/dump-truck-trash-garbage-construction.jpg?w=1200&strip=all",
+          "width": 1181,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
+      "publishedDateTime": "2022-01-26T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-minios-earns-unicorn-status-for-multicloud-object-storage-apps.md",
+      "title": "MinIO’s earns unicorn status for multicloud object storage apps",
+      "excerpt": "MinIO earned unicorn status based on its multicloud, AWS S3-compatible object storage suite of apps that the companies says reliesversatility and AI separate it from competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/unicorn.jpg?w=1200&strip=all",
+          "width": 1100,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "publishedDateTime": "2022-01-26T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management.md",
+      "title": "Vimaan Emerges from Stealth with First of its Kind Computer Vision Platform for Inventory Management",
+      "excerpt": "SANTA CLARA, Calif., Jan. 26, 2022 /PRNewswire/ -- Vimaan, a computer vision company for warehouse inventory management, emerged from stealth to announce its leading-edge, field proven solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management-1031130910",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management-1031130910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1734135/Vimaan_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
       "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
       "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
@@ -316,6 +471,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-is-palantir-the-aws-of-data-analytics.md",
+      "title": "Is Palantir the AWS of Data Analytics?",
+      "excerpt": "It comes as no surprise to anyone in the business world that companies are increasingly relying on data for everything they do. According to IDC, more than 80% of an organization's data will be unstructured by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/26/is-palantir-the-aws-of-data-analytics/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/26/is-palantir-the-aws-of-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661842/gettyimages-1331470022.jpg",
+          "width": 6048,
+          "height": 4024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -881,40 +1088,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-26-is-palantir-the-aws-of-data-analytics.md",
-      "title": "Is Palantir the AWS of Data Analytics?",
-      "excerpt": "Fortunately, Palantir Technologies (NYSE: PLTR) develops a software-as-a-service (SaaS) platform called Foundry. Unlike much its competition, Foundry provides multiple capabilities as part of a unified platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics",
-      "originalUrl": "https://www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics?amp",
-      "publishedDateTime": "2022-01-26T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-26-the-strategy-and-synergy-of-ai-and-agile-methodologies.md",
       "title": "The Strategy And Synergy Of AI And Agile Methodologies",
       "excerpt": "What follows is a brief overview of how agile methodologies emerged and why AI delivers such valuable synergies with agile business. Agile methodology was popularized and refined by software developers in the early 2000s,",
@@ -1005,135 +1178,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-iot-under-fire-defining-ai-metas-new-ai-supercomputer.md",
-      "title": "IoT under fire — Defining AI? — Meta’s new AI supercomputer",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
-      "publishedDateTime": "2022-01-26T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-baidus-ev-project-jidu-secures-400-million-in-series-a.md",
-      "title": "Baidu’s EV project Jidu secures $400 million in Series A",
-      "excerpt": "Baidu’s electric vehicle (EV) project Jidu Auto announced on Wednesday that it has raised nearly $400 million in Series A as the Chinese search engine giant accelerates the development of EVs with self-driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "publishedDateTime": "2022-01-25T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-machine-learning-ml-market-is-expected-to-reach-usd-18389-billion-in-2030.md",
-      "title": "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030",
-      "excerpt": "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
-      "originalUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/26/EP_dee60image_story.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

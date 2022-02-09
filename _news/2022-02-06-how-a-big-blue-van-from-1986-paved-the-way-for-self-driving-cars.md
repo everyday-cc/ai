@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This is not a self-driving car"
-    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
-    publishedDateTime: 2022-02-04T18:55:00Z
-    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-driving big-rigs will haul freight in Arizona"
     excerpt: "In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in the vehicle. But it can only operate along predefined, mapped routes — which TuSimple has done between Tucson and Phoenix. In its seven ..."
     publishedDateTime: 2022-02-06T05:27:00Z

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-27-fintech-a-force-for-financial-inclusion-in-palestine.md",
+      "title": "Fintech: A force for financial inclusion in Palestine",
+      "excerpt": "Majd Zghyer is the strategy officer at uMake, an entrepreneurship support organisation (ESO) based in Ramallah, Palestine. This year",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
+      "originalUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wamda.com/feature-images/c55cbfccaa370a6.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-26T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda.com",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-26-reviving-fintech-services-6-steps-to-prevent-false-declines.md",
       "title": "Reviving Fintech Services: 6 Steps to Prevent False Declines",
       "excerpt": "From using fraud tools to providing more data,, Managing Director EMEA for Signifyd, uncovers the importance of preventing false declines.",

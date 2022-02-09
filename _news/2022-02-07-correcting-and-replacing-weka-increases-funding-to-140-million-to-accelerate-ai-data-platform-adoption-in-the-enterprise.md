@@ -35,7 +35,7 @@ related:
     provider:
       name: newbusinessethiopia.com
       domain: newbusinessethiopia.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://newbusinessethiopia.com/wp-content/uploads/2021/12/How-to-combat-business-crimes-in-Ethiopia.png"
         width: 333

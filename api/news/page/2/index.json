@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -188,6 +188,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-insig-ai-boosted-by-inclusion-in-pwc-fintech-programme.md",
+      "title": "Insig AI boosted by inclusion in PwC FinTech programme",
+      "excerpt": "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzAyXC8yMDE5LTA5LTMwLTEzLTIxLTUyLTA4Y2NhNzNiNmZiMmQwYmVkNDgyMTEyNDQ4MjA3OGEzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/973290",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290",
+      "publishedDateTime": "2022-02-07T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -475,21 +518,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-07-insig-ai-boosted-by-inclusion-in-pwc-fintech-programme.md",
-      "title": "Insig AI boosted by inclusion in PwC FinTech programme",
-      "excerpt": "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients.",
+      "path": "_news/2022-02-07-healthtech-startup-qureai-32-mn-from-uks-sbri-healthcare-for-cancer-detection-solution.md",
+      "title": "Healthtech Startup Qure.ai £3.2 Mn From UK’s SBRI Healthcare For Cancer Detection Solution",
+      "excerpt": "Qure.ai’s model involves selling its diagnostic tools directly to hospitals, collaborate with health-centric non-profits, and medical devices companies among others. The startup claims that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html",
+      "webUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/",
+      "originalUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzAyXC8yMDE5LTA5LTMwLTEzLTIxLTUyLTA4Y2NhNzNiNmZiMmQwYmVkNDgyMTEyNDQ4MjA3OGEzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "url": "https://inc42.com/wp-content/uploads/2022/02/qure-social.jpg",
           "width": 1200,
-          "height": 740,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -497,13 +540,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/973290",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290",
-      "publishedDateTime": "2022-02-07T00:59:00-08:00",
+      "ampWebUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/",
+      "publishedDateTime": "2022-02-06T20:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
+        "name": "inc42.com",
+        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -513,8 +556,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -768,7 +811,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1165,58 +1208,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence.md",
-      "title": "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence",
-      "excerpt": "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
-      "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b1d7deef3a26e9e75536b73e1a5d4822.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
-      "publishedDateTime": "2022-02-04T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
