@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-09T10:00:00Z
 originalUrl: "https://www.forbes.com/sites/alanohnsman/2022/02/09/can-next-generation-simulation-build-a-better-self-driving-car-this-ai-upstart-thinks-so/"
 webUrl: "https://www.forbes.com/sites/alanohnsman/2022/02/09/can-next-generation-simulation-build-a-better-self-driving-car-this-ai-upstart-thinks-so/"
 type: article
-quality: 58
-heat: 78
+quality: 60
+heat: 80
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6201ceac39bd7c60059e4537/0x0.jpg?format=jpg&width=1200&fit=bounds"
@@ -59,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FNbnFdYxiwpt316T0AvwzWwhs4bcnU+4CbyD8rzB5QWTBWImB5nFGJA4xSl7xot8xZmzqfRZxVOlatLjx4pU26ghW09vneBw3A0hJ/Kkhov0PsowQVnzfIkd+wz5D2Wu5SLsp79+KeR9Jwexb4iOdJbIVUJn5MaHHoMkyIr48zf7cSK2P4F4j/1GjCx01kw7xQ/4i0pQre6EdVzpdgrDzIQeYcs4qVUR1p1b/mdl1djb3DXOsEPPylwAie+cQXI3NNcKVyO/tBy26d87Wp5mWQXEPpT66nuRqM+uOA0cA50HxIUkfC9m5641X0svT79RcQPjmxvxi1o9LTYnJCaiKq+f+hUmg050Job0KRfsOHI=;eJb4MHADCNxd+zM08QheFQ=="
+secured: "RzM2pr2Jie8W9RM+usjJGPHVAEWSH2ASSS8UtdWLamdX3La1S0nH3KPhaAmFSzmPtb2XelYT/KWIXPRvkz9HHDdW76sDCYdz1gzi5iEylVLVsAUowafICMq2Q9iAAiRXNvMr9wF+dy/Q/P/6h6556LAUoctQyQDKzFxni2juhIE8AI0v0QmSYA0JLtW814wUO98JNAuel12OmQsWmbVMb7wl5JfVgGkEROyDgYC3HGtwhZ1C10hMIJmwEJUm2E9m1XPTfyJJYnQfEoprGrG4pOUToMjVnX44PShvw+5wcSHAMtz06OZpp5rDuIKCkpe7/JfqpVL97nM8tHFyHQrrdMjI4b8I2FDtC+2krD5HYKyyVEmEF2D+7ro7bTeHKrjnayL4FINDdmo6CEx7k2lcENChTF0wVKCzxPtaQSzLHtozz4+zlqKh48b+cpzIp1ew3lyxEapeefcn/0Ooq90VENKiDY7QVbfR1YcpNvbeE5oUY70isjFtXCkHnIHChI733WQP/0EqDi1xiVfGTSpRyQ==;vPALK2wcRAXCpGwflNpyaA=="
 ---
 

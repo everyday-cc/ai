@@ -596,20 +596,6 @@ related:
         width: 1222
         height: 815
         isCached: true
-  - title: "GOP lawmakers move to stop IRS facial recognition technology"
-    excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
-    publishedDateTime: 2022-02-04T21:06:00Z
-    webUrl: "https://www.accountingtoday.com/news/gop-lawmakers-move-to-stop-irs-facial-recognition-technology"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/a4b6c57/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2b%2F95%2F021b51a74a8f93d36ab8e268ad75%2Firs-building-spotlight.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IRS backs away from facial recognition"
     excerpt: "The IRS reversed course Monday on earlier plans to require taxpayers to authenticate their identities with a nongovernmental facial-recognition service to use certain online services. In a news release, the IRS announced it will \"transition away from using ..."
     publishedDateTime: 2022-02-07T21:40:00Z

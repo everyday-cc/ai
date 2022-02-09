@@ -35,6 +35,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AI undermining ‘core human values’ becomes target of €1.9m grant"
+    excerpt: "The grant for AI research will allow the LCFI and its partners to work with the AI industry to develop anti-discriminatory design principles that put ethics at the heart of technological progress. The LCFI team will create toolkits and training for AI ..."
+    publishedDateTime: 2022-02-09T13:21:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/02/preventing-ai-from-undermining-core-human-values-is-purpose-of-19m-grant/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/17602/dreamstime_xl_95793273.jpg?crop=0,0.27125000000000005,0,0.23656249999999995&cropmode=percentage&width=1200&height=450&rnd=132888858080000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "neJwSXSwQBZCvzb3zRKLez0N8thbhg2rbKYb5B9e6HKhXQLYmYWv0Drbzoqma1hq8wM4KDffKCfWmcYhSiy71rwmEKFWFYx90+owRk/RtXHAKm/O99j0vw4YaG2aoHh/D14xZXQrH/AujIeOYsZQlf6jOvRsQDMOzIbpKzL64j781urpD5fqBKZmEzu0AEueZtCdIBRkG8t8oZIfJ9JVBxQKbu6Qqjbb8nYzgbDbTZVfl6RFEuR6evlxZY2oe2jyFqhU+9AszDsHycr8myP3NF/jYPvYGOloI6YNU0fPiB5TN6ugWlagv0ps76+l4CJRwfN4aWnHSxAV+U2d6jBJQIi5x84cEcuzZk7vYSb41ro=;2ywkrEQPGQH3hz6lTENPvg=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "AI's Contribution to the Metaverse's Growth"
+    excerpt: "The last several years have seen a slew of new revolutionary tech concepts emerge; the Metaverse is one of the most hotly debated. So, first, let's define Metaverse and how AI can assist in its development."
+    publishedDateTime: 2022-02-09T13:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/ais-contribution-metaverses-growth-harish-rohokale"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE4EFtMQx8IKg/article-cover_image-shrink_720_1280/0/1644410950856?e=1649894400&v=beta&t=XmDhTEPC5ch41W4uYRtpxhpn6pUghezHGRx-hHa324o"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "yYpA4cWj+zeB9Q3ekyg7wnX3EYv9rhiN2NF60BTEVUOk/3K9aNlPYensOFFjJGglPzyBG7bag1Di9SSoLMM6JBs4uo5+26ifgopP1XpT/3LScc8LiyOXRc55bVUaJLYK/H6GHEhsJCgnfPEWdWb5+DZgEQMapPvkQITkaEhwvySouU1rWDvPTuABV2dQBIVxpbdj2r9mRj/lgxPaOR6hYwF6OVfaHl4vjK0vX0bNlJtMj+9BTL5oQQGUybfeVKGqx4LNvjUyJrKHasq8+/AcQHKNP/UavO0T5hhALbWbu5J2mfnY+Jgq0Y5aw4EuHlyqxL//c9OIWdA40CrB5oZHcb8SdYMJE+cRnzUoWisrX6Q=;8JbNqczTEwIyu9tvVcktVA=="
 ---

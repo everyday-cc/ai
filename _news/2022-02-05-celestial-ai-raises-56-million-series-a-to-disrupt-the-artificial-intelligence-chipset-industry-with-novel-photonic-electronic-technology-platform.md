@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswireindia.com/news/fulldetails/celestial-ai-ra
 webUrl: "https://www.businesswireindia.com/news/fulldetails/celestial-ai-raises-usd-56-million-series-disrupt-artificial-intelligence-chipset-industry-with-novel-photonic-electronic-technology-platform/77154"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 289
     isCached: true
-
-related:
-  - title: "Celestial AI Raises $56M in Series A Funding"
-    excerpt: "Celestial AI, a Sunnyvale, Calif.-based AI-accelerator company with ... proprietary Photonic Fabric™ technology that uses light for data movement both within chip and between chips. The Photonic Fabric enables optically addressable memory and compute ..."
-    publishedDateTime: 2022-02-05T12:41:00Z
-    webUrl: "https://www.finsmes.com/2022/02/celestial-ai-raises-56m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2020/07/mori-400x293.jpg"
-        width: 400
-        height: 293
-        isCached: true
 
 secured: "7aAE4B2gm+khwc7INlC7A7ihb8OXhXDbDpMA+Ce5qs0ChJ3DcMhEWF5IQZCvw5417Gz91OjG/mDRMgWBMI3oUQcOohDTdj1OPT663Hv+vVrgOcWCNUN7q9Txq+lKT1HtgLwSfK3DDMGCy1SOwjotY9sF9Q6He9FPdHYI8qrIRx0K7v3JpR8zSh1YTdbLaAwMeHqy/Qvxi6krOIyWPo9/P7Ox13erPJnqkgP8eNEzjcqW45AtPoUSdyluC6ZHL/R192oMHUwgjfEluObB3D84/5HxZmqtPL3ZwZ/G2tE7USTcW97jk2dCYI6dWnXuk0HY/0lCnzwZ9vY802waMh/2XFK+ouW4gviTQ+vOR5WIEqc=;zwWaEfGkPcQyFieoSSrC7w=="
 ---

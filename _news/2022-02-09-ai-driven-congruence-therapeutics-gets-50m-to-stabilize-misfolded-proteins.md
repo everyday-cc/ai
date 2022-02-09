@@ -6,9 +6,9 @@ publishedDateTime: 2022-02-08T17:39:00Z
 originalUrl: "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/"
 webUrl: "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 135
+heat: 135
+published: true
 
 provider:
   name: MedCity News
@@ -23,6 +23,6 @@ images:
     height: 512
     isCached: true
 
-secured: "B2+S799CWsEsnfW/7Dbj68n5k/XdY/ynlSx4M0KZx2Fp9zL9X7nfAUEWedsJj0S/HD01pVl76JyNb2bdqBLqEEb+O3s/esS4Wve9ShVgDdilN8b5mypikqcmfBxA7HBb98V6kx3vftUtsMaIEE391an92Jmrz3ITQcnGAlHZezocAdWuxI7miL7EJdWYPk/y0L5GBSCUO5gH2Tp35u7gR8OBDjMqqNMftuf4JvFDlJitJYkLaka2AIpTDyFFQor+z/G6/YcSJ8EEa4mMUiaw4/6sRFmGH+lPDiDf+krKTvwabHD7Q+N0DKqeiHQaL4a5JY2cINon+83JLKUIhiP7FT0PYL4jJTowpd4N0tQIj60=;tYijy9qchvJGeM/YeYTfTA=="
+secured: "oWvBjJz8VKmo3jocHzPZkmTWyC6eBy7eAfh+7LfzYMNpGZT0VM7dBE+K+xk00gU4QHMYYXwbfwX10EgvIQYHzyHSS1FB3OuqRD/sbbQi4LOloW23ySepnahig/tLHVSo4HlGWxfS5x6Z1VHPizHp5tj7BPOlkwE6uZ2PVE4OSTN7q2bmz6SBJfZfgsPCmh6tc4Qickw+61QwCtxKWxT8yKisWFTwgUMg8FXbsn51iBoeZZsiT1lpnO3XoXC2JweCPrnFXkL6eDboZM4i4tC3MxQSoFsStuxvTJ0zpNP2/t4o8nSbFvnVc+z4VFiAZYi0RvgIBxmC7fXzWMFvGOnwWRMxwGO840i0qHrm9ZEFEcpKH2lorYiPQ3OQ8nU4Cwcu;Bzxgt85i2eQ2tFLItLiADw=="
 ---
 

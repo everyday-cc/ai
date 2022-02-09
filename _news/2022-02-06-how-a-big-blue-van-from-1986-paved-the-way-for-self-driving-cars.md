@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -47,31 +47,6 @@ related:
         width: 1024
         height: 540
         isCached: true
-  - title: "Companies are racing to make self-driving cars. But why?"
-    excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
-    publishedDateTime: 2022-02-05T06:42:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2022/02/04/self-driving-cars-why/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLYRGECUJVDKHKA4JM4QHQHQDY.jpg&w=1440"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Guess what drives trust in self-driving cars"
-    excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
-    publishedDateTime: 2022-02-05T22:06:00Z
-    webUrl: "https://www.timeslive.co.za/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 24
 
 secured: "QXDVrMGlRC2nKkTgkWpURTuzsfqxHo46OpJ7pznfLDO+UHKf8+5n4dw44c6IASm001UkfHUtHjPWQmXHHmDlPcf7LIBaTazWiiUAituR/vaqQhWWdViFUzyaevl0Dg7KQR49J1EDo6Ibsma261BQT3BHOEzHPDRxmd84yF3m88WlhCvU+M9uCL5blPCFLtuAe/C2XkIDnyYR5v6CAI4LBnHW4lgSsigWFDXkcujo9/RUddK1bNNjYFHj0xuGZCEKAC3HVEa+WkTESeBdTvOh9ErIV1f0GmSZNxtwxmA8DNl4oaaKHCl9wepZY7E+sbhANbO4lj/MX8ckYz1sq5lzcopYN62t/ziI3vnouUjg+cLwDt2jiINV5HNKOB6BIujLtId9hv3TWSTD8aaVvsHNW58EQHAcNZA4nFan7xstxo975g8mH62Fr17HxNxXI2cAFXsZT2MxJmgKgQN2tuYgICpFx8C40XQLmV/Vpvf8ordWwEFOCZqwy4u0cAzeD0zobEVltRecOvNnN9tFE//ToA==;VluozvUhRzYkLNDetOc2KA=="
 ---

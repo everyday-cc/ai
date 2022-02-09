@@ -582,20 +582,6 @@ related:
         width: 1222
         height: 815
         isCached: true
-  - title: "GOP lawmakers move to stop IRS facial recognition technology"
-    excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
-    publishedDateTime: 2022-02-04T21:06:00Z
-    webUrl: "https://www.accountingtoday.com/news/gop-lawmakers-move-to-stop-irs-facial-recognition-technology"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/a4b6c57/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2b%2F95%2F021b51a74a8f93d36ab8e268ad75%2Firs-building-spotlight.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Huge government agencies clash over imposing facial recognition"
     excerpt: "Even as the Internal Revenue Service and other federal agencies are pushing to require Americans to consent to facial recognition to sign on to government websites, the government’s central management office has refused to use the technology on its own ..."
     publishedDateTime: 2022-02-07T16:20:00Z
@@ -833,6 +819,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "ZAND5XOceNdPq0jQQfORTteXCYYZ+RxmJq1KggLJj4bzzpV/YBV97t/YHN2qfypSKkJO7wMDTLI9SMpdld4wrjdbjLTl1FTNvibk3dWLv6QsvfgZT6b/F2Q38AgDVg4nOXVx0zGDb8l3dvWcBuL/Gc5qcOM+k660/3yXE61mrKqCxt0Dq5EjJMtPvWsmU0rbbEbCiE8pByfWojpZIKq7LT76JNUmB/nRTDWi0VZdNSq/1G8c2VvAYEhV0nR/2xlV5+kTn/5awG9tmy1+pu7RKroyxTvpPUrjO/pVo4JWm42KisTK6e8qN+dPPkq3lg2iYSVANLptxSj8+Deby5CT+mSzASAh6uRFFGY7QhyKhwg=;8KAsH8iXEAiL6jJxmtWzcA=="
+secured: "/ran+AQKGMIIU8hmHIuL2KbZ5J5ctdjiPa6gWzUFKTyYOfwVRZzs2OLhhU8hBYkdEozjarDjZJGFjbrNQzAUw5WOglQLfV5TiBq2ivZlAVi6gsbw24rTmhjWMljpN0nnP8i3SR1p5COtRzbQjrpQsPdJd0ErNSMtfPEaGQwFo4R1LWXVOmQPA8+Vdoch5/SSnWrPzEes87+n9fOp0c/7Nurydo294tYkB97G7Rq5rQwQTddIhGFR6Xq0Sbl4vpSgmM0C5LjWPkivBmYpWAZFSi4LPxco+NAggBGnItK8v8NT22fcN/j8JUYZr/vKp//nJKqM1tAl6JPrm4J8hGfwZvngYH4GdPZZV0xK8KQeGulePgZUsr26R79SjaRj/S6USqlKm6U3fOrHLX4neIC41ngjwtBe0tvFm2X8Ba9gXMaTvrICxvACfhEz56DvehhjUhjKQ/uo8JToX1IZJ8rfWpKND0Uufxw5gPk2p0pZnk5nDf7L5f4VPX6c+ROq10zgRKEv/EdG/R6zDF05pNiByQ==;P6YAcx8CT+JmZarBBt/ZZQ=="
 ---
 

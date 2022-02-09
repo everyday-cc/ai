@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christi
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams — would symbolize ..."
-    publishedDateTime: 2022-02-04T21:32:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 37
   - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
     excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct"
     publishedDateTime: 2022-02-09T03:59:00Z

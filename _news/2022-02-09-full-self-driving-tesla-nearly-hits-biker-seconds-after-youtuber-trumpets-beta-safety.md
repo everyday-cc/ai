@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested"
-    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months."
-    publishedDateTime: 2022-02-07T23:03:00Z
-    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 73
-    images:
-      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested"
     excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ..."
     publishedDateTime: 2022-02-07T23:05:00Z
@@ -74,6 +58,6 @@ related:
         height: 382
         isCached: true
 
-secured: "i4KTMCwQ9cJyIwvBUOFeUq1wVALMEcOWCvhq5ZC3TceEx9UX9dA5lRORO1k+BQVzw1q+om4tXmT5AjVQQkQZPsC99FPrVyIDp9rYc4qlBjUgblOZM3io13mLtIfQtjwx1cUm/x8ANthSZlvWiRiN6Yf9ExGin6frTUFxv4KT0iLAJ+yI7NY292RL4zi25IzG8jr8Jfu3mR92J3KSS3JLbnG++T9ZROi8CMPn3ZeCCAGb4tDVZLnG6jsSc2yVWwmm7QKLlVETlFfpHoO2Mgi/I3iXlqgv3GcHuTqORo4wGpntZmjafYLNbZmn/0wkckA0Iqiggw2CwueMOgd6fEnblxVz6xSE3dCId/9VH5P2/GI=;11bw17ku0usXxQl6FM2XjQ=="
+secured: "n/2KpV+I6X7xULUuDz3O9uoi1LdyLiAsW76vBnEO7XAO4wP1q1D0zBjZ4pTGwgcsRIlpuu0r2Y6PPFaI6FAlCx+FBHfq+LTkgna3NBLYkUcxnYcVuAAIC1qZSpsK8biVxEa9Ot0i+c/G2cp2HWgKLbiMck7vTP85FlY811qqJlBhjzWUASHbRv8SNG7fTfIqkiHeZw3RHi783OnU0TFN/I2o+6N+/1UbVxwzHEKfOnq5DxcSKFthkXzqatfjnoi59TjQX+HqpZtgBpZ1ih1jxrVkmTM0XjRcTtjODd5h9UiP74UJZNEZ2hzVGFEQKQpcWWiyKQrH10BWEWQshyk/nOwyv1WE00VQUZ3dUsZfsor3ZghWLiGKfxO7G7W4598/rRjJT73x/lXfh3qYHhOsFTl8NIS0V+SJdqhu2KJiehgmt8cunYnp9ee8tJRH0gwnFeXfcBUduBe0muoUhTyopmafDRWnL/mB7rEyKYoFHBCYwYVt8TnxgQKrZNiznRZwzvyv4kwE9HXvDgS7tRijIg==;z/yBxfIZKeoPxaLaFXBrKw=="
 ---
 

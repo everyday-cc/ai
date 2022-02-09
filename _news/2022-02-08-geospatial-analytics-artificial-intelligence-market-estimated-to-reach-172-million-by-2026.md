@@ -24,33 +24,30 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud analytics key to digital transformation at National Bank of Greece'"
-    excerpt: "The self-service data mining, artificial intelligence and machine learning capabilities of SAS Viya, as well as the flexibility of Azure, also help the bank innovate faster by moving from ..."
-    publishedDateTime: 2022-02-07T14:39:00Z
-    webUrl: "https://menafn.com/1103652842/Cloud-analytics-key-to-digital-transformation-at-National-Bank-of-Greece"
+  - title: "AI in Drug Discovery Market Estimated To Experience a Hike in Growth By 2021-2031"
+    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
+    publishedDateTime: 2022-02-09T10:37:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/07/PN_d61ef93b-4_Image_In_Body.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Cloud analytics key to digital transformation at National Bank of Greece"
-    excerpt: "The self-service data mining, artificial intelligence and machine learning capabilities of SAS Viya, as well as the flexibility of Azure, also help the bank innovate faster by moving from design phases to rollout phases with increased efficiency."
-    publishedDateTime: 2022-02-07T16:21:00Z
-    webUrl: "https://next-generation-communications.tmcnet.com/news/2022/02/07/9540061.htm"
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 32
+  - title: "AI in Medical Diagnostics Market Expected To Witness a Sustainable Growth Over 2031"
+    excerpt: "Increasing demand for time-saving diagnosis processes in developed economies is anticipated to fuel the growth of the AI in medical diagnostic market during the forecast period. Government investment in healthcare infrastructure to provide advance medical ..."
+    publishedDateTime: 2022-02-07T06:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-diagnostics-market-expected-to-witness-a-sustainable-growth-over-2031"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
     images:
-      - url: "https://mma.prnewswire.com/media/1736485/SAS_Viya_on_Azure.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-4-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "hx8GpR1jrrzRAr51kKk9qlBq7gSO8eYxm3ax75MQ++AYWd9hmLWCPdGhDnnJsNdFwnpESRCMi/zvRVYu7JJUKwxJZCEBxLtgB+wiwCg+WFJ6H8Af8QW6xfn8WM/NYGDrurIl97qmzbwgUyq+ryQSUkwr+JHKO21NF4u7Q+pmPp4t3fTCqcmdBCEOQKampziFTc7VpO1iZHEJI2BUNnrUO4qQMHoJj0jrGKgUPOtOG7m++CtAxqHCRb7MQdYDmVf6NCArWaNVeK+aGTtEWFt19iD1/p/gNUElV5+tUHGBZZatVFHibMgA7jHz0PjVs461yJyLJ4ALJFNFDT81Z+5JtwdXkR3mn14Kg7zWmpzcSR7ZGan8m7n2MbpfpsCYVS9hjjhV97RP9Gw1QhYDUxqOi4F163vGPJE8V+V2KX3vhfeD+/K8uq9GgxUuoxJc32W3SZpRzRpKCgb81/Q3hn5p1+GrjNWkYkUuL0K5uR/ERp7nlANh46Hxaka96YCA2ISjmM/xc3Wn0/U656r3ReKfJw==;DmMc0WZt7MCsUy9nZ1zx2g=="

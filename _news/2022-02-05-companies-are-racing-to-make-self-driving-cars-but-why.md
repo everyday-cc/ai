@@ -25,37 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "How a big blue van from 1986 paved the way for self-driving cars"
-    excerpt: "This was the world’s first self-driving automobile: A pioneering work of computer science and engineering somehow built in a world where fax machines were still the predominant way to send documents, and most phones still had cords. But despite being ..."
-    publishedDateTime: 2022-02-05T17:03:00Z
-    webUrl: "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp"
+  - title: "The Ethical Debate About Whether AI Ought To Warn You When The Self-Driving Car That You Are Riding In Is About To Crash"
+    excerpt: "Speaking of cars, the future of cars consists of AI-based true self-driving cars. There isn’t a human driver involved in a true self-driving car. Keep in mind that true self-driving cars are driven via an AI driving system. There isn’t a need for a ..."
+    publishedDateTime: 2022-02-07T16:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/navlab-1-5-autonomous-vehicles.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62009c5c4b81d4dd7837fa84/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Self-driving big-rigs will haul freight in Arizona"
-    excerpt: "In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in the vehicle. But it can only operate along predefined, mapped routes — which TuSimple has done between Tucson and Phoenix. In its seven ..."
-    publishedDateTime: 2022-02-06T05:27:00Z
-    webUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.html"
-    ampWebUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
-    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
+  - title: "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested"
+    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months."
+    publishedDateTime: 2022-02-07T23:03:00Z
+    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
     type: article
     provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 44
+      name: Carscoops
+      domain: carscoops.com
+    quality: 73
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/5e/c5e328d8-85cd-11ec-ad31-b773d76c35c7/61fd43f4c0ea3.image.jpg?resize=1024%2C540"
-        width: 1024
-        height: 540
+      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Ex-SpaceX Engineers Create Self-Driving Trains To Aid Trucker Shortage"
+    excerpt: "But now, one firm thinks its self-driving freight trains could be here to save the day. Whether or not it actually works, though, will remain to be seen. In order to try to combat the shortage of ..."
+    publishedDateTime: 2022-02-07T22:32:00Z
+    webUrl: "https://jalopnik.com/ex-spacex-engineers-create-self-driving-trains-to-aid-t-1848493197"
+    ampWebUrl: "https://jalopnik.com/ex-spacex-engineers-create-self-driving-trains-to-aid-t-1848493197/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/ex-spacex-engineers-create-self-driving-trains-to-aid-t-1848493197/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0c8a753c32c780b7957c697e0385651f.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Guess what drives trust in self-driving cars"
     excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."

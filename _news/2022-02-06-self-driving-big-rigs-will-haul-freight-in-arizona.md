@@ -43,31 +43,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Companies are racing to make self-driving cars. But why?"
-    excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
-    publishedDateTime: 2022-02-05T06:42:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2022/02/04/self-driving-cars-why/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLYRGECUJVDKHKA4JM4QHQHQDY.jpg&w=1440"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Guess what drives trust in self-driving cars"
-    excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
-    publishedDateTime: 2022-02-05T22:06:00Z
-    webUrl: "https://www.timeslive.co.za/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 24
 
 secured: "sj0Sw54/iNvrsfGcQD6fLDN3h7CALhB2wVbj7gdABZ03+Qe5oq+U9a5FFVyU6U8woTtsNDg9hfJMHt2V7h0YbEY1z0Xe2dICNFnDnM9pIrRJ6AuMLFgp+5Neha5HAaeG+tpILs8yrsstdQWZmxBVJe5T+M12PPMrTS7RcBgCWCnPxpQFnd3zc4Xf6DrYZ11VU2w26cF/5TvhvCWqnL4E3yukFGroC02HbxWZJzIH7FiLpNFv8tJsjOyRbNtfttEUFLZiYDE//CyTu9NU1383Z+mIRf0AgmlpP8/BH35rz0gXoniZESWq5F07Oi6DDFNSEtQSnC7f8yTe/FrpvNfrDTEGkWTG5+vAFhRnF1FmauM2hghJ/MhOmx1l84nNqWdLNbp3GGiwq5ox4IVkR73vdHeGGpymY9V+RkiSd2fCXsy9DYLo5Gs8ba4YkhuQBucB/TYMPZBQt4OIMFy9BioXBEndymn+S4s8Sez+R89vrSYR0Kcol/BnKD6FuURGyGom9+nZYfHS7joL0JhFu+lW3g==;rnORvvzYdd+aUfjW04sYgw=="
 ---

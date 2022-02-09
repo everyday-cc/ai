@@ -36,7 +36,7 @@ related:
     provider:
       name: AppleInsider
       domain: appleinsider.com
-    quality: 72
+    quality: 172
     images:
       - url: "https://photos5.appleinsider.com/gallery/46890-91404-44099-85736-000-lead-Apple-Music-xl-xl.jpg"
         width: 1280

@@ -8,8 +8,8 @@ webUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-in
 ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 type: article
-quality: 72
-heat: 182
+quality: 172
+heat: 282
 published: true
 
 provider:
@@ -184,6 +184,6 @@ related:
         height: 675
         isCached: true
 
-secured: "MiuhR++QEYxbvbSM4dxbRRGusiWI38nKJWE2Y+rSP/ETSJc4I6wY+dTXi5cBbYWneJAzDNSwO7Bmn0yG4VX+/JvMTKpQqLTbDwFOp81ow8Lte/8cIS8saqBgJo4+JOS1PBmzpkDCzo3yAKkU5IumqwFCEOVM/1TgJyB9mJ1VZgMJhRudj3N8enzPX+T2JmliMXs1Jx8j5PyQURRP0iZxrwrDzKouE49iGDXWwnhpT+epfY4zDSM3F7+ALbXfVFgsCvR/sJ35U2NQD1eoTLspTix95R10ltY38OAgqrx322aCZrE3FCsug3dKW7iJJ4vP66D5HJAUKLave0E17l9aT+G/V9Q2b7T2K96Wll5YfaRctCCFHZYTG4Y7ObunL7Wak/qPFQpyTE2pOYM7EVJlss4ht8xFA/DfhhXToQ3yVXB5GwMzeOEAyp4bLUyYWWRzNCDzEPfhEZGIO0LG0EZKLvP/YVG19KJmIptjnPJSauhQ2R1mVZAzNYL9LknH8gPHByiD2VzYpEoKM8aSm1rAMQ==;9//bSA/QeoEPGm/82RoBNw=="
+secured: "qMiMspffmsMowtrtR15MxWrepn2/9Z44e34djPGPsPesr3VEQJRaUrIlfL724pdDgit6c1lcssLcmOOtBnsueWNFsoQkKjwfTv380yizIifc7sqS38wtXkH6jov9QE2N3Cg4msrFlZ5yLiO0DpttL0bk52enWZ8lAgY+00wfo4TFJvOOj1eBZNXVqr1kd3DbIAEulqujv0iOy0Kga6mpnql0isyD+M0TmhmDFJ4MYfVOBwMtGQYdXW1Y9tGSOwYlzS8XalCaTgUrK7+Q2RoNSsHu9Gk02ngctTHReytyfRX0kPswyBnHB/M2twLa1r4oTRGBSbrdgUZuFcg8V/ZjiDSCCjcDakYS32Zq21XQ/sFrOeEt7se176QivcC0V8bcs02WDrb0RPjxd4FtBudX6N9wxPEfrKbS9uu2ggBNKt1nHmhpMxvbDpQJZ98oZp5ceb2F96VKFEKlAevlJ0m9Pl9hAQ7q+wSLVrRRQkk8pzbY7G8zn5Pfmcbw1Uk5QPL4XWuE2/HCo2ryhEcEyZJojAsTayoiNbPWRKrFYa5gxsE=;aG0X/x3+DwHqx1lfzbxnRg=="
 ---
 

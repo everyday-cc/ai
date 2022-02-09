@@ -24,6 +24,22 @@ images:
     height: 379
     isCached: true
 
+related:
+  - title: "Promethium Nabs $26M to Spark Analytics Growth"
+    excerpt: "Analytics platform Promethium announced it has raised $26 million in a Series A funding round, bringing the company’s total funding to $34.5 million since"
+    publishedDateTime: 2022-02-09T13:04:00Z
+    webUrl: "https://www.datanami.com/2022/02/09/promethium-nabs-26m-to-spark-analytics-growth/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/AI-search-shutterstock_1938825682.jpg"
+        width: 800
+        height: 543
+        isCached: true
+
 secured: "Vu4FGO8AAM7oU3kygDx9KZbuf3kDUHsZV7E0APerbDIGkdChrCRg9asMRABQyMUPUHYIpktAR/Nfb2ypmoJ3xrvARv9mDyk27BaIStwWc9W4azK30xJ4KGkiptPzxTxolwxNNEO7AT1Bryxp7QeRcCCW9wsD05fWj0rjzRBvaq4xS/1HK//77vUx4+0l2U8IsgqO/9z78xRSMk4f4DSekkAdSAbHZv7/EYnzSCR/Gm4RxOkcqOR4PZVmRH8adldULFmKVR/55DiEAd8tPYzq1dU4RriHaIT1zj7JqtHlZI7qspK/Z1gTT3be3hkhPEVTHNQxRGOIZ4cTCW0sVpD2BGBwdSs3T/WjfaW59jn4M4Z6tBsCJPnBL9sfNwc8Aa+SiUuY+FoFAw1E38JUWSjfGX6qqemV08WSaPjwp+GZ+XcDfBWByydnXc/SMXxSnG1IPEJZhmTh4+fCsoVRkUuxEVdq1n3tq4gI0fzlxFZr8ysTyUPZ9hWdt/7VZnGZukdVPMi7jPFxNROGlaxWXFfmIw==;C45uf3oDOAF/pzZ3GGTxZQ=="
 ---
 

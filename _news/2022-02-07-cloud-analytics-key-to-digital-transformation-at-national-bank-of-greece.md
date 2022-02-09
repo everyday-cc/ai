@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103652842/Cloud-analytics-key-to-digital-trans
 webUrl: "https://menafn.com/1103652842/Cloud-analytics-key-to-digital-transformation-at-National-Bank-of-Greece"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indium Invests in AI and ML Solutions: Focuses on Text, Natural Language Processing (NLP), Image and Video analytics"
+    excerpt: "Indium, a fast-growing Digital Engineering Services provider, has been recognized as a strong Contender in the ISG Provider LensTM Analytics Services US Report 2021. Indium has been recognized for its capabilities in Data Engineering,"
+    publishedDateTime: 2022-02-09T07:30:00Z
+    webUrl: "https://indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/"
+    ampWebUrl: "https://indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 83
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Cloud analytics key to digital transformation at National Bank of Greece"
     excerpt: "The self-service data mining, artificial intelligence and machine learning capabilities of SAS Viya, as well as the flexibility of Azure, also help the bank innovate faster by moving from design phases to rollout phases with increased efficiency."
     publishedDateTime: 2022-02-07T16:21:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1736485/SAS_Viya_on_Azure.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Geospatial Analytics Artificial Intelligence Market Estimated to Reach $172 Million by 2026"
-    excerpt: "Rise in Internet Penetration Driving the Growth of Geospatial Analytics Artificial Intelligence Market. The Global Geospatial Analytics Artificial Intelligence Market is estimated to reach $172 million by 2026, growing at a CAGR of 30.0% from 2021 to 2026."
-    publishedDateTime: 2022-02-07T17:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-artificial-intelligence-market-estimated-to-reach-172-million-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.abnewswire.com/uploads/1643623445.jpeg"
-        width: 256
-        height: 256
         isCached: true
 
 secured: "2DrHwwtYh7z9y2yrmM3fwxLH/2lqws7OWgWxSavdtxBBIghfEy7XSHVi7G5nPL9rEImhZcpdNoruCfQVRc1yDNVG+DD22uVKHnsdPYkQ02GrrrUtb2+1ymqca91Io3nsARy68sOgjN0nHIFxonoGKiP8ukB/UfHbBCL3DptwyLt8RFIGkkv2F521rYovFMQEyZc0sPqojuJxHYTPNd3JJL6nLd1moeTdB7Di4gd2XXZ57VcUt2Ir3GvU9dASSlsyWMoExDgt8rOm9Zs9kx2wOeMj35HsRa6ZLXi0hktBhmaDV8lNU0tJsGLnRTVyG0hyckqEvwnABh6wU1esKIONepKcb715xqItRXmMsaYtR8M=;d5L/VTZ5oe4E1r54Ko/SGQ=="

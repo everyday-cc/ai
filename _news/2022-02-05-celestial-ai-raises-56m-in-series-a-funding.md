@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/02/celestial-ai-raises-56m-in-series-
 webUrl: "https://www.finsmes.com/2022/02/celestial-ai-raises-56m-in-series-a-funding.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Celestial AI Raises $56 Million Series A to Disrupt the Artificial Intelligence Chipset Industry with Novel Photonic-Electronic Technology Platform"
-    excerpt: "Celestial AI’s mission is to fundamentally transform the way computing is done with a new processing system, based on their proprietary Photonic Fabric™ technology platform, that uses light for data movement both within chip and between chips."
-    publishedDateTime: 2022-02-05T10:20:00Z
-    webUrl: "https://www.businesswireindia.com/news/fulldetails/celestial-ai-raises-usd-56-million-series-disrupt-artificial-intelligence-chipset-industry-with-novel-photonic-electronic-technology-platform/77154"
+  - title: "SecureThings.ai Raises $3.5 Million In Pre-Series A"
+    excerpt: "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team"
+    publishedDateTime: 2022-02-09T13:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/417696"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 31
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/logo_77152.png"
-        width: 400
-        height: 289
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "fDP9ZVIl7ct50U7wRpRyINn/KZArLMb2rn4jlidqncYwyGF34ArcSxrThCFBNnw0CHDhJvJqBIGu36U7vpB8DoHLhWFMZBNULI9mT2qyrx/lcBorIh3eE0vf/3JYxz2B9hWJFMXCaf1hPa1WBQoWdsyrSu+Wcu4vKduIrWUEOvS+QrFsjwZVSJfxbZjIDR8QHrR36frvjkXjaKNewQL9WMyKbBYbgwAefsnbp68wO4F0U+qmaAYFJh9ivNwfqxosjOfjKNdc293u9CYSCTbExbKAapT6i3EOHmYC45dIbBYliLptFtg/3SikoP9hDBf5amLrUxmgLcjZULjPnRpgNChjZu+9QZHbOKRGIhDlWMs=;QwBFVQQgsYe8Iosny2LDXQ=="

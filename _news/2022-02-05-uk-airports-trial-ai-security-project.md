@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/industry/u-k-airports-trial-ai-security-pro
 webUrl: "https://www.hstoday.us/industry/u-k-airports-trial-ai-security-project/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 700
     height: 400
     isCached: true
-
-related:
-  - title: "Can you trust AI to protect AI?"
-    excerpt: "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ..."
-    publishedDateTime: 2022-02-04T22:02:00Z
-    webUrl: "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all"
-        width: 1200
-        height: 522
-        isCached: true
 
 secured: "HiqAb4xaaGdku1GGXlNjkU9tsv2pOdtlQRml3u7xaIMLn1rUMoDqmV2CFYYAwESh2J3J6swhoCqWx2RsRFNnog997CZ1Ka6QYxVVb7nQFLf+DmCov1RMSkpQYbtvkjBH6Vl98TolmDHWC5YieUpi1ujgVVfBtF7zZhYQLPvkw4LT0s4sVMzADjvU5MEMTuUuOHB5N7rrXsN5vNDJkZH48TpfZ3ZkbR6aTmHLPHDVD/kl7wQOjOszYrhB6s/+Ui1HJAgzuhxoQ47CzB2UkqeKXyMQxnajauHgYxdVJGnM32PNdvrdcDL0nn6tclS2bwMP1V4adxGxV12HDyKoP8scFokdbjx64y4EIqeMnscOJ2VTKkwuTQ95rlnuy09QuUgTNuJjBhZBj+K6HxT/WCk3Us7bOcoBeqlTzta9i62rdHR4EHOROCOFTeRFOeYkCOYJyiirKSdQGanbE8Z3qysll71Mht5OgQZ9zomERglcZdLsqzGBNyv4+TDcz1e3qwTRmw5CCRGyGmEA1ggV+5syFQ==;ghFGOTHpkSOyOzqkbh1Djw=="
 ---

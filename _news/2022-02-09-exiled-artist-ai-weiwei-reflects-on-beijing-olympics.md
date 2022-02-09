@@ -40,17 +40,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams — would symbolize ..."
-    publishedDateTime: 2022-02-04T21:32:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 37
 
 secured: "1X4CBWN/IpmgFPpPxvcjYcYpMH4PkJsKpaDQJVujyoXwF6sgcmCaQp9+6Y+3R584vXS039wKfy2DTe7tKI8g0qR0/UAxe1OGaWDP9gBW40II33I6iIr1AUB6dkwPJ/LAyoeRazzeJYAuWlgEbSHfsFIbQB2KtCskfcPzQTmHSAorxhvzBz48bcqY4OmdkexSir4oIbQK9rvhmjfj4RY1k1mStgeee9Y+WUv16K4GHPzfhWClQOhazDSvXrtTKW6p6tJBgLJWJVx4xhdgm5mgM5Pg41V6g4vw8E9s9+uwEwPVjf9Ccblio2hXXQKFZqqrBA1ZcW6iNtAlmxVmyMsSPkCUBAIBJQNLtjTpQUXOcm8vjpL6T+1YlfByB3GgycsNQxe42E+1u3mBUPBrW+r7mluab0CxCwR0g8vPvGde5nbtBx6aO9vwA0jUjBzQY/mEYbOBxwADo6ne42UpJWzNz+oFdEE2EZ86D8YkMLhedGQ41FwnpSs7hgQ2mdl9fgpREj/2Et04FnFnLqcfm65Hvg==;UvDWJRElv5JGBow7Nq5PEQ=="
 ---

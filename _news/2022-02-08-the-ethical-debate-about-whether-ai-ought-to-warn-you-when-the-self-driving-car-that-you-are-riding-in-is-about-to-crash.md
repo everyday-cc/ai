@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Forbes
@@ -32,38 +32,63 @@ images:
     isCached: true
 
 related:
-  - title: "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence"
-    excerpt: "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ..."
-    publishedDateTime: 2022-02-04T22:21:00Z
-    webUrl: "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671"
-    ampWebUrl: "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp"
+  - title: "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested"
+    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months."
+    publishedDateTime: 2022-02-07T23:03:00Z
+    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 85
+      name: Carscoops
+      domain: carscoops.com
+    quality: 73
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b1d7deef3a26e9e75536b73e1a5d4822.jpg"
+      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Ex-SpaceX Engineers Create Self-Driving Trains To Aid Trucker Shortage"
+    excerpt: "But now, one firm thinks its self-driving freight trains could be here to save the day. Whether or not it actually works, though, will remain to be seen. In order to try to combat the shortage of ..."
+    publishedDateTime: 2022-02-07T22:32:00Z
+    webUrl: "https://jalopnik.com/ex-spacex-engineers-create-self-driving-trains-to-aid-t-1848493197"
+    ampWebUrl: "https://jalopnik.com/ex-spacex-engineers-create-self-driving-trains-to-aid-t-1848493197/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/ex-spacex-engineers-create-self-driving-trains-to-aid-t-1848493197/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0c8a753c32c780b7957c697e0385651f.jpg"
         width: 800
         height: 450
         isCached: true
-  - title: "Here’s What Henry Kissinger Thinks About the Future of Artificial Intelligence"
-    excerpt: "For some, artificial intelligence represents nothing more than one tool among many aimed at increasing productivity and maximizing economic output. For others though, AI looks like more of a destination, a couple of words pointing to a tectonic shift in ..."
-    publishedDateTime: 2022-02-07T01:39:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/02/heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/02/heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/02/heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence/amp/"
+  - title: "Companies are racing to make self-driving cars. But why?"
+    excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
+    publishedDateTime: 2022-02-05T06:42:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2022/02/04/self-driving-cars-why/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 55
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
     images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/05/b1d7deef3a26e9e75536b73e1a5d4822-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLYRGECUJVDKHKA4JM4QHQHQDY.jpg&w=1440"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
+  - title: "Guess what drives trust in self-driving cars"
+    excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
+    publishedDateTime: 2022-02-05T22:06:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 24
 
 secured: "3IdDKc/ahM434WZIp6W0s499NojThP9W5CIyfWskb2LfM9KbjlGfk1r9qjEm8SHF/6VsqeQA53/dDBt9QXfE1JnKT6JsDVHhY2wszbC0dmVRINM49gjyjtnuIZteVLNuWMNJBTGWtzfSQ1gFLM6jWzAVBUPBTnFSVskrsQfsN8mH4tGq6R51uhMFqwvT8RBxBZaEmNuKZ9BiOBSlHRrJ5HUuyY864waO8CsR+hnvBLNQJJ8qnkHv+UtvNd7OIlX2Fa+0G/mZCPFbj4LHpD1hD+yiKX2hcNBX0PxOWMv7UvDvx1eLe9j7QXUdmOqY4ntz8CoccAe35GZtH+2D2GENc6ceIM4+4bNOPnP0fQx1Fr/hi4QlB9gjwiLwUr8iKVabijuj6LxWmbLStm0B8ATFE+yF7R8aYZ/TtcyOAjaEcJ6rAyq8FFY2jZcTYO/8unbfE/241L/psdVQL06VB1qI8w02eHrfT0+JtyuERe5u0GW1OsllO+2Z5Evaw/hUeYXRqRDjuWtCQLBEeDgZgNt/+Q==;EWJkPXmwOfwqlq/WZp/jPA=="
 ---
