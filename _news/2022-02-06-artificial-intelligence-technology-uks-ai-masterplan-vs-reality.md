@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Lan Qi Technology: as the transmission rate increases, the demand for PCIe Retimer chips will increase."
+    excerpt: "Lan Qi Technology: as the transmission rate increases, there will be more and more demand for PCIe Retimer chips] Lan Qi Technology said in an institutional survey that, PCIe Retimer chips have developed from PCIe3."
+    publishedDateTime: 2022-02-09T01:30:00Z
+    webUrl: "https://news.metal.com/newscontent/101743551/Lan-Qi-Technology:-as-the-transmission-rate-increases-the-demand-for-PCIe-Retimer-chips-will-increase/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 3
+
 secured: "pS1tuLfuZzjPrWXevF+Ju+5F14Zxdps3XgqPVhFzavFXCiwPyA4KbFuFqM9xq7RChZ7beHZD1p4I27If1lkkzE0A5W2Opelrx8niLSMSKaIXJU16y3D3Pi+bRhFgfsD1KKCit6SZPBEoy4iRYg4jZXuoyUz4wVTg8THndKszU38VMJeWLqbrtj2stExA6VwoAE0iDbivglB+r+oT6ufYzsU2NYfZYiWWDOfHGvuNFjL0dOpju8NPy3YVORZsxvxJ4TXPZm9uXdI46giq/CoAMaGpX24edzCh9jmOzQWftGE02tO1qLnZOnfW4XezLz9ACN69WsudojJBdnPMS7kZvG6OX6PTsEddPVpPNLwzhOo=;iVJvt2051Gu7wweCjiWaaw=="
 ---
 

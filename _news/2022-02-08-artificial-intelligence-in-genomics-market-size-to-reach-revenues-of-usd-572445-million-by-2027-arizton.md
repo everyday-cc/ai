@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Construction Market Size Expected to Reach USD 4.51 Billion at a CAGR of 34.0% By 2026"
-    excerpt: "The global Artificial Intelligence (AI) in the Construction market is forecast to reach USD 4.51 Billion by 2026, according to a new report by Reports and Data. The easy risk mitigation of quality, and safety, coupled with the time and cost consumption ..."
-    publishedDateTime: 2022-02-04T10:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-size-expected-to-reach-usd-4-51-billion-at-a-cagr-of-34-0-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Market Rising at a CAGR of 14.8% to Reach USD 12.92 Billion by 2027"
     excerpt: "The global Facial Recognition Market size is expected to hit USD 12.92 billion by 2027 while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by manufacturers."
     publishedDateTime: 2022-02-08T04:56:00Z
@@ -68,6 +54,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Advancements in Speech and Voice Recognition Technology to Propel Global Intelligent Virtual Assistant Market"
+    excerpt: "Conversational e-commerce has emerged as a result of the increasing usage of smart speaker-based solutions for home automation and digitalization in the retail industry. This factor is expected to propel the global intelligent virtual assistant market forward."
+    publishedDateTime: 2022-02-08T05:41:00Z
+    webUrl: "https://techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/"
+    ampWebUrl: "https://techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/Intelligent-Virtual-Assistant-1.jpg"
+        width: 1920
+        height: 1281
+        isCached: true
   - title: "Augmented Reality & Virtual Reality Market Size for Education Industry Estimated to Reach $22.4 Billion by 2027"
     excerpt: "Increasing penetration of interactive learning process for effective visualization of subjects by leveraging digital age technologies such as Artificial Intelligence (AI), Machine Learning ... storage to Microsoft’s Azure cloud, which in turn has ..."
     publishedDateTime: 2022-02-08T23:48:00Z
@@ -79,20 +81,6 @@ related:
     quality: 21
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "CNC Tool And Cutter Grinding Machine Market is expected to exhibit a CAGR of 4.52% by forecast till 2030"
-    excerpt: "Request a Free Sample @ https://www.marketresearchfuture.com/sample_request/6163 The advent of the Internet of Things (IoT) and the steady development of machine learning are elements anticipated to affect market demand. Consequent utilization of CNC tools ..."
-    publishedDateTime: 2022-02-08T10:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cnc-tool-and-cutter-grinding-machine-market-is-expected-to-exhibit-a-cagr-of-4-52-by-forecast-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/NFT-Artwork-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true

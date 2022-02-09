@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-as
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/12/GettyImages-1310129219.jpg"
         width: 806
         height: 434
-        isCached: true
-  - title: "Is It Too Late to Buy Microsoft?"
-    excerpt: "Integrating AI and machine learning into its cloud and enterprise software ... the intelligent cloud platform, which consists of Azure, GitHub, server products, and other cloud-based services such as databases, is growing faster than overall revenue ..."
-    publishedDateTime: 2022-02-04T10:57:00Z
-    webUrl: "https://www.fool.com/investing/2022/02/03/is-it-too-late-to-buy-microsoft/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/664044/gettyimages-1202693974.jpg"
-        width: 2194
-        height: 1367
         isCached: true
   - title: "Westpac signs five-year deal with Microsoft to lift it further into the cloud"
     excerpt: "Under the partnership, Westpac will adopt Microsoft Azure as it continues to expand the use of cloud-based systems, and look to bring its application, data, and AI capabilities together in a \"more cohesive manner that can be scaled across the enterprise\"."

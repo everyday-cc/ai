@@ -6,15 +6,15 @@
       "title": "Six Flags Magic Mountain hires robot security guard who looks nothing like RoboCop",
       "excerpt": "The new Roameo security robot will start patrolling Magic Mountain in the next week, according to Six Flags officials.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailybreeze.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
-      "originalUrl": "https://www.dailybreeze.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
+      "webUrl": "https://www.ocregister.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
+      "originalUrl": "https://www.ocregister.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
       "featuredContent": null,
       "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailybreeze.com/wp-content/uploads/2022/02/ROAMEO-concept-amusement-park-4x3-1.jpg?w=1024&h=768",
+          "url": "https://www.ocregister.com/wp-content/uploads/2022/02/ROAMEO-concept-amusement-park-4x3-1.jpg?w=1024&h=768",
           "width": 1024,
           "height": 768,
           "title": null,
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailybreeze.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
-      "cdnAmpWebUrl": "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
-      "publishedDateTime": "2022-02-08T13:38:00-08:00",
+      "ampWebUrl": "https://www.ocregister.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/02/08/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
+      "publishedDateTime": "2022-02-08T12:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Breeze",
-        "domain": "dailybreeze.com",
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -663,15 +663,15 @@
       ]
     },
     {
-      "path": "_news/2022-02-08-tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested.md",
-      "title": "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested",
-      "excerpt": "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ...",
+      "path": "_news/2022-02-08-tesla-filmed-hitting-object-while-full-self-driving-beta-was-being-tested.md",
+      "title": "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested",
+      "excerpt": "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months.",
       "sourceUrl": null,
       "webUrl": "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/",
       "originalUrl": "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -687,7 +687,7 @@
       "type": "article",
       "ampWebUrl": "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/",
       "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/",
-      "publishedDateTime": "2022-02-07T15:05:00-08:00",
+      "publishedDateTime": "2022-02-07T15:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Carscoops",
@@ -818,7 +818,7 @@
       "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
       "featuredContent": null,
       "highlight": null,
-      "heat": 609,
+      "heat": 619,
       "tags": null,
       "images": [
         {

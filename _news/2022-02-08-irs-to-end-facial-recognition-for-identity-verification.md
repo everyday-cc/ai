@@ -2,19 +2,19 @@
 category: news
 title: "IRS to end facial recognition for identity verification"
 excerpt: "Last month, ID.me faced criticism when CEO Blake Hall admitted in a Linkedin post that the company used Amazon's Rekognition technology to compare video selfies submitted by users to its own, bigger internal database of previous applicants. FOX Business ..."
-publishedDateTime: 2022-02-07T23:11:00Z
-originalUrl: "https://www.fox6now.com/news/irs-ending-facial-recognition-identity-verification"
-webUrl: "https://www.fox6now.com/news/irs-ending-facial-recognition-identity-verification"
-ampWebUrl: "https://www.fox6now.com/news/irs-ending-facial-recognition-identity-verification.amp"
-cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/irs-ending-facial-recognition-identity-verification.amp"
+publishedDateTime: 2022-02-07T23:19:00Z
+originalUrl: "https://www.q13fox.com/news/irs-ending-facial-recognition-identity-verification"
+webUrl: "https://www.q13fox.com/news/irs-ending-facial-recognition-identity-verification"
+ampWebUrl: "https://www.q13fox.com/news/irs-ending-facial-recognition-identity-verification.amp"
+cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/irs-ending-facial-recognition-identity-verification.amp"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: FOX6 Milwaukee
-  domain: fox6now.com
+  name: Q13 FOX News
+  domain: q13fox.com
 
 topics:
   - AWS AI
@@ -22,7 +22,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2022/02/932/470/IRS-building.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/02/932/470/IRS-building.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -107,6 +107,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106888859-1622060828895-gettyimages-1231812116-IRS_TAX.jpeg?v=1630653821"
         width: 3600
         height: 2400
+        isCached: true
+  - title: "IRS does an about-face on facial recognition plans"
+    excerpt: "The IRS is abandoning plans to require facial recognition to authenticate online access following criticism from politicians, privacy advocates, and tech experts, forcing the agency to look at"
+    publishedDateTime: 2022-02-09T00:52:00Z
+    webUrl: "https://www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/"
+    ampWebUrl: "https://www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/02/IRS-facial-recognition.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "IRS backtracks on sketchy facial recognition plan following public outcry"
     excerpt: "That's the takeaway following a Monday morning announcement that the IRS intends to shift away from requiring Americans use a private facial-recognition service to verify their identities on the ..."
@@ -791,6 +807,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "kf3niDRtqZalKwDeYTBce7FxGfNZZbNdOudPE+K63H/tk9lJfH/mCYz6rJAHh/Fa9UCYHjNR5sVL0E2j86gLrjFa2ACs0wET49+8RqF0zrgp2klu9hdBe+Ff4ooiV8V2K5du0ndEMh70LlS++r1jgMADsdgi9mIb/X+NZlyZVWe3TxG50Ff63iI0wKTHBVnza6ZGyo46pGD+MVIn9z07qKxQyhFNM/wLMTSoqcjX23DTWP0RA4Dym8yQLt01R7KchphbTSDYALSXVmDpcT2V1KAF7gU7okc0ZBhQ7SORDSg7vB6JTLzW21rr4OAs9URRJXs+BuQ9M+pnXWR/IivkToUNk1im7kJ2B8aB6qjqZwyrUk+Qw95ybikkrU3X3KRXcutZ79uDjgejNXCDmEcrOLBc+NlVu7i3g7M40AB6OgfH30J5EBb4hJwRc70QoNlbbP93SfiqEyWDkwlRdXV2vMTrEBeN17c6OwuAuTKgmX4+Qf3RcIkvLKgfODdGLKQtmqd242tXNX84f4EtiuT2Dw==;ki2hDjnd0C97S87AUy2jyQ=="
+secured: "uZbi1iIJ/QZLMyByw5nNK3drcvoEDz96snIKOrqV/Dl/asvKu4uP5wI3f4TeKG9o5x7l8tVh8cvIDOZRmI3QyB3/yv2hQ3IXS7ZQZ8h/pb41fgILX8tBR6JUOyrgG7h6CSopEA6l9tZLJfHJUDRHkXp0DLLI6ewWfgFZ+ufzlr8PyBfoMsSByfEBMhE4mtmHHrCLw6imh328fyRXgSQW6b7+Aj47X14Kxmrcw01DyYVFYXcXdUQ12dECuAgWCTDyqCz47U0T9wIoFQzsJYcmFsTtUyXejSGK8yrpREX8QS/RDmSnVl1BDH2UW20mpaargi2ex7xWVc3Dbbyqnu5o8geL4sEl1ZgS3nNhQRrcO7w=;54iVRICIgoQhVRveifiU2g=="
 ---
 
