@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/"
 ampWebUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp"
 type: article
-quality: 89
-heat: 189
+quality: 189
+heat: 289
 published: true
 
 provider:
@@ -178,6 +178,6 @@ related:
         height: 289
         isCached: true
 
-secured: "EL6oQaVaOelA9uFoUBUcQLXcx17+UExQRO1MsmzM/rL/IH1EOhSthB7voIcjwoFL/iDns0CfvrKL3egVOKW8fw2S9CTbHZ5Y1q8ql7+lN/9fSjE5oXCNyyxcV7RqkKYqZQYvoKiT3KdKh0AQSBQfiTsiYMeDHOOVwgLvxCVA1IxfcRDs5K8ekh8fvtXzuSVCKNLtLlm6750wym41HrXpE+geZs+JpDS2QzsijXXi8XHrq/dyE+5nJhw/I7y0v08kTQpKTS+DRji3DpC70g3ikO+xOK3qx3mPUwz9AxNgj4jAbu8CPyeY7b8cruVuTBGUuiUzu7bur6jaWGo/S3ZLsIQyU/h+xPcZ4ML2jj148mnMQa0LDRGoxmgSO1OQhtTTXHiTbVmqc/vp7wZoL6zcIjypNtdMRJ2M/Bh/nP6wc7C9zTSO35mQe/afTtKOp1bRFV4ufXcm0oEmAu7hOL2+h6x2PpBAsa15RTrHVk+BCGpaS7bkm5cmLzb+mI5kG6ITVInzB/cdx6Ox4itXNGNPBA==;Vb1/1Z9KZZr4FsGn+Iv80Q=="
+secured: "PfcyGvf7RtltCgrJv24AMSrA57A3fMLYUugMpQj4iaEWVqqEaN0C0skCxZzDtoJ2bkQq2kaq7U/CeAXnYfg2r0mH7J5jn6vN+tjjNG+d9qQtpeewhIcNy3fIkNaSBthRlRTozt80ldISx1MshGTT/5uWMej0PCvjarpbFzvl749NnJ5qAULM9B4s+23s+NL3boygNwnbg0JALJgXbVMm1bxzeXbuJ2Ro+JUZQTppsExZZ4yPClxs+nKTKKxMLhnnZJFsXUOaxb6Ev/vbmU0cP5iKBSj6m+fLpHtK8d275uATa/UPn+hGVkqxw4Msu67MPQ3jlytH/+RnehoAwHpdxBMeiSzWE7D3J4WRGKjv33Vmvp+P/idKL5rPIdXawrbOSKrGmBBRjfyqI6R7m6lkDB22tlnHnyH0EsqCMzYZp97b9AvF9yvj+1i54kdT4v8c6M1A8xWh/u0awOqJk2kVSrZLgoF0E1oQSd4Kws5H5XcH6R5tBalyaSBi7sPADtSRdGDarb9/k01NYnWN9Q1jwcI9vTG7majJRqEjsqELaiU=;i2cxVmuS7a2js9sLISgtdg=="
 ---
 

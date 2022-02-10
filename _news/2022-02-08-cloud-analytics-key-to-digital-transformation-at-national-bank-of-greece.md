@@ -56,6 +56,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Tiger Global invests in AI analytics platform founded by ex-undercover CIA"
+    excerpt: "Traditional data science and AI development depend on copying or moving data to a ... Powering the ecosystems built on Concordium, with a special focus on Regulated DeFi and Decentralized Fintech, the CCD token was classified as a payment token by the ..."
+    publishedDateTime: 2022-02-10T13:56:00Z
+    webUrl: "https://financefeeds.com/tiger-global-invests-ai-analytics-platform-founded-ex-undercover-cia/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 17
 
 secured: "hAKKnoSAiI/tDfWWi2Eb6iwhQOLpL9Xmf8ycNkNityayJvROps9b4EQh0YD93Q2QEtDOjZZ/0NsDXIx9EaG5Td1TTbPhggunvGG+VfpUsyHObZErAzRadZwluHvy0tYy7W13J9fUtuGB2BbOVhb/xFtu7cGVS/TAIqQYX16adaFVgciBDrHCPFiHipXsfPcFY3XvCdX80Lz7s3KR0x4fJ+LMiD3jOCT+rO5bvtfbUm1qHWveBw9hO380B90C0RP8ATsiPeXrBNBvmNMGZJDiHLbzVjM+2zuMLyis2pDUDvYfBt8f3D4GB+Xs4uyiNRgJ5imud6soIqdhmHLXJAdoiwtEN5NqUrgEXwxlCujLqW57Pa3pM2DNHxSrdLhbiAdrHd7cDJByX/tUoHKQXmxg45USNbL6JTOpYV/mGV7i9wjuoc11uUH/oscejjVNd2qWBPHZKKvK2dU6HRTqzEF5f6GbNQJRgQSE7IbQ08tOT+2A6uB7yweBwLXILf/RefcJEDcROy0G1sgUNd2aWThkFg==;o1yZeu8CTLkoCQ45hc8ojQ=="
 ---

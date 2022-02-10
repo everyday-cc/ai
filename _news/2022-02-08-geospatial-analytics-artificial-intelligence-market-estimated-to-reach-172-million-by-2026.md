@@ -52,20 +52,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "United States Artificial Intelligence Market Size, Share, Analysis, Industry Growth and Forecast 2026"
-    excerpt: "Artificial intelligence has several benefits, including better adaptability, higher time-efficiency, improved accuracy, enhanced productivity, etc. As a result, it is used across various sectors, such as trade, automobile, healthcare, construction ..."
-    publishedDateTime: 2022-02-07T06:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
-        width: 1600
-        height: 1068
-        isCached: true
   - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
     excerpt: "The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global facial recognition market to grow with a CAGR of 17."
     publishedDateTime: 2022-02-09T06:52:00Z

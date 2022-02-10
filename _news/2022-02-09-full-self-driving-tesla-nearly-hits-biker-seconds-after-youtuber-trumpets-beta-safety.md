@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested"
-    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ..."
-    publishedDateTime: 2022-02-07T23:05:00Z
-    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 70
-    images:
-      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Tesla car in 'Full Self-Driving' mode hits a bollard on camera"
-    excerpt: "A Tesla Model 3 car in 'Full Self-Driving' mode has been captured colliding with a bike lane barrier post, in a potential setback for Elon Musk's firm. The footage was captured during a drive in downtown San Jose, California, by a YouTuber who goes by ..."
-    publishedDateTime: 2022-02-08T12:25:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
-    excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
-    publishedDateTime: 2022-02-09T22:20:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-cutting-corners-self-driving"
-    ampWebUrl: "https://futurism.com/tesla-cutting-corners-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-cutting-corners-self-driving/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/tesla-cutting-corners-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "‘Full Self-Driving’ clips show Teslas on train tracks and fighting for control. Experts see deep flaws."
     excerpt: "SAN FRANCISCO — In one clip, a Tesla tries to drive down some light-rail tracks. In another, a Tesla fails to stop for a pedestrian in a crosswalk. And at one point, the most advanced driver-assistance product available to consumers appears to slam into ..."
     publishedDateTime: 2022-02-10T12:40:00Z

@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "POET Technologies to Supply Celestial AI with its Optical Interposer-based Integrated Light Engine Modules"
+    excerpt: "Celestial AI’s mission is to fundamentally transform computing efficiency with their Photonic Fabric™ technology platform, that uses light for data movement both within chip and between chips. “The customized Optical Interposer platform that we have ..."
+    publishedDateTime: 2022-02-10T14:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/poet-technologies-to-supply-celestial-ai-with-its-optical-interposer-based-integrated-light-engine-modules"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Mexican-cultural-treasures-AFP-1L-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "eSUeGfHeMEF3aTxdY8viqD1lcbsFQWUSLHaNmFvedxbSJz+C+95KmZ9JbHFqXLDjrca3QwUrBMnMX9JSlL1dsvkpHExYsK/mN83RrheBZU6hxDRhRbCj/8XfQJm8Mmk4SCKtbwo+xovvSBOYdZco3/W6+4DWM8/H+GCYVwycMitL5l5geGgvsFFkM/4XjjirL71tDyz6s7+vzueASmvq1GNshcDf6MlrmTw06tZX1xVsG6PYPmxx3+GH1tjG3dme0zV6PSyddhHvbRvp41K726GCPQELR1mLPm0h1Q0vNRBMrPv3lUOxNXAeQH8A8t8UfWZ+5xv9uq3J6mzf2mjP9tb56Z85HmjrlFG9mdxFH41CTMB7TA3axgJ6awONJLjFd60RS5HGlDI7DTlwJ/OxTGwdKltrAv1AVxzGwlSgki+vAcwhcr01EIbpE61UqxgwZGfcNHzs95mVWG9OWDS1uKh8XtAiJ9xsTsjotf3E4+NWyD0UDHdcd3vdDyk/ohvcx+p+Az2euG2KieumVislDg==;Hlu+HDWHD+gm7o0dYxc2FQ=="
 ---

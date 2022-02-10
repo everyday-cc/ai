@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-pow
 ampWebUrl: "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 185
+heat: 185
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "MHINZABVmFZgOJGqATnjO+xBidGHCpKNooJoD9K5BIhP0C8xo6lHEzk5xcPsg+jmFCNisyfzrWDdmwbOFqWyl3U282NEdre0aMQkR877MYujcmXL3YKbzSVayXOgVwUGPlLopzHOjaS+fPah7EXD4KFVlDym46IKhhDnrnqCjAjY1BrZ3gdeRcLliragwU9IpSXiiQgwKSw34dE7936C4qKHdX0PAQs8uej3rSHMXxLZkeom8FbuZleqJRReB94+qqC2hMNDrvzm2/WfmeEbYzCLQLCybLm2skFssGTWJWm7s2SAj9IVlEHUVoinFqISjZAgvwDvoKqF24w/HTA4IiPfAroZ2zUPKKa6gz1rAP0gaFUTsJXetJS9hbU+9Y5fXCFETpFHKlJa2TGsF0prSJHia8J1RC7yD7z9BIr/TDAwvN8DV4PtXUjyGdygUt52J5GmtRfPIqJe3A1OsC6dWdWgYuw1iBfE92JU0LVGOXKu905M56D+pZypjLpU5p+Jd7l+yI1Llxxve4rDsBpB3w==;cantH1jVYInY8TaEUpyl0A=="
+secured: "kcDhkmQDd+zlK7J+1EZzy7kEr+jwEfZwAUiY9p3Ww4EXUE9iKEI2NoBSX3pCyrVSFkff/UJlqmXEuWu2G5kc33BqOLN/P93NODzpDKq+6svAO5Elv4ereHS40z8PZ+TA7XsaOOwgJdi2t6BXihb/5+Dv36eMEV9DE8AU/NHdRXcU0SK7FICGf6HxSBD8m3sTKst0WeQqjZZXPQWmO/CMdUe/Ywq0fp0hnpQ4xEh5pilJ2sdAKwuTfc1tOxavmZvLHGjmzsjsTl+gOg33TyZteVhBOYUuMoCfXwcg1vHfm3iG62gdDckmGEHZUA964FJYq9/Xt9BxkcEh0EeB3ErYRNljz8LFFWI00CcvBMIFpG9c52ZlSPY5R2AXs7hgamX1XsUjRti1D0m0s4goM4O77lul2WqnV3eolSsyYbCpqMhvvgi2vNUmInFHx25IJlLY/jeIlW+u29Pi3bNr3A2EKtcOHxEuXYsMhM21p3Xw+6R0JoLwbPfVyX61T05zetz6nr0jTrnD1k61f/iuv1OxVauROuzQIUxktU3bTaST2O0=;Gj7yN0PqB4XCoCPbS1Ei4w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/these-7-airports-chosen-for-voic
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list/amp-11644493200788.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Curaçao International Airport earns ACI recognition for ‘the Voice of the Customer’ for the 2nd consecutive year"
+    excerpt: "Willemstad, February 10, 2022 - Curaçao International Airport is proud to share that for the second year in a row it has received the prestigious recognition by the Airports Council International (ACI) in its World’s ‘The Voice of the Customer ..."
+    publishedDateTime: 2022-02-10T08:57:00Z
+    webUrl: "https://www.routesonline.com/airports/2396/curacao-hato-international-airport/news/297549/curacao-international-airport-earns-aci-recognition-for-the-voice-of-the-customer-for-the-2nd-consecutive-year/"
+    type: article
+    provider:
+      name: Routesonline
+      domain: routesonline.com
+    quality: 18
+    images:
+      - url: "https://static.routesonline.com/images/cached/newsarticle-297549-scaled-620x0.jpg"
+        width: 620
+        height: 438
+        isCached: true
 
 secured: "CTkVFM7K1ZJp+Rmg+Hg/KmerX3Eh6L3wOwLwW86XPlHT7WRxrcw1VpS/2Jrf9+zsKcfI2En4KgEX4UZrEmPzOfBVbgRgQ8YcgYqK0yx6I32P/PPWGJR9JO2CxCzkdDHCS19pCngpWjuBtw4zqMqRsi7jVqpJ+JqS3eZt2qk4JXsZ3u9OIZLvQTc0mE1QJWEkVIdZ9RSOHUxMO+TGyx7JOcEZeKyoFIL/8xCgfFrsqWJJ/EXGIEs1L8gszRXRU9kfIUFdszVtBie8ePNO7Dh80FBzZzs2Z7h3DZg1nN9q1mCksTdV9nspTCUHEfWAu0AFKmsG6IL/gyKVYib0nQUuq1ub5zYK3/XQxpffFKGSpZI=;VcbzpkYpCwUyLtvT/QcucA=="
 ---

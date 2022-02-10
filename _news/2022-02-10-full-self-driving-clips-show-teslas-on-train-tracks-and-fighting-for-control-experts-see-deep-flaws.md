@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/02/10/video-tesla-f
 webUrl: "https://www.washingtonpost.com/technology/2022/02/10/video-tesla-full-self-driving-beta/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested"
-    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ..."
-    publishedDateTime: 2022-02-07T23:05:00Z
-    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 70
-    images:
-      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Tesla car in 'Full Self-Driving' mode hits a bollard on camera"
-    excerpt: "A Tesla Model 3 car in 'Full Self-Driving' mode has been captured colliding with a bike lane barrier post, in a potential setback for Elon Musk's firm. The footage was captured during a drive in downtown San Jose, California, by a YouTuber who goes by ..."
-    publishedDateTime: 2022-02-08T12:25:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
-    excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
-    publishedDateTime: 2022-02-09T22:20:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-cutting-corners-self-driving"
-    ampWebUrl: "https://futurism.com/tesla-cutting-corners-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-cutting-corners-self-driving/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/tesla-cutting-corners-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "'Full Self-Driving' Tesla Nearly Hits Biker Seconds After YouTuber Trumpets Beta Safety"
     excerpt: "It's no secret that fans of Tesla always stand at the ready to defend the company and its technology, regardless of the situation. A particularly painful video from Tesla pundits who almost hit a cyclist shows just how dangerous this attitude can be,"
     publishedDateTime: 2022-02-09T11:30:00Z
@@ -88,6 +40,6 @@ related:
         height: 581
         isCached: true
 
-secured: "XpJu39BVFEZWDzv4wZB8cF2+EefYqCGy4x/0ZoUSMEOYwbdVz8EV1Fee56NADEGlnqaCz1SxpjGssK1vCXxKk4gewvWEmj0MZFbE5ZGrYPxmj8dD4mND0N+NgqGzMVfV5dQgkmw6T6AR4/Cowaoqsdgh9TkPaLtcvv7/0OX0pNjvEit2FP4Aj0i4KDuXswSpqAMpOvXs4YMVV9QNAOd+CLx3vzKTSzb2lCWRILQzJ0oa1bcv978t2gjujeE9rUHw+kXmdEU8XBont/j7ORxdOJpHbHzlM0oPrOAR1pHjVuA+mE0KGLAAU932oc6VO6V6JQTSTS3T0Q+OEfmijDJLrzQPM8JpGkWT2zm6bGhk9/U=;O5ZJ2t5SozHfSpRu2XKhyA=="
+secured: "AC2GQg4aCwg8HuJfjAMKZIFI6S7l6/AfWry1f+2oO8Bg2AB3DBF2eWgxj9IDUBJtAfU/AVyUwFUiG4YDkW2NAKcLekPi2FGVMwekXBmsR3oGQqrWcodUdQ7SZaHcrKBeH3lNenMqlUlidYv06quFj+9jf2q9WuBLuxiclBp0QrSIy3Oq/H4fD8YG8+ZX1qHB27ACYlxPEbbiEGoD6U+TWWuzdI7YrZnoVsSEr9V5gvQXEcreRaP4G2Jdb0D2C7mLM6V1iIQaovumrIsHjPTSzngeGhKHBW02zs6IZU5C8v7q8ztDbPc2suJyQQ3TOs2AWEchk1DLuwKHeAFTFJsGvaxWOBart0K9zBRhlcYYBv52h5enPX7IpjSZQG7NL3dGlZzDfTIKXpkRwzd7eJTXm0HzT2Qq6XolJxvKFsJte6LHGxSSTB7wm8KaRkXo4Iz09abpwckzTHaMtCd7ysdnWz9z3fe4t4g875K8DxUiaw+f9VpJ3uZ1mt7Ml2ZtpkiTtPnwoKPbziDPtU9TbZK/Tg==;Z+4/5HFMceKab32NJ6dIDQ=="
 ---
 

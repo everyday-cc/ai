@@ -39,20 +39,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "United States Artificial Intelligence Market Size, Share, Analysis, Industry Growth and Forecast 2026"
-    excerpt: "Artificial intelligence has several benefits, including better adaptability, higher time-efficiency, improved accuracy, enhanced productivity, etc. As a result, it is used across various sectors, such as trade, automobile, healthcare, construction ..."
-    publishedDateTime: 2022-02-07T06:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
-        width: 1600
-        height: 1068
-        isCached: true
   - title: "Geospatial Analytics Artificial Intelligence Market Estimated to Reach $172 Million by 2026"
     excerpt: "Rise in Internet Penetration Driving the Growth of Geospatial Analytics Artificial Intelligence Market. The Global Geospatial Analytics Artificial Intelligence Market is estimated to reach $172 million by 2026, growing at a CAGR of 30.0% from 2021 to 2026."
     publishedDateTime: 2022-02-07T17:17:00Z

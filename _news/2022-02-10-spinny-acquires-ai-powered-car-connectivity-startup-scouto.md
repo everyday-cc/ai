@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
-excerpt: "New Delhi, Feb 10 (IANS) Used car retailing platform Spinny on Thursday announced that it has acquired a 100 per cent stake in AI-powered connected car startup Scouto. The deal will mark one of ..."
-publishedDateTime: 2022-02-10T08:29:00Z
-originalUrl: "https://menafn.com/1103670466/Spinny-acquires-AI-powered-car-connectivity-startup-Scouto"
-webUrl: "https://menafn.com/1103670466/Spinny-acquires-AI-powered-car-connectivity-startup-Scouto"
+excerpt: "Spinny acquires AI-powered car connectivity startup 'Scouto' RuPay Prime Volleyball League set to take off with a bang in Hyderabad Government bans import of drones; provides certain exceptions Warning Indians against cryptocurrencies, RBI chief says ..."
+publishedDateTime: 2022-02-10T11:49:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89479987.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89479987.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-02/10/I_da3e9image_story.jpg"
-    width: 400
-    height: 319
+  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-89479987,imgsize-5744,width-800/89479987.jpg"
+    width: 800
+    height: 638
     isCached: true
 
 related:
@@ -246,6 +248,6 @@ related:
         height: 675
         isCached: true
 
-secured: "AzXHIFqBgzKfqblHCm+Rw+Ro5c3BrBgwimKt3uP/eNs44RZ15/A7AfDJcfwPERDHoOV7e+1G/L2gN2tlcFKzvior7tuI/MKISEFCQbjWCbI1TirRTK3quEJeYqUBOEDwHf4n1vTLQeEbBUrcNa++fdLVXLYR9NvpRAMw+R87gLaGxLSrveAXMRZQ4YEa5+DZryACIezW09T1h2mrbqXi3NvxUQfsbohmwg8BRWbnHgKqy/X7sxcaW/KdTSMwgR0wr8vMJ5qwwF8+Kd5gG6VR5Tn0Ir9t+x8U4+2p78/EwUQRFoPrpuYPS6GR9VvtwN7ATsOmp2XIbkUjSyzxe9WJkhFA0nMRST9Nwcy86GxW+estxyggxCet+f33NSmUaZLFIpGlIqKjWThb1Y+DNaHYc5i/rm5SrCUj8iMOeDetG6sgCsoaH1qwpbNoUPpu4hUbUQhQfKF4Rh5Sy+MoLFSEcxHTYqr2fBngcqGMyuWAr/TmJwTmq8ebpZVCcvxPGDBesAsxc3Mi76BMuzy92L5gPA==;oeR47T4PbnekcaUNMZtl/A=="
+secured: "cuG+uCkzprBNzJqxWGwAyvktFJrjn+kSHkrRfeEkzlEtWaQxVZUIG1KLVTpqEBhv5oqR/X5360isGBEgsVDNthw7PZUfohr5vLQ+tXj12VBdKDGSAqdrKC0+Akoaw+NcgREE+Lc2iBhvNtUC/rRn5HOx1tajTZYZI577tmz0EvxxbmWtMgOfegbsifSompWFor1jXdcfBgBm6Qc9TlMi9Tdj8HD8hdluwGmMbvAJXEXkqwo2uRxJ1His4J6tUYtW0ZqlxIV/85KYkZiJXuvMgZiyh02k0yashq9qoLoBckMNjB+DKVtkA8qZVNoWhg46EkSF4y3GPtKbKJvu6QMcKZz7VqmVSnipz9Mj/Knpi1M=;8rwfXQ+yKADKGnnvgp7dRA=="
 ---
 

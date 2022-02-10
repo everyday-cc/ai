@@ -134,6 +134,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
+    excerpt: "Spinny acquires AI-powered car connectivity startup 'Scouto' RuPay Prime Volleyball League set to take off with a bang in Hyderabad Government bans import of drones; provides certain exceptions Warning Indians against cryptocurrencies, RBI chief says ..."
+    publishedDateTime: 2022-02-10T11:49:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89479987.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-89479987,imgsize-5744,width-800/89479987.jpg"
+        width: 800
+        height: 638
+        isCached: true
   - title: "Apple acquires AI Music to create songs adapted to our heartbeat using algorithms"
     excerpt: "Apple has acquired AI Music, a startup that created artificial intelligence capable of generating its own personalized music, according to Bloomberg. A purchase that has been closed in recent weeks and which,"
     publishedDateTime: 2022-02-08T08:30:00Z
@@ -216,20 +232,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/aimusic.jpg"
         width: 1800
         height: 942
-        isCached: true
-  - title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
-    excerpt: "New Delhi, Feb 10 (IANS) Used car retailing platform Spinny on Thursday announced that it has acquired a 100 per cent stake in AI-powered connected car startup Scouto. The deal will mark one of ..."
-    publishedDateTime: 2022-02-10T08:29:00Z
-    webUrl: "https://menafn.com/1103670466/Spinny-acquires-AI-powered-car-connectivity-startup-Scouto"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/10/I_da3e9image_story.jpg"
-        width: 400
-        height: 319
         isCached: true
   - title: "Apple acquires a startup company that uses AI to adapt music to listeners"
     excerpt: "Apple appears to be continuing its acquisition of companies concentrated around music. After last year's acquisition of Primephonic, a music service for streaming classical music, the Cupertino company recently purchased AI Music,"

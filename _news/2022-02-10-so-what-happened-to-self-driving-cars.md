@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested"
-    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months."
-    publishedDateTime: 2022-02-07T23:03:00Z
-    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 73
-    images:
-      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Ex-SpaceX Engineers Create Self-Driving Trains To Aid Trucker Shortage"
     excerpt: "But now, one firm thinks its self-driving freight trains could be here to save the day. Whether or not it actually works, though, will remain to be seen. In order to try to combat the shortage of ..."
     publishedDateTime: 2022-02-07T22:32:00Z
@@ -91,17 +75,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Guess what drives trust in self-driving cars"
-    excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
-    publishedDateTime: 2022-02-05T22:06:00Z
-    webUrl: "https://www.timeslive.co.za/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 24
 
 secured: "pvx3l8fE6dX5xB76rkhggx9sfcHqv3EGxtXjpJBtG2lhemYd64iV9fViICTGzBiDXa1rQeA8Bp8pNAQTjeYiKZhS0B1noJ+QQJlBM2U/f6Jm+MZPiezIXwDy8RzeuHNU0tndg+UIsZt3kD3BK12SECY4Or26KuNA9UMwZLuomyR2rciFetMHCdJ54bYDGNdbL18fpoHG33yF8lk+U5Xyc/p7vifZxRvCfhoFo9pBmmo4KJMuRmfoLkakT6/RZT7oDo8fxFTrT9zWJLVCC+8UfGKqeSLdTW26KAHF8VxvvhhIzqlwIGU6SE+Gy4oAM9U1evdTrCqBNYOukHtCeDRgu5p2cQSFm8PjkQ+iVViiKNaqPFHS85eiEXWZ2YBQZusNVi1CqOU2fV7StCDflG6m0rQZu7ZUfusvtp06uq7kUxWRRjkgPlndL5uVfTXCDI0yYe83o93xCCLoE+B2jk7myGQKrSAuLqom3HaynQVmUgSBSUpVjlJZa+4tZehUllH0aKhzezVG36oLCvF14NLvuA==;rvIFsgCNNTSIye4/12og7Q=="
 ---

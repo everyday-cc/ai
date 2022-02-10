@@ -42,7 +42,23 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "Deepdub: bringing you AI-based dubbing"
+    excerpt: "Israeli startup Deepdub is trying to make your movie experience more laid back, and easier to enjoy with their cutting-edge AI technology that allows you to watch whatever you want, regardless of your native language. Deepdub's platform allows content ..."
+    publishedDateTime: 2022-02-10T14:27:00Z
+    webUrl: "https://www.geektime.com/deepdub-rasies-20-million-series-a/"
+    ampWebUrl: "https://www.geektime.com/deepdub-rasies-20-million-series-a/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deepdub-rasies-20-million-series-a/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2022/02/Team-photo.-Credit---Deepdub.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
-secured: "oTrYYhtwohZ8MhFoOCk1DYEWPdrLU/DR39iXPRBY38Erp/9x0RJgM37I6moGx5YoIhZSQnOZFTG6H5p4VNixWavPI7j6zIK3JDHaipT3IDJzDdrOrJNJsQC0aP0jPqFveUHLhX0RKz6gLbd34GwUfBXOFeJxi46/Nbo+gpihcEAFRmp5rf111ULPVDe/vfkhy8Yw7ta8Usu6k7EjatVcU+EUNcVIJqtszY+CfLIJ5Kbr7OkxBLc0n6V3GkoDjLAsJBwm0Dl7bJ7AJFIB5gk5HoGRF1N3+1D92a5YEFaSxkHyia9IzAbSDPFzTQWYOgmfvA2jN+naCNNK65WqC21EYNRq4XcIcxnAx2VzyHgf8FQ=;KFZCR3ALzNGZHGA3v0a/SQ=="
+secured: "2OepBV5GS21HUh8RlQsVb/ZbP7cJRF7klNn4OkzGNv6Txh8Eiu8LvjA/l074VJaiTbV/GU4eYjtfPRoowivhSULqX3rOvrdEKkFqUCmXra80MFsnTGEV96vHoTaf0hVElEE0pRBBKpUUVApXbL8Ss33i8csWuKgdBoTKs3P+xLmjOdiyhVHOB1ftMexxgAx1u+XqI1YTkUGngtaIDWEoe2pKYB6pM62X9UHzyCO8GLsEI4pbKIlNrS9reKyRixEzd3V49M6j9+VAHVJ0v9dw8sTiuyro40hY096OAqw7xmmBiJD/4ZcbM1pxm0Q+GBiouYWZ9RBd/KL5kHvCFBjBj2eSsz3ZvRzKooOHPW/JTcKVkRyQC+EQzE7O3f3hdEEyf+zndFiVkCr1AkO3F8BgmhC10hXJrQuzS89OVkUMtfJe2E1rWQdKCmH4XjsYJeD1382/0KqLL+CBQoYbInMnQCNt/8sAYkEKaCf0TQKI84ggTnh4LuKQHYels/NE40flawvBsubZBdUYbOVMQVYdJA==;9bNAndcVlPYRTKjr5qhAfw=="
 ---
 

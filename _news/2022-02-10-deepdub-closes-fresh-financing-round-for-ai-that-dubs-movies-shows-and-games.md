@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-ro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepdub: bringing you AI-based dubbing"
+    excerpt: "Israeli startup Deepdub is trying to make your movie experience more laid back, and easier to enjoy with their cutting-edge AI technology that allows you to watch whatever you want, regardless of your native language. Deepdub's platform allows content ..."
+    publishedDateTime: 2022-02-10T14:27:00Z
+    webUrl: "https://www.geektime.com/deepdub-rasies-20-million-series-a/"
+    ampWebUrl: "https://www.geektime.com/deepdub-rasies-20-million-series-a/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deepdub-rasies-20-million-series-a/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2022/02/Team-photo.-Credit---Deepdub.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Deepdub, Israeli Startup Using AI for Dubbing, Raises $20M From Kevin Reilly, Others"
     excerpt: "The Tel Aviv-based company says it has partnered \"with multiple Hollywood studios on various projects\" to localize TV and film content."
     publishedDateTime: 2022-02-10T12:00:00Z
@@ -48,6 +64,6 @@ related:
         height: 500
         isCached: true
 
-secured: "/FHbbZg7bwwrikgTCzTxTXg0dUZzoCy8XHZbRXbjLVUJnyzJpMcooWxOwV44aeGgvyTlqp0B88Fl1Zzqqbc5VGyv3Gecm10arZPW1PF25B2bPabUD0HDXFAdjC4qS5/hkhscPbHYkmuDWwuf6skZa0voL0r1lajbFgd/ifUDQz+FZSoaX4oejoloQdbw6G8kYN4iztqQ3SBVnQtlg7aKJFfYh17M3wKCw95liTN3Vyv8Ogm1ZskiFcTmoHerjBTznFVL4GZMXpb7x7tdxYHgrwwwFL27tW37XMG2hJMC6z3BXdv8MTEw9n1zOxfOlYGlkptUfvSA9d3XosgoP1/7a0745rkCODkvWNDN00e6ydg=;1ki0TFJyOfbzDGPOtIYcUw=="
+secured: "ufHyHpexl8G3AepEcfhDEj56mxrXCUfS203NwxxtYFjYQOgeolJ53mq5XkfoXUrBE19zA+YiGjbPMHw96WjmxQYr3tZvpvdXy6MBjlvk5IoT+lKlrx8LyqWTwLJSAkQWih5S1JMEIJFP4zgURjeqPqdaZMgT3sQsuw+GcitmR00mETtOL9rq5dte61nElUrRAO7SQPaqY3ORYjGqDj2alQZ5+cn0SOC5uv8ZQVHFK+K4zRMCL1VqH7UChCJWUxn7f8jACS2XlJZ6F+qC2geXDOhMwVlq9p0oGDUcZzt+aoWRmAKDXxnTj4nLtPrptoreisk4oFhSw9bReOmlZSLU2PqxFK+ystJKKigxHNFka79b+G9lEUwILq8p73Wp/TufXguiMtC/suSkoxlPFqIRlr+bpCtvFMvF8kyOmGpDMEJ9+372bqM7/NXFkj8UseXRk5ibZ8bfnjsbRfS8NlYcgiFAQ0lq0cA79svCFDPnE3kvPDsn9PfLcJzVGsDnNWqeS7qIKihmnFunlcy3Bui+9g==;MjXSwYX7eYPtK8aT1sbNeg=="
 ---
 

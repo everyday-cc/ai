@@ -41,7 +41,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg"
         width: 2400

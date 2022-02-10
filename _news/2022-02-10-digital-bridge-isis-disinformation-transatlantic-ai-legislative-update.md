@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/newsletter/digital-bridge/isis-disinformation-t
 ampWebUrl: "https://www.politico.eu/newsletter/digital-bridge/isis-disinformation-transatlantic-ai-legislative-update/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/digital-bridge/isis-disinformation-transatlantic-ai-legislative-update/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/Digital-bridge-Social-media-–-Logo-only-High-Quality.jpg"
@@ -26,6 +27,6 @@ images:
     height: 900
     isCached: true
 
-secured: "KCtipgtwgJPcbpz4tfpxGM1mXcunFf4DZMt8qJgILxyaZmSE0zKpcm0hw3vV7N2m5C+hjHNhwwFIIGBfvXNh7sB5pTrhCdPiPEhGns6+Gti0JyCi2fzbnzM3Pxxkg52NUBFLKQfWwJmJBqLXfBVwStKkIAoU3f+44Ok/rMoUeYHejqq2IaOS8qo+sm40v0//RwQ/i3FeOVR6Qh5RwY7x2NoNFk1lCfZROsfpnq0O/NXwyM8izhNjwF49cJrDk3EDjR3Pov3gf4QW4YfJZmdJfw9Bqit6NVsp9IkgOetE/FHr3LKftEH0HTnAPsyLJmLmLK7OVmyar/6ulOQedXSbGR7AxRSAhpR90p66BXcb0Zg=;hksPhXjPrqvPY8xSPxgn0w=="
+secured: "AALj2jHyqOBya6k4KBKMk/hT/QFQx303EIDBEgMTrxZlIPh0aGNnJcc7cBzbKoWRxldfSyKzBbf6wylMrdZZaKX7mzNJEFwY/Yv+dtjFwj8Myjp59VjE0SaXS4oeCKz0QTQeszcX/aw5Z7kfjVT6tUzbwXvKQwJ67PuvCOMYTPxPrU/lur2qInZm/SJN0EQpgHs5vt6zyJ0cdqg2E+8u2v4qaPSQAElSNbljgGQZCQlQQyWZJYGIjYypZg19hp59CTCSfP7w2/K9ent7DiKFkzA9moCm/zWNU+eP/7zmtyEHS4W/PpK+t/M7Me2RVH8B8btzQJmUSj0Ai4vcW8+rgZPH1NyhiOavP1xLpQSaMOqpAiDkDlIHt52c9gu957aQJPtQ8scIjLylDUGe6LYyRfmPWYDGSIiHEwO1uB4O5jotEuvAtyg/9BNDZmGblqoCFvYPAEjlGh8PcZ4yBRNaQoi3gpS3Vfg5X2cQ5wIG1sSahxqHL1l8JywS256RVH9V7D+5apFaTKwatGOLeqgwHA==;lOmZTGovAqS6tcACTJ5QVQ=="
 ---
 

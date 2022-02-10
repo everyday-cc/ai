@@ -732,6 +732,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition companies attempt to appease state lawmakers"
+    excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
+    publishedDateTime: 2022-02-10T12:00:00Z
+    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
+    type: article
+    provider:
+      name: Billings Gazette
+      domain: billingsgazette.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/6/63/66323398-50fc-55ce-aeba-d2154fb986c5/6145171b3dcdd.image.jpg?resize=1200%2C798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "IRS Drops Plan To Require Facial Recognition To Access Accounts Following Backlash"
     excerpt: "WASHINGTON (CNN) — The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website ..."
     publishedDateTime: 2022-02-07T20:44:00Z

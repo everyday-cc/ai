@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
 type: article
 quality: 70
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Carscoops
@@ -27,6 +27,68 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving"
+    excerpt: "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ..."
+    publishedDateTime: 2022-02-10T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop"
+        width: 719
+        height: 405
+        isCached: true
+  - title: "2 Senators Tell Tesla They Are 'Deeply Troubled' About Self-Driving Dangers"
+    excerpt: "\"We are deeply troubled by Tesla's design choices that seemingly encourage unsafe driving habits,\" the Senators wrote about the automaker's \"Full Self-Driving\" system that was the subject of a recall of over 50,000 vehicles last week. This is a developing ..."
+    publishedDateTime: 2022-02-08T17:22:00Z
+    webUrl: "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270"
+    ampWebUrl: "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 87
+    images:
+      - url: "https://d.newsweek.com/en/full/1982603/tesla-elon-musk-richard-blumenthal-ed-markey.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested"
+    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months."
+    publishedDateTime: 2022-02-07T23:03:00Z
+    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 73
+    images:
+      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Autonomous taxis are safer than Tesla’s ‘self-driving’ tech"
+    excerpt: "It started with a rallying cry against the use of misleading terms like ‘self-driving’ to describe car functionalities that sit firmly in Level 2 in terms of vehicle automation. Even when a ..."
+    publishedDateTime: 2022-02-10T14:02:00Z
+    webUrl: "https://thenextweb.com/news/you-might-be-safer-in-a-autononous-robotaxi-than-a-tesla-in-driver-assist"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2Frsz_2untitled_design_16.png&signature=743b9c99598c1597501b6f59357f3d4c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla car in 'Full Self-Driving' mode hits a bollard on camera"
     excerpt: "A Tesla Model 3 car in 'Full Self-Driving' mode has been captured colliding with a bike lane barrier post, in a potential setback for Elon Musk's firm. The footage was captured during a drive in downtown San Jose, California, by a YouTuber who goes by ..."
     publishedDateTime: 2022-02-08T12:25:00Z
@@ -42,6 +104,38 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+    publishedDateTime: 2022-02-09T05:24:00Z
+    webUrl: "https://www.wtsp.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
+    images:
+      - url: "https://media.wtsp.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
+    excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
+    publishedDateTime: 2022-02-09T17:41:00Z
+    webUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 59
+    images:
+      - url: "https://media.ksdk.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
     excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
@@ -59,34 +153,17 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "‘Full Self-Driving’ clips show Teslas on train tracks and fighting for control. Experts see deep flaws."
-    excerpt: "SAN FRANCISCO — In one clip, a Tesla tries to drive down some light-rail tracks. In another, a Tesla fails to stop for a pedestrian in a crosswalk. And at one point, the most advanced driver-assistance product available to consumers appears to slam into ..."
-    publishedDateTime: 2022-02-10T12:40:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/02/10/video-tesla-full-self-driving-beta/"
+  - title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
+    excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
+    publishedDateTime: 2022-02-09T05:53:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 38
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-03-2022/t_fefb67b9c94843549d523f58bd5121cc_name_TESLA_FSD80.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "'Full Self-Driving' Tesla Nearly Hits Biker Seconds After YouTuber Trumpets Beta Safety"
-    excerpt: "It's no secret that fans of Tesla always stand at the ready to defend the company and its technology, regardless of the situation. A particularly painful video from Tesla pundits who almost hit a cyclist shows just how dangerous this attitude can be,"
-    publishedDateTime: 2022-02-09T11:30:00Z
-    webUrl: "https://www.thedrive.com/news/44216/this-tesla-self-driving-fail-video-is-exactly-whats-wrong-with-tesla-stans"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 31
-    images:
-      - url: "https://www.thedrive.com/content-b/message-editor%2F1644370325024-tweet.png?quality=60"
-        width: 584
-        height: 581
-        isCached: true
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "6NS8ME+9YGYFiWcKwTvvqd3uiFKNTj/ALSIaZnlfG4mievCSW31c4DZGVfd9zYG12qn4CGHaZdFG8GT4pPoqv7KNGssn64lbDYZaVAd8O1D/Wy7euU5Ba/7qyT+ZNdy+TPt7cGisdWqSez1wRTYckocSyUqm9NoTZzOJgUqOPH05Df7YRSDt6ri2egjdkJEdy4AGE0fBxo/jMJJjEXkoofauUkKSlXubdNyzB9c0k49UwAaCXJPsAOw/SX+Vhk5y+U1eoi32Jc1PCsu7S/ZPJJmqcaE0HYrw4q4Dm/7mLUY0F/Il9NJWQ11Pnfd7KdbDooksmPpz0jSwallXIb4XKT5awbJPoA5pBTsVACxCrBw=;DkYxL1oSIFm1H7OsaOTeFw=="
 ---

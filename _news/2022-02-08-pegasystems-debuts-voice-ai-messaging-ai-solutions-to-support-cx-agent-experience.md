@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/customer-experience/pegasystems-debuts-voice
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/pegasystems-debuts-voice-ai-messaging-ai-solutions-to-support-cx-agent-experience/amp/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "Tips to Leverage Artificial Intelligence in Retail to Improve In-Store Customer Experience"
+    excerpt: "The next big thing in retail is to provide an enhanced in-store experience with personalized recommendations, offers, and product support based on"
+    publishedDateTime: 2022-02-08T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/tips-to-leverage-artificial-intelligence-in-retail-to-improve-instore-customer-experience-nid-9268.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 42
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/s1ajk450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "vlYKhvkyEEHZhBwtyTo0VIA5KTL422M5IfEDjAomhP+oglQ1WKPytz8VkJ7xAXGzcNbZCv/uZqoVx4LlX2QTECgiP3cSuN812bZVYwt/GFGX4BmlDuAaJ30XfL+njY87n8RCUXpgVAX+he0VknsO6s3Sv422QDTylYz3N6O8Om5nw/wpqd8bNN05X9ZgeQ297eKg44w1inIisNxhJ1hYr85FA+PugLE61cC4QHF9vhTXEITUcWrQxhNW+Q7nrycsIwBOQQHLQNi3H8JZ6/sDwXP6pfV2VCjJqF/PHyWfRGQaMEzkQBxaNaHtqL/7Y9Ie9tX62j6CNQH2vi5DN4HY07+hkREoQxJsW+rFVBF3IwxI2emUC0+/b+EbiO6KpmBbj5Kcuc4Ad0jtNEbKNJDqvh2yFpxjKvin7Ibre87bL4JXWdxEqmONh2eHz6EPlaBGzSj68hJ6x6c/n2yHXhNL43vbZjRt0s0psLae6ywjStAzZr+0Z3hZQwbAtq3EEhbyiDNVHh7KN0Zp/c75U4b24w==;rCAsTZ2/0d0GDjbkogN98A=="
 ---

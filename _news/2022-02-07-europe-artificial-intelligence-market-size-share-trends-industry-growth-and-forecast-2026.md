@@ -26,75 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market 2022: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2022 (The Expresswire) -- “Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments and market potential ..."
-    publishedDateTime: 2022-02-08T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2022-02-08"
+  - title: "Josh.ai Reveals Industry Growth And New Single-Word Wake Phrase"
+    excerpt: "Josh.ai continues to demonstrate rapid industry growth by announcing new partnerships, new features, and a brand-new wake phrase. All Josh.ai users have a vision of how their smart assistant should sound, speak, and respond with interactive personality traits."
+    publishedDateTime: 2022-02-10T14:03:00Z
+    webUrl: "https://www.twice.com/product/product-spotlight/smart-home/josh-ai-reveals-industry-growth-and-new-single-word-wake-phrase"
+    ampWebUrl: "https://www.twice.com/product/product-spotlight/smart-home/josh-ai-reveals-industry-growth-and-new-single-word-wake-phrase?amp"
+    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/product/product-spotlight/smart-home/josh-ai-reveals-industry-growth-and-new-single-word-wake-phrase?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: Twice
+      domain: twice.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.twice.com/wp-content/uploads/2022/02/Josh-Product-Family-2020-726x408-1.jpg"
+        width: 726
+        height: 408
         isCached: true
-  - title: "Artificial Intelligence in Energy Market 2022: Industry Trends, Demand, Business Growth, Future Scope, Investment Opportunities and Forecast 2029"
-    excerpt: "The newly published report is titled, Global \"Artificial Intelligence in Energy Market\" Research Report 2022that"
-    publishedDateTime: 2022-02-09T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2022-industry-trends-demand-business-growth-future-scope-investment-opportunities-and-forecast-2029-2022-02-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
-    excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
-    publishedDateTime: 2022-02-07T07:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-report-2027-overview-size-share-analysis-key-players-and-outlook"
+  - title: "United States Artificial Intelligence Market Size, Share, Analysis, Industry Growth and Forecast 2026"
+    excerpt: "Artificial intelligence has several benefits, including better adaptability, higher time-efficiency, improved accuracy, enhanced productivity, etc. As a result, it is used across various sectors, such as trade, automobile, healthcare, construction ..."
+    publishedDateTime: 2022-02-07T06:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 29
+    quality: 28
     images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 – Global Forecast till 2027"
-    excerpt: "The global artificial intelligence systems spending market is estimated ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping. However, concerns over privacy, bias ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-research-report-2022-global-forecast-till-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Mexican-cultural-treasures-AFP-1L-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Robot Software Market Size In 2022: Recent Innovations, Top Countries Data with CAGR Value & Growth Insights to 2028"
-    excerpt: "Germany is leading the market due to presence of key players in the country such as ABB, KUKA, and Kawasaki Robotics. The extensive research and development of artificial intelligence in the region has benefitted these key players in upgrading their ..."
-    publishedDateTime: 2022-02-08T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robot-software-market-size-in-2022-recent-innovations-top-countries-data-with-cagr-value-growth-insights-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/02/c-m-ivfofaeghqu-unsplash.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
+        width: 1600
+        height: 1068
         isCached: true
 
 secured: "2OhJZnnpUq0O7t3ZWCfOMXbSA6bJEhoMgzdFFwUPoTJoarwLMHMh0I3BtQwIsnmG27j04bSMS3zhSJpXQ1qB2bmFKWRWvkR2IxaSgh8Kz8FFI4JSupw/WgcqSE8AEJO1qhpD++neOjXJLy9+rseqxb2Dy4q4epzDrR65Mt1eK/z/j8MXKycFS0Mt1+Wyg4BA+rsA7EJfwd873Sjo3tn5GZFRe2gDoMB8kH6EG+1iyNaCghm/7F65hva5kBiMww1rCQkNyzGVKW6h958YYtzxfClTW0XpSyK43/n/EVdFGL5mJ+uxh60swQjlRI6Tm+b7GdHf2L47yek99xheijMkvjzVyqnypyl2EXOSXk2e2Ag=;mZqoHWqUExh3B9rL+l8viw=="

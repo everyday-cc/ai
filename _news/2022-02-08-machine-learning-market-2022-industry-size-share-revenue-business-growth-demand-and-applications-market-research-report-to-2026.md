@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Europe Artificial Intelligence Market Size, Share, Trends, Industry Growth and Forecast 2026"
-    excerpt: "Artificial intelligence (AI) refers to a segment of computer science ... identification is expected to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information that is not ..."
-    publishedDateTime: 2022-02-07T05:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/europe-artificial-intelligence-market-size-share-trends-industry-growth-and-forecast-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEg_QnQX9ZHWuHR5RacomEN9wdiTfyX2PET3mtopGdJF1LO34RxYsjwu98DFlGNYCiafFzvcqC_JZoT00YFJskqGwz7L797uOJgma0SulIkhIxDTbmyA283MprE0RecBe5QsBofXZ6rZB2_zHLy8FfVhJdlDGEVa2VKcp5JpqucrkNFG7Gywe0StdkM"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Artificial Intelligence in Energy Market 2022: Industry Trends, Demand, Business Growth, Future Scope, Investment Opportunities and Forecast 2029"
     excerpt: "The newly published report is titled, Global \"Artificial Intelligence in Energy Market\" Research Report 2022that"
     publishedDateTime: 2022-02-09T02:35:00Z
