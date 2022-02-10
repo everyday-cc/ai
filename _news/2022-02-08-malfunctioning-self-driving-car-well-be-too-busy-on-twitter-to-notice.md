@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.heraldmailmedia.com/amp/6688289001"
 cdnAmpWebUrl: "https://amp-heraldmailmedia-com.cdn.ampproject.org/c/s/amp.heraldmailmedia.com/amp/6688289001"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,33 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Can Next-Generation Simulation Build A Better Self-Driving Car? This AI Upstart Thinks So"
-    excerpt: "Toronto-based Waabi says its advanced new simulator can train autonomous vehicles to handle a nearly limitless number of road conditions–and do so faster than bigger self-driving rivals that rely more on road tests."
-    publishedDateTime: 2022-02-09T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2022/02/09/can-next-generation-simulation-build-a-better-self-driving-car-this-ai-upstart-thinks-so/"
+  - title: "Self-driving cars may soon be coming to Trenton"
+    excerpt: "Officials unveiled plans for a new autonomous vehicle program during an event at Trenton Central High School on Wednesday. The hope is that the program will especially help the younger generations ..."
+    publishedDateTime: 2022-02-09T21:44:00Z
+    webUrl: "https://longisland.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
+    ampWebUrl: "https://longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
+    cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
+      name: News 12 Networks
+      domain: news12.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6201ceac39bd7c60059e4537/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://img.chdrstatic.com/media/d6868ecd-60a5-4464-96d8-3717b688c396.jpg?width=1200&source=backend&auto=webp"
         width: 1200
-        height: 781
+        height: 675
         isCached: true
-  - title: "Toronto company creates self-driving car simulator"
-    excerpt: "The star of Uber's Canadian autonomous vehicle efforts is striking out on her own and starting a new self-driving technology company. THE CANADIAN PRESS/HO-Waabi *MANDATORY CREDIT* - The Canadian Press TORONTO — One of Canada's leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away from the road."
-    publishedDateTime: 2022-02-09T12:08:00Z
-    webUrl: "https://www.toronto.com/news-story/10568990-toronto-company-creates-self-driving-car-simulator/"
+  - title: "CASEY: On the brave new road to self-driving cars ... and Rocky Mount"
+    excerpt: "It seemed perfect. “I am able to tell you that this is NOT a self-driving car,” Maxey also told me. Could have fooled me. We made it to Rocky Mount without incident, then headed east on U.S ..."
+    publishedDateTime: 2022-02-10T02:32:00Z
+    webUrl: "https://roanoke.com/news/local/casey-on-the-brave-new-road-to-self-driving-cars-and-rocky-mount/article_a163f8ae-89ef-11ec-9c11-437d2d357616.html"
     type: article
     provider:
-      name: toronto.com
-      domain: toronto.com
+      name: The Roanoke Times
+      domain: roanoke.com
     quality: 24
     images:
-      - url: "https://www.toronto.com/Contents/Images/Communities/Toronto_1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "jVF0P5p0TzKsCZ9IK4HMCUlsAjnGq2D40AW2anSGFBP4aKc8r5qjk2uTlPWQngzVOVIjmxINnsQT2fL2FCBhsyc2hZKCswpaZ1C9w1tCmPrJl7N5BJjb9LWX9Ygt7e3Haq7DqUiS1jAxoYxtoQUKNg7X/0K4c2sGmdI4/ru0Trl/6N/qkTZvfXvfjj4OgpG4lL7YO+vWwsETAPqqLmBHsCWHzlnQFKlZDKDrQOJwdytlMISmNFGhUysG4rV/stj0L8M+IgeSIq1frtx62uAcoFqqvadfX+LFUYkyombGyXGD5HyO4Y4O+eQlPGKpPTnKj2cC5deTHHdiD/hmwEcipvEn62bG/4teUthlg6J2MIc=;GcsUeQURr2Wm2BxJuf8KqA=="

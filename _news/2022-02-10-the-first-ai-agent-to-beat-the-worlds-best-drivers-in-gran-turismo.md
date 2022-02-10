@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
-excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
-publishedDateTime: 2022-02-09T16:55:00Z
-originalUrl: "https://twinfinite.net/2022/02/gran-turismo-sophy-sony/"
-webUrl: "https://twinfinite.net/2022/02/gran-turismo-sophy-sony/"
+title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
+excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
+publishedDateTime: 2022-02-10T08:51:00Z
+originalUrl: "https://analyticsindiamag.com/the-first-ai-agent-to-beat-the-worlds-best-drivers-in-gran-turismo/"
+webUrl: "https://analyticsindiamag.com/the-first-ai-agent-to-beat-the-worlds-best-drivers-in-gran-turismo/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Twinfinite
-  domain: twinfinite.net
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - AI
 
 images:
-  - url: "https://twinfinite.net/wp-content/uploads/2022/02/Gran-Turismo-Sophy.jpg"
-    width: 1920
-    height: 1078
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
+    width: 2400
+    height: 1350
     isCached: true
 
 related:
@@ -128,19 +128,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
-    excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
-    publishedDateTime: 2022-02-10T08:51:00Z
-    webUrl: "https://analyticsindiamag.com/the-first-ai-agent-to-beat-the-worlds-best-drivers-in-gran-turismo/"
+  - title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
+    excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
+    publishedDateTime: 2022-02-09T16:55:00Z
+    webUrl: "https://twinfinite.net/2022/02/gran-turismo-sophy-sony/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Twinfinite
+      domain: twinfinite.net
     quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
-        width: 2400
-        height: 1350
+      - url: "https://twinfinite.net/wp-content/uploads/2022/02/Gran-Turismo-Sophy.jpg"
+        width: 1920
+        height: 1078
         isCached: true
   - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
     excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."
@@ -194,6 +194,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fAqbHvnKi6D73prCpyqhxvgj0u/705h+KTtL5Rv/4nYqvqCPSgeOW69dC6dTlOsGTS69NUfl1Ey10ssxxY4KWKaZaH38CfKjO1lrD1t83turRgzZhxuxsUSudwFwEMM1V6Nt69H6w76DrYmpAZtrd/OEut1S/GArWoyQ5n85LjHActAVU37dC3Npnj2Sjy9Nas/MG3EBTaTeI0iHMDXDyGyStWdphKSpQvV6xGSUtH+pXC2IHd9N6U/OvUP15FUIzWJq8GM1u8rRLl3gtBPa3cph8fZ5QYQlpksfEE4L0L5+Rv7pkt36S2B50KvFs8piaAu8MqMc2eG5l/w0enGFxBpvWtQfW/1NfDxjpcWStmU=;/CHL00vFDn6//+tl7HFCLg=="
+secured: "VjElQrcIeMMVAu2bAuMOqN/qUfj4a6w8TeV23WYPm514bcsaiv92jLb8KHkklcZI7E/oASTCfajYdNe/s9kGXU9JeQKSY+u4w4nEUWNkT8xCaxXYe8rSfof45KZeCbSlh6bf8kMnkce18UAMWswguJjPjWzDOs/BhLg2ohX6QR5xXVLSK7m/AAIX5FnLKl3OdYVe7TGmNPv1Zj6q72Xn3PFzzENZkp3gS3vw9nlRAJcDCK52iTZMeN11o0DU3eY66yF4i4GenGVMlWUwaEArqcYEcdAAOtWIouN3LWOm9OLdSECEG3co4rkAv13oWpxKY2eFrRFBoBboTf/68h5smkfPmnUmS42rlaQVPQ6zLTA=;t3+kkTpz8ZtwDOk0RL0u4w=="
 ---
 

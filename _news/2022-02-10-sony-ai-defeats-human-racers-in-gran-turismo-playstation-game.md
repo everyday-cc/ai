@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
 type: article
 quality: 87
-heat: 267
+heat: 207
 published: true
 
 provider:
@@ -30,37 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Sony created a Gran Turismo AI that demolishes the world's best human drivers"
-    excerpt: "As is common in AI, Sony trained its versions of Sophy GT using fast graphics chips. To run the simulations, it used computers with conventional processors. The next in the venerable series, Gran Turismo 7, debuts on March 4."
-    publishedDateTime: 2022-02-10T04:31:00Z
-    webUrl: "https://www.cnet.com/tech/gaming/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
+  - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
+    excerpt: "Sony Group Corp. says it has trained a champion capable of beating the world’s best racers at Gran Turismo -- only the player is an artificial intelligence agent."
+    publishedDateTime: 2022-02-10T05:52:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/sony-uses-1-000-playstations-to-train-gran-turismo-ai-champion"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibVis_kYj_9Y/v0/1200x800.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Sony’s new AI driver achieves ‘reliably superhuman’ race times in Gran Turismo"
-    excerpt: "AI agents have bested humans at many games, from chess to Go to poker. Now, the machines can claim a new high score on the classic racing video game series Gran Turismo. Sony announced today that its researchers have developed an AI driver named GT Sophy ..."
-    publishedDateTime: 2022-02-10T01:01:00Z
-    webUrl: "https://www.theverge.com/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/naBUN_x1JY-fa1a78xpWTJs2OAI=/0x0:2988x1990/1400x933/filters:focal(1255x756:1733x1234):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70488847/1174706815.0.jpg"
-        width: 1400
-        height: 933
+        height: 800
         isCached: true
   - title: "Sony trains “superhuman” AI to race in Gran Turismo"
     excerpt: "A team of researchers at Sony AI have used deep reinforcement learning to teach an artificial intelligence to play Gran Turismo at a world-class level. While previous experiments have taught AI ..."
@@ -122,20 +104,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Sony AI To Reveal Project Likely Related to Gran Turismo 7 This Week"
-    excerpt: "Today the artificial intelligence-dedicated arm of Sony, Sony AI teased the reveal of its “gaming flagship,” and it’s likely about Gran Turismo 7. The tease made on the company’s official ..."
-    publishedDateTime: 2022-02-07T16:37:00Z
-    webUrl: "https://twinfinite.net/2022/02/gran-turismo-7-sony-ai-tease/"
-    type: article
-    provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 37
-    images:
-      - url: "https://twinfinite.net/wp-content/uploads/2022/01/Gran-Turismo-7-Key-Art.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Sony and Gran Turismo 7 Dev Tease “Breakthrough AI Project”"
     excerpt: "An official announcement is coming on Wednesday. In late 2019, Sony announced an artificial-intelligence division, exclusively focused on “unleashing human imagination and creativity with AI.”"
     publishedDateTime: 2022-02-07T17:48:00Z
@@ -149,34 +117,6 @@ related:
       - url: "https://gameranx.com/wp-content/uploads/2022/02/gran_turismo_7_090921.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Sony AI and Polyphonic Unveil Gran Turismo Sophy"
-    excerpt: "Christian Gerdes. In a blog post made on Sony AI’s blog, the team described the many challenges in making Sophy a reality. To start, the AI had to learn Gran Turismo‘s physics engine–a ..."
-    publishedDateTime: 2022-02-09T18:34:00Z
-    webUrl: "https://gameranx.com/updates/id/287895/article/sony-ai-and-polyphonic-unveil-gran-turismo-sophy/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 37
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2021/11/gameranx-icon.png"
-        width: 500
-        height: 499
-        isCached: true
-  - title: "Sony AI Announces Superhuman AI Agent Called Gran Turismo Sophy - News"
-    excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced a the \"first superhuman AI agent\" called Gran Turismo Sophy. The AI was designed to \"outrace the world’s best drivers of the highly realistic PlayStation 4 racing simulation ..."
-    publishedDateTime: 2022-02-09T16:36:00Z
-    webUrl: "https://www.vgchartz.com/article/452520/sony-ai-announces-superhuman-ai-agent-called-gran-turismo-sophy/"
-    type: article
-    provider:
-      name: VG Chartz
-      domain: vgchartz.com
-    quality: 37
-    images:
-      - url: "https://www.vgchartz.com/articles_media/images/bloomberg-new-assassins-creed-to-help-fill-ubisofts-schedule-beyond-good-923182_featured.jpg"
-        width: 600
-        height: 250
         isCached: true
   - title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
     excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
@@ -192,47 +132,19 @@ related:
         width: 1920
         height: 1078
         isCached: true
-  - title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
-    excerpt: "On the other hand, now that the proof-of-concept is here, you never know where this kind of AI tech may start popping up. Check out our Gran Turismo 7 preview to see how else it changes the racing game. I got a BA in journalism from Central Michigan ..."
-    publishedDateTime: 2022-02-09T23:00:00Z
-    webUrl: "https://www.gamesradar.com/au/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+  - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
+    excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
+    publishedDateTime: 2022-02-10T08:51:00Z
+    webUrl: "https://analyticsindiamag.com/the-first-ai-agent-to-beat-the-worlds-best-drivers-in-gran-turismo/"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 37
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/dQsLErTFoxCpKhKtac7icC-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sony Announces Gran Turismo Sophy, a New Artificial Intelligence"
-    excerpt: "Sony has announced Gran Turismo Sophy, an artificial intelligence built in collaboration between Sony AI and Polyphony Digital. Revealed as part of the Race Together Media Event, Sony claims that the new artificial intelligence, which has been trained ..."
-    publishedDateTime: 2022-02-09T16:22:00Z
-    webUrl: "https://www.ign.com/articles/gran-turismo-sophy-sony-ai"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 37
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/02/09/gt-sophy-1644425611544.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
-    excerpt: "The Gran Turismo Sophy project used more than 1,000 PlayStation 4 consoles to train an AI bot that Sony claims is smart enough to adopt optimal racing lines and takeover maneuvers while also respecting other racers and the etiquette of competition."
-    publishedDateTime: 2022-02-10T06:54:00Z
-    webUrl: "https://www.bloombergquint.com/business/sony-uses-1-000-playstations-to-train-gran-turismo-ai-champion"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
+        width: 2400
+        height: 1350
         isCached: true
   - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
     excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."

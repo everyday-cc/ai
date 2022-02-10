@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Apple acquires startup that makes music using AI"
-excerpt: "Apple’s acquisition of AI Music will allow it to create soundtracks using royalty-free music and artificial intelligence."
-publishedDateTime: 2022-02-08T05:34:00Z
-originalUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html"
-webUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html"
-ampWebUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
-cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
+title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
+excerpt: "New Delhi, Feb 10 (IANS) Used car retailing platform Spinny on Thursday announced that it has acquired a 100 per cent stake in AI-powered connected car startup Scouto. The deal will mark one of ..."
+publishedDateTime: 2022-02-10T08:29:00Z
+originalUrl: "https://menafn.com/1103670466/Spinny-acquires-AI-powered-car-connectivity-startup-Scouto"
+webUrl: "https://menafn.com/1103670466/Spinny-acquires-AI-powered-car-connectivity-startup-Scouto"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MyBroadband
-  domain: mybroadband.co.za
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-02/10/I_da3e9image_story.jpg"
+    width: 400
+    height: 319
+    isCached: true
 
 related:
   - title: "Apple acquires artificial intelligence startup AI Music"
@@ -140,6 +144,17 @@ related:
         width: 1600
         height: 780
         isCached: true
+  - title: "Apple acquires startup that makes music using AI"
+    excerpt: "Apple’s acquisition of AI Music will allow it to create soundtracks using royalty-free music and artificial intelligence."
+    publishedDateTime: 2022-02-08T05:34:00Z
+    webUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html"
+    ampWebUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 37
   - title: "Apple acquires UK start-up that makes dynamic music using AI"
     excerpt: "Apple could use the start-up’s technology to create new music for advertising, or dynamic soundtracks that respond to the user’s heartbeat or mood. Tech giant Apple has reportedly acquired AI Music, a UK start-up that uses artificial intelligence to ..."
     publishedDateTime: 2022-02-08T12:33:00Z
@@ -168,20 +183,6 @@ related:
         width: 1800
         height: 942
         isCached: true
-  - title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
-    excerpt: "New Delhi, Feb 10 (IANS) Used car retailing platform Spinny on Thursday announced that it has acquired a 100 per cent stake in AI-powered connected car startup Scouto. The deal will mark one of ..."
-    publishedDateTime: 2022-02-10T08:29:00Z
-    webUrl: "https://menafn.com/1103670466/Spinny-acquires-AI-powered-car-connectivity-startup-Scouto"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/10/I_da3e9image_story.jpg"
-        width: 400
-        height: 319
-        isCached: true
   - title: "Apple acquires a startup company that uses AI to adapt music to listeners"
     excerpt: "Apple appears to be continuing its acquisition of companies concentrated around music. After last year's acquisition of Primephonic, a music service for streaming classical music, the Cupertino company recently purchased AI Music,"
     publishedDateTime: 2022-02-08T14:23:00Z
@@ -197,6 +198,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zSxLKesyjQs1elPR8w8ckZnXhCHT85Q+IYtsExnLi4pdPGIXKiGqfrZvrArKhQ4k0zwZPJZVVV0NSWs3+ZcRvWF4COhk1+tfehl9cIbU4HW9AIjdiNrIAaSvLAeqK3oesutk85d/5MpwVmofJb/E5v/8Xg6DqCbh7/mGLcCioZ5hmRC4FCJOPdNb4pdIf5XSIaRCtH3mbUQqPNaL8nWK8xc/rNiUkPwT0yQ2k2/jO/dyz2zmg5BYoZfwG7fbbDuIbYSOKMkujJ+ewFyBia7jdlq/k87jTGFTK2nA0JYJsxDxOWZIEKqIl/vIsWAuXJvMdORtiWGUN9Ty93yl33DwDfZK6h1fnF/ZZr5GC8T3qmxmqEvTdbzBoCI06gM0F0IZvZ1ysHMpvtFFOswf/NplfIuo+Qc3gMrc1W4lk5jc+PLUomny2GSEd7ijHtH6R2CGzo7K+YCWVNctuajzXNDYEzsEOD/lCWl+72ZzG6CfvVj74s/RHG8xnxmiCUPGNComevMrlFWJZQlK3GwolRfhDw==;Jpe0Fa6bXyZ5zlZVvzn7KQ=="
+secured: "uDWHZTCN3+OgFKiN1fzAvyjK43EFnGlWeBEPqFwFkL8bBiTGfYAKSiE8vkV6lqKP1yuka8rosrEG8eZuPxI5zL6QtiAz/JHMto0468j2JykoiuYEqSA8BbYf5Y3zmG7BD5RUnsz2efDI5lc3oCOOAo9nsgUHWrKUVEZg2qp3gWUgTzWA+bdmdkYQwUrDeCWDsZxUnnJOr3TYkopLRoDBF7EOlD7hMJh5DgQ+DLUG6H/i02mcSZNp1j9tlBoctQKpuak0daAC2aZ0FVJwE0H+q3l22ICObrv480nvBJLyeROajrvQR34A91ZO4Urv5dZ7bELw+GE/3vVgTXItsGIYYhObpu7TPMKCD/XqHki+faE=;7iz0PZGIkmgajT6JrSaKVQ=="
 ---
 

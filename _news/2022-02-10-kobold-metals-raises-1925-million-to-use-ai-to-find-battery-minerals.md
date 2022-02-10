@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "2/Pp+uk5OUkyBpGAQ9nQ10HKdMDJ4S3V0um9K/uQDbtpMz37tnS5Mek0MQbAfyU15NfizGMCHLAsZie6UvFHF+H7ZI5qYXeY/XgV3j/oQOKSZ+HlTFjfZEBNIqiWbhLkYsB0nrvSQZp+xfL902Tocj8lVvFMM5BNb+pYengtWe6ZcubaenR8XanzkSfGS1teyKsKjyADYedbHOuwvtKk8So4vIILIJOSBwtN9rDR0gMDjMM1lpInqcTn+aMXRjke/iWQuQW720Snc/EfW3R85w2CKWOR1mCs7ahL7QuWLOoVMUzyPwX4r1adCBnmsW1/2VIqFC1Ey48tdZVauknbKHGrYZnR4y0dswgTAPveGjI=;AiNUsgti+KOMT3yjK5hupQ=="
+secured: "Yx3lwI/QlDGq5IszPe4knJEFKzMU1NG74fm3pLWAMZWEyvXQI0aepFEglV+5v1bZLwi6bD+35IQ4rBPa4+y4hGomLxV0oPo3SEnQVGp6Lm6wybmvCEFIRhum9xFUs8qrQpfBr7Ac+0UT6HI3yT6Y6ZocFjQP6WukE90eQUgkW+w5XFY1eMpq7cjz5ZVLLabsytubdOGylQC4hsK8VB5Ahc8HBEqtLWCFyb4LVoe+QmkR1C3f+apS4bdMWZRkS30O7xPvHVmE/eV9mWyfo9V4PoenkBVZBR22JJERM1rJc/dAEvL5IGzlQ/BkQuAz++TVLAgRlC7VnEcaTlV2V4EN5myHBnz+F4dULFAGHje8gUx73DMdDxy+UzL2XqcAIWLJEE8gRAyfhaNOY/6pg0l0fVLaMVg0DZRrs/X2bmDakWfnMVGDuu/lyHpi+rQa4ThesJ74bD3GLhlqNXbm1Mh4NaL5TZedAVjmUqlEj9NAwyCGoud+kfynZ7N97bMhc7lXOzIEj2TESohad8Gf7isBqA==;9YIyfgXk5aH7MUWChVbTzg=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Artificial Intelligence in Energy Market 2022: Industry Trends, Demand, Business Growth, Future Scope, Investment Opportunities and Forecast 2029"
+    excerpt: "The newly published report is titled, Global \"Artificial Intelligence in Energy Market\" Research Report 2022that"
+    publishedDateTime: 2022-02-09T02:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2022-industry-trends-demand-business-growth-future-scope-investment-opportunities-and-forecast-2029-2022-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
     excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
     publishedDateTime: 2022-02-07T07:52:00Z

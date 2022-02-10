@@ -183,6 +183,20 @@ related:
         width: 1800
         height: 942
         isCached: true
+  - title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
+    excerpt: "New Delhi, Feb 10 (IANS) Used car retailing platform Spinny on Thursday announced that it has acquired a 100 per cent stake in AI-powered connected car startup Scouto. The deal will mark one of ..."
+    publishedDateTime: 2022-02-10T08:29:00Z
+    webUrl: "https://menafn.com/1103670466/Spinny-acquires-AI-powered-car-connectivity-startup-Scouto"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/10/I_da3e9image_story.jpg"
+        width: 400
+        height: 319
+        isCached: true
 
 secured: "w7/MmZOkBw2UH6UEQlAUrdut3cz0OEv9AtwHuhRsGizdXoVIRQnBXeJu4TDAwTojI9CjPDCYtGNsgk6W175HOicW+J+et0c077m4XYJFfzFGJl9soEXTjBodYSVM+wRND+jOf8up+AFxccCWMGeRsEdlkpht8H9rme3WfPfjZt0kreTDCg77epWiqsKjQnM3MFOngDiXt/smrdLcakWUEhj4u7ty8tyD8B0k0c9nWgs7VXJgdvCXZXYfiPjEz6X9NhXLniXx4lYudkkIWflHxMeBVZ7vD0vIX0FfAybRd1BRWstrahVEaBT/AcSvbEUaWOQ3PxzrKm0Tez8RtdTJqyR5rGf3BF6mDd4XBvfi2nO9DGw72wLXg4aYRmbaBivpEGWqiES+nbB7qdxxhvoe9pg+t919UOkrLn8OO6Nt5KF+ysWH2zVbMRZ2zZWj6hul14Y3zjexTLfOK5uRj9bmn/mlUIERx5+2JgrQFSHRqdF2kqHSIdULSFd20G4p9p9XXzG0cctNjguBNMcsPQn1Jw==;6j6JuJlcKA5oTBGNs3fjLA=="
 ---

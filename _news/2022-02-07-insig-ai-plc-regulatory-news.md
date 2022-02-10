@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Insig AI boosted by inclusion in PwC FinTech programme"
     excerpt: "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients."
-    publishedDateTime: 2022-02-07T08:59:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
+    publishedDateTime: 2022-02-07T13:44:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
     ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/973290"
     cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290"
     type: article

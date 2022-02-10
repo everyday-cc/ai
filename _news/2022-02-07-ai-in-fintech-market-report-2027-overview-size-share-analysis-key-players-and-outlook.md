@@ -53,6 +53,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Artificial Intelligence in Energy Market 2022: Industry Trends, Demand, Business Growth, Future Scope, Investment Opportunities and Forecast 2029"
+    excerpt: "The newly published report is titled, Global \"Artificial Intelligence in Energy Market\" Research Report 2022that"
+    publishedDateTime: 2022-02-09T02:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2022-industry-trends-demand-business-growth-future-scope-investment-opportunities-and-forecast-2029-2022-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems Spending Market Research Report 2022 – Global Forecast till 2027"
     excerpt: "The global artificial intelligence systems spending market is estimated ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping. However, concerns over privacy, bias ..."
     publishedDateTime: 2022-02-08T23:59:00Z

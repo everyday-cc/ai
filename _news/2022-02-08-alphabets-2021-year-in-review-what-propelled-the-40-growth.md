@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Retail Industry 2021 Year in Review: The EEOC & Artificial Intelligence: A Brief Primer for Retailers"
-    excerpt: "In October 2021, the Equal Employment Opportunity Commission (EEOC) announced an initiative to ensure that artificial intelligence (AI) used in the workplace does not lead to violations of the nation’s antidiscrimination laws. The EEOC, through an ..."
-    publishedDateTime: 2022-02-05T16:20:00Z
-    webUrl: "https://www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers"
-    ampWebUrl: "https://www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "The Fear Index review: A psychological thriller with a dash of AI"
     excerpt: "Josh Hartnett (Pearl Harbor, The Black Dahlia) stars as Alex Hoffman, a wealthy technology entrepreneur who invents an AI-driven system capable of predicting ... tragedy prompts some of their employees to start to question the morality of the whole endeavour."
     publishedDateTime: 2022-02-09T18:03:00Z
