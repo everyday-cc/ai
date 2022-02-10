@@ -134,21 +134,21 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
-    excerpt: "Spinny acquires AI-powered car connectivity startup 'Scouto' RuPay Prime Volleyball League set to take off with a bang in Hyderabad Government bans import of drones; provides certain exceptions Warning Indians against cryptocurrencies, RBI chief says ..."
-    publishedDateTime: 2022-02-10T11:49:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89479987.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
+  - title: "Spinny acquires AI-powered car connectivity startup Scouto"
+    excerpt: "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ..."
+    publishedDateTime: 2022-02-10T15:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
+      name: India Times
+      domain: indiatimes.com
     quality: 57
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-89479987,imgsize-5744,width-800/89479987.jpg"
-        width: 800
-        height: 638
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-40956,msid-89485264/spinny.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Spinny acquires AI-powered start-up, Scuoto"
     excerpt: "Pre-owned car retailing platform, Spinny has acquired 100 percent stake in AI-powered Connected Car start-up, Scouto. The deal marks one of the first consolidations in the AI-powered used car solutions segment. Founded by ex-racecar driver Akshay Gupta ..."

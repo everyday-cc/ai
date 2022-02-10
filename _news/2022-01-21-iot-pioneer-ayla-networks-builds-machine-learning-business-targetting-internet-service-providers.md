@@ -1,19 +1,15 @@
 ---
 category: news
 title: "IoT Pioneer Ayla Networks Builds Machine Learning Business Targetting Internet Service Providers"
-excerpt: "Advanced analytics – including the use of machine learning and ... healthcare and financial services. The market's use of AI can be traced back to its roots building self-learning and self ..."
-publishedDateTime: 2022-01-21T15:17:00Z
-originalUrl: "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers"
-webUrl: "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers"
+excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+publishedDateTime: 2022-01-21T15:16:00Z
+originalUrl: "https://www.networkworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers"
+webUrl: "https://www.networkworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI in Finance
@@ -21,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "ZE+p+AybP4z7VrrSJQICoUFcct8Fza48OOr46PRBNacBVgq7V43lEz+D5oApk8Ohpb6ezMK7S1i6f3Oj02d9TkIUgu1+fdz1K2WqYes+4YvzIvIKHG2geiWfiuzuNQFEFup+BBGGFIn+AM37WPB+MDINfgBbC+cRseqEspWM0maVfx+HK00XSFxXIuFcPtdetr78jSrgNkvukUJJ9k30avMQ70WbIZ+9ywJKhVAFoPLhteTeAT29CUyLjW2ZM87bOFTeDqzViICz0CytMakD2QNR/LBoEQP8EvUA8tm9vX+SJHxHq66KnyPCyOTenU5yOYkg1ruGxcGVtrbVoDck8WJUd9w3xb4b4ex3B3tgOoU=;QcVowWFD+g7w5j1zArATDg=="
+secured: "Q70shLWn7kj7IMS43BkycP1CacMt+3wbj3zH66Cc3+Zv2SS1VSebw7LdKCZYrW2qCj7s2iUUT/9E0NXjl0vN8P6+WXSJRrrnJRViJbks9VBYiuO4aPCCHBCNKNhJENEY5KukWz1vQizpCS8KA9bTY8Zh6HUQRMZN2GTLBfkKjP9yr7s9NDxDvmUt9M0RTTntM9pTFKZIo4l/zan39ACaIXq1wKw4c3McLEqed1QRabSE/4NUZQtltoEWIXKdPxdx0mfasNqtBP1ETevTVvcpMpmNYCyib5S3aLUW3w/nsNOVl7xK6USBTWLGkc//ziGtKjgsspA/kujXdfmerm6ECOMiAewLLQX2L8yT8GRpXmI=;PsYazCGoGU43S0Kto6Hw7g=="
 ---
 

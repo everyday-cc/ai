@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Spinny acquires AI-powered car connectivity startup 'Scouto'"
-excerpt: "Spinny acquires AI-powered car connectivity startup 'Scouto' RuPay Prime Volleyball League set to take off with a bang in Hyderabad Government bans import of drones; provides certain exceptions Warning Indians against cryptocurrencies, RBI chief says ..."
-publishedDateTime: 2022-02-10T11:49:00Z
-originalUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89479987.cms"
-webUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89479987.cms"
-ampWebUrl: "https://www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
-cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89479987.cms"
+title: "Spinny acquires AI-powered car connectivity startup Scouto"
+excerpt: "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ..."
+publishedDateTime: 2022-02-10T15:39:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Gadgets Now
-  domain: gadgetsnow.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-89479987,imgsize-5744,width-800/89479987.jpg"
-    width: 800
-    height: 638
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-40956,msid-89485264/spinny.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -248,6 +248,6 @@ related:
         height: 675
         isCached: true
 
-secured: "cuG+uCkzprBNzJqxWGwAyvktFJrjn+kSHkrRfeEkzlEtWaQxVZUIG1KLVTpqEBhv5oqR/X5360isGBEgsVDNthw7PZUfohr5vLQ+tXj12VBdKDGSAqdrKC0+Akoaw+NcgREE+Lc2iBhvNtUC/rRn5HOx1tajTZYZI577tmz0EvxxbmWtMgOfegbsifSompWFor1jXdcfBgBm6Qc9TlMi9Tdj8HD8hdluwGmMbvAJXEXkqwo2uRxJ1His4J6tUYtW0ZqlxIV/85KYkZiJXuvMgZiyh02k0yashq9qoLoBckMNjB+DKVtkA8qZVNoWhg46EkSF4y3GPtKbKJvu6QMcKZz7VqmVSnipz9Mj/Knpi1M=;8rwfXQ+yKADKGnnvgp7dRA=="
+secured: "4p/K11jaeuOjX40ZfUzw9QaSx6J10FzeeldtCcN5xq5JKm+deVaGfylCQnQwYZCh4g7Hkl/cerZBnTsIaenmDPGj54FYWNT+DV8uMEun5oGIna6fUfcNo6OzWTeWlnWLauP3LXQFU9nUECTivUkPc9w5IFbcxwmpq6wxzMudHKiMm4keAFuW9LQazHrS00GjEli6IA9qLMidIrcy62LRIBglnJlL7CblZuI03LR7jBJSOJBhKSBb8a0di4Q6isoSBj5fRmeKcYsRvpKWFCTUVpvcuvyWree5xPmpxOiGF3f5Sg/OnCkQ/syfBulCjGGBRG3AaqntEkfqzJOu9bbZy6HSFZ8s/rZkduiEm+6IM8k=;5mC+DsFB8P3VBEq1v5AeiQ=="
 ---
 

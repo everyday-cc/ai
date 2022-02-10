@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "💸💰 Funding in Indian AI startups in 2021"
-    excerpt: "Editorial We have released our annual study on funding in Indian AI startups in 2021. The report analyses received funding by Indian start-ups in the AI & analytics landscape."
-    publishedDateTime: 2022-02-06T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/funding-indian-ai-startups-2021-bhasker-gupta"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnEzm-BwEX4A/article-cover_image-shrink_720_1280/0/1644146501974?e=1649894400&v=beta&t=PxGNT83fNrHYWQpt7Q3wsDa-LBzxjPxJ_nCObJF0UGU"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Txxce8b4vswHd5dr4wa0g5TzEOFEw0hvEjYoIxqjv2m5H+RtZs4YU9M4E16gD6+Ti9tBTAZ8uI7wmyo41zv0tzl7q19ON0rnT5xuVBUzhZkpr4BUYnPYrY8u7nEpv4bAPLcNcldWmHlxvU7luCQHKuRobogkOfR3mECMJHEnn29Tn1eTztlR6rR2XcGeKptAAGdckfgYW8970vW3KNqWONtfnQPorr02WIIigTmjhGAAs0VrIrtZgrutTe6RxLc8NHE1/PYW9rjjqNfmegjtRgs23+lgkZDqjMMNyENHI2yINGwFwqKz7uivwlZbYHmaLYnzC9UpLmS4VXiLviywJ/PKJYA3iBl70RcUpPqVTvbFjzYHLNXkIptKhhGnBfMdomSUojMvbubEySY97PWZdyeAzBVajO1nQtm6SffVKMRNSLEFnKh0dvZCpRkVZToClOoQiZOeb8jSSEbLuatyeegxBY4bu2Tr5pHS5HndVujQSQn++UmVSQBjw3Csy5NJWtjYM7axqWI018hKwUApkA==;wQvHBJgjqZkYRmjl7L+Jow=="
 ---

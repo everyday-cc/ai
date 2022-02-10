@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence is cooling data center operations"
+    excerpt: "Massive demand is bringing new challenges. The need to scale facilities to demand is challenging, but Artificial Intelligence (AI) offers a promising solution. This paper explores AI and its impact on data centers, using white space cooling optimization as ..."
+    publishedDateTime: 2022-02-10T16:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/how-artificial-intelligence-is-cooling-data-center-operations/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Siemens_How_Artificial_Intelligen.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TIFIN Wealth Launches TIFIN Grow with Over 500 Financial Advisors Using AI and Investment Intelligence Driven Personalization"
     excerpt: "TIFIN an AI-powered fintech, leverages data science, investment intelligence, and technology to help deliver engaging and personalized investor experiences. By connecting individuals to advice and investments, TIFIN bridges the gap among retail investors ..."
     publishedDateTime: 2022-02-08T17:54:00Z

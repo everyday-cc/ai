@@ -36,7 +36,7 @@ related:
     provider:
       name: enterprisetalk
       domain: enterprisetalk.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Recognizing-and-Eliminating-Bias-in-Artificial-Intelligence-01.jpg"
         width: 1200

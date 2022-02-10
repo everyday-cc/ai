@@ -8,8 +8,8 @@ webUrl: "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-
 ampWebUrl: "https://healthitanalytics.com/news/amp/who-its-time-to-eliminate-ageism-in-artificial-intelligence"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/who-its-time-to-eliminate-ageism-in-artificial-intelligence"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg"
@@ -26,6 +27,6 @@ images:
     height: 278
     isCached: true
 
-secured: "S5XvcO8cqXejkUbx66Pv1wH3PQXfBfMWY0Ik0xI/QqWkd2pHaBaCWCx0IeaAam3OKPuKXtKZnvQr0eSPej3snFL/t7wB+BcgRJuorYXCAnSFModns8QJW2W1n9HqJ5Qe7oC0LrFnkb/sf8gw0NT+gy2olxRW/jRJ2ZWG1OZz16MoFeXXswghonpVBDWCG7Uk7tmlXxJAMty5WEUpy3lNlyWrIU+uQ6UFP9qEYTMz+kgm3WciAvlxmt/RlVYih1S7/WO5qmHcBsBLOzgIFCc+rPmEKdddZDvZ/Y2rlxdOtR+BoSNzfvfqlA9FfOcAnekTwDfukmOADrtx4vFpMvCQtfZtfTkiyyMTjeY6DTpS7ls=;bh+HlGjMwdIfqwyVy1mzMQ=="
+secured: "sdjWwOUv/FTwz4So+RzlvQjqWFgoJtTMhCWzAsV3f3nUcaeNaSI3zHLqy9OqXSA/euHFdimijtzNbGhqkg8mqYDzI/qJl9WrBB3495Xkv6U8TeKZHmfCkKMKX9BYt0UJ4ezaB2/xKhV4Oyz17xya3Hh6N/KN6EUP/1lpwVOCXdiP1QWP8nc6t+ArY/OuOL1bWLjQ3nn+UzSz3SDC/XVTy7HZxkJi/XLwtTJg54vkrWNgNCELAoytwI6PzlnXx3P/38LNpabK9SbMGgp7kQrWStKdp1H5FHf7+6w2IYE/8NfWEdCkmlyW2imCdUX4NWmqpmQBO0RAJMrJL6Jq+2YwZw9YBkiGCiu5SHf+2w+zYIs7qpaJNphyO6D60wb/iPSSF2XqhDpLGwxjSBsMhEvuQLwyrsKsu1UQY8uekeVEV2zq0AToOR7ONenifCStuMkyvIIwP8e8bMSwdtIdzu5uKH5PoFKOJpgVldzOu3hJfk4rLWNu/pp+rcqjweG20u9IvBfbcht6qwkuRMcbknXQIA==;R7Hi81NktlTl8sWkNOV2PQ=="
 ---
 

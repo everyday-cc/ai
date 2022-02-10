@@ -56,6 +56,20 @@ related:
         width: 534
         height: 462
         isCached: true
+  - title: "Ag-tech Employing AI and Range of Tools With Dramatic Results"
+    excerpt: "An agricultural technology (ag-tech) startup in San Francisco, Plenty, plants its crops vertically indoors, in a year-round operation employing AI and robots that uses 95% less water and 99% less land than conventional farming. Plenty’s vertical farm ..."
+    publishedDateTime: 2022-02-10T15:08:00Z
+    webUrl: "https://internetofbusiness.com/ai-in-agriculture-ag-tech-employing-ai-and-range-of-tools-with-dramatic-results/"
+    type: article
+    provider:
+      name: Internet of Business
+      domain: internetofbusiness.com
+    quality: 39
+    images:
+      - url: "https://internetofbusiness.com/wp-content/uploads/2022/02/Featured-Image-2-10.jpeg"
+        width: 550
+        height: 366
+        isCached: true
   - title: "The power of AI-driven IT Management"
     excerpt: "Symphony SummitAI offers AI-powered Enterprise and IT Service Management solutions to business enterprises. Our goal is to transforms the way enterprises work by leveraging AI and Automation technologies to deliver consumer-grade,"
     publishedDateTime: 2022-02-09T12:55:00Z

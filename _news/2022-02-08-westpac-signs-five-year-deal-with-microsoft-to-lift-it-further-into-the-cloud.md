@@ -117,6 +117,20 @@ related:
         width: 626
         height: 417
         isCached: true
+  - title: "Refinitiv Expands Collaboration with Microsoft to Launch Market-data Powered AI Assistant in Microsoft Teams"
+    excerpt: "Refinitiv AI Alerts powered by ModuleQ ... David Brunner, CEO of ModuleQ, said: “Since the start of the COVID-19 pandemic, two key trends have accelerated in the financial services industry – more data available than ever before for decision makers ..."
+    publishedDateTime: 2022-02-10T15:22:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/refinitiv-expands-collaboration-microsoft-launch-market-data-powered-ai"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 35
+    images:
+      - url: "https://financialit.net/sites/default/files/1539099703refinitiv01_0.png"
+        width: 4167
+        height: 2609
+        isCached: true
 
 secured: "DEIksEJ3FdmtbWnFJASMTKya4GwfLAlOvdCEhB/yGjOeyeSUC1vCFur/pHmAdSuyMuBRIN943QgPO5wxjgUe0ciSoc9QqJHXozQ44IaXA4JPZ3k0Eowglo3loMt4YCfwjxA8mROEpG7bNPex4t+bLbsHB0FXkfH93OcNvliztNnSvXULvbFc9coQrjJpPkLvXP0htA6PYQ39w0Gl6b9rHaO6JT6Iyl54PCPTtRe/+8bgsqGs13/8CdlqrB3UQgSMtdqiSDNVa88XZrQUtJncxB5cFgzGSU0Kl7I5OBGRpnMPsAexLL1fw3IoV4bh5QDIkhK0gNThesEth6sSgmflFIyT/ll8uOYsyCs44h9/0FWrHE5XQd5TgOwx1aM5E4v3t4wElGsb5CkAMEJQpWtVdJMY4ysUkHRqAeJigNwO9B94hJ/SqYAjP/GV7jc2ooM5cA/qHrZRfejr9DPu811bbOaEYw5qz3WcAAuFyHV/M79NYdxrRgw4oLnw3xHwd2fXNMVvPRmqKUlQQLUDzEXPkA==;owukeEs8+urIjtTbQd0SHg=="
 ---

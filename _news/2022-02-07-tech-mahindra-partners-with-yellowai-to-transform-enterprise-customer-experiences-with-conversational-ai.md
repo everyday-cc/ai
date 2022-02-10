@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-te
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "LifeOmic Acquires Bavard, an Enterprise-grade Conversational AI Platform"
+    excerpt: "The purchase comes as AI technology has experienced widespread ... and more to power solutions for recovery, monitoring, research, patient-reported outcomes, health literacy, treatment and ..."
+    publishedDateTime: 2022-02-10T16:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform-1031182807"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Tech Mahindra Partners with Yellow.ai to Transform Enterprise Customer Experiences with Conversational AI"
     excerpt: "Yellow.ai is the world's leading next-gen Total Experience ... the company has raised more than $102M from blue-chip investors and has offices across six countries. Tech Mahindra offers innovative ..."
     publishedDateTime: 2022-02-10T06:24:00Z
@@ -49,33 +58,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
-  - title: "Yellow.ai recognised in the first-ever 2022 GartnerÂ® Magic Quadrantâ„¢ for Enterprise Conversational AI Platforms"
-    excerpt: "Yellow.ai's Dynamic AI agents uniquely learn from all ... the company has raised more than $102M from blue-chip investors and has offices across six countries."
-    publishedDateTime: 2022-02-06T18:35:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234542&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "Yellow.ai recognised in the first-ever 2022 GartnerÂ® Magic Quadrantâ„¢ for Enterprise Conversational AI Platforms"
-    excerpt: "Yellow.ai's Dynamic AI agents uniquely learn from all ... the company has raised more than $102M from blue-chip investors and has offices across six countries."
-    publishedDateTime: 2022-02-07T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234698&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "Yellow.ai recognised in the first-ever 2022 GartnerÂ® Magic Quadrantâ„¢ for Enterprise Conversational AI Platforms"
-    excerpt: "Yellow.ai's Dynamic AI agents uniquely learn from all ... the company has raised more than $102M from blue-chip investors and has offices across six countries."
-    publishedDateTime: 2022-02-08T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234881&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "XaZgD23XZg03JWSzNdigBzOG2WYLEGbpx3aoPXCqBf+Ss/edTTKNG6n/YXbWvZpXiR8sIIKa75CNbyshJo59c8oyKs0fKO4On5Cd4OT48R2PJ/pUb4MCU1L4RvMyasEiJS4SEMaiGP3fnPf99GE1Yw6ko//rzneCczawmYraDqaerZIEYE38UuRkzinyCsOS34d7GWY2VyBDM9foipJ/Pgny2H0u933pEa+6HPiLEV7o2/VKpXzH5qU7ID9FCMZLKzrwCF8WPbiE8DnQXWp6ZNa8VuMLWRmxEC2ZPTvhoX/zSfCfDbony8mDgpXYrQYAqk0+AkvPbbcLrHYSzQM3k8KL0ntzTpiCcrRU56nHuNk=;IjYWokccJi/aNOv8cnBEKw=="
 ---

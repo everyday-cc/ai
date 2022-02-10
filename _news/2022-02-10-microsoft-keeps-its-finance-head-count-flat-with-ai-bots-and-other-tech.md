@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-co
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001"
 type: article
 quality: 120
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://cdnictsd.ictsd.org/have-sony-and-microsoft-announced-a-partnership-.jpg"
         width: 626
         height: 417
+        isCached: true
+  - title: "Refinitiv Expands Collaboration with Microsoft to Launch Market-data Powered AI Assistant in Microsoft Teams"
+    excerpt: "Refinitiv AI Alerts powered by ModuleQ ... David Brunner, CEO of ModuleQ, said: “Since the start of the COVID-19 pandemic, two key trends have accelerated in the financial services industry – more data available than ever before for decision makers ..."
+    publishedDateTime: 2022-02-10T15:22:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/refinitiv-expands-collaboration-microsoft-launch-market-data-powered-ai"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 35
+    images:
+      - url: "https://financialit.net/sites/default/files/1539099703refinitiv01_0.png"
+        width: 4167
+        height: 2609
         isCached: true
 
 secured: "cqmttmjQlq+Vt9BbQqKrgboDNWNm9jBXu/EJ6gC+tvyzDM2bQe28tBvp5wT69ZZ6RWG2/8r3X6+TchlpcN3xmzYLWcvDetrENTwBXgxeKg+/EjQtGAYMn8XGY2QQymbOn7qGAINwZgnqtHDwHZssPGRlowOFsicdj3xPDi8x6uE+4fc7Q/wg/d4PVS04YqFGtjXIzxFgKWxRp5hQNJ55tnfiofgKZzOzdHKYBeoJHd00/CuYhfdsE9z8kSY4gwHUJOp0/PrvwJCuJodOCMJ+xcMa+ek1RSzgPjw45HU43e63qsv7BLmhS4lL+nxOJGB97rGnrfKgtC72gHcVQjpmSqemac49hIL5kNfNxV1H6Rg=;iBqDofrK3CVYlpP6de0MJA=="

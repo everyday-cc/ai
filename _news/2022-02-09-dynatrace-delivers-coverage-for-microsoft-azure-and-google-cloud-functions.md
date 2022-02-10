@@ -55,6 +55,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial intelligence (AI) in Logistics Market to Witness Robust Expansion by 2029 | IBM, Google, Microsoft Corporation"
+    excerpt: "The continuous evolution of technologies such as artificial intelligence (AI) and machine learning (ML) is driving disruptions and innovations in the logistics and supply chain market. A companys efficiency in network planning and predictive demand ..."
+    publishedDateTime: 2022-02-10T16:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-to-witness-robust-expansion-by-2029-ibm-google-microsoft-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "How Komprise Is Sifting Through The Growing Mountains Of Unstructured Data Out There"
     excerpt: "‘Increasingly, people want to run machine learning on their data ... a new partnership with Microsoft to support migration of data to the right tier in the Azure cloud at no cost. With the new partnership, solution providers can help clients do analytics ..."
     publishedDateTime: 2022-02-09T17:02:00Z

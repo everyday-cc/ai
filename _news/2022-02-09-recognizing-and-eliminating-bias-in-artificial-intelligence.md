@@ -8,9 +8,9 @@ webUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in
 ampWebUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: enterprisetalk
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Recognizing-and-Eliminating-Bias-in-Artificial-Intelligence-01.jpg"
@@ -44,6 +45,6 @@ related:
         height: 934
         isCached: true
 
-secured: "Jxl/Vst4RwISSXPr2/yyPXHzq7jgb48nFHDdCLCcW/S1rrQLjV5bUDdGbkvsDFqWfpekVgyDWplm0s+s/6fdAd/7PIGXRKiILWfSk0kjqxc7BG3FuetMje3FV8JqivhwijRTC9bHSVExH7lWt5RJE77zKErB/Hm8Nc7OIQgeiiLe4kJv2FIn+o4yJBBI+49aEUxSDITitQqOHTNX04w1EDZ9tEGWlXvRbc0I3KSmmR3DtjqaIR7gQ2HIdtSh1jYMWhhUoMiGrZM0lK+hEcO4TFfeU0M53v/UdnMiYWymxSfw7q0BMQoAgpJkSsnSWI7VZ0Fyd3Jg3Q/qfoBDl2Q9MiE3o7+6rEFdLU+yXuSJfP8=;NPUrfLJtzr26BFBgpFcgzg=="
+secured: "Uj7UBa796F6p/uK3dZCn3OgnN3Rn/y3E2LolGSxQGm+8ynk12D+GoOtkQcCnF4rgilzdFHmeBwhDgiHMtANv1rgs/ea2SH8ptug6r/NzbKeW6u/OMDRUbdDkpd3B0Jg7kEEF1ZtDmuffJXMPSu4F4JTuCp9oxtcaB8180Qy5s9IHehpWLuVijOv9dg93sLuF98xj4DiVyExpJ6hYnTrq1WPUM/Mg3/67D7/QFcbd8FoJ+4Hxe+9c0/c8bycsGxVPi9ZuQxSeoutedePK3dQjXd2ZszV8eTqSeqWjjzmziSUUTEe4aQVJnf7nlGPeooJYTjKH6strAN8wKoYkYht3tzMJh0ebV2NfAK/5AAIZpQBaGNFkSF05vRAybedlagiqM/SXCk7aMu+GsVq7iEclB+QdOIRZJcUzBzqrFA6UqvR+cMPFlBbYUoqO78JjxvKh5sbJc6VJ5RK7+Xgun1Vs5qWuwoYfGQF1V3j2azEijj0OWqlo3DuGIvOwRyBPpjH3qTf6uyh6Kk6TRJabQiywxQ==;NLfXHERlW3XC8ONwm9q2Iw=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial intelligence (AI) in Logistics Market to Witness Robust Expansion by 2029 | IBM, Google, Microsoft Corporation"
+    excerpt: "The continuous evolution of technologies such as artificial intelligence (AI) and machine learning (ML) is driving disruptions and innovations in the logistics and supply chain market. A companys efficiency in network planning and predictive demand ..."
+    publishedDateTime: 2022-02-10T16:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-to-witness-robust-expansion-by-2029-ibm-google-microsoft-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "tbFJPn2jnNQWhwDVBx8K9GP/3O+RdyBuc7kSmyWcd7GyS/bLBmOlhvdcp5dTx7DTSPUprZk1BF7k+VLqNbl0vsEE3Pq9UliP7dQgZtVql+sSak+1pCYzcPPUn6nt4xZh1SUlEmFiPYx4MQIi3TUvDj/Lw8g6n7fdACYh1zqnPGUyOjT1i9W0pNdrP+0QC9WAFMIMYoPFuzmz6onKwfX3ECzEj5n//OjDSMI7lCci2AaIe3M8PvBpwDl7hY5NzuAFeAZC7PcYCcNrZLKtiY1Wa1b7kENfph/sf6m5FGxDS2BvMrNrysV/hr0/SUNHf5s15MpczDPX0Gkm39DzKTahoO5Obv9AHD2xHlKvcnCyVQUn6zbxIZ5YUwJ6tChgL+zXJSD5Hu6FtYseH+7s1yUA+ZmopQwMbIrnOAEMU+n1sYccNGzu0JIfVc/FLsoPvVyWztqvORBqM7BTrZCm6YnvH6reqAggdt5evsK5jGXURHTzjRtiJtL9aTW43VxKj5gAZ8OSJXiQMkcCIGr+nAtA0A==;5QFSQB3AipWxuvmGuriJFQ=="
 ---

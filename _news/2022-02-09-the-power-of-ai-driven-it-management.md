@@ -56,6 +56,20 @@ related:
         width: 534
         height: 462
         isCached: true
+  - title: "Ag-tech Employing AI and Range of Tools With Dramatic Results"
+    excerpt: "An agricultural technology (ag-tech) startup in San Francisco, Plenty, plants its crops vertically indoors, in a year-round operation employing AI and robots that uses 95% less water and 99% less land than conventional farming. Plenty’s vertical farm ..."
+    publishedDateTime: 2022-02-10T15:08:00Z
+    webUrl: "https://internetofbusiness.com/ai-in-agriculture-ag-tech-employing-ai-and-range-of-tools-with-dramatic-results/"
+    type: article
+    provider:
+      name: Internet of Business
+      domain: internetofbusiness.com
+    quality: 39
+    images:
+      - url: "https://internetofbusiness.com/wp-content/uploads/2022/02/Featured-Image-2-10.jpeg"
+        width: 550
+        height: 366
+        isCached: true
   - title: "Enabling credit unions with AI"
     excerpt: "On February 1, a panel discussion was conducted addressing the topic of how credit unions can empower themselves with AI and be successful in their journey, hosted by. It’s extremely vital for credit unions to steer corporate governance in the right direction to initiate innovations so seasoned industry experts gathered to raise the topic"
     publishedDateTime: 2022-02-09T07:15:00Z
