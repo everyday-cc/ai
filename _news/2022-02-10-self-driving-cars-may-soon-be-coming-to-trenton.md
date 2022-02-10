@@ -2,11 +2,11 @@
 category: news
 title: "Self-driving cars may soon be coming to Trenton"
 excerpt: "Officials unveiled plans for a new autonomous vehicle program during an event at Trenton Central High School on Wednesday. The hope is that the program will especially help the younger generations ..."
-publishedDateTime: 2022-02-09T22:20:00Z
-originalUrl: "https://brooklyn.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
-webUrl: "https://brooklyn.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
-ampWebUrl: "https://brooklyn.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
-cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
+publishedDateTime: 2022-02-09T21:54:00Z
+originalUrl: "https://bronx.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
+webUrl: "https://bronx.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
+ampWebUrl: "https://bronx.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
+cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
 type: article
 quality: 44
 heat: 44
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "xBouq9wgQRNC8yGDDEnr6mJoE+KhsQD6QLCIIj/fN5EyhFM5LUsGu9LSx4XSy9mqyC3ACPg8s5t9m4Go2lro/11j5gq3xzrkXFDq0XNb1+yrlp4DDsxgxY6AspnrmT/i1xdqs23DlEwOcVM4qDb6GFRRmBKKINfibKfBUGLcNIe6lmFGjQJivs9+CNJlXVP7btT5bgOVnnGlxv0kNBGgXl28EADlrxD1h3hHG8EmsvhbkZMLayWFQrKUDh4VgUnpfaAYDAeBtyv4sq+MqodVW3PwPFsxNBONJgyoc3j6NT6OniTDybtwQjKmaub8R8Z3O8hApQwXHohSFhH1FjTiT96yTxlMvtQGH5PX8Nqt/0DF9z9693suVfLCfOpv/Jm/pXfxiyPRY+S2kWACJve27QctEtxHb8zFWnTusB2jRlzqi8w0hMrzrFcWlIcQTLzEWA9ak+gQhZuZ52KNnhg999+P6bXSW6xEdkFT6fNbW6ULz6ppAnCr8cTllnMJt+u0wFrk94HvJDTgAjxCPET4EQ==;S/4Dk2Tsoe8AIqXvv6Nc/w=="
+secured: "uQWA+505nHbYRN6V3ZQigSyIXWxxExLiZbvDfAyv6F0/tTxmHwkvm2DCVVx4ohiKyZoP6fAIrYgR+9P/dlkBeCsIumiTSM2RhREvSmzO8sNSDaDNItfZ+APH8/VM8oODAhGMtHpl/T9JiKjOlBegob2hI1vkp49tcubSQOLYiIdPc8yUFYgQUjXc3zT/ym9DYaKJ4nClctX+Dxk9hEJnp30rCO8/akKYtBLK8/pI95DnrF8JLhWfgN9jdAG9fk0TymacW5nsrwawp73wrnu4Q2ITOzKJML5KIbWdJelWzlBzOCLLcEAR5ap+UXvthc+KbGHZ2b7Mge7mjvahrPVVbUqoGcTMaiti/2uWOXpgdVU=;vjQEGq8ZGDt+fP8+b/X/DA=="
 ---
 

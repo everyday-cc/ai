@@ -2,26 +2,26 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-publishedDateTime: 2022-02-09T23:28:00Z
-originalUrl: "https://www.wfaa.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.wfaa.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-09T17:41:00Z
+originalUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WFAA8
-  domain: wfaa.com
+  name: KSDK
+  domain: ksdk.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.wfaa.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+  - url: "https://media.ksdk.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -87,6 +87,6 @@ related:
       domain: mybroadband.co.za
     quality: 39
 
-secured: "TJOfj+1kkCoq7McZBY0uRRIH5N36gHVHI77L0+/seIuunDhBBrpP7Dhfk1wJxn/idXkzNMlDu8+MTt1Ki96Q56LOalrUHpWbkYxzDy6xLr3m0qSTNNgBY89Fj5F+AQZJDAjLJTw8wlKq/o5DAKVVerwl/C8cC2dtMrqO3oG3PjVJZlTBx1Oq9QPHMUj1mE4rD1A/I9lU/9ep+OPncN6mccqUWrnKvuljnmCaBMtt4+6lDDAbAsLLma5cChGtqt3n7ugVDYQR5bVvVlSDrW+jPR5d8WGFftdN1MJ8CbIMuHZoWT0Gpy/FotK/Gw1YQErrLAGtI6dMKQEEP3jjISf3AzqyLDLqo9jDbbi+eWZ9FVE=;GsoCsyll/OlUw5SaPmUksw=="
+secured: "HG00ezheNB4oT5dGkYrP0yV7LA8Js7AtE4RRcgT8ct9JjdMdtR6ioBFQY4fV6y9h3ChxrNFpxKgE87GMEbzWqGE6HNSVQD2lCEDNLftmamPr1c/fL6SdQ3bQtt7pTLh4TlqTwSUT00PkFVhxwjSRt1UMgo6rl93t+KbZPqKMiuiof/u+K8OhuEbsf6sYd7MNbnQm2A1nySLJtwnOxLjBK5swerqY6UFfabR1OVkrK9TdOl93MnYfWfAVzY76SZyyvVAOM8yspIvD87nvfaJgOnNXbVopsJ2lh0+9NxH95ZknwngMu/HQQyTZWXQ0KLti8FEvS5UcUhxusuqXbZvSsR0ue1+g2Ac5U5a7lGmm4B8=;kjVb0w5vEzqhCGHR0yx/Hg=="
 ---
 

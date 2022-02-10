@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Traction Programme unveils 8 startup graduates on Digital Demo Day"
-excerpt: "Armenia Startup Academy mentors provided us with regular feedback ... Meet the Academy Traction Batch 2 Companies Modicus Prime is a self-service AI company enabling process and quality control for biotech research and manufacturing."
-publishedDateTime: 2022-02-09T12:55:00Z
-originalUrl: "https://www.panarmenian.net/eng/news/298361/"
-webUrl: "https://www.panarmenian.net/eng/news/298361/"
+title: "Role Of Big Data In Fintech Industry"
+excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
+publishedDateTime: 2022-02-08T23:59:00Z
+originalUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
+webUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PanARMENIAN.Net
-  domain: panarmenian.net
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://media.pn.am/media/issue/298/361/photo/339x226_thumb_photo_298361_1f5e9ed63.jpg"
-    width: 339
-    height: 226
+  - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4912737022-data451.jpg"
+    width: 960
+    height: 640
     isCached: true
 
 related:
@@ -54,19 +55,19 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Role Of Big Data In Fintech Industry"
-    excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
+  - title: "Traction Programme unveils 8 startup graduates on Digital Demo Day"
+    excerpt: "Armenia Startup Academy mentors provided us with regular feedback ... Meet the Academy Traction Batch 2 Companies Modicus Prime is a self-service AI company enabling process and quality control for biotech research and manufacturing."
+    publishedDateTime: 2022-02-09T12:55:00Z
+    webUrl: "https://www.panarmenian.net/eng/news/298361/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
+      name: PanARMENIAN.Net
+      domain: panarmenian.net
+    quality: 22
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4912737022-data451.jpg"
-        width: 960
-        height: 640
+      - url: "https://media.pn.am/media/issue/298/361/photo/339x226_thumb_photo_298361_1f5e9ed63.jpg"
+        width: 339
+        height: 226
         isCached: true
   - title: "Insig Ai Plc Regulatory News"
     excerpt: "Insig AI plc (AIM:INSG), the data science and machine learning company, is delighted to announce that it has been selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as ..."
@@ -78,6 +79,6 @@ related:
       domain: lse.co.uk
     quality: 19
 
-secured: "cZkaVlQ13sRBVVDjZ6Uj409Qst1M9c9Fa67KcysN47xMpH+vplZ7RcwgqTYA5Ug+sn8F52ayThtXuR9wPZvxH5W5fGg4X4G8FTGGLHIjsb9EXaxyASoGXmer+ddK/heNnIrChrcPsv7Jtt2ST5PIydMJzW0BQvEsAT5lp5o/oZ+xhXEj7FaHEdSoEK6h+DbjBpBD40Y8t7kDW2GDR6eoMHEHQ4cVPqNl/qz1nHrbBb0OenZrPVukow5GTYg+gpYRD17wtCw0u+U5/u3m0pz+VIc83VAVEVXXfzHoiF4RZb5x12lJkgUbUk+chjKIoTFpGESLh5o3qa81Gk1MZfj9DIakf7bsvZvWyPpJyh3Jm/Q=;2aW+1JpL3Nyb3pecKZ3PiQ=="
+secured: "N992fYvHiZphk+Tckj3Tf6awBSomY/8bkibRb7bs+7ZPSBMIRlqr5fofL0Yqk1l8HcRbWb3o/LuPxxOerOxMqJ5zBSNNAG/4ttd3IqsS4k6cPouxfKIwQUgI2dNTUeop1F8UNEAmevUBzUGlq9Jx9B1MPWWOTguoft9COtsFb/uPNxD3C4+AtjgW/UfKZoM87484lHDEpsEfU8OX8cSdOI6XnVv9ChDRythYP7oONNsE3YfAQtJ2nsCllPr9IOBDRUZpluUtADizef7GVzy/UIy+94wai6aLo6uoOnBOuRa6DOhQ4eIDTRvNomQKyYfv8t88eX/ViEgxxQ2jTQrnOniHY/snSayG+TCMk9yhOb0=;jTs87MQy+q4WVTiMAMcKBw=="
 ---
 

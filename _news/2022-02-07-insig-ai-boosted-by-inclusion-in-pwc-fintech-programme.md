@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/973290"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Role Of Big Data In Fintech Industry"
+    excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
+    publishedDateTime: 2022-02-08T23:59:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4912737022-data451.jpg"
+        width: 960
+        height: 640
         isCached: true
   - title: "Traction Programme unveils 8 startup graduates on Digital Demo Day"
     excerpt: "Armenia Startup Academy mentors provided us with regular feedback ... Meet the Academy Traction Batch 2 Companies Modicus Prime is a self-service AI company enabling process and quality control for biotech research and manufacturing."

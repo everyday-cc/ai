@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Navrina Singh Founds Credo AI To Align AI With Human Values"
+title: "Navrina Singh Founded Credo AI To Align AI With Human Values"
 excerpt: "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ..."
-publishedDateTime: 2022-02-09T16:07:00Z
+publishedDateTime: 2022-02-09T18:08:00Z
 originalUrl: "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/"
 webUrl: "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/"
 ampWebUrl: "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Forbes
@@ -31,9 +31,9 @@ images:
     isCached: true
 
 related:
-  - title: "Navrina Singh Founded Credo AI To Align AI With Human Values"
+  - title: "Navrina Singh Founds Credo AI To Align AI With Human Values"
     excerpt: "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ..."
-    publishedDateTime: 2022-02-09T18:08:00Z
+    publishedDateTime: 2022-02-09T16:07:00Z
     webUrl: "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/"
     ampWebUrl: "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/"
     cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/"
@@ -48,6 +48,6 @@ related:
         height: 801
         isCached: true
 
-secured: "cjwcjIC863lvf9sTp90MBBOtATQkxKT7ggYJ8JHZwLtAdfnYuhLjlp2idfSvDAvohAk15asc8qRYGlYRpQd/665IOKObUuvnaVYmIPU9dRp68cK+NA9s+oFhEm5eQG1t6qC3R/Ddl/MKe3Os+pNZFDOArz+xBLuXD/yUGL21XR9yZv5x/KHG1k4Kt5WMEgybf5JGhtkyrneiwRbXZwPKtLqgcs7RwxNof+iR+lN+aL6QAW4RI9BJttvGdy8mu6MSOqcymcQfw67BfgIm+UG+80vrF7DX5Sp+YxmtKYuoqx9t/WQ9XMXP3B18QtWfpfHUQ4/I/tKsgXQztIrUhdLJvpxUVB5+pHXlFIQSfHHIbjMTKIuoD8V1QFxDiLTdmfIi0y2MVjpKeOKo7hDLheZPsZAjYOEIn4oz8Mgd3pNPJqGejk7XuLRHzY2lJFhM9fwSfYdbhUIpKAeGHpQ7cvoJ5NJbR5oZfsGzKejWFhct0Kr5rFc96QRY1x5mKOy+a9PFrY3HjkErxIKphQjhsZwO+w==;/n6h/N9GzI1Jjfq6nKDCJw=="
+secured: "GzoaEp4Opf9O5AAFdN1OOqei1v88mos7Ff4+RP+ApyOnmKr08o6oQg85fAR4YXK0Dutmu1q6rw2KBfIKxuJxhjs7hTigI4h89df77Jfm8tYUDl4T7NjHb0tDn2u9TnpZevp8QWUNdREGOL3e3f+YXt1/TFAGBQc8Nf1gO2x6igVxdBxdHP6QAfkUA5y97dk1FU5jXO2KmNyYt44ugaP2qgOGpZodvYgm6E/MhRJ68Mql31u74jJnC9pes37hx6qNckQSOZBrGBaLXNXvy0pSw7+pCuqnzAtNWa/cNuIoaIBQZZ0rVbdTZit/5c0b5Y19Y/BLrMI6NWKbcMXHmEqV4oHBfkWnGnYOP+ZTsBmSjiA=;mHp1hsMqwk/98SK1MgObAg=="
 ---
 

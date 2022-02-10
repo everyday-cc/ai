@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-driv
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1918
     height: 1073
     isCached: true
+
+related:
+  - title: "Sony, Polyphony Digital Introduce GT Sophy AI"
+    excerpt: "A new breakthrough in artificial intelligence has been revealed from both Sony AI and Polyphony Digital. The AI is called Gran Turismo Sophy, or GT Sophy, as this AI has learned the tricks of the ..."
+    publishedDateTime: 2022-02-09T23:14:00Z
+    webUrl: "https://hardcoregamer.com/news/sony-polyphony-digital-introduce-sophy-ai/418530/"
+    type: article
+    provider:
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
+    quality: 37
+    images:
+      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2021/02/Gran-Turismo-7-Header.jpg"
+        width: 698
+        height: 289
+        isCached: true
 
 secured: "PcBLgjGZRmXs3jgXsxarn51tqIJjHz8WQTiPTB5wPkzTk1l5LeqMP19q3ZhzxxZ9wWVjkTB6PiyEBqJTop5lP4QMmospKa0zicfrijJp5Dl1sFViiEQhdxtG/Y/XC5SCNY1W4WBTHpL8YAtuwIZrx2PZbqCxXwvs0OWfSDy5Ne8WhN9UWS+ZoPG55apvNkV3g2E/+pWd/YC67dMw70QjbAD8Yr8ZrKWUqAGHscWOfT6vSUTwAa5hmFZCEbzzPAYYL+8AK1X248lgo4ItB3rXH5yEbkxqbz1/hlmYsVpwKTTW5fy/35aMmCV4EePdSuGANrzCminm3f+uPtZjk9knmAUHSat5FtUUQyNnsCxn2Lw=;W8NldERJlrr2lQVkZzlYxA=="
 ---
