@@ -1,18 +1,22 @@
 ---
 category: news
 title: "TrustLayer Partners With Global Fintech and Top-10 Insurance Broker Acrisure to Automate Insurance Verification for Customers"
-excerpt: "a global fintech which operates a top-10 insurance broker, in which Acrisure's Partners and customers will gain access to TrustLayer's artificial intelligence (AI)-powered collaborative risk management platform. TrustLayer will enable faster and more ..."
-publishedDateTime: 2022-02-08T10:59:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220208sf54336/trustlayer-partners-with-global-fintech-and-top-10-insurance-broker-acrisure-to-automate-insurance-verification-for-customers"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220208sf54336/trustlayer-partners-with-global-fintech-and-top-10-insurance-broker-acrisure-to-automate-insurance-verification-for-customers"
+excerpt: "a global fintech which operates a top-10 insurance broker, in which Acrisure's Partners and customers will gain access to TrustLayer's artificial intelligence (AI)-powered collaborative risk ..."
+publishedDateTime: 2022-02-08T10:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/trustlayer-partners-with-global-fintech-and-top-10-insurance-broker-acrisure-to-automate-insurance-verification-for-customers-1031170890"
+webUrl: "https://markets.businessinsider.com/news/stocks/trustlayer-partners-with-global-fintech-and-top-10-insurance-broker-acrisure-to-automate-insurance-verification-for-customers-1031170890"
 type: article
-quality: 0
-heat: 0
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -24,6 +28,6 @@ images:
     height: 209
     isCached: true
 
-secured: "TtuL15mS01KbsprC0AmC1Dsr8wtCOCmuisPrHnBu7QJef40/1YRMsI/GZL350rz2Ho7Vsi00uUT6lDichNSONDQ/lu0dy1yrgVihKCHKyvBQlpdbSVdK1eJmT7B1YwhOUIHBsGe8XiGE+EdRe+cZU1aMzIOYUHc1F04n/CbAvighp7s5zLakM2VfhiwzQzFm7bUeFzrOrYOG8uWd1CBOU3Wl1zuNwVEeaBoxXbzVkA2cgV3B7oyuykBuPLx1c09Dpq7KfWPCwWi4GUREdm6DlHhKr1S+NqKTaG9rmJDoEb5an3Gq0/EsV7K9vrirzN7OzurpVbqpDlOQ14J33TlqBGmlfqObgwmU+RW4R1lIGEA=;u4eiCRjWKpXkKral3IYC7A=="
+secured: "VuYCFQLgGjixp8w+UdvepELce1ck9BLF/EaF9iYTGyxBormTJ2aBWFRgfL5CV+TLU8HHgVTtCVFln81lTF9A8zRO990kCKg4fTOJIKlcCEInCw9oItqVzNAF0KSQzKZ0vP+ZY0svlfGCgz8+RwPzYd31XJqXSPXz310HPiUe5aaod1Q7zSi9W8THM+qKo4f7Wu/KU4Vo7XTfZFdLept58O+eNpA8c2z4BUzjPpsen4xqRxWPie8LWVMQOl1Ii6tLVyrlnJuZTIqTZWxgv1rZCeqB0kyf1KiPGqEFtFSXJEA2bQbClCvugCrvwNDpRIW9XivwzaRmdjKcTESUU3m245I6oVLjoRv0shCIsV+rFOY=;DvVPyppjelq0lUeBV9au5Q=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Three Ways Fintech Will Influence The CFO Role"
+    excerpt: "So, who is the primary beneficiary of this fintech revolution? CFOs. In the past few years, new technologies and software have spilled into every aspect of finance, from analytics to AI and beyond. Digital tools have helped boost efficiency and decision ..."
+    publishedDateTime: 2022-02-10T12:38:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/606b44f264bac4503c6bfc54/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "3 Fintech Stocks You Can Buy Today"
     excerpt: "Three fintech stocks you can buy today are Silvergate Capital (NYSE ... demand for loans through its website and app and then uses artificial intelligence (AI) to quantify the risk of those loans based on 1,600 variables. It then connects those loans ..."
     publishedDateTime: 2022-02-09T06:26:00Z
@@ -87,86 +103,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Razorpay acquires Malaysian fintech start-up at over $19 mn valuation"
-    excerpt: "Fintech unicorn Razorpay has acquired a majority stake in Curlec in a deal that values the Malaysian payments start-up at more than $19 million. Razorpay will full acquire the company later in 1.5 years."
-    publishedDateTime: 2022-02-08T07:48:00Z
-    webUrl: "https://www.business-standard.com/article/companies/razorpay-acquires-malaysian-fintech-start-up-at-over-19-mn-valuation-122020800686_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/razorpay-acquires-malaysian-fintech-start-up-at-over-19-mn-valuation-122020800686_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/razorpay-acquires-malaysian-fintech-start-up-at-over-19-mn-valuation-122020800686_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 44
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/13/full/1597309837-7212.jpg?im=Resize,width=1200"
-        width: 1200
-        height: 898
-        isCached: true
-  - title: "Razorpay acquires Malaysian fintech start-up Curlec"
-    excerpt: "Fintech unicorn Razorpay has expanded into South-East Asia with ... Prior to this, Razorpay has acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics AI-platform ..."
-    publishedDateTime: 2022-02-08T08:23:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/money-and-banking/okp478/article33986853.ece/alternates/LANDSCAPE_615/bl-razorpay"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "Razorpay acquires Malaysia's fintech start-up Curlec"
-    excerpt: "Curlec currently works with hundreds of businesses across Malaysia, including the insurance company AXA, fintech lending firm Funding Societies ... Prior to this, Razorpay acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll ..."
-    publishedDateTime: 2022-02-08T10:26:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/feb/08/razorpay-acquires-malaysias-fintech-start-up-curlec-2416889.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2022/feb/08/razorpay-acquires-malaysias-fintech-start-up-curlec-2416889.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/feb/08/razorpay-acquires-malaysias-fintech-start-up-curlec-2416889.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/19/w600X390/Razorpay.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Razorpay goes global, acquires Malaysian fintech startup Curlec"
-    excerpt: "E-commerce is booming in Malaysia with an estimated market size of $21 billion in 2021 and is poised to grow further to over $35 billion by 2025."
-    publishedDateTime: 2022-02-08T08:11:00Z
-    webUrl: "https://newsd.in/razorpay-goes-global-acquires-malaysian-fintech-startup-curlec/"
-    ampWebUrl: "https://newsd.in/razorpay-goes-global-acquires-malaysian-fintech-startup-curlec/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/razorpay-goes-global-acquires-malaysian-fintech-startup-curlec/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 44
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2021/12/razorpay-1280x720-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Razorpay to acquire Malaysian fintech Curlec at $20 mn valuation"
-    excerpt: "The acquisition will mark the beginning of Razorpay's global expansion plans. After Malaysia, the startup is eyeing other Southeast Asian markets including Indonesia, the Philippines and Vietnam."
-    publishedDateTime: 2022-02-08T08:22:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/razorpay-to-acquire-malaysian-fintech-curlec-at-20-mn-valuation-8057361.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/razorpay-to-acquire-malaysian-fintech-curlec-at-20-mn-valuation-8057361.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/razorpay-to-acquire-malaysian-fintech-curlec-at-20-mn-valuation-8057361.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/12/Razorpay-Founders-Harshil-Mathur-Shashank-Kumar-112-539x435.jpeg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
     publishedDateTime: 2022-02-08T19:00:00Z
@@ -176,47 +112,33 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Global FinTech Market projected to grow at a CAGR of 26.87%"
-    excerpt: "AI, Central Bank Digital Currencies, RegTech and more aiming to plug a gaping hole in the industry’s talent deficit issues. Students will be provided unlimited access to short self-paced courses, exclusive fintech events, disruptive start-up journeys and ..."
-    publishedDateTime: 2022-02-07T14:59:00Z
-    webUrl: "https://www.gulftoday.ae/business/2022/02/07/global-fintech-market-projected-to-grow-at-a-cagr-of-2687"
+  - title: "Tiger Global fires up fintech"
+    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs- than any other firm, according to CB Insights."
+    publishedDateTime: 2022-02-08T05:32:00Z
+    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech"
     type: article
     provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
+      name: altfi.com
+      domain: altfi.com
     quality: 24
     images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/2/20/entrepreneurship.ashx?h=450&w=750&hash=7B59C4FF1A9F1DCB3CCFEF12B33F59E2"
-        width: 750
-        height: 450
+      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Razorpay buys majority stake in Malaysia-based fintech Curlec"
-    excerpt: "Curlec claims to be working with many businesses such as AXA, fintech lending firm Funding Societies ... an artificial intelligence (AI)-based risk tech SaaS (software-as-a-service) platform last year. The company also acquired Opfin, a payroll and ..."
-    publishedDateTime: 2022-02-08T08:43:00Z
-    webUrl: "https://www.vccircle.com/razorpay-buys-majority-stake-in-malaysia-based-fintech-curlec"
+  - title: "Role Of Big Data In Fintech Industry"
+    excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
+    publishedDateTime: 2022-02-08T23:59:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
     type: article
     provider:
-      name: VCCircle
-      domain: vccircle.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 24
     images:
-      - url: "https://assets.vccircle.com/uploads/2020/07/xlStake.jpg"
-        width: 810
-        height: 506
-        isCached: true
-  - title: "Razorpay goes global, buys Malaysian fintech startup Curlec"
-    excerpt: "Leading fintech player Razorpay on Tuesday announced its first international ... Prior to this, the company acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics ..."
-    publishedDateTime: 2022-02-08T08:43:00Z
-    webUrl: "https://www.siliconindia.com/news/general/razorpay-goes-global-buys-malaysian-fintech-startup-curlec-nid-218049-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/7hwfrM08.jpg"
-        width: 570
-        height: 367
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4912737022-data451.jpg"
+        width: 960
+        height: 640
         isCached: true
   - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
     excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
@@ -231,20 +153,6 @@ related:
       - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "Regulate cryptocurrencies and fintech products before it's too late, urges author"
-    excerpt: "In fact, she's hoping that Driverless Finance: Fintech's Impact on Financial Stability can spook ... Now, she sees the possibility of financial collapse on an even greater scale with AI technology being used in the financial industry; “smart contracts ..."
-    publishedDateTime: 2022-02-09T15:00:00Z
-    webUrl: "https://www.abajournal.com/books/article/podcast-episode-164"
-    type: article
-    provider:
-      name: ABA Journal
-      domain: abajournal.com
-    quality: 19
-    images:
-      - url: "https://www.abajournal.com/images/main_images/DriverlessFinance_bookcover.png"
-        width: 300
-        height: 408
         isCached: true
 
 secured: "2yWrOr2J2ygNNLQhPo+/NySMlDl9WMI1njgCVt1cW5y9bPz1R8ndZNekMhyshbcEf8U98Saw8jaXoVrNM8Pfr71oIZITxRCNSK9K9LTl49wKx+EzvOAPQ8avBj2zikT4xBK69/i/gqoXtfbjhLP99FW1Ueplu9tPJeskq6i1A7UHjRC8BObqprRCeLfwqYTU+NtFFW7VEtGIXQhuxklQ08j0OSwbfU29UdRByYnKwIEAd4S8SGc2bitQ+nqGF0rD7ERyWEYE8pkMPy5y4azw2CmLPejLg5G12kzujVC4nsX3YOzQzGNSsKrDDWmyuPGYYrKDubTJ/iWsg0GIXOC+ra6Wqg9s5YLjeQUPuHfmmfi8eXAbgWg8W0ncaMGFEftf/cgKXJMx7IFwOAd4r6DtfvOFufUBbg1qDhWO/5pYeAO9qx0GlUP1XLRuW+oQIK46Y76Jn2e7zMGzmWnqZNkpay7aCyhn/4/Tr8e+9+dcCoxs+jkqmy1f6OwS7b9ZhIbo7FyBcpk7gdhuMqtb2PAHKw==;gL9P1zgntM9OA9oOwGtQWA=="

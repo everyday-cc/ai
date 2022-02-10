@@ -118,6 +118,22 @@ related:
         width: 1198
         height: 453
         isCached: true
+  - title: "Spinny acquires AI-powered car connectivity start-up Scouto"
+    excerpt: "Feb 10 Pre-owned car retailing platform Spinny has acquired a 100 per cent stake in AI-powered Connected Car startup Scouto for an undisclosed price. Founded by ex-race car driver Akshay Gupta (CEO) & Shubham Sharma (CTO), Scouto has built an end-to-end ..."
+    publishedDateTime: 2022-02-10T11:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/xkjt62/article64999969.ece/alternates/LANDSCAPE_615/IMG_hy26Sindhu_5_1_6D94DH64.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Apple acquires AI Music to create songs adapted to our heartbeat using algorithms"
     excerpt: "Apple has acquired AI Music, a startup that created artificial intelligence capable of generating its own personalized music, according to Bloomberg. A purchase that has been closed in recent weeks and which,"
     publishedDateTime: 2022-02-08T08:30:00Z
@@ -230,6 +246,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9HLCGYinR1qSscMYBOOmILpE7hgqK2GeWgNkRGbCKHrUf+fnUOxCp4gXx6ZAtZ+r82VGnpuxLpm4x4259oRjsjZps3wh1t27OimVCjyVqDJpXbN4glVvVhWntxgkt3FqIpz5+mFu3QzU3wJkm2OhdqDbO7vgkWy6uz6TAQA3TSA5J8Ca3aBm7k9T2SixlFMTCS5Rw1mDx/qU3ow71q7ITkK0sO1/x28p3ozIDQiJPZ3665tGUV4EP4qsnEXg8DtMvl9LxwYf9Eef5ZtxG8o+Y4xLkGPAULaSON+F6Af3215fT3YjR2VTPGF74gPVKGXOEVlON8s0KzMa9+d0Ie9tLpySJuPehO4iRCCKERYHzDY=;9GFoduj+UNUk+9e1jABm2w=="
+secured: "5xqH6Qp6USCw79UFs98C4lkJskx5F9fhb88QsrcwI4hdZZbMZz411CQaE2ptYE3fsCgDCeY4FYhiRcMjXzgG2BQysS8auoPqpRl/S7gU7YHcf6WYwXYuDzMm/u7fFHCd8LV48hyU2V/AjbQp+cFVxpa2IyCi9ou9TaWCxjkXzZIw3i6nQ4MTiWjjmY0UGJx9xfDKJZEKKKcDyNYoi8com6V1KWNxXCxwyiocOC4sgu+OfuENqE/7x07R/eSVBdTAU7GLqUdqplxJpoPkLMA75yRE5uZ6QtPjOK8GVNTrxJ27CpNgfR+Hch539sI/m2W+PmZlQyjRGUznJi/2ADLzEYbGR8wEkgZ5vvFargP6Sx8IEys+fRBtrRf2GmNkTH0hRpXH+LJlPE5VseBIJQqcxvbcGlhgTQylCkgYL1nRWxIQSgIg3BOYQ6TRAKcQd9AEUTiMjP5VOVmpxQ1WkUB28D6LsFfb1crfv7vhq/xSEGhG0e/sdIKDkQbPPJVdNAavk0mldcq1iI75ne4Pp5Isog==;GSD+ldiOJxo9oXo1wS+kZQ=="
 ---
 

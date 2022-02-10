@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 44
     images:
       - url: "https://lh3.googleusercontent.com/dFGKEqmvasAcjt_GxUIaUPiY6Q6zmnMJIS0b45QonT3FA8lDH1e8sUXgVMkkcEs9J2kWu8LdybkuwV_qB5WLYjaPGtkA1ugVxEFef-XijJbsSbI=s750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "What the heck happened to self-driving cars?"
+    excerpt: "In recent years an increasing number of concept cars have appeared on motor show stands displaying lounge-like cockpits without steering wheels or pedals, where humans can relax while an artificial intelligence ... Alphabet’s Waymo and Aurora Innovation ..."
+    publishedDateTime: 2022-02-10T12:12:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/_TrNL1SuIOaoKHFnY_-ZJOJqG4Vi4r65TjOLG-EZsg387YhtrmXm7mzBmueGDkGknGu8ez5uxRw7VeG_sFP-T2byUX7mI8_-DA=s750"
         width: 750
         height: 500
         isCached: true

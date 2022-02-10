@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 type: article
 quality: 172
-heat: 312
+heat: 322
 published: true
 
 provider:
@@ -101,6 +101,22 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-12/7371e5f2-de13-4702-970f-12c929116c02/Spinny_Logo_withBG.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1198
         height: 453
+        isCached: true
+  - title: "Spinny acquires AI-powered car connectivity start-up Scouto"
+    excerpt: "Feb 10 Pre-owned car retailing platform Spinny has acquired a 100 per cent stake in AI-powered Connected Car startup Scouto for an undisclosed price. Founded by ex-race car driver Akshay Gupta (CEO) & Shubham Sharma (CTO), Scouto has built an end-to-end ..."
+    publishedDateTime: 2022-02-10T11:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/xkjt62/article64999969.ece/alternates/LANDSCAPE_615/IMG_hy26Sindhu_5_1_6D94DH64.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "Spinny acquires AI-powered start-up, Scuoto"
     excerpt: "Pre-owned car retailing platform, Spinny has acquired 100 percent stake in AI-powered Connected Car start-up, Scouto. The deal marks one of the first consolidations in the AI-powered used car solutions segment. Founded by ex-racecar driver Akshay Gupta ..."

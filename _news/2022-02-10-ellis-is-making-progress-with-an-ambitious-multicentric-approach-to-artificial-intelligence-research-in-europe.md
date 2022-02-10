@@ -1,27 +1,28 @@
 ---
 category: news
 title: "ELLIS is making progress with an ambitious multicentric approach to Artificial Intelligence research in Europe"
-excerpt: "The European Laboratory for Learning and Intelligent Systems (ELLIS), the leading European Artificial Intelligence (AI ... Ixaka Ltd, an integrated cell and gene therapy company focused on the natural power of the body to cure disease, today announces ..."
-publishedDateTime: 2022-02-10T09:37:00Z
-originalUrl: "https://www.lelezard.com/en/news-20234322.html"
-webUrl: "https://www.lelezard.com/en/news-20234322.html"
+excerpt: "(Risk-free with a 14 day refund guarantee) ALICANTE, Spain, Feb. 10, 2022 /PRNewswire/ -- The European Laboratory for Learning and Intelligent Systems (ELLIS), the leading European Artificial Intelligence (AI) association with a focus on scientific ..."
+publishedDateTime: 2022-02-10T09:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25529505/ellis-is-making-progress-with-an-ambitious-multicentric-approach-to-artificial-intelligence-resear"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/n25529505/ellis-is-making-progress-with-an-ambitious-multicentric-approach-to-artificial-intelligence-resear"
+ampWebUrl: "https://www.benzinga.com/amp/content/25529505"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25529505"
 type: article
-quality: 19
-heat: 19
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -35,6 +36,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "EVKJpBQoOiJ8UkZDpjm0N17UjH7jxVETcgqsD6/pmu1vwpSaTkbXZwwFXWeaN5Bu28K3LbPgZ6Ziwv0ISYY37vKY7/zRmiJ9ixXujk/4J+7mLCU25hjUd4shwpUfbus4x9wBTNIqi40GXzg2u7bXYiz189ptm05GNwKzDX7gk0HjojsjZ4bIN31OLGdxHjMLvb3GdPGoevxcimu/Q1WzPCE9xTP/SN/0VL+9Myltq+T5S9MmOHebjPWK09wwMbIDBBUI8ImiNH3HF+bScROCq/5ZYiBi7IV7L343kskZtGooXJLfgZGiUVyymCFhpV305ch/+st9tzNAEpaAoozqoCeeQkGvNawLunQLuxeesqQ=;OX4929MszdC6eP0Eq5ci9g=="
+secured: "jvAge+V3izOubhdLYm1773toaxmPqCJe1PhNiUHF5Q3KeufD64oTvygKf6Spqwb/eLZsPNnAzONNGXpFu0Wb130c9V9cnoLJDKNY1GV/D65XlMG7hD6EKVjdpfO6bSzlBhGZuIZsXahh9CtZNTG/P1ivZmBu1/aX8jOQuRRmQt9NpsOie6GklyYpqlaJqlitXTvXVYCVdX3upZzSz/p3i+acmnC7iPtfVMGMe4LCsc5YmW1AJEyAVpxTLIAyxDaDchy4mjQwOivWfMuArlfYggMirPbF8Eg/k1phTsO4zgCStnX0Nvmt9/JY3My8QtpZ1+J3Uhy/i5NO+wfJJvdQLHYC36dwfMq+TqbbvNjJX7w=;ErSTZkLOq7RrG45YbDCsPA=="
 ---
 

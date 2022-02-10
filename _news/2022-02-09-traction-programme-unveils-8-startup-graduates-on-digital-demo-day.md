@@ -40,34 +40,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Tiger Global fires up fintech"
-    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs- than any other firm, according to CB Insights."
-    publishedDateTime: 2022-02-08T05:32:00Z
-    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Role Of Big Data In Fintech Industry"
-    excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4912737022-data451.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Insig Ai Plc Regulatory News"
     excerpt: "Insig AI plc (AIM:INSG), the data science and machine learning company, is delighted to announce that it has been selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as ..."
     publishedDateTime: 2022-02-07T07:16:00Z

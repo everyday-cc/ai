@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/news/2022/02/08/abu-dhabi-university-stud
 webUrl: "https://www.gulftoday.ae/news/2022/02/08/abu-dhabi-university-students-develop-robot-to-clean-sea"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "UAE: Female students develop solar-powered AI robot to clean ocean"
+    excerpt: "Five female students have created a robot that uses Artificial Intelligence (AI) to clean the sea from plastic and other floating and mineral wastes to protect the marine environment. The robot, powered entirely by solar energy, can navigate autonomously ..."
+    publishedDateTime: 2022-02-10T12:33:00Z
+    webUrl: "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean"
+    ampWebUrl: "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 74
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=e5126623-23d0-405d-a9ea-4cf4f75be3f4&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.89189&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jlsh/rY1Re1SVrQjXRRJx/oS0YqP/OeFuDmW8DoWbTXsbiNIw806tBntsA3z4nXCIZAGZmef49t10NPRsG6W0Z2pq9EkSL4rrzFyjZ4oafiGC0wBKqk2aiJJLZj+mZbAXB+Y9p70Z0W/Oz57PsH4fHR9z5aqX0kkRXucgY4TZVOs92zfue0SOwm7+hy0RJ4TR0oKakbKCzuYpM8IwVWQEcW2ZzljMEeN68Cds8ug83onus4Mkj+NM2iKNzlDM3plooTAeWQTJBtCl1bSQzz01xXhCBOnmWB/zRMdNjAQ2jO35EOV3NTS7+rJIQECgpSSuIVtSzJtVPwRpgtx+Sj2ePiTxf+M9wl0H9XGvc/lRbc=;/XotwfS2WFzyUbBm6tndDA=="
 ---

@@ -1,47 +1,53 @@
 ---
 category: news
-title: "AI in Retail Market Size to Cross $36,462.5 Million Value by 2030, says P&S Intelligence'"
-excerpt: "AI in Fintech Market - Geographically, North America held the largest share in the AI in fintech market in the past, primarily because of the existence of a well-developed information technology ..."
-publishedDateTime: 2022-02-10T07:43:00Z
-originalUrl: "https://menafn.com/1103669809/AI-in-Retail-Market-Size-to-Cross-364625-Million-Value-by-2030-says-PS-Intelligence"
-webUrl: "https://menafn.com/1103669809/AI-in-Retail-Market-Size-to-Cross-364625-Million-Value-by-2030-says-PS-Intelligence"
+title: "AI in Retail Market Size to Cross $36,462.5 Million Value by 2030, says P&S Intelligence"
+excerpt: "By 2025, e-commerce sales are expected to reach $7.3 trillion, which will drive the AI in retail market value to $36,462.5 million by 2030 from an estimated"
+publishedDateTime: 2022-02-10T07:22:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55204740-ai-in-retail-market-size-to-cross-dollar-36-462-5-million-value-by-2030-says-p-s-intelligence-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55204740-ai-in-retail-market-size-to-cross-dollar-36-462-5-million-value-by-2030-says-p-s-intelligence-008.htm"
 type: article
-quality: 30
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?714514"
-    width: 379
-    height: 250
-    isCached: true
-
 related:
-  - title: "The Age of Intelligence: Reimagining human lives with conversational artificial intelligence"
-    excerpt: "The whole blueprint of technology today is underpinned by one pillar – Artificial Intelligence (AI). AI is the meticulously worked project by the best tech minds to provide a melange of human intelligence amalgamated with machine analytics. In the past ..."
-    publishedDateTime: 2022-02-07T10:53:00Z
-    webUrl: "https://www.dqindia.com/the-age-of-intelligence-reimagining-human-lives-with-conversational-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/the-age-of-intelligence-reimagining-human-lives-with-conversational-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-age-of-intelligence-reimagining-human-lives-with-conversational-artificial-intelligence/amp/"
+  - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
+    excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
+    publishedDateTime: 2022-02-07T21:44:00Z
+    webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 48
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/07/artificial-intelligence.jpg"
-        width: 566
-        height: 400
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
+        width: 363
+        height: 250
+        isCached: true
+  - title: "With 34.9% CAGR, Autonomous Delivery Robots Market Size & Share Value to Hit USD 2,111.3 Million by 2029: Polaris Market Research"
+    excerpt: "The global Autonomous Delivery Robots Market is ... and many start-ups have already started evaluations to deliver groceries and packages to consumers using ADRs. Due to inventions in artificial intelligence, computer vision, robotic mechanics, and deep ..."
+    publishedDateTime: 2022-02-08T23:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/with-34-9-cagr-autonomous-delivery-robots-market-size-share-value-to-hit-usd-2111-3-million-by-2029-polaris-market-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://www.abnewswire.com/uploads/1644407373.jpeg"
+        width: 1280
+        height: 451
         isCached: true
 
-secured: "HNGkUXKypwo1Ie62QoUZIVctJwTamhFdegTH//4k/uSHwO4jyKihkAjrZYcomwhudWAjQ3WCDghzLMw7YF75kEgt/kWgcTtaUhBlOfSNB2vZBcRwn1D+hgPgcpE26D+hRLN/QlKT1INCEFmz9Cw3yJlA9aUMqmWrq2Cfg4m/iYM3q0yH6qikAM4rSnUD2iXJCGDNp1yuG5AbLmr0GSTfLIth5AdJnzABlmyNGaCRk5Ptm2roz8G19Z1kh5CDcSKaSaARRRV8kNUJxQMbyUCX3329F0/8Er3DHnvwrv3/06u520ONJVn3SO8UiHY0XO3NM0DtnK9SDZV4P17NVMxa24G7NrkWh4atB6Ni04+29PY=;UafUfz4tiMvvWuARNashvQ=="
+secured: "QOUXQalxlWOkNWjO266df0mXxpS6XjVKMH/1TzbqOpm3o9r1IlCaV821sCNwhSTAvSSRIifNHMYKGdeO3bwFp5SW3FmbdvFSbIy+IFIZPEcX2HqtpBBCQ68x7DuG9BVR274LlZVs46OiL70dbIQJTqwNLLnCJLeAVu6EtKjyAF/StVWiHgPXipxkru9iVMvFJiW/EkFI7ygpj+JyvABHocElUZMNbC1Nnx4JrppnVaO7daf1J3lDSzqo34pXI8uDOrm63c6jqsAR2ByPt0Q7fdxlKKKz4XV8VHD8XsBVZo9v73u+BmTdiaEwXn3UORKIytladnH9Rai+dCdoLVcLfGiLNdT8qTRclc4v6DylivI=;AWopyOsm3cyOEqTp54JqXg=="
 ---
 

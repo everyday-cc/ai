@@ -39,6 +39,15 @@ related:
         width: 363
         height: 250
         isCached: true
+  - title: "AI in Retail Market Size to Cross $36,462.5 Million Value by 2030, says P&S Intelligence"
+    excerpt: "By 2025, e-commerce sales are expected to reach $7.3 trillion, which will drive the AI in retail market value to $36,462.5 million by 2030 from an estimated"
+    publishedDateTime: 2022-02-10T07:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55204740-ai-in-retail-market-size-to-cross-dollar-36-462-5-million-value-by-2030-says-p-s-intelligence-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 10
 
 secured: "JgSbzsTfkgUwNzTe+G90aCtElltifNBSFS9PKea99DOAHFItIy5nlQC+6B8TE9own2SB6lqrOQZfJuGTH0cjM5DonVqMNuOxiIsll1861urZY4dnXOXFOdBrQhdW/0wGn6pnG5n81sSoZwcpufvzB8IcXhBnWAJwda8FWOvj0twh5VaA0c9mV2DAuGgR97tBgsIk/Nh2f2HVB/Tw3SURrIUiAyxcE9r2xQ4jB4uGpFCKWleF3ITqe2akODzSWG0Uptcf0MFgK/3OPIq62DNfIOCjwRLLpYzsFqWcdCi2pGFZSYN7KcTi6zRbX0vG/Weq77swo+y162MqXu5MHGwGww8iNxBOhNulfseDa6fG+YbhLns2pdiCJ+b5MEJVcF3s6amBmQC8p+rUiBqAlUcYFyMYasBWt1HdlTeFM3ZEVnWovGsN7OF1a7LiPLknFWx1TrQkntC3HpBIwBiC1SWprj/4gfv7HPFzHsp4RI2U0eFngOOuUhAcNfannXqB4n7VSksADftm7TYh6Nqx/zQf7g==;84fIipZDWKO+oWLGnQSycw=="
 ---

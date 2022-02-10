@@ -85,6 +85,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "What the heck happened to self-driving cars?"
+    excerpt: "In recent years an increasing number of concept cars have appeared on motor show stands displaying lounge-like cockpits without steering wheels or pedals, where humans can relax while an artificial intelligence ... Alphabet’s Waymo and Aurora Innovation ..."
+    publishedDateTime: 2022-02-10T12:12:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/_TrNL1SuIOaoKHFnY_-ZJOJqG4Vi4r65TjOLG-EZsg387YhtrmXm7mzBmueGDkGknGu8ez5uxRw7VeG_sFP-T2byUX7mI8_-DA=s750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "D4+TV3Ow5BsG7oeBHnPciIKewD7w4t3L0tomwYKqqL8zIf+U7u8bL4TWNQFTDXkx6WiM4W0N3fL4cwPY16OC5DChn/lnzVYhSvegaQjIFIqq/IAqP7RW3ZBr7KIud4FxYLn2VjaLVvTMGhIBvXQyu/TMP0PnHKW73m7706uXp7+frz6e75nLG6g7Piv7Pj+XYAc4gpFfe9pI3Cviz/hCkn3LXulJCCAfpXmnDlD+4cvixR9PZEddN0KO0ubLF0Y/lb5yggWMmZuvYNs9iCHvyRYJP+GBmxiExIAbycV8gKn3Fw2Qn5qpG2d4A/MxwO8bZ0xxZ3e3aII6AbfPxyvwRk/e3X3sobzHlRBtKC6C5x+3rAFjDocjeAZwJAJgUOtnJJuu3rXHFQnPFqSx2fSFe5JoOZACmUVAsWuG1cdmWYjlJNKg3r7UmKVxn6jRMIN9MA/76kVJko+/PTPoLrWgGLRfm4YfLdUZFfPIHYcVNNTrtJwCvJ/jP5RFD3qEXGObbTEmmcofK6XEuc0KyQbSSQ==;3BeunkISpXHt/mP3bW4Q6A=="
 ---

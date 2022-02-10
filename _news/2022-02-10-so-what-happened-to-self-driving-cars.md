@@ -75,6 +75,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "What the heck happened to self-driving cars?"
+    excerpt: "In recent years an increasing number of concept cars have appeared on motor show stands displaying lounge-like cockpits without steering wheels or pedals, where humans can relax while an artificial intelligence ... Alphabet’s Waymo and Aurora Innovation ..."
+    publishedDateTime: 2022-02-10T12:12:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2022-02-10-what-the-heck-happened-to-self-driving-cars/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/_TrNL1SuIOaoKHFnY_-ZJOJqG4Vi4r65TjOLG-EZsg387YhtrmXm7mzBmueGDkGknGu8ez5uxRw7VeG_sFP-T2byUX7mI8_-DA=s750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Guess what drives trust in self-driving cars"
     excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
     publishedDateTime: 2022-02-05T22:06:00Z

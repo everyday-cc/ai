@@ -59,6 +59,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "‘Full Self-Driving’ clips show Teslas on train tracks and fighting for control. Experts see deep flaws."
+    excerpt: "SAN FRANCISCO — In one clip, a Tesla tries to drive down some light-rail tracks. In another, a Tesla fails to stop for a pedestrian in a crosswalk. And at one point, the most advanced driver-assistance product available to consumers appears to slam into ..."
+    publishedDateTime: 2022-02-10T12:40:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/02/10/video-tesla-full-self-driving-beta/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 38
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-03-2022/t_fefb67b9c94843549d523f58bd5121cc_name_TESLA_FSD80.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "'Full Self-Driving' Tesla Nearly Hits Biker Seconds After YouTuber Trumpets Beta Safety"
     excerpt: "It's no secret that fans of Tesla always stand at the ready to defend the company and its technology, regardless of the situation. A particularly painful video from Tesla pundits who almost hit a cyclist shows just how dangerous this attitude can be,"
     publishedDateTime: 2022-02-09T11:30:00Z

@@ -64,6 +64,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Global FinTech Market projected to grow at a CAGR of 26.87%"
+    excerpt: "AI, Central Bank Digital Currencies, RegTech and more aiming to plug a gaping hole in the industry’s talent deficit issues. Students will be provided unlimited access to short self-paced courses, exclusive fintech events, disruptive start-up journeys and ..."
+    publishedDateTime: 2022-02-07T14:59:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/02/07/global-fintech-market-projected-to-grow-at-a-cagr-of-2687"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 24
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/2/20/entrepreneurship.ashx?h=450&w=750&hash=7B59C4FF1A9F1DCB3CCFEF12B33F59E2"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "x4gpQCHzGXiqCsHzoE+OBWzR07nKW/ePPJCklYBfkjcEMy87waP5djTRknhLbbpximCvx8ilaWdg2BzWs6YbyGP/yyMz6WIDA+El7fSgVVpzajpdHxlpNvWRvjKF7jzdarJy27j3XSaKSvKvKf7rk/FYY57Cdo52Yv2DCGn+0nBETlHFRIShKWNfwyE5q11X9QpEi38bia90wUBY3sJeKqCwF5P4jVdy4kVRe12QnMbuqfGwfYnPDmfI+ofJFpyqVWQRPDXFs3eSKZrMFsO4ZRpT9AxeXuwbOSwJslj1rF+RmRNPfx2682w0MKWXmN4XcATO+NjHjTScY5knhj/WbaTICHYXW5MP+xVvvthFco0=;8JGKk975BgLSDT6D0hkiJg=="
 ---

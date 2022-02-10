@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/razorpay-acq
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/razorpay-acquires-malaysian-fintech-start-up-at-over-19-mn-valuation-122020800686_1.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,68 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Fintech Stocks You Can Buy Today"
-    excerpt: "Three fintech stocks you can buy today are Silvergate Capital (NYSE ... demand for loans through its website and app and then uses artificial intelligence (AI) to quantify the risk of those loans based on 1,600 variables. It then connects those loans ..."
-    publishedDateTime: 2022-02-09T06:26:00Z
-    webUrl: "https://www.fool.com/investing/2022/02/09/3-fintech-stocks-you-can-buy-today/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/665000/bitcoin-exchange-2022-getty.jpg"
-        width: 2291
-        height: 1309
-        isCached: true
-  - title: "5 innovative Belgian fintech companies to watch"
-    excerpt: "AI, automation and big data analytics are key themes for Belgian fintech, as innovative companies look to solve common problems in the financial services sector. Fintech is, broadly, technology that is applied to financial services or the management of ..."
-    publishedDateTime: 2022-02-07T07:03:00Z
-    webUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.html"
-    ampWebUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/09/eu_european_union_banknotes_currency_money_by_mabelamber_cc0_via_pixabay_2400x1600-100812035-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "African tech start-up funding skyrockets, with fintech a big winner"
-    excerpt: "Africa’s tech start-ups are thriving. In 2021, more African tech start-ups raised more money from more investors than ever before, with fintech companies — including several based in Nigeria — heavily represented among the big winners. According to ..."
-    publishedDateTime: 2022-02-07T03:08:00Z
-    webUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
-    ampWebUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 44
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/02/nigerian-nairas-stacked-bills_african-currency_bank-notes_by-ppart-gettyimages-613034832-100849675-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
-    excerpt: "While falling out of favor for now, in the long-term the 'digitalization of money' trend could send these 10 fintech stocks higher."
-    publishedDateTime: 2022-02-08T13:41:00Z
-    webUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
-    ampWebUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2022/02/fintech_1600_1065252818.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Razorpay acquires Malaysian fintech start-up Curlec"
     excerpt: "Fintech unicorn Razorpay has expanded into South-East Asia with ... Prior to this, Razorpay has acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics AI-platform ..."
     publishedDateTime: 2022-02-08T08:23:00Z
@@ -153,29 +91,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
-    publishedDateTime: 2022-02-08T19:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/10-fintech-stocks-to-own-until-2032-and-beyond-1031173036"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Global FinTech Market projected to grow at a CAGR of 26.87%"
-    excerpt: "AI, Central Bank Digital Currencies, RegTech and more aiming to plug a gaping hole in the industry’s talent deficit issues. Students will be provided unlimited access to short self-paced courses, exclusive fintech events, disruptive start-up journeys and ..."
-    publishedDateTime: 2022-02-07T14:59:00Z
-    webUrl: "https://www.gulftoday.ae/business/2022/02/07/global-fintech-market-projected-to-grow-at-a-cagr-of-2687"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 24
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/2/20/entrepreneurship.ashx?h=450&w=750&hash=7B59C4FF1A9F1DCB3CCFEF12B33F59E2"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Razorpay buys majority stake in Malaysia-based fintech Curlec"
     excerpt: "Curlec claims to be working with many businesses such as AXA, fintech lending firm Funding Societies ... an artificial intelligence (AI)-based risk tech SaaS (software-as-a-service) platform last year. The company also acquired Opfin, a payroll and ..."
     publishedDateTime: 2022-02-08T08:43:00Z
@@ -203,48 +118,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/7hwfrM08.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "Here are Tiger Global's 10 top fintech investments"
-    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs than any other firm, according to CB Insights."
-    publishedDateTime: 2022-02-08T20:08:00Z
-    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech?amp"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
-    excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
-    publishedDateTime: 2022-02-10T05:44:00Z
-    webUrl: "https://www.irishtimes.com/sponsored/innovation-partner-profiles/helping-the-fintech-corridor-power-ahead-with-joined-up-thinking-1.4796986"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Regulate cryptocurrencies and fintech products before it's too late, urges author"
-    excerpt: "In fact, she's hoping that Driverless Finance: Fintech's Impact on Financial Stability can spook ... Now, she sees the possibility of financial collapse on an even greater scale with AI technology being used in the financial industry; “smart contracts ..."
-    publishedDateTime: 2022-02-09T15:00:00Z
-    webUrl: "https://www.abajournal.com/books/article/podcast-episode-164"
-    type: article
-    provider:
-      name: ABA Journal
-      domain: abajournal.com
-    quality: 19
-    images:
-      - url: "https://www.abajournal.com/images/main_images/DriverlessFinance_bookcover.png"
-        width: 300
-        height: 408
         isCached: true
 
 secured: "MoMwF1CFX5CdqMZdUO4Zc/bJIW+SeGShfvTyiLNpuDWO8OMEwNFgxdyis7DjXDjcZuo9wW3spQmAxjByzZsc/6gu5qs1T/2YNmwiBXPRKaWXT+0u936Zhecv69PX1fky/kN/v35GCTNEUVzh23qlna54MOMaklghlm+kNT4ppGxVPoEwsx8qKAdg16cqO0V230rBi7+KbBRo3Pp0yDKt0vixn4JTVEu8tB+T+1W0tbp7gsgwIxMYrpUPvrTX+OYtaWTkoSCEhD/iasFBTKyoLJ3BY6tOEEaSJyI2rBc22oYW1nkdU0cb00Rt64ZdMpiPstc4VwmL1RHd4h2ejiGdEumPqn5rPIjsycfcVTqngtKhuU6lIikSeCE2o1yQiy3B/hmmGJX1ueTu3q7fksrs/bxHfj98j2iuZR9qf8JBzN/5yCZoXzMY2ich85DKbZgDtrU+hPb0kOzBLNLvUS/eXblSMEt44X6yaDbs9EnctxRlel37T6YWMruUqDi/4VuKeIFbE33Df2eDsbouh17TAw==;Y4IFcRL15yPKEoS8HdEH0w=="

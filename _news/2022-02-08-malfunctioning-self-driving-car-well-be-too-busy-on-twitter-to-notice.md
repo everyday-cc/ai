@@ -29,10 +29,10 @@ images:
 related:
   - title: "Self-driving cars may soon be coming to Trenton"
     excerpt: "Officials unveiled plans for a new autonomous vehicle program during an event at Trenton Central High School on Wednesday. The hope is that the program will especially help the younger generations ..."
-    publishedDateTime: 2022-02-09T21:54:00Z
-    webUrl: "https://bronx.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
-    ampWebUrl: "https://bronx.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
-    cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
+    publishedDateTime: 2022-02-09T21:44:00Z
+    webUrl: "https://longisland.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
+    ampWebUrl: "https://longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
+    cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
     type: article
     provider:
       name: News 12 Networks
