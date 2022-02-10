@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-19-redefining-the-art-of-the-possible-for-financial-services-with-data-and-ai.md",
+      "title": "Redefining the art of the possible for Financial Services with Data and AI",
+      "excerpt": "I recently had the pleasure of speaking at the IDC European Banking Executive Digital Summit 2021 to discuss the value of digital transformation to the financial sector and its customers, and, importantly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/redefining-art-possible-financial-services-data-ai-nina-raphael",
+      "originalUrl": "https://www.linkedin.com/pulse/redefining-art-possible-financial-services-data-ai-nina-raphael",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFlABnWqHBXMQ/article-cover_image-shrink_720_1280/0/1642592016436?e=1648684800&v=beta&t=cMLzEFyWzgvTDi1cKaLLRpX3lcvgj-3JQJROrDOkVIg",
+          "width": 1280,
+          "height": 647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board.md",
       "title": "Data Vault Holdings Expands Expertise In Artificial Intelligence, Machine Learning, and Big Data; Appoints Tony Evans of C3 AI To Advisory Board",
       "excerpt": "Data Vault Holdings Inc., the emerging leader in metaverse data visualization, valuation, and monetization announced today the appointment of Tony Evans, General Manager",
@@ -1303,49 +1355,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges.md",
-      "title": "Sjain Ventures is set to launch Finleg, a service that will assist businesses with financial and legal challenges",
-      "excerpt": "Finleg one of Sjain Ventures wings is set to launch in 2022 with its offices Raipur and Pune to serve as the company first locations Finleg offers income",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272047073/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272047073/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1640694324.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

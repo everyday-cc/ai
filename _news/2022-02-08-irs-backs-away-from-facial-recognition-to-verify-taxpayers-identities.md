@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognit
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
 type: article
 quality: 89
-heat: 629
+heat: 619
 published: true
 
 provider:
@@ -773,20 +773,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/02/08/9b/18/c0/f5/bb/72/8a/34/00P4y000011p6OsEAI.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Opinion: Government agencies are tapping a facial recognition company to prove you're you. Watch out."
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-05T17:03:00Z
-    webUrl: "https://www.timesfreepress.com/news/opinion/columns/story/2022/feb/05/opinion-facial-recognition/562707/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 24
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2022/01/28/1643403351_013122b07-FPbrashers_gs_t1070_h684b61466ec9e7246f14b31fcd97b3eb03969075.jpg"
-        width: 1070
-        height: 713
         isCached: true
   - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
     excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."

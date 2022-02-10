@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-05-ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today.md",
+      "title": "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today",
+      "excerpt": "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET ... in both the Olympic Charter and the organization's code of ethics. \"Given the diverse participation in the Olympic Games ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
+      "originalUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "publishedDateTime": "2022-02-04T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles.md",
       "title": "Ag Expo rolls out innovations in AI, robotics, electric vehicles",
       "excerpt": "Technology that farmers have only dreamed about will be on full display next week at Tulare's annual World Ag Expo.",
@@ -1125,58 +1177,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-toyota-built-an-autonomous-self-drifting-sports-car.md",
-      "title": "Toyota built an autonomous self-drifting sports car",
-      "excerpt": "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car",
-      "originalUrl": "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp",
-      "publishedDateTime": "2022-02-03T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

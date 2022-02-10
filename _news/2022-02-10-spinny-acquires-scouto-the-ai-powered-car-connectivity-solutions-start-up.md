@@ -7,7 +7,7 @@ originalUrl: "https://bestmediainfo.com/2022/02/spinny-acquires-scouto-the-ai-po
 webUrl: "https://bestmediainfo.com/2022/02/spinny-acquires-scouto-the-ai-powered-car-connectivity-solutions-start-up/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     height: 350
     isCached: true
 
-secured: "bQZwippK8VpHL+E8s0eit/85kcZkAetWktzRQRuMVz/NrHcP4EZr2kXSPWy5dIgLIlOrKXw4e0gTGRJl14fW3/JVzIc/UuE+4hJ3v2N09H1TnW0NGv1fas85FiIOTyQENjlIxsapdcIncMw8AAOjATpbCAN9jxCY8dIHlnRAS8g7h+LqXgAnj/5IinEZgPQOLpOaTJ3ztB/SEjHwhmzqo801/h+4Ivkmhc5Ma7MIpG4q8/TMysdTAR3lKR9DO9AXHPTKmHXPiNoU4wbFGBT6oRGwsxm+tq6scUYjXPahvKDpf0/KcFnoAG9zi6rOV6cbnj/tLOQO1QcVESB0UQXKOEmCQ5x4n8h8vOeOHM0Cv7s=;MREk5ILJz+RoPtUjfYaDWw=="
+related:
+  - title: "Pre-owned car retailing platform Spinny acquires AI-powered car connectivity solutions startup Scouto"
+    excerpt: "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space Founded by ex-racecar driver Akshay Gupta and Shubham ..."
+    publishedDateTime: 2022-02-10T10:19:00Z
+    webUrl: "https://www.zeebiz.com/small-business/news-pre-owned-car-retailing-platform-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto-178613"
+    ampWebUrl: "https://www.zeebiz.com/small-business/news-pre-owned-car-retailing-platform-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto-178613/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-pre-owned-car-retailing-platform-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto-178613/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 42
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
+
+secured: "z0I9I6i64yHvLs+EBxo+UYxyV0VGYeEiOGoy9NGRirjwxXJAlZW/ouGw+5IQUFqCvO6qPsnX8OEjilydqLCHhBcwZ1dHXKsWHcyYSey1XLmLgmhPiKNtjDr8E9inptjUIRaXz24UXWVsgKMKYF0B2UrRozJ9cTl8ZgvdH/ogcck/UOhS+gWPQq0b8JmQTtkmcoUR8qCx7gBYMilHbpVTq3oLB5Oyy/R6BGmGnpsXk3BGA1KtrKcjzLX7O5bHgtdcICHcboYSxOaof8KLZKrOlKzVkg+mXQlfoTwBbfp07/KqQPDTBckBehxpnOfsZvXW/mPH+PgFU0v2K+j4D+RUsKfqJwQNduZDdZitkkKDw69Nu+L1RA2OyaGyJbrQ2nteqqZVrguyNWRSRq+MRHKPfxyqU+qEXHeGtT7K3znOmPuXr6kRUuNyT0opCUMFlx2uhYaO1ZGxrFgtSnrn4UsNiCF0bQQobycxBy4PAw+OVo2y71lqHeHbyPZ4q6FDCS0fUUb8UsYK4ZAtXsd4TYMgGg==;PPr7L0mmclq8HWCbXN4fmA=="
 ---
 

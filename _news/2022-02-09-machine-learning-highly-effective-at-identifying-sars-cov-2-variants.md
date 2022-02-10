@@ -57,6 +57,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Raman Spectroscopy and Machine Learning Method Improves SARS-CoV-2 Detection"
+    excerpt: "In their article published in the Journal of Biomedical Optics, they describe a new reagent-free detection technique that is based on machine learning (ML) and laser-based Raman spectroscopy. Raman spectroscopy is routinely used by researchers to determine ..."
+    publishedDateTime: 2022-02-10T09:39:00Z
+    webUrl: "https://www.technologynetworks.com/analysis/news/raman-spectroscopy-and-machine-learning-method-improves-sars-cov-2-detection-358410"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 36
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/358410/raman-spectroscopy-and-machine-learning-method-improves-sars-cov-2-detection-358410-640x360.jpg?cb=20220210"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "orzbHuHnHwgmmyNqYridHAuyC1UYuQqz/VljMjWzbsw4pc6DeD4UioDLpN0burxLLxthbxDaWwRO/5SVfy6ZlN4eTTZZEY4SmIDV6PdBkSNl2z/mdquSdjug8l6bzoDgQ8LGYixPT0MFVdYWthkoo2tc3RHVf5uzyk1AOXxYdrvF17rzTEUahyxRWHxZERyYZtOQZD8BN7HqwXyMPEb6ytZYBw6Ffnqu8iWRjB0iRfD50whNYBlOSw6bNECh46DpfzKciIyMbFCHX+ybD3aQSH4hh2E6E4uU/4GJ5PxxaScPJQvv1VdK8J1Oc28JOyddOfUfLZPfGeNvlyKBqwH8KlLW3r1at66lOcFQ9zfvfrHZX/a0Hu4lmNw0Mh9P2rKacNvC/WOnt34xwAhiWYdbOFn6eIPOjdAysLDWBfXk+TOlti9mB7YCRuk1i3w7AQEnH/cM03FS5FXo/zMq9uc3cUSiwRbCjr2CpnXZdn0UQOT7+NT49GWIhc1X2raeIo9apjYc8ps5HRWc7KM5Cbfq3Q==;nPdGU3M8GLVSH9DV9Pwr8w=="
 ---

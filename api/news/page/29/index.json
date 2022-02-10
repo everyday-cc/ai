@@ -2,6 +2,101 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-01-14-investing-in-ai-or-vr-stocks-dont-overlook-meta-platforms-in-2022.md",
+      "title": "Investing in AI or VR Stocks? Don't Overlook Meta Platforms in 2022",
+      "excerpt": "I want to take a quick look about Meta Platforms, formerly known as Facebook. I'm going to take a quick look at three things. First, just the current market it's hit",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661066/gettyimages-1351141161.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible-ai-adoption.md",
+      "title": "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption",
+      "excerpt": "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature.md",
       "title": "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature",
       "excerpt": "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more.",
@@ -1085,92 +1180,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-rta-forum-reviews-traffic-rules-of-driverless-flying-taxis-in-dubai.md",
-      "title": "RTA forum reviews traffic rules of driverless flying taxis in Dubai",
-      "excerpt": "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
-      "originalUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
-      "publishedDateTime": "2022-01-12T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-ai-comes-alive-in-industrial-automation.md",
-      "title": "AI Comes Alive in Industrial Automation",
-      "excerpt": "Artificial intelligence (AI ... With RL, you have deep learning and within the deep neural network of an ML learning network,” said Nicholson. “You can apply the algorithms to robots. As the robots learn their tasks, they get a numerical reward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
-      "originalUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/2A8YM6D.jpg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

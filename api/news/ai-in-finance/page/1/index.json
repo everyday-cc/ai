@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
+      "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
+      "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-482958/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "publishedDateTime": "2022-02-10T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-3-fintech-stocks-you-can-buy-today.md",
       "title": "3 Fintech Stocks You Can Buy Today",
       "excerpt": "Three fintech stocks you can buy today are Silvergate Capital (NYSE ... demand for loans through its website and app and then uses artificial intelligence (AI) to quantify the risk of those loans based on 1,600 variables. It then connects those loans ...",
@@ -1323,58 +1376,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-redefining-the-art-of-the-possible-for-financial-services-with-data-and-ai.md",
-      "title": "Redefining the art of the possible for Financial Services with Data and AI",
-      "excerpt": "I recently had the pleasure of speaking at the IDC European Banking Executive Digital Summit 2021 to discuss the value of digital transformation to the financial sector and its customers, and, importantly,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/redefining-art-possible-financial-services-data-ai-nina-raphael",
-      "originalUrl": "https://www.linkedin.com/pulse/redefining-art-possible-financial-services-data-ai-nina-raphael",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFlABnWqHBXMQ/article-cover_image-shrink_720_1280/0/1642592016436?e=1648684800&v=beta&t=cMLzEFyWzgvTDi1cKaLLRpX3lcvgj-3JQJROrDOkVIg",
-          "width": 1280,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

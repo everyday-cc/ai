@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
+      "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
+      "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-482958/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "publishedDateTime": "2022-02-10T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-kobold-metals-raises-1925-million-to-use-ai-to-find-battery-minerals.md",
       "title": "KoBold Metals Raises $192.5 Million to Use AI to Find Battery Minerals",
       "excerpt": "ADELAIDE, Australia—KoBold Metals, a startup backed by Bill Gates’s Breakthrough Energy Ventures that aims to use artificial intelligence to find metals needed for the electric-vehicle boom, raised $192.5 million in its latest financing round ...",
@@ -1082,6 +1135,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-09-komprise-partners-with-microsoft-to-support-azure-file-data-migration-program.md",
+      "title": "Komprise partners with Microsoft to support Azure File Data Migration program",
+      "excerpt": "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. Krishna Subramanian, President and COO of Komprise says, “By working closely with the Microsoft Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "originalUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/import/2016/01/handshake.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "publishedDateTime": "2022-02-08T21:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine.md",
       "title": "2022 Healthcare trends will be driven by AI, wearables and virtual medicine",
       "excerpt": "Tech like AI, advanced telehealth systems and remote devices will be change healthcare for physicians and patients alike in the coming year.",
@@ -1132,101 +1228,6 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-tesla-cut-a-steering-component-from-some-cars-to-deal-with-chip-shortage-sources-say.md",
-      "title": "Tesla cut a steering component from some cars to deal with chip shortage, sources say",
-      "excerpt": "Tesla omitted one of two electronic control units in the cars' electrical power assisted steering systems. Tens of thousands of cars are affected, sources say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html?utm_term=Autofeed&utm_medium=Social&utm_content=Tech&utm_source=Twitter",
-      "originalUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806379-1607090740945-gettyimages-1229775273-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090829",
-          "width": 4000,
-          "height": 2672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "publishedDateTime": "2022-02-08T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins.md",
-      "title": "AI-driven Congruence Therapeutics gets $50M to stabilize misfolded proteins",
-      "excerpt": "For proteins to function properly, they must take on the right shape. Misfolded proteins are the root of many diseases. Congruence Therapeutics is using computational tools to discover and develop ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
-      "originalUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg",
-          "width": 683,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

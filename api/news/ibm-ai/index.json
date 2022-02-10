@@ -237,6 +237,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-28-ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.md",
+      "title": "IBM sheds some Watson Health assets, refocuses on AI and cloud",
+      "excerpt": "The latest sale is a sign, then, that IBM is serious about refocusing on its core platform-based hybrid cloud and on its AI activities, which go beyond Watson. IBM says it remains committed to Watson, but with two Watson-based business units now gutted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/694767/ibm-sheds-some-watson-health-assets-refocuses-ai-cloud/",
+      "originalUrl": "https://www.reseller.co.nz/article/694767/ibm-sheds-some-watson-health-assets-refocuses-ai-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/arvind_krishna_ibm_2_1.jpg",
+          "width": 505,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-ibm-to-sell-off-watson-health-assets.md",
       "title": "IBM to sell off Watson Health assets",
       "excerpt": "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit for \"more than $1 billion\"",
@@ -1386,59 +1429,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-the-perks-and-pitfalls-of-creating-prolific-ai-inventors.md",
-      "title": "The perks and pitfalls of creating prolific AI inventors",
-      "excerpt": "As more AI “invents,” they may become prolific inventors of the future. If patents are granted, who should get the rewards?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/",
-      "originalUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/",
-      "publishedDateTime": "2021-12-26T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

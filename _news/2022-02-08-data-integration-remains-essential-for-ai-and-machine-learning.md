@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/opinion/Data-integration-remains-esse
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1200
     height: 400
     isCached: true
-
-related:
-  - title: "Human brain's secret to learning as hardware for AI"
-    excerpt: "As companies use more and more data to improve how AI recognizes images, learns languages and carries out other complex tasks, a paper published in Science this week shows a way that computer chips could dynamically rewire themselves to take in new data ..."
-    publishedDateTime: 2022-02-05T17:06:00Z
-    webUrl: "https://www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963"
-    ampWebUrl: "https://www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963/amp"
-    type: article
-    provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 39
 
 secured: "U1mE32XPtiz3fYoRn0RoztVkQaoCo++NAKBWbBJ/dNnYDYFBWzAjDiSlKlsY4/c01HMyuCOCC+ywt2a740zOuHn2Bf8OWJ+mns9gwU48zBIyvaj8pHc1NAuhNOpK3/s7TKeopHaTbRSAkGvBspek2EKR/+5ghmwa2IB1dj/iY+ML96RGg8kxvwNoXVpId/OKxUFgmamTkXo2vc8xxlFu/t8dYFWN+XyV0s4q70Q41x6axCQTiI3uv7OFdnmIrd9Ojc+nuCn4kozceIaB8lQFK8pqGXzmerv4iUr/WuatMUl7l9nXWXBljykKeQBMIrfpZfEBFXPvjk9QvcRC4F12mebp888HBkcH1gfzbSqQpCp2s7Y5j3NHhhahlieVZVqGvO9TLzJXQdYppbygVnRcpyv2bdibocJvnwLStO5Lzsz8CXqvV7xyNbCSXPcyRrLQ5wGGiq+fibef0YdL+00GcK2aLG6X88Ws+QlKt6VFAoMmbMaRRXe+w1IkBqL6qXyya3NZh8XxsU1agJ7GQrkvgg==;IvyOHq++sk3dbuuG85D7Og=="
 ---

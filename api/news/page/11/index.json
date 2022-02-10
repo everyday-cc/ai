@@ -2,6 +2,100 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-28-watch-an-ai-play-the-best-game-of-tetris-youve-ever-seen.md",
+      "title": "Watch an AI Play the Best Game of Tetris You've Ever Seen",
+      "excerpt": "The AI easily shatters previous world records by prioritizing clearing four-line tetrises. Then the game completely melts down.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104",
+      "originalUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6d2b3eb4c6355e8f23cc0ccf6c1cec74.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/best-game-of-tetris-ever-ai-1848432104/amp",
+      "publishedDateTime": "2022-01-27T11:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-imagination-gpu-cleared-for-risc-v-cpu-compatibility-licensed-to-chip-designers.md",
+      "title": "Imagination GPU cleared for RISC-V CPU compatibility, licensed to chip designers",
+      "excerpt": "Imagination Technologies' BXE-2-32 entry-to-mid-level GPU has been tested and validated to work with RISC-V-compatible CPU cores – and licensed to several companies building RISC-V chips, including RIOS Lab,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/01/27/gpu_riscv_imagination/",
+      "originalUrl": "https://www.theregister.com/2022/01/27/gpu_riscv_imagination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/01/27/shutterstock_3d_graphics.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/27/gpu_riscv_imagination/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/27/gpu_riscv_imagination/",
+      "publishedDateTime": "2022-01-27T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-humanoid-robot-is-teslas-most-important-product-this-year-musk-says.md",
       "title": "Humanoid robot is Tesla's 'most important product' this year, Musk says",
       "excerpt": "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,",
@@ -1071,101 +1165,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-best-robot-vacuum-2022.md",
-      "title": "Best Robot Vacuum 2022",
-      "excerpt": "Not the only measure, mind you ... It’s up to you whether those remote control conveniences are worth the extra price. Mapping features: Cheaper robots tend to head in a random direction ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/best-robot-vacuum",
-      "originalUrl": "https://www.ign.com/articles/best-robot-vacuum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2019/08/12/robot-vacuums-1565622632427_160w.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-the-ethics-of-the-metaverse.md",
-      "title": "The ethics of the metaverse",
-      "excerpt": "Did you miss a session from the Future of Work Summit? Head over to our Future of Work Summit on-demand library to stream. We’re all in a rage about the metaverse, the universe of virtual worlds that are all interconnected,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/ethics-panel.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/",
-      "publishedDateTime": "2022-01-26T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

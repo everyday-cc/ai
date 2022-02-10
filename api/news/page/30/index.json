@@ -2,6 +2,92 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-01-13-rta-forum-reviews-traffic-rules-of-driverless-flying-taxis-in-dubai.md",
+      "title": "RTA forum reviews traffic rules of driverless flying taxis in Dubai",
+      "excerpt": "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "originalUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
+      "publishedDateTime": "2022-01-12T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-ai-comes-alive-in-industrial-automation.md",
+      "title": "AI Comes Alive in Industrial Automation",
+      "excerpt": "Artificial intelligence (AI ... With RL, you have deep learning and within the deep neural network of an ML learning network,” said Nicholson. “You can apply the algorithms to robots. As the robots learn their tasks, they get a numerical reward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "originalUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/2A8YM6D.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-is-amazon-creepier-than-google-at-this-point.md",
       "title": "Is Amazon creepier than Google at this point?",
       "excerpt": "We could go on and on. Remember Rekognition, the facial recognition system Amazon allowed police to use that sparked fears the company was essentially supporting the surveillance state?",
@@ -1031,110 +1117,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-ai-standards-hub-will-help-uk-businesses-improve-ai-governance.md",
-      "title": "AI Standards Hub will help UK businesses improve AI governance",
-      "excerpt": "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641989946/itpro/GettyImages-AI-concept.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
-      "publishedDateTime": "2022-01-12T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-snowflake-stock-looks-like-a-buy-at-300.md",
-      "title": "Snowflake Stock Looks Like A Buy At $300",
-      "excerpt": "Cloud-based data warehousing specialist Snowflake stock (NYSE: SNOW) stock has declined by almost 15% over the last month, trading at about $300 per share currently. The decline comes on the back of a broader sell-off in software names and high-multiple",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b4a0f0e0601e4e30a76c44%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "publishedDateTime": "2022-01-12T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

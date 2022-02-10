@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-26-volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla.md",
+      "title": "Volkswagen, Bosch team up on self-driving software to test Tesla",
+      "excerpt": "The platform, announced by VW’s Cariad software unit and Bosch on Tuesday, will serve all Volkswagen Group passenger vehicles before being opened to the wider industry. As a first step, the partners plan to roll out technology from next year that will allow drivers to temporarily take their hands off the steering wheel via an over-the-air update.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
+      "originalUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
+      "publishedDateTime": "2022-01-25T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-jd-technology-fintech-unit-of-chinas-jdcom-engages-banks-for-hong-kong-ipo-that-could-raise-up-to-us2-billion-source-says.md",
+      "title": "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says",
+      "excerpt": "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/25/d94b0b70-3d84-42ab-a198-db3e5316c492_cc8ac43c.jpg?itok=5M0UU_uZ&v=1643095588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "publishedDateTime": "2022-01-25T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-studying-the-big-bang-with-artificial-intelligence.md",
       "title": "Studying the big bang with artificial intelligence",
       "excerpt": "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\".",
@@ -1061,100 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast.md",
-      "title": "Artificial Intelligence Market 2022-27: Global Size, Share, Growth, Trends and Forecast",
-      "excerpt": "According to IMARC Group's latest report, titled \"Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global artificial intelligence market reached a value of US$ 56.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T00:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india.md",
-      "title": "McLaren Strategic Ventures launches AI-customized chip design venture in India",
-      "excerpt": "It has launched Atlas Silicon, a comprehensive ecosystem that will create digital synergies to bring concept, design, IP and production under one umbrella.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/articleshow/89112275.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/articleshow/89112275.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-43738,msid-89112330/chip_thinkstock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/amp_articleshow/89112275.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/amp_articleshow/89112275.cms",
-      "publishedDateTime": "2022-01-24T23:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

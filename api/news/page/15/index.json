@@ -2,6 +2,100 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-25-artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast.md",
+      "title": "Artificial Intelligence Market 2022-27: Global Size, Share, Growth, Trends and Forecast",
+      "excerpt": "According to IMARC Group's latest report, titled \"Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global artificial intelligence market reached a value of US$ 56.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T00:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india.md",
+      "title": "McLaren Strategic Ventures launches AI-customized chip design venture in India",
+      "excerpt": "It has launched Atlas Silicon, a comprehensive ecosystem that will create digital synergies to bring concept, design, IP and production under one umbrella.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/articleshow/89112275.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/articleshow/89112275.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-43738,msid-89112330/chip_thinkstock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/amp_articleshow/89112275.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/amp_articleshow/89112275.cms",
+      "publishedDateTime": "2022-01-24T23:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-intelligent-ultrasound-extends-agreement-with-ge-healthcare.md",
       "title": "Intelligent Ultrasound Extends Agreement With GE Healthcare",
       "excerpt": "By Michael Susin Intelligent Ultrasound Group PLC said Tuesday that it has signed an agreement extension with GE Healthcare to use its software in a",
@@ -1097,102 +1191,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting.md",
-      "title": "Klarity lands $18m Series A to Expand Its Document Automation Platform for Finance and Accounting",
-      "excerpt": "Klarity, the AI platform that turns documents into structured data and frees humans from painful and voluminous document review, today announces $18M in Series A funding led by Tola Capital with participation from new and existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1731884/Picture1.jpg",
-          "width": 400,
-          "height": 379,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
-      "title": "Boeing to pour $450 million into program for self-driving air taxi",
-      "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg",
-          "width": 533,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "publishedDateTime": "2022-01-24T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
