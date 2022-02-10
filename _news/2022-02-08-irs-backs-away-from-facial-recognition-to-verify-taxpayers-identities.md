@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognit
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
 type: article
 quality: 89
-heat: 619
+heat: 629
 published: true
 
 provider:
@@ -720,6 +720,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
+    publishedDateTime: 2022-02-09T19:48:00Z
+    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 34
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
         isCached: true
   - title: "IRS Drops Plan To Require Facial Recognition To Access Accounts Following Backlash"
     excerpt: "WASHINGTON (CNN) — The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website ..."

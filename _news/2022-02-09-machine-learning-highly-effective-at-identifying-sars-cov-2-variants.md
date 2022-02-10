@@ -1,0 +1,63 @@
+---
+category: news
+title: "Machine learning highly effective at identifying SARS-CoV-2 variants"
+excerpt: "The genome of SARS-CoV-2 consists of a single-stranded RNA of 29,903 nucleotides. SARS-CoV-2 is associated with a very high mutation rate, and, recently, machine learning has proved to be a valuable method to identify the distinctive genomic signatures ..."
+publishedDateTime: 2022-02-08T23:59:00Z
+originalUrl: "https://www.news-medical.net/news/20220209/Machine-learning-highly-effective-at-identifying-SARS-CoV-2-variants.aspx"
+webUrl: "https://www.news-medical.net/news/20220209/Machine-learning-highly-effective-at-identifying-SARS-CoV-2-variants.aspx"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: News Medical
+  domain: news-medical.net
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_704094_16444651729557529.jpg"
+    width: 1500
+    height: 899
+    isCached: true
+
+related:
+  - title: "New and improved SARS-CoV-2 detection method using Raman spectroscopy and machine learning"
+    excerpt: "\"Our machine learning method uses information from each individual Raman spectrum. It does not use averaged data, and so it can integrate more information from the saliva samples to give a highly ..."
+    publishedDateTime: 2022-02-09T18:02:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-sars-cov-method-raman-spectroscopy-machine.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-sars-cov-method-raman-spectroscopy-machine.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-sars-cov-method-raman-spectroscopy-machine.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-and-improved-sars.jpg"
+        width: 920
+        height: 450
+        isCached: true
+  - title: "New reagent-free SARS-CoV-2 detection technique based on machine learning and Raman spectroscopy"
+    excerpt: "In their article published in the Journal of Biomedical Optics, they describe a new reagent-free detection technique that is based on machine learning (ML) and laser-based Raman spectroscopy. Raman spectroscopy is routinely used by researchers to determine ..."
+    publishedDateTime: 2022-02-08T23:59:00Z
+    webUrl: "https://www.news-medical.net/news/20220209/New-reagent-free-SARS-CoV-2-detection-technique-based-on-machine-learning-and-Raman-spectroscopy.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220209/New-reagent-free-SARS-CoV-2-detection-technique-based-on-machine-learning-and-Raman-spectroscopy.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220209/New-reagent-free-SARS-CoV-2-detection-technique-based-on-machine-learning-and-Raman-spectroscopy.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "iPUo/YbRcufcZsrN7o4G6edLf6XZqmzLxSxpdUns4C/kh67hOySMl/G0B9v1mAouPJqRrGwHNKOpsxGY00EZddzqdRGxvIeedqZ45AEYDVeD1fXEZEIQ1AVw3uhn52gPgd5P1cg2ec3c2x8dXwj7INC1tWpnpDZgXbrUst9zRyzLIx4auv+LaOiREupHW6P2Z0qZ90gHpkKSwPqHOin1rd+lgjGukORzu0kqftbI/cacf8W58CQu9gMUTBh/5VOTgm2MnVh2TKKg0TH27/YflGkSZxHMxdRwQ4dkn86gpQxSXUl6D7qhvVQMuGnVA0e6bDC++9FP3wnlk/7dZCrlHPKIO5NhNVogrB6WtXe0GiI=;5dZ0l/LF0jKD8AjX+p7Vcg=="
+---
+

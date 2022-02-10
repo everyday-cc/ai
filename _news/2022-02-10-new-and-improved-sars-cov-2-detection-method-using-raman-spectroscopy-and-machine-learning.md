@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning highly effective at identifying SARS-CoV-2 variants"
+    excerpt: "The genome of SARS-CoV-2 consists of a single-stranded RNA of 29,903 nucleotides. SARS-CoV-2 is associated with a very high mutation rate, and, recently, machine learning has proved to be a valuable method to identify the distinctive genomic signatures ..."
+    publishedDateTime: 2022-02-08T23:59:00Z
+    webUrl: "https://www.news-medical.net/news/20220209/Machine-learning-highly-effective-at-identifying-SARS-CoV-2-variants.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_704094_16444651729557529.jpg"
+        width: 1500
+        height: 899
+        isCached: true
 
 secured: "D4AkNebdABNCJvfhUuoXwbkP1KuQ/Vkfrx2EAd/RVVyKOc98yPeAC99Re27rv+l4utFA5MQi6gbnLwaWYkNyIZ0kXF3fZHb0+UHfV3X7uJyERk2qmyUm8pdk+28Fv9H+yomUqulst+Btk/hFjaxQu8b5C/w9XFBuZFpSHp9MANd+WQ5Z/KSNfgP6kawTPY6gcC3B0pVhvM4fFNSWWm4bkSa8lZ7P0X2pCICLYz0ZauSg0M6XVDUHtrG3M/gsCF9fp4uQVrUFAKZgkB89pa/dYKTY4eJbGYXNVB6WWlZm6hMwc3ddPgQZi1G9oU13n8spmpdWgnlpxge+FB+vS0jrQRn9FRDbA+94Ez9749x256wWVMpnV1odQmqGPJFLjqB7a1naC0ubb3t6gXUv6UiEzymqtuzXD7X/r2vR2SJLq8eGbR27a7Hdgncid8sviKL9MQOT5El22ZPWbkEB3CyGjARpevJ6mj1Qi8jeZXDq/47b5NgtLES2ZP///GvOcj57hIAp3TvcMRuT/p6Rj/G8SA==;gE07we1bRjIgZxjzc+NJ9Q=="
 ---

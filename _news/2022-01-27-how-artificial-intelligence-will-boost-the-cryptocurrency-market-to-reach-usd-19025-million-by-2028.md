@@ -1,26 +1,28 @@
 ---
 category: news
 title: "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028"
-excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting a CAGR of 11.1% between 2021 to 2028. In its report titled“Cryptocurrency Market,"
-publishedDateTime: 2022-01-27T10:42:00Z
-originalUrl: "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028"
-webUrl: "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028"
+excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting"
+publishedDateTime: 2022-01-27T09:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2"
+ampWebUrl: "https://www.benzinga.com/amp/content/25252700"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AWS AI
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?375678"
-    width: 375
-    height: 250
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "M8mL5HkP+khCw9ufY++N+HFTU5lriE/ILML0PbPrkJ0gdN+hUDdJWi2sK/L3vZ6jSN6oHrE2VY2qgRUFMy63nOohLeNghoPog12sU28KbnuSkOKxSrnd5Axo5NDDF6Kf7Owy38xMl56Nh24ysXA8VgBFZSnbXM7gZp3/CUHNj1jXmcT6RHV2+ej8TlOIlz1ZiwHZbUbsVMJtoo/f09OGr9l/132IouGKfomy2EWfstkFPcp1J3lx0SGdvlZrvVDCV82KBvvst9UKTHmYZmJ5YaTUV44Xu21taulLgFfV4KKMjh10qHioYHJKHtpdhyT51zIpu8UnhuZGqISIByHvpV0WKbHslEbIcSUHa4G69yA=;IK+7xoCtlC5jHf67wBzmCg=="
+secured: "n6Yn/Q98Chju2e2r1ei6q8fCb9tL8zlU0NwKgZCVGvBV1KsqwUT9Lj9b1+X5p8hXdyX92lmVIcQXiHZlfzEPR27ws996B5WgGCdgemR4QIaK0IRIAjYojpuWOTpnM/VI1Pq/rxUVVI9NAoHcemc93/Gey5pdd+H/4zYCyuaF8Scxtmg1HBw1HqgVPyU21NMm3tk7hJ8UD2LL6imJDAU9slkF4nmq7ExU9Z+u0lV+Vs5zNe7LOF+F2BFlRv/X7nsQSwmqByISrFaMNxiFTDJlNFZ27Hd7lCrIRpCcIK1KKKRQqg4C5X9fLqpA890vtlamAaBlhZh/opZri2CYokYPGPrQCjC2lF9Sk6QrCZNKTPU=;e4WsJutf5zOWnAtAWz7Bkg=="
 ---
 

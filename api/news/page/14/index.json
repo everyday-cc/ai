@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-25-blameless-new-commsflow-streamlines-how-engineers-manage-incidents-and-keep-all-stakeholders-informed.md",
+      "title": "Blameless New CommsFlow(™) Streamlines How Engineers Manage Incidents and Keep All Stakeholders Informed",
+      "excerpt": "Blameless, the leading Reliability Engineering platform, is announcing the availability of its new CommsFlow product capability, designed to keep all stakeholders updated as the reliability of services and applications are impacted by incidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532432.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532432.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-find-another-machine-learning-investment-besides-c3ai.md",
+      "title": "Find Another Machine Learning Investment Besides C3.ai",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trend is definitely not the friend of AI stock holders, and turnaround hopes are fading as the company's",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/414973",
+      "originalUrl": "https://www.entrepreneur.com/article/414973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce.md",
       "title": "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce",
       "excerpt": "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and",
@@ -1078,92 +1164,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-c3ai-finally-turning-bullish-after-85-retraction.md",
-      "title": "C3.ai: Finally Turning Bullish After 85%+ Retraction",
-      "excerpt": "C3.ai has seen the stock rapidly fall over 85% since ... Remember, the company also has sales partnerships with Azure, Google Cloud, and AWS, which seems very likely to achieve the remaining ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "originalUrl": "https://seekingalpha.com/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1296904409/image_1296904409.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "publishedDateTime": "2022-01-24T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology.md",
-      "title": "Vodafone upgrades customer service with AI and speech recognition technology",
-      "excerpt": "Ever get frustrated when you can’t talk to a real person? Vodafone’s answer to this won’t be adding real people but rather AI-powered chat bots and smart speech recognition tools as a way of improving the customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
-      "originalUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techguide.com.au/wp-content/uploads/2016/10/vodafixed-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
-      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
-      "publishedDateTime": "2022-01-24T21:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Guide",
-        "domain": "techguide.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

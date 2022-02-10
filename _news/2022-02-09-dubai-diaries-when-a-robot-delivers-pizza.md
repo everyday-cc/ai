@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-ro
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza?amp=1"
 type: article
 quality: 74
-heat: 76
+heat: 77
 published: true
 
 provider:

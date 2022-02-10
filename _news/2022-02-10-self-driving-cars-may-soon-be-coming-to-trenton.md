@@ -2,11 +2,11 @@
 category: news
 title: "Self-driving cars may soon be coming to Trenton"
 excerpt: "Officials unveiled plans for a new autonomous vehicle program during an event at Trenton Central High School on Wednesday. The hope is that the program will especially help the younger generations ..."
-publishedDateTime: 2022-02-09T21:54:00Z
-originalUrl: "https://bronx.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
-webUrl: "https://bronx.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
-ampWebUrl: "https://bronx.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
-cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
+publishedDateTime: 2022-02-09T21:44:00Z
+originalUrl: "https://longisland.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
+webUrl: "https://longisland.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
+ampWebUrl: "https://longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
+cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
 type: article
 quality: 44
 heat: 44
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uQWA+505nHbYRN6V3ZQigSyIXWxxExLiZbvDfAyv6F0/tTxmHwkvm2DCVVx4ohiKyZoP6fAIrYgR+9P/dlkBeCsIumiTSM2RhREvSmzO8sNSDaDNItfZ+APH8/VM8oODAhGMtHpl/T9JiKjOlBegob2hI1vkp49tcubSQOLYiIdPc8yUFYgQUjXc3zT/ym9DYaKJ4nClctX+Dxk9hEJnp30rCO8/akKYtBLK8/pI95DnrF8JLhWfgN9jdAG9fk0TymacW5nsrwawp73wrnu4Q2ITOzKJML5KIbWdJelWzlBzOCLLcEAR5ap+UXvthc+KbGHZ2b7Mge7mjvahrPVVbUqoGcTMaiti/2uWOXpgdVU=;vjQEGq8ZGDt+fP8+b/X/DA=="
+secured: "BfdQC7IHhp4S3jcb1zgxRON6rL9+Mz9BbiX4RcGqEZudvDmFC0Yp8qX3RSc53Nx052IPhBSyMyGGet0WejLKnILGhXhpqu2bQvmxXmys7oIDq03CgiOaKptl137kxlsXzQZI2TYqz4OlerQGct1lCn9w/D4WCdeJpqB4XK5ESsCmhxupExa1nlIadLmlj9ShbDtSEUVvxDo8TereznJjGTtamvtKjxz91J9cIO7gvDE2eeu87INlIzuXMG8LSwVM6F79OXvJ5nAUhBUT2s/1Qyy6CisrXVBD2rPRN/XCSM4G91Tpvv6RUfu+ybF9/UUS9LMFLe+fwQ8UrnM9Ml+uhbp1Y1Rbo/bhoDjH+i8fOE0=;tD7prNrCf10n6cXDstMwag=="
 ---
 

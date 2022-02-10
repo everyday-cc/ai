@@ -40,6 +40,22 @@ related:
         width: 880
         height: 319
         isCached: true
+  - title: "Enhancing cross-cultural dialogues with AI"
+    excerpt: "A new project, led by Monash University researchers, will develop an Artificial Intelligence (AI)-assisted application to help with real-time interpretations for diplomatic talks, international business and tourism."
+    publishedDateTime: 2022-02-09T23:08:00Z
+    webUrl: "https://indiaeducationdiary.in/enhancing-cross-cultural-dialogues-with-ai/"
+    ampWebUrl: "https://indiaeducationdiary.in/enhancing-cross-cultural-dialogues-with-ai/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/enhancing-cross-cultural-dialogues-with-ai/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "The power of AI-driven IT Management"
     excerpt: "Symphony SummitAI offers AI-powered Enterprise and IT Service Management solutions to business enterprises. Our goal is to transforms the way enterprises work by leveraging AI and Automation technologies to deliver consumer-grade,"
     publishedDateTime: 2022-02-09T12:55:00Z

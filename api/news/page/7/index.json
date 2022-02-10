@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-02-how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits.md",
+      "title": "How Telecom Companies Can Leverage Machine Learning To Boost Their Profits",
+      "excerpt": "Businesses can use specific capabilities, avatars or applications of machine learning and AI for this purpose. AI and Predictive Analysis: For Optimizing Global Telecom Networks Mobile networks are one of the prime components of the ever-expanding internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61fac087f2fa9e79cd435f1d/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
+      "publishedDateTime": "2022-02-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-itu-unveils-ai-platform-to-hasten-community-development.md",
+      "title": "ITU unveils AI platform to hasten community development",
+      "excerpt": "yesterday launched an artificial intelligence (AI)-powered platform, which seeks to step up global collaboration on the use of AI to drive sustainable development. The AI for Good Neural Network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
+      "originalUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/_qZgaXhmHYeZHAWpsRhNWbcy1HhjmNHVH-1ME1AeEN4Ouobgg_8cHIaPvSncCsRtj2AWCBjlxCWu2yoIaTIMDGw=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
+      "publishedDateTime": "2022-02-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature.md",
       "title": "Tesla to recall nearly 54K cars which could threaten future of Full Self Driving feature",
       "excerpt": "Tesla will have to recall close to 54,000 of its electric vehicles due to a feature called Rolling Stop which comes with the Full Self Driving premium package. The FSD is still in the Beta version.",
@@ -1054,103 +1149,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-building-an-ai-superpower-does-the-uk-stand-a-chance.md",
-      "title": "Building an AI superpower: Does the UK stand a chance?",
-      "excerpt": "He, and others, highlight AI ethics and international standards as a route towards adding value, although Jones acknowledges the “elephant in the room”, adding: “An ethical values-based framework in authoritarian regimes compared to democratic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362082/building-an-ai-superpower-does-the-uk-stand-a-chance",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362082/building-an-ai-superpower-does-the-uk-stand-a-chance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1593438991/itpro/2020/06/Shutterstock_UK_Digital_map.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-deloitte-adopting-machine-learning-capabilities-for-real-estate-analysis.md",
-      "title": "Deloitte Adopting Machine Learning Capabilities For Real Estate Analysis",
-      "excerpt": "Middle East Real Estate Predictions 2022 report explores the future of real estate through machine learning, geospatial analysi",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/deloitte-adopting-machine-learning-capabilities-real-estate-analysis-1464535",
-      "originalUrl": "https://www.albawaba.com/business/pr/deloitte-adopting-machine-learning-capabilities-real-estate-analysis-1464535",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/Deloitte.jpg?itok=EY2MS5sJ",
-          "width": 960,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/deloitte-adopting-machine-learning-capabilities-real-estate-analysis-1464535",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/deloitte-adopting-machine-learning-capabilities-real-estate-analysis-1464535",
-      "publishedDateTime": "2022-01-31T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

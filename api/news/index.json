@@ -156,7 +156,7 @@
       "originalUrl": "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -416,7 +416,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-02-drugs-aid-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -542,57 +542,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-securethingsai-raises-35-million-in-pre-series-a.md",
-      "title": "SecureThings.ai Raises $3.5 Million In Pre-Series A",
-      "excerpt": "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417696",
-      "originalUrl": "https://www.entrepreneur.com/article/417696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -995,7 +944,7 @@
       "originalUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1226,6 +1175,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers.md",
+      "title": "2 Senators Tell Tesla They Are 'Deeply Troubled' About Self-Driving Dangers",
+      "excerpt": "\"We are deeply troubled by Tesla's design choices that seemingly encourage unsafe driving habits,\" the Senators wrote about the automaker's \"Full Self-Driving\" system that was the subject of a recall of over 50,000 vehicles last week. This is a developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
+      "originalUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1982603/tesla-elon-musk-richard-blumenthal-ed-markey.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
+      "publishedDateTime": "2022-02-08T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

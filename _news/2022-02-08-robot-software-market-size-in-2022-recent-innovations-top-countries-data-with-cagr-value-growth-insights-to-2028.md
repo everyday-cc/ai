@@ -81,6 +81,20 @@ related:
         width: 1600
         height: 1068
         isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 – Global Forecast till 2027"
+    excerpt: "The global artificial intelligence systems spending market is estimated ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping. However, concerns over privacy, bias ..."
+    publishedDateTime: 2022-02-08T23:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-research-report-2022-global-forecast-till-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Mexican-cultural-treasures-AFP-1L-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
     excerpt: "The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global facial recognition market to grow with a CAGR of 17."
     publishedDateTime: 2022-02-09T06:52:00Z

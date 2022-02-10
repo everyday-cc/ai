@@ -40,6 +40,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sony created a Gran Turismo AI that demolishes the world's best human drivers"
+    excerpt: "As is common in AI, Sony trained its versions of Sophy GT using fast graphics chips. To run the simulations, it used computers with conventional processors. The next in the venerable series, Gran Turismo 7, debuts on March 4."
+    publishedDateTime: 2022-02-10T04:31:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Sony’s new AI driver achieves ‘reliably superhuman’ race times in Gran Turismo"
+    excerpt: "AI agents have bested humans at many games, from chess to Go to poker. Now, the machines can claim a new high score on the classic racing video game series Gran Turismo. Sony announced today that its researchers have developed an AI driver named GT Sophy ..."
+    publishedDateTime: 2022-02-10T01:01:00Z
+    webUrl: "https://www.theverge.com/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 83
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/naBUN_x1JY-fa1a78xpWTJs2OAI=/0x0:2988x1990/1400x933/filters:focal(1255x756:1733x1234):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70488847/1174706815.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Sony trains “superhuman” AI to race in Gran Turismo"
     excerpt: "A team of researchers at Sony AI have used deep reinforcement learning to teach an artificial intelligence to play Gran Turismo at a world-class level. While previous experiments have taught AI ..."
     publishedDateTime: 2022-02-09T16:18:00Z

@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-31-use-ai-to-become-a-photographer-worth-remembering.md",
+      "title": "Use AI to become a photographer worth remembering",
+      "excerpt": "The Complete Award-Winning Luminar AI Bundle gives you the tools and the knowledge to create professional-grade photography.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
+      "originalUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/01/sale_310759_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
+      "publishedDateTime": "2022-01-31T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-watch-out-for-the-facial-recognition-overlords.md",
+      "title": "Watch Out for the Facial Recognition Overlords",
+      "excerpt": "More technology companies are becoming gatekeepers to our identities and ‘faceprints.’ That could get messy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY64pWg9Fj8U/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-30T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-chinese-scientists-create-ai-nanny-to-look-after-babies-in-artificial-womb.md",
       "title": "Chinese scientists create AI nanny to look after babies in artificial womb",
       "excerpt": "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher.",
@@ -1124,111 +1227,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
-      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
-      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "publishedDateTime": "2022-01-28T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-building-global-ai-with-local-impact-in-an-ai-economy.md",
-      "title": "Building global AI with local impact in an AI economy",
-      "excerpt": "Thanks to tech advances in the AI economy that enable remote work, orgs developing AI can now collaborate with people from almost anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
-      "originalUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1206094124.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
-      "publishedDateTime": "2022-01-28T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

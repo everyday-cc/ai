@@ -69,6 +69,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "So what happened to self-driving cars?"
+    excerpt: "Apart from the convenience factor, self-driving cars are seen as a panacea for ... where humans can relax while an artificial intelligence does the driving. But here we are in 2022, still stressing out in heavy traffic dealing with inconsiderate drivers ..."
+    publishedDateTime: 2022-02-10T03:05:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/dFGKEqmvasAcjt_GxUIaUPiY6Q6zmnMJIS0b45QonT3FA8lDH1e8sUXgVMkkcEs9J2kWu8LdybkuwV_qB5WLYjaPGtkA1ugVxEFef-XijJbsSbI=s750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "D4+TV3Ow5BsG7oeBHnPciIKewD7w4t3L0tomwYKqqL8zIf+U7u8bL4TWNQFTDXkx6WiM4W0N3fL4cwPY16OC5DChn/lnzVYhSvegaQjIFIqq/IAqP7RW3ZBr7KIud4FxYLn2VjaLVvTMGhIBvXQyu/TMP0PnHKW73m7706uXp7+frz6e75nLG6g7Piv7Pj+XYAc4gpFfe9pI3Cviz/hCkn3LXulJCCAfpXmnDlD+4cvixR9PZEddN0KO0ubLF0Y/lb5yggWMmZuvYNs9iCHvyRYJP+GBmxiExIAbycV8gKn3Fw2Qn5qpG2d4A/MxwO8bZ0xxZ3e3aII6AbfPxyvwRk/e3X3sobzHlRBtKC6C5x+3rAFjDocjeAZwJAJgUOtnJJuu3rXHFQnPFqSx2fSFe5JoOZACmUVAsWuG1cdmWYjlJNKg3r7UmKVxn6jRMIN9MA/76kVJko+/PTPoLrWgGLRfm4YfLdUZFfPIHYcVNNTrtJwCvJ/jP5RFD3qEXGObbTEmmcofK6XEuc0KyQbSSQ==;3BeunkISpXHt/mP3bW4Q6A=="
 ---

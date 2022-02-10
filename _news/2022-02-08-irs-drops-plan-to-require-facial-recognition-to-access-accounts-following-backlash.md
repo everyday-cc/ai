@@ -727,6 +727,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
+    publishedDateTime: 2022-02-09T19:48:00Z
+    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 34
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
   - title: "Lawmakers ask IRS to halt use of facial recognition tech, noting ‘serious privacy issues’"
     excerpt: "Multiple Democratic members of Congress in the House and Senate wrote to the IRS asking the agency to halt its plans for mandatory use of ID.me’s facial recognition system to verify the identity of taxpayers and consider alternatives that do not rely on the same technologies."
     publishedDateTime: 2022-02-07T16:55:00Z
