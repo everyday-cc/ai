@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sb
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/digital-pic.jpg"
         width: 1200
         height: 665
+        isCached: true
+  - title: "AI In Diagnostic Imaging Market is Booming Worldwide with GE Healthcare, Canon, Siemens Healthineers"
+    excerpt: "The use of artificial intelligence (AI ... the benefits offered by AI techniques and their wide areas of use has led to the adoption of AI in the healthcare and medical imaging sectors. Several key players in the AI ????in the medical imaging market ..."
+    publishedDateTime: 2022-02-10T17:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-diagnostic-imaging-market-is-booming-worldwide-with-ge-healthcare-canon-siemens-healthineers"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "7fBENEcTUw6il+kuNjtgaUKKr+vjn1eRzPFkxxLg/e9Npeu+TyqPe/8rCz0SgJYZyr7BI7PbUoB+Pm0uu2b3UjunB4hBcusuit5Xv8swnNjo+HBcR+h8AwwkQYGLEfbKSqFXjydeyirNVGL5SDE74jeZuqQLrveXHlA0T1aocaYbPfxXF/6K2eY7D2t92lNgocF1utoMfifFhHTFWEzJUQWv8pBLuPD2RM9qDl4QRgu0ew0A+Vp7hoESETHbwFLWX6cfW0ReoNXMK4cIemlgEv97jEFeUlXrdXDQXZbmVrXM8dFAOvlBQbP1BKWovNVlGSjcz9ntgj3rXW3B0vtOjLJStGIPYtuH4rlJPPqLzY2lGEVvtsbId/dbpqSQngkGk/EfCsFGKNysFQQjmofF77yi3HNU5mXClXYfWCbndiIP41ye2uCj5fawkSAr/dJCGipqreg9lI9dm9ya/qlvDaKhT+5n5SlSWPx9LFjjcuT0F7Ms8WB5ne/A1dtkOJZWSsAVDmzX0tuKqD98z6HyAA==;FrHvF6HkHqlwUrwEYRQ+AA=="

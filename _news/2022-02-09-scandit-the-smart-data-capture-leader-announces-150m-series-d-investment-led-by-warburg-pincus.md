@@ -55,6 +55,22 @@ related:
         width: 1023
         height: 576
         isCached: true
+  - title: "Data capture firm Scandit raises $150M, reaches unicorn status"
+    excerpt: "Data capture firm Scandit has raised $150 million in a series D investment round as it looks to expand the customer base for its retail technologies. (Photo: Scandit) As e-commerce, and specifically fulfillment operations, have ramped up, accurate ..."
+    publishedDateTime: 2022-02-10T18:34:00Z
+    webUrl: "https://www.freightwaves.com/news/data-capture-firm-scandit-raises-150m-reaches-unicorn-status"
+    ampWebUrl: "https://www.freightwaves.com/news/data-capture-firm-scandit-raises-150m-reaches-unicorn-status/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/data-capture-firm-scandit-raises-150m-reaches-unicorn-status/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 59
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/02/Scandit-last-mile-scan.jpg.optimal.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "Dq9oej2a3Yn16twsHTEdliNxXCikbeEilgzLCWKuoxfJexcn0Z9lS/fEhj9VSdV3s2FYR6Z5qr8B+AUPd+zwJ5PAbJoVH1tuTG92EexV/c7bdWb12HfzUX8DZ27ucjfKHO+obfX/pszwud3q/K3hf7sI5+J4OAC5itmhtFjVZUCX6K+QKhYqJGBEIvTK/RKRPoUS4zO1IEjUJzvmVAsSCwIKDBCbjq3NvzcL4hYfh+Yt0LbF0v35WvGpl7MFtABXxrVE9Ie419+T0Q+7h0uLtC1m3vTd0A3+KvgsnMVRzWlRsb8HRCJMvmyU0huUQPe7SNmTUStjwvU1yqRHrvpUa+W9gsQ7qZb20yReJPiX4NQgGH9JytbX4EnQPMLdzF/7BFj3J3pHHI8p0U8Hyy5FKAe+GQe6hSMuDYY2kjS/86sGDc+NLzezfcr16Dj3eVKFWzvvqiPSPtMRMsnv25eqMZgbeR3JPmR6UvQLc2acCNqQfM1IlvVo66toY5q1bJCALfNXdPZgqpPuNcY+QR46qQ==;JLViJo5LE5896ySgwOESkA=="
 ---

@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Top Fintech Companies To Invest In, In 2022"
+    excerpt: "... help companies and individuals navigate adoption of new fintech technologies. Speaking of which, innovation is still ongoing even ad growing companies adopt new forms of payment and transfer. AI is already at the heart of start-up fintech business ..."
+    publishedDateTime: 2022-02-10T18:31:00Z
+    webUrl: "https://techbullion.com/top-fintech-companies-to-invest-in-in-2022/"
+    ampWebUrl: "https://techbullion.com/top-fintech-companies-to-invest-in-in-2022/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-fintech-companies-to-invest-in-in-2022/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/top-fintech-companies-to-invest-in-in-2022.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
     publishedDateTime: 2022-02-08T19:00:00Z

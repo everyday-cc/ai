@@ -77,7 +77,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600

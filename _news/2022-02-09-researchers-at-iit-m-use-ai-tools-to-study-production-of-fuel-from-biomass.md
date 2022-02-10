@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Researchers Study Artificial Intelligence Tool to Detect Esophageal Cancer"
+    excerpt: "February 10, 2022 - University of Colorado (CU) Cancer Center researchers are assessing whether an artificial intelligence-powered diagnostic platform can assist endoscopists in identifying esophageal cancer in patients with Barrett’s esophagus."
+    publishedDateTime: 2022-02-10T18:03:00Z
+    webUrl: "https://healthitanalytics.com/news/researchers-study-artificial-intelligence-tool-to-detect-esophageal-cancer"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/researchers-study-artificial-intelligence-tool-to-detect-esophageal-cancer"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/researchers-study-artificial-intelligence-tool-to-detect-esophageal-cancer"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 55
+    images:
+      - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-490245946_edited-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 295
+        isCached: true
   - title: "IIT Madras researchers use AI tools to study methods to produce fuel from biomass"
     excerpt: "AI tools such as Machine Learning (ML) can hasten the modelling processes. The IIT Madras research team used an ML method called Recurrent Neural Networks (RNN) to study the reactions that occur during the conversion of lignocellulosic biomass into energy ..."
     publishedDateTime: 2022-02-09T10:33:00Z

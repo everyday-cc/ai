@@ -3,12 +3,9 @@ category: news
 title: "Fujitsu establishes AI ethics and governance office"
 excerpt: "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,"
 publishedDateTime: 2022-01-31T21:58:00Z
-originalUrl: "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office"
-webUrl: "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office"
+originalUrl: "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office?comment-order=latest"
+webUrl: "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office?comment-order=latest"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: Japan Today
@@ -18,6 +15,6 @@ topics:
   - AI Ethics
   - AI
 
-secured: "lKwERm+5QKavhddRbzoYSHvFW7OEz2NqDo0AOFTNoSjRI1Qn6S2jdJYDrfqyDR2b8p8Od+tOIbuNOUSfXz5/UTW7/2tMllfzj3wRtUlUNCNOsDaOgxTaV47B5/M0YVBqh94i9VU/4Nw4qJyjV6TkcVvYVfRylJta8uV35s2KiF4oJi/LxUw21VDO985tTZFIY5sHiJnc0gbc5eJA4UrofM5AgpWELN9sbzh3I8GS2OGJSNRR1cGVCI+rRNf48MY2MIrYJEhXpia3A2bB1hci7HuslNJ0b5ly45GlPWnOEgRdRVudpRyzgsjQftZ0q/NH4nK4k6nkkFvmg7hjBguV6mML2PRT2eyVnXoGDJKn9xk=;Ko/aEYyciQgtftyMUubqNA=="
+secured: "fWkf0b8i57W6oxaERr5inc9aeDVjNL+3T0Nulx0RdMo+IC7ktSHd6vdi/o8pZtwOatXvAED5xtnoGd9yzc7DvTCpI3/iUeP1XtIrPKDqa4ccxrWB63lFO53yC+G0SZut8CDecNaEl54aHpAUgTM9zgsc8IDxaQ2zAl8vkT7WnX2vU6S+KNzF49AhnHXlrSEs4bkxq5ZXBjYvAR1Xzsv2Qm32hyxEQw3kNewef3CNimYkR0dvCeeG7BzHJCu+HmedECo+LNtAFHN4kiHg8kZSZUn3TphGy1JveaC43Pj9sofGjwQ2HFDLy735RtFaNBYbMzVLdYNIhz6fDlUKi9Iqu0ATBgBqUJgEDmvL7uWEvs8=;d2gmMkwlGqBDIW6bot1OrA=="
 ---
 

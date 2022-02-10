@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI In Diagnostic Imaging Market is Booming Worldwide with GE Healthcare, Canon, Siemens Healthineers"
+    excerpt: "The use of artificial intelligence (AI ... the benefits offered by AI techniques and their wide areas of use has led to the adoption of AI in the healthcare and medical imaging sectors. Several key players in the AI ????in the medical imaging market ..."
+    publishedDateTime: 2022-02-10T17:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-diagnostic-imaging-market-is-booming-worldwide-with-ge-healthcare-canon-siemens-healthineers"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "HymqX6MaKWNxUANjQVHkt1ZwSQscu7grRL5WmuxW9dEGEy4WugUdQeBEKccVvwLMHM0xjzOniuxVsmA39F7A0VCdr8ghv5o7i7m65ghrLDJlCOe3XdIeulawxmJB5y4dax37CFDhKT45pULFtohuWelrYDCW/AVQdtBSpg1LI/1mPQqHMVaMS3Arn5R1GZVsgE9fxsUif99dcz1w+hN77ralN4h+LIWNyU6v0NLY2vh7l+Mgdyd0VQ5MG2MoTPgbmjdFa75hN8eZxwY9svqpo/7GzSApMKR9984crpQ6wmxof7nGegiFGLE5dRg8VZf4AjmRgeJXRC+PonBF3dVVlSAaxM1nYmmQL2U+XAwLanM=;TWDV3zMBlP4cM5SxoLFsPQ=="
 ---

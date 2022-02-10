@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/iit-madras-research
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-madras-researchers-use-ai-tools-to-study-methods-to-produce-fuel-from-biomass/cid/1851190"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Study Artificial Intelligence Tool to Detect Esophageal Cancer"
+    excerpt: "February 10, 2022 - University of Colorado (CU) Cancer Center researchers are assessing whether an artificial intelligence-powered diagnostic platform can assist endoscopists in identifying esophageal cancer in patients with Barrett’s esophagus."
+    publishedDateTime: 2022-02-10T18:03:00Z
+    webUrl: "https://healthitanalytics.com/news/researchers-study-artificial-intelligence-tool-to-detect-esophageal-cancer"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/researchers-study-artificial-intelligence-tool-to-detect-esophageal-cancer"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/researchers-study-artificial-intelligence-tool-to-detect-esophageal-cancer"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 55
+    images:
+      - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-490245946_edited-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 295
+        isCached: true
   - title: "Researchers at IIT-M use AI tools to study production of fuel from biomass"
     excerpt: "Researchers at the Indian Institute of Technology, Madras (IIT-M), on Wednesday said artificial intelligence tools were used to study the production of fuel from biomass. Computer simulations and modelling studies can provide quicker insights that can be used to build the processes and plants for biomass processing,"
     publishedDateTime: 2022-02-09T10:45:00Z

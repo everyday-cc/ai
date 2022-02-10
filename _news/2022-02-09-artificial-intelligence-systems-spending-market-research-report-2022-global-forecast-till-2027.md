@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Healthcare Intellectual Property Landscape Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Healthcare ... improve operational efficiencies and cut-down on both operational and administrative expenses. Today, self-learning algorithms are being used to develop AI that can not only help automate various simple ..."
+    publishedDateTime: 2022-02-10T14:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20234737.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 35
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence in Energy Market 2022: Industry Trends, Demand, Business Growth, Future Scope, Investment Opportunities and Forecast 2029"
     excerpt: "The newly published report is titled, Global \"Artificial Intelligence in Energy Market\" Research Report 2022that"
     publishedDateTime: 2022-02-09T02:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognit
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
 type: article
 quality: 89
-heat: 629
+heat: 659
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IRS Reverses Course on Facial Recognition Service Amid Backlash; Users Can Delete Selfies From ID.Me"
+    excerpt: "Beginning March 1, the ID.me said that anyone who already created an account can delete it, and that it was allowing government agencies using the service to skip the selfie step altogether, CBS News reported. The IRS announced on Monday that they will ..."
+    publishedDateTime: 2022-02-10T17:00:00Z
+    webUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme"
+    ampWebUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 44
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2022-02/irspix.jpg?h=e4b88df5&width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IRS Drops Controversial Facial Recognition Contract"
     excerpt: "The recent controversy was just one of many issues that the IRS has faced in 2022. Last November, the Internal Revenue Service (IRS) announced that it was teaming up with a vendor called ID.me to install a new level of security for tax filings."
     publishedDateTime: 2022-02-09T09:03:00Z
@@ -735,6 +751,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Government agencies will get more verification options after face-recognition backlash"
+    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
+    publishedDateTime: 2022-02-10T15:55:00Z
+    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    type: article
+    provider:
+      name: KCRA
+      domain: kcra.com
+    quality: 36
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
     publishedDateTime: 2022-02-09T19:48:00Z
@@ -787,6 +819,20 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/02/08/9b/18/c0/f5/bb/72/8a/34/00P4y000011p6OsEAI.png"
         width: 272
         height: 270
+        isCached: true
+  - title: "ID.me Announces Options for Selfie Deletion and Identity Verification without Automated Facial Recognition"
+    excerpt: "Today, ID.me announced a new option to verify identity without using automated facial recognition and will make this available to all public sector government partners. “We have listened to the feedback about facial recognition and are making this important change,"
+    publishedDateTime: 2022-02-08T21:53:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-df9830680f7c2d127d0987319ef7e0cf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
     excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."

@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-10T16:53:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-to-witness-robust-expansion-by-2029-ibm-google-microsoft-corporation"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-to-witness-robust-expansion-by-2029-ibm-google-microsoft-corporation"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
@@ -84,6 +85,6 @@ related:
         height: 458
         isCached: true
 
-secured: "3Bz7SDIiFzCBlnfqhy0MUa1vA3gjNtZedZpQQ25YqRiiFvhFW2g7fT3S7jzuUWPB55WFxAGsHhePXvg4fzb3AH4Yz1Rbr6/7r68rNMJt9FNFZEixO6yxPQD5x7Mlw1DXNu6pwx9TDkgrrobo4uEw4GvM2JeSEkdBjg7eg/rro7rqQaBUyq+HycWphI0ANIjXcYDUVZZpkBKWyA5nFwFZRsaqpJX7Ctm4ckN0XuM4PGRyEYcHZNGvQdNNdgU/9bxBUet3zDdDroIc9Z+SOXYxECdJ19VExhWgqkXobnnzLj5mHIMah+UwYIkbZNaRcl3iX90CRyfuO5yl6lpNnSQWp530oG/LrX1gT0eNR9UKWCA=;3PO44ae+kRJr9G0DWJRrPA=="
+secured: "BPhKycKJJmStankCOusx9r9Am8Q+eFmLGrjsieXGB4XXi7gMVR0fwKCR+if4gaKotBBHwvLx4PJ2j6mDv7bGceyGUHIXjwxumbPcczZUwdLq0oftij1pXJ0eeHl0hV7IvXB6/SqbFAnzuPEkgloGA5Gi7DbiasTW55R7+LQE3WC2WNDEzNmYJT73V1YTTPQ7JsVIvkkWrBJswy48hnmqXYFe4zb5d42AI37XrSFVvtIHX3V7CNcFJvponOr3cA6aad8iCenkcmZ4ChYXEu2ZPVOuAkv5ZvYa9qzVDD6Jf2Kiyosm7B+yUmZ1dh7GhCu7mpBQ3dl6uUc/AZwZPZQmyqBZMZud/uopHBX4lUyipWhtUkTIdHWNZQqMI/wPCwFUKpqhcAbvUZpOiSfYYiqEcFG5V+Lq+gtLU3pidury/Kx7k5CohaobUz+Mf1veH9HPwtTME+izkT+agG1jN9kB1u4qakP8XJeokUcI1TRP4D6TKNJ6HKkzPiVWbIn8OZYvNw5yLwXxDnKfwJFQ0znvzQ==;qrI85b+uZMC42q2G4F5e/w=="
 ---
 

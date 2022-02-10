@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Researchers develop artificial connections for damaged nervous systems"
-excerpt: "due to the redirection of information in the neural network, and from an amplification of weak signals provided by the artificial synapses, according to the researchers. 'This innovative approach ..."
-publishedDateTime: 2022-02-06T13:26:00Z
-originalUrl: "https://menafn.com/1103648209/Researchers-develop-artificial-connections-for-damaged-nervous-systems"
-webUrl: "https://menafn.com/1103648209/Researchers-develop-artificial-connections-for-damaged-nervous-systems"
+excerpt: "It turned out that the performance of the treated worms surpassed even those of normal healthy worms, due to the redirection of information in the neural network, and from an amplification of weak signals provided by the artificial synapses, according to ..."
+publishedDateTime: 2022-02-06T15:33:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/researchers-develop-artificial-connections-for-damaged-nervous-systems-367592"
+webUrl: "https://www.tribuneindia.com/news/science-technology/researchers-develop-artificial-connections-for-damaged-nervous-systems-367592"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-02/06/I_805dbimage_story.jpg"
-    width: 400
-    height: 239
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/2/2022_2$largeimg_1497965594.jpg"
+    width: 660
+    height: 371
     isCached: true
 
-secured: "c7yD6lBiOhU05G3E9Q/c9HdGf9QoSPr6kAzb9LVsJU1EbxGVl5ynCNTcnebupBt0ooqwjMbKiErpDvIbx6jxApl7yVSZivODaPQDbELy9aGATUtDP46ha9Nj7RAIpm7u/C9c+hmvfh9w6x1f6gLHnN4dLs1PPPYDcKFhQTRPYFEiMlFIMFPytDPOfOlFVc3qYXpSnzaKiQ3ktv+mnbn3SDtEdlqKcbHbCwfZEbS71Uj1C3X+/tKHpcapXefyQ1tDTyDVsw19Ko/U31ZgNEnpbHuJTsWkgG+b7Wss3uXyiF8WMqQmqtGek0bRjsbc//iuhm8t4pGEGJWw9qjKHE7bJm6Jxu0Lt44nXhlazNoSsVJ1UeD4NOKnOLO3nNgBoU9BvFQySqyI8epI5nKptv6w330STpKKmSzRcVRep3beknfRKpE7IYIK8cVVRgzO/wqBuA7v1BV2jqPDE24H+PCczO+V6CF8eXvPviLa7OtEBjC4DgBFXxziF4o6bf/bjb0bZuKGMcZ2AeeN2+ILMJnlMA==;9+GtPCMEhfa+AQfaOBjOFw=="
+secured: "oiz0bLIOgj1Pixo1DHgOIeh5ZghjlwS58YteXqzQ2CGoemvDF3lVxmPKbCQS+U/WwdnhFpGJOdPoFKCwG+ZEBAH9CxFFksafnwNlcS1nB6D81bG0iNBpDOdzbmIbTkQhVQ0EtOfnVWLTpHQikpp65m2VltotlLfW7TCFVwCSAnIsc/qWTfc1mQLVQppnMdrEMAXM0YtSKnigbZauafoT+Bvi3CI5WAbNFggkEi5f+Vl4WEMjE5Fh7h2EK29e2oIUGYU5HTVxG+4+vQv2ImM8KKOOkYW7Y7z/ckgpwGJeRYrvqjQcxoYmiN/0cq+MmJsW0yhtCDUimDrF+JanEG606ha5oL8Hk6+FMDdqxBQ/NGQ=;5smBvHlOKWaMvqd9bsSAQw=="
 ---
 
