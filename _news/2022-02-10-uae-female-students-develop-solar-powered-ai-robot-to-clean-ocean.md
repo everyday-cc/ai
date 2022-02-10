@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/environment/uae-female-students-develop
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "UAE: Female students develop solar-powered AI robot to clean ocean"
+    excerpt: "Five female students have created a robot that uses Artificial Intelligence (AI) to clean the sea from plastic and other floating and mineral wastes to protect the marine environment. The robot ..."
+    publishedDateTime: 2022-02-10T20:05:00Z
+    webUrl: "https://menafn.com/1103675483/UAE-Female-students-develop-solar-powered-AI-robot-to-clean-ocean"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/10/KT_3accfimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Abu Dhabi University students develop robot to clean sea"
     excerpt: "A DIP controller is also used to ensure that the robot does not deviate from its path, using artificial intelligence, which enables the robot to detect and track waste in the marine environment. Abu Dhabi University (ADU) has announced that Emirates Global ..."
     publishedDateTime: 2022-02-08T16:27:00Z

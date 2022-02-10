@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-le
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Deep Instinct Welcomes Two New Cybersecurity Experts to Executive Leadership Team"
+    excerpt: "NEW YORK, Feb. 10, 2022 /PRNewswire/ -- Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced the addition of two recognized security experts to its executive leadership team. Yariv Fishman joins as Vice ..."
+    publishedDateTime: 2022-02-10T20:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deep-instinct-welcomes-two-new-cybersecurity-experts-executive-/2022/02/10/9543597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "pAofsofagCBDxsinMm6UbAA1WyxdSkQzpBHZblptIAAkox2ph2r5IyT74H5I/2WZgRIr9RKUVTaXf55Cy8J1hVnCxntElg8tZgenwSDrWOyNc6N6vp8jv68zQIudpF0pLnW+BiLpvDwPpUIXGDxYOX7GdDWMlTnYIA9s1WmZVVr6+rf7Bq/YQox6JwuvO7XnpPNyq6qFxqfcvabFK5DsoEnvilFTwLYmM4HnibtNPRRr0qMNAEMb1PeM1ZR83dHl+E/JML4GaNzCtvXYQClUp7Kb916WJsv8SJ9d4eu7vNbAuPTrkt86E0aM+V55SAs3qSXTiDLbz+cd1KaG72FWf/dOOqdrv2VBtFDwmIbSvasZe3qtlUYbbJyoUYvj/iBTPjKi5KMa2gc3KIXj7YOoTcv9jIW10Qd5L/yU/+rF4zIU2ckKRvzxvuWIOIrqZo9Sp+dj+MnrHtnYQu/Lq+h68VA8TpDqxVglfJYrN5IEVSvxcxVqZcM+48zt2CVTcx6Lihftfo6x2mb+vXsx3YzFkw==;dxF6Zsl8lGX7uqq9MqTdLA=="
 ---

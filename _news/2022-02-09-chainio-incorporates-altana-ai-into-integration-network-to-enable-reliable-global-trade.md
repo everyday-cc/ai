@@ -82,6 +82,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Race in Drug Discovery Intensifies as Insilico Medicine Brings AI-generated Molecule To First-in-human Trial"
+    excerpt: "A Hong Kong-based company applying a state-of-the-art artificial intelligence (AI) platform for drug discovery, Insilico Medicine, recently announced the start of a first-in-human microdose trial of ISM001-055 — a potentially first-in-class small ..."
+    publishedDateTime: 2022-02-10T19:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-race-drug-discovery-intensifies-insilico-medicine-brings-buvailo"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEI19qtw2bqtQ/article-cover_image-shrink_600_2000/0/1644519322214?e=1649894400&v=beta&t=TIFsT1ASRMGJn_avodEfigGMPkImNHlv4p4uzIu1ybE"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "eSUeGfHeMEF3aTxdY8viqD1lcbsFQWUSLHaNmFvedxbSJz+C+95KmZ9JbHFqXLDjrca3QwUrBMnMX9JSlL1dsvkpHExYsK/mN83RrheBZU6hxDRhRbCj/8XfQJm8Mmk4SCKtbwo+xovvSBOYdZco3/W6+4DWM8/H+GCYVwycMitL5l5geGgvsFFkM/4XjjirL71tDyz6s7+vzueASmvq1GNshcDf6MlrmTw06tZX1xVsG6PYPmxx3+GH1tjG3dme0zV6PSyddhHvbRvp41K726GCPQELR1mLPm0h1Q0vNRBMrPv3lUOxNXAeQH8A8t8UfWZ+5xv9uq3J6mzf2mjP9tb56Z85HmjrlFG9mdxFH41CTMB7TA3axgJ6awONJLjFd60RS5HGlDI7DTlwJ/OxTGwdKltrAv1AVxzGwlSgki+vAcwhcr01EIbpE61UqxgwZGfcNHzs95mVWG9OWDS1uKh8XtAiJ9xsTsjotf3E4+NWyD0UDHdcd3vdDyk/ohvcx+p+Az2euG2KieumVislDg==;Hlu+HDWHD+gm7o0dYxc2FQ=="
 ---

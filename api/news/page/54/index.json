@@ -2,6 +2,127 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
+      "title": "Computer Vision Scientist Salary in Rockville, UT",
+      "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
+      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheLadders.com",
+        "domain": "theladders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft.md",
+      "title": "AI in Social Media Market by Product, Applications, Geographic and Key Players: Google, Facebook, Microsoft",
+      "excerpt": "Instagram (owned by Facebook) uses AI to identify visuals. The AI in Social Media Market research report provides a thorough and comprehensive analysis of the global Industry. It contains ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-in-Social-Media.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-avodahmeds-human-centered-artificial-intelligence-focuses-on-primary-care-in-2022.md",
+      "title": "AvodahMed’s Human-Centered Artificial Intelligence Focuses on Primary Care in 2022",
+      "excerpt": "With the arrival of 2022 imminent, Avodah, a transformative SaaS company powering artificial intelligence (AI) capabilities, and its healthcare division AvodahMed are using new capital to extend its digital health services to primary care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/avodahmed-s-human-centered-artificial-intelligence-focuses-on-primary-care-in-2022/article_f467a092-1dcf-50e5-96a7-cc7506c6c4ec.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/avodahmed-s-human-centered-artificial-intelligence-focuses-on-primary-care-in-2022/article_f467a092-1dcf-50e5-96a7-cc7506c6c4ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-ai-and-advance-machine-learning-in-bfsi-market-global-report-2021-2030-featuring-leading-players-cisco-sap-microsoft-and-ibm-among-others.md",
       "title": "AI and Advance Machine Learning in BFSI Market Global Report 2021-2030 Featuring Leading Players - Cisco, SAP, Microsoft and IBM Among Others - ResearchAndMarkets.com",
       "excerpt": "In addition, an increase in investment by BFSI companies in AI and machine learning and a rise in customer preferences for personalized financial services boost the growth of the market across the ...",
@@ -975,144 +1096,6 @@
       "provider": {
         "name": "UMass Lowell",
         "domain": "uml.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-artificial-intelligence-in-accounting-market-seeking-excellent-growth-xero-appzen-kpmg-botkeeper.md",
-      "title": "Artificial Intelligence in Accounting Market Seeking Excellent Growth | Xero, AppZen, KPMG, Botkeeper",
-      "excerpt": "Artificial Intelligence in Accounting market size is expected to grow at a compound annual growth rate of xx% for the forecast period of 2021 to 2028. Market IntelliX report on Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103396711/Artificial-Intelligence-in-Accounting-Market-Seeking-Excellent-Growth-Xero-AppZen-KPMG-Botkeeper",
-      "originalUrl": "https://menafn.com/1103396711/Artificial-Intelligence-in-Accounting-Market-Seeking-Excellent-Growth-Xero-AppZen-KPMG-Botkeeper",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-12/19/i_c9ae6fa8-9_Image_In_Body.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content.md",
-      "title": "Facebook parent Meta uses AI to tackle new types of harmful content",
-      "excerpt": "Meta, formerly known as Facebook, said Wednesday it has created artificial intelligence technology ... that's being pushed at the forefront of research.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/w0oWTJaKxo5pqALFnH32KUwNH-w=/1200x630/2021/12/07/3116a286-fdac-435c-bb72-912eea99533a/gettyimages-1349988105.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
-      "publishedDateTime": "2021-12-18T22:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-the-top-10-computer-vision-papers-of-2021.md",
-      "title": "The Top 10 Computer Vision Papers of 2021",
-      "excerpt": "A curated list of the top 10 computer vision papers in 2021 with video demos, articles, code and paper reference. - top-10-cv-papers-2021/README.md at main · louisfb01/top-10-cv-papers-2021",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/louisfb01/top-10-cv-papers-2021/blob/main/README.md",
-      "originalUrl": "https://github.com/louisfb01/top-10-cv-papers-2021/blob/main/README.md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/322b60a1434cfb2f63fb8e3883041d60a569aa8f4a49791b59b3cc884a174b96/louisfb01/top-10-cv-papers-2021",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
         "images": null,
         "publishers": null,
         "authors": null

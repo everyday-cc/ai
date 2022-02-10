@@ -84,6 +84,15 @@ related:
         width: 1194
         height: 627
         isCached: true
+  - title: "Deep Instinct Welcomes Two New Cybersecurity Experts to Executive Leadership Team"
+    excerpt: "NEW YORK, Feb. 10, 2022 /PRNewswire/ -- Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced the addition of two recognized security experts to its executive leadership team. Yariv Fishman joins as Vice ..."
+    publishedDateTime: 2022-02-10T20:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deep-instinct-welcomes-two-new-cybersecurity-experts-executive-/2022/02/10/9543597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "duHZ/RbitjuURYVampqBuwmbV69DhsgVol+7YVAdm52Rbx1dZRxNb3/VLxE8of3ujic6V9R32G7eWHm1r3ugfHLKoQXP+qLsBrunupZtr77iecZzeN2n0zHutuEljlQOMhIhCQDmI7YyNT6NXRlFt+FIL3JKNn3D+8JXW8vLNApsFUyaYZQgp/qYeo6gC3ISFulQNmKI/9F+3hifDuUrcicADt2BXtXgLpob3RqlAkrcG03ellmt+D2w9KGW4GkQxFr0a9/tIgEWZ2KR8Ex0cervpbhaQtVAzetUsrUohrJ4yZ/QmIM5x5DMHpiG6APE2+PZDrcGbyfmO9935LAEW7PBw1bPEunD8CBl5mS4EVU=;eryDwXMQn0UfF3erUE0i6Q=="
 ---

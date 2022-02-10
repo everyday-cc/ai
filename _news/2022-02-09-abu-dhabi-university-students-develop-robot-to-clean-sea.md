@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UAE: Female students develop solar-powered AI robot to clean ocean"
+    excerpt: "Five female students have created a robot that uses Artificial Intelligence (AI) to clean the sea from plastic and other floating and mineral wastes to protect the marine environment. The robot ..."
+    publishedDateTime: 2022-02-10T20:05:00Z
+    webUrl: "https://menafn.com/1103675483/UAE-Female-students-develop-solar-powered-AI-robot-to-clean-ocean"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/10/KT_3accfimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "jlsh/rY1Re1SVrQjXRRJx/oS0YqP/OeFuDmW8DoWbTXsbiNIw806tBntsA3z4nXCIZAGZmef49t10NPRsG6W0Z2pq9EkSL4rrzFyjZ4oafiGC0wBKqk2aiJJLZj+mZbAXB+Y9p70Z0W/Oz57PsH4fHR9z5aqX0kkRXucgY4TZVOs92zfue0SOwm7+hy0RJ4TR0oKakbKCzuYpM8IwVWQEcW2ZzljMEeN68Cds8ug83onus4Mkj+NM2iKNzlDM3plooTAeWQTJBtCl1bSQzz01xXhCBOnmWB/zRMdNjAQ2jO35EOV3NTS7+rJIQECgpSSuIVtSzJtVPwRpgtx+Sj2ePiTxf+M9wl0H9XGvc/lRbc=;/XotwfS2WFzyUbBm6tndDA=="
 ---

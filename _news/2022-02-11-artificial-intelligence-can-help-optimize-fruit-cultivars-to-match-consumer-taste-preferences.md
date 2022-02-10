@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-02-artificial-intelligence-optimize-fruit-cu
 ampWebUrl: "https://phys.org/news/2022-02-artificial-intelligence-optimize-fruit-cultivars.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-artificial-intelligence-optimize-fruit-cultivars.amp"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/fruit-flavors.jpg"

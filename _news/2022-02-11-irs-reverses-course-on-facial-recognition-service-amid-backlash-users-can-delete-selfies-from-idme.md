@@ -396,6 +396,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "ID.me to end facial recognition requirement for government agencies"
+    excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
+    publishedDateTime: 2022-02-09T23:58:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "After criticism, IRS to end use of facial recognition to identify taxpayers"
     excerpt: "WASHINGTON (AP) — The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy ..."
     publishedDateTime: 2022-02-07T20:43:00Z
@@ -411,6 +427,22 @@ related:
       - url: "https://whdh.com/wp-content/uploads/sites/3/2021/06/AP21170075851685.jpg?quality=60&strip=color&w=1024"
         width: 1024
         height: 663
+        isCached: true
+  - title: "Privacy Tip #318 – IRS Abandons Use of Facial Recognition for New Accounts"
+    excerpt: "The Internal Revenue Service previously announced in November 2021, that it would use facial recognition technology offered by ID.me to authenticate taxpayers before using any online services the IRS provides, including viewing accounts, making online ..."
+    publishedDateTime: 2022-02-10T20:14:00Z
+    webUrl: "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts"
+    ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "IRS halts plan to require facial recognition for logging in to user accounts"
     excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash from lawmakers and privacy groups.The IRS said in a statement ..."
@@ -863,6 +895,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "3Kdoe9w+SA5eca9nB1BQOW2MPnXgqikM4Xwjs811RaxXE3L8OF+ySzGrHqemRg5Klsnm+socybRRXid91zFS0n/9NNY2ChuwEiVFlCXVQtEogL9EAbefEQhW8rrf0YU7PhQ5WLlDu/mb+GI88IB+2AHEKD19Wj42SxSk2EHZMpE5gevdQjGUc0xG71VSMfurH6E09ysrxUxSGYkRFd36OPHOMNo6wIkljJ4mtLHW10BZMx2BoLB4XWrr51C0F4A1Tna8XVAAEj2CidPg7obDrFermTcqI5DyrjaY0bhdG0I1JtgUtOMWGNGy2H1RzUg+mnen+tkOb0nJhDeVdFYiRJk7J+b697/2RN0cM0Hafyo=;NBCnoL3rkqpnSgsHq6nNCA=="
+secured: "OcS32sJneydTqIkvrPi87goCizIaq9WjLjdjcTm4SqShipICLTUGwHxNtiyDZ0BYRjWkMgc3yucjjEDDy/4qcLt9Xwr50/GWl0Fmb3MdKbm/kOwIOvfBePZjCboxZf2t3c5dZ/qjCCgib6GkL8mGpSlFtS/aGAW5vZFS8Wq5VWxP0iTDLwxTRzYEmQ24fwrby2WaIqX4lv8xCt3Bo+Pp6WAflx8UjXxxX5wvknwl9OvrOpKf1jtI0gpClRWhG4UhiYfVUsIv3xO8NzrLCfO2YmOuCMDzKLEJAmRLnWFs4+TXc61nmtKo1GYp0JKzwfM4M/BSrmPHaT4KyjoaBw5mTj+WfXy1xRF78FmoatUlUpmq1g0/eHZsER/ruAfHbcEV5do71TN/rV2TpSuDweTkpStfldRRDHXxkNXxTKHYvy9GbZgEC0r4RH4Hj3RNLmjLIu4HOQczBk0xIm35slkQxWNEB14XmjqO2EVvZ2468H/vEoAAtgX4yd/H9FMG0Pe3jyCgwvNbXmbRHNG6040nkg==;+Ps2waGfBPuD73rQO80NRg=="
 ---
 

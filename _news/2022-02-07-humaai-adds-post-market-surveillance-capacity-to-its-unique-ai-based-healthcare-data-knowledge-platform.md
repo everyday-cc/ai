@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Human Immortality and Artificial Intelligence"
+    excerpt: "Still, others propose using a certain type of bacteria to keep old age at bay. Instead of fearing artificial intelligence as the harbinger of humanity’s demise, we need to use AI to defeat aging. Is human immortality to be found in the hands of AI?"
+    publishedDateTime: 2022-02-10T19:24:00Z
+    webUrl: "https://www.linkedin.com/pulse/human-immortality-artificial-intelligence-prof-dr-daniel-cebo"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
+        width: 1079
+        height: 720
+        isCached: true
   - title: "Atlanta-based AI marketing platform partners with cannabis software company"
     excerpt: "Standard Insights, an Atlanta-based AI marketing platform, now has an integrated partnership with cannabis software company Flowhub to help their dispensaries improve data literacy. Of the over 80 point-of-sale systems currently used in the cannabis ..."
     publishedDateTime: 2022-02-09T20:47:00Z
