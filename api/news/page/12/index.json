@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-27-global-artificial-intelligence-market-growing-at-cagr-4676-expected-to-reach-187231-million-during-forecast-period-2022-2025.md",
+      "title": "Global Artificial Intelligence Market Growing at CAGR 46.76% (Expected to Reach 187231 Million) During Forecast Period 2022-2025",
+      "excerpt": "Jan 27, 2022 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.” Global “Artificial Intelligence Market” (2022-2025) research provides an outline of the business with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-growing-at-cagr-4676-expected-to-reach-187231-million-during-forecast-period-2022-2025-2022-01-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-growing-at-cagr-4676-expected-to-reach-187231-million-during-forecast-period-2022-2025-2022-01-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-idme-says-it-uses-more-powerful-facial-recognition-than-previously-claimed.md",
       "title": "ID.me says it uses more powerful facial recognition than previously claimed",
       "excerpt": "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro",
@@ -1146,39 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-how-to-stand-out-as-a-fashion-ai-startup.md",
-      "title": "How to stand out as a fashion AI startup",
-      "excerpt": "Adeptmind, the emerging AI and machine learning tech startup backed by Ulta Beauty, is providing its technology to over 400 retailers, shopping malls and brand clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup",
-      "originalUrl": "https://www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "voguebusiness",
-        "domain": "voguebusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

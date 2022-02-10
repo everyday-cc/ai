@@ -14,7 +14,7 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "n6Yn/Q98Chju2e2r1ei6q8fCb9tL8zlU0NwKgZCVGvBV1KsqwUT9Lj9b1+X5p8hXdyX92lmVIcQXiHZlfzEPR27ws996B5WgGCdgemR4QIaK0IRIAjYojpuWOTpnM/VI1Pq/rxUVVI9NAoHcemc93/Gey5pdd+H/4zYCyuaF8Scxtmg1HBw1HqgVPyU21NMm3tk7hJ8UD2LL6imJDAU9slkF4nmq7ExU9Z+u0lV+Vs5zNe7LOF+F2BFlRv/X7nsQSwmqByISrFaMNxiFTDJlNFZ27Hd7lCrIRpCcIK1KKKRQqg4C5X9fLqpA890vtlamAaBlhZh/opZri2CYokYPGPrQCjC2lF9Sk6QrCZNKTPU=;e4WsJutf5zOWnAtAWz7Bkg=="
+secured: "WApoN0NJRbvPL2ic3auKH8TCAG+rMFgsBdJ6RYR+GjYbkYnYtc/+OdlRNzPvUVMU84FEuZ0Vr0C0n+Vte7Fpl1jLIj1G84aWQHaGmf0m0rYOk5lHq87TlA2I36Q0s4yZhxUN+Uw6vmnS39p6dA5fZGcaCctWN8KK/zrm70if1Gh4sY0dA7/IuJRxNxEdWXHJ4lbDro7ULR4I36s1lUbk/3XUC6JNfmcuenr+yHT+lZL8xDerzSDqwsU44tPGy0v7l+3Be72EtXKXCpIhP8Rv/Xwfy3j8E+26njKEIOvHx0mDsbZBf4IbG23yra7YktKc8AkFC3U4GBhxXmWIRORqA5gEL5sxaXXZJ9zhI/e5ZQM=;33qkVZs7xRlMVgNL74hwcw=="
 ---
 

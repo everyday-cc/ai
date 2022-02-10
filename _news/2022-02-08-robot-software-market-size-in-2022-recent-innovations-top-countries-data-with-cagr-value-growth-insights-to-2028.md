@@ -67,20 +67,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "United States Artificial Intelligence Market Size, Share, Analysis, Industry Growth and Forecast 2026"
-    excerpt: "Artificial intelligence has several benefits, including better adaptability, higher time-efficiency, improved accuracy, enhanced productivity, etc. As a result, it is used across various sectors, such as trade, automobile, healthcare, construction ..."
-    publishedDateTime: 2022-02-07T06:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
-        width: 1600
-        height: 1068
-        isCached: true
   - title: "Artificial Intelligence Systems Spending Market Research Report 2022 – Global Forecast till 2027"
     excerpt: "The global artificial intelligence systems spending market is estimated ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping. However, concerns over privacy, bias ..."
     publishedDateTime: 2022-02-08T23:59:00Z
@@ -92,34 +78,6 @@ related:
     quality: 26
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Mexican-cultural-treasures-AFP-1L-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global facial recognition market to grow with a CAGR of 17."
-    publishedDateTime: 2022-02-09T06:52:00Z
-    webUrl: "https://menafn.com/1103662399/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324610"
-        width: 318
-        height: 250
-        isCached: true
-  - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
-    excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
-    publishedDateTime: 2022-02-09T08:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
         width: 600
         height: 337
         isCached: true

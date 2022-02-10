@@ -35,6 +35,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Tech Mahindra Partners with Yellow.ai to Transform Enterprise Customer Experiences with Conversational AI"
+    excerpt: "Yellow.ai is the world's leading next-gen Total Experience ... the company has raised more than $102M from blue-chip investors and has offices across six countries. Tech Mahindra offers innovative ..."
+    publishedDateTime: 2022-02-10T06:24:00Z
+    webUrl: "https://menafn.com/1103668549/Tech-Mahindra-Partners-with-Yellowai-to-Transform-Enterprise-Customer-Experiences-with-Conversational-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/10/M_1f56dimage_story.jpg"
+        width: 696
+        height: 348
+        isCached: true
   - title: "Kore.ai Named a Leader in 2022 GartnerÂ® Magic Quadrantâ„¢ for Enterprise Conversational AI Platforms"
     excerpt: "ORLANDO, Fla., Feb. 2, 2022 /PRNewswire/ -- Kore.ai, a top conversational AI software platform and solutions provider, today announced that the company has been named a \"Leader\" in the first-ever ..."
     publishedDateTime: 2022-02-06T18:36:00Z

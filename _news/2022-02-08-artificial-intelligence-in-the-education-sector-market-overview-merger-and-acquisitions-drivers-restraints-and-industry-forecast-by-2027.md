@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-e
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
-    publishedDateTime: 2022-02-08T12:40:00Z
-    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+  - title: "AI in Social Media Market Sales Revenue, Growth Factors, Future Trends, and Demand by Forecast to 2027 | COVID-19 Effects"
+    excerpt: "These data are needed to be aligned and managed properly. Therefore, the demand to manage and secure social media data is propelling the use of AI. This has led to the rise in the adoption of AI technologies in social media, and AI-based smartphones are ..."
+    publishedDateTime: 2022-02-09T08:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-sales-revenue-growth-factors-future-trends-and-demand-by-forecast-to-2027-covid-19-effects"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
-        width: 375
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Augmented Reality & Virtual Reality Market Size for Education Industry Estimated to Reach $22.4 Billion by 2027"
+    excerpt: "Increasing penetration of interactive learning process for effective visualization of subjects by leveraging digital age technologies such as Artificial Intelligence (AI), Machine Learning ... storage to Microsoft’s Azure cloud, which in turn has ..."
+    publishedDateTime: 2022-02-08T23:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/augmented-reality-virtual-reality-market-size-for-education-industry-estimated-to-reach-22-4-billion-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "WIfUiZpQx28vjas9WxzitLAQyLCXeyjd1IBdWaEPkB5/g9B3UmSIJvx6rQzPiV72nIf1MR1GPibYxKHw23wTcRCAG5N5mYew6TtLprpHdts6+nlnpCKwNVAP9eeqgnFnNBEYe4ErFTEB9IkfcbD7PqTT0WxWf0y8PHkscL537L2S2/6VsRXNtDfVENwQo1c5wrI70IuaFPIPo6/5jkcsxqvgKdw5HFajSKZEFtBkIZYlZ2n1D+jsJeDkH9riumZqhEbTn14XxKEdgcWeM5zW/gt9tr8MN22aL2tRy2wiP6cPUZEOGiBuI+/Q8V7TpZZGBBi1/fGJb19z5RJ6v34hAWj3WjFsQvpz0dSJshTG3so=;WXBHnD5UsLWtBCVKP1nMfw=="

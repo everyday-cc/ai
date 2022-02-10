@@ -26,22 +26,6 @@ images:
     height: 1281
     isCached: true
 
-related:
-  - title: "Augmented Reality & Virtual Reality Market Size for Education Industry Estimated to Reach $22.4 Billion by 2027"
-    excerpt: "Increasing penetration of interactive learning process for effective visualization of subjects by leveraging digital age technologies such as Artificial Intelligence (AI), Machine Learning ... storage to Microsoft’s Azure cloud, which in turn has ..."
-    publishedDateTime: 2022-02-08T23:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/augmented-reality-virtual-reality-market-size-for-education-industry-estimated-to-reach-22-4-billion-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "OIJ9vck/g98aRazJdU5jUk8RCUCZFwkTw7CWS4PGiw64Tg/GLSeR3g5wedy1IzFJiZKuOfrFkkg7vtEfZQLmSXB5zUW1nBYiW1pD4VYrXQx6TyqyaVJ1KikJYpmOrZqGGcWkunUGblzTZlOuOsNW5C5c10aZA2qmz34Jdf+U3GqSRDwos7tBkEMIxQLiHPZXPtG2O2oTDKTCTU4ndE0VDiZ+logQrabReocMzpO13iTdi/sY3KAl3BdUrgZq/oQRANBC+AXrB5E4Lb7We1ey/EOzYj1Hn7EI990kA+GgERUQNyOhbHc2q3wBezDiShaEbZqy9+cO+Zvm91xIH3ahha4IDHMEsDU9noCNA4IGhvYF3nwCftsAYfpDs25gkhkLUj2Ps9TJRqI6v11Z8UHmp7L5s0/+N+uYtH5T7UzdI48qvCN+3pu4foLWbCLoBvyDjuYXqIPXMTL3mTCGsX4Qq7cUzTGPKUi4MM3Alrmzi0TOXQwbeP04C0v90l1soBbe4zWsOLdtDKgVVXMi9lZyvA==;g1upADsAIUeIBNksErRAaA=="
 ---
 

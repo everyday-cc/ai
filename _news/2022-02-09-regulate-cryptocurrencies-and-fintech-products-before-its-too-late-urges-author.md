@@ -232,6 +232,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
+    excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
+    publishedDateTime: 2022-02-10T05:44:00Z
+    webUrl: "https://www.irishtimes.com/sponsored/innovation-partner-profiles/helping-the-fintech-corridor-power-ahead-with-joined-up-thinking-1.4796986"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "+xcL6+UR8eCjpPeFkPRr50HXhxHg/jFHPhaoopt7YIKc1x+YQjRQ0O2esB8aVLbzS1NRYQnBQ4C78pqO6S/Y+Rt8HFz8t/nSmuQ19yK0NzIPB9idY+vVaQcLzTv9dz/2a0ZcWmBIauBg8A7mFB6TQXy46ZBvahwUBY3M8XQ3ytkNM8+ZdcmbhFwbJ8MzjwCg4ZcpRdMezfMqSNfGVPTXz11rcrhfsfSPI6l9/jjv8l7roDfRBVKlpcgGzwKYMN8ZkChsAgq1/8/tedcKPHw3MM8Jkf72BDPnRv2kPHQBsZuab7JNt7iXzUSrlIeVylYpT5tMRjvM7EJFBWQdScrgnBIZAdFk7dwJXBWRk65QySyLCNlttsm0HrMDpKIs3veS4kfYvfhGeTWwviG9xCSORhmyg2CyDrFs5Oa/1jpEBw2sb8FJLYprPTk1WpxLOTUZ+icm9bNuX9qoVUYHB5CfPR/BJIDuBJ/L0p/hDV0LeKMxzFPlE7pBQ1eix30ft0wgyKYfCff30nxOeFMg1oQSZw==;DTHOV+QttJ62gS0MWvmzlA=="
 ---

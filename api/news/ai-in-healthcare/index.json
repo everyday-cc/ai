@@ -231,25 +231,43 @@
     {
       "path": "_news/2022-02-05-whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment.md",
       "title": "What's Next for Healthcare AI After IBM's Watson Health Disappointment?",
-      "excerpt": "But IBM, of course, a technology giant, but IBM has been involved quite a bit in healthcare in recent years. A few years ago, the company seemed to be on to something really big with its Watson Health artificial intelligence system. But IBM is throwing in ...",
+      "excerpt": "IBM is selling its Watson Health unit to a private equity firm. The artificial intelligence system didn't achieve as much success in healthcare as some hoped it would. AI still has tremendous opportunities in healthcare, though, especially in drug development.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment",
-      "originalUrl": "https://www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment",
+      "webUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
+      "originalUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/664140/gettyimages-1298315191.jpg",
+          "width": 3497,
+          "height": 1968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment?amp",
-      "publishedDateTime": "2022-02-05T04:05:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-05T04:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -258,9 +276,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "IBM AI",
         "AI",
-        "IBM AI"
+        "AI in Healthcare"
       ]
     },
     {
@@ -616,49 +634,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
-      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
-      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
-      "publishedDateTime": "2022-01-27T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1317,6 +1292,50 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales.md",
+      "title": "With surge of online buying, retailers now looking to artificial intelligence to help boost sales",
+      "excerpt": "Retailers are looking at new ways to boost their bottom lines, especially after a disappointing holiday season where sales fell nearly 2 percent in December. To help",
+      "sourceUrl": null,
+      "webUrl": "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/",
+      "originalUrl": "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wnct.com/wp-content/uploads/sites/99/2022/01/shopping.jpg?w=1280",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/",
+      "cdnAmpWebUrl": "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/",
+      "publishedDateTime": "2022-01-18T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WNCT",
+        "domain": "wnct.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -1,23 +1,31 @@
 ---
 category: news
 title: "What's Next for Healthcare AI After IBM's Watson Health Disappointment?"
-excerpt: "But IBM, of course, a technology giant, but IBM has been involved quite a bit in healthcare in recent years. A few years ago, the company seemed to be on to something really big with its Watson Health artificial intelligence system. But IBM is throwing in ..."
-publishedDateTime: 2022-02-05T12:05:00Z
-originalUrl: "https://www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment"
-webUrl: "https://www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment"
-ampWebUrl: "https://www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment?amp"
+excerpt: "IBM is selling its Watson Health unit to a private equity firm. The artificial intelligence system didn't achieve as much success in healthcare as some hoped it would. AI still has tremendous opportunities in healthcare, though, especially in drug development."
+publishedDateTime: 2022-02-05T12:04:00Z
+originalUrl: "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/"
+webUrl: "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
-  - AI
   - IBM AI
+  - AI
+  - AI in Healthcare
 
-secured: "HcyQkowMgzZuHs+syD6m39KnLL8yq2QkZ7yUSd3EIZrkmiVaHmEUIHK25RjFF5frLUInsFyAyVbOJ6WmYlpdCNjw7ye69QsM24Uujjq7ewC0Y1aBOJasTn/DhXgVvIcGlJQN2s0OXqqmHAZd/6/2QFuYqzDbzbkZ0BoKP2ceDF+c0FbDKXIAnEeXMh0A3o2abbyu3d9aqVQMnrWsYNyTmQmjDeHqHLqvqEkwnEkA1Nn2hYUs03c5ZYqxhBWI7Ow2TQcoYjxa7hDKBwpru2Hhp2GiiJpY3j9cuLw4PjyrskLekqWVpel2n6p2VAdzmWN44sfBHxXeTA9BkkyMp8FIKglW2OKmo3eicjRppLdoKIw=;pNhoXAFudZPbsI6hGzVFbQ=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/664140/gettyimages-1298315191.jpg"
+    width: 3497
+    height: 1968
+    isCached: true
+
+secured: "BmgB7NsgDnall6xy6nhRt2kf+Tk58993yPUn4UFB5hk7kpjFq/i3emgNb8W+kwadTwwC9KSnn8Z2rT2jLbEcHzWFbFMkNr44MlOwJpNADVNmO7Wzy+0IFn5o/3Lk29/HJfl9Qgzkli8rU87Cp0m3CRY1bEoXH1sQyFLgLXkc5UhiJgS8il/vM1snkkc5043+P9ngFG+J5+xhqTYnsLI3srIn0LrB8/zFIPe+LmdjHxdl43pqNSSnl4UpH1YOxHxXZTu3iVDK9Y96Z/BUZoRGekTpDXyPhPBubDTSXg2m9KgC4T49xDk0CEL1pHrFEiiQ6+WgTh6zC204wIA6ekbNSiK/D4rohQD4sP77gEEh7wc=;JQhumiPTG/BSwdLHsJqLMg=="
 ---
 

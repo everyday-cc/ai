@@ -221,6 +221,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
+    excerpt: "The Gran Turismo Sophy project used more than 1,000 PlayStation 4 consoles to train an AI bot that Sony claims is smart enough to adopt optimal racing lines and takeover maneuvers while also respecting other racers and the etiquette of competition."
+    publishedDateTime: 2022-02-10T06:54:00Z
+    webUrl: "https://www.bloombergquint.com/business/sony-uses-1-000-playstations-to-train-gran-turismo-ai-champion"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
     excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."
     publishedDateTime: 2022-02-07T16:48:00Z
@@ -273,6 +287,6 @@ related:
         height: 720
         isCached: true
 
-secured: "DE2ELaVmdK1JNC90BVKhcf0D0/gv5QdiUZTeRXe2wnr4kLazEjAn5dZiCLaPQld25sUvK2HGDwNMbg7dvkGkljv/xxD+Huwi5BVqC6GQFVfHqP5k18HonShwqAET8C62puFDwg2Xwc9WyyELI4BMCH3GcoCUUxLHITRFGSfrgdxSvjJ3m9i2R2exWhSAJIhyd64tBpb+sLwQZhQ3/sQ9UshJnIT8cU+JL2ThVmAVUrp0tC948sfvWTYRxUqp9vjEeMIywvek1cYrKkoWZsNBjmmBVCDNFe/8JHr6Gmep0yDBtFdaJYzS1VPnPXd6ljcJv0deRg8qNX8Zdk9swvaJSq3ZLAqNYLGs7vdRCwtH8U8=;P8eOZQYv0yMv7tAGJH3Nuw=="
+secured: "J545M+b6olDN+EKMejGJD1tWg68yNnpGcfGxwvLUirVaLfPyhsmHTFDtfoJ76zapnYQ1bzXT1e5tSxrW95+/2P6FAtfqUAcOwbJQwREoJwQcmXFWSvI+oHtCfm/swUG3kXMQXkKeHfAMjykpE4ZJMkASZVBQMR4k6/Un7K4AGjnu87vVWU8Zm3ZXRBMfoNbW9Ae8PTdCWcIksm+JRkVIku5fpKWJZtUn8YbFGT5JXZ6kBoY+0VanXmpYFmYkjGwFbOwqUB4Zf8krN2Eb19jEoQW03SycetmKyZskmv5ruwuaKw2uRKd1XBYRoSMids1Xm8AVS1IkXcp4DcMyvng699xZ3CaCgXnoaV6Hw0F+6WMP9DbYn9T8kjH2W7iSo+2jSZ/DF1HFv0x4z2b7PyCjukmMAxWP3Ky6vsX4gQ1wmV6qnq41wq+GTOPZWe8psLFbg5aoLLghuxHlfMqJpgFYVw4R2PehvuUFcLemA6FIRSi4S40zTRD0Vszsq9IR/6HZxSqTOeYCyRX2AzfIdgNr+A==;Cf+rkp//DK3UOMhSEdl6ZA=="
 ---
 

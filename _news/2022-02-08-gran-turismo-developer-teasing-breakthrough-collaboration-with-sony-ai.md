@@ -217,6 +217,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
+    excerpt: "The Gran Turismo Sophy project used more than 1,000 PlayStation 4 consoles to train an AI bot that Sony claims is smart enough to adopt optimal racing lines and takeover maneuvers while also respecting other racers and the etiquette of competition."
+    publishedDateTime: 2022-02-10T06:54:00Z
+    webUrl: "https://www.bloombergquint.com/business/sony-uses-1-000-playstations-to-train-gran-turismo-ai-champion"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
     excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."
     publishedDateTime: 2022-02-07T16:48:00Z

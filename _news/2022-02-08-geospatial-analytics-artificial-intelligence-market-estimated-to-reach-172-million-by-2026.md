@@ -24,28 +24,101 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Drug Discovery Market Estimated To Experience a Hike in Growth By 2021-2031"
-    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
-    publishedDateTime: 2022-02-09T10:37:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
+  - title: "AI in Computer Vision Market Size, Competition Weakness and Thorough Analysis from 2019 to 2028"
+    excerpt: "An estimated 51.4% of the global population or 4 billion people was using internet by the end of 2019 – International Telecommunication Union (ITU"
+    publishedDateTime: 2022-02-10T05:52:00Z
+    webUrl: "https://menafn.com/1103668393/AI-in-Computer-Vision-Market-Size-Competition-Weakness-and-Thorough-Analysis-from-2019-to-2028"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 32
-  - title: "AI in Medical Diagnostics Market Expected To Witness a Sustainable Growth Over 2031"
-    excerpt: "Increasing demand for time-saving diagnosis processes in developed economies is anticipated to fuel the growth of the AI in medical diagnostic market during the forecast period. Government investment in healthcare infrastructure to provide advance medical ..."
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?484751"
+        width: 379
+        height: 250
+        isCached: true
+  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
+    publishedDateTime: 2022-02-08T12:40:00Z
+    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "United States Artificial Intelligence Market Size, Share, Analysis, Industry Growth and Forecast 2026"
+    excerpt: "Artificial intelligence has several benefits, including better adaptability, higher time-efficiency, improved accuracy, enhanced productivity, etc. As a result, it is used across various sectors, such as trade, automobile, healthcare, construction ..."
     publishedDateTime: 2022-02-07T06:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-diagnostics-market-expected-to-witness-a-sustainable-growth-over-2031"
+    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 31
+    quality: 28
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
+        width: 1600
+        height: 1068
+        isCached: true
+  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global facial recognition market to grow with a CAGR of 17."
+    publishedDateTime: 2022-02-09T06:52:00Z
+    webUrl: "https://menafn.com/1103662399/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324610"
+        width: 318
+        height: 250
+        isCached: true
+  - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
+    excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
+    publishedDateTime: 2022-02-09T08:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Emotion Detection and Recognition (EDR) Market Type Is Anticipated to Grow Faster Till – 2030"
+    excerpt: "In 2016, the facial expression & emotion detection segment dominated the global emotion detection and recognition market growth with 66.0% share in software tool segment, in terms of revenue. However, in the same year, based on technology, machine learning ..."
+    publishedDateTime: 2022-02-07T06:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-edr-market-type-is-anticipated-to-grow-faster-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-4-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Facial Recognition Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, Latest Key Players | NEC Corporation (Japan)"
+    excerpt: "The security applications of facial recognition are motivating Facial Recognition Market in 2020. The AI and analytics reports are made"
+    publishedDateTime: 2022-02-09T10:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-study-reveals-growth-factors-and-competitive-outlook-for-future-analysis-latest-key-players-nec-corporation-japan"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
         width: 600
         height: 337
         isCached: true

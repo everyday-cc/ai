@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/02/09/3-fintech-stocks-you-can
 webUrl: "https://www.fool.com/investing/2022/02/09/3-fintech-stocks-you-can-buy-today/"
 type: article
 quality: 54
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -221,6 +221,20 @@ related:
       - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
+    excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
+    publishedDateTime: 2022-02-10T05:44:00Z
+    webUrl: "https://www.irishtimes.com/sponsored/innovation-partner-profiles/helping-the-fintech-corridor-power-ahead-with-joined-up-thinking-1.4796986"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Regulate cryptocurrencies and fintech products before it's too late, urges author"
     excerpt: "In fact, she's hoping that Driverless Finance: Fintech's Impact on Financial Stability can spook ... Now, she sees the possibility of financial collapse on an even greater scale with AI technology being used in the financial industry; “smart contracts ..."

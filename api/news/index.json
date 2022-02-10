@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-10-kobold-metals-raises-1925-million-to-use-ai-to-find-battery-minerals.md",
+      "title": "KoBold Metals Raises $192.5 Million to Use AI to Find Battery Minerals",
+      "excerpt": "ADELAIDE, Australia—KoBold Metals, a startup backed by Bill Gates’s Breakthrough Energy Ventures that aims to use artificial intelligence to find metals needed for the electric-vehicle boom, raised $192.5 million in its latest financing round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "originalUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-483374/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "publishedDateTime": "2022-02-09T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-the-best-speech-to-text-software-for-2022.md",
       "title": "The best speech-to-text software for 2022",
       "excerpt": "... is a dedicated mobile speech-to-text app that delivers a high degree of accuracy thanks to its industry-leading speech recognition software that can adapt to your own speech patterns. In other words, Dragon Anywhere can actually learn how you speak ...",
@@ -156,7 +207,7 @@
       "originalUrl": "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -987,7 +1038,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/02/09/3-fintech-stocks-you-can-buy-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1175,58 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers.md",
-      "title": "2 Senators Tell Tesla They Are 'Deeply Troubled' About Self-Driving Dangers",
-      "excerpt": "\"We are deeply troubled by Tesla's design choices that seemingly encourage unsafe driving habits,\" the Senators wrote about the automaker's \"Full Self-Driving\" system that was the subject of a recall of over 50,000 vehicles last week. This is a developing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
-      "originalUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1982603/tesla-elon-musk-richard-blumenthal-ed-markey.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
-      "publishedDateTime": "2022-02-08T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
