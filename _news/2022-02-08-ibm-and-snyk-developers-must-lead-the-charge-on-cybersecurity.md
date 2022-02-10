@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-le
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-86882,msid-89447462/securethings-founder.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Putting AI to Practical Use in Cybersecurity"
+    excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."
+    publishedDateTime: 2022-02-09T23:40:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc397638f1d4603f4/62044b557290bb4b19d5beba/robots_ai_Besjunior_AlamyStockPhoto.jpg"
+        width: 700
+        height: 394
         isCached: true
   - title: "Query.AI Earns Gold in the 2022 Cybersecurity Excellence Awards"
     excerpt: "Because of its unique ability to unlock access to and value from cybersecurity data wherever it is stored, regardless of vendor or technology, and without requiring centralization, the Query.AI Security Investigations Platform has won gold in the 2022 ..."

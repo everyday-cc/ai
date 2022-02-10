@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
-    excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
-    publishedDateTime: 2022-02-05T07:11:00Z
-    webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
-    type: article
-    provider:
-      name: Suryaa
-      domain: suryaa.com
-    quality: 37
-    images:
-      - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
-        width: 500
-        height: 305
-        isCached: true
   - title: "AI's Contribution to the Metaverse's Growth"
     excerpt: "The last several years have seen a slew of new revolutionary tech concepts emerge; the Metaverse is one of the most hotly debated. So, first, let's define Metaverse and how AI can assist in its development."
     publishedDateTime: 2022-02-09T13:04:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
 excerpt: "On the other hand, now that the proof-of-concept is here, you never know where this kind of AI tech may start popping up. Check out our Gran Turismo 7 preview to see how else it changes the racing game. I got a BA in journalism from Central Michigan ..."
-publishedDateTime: 2022-02-09T18:47:00Z
-originalUrl: "https://www.gamesradar.com/uk/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
-webUrl: "https://www.gamesradar.com/uk/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+publishedDateTime: 2022-02-09T23:00:00Z
+originalUrl: "https://www.gamesradar.com/au/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+webUrl: "https://www.gamesradar.com/au/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
 type: article
 quality: 37
 heat: -1
@@ -236,6 +236,6 @@ related:
         height: 720
         isCached: true
 
-secured: "6odalWDYeYmcI5flIPtL6n1cx3n1iTVsQJVuZmpsBmzSc2sRSqCoFXiP5K+50T2f1zIsDZztEwnjGsR7mEQxGsbcdXByyk9kPyiO67Hlo60PUC7i5ZsExOTP+TiA+rzhjd1d9hk1H6RnWDGx+kghX43na/S+f56GenuLn77x6CBsDyXQAhkWe9/0tEtFf0YoPIURLx5r8nGPLcD1i7LRdIC0j8ZYCgTwaO/OTK+qrTNctqvjSsCYEYjrXDN2sYTi6Cs9+IQ+xiT/X7umfrn6oYmcTpXLXo5Zv1rPl4DFzMaG6B91hJM+hSU02TP3FtztmpUH/z2kWhb4+iILFylz90utDXKMDDH1HqyYLmk8mZY=;Ii3aslaTsYiWLl8G7iMHeg=="
+secured: "XLOwI2+5Zre5ZzP4vrq30whTEzKznpwG2vKrmFK1icpVMsSrl+Z2Dcg01ivrHKWbspMSRuHt2/t9rAdzcxYGQBPY7/V3c/GEs4TtPdWMFaClgAqgCrPBw4ggzXAU3M1eEyVLac9Rhxw9p/H09tQsALqTgC/pzgDPsAZ2TXpPtXvhuZpkNmKosGvzf9KmHfHe5KsDUbh81JW1eGJvGR8pk8d3UDlCbgtz/MyvGrarKTQJE2JltJHxMltl85h6KQUgpXRe2doQI0Fv8ljyU10T5TnJHLHrQsR8JSOCuvHblulSaArdIFu46kpu8WFILWCMiP3L1+Q90BLvkGJcX7TyOmp1//1MdNIhUNkLyq+JIiw=;9hxGcH6evzdyMQwWjNJ2lw=="
 ---
 

@@ -748,6 +748,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest.md",
+      "title": "Facebook parent Meta says its new AI supercomputer will be world's fastest",
+      "excerpt": "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest",
+      "originalUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp",
+      "publishedDateTime": "2022-01-24T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-meta-teases-ai-research-supercomputers-impact-on-the-metaverse.md",
       "title": "Meta teases AI research supercomputer’s impact on the metaverse",
       "excerpt": "Meta said its AI research team has been working for years on a supercomputer which it believes will play a pivotal role in the metaverse. Meta, the company formerly known as Facebook, is ...",
@@ -979,58 +1013,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest.md",
-      "title": "Facebook parent Meta says its new AI supercomputer will be world's fastest",
-      "excerpt": "Jan 24 (Reuters) - Facebook parent Meta Platforms Inc (FB.O) said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-introduces-fastest-ai-supercomputer-2022-01-24/",
-      "originalUrl": "https://www.reuters.com/technology/meta-introduces-fastest-ai-supercomputer-2022-01-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/xTQMYST5eYX3kuLJUazqYj5uiTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AKPG4VBNRNWVA3MJ4AX6HWD5M.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {

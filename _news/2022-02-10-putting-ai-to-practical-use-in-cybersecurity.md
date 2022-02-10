@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Query.AI Earns Gold in the 2022 Cybersecurity Excellence Awards"
-excerpt: "Because of its unique ability to unlock access to and value from cybersecurity data wherever it is stored, regardless of vendor or technology, and without requiring centralization, the Query.AI Security Investigations Platform has won gold in the 2022 ..."
-publishedDateTime: 2022-02-09T18:32:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/query-ai-earns-gold-in-the-2022-cybersecurity-excellence-awards/article_e53548bf-154f-5b84-8a4f-ebd40f4ee8b0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/query-ai-earns-gold-in-the-2022-cybersecurity-excellence-awards/article_e53548bf-154f-5b84-8a4f-ebd40f4ee8b0.html"
+title: "Putting AI to Practical Use in Cybersecurity"
+excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."
+publishedDateTime: 2022-02-09T23:40:00Z
+originalUrl: "https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity"
+webUrl: "https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Dark Reading
+  domain: darkreading.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/47/a47d5221-522f-5117-a471-b8bc996fa2b4/61ae1b6ba12df.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
-    width: 1194
-    height: 627
+  - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc397638f1d4603f4/62044b557290bb4b19d5beba/robots_ai_Besjunior_AlamyStockPhoto.jpg"
+    width: 700
+    height: 394
     isCached: true
 
 related:
@@ -56,19 +56,19 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Putting AI to Practical Use in Cybersecurity"
-    excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."
-    publishedDateTime: 2022-02-09T23:40:00Z
-    webUrl: "https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity"
+  - title: "Query.AI Earns Gold in the 2022 Cybersecurity Excellence Awards"
+    excerpt: "Because of its unique ability to unlock access to and value from cybersecurity data wherever it is stored, regardless of vendor or technology, and without requiring centralization, the Query.AI Security Investigations Platform has won gold in the 2022 ..."
+    publishedDateTime: 2022-02-09T18:32:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/query-ai-earns-gold-in-the-2022-cybersecurity-excellence-awards/article_e53548bf-154f-5b84-8a4f-ebd40f4ee8b0.html"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc397638f1d4603f4/62044b557290bb4b19d5beba/robots_ai_Besjunior_AlamyStockPhoto.jpg"
-        width: 700
-        height: 394
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/47/a47d5221-522f-5117-a471-b8bc996fa2b4/61ae1b6ba12df.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
+        width: 1194
+        height: 627
         isCached: true
   - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
     excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
@@ -85,6 +85,6 @@ related:
         height: 337
         isCached: true
 
-secured: "U3WuaNGnlfy7Qa2PYCRx6MKi1OxgLy+qRLJGz2J/UvH1d1+7bfe3Xe8W/FqGKH2DvVong0xmNJW0TPBwe0lxaZl6G5EsVxHXw4cWtxu44V8tmqTtqmtA5d+j1R6oDHbuJODXBMOs51q1wNK4cBFt6eat75X3H6Z3wP1fhyUjkXd8EZ2gD8cUpEF4LU2qi4JTwzwYoUMVDx4CJwhI1Ua1YQ2MaazR/GscwNV9s535vrurqhpY5uP+1y8IUqtT9BFPj09yq2ZW6W/dXwVfPZKRWBHCiDQKn947GJfvrgui9G/SR4mTt7CInMrsyGlx26clC+nofmwEYlYJLS9fIFdZ7DeLNIEmkRyLSOy06qd13gI=;9D+yElR2m6sFYjF8g/vw5w=="
+secured: "3ZR7Tx1ZMMzKjfHRUBGKeTDQjnvd4N8IOzZ6Y6wo6lxFBWsJCXARgGL1zE3gRBVwhLt+qyF8vVyEJe3CqDbqXI2xcBJDn3H/HwKNr2/8L9AozSv//Cwz4ofpRQPEwjvDrCGdzb4ZCSZTdsUZ2WqYBki4Zezvx2WCc/nmWZArXYtsgPtNvySnyh4/HLGk38K9RfZSGmB7z7kJ6RFxx1BEzDtKlrZKeSdYiwvXLvOQ5VOEcFAnC3uhDUeZkiuvh1apxWf+SrcoWEF7SYGqoVr9d/kaZI9ZOj3SCuowDa0CyqNsyyqkJVS3IuUaPN33vGmhjMLzKuaT07cwSZJLYzzWlExzHY876P3PymoAtbzU+Eo=;tONW/VcEro6YDSZQ/tSJzA=="
 ---
 

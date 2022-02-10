@@ -2,26 +2,26 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-publishedDateTime: 2022-02-09T17:41:00Z
-originalUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-09T23:28:00Z
+originalUrl: "https://www.wfaa.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.wfaa.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KSDK
-  domain: ksdk.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.ksdk.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+  - url: "https://media.wfaa.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -86,21 +86,7 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
-    excerpt: "Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-    publishedDateTime: 2022-02-05T07:37:00Z
-    webUrl: "https://abc7chicago.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 33
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
 
-secured: "oLE6rUu3bLdKXPv58N0A0kVyB/9v1MliqSdbxVhi67AST8l9xcKiHc522bzJi/0eOSNGYxiEhf6qL5JOPnetMqBqPz1PK7alOp3ib7P89M1m0B/0BSqUsh07W+o404qI1VVsK+irTcxZxG2Xtexwss/O/VVxIUlP/AsuAeAvShxV5LSQDkT9YCVul9mo4z+n7TvkLZQR/Vju64OhFciXIaAbLUvbx+V2kmg2sRBuDIjgEmj+vjiRPBdBujZcFE1XLely8RIV9jO5eEfgq5QBJQyibOfQK5jZTYd46iqPw45wNnhKw1UpNHFqAH4SLGL+bo63qkyKS8nDYxXSxAAhgMK+/0D364eIsL3jO2KFjY49gikp3TG4YIxBG651GAWhB8UR0N3PgoDdjVX+OewNhiSBjQyx7wD1gSBngDGHHcEyIbz1ZFYz5IL7GUaOzdpVo5T5BJIHU30so1TsWlURsPGYw+u1pWh8yuCRjPwbnQeSGPtIERLtLnI+7PEyb8yI10jAQXSpHqI4uLXoF0uBWg==;I0Ff8zC0StU2oqoyc3y28Q=="
+secured: "TJOfj+1kkCoq7McZBY0uRRIH5N36gHVHI77L0+/seIuunDhBBrpP7Dhfk1wJxn/idXkzNMlDu8+MTt1Ki96Q56LOalrUHpWbkYxzDy6xLr3m0qSTNNgBY89Fj5F+AQZJDAjLJTw8wlKq/o5DAKVVerwl/C8cC2dtMrqO3oG3PjVJZlTBx1Oq9QPHMUj1mE4rD1A/I9lU/9ep+OPncN6mccqUWrnKvuljnmCaBMtt4+6lDDAbAsLLma5cChGtqt3n7ugVDYQR5bVvVlSDrW+jPR5d8WGFftdN1MJ8CbIMuHZoWT0Gpy/FotK/Gw1YQErrLAGtI6dMKQEEP3jjISf3AzqyLDLqo9jDbbi+eWZ9FVE=;GsoCsyll/OlUw5SaPmUksw=="
 ---
 

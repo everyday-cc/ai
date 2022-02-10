@@ -172,8 +172,8 @@ related:
         isCached: true
   - title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
     excerpt: "On the other hand, now that the proof-of-concept is here, you never know where this kind of AI tech may start popping up. Check out our Gran Turismo 7 preview to see how else it changes the racing game. I got a BA in journalism from Central Michigan ..."
-    publishedDateTime: 2022-02-09T18:47:00Z
-    webUrl: "https://www.gamesradar.com/uk/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
+    publishedDateTime: 2022-02-09T23:00:00Z
+    webUrl: "https://www.gamesradar.com/au/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
     type: article
     provider:
       name: GamesRadar
