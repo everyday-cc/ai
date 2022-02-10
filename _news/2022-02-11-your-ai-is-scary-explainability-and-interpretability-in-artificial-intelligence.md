@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-10T20:15:00Z
 originalUrl: "https://www.law.com/thelegalintelligencer/2022/02/10/your-ai-is-scary-explainability-and-interpretability-in-artificial-intelligence/"
 webUrl: "https://www.law.com/thelegalintelligencer/2022/02/10/your-ai-is-scary-explainability-and-interpretability-in-artificial-intelligence/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/02/Goldstein-Northman-767x633.jpg"
@@ -24,6 +25,6 @@ images:
     height: 633
     isCached: true
 
-secured: "3MvAXtsxj6Qe6W3xf4jE83f19UYP85yCM84fEoTWyT5/vvH+xXu4Aq08xE9g5y+4XayJpBfZL0e3KeYZGLq/XMKcy44OQIdCR30cY8NwK7jHdsuPM38IKWHGYDR1lXGVH6NWMLMX/GCbKbvReVrkgZbMzqgIRvKMKNU3b6kMVQeEtmVrK363RjJS7sYYqdiZRbZZx0LCfRDyMMAVSFYtXsIxCFIQ03ZQ7j70zwh0kL3PKAv8x+PLai7842mQRfAsATBXwxqM1Kta2r2q0YV/SUOlKgaDpSbqA1JVd2pdSoSwmnSljYL5JqBQQiJZW5rfW4PQDTs6givLMZGr2K5iKjUcTy44tgq2dI35RCcAjfc=;VF/Rj9ypO+kPfU0nt2g+qw=="
+secured: "Q3l0KSx1P0TD9wpanJZ0mZYMcPV5mwLrQQ5Qw4lDYoeVMsRhYXN/QKKaukAYbLKL/kp/iVhWXcLe+olHzwUS1ZRJVV3nnJem3cxBsXmXryigak9zB89lFOW5R6ALSUk0rq4dALx8CQYc6zG2Ns//KODspvwm5jJhVhLDPnq5N+9GnyDfcQXQKw7Jwm+bW8DuLYPlX6mFeJBjWNShtFAS7VNaeCIh2F0PLfoiz6LWMPET+6psqiPNuRuZUJ6oFQCiD0HdhqNhJ2LojHBe/DudmW/QQpmb//0omYnWH5YT1yNk0c+H35ZGg3e7vIOsfKubX9m16LeNeC4r5Wv7KBS0zRXh1IWRLO1GqSwNoheM2JxFokWFw87EdD04zUeasVNvFmFFU69iVbgwGYPvCmXJslbLgiOz1se16THRnhAty5vMnwTUCUGesiNVvQAeYEfBj9tBjtsYvvIkCGVY+aU4OCmgulgG0wuhLV1MB+8qjKVUedCL+czu3WPi3/mkECXVS/FtmtuC09bBv/mzl9dyPA==;FL+XqV86+sdnOpcvkhSzdw=="
 ---
 

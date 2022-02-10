@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/fandrum-indias-first-ai-based-mo
 webUrl: "https://www.digitaljournal.com/pr/fandrum-indias-first-ai-based-mobile-app-for-celebrity-fans-launched"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "How artificial intelligence and robotics have changed the oncology landscape in India"
-    excerpt: "Artificial intelligence in oncology has been used successfully ... Hence there has been a paradigm shift to robot assisted minimal access surgery in oncology. Robotic surgery is an advanced ..."
-    publishedDateTime: 2022-02-06T12:39:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 84
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89386337,imgsize-66780,width-1200,height-628,overlay-ethealthworld/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Txxce8b4vswHd5dr4wa0g5TzEOFEw0hvEjYoIxqjv2m5H+RtZs4YU9M4E16gD6+Ti9tBTAZ8uI7wmyo41zv0tzl7q19ON0rnT5xuVBUzhZkpr4BUYnPYrY8u7nEpv4bAPLcNcldWmHlxvU7luCQHKuRobogkOfR3mECMJHEnn29Tn1eTztlR6rR2XcGeKptAAGdckfgYW8970vW3KNqWONtfnQPorr02WIIigTmjhGAAs0VrIrtZgrutTe6RxLc8NHE1/PYW9rjjqNfmegjtRgs23+lgkZDqjMMNyENHI2yINGwFwqKz7uivwlZbYHmaLYnzC9UpLmS4VXiLviywJ/PKJYA3iBl70RcUpPqVTvbFjzYHLNXkIptKhhGnBfMdomSUojMvbubEySY97PWZdyeAzBVajO1nQtm6SffVKMRNSLEFnKh0dvZCpRkVZToClOoQiZOeb8jSSEbLuatyeegxBY4bu2Tr5pHS5HndVujQSQn++UmVSQBjw3Csy5NJWtjYM7axqWI018hKwUApkA==;wQvHBJgjqZkYRmjl7L+Jow=="
 ---

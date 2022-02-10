@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Korea’s $200 Billion Wealth Fund Is Betting on the Metaverse and AI Startups"
+    excerpt: "South Korea’s $200 billion sovereign wealth fund plans to boost investments in Silicon Valley startups as it looks to the metaverse and artificial-intelligence to accelerate its expansion in alternative assets. Seoungho Jin, who took over the reins of ..."
+    publishedDateTime: 2022-02-10T22:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 64
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZYHLMg9aWqU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI's Contribution to the Metaverse's Growth"
     excerpt: "The last several years have seen a slew of new revolutionary tech concepts emerge; the Metaverse is one of the most hotly debated. So, first, let's define Metaverse and how AI can assist in its development."
     publishedDateTime: 2022-02-09T13:04:00Z

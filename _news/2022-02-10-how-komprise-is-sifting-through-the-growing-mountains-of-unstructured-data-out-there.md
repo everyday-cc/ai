@@ -83,6 +83,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "TCS Launches Three Sustainability Solutions on Microsoft’s Azure IoT Cloud Platform to Help Enterprises Achieve Net-Zero"
+    excerpt: "The other two sustainability solutions available on Azure are TCS IP2 and TCS Envirozone. IP2 combines AI, IoT, and digital twin technologies to support critical power plants to enhance reliability, cut emissions and reduce operating costs by 2-3%."
+    publishedDateTime: 2022-02-10T21:00:00Z
+    webUrl: "https://financialit.net/news/consultancy/tcs-launches-three-sustainability-solutions-microsofts-azure-iot-cloud-platform"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
+    images:
+      - url: "https://financialit.net/sites/default/files/tata_consultancy_services_0.png"
+        width: 1575
+        height: 747
+        isCached: true
 
 secured: "tbFJPn2jnNQWhwDVBx8K9GP/3O+RdyBuc7kSmyWcd7GyS/bLBmOlhvdcp5dTx7DTSPUprZk1BF7k+VLqNbl0vsEE3Pq9UliP7dQgZtVql+sSak+1pCYzcPPUn6nt4xZh1SUlEmFiPYx4MQIi3TUvDj/Lw8g6n7fdACYh1zqnPGUyOjT1i9W0pNdrP+0QC9WAFMIMYoPFuzmz6onKwfX3ECzEj5n//OjDSMI7lCci2AaIe3M8PvBpwDl7hY5NzuAFeAZC7PcYCcNrZLKtiY1Wa1b7kENfph/sf6m5FGxDS2BvMrNrysV/hr0/SUNHf5s15MpczDPX0Gkm39DzKTahoO5Obv9AHD2xHlKvcnCyVQUn6zbxIZ5YUwJ6tChgL+zXJSD5Hu6FtYseH+7s1yUA+ZmopQwMbIrnOAEMU+n1sYccNGzu0JIfVc/FLsoPvVyWztqvORBqM7BTrZCm6YnvH6reqAggdt5evsK5jGXURHTzjRtiJtL9aTW43VxKj5gAZ8OSJXiQMkcCIGr+nAtA0A==;5QFSQB3AipWxuvmGuriJFQ=="
 ---

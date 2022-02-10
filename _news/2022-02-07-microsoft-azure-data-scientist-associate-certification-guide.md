@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Microsoft Cloud & PROS in AI-powered manufacturing move"
+    excerpt: "PROS & Microsoft Dynamics 365 are working together by embracing AI manufacturing power ... the only business platform that natively integrates with Microsoft 365, Microsoft Azure, Azure Cloud Services and Microsoft Power platform, provides unparalleled ..."
+    publishedDateTime: 2022-02-09T12:01:00Z
+    webUrl: "https://manufacturingglobal.com/ai-and-automation/microsoft-cloud-pros-in-ai-powered-manufacturing-move"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 54
+    images:
+      - url: "https://assets.bizclikmedia.net/668/d6e6c39ea617c586f8c69521038d171c:39043bdafdc54a386ca0d17ec7345fa8/gettyimages-1313422838.jpg.jpg"
+        width: 668
+        height: 504
+        isCached: true
   - title: "Artificial Intelligence for Accounting Market to Witness Huge Astonishing Growth by 2029 | Microsoft, AWS, Xero, Intuit, Sage"
     excerpt: "Artificial intelligence can help accountants work more productively ... enabling the client to make informed decisions that will help them achieve major business goals. Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai, AppZen, YayPay, IBM, Google ..."
     publishedDateTime: 2022-02-08T13:25:00Z

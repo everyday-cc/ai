@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Korea’s $200 Billion Wealth Fund Is Betting on the Metaverse and AI Startups"
+    excerpt: "South Korea’s $200 billion sovereign wealth fund plans to boost investments in Silicon Valley startups as it looks to the metaverse and artificial-intelligence to accelerate its expansion in alternative assets. Seoungho Jin, who took over the reins of ..."
+    publishedDateTime: 2022-02-10T22:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 64
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZYHLMg9aWqU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse"
     excerpt: "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ..."
     publishedDateTime: 2022-02-07T11:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/komprise-partners-with-
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "TCS Launches Three Sustainability Solutions on Microsoft’s Azure IoT Cloud Platform to Help Enterprises Achieve Net-Zero"
+    excerpt: "The other two sustainability solutions available on Azure are TCS IP2 and TCS Envirozone. IP2 combines AI, IoT, and digital twin technologies to support critical power plants to enhance reliability, cut emissions and reduce operating costs by 2-3%."
+    publishedDateTime: 2022-02-10T21:00:00Z
+    webUrl: "https://financialit.net/news/consultancy/tcs-launches-three-sustainability-solutions-microsofts-azure-iot-cloud-platform"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
+    images:
+      - url: "https://financialit.net/sites/default/files/tata_consultancy_services_0.png"
+        width: 1575
+        height: 747
         isCached: true
   - title: "How Komprise Is Sifting Through The Growing Mountains Of Unstructured Data Out There"
     excerpt: "‘Increasingly, people want to run machine learning on their data ... a new partnership with Microsoft to support migration of data to the right tier in the Azure cloud at no cost. With the new partnership, solution providers can help clients do analytics ..."

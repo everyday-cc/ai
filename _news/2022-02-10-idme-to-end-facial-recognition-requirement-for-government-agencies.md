@@ -506,22 +506,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-06T06:04:00Z
-    webUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness"
-    ampWebUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 54
-    images:
-      - url: "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 388
-        isCached: true
   - title: "IRS to Move Away from Using Third-Party Verification involving Facial Recognition"
     excerpt: "The US Internal Revenue Service (IRS) announced that it will transition away from using a third-party service for facial recognition in order to help authenticate individuals creating new online accounts. The transition will take place over the coming ..."
     publishedDateTime: 2022-02-08T17:03:00Z
@@ -848,6 +832,20 @@ related:
         width: 272
         height: 270
         isCached: true
+  - title: "IRS Backs Away From Selfie Onboarding"
+    excerpt: "ID.me initially claimed that it does not use one-to-many facial recognition, though it has since acknowledged that it uses Amazon’s Rekognition platform for one-to-many matching internally to prevent the use of duplicates and stop identity theft."
+    publishedDateTime: 2022-02-10T21:26:00Z
+    webUrl: "https://mobileidworld.com/irs-backs-away-selfie-onboarding-7022201/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
   - title: "ID.me Announces Options for Selfie Deletion and Identity Verification without Automated Facial Recognition"
     excerpt: "Today, ID.me announced a new option to verify identity without using automated facial recognition and will make this available to all public sector government partners. “We have listened to the feedback about facial recognition and are making this important change,"
     publishedDateTime: 2022-02-08T21:53:00Z
@@ -895,6 +893,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "GZ5vO+HZBor4daiGSbR8uOEAgjSzI6kq3pmUv9s2iWlMx1W6wLthIYBJSdW6fcek7+8LOH6vqRJU1PwMAxzUfSMrkmlHlCBKJ57hUQR37C54ixIxkNW97DUsTjIE1uKD/cgRJzL0sWkKpAhmtSpXP5mYAm0aTIsqgsAOtDC+r9O3UYozyYi0MXegRl4fOq83woBU8yMLsa3AQve5DSFmdN+8lzhYnkwArIVFaPqjZa5LBlq+sAvA2Vl734CpQ/W57VKN9sHXGs7UeezOYJNemsdKIZpux+XcMTHFIXpzeduVPo5KoqiVUeS13I5nuZOzKwoqv/xbB0CVJMYvED2e9jQpJpnGEWnxcPQfXpWUQ4o=;zyMDi8pU89oVNKtBZsMLqg=="
+secured: "Of5F6fCFASi11yLWZ80P8U0g68VDzDq9WOUDAVIZchk7eQRIddkxZwCYFdxNAYD8SYMJecUG8fomOCvrBWBy03Rlmhq5r+JQkAZi6IVD22zZN0JkLEH9f2E3z1KxgfaLq4MIHEM4tPd2/4Xk0kD4DzWkFNATXjHeUjnl42P4On0WOZb7Y9DbQjGEIL35Agy7yZx/+1EWa/ifJjvpzkEAlFoBpC7dJYBsgvfRjGq/HtFUB4cWMyq6SBW20RMqfEA2RTKHZwD2BFqLLLb9kqfy9h0Cuc3cBLaMQNHR/iI+qmzCQwie2djbOlTwDGUuGr95VOBeH+G/WMn8c1stWq3qbuijxRME3FTPjAAp1vld58IjVjsZVAPGON675GYHjHU3wW17vlTbjqyGsec2izn1pxxJP6+dbNbChDTYqvkwAg3gd6i1Xb2tHcAryzmut/C+IE8YgpOjOWCK/v8e1Ph/68re4D5yaoK4Ws294VzY64RzOS0rv8fr9sK+cIgn3A7YLIsxo9tkr+8vMYr2Dc68qw==;sASxGqRxyZFEtJUcYMzdEg=="
 ---
 

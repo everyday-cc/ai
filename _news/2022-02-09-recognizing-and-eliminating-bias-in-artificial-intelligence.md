@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: enterprisetalk
@@ -28,21 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Smarter.ai, a Marketplace that’s Democratizing AI and Helping SMEs Compete with BigTech, Secures Funding"
-    excerpt: "Smarter.ai, the creators of an AI marketplace to democratize artificial intelligence and help SMEs meaningfully compete with Big Tech, has announced its pre- seed raise, which was led by Fuel Ventures and Hambro Perks. As noted in the update, this comes at ..."
-    publishedDateTime: 2022-02-09T21:18:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/amp/"
+  - title: "Teaching AI and robotics concepts in business courses"
+    excerpt: "Robots like NAO and Pepper ... learning platform available to many affected students. This platform uses artificial intelligence to build adaptive learning pathways for individual students ..."
+    publishedDateTime: 2022-02-10T21:21:00Z
+    webUrl: "https://venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts-in-business-courses/"
+    ampWebUrl: "https://venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts-in-business-courses/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts-in-business-courses/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 40
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg"
-        width: 1280
-        height: 934
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1289682338.jpg?w=1200&strip=all"
+        width: 1199
+        height: 622
+        isCached: true
+  - title: "How artificial intelligence and robotics have changed the oncology landscape in India"
+    excerpt: "Artificial intelligence in oncology has been used successfully ... Hence there has been a paradigm shift to robot assisted minimal access surgery in oncology. Robotic surgery is an advanced ..."
+    publishedDateTime: 2022-02-06T12:39:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 84
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89386337,imgsize-66780,width-1200,height-628,overlay-ethealthworld/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Uj7UBa796F6p/uK3dZCn3OgnN3Rn/y3E2LolGSxQGm+8ynk12D+GoOtkQcCnF4rgilzdFHmeBwhDgiHMtANv1rgs/ea2SH8ptug6r/NzbKeW6u/OMDRUbdDkpd3B0Jg7kEEF1ZtDmuffJXMPSu4F4JTuCp9oxtcaB8180Qy5s9IHehpWLuVijOv9dg93sLuF98xj4DiVyExpJ6hYnTrq1WPUM/Mg3/67D7/QFcbd8FoJ+4Hxe+9c0/c8bycsGxVPi9ZuQxSeoutedePK3dQjXd2ZszV8eTqSeqWjjzmziSUUTEe4aQVJnf7nlGPeooJYTjKH6strAN8wKoYkYht3tzMJh0ebV2NfAK/5AAIZpQBaGNFkSF05vRAybedlagiqM/SXCk7aMu+GsVq7iEclB+QdOIRZJcUzBzqrFA6UqvR+cMPFlBbYUoqO78JjxvKh5sbJc6VJ5RK7+Xgun1Vs5qWuwoYfGQF1V3j2azEijj0OWqlo3DuGIvOwRyBPpjH3qTf6uyh6Kk6TRJabQiywxQ==;NLfXHERlW3XC8ONwm9q2Iw=="

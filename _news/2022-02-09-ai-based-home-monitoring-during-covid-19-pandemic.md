@@ -42,6 +42,36 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "How Machine Learning Can Guide COVID-19 Decision-Making"
+    excerpt: "Developed by Regenstrief Institute investigators, a new machine-learning algorithm can help stakeholders make decisions on resources and policy regarding the COVID-19 pandemic. February 07, 2022 - As the United States continues to see high rates of COVID ..."
+    publishedDateTime: 2022-02-07T13:00:00Z
+    webUrl: "https://healthitanalytics.com/features/how-machine-learning-can-guide-covid-19-decision-making"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/how-machine-learning-can-guide-covid-19-decision-making"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/how-machine-learning-can-guide-covid-19-decision-making"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/Integration_and_Interoperability-67199ff8dd2aaa686fbbb8d60359499a.jpg"
+        width: 600
+        height: 347
+        isCached: true
+  - title: "Reason for calling deep learning, DEEP"
+    excerpt: "Why is Deep Learning called Deep? You must have asked this question. In this post, I will try to answer that question and give a deeper definition of learning. I remember when Google's AlphaGo algorithm beat Lee Sedol, one of the world's top Go players ..."
+    publishedDateTime: 2022-02-09T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/reason-calling-deep-learning-ai-learning-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHLusZR4XgW8A/article-cover_image-shrink_600_2000/0/1644392003469?e=1649894400&v=beta&t=DC_71P6RgWPQzF2191mgs7bkGk0j7jevSjYsOoNT9mk"
+        width: 620
+        height: 475
+        isCached: true
 
 secured: "pjtCXKNlgueBOTlnNG0bQlaPxH4V0LC+ntGVqjNkrdV91QvFoZ9DcBy/sMZhN14UHvWOSj6JYYy70oVhDsxLnPh6Q79it/QpwOGBwFFqOWhII3BE4KvdS+iQCIus87d4MwakXNSD9kjtqy0OQvPvh8oLsENdj/p62NXJt0VFvGARaYQ2AIwlVuqVYgB6VS8pE75WsFHsHx2IdxaATunhxhByTG0eGCCngobg4A9aY/N7vN2ExGuobdj2nrkg/QJy880n6pX4doCybfWAVjReetv9Sd9BVzmIEWMRkb1Xd7wb+u1tEsQdqHf995gTStiU5KE3AQbRs/GvhnDFWyxBqaG40OOBIi2Rb2wyktPaVS4fC5w4jnTb3zwVgEEzmM7f0/SfCiM1Cdyxvv8PBMrT3WIcNZjEiwiN0ZLxlwp4zPWFr0pEyqIlTi7BGUAc7f5GlM743OEZ1X17bXET4QhhZ1NIwZx0zRtpqIfVz1NZxzru8I1n2i/6yyCp8l3xfHBTzlDy7OBUUhmJD8YC+f0Jrg==;NUbrxakHEmXk04htQWhffQ=="
 ---

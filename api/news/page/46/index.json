@@ -2,6 +2,108 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-01-01-face-recognition-amazon-tech-under-fire-from-lawmakers.md",
+      "title": "Face-Recognition Amazon Tech Under Fire From Lawmakers",
+      "excerpt": "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/",
+      "originalUrl": "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-01-from-implausible-artificial-neurons-to-idealized-cognitive-models-rebooting-philosophy-of-artificial-intelligence.md",
+      "title": "From Implausible Artificial Neurons to Idealized Cognitive Models: Rebooting Philosophy of Artificial Intelligence",
+      "excerpt": "From Implausible Artificial Neurons to Idealized Cognitive Models: Rebooting Philosophy of Artificial Intelligence - Volume 87 Issue 4",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/from-implausible-artificial-neurons-to-idealized-cognitive-models-rebooting-philosophy-of-artificial-intelligence/304D381BDEE5B9BE934B4ED7D8E00A00",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/from-implausible-artificial-neurons-to-idealized-cognitive-models-rebooting-philosophy-of-artificial-intelligence/304D381BDEE5B9BE934B4ED7D8E00A00",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-01-model-based-reasoning-in-distributed-cognitive-systems.md",
+      "title": "Model-Based Reasoning in Distributed Cognitive Systems",
+      "excerpt": "Model-Based Reasoning in Distributed Cognitive Systems - Volume 73 Issue 5 Skip to main content Accessibility help We use cookies to distinguish you from other users and to provide you with a better experience on our websites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-mitsubishi-ufj-financial-group-inc-mufg-stock-trading-around-544-per-share-whats-next.md",
       "title": "Mitsubishi UFJ Financial Group Inc. [MUFG] Stock trading around $5.44 per share: What’s Next?",
       "excerpt": "Mitsubishi UFJ Financial Group Inc. loss -1.09% or... Mitsubishi UFJ Financial Group Inc. [NYSE: MUFG] loss -1.09% or -0.06 points to close at $5.44 with a heavy trading volume of 2198921 shares. The company report on December 7,",
@@ -1011,152 +1113,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-massage-robotics-exhibiting-at-the-2022-ces-convention.md",
-      "title": "Massage Robotics Exhibiting at the 2022 CES Convention",
-      "excerpt": "From English to Mandarin users can control robot motion and force with their ... and technologies that excite the senses and inspire the mind. While user experience is our focus, 2X value creation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
-      "originalUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1640823178.png",
-          "width": 1926,
-          "height": 1164,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution.md",
-      "title": "CES 2022 Innovation Award Honoree DeepBrain AI to showcase its AI Human solution!",
-      "excerpt": "DeepBrain AI's video synthesis solutions, a CES 2022 Innovation Awards Winner, leverages the power of Artificial Intelligence to quickly create lifelike human-based AI avatars that inform, solve and guide users through thousands of possible scenarios and real time interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1717439/The_technology_implemented_forms_industry_fields.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-unlock-your-windows-11-laptop-using-your-face-with-windows-hello.md",
-      "title": "Unlock your Windows 11 laptop using your face with Windows Hello",
-      "excerpt": "It isn't exclusive to the iPhone. You can log in to your Windows 10 or Windows 11 laptop just by looking at the webcam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "originalUrl": "https://www.cnet.com/tech/computing/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/O9M85vzPI46U5dANLE-2mEbt1Vw=/1200x630/2017/08/28/d55d6635-687d-485d-9416-92f083955b66/lenovo-miix-720-15.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "publishedDateTime": "2021-12-30T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

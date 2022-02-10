@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/61f3fb187b4db966ab7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "HLqJo73eR24hd6Ka9yPOeakqh58Xwfaw/AzAitLNwjUcaHEmiMUrvC569gY81IOjw1UjDSHI4xiVxMdp0l0FCoMm/NHSDyuL5JFBV2abt1nK3xo1951bJ+ialKsn0mSOnZTdHS7nEFOFn/fzwbo9eupShayPEoR2XsaVjFRP2XugW9E0l8hp1a5bo2SFHXGN4NZ8HvrWGJzEQwvivAefIPh/3m+y6J4nLefL3wHUeURM6TlZbOqyfJqryeBQmv9Qvyrqt3RcWZMFbDnILyCvvKarKP7mnB0ZXwnvmA2Le/OzKw3OQeD2SdHACwuRCJACAURbRl/lRzfgaqWLO0K8wdsOOeHdJUPGVR42L40hudE=;XQnVvSZX16IHCKX2SpZRrA=="
+secured: "yiI/QdSif04rEMD2D4RhwpmXLtXYsXpfH9T1zLCdhivGxbmKZgNA6+IPsC0Rr6Hpf1iH3hCEZIbR1yaP9dwoiUtP+GQNQ3ZlgZbYcdxHJBZWUj3/YX0hsnVaYuytXGJRigPRvaC+vHh3wzCQmz4LOC9S4xeRK/bGUcZ6h2hYZMrtb/4Bx0l8jHlRxIo8gqWSngS2HJqgXb9CUXHOK/csBZPwo4mQdYApA3exzMXi0uJtbYCLr4Itg034oMSrO5ofZW+6GIu5De2psKqGCAGPdoNWeOkiwk3DQfKOCi609ISCxoEWqh9y/pChaaYrI1rr06qmD2unBu+QMRtoD/2JsaYXqMb3f3S2+ymrROxqnQJvh9oVZf6FQwqUdcWSC1puew9yUiWOQDxfFziyDkDLJWkwBlmruhMm4U+EJOvIs0mXFixX8tsaQGkS2Pr8Hd63DrQT/nOr6PaWxvBxxDdiLpflyeVweyQw1/ONcAp23Kq1SuC9QetHUZraaOSsgWM7xl4NQ58Dh/I7pfLvG8ZzRg==;JpZUf9ViiSw0Ztbrhzl1VQ=="
 ---
 

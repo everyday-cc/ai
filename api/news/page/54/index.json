@@ -2,6 +2,127 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-12-21-the-global-deep-learning-market-is-projected-to-reach-us605-billion-by-2025.md",
+      "title": "The Global Deep Learning Market is Projected to Reach US$60.5 Billion by 2025",
+      "excerpt": "Deep learning is a division of machine learning that uses layered algorithmic models for analyzing data. The deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "originalUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/The-Global-Deep-Learning-Market-is-Projected-to-Reach-US60.5-Billion-by-2025.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
+      "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
+      "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-deadwood-sd.md",
+      "title": "Computer Vision Scientist Salary in Deadwood, SD",
+      "excerpt": "How much does a Computer Vision Scientist make in Deadwood, SD? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
+      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheLadders.com",
+        "domain": "theladders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
       "title": "Computer Vision Scientist Salary in Rockville, UT",
       "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
@@ -968,144 +1089,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-natural-language-processing-market-size-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2030.md",
-      "title": "Natural Language Processing Market Size 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2030",
-      "excerpt": "Dec 20, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing Market for 2021 till 2030. Report further now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2030-2021-12-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2030-2021-12-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-5-artificial-intelligence-stocks-in-cathie-woods-portfolio.md",
-      "title": "5 Artificial Intelligence Stocks in Cathie Wood’s Portfolio",
-      "excerpt": "(NYSE:TDOC) represented 5.01% of Cathie Wood’s portfolio. In Q3, the company reported revenue of $521.6 million, up 80.6% from the prior-year quarter. Of the 867 hedge funds tracked by Insider Monkey,",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
-          "width": 1613,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-computer-science-course-listing.md",
-      "title": "Computer Science Course Listing",
-      "excerpt": "and object recognition. An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "originalUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uml.edu/Images/Allen-House-river-1400_tcm18-197005.jpg?w=x",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UMass Lowell",
-        "domain": "uml.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

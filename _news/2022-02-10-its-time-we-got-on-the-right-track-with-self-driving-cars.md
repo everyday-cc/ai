@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving big-rigs will haul freight in Arizona"
-    excerpt: "In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in the vehicle. But it can only operate along predefined, mapped routes — which TuSimple has done between Tucson and Phoenix. In its seven ..."
-    publishedDateTime: 2022-02-06T05:27:00Z
-    webUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.html"
-    ampWebUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
-    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
+  - title: "‘Full Self-Driving’ clips show Teslas on train tracks and fighting for control. Experts see deep flaws."
+    excerpt: "SAN FRANCISCO — In one clip, a Tesla tries to drive down some light-rail tracks. In another, a Tesla fails to stop for a pedestrian in a crosswalk. And at one point, the most advanced driver-assistance product available to consumers appears to slam into ..."
+    publishedDateTime: 2022-02-10T12:40:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/02/10/video-tesla-full-self-driving-beta/"
     type: article
     provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 44
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 38
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/5e/c5e328d8-85cd-11ec-ad31-b773d76c35c7/61fd43f4c0ea3.image.jpg?resize=1024%2C540"
-        width: 1024
-        height: 540
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-03-2022/t_fefb67b9c94843549d523f58bd5121cc_name_TESLA_FSD80.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "'Full Self-Driving' Tesla Nearly Hits Biker Seconds After YouTuber Trumpets Beta Safety"
+    excerpt: "It's no secret that fans of Tesla always stand at the ready to defend the company and its technology, regardless of the situation. A particularly painful video from Tesla pundits who almost hit a cyclist shows just how dangerous this attitude can be,"
+    publishedDateTime: 2022-02-09T11:30:00Z
+    webUrl: "https://www.thedrive.com/news/44216/this-tesla-self-driving-fail-video-is-exactly-whats-wrong-with-tesla-stans"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 31
+    images:
+      - url: "https://www.thedrive.com/content-b/message-editor%2F1644370325024-tweet.png?quality=60"
+        width: 584
+        height: 581
         isCached: true
 
 secured: "qWvrGje4WFguHstl4r7yjn9bmNVpz+oSOXfATb6Iv7OPhVpW5K6ubFI93/mUjF+pJTxUlkhJk+vexkg1vE+7HiRfCNflACPhfP8o3s7iyU4Ma7JbC7txV2HPFAWYkoHqeMwRPPAfwrfW/ZvdmdvU0t/w+5bbObPXkR7cSh8DdhWBKvrcY88Bl/uvbacaBe6NrTka310n5LhQt8541b5UOWNoofwv7GwXAFzlH0UB4XShnqfMZCVHbPni5tLUaPv9FZrDBhBr+KOdla7MAlYvDXsNFyZkwax4Z2T3wrdbj4hmErGfx2lWP2cGojCKfb7WjvRt97qC7gOWYM/xyr/46sj3/BRnuMA8+IF8R5OXnmE=;rBLdApEX6QQzSikunmpEPA=="
