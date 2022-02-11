@@ -2,9 +2,9 @@
 category: news
 title: "Role Of Big Data In Fintech Industry"
 excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
-publishedDateTime: 2022-02-08T23:59:00Z
-originalUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
-webUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
+publishedDateTime: 2022-02-09T00:00:00Z
+originalUrl: "https://www.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
+webUrl: "https://www.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
 type: article
 quality: 24
 heat: -1
@@ -171,6 +171,6 @@ related:
         height: 810
         isCached: true
 
-secured: "FPbpBoVpC8EW5Vk4/3a/nF7NuQGEMrX/u1GF0L3RJcZkjWCR5OOU+hifANLVjIjZZENmvr5tx08YBNnrj1d4XBXM0r2l2qae661EI6/PvmpmjE7IYlRuiP+k4qyespqSpgWnSboMiy7Z3cNp+/SwYCVTWZGm2E8jK7W/XRGIzdfeCweI780hqsE6blepKZBmVN3Acm0yLoWULp9ekmXHzi2b6NfeBfN4tp6GGQdVgW1hFyYqnpxbjcwS81mX8CQ1DlU+8vdlD7BRuy/7AHviNKM/sLx64ceJFkaGet6tIgygwREa2YDviHh5qBxT0j5fPwPWjkAgDxzWgU4UGc8fz6yhB+EiRjWAjqV0ihhNrFcI5UL6c3i5woj2a6xmc0vfFuoihkodMp1VkTgOYuz93xmAbb03RoGR8sXJB/3NUjeh/tCaNdtacE5U5tUqZsw3uwUgmhPQN87PsF3KCLgliMSt6DT9VEi/6MBoNKrqQKt2DTKkfhrpGTu97gZ/TkeC5phbKAdS8ulSGTpK8WYwoQ==;xNFp1ENmypZJGRVLe9K+Yg=="
+secured: "zUu9CYZL7ckrCpkvA+5stF+uHRLVsj3B/aQd6aAkeoxcUyNYLOWhXNIaeYpExZ89MdM532htgxLIXztwzSrPBS+wnb3kkCgRyUQxxfwbPfGxURatk2nB6aKRe1hIczulxkws3e3wp6HIiYvpCK6gSkEoY3dQYmage8l2bLg5aoyk1p76oWIZnos8E1ztNaFOyMlZX6ZhhlSJaqUOoGaOEq6ugwSl/OLZLoHZaKI1gbm7AlorrjT9s7RTHa4g++suPyuX1xf7A3AeQ6nbB5tq4zi+LBbo3AvzHWXcr1C99ukOZ1KDWti3onzN+CiryPOZn/IzmVF/xfiL1nfxGZyWVnudaC6kK1oh9br1o1xRO6U=;52jx8iJiCEYkWJfNjKkleg=="
 ---
 

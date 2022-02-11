@@ -3,18 +3,18 @@ category: news
 title: "Government agencies will get more verification options after face-recognition backlash"
 excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
 publishedDateTime: 2022-02-10T15:55:00Z
-originalUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
-webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
-ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+originalUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
+webUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
+ampWebUrl: "https://www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - Computer Vision
@@ -524,6 +524,22 @@ related:
         width: 1280
         height: 1270
         isCached: true
+  - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
+    excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
+    publishedDateTime: 2022-02-11T00:45:00Z
+    webUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/"
+    ampWebUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 48
+    images:
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/02/AP1160239734938483.jpg?w=1280"
+        width: 1280
+        height: 674
+        isCached: true
   - title: "IRS says it will scrap facial-recognition ID.me plan following backlash"
     excerpt: "Tax agency backtracks after lawmakers and taxpayers voice concern that ID system could put personal data at risk."
     publishedDateTime: 2022-02-07T19:38:00Z
@@ -879,6 +895,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "M2Ogm7wxhCjjagFS9h8c+nOV/iQJvFiP3U/b+DoYKPZCd+C0dNS4sDW6H184/LxOdXHmVT0KimP5dWMcxqInCJMdkV9sB6I935X2irCv608+mkY1sT86RB9+ebmQlZtbc/oAtk4tQwv3pKqRzc9r5l56qc7Wxxjn7ddI4xqx5YbVioTyDga6qp9/7faateBYgtZowtR6dLWtJ7D9wvY8b7fXphyD8iI/Y9vZW2bQDuYkGq0RQaggbbXFOA/Jr/AhsO6P7dU0xC41PPqdiLUT0EN3CzSkbolVr3o+LMf6bFSRzUdKiNR4PkI2N1k9/NmNjLHMagQubE2oE6f30tVG6Yjw3CHMhn3VwUSgDi7fQ7XAR8Q4ri3otT12kO1eunhDKiGu+v5Rnx8fwmPtvQu+gj31ocLNNFlHWsScDFY1pOZaNHorlXyPaQHIgBeArkEL8b7PUKO+OqzJ6QVdHNt6tS9cd+ol72/mjzbcij2RszPz/VR8WtWhBJc0cd5kIcrrw1Mn0J209IPYypwQEIbuCQ==;x4rKZTPYutPO0t70i4vqeA=="
+secured: "8wOa5/ewcPAfS03YDODUinS/6C2e0dohdgn/ByGaI0n5yVSmYLbk+j0b3efJfTKlSsFjeW84j2jNHT1wwacuz1g5Vctg2Mlp0XV7t23Oz6y35kH8ctYpxcn9sBbM+EaOhqmElwM9SXNO12NKHdge/rcgySIkD97dMDlhlLTpIOwKWv0cn1Cd/ivRoxi4q8D1A7u/e/BWCKTpaneKIJ8e4UEffqyr5gDPhdA0BGTXsw42BDQd6cyx0OpmUtDVtVEd1vs7Zy2A0Qfxeq3v/wn7BrUWtsveIa5DDqgex+9AhFYN4Hu7CqEyhRHshvrouf5fRv1t2imiJH+O8TG4jAtRhfTE4YgyAh8S8PKvBPaagEs=;uyri8kFJDardycRpXBBEkA=="
 ---
 

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Article: Entering and staying resilient in an innovating industry: Women tech leaders on opportunities in AI, ML sector"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML ... Birlasoft says to mitigate any ethical complications and risks related to this, the role of an ethics leader for new-age technologies will be in demand, with increased ethical business practices ..."
+    publishedDateTime: 2022-02-11T01:22:00Z
+    webUrl: "https://www.peoplematters.in/article/diversity/entering-and-staying-resilient-in-an-innovating-industry-women-tech-leaders-on-opportunities-in-ai-ml-sector-32692"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 32
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1643716966/ad-kqkzykwk.jpg"
+        width: 990
+        height: 550
+        isCached: true
   - title: "5G, internet, AI on agenda for Feb meeting of global industry leaders, policymakers"
     excerpt: "Global industry leaders and policymakers will meet in Geneva at the end of February to discuss technical standards to drive sustainable development in fields such as 5G, the internet and artificial intelligence (AI), the International Telecommunication ..."
     publishedDateTime: 2022-02-07T22:56:00Z

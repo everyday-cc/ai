@@ -1,31 +1,59 @@
 ---
 category: news
 title: "Facial analysis improves diagnosis"
-excerpt: "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible ... this varies from disease to disease. Artificial intelligence (AI) uses these ..."
-publishedDateTime: 2022-02-10T18:49:00Z
-originalUrl: "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html"
-webUrl: "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp"
+excerpt: "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible,\" says ... However, this varies from disease to disease. Artificial intelligence (AI) uses these facial characteristics, calculates the similarities ..."
+publishedDateTime: 2022-02-11T01:59:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/02/220210114016.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/02/220210114016.htm"
 type: article
-quality: 44
-heat: 44
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/facial-analysis-improv.jpg"
-    width: 1051
-    height: 1388
-    isCached: true
+related:
+  - title: "Artificial intelligence uses facial features to better diagnose rare genetic diseases"
+    excerpt: "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible,\" says ... However, this varies from disease to disease. Artificial intelligence (AI) uses these facial characteristics, calculates the similarities ..."
+    publishedDateTime: 2022-02-11T02:40:00Z
+    webUrl: "https://www.news-medical.net/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Italy’s AI-powered rare genetic disease detector GenomeUp raises $1.2 million"
+    excerpt: "Rome-based medical SaaS GenomeUp is using Artificial Intelligence to power a series of solutions for genetic analysis and clinical decision support for diseases"
+    publishedDateTime: 2022-02-08T06:00:00Z
+    webUrl: "https://tech.eu/2022/02/08/italys-ai-powered-rare-genetic-disease-detector-genomeup-raises-12-million"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 34
+    images:
+      - url: "https://cdn.tech.eu/uploads/2022/02/genome-872.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "y/QEEXwmr3HswoRp5NE3KjlpyHeHPP+DPdDQaYA4ShFNvekYfknogt51y0uNooQBvBde4vWAN4D2BWgLXXGo+Nuh4tIR7eOst+sll1lQsN1nMcFGXd7egDq88mp0u6loxf52CJaR8vjA0y79IkOIxN5+FjAedXs3Ezrp1z/1Qe1ONYs/lwdjCQW23PfAzL5l0qmbYFew4voA1jbDpcNH6NK7wYjjDvl4u2jlMWFTk+CL0sKlqdm4uELdaK16j2vlEkEj5+z4YYDMuwXGOFV3BY2BLFCcTXEk/QgDio24vcYV2j/wGUG9mTT9RVzxafEmWcVg/B9NK147SUBWR85rAJRF78qUs/hAF/eLws4yUazwrwyvmtQkatwtgHUiOoLMaY/+21MQNStTCA6Io3Juwlr2HugusWg07vlEq7/HA+DUW86ZD5o61PwKHcgoV45j+cVaRvqNaWy9TzcowYNY2S2t438ED549jAYH8pMqQw5gl/0v6YDtYRWQI+Ru3FrY0v0Npjs5ZrwC/K7DRUWTNA==;0uB6V9aEKycwP9dWU7VmCA=="
+secured: "1NQmA0rvN8uaFMqkUsp9PNPrU/3n5N/kGDedlUdqVPBFWIu7MVGNLrWFDOyq4b6zS5AnxZOUDv3kLjyZMyJV3wAKfJcFvxyaPVQnmmDW3H0BvVipgqJeFoxEssh3YY3nNq1AbDTCdmse1ggP+G50/5GBPTetiSQJGWa0Mqioax6L89Omj/u4cI/7RyV4XyHjxHWu2lKh1Q55TaIOfO2FLAmm1mj34Pji5xHaGKQA8LePiU1ReGLjLWqrF6eAcHmthUMvQWDSDwmWM0czyPZmoLEt2NBuq+3dgOHPSt/DIls1JpqOtm+ranB+xLL4yv+71iO5aisZ0qvIPIlxjiRaQe9LZMId5b6zFnTKkpy7KKc=;hiWGpw7xE6ulewpqu20mFA=="
 ---
 
