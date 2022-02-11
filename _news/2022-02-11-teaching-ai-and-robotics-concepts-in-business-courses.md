@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts-in-business-courses/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1199
     height: 622
     isCached: true
-
-related:
-  - title: "Recognizing and Eliminating Bias in Artificial Intelligence"
-    excerpt: "Over the last couple of years, the society has begun to wrestle with the extent to which human prejudices might infiltrate artificial intelligence systems, with potentially disastrous consequences. Being acutely aware of those risks and striving to ..."
-    publishedDateTime: 2022-02-09T09:06:00Z
-    webUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/"
-    ampWebUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 61
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Recognizing-and-Eliminating-Bias-in-Artificial-Intelligence-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "YIYAuigWM7YakyDHrJOjqocVpiIjrznSx+DNrn3HnERPmQlOyF+femKxW5M/mCZ0zQuAC2Qzhla73L/uthpkXdLCR1DEfgcRaNwdHlcvd+fGP8O6hx0Qf1CDh4LZ4KAMx0+5G98K1lJl8V1HNvw1VhHqnS1/+AeIon3YMfRZCooH9vlY6zwLS+fYCgRN+UCqS1Dh8Riy38O25xsRj4Sxo8v3LkkvRSX0x6/cJICUtUwQTkMNNZJX8UvHacCdbueTZlxjFPvmaMfG4Nnyq7GIgO0zM0Mt+C8UgJUN/FOgXgqphIJ6ViBVPobV+o3J3u1OJvxKAow0x4ODadBik4jBUG+TbaRn1CG/LRUT6KEd6kle+PcG4MIR2YDaPCmKJMt//30JJtWywA1rktpxphMQXHqZzNLS02eiRwR1+PBOOno2FzQtak1C0961oFZBWb2Q/eM4nRe0v4wL9p9cK/o3Nj4HpazuDPHOmvGQiYOPd1Reod1tRQc0LCwKLv9WDQyGLfTt8vDoWGD1btZhyUjYLg==;hOj+/fnkGO++ortrGUuIlw=="
 ---

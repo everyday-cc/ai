@@ -7,7 +7,7 @@ originalUrl: "https://en.trend.az/business/3552477.html"
 webUrl: "https://en.trend.az/business/3552477.html"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 979
     height: 608
     isCached: true
+
+related:
+  - title: "Azerbaijan to develop national artificial intelligence strategy"
+    excerpt: "Artificial intelligence offers a wide range of potential applications, including transportation, healthcare, education, agriculture, cybersecurity, and so on. It has the potential to increase worker productivity, stimulate economic growth, and improve the ..."
+    publishedDateTime: 2022-02-11T12:56:00Z
+    webUrl: "https://www.azernews.az/nation/189013.html"
+    type: article
+    provider:
+      name: Azer News
+      domain: azernews.az
+    quality: 56
+    images:
+      - url: "https://www.azernews.az/media/2022/02/10/aritificial-intelligence-photo.jpg"
+        width: 1280
+        height: 707
+        isCached: true
 
 secured: "xbAmOkTTNUpDgF8RMqcgwVIToD/rC8Hw53cwAba4FUTeXQF2LO1zracyk/m49uYhyQ1ewGdGLLUvYHUQwavmq8VDLc7eh1dFw3iESc6jajR63+tpq9zgDWnPqK48cdVkVos++gRHuJnsW9xTw+G5g58jALxwe0cxIIDy3p5qaSob/3AXncAtZ06owe6PB+vmE+nmtiKxV8V77/PGBXbXWVHfMac2aypZ6J1J1SvBD/f0LQPoNFtSd7umjQ5FYmkY8zhmOsMmTa6teFP96Y+A9u7sS9kCu5HjRwhLqErXUVf6IK73aGieqPcEPDK7EPCJYTszV3z8Lg39O1pei5XQUkMPm+sSRpvXwjLgFdDMCSI=;g9wVXm8DXkSUL/TmmW1Dag=="
 ---

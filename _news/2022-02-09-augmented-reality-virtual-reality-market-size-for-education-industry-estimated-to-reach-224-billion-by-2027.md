@@ -40,20 +40,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Social Media Market Sales Revenue, Growth Factors, Future Trends, and Demand by Forecast to 2027 | COVID-19 Effects"
-    excerpt: "These data are needed to be aligned and managed properly. Therefore, the demand to manage and secure social media data is propelling the use of AI. This has led to the rise in the adoption of AI technologies in social media, and AI-based smartphones are ..."
-    publishedDateTime: 2022-02-09T08:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-sales-revenue-growth-factors-future-trends-and-demand-by-forecast-to-2027-covid-19-effects"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ENlzhJYH2hljremH7ClvkvrG09JHBj84CA6XXj2Irt3pzk4xA7WE2WVZbHkfZuAOJgS0j0A34ZadoHbDJKSHIpe7R98ppSpMvxIMCArMuRg9SCPdNU0blqtrR7eu3fv32Kvo2SiXqon2X4OwYC4yVkfvEYsTmBNBU9FwfQ5yUtw/XuWet5yntRXy32KWxHiNHESsSZkig67usBu13AjyHUjUyOT+RQ1H179GtIhGOJ/YvEiQa1kLinup3Qew/c7YUOu/xjBJipbmAGOYZdtpnmG31pdOBDZaGUVUglWondSiBOfxhU79n71v1V8sAtnlAdP/gT/VxQV8yf5T5q84GlUq13MCagA4RyyVFXYDqMY=;XaPbftPG+HZOq8A3vG7hHQ=="
 ---

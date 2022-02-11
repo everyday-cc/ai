@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220210/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
+    quality: 34
+  - title: "FDNA Publishes Study in Nature Genetics Describing Breakthrough in AI for Rare Disease Identification"
+    excerpt: "FDNA, the leader for the early detection of rare genetic diseases, announced today that its breakthrough study findings were published in the esteemed peer-reviewed journal Nature Genetics, in a paper titled \"GestaltMatcher facilitates rare disease matching using facial phenotype descriptors."
+    publishedDateTime: 2022-02-11T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fdna-publishes-study-in-nature-genetics-describing-breakthrough-in-ai-for-rare-disease-identification-1031186632"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
 
 secured: "fim/FY+fuXso7ktddeI9iL73x/nIqlJ+QR7YSjFLLRjYlFFTm6TbveHMaOOodxgkp4SuMvg+JLpRITGeNLeqrv1flyxbUkFhYCTO+09PLGsYnZs8zXObuAmWgnqv2UbrYTF86DBEpPOK6HAXN7wasWi78/hfrunAUgmIHjST/1lDjShzdDsCDArn6IQIGglMY++jVuk6/BtqnMIM1xhSmiM7MbValXfZJu63IjjrOQONb4oPaQMsnv0+dIcfr29s5PfJrUClJQSQCAyOdbFXHI7BLUwXD2PXOYX9qflpbZ3Qhe9p35VYQ78yvfb3FbVZ8GBZd1gjfEx/4V3hjoPfBJCbJMoabVr5wQt7HGjerr4=;ci9ohoRXfbWNjkjgPlu4Bw=="

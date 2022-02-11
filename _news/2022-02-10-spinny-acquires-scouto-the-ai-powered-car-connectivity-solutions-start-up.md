@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spinny acquires AI-powered car connectivity solutions’ startup, Scouto"
+    excerpt: "New Delhi: Pre-owned car retailing platform Spinny has acquired a 100% stake in AI-powered Connected Car startup Scouto. The deal will mark one of the first consolidations in the AI-powered used car solutions segment where Spinny is gunning big to emerge ..."
+    publishedDateTime: 2022-02-11T09:12:00Z
+    webUrl: "https://indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
+    ampWebUrl: "https://indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 57
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/02/Spinny-Logo-1024x430.png"
+        width: 1024
+        height: 430
+        isCached: true
   - title: "Pre-owned car retailing platform Spinny acquires AI-powered car connectivity solutions startup Scouto"
     excerpt: "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space Founded by ex-racecar driver Akshay Gupta and Shubham ..."
     publishedDateTime: 2022-02-10T10:19:00Z

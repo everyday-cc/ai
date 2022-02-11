@@ -1,16 +1,14 @@
 ---
 category: news
 title: "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence"
-excerpt: "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for seniors, a policy brief by the World Health Organization shows that potential issues can be eliminated by taking various steps, including optimal design ..."
+excerpt: "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ..."
 publishedDateTime: 2022-02-10T14:17:00Z
 originalUrl: "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence"
-webUrl: "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence"
-ampWebUrl: "https://healthitanalytics.com/news/amp/who-its-time-to-eliminate-ageism-in-artificial-intelligence"
-cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/who-its-time-to-eliminate-ageism-in-artificial-intelligence"
+webUrl: "https://www.who.int/publications/i/item/9789240040793"
 type: article
-quality: 61
-heat: 61
-published: false
+quality: 137
+heat: 137
+published: true
 
 provider:
   name: Analytics
@@ -18,15 +16,13 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI Ethics
 
 images:
-  - url: "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg"
-    width: 480
-    height: 278
+  - url: "https://www.who.int/images/default-source/campaigns/global-campaign-to-combat-ageism/ageism-in-ai---cover.tmb-1200v.jpg?sfvrsn=8925a8df_1"
+    width: 1200
+    height: 1697
     isCached: true
 
-secured: "sdjWwOUv/FTwz4So+RzlvQjqWFgoJtTMhCWzAsV3f3nUcaeNaSI3zHLqy9OqXSA/euHFdimijtzNbGhqkg8mqYDzI/qJl9WrBB3495Xkv6U8TeKZHmfCkKMKX9BYt0UJ4ezaB2/xKhV4Oyz17xya3Hh6N/KN6EUP/1lpwVOCXdiP1QWP8nc6t+ArY/OuOL1bWLjQ3nn+UzSz3SDC/XVTy7HZxkJi/XLwtTJg54vkrWNgNCELAoytwI6PzlnXx3P/38LNpabK9SbMGgp7kQrWStKdp1H5FHf7+6w2IYE/8NfWEdCkmlyW2imCdUX4NWmqpmQBO0RAJMrJL6Jq+2YwZw9YBkiGCiu5SHf+2w+zYIs7qpaJNphyO6D60wb/iPSSF2XqhDpLGwxjSBsMhEvuQLwyrsKsu1UQY8uekeVEV2zq0AToOR7ONenifCStuMkyvIIwP8e8bMSwdtIdzu5uKH5PoFKOJpgVldzOu3hJfk4rLWNu/pp+rcqjweG20u9IvBfbcht6qwkuRMcbknXQIA==;R7Hi81NktlTl8sWkNOV2PQ=="
+secured: "OxCY/fPXhvjBu+6B9ZuePkTUBwhuH9ozqzidjCGJiJt48NNJMQW2cux4OmmSCfHjUSoFfHklCBsATZBOQuMOMB6sKNkrSUCowG/AmV/7WeX7gk8VZU19z4WcyXYHXCzOUs1KFwS+XjRIMYU6BofvEmh3Oe42D+4G8aTjli5GwJ1cOXMrbbGFRiuakXbXGexDbM731bt7sYHSuJTACLKbNe5c8NnFPDe0N1Z7x30NjCAXBuVTNcL6jF+z6zGlvJnLzjmN/l6ibXHH1Dw5Yi8pV3PPRituvPcrXuk7o2QqSuCJYHjzJstEkhVm99TCTuGRaYc3mazhrjQsBfODKmaHpczYVO7+1a8i1YFOylz0zsI=;zbUXxVRxVMzEV6eFk017TA=="
 ---
 

@@ -6,9 +6,9 @@ publishedDateTime: 2022-02-09T22:25:00Z
 originalUrl: "https://www.thedrive.com/the-war-zone/44230/army-buys-artificial-intelligence-infused-folding-quadcopters-for-battlefield-use"
 webUrl: "https://www.thedrive.com/the-war-zone/44230/army-buys-artificial-intelligence-infused-folding-quadcopters-for-battlefield-use"
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 132
+heat: 132
+published: true
 
 provider:
   name: The Drive
@@ -23,6 +23,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "SStUBFPsw/KOlwL+xWJw03rReQ7mbdSfPm+4lsEKlhlmr72r7abLEunK6HelgdYlNoTAmr0OGy54LPgs32LOBkU1KfGB8RqLzhgfFWd29zhIB9q2STgnD5yYfBagqNLz0E5C55IsgNR7mgV2M26K+aooitRC4qKGJnODDUP4UXKN2sA/d/ki4ebGo10Mj71zgxB+dQ1P7bMJwb4eCKhLisCJNrBfDOCZ7nSBoIHw5DGcLV2BSqE5hqyw8LxecymNAOw0shWE6ecgVG1+2fpafnzaNiSqPEwKW3jpkqT7gY3WOiZjXXUddEeWE9qA9Y0ONyCgMlD2KLv0YJyAgEJZNp2o4g7Xp9leyeJY9iUls6nCh904W+uYfJHzSbokxKFGA3hTWRWPSiBfNmQtx+uQqF9tjQtiRYWoP5TmWzgKlpGaPNwqicSh4/wG9S4Zmrxbkhgjxqz0owKbgbcUUVA40gBhgH5usLWsMGqNtZHUHT+vBcgtUKPXyyYH3TGA3Exssq2IMyTxduB/0vleqodZsA==;K3syaYO2hRA7ScwyxX6dhA=="
+secured: "EOiP1uq1PRdzz/2onBxZm8//zHf5F9ZelwhriYGhv3cMdyQuxAOiyGml6wVmn+gDznGK8nLn2rLJoNt0P4TxEWGBn1CTz1BII75w5oAXf14Cjyz4UTc/10xzZmI/oE3QLhJevbF2n12qfkqYQdrGCeoyilvcEgi6nVBIP3HY5yo6HzuS90+0lDYnrRl5qPsK3aU7oYr7/Ct4tDVevUJMPa7tEswAaQJNZoQ15+mp8zrpyXwgCxm8y4lT0eSVFnksN8iNcwF9WxYIM5BmA7tBuaKSTbkLZHdXPlurteKZqOTjZdLStecGpILtvMagrNWMe69Jdj/rE6GJi9wPR0ypQ0/Sa1J0D9N9N3OMhUX1Smsk5DYLYqxCDlGOXJEqbMK9CqAT1IWRiqdTR46kF/Xb8fUMHki4cyhAAYL+mPZAwWBpROSUnGJlOCvBqSEwhIRqSGWLnjsLTXSOL2rFbYOoEhkKcCMrBIFU6Ru85JYoqXjpYVemEdPRO8V+dAZqn+LVox6LK2cnBeFhTwmlpgy+fNZTHYjpKUkVv1A6yyA9fpQ=;7E/eRt3E81hrlg/FFNNIZA=="
 ---
 

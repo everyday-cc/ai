@@ -42,34 +42,6 @@ related:
         width: 1918
         height: 1080
         isCached: true
-  - title: "Putting AI to Practical Use in Cybersecurity"
-    excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."
-    publishedDateTime: 2022-02-09T23:40:00Z
-    webUrl: "https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc397638f1d4603f4/62044b557290bb4b19d5beba/robots_ai_Besjunior_AlamyStockPhoto.jpg"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Query.AI Earns Gold in the 2022 Cybersecurity Excellence Awards"
-    excerpt: "Because of its unique ability to unlock access to and value from cybersecurity data wherever it is stored, regardless of vendor or technology, and without requiring centralization, the Query.AI Security Investigations Platform has won gold in the 2022 ..."
-    publishedDateTime: 2022-02-09T18:32:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/query-ai-earns-gold-in-the-2022-cybersecurity-excellence-awards/article_e53548bf-154f-5b84-8a4f-ebd40f4ee8b0.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/47/a47d5221-522f-5117-a471-b8bc996fa2b4/61ae1b6ba12df.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
-        width: 1194
-        height: 627
-        isCached: true
   - title: "Deep Instinct Welcomes Two New Cybersecurity Experts to Executive Leadership Team"
     excerpt: "NEW YORK, Feb. 10, 2022 /PRNewswire/ -- Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced the addition of two recognized security experts to its executive leadership team. Yariv Fishman joins as Vice ..."
     publishedDateTime: 2022-02-10T20:33:00Z

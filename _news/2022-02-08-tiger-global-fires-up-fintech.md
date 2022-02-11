@@ -170,6 +170,34 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trends that will shape the Fintech industry in 2022"
+    excerpt: "This will finally allow businesses, and the fintech industry in particular ... Voice-enabled payment: With rapid improvements in AI-based voice technologies ensuring high precision in natural language processing, voice-enabled payments are expected ..."
+    publishedDateTime: 2022-02-10T08:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/trends-shape-fintech-industry-2022-milan-ganatra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
+  - title: "11/02 – Weekly Fintech Recap"
+    excerpt: "Refinitiv AI Alerts seeks to provide personalized ... has partnered with Visa as the London-based fintech prepares to roll out its inclusive Global Currency Account and debit cards across the Asia Pacific. Founded in 2019, Sokin is committed to supporting ..."
+    publishedDateTime: 2022-02-11T14:22:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1102-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KRNajjMdFvZTWUAgWdS41R787MwUTa8xoMHyjuJTlZJUI4PRyzQ34WUTHJFfPUsi9bo3TrAk5megbSdPHWZ29Q1FdrYvUA7qRI3zeBh3p2FabdTklWgWR2YV0Kb3Xf94NSWmi5SU0y0BAF2bQ430gMZ3rfp5jTAf0A6CugHHjk9gA3hOB3ehG6LgaL36B6ulAt5VHjay4D/+mC7woqbpLbR1FLR3vLSo0bMb8TAKPUwnwtAHjYN0O6xV22bpuHP/qXEMETD2rasH5Jns8NQ+sR4NapOI1Ji8SOxmef+VFJH296DKIx4r5lLHrIr1J2FK11ScupowgX3zWkVeM4kriq2Ig5JWbG+CS6otRXqSxDTEPKR8weYMVFKZseSAz0wZY4KHgW8dBpmuzdAsCt8IFfffTLv2o0VNSFFPjhXVJGisFvsh3HjgvQ/1q/yOyMxv/2dD0K1LD9RjtKytUljisxKA9LrAPVNvQb9xhplwKVaX7tdSnRILhlL+cs93/Fq7kXRKil7iqX+Zq94pgcPPtg==;V8+4cCTqNsFrHg6AiPLnkw=="
 ---

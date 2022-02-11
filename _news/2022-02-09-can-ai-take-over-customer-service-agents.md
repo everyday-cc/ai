@@ -7,7 +7,7 @@ originalUrl: "https://news.tmcnet.com/topics/articles/2022/02/08/451454-ai-take-
 webUrl: "https://news.tmcnet.com/topics/articles/2022/02/08/451454-ai-take-over-customer-service-agents.htm"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "Pegasystems aims for better customer service through AI"
+    excerpt: "Pegasystems (NASDAQ: PEGA) is hoping to streamline and improve the experience — and for customers and agents alike — with its two new products, Voice AI and Messaging AI. The Cambridge ..."
+    publishedDateTime: 2022-02-11T14:36:00Z
+    webUrl: "https://venturebeat.com/2022/02/11/pegasystems-aims-for-better-customer-service-through-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/02/11/pegasystems-aims-for-better-customer-service-through-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/pegasystems-aims-for-better-customer-service-through-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2012/07/ss-customer-support.jpg?w=1200&strip=all"
+        width: 655
+        height: 473
+        isCached: true
+  - title: "Pegasystems Debuts Voice AI, Messaging AI Solutions to Support CX Agent Experience"
+    excerpt: "Pegasystems Inc., a Cambridge, Mass-based provider of customer experience software solutions, announced today Pega Voice AI and Messaging AI. These new solutions analyze live customer service conversations in real time and are designed to help CX agents ..."
+    publishedDateTime: 2022-02-08T14:18:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/pegasystems-debuts-voice-ai-messaging-ai-solutions-to-support-cx-agent-experience/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/pegasystems-debuts-voice-ai-messaging-ai-solutions-to-support-cx-agent-experience/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/pegasystems-debuts-voice-ai-messaging-ai-solutions-to-support-cx-agent-experience/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 51
+    images:
+      - url: "https://www.cmswire.com/-/media/50c6f033b2a548f18f6789dc01cb7b6e.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "AI can help improve customers' service experience"
     excerpt: "In January, News Editor Dan Shine spoke with Kim Saylor, 55, director of product marketing at CDK Global, about how AI can improve customer experience and increase revenue in the service department. Here are edited excerpts. A: We have an increasing amount ..."
     publishedDateTime: 2022-02-07T05:07:00Z

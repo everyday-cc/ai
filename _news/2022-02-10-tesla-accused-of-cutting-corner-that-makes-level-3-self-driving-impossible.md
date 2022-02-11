@@ -155,19 +155,35 @@ related:
         isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-    publishedDateTime: 2022-02-11T07:22:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    publishedDateTime: 2022-02-11T13:57:00Z
+    webUrl: "https://www.cbs8.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
     type: article
     provider:
-      name: 10TV.com
-      domain: 10tv.com
+      name: CBS News 8
+      domain: cbs8.com
     quality: 59
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+      - url: "https://media.cbs8.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "'Full Self-Driving' clips show Teslas on train tracks and fighting for control. Experts see deep flaws"
+    excerpt: "Each of these moments — captured on video by a Tesla owner and posted online — reveals a fundamental weakness in Tesla's Full Self-Driving technology, according to a panel of experts assembled by the Washington Post and asked to examine the videos."
+    publishedDateTime: 2022-02-10T17:26:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/02/10/full-self-driving-clips-show-teslas-rail-tracks-failing-yield-tdn/6734640001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6734640001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6734640001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/20/PDTN/766b09c5-25eb-4df0-a8df-153f952d5296-BIZ-AUTO-TESLA-CRASH-REGULATORS-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster"
     excerpt: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster 4 the Drivers Oy is a Helsinki-based company that has been founded in 2021. The company makes hand-held manual controllers for autonomous vehicles and ..."

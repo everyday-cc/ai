@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Developing drugs with the aid of artificial intelligence"
-    excerpt: "Deep learning is a form of artificial intelligence that mimics how the brain works. It uses neural networks that form numerous connections. It is already possible to design molecules with it ..."
-    publishedDateTime: 2022-02-09T16:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-drugs-aid-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-drugs-aid-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-drugs-aid-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/developing-drugs-with.jpg"
-        width: 880
-        height: 319
-        isCached: true
   - title: "Enhancing cross-cultural dialogues with AI"
     excerpt: "A new project, led by Monash University researchers, will develop an Artificial Intelligence (AI)-assisted application to help with real-time interpretations for diplomatic talks, international business and tourism."
     publishedDateTime: 2022-02-09T23:08:00Z
@@ -59,20 +43,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Ag-tech Employing AI and Range of Tools With Dramatic Results"
-    excerpt: "An agricultural technology (ag-tech) startup in San Francisco, Plenty, plants its crops vertically indoors, in a year-round operation employing AI and robots that uses 95% less water and 99% less land than conventional farming. Plenty’s vertical farm ..."
-    publishedDateTime: 2022-02-10T15:08:00Z
-    webUrl: "https://internetofbusiness.com/ai-in-agriculture-ag-tech-employing-ai-and-range-of-tools-with-dramatic-results/"
-    type: article
-    provider:
-      name: Internet of Business
-      domain: internetofbusiness.com
-    quality: 39
-    images:
-      - url: "https://internetofbusiness.com/wp-content/uploads/2022/02/Featured-Image-2-10.jpeg"
-        width: 550
-        height: 366
-        isCached: true
   - title: "Enabling credit unions with AI"
     excerpt: "On February 1, a panel discussion was conducted addressing the topic of how credit unions can empower themselves with AI and be successful in their journey, hosted by. It’s extremely vital for credit unions to steer corporate governance in the right direction to initiate innovations so seasoned industry experts gathered to raise the topic"
     publishedDateTime: 2022-02-09T07:15:00Z
@@ -86,20 +56,6 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2021/05/bigstock-Print-358713524.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "The power of AI-driven IT Management"
-    excerpt: "Symphony SummitAI offers AI-powered Enterprise and IT Service Management solutions to business enterprises. Our goal is to transforms the way enterprises work by leveraging AI and Automation technologies to deliver consumer-grade,"
-    publishedDateTime: 2022-02-09T12:55:00Z
-    webUrl: "https://www.sify.com/technology/the-power-of-ai-driven-it-management-news-technology-wcjlQDhfchdcf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/wcjlNMiagiidg.jpeg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "uZ42054jFm4rW/4C92Jt97rED18nZ4IqUjsPSmRp/Z42fgNp1nJI458MHiUM8cCXZP4kIIh0Kyt2zx+ZZoKocnI1g8BuUOnOpzeCOo1QysnzgUXg+tV5evkijRdaLL+7yUGO/waNJs4Lp7bqpvbGj3sFUXBWtp2Ss9GjbgSomhap1CbEkK0yaAZaXR0yHXdiMNGx7zoTbeD5G7PEJGK0CjfXOqYv4gigiXHBZKUCcWwsIkCmeIKChvBsmrfolBYWBUnw7BJi3hCIEDLEVrzq/xh4/3E5oV7Nh4G2mPDN7N+sIZJRjTvuFEn5cuEFAkMyhVWn0v66TUtzj9sqnj9M3cXMjBTwAkYvLybk8WnV8vWEN8qlhPWdIBq3UQyG/zuD7aPuTmf82v4S4ha4tOc1qVmgsxk7W/w0mwjmV8QpAfFp9V0mnIdLtfPU+2vhNvoFjjMeZL14eNPQde5QUzmBah9ouOBSQVDM4/MaahIerRBE/UQDWiQOQ4uBvifMC53tvXDDpP1edKl8FaHPQC06iw==;wN06dk5FunS0TK2XkFlTfg=="

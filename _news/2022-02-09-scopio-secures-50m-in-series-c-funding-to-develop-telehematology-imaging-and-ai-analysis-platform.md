@@ -6,9 +6,9 @@ publishedDateTime: 2022-02-09T14:24:00Z
 originalUrl: "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/"
 webUrl: "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/"
 type: article
-quality: 23
-heat: 23
-published: false
+quality: 123
+heat: 123
+published: true
 
 provider:
   name: MedCity News
@@ -23,6 +23,6 @@ images:
     height: 799
     isCached: true
 
-secured: "QShumbU9YeHc2Tt9cFs6JehXuad/DU4Gk8bs9fuVsQxkycB7qdBaDrpSZq9pEolEQPtnqtQ7mOr6t9VMGvxbza21wN9+esdcYw1MQvN2/IcP3Huk/nbrJTrvi4Ti3aUt0UAtyAPHuEHAWyj7h236E9JzVLlJf4E65npZZY3KE2yp3k+Dqp9YaLb9BOISLRwlplhzvQWEA+zHeEwvldpX30OEiu4JZjIYG1eesUcMYLrv1MCFHWEPWZDulRixIMy9OatzsnqqxnRW8ptrk65yA8fP337/jJx/TorQTb4mc9MHFaf9UOZhDEplLkdVv0iFTNrii4mVNoGfWzYzHkDkfFkER0I/h245jhNv+5euzmw=;pK4lPEq/xpQ+yHsxqYfjaw=="
+secured: "MN7t2FegAzV56kCVPhsjNNlqH2xA75Y92zgNisdlpZUcBijTOXYntKoBfeQ6mJk14o+CSGsyld82j2rshHZR7BUHb6SKxvFJD5jp20BsLXRMdEP8dy3Rs83DvwQFrk6u57maooRDHug+lkB28Pp+aqF1LN6V7KDbuQYdFeGeRK117PGAWKlNvKvTd1lrlKFRuukZay1sfPoJ8W8v46tyjvT6/mfVpljnbEpazycor6UlN0GIrhdYYoNqcSUqo7ea/+cosnCs32lR0TbH2tU3qxcRLHjD/4BsoVHid5VmXk4ZggQeVFAZaVGO3KJCF5m18D/Au8xdSDtSrNBT1Xw9JIfxWZZ8NOsiDAbg56SW9LbZKVK/jigUuVwLTEBs7ti9Q+EGwl9fGsgT95IXvues+V++250BD6DckvLQaBONbQAZeUUNz8AeNs2kaLhNWWrZJ2qj1BSX7pnopMh8TjYLSZ9Rl7rXL3g6+2vpLRAEKTyVAKsc60hwWKeFTU4juv8g3Uu7OLW5z7GQiiYydAoiDbXnozsC2PFx3IEu3fiW2Vc=;VRi0XBqBawMJ7eA5OvdsPA=="
 ---
 

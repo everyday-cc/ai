@@ -767,12 +767,12 @@ related:
         isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-    publishedDateTime: 2022-02-11T10:08:00Z
-    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+    publishedDateTime: 2022-02-11T09:48:00Z
+    webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
     type: article
     provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
+      name: HHS
+      domain: govinfosecurity.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
@@ -909,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "wprj8Bsdg32Km6ROGR785KfG5yIZ9XG8fPsU2+vNvEQEIr73gsYgoRgSaoa28NUN1J8nWPi6GzNPP5Etku+zgsEZTrzbUOwM0cVeW75J7aZyfmooB9WTNYPIDR0M8WUM4A+V+UZDgldHmQTj4J3wqjTrgE+Kzqq1Sosc2xY9z8t1jxhTXFFIWb0OteTmfex1YIC3oE6dvhMp8QtDPfdabkaCafbp51YT9/R8wj2bASxKaTh3QxlKr90Gqq2FcivRYeEEIdYurlnuHtFchYbBDrJxwem2faZPCUW7+bbVGXBmAgDhWjah8J9+3AQaVfA1sYN8FFCwJEXPxQvq7Qflg3QGCGP/p+x7mzivg0w9pPg=;2mXargnGhrVuUHInIplz4w=="
+secured: "KfQTUNOHxc8+hwXc8BzCLNE03YaaEb8wnQOS+jujM4a9bf/agwIWeKBwNTxSl/KlW8lvo4Nw4AygzQZHeXCZLMqgF+KE18Peq94BYIXAqnSvhccFc8DCGegx8FH+yYcNeQ7aBUPcjPHtM4jyTbXxy2jNXPFsJn2vEXCKwC61zCC/g6C6rNjftBnm6QPvk9DH+VXLrMV7UxGF+0b7o1urugjyPlZ0rPUEuBOn42nMav/jooHaX5vPmL8wZDBaZFqfFI6IL4WQoHXbnxErAdInqcxD6v3MCrRcqTxVSm/qRRWo/jbCYF4QvlPXAVHeAfDOQiyZtXPgh4zMs8NpjEXhIDvJ2QLE0bVxijjRujAd8wV27ommOMLgCjJu9thxwkQQbWxQmKlZ061JSTYVrA5r9hctc100xQQUdrEdYLGHTcH/X2h3F23JU0PHRfBBsgI4zjLzMQ0LIHF3twnC5T3ZsktZNkRNFBZ+r0zGXgXJomEPFlF5/AFD0Sv9RmCeMcpGLFNHqjHwOtzCCAHh/Qnt6Q==;fVVULLUjEut57kNDmQmtJw=="
 ---
 

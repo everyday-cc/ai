@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/small-business/news-pre-owned-car-retailing-p
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-pre-owned-car-retailing-platform-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto-178613/amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spinny acquires AI-powered car connectivity solutions’ startup, Scouto"
+    excerpt: "New Delhi: Pre-owned car retailing platform Spinny has acquired a 100% stake in AI-powered Connected Car startup Scouto. The deal will mark one of the first consolidations in the AI-powered used car solutions segment where Spinny is gunning big to emerge ..."
+    publishedDateTime: 2022-02-11T09:12:00Z
+    webUrl: "https://indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
+    ampWebUrl: "https://indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 57
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/02/Spinny-Logo-1024x430.png"
+        width: 1024
+        height: 430
+        isCached: true
   - title: "Spinny acquires Scouto, the AI-powered car connectivity solutions’ start-up"
     excerpt: "The deal marks a consolidation in the AI-powered used car solutions segment ... acquired a 100% stake in AI-powered connected car start-up Scouto. The deal marks a consolidation in the AI-powered ..."
     publishedDateTime: 2022-02-10T07:58:00Z

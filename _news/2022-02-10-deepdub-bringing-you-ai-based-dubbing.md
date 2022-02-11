@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepdub closes fresh financing round for AI that dubs movies, shows, and games"
+    excerpt: "The AI-generated voice in the target language can then perform at any ... But localization isn’t as straightforward as simple translation. As The Washington Post’s Steven Zeitchik points ..."
+    publishedDateTime: 2022-02-10T12:32:00Z
+    webUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/"
+    ampWebUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 185
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 805
+        isCached: true
   - title: "Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices"
     excerpt: "With Deepdub, the aim is to bridge the language barrier ... including the translation, the adapting, and the mix. In other words, it’s not just an AI platform, it’s a full business that ..."
     publishedDateTime: 2022-02-11T07:26:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://i.ytimg.com/vi/59cDtx-XFPw/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Deepdub closes fresh financing round for AI that dubs movies, shows, and games"
-    excerpt: "The AI-generated voice in the target language can then perform at any ... But localization isn’t as straightforward as simple translation. As The Washington Post’s Steven Zeitchik points ..."
-    publishedDateTime: 2022-02-10T12:32:00Z
-    webUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/"
-    ampWebUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 805
         isCached: true
   - title: "Deepdub, Israeli Startup Using AI for Dubbing, Raises $20M From Kevin Reilly, Others"
     excerpt: "The Tel Aviv-based company says it has partnered \"with multiple Hollywood studios on various projects\" to localize TV and film content."

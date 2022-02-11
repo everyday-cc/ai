@@ -170,6 +170,34 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trends that will shape the Fintech industry in 2022"
+    excerpt: "This will finally allow businesses, and the fintech industry in particular ... Voice-enabled payment: With rapid improvements in AI-based voice technologies ensuring high precision in natural language processing, voice-enabled payments are expected ..."
+    publishedDateTime: 2022-02-10T08:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/trends-shape-fintech-industry-2022-milan-ganatra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
+  - title: "11/02 – Weekly Fintech Recap"
+    excerpt: "Refinitiv AI Alerts seeks to provide personalized ... has partnered with Visa as the London-based fintech prepares to roll out its inclusive Global Currency Account and debit cards across the Asia Pacific. Founded in 2019, Sokin is committed to supporting ..."
+    publishedDateTime: 2022-02-11T14:22:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1102-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2yWrOr2J2ygNNLQhPo+/NySMlDl9WMI1njgCVt1cW5y9bPz1R8ndZNekMhyshbcEf8U98Saw8jaXoVrNM8Pfr71oIZITxRCNSK9K9LTl49wKx+EzvOAPQ8avBj2zikT4xBK69/i/gqoXtfbjhLP99FW1Ueplu9tPJeskq6i1A7UHjRC8BObqprRCeLfwqYTU+NtFFW7VEtGIXQhuxklQ08j0OSwbfU29UdRByYnKwIEAd4S8SGc2bitQ+nqGF0rD7ERyWEYE8pkMPy5y4azw2CmLPejLg5G12kzujVC4nsX3YOzQzGNSsKrDDWmyuPGYYrKDubTJ/iWsg0GIXOC+ra6Wqg9s5YLjeQUPuHfmmfi8eXAbgWg8W0ncaMGFEftf/cgKXJMx7IFwOAd4r6DtfvOFufUBbg1qDhWO/5pYeAO9qx0GlUP1XLRuW+oQIK46Y76Jn2e7zMGzmWnqZNkpay7aCyhn/4/Tr8e+9+dcCoxs+jkqmy1f6OwS7b9ZhIbo7FyBcpk7gdhuMqtb2PAHKw==;gL9P1zgntM9OA9oOwGtQWA=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-publishedDateTime: 2022-02-11T07:22:00Z
-originalUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-11T13:57:00Z
+originalUrl: "https://www.cbs8.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.cbs8.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: 10TV.com
-  domain: 10tv.com
+  name: CBS News 8
+  domain: cbs8.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.tegna-media.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+  - url: "https://media.cbs8.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -153,6 +153,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "'Full Self-Driving' clips show Teslas on train tracks and fighting for control. Experts see deep flaws"
+    excerpt: "Each of these moments — captured on video by a Tesla owner and posted online — reveals a fundamental weakness in Tesla's Full Self-Driving technology, according to a panel of experts assembled by the Washington Post and asked to examine the videos."
+    publishedDateTime: 2022-02-10T17:26:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/02/10/full-self-driving-clips-show-teslas-rail-tracks-failing-yield-tdn/6734640001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6734640001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6734640001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/20/PDTN/766b09c5-25eb-4df0-a8df-153f952d5296-BIZ-AUTO-TESLA-CRASH-REGULATORS-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
     excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
     publishedDateTime: 2022-02-09T22:20:00Z
@@ -213,6 +229,6 @@ related:
         height: 382
         isCached: true
 
-secured: "MifeccS/uTtUCcXxBGap/TXfoOS4J64EB4m7S1xpm+cymc93mZOjfe6nd4h5nYsVHPCPM4PG3hTwKxv+yJvSW/Rsc8mX3kbFIfdmJbd29kXE8odWOG0AUr6Waiu1P7gVn7RENAZsgnutp3JViGNDc6+tkfYiigZAr4fzvi9nzHMlrjfbT7kNFXZJnfOjyagZFeO834PevnY8W7gPM3YDKuoqGD3zBVvQOQ9ncywi8nxhGDNEo3VYTK3I3/guHsidK3Mvhs8YHhWjye9fL8KuFbxH2r1yqBiJF9xqM8Z6O5OFKRY/PtCJDYDroG1FWgkYrFQ4Zxvp+XtK1BIR99HFqN1DDgunE7GATkzj0d/iXzZy6/KoK6lCblhVohPdt0WNgtKUwysRkg4Eluiy1sJU0u4EBpC43g0lMJR54PPa/GmgtWR/kfnUspmbsj3SlLd9yO5PqEpv1BZUBp1PkmqVSP0rHZ78nXXs86tpTg93fk4zr6vXncQTNcwQIMRKWWQrZBcpFI4CuO/0u86rjDrZRQ==;rI+FeKF0NK+d60NtxXBVkw=="
+secured: "jC8wIKfq0iMiBDg9zXxk5w1GuvcNx1nqQBvYqFwRYr0rdDSTdXjOCilMG76fsHXyEn25k9PCfx7x4SyHT9LB/K+aSfHPu3BqfhABzbe0CFLMW3/PhxXGati9yi/TFO2vSJ26XXgWdhcppKOLsy6pJXqASuVW8UK01bmt4NwjD2I28eP/2RROqP+YFP/3sOSaS1TUNRzZPnhDMwuvcYQN3i4m3MxMQP8kfG9a0ZDTiO5vowH9Bv1ySeAmlWUN1C1mNY+aSg9tXlkHO4ODVwGF0UhiWlJpgdxJ2cF5FcY5XlGu1ggPFu71v7RIAJeiiYwYdWvSXvdx6G4YcwSrYnl0S8PwKwSB1mWnx+y0L2Xw4HU=;OfKfjSvNWTf8IBbHgABpFA=="
 ---
 

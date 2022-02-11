@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/opinion/Data-integration-remains-esse
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 400
     isCached: true
-
-related:
-  - title: "Artificial Intelligence and Data Initiative"
-    excerpt: "The Department of Defense is working with unnamed commercial companies to build an integration layer where combatant commands can access data feeds for their artificial intelligence algorithms ..."
-    publishedDateTime: 2022-02-10T21:30:00Z
-    webUrl: "https://executivegov.com/tag/artificial-intelligence-and-data-initiative/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 37
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/10/d9/ff/0d/0f/b2/f5/22/84/00P4y00001fiOK1EAM-480x384.png"
-        width: 480
-        height: 384
-        isCached: true
 
 secured: "U1mE32XPtiz3fYoRn0RoztVkQaoCo++NAKBWbBJ/dNnYDYFBWzAjDiSlKlsY4/c01HMyuCOCC+ywt2a740zOuHn2Bf8OWJ+mns9gwU48zBIyvaj8pHc1NAuhNOpK3/s7TKeopHaTbRSAkGvBspek2EKR/+5ghmwa2IB1dj/iY+ML96RGg8kxvwNoXVpId/OKxUFgmamTkXo2vc8xxlFu/t8dYFWN+XyV0s4q70Q41x6axCQTiI3uv7OFdnmIrd9Ojc+nuCn4kozceIaB8lQFK8pqGXzmerv4iUr/WuatMUl7l9nXWXBljykKeQBMIrfpZfEBFXPvjk9QvcRC4F12mebp888HBkcH1gfzbSqQpCp2s7Y5j3NHhhahlieVZVqGvO9TLzJXQdYppbygVnRcpyv2bdibocJvnwLStO5Lzsz8CXqvV7xyNbCSXPcyRrLQ5wGGiq+fibef0YdL+00GcK2aLG6X88Ws+QlKt6VFAoMmbMaRRXe+w1IkBqL6qXyya3NZh8XxsU1agJ7GQrkvgg==;IvyOHq++sk3dbuuG85D7Og=="
 ---

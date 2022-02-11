@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retra
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "Micropsi Raises $30M Series B Funding to Scale Industrial Automation with Human Motion Trained Robots"
+    excerpt: "as variance in positions or materials throw the robots off. Micropsi’s MIRAI changes this. Using artificial intelligence (AI), workers are able to train the machines through demonstration. A human guides the robot arm through the work task, which then ..."
+    publishedDateTime: 2022-02-10T19:11:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d3f472f10d794af7bc8e606f52d0e1d7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Fr6S27GEseRa0gYvbjQ0WKj963n1u1FgApaNtXxc97k+SF0QNxHO94NbLjinrhl29/Tma9Pn0izhfebBYxZcZE60HCmUpcf10c4Mh3TmibpPtsBeeRY7sjVyBO59HRCpV4N0Q6AkHKAPC9bDLaD9iDGbvcSFmgN+i2/DI9hSD2HXwPIGwhhBAta2x1FefiCUVZx6xnd0JvJpTxwpZd6JSwAQsckBFDhZsB3rMRtKCXrHg+4AZJ/oED1kzpCngb4lQZHC9cAIRPXO+AkqSDB1uqurl38eAqtEabjR3oT5inFthV5xhADS/UpdHuqqTTVMNfXjI4IUsI6UZahJoV1bypmC0lCb8QZHk1ncnSIBhqWVtkTK0mbL+XrCvFfGBgVFm67pTghtv605+LlZoAuDka7B70gKVGXn5Cw9qdGEYMY6qfdlgVysau3Fro4IuEV2DFw0E2FLjYwYWwx/fUm23rR+1vlOZ7lDu1H9KpIC13cUyRQ5id+w5xu+R1nosdyh0eQbQddB86pVCTaQWLaJaw==;hq4O5BTzOps5R6Cbv5FQfw=="
 ---

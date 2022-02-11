@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -173,6 +173,34 @@ related:
       - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Trends that will shape the Fintech industry in 2022"
+    excerpt: "This will finally allow businesses, and the fintech industry in particular ... Voice-enabled payment: With rapid improvements in AI-based voice technologies ensuring high precision in natural language processing, voice-enabled payments are expected ..."
+    publishedDateTime: 2022-02-10T08:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/trends-shape-fintech-industry-2022-milan-ganatra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
+  - title: "11/02 – Weekly Fintech Recap"
+    excerpt: "Refinitiv AI Alerts seeks to provide personalized ... has partnered with Visa as the London-based fintech prepares to roll out its inclusive Global Currency Account and debit cards across the Asia Pacific. Founded in 2019, Sokin is committed to supporting ..."
+    publishedDateTime: 2022-02-11T14:22:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1102-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "KVoPmO2pzCO80amtRLjhVbKCiEh5YoMqNnLfcfEZ43Q3POhzW82rB8rxc54fh1I2R6bCaG6wBulEm+di+AUS7HaiWKVV1CIb8DNqk+IQRevEx3IXlJfDsrt+jHxoxXh+Ci2eaZ90H00q0cnGEA7brnxjoz2pho+Q/n0WBEGgScJiJOP2sS1nZxoGzu/lXF7MY1kIqOfLLsVmoDSreFJFcIETsJs7aSYIdOXVQktwcbTSghw3RlTZWVfloUCk8Nr6x2ZHexYsxHVrWOBCcohhKAOg8j4wDl4G0404tZBtxfjcTq00NzrTBiaNbdpbxt0O2yDMxw4lcbxTB2c8zOjei+AF0TSt77o75c6RCHZ2aYro/cLTKHDU6PtCYFObc/sJUIHQ3lNWEDpKF6Zt3kcKpHBwmcLGt3+cTj2k1ZyRLFRu/RdOYgYkqf5+eRIKj0eiS8dC7ChgKyWEchLJRnJpChMblo5ud/LmmXd7KoPWOD4aIZgZnYAnzVZrBBWfsat7EubXkzNC2koZFDLaP3yxbA==;auyMeAKqY5Dz5N9DbYvNug=="

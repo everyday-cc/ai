@@ -53,6 +53,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "FDNA Publishes Study in Nature Genetics Describing Breakthrough in AI for Rare Disease Identification"
+    excerpt: "FDNA, the leader for the early detection of rare genetic diseases, announced today that its breakthrough study findings were published in the esteemed peer-reviewed journal Nature Genetics, in a paper titled \"GestaltMatcher facilitates rare disease matching using facial phenotype descriptors."
+    publishedDateTime: 2022-02-11T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fdna-publishes-study-in-nature-genetics-describing-breakthrough-in-ai-for-rare-disease-identification-1031186632"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "1NQmA0rvN8uaFMqkUsp9PNPrU/3n5N/kGDedlUdqVPBFWIu7MVGNLrWFDOyq4b6zS5AnxZOUDv3kLjyZMyJV3wAKfJcFvxyaPVQnmmDW3H0BvVipgqJeFoxEssh3YY3nNq1AbDTCdmse1ggP+G50/5GBPTetiSQJGWa0Mqioax6L89Omj/u4cI/7RyV4XyHjxHWu2lKh1Q55TaIOfO2FLAmm1mj34Pji5xHaGKQA8LePiU1ReGLjLWqrF6eAcHmthUMvQWDSDwmWM0czyPZmoLEt2NBuq+3dgOHPSt/DIls1JpqOtm+ranB+xLL4yv+71iO5aisZ0qvIPIlxjiRaQe9LZMId5b6zFnTKkpy7KKc=;hiWGpw7xE6ulewpqu20mFA=="
 ---

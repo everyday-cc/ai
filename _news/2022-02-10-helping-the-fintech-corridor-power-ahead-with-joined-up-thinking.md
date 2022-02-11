@@ -170,6 +170,34 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Trends that will shape the Fintech industry in 2022"
+    excerpt: "This will finally allow businesses, and the fintech industry in particular ... Voice-enabled payment: With rapid improvements in AI-based voice technologies ensuring high precision in natural language processing, voice-enabled payments are expected ..."
+    publishedDateTime: 2022-02-10T08:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/trends-shape-fintech-industry-2022-milan-ganatra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
+  - title: "11/02 – Weekly Fintech Recap"
+    excerpt: "Refinitiv AI Alerts seeks to provide personalized ... has partnered with Visa as the London-based fintech prepares to roll out its inclusive Global Currency Account and debit cards across the Asia Pacific. Founded in 2019, Sokin is committed to supporting ..."
+    publishedDateTime: 2022-02-11T14:22:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1102-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "B+z+wPBWgLz5wc6CToP2e4GdAEQ7KiW9E//sFVZaixU9gvUPCWaP+KORQHVavAxV7W2Jz/qeGznTgaVhuPuoYvy32MLB3pcWL0zKc2RR3+BrrER++g0TeHY2rVteVwCirVvprCoXlxlu1h2ei3UTVN9Nu+V2aIgOPhu0o/tEjSy3mH+jieI+B+2YS+d0/ttZYrIkGGVs2h2lGr2HdWSXmvPqhJtUcvxp6EDOrQM0kEN74apxEwVorroVJ9zQWLXmgiQvd3jCyLhN+6Gbo0HOU16fE4eCbA2ylqCezXmEaiLWPE3TQ8cBGm6Qy03IODTxphU4KltUie1vgvOhUp9EBdrUw6phA7eKScAoq+vkOR1LMNerzJN2rWD32rBw7N7K1npjVL1u3VS7WFqoZZRJlQh3G+A+S2+guM/baga/necAW+OAnTGEUcyxbakCwAQVhnycyK4bnRAnv69UbuAWPP0mWtdvH0TWcHGdCq6MDb3plRuHe2jNutCjFnbPr5LQGHCunboP7s5VOK1qc8r9QA==;1VThVhke3VXIDWHaSr0UIA=="
 ---

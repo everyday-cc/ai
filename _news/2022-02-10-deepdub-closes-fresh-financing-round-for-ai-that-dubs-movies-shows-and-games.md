@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round
 ampWebUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 185
+heat: 215
+published: true
 
 provider:
   name: VentureBeat
@@ -80,6 +80,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ufHyHpexl8G3AepEcfhDEj56mxrXCUfS203NwxxtYFjYQOgeolJ53mq5XkfoXUrBE19zA+YiGjbPMHw96WjmxQYr3tZvpvdXy6MBjlvk5IoT+lKlrx8LyqWTwLJSAkQWih5S1JMEIJFP4zgURjeqPqdaZMgT3sQsuw+GcitmR00mETtOL9rq5dte61nElUrRAO7SQPaqY3ORYjGqDj2alQZ5+cn0SOC5uv8ZQVHFK+K4zRMCL1VqH7UChCJWUxn7f8jACS2XlJZ6F+qC2geXDOhMwVlq9p0oGDUcZzt+aoWRmAKDXxnTj4nLtPrptoreisk4oFhSw9bReOmlZSLU2PqxFK+ystJKKigxHNFka79b+G9lEUwILq8p73Wp/TufXguiMtC/suSkoxlPFqIRlr+bpCtvFMvF8kyOmGpDMEJ9+372bqM7/NXFkj8UseXRk5ibZ8bfnjsbRfS8NlYcgiFAQ0lq0cA79svCFDPnE3kvPDsn9PfLcJzVGsDnNWqeS7qIKihmnFunlcy3Bui+9g==;MjXSwYX7eYPtK8aT1sbNeg=="
+secured: "CCjoHDxqxvtmXBG3zV7Y5j4XPifhOLnATIIsA1Fe9dcP9eHIzKsAOwMs/Shbm2IuBxeYQqSZiKwT/SftBof0CLEo1q4OLgYdJMl36GXk7dwn3moam1OONdBv1lObaEP6UR8wKOizSIb+F5/psPWlND8GoWvDP8Brxn273Vu1ThOJEYgkvY9c70IcDtJaxsY7+CUgiAEd+/x3kCXig4AdvyaAFu/ze6JkdRHbn4zM0koeB9aChC4yNIH1scUKJ0K3FwvGKM5YYAXgjN+r/+Eghh8gxKF6FVp46r9Edw0ROJR4VGV32z9psdLxl7HGmoA+weqcsM09wTiGvEY7S3hE7vFq64UJmjx+mFqUZwVLItvhh2yMykhUWSNA3dvgkaLFmPcB8BNAbe3aRQJ32XMJt/aKAeI0OuHIUaVCiis072LJOCE6WBsM3K4H+9JeXzhbEbPxNlobdHl8po1fETPxbEtrOj09i33FZF79E0HsiCtuKfnc36mdJyakQyYZg5icTbMlpbYYK0d3z/qtXXMXjNOO6mYlPrtlA2PvtnwTKl4=;gi4TeQTH6xyVuNzDHf7z2w=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "Why It was Important for IRS to Remove Facial Recognition"
 excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-publishedDateTime: 2022-02-11T10:08:00Z
-originalUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
-webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+publishedDateTime: 2022-02-11T09:48:00Z
+originalUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Info Risk Today
-  domain: inforisktoday.com
+  name: HHS
+  domain: govinfosecurity.com
 
 topics:
   - Computer Vision
@@ -909,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "v6bWC/vHWGGwyJh24qVn3vPcl7orFe/gvPCZ7/I1sNnC1E9m7BTXqhOqwlWUKqhvsR1cVrZi7MaRdOOOQRmxkXJIppK7msejy0t5PAqwbY8ZwA1vq1ndfZkfrdCRB9ZrIMA6+uDqxMNOdR0j0zZ1hVNDHqBO9u496mw3XlWOt0WNRVHYxuA8JyZVKF3Ac+Ck5fC/xbFJs1w+puiBZ3noZDdAlMVJOjv44TA5b/Bm80VAFD+DPBCUGKhWwcNJ0fkPeIS0TLsIuVnCuQxb/mJ3niWO8ty5jKiVMSvmsojT36zcbVUsYG/n3gww7Sty8xl3CkDCHqTIpIHYBOwH9z1QZFY8MyVULf+t9cIaNdKf6hbTQ72LYKBtOx7gZtlwbcNKqvm2pkt8PgM+iJfKsqjrVQB/9IpTYg72H3SrvdVIrhGbasfTAsbomBX4z4iYbWNFyHWMKVGWuj4NCOW+uPrZYLwm0s7D6HitxDYz2aDdPeRmRsrB/yaz8d3LTfXMywGXFYEgk1usyXiut6v9XapCfw==;mOKAow0IPWjAcuqm/f1cCw=="
+secured: "kAC3SSO321cpJuIaGGluGadxeqcbp0LCWGitaTVCcFQa6km71cMsF0HGdKurF6k4ssCHsNZ55zerzrSvHpPZGHzTtE4wYr1DdzOf6rkKRDGo1C/bN2fqMBDWR9dD29YP6Pxb7FB2Y/FKwU1QQwA/obx7ygyekokD4aIPVfv7+rQHDKxjpNyACTAuyJyo16xu8tdJea9PAcT0UtCEnOP6EGKs2hV23AkaxbXG7Ijo6k0J1PB0Q3NYgt9s9o/3oWfHd08kYJrWF2MJHa+9kPMYY7cBesUF03mT92xJCRJ+5IYhH16zXmhQDtUOvoTsz+hwOMuKRJANQ8zeFVMsoBm683qaDfT6KKtHHGrpF6Usmmc=;274iHbSy86/IFee+7Q7E2Q=="
 ---
 

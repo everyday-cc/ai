@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/"
 type: article
 quality: 86
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 85
+    quality: 185
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-2.jpg?w=1200&strip=all"
         width: 1200

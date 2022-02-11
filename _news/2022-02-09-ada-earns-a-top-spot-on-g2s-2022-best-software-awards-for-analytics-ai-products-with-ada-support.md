@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
+    excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
+    publishedDateTime: 2022-02-07T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234687&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
   - title: "Quinyx Earns Spot on G2's 2022 Best Software Awards for It's All-in-one AI-powered Workforce Management Platform"
     excerpt: "Quinyx, the leading all-in-one AI-Powered Workforce Management Platform, today announced it has been named to G2's 2022 Best Software Awards on the top HR Products list. This press release features multimedia."
     publishedDateTime: 2022-02-08T20:10:00Z
