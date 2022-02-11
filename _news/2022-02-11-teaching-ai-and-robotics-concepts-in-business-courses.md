@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts-in-business-courses/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence and robotics have changed the oncology landscape in India"
-    excerpt: "Artificial intelligence in oncology has been used successfully ... Hence there has been a paradigm shift to robot assisted minimal access surgery in oncology. Robotic surgery is an advanced ..."
-    publishedDateTime: 2022-02-06T12:39:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 84
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89386337,imgsize-66780,width-1200,height-628,overlay-ethealthworld/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Recognizing and Eliminating Bias in Artificial Intelligence"
     excerpt: "Over the last couple of years, the society has begun to wrestle with the extent to which human prejudices might infiltrate artificial intelligence systems, with potentially disastrous consequences. Being acutely aware of those risks and striving to ..."
     publishedDateTime: 2022-02-09T09:06:00Z

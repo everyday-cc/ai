@@ -35,7 +35,7 @@ related:
     provider:
       name: Inter Press Service
       domain: ipsnews.net
-    quality: 39
+    quality: 41
   - title: "Facial Recognition Market Expected to Rise at a CAGR of 17.2% during 2021-2026"
     excerpt: "According to IMARC Group latest report titled” Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     publishedDateTime: 2022-02-09T12:42:00Z

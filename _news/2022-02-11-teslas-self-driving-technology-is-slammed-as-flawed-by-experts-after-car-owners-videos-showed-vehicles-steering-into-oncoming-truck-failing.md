@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
-excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-publishedDateTime: 2022-02-09T05:24:00Z
-originalUrl: "https://www.wtsp.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.wtsp.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
+excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."
+publishedDateTime: 2022-02-11T01:51:00Z
+originalUrl: "https://www.dailymail.co.uk/news/article-10499145/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+webUrl: "https://www.dailymail.co.uk/news/article-10499145/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+ampWebUrl: "https://www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
 type: article
-quality: 59
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: WTSP
-  domain: wtsp.com
+  name: Daily Mail
+  domain: dailymail.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.wtsp.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://i.dailymail.co.uk/1s/2022/02/10/23/54040853-0-image-a-20_1644535576598.jpg"
+    width: 636
+    height: 382
     isCached: true
 
 related:
@@ -122,6 +122,22 @@ related:
         height: 382
         isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+    publishedDateTime: 2022-02-09T05:24:00Z
+    webUrl: "https://www.wtsp.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
+    images:
+      - url: "https://media.wtsp.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
     publishedDateTime: 2022-02-09T17:41:00Z
     webUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
@@ -180,23 +196,7 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
-    excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."
-    publishedDateTime: 2022-02-11T01:51:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10499145/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/10/23/54040853-0-image-a-20_1644535576598.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
-secured: "AgEGT+eQnDQ+x5kAmIs+L3GefxMUxFnuSI7lp88MkFDiY6FYs+qaon1rWCWpf6xBD27mT/buER1VXILG1pXzNSTtfFIyrxK911ejGPWDCxyDS+xx9y+5ANqHW4lTsTEmY7D2s9Pw9vXsePtwLuq9uHceEpTJyuRXFWacFjhSDmxlC1BWR0ztgJ8mZltKWE45GeBKi4srJqnIgu6Gd3mb6q007CRLMSWY6iRQJ809WCBIMVh+aHH95g5mfd4/HBI4rDFTJ5rIyOQC/3VYFPAAYgGrRPQ6VK5nqmkESe2kQEPU3546VeWEjz0MRx2W4xFNehNk+OOPSNlq9aHhzlOP94RBFgA5FxIkwSRt+SNO7pKcT/HbW+AHPxrLEIt8Q/OGGzVUJmhFBWxEWJ64OluBzIuzgKxP75fWjPSLOwQmXhzRuW0b8B6MSBjAGMfzXWSGiJs5nxGxsym/LMRUOBeHmqgVRGY+PS6NJWHmPqYdn3pj604zJjMV97y+YDmzdKj2Yja1Jp9zhQbxOob/LiEcyg==;2y1fdqiYUqi8UWlXE0U7sA=="
+secured: "FSt4k0gYEo+iMxaE8T0b+p4a8te2nm7I3p26BYW4nKo7OLk/s6OJVPkMq/MYR9g4BDQ8fqdrA1EB24JRc/Hj8WUp7L8ZqQUJrO+dezJ5ZifKGEcUrI3yDkc2+WBxcwjj7yYcya5d7GnUOsDtfdd9TPJePEBcGZESKed5DKsXithsbWqyUM0yZh8J2A2OkO+P5NGa2jHBVK3Hs3/9sATbupBw+RdQ0e/P3vUZHuhcqUpEO+3bEAB6HHf0XHxT/K5hdAUE2/gQ+fv5rtiF5aQskFajPA3526oHduZ3f5JqM7hkOBKgzPWTu9OXRzuRG3BS39bCqIRzDpXjIWkDAtwuPQW5OY2cKret/N9+61+7LRM=;6DYI2LvT7GEQrt/Jfa3J2A=="
 ---
 

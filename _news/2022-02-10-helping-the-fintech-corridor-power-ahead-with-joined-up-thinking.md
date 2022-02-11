@@ -158,8 +158,8 @@ related:
         isCached: true
   - title: "Role Of Big Data In Fintech Industry"
     excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
-    publishedDateTime: 2022-02-09T00:00:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
+    publishedDateTime: 2022-02-08T23:59:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/09/451461-role-big-data-fintech-industry.htm"
     type: article
     provider:
       name: TMCnet

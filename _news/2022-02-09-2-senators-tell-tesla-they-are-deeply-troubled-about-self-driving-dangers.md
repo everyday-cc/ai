@@ -184,6 +184,22 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
+    excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."
+    publishedDateTime: 2022-02-11T01:51:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10499145/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 21
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/10/23/54040853-0-image-a-20_1644535576598.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "7xo3zsQFfpkF8Kj56UMr/slUBHQC/O3salWKafcPRl4r+hLYxB19sggTeOWbKaT+ONIkWwEJNNflOoHpLj1Xdw3RVjErWDWZvJxkA+DANgZFkshoOXZ/q5vNx/qteiw+fFf+LN/9NluC6FK7Ws542CzzhHixiXQysvwM6uPiy385i2lu+GzilaPlZYBDB/ibTWz3lOabe2H/M58ZuKxyZOakUV30J4UaSHOVKqkgaTOioO4QZKMjwdcQfqyZ4A3Zw14Vlo8JaKO2aGbKgMTN4wVsCPqnt8tYAoASFvdHwgks8p+cZDicpGLAfN8PBi6AcpXZ9JYB27RVTOMkbKOGk2582tf3pNzT4XQVO26RMxVZOM5nptRptjhMzi6oIf9zWKX/UnNVKtAEP4REjV7SrtzMtfnL2aUStlzrNV+MEqFQ2Km8jw2S26o85202ojLqVbf9pYimOzlGetl+DBI4aUMqmJs1gYlnBnueA38R/isAfOYBKe2pWP1sJMYvrVMbmdU8EWgZvA7vp4TTKNizZQ==;o8AYZQOvtRO5wSHaodCX3w=="
 ---

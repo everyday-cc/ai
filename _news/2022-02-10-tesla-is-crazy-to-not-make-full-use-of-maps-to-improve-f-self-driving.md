@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -184,6 +184,22 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
+    excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."
+    publishedDateTime: 2022-02-11T01:51:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10499145/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 21
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/10/23/54040853-0-image-a-20_1644535576598.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "yNHCjS4mgIZsPiT6cRL3P/ZsmISjYFIhhiIctYyRGQcB6NmWeKIl/+ik+GyiBAw+6xQxv/TQVC4XpVzRZD8Q7fyEhh28c+dAjzzJqp1Aa8GJH5beh3Msjo7I44LBUlHu8nzc7ki5DoUnsv6n2K7dVmKqFewVS1P3mvH7o6HzVVZN/dG8nNQoq44XaMcct+3RSFHbcYqbqJNPhC/2qpR1m6PurEuLuUWmzuecECisEqyk1TQUXdEXeskmRG9jLsIfo8OB8mP6+zQnjAZq+18vRjRimjr2VrQEVnZypMwQKLCSGOVno5GrhjgEm/zrQKIc8WWADvpRftZ2OOx2odq1R8SqVHJKrY5r8ZT8cgxyb1ww6Nq3hiUpobzV0kMqy9WA3vU8VnZG05hNjQHtmQDggh6mClAH6ht4um5Pf14xr/qjHeyxf0Bci0L7+sk+7IhoNOqUfupRpQd+pHd/nvqhDGqBUT8B+0nrYVTykxapKpc/5LMK1ZMU6bbbbo7dEzk/TYTb144/yEAYnLsVkzskRQ==;1DVZsuUpRH1xrgNztwUTGw=="
 ---

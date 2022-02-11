@@ -8,8 +8,8 @@ webUrl: "https://ipsnews.net/business/2022/02/09/machine-learning-market-to-expa
 ampWebUrl: "https://ipsnews.net/business/2022/02/09/machine-learning-market-to-expand-at-a-cagr-of-27-2020-2030/?amp=1"
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/machine-learning-market-to-expand-at-a-cagr-of-27-2020-2030/?amp=1"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 related:
   - title: "Facial Recognition Market Expected to Rise at a CAGR of 17.2% during 2021-2026"

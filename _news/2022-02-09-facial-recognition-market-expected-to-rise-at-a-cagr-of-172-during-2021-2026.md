@@ -35,7 +35,7 @@ related:
     provider:
       name: Inter Press Service
       domain: ipsnews.net
-    quality: 39
+    quality: 41
   - title: "Facial Recognition Market Rising at a CAGR of 14.8% to Reach USD 12.92 Billion by 2027"
     excerpt: "The global Facial Recognition Market size is expected to hit USD 12.92 billion by 2027 while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by manufacturers."
     publishedDateTime: 2022-02-08T04:56:00Z

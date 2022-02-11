@@ -184,7 +184,23 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
+    excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."
+    publishedDateTime: 2022-02-11T01:51:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10499145/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 21
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/10/23/54040853-0-image-a-20_1644535576598.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "YsXeX+ddvtkbXyh+mO9fPGlW+OlX3l+X4tstrcLonw2YfGq9Gd4onq5yUiCwjgRbhaAMTM5c3LsSmP7STNPMxW3mR6zhsJV6whikHUBehXYoL/VuE8PtkkRP9CtQxA6BAd3qmJDOaC2iCBiD9o2HIRvsnirGY+NcdOd8EYy+tyeOENbinn13oYXaU0vM7zXmoE1G08DNpz5E5LcbICQAssuBSqDYkiOrbEwPavV6WqQ0nTq6BXGaRTxU8tsWBWIOng9v1oGgMoAD4a8+eCOr5mk1nCT4qkimFdJdrHc8i2g/g3lpHPe2s57qY1OvHu83dK8LN94ItF7815OFF5TBZYAR0xWDpKpsIJmqe5IrizA=;2xIqHcbRwjpykyEqmAbrEg=="
+secured: "ybc44J1asYdk8izyiz0vn+RmsRdGPh4S8p5U4I39A5+bKOqZUcO8Wu9CNcS0WJovor10Rq9s+6jmLoyH3BOB9mBRYx7OK+QJn9yIfntHsdAOidKbbD9pPTB4603XJuWsgUF/qjvt6UpjmRca9J7LnkBataIbtK7nHmTOk+gAvby2I+BHHwsxvV77V9MSof9cURgs3FBJV+Bwu2aoq7OflwCOjR3BdhtRQGOjMhnx62bi5BjHDjQD27nra0XwWqpL39zuAZQi6kI/rfYBTsddF1PvJNq816VXyulqbtAc6mnxlL3hgpqgYpoaYP3j6rvLaqKENNtJ0rbsDvDstfXLTP2OFCR3e7w57y0n4xtcCb/Cmo5Vf3XKeZ/+LyPvPI1WSdkMSporOuhoMGxFiwGbsF+vUnpGBgRoLOaO/l5EK9Yha7U149PsotfEn1L8EjEuq1GM1X2wfqAanZupQyRwbAhT6RE8RUnr++MrVFWhP/dbndZ0O6N8zkD7ZUQPwGni77P5FA3c6slmoFsJjyCQig==;I751lIXUfY3RG/5nsbef2A=="
 ---
 

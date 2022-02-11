@@ -2,6 +2,84 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-01-20-columbia-threadneedle-investments-selects-three-firms-for-2022-masschallenge-fintechs-start-up-accelerator-program.md",
+      "title": "Columbia Threadneedle Investments Selects Three Firms for 2022 MassChallenge FinTech’s Start-up Accelerator Program",
+      "excerpt": "Columbia Threadneedle Investments today announced the selection of three innovative fintech start-ups for this year’s MassChallenge FinTech accelerator program. In working with these firms, Columbia Threadneedle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/columbia-threadneedle-investments-selects-three-firms-for-2022-masschallenge-fintech-s-start-up-accelerator-program/article_c16bbeb9-0d1f-5684-85e6-623fe6ba2ec9.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/columbia-threadneedle-investments-selects-three-firms-for-2022-masschallenge-fintech-s-start-up-accelerator-program/article_c16bbeb9-0d1f-5684-85e6-623fe6ba2ec9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-20-ambientai-emerges-from-stealth-and-unveils-its-new-computer-vision-intelligence-cvi-platform-for-the-physical-security-industry.md",
+      "title": "Ambient.ai emerges from stealth and unveils its new Computer Vision Intelligence (CVI) platform for the physical security industry",
+      "excerpt": "Ambient.ai has emerged from stealth to introduce the first computer vision intelligence platform. The company has raised US$ 52 million in venture funding led by Andreessen Horowitz (a16z) and launches with five of the largest US tech companies by market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "publishedDateTime": "2022-01-20T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-windows-11-is-making-it-easier-to-control-your-pc-with-your-voice.md",
       "title": "Windows 11 is making it easier to control your PC with your voice",
       "excerpt": "Windows 11 Insiders on the Dev Channel can now test the new voice access features. There's other improvement in the latest build, too.",
@@ -1064,108 +1142,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022.md",
-      "title": "Artificial Intelligence Can Help Leaders Drive Global Economy Forward In 2022",
-      "excerpt": "AI will soon become the cornerstone of industry 4.0 but are leaders ready and proactive, given the power that AI can provide to propel the global economy forward?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e189d8ce7c140b068ec5f9/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1109,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/amp/",
-      "publishedDateTime": "2022-01-19T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai.md",
-      "title": "The diversity hiring disconnect: Addressing the broken approach to inclusion with AI",
-      "excerpt": "While recent metrics suggest that workplace equality is improving, a deeper dive into workplace statistics tell a different story.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
-      "publishedDateTime": "2022-01-19T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -323,6 +323,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-video-robot-driven-video-screens-bring-entertainment-to-sea.md",
+      "title": "Video: Robot-Driven Video Screens Bring Entertainment to Sea",
+      "excerpt": "While robotic entertainment may have a big Gee Wiz factor, it still relies heavily on features developed for plant automation. \"Keep in mind that robots were conceived and designed to boost production output and quality,\" said Hunt. \"The first few times I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/RC-Robo-Illustration.jpg",
+          "width": 500,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-5-trends-to-watch-in-2022-robotics.md",
       "title": "5 Trends to Watch in 2022 Robotics",
       "excerpt": "Growing Investment in Robotics Companies – Investors continue funding the latest robotics innovations in various industries, including the medical, manufacturing, logistics, hospitali",
@@ -1375,49 +1418,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china.md",
-      "title": "SAIC-GM-Wuling Vehicles To Get Horizon Robotics ADAS Tech In China",
-      "excerpt": "Per a recent post from Chinese automotive news website Gasgoo, SAIC-GM-Wuling will incorporate Horizon Robotics’ Journey series chips for new high-tech features. Looking ahead, the Journey 2 chip-based Horizon Matrix Mono ADAS solution will be equipped by a number of SAIC-GM-Wuling models this year,",
-      "sourceUrl": null,
-      "webUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/",
-      "originalUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gmauthority.com/blog/wp-content/uploads/2022/01/Horizon-Robotics-microchips-Journey-5-1024x683.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/amp/",
-      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/amp/",
-      "publishedDateTime": "2022-01-17T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GM Authority",
-        "domain": "gmauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -44,22 +44,6 @@ related:
         width: 1199
         height: 622
         isCached: true
-  - title: "How artificial intelligence and robotics have changed the oncology landscape in India"
-    excerpt: "Artificial intelligence in oncology has been used successfully ... Hence there has been a paradigm shift to robot assisted minimal access surgery in oncology. Robotic surgery is an advanced ..."
-    publishedDateTime: 2022-02-06T12:39:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 84
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89386337,imgsize-66780,width-1200,height-628,overlay-ethealthworld/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Uj7UBa796F6p/uK3dZCn3OgnN3Rn/y3E2LolGSxQGm+8ynk12D+GoOtkQcCnF4rgilzdFHmeBwhDgiHMtANv1rgs/ea2SH8ptug6r/NzbKeW6u/OMDRUbdDkpd3B0Jg7kEEF1ZtDmuffJXMPSu4F4JTuCp9oxtcaB8180Qy5s9IHehpWLuVijOv9dg93sLuF98xj4DiVyExpJ6hYnTrq1WPUM/Mg3/67D7/QFcbd8FoJ+4Hxe+9c0/c8bycsGxVPi9ZuQxSeoutedePK3dQjXd2ZszV8eTqSeqWjjzmziSUUTEe4aQVJnf7nlGPeooJYTjKH6strAN8wKoYkYht3tzMJh0ebV2NfAK/5AAIZpQBaGNFkSF05vRAybedlagiqM/SXCk7aMu+GsVq7iEclB+QdOIRZJcUzBzqrFA6UqvR+cMPFlBbYUoqO78JjxvKh5sbJc6VJ5RK7+Xgun1Vs5qWuwoYfGQF1V3j2azEijj0OWqlo3DuGIvOwRyBPpjH3qTf6uyh6Kk6TRJabQiywxQ==;NLfXHERlW3XC8ONwm9q2Iw=="
 ---
