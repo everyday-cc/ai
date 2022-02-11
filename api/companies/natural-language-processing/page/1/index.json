@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 76426
+        "followers": 76433
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 211181
+        "followers": 211177
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -119,7 +119,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 12008
+        "followers": 12010
       },
       "yearFounded": 0,
       "locations": [
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
         }
       ],
-      "heat": 128,
+      "heat": 127,
       "tags": [
         "Natural Language Generation"
       ],
@@ -382,7 +382,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 1210
+        "followers": 1209
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
