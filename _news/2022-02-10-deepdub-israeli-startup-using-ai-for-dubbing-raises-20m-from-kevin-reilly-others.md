@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices"
+    excerpt: "With Deepdub, the aim is to bridge the language barrier ... including the translation, the adapting, and the mix. In other words, it’s not just an AI platform, it’s a full business that ..."
+    publishedDateTime: 2022-02-11T07:26:00Z
+    webUrl: "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/"
+    ampWebUrl: "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://i.ytimg.com/vi/59cDtx-XFPw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Deepdub closes fresh financing round for AI that dubs movies, shows, and games"
     excerpt: "The AI-generated voice in the target language can then perform at any ... But localization isn’t as straightforward as simple translation. As The Washington Post’s Steven Zeitchik points ..."
     publishedDateTime: 2022-02-10T12:32:00Z

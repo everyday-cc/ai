@@ -43,6 +43,22 @@ related:
         width: 880
         height: 319
         isCached: true
+  - title: "Enhancing Cross-Cultural Dialogues with AI"
+    excerpt: "Project researchers from Monash University’s Vision and Language ... “Current AI-enabled systems are not capable of accurately analysing the many nuances of human communication or of providing useful assistance beyond basic machine translation ..."
+    publishedDateTime: 2022-02-11T08:34:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12738"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12738"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12738"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12738_16445683122395051.jpg"
+        width: 350
+        height: 215
+        isCached: true
   - title: "Ag-tech Employing AI and Range of Tools With Dramatic Results"
     excerpt: "An agricultural technology (ag-tech) startup in San Francisco, Plenty, plants its crops vertically indoors, in a year-round operation employing AI and robots that uses 95% less water and 99% less land than conventional farming. Plenty’s vertical farm ..."
     publishedDateTime: 2022-02-10T15:08:00Z

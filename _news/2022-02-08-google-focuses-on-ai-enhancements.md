@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/google-focuses-ai-enhancements-sram
 webUrl: "https://www.linkedin.com/pulse/google-focuses-ai-enhancements-sramana-mitra"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1080
     height: 720
     isCached: true
+
+related:
+  - title: "AI engine exposes online fraud"
+    excerpt: "“Allure Security’s AI-based approach to targeting the scam source destroys criminals’ business models — something traditional approaches fail at.” Allure’s AI-powered engine is ..."
+    publishedDateTime: 2022-02-11T05:20:00Z
+    webUrl: "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/"
+    ampWebUrl: "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1333578770-e1644515132390.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TfaKzZL/LUarcYbMDXbz70Y5mLZb53oU9onaXGBjfZLviyRTQg6y18BadB6l6aHAx3VvcsuQzyQGl15UPWqdIDD9b9UlqZXvVj32qciopJWKdsY+3xbvmryy0KwmAwvs5pC8jRoIIPtc8Xdi+mqAyWs+fvOCMx+BmXvovGhmcPdYyk65SUXZW6ZKcDskhUA1fflqpBjHyf3tBSVgv4HkPRU+Xe+PRnpNcfdoHPLrVq/PQCKyly2p960SulhfsMATm8/NraO+nSsbx72fagdp1GJWJ6XDugJRz+88hNMJ59F5+cFPOdyNANhTgXn7dzszk3M0psP/UgT+wDzt2eGOG1rkEQa7IrY4RR0Ks49MzUTRmGU91DPupoLcq9iN90kK/53AszHINhJ0Tv9MHO05ZsXvs+yAUp56k46FiCevfjbXV2ktN+PPQkuj5y0UH4gX45uCERZbMKVVzeBQR/cDvFcXXSYCuACOalEICi9GoNw7sy5I6oK/vwSOQJWSXw5HXFl08aBQuXkJwBKB9+hEaQ==;uyZzl/UzqQoNgL+QCD4+aw=="
 ---

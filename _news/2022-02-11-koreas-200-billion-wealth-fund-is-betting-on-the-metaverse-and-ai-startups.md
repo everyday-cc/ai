@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Korea’s $200 Billion Wealth Fund Is Betting on the Metaverse and AI Startups"
-excerpt: "South Korea’s $200 billion sovereign wealth fund plans to boost investments in Silicon Valley startups as it looks to the metaverse and artificial-intelligence to accelerate its expansion in alternative assets. Seoungho Jin, who took over the reins of ..."
-publishedDateTime: 2022-02-10T22:01:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
-webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
+excerpt: "“There are still plenty of good opportunities, if you chase them eagerly.” KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation’s finance industr"
+publishedDateTime: 2022-02-11T08:47:00Z
+originalUrl: "https://www.bloombergquint.com/technology/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
+webUrl: "https://www.bloombergquint.com/technology/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
 type: article
-quality: 64
-heat: 84
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZYHLMg9aWqU/v0/1200x800.jpg"
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2022-02%2Fce2677b7-50c3-4d7a-a2f8-99b77ab57e88%2F383528482__1_.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -59,6 +55,6 @@ related:
         height: 628
         isCached: true
 
-secured: "C001uvVGIDVCpfmTpb+O3cpb1S+Mo7luRZCEvBpaPtdc82fwANKSqp+asDYI+m8MTxVyqLSfjP6ItHzNU4LlT+ku80c5xeZiWWh4ZCxjaOIB21QH/KMCzU5gvKc96G4DsXfL9QYFK/pJJy+1D702j5g4shKfhQ8SfBwSpPksywr55PzjKEzIeUgz/wrQWpZnV6wvG5X6Lkvjmy8fqKFYGdgLVYXW5M1OGsXrZfSpMkJe1aSZSlqU2FronRZkZzpKqEh//mqrY+/GBt9G6ISNav1X+ai9TtMD96cSneHQGslRoFzf2G6awqmnlJymqW69ebJ8GdMMHzMQSC6o21VEraSyhdHM1LBAcFojoAk6NiE=;hWJRa5tvZbzVfdZdJJHIGQ=="
+secured: "gzDIjx4YqJATUQDaJvRlU05nQ3lg2nWvFh2oCPk7nSSQT2eP7UcXJceadQ4uph9vEo/1ycPoMgS7A2BzirOrD4IIPK4vBDUFALfqwq5ejDyGXt7mdzePzbFDRmh0fZB0V0mUfcj9IpGgzbuK4xJhCaNFeNliGX0tEWjcxdOYwO3vs5kAlo287HU6dBj4Mz7uWk5KTGZ/0dhwr+HVa65fBywnlZIkACw/f6DB2oLYVc9KZZif/yDqIYcz7fbo44tWA310OvuvKX+4ih22YjooMH1e4ClPzR6d8Co+e+cYa5aT6zVTtFhedX/ujOGP7g6FqP5vvVrRryD63Eb8vGv4kwCcO2jbe6WpuBH25GGLtCs=;4uWDZod1I9xRKTDFW/CIpA=="
 ---
 

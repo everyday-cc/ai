@@ -768,13 +768,13 @@ related:
   - title: "Government agencies will get more verification options after face-recognition backlash"
     excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
     publishedDateTime: 2022-02-10T15:55:00Z
-    webUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
-    ampWebUrl: "https://www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: KCRA
+      domain: kcra.com
     quality: 36
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
@@ -895,6 +895,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "ZwVDmrxmjiMIFlIoq3hnkm+BiGU7WBC2jXPAYnKvGWKACyH+4UePcoLJU2wP47w4J6O5J1Kmt10TXgAi7uuZRG2B/6Oir8aWJUqHuLOpnySAGiGUBvpDYxxlhuhAQDFxeJchcDCa5SbC5p1hLr96N+GfcnTQ1/xAXxlEyALm37/fGT/AB/bifyHYBxfrt42QNu0DHGoatQ7LNUjj7PB1nntdQYNejtLkifVWjpHZWsnldhb0qUfI0kZmYW8cyhf3DNNR6ptzzujIZZFmtv2/1JXk7E7/nHTibFoWJ/Ghcr7jbezPpvXJK3LhiBcKAEwAy1tfMfEimhT3ybqfYS59HOo83y2TaGHLAtrrwIWN3U4=;N25QoQGlk4hfgj9pWulSww=="
+secured: "8yQdi6OBp9wOdH1qsimJayNiMv6fH5GFNVl+tzErSUbA0qAzxiF5u1NPynwiDD8gxGCENoAAMz8+MtDOR7wZuxQPOpinHyS2TlfvFKGoP1PlxvZxy5IYdEA6anjCeW2qKQSf3HzUDb8/n2S5PaPA4M0U3JzUZucSzpAF5DaHmqGlWKqI7pi9/dZWy24dNsdVLtG0G6VpE6pJ5ITV9GZmOdwyVfVstaHKf/7i8rOOfeO9nUXG83SyoIJQiiLPaYjb1gJ4upV/5otIEw/7XvAk/8uabMvvy3xFxj5q58L7OS+UYWI523TKH8hp8gK3ITqMpXJCf3xfITTVJ64+NWyjpX6ITmNGhEI4g9MyTYVpiiatZktA5ijrdB9Rcc9FIN9iNyNMdG4Waqsn42jNA1y1uUgHG3+08S01aT210qvGA4xp8+OmdH6XQwVYZxJV3Jv2PHP14zHkfJNJYGsJz7dfW8V1OY19vty9ixrw/t+bATTU69Q4lLCXZNVyyP/HlQlE8tuL8I4lQzRPi3hE9BM8Eg==;e1BUpd5H2PSHbh1aATGBCQ=="
 ---
 

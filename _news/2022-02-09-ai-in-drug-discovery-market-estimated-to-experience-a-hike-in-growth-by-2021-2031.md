@@ -34,6 +34,34 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence as a Service Market : Likely To Experience A Tremendous Growth In Near Future 2017 – 2031"
+    excerpt: "Some of the key technologies used by the players in the global artificial intelligence as a service market include deep learning, natural language processing or NLP, and machine learning ... various circumstances. Financial services businesses have been ..."
+    publishedDateTime: 2022-02-11T07:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-likely-to-experience-a-tremendous-growth-in-near-future-2017-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
+    publishedDateTime: 2022-02-11T07:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "OovHeZKbamJiiVTDBXH2S2d9rdL7xbmoA6X8L5o1qWBG6UFnIOLMcdZL/cuqpIYSdCz6IGdc6qe7xPehYglzT1UOZcY2TBliaG4xVJkM46Jhxo6r8+lx9EJSXRmCKiMTn+aBNe5A0QOrnSAjxp4tbvIax8ONYPKPLYt7k1XZfng8WN6NPF/8Ao6HrFZf9aNpjEEIt0CixWjBqBJHXPODlakLi4Db7Bfve/fdKhndfFjvIG6d2abLWmsQvGs/HSIf/+b74lOXlIFljB/7zgTq/HfFKwTiyo74e9vgHQPSt3WQ/t+RejhyINNhC+jul6292V7IbFghJPDbe8nx0GXWUjdm9giBMpKcOjv/i0qJ4Iw=;W+MvR+1Dlv2iNC0MB1feug=="
 ---

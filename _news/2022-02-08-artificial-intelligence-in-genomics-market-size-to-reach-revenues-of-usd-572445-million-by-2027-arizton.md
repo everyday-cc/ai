@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-
 webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,29 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "With 34.9% CAGR, Autonomous Delivery Robots Market Size & Share Value to Hit USD 2,111.3 Million by 2029: Polaris Market Research"
-    excerpt: "The global Autonomous Delivery Robots Market is ... and many start-ups have already started evaluations to deliver groceries and packages to consumers using ADRs. Due to inventions in artificial intelligence, computer vision, robotic mechanics, and deep ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/with-34-9-cagr-autonomous-delivery-robots-market-size-share-value-to-hit-usd-2111-3-million-by-2029-polaris-market-research"
+  - title: "AI-SaaS start-up market to hit USD 500 billion by 2030"
+    excerpt: "Last year alone, USD 4.5 billion was invested in SaaS start-ups in India, an increase of 170% from 2020. The report says that AI will not just be a “feature” in existing applications, but will help produce a new class of applications, creating the next ..."
+    publishedDateTime: 2022-02-11T02:42:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.amp"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
     images:
-      - url: "https://www.abnewswire.com/uploads/1644407373.jpeg"
-        width: 1280
-        height: 451
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/2/11/w600X390/The_Risks_an.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "AI in Retail Market Size to Cross $36,462.5 Million Value by 2030, says P&S Intelligence"
-    excerpt: "By 2025, e-commerce sales are expected to reach $7.3 trillion, which will drive the AI in retail market value to $36,462.5 million by 2030 from an estimated"
-    publishedDateTime: 2022-02-10T07:22:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55204740-ai-in-retail-market-size-to-cross-dollar-36-462-5-million-value-by-2030-says-p-s-intelligence-008.htm"
+  - title: "Indian AI-SaaS start-ups can create market value of US$ 500 billion by 2030"
+    excerpt: "According to a survey by venture capital firm Stellaris and the World Bank-backed International Finance Corporation (IFC), India's artificial intelligence (AI) and software as a service (SaaS) start-ups are well-positioned to create a market value of more ..."
+    publishedDateTime: 2022-02-11T05:19:00Z
+    webUrl: "https://www.ibef.org/news/indian-aisaas-startups-can-create-market-value-of-us-500-billion-by-2030"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 10
+      name: IBEF
+      domain: ibef.org
+    quality: 15
 
 secured: "SUI8MG7F8fcQgzTP8WvdzYRz3+ZXBBI+AeyDRIt7daN+oZG/vu39RYKnSWTDJB3bP/ZoaL4v7sNYJdn+8a1XnyCaQomJjcQl/s35xkxxhnMvkEu3VPlibaUl1bT0zEG63C4DccxZrMHLYjn3lmOOECchSg7ba15Al2nRibM4K2jPHWMpdGmMYKF6x1lm1WT5DeXlsHyIdPf65ZiN8PBj1G8hcKmgmjLK6ImJwN5fTighK5DOccVlJux87voRC4yJ7g6dHQTnwcu5RpW5O7dbQ2H8ben3HUZy/VzBtySU2ByR6FktwhWZWR44RL1n4vXTFqxtNE9YQakgyG+S1pnYk6h71geVfF4G//YlUV2zT6w=;334E8iddi0lP1mhu2PNQXQ=="
 ---

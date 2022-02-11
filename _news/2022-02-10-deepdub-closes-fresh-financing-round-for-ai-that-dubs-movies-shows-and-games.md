@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-ro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices"
+    excerpt: "With Deepdub, the aim is to bridge the language barrier ... including the translation, the adapting, and the mix. In other words, it’s not just an AI platform, it’s a full business that ..."
+    publishedDateTime: 2022-02-11T07:26:00Z
+    webUrl: "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/"
+    ampWebUrl: "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://i.ytimg.com/vi/59cDtx-XFPw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Deepdub: bringing you AI-based dubbing"
     excerpt: "Israeli startup Deepdub is trying to make your movie experience more laid back, and easier to enjoy with their cutting-edge AI technology that allows you to watch whatever you want, regardless of your native language. Deepdub's platform allows content ..."
     publishedDateTime: 2022-02-10T14:27:00Z

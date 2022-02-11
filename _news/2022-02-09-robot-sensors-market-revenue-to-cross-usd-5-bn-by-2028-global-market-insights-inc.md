@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Insights – Global Industry Analysis, Trends and Forecast by 2020 – 2028"
+    excerpt: "The global Artificial Intelligence systems spending market is forecast ... of AI-enabled chatbot solutions to improve operational activities and customer service. Healthcare segment is projected to account for comparatively higher market share during ..."
+    publishedDateTime: 2022-02-11T08:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-insights-global-industry-analysis-trends-and-forecast-by-2020-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "+iDU8tyuc0Pso53lfujZMfi/8kSAaBN1IwtqYZRiwdCpUIHOr35ABLax/QVS2mN8puhRlwuJnVajSy7VJtmAUhddtPX7xHl0TG6vT5oUlsCN4pVF6XI9INcbH1TfOOX517gZvHcw8nej9IguvODGybqKWOwN9/8W7Vz6w0sOrfPottBbOSp7Q65ixPCYYiLxQtlSWYAQW2lj263I+xgw6gGIzGUpjcqot1WF9WUBH+cvncM3LmMnqFuDicvAofgJ4UeTZ3VhX2JudN9F5tyAkBZTxh1qyh6cyWsZuftM415ahh7yotI/y9BMrMyjhiMzjjQHRUkHTlMkntTemF2AYBfM2ZC2cXbnbP9RspLwRH8=;6Q+8Bj92uwYQbNFthIR1YQ=="
 ---

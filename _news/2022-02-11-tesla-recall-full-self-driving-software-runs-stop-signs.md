@@ -2,19 +2,19 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-publishedDateTime: 2022-02-11T02:10:00Z
-originalUrl: "https://www.fox61.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.fox61.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.fox61.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-11T07:22:00Z
+originalUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: FOX 61
-  domain: fox61.com
+  name: 10TV.com
+  domain: 10tv.com
 
 topics:
   - AI in Autos
@@ -197,6 +197,6 @@ related:
         height: 382
         isCached: true
 
-secured: "lyMwyCCT0hcg4tEqUGt/5zNV0mOANqoaH/39gS+ZQP+84/Z9f68fFlrdPqrj5e3nhWsUfEuDdOOgxJsnU13ZcWIfStBlSaupX6G5XNnjeudsXqhOowPZDi89ixh5B0O9NcOWb2YGVvFYU/zD9JnDnqXuIpbXR7eO83b93uAa+ctrAEcKVU4u0waDFO3DHK8YNX+NSoSoL2GpcMPtQf9pKlNQnR6WYMe7JfpvkRvMt7sCM8Z2lm8NgHegFNbOe4bn78Wb/hPBCED5zL7vOOtosQ4cjxO35GtUahqUlqXhuTr0t40EsRkB+aCuA7k/OaX+G3GXgqSAN11GpsWhJ4aFdK3Ob809rtI0bAzAvBdLNGk=;TlLwMm66gW67KRKB/CZNMQ=="
+secured: "0+aRKoBMZ0CfNwNuPGwtE6L30su/kOAdjnUI61KjbpPLE2J/QJ0qHodc0e1/+S4jFQ+sqB/adnQDrzvVsI3dVvUIWI2hlVCLGR15c9acF9BBy9fKz8cPprKDSoHq/2D5dQwSxnqVRqmtew7Zx66S0m5mweHKkhBe1FpJCLtq7oqbSiUER9DBmLu91BmyLxhaSu1bOhhgjU/1kDz5gBoALG11g3krbYhQEVisWByDavktYooTCHluT2Ua6yGBrBPyqBZ9/Njo0CphRCbPPh/Pz2wuIGNz4MqtEJfGBfBn4GDFkrJEvNqHToKYoVb3V8+4qoMFN0VZyMp2of9DmRO4ijfV+NG3sXjRj+/Iul9HSKE=;L+T/CXA7RN7id4icgEo4fQ=="
 ---
 

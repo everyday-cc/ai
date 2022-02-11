@@ -61,6 +61,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Data capture solutions provider Scandit raises $150M in oversubscribed Series D funding round"
+    excerpt: "February 11, 2022 – Scandit, a provider of smart data capture solutions that leverage augmented reality (AR) object recognition technology, has announced that it has completed a Series D funding round of USD $150 million, bringing the company’s total ..."
+    publishedDateTime: 2022-02-11T08:55:00Z
+    webUrl: "https://www.auganix.org/data-capture-solutions-provider-scandit-raises-150m-in-oversubscribed-series-d-funding-round/"
+    type: article
+    provider:
+      name: auganix
+      domain: auganix.org
+    quality: 28
+    images:
+      - url: "https://www.auganix.org/wp-content/uploads/2022/02/Scandit-Series-D-funding.png"
+        width: 900
+        height: 498
+        isCached: true
   - title: "Scandit, the Smart Data Capture Leader, Announces $150m Series D Investment Led by Warburg Pincus"
     excerpt: "Scandit, the global leader in smart data capture, has completed a Series D funding round of $150 million at a company valuation in excess"
     publishedDateTime: 2022-02-09T07:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

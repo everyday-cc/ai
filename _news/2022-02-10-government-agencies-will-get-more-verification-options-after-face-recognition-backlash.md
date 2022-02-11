@@ -3,18 +3,18 @@ category: news
 title: "Government agencies will get more verification options after face-recognition backlash"
 excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
 publishedDateTime: 2022-02-10T15:55:00Z
-originalUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
-webUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
-ampWebUrl: "https://www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+originalUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -895,6 +895,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "W9/0XUB8txGnQc39oLvYer3jejWmHuE0uxbEDzun3bqA/Udz1/mQAWZvRS43yMymRktkpWESqM0DJ+UKJ9U3GtjW+1dBVG2kCkSfMwtjJoDBhXPlzylFP8zAh2JSdR8Jq3y/DY5ajodGko5Phx3iG9wvFhh6IsL0tiK2Lqj0iJD7qyUVrSrHm5VgSlEAjeJOVGZFT30lHvufHXPZMcSAJPHPQ9UVODZaYfyQXZ6RtiPEs3xmBFCtbtaAG2JAgFTE9msH/P2PPXg3fX+VKi8+t+txxsmiMH8kQDBER2ZNqPqf5yc6n5Qd12UPJo+qjNcewIvx69dV+A8TB2v6saDtOhn4C+FhtsoyGx+BlaIOXQaNLk9yYghG3yI+8yBFZGIQnS3GC+dEmUjXDMZ9vROkL3J5rtTtSp6+cjapVggnXMGHQHVKWw3GFV1MFOszoYo6mKuhZuhDZPScjtMSK5Rcyf0/ZKnXENXVdS/5RMpNO1HEA+28Pfc72E2GkMamK9eS2278mZ31pM4EE4MptvAmxA==;bNGFCN7SNGWNfF+TzNzG7g=="
+secured: "gtf2ho9bWHgfg1gMdJpOnDEBzMSge+hMOaXyw5N5Rs1YhPr36zRHczDPPoRZFx5gc05AweO9m0Zm5QQ5FjjZ4fQE/eIpdcbVVX0viEFEzJBzSjZXPoQNl7r7bEgvk9srVMTEbOemc4pPLL3U53rDT03rwXAx9cKDr1HAMjlzoMSWPic/CBr0+UggyKPtiXrYLIrQFdp4eFlfPSvTnIq3gMT4rHA8bS3WEOveDFFpzqsKd0pe/GEkZlqK8qy0d7X3srW82x5DTXivIZQGj6F9wkGnTcNpcvV2HjzODUMtd3K0vX53C2oN1rYtTzrY840aA4QpFY+9QTHpMiMEYfjNSN9cES3c2CnkbcAlp6DRPhs=;yT4A99y2/ru5B5WJgyoaLw=="
 ---
 
