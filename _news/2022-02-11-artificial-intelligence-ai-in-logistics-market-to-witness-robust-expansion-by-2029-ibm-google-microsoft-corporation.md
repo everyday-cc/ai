@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "TCS launches trio of new sustainability solutions on Microsoft Azure"
+    excerpt: "The offering is already helping drive sustainability goals for many of its customers, scaling quickly to multiple assets and buildings utilising the Azure Cloud platform services. Alongside that, TCS IP2 combines AI, IoT and digital twin technologies to ..."
+    publishedDateTime: 2022-02-11T10:15:00Z
+    webUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-sustainability-solutions-on-microsoft-azure"
+    type: article
+    provider:
+      name: Channel Pro
+      domain: channelpro.co.uk
+    quality: 69
+    images:
+      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2022/02/green_tree_sustainability_gettyimages-1314148583.jpg"
+        width: 2120
+        height: 1193
+        isCached: true
   - title: "Dynatrace Delivers Coverage for Microsoft Azure and Google Cloud functions"
     excerpt: "In addition to existing support for AWS Lambda, this includes Microsoft Azure Functions, Google Cloud Functions ... and enabling teams to automate operations with precise, AI-powered insights, Dynatrace allows organizations to adopt modern approaches ..."
     publishedDateTime: 2022-02-09T15:57:00Z

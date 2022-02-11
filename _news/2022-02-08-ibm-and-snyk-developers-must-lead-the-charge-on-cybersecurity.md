@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-le
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/47/a47d5221-522f-5117-a471-b8bc996fa2b4/61ae1b6ba12df.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
         width: 1194
         height: 627
-        isCached: true
-  - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
-    excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
-    publishedDateTime: 2022-02-06T18:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ingen-dynamics-selects-firedome-to-provide-iot-cybersecurity-to-its-entire-robotic-and-ai-solutions-portfolio"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-12-600x337.png"
-        width: 600
-        height: 337
         isCached: true
   - title: "Deep Instinct Welcomes Two New Cybersecurity Experts to Executive Leadership Team"
     excerpt: "NEW YORK, Feb. 10, 2022 /PRNewswire/ -- Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced the addition of two recognized security experts to its executive leadership team. Yariv Fishman joins as Vice ..."

@@ -758,27 +758,41 @@ related:
   - title: "Facial recognition companies attempt to appease state lawmakers"
     excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
     publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://helenair.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_485103e3-4079-5d27-9f55-0acc1f51ae12.html"
+    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
     type: article
     provider:
-      name: Independent Record
-      domain: helenair.com
+      name: Billings Gazette
+      domain: billingsgazette.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/85/485103e3-4079-5d27-9f55-0acc1f51ae12/62046cf40f2c9.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/2b/c2bd22b8-8b10-5cad-95c9-2dce264e3d1a/620471f23a1af.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Why It was Important for IRS to Remove Facial Recognition"
+    excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
+    publishedDateTime: 2022-02-11T10:08:00Z
+    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+    type: article
+    provider:
+      name: Info Risk Today
+      domain: inforisktoday.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "Government agencies will get more verification options after face-recognition backlash"
     excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
     publishedDateTime: 2022-02-10T15:55:00Z
-    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
-    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    webUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: WLWT
+      domain: wlwt.com
     quality: 36
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"

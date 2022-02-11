@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rapidtvnews.com/2022021062048/signiant-announces-integra
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Rapid TV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Signiant integrates SaaS products into AWS’s Media2Cloud"
+    excerpt: "Media2Cloud generates frame-level metadata using machine learning and artificial intelligence from Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. According to Signiant, users can take advantage of its SaaS products to transfer content ..."
+    publishedDateTime: 2022-02-11T09:27:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/signiant-integrates-saas-products-into-awss-media2cloud"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/signiant-integrates-saas-products-into-awss-media2cloud?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/signiant-integrates-saas-products-into-awss-media2cloud?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/02/Signiant-Media2Cloud-Integration-Image.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Signiant Integrates Media Shuttle, Jet SaaS Solutions into AWS Media2Cloud"
     excerpt: "LEXINGTON, Mass.—Signiant today announced integration of its Media Shuttle and Signiant Jet cloud-native software as a service solutions (SaaS) products into Amazon Web Services’ (AWS’s) Media2Cloud. With Media2Cloud, frame-level metadata is ..."
     publishedDateTime: 2022-02-10T17:38:00Z

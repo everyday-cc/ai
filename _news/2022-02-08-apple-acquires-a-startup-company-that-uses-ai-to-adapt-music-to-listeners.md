@@ -164,6 +164,22 @@ related:
         width: 735
         height: 486
         isCached: true
+  - title: "Schoolnet acqui-hires Hyderabad startup NextSteps AI"
+    excerpt: "Hyderabad: Hyderabad-based startup NextSteps AI has announced it has been acqui-hired by Noida-based education technology (edtech) company Schoolnet India. Through this acquisition, the team of NextSteps AI will be joining the Schoolnet’s team to enhance ..."
+    publishedDateTime: 2022-02-11T09:54:00Z
+    webUrl: "https://telanganatoday.com/schoolnet-acqui-hires-hyderabad-startup-nextsteps-ai"
+    ampWebUrl: "https://telanganatoday.com/schoolnet-acqui-hires-hyderabad-startup-nextsteps-ai/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/schoolnet-acqui-hires-hyderabad-startup-nextsteps-ai/amp"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 57
+    images:
+      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2022/02/Nextstep-AI.jpg"
+        width: 1200
+        height: 650
+        isCached: true
   - title: "Apple acquires AI Music to create songs adapted to our heartbeat using algorithms"
     excerpt: "Apple has acquired AI Music, a startup that created artificial intelligence capable of generating its own personalized music, according to Bloomberg. A purchase that has been closed in recent weeks and which,"
     publishedDateTime: 2022-02-08T08:30:00Z
@@ -246,6 +262,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/aimusic.jpg"
         width: 1800
         height: 942
+        isCached: true
+  - title: "Spinny acquires AI-powered connected car startup Scouto"
+    excerpt: "Spinny, a pre-owned car retailing platform, has acquired AI-powered connected car startup, Scouto for an undisclosed amount. “As part of the acquisition, Scouto’s founders will become an integral part of Spinny and help build and drive our connected ..."
+    publishedDateTime: 2022-02-11T10:11:00Z
+    webUrl: "https://analyticsindiamag.com/spinny-acquires-ai-powered-connected-car-startup-scouto/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/AI-Features-Auto-Firms-Are-Embedding-In-Cars.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "w7/MmZOkBw2UH6UEQlAUrdut3cz0OEv9AtwHuhRsGizdXoVIRQnBXeJu4TDAwTojI9CjPDCYtGNsgk6W175HOicW+J+et0c077m4XYJFfzFGJl9soEXTjBodYSVM+wRND+jOf8up+AFxccCWMGeRsEdlkpht8H9rme3WfPfjZt0kreTDCg77epWiqsKjQnM3MFOngDiXt/smrdLcakWUEhj4u7ty8tyD8B0k0c9nWgs7VXJgdvCXZXYfiPjEz6X9NhXLniXx4lYudkkIWflHxMeBVZ7vD0vIX0FfAybRd1BRWstrahVEaBT/AcSvbEUaWOQ3PxzrKm0Tez8RtdTJqyR5rGf3BF6mDd4XBvfi2nO9DGw72wLXg4aYRmbaBivpEGWqiES+nbB7qdxxhvoe9pg+t919UOkrLn8OO6Nt5KF+ysWH2zVbMRZ2zZWj6hul14Y3zjexTLfOK5uRj9bmn/mlUIERx5+2JgrQFSHRqdF2kqHSIdULSFd20G4p9p9XXzG0cctNjguBNMcsPQn1Jw==;6j6JuJlcKA5oTBGNs3fjLA=="

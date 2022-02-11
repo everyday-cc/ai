@@ -41,6 +41,22 @@ related:
         width: 874
         height: 413
         isCached: true
+  - title: "Signiant integrates SaaS products into AWS’s Media2Cloud"
+    excerpt: "Media2Cloud generates frame-level metadata using machine learning and artificial intelligence from Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. According to Signiant, users can take advantage of its SaaS products to transfer content ..."
+    publishedDateTime: 2022-02-11T09:27:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/signiant-integrates-saas-products-into-awss-media2cloud"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/signiant-integrates-saas-products-into-awss-media2cloud?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/signiant-integrates-saas-products-into-awss-media2cloud?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/02/Signiant-Media2Cloud-Integration-Image.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "HxnBr/IWRysRqElBJeyyr5HjdSl260Dd2xHWyGDrCtYKHBQek/n3bI2jKEhLllMRRV2FQh4SXXq/kJNl3jjUr5un/xLxFT5W5QUScx7dwbWkkYLte9DudUHqRbb8MhodhTBAlGFhD07GJRAMGoHbjg9FVXOgXuAMsFuq2dJqI3ULuh0wt8QX/kQFCCvfBrqV1n4tx35rzd/OULBRYkIHhqvKADtOsWO3Jtq6sr88rtSqhnEJqnNcE83rGWpPzhV33yUGb85oXTAY1iGC9FBOyYPsFMyqV7qyr3XBWvkCERPtscE0Axbd4H3Qa/4AvdEC1r2wOJ+Lkq/6oK+VLCKfr209DmJljNi7TLLC4OIn5Ps=;3XpWmqUM2mbt8i9V845Xnw=="
 ---

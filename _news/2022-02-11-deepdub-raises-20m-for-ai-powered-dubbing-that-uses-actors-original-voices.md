@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 117
 published: true
 
 provider:

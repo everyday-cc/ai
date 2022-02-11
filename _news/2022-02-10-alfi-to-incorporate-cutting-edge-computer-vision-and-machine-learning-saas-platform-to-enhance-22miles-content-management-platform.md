@@ -2,27 +2,27 @@
 category: news
 title: "ALFI to Incorporate Cutting-Edge Computer Vision and Machine Learning SaaS Platform to Enhance 22Miles’ Content Management Platform"
 excerpt: "Alfi’s cutting-edge computer vision with machine learning technology now enables 22Miles to precisely match the content displayed on their kiosks to thousands, if not millions, of consumers that need guidance and understanding of large physical ..."
-publishedDateTime: 2022-02-10T13:07:00Z
-originalUrl: "https://www.digitaljournal.com/pr/alfi-to-incorporate-cutting-edge-computer-vision-and-machine-learning-saas-platform-to-enhance-22miles-content-management-platform"
-webUrl: "https://www.digitaljournal.com/pr/alfi-to-incorporate-cutting-edge-computer-vision-and-machine-learning-saas-platform-to-enhance-22miles-content-management-platform"
+publishedDateTime: 2022-02-10T13:06:00Z
+originalUrl: "https://apnews.com/press-release/Accesswire/technology-content-management-systems-e3c72654986aa7afae5f9b338dbf0b89"
+webUrl: "https://apnews.com/press-release/Accesswire/technology-content-management-systems-e3c72654986aa7afae5f9b338dbf0b89"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "ivvD1oqBG46ihTIfjTNpfNteI7ceUx1lw6CZnYmnj0VZZp9UiVLQ0d/3w96EXXoDE1yGhtBNx2uPdp6JgDLp4Mi0w79cBXe4eH6xgLQTR1+T85kNkOI67koLfpPJa5O4CiQc8EULwH/2ouU9aGTbd9BEYOsDtqj+ReFaDjb+WCPAsR+JTXCV+wJ1/r2UXdb6AfAZuLDurAvyJdMgQRjg21KpboLNlq4VTVsvSca5xPLaiLz6iLprwP8QGMPP+6qpXcT5f5lFrax0SByclWdZxEg05rlXdQtZ03B1j+r62bTCjTl9g1ALLYNJaufwA6MNzg/UiD7aiVsNejA4qEvmkbLMgX5jM6hN0eu3hsJi8R4=;qwTeMFWvCkSdt+8lY3ufJw=="
+secured: "BhlQ3JogQhwP/bWRnupA3pAJ958rRFQh+dKtxEjt3E1OKTt26IQGZ74a4uxCTpTfEw1IhDWH/zZmY01SMUI7cvbhw6PyZ1XC+r1jM9LUcw0XlxzIeV/PhC5+Y2/8fboQCQyYjBFPt0ZBTBWupnPCylSbXDeXRYZrXZjEeC/ytd2H5dZmj4L/GWRqY3alEmGT7EbR+rkws7VUwkSqZ+XVLNq7zwr9dAGodV7XmIJFEP3dcniHt4IdgkK4Gh5ybee04whUDy39Z+tXNkjlQgXKA27kY7Xpi1FQBknobxDuh2VpBsFQOFHPXn74IsGU8/Mt1BGubp1juXfLVr+qmUCceatJfHiKuDR7EvrvxdkaXy0=;luTdyGoq2cLWePvstu99hw=="
 ---
 

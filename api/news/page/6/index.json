@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-04-air-force-taps-clearview-ai-to-research-face-identifying-augmented-reality-glasses.md",
+      "title": "Air Force taps Clearview AI to research face-identifying augmented reality glasses.",
+      "excerpt": "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
+      "originalUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
+      "publishedDateTime": "2022-02-03T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-tesla-full-self-driving-beta-runs-into-a-pole-in-what-could-be-the-first-fsd-accident-caught-on-video.md",
+      "title": "Tesla Full Self-Driving Beta runs into a pole in what could be the first FSD accident caught on video",
+      "excerpt": "A Tesla vehicle using Full Self-Driving Beta has been caught on video running into a pole in what could be the first accident on the FSD Beta. Last month, Elon Musk was claiming that Tesla’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/",
+      "originalUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dtTtANwfvfg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/",
+      "publishedDateTime": "2022-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-teslas-full-self-driving-phantom-braking-problem-is-getting-worse.md",
+      "title": "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse",
+      "excerpt": "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "publishedDateTime": "2022-02-03T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
       "title": "Neuroscientists use deep learning model to simulate brain topography",
       "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
@@ -1097,143 +1244,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-influencer-robotics-and-the-other-fastest-growing-jobs-in-the-nation.md",
-      "title": "Influencer, robotics and the other fastest-growing jobs in the nation",
-      "excerpt": "Overall, the big winners on job growth for non-degree jobs are in social media, green jobs, automation and robotics. In jobs with degrees, artificial intelligence consultant saw the biggest increase in job postings over the last five years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco.md",
-      "title": "GM’s Cruise brings self-driving car rides to the public in San Francisco",
-      "excerpt": "Cruise, the autonomous car company acquired by General Motors in 2016, has announced the launch of driverless car rides in San Francisco. The rides are offered to the public for free at this time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
-      "originalUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/gm-cruise-car.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
-      "publishedDateTime": "2022-02-02T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-findability-hopes-to-make-ai-adoption-easier-for-enterprises.md",
-      "title": "Findability hopes to make AI adoption easier for enterprises",
-      "excerpt": "When rolling out a suite like Findability’s, he added, “Now within just a few months their products can be enabled with AI, and it’ll start telling their end customers that ‘This will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1297913719-e1643839268515.jpg?fit=800%2C429&strip=all",
-          "width": 800,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
-      "publishedDateTime": "2022-02-02T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

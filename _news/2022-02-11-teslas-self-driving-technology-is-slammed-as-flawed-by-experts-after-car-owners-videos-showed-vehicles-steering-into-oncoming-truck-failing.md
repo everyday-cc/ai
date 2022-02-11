@@ -185,6 +185,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster"
+    excerpt: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster 4 the Drivers Oy is a Helsinki-based company that has been founded in 2021. The company makes hand-held manual controllers for autonomous vehicles and ..."
+    publishedDateTime: 2022-02-11T10:17:00Z
+    webUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
+    ampWebUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
+    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 43
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2022/02/metropolia_navya.jpg"
+        width: 1352
+        height: 1211
+        isCached: true
   - title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
     excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
     publishedDateTime: 2022-02-09T05:53:00Z

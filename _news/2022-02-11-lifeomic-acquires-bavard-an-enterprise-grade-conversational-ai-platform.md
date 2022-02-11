@@ -1,23 +1,47 @@
 ---
 category: news
 title: "LifeOmic Acquires Bavard, an Enterprise-grade Conversational AI Platform"
-excerpt: "a Utah-based conversational artificial intelligence (AI) startup offering intelligent digital assistants and platforms. The purchase comes as AI technology has experienced widespread adoption in the health care space, a trend accelerated by the COVID-19 ..."
-publishedDateTime: 2022-02-10T17:47:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/10/9543427.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/10/9543427.htm"
+excerpt: "LifeOmic, a software company that leverages the cloud, machine learning and mobile devices to power precision health and wellness solutions, today announced the acquisition of Bavard, a Utah-based conversational artificial intelligence (AI) startup ..."
+publishedDateTime: 2022-02-11T10:12:00Z
+originalUrl: "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/"
+webUrl: "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/"
+ampWebUrl: "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/amp/"
 type: article
-quality: 16
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - AI
 
+images:
+  - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/LifeOmic-Acquires-Bavard_-an-Enterprise-grade-Conversational-AI-Platform-01.jpg"
+    width: 1200
+    height: 676
+    isCached: true
+
 related:
+  - title: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI"
+    excerpt: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI Tech Mahindra and Yellow.ai will work towards developing next-gen conversational-AI solutions to elevate omnichannel capabilities such as ..."
+    publishedDateTime: 2022-02-07T07:46:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 40
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-08/27/full/1535369573-6334.png"
+        width: 350
+        height: 233
+        isCached: true
   - title: "LifeOmic Acquires Bavard, an Enterprise-grade Conversational AI Platform"
     excerpt: "a Utah-based conversational artificial intelligence (AI) startup offering intelligent digital assistants and platforms. The purchase comes as AI technology has experienced widespread adoption in the health care space, a trend accelerated by the COVID-19 ..."
     publishedDateTime: 2022-02-10T15:00:00Z
@@ -33,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wyAlpxKHJSvHN+VljG651v7K2r239mFjBhkYsApUA2/F2DA7JA6QnRUwlXLABl3Ia6E0b6BULFbUdkbf19Qs87QHZNh3+ugIH8QkNK34wqyEEqGhK5Ilzqnp/P/6SEryzpqRhChjiWL2ffnqvLhcWNL89Q5+pEPYvOHBHYFvyymByAW6phFYa1yau7wUYYKJ/a+rtTTClTO8+Y0pJFJifDtG+xU0qtYQv1vxnwH5bAQfteR0ec+gDl8EuK3T2GGRv7dAouv0LJU9m0Ng58EVMBi4/MX5UtnwLWeubMO63bfjVAgUSPb1kzkUU6/xJB20PCuFrXZ7L7fP/D/i5VAnTTJJ5laKxJvTff1/OgSGSWY=;0gaj6YFO7BnCICZw4w90DA=="
+secured: "zpbJPSBXKrowAs9wGr/7626wQgmoharzM+aHHx01UYBPngxzg/kt4JGDbj9XHaqV9K6Cj5wxcoBsfkE4UuI696ovFMOiGRSBZiYICNs1XquGfQ70SDIWDhYdJFD3SExchxLXPq1aS55BPQeDdO0uBsX/il+qGLgeyYVHj8s6D4NEPD4naU7rS7MxPXO9iu90DueTOo9qZUiyr50H63CBzw6JAu9uKq+Az4RU8nEPekbdHLwZquks5azWOUHcynq84fYReTGT7MYNwKvIBCzg2Bs13M1BssPxeSrlEbZpThxQhmdJ9kim9tdEi3r9B3KyVhYFEJHLvDbmBhnbUg7WysY5pPzctXk3tNpiBMmMfbw=;ww4F6B52yCwVvLMcuIJ64g=="
 ---
 

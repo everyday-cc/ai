@@ -3,23 +3,23 @@ category: news
 title: "Facial recognition companies attempt to appease state lawmakers"
 excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
 publishedDateTime: 2022-02-10T12:00:00Z
-originalUrl: "https://helenair.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_485103e3-4079-5d27-9f55-0acc1f51ae12.html"
-webUrl: "https://helenair.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_485103e3-4079-5d27-9f55-0acc1f51ae12.html"
+originalUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
+webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Independent Record
-  domain: helenair.com
+  name: Billings Gazette
+  domain: billingsgazette.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/85/485103e3-4079-5d27-9f55-0acc1f51ae12/62046cf40f2c9.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/2b/c2bd22b8-8b10-5cad-95c9-2dce264e3d1a/620471f23a1af.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -765,16 +765,30 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why It was Important for IRS to Remove Facial Recognition"
+    excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
+    publishedDateTime: 2022-02-11T10:08:00Z
+    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+    type: article
+    provider:
+      name: Info Risk Today
+      domain: inforisktoday.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
+        width: 860
+        height: 520
+        isCached: true
   - title: "Government agencies will get more verification options after face-recognition backlash"
     excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
     publishedDateTime: 2022-02-10T15:55:00Z
-    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
-    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    webUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: WLWT
+      domain: wlwt.com
     quality: 36
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
@@ -895,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "8yQdi6OBp9wOdH1qsimJayNiMv6fH5GFNVl+tzErSUbA0qAzxiF5u1NPynwiDD8gxGCENoAAMz8+MtDOR7wZuxQPOpinHyS2TlfvFKGoP1PlxvZxy5IYdEA6anjCeW2qKQSf3HzUDb8/n2S5PaPA4M0U3JzUZucSzpAF5DaHmqGlWKqI7pi9/dZWy24dNsdVLtG0G6VpE6pJ5ITV9GZmOdwyVfVstaHKf/7i8rOOfeO9nUXG83SyoIJQiiLPaYjb1gJ4upV/5otIEw/7XvAk/8uabMvvy3xFxj5q58L7OS+UYWI523TKH8hp8gK3ITqMpXJCf3xfITTVJ64+NWyjpX6ITmNGhEI4g9MyTYVpiiatZktA5ijrdB9Rcc9FIN9iNyNMdG4Waqsn42jNA1y1uUgHG3+08S01aT210qvGA4xp8+OmdH6XQwVYZxJV3Jv2PHP14zHkfJNJYGsJz7dfW8V1OY19vty9ixrw/t+bATTU69Q4lLCXZNVyyP/HlQlE8tuL8I4lQzRPi3hE9BM8Eg==;e1BUpd5H2PSHbh1aATGBCQ=="
+secured: "n3L7d1sUUc5lweT8JfjfqBrE2I6WIwD7rnR62jDdRkRVk7MIiGKQwdVTUw7VCPCdZIi+PTbaf+cGBYpSbk4KdFgn0s5D9YZVnysel683BQ8KmbIQl2F8MWBz2VGqgJUzKaqkEjYim1JSwgP2Pkt5rbB5LpBCrlmcVGiqMbNhk+DZcMonuaX4dpE5yA3L+c7hfuDempDk+HBMWiLC/tdfjK87IndmLlM5dBwzcU68to6sp5uFE3fZuXC8erRJnNM3mdKAoViry1uEKRD/1wpf2f2PVhTRLPaFSjUeumoGHXabxW045tMNJWy+VInkN9bn4utgGKdfCrOIVM8JExQKgeodo3K8VAEmxFKPTLcmFcs=;1H0/PnKFDqZr4ZDa3zTogw=="
 ---
 

@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-28-why-deepmind-co-founder-mustafa-suleyman-has-quit-google-to-become-a-vc.md",
+      "title": "Why DeepMind co-founder Mustafa Suleyman has quit Google to become a VC",
+      "excerpt": "DeepMind co-founder Mustafa Suleyman surprised many of his followers last week when he announced he's leaving Google to become a venture capitalist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "originalUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107006595-1643204907671-gettyimages-961707246-FRANCE_TECHNOLOGY.jpeg?v=1643205832",
+          "width": 4000,
+          "height": 2878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "publishedDateTime": "2022-01-27T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-facebook-owner-meta-builds-worlds-most-powerful-ai-supercomputer.md",
+      "title": "Facebook owner Meta builds world’s most powerful AI supercomputer",
+      "excerpt": "It said the system would build on recent improvements in AI such as language translation and image recognition to pave the way for the “metaverse”, the immersive virtual worlds that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2022/01/24/TELEMMGLPICT000275946245_trans_NvBQzQNjv4BqvqfDbYV_7XcRT56v9L25rEz8u_yM_qElUUgDZt2_D2M.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T23:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates.md",
+      "title": "Study uses artificial intelligence to understand lung and bronchus cancer mortality rates",
+      "excerpt": "Research explores how impact of known risk factors for lung and bronchus cancer mortality varies spatially across US. By the University at Buffalo. Many people think of robots whe",
+      "sourceUrl": null,
+      "webUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
+      "originalUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wnypapers.com/templates/custom/niagara-publications-2020/images/share-nfp.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Frontier Publications",
+        "domain": "wnypapers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-2d-materials-could-be-used-to-simulate-brain-synapses-in-computers.md",
       "title": "2D Materials could be used to simulate brain synapses in computers",
       "excerpt": "a component that acts as a sort of synaptic cell in an artificial neural network, says KTH Associate Professor Max Hamedi. \"Instead of transistors that are either on or off, and the need for ...",
@@ -1039,133 +1177,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-3-beaten-down-fintech-stocks-to-buy-now.md",
-      "title": "3 Beaten-Down Fintech Stocks to Buy Now",
-      "excerpt": "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
-      "originalUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
-      "publishedDateTime": "2022-01-27T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-ai-and-optimism-jim-mellon-wants-us-all-to-live-longer.md",
-      "title": "AI And Optimism: Jim Mellon Wants Us All To Live Longer",
-      "excerpt": "The longevity industry today is like the internet industry of 20 years ago, when it was still in its dial-up phase, and downloading information was like sucking jelly through a straw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f02a4534ff21fd58c99297/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/amp/",
-      "publishedDateTime": "2022-01-27T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million.md",
-      "title": "AI-powered digital skills assessment start-up iMocha Raises $14 million",
-      "excerpt": "The new funding will be deployed to increase iMocha's skill library selection, reach more global enterprises, and widen its partnership base within the HR Tech ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/10/full/1615322229-3007.jpg?im=Resize,width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html",
-      "publishedDateTime": "2022-01-27T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

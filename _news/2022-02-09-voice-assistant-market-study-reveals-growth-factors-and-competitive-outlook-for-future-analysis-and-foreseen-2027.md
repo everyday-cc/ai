@@ -33,7 +33,21 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 31
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
+    publishedDateTime: 2022-02-11T07:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600

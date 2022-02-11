@@ -79,20 +79,6 @@ related:
         width: 1194
         height: 627
         isCached: true
-  - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
-    excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
-    publishedDateTime: 2022-02-06T18:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ingen-dynamics-selects-firedome-to-provide-iot-cybersecurity-to-its-entire-robotic-and-ai-solutions-portfolio"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-12-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "hrhK6JykzWQF15YWHX0L2E+3fpSp3+Bms6rfDmgIOmdkkU238ScSfbDUWJo59+i6/X2NSKOmpdxc/Ktuwn3ylPDoxFMVtt/+e7ttwuwezpqL/Tf2JRjv0pE9n5GbI8LudmDHCkfV4EG3V2oSemE53jhXzAniw1ZeUbgiaLvtKjxx+geMaMUe14KYIMWsdBicgBUaWK+BbzK8z5+kLORJe5NJlvykse01IIS1rjWt+oDqbIgqX9q++k4QL/GdDgs4e1wnePrIJGK7RA5veL9x0j7E/TlOsxRjjYKPt3NztNmOqGLCuvxJGVdsaB12I+KOAKu52NdlFMCgwGWLHGGiGHL9w5rLBp8Ohnxy8v02MCMssybn8OMzG+z1Xgb03IwnX0jWdhA6PoXAEUK9VlFMxj/AFJHZaMqPLDAMQxzd30P9MbNJgqi/omb8ZygkvhC7kDM8ffcPuuWzyBRhi8F1SqqJ1DoHosHtycA8dNodU9JAQ+F+7MjH9C/mQPQXO5R99MJ/BwfFQw0DPSpdnot7BA==;8RsuNbxST7OqI4cni2zZrA=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "3 reasons why Facebook will never leave Europe!"
+    excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
+    publishedDateTime: 2022-02-11T09:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/3-reasons-why-facebook-never-leave-europe-prof-alexiei-dingli"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGZH_Uu6JoUWg/article-cover_image-shrink_720_1280/0/1644571633392?e=1649894400&v=beta&t=93oiCKkrVDJ6lwlMOYbIOId3wJU3BD-AwAr1fybIpQ4"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "LfXpUWWl/gclvna3GDNzwgOczQqPKo4Gg2jOMu4zBJ7vHIUoa9FQNAyrwtywwBJui5HjXvjprC6fX+ndfGg5wpmaTy1ioU0Nw0Gz++EmcFRoTgcdTn59e3+DTKVqpffvQt9AFOYaNyB84383MzOGAET6r5YQHJ9hAN1nW19c3gTLt0SmYCd7vH1RMr8trxpnB3GbH99ZzKXb7J0joLRo0QyvLosUsYXWJ0MnIxd+ZueNmtR086DVNAHZ5bA8kxjatN/g/AXfgocJcxm5TYRnLlNcypUooCYXJykNwmKx1E+clcFbau1LGOJ2w9sUKDvY8bWxmUE4zAPncrqdCKNC9YRjb9L/CqDfAbqVw0KjRqY=;CrxB1DO4RErdpI2ZDnnkKA=="
 ---

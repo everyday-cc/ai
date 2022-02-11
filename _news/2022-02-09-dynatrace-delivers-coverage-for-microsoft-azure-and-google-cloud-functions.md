@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "TCS launches trio of new sustainability solutions on Microsoft Azure"
+    excerpt: "The offering is already helping drive sustainability goals for many of its customers, scaling quickly to multiple assets and buildings utilising the Azure Cloud platform services. Alongside that, TCS IP2 combines AI, IoT and digital twin technologies to ..."
+    publishedDateTime: 2022-02-11T10:15:00Z
+    webUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-sustainability-solutions-on-microsoft-azure"
+    type: article
+    provider:
+      name: Channel Pro
+      domain: channelpro.co.uk
+    quality: 69
+    images:
+      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2022/02/green_tree_sustainability_gettyimages-1314148583.jpg"
+        width: 2120
+        height: 1193
+        isCached: true
   - title: "Komprise Partners with Microsoft to Support Microsoft Azure File Data Migration Program"
     excerpt: "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. “By working closely with the Microsoft Azure ..."
     publishedDateTime: 2022-02-08T12:40:00Z

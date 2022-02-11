@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-11-lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform.md",
+      "title": "LifeOmic Acquires Bavard, an Enterprise-grade Conversational AI Platform",
+      "excerpt": "LifeOmic, a software company that leverages the cloud, machine learning and mobile devices to power precision health and wellness solutions, today announced the acquisition of Bavard, a Utah-based conversational artificial intelligence (AI) startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/",
+      "originalUrl": "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/LifeOmic-Acquires-Bavard_-an-Enterprise-grade-Conversational-AI-Platform-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/amp/",
+      "publishedDateTime": "2022-02-11T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits.md",
       "title": "Telemedicine and artificial intelligence, a pairing brimming with benefits",
       "excerpt": "This support to be provided by artificial intelligence in the world of healthcare stems from the amount of computer data available, whose management now lies beyond human capacity and which requires new tools to organise and understand them. Chatbots ...",
@@ -53,7 +95,7 @@
       "originalUrl": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -337,6 +379,57 @@
       ]
     },
     {
+      "path": "_news/2022-02-11-koreas-200-billion-wealth-fund-is-betting-on-the-metaverse-and-ai-startups.md",
+      "title": "Korea’s $200 Billion Wealth Fund Is Betting on the Metaverse and AI Startups",
+      "excerpt": "South Korea’s $200 billion sovereign wealth fund plans to boost investments in Silicon Valley startups as it looks to the metaverse and artificial-intelligence to accelerate its expansion in alternative assets. Seoungho Jin, who took over the reins of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZYHLMg9aWqU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-teaching-ai-and-robotics-concepts-in-business-courses.md",
       "title": "Teaching AI and robotics concepts in business courses",
       "excerpt": "Robots like NAO and Pepper ... learning platform available to many affected students. This platform uses artificial intelligence to build adaptive learning pathways for individual students ...",
@@ -492,6 +585,49 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-signiant-announces-integration-with-aws-media2cloud.md",
+      "title": "Signiant announces integration with AWS Media2Cloud",
+      "excerpt": "With Media2Cloud, frame-level metadata is generated using machine learning (ML) and artificial intelligence (AI) from Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. With this integration, customers of products such as Media Shuttle and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html",
+      "originalUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2022/Feb_2022/Signiant_Media2Cloud_I10Feb2022.jpg",
+          "width": 874,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html",
+      "publishedDateTime": "2022-02-10T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1065,153 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving.md",
-      "title": "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving",
-      "excerpt": "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop",
-          "width": 719,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
-      "publishedDateTime": "2022-02-10T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-three-ways-fintech-will-influence-the-cfo-role.md",
-      "title": "Three Ways Fintech Will Influence The CFO Role",
-      "excerpt": "So, who is the primary beneficiary of this fintech revolution? CFOs. In the past few years, new technologies and software have spilled into every aspect of finance, from analytics to AI and beyond. Digital tools have helped boost efficiency and decision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/606b44f264bac4503c6bfc54/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
-      "publishedDateTime": "2022-02-10T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean.md",
-      "title": "UAE: Female students develop solar-powered AI robot to clean ocean",
-      "excerpt": "Five female students have created a robot that uses Artificial Intelligence (AI) to clean the sea from plastic and other floating and mineral wastes to protect the marine environment. The robot, powered entirely by solar energy, can navigate autonomously ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean",
-      "originalUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=e5126623-23d0-405d-a9ea-4cf4f75be3f4&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.89189&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1",
-      "publishedDateTime": "2022-02-10T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,161 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-01-18-ai-artificial-intelligence-speaker-market-report-size-by-product-type-applications-upcoming-trends-geographic-scope-2022-2027.md",
+      "title": "AI (Artificial Intelligence) Speaker Market Report Size by Product, Type, Applications, Upcoming Trends, Geographic Scope 2022-2027",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “ AI (Artificial Intelligence) Speaker Market ” share is projected to Expand speedily in all development areas over the period between 2022 and 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-report-size-by-product-type-applications-upcoming-trends-geographic-scope-2022-2027-2022-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-report-size-by-product-type-applications-upcoming-trends-geographic-scope-2022-2027-2022-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T23:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-samsung-announces-exynos-2200-chipset-with-amd-rdna-2-based-xclipse-gpu.md",
+      "title": "Samsung announces Exynos 2200 chipset with AMD RDNA 2-based Xclipse GPU",
+      "excerpt": "Samsung has announced its latest flagship smartphone processor — Exynos 2200, which will be powering the company’s upcoming premium smartphones later this year. This is the same chipset that the company was set to unveil on 11th January but got delayed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "originalUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/exynos-2200.png",
+          "width": 935,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "publishedDateTime": "2022-01-17T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-walgreens-moves-to-ai-driven-search-experience-with-algolia.md",
+      "title": "Walgreens moves to AI-driven search experience with Algolia",
+      "excerpt": "The companies hope to provide an AI-driven solution that analyzes users' search terms, predict their intent, and deliver more search results.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
+      "originalUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
+      "publishedDateTime": "2022-01-17T19:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration.md",
       "title": "Multi-layer security cover with facial recognition systems in place for R-Day celebration",
       "excerpt": "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,",
@@ -1003,152 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-ai-chip-designer-moffett-ai-raises-tens-of-millions-of-dollars-in-series-a-round.md",
-      "title": "AI chip designer Moffett AI raises ‘tens of millions of dollars’ in Series A round",
-      "excerpt": "China’s call to foster semiconductor independence has sent investors chasing after chip startups of all sorts. Moffett AI, a Shenzhen-based chip design company, has received a fresh Series A injection.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/",
-      "originalUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-17-at-5.03.38-PM.png?w=1024",
-          "width": 1023,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/",
-      "publishedDateTime": "2022-01-17T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-researchers-use-ai-to-analyze-tweets-debating-vaccination-and-climate-change.md",
-      "title": "Researchers use AI to analyze tweets debating vaccination and climate change",
-      "excerpt": "Using artificial intelligence (AI) researchers have found that between 2007 and 2016 online sentiments around climate change were uniform, but this was not the case with vaccination.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
-      "originalUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg",
-          "width": 2880,
-          "height": 1616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
-      "publishedDateTime": "2022-01-17T01:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-microsoft-or-googlenot-including-apple-since-unix-and-linux-are-similar-operating-systems.md",
-      "title": "Microsoft or Google?(Not including Apple since UNIX and Linux are similar Operating Systems)",
-      "excerpt": "(declared by Internet Corporation for assigned names and numbers) forced me to migrate to another web cloud host, is when i realised why the Capital Market's has valued Google(founded 20 years back an",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/microsoft-googlenot-including-apple-since-unix-linux",
-      "originalUrl": "https://www.linkedin.com/pulse/microsoft-googlenot-including-apple-since-unix-linux",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHh5CGcgOO_qA/article-cover_image-shrink_600_2000/0/1642407176748?e=1648684800&v=beta&t=1AERQroJUMwF9yNs2NwH1uR4ITqBGl_8b7lOMv3pwBw",
-          "width": 1022,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
