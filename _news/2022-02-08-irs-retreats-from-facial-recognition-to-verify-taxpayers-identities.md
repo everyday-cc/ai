@@ -758,16 +758,16 @@ related:
   - title: "Facial recognition companies attempt to appease state lawmakers"
     excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
     publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
+    webUrl: "https://helenair.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_485103e3-4079-5d27-9f55-0acc1f51ae12.html"
     type: article
     provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
+      name: Independent Record
+      domain: helenair.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/6/63/66323398-50fc-55ce-aeba-d2154fb986c5/6145171b3dcdd.image.jpg?resize=1200%2C798"
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/85/485103e3-4079-5d27-9f55-0acc1f51ae12/62046cf40f2c9.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 798
+        height: 630
         isCached: true
   - title: "Government agencies will get more verification options after face-recognition backlash"
     excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
