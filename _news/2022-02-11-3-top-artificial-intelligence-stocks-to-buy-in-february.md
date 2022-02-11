@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/02/10/top-artificial-intellige
 webUrl: "https://www.fool.com/investing/2022/02/10/top-artificial-intelligence-stocks-buy-february/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 473
         isCached: true
 
-secured: "/Kmz88cFagUPV7q/x9RznCGPIMnP6fgyvgl/05mLRCesm2/zPBZgSQ0q4T24q9UBk5wwUmGZJQpJSS/ml/rG8ZTS1thVtWQf9hcD2zDOMoPLnJDH4/6jMLDHLzkK7VuK3FN7yThxLNkWwlfP6olQzOecMZ2o9ZNpzmMA/W6scbWKEeOJg9vea+WOXLvuoqKD83LAdoy5O8b9Qg26m91T3hfNkQzkHgFiTKfklTE4xwZgpMnJerjQXRB1LVXqiVkpqsiVT4rtuvcrw6Zh9O2dSppqiabPADhGmGL1UHSIm8F+i39uu6MAGzWBZ5cV+CVkgbfR8Jl8SVtTlrDZAwWlWZeqWPlMXNUA8Ah4UCQTaLI=;jiCgIXfox9/CpSB/WWyGkA=="
+secured: "SScjHyD0PLmo3XNKxlBZcREKRoQnG24wAR2w/P4bfTbvYww1U/f16oAszHgRcDGaNtOKrY4WNjiH1bN5DDgxzNZi59UBZ1XfL2qb9MJVmw0t7cJc4CA7lbvqqHkA7X5mbzVRi74TXZfHatszLdh1gSY8xWrue6nM16aB4sK8z+Mhk6ZM2QVRbHSL9/kWMMWRTUC1MEGY6wiB4H/HcG/DXOSyUDLb/FjdLr9z7UV32Y7s0Dc29RshyuCT5eXbMUz3B/unAikZxDaVlDigb0lNGwYM9YkafAkChi4KNX7nuphQ+ZMdypyPiKhvdk3E32HpZ2Fv9PGbJ9gJ/VY6Ry/uCfHWIkMO1BbEUByjO7TZjoPBPE4UgzipqetBp5MrlN3RgyLtXo2zJwqzbxAAZP7LgLu2ZH1eDHz/L6Ib4uBQVu1eJcTuLsFRQTBUuEISbTb6Q8hHvRAoU1F5nqL06a2cUOABZVU9+NUZeS+YSfFdW48Zq0LnaWzApLsUz1VHwwnB1Bdf1x3RXNQ+WAWm9WsOOw==;onp6FDjeQQlriBASETmBwg=="
 ---
 

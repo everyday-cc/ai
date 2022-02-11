@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/implement-mlops-usin
 webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/"
 type: article
 quality: 103
-heat: 104
+heat: 103
 published: true
 
 provider:

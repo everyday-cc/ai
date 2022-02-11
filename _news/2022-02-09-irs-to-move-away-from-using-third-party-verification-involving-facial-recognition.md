@@ -508,20 +508,6 @@ related:
         width: 1264
         height: 710
         isCached: true
-  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-06T08:50:00Z
-    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=via"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 54
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "IRS says it will scrap facial-recognition ID.me plan following backlash"
     excerpt: "Tax agency backtracks after lawmakers and taxpayers voice concern that ID system could put personal data at risk."
     publishedDateTime: 2022-02-07T19:38:00Z

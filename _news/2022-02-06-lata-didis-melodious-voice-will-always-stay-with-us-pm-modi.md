@@ -26,17 +26,6 @@ images:
     height: 677
     isCached: true
 
-related:
-  - title: "Her voice, melodies will remain immortal: Laxman condoles Lata Mangeshkar's demise"
-    excerpt: "Her voice and melodies will remain immortal ... She was awarded the highest civilian award Bharat Ratna in 2001 in recognition of her contributions. She is is only the second vocalist, after ..."
-    publishedDateTime: 2022-02-06T07:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Sports/20220206/3904596.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
-
 secured: "JI7iwdRltEUbuz7pVWjQzNd069ObCnJo012IrVdMXV/RNIFJlQLOWJptDbKQSeEEuxDmxtlW1HOcnHg6hTvVHA/Zg2p/e7whkRKcp8IIdpyELewsQJKpHehlNrf0o17XlAvRKMZSHmKMsQ2BUNJspQba0yscTUD5OPoKv2fiRG/Ueld5U2TXVZTFsk7sg3M745L8ucCUhSRC5GrKzFLq/bzkCeV295mtNqL1cLT2i4bpQs9duoKfGdBpILTySQrKw2u/B6VV0ROiZB+22gj4pR3ol0+O9O0+KJXNREyA+A2n5/MW7i+raAwsUQv4iRiQZJNYNYTifzv8UlRCHJKeYWxr7mlwxNlyac4R2UO4Pdk=;V9VdtjVJ+frzJk2KYMT3eQ=="
 ---
 
