@@ -57,22 +57,6 @@ related:
         width: 2291
         height: 1309
         isCached: true
-  - title: "5 innovative Belgian fintech companies to watch"
-    excerpt: "AI, automation and big data analytics are key themes for Belgian fintech, as innovative companies look to solve common problems in the financial services sector. Fintech is, broadly, technology that is applied to financial services or the management of ..."
-    publishedDateTime: 2022-02-07T07:03:00Z
-    webUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.html"
-    ampWebUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/09/eu_european_union_banknotes_currency_money_by_mabelamber_cc0_via_pixabay_2400x1600-100812035-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Top Fintech Companies To Invest In, In 2022"
     excerpt: "... help companies and individuals navigate adoption of new fintech technologies. Speaking of which, innovation is still ongoing even ad growing companies adopt new forms of payment and transfer. AI is already at the heart of start-up fintech business ..."
     publishedDateTime: 2022-02-10T18:31:00Z

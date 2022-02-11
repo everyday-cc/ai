@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -214,6 +214,15 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
+    quality: 17
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Copyright 2022 NPR"
+    publishedDateTime: 2022-02-11T21:25:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
     quality: 17
   - title: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment announce ‘superhuman AI agent’ Gran Turismo Sophy"
     excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced “Gran Turismo Sophy,” a “superhuman artificial intelligence agent that can race competitively against the top human Gran Turismo drivers.” Here is an overview of the ..."

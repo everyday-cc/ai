@@ -56,15 +56,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "AI can help improve customers' service experience"
-    excerpt: "In January, News Editor Dan Shine spoke with Kim Saylor, 55, director of product marketing at CDK Global, about how AI can improve customer experience and increase revenue in the service department. Here are edited excerpts. A: We have an increasing amount ..."
-    publishedDateTime: 2022-02-07T05:07:00Z
-    webUrl: "https://www.autonews.com/fixed-ops-journal/how-ai-can-help-improve-customers-service-experience"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
 
 secured: "WLGzHrxRmIGFv3mzIgz2SiugKs/EhVI7BWbXmBmq5/E5/zxS1WULKHbpCxhL8fHtFx81pbNCpYQJ1IkaKbmc/A3hv0iYbuhY9/uckZwfyin1sukf3OyavvhdpdOWjfYwbyB4/l0dV79sseemiYKZ5H7KwlDxr5jhsYkt+6Gy69UdSIvHntBvBmdw7Ga6DwTqUoLNs2m8AA/XG58nIdKq4z1b1AYSU/lgXib9jrs7amPlRadaiEV723qX6gCit+blTcIY7wmMkwE7SWHEihGvROCt9+FZPV/kDwC/8pK0Tpnb86gYJTmNktsh4bbpiDOKY4QJuV4vmpnY/ryIpGqxJedpZhzy882l31Ow7UnmWXw=;qig7uGH4q3UsxKiKk7WuJw=="
 ---

@@ -3,28 +3,20 @@ category: news
 title: "Sila Offers Customers Digital Debt Collection Services Through New TrueAccord Partnership"
 excerpt: "Sila Inc., a fintech software platform that provides payment infrastructure as a service, today announced that it partnered ... of their overall management of funds. Using a patented machine learning engine and engagement data from millions of customers ..."
 publishedDateTime: 2022-02-07T15:33:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/02/b25454761/sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership"
-webUrl: "https://www.benzinga.com/pressreleases/22/02/b25454761/sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership"
-ampWebUrl: "https://www.benzinga.com/amp/content/25454761"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25454761"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_6976b780-31f1-5272-94e0-fdd6fa9627fd.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_6976b780-31f1-5272-94e0-fdd6fa9627fd.html"
 type: article
-quality: 35
-heat: 35
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.benzinga.com/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Sila Provides Clients with Digital Debt Collection Services via Partnership with Fintech TrueAccord"
@@ -44,6 +36,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "ijQdiavjJvehFFIBu4K6KNcAIG+APXsEDLL8+WXqgSrri2OUXo0QnbQAJ9Kv7drncNudrz/UrWUjr28ZKLdzDtwbo4XLuGio8Zmzg1usj4xSMAD/Q0DdUETi7viDvhZkRfTEwDdnHiKQANO/a7OZF/qR2v/5rqmYQfHRcT+MXZjPw+XZ7l8cbWYvRIAElym14qTFJzF8l07opCYvIHhS10QPayXQelXd0f0u54WtmlsZUz2PuYohDg1qtIQs68OMIcXZ8to4gkdCa4io2xYF/UH6OHFD16At9YNglKapzFU3GvtciGxmWTO5CU3nnlrxxBWfHFC0QVLV8+UQyHSjQkiZfnzAaaIZkJR4DsYcE/4=;v93a5CWerWbGBzx0g4P7LQ=="
+secured: "QzH6Tfn6LafOHiOHU9VX9C9ri30qWPNSXJVdy4BQhcWbhQ8XR2QGgR+B4+hjZYv70qnqaAxdffqX2M+s2Ta0+KIJhvA51w1D3vUs+V6CjQVIdLhjIZNYD0euMcdS5JjNgP+CzpyTZt2OUs9zdXWZ6wnLMsESgAkU8j27TFNE2w+i4kTlKWcOIUQBqEa5RvCq4xOSnyghjQjF0XXw6vqHSc3vXVNeygvgKV+uMUKycPd98HxvY/u3RVN/iz5VE9vkRCggK1ofL8bWzJ5BB1FKXYoOp/MuCKnoPuaUINTh18yHDMDqeo2aJONxq8JCcPsRFHJWhcHnNTMadBKA+5Y7Tjxk+FXSe5uFC7qqdPVTmPQfPFqhj2IrNfMGNVHDdXnn2wL1XNRWTKfGSH+bitObfvlwzWOyMju7Bkgb9tqg7p28DcyR7cjiyBBA8pAyXTFFeWnDBKFG/oUD9UXUjN2UyiCwHG9dY+KuqVMW+Wby9CqWuXycxZNKHHSfP2q5u295h2SD9QY0TaKAWM+Js2ODSA==;R2JF0AJjWwIygUaxhiussw=="
 ---
 

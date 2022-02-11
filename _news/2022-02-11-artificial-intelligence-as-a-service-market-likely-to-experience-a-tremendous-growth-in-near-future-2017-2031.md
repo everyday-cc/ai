@@ -37,20 +37,6 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 32
-  - title: "AI in Medical Diagnostics Market Expected To Witness a Sustainable Growth Over 2031"
-    excerpt: "Increasing demand for time-saving diagnosis processes in developed economies is anticipated to fuel the growth of the AI in medical diagnostic market during the forecast period. Government investment in healthcare infrastructure to provide advance medical ..."
-    publishedDateTime: 2022-02-07T06:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-diagnostics-market-expected-to-witness-a-sustainable-growth-over-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-4-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "YK6IxN2whaXoRxJthbk+UQieeS6HFLeHnbMFVMZmKVAn0/VPcdFdkUiMzncGazm+QOmDCsMWjwMMYZ54uIO5F8OcFl/GFCGaOT4yvd3HIuc+L+ts5U0U6sCCteNHhUGLh/4Xp2A+sohb1Q5lrqp3pWjdLkRCch6rBayPGd1P88Mny65AICJ5q0bxCt6g3c15hASFX83FYbP0hNygqwcTl2KmPZV+snYe4nu3uIRm06EempaatzU2YxaH0q7S+FpUX0BF1xnZej14+aNbOVbrtlCdB+tNZ8UyqzYh/6+jjNdFaTQodI2T6u3yBaGX2+qFejj3x3URr+HdHI0gYbn8dPymwZC18rDeL6Di7TM/muUigvRf1bjB7zJ5mhboYli+CqV9CsCf4gty92SZEPHtTTeyDe0tkmi833fr2pNNRHznjA3xbcZ+FxXv9BWq+fVSh5YlNL6THNnnir/ZC8oZmJa+aLWPpfdZnuWBKdPG/ATTd0rwC7LHp81g/ye1PVQJDDHZfvHPXGnoY9P/wI4giw==;A9QUm8L4wav0an5Lj7olCg=="
 ---

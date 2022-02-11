@@ -59,22 +59,6 @@ related:
         width: 2291
         height: 1309
         isCached: true
-  - title: "5 innovative Belgian fintech companies to watch"
-    excerpt: "AI, automation and big data analytics are key themes for Belgian fintech, as innovative companies look to solve common problems in the financial services sector. Fintech is, broadly, technology that is applied to financial services or the management of ..."
-    publishedDateTime: 2022-02-07T07:03:00Z
-    webUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.html"
-    ampWebUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/09/eu_european_union_banknotes_currency_money_by_mabelamber_cc0_via_pixabay_2400x1600-100812035-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
     excerpt: "While falling out of favor for now, in the long-term the 'digitalization of money' trend could send these 10 fintech stocks higher."
     publishedDateTime: 2022-02-08T13:41:00Z

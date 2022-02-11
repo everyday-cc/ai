@@ -81,20 +81,6 @@ related:
         width: 318
         height: 250
         isCached: true
-  - title: "Emotion Detection and Recognition (EDR) Market Type Is Anticipated to Grow Faster Till – 2030"
-    excerpt: "In 2016, the facial expression & emotion detection segment dominated the global emotion detection and recognition market growth with 66.0% share in software tool segment, in terms of revenue. However, in the same year, based on technology, machine learning ..."
-    publishedDateTime: 2022-02-07T06:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-edr-market-type-is-anticipated-to-grow-faster-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-4-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, Latest Key Players | NEC Corporation (Japan)"
     excerpt: "The security applications of facial recognition are motivating Facial Recognition Market in 2020. The AI and analytics reports are made"
     publishedDateTime: 2022-02-09T10:48:00Z

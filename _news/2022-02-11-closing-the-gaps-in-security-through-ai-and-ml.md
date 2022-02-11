@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
 type: article
 quality: 121
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -177,6 +177,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
         width: 1079
         height: 720
+        isCached: true
+  - title: "The Use of Artificial Intelligence in Streaming Services"
+    excerpt: "Artificial Intelligence or AI plays out a significant situation inside the OTT business in heaps of ways. From content material revelation and content material improvement to video ordering and upgrading the high-agreeableness of virtual pictures ..."
+    publishedDateTime: 2022-02-11T21:56:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/11/451487-use-artificial-intelligence-streaming-services.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/7749977819-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "lG7Qx2RkSI8FmxS/xOzZXzlNrqaskSsK8OKRhz1S8DK9U84LmasrLLd67zBUmMiWzis0hOSMbccfJqs90USD53OjACU5epscyrVnbwxMcW0o6OR4y2GMl51i/10bRzXEjbJf7QSyco5cn2ZEA3sHjwmwyJpXhU+kHjUn5B3PW4osA66LaqkQGgz24h72tpQJdgbx8Sa8wMAloOUaRTLqfvZwK4/fCPKv1qm4gLDpnEfQdfieaoHL5tQXi7lr3OMaxFpf5/HbCMJtkRvQ0XaZ8nXh3e0DPRnWLcSZe1xYcEkjIPLJkB1S/dUIoOCNY8o8Pr41PW+tGWzkhoreIM+/HdwiiWbiM4yYEVVJULaUhvC+E9TF7W9S3nX2ESXBP4uTWQZnq7CAWCY4e2/6uheJOUQPgQAYdbM9/B5aMSwckApz4jD4Gx274yJBtmE5kjbuGLNRLpFipeV4s/hq7LY5+/+OtaWe3JhLerQijo1ebcSD1TjEuXmWUh4kgNmcf7/7wvMS/azX31plUlMi/wiKog==;FJn/BC6pJEvScN8OvH3ZKg=="

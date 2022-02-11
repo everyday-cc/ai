@@ -41,6 +41,22 @@ related:
         width: 874
         height: 413
         isCached: true
+  - title: "Signiant announces integration with Media2Cloud on AWS"
+    excerpt: "With Media2Cloud, frame-level metadata is generated using machine learning (ML) and artificial intelligence (AI ... and once the content is in the Amazon S3 bucket, Media2Cloud on AWS begins the content analysis and post-processing. Deployed across ..."
+    publishedDateTime: 2022-02-10T19:15:00Z
+    webUrl: "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2022/Feb_2022/Signiant_Media2Cloud_I10Feb2022.jpg"
+        width: 874
+        height: 413
+        isCached: true
   - title: "Signiant integrates SaaS products into AWS’s Media2Cloud"
     excerpt: "Media2Cloud generates frame-level metadata using machine learning and artificial intelligence from Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. According to Signiant, users can take advantage of its SaaS products to transfer content ..."
     publishedDateTime: 2022-02-11T09:27:00Z

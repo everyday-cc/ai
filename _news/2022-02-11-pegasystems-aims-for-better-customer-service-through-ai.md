@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/pegasystems-aims-for-better-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/pegasystems-aims-for-better-customer-service-through-ai/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 900
         height: 720
         isCached: true
-  - title: "AI can help improve customers' service experience"
-    excerpt: "In January, News Editor Dan Shine spoke with Kim Saylor, 55, director of product marketing at CDK Global, about how AI can improve customer experience and increase revenue in the service department. Here are edited excerpts. A: We have an increasing amount ..."
-    publishedDateTime: 2022-02-07T05:07:00Z
-    webUrl: "https://www.autonews.com/fixed-ops-journal/how-ai-can-help-improve-customers-service-experience"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
 
 secured: "WwmmUw4zxB266Q3i40NlTd7sogdKuZ4Tv0M+4ZfVOrV90dotsw+wIOrBkHolct1IgFXaeDuVI1TGfc8dWAN5GwAjvqevrVjXuU7b9zxnOpZYbjItQ8acuedUkQ9y5nEfwhqPic9963nLzV9oW17MbTgmrkJahP0Y+mjm0tV0M8OvYILw98h8Hhc8iwM/7jSES92j1KJi+hZuRZCzcCgmMmKfUHTGSgcPE91uLnLsF+dd7XjyWzScPhO85Gx3jGBiskGz2Qf/Plj2UEtN1Hwvd4zG3iR17SOV5Pxyar1O6CPxxV32z7e/TKUxlqddGANagIsaJYbi4E96MRT7W7ONwqCAb4NZv+U9Z3n76ALpvXA=;Mx3xFxjIh/Hw5flwz4XcyQ=="
 ---

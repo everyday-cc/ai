@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Medical Diagnostics Market Expected To Witness a Sustainable Growth Over 2031"
-    excerpt: "Increasing demand for time-saving diagnosis processes in developed economies is anticipated to fuel the growth of the AI in medical diagnostic market during the forecast period. Government investment in healthcare infrastructure to provide advance medical ..."
-    publishedDateTime: 2022-02-07T06:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-diagnostics-market-expected-to-witness-a-sustainable-growth-over-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-4-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence as a Service Market : Likely To Experience A Tremendous Growth In Near Future 2017 – 2031"
     excerpt: "Some of the key technologies used by the players in the global artificial intelligence as a service market include deep learning, natural language processing or NLP, and machine learning ... various circumstances. Financial services businesses have been ..."
     publishedDateTime: 2022-02-11T07:55:00Z

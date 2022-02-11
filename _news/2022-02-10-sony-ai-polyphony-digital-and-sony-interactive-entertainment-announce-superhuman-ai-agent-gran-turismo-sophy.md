@@ -225,6 +225,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 17
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Copyright 2022 NPR"
+    publishedDateTime: 2022-02-11T21:25:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 17
 
 secured: "hGgFrN6JMIlQw8CFCZ/Ya4OvGY6pvXVRdxlaMFK7Rs/3k2JKdftJ0hBSNRkwwXl7ldAR305u2SjO71bPwQebwFRm6ciVG4sCwmajE72O38/HFM04ub0nm3NpZSVIf424lFDQZsm8pDZCT029dG7SpMrtrW+wNBFBWahWj88lY27EicCHYQ+yAywDlo4OUsvHicTh1Exeg1tL5+I52mHXDnhF6pqokIiXqQ7MKlaZuhDx0j5sEiT1vtutw2/BikobSTSR58zDyaZGHHvv5MuNiuhQgkuBbcuOeaJ7XIEspi9fXrbDqt6SArEl//9Fg3jNALlK2e2lmfSyVEtFhR0oiFuRB6SoKzzuDvAarZ5Ncvc=;9u89f2wglnDyRU6dtSH2FQ=="
 ---

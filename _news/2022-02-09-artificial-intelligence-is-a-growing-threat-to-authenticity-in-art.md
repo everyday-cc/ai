@@ -173,6 +173,20 @@ related:
         width: 1079
         height: 720
         isCached: true
+  - title: "The Use of Artificial Intelligence in Streaming Services"
+    excerpt: "Artificial Intelligence or AI plays out a significant situation inside the OTT business in heaps of ways. From content material revelation and content material improvement to video ordering and upgrading the high-agreeableness of virtual pictures ..."
+    publishedDateTime: 2022-02-11T21:56:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/11/451487-use-artificial-intelligence-streaming-services.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/7749977819-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "CQWeGfw4XkOGkzOlWnMwrxgbrnKcFXwc3XSsUokYa7osE0+Kgqc7cQ5O2eG6M8YXsH90CR7p5niEii1ryNrlkDOH1eJmogHWaeXQtzqUGSGql+v2Z3plCi2e1rRmVYxQ0HX2GtgN9fJdT7qzTqFRQR51zwnPRS7iKRd8OKrVKuJD+MkYF1HXnOCX8Y/wg6+CuFYE7CH6vTnGlYRD67TU83uQRe4d1wBoH22xxX5fozsNoPxgqMubV9oVq79PFepold2Mv1pDI6ZUo3vnnvaVdcUEzrfjBohmCjZqzU7I35g3qZ9SUZRamKWTUfSf20I/3bww43SNrWKBmMDyVkhF5tmiD+yLSB6SnbGdXgKUB3u/BHEDcin8PBjyZ3B6cTRQL58SzdtJxPglRsYfipEeLpb83W4Lx1KRsGBGo/0hXLnbJOPsDnA2WvE81cdCX1Wx28u7ChcC2SjDe35AR6JyIzYHtg//dmNt3DtKfZm+dmstxnxDXbNGnlaLYoB11yTuUCO5tPvYj4fq3PsGQQIjdA==;R3p0/pNx1AzbddujExvrgA=="
 ---

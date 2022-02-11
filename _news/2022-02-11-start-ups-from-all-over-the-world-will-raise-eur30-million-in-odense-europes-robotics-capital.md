@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Start-Ups From All Over the World Will Raise EUR30 Million in Odense, Europe's Robotics Capital"
-excerpt: "A record number of robotics investors are waiting to participate at the ... from BioMADE to Accelerate US Biomanufacturing with Advanced Informatics and Artificial Intelligence TeselaGen Biotechnology announced today a two-year contract with BioMADE ..."
-publishedDateTime: 2022-02-11T08:50:00Z
-originalUrl: "https://www.lelezard.com/en/news-20236908.html"
-webUrl: "https://www.lelezard.com/en/news-20236908.html"
+title: "Start-ups from all over the world will raise EUR30 million in Odense, Europe’s robotics capital"
+excerpt: "The hit rate is high when capital-hungry start-ups and risk-taking investors meet up at Odense ... known as the Cobot Capital. Automation, AI and new robot technology is spreading to more and more industries and is becoming a greater part of daily working ..."
+publishedDateTime: 2022-02-11T12:52:00Z
+originalUrl: "https://www.linkedin.com/pulse/start-ups-from-all-over-world-raise-eur30-million-odense-grouleff"
+webUrl: "https://www.linkedin.com/pulse/start-ups-from-all-over-world-raise-eur30-million-odense-grouleff"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGKkP3ms07LjA/article-cover_image-shrink_720_1280/0/1644580945616?e=1649894400&v=beta&t=M5kOrmTTokNFU042YkOSnCb6gi-r_LTRfznxdsQsEdQ"
+    width: 1280
+    height: 718
     isCached: true
 
-secured: "LVNx4kzoReIwDu7HONqOFab9N5L/HI8AkVUxQ5Y2emZX7Z8YB7QQ1SOB4haHqMT2//x4/go/D7nM76t1ZF84PRGs72C+3AxaHA3xLTFnMVxpr6TpKNWamghrV4bPIGm2y+7UaQLJYdboR/+xWDPcZXCZ7U4VWOAAZgf0wkbVJW9tNUCNIyooekrOzdDKDWcIPJlS8QMF1IIpPlW2ZkxIJ9EnfHk7BwPCfZVhOOpq+gc0sRAiIlWMIqbfEX9L/8d7jELcO24z14QUbgLfTrM9MjTI2yr22E9Icrw3RFWX4hP8J43s75xLvovDRuT25BIkrsQQ8LAVENjpmkQX5OmDlYd2VKs9towAms5hptkVBvg=;NHsIu6cP+tcEKPR4az0gLw=="
+secured: "SuQPZ/EnmdzCpIC4D2u4on8sse4pzEJMeSHM6yeDKHckowJMn62VnGzYiqqUNpsnGjaZmjtXVuWzgQvqGgBdO8zQVEMe30UAH8JIkYMe0LmeOcz7KBWfGvJVPoxgstYOddCgB+MnAtxPm3GX4WDb3DXftz/j9GKld1I78m3v8qf5PGHRbMFdmBDuFT48oVnz2nvST31uO9LrWM2IV5oBkMOr3suKr4PgqKQdaEVDPVXcJWzlkC84ymYNEL/8z9l+4CIWXs1KbSEDUD/YwtuPj4P8QPN+nP16WBe4NmsvCvtaSqOR29xxcUtF++A6A9L3xmL5Ff2YydWNIWl4DtqeLuxwoK+8jEnf2Y7DBec+Ab8=;GCo0bgCKB+/iZ+5ViVLP9Q=="
 ---
 

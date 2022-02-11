@@ -19,6 +19,13 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Construction Market Size Expected to Reach USD 4.51 Billion at a CAGR of 34.0% By 2026"

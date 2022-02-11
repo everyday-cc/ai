@@ -211,6 +211,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 17
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Copyright 2022 NPR"
+    publishedDateTime: 2022-02-11T21:25:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 17
   - title: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment announce ‘superhuman AI agent’ Gran Turismo Sophy"
     excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced “Gran Turismo Sophy,” a “superhuman artificial intelligence agent that can race competitively against the top human Gran Turismo drivers.” Here is an overview of the ..."
     publishedDateTime: 2022-02-09T16:29:00Z
@@ -226,6 +235,6 @@ related:
         height: 720
         isCached: true
 
-secured: "jkswXzFwmrvpUJyH2elOC9l9BVhpKai5U8vQhKj64e4ogAURjPAQl1Cejs+gRiEMESYGCELabvWNFm7IjkAwFJFxbuK6iEVBhFAekfb3+RPsItEAGxZw1n1670jePWlGa1hOGyBo+6iLK1+j6re0EizaaIBmrKPFxhms9BG2Y2UCXunmGgNKgDRxiIalS1JDZhibLPfvwJAA37FOXC12O4LehuiGJ+TEQvv2wz9/DSQranEH2NDf6YvFCxdbz42pAirlAINfupg7mwnZbf7OY+UfYYI3JzFGQkUh29laarIbc2hTPVnRWCRLGVUezQ2lFokyhiD0qJKr8x15qBzQKvizGQOPLz9Y3h1w/mhHzW8=;4CxVDZuLGWR2PGvI0iznwA=="
+secured: "MYwr6PhkvG+J8XkUs9m1WrY8TG7bwsJXfvSaFKH2cADUGxchLUixlUVsUtFJ+TeuNAMHYcjEcqSdYX6qtlm8XsgculCL+8E72DEa+LVWklCwEIilIzfszCaSyHrsfJCqH+zMJA6NHNrosH1KIPt9ptXGRsBWa9zr5STzn2ZlXlF3RMk9LDWmZ/0QYaZXy1fKUPsCpuIBeh3geDt//slLPi/CCuZFsyt3Ho2e31amSKmTaCyNtMkc8v+XnOstzEowVlPOPxpbL9np+MCY7pvp25qvlaSzx/I9xRUBaoUyXJZdnDUv6lo0fnGIP7T/PZJ/4ZBzLLCTKi6fWP9KdhTTIRhH9cBU1hShblC5WQ2kefB25QePZE8ib7T4wP72IfwNVo9YsG55SQN7wYg1/ZmErIxyF8Goy6W53w35xvHMA4ghcgKPNt/v7C2RbT27ChwF18MuEEuLVpF5rI8f7x61IMWK2BBmcAQp7PxZmgh1WHsSX4u6JzkLNJc7vZSN09DESgDyKpmZeRSiLDjjrUrKiQ==;27erI2EgyCyCH6nlAHZ4Lg=="
 ---
 

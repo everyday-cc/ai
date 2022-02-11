@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "S. Korea's $200 billion wealth fund is betting on the metaverse and AI startups"
+    excerpt: "\"There are still plenty of good opportunities, if you chase them eagerly.\" KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation's finance industry."
+    publishedDateTime: 2022-02-11T19:21:00Z
+    webUrl: "https://www.pionline.com/sovereign-wealth-funds/s-koreas-200-billion-wealth-fund-betting-metaverse-and-ai-startups"
+    type: article
+    provider:
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 33
+    images:
+      - url: "https://s3-prod.pionline.com/s3fs-public/styles/1200x630/public/Jin_Seoungho_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BwAp2KPGpN3gxa33L5UU33o22sVFIjL3fhVuqSqoRhzVTj1okdVHYx+Z5I2wsy8bJ4W1MvuVaggTxDMsQvaBHaZbH8EkdETlO3HjfxXuuf9+0wjnyfP3jDNh+u0+g2DOsOEzpmhF+r4j3v0lzRujDkky/ZkEhTedyimTbtB12nmH6XC7AXLyVotDzzrp1SSa6YTppcCSzK/CElzpjtsKA3sXEgPzPYu0r3SoAVHv+xhiRxz8FR5ZEG1NAEfA8ov8zElWVCwoiQiRcI0+AkmH3rnsS3wft45qH8uv5Sx243LOKolYu2u9CIOpKQYbtTgEKRSajTr/1Po50KeCWvVvieYji3+HyW+SC40MTbTg6yXBYNAhk+bdIie8eQJf61b/lkn6PaqPHP6CHITaS6sk9sK1c3EZ/JG/0K0SW5SF86nkk0UuLJFimF+y8K3nu8WNB3WjYkmnpoApIHNcnNcgU6EeiN87Y5Y4Pmkk7HVycKeanHXMsIQUZMVc73JjJKGlGXB0bmJ+M8unWp4OQT2JbQ==;Apj92Odlvf05CiT6HKqpXw=="
 ---
