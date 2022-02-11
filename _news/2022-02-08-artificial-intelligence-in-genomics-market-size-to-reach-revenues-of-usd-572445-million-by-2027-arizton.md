@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "AI-SaaS start-up market to hit USD 500 billion by 2030"
-    excerpt: "Last year alone, USD 4.5 billion was invested in SaaS start-ups in India, an increase of 170% from 2020. The report says that AI will not just be a “feature” in existing applications, but will help produce a new class of applications, creating the next ..."
-    publishedDateTime: 2022-02-11T02:42:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.amp"
+    excerpt: "AI opportunity could create over 9 lakh white collar jobs and 3.6 million new indirect jobs. BENGALURU: India’s thriving start-up ecosystem could help the country generate a market value of USD 500 billion from both artificial intelligence applications ..."
+    publishedDateTime: 2022-02-11T14:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-saas-start-up-market-hit-usd-500-billion-2030-pramanik-"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/2/11/w600X390/The_Risks_an.jpg"
-        width: 600
-        height: 390
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0tTDZBHC-gw/article-cover_image-shrink_600_2000/0/1644591161673?e=1649894400&v=beta&t=tgaNHwSgo_ad2Fe3HreItX-GuVWGoAAtRsZcMn9IuZQ"
+        width: 900
+        height: 450
         isCached: true
   - title: "Indian AI-SaaS start-ups can create market value of US$ 500 billion by 2030"
     excerpt: "According to a survey by venture capital firm Stellaris and the World Bank-backed International Finance Corporation (IFC), India's artificial intelligence (AI) and software as a service (SaaS) start-ups are well-positioned to create a market value of more ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/ai-ethics-op-ed-reuven-shnaps-earnix/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/ai-ethics-op-ed-reuven-shnaps-earnix/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 2000
     height: 1399
     isCached: true
+
+related:
+  - title: "Forrester's take on navigating The Business Roundtable's Roadmap for responsible AI"
+    excerpt: "While many companies are already thinking about responsible AI due to market forces such as the impending Artificial Intelligence Act in Europe and the demands of values-based consumers, this announcement will elevate the conversation to the C-suite."
+    publishedDateTime: 2022-02-11T15:06:00Z
+    webUrl: "https://www.zdnet.com/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
 
 secured: "JjLh/oVjwZQHbL9n6pw6/OozLHK4wwYT989ZgUsCZB4GQuSC/jzl9Twd7GJgy8Vpfl5v3Ts0AYJf5Veemg815IeSOOkY44Hhu115P0YkToE2m14bdrSldoVL3DQTkeegVAGspPLByyA0eAsQKAyfWa5eWJjtwW6IFWCJ+AbFgZr625vsbaNPiNy1gYJoITMf7H86ExTmYihCv4ywU4rVdoEabz7bxWavHMxeV9rAC+k+sb1+3Bu+1FUFhagAfM1yWvzuXV4ADqh3znUCEo4ekxW9zdKKkUBTi9APCeiG/+xPKSfI9DlQIDPTQ5oxEEy1xHwe6fQoZkRMhCE2NcSdHEEZIf+6sqcmSCZUw47PPc0EJ3FHZhLpJsVIKBmFC9EntU/2SlU1nbzdO2mFIe1T2fuqgkcOuE7D8ut5YOuWxFxmBWO/K8wq6tCA/ijD60MMBrW08usr0Ohl3oadAOc0SaQUXT8h/qO3QjxOhlGB+biGpHUrjZTLrBjX/wbpsP6Rj27x7ghN6g8l1l6Lt13Otg==;vYeJcH1NWhedRQ0RwFAPFA=="
 ---

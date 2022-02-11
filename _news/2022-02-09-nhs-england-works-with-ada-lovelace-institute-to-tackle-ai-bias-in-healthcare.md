@@ -38,6 +38,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "NHS to Test AI in Healthcare in World's First Pilot"
+    excerpt: "Brhmie Balaram, head of AI Research & Ethics at the NHS AI Lab, said: \"Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing ..."
+    publishedDateTime: 2022-02-11T15:56:00Z
+    webUrl: "https://www.medscape.com/viewarticle/968326"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 56
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/dt_181106_brain_circuit_board_ai_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "86gXoaTydqSTUApylWY/Tn1MSJLHzStYI4N+SumBtzBJNR9fiij2VYwQTGXKWWldgMm2Pqc2PNEVwLEjsW85/+4gmbnulJeUV6f9G6kXRQmGcIEBmU4COUGttzf8u/UoDui78LCBjghgXVh+2qzAYp9T39xqU4W+wFj6XE1VxJ40rD5B1X93vO5hnVrSY2bjNNom+HOeUDstJSekv3HTKFSxQILdFQUwjdclVW07wjhsJgjyYsAD1PkrwGahAEikIUkila/BeYexATYVxQf4BYL+VYhh2cQg8brVZ0PkWqX5f1l6Y4vv+4H92Nno4jZZbN0heJ9UukWQSYsb/e37LiqrDCmbEVmcplvwdpcydzc=;7opY4fXbshLKshZvFS2HXw=="
 ---

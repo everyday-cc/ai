@@ -103,7 +103,7 @@
       "originalUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -250,7 +250,7 @@
       "originalUrl": "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -280,7 +280,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
       ]
     },
     {

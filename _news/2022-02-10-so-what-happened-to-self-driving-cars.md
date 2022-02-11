@@ -59,6 +59,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "This company plans to build a self-driving car with a brain that runs on light"
+    excerpt: "One company planning on tinkering at the intersection of these trends is called Lightmatter, which is going to build the brains of a self-driving prototype vehicle. The company’s microchips set them apart from others in the tech industry: The chips that ..."
+    publishedDateTime: 2022-02-11T15:00:00Z
+    webUrl: "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/"
+    ampWebUrl: "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 55
+    images:
+      - url: "https://www.popsci.com/uploads/2022/02/10/darwin-vegher-IAc1x02D9K0-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "What the heck happened to self-driving cars?"
     excerpt: "In recent years an increasing number of concept cars have appeared on motor show stands displaying lounge-like cockpits without steering wheels or pedals, where humans can relax while an artificial intelligence ... Alphabet’s Waymo and Aurora Innovation ..."
     publishedDateTime: 2022-02-10T12:12:00Z

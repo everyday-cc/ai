@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/amp/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 576
     isCached: true
 
-secured: "0adtciwLsZmzFdLavb4gwdmRGpAqDN7jaCL0ngSUrHa79qLeUhch/oofIoJ3BDjwKRq88U2mm/V1nZw+WlAm6k4kr/MdIctF1tTsw3sD3a4xf5CcpP/scJ6HemRNYAEA+DmdZkZkwYCA9iMXTNYEwON59b5V2GKILiraoAredWma4jb6Hdb2XokeOv/6sCY7I9aG6X82zQLULhl090uyaqnHO8bwlXLkV0xRATSmPha0+u8cOJWh+TFmmIYkRCjdp+eIGEGJwcAHHbqDfdKSK6WN8tuC789yBslPdOUSwVomSzVoky/MUAvrv+Jx+qZcQ83bsQ6hEI3SmInHm/x57eRrPQNdaJe6zKOxb0RBuFY=;wD3a/zHvHN+RfoMglScMOg=="
+related:
+  - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
+    excerpt: "Agot's customers include some of the largest blue chip food service brands in the world and investors range from top tier Bay Area investors to influential food service-specialized funds. The recent $12 million funding round is enabling Agot AI to continue ..."
+    publishedDateTime: 2022-02-11T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+
+secured: "6V/NykkHTOwBA0xilLD5iXI0qdH27zRA9lUI0BYxmFS/h/kVXki0RzH78iJ+3oLm94SFkMtvhb3CYDndIdPJ+BDwBVR5+ihCvFzkm8AP71aYvK87h6Qg+G3ERTtcmdUxTt+1JrURNVz6o/hoHTu9hwsFQcU+l7j72AJ3Uus/qp9RFucWXdnptnMeWz+SgKkqVAAmasetXUzyZZYjryjyuZFJWPA8NfZXQgcG2iW3kSzt7jFO0ywwfpmsjiR3C4zhN/KwrPnD+j+D6BlGuHjXiMdCVLfwUt8FWMK07cD/uqkdbNFBDcyVqrTOWxy68LqOAwLM8zk6p8WepF9GhODr/4/q0/OsZkelLGw5l8/r2rNBCw6Y0MyreRT7UZZo5p7g5A4NmmfyQBCNA/VRmAdthQbJ0ceFJxK4d3yVnO4tfk1ejTpczE28BdmVEE6YuvfRW0m2WTNfM3fKfV/B07grvYLSV4nk84xlwIfU7q6a+YN9LrHLIMHMAeEx2EgHI5FhEX4+w4nTmkqzOll3SDuGeg==;yCPvs2GoFGlbimQE9LyuUg=="
 ---
 

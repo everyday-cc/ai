@@ -1,28 +1,30 @@
 ---
 category: news
 title: "AI-SaaS start-up market to hit USD 500 billion by 2030"
-excerpt: "Last year alone, USD 4.5 billion was invested in SaaS start-ups in India, an increase of 170% from 2020. The report says that AI will not just be a “feature” in existing applications, but will help produce a new class of applications, creating the next ..."
-publishedDateTime: 2022-02-11T02:42:00Z
-originalUrl: "https://www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.html"
-webUrl: "https://www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.html"
-ampWebUrl: "https://www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.amp"
-cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/feb/11/ai-saas-start-up-market-to-hit-usd-500-billion-by-2030-2418099.amp"
+excerpt: "AI opportunity could create over 9 lakh white collar jobs and 3.6 million new indirect jobs. BENGALURU: India’s thriving start-up ecosystem could help the country generate a market value of USD 500 billion from both artificial intelligence applications ..."
+publishedDateTime: 2022-02-11T14:54:00Z
+originalUrl: "https://www.linkedin.com/pulse/ai-saas-start-up-market-hit-usd-500-billion-2030-pramanik-"
+webUrl: "https://www.linkedin.com/pulse/ai-saas-start-up-market-hit-usd-500-billion-2030-pramanik-"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: The New Indian Express
-  domain: newindianexpress.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/2/11/w600X390/The_Risks_an.jpg"
-    width: 600
-    height: 390
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0tTDZBHC-gw/article-cover_image-shrink_600_2000/0/1644591161673?e=1649894400&v=beta&t=tgaNHwSgo_ad2Fe3HreItX-GuVWGoAAtRsZcMn9IuZQ"
+    width: 900
+    height: 450
     isCached: true
 
 related:
@@ -50,6 +52,6 @@ related:
       domain: ibef.org
     quality: 15
 
-secured: "4ovRn6zMniLwuKd/y67gl3TiKQ26nVtYoR+AI/JZxE3Fpvfq2ewrE1iTPu0cJNePuZ6LgkKGqle2gpu5Iv0rCtYUCo6nqD7EPSamK8uvqZP2p7Bnlhb3qPxZJ2O5WPuyP0TUYm7hmlUalBBjcJNjbGHFK7vOt8bXsy8kTo04A3g3lHqvKEn7PHUA0Sey321a1Bsrt5GnyhVq66i5P8lpeddXzY8woedJtXFGjJGicaWlRZN+3xBMDXAvKLwrQDycTd7u8QAPv+brkVappJ/SitvHlY/MrE7FAQJ7crGttOa09SQPskb/cDiAik7UG8bK9m9I/MX1VZoGgR43oD4KCekQrHaOTeUmwz1dzkVbHfuUkdmMIj3jqxmNdc1mMYrWALlXHfegoxtMLuP5Hoy39tPv54nCLjJVYdGinM6g9g3mkFsC/Sg286WtWiDe6aIcs1LTnMP4FNa/YbAEvulij6Jqdpg5q8VQGbNXAMc/NAMKL5Ld+nsgpf+mjKY7AccZJrmO5Ngg9+9+pLmRAjNNgg==;Sco9uNcOYauHotRJyWRyIg=="
+secured: "665ZXPUF8xCZUBD9URdkK0Dfn4EUVumKM1wkKC8N80JJB3xwIHusuza5V7soBi/YUGx1Qchts7dWyS5pdU8Ve95gcE7EQnpplkFnsVILlfLCUTcUs6axfzo7R7px7LQInq/pAYchYtqHZZ7uXCsCAz6ENkMLOLVahkoGWtw5PR0MSzTkG50uaaED482sZWQZsMiefmEpyctWp1sihoHZ8lRv1uCtLMEhFasCPVjEPzv4/8ee1wjESOIsniF/JG+i4qRdVYp1kHTnQlTAQn+hXygCconxXsWXEuyO5kwFGTdcBGHaI4GxcRzYtStTGPQVVGdvLzk+yWIrbRA1VM7wwhbXDWVJ82xhpf5LpOds27Q=;xWUkFN7H7Z3aF8PpphIsBg=="
 ---
 

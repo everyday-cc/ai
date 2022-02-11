@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ACI World Announces Recipients of The Voice of the Customer Initiative"
+    excerpt: "Airports Council International (ACI) World has announced the recipients of The Voice of the Customer, a recognition that celebrates airports that have continued to prioritize listening and adapting to customers during the pandemic. This year, over 200 ..."
+    publishedDateTime: 2022-02-11T15:44:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21256494/airports-council-international-aciworld-aci-world-announces-recipients-of-the-voice-of-the-customer-initiative"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 24
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2017/10/2C_WORLDsq.59f23d1ac307f.png?auto=format&fit=fill&pad=5&fill-color=white&h=278&w=500&q=60"
+        width: 500
+        height: 278
+        isCached: true
   - title: "Curaçao International Airport earns ACI recognition for ‘the Voice of the Customer’ for the 2nd consecutive year"
     excerpt: "Willemstad, February 10, 2022 - Curaçao International Airport is proud to share that for the second year in a row it has received the prestigious recognition by the Airports Council International (ACI) in its World’s ‘The Voice of the Customer ..."
     publishedDateTime: 2022-02-10T08:57:00Z

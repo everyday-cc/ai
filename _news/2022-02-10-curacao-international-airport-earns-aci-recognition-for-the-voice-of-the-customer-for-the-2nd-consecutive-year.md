@@ -57,6 +57,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "ACI World Announces Recipients of The Voice of the Customer Initiative"
+    excerpt: "Airports Council International (ACI) World has announced the recipients of The Voice of the Customer, a recognition that celebrates airports that have continued to prioritize listening and adapting to customers during the pandemic. This year, over 200 ..."
+    publishedDateTime: 2022-02-11T15:44:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21256494/airports-council-international-aciworld-aci-world-announces-recipients-of-the-voice-of-the-customer-initiative"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 24
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2017/10/2C_WORLDsq.59f23d1ac307f.png?auto=format&fit=fill&pad=5&fill-color=white&h=278&w=500&q=60"
+        width: 500
+        height: 278
+        isCached: true
 
 secured: "meigzaTz1OqR8fUAqhETZ8WGPodvOVzwCnr9fuc1f83wZAQXRsonIfXZggEJfcOhmOVe8kWQT24x5r26s0hFwB/b8U7SiA+QxId69zPGvsTVSjIpJwi/KvOnbE3Jy63c6bBdbGA+Tdli4YNSTq6D/6ry5cUoKucprVJmFT47NWCDzr6O2yFTE5LaACgYgSAEZlWS2FTnkFpYM+CjpeHjVVkwFQwlrXBtLFXAi9qWaHJlcjE1yB6O7lcMR86/xmVZIo5I1yWnQfPtiEJXRq5I1Jhr+FyOJRiCR70+KHiU50nfKATZPiMC3ELVZiYJD/vli7GtscEUqYnHx88c1bAphDNaDyOD+a0gG1UNJ8ySF8G3KJpwyhsoJU6lEtKw2RhrUOK8Nd9Y6UpJgp+4Ij0MV+z04vqv2LWYkUlux2VkjFyj9vNjBaePZm0oOcJkN5Wsg2FheyMTUcF/tqE8vz4Em9+ayw2W1Pjcz77o/L0hq6DIf9P52e7U5Y3EKoKUlsDcs+pdhbObjF0Ic/6EMB7e2A==;vq/6Yf9NETSMD2P3K27E3g=="
 ---

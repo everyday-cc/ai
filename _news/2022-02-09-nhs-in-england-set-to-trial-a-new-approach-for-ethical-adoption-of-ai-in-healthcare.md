@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220208/NHS-in-England-set-to
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "NHS to Test AI in Healthcare in World's First Pilot"
+    excerpt: "Brhmie Balaram, head of AI Research & Ethics at the NHS AI Lab, said: \"Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing ..."
+    publishedDateTime: 2022-02-11T15:56:00Z
+    webUrl: "https://www.medscape.com/viewarticle/968326"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 56
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/dt_181106_brain_circuit_board_ai_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "NHS England works with Ada Lovelace Institute to tackle AI bias in healthcare"
     excerpt: "Brhmie Balaram, head of AI research and ethics at the NHS AI Lab, hopes that supporting patient and public involvement as part of the development process will lead to improvements in patient experience and the clinical integration of AI. “Building trust ..."
     publishedDateTime: 2022-02-08T17:59:00Z

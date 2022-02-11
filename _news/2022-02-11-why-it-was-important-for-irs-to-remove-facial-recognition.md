@@ -768,27 +768,27 @@ related:
   - title: "Facial recognition companies attempt to appease state lawmakers"
     excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
     publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://helenair.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_485103e3-4079-5d27-9f55-0acc1f51ae12.html"
+    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
     type: article
     provider:
-      name: Independent Record
-      domain: helenair.com
+      name: Billings Gazette
+      domain: billingsgazette.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/85/485103e3-4079-5d27-9f55-0acc1f51ae12/62046cf40f2c9.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/2b/c2bd22b8-8b10-5cad-95c9-2dce264e3d1a/620471f23a1af.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
   - title: "Government agencies will get more verification options after face-recognition backlash"
     excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
     publishedDateTime: 2022-02-10T15:55:00Z
-    webUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
-    ampWebUrl: "https://www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: KCRA
+      domain: kcra.com
     quality: 36
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
@@ -909,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "kAC3SSO321cpJuIaGGluGadxeqcbp0LCWGitaTVCcFQa6km71cMsF0HGdKurF6k4ssCHsNZ55zerzrSvHpPZGHzTtE4wYr1DdzOf6rkKRDGo1C/bN2fqMBDWR9dD29YP6Pxb7FB2Y/FKwU1QQwA/obx7ygyekokD4aIPVfv7+rQHDKxjpNyACTAuyJyo16xu8tdJea9PAcT0UtCEnOP6EGKs2hV23AkaxbXG7Ijo6k0J1PB0Q3NYgt9s9o/3oWfHd08kYJrWF2MJHa+9kPMYY7cBesUF03mT92xJCRJ+5IYhH16zXmhQDtUOvoTsz+hwOMuKRJANQ8zeFVMsoBm683qaDfT6KKtHHGrpF6Usmmc=;274iHbSy86/IFee+7Q7E2Q=="
+secured: "WydDpOgDXczDCuamcW669IAVIyDx29QCTWwlXDRPqt7CQPuPbQHIkxP8ZeK73ejvGrZljiy4vRopjjQwIb0ZTBbv1zoz/iVw9ZQJiKaOh7x/tuGJ9iUTtAuRo3p+hJ5luCyzQ+2Z0dwyjZAQpNtuy+Ogvo8DUDXF0hV84Phu/59oH+NBrMmrpy1eG6j3Tfo80J9rlu1VA4QqxyOV7TsOXh+GZT0dPwm7BfSZ2u+YbBj6XmL3Fgb7Z/TElvDxk3gl+h9hkWeqLiyqzCaa9ZUpy8Bn0BcIJxzi7zWS0FlZH8BTmEgG8H5CF3p4I/HOXG2m4rq5jYN8W/ANfN2lLL9u/l40r1xZ/Y6EXxv0au35GgyuDnYVv7Su5HVXMtXM5+6C4qrqxxamnS3Pvn8crJDt1XarcCrp67nwwmBBTk6LpLLxKjEhU5Nq6N59ai1q2S4ObOUCDPf8JJoty6T6xq3WJqBSmXtm9PLPKGZmHr4ozCPfP7wKu5x7NbeLbFLJZ8aKu6oB79fn2DOTlMd5b28TYw==;+AwpSdJbSCQMxK+2hDp+NA=="
 ---
 

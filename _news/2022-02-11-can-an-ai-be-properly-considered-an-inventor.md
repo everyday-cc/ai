@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-an-inventor/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 576
     isCached: true
 
-secured: "UKOmcRCZ4jRBc4TRkSYuGicnZAahKB8OnkTTSofmz5t8/B9hh/AulZ0/GWVQihBeIO5IWB0cbth7fYjULRaXmmODezUTyjJAYrFJBIh5+F44olOoqIJDZjxsN6UCzne9BoWwUn781yPAWaWs7KUzp4jFtWdZoX4izOPrR19DDHBnrxyWyg4p8BIp7Qt5nDuqTmIDOiFZpNUndeaEbuBwIqgNAgTOF/yuVbNYvne2JliWGrMYT7puazukNm6hBkljsV5Kru/ZxasLdTSiMbC7zn16eoDnSbA0diUSPNuejr/MMHKvolXhUOHVOio9FjBiWhmXmj4JAxZhVDtpw+YCmGMntF7O7Jt0g4RJMnYhzDs=;cEI91TTimG8FDXOm3TLrHg=="
+secured: "cUmqogUvDkM1/jNTeMQ8nSKV0KQwnoYxLoWR1j7F5dBKpppoFW6SioLOmGgEkacq68SllIC76TM47efOTIUNWQYrI7xrh/zBlm2Q/mc56P0Paz/OK6NLnJzr6JhqpkiAoBCIkQfWaxmkXwl+9AomvIbEFqisMKzH/CXBGQTpQMRjXSvXbmj0CcyJhZAArGcBmnaDE8UIln6D0utuVADRSndRjk/B5xALos6+Wcz2NQsztN9oZPa36RBYvHvAkz+ki2+BJyPmuNOiRrPbNTlpfZPAR8druaMzN5qST++pFPji08c39zf06OURMd8pihCSEwW1s+5uY0+cTDh/JXtR8VKmzCjMrWVa1o1e818qyYFN6jOmkDBSV88NYxzqptbBocz2dWoHdGRALFtVqeK7UTLi772Fl5MEsUK/aNEqoHzdExnaVOaLmw5SPzzjCwEqP7Ck5OHhvXYvU+Un7CoDO6ZeQvfKgVsVyF3kBA5RtAOYui9wVGe/zsBgS3b4ym5V/IGalWBPdUAiR1d6BTxDzQ==;mDdyu2AQh1hsNytxOyfS1Q=="
 ---
 

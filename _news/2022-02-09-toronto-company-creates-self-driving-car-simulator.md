@@ -26,34 +26,18 @@ images:
 
 related:
   - title: "Toronto tech institute tracking long COVID with artificial intelligence, social media"
-    excerpt: "TORONTO -- A Toronto tech institute is using artificial intelligence and social media to track and determine which long COVID symptoms are most prevalent. The Vector Institute, an artificial intelligence organization based at the MaRS tech hub in Toronto ..."
-    publishedDateTime: 2022-02-11T14:33:00Z
-    webUrl: "https://www.bnnbloomberg.ca/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-1.1722021"
-    ampWebUrl: "https://www.bnnbloomberg.ca/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-1.1722021.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-1.1722021.amp.html"
+    excerpt: "an artificial intelligence organization based at the MaRS tech hub in Toronto, has teamed up with telecommunications company Telus Corp., consulting firm Deloitte and diagnostics and pharmaceuticals business Roche Canada to help health care professionals ..."
+    publishedDateTime: 2022-02-11T15:15:00Z
+    webUrl: "https://www.castanet.net/edition/news-story-359749-4-.htm"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 50
+      name: Castanet
+      domain: castanet.net
+    quality: 32
     images:
-      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "AI in Social Media Market Sales Revenue, Growth Factors, Future Trends, and Demand by Forecast to 2027 | COVID-19 Effects"
-    excerpt: "These data are needed to be aligned and managed properly. Therefore, the demand to manage and secure social media data is propelling the use of AI. This has led to the rise in the adoption of AI technologies in social media, and AI-based smartphones are ..."
-    publishedDateTime: 2022-02-09T08:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-sales-revenue-growth-factors-future-trends-and-demand-by-forecast-to-2027-covid-19-effects"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
-        width: 600
-        height: 337
+      - url: "https://www.castanet.net/content/2022/2/20220208140228-6202c4fe39bd76110c9e347bjpeg_p3576428.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "ZRe58BBcvQEVbRAbfL/3BDSmQeM/LysdhslruGCTSrTIohApippbZJ5YTTUdVdd8tdOdo1DD9enVcTfC7j6BoWmSOnblAxN7QhUqoXj2CgIM6mbq0Ebl5xFbmqsA+VLdTtNHx/DRcKr1IoXAZbBwbte57i7fVlPr2Q1IAKTgwJLrXPMrXa8OZEvPTdA1BkS0Q7QzgWb3g7B5vj9ItrlP/0O0pR0t7lr3wkdyXGjjAbDcRW+ObtLCrFtmwZ4KQyw3Es0KuOa9GxbvW7i4aO+a0z+tNvDclwReKBep/dLPZlvI5CkBTWhO0l8jvrG6FzyaUoumcAzXvmD5StSCceFdLTJ5M4uoU1pt9IXDKUS88nw=;sYZe6+zKMTwUEVasYq/M5g=="

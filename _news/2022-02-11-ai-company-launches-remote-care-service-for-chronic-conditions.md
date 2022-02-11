@@ -8,8 +8,8 @@ webUrl: "https://healthitanalytics.com/news/ai-company-launches-remote-care-serv
 ampWebUrl: "https://healthitanalytics.com/news/amp/ai-company-launches-remote-care-service-for-chronic-conditions"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-company-launches-remote-care-service-for-chronic-conditions"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "M1h9P6KKhfmkyc+26wGPtWGF7ia/xQZ5eXPwBrFolzTwaejgPq5PhAJKlWtYiEiZb7G0CX0f5ZUM7Q03X1SHwlJeX24tmTEyMHkO+wU3QWVkiFgjX/PECi1dryJpjruQaDmjbOJcmZsLTkr9C5tdqrU0zhFIiSSy/RTWNruyWkFT0DMXjFogobXO6JQXbhMiBbqlAa4mDJjfdIcQtdHVM81odLabGBlkaiBjDx1YDrVRq/AyABW7WCgQeO4/X+wmH7RpKMSYHSvToLZfZOOdx0YeHBm1MqkHXbm1M/4mPollkcZJmfpp248WePBDbZvTG1qjr6vFvqozp4NkmW7BTTejNyT2+f1YhG3CDqzAzIE=;spK6cKrlQYhOUOaEipG1Tg=="
+images:
+  - url: "https://healthitanalytics.com/images/sized/GettyImages-943065376-e4b00c1efb9503a805928b101c78b499.jpg"
+    width: 480
+    height: 278
+    isCached: true
+
+secured: "e5lzgW8jPjcZaecW/oQBDl8E6kslX4fDH731oFkGFTkf7Liy/RKTByD2dzoo5KOLwuHVWMoFsC4d3U+JVaHa8eMteePO4Q455j8yoP2w0o1CGhQsZt4jv5v4n0mf7oG5l8YKEiYjlJLSNp99wrLh+3FHO8/DsJ3y1NNOVoa/wxtOcU09f7OX8ROnpWRGM77V387H0Pidl4uVactB7VOCM2G1Y1PwiABbaZJhIdMr5MR3IcPG0UEs6/GcKvTv4E7nuek7/mZqmFrJfq2GleU/XZhBgR5f8a2NULEB4rynh1E4IdYFWtjnL5Yf/BQxtNyFuzczSptAQRWBdfnAcAUme1v8oUnfSYRqz/+I3wJLPeI=;o3dOij7IuR/i4D3mHYuCbA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-system
 ampWebUrl: "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/gender-e1628617989130.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ftivWxn/3VzvJeTO079a32Hin/ZfWXIh4o0HR2EoxX3OVjbRypK/DtJBkF7OVEPabZXM7W8k2c3rCgXX9P2QY4ep7qplZzmfMzYzc3yXNIlOQSJy6zqf99YxZcDQlCuhZwyhVHwCtnCqF1/gAQ19pHYjv6NAlFsoSpP2X1ZKQ7+LxnF9xSGCAwcw5/1J9DDhzAxm/tBFGbVkMoXYzPegUMmeJUAnX9y1jJ5j0rTQfyfRi9HV8owcZn8BBrrkjaeJ/7KfoHJdbFkU+QEvgIcpWipbVuhifIwhNOj6pkG/Ip6dkieyOq6uoMqaLCxJtPXzcU7pMQ2LTXGzmAvRt/tPjaODa8M2MFBH2d4jz6lbeI0=;Kya/Pr3ulQELfwM9z7Z0Fg=="
+secured: "sahFhECq1/zSqKqmV1/gBc6dfRCoVoBUQpe9H6U1hlbfGALc7oiFyeUNN7kVSoVx80wyxysAfL2DA4jbKxDO+MDG3OtOnxdobNPou6LYR5BqkV8L4lqJiQF+3r3pFdXz0CfPFa4LRpDgEqvJdi/v6nZCCwD9oBEjL3j5jX38+WNdjdfFlLJT4ScEl5kLdviotgtjsl2VfIW/Ov/rBzZKPzhfkybP4plut+ky1Yq+tI9ZX6bcwFxkbgqK3TDnb83Z1C5m9ox3dwgI/5QbxBOyjaSy2GrUgDy9GSn0n9FN+RoKDHRaZwQfR1klD0qX9DmeUIufYXqyUmCLthhVUV3rLfQ2gcaLeyRNC31cEZi+fEguJIMJRZjsW7kovKulC9GnBop25anuXEPMA1GBh3u21fTRzgKCfhXShcHbD5dSMGmRdjXXdYcJtRjY1pilxreQQsGnOO0kFrLBadf0HDEbl26yhlALtmqA27F84/vWs9e7z48kM5GN5xozZbMUaWtnyHLo/skZ/Ae8EdVR9vWjdg==;/mj39e7p/vXbxzSWNYlpHg=="
 ---
 

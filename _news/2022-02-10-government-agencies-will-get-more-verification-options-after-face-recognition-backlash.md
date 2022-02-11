@@ -3,18 +3,18 @@ category: news
 title: "Government agencies will get more verification options after face-recognition backlash"
 excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
 publishedDateTime: 2022-02-10T15:55:00Z
-originalUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
-webUrl: "https://www.wlwt.com/article/government-agencies-will-get-more-verification-options/39036742"
-ampWebUrl: "https://www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+originalUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -770,14 +770,14 @@ related:
   - title: "Facial recognition companies attempt to appease state lawmakers"
     excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
     publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://helenair.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_485103e3-4079-5d27-9f55-0acc1f51ae12.html"
+    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
     type: article
     provider:
-      name: Independent Record
-      domain: helenair.com
+      name: Billings Gazette
+      domain: billingsgazette.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/85/485103e3-4079-5d27-9f55-0acc1f51ae12/62046cf40f2c9.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/2b/c2bd22b8-8b10-5cad-95c9-2dce264e3d1a/620471f23a1af.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -909,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "os5F0BdN4ENy6wfkW2zagbIOtb9O4FLsqqFzVAOBWFHNURlTzFGQj3/pSdCyF3xBwHQ/+oz4xX5eawg4xSUEGJbHkSEjvD5amVgmfsrbLGqIrkGdVnM25A+qVtqYkw/guEQbon98vj5Opx3i7tLM9oabPKETz1qPDqz0uf415D7o5ZSL6/wrbTf6rfqNtxV/VsfArEQruySmfQn0mG3ED6B4L9oL8VA/pW0LORYU9odQcE8q7Hx5lTkoR/x+YI0V54nq3KSQ1Qh/67t+m5hslMEdiE7gHncGEX2ZfRUzIz7rh8TI5kkPreUObb/U/+yj1bUskyJ1nhrnEtoxakpL7WKd7EixA7jaF+YhKdiKYpwTO7N3KfhKgZsMlQQbYHU37fs2idqB4MJtq7clzjbIun/7g9SLyvoq17B9bH2emn9kvtGK2IwBRRR0C/jv+6iMmXpReXsDbobfpAjk/qnt398S+q2d7RD1BgnrR1OHifXn2qSHylavqjqmbcSoDB31tn5p3Typg1EY4/UM+R8vNw==;P7MBKL4EVs8k0Bw+/C31ug=="
+secured: "BDYZsEU2eZ7D0SKSolnBmQzLEWko+YoV8h4iZId3ADrLKR0vD6DnekOrTxUIbZo2sJo62TqVxBodq/QTZ4AVIX8uLbJxeVCbH4h45dkZEz9Nc/UhaQr2te7ZRtdZuoOF3Cqil/x0FSEeDRzoG7QmyFvMoqs/VS/xihYq6FDJaNQpmXPQ0Ko/xDrCt7NQECqgHBMwY6OsWDfq78RBDc7KkFPMs3i9RYxnF7tmmPr/vgtwPfehoo8Imp7VgiGzEHFtfG/HqaZ3NHhU3CIhvdWR9zuvUFadKpzsrzPa+KsQfl6giji4bXtCGzZzi0yJx0fRx97YjojlVuVpAhNisCCvoYDmFrnmZAGwyaqZGWFdyik=;tc1/3wCfern3AGhHMHYUuw=="
 ---
 
