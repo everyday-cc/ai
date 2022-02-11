@@ -98,6 +98,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report to 2022-2028"
+    excerpt: "Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2022-2028. This press release was orginally distributed by SBWire London ..."
+    publishedDateTime: 2022-02-11T18:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-drug-discovery-market-innovations-trends-technology-and-applications-market-report-to-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/fa80beb1e7cecbae551dc30ef613b59d97e0869c-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "TcUJ3L7z/GcYGzcE4VIHZDOc7xkXfZNlpFtb/uImIkU5bKMihVOTYgeVn9QgkMx7GTtkr85Nj5yh4/U3JiZdl/kqeOyZay/yRq1xrrcqlBdleUUZdLqVlvNXUg7laV3/xTRrRLX3cMad5AywXBpofHEeSRb14iHq/RwSE8z+SttxJinD+9TK8Wcaw9LWNJfGSSTLGCj3OPP6ii/QeAUy5ABrFZn3GGPCVjD9/1re+DF7UCEkrbw5oxF5cy0LXN9jSZeC5D8XO7DvV8ysETwZBThFCU3ESRT17yIwq0Gb9DgCImqCwPjjH0IHtdKXVlAxkHBO9paQwGtiZdKyssTUaeHAa/jocy2Vu9OP03wsRQI=;pYDE1jwMSX8tMdH/lkN52Q=="
 ---

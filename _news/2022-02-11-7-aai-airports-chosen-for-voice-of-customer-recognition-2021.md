@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airport
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI"
+    excerpt: "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ..."
+    publishedDateTime: 2022-02-11T17:43:00Z
+    webUrl: "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308"
+    ampWebUrl: "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp"
+    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp"
+    type: article
+    provider:
+      name: Odisha TV
+      domain: odishatv.in
+    quality: 58
+    images:
+      - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "These 7 airports chosen for Voice of Customer Recognition 2021. Check list"
     excerpt: "Seven AAI airports namely Chennai, Kolkata, Goa, Pune, Patna, Bhubaneswar and Chandigarh that participated in ACI-ASQ (Airport Service Quality) survey in 2021 have been chosen for Voice of Customer Recognition under Airports Council International (ACI ..."
     publishedDateTime: 2022-02-10T11:53:00Z

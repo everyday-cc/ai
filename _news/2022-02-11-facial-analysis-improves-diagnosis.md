@@ -62,6 +62,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Facial Analysis Improves Rare Disease Diagnosis"
+    excerpt: "New Artificial intelligence (AI) technology uses facial characteristics ... \"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible,\" says Prof. Dr. Peter Krawitz from the Institute for Genomic Statistics ..."
+    publishedDateTime: 2022-02-11T18:40:00Z
+    webUrl: "https://www.medindia.net/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "1NQmA0rvN8uaFMqkUsp9PNPrU/3n5N/kGDedlUdqVPBFWIu7MVGNLrWFDOyq4b6zS5AnxZOUDv3kLjyZMyJV3wAKfJcFvxyaPVQnmmDW3H0BvVipgqJeFoxEssh3YY3nNq1AbDTCdmse1ggP+G50/5GBPTetiSQJGWa0Mqioax6L89Omj/u4cI/7RyV4XyHjxHWu2lKh1Q55TaIOfO2FLAmm1mj34Pji5xHaGKQA8LePiU1ReGLjLWqrF6eAcHmthUMvQWDSDwmWM0czyPZmoLEt2NBuq+3dgOHPSt/DIls1JpqOtm+ranB+xLL4yv+71iO5aisZ0qvIPIlxjiRaQe9LZMId5b6zFnTKkpy7KKc=;hiWGpw7xE6ulewpqu20mFA=="
 ---

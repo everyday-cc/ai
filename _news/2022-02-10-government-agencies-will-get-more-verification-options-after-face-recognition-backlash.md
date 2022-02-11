@@ -783,12 +783,12 @@ related:
         isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-    publishedDateTime: 2022-02-11T09:48:00Z
-    webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+    publishedDateTime: 2022-02-11T10:08:00Z
+    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
     type: article
     provider:
-      name: HHS
-      domain: govinfosecurity.com
+      name: Info Risk Today
+      domain: inforisktoday.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
@@ -909,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "BDYZsEU2eZ7D0SKSolnBmQzLEWko+YoV8h4iZId3ADrLKR0vD6DnekOrTxUIbZo2sJo62TqVxBodq/QTZ4AVIX8uLbJxeVCbH4h45dkZEz9Nc/UhaQr2te7ZRtdZuoOF3Cqil/x0FSEeDRzoG7QmyFvMoqs/VS/xihYq6FDJaNQpmXPQ0Ko/xDrCt7NQECqgHBMwY6OsWDfq78RBDc7KkFPMs3i9RYxnF7tmmPr/vgtwPfehoo8Imp7VgiGzEHFtfG/HqaZ3NHhU3CIhvdWR9zuvUFadKpzsrzPa+KsQfl6giji4bXtCGzZzi0yJx0fRx97YjojlVuVpAhNisCCvoYDmFrnmZAGwyaqZGWFdyik=;tc1/3wCfern3AGhHMHYUuw=="
+secured: "MD2a/l0/TzNdSiba1vVsRdBJXtFjDmjL2eNYTvWrPL+FHaX51hb9m+kesPg7S5BK93Zex2gAMel7sIzxPlg/npE+M6Vjsb90L9nZFXEfsMjOi1vz+HEnjdrG4j29EvouoiXSFfS/x6eIGpulQqEi4mYAUjrWgZ2m6hmtfZ/vWrUiNojAhh+XCKt436ruCQhZgY3LmBo1+ciSSURNF22vpH//N8am7iAbNd0jT0o5UL2gkwA/wnVAhtWXmpA8MTekfd53U2LPpGLgCch4meCqqV/TPLIoOJKIAG4kBsqLJcN7lyLBHcIwwSZ4Cq+eLWXhptnR0JoF3UA7d8dRHp28lOz3rrQfywcVrr/FvpOPBeTSYK0tdC8xEUroGwmtGvQyKVPy/WOcwF1tP4HX7M4ca9qQvda9RvNxl2gOTJAu51KjquL4tL/HpfTRlT94lZGfNqhwizxNUP+ykhrnaUEC+r7zIT4xLnpoWjyaP5aqybjvbP+klea+hKU80c1h86IUJHjhWTMzDHs2WniWPiY5PQ==;frr5kkHjunZ15cPi2PX6AA=="
 ---
 

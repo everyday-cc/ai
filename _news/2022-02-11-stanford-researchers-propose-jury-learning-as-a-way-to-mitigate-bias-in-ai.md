@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 89
 published: true
 
 provider:

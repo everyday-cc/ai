@@ -25,6 +25,19 @@ images:
     height: 629
     isCached: true
 
+related:
+  - title: "NYC Mayor Adams Wants More Facial Recognition Software for Cops"
+    excerpt: "New York City Mayor Eric Adams wants to expand law enforcement's use of facial recognition software in an effort to combat his city's growing gun violence. Experts say the software can violate ..."
+    publishedDateTime: 2022-02-11T17:45:00Z
+    webUrl: "https://reason.com/2022/02/11/nyc-mayor-adams-wants-more-facial-recognition-software-for-cops/"
+    ampWebUrl: "https://reason.com/2022/02/11/nyc-mayor-adams-wants-more-facial-recognition-software-for-cops/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2022/02/11/nyc-mayor-adams-wants-more-facial-recognition-software-for-cops/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
+
 secured: "gV8yJNX8lGwkumBukdbjJxnialwzdjNg3NeShnSorv9nvWZNfGxLbxjdOL114QlidWb56rE384xJxs4UENUWIuU0947C699v1eZY6wP5R8s3WMbIJj96DJDjp3GBP/1jVzI/+0+gRUv6Y+kP+j05Wx+aa76UDa04qmQB8aqcpf0iQ4oy0kXixtPHoRpMhJAVVQuuUTd/swz41iq+qknjmfmQWYEObpRt6e5K3DvrC0JU+9aVHAIoKotZnkzO0O0qeBiVItutn2akhHDvRKDO0sNnv3AP+sNKdgBoiQyWTGddvq0wwep8ZgeeHU7f/XpVv5Cr1EXRu4s0NJzFHwFx5GM4dZqBYUAlnq6MqiDNCcU=;khfJY1G+qGfhAnu0PAO47w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageis
 webUrl: "https://www.who.int/publications/i/item/9789240040793"
 type: article
 quality: 141
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 1697
     isCached: true
+
+related:
+  - title: "WHO: How to reduce ageism in healthcare AI"
+    excerpt: "7. More research should be conducted regarding how to avoid bias in AI and how to understand new uses of AI. 8. In the development and application of AI, there needs to be a robust ethics process."
+    publishedDateTime: 2022-02-11T18:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/who-how-to-reduce-ageism-in-healthcare-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "DSNHO1KcUXeuFKDMhXI8k0lSa76rmyxz0/0SGyvslSxKpjpVtVNaWZrRcEn06LOSWPUXBC0al6BnyghktstJQmh1NwxvMh0LrPW9Md9akj2WtZ+YwsnVqMMX1ho+YHfjTHtD637C9vTPeU353P6Tmg+zt3sSTC9xJmN4dHerWSxXRvgzHaXsZH82vwA3qI+7D9LjkcKf92UMvpV1oM4mriS9bXAnQTgfbGaQoUXbz31KsH3Noiuz/ygRVgwg78GA4/OXhz6oII0RcaTkKOv7EUwCnRtal3gtgZTq6DBZ6ys//80lcgzukLzp4VsSv+zDinD28mhliDLI+QykGbt2rtmIW+aMgxcpXLnaD5lphkiaswv5Q1oHVcXyAQmNlGrZcRqLPMXJaDnXUIxI0hf0YIQ1BjTSP71wIDfN3pGHYLYGUXss7rbmuaUepLCPxMsTxTEzJHEC3hmlmv4OBbM1M4LpWDvoY3Q+VnzPUUHZuy8IsNzqMTDjk1LQWraoBj40CJxkBsC6Z3PXfpurThDbMa2c+L8yD7s/XRO9StsAIc0=;8HXPzVNeyEykdcC/IuNTJw=="
 ---

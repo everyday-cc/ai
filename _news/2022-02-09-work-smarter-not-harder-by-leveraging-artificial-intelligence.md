@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "How AI and machine learning will transform Software as a Service"
-    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in automated computing and powerful data-driven machines ..."
-    publishedDateTime: 2022-02-07T01:42:00Z
-    webUrl: "https://www.ejinsight.com/eji/article/id/3035913/20220207-How-AI-and-machine-learning-will-transform-Software-as-a-Service"
-    type: article
-    provider:
-      name: EJ Insight
-      domain: ejinsight.com
-    quality: 54
-    images:
-      - url: "https://static.hkej.com/eji/images/2022/02/07/3035913_3cc0bd6815647e72847795cf93e61e08.jpg"
-        width: 745
-        height: 430
-        isCached: true
 
 secured: "9rnCIhfIe8xhNWL9C+X92ftwP95HKW7k5hmAUYuKZW1/97cHqpc6KnIKLbSf38TuOykEzdhyva1W/XwN5vkzI3KwFQB5RaPpvvbfgiib60u0EFG267N7NZg4UBFTTa0xbMIphHeHh5wYIpFNqzw5/myYWtDR4h3McrGUHZ+Fozeen6dZ7DzbhXR9ajgLhbWyqjnC/+T0bJGOhCitl/ReWwBKfPjx8lwcDVJrymkhv84HM2Te3edzmoJ6owmMhLr8UfjQy6I/Jk5kUBAZeJXwsprF9V6JL9z6GK3TglfUO63cjYBXRzxwvMpiOGxumqEg5iUoMr+klr+FoleOBO170v1fYSsrvOtx03uErc+AG5Q=;Cc9sH1pXCOKN2vKidWu/Gg=="
 ---

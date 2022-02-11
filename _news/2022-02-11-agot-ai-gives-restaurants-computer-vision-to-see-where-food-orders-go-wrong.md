@@ -34,7 +34,7 @@ related:
   - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
     excerpt: "Agot's customers include some of the largest blue chip food service brands in the world and investors range from top tier Bay Area investors to influential food service-specialized funds. The recent $12 million funding round is enabling Agot AI to continue ..."
     publishedDateTime: 2022-02-11T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
     type: article
     provider:
       name: WFMZ-TV

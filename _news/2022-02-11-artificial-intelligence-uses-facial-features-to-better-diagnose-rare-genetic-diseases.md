@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220210/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Facial Analysis Improves Rare Disease Diagnosis"
+    excerpt: "New Artificial intelligence (AI) technology uses facial characteristics ... \"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible,\" says Prof. Dr. Peter Krawitz from the Institute for Genomic Statistics ..."
+    publishedDateTime: 2022-02-11T18:40:00Z
+    webUrl: "https://www.medindia.net/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "fim/FY+fuXso7ktddeI9iL73x/nIqlJ+QR7YSjFLLRjYlFFTm6TbveHMaOOodxgkp4SuMvg+JLpRITGeNLeqrv1flyxbUkFhYCTO+09PLGsYnZs8zXObuAmWgnqv2UbrYTF86DBEpPOK6HAXN7wasWi78/hfrunAUgmIHjST/1lDjShzdDsCDArn6IQIGglMY++jVuk6/BtqnMIM1xhSmiM7MbValXfZJu63IjjrOQONb4oPaQMsnv0+dIcfr29s5PfJrUClJQSQCAyOdbFXHI7BLUwXD2PXOYX9qflpbZ3Qhe9p35VYQ78yvfb3FbVZ8GBZd1gjfEx/4V3hjoPfBJCbJMoabVr5wQt7HGjerr4=;ci9ohoRXfbWNjkjgPlu4Bw=="
 ---

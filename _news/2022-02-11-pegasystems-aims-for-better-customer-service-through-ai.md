@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/pegasystems-aims-for-better-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/pegasystems-aims-for-better-customer-service-through-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

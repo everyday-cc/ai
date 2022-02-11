@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-go
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 113
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 342
         isCached: true
 
-secured: "UoBTfC8wzR7mlnX4tmbKczIVmKAnzp63Q3aeyWu+tFELCyl3a5TolLMD8ObQKejNNzPW2dKMzQt693p4OuyM6uV4zS0YsOF05b23H4tYjmw6moP3vhh04urX1c+mQabfKjlRwjjaXyxmLRJcGIpKYxqdJIyPTFkSzZMH8M59aG20lLE44pTfWl5cH0p6jnwm8GHct2Jy00Io871cwBEfh0eJ8hxUVWYLKuZY5WFBIQSHndHD/T9h1/EXacibkEIXyPIP/cuDz9D1Op8b+h+ty82bb3cSUFRO4iOex1dsMSnuYXAD2w9vXBUVzmNfNazhAIE8fn3Xw4IaPqKHNPw/ZZ98GBDVICXoeOTsYuWCG4Q=;J+0HinElYcpXTwXY6k1flg=="
+secured: "wDfsEAtTYI708FCSXbVlxPi0vDzI6CQqEa4merKPOg9hsAyFnIy+wvzedy7/fRSV7vjnyqvUKV0wduaUdSXQGa14d8oFp9HMd0Zw90zvJlDFbqvWmr/tO1mAflk15P+kikjCoexesgkLwfbtzKPkPpD+YiL1z3pF9vxVo+Wwl6mnb0+AVSQpniTIhifV5Rq5o74B/qu9Se6sjACxVaj3SC7yhs8o2i04PPHiSc9sQnr3ZhrVpdlQLH8wVze8IDN6/gYYpMznvqqgXMY/C6PsVvbvJjpJVi49pRvd7fton202ccVsZIX3anEcF8yr5QaI1O6XqibFAtW8RUN1Eba8MXuQs8Upz1oNfDMkj4m04n9JRcYnOe+5l4pupIaL5ymVmhHMjglEHaNnkyAX01jqrGihunb53JoxXM7zsRviRjMXfXBo8a6Rm9V/O4eExPN8gZ6kL93RUzVi3SQ8JhD4Ln/e5byFCBqvR1ywBNSTxvzqY5ffYOxF0raVVwSLu7vgQEAWpzgfBjCvwy8qGadY3w==;snH7TA6PyU/YmcMEjXH2fA=="
 ---
 

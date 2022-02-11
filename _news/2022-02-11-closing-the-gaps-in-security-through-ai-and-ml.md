@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
 type: article
 quality: 121
-heat: 201
+heat: 221
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Introducing AI In The Sky"
+    excerpt: "Autonomous vehicles in the sky and on the ground, AI, Crypto, IoT, cloud computing, edge networks all share one similar trait; peoples all over the world are being challenged by rapid innovation occurring at a speed, scale, and scope never before seen."
+    publishedDateTime: 2022-02-11T17:54:00Z
+    webUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/"
+    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6206afeeefec90ff71d9ed04/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Developing drugs with the aid of artificial intelligence"
     excerpt: "Deep learning is a form of artificial intelligence that mimics how the brain works. It uses neural networks that form numerous connections. It is already possible to design molecules with it ..."
     publishedDateTime: 2022-02-09T16:07:00Z
@@ -147,6 +163,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
         width: 1079
         height: 720
+        isCached: true
+  - title: "Artificial Intelligence and the China-U.S. Rivalry"
+    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
+    publishedDateTime: 2022-02-11T17:40:00Z
+    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
+    type: article
+    provider:
+      name: China-US Focus
+      domain: chinausfocus.com
+    quality: 37
+    images:
+      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "lG7Qx2RkSI8FmxS/xOzZXzlNrqaskSsK8OKRhz1S8DK9U84LmasrLLd67zBUmMiWzis0hOSMbccfJqs90USD53OjACU5epscyrVnbwxMcW0o6OR4y2GMl51i/10bRzXEjbJf7QSyco5cn2ZEA3sHjwmwyJpXhU+kHjUn5B3PW4osA66LaqkQGgz24h72tpQJdgbx8Sa8wMAloOUaRTLqfvZwK4/fCPKv1qm4gLDpnEfQdfieaoHL5tQXi7lr3OMaxFpf5/HbCMJtkRvQ0XaZ8nXh3e0DPRnWLcSZe1xYcEkjIPLJkB1S/dUIoOCNY8o8Pr41PW+tGWzkhoreIM+/HdwiiWbiM4yYEVVJULaUhvC+E9TF7W9S3nX2ESXBP4uTWQZnq7CAWCY4e2/6uheJOUQPgQAYdbM9/B5aMSwckApz4jD4Gx274yJBtmE5kjbuGLNRLpFipeV4s/hq7LY5+/+OtaWe3JhLerQijo1ebcSD1TjEuXmWUh4kgNmcf7/7wvMS/azX31plUlMi/wiKog==;FJn/BC6pJEvScN8OvH3ZKg=="

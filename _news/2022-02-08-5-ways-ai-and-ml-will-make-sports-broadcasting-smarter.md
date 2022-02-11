@@ -7,8 +7,8 @@ originalUrl: "https://www.broadcastnow.co.uk/tech-innovation/5-ways-ai-and-ml-wi
 webUrl: "https://www.broadcastnow.co.uk/tech-innovation/5-ways-ai-and-ml-will-make-sports-broadcasting-smarter/5167373.article"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Broadcast
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning will transform Software as a Service"
-    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in automated computing and powerful data-driven machines ..."
-    publishedDateTime: 2022-02-07T01:42:00Z
-    webUrl: "https://www.ejinsight.com/eji/article/id/3035913/20220207-How-AI-and-machine-learning-will-transform-Software-as-a-Service"
-    type: article
-    provider:
-      name: EJ Insight
-      domain: ejinsight.com
-    quality: 54
-    images:
-      - url: "https://static.hkej.com/eji/images/2022/02/07/3035913_3cc0bd6815647e72847795cf93e61e08.jpg"
-        width: 745
-        height: 430
-        isCached: true
   - title: "Work smarter, not harder by leveraging artificial intelligence"
     excerpt: "Alexsei contributes to streamlined practice by automating the time-consuming task of legal research The team at Alexsei believes in a division of labour when it comes to the practice of law, and in their quest to build a functional A."
     publishedDateTime: 2022-02-08T20:50:00Z

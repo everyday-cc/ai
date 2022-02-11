@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/forresters-take-on-navigating-the-busines
 ampWebUrl: "https://www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Paving the Road Toward Explainable & Responsible AI"

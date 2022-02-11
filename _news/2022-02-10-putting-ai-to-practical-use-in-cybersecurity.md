@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Introducing AI In The Sky"
+    excerpt: "Autonomous vehicles in the sky and on the ground, AI, Crypto, IoT, cloud computing, edge networks all share one similar trait; peoples all over the world are being challenged by rapid innovation occurring at a speed, scale, and scope never before seen."
+    publishedDateTime: 2022-02-11T17:54:00Z
+    webUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/"
+    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6206afeeefec90ff71d9ed04/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Developing drugs with the aid of artificial intelligence"
     excerpt: "Deep learning is a form of artificial intelligence that mimics how the brain works. It uses neural networks that form numerous connections. It is already possible to design molecules with it ..."
     publishedDateTime: 2022-02-09T16:07:00Z
@@ -141,6 +157,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
         width: 1079
         height: 720
+        isCached: true
+  - title: "Artificial Intelligence and the China-U.S. Rivalry"
+    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
+    publishedDateTime: 2022-02-11T17:40:00Z
+    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
+    type: article
+    provider:
+      name: China-US Focus
+      domain: chinausfocus.com
+    quality: 37
+    images:
+      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "p5g5rYCGklCw0uxPkshY+a8BOEzOEF3ueBlHE8UWRlvle0HVO0F2zmVyVoZK7IUF0nhHxAS5I3hEUelTF8hBXkPkIFOXuw2ColUAr9CgJ+3ZjNqkT4b0hPLOlcDCZKu9l4yT2xwBm9dq6uQZqcVvPHTslQePnv2NzBJ/uZ8WyOzvehjPUKSyxKybdXu+n8qpJG9KbZvVQdwc6FkloukdKN/d30ozJnSZvZnDW5NioGUU5DN8wg2wZluuyiOTn1WueYucvs3UXRlowsETHiCRfel5XxAQwKVbP+Pn7wYMi+z4XDgPGgtmTUZ+GwBJ/ydFp4Yn3ybTR8MnSPopKvKy9Q79VyC9zOISBT/92NCTtUs8GruiqNxb4Ls28CaXhWwLZGxMtDazivvolzq11PIYqxH4xluhLSWDqNSzfMjfMtJmf6N+Jjqiu61JYCaPM9Q0E2oDzndxAwXIKA/Wr2JRwaS1tKrfcqCm9+ZC0Wvfu8i4mTtujlp4nlbhKU97i31RMunCa1Zbzh1DaFaAjwZNig==;RqRJyBdxX1My/WpsySU+VQ=="

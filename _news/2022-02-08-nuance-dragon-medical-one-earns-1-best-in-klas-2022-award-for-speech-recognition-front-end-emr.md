@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nuance-dragon-medi
 webUrl: "https://markets.businessinsider.com/news/stocks/nuance-dragon-medical-one-earns-1-best-in-klas-2022-award-for-speech-recognition-front-end-emr-1031171984"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 400
     height: 255
     isCached: true
-
-related:
-  - title: "Facial Recognition: Balancing Security and Privacy in Biometric Tech"
-    excerpt: "For the vast majority of people on the planet, our faces work much like our fingerprints; they're unique to a single person. Inevitably, then, facial recogniti"
-    publishedDateTime: 2022-02-07T01:45:00Z
-    webUrl: "https://www.amongtech.com/zh_tw/facial-recognition-balancing-security-and-privacy-in-biometric-tech/"
-    type: article
-    provider:
-      name: Amongtech.com
-      domain: amongtech.com
-    quality: 56
-    images:
-      - url: "https://www.amongtech.com/wp-content/uploads/airport-731196_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "FSrjq2+VyoKgbVZxfKVwrPfBI00EBfWY/ns3PWpuv+96L8LIEfG8rbjzuZc7zZQj9jO3rJjt9m8rtFwBh+Mxsjuto0sFsDDofqqltJO1DZ/+0L8PAWpz1VZumddE72KFaALHtoEshTKxWCTL/FRjUJtVQMMOalbBFkm3M9wWZ0y6D8nv9bcCUKeNBWCFSNSBGqNLSy+kpoHWsGF87bESmWncUPHGPdDfWVcH2b6OAPLgzXYBG2UQ/Ylor3JcIEuB6k5nCS5W24Z4pfISt2KJffo79i0BDkFhn4trCP80HX87ypvT8AZHu0G3QTTtq8yv29e2f2ibjr0lLIbjGUuVON4RQWkuwct9vidXaQwHvqChaUBFQtnt5gpGH0S1ESyPyiqZTnlDWmgFuNSvD79R7sFUECpUP7FZmDgTHkkFm89kyYcjyAUxnt+o/NxKiwGmq+2mkVIY9iiV18EofbObnWmHxgogU/ADBI6ypSF0sqiWtpu3euN+pxISjkFyZE6Q37/0zLOOx7Htim2ppu9Ytw==;WQUGeTYRPjkqPsYMyoxh0g=="
 ---

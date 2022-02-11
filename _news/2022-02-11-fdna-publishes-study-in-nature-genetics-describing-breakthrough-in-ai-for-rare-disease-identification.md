@@ -62,6 +62,17 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Facial Analysis Improves Rare Disease Diagnosis"
+    excerpt: "New Artificial intelligence (AI) technology uses facial characteristics ... \"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible,\" says Prof. Dr. Peter Krawitz from the Institute for Genomic Statistics ..."
+    publishedDateTime: 2022-02-11T18:40:00Z
+    webUrl: "https://www.medindia.net/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/facial-analysis-improves-rare-disease-diagnosis-205616-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "hAWJX7ms1VOJkJb3aYLYsKo3HnuL0nOQs96AVVGUW5any6GMfpeoAjIh5o3caJqiEDYXUZujW5D3WLw2pnBGD4zZMnJu3sNEXfRTOdp6Uav6TmQVmAxH/h0KdZskBT00UJJIhJS9Uqt5hMHj/1LpUbAlcsmSFTlR3PfOjrRTsIJf/fgp6/3QgTAHE+9SErL9eT7/ufdkwOJ1X9r8oB+sYT7qrRM5VdkFKQQ1gwVUKIdsRLAUtgDVKKSybW/zlNv+Ocgiw0F27c3ra0ZwopsSBvrxu7w0AYTecNqQBecjU+QBOsUFekyqDSE50uwqhraH/yEq8lrZMWPUso0BE9txKITmGSeAlglIOH+eanTM5ZU=;UgS7vTtZuJ2ns0lC7mbbIA=="
 ---

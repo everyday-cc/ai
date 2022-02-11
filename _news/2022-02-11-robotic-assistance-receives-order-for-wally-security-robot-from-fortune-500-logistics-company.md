@@ -20,8 +20,8 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?608580"
-    width: 520
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708252"
+    width: 357
     height: 250
     isCached: true
 
@@ -43,6 +43,6 @@ related:
         height: 500
         isCached: true
 
-secured: "v+KZEIr5+TXn03w1r9TaQnt5TKaNGaN30zH8r97zeAomOaLk/lWBUMg9pQN1XjsPho5AqSk2MKu/D98O/Q3gGLwnYtw6Jd/pvD0FTf+A4F/rrPs1pDsS5y2OCG4ClaJ4t5u+6uF/luZX666WBzOEVJ24of4T/iCsOJeE0lJOT7jYmeYTYL137UUBYYtfltQtwACB7R8lR7DhawNodDD1RvESt+u356QuNKHMT4m6WA2N6gmhLycepZ3syyspzh5Ih47nTv90diA+L4fuQfug+pk+9JFvsLYlB7ZYczeexyOZN2XWbuWP69XZoPVriq+6sfFG3JpRMFcL2adevtvWEN6EpMH0d/0Ovyw7Mq+iGqU=;C27LI5PpcGalQw6/ObRxQA=="
+secured: "8bv2Hp2XEhcB6tLpMJe0+DnuV2SezeeS9auzqAxKw93E4L40QCUPqm7Gac7G9TwlnYeeApxg6hu3ZGSCfBwoLdm3DXmf/3uPNsp4tC0I+ZeKX4U11uLmsXcSKMCmS0cWNgKhSKVcaMV7QJ7oeCDwqkK6fnv9Y7pr6AmDdOUXbSeTH0b+rNXIzV9bq576KY8Pbh114jLd7LTH1mNXqsnu4305mhfblIXdIRKBla4jxzR3d2r9LIgyLFurdEu6nIxhfhM3zzqAjm1SR4dSOpAUiInjtV/alhgxB2MSVXmWDfPHWAne8IV90Vay/GVNkBSHcQti4BfpPxz0tEaXEwBcocMdr7UaLDJGOTVUXNHMh7s=;KKeiAM5Oi810fOdMwYf17w=="
 ---
 
