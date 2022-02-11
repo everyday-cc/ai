@@ -768,14 +768,14 @@ related:
   - title: "Facial recognition companies attempt to appease state lawmakers"
     excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
     publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
+    webUrl: "https://helenair.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_485103e3-4079-5d27-9f55-0acc1f51ae12.html"
     type: article
     provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
+      name: Independent Record
+      domain: helenair.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/2b/c2bd22b8-8b10-5cad-95c9-2dce264e3d1a/620471f23a1af.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/85/485103e3-4079-5d27-9f55-0acc1f51ae12/62046cf40f2c9.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -909,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "O8FojEgZkF8oQTnxL06Yk1wSnn3C+myJ2x/e53FL0BKnFs7MbVktUSu7IjvFmDUqpr9nykNYsH6wK4QQ+o3lKIqkZvTBqHAGv4zsnOjLXZAWwDSFtiOQyxXgZnfuZ4cMT53r1s/puX/OqtFoA+dUaN0uJbdre3mPWK2LM6c++b6gG/wl9yZKesdDJFKnHR39RnIyuISX3yB9fCntCgSFq9nuIkN83lncqzBqWX3nGR2oOQER0drueGwxbD0Taqh4f5pNAYYblys4csDLmHKMak+E0AS2WK1cnSGOBwcXInll45V1CteFkVdefazQKFQZKK4Gp9RS/LZ1dhXtEaWBoUGxwRIj7b8Xm5oDI2G3+IQ=;LI1al/aoVBk7tEzm5Z842w=="
+secured: "v6bWC/vHWGGwyJh24qVn3vPcl7orFe/gvPCZ7/I1sNnC1E9m7BTXqhOqwlWUKqhvsR1cVrZi7MaRdOOOQRmxkXJIppK7msejy0t5PAqwbY8ZwA1vq1ndfZkfrdCRB9ZrIMA6+uDqxMNOdR0j0zZ1hVNDHqBO9u496mw3XlWOt0WNRVHYxuA8JyZVKF3Ac+Ck5fC/xbFJs1w+puiBZ3noZDdAlMVJOjv44TA5b/Bm80VAFD+DPBCUGKhWwcNJ0fkPeIS0TLsIuVnCuQxb/mJ3niWO8ty5jKiVMSvmsojT36zcbVUsYG/n3gww7Sty8xl3CkDCHqTIpIHYBOwH9z1QZFY8MyVULf+t9cIaNdKf6hbTQ72LYKBtOx7gZtlwbcNKqvm2pkt8PgM+iJfKsqjrVQB/9IpTYg72H3SrvdVIrhGbasfTAsbomBX4z4iYbWNFyHWMKVGWuj4NCOW+uPrZYLwm0s7D6HitxDYz2aDdPeRmRsrB/yaz8d3LTfXMywGXFYEgk1usyXiut6v9XapCfw==;mOKAow0IPWjAcuqm/f1cCw=="
 ---
 

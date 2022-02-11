@@ -1,21 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc."
-excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new"
-publishedDateTime: 2022-01-27T09:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/n25252533/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/n25252533/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-"
+title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc.'"
+excerpt: "Artificial Intelligence In Healthcare Market Size, Share, And Trends Analysis Report By Component (Software Solutions, Hardware, Services), By Application (Virtual Assistants, Connected Machines ..."
+publishedDateTime: 2022-01-27T10:40:00Z
+originalUrl: "https://menafn.com/1103600552/Artificial-Intelligence-In-Healthcare-Market-Size-Worth-2082-Billion-By-2030-Grand-View-Research-Inc"
+webUrl: "https://menafn.com/1103600552/Artificial-Intelligence-In-Healthcare-Market-Size-Worth-2082-Billion-By-2030-Grand-View-Research-Inc"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "P/1MtJMCnzwJ4GpeMxtcHYssMK9l7wbkXknQjtZFILHjMO6b8Rr3d+o3AWNmDXBXo5jk8GC9r3XKlTyefVPr+i3GqCmlCrHssOD7j6opQPaDB8g2r2PmojrK/HYmTipx8xHZWOTWViCvQCm417gP1D9PD20v9es1jLfyj65ZEcuLWnai3AY9i2Fp+8wj0ha74/O+QLC5Kj8wp8MZ5Ns+OpMwiQ3GVREk6qGvk4rt+g2tfLz+ptiC91g8TaA2w6woa+VQWhV57IEyeAoHHxuGDKVKfFFg1iqtftZiggxqeCa6+8D/5V8sY9OqCUuabNCjHlCKYY9oaUQH06F+HufK4/DOlOaGrs62rpA/fE1glqg=;BDXie/niTP2ecRNRXBWBuQ=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904840"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "H4iNPlXRXuCl2Wl3p5tfauX9v594n+b+ywRHrE8+S8TdWpBOyYrSFqBCPg/AEDTRxLNvZPn4qXeD8t3k0p3DVWFIN2mmBGz+FNy4sxqrsfpppZFIGlG8XRKdnmk8b2d/pvbUc2mt7S0cq2A6RXD45Jzq7MF50zpE75sFcI1tGecONmO4M6mkIYpR6u0SooutZ+k9HnKSpXQrR4fk+HcUunctORvAKwmNKWBJ1RlBBd/MjLEB0w9sB0TZbQOkAO546DzuM2/bknj2FlRzraEZQf+XsWsxu+Ih9xGu4ci9ROMe4aMi9/xKCDV4T8dQX6qvJsl82pkdyc4nSVak8sZljVraqpsepN2Qsj51kfjdttc=;niLMqDs29ZJzlHuP079uaA=="
 ---
 
