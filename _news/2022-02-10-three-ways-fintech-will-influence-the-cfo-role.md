@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/09/eu_european_union_banknotes_currency_money_by_mabelamber_cc0_via_pixabay_2400x1600-100812035-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "African tech start-up funding skyrockets, with fintech a big winner"
-    excerpt: "Africa’s tech start-ups are thriving. In 2021, more African tech start-ups raised more money from more investors than ever before, with fintech companies — including several based in Nigeria — heavily represented among the big winners. According to ..."
-    publishedDateTime: 2022-02-07T03:08:00Z
-    webUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
-    ampWebUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 44
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/02/nigerian-nairas-stacked-bills_african-currency_bank-notes_by-ppart-gettyimages-613034832-100849675-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
     excerpt: "While falling out of favor for now, in the long-term the 'digitalization of money' trend could send these 10 fintech stocks higher."

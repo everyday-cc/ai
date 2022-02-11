@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-
 ampWebUrl: "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/porsche.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "aQTbFdz4UUCI8tABPyrDPEJLtFzPy/bFgtSQlOmK0mkcvsGrawi4vzckNXCKnZ2RshljnoPZ8QbDBgdx4hf4CDfFJhhjeOJ/o2tQJns3F6VO4Kgr0xTkVNsaqYY21tz0ZV3w7JYCHsHnhysQSIrTFnmhglsD+O75L94twGz/NDLXQHTQLSzCWRbI+1KJaB1RhdcnkHknFYVKojoqpd82Ca/gw1pSphH1oxyWOxP9XZ26Kr/FgEJHWM5Q4NZib/1DNLPH9VqxfUHjpUupNUlJavaRQRg/UcpnKUNGl3dr0bwm+M3oVRa8Ai/0Iop8DrObwCsmQaI1yOFZ8ch4VFBAtx1fv5CfMetBIm2HRhOBmt4=;uAlnSUeABxlEMhnj9DhFCA=="
+secured: "wEWzgW45pGd9pGBCGLl/E79Pw2tIL9ZY8sbqqoUTZu5vT7YQ1AUO1lQRJw5Esyf6BhO7CcIu99nMi5EIvbgiKoYnKzG4iUNkXJeuibNDXf31EK9kJfM2Ig3NBnvXI8fSFdBA0Ictcxo+Ef2RlqXEBtHSbzEY9sJ1HaCehTGFXj+mfW+8tWMq4x2ikCadvhQOE/PDrST52IJL0s72aJffg3xZb3puAenFaDKjAxv12DvUG5Q/ZvPpTQ8dGctgq5b+Gb36KBHUp0zBrC7cm+HwBakANeU+MCDwfY8EWQf8jKqnHctHvEbOxzPj0dYxvk6p8q8BmVWmsORy25wGs8zr0TQlblVAHMhNY8d2boc2qy75e79Y6UMvU2iwRR+jivx6Nr2j4JaS8FzTUorM4CjtD5paQ2XgE8h0beOuCP0NVF/eNNCgGHPbcoRMPjyq/7Hoq8TLlsykeCUqY1mB3YhJwbnuRZeiur3BMbC8IYOGpNpq3aJAeYecMKX7bLI8ompeN7cxJzNKa+e2UBlkjayElQ==;FWjgmvxdJfbZ9q8zoTqgkA=="
 ---
 

@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "BioMech Sets New Standard of Care with AI-enabled, Clinically Actionable Real-time Motion Analytics for Improved Healthcare Outcomes"
-    excerpt: "Coupling advanced sensor technology with powerful artificial intelligence (AI ... real-time motion analytics that quantify and improve patient/user outcomes in healthcare, sports/wellness, and industrial sectors. Founded by scientists and clinicians ..."
-    publishedDateTime: 2022-02-08T13:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/biomech-sets-new-standard-of-care-with-ai-enabled-clinically-actionable-real-time-motion-analytics/article_4d278c46-2ce2-5ac0-9ada-7b5f8bd1d84a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a8/0a85ad72-cf68-5db3-8975-80360abd4b8b/6202747c801c1.image.jpg?crop=800%2C420%2C0%2C27&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
-
 secured: "b2MiZ5J2aXuxw1dHrR046pkAQnAIo8nyWE7NHBnpAS/NhNQUxUONUtcv52fweabiNKRF93KfAiiLjUnaIPY14uo0pVih8dkf0J4ZL2EFkg+j9BSpt6/X3yYc/uWfMkV/E1taAPKVIE13q1ZjZYbCss/Bt63uvg8RXeoE66ZJlB9JRihkN82gjomW7C+GvyVbjJUeqRokuEFELD/RdfoC+482Vxty35vHBenMCl0pfhly7UzMU4NBLRptO0rk8obedbk3kR8bw/kdI1Suwgt6kIHHkctuftJSxIx/3TFy9vDLdi4oxNeEopf8Jds71QPl9C2o5lPjeK+RPFAvt6NUvZLdO27aS0L4ylvU1IObmGw=;jJtWYB3EW08Dyvkm59CoBQ=="
 ---
 

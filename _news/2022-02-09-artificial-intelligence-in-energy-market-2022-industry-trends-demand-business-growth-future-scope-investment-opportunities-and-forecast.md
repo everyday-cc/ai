@@ -84,6 +84,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Market Report 2022, Industry Trends, Share, Size, Demand and Future Scope 2027"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 11, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence Market: Industry Trends, Share, Size ..."
+    publishedDateTime: 2022-02-11T20:46:00Z
+    webUrl: "https://menafn.com/1103679983/Artificial-Intelligence-Market-Report-2022-Industry-Trends-Share-Size-Demand-and-Future-Scope-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/11/EP_0560bimage_story.jpeg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Robot Software Market Size In 2022: Recent Innovations, Top Countries Data with CAGR Value & Growth Insights to 2028"
     excerpt: "Germany is leading the market due to presence of key players in the country such as ABB, KUKA, and Kawasaki Robotics. The extensive research and development of artificial intelligence in the region has benefitted these key players in upgrading their ..."
     publishedDateTime: 2022-02-08T12:25:00Z

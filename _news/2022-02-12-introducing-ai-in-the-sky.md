@@ -92,6 +92,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial Intelligence and the China-U.S. Rivalry"
+    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
+    publishedDateTime: 2022-02-11T17:40:00Z
+    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
+    type: article
+    provider:
+      name: China-US Focus
+      domain: chinausfocus.com
+    quality: 39
+    images:
+      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "How IIoT and AI are Transforming the Supply Chain"
     excerpt: "The intersection of AI and real-time data, in concert with the industrial IoT, will continue to provide a more holistic view and control over the supply chain, and with any luck will help prevent future disruptions in the global supply. How IIoT and AI can ..."
     publishedDateTime: 2022-02-07T16:02:00Z
@@ -162,21 +176,7 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "Artificial Intelligence and the China-U.S. Rivalry"
-    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
-    publishedDateTime: 2022-02-11T17:40:00Z
-    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
-    type: article
-    provider:
-      name: China-US Focus
-      domain: chinausfocus.com
-    quality: 37
-    images:
-      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
-secured: "zzMKTUL1pCuGClq8qL2LQhX7c2/Qt/z4LdsXpjHgq4AxV8uoLuAMRyHTw20vIjgSQW41u9vhGYMdgxC0aIVRCuIP/81oybO2+M+bKLvM/mYuRXEt2GRZwzYqqnwu8wSni76ri/7YhWa4kpkembwdXN1y14P427NNSEL8ueIgVweBaZxAYmkJZfb7BE5Djh57RMMWvea+88nIKQgiX3ZWSHNDc+mFyR1REhelyOPSeT1t7ZJ4hfIMmXnAFO8yHPaSGFXcmO57D6BaUBq8TqUitATR7+X9EX/QOfnzLGO3ng6WVsKtyX/gZnONQkmtBeef2tfxk/P4QLAh9vm4lJtM9c2E+2heMPu4Om2I4jZc/yw=;7cSC/bcGj3JGew+dI/4Xrw=="
+secured: "LRhBbbO7K7Qlf/SNp9kEHNfCkUTlOi14y+9X38/bbqxlBbFR5F8Tm3NRQ8EE0zPOodR6XBZuLoW4g28hJYCx57Q2Cfy+BSsZ7NeLVU87QHKx7KF303V5iuGWlkjk3XH7Fs6GJYjqphuf2QeNY+4y068czAP80+nhz64xX+74ks/baZOW0KcdDWRwHoEt1Er9iNtKAiXssfI8LMSd3bcqqkujIedelhwX9ulQTxVEX1wKo4471f2X/utZgmAU/1SpP4eVD6NwlCVeg+ET7QDFoC3kVY5WkbGpEFPiHBT62GEpXcnnr9P4/6nSwbv0XR3B9CyegyrYZhQb9D9ZAaXwLAKx7WPWvQ0kzEMF8Ofo1UZA95CJZ64FEoAUHtfWEEQJzQoCOoLHry/dx+iS84VxMPps+LAh1F7gs4TOSMPiIazmoYpxYqPa5r6lleXEiyjcmlKb6Si1dY0qQshsJSnqyK4e6uEr4fMU32/NZIf1d7nG2KMI8p+AGWqWdIJIxQsdhHQuHWqiAcMxOX7d6mMZTg==;z0+lcAqVKs1olH9eNPpb+g=="
 ---
 

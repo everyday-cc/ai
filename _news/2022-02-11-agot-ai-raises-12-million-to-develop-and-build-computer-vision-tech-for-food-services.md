@@ -36,7 +36,16 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Smart restaurant kitchen tech startup Agot AI adds $2M to its seed funding round, reaches $17M in raised capital to date"
+    excerpt: "Agot AI, a startup that equips restaurant kitchens with its suite of camera and computer vision software systems to help improve various efficiencies and to help identify potential mistakes in food orders, announced it added an additional $2 million to its ..."
+    publishedDateTime: 2022-02-11T18:52:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/02/11/agot-ai-adds-2-million-to-seed-round.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "1MUE/5ffLxct4vrsJSpqm+unyXgiCBeCRnGsSyaYL2Du9bhGK6sS1XUN7JurlHaEHirg1IPd09/AGwUHLNPVPagVhACvRyBP88KJb099VoN8zE6uZVds7SIxQSaA1b2syZ1GjQ6GZORg43UDv8M5JjKb2gh5KlLInl4yF0TrMiIGPkYF5BpGwX9KcEByJ0xf7ozEOvf81DY+nHI4VzHzIWMOmHHCdhmmQ5KM2DJJ77SOigY8WKSgFsToFj1CUBDA22vqgVCExdEZzwajUilcNntjWt6XyXU+Cxj/WaXR5Iznv3LeH2WtxNDfCmNQ3oY+ztQrObHYmzb+YV5BNMgFIRrcQs5ttKLmE47XN3YU5u8fTrt4h6lu1zvArVgz5wCu+Kw2PTD5kR1dcYvPRFRhouUuh6QJmjdjACEiM+y/6WlwgRX63VyOqpfKpEBTfdMiqD3c/AWYshiTBsCu4Sob6w4tUrptjLCN9/sXHmT/6mYUNfJR0wxg5vwTMbGj8CHYGA+OlUaAVifjjlpSwGifmg==;8YTgzaVEAZBFgLWSD9a5XA=="
+secured: "+OWbrEzhGdLn1iPvJPuEpXiDSl1FH/ENRhTZ/sQhpi7tZGJ4EHyv9OUsK926lVihiPLoiR1/rmwHPApZhUewKazasaWpnnpI0zvvjWpnoV3gCml9oOs3946/nM9OTBIkbG1lYe2UexF3JTj6URH9IkU0T1QnBS4hjupaiM97I9thuhQPQfKb+PYAC9EN/6DJjR0V6MPvbb+cioj/fBAoogT4nSJPMLkaBmnkSGOs0mIFO2IH9SOAOp7bK2hwtDBE8QexeH2D0ydJkPJPr8RXbgh2eyxgWIwmdZwTuysXQLqbDnbmUYIY1iI5e0EqJ+IT5dK0aNfwbQkJ2tUKYTaOtiBxS9lKPqHIODNdo9GFXnbnABEFDbHjsquj+jKsihZxz/gAjdpMa4LNyWUSdegRKFBmfdyo7YeV3kHGaB4mUdDAw3CjVOSDrcYkK+QIaAvuMygpDAk7qxqVbnqloaNGy4JETDNmDAvB9wsNXO85IqHRY/oOptTZKjcUhEZaPjzyJV45RsjKNmLIO2mLSx8fIg==;Zsvpv1niQz2o1CprUHJPWA=="
 ---
 

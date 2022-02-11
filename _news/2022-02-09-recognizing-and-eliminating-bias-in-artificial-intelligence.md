@@ -90,6 +90,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial Intelligence and the China-U.S. Rivalry"
+    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
+    publishedDateTime: 2022-02-11T17:40:00Z
+    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
+    type: article
+    provider:
+      name: China-US Focus
+      domain: chinausfocus.com
+    quality: 39
+    images:
+      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "How IIoT and AI are Transforming the Supply Chain"
     excerpt: "The intersection of AI and real-time data, in concert with the industrial IoT, will continue to provide a more holistic view and control over the supply chain, and with any luck will help prevent future disruptions in the global supply. How IIoT and AI can ..."
     publishedDateTime: 2022-02-07T16:02:00Z
@@ -159,20 +173,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
         width: 1079
         height: 720
-        isCached: true
-  - title: "Artificial Intelligence and the China-U.S. Rivalry"
-    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
-    publishedDateTime: 2022-02-11T17:40:00Z
-    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
-    type: article
-    provider:
-      name: China-US Focus
-      domain: chinausfocus.com
-    quality: 37
-    images:
-      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
-        width: 700
-        height: 400
         isCached: true
 
 secured: "Uj7UBa796F6p/uK3dZCn3OgnN3Rn/y3E2LolGSxQGm+8ynk12D+GoOtkQcCnF4rgilzdFHmeBwhDgiHMtANv1rgs/ea2SH8ptug6r/NzbKeW6u/OMDRUbdDkpd3B0Jg7kEEF1ZtDmuffJXMPSu4F4JTuCp9oxtcaB8180Qy5s9IHehpWLuVijOv9dg93sLuF98xj4DiVyExpJ6hYnTrq1WPUM/Mg3/67D7/QFcbd8FoJ+4Hxe+9c0/c8bycsGxVPi9ZuQxSeoutedePK3dQjXd2ZszV8eTqSeqWjjzmziSUUTEe4aQVJnf7nlGPeooJYTjKH6strAN8wKoYkYht3tzMJh0ebV2NfAK/5AAIZpQBaGNFkSF05vRAybedlagiqM/SXCk7aMu+GsVq7iEclB+QdOIRZJcUzBzqrFA6UqvR+cMPFlBbYUoqO78JjxvKh5sbJc6VJ5RK7+Xgun1Vs5qWuwoYfGQF1V3j2azEijj0OWqlo3DuGIvOwRyBPpjH3qTf6uyh6Kk6TRJabQiywxQ==;NLfXHERlW3XC8ONwm9q2Iw=="

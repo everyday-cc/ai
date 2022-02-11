@@ -47,6 +47,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AlphaIC Sampling Gluon Coprocessor for Edge AI Inference"
+    excerpt: "Startup AlphaIC has announced that it has begun sampling its Gluon coprocessor for Edge AI inference to customers. AlphaIC says the chip delivers competitive performance compared to Nvidia in vision workloads such as object detection. Gluon is based on ..."
+    publishedDateTime: 2022-02-08T13:52:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/alphaic-sampling-gluon-coprocessor-for-edge-ai-inference/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/alphaic-sampling-gluon-coprocessor-for-edge-ai-inference/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/alphaic-sampling-gluon-coprocessor-for-edge-ai-inference/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/AlphaIC-Sampling-Gluon-Coprocessor-for-Edge-AI-Inference-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "r0RlAFD0cbZB4EUUlBK5BH5/ux+51NKNXcq61kQC3bAZTXyyiqmC5QHLmEtRzEmX6xbLdl+4ikcD+zfRL7+W9sIKVicLkUG3ghVCxk5ctVpDBNDr4L9VH8YxjFMH51qXASLhCs31I2eqeBpoNKhEVbLh3wRuOcg68YA5G5Mosv6JS8QCbmNgLps8tx4lnt7nT/CLqydPS0kkI93JQW2YbScmKLjh55NWnCIsdrCV4VVNoAR/WcmlkkHvM6QMT6OlTkdW4fAAp+v67PegEeiRvVBrVaIt4mAxspTIjtdF/izimdi1D1Cns+yvfi6SXEX2SCUNyJ82H/HX1cqtpFx1NBdb2bCdgrRRmCvNyMAKkjr55KSLPU8Uykfsp4MckLne5L0FN1ewfHUfXw8051qbzpolqWSy8Avmm/MtvR/WlDYCMK1kalxWrsiO75t5F58Mine1iz4l3eGMbxiYBCMKCOIAuAZB+LPleoqd+tXJ4RS/+1H6WH1+ye9MOLM8zUkafTBUDElueH+eJov/ubbsZg==;Md4I91FvDerliIQnXXibkQ=="
 ---

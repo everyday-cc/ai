@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
+    excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
+    publishedDateTime: 2022-02-11T20:05:00Z
+    webUrl: "https://www.techzone360.com/topics/news/articles/451502-gsa-rejects-face-recognition-irs-other-federal-agencies.htm"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4490654204-AdobeStock_211603224_facial_recognition_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "S5TL4d+k6y+pPaBkIKH4rkY+e+2++n0uVC08iPj3enCpoQs/xPdvE0822mpvGTpXf7bnZXtYPBnOyycO5wyF3/TR8uTMvCmXe/SFh5w3V2H0NkUIKdDRW3kyrlhmeLMw/9DRIBG/CBWSSqZkoHdN0f/1G1atX4R5Ft2K3rbU/sUM3DE0ljJuYogUC+Cfs37VBqygZ8xjyDN3xgBh9SSN29xY+A4zF+FicM6MKb/OQyvvsCEiIL3Yf8pWfSo/nH9cYQ/rr4XcnsxOzIc8QCF4jegpeVobZ7PLP59+8lthjVf+1vsQ1DNy1unDZ95WHvb41j9esbf91CElE2LSTM6NyOqGrla4/rlqXKWY28ptoaM=;HalSxIz/LC4mItC4jhQXZQ=="
 ---

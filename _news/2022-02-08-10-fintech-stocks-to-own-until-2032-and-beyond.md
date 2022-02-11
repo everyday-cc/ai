@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "African tech start-up funding skyrockets, with fintech a big winner"
-    excerpt: "Africa’s tech start-ups are thriving. In 2021, more African tech start-ups raised more money from more investors than ever before, with fintech companies — including several based in Nigeria — heavily represented among the big winners. According to ..."
-    publishedDateTime: 2022-02-07T03:08:00Z
-    webUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
-    ampWebUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 44
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/02/nigerian-nairas-stacked-bills_african-currency_bank-notes_by-ppart-gettyimages-613034832-100849675-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Top Fintech Companies To Invest In, In 2022"
     excerpt: "... help companies and individuals navigate adoption of new fintech technologies. Speaking of which, innovation is still ongoing even ad growing companies adopt new forms of payment and transfer. AI is already at the heart of start-up fintech business ..."
     publishedDateTime: 2022-02-10T18:31:00Z

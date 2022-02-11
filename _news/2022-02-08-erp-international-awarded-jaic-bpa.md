@@ -28,7 +28,7 @@ related:
   - title: "Trillion Technology Solutions, Inc. awarded DoD JAIC Artificial Intelligence T&E BPA"
     excerpt: "Feb. 11, 2022 /PRNewswire/ -- Trillion Technology Solutions, Inc. (TRILLION) is proud to announce that Trillion ERP VentureTech LLC, our JV with ERP International managed by TRILLION, has been awarded a spot on DoD's Joint Artificial Intelligence Center ..."
     publishedDateTime: 2022-02-11T18:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-trillion-technology-solutions-inc-awarded-dod-jaic-artificial-/2022/02/11/9544110.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/02/11/9544110.htm"
     type: article
     provider:
       name: TMCnet

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Robotic Assistance Receives Order for Wally Security Robot from Fortune 500 Logistics Company"
-excerpt: "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security ..."
-publishedDateTime: 2022-02-11T14:53:00Z
-originalUrl: "https://menafn.com/1103680923/Robotic-Assistance-Receives-Order-for-Wally-Security-Robot-from-Fortune-500-Logistics-Company"
-webUrl: "https://menafn.com/1103680923/Robotic-Assistance-Receives-Order-for-Wally-Security-Robot-from-Fortune-500-Logistics-Company"
+excerpt: "Detroit, Michigan, Feb. 11, 2022 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has received an order for a Wally security ..."
+publishedDateTime: 2022-02-11T13:57:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/g25564915/robotic-assistance-receives-order-for-wally-security-robot-from-fortune-500-logistics-company"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/g25564915/robotic-assistance-receives-order-for-wally-security-robot-from-fortune-500-logistics-company"
+ampWebUrl: "https://www.benzinga.com/amp/content/25564915"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25564915"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -20,9 +22,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708252"
-    width: 357
-    height: 250
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -43,6 +45,6 @@ related:
         height: 500
         isCached: true
 
-secured: "8bv2Hp2XEhcB6tLpMJe0+DnuV2SezeeS9auzqAxKw93E4L40QCUPqm7Gac7G9TwlnYeeApxg6hu3ZGSCfBwoLdm3DXmf/3uPNsp4tC0I+ZeKX4U11uLmsXcSKMCmS0cWNgKhSKVcaMV7QJ7oeCDwqkK6fnv9Y7pr6AmDdOUXbSeTH0b+rNXIzV9bq576KY8Pbh114jLd7LTH1mNXqsnu4305mhfblIXdIRKBla4jxzR3d2r9LIgyLFurdEu6nIxhfhM3zzqAjm1SR4dSOpAUiInjtV/alhgxB2MSVXmWDfPHWAne8IV90Vay/GVNkBSHcQti4BfpPxz0tEaXEwBcocMdr7UaLDJGOTVUXNHMh7s=;KKeiAM5Oi810fOdMwYf17w=="
+secured: "ix7fCPLdf78WP83PyUr7iDjkUC4X0XY7DweW+KKUdZe6igF0VFB4IPzAD3GSqCbMH7/B0hlyspcaeHGe+FG78NKlk8/9s+Ms8yYX+SJ5wB3mR3deccwmixG3+hGzNon0yh92yH739pe1sKLJaokx915E8XmiI7eVKwHPvf21FVi8oYlj+ZIUA59Mgew+q2cxdGD7JsqZ+ayD4jJ/5KkbFsZJhFLIJmLdKwaucwiGR27QRSoOIze36wBX52zckGhcRgiWfTHOpCNW1xr9kEfeycRxUzFkqrRwB0qscEcxRLarC93eYCuFB0jmK9wikOyx7dfaNqxXhpi9RMpYksO6uM3Ep+KTTbq6j4mgkTDiTpI=;S2gvebWcUsJD6Rf/akqnQA=="
 ---
 

@@ -95,6 +95,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Market Report 2022, Industry Trends, Share, Size, Demand and Future Scope 2027"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 11, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence Market: Industry Trends, Share, Size ..."
+    publishedDateTime: 2022-02-11T20:46:00Z
+    webUrl: "https://menafn.com/1103679983/Artificial-Intelligence-Market-Report-2022-Industry-Trends-Share-Size-Demand-and-Future-Scope-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/11/EP_0560bimage_story.jpeg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report to 2022-2028"
     excerpt: "Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2022-2028. This press release was orginally distributed by SBWire London ..."
     publishedDateTime: 2022-02-11T18:07:00Z
