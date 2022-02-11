@@ -2,7 +2,7 @@
 name: "Luminous Computing"
 overview: "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde"
 type: "profile"
-heat: 50
+heat: 64
 
 website: https://www.luminouscomputing.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "LuminousAI"
   url: "https://twitter.com/LuminousAI"
-  followers: 1137
+  followers: 1138
 
 size: 2-10 employees
 yearFounded: 2018
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=mzAX5DS3xYw"
 
-secured: "dDgiBvdwPmuowVb0uq318ueTu/WB4q1RRyzkkVRQsHLolL47i07m2jXL5YsOQOVXR6yORjf42CjVx+EcvCFvC9BKu1OJW2tPHxa5NTSl3NUcj29kKwyt7DeZeryAYqlfC/I2TJxXqpPSEDKJpwGVY6NUVwTv+5/mb6GCZSID+ttKzrLrh9LCh5ElW1UGKfQP0fCKfei96BaLsa4xVbO2qoF+gwJ6Cbp9+S2t+Khjr6sd1LZqHw6BkxAS3FLEhEQoaAzAdiNUahn2qRxjlpTDnlY/QdW9m8y4NkHBKjloOwtOT3y/h/12vDFmALB8UfnHZ5uZpqqD7TxBFbhFPDF0ZBIHShKzIfaHrQCZUYnt69B7W4vqwoI1zkX+FG9H4ycWsoPwFFyAwXal3rb/6b6diD+9QVdT2vhmuCVLFV87AR8=;8zmv5pz85h12nPNM93N/zw=="
+secured: "x0TIu2ZaUHF8nr0lN/ovRvFjC9tggRsDDq4Xu/tUaQHAGBeX5DDuFZRIBY0FTw4zhVahqBMuGy5Rh6+FCkHXUGE/XHFlMKjA8KS7XGBYiWBuPRbIpzGLLXr2KAyDBFJdnON18EVUTVSiz+dujAzvO0oUQIJTNp62tQ/Spp+Drh35zPNZ/9yNd0pbEg/IuZtXRwgA2wPpkll4AWmjlDQoRrOMCGnRfhbHE4JLjGdZb4HyIZGYxksztAfqaUJFY97EDM748I0s7bWvhss56Wz3k+MJe8id6X1y5IuulPaysRYNUlfbcwsV+cBPiG4bt8LzLgDeroS2IVjupSDfOJRKLtn70JgpD087FDltzdiES2e0NkmvAKOfwMpXW6f8mYe9fUss9ypL70jJALlt0MYl/iPeSIZT27PGxiMFINGklNA=;LRikM578QpawswwHU/OwgA=="
 ---
 
