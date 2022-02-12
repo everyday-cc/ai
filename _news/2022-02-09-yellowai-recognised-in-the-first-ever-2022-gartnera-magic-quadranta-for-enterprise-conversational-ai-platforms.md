@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=12348
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234881&cat=PR News Wire"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Tech Mahindra Partners with Yellow.ai to Transform Enterprise Customer Experiences with Conversational AI"
+    excerpt: "Yellow.ai is the world's leading next-gen Total Experience ... the company has raised more than $102M from blue-chip investors and has offices across six countries. Tech Mahindra offers innovative ..."
+    publishedDateTime: 2022-02-10T06:24:00Z
+    webUrl: "https://menafn.com/1103668549/Tech-Mahindra-Partners-with-Yellowai-to-Transform-Enterprise-Customer-Experiences-with-Conversational-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/10/M_1f56dimage_story.jpg"
+        width: 696
+        height: 348
+        isCached: true
 
 secured: "B1xkaZFCuvipfiGn83Fsh169vI9rGXOJiVSA1mHU8XSlpQ8tCDbHO0EkXT/tKMuq4Khiv+VbUtiAVTSVbnNgbrds1Wo+lt5u60LwPxj1WYVihHrUAISuA2fAJ3xfv3XiWJdGCniJa8UK29vzMZF2gvy5eZAdrOk3ctThFWs0RgajLIZIL+DRkXm2wmloOzoFiP2+nP0MxF4Csr6SEZkyn2UdmnFZECHEqO9c0xhytFkC/nk0qzni0G8RqlxohI6S4yVJSg4mt4z6miVDZI8Bkj+6dPjTQ4Sx15SHik6ijFPpd2kEfVWXYB+NEcVf1eFtCH85Z2GKGwoQcLX9YSuMLKtdkdqC7LLVtzUav0IIpMk=;lHlL+lDr2g69VaRYEYzYYg=="
 ---

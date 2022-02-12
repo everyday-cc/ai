@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS to stop using facial recognition for identity verification"
-    excerpt: "The IRS will stop using a controversial third-party service for facial recognition to verify identity for online accounts."
-    publishedDateTime: 2022-02-07T23:34:00Z
-    webUrl: "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106888859-1622060828895-gettyimages-1231812116-IRS_TAX.jpeg?v=1630653821"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "IRS does an about-face on facial recognition plans"
     excerpt: "The IRS is abandoning plans to require facial recognition to authenticate online access following criticism from politicians, privacy advocates, and tech experts, forcing the agency to look at"
     publishedDateTime: 2022-02-09T00:52:00Z
@@ -177,17 +161,6 @@ related:
         width: 4500
         height: 3068
         isCached: true
-  - title: "Congress pressures more agencies to end use of facial recognition after ID.me debacle"
-    excerpt: "or voice. But all have their pros and cons relative to the balance of security and end-user convenience, he noted. \"Static Knowledge Based Answers (KBAs) can no longer be trusted as a means of identity verification and authentication. Facial recognition as ..."
-    publishedDateTime: 2022-02-09T16:40:00Z
-    webUrl: "https://www.zdnet.com/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Face off: IRS scrap facial recognition after blowback"
     excerpt: "No one should be forced to submit to facial recognition to access critical government services,” said Senate Finance Chair Ron Wyden said in a statement after the IRS"
     publishedDateTime: 2022-02-08T01:42:00Z
@@ -203,22 +176,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2022/02/bhr-z-irs0208-01.jpg?w=1024&h=683"
         width: 1024
         height: 682
-        isCached: true
-  - title: "IRS Announces Transition Away From Facial Recognition Verification"
-    excerpt: "The IRS is changing course after partnering with a third-party company that uses facial recognition to verify the identities of taxpayers logging onto their IRS accounts. The agency previously announced that starting in summer 2022, if you needed to log in ..."
-    publishedDateTime: 2022-02-08T00:30:00Z
-    webUrl: "https://www.nbcmiami.com/responds/irs-announces-transition-away-from-facial-recognition-verification/2683735/"
-    ampWebUrl: "https://www.nbcmiami.com/responds/irs-announces-transition-away-from-facial-recognition-verification/2683735/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/responds/irs-announces-transition-away-from-facial-recognition-verification/2683735/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 59
-    images:
-      - url: "https://media.nbcmiami.com/2022/02/IRS-Announces-Transition-Away-From-Facial-Recognition-Verification.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "IRS halts facial recognition plan amidst backlash"
     excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash ..."
@@ -267,22 +224,6 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
-        isCached: true
-  - title: "IRS halts plan to require facial recognition for logging in to user accounts"
-    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash from lawmakers and privacy groups.The IRS said in a statement ..."
-    publishedDateTime: 2022-02-08T00:56:00Z
-    webUrl: "https://www.wlwt.com/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
-    ampWebUrl: "https://www.wlwt.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
-    type: article
-    provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 56
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-6ec8311a306d734cff37afecd9169c92-h-40a0fddbfdb29ce9ae876a7d62f0d67c-1644280985.jpg?crop=1.00xw:0.848xh;0,0.130xh&resize=1200:*"
-        width: 1200
-        height: 677
         isCached: true
   - title: "You & facial recognition: Look for government to find more verification options"
     excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
@@ -545,20 +486,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GSA won’t use facial recognition with Login.gov for now"
-    excerpt: "The General Services Administration won’t use facial recognition to grant users access to government benefits and services for now, but its secure sign-in team continues to research the technology. “Although the Login."
-    publishedDateTime: 2022-02-09T18:25:00Z
-    webUrl: "https://www.fedscoop.com/gsa-forgoes-facial-recognition-for-now/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/02/GettyImages-607358443.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
-        isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
     publishedDateTime: 2022-02-11T09:48:00Z
@@ -587,21 +514,33 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Government agencies will get more verification options after face-recognition backlash"
-    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
-    publishedDateTime: 2022-02-10T15:55:00Z
-    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
-    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
+    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
+    publishedDateTime: 2022-02-10T23:12:00Z
+    webUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move-to-end-ban-on-police-facial-recognition-technology/"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
-    quality: 36
+      name: Virginia Mercury
+      domain: virginiamercury.com
+    quality: 37
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
+      - url: "https://www.virginiamercury.com/wp-content/uploads/2018/08/charlottesville-pre-rally-4.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
+    publishedDateTime: 2022-02-09T19:48:00Z
+    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 34
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
         width: 1200
-        height: 677
+        height: 500
         isCached: true
   - title: "IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted"
     excerpt: "Looking for the latest Government Contracting News? Read about IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted."
@@ -663,6 +602,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 13
+  - title: "Facial Recognition Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, Latest Key Players | NEC Corporation (Japan)"
+    excerpt: "The security applications of facial recognition are motivating Facial Recognition Market in 2020. The AI and analytics reports are made"
+    publishedDateTime: 2022-02-09T10:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-study-reveals-growth-factors-and-competitive-outlook-for-future-analysis-latest-key-players-nec-corporation-japan"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "k5pxMyWek54iPdhqBeykJoj1ZA2YC0lxtKXKZ25d3CLq7yQ1QrHUMy5LVkzeqaP9gUZ8oTCDTVlkN1Sl8V4KjeJiZyA7eZ7M1yf4XRUxDen8fHDIDyuNyQq0ZhdrSdWQ3oyHk2UfSHNHHpAqv2t6PL5JdfuEpWHNJgtmOO9OVm4UxeXiTzc9LxzJwdLaIdwgn5fadd0pde93/erL9HK/INYYfvGwSKYYqO6NWQV7NpXCF95c+w0iq5npPyyjj2JP8fGv9ahUQJuevfBmqxzjG9MfWGJ9PeTU0C2ME9KgIZLLGo2i81WuVE3oomINvGts7Fdihxh1XH1xEAcI+WBe+7YFbW3KgCGzH0+TGx4x/AahoK0KJfYde7M9hiSe8OQ7XZWlv3Wk45mizAPVmdVdygz/lpy3WbXSg9eYTVFlBnNorhVjS13/8oHkctJp3ST3kUIq4I8IUfWYQxnr1ercyJoZybkXEkJGS8QMVyqynHoc3qwXsYN6hL4mRv+rQB1MbO6ALZUBwoyF6th2Jsf2bA==;vFYkEqSyjiBN2m+WddcSHQ=="
 ---

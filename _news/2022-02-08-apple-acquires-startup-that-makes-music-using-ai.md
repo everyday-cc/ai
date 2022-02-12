@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple acquires artificial intelligence startup AI Music"
-    excerpt: "Founded in 2016, AI Music set out to help brands create \"royalty free adaptive music,\" according to a recent archived screenshot of their website. The intended audience seems to be for media ..."
-    publishedDateTime: 2022-02-07T23:16:00Z
-    webUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music"
-    ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 172
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/46890-91404-44099-85736-000-lead-Apple-Music-xl-xl.jpg"
-        width: 1280
-        height: 714
-        isCached: true
   - title: "Apple Buys Startup That Makes Music With Artificial Intelligence"
     excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of AI ..."
     publishedDateTime: 2022-02-08T07:08:00Z
@@ -80,85 +64,21 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Spinny acquires AI-powered car connectivity solutions startup Scouto"
-    excerpt: "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space. The company, however, did not disclose the amount it ..."
-    publishedDateTime: 2022-02-10T09:18:00Z
-    webUrl: "https://www.freepressjournal.in/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto"
+  - title: "Apple buys artificial intelligence music startup for undisclosed sum: report"
+    excerpt: "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ..."
+    publishedDateTime: 2022-02-08T12:31:00Z
+    webUrl: "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
     images:
-      - url: "https://images.assettype.com/freepressjournal/2021-12/7371e5f2-de13-4702-970f-12c929116c02/Spinny_Logo_withBG.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1198
-        height: 453
-        isCached: true
-  - title: "Spinny acquires AI-powered car connectivity start-up Scouto"
-    excerpt: "Feb 10 Pre-owned car retailing platform Spinny has acquired a 100 per cent stake in AI-powered Connected Car startup Scouto for an undisclosed price. Founded by ex-race car driver Akshay Gupta (CEO) & Shubham Sharma (CTO), Scouto has built an end-to-end ..."
-    publishedDateTime: 2022-02-10T11:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/xkjt62/article64999969.ece/alternates/LANDSCAPE_615/IMG_hy26Sindhu_5_1_6D94DH64.jpg"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "Spinny acquires AI-powered car connectivity startup Scouto"
-    excerpt: "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ..."
-    publishedDateTime: 2022-02-10T15:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-40956,msid-89485264/spinny.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Spinny acquires AI-powered start-up, Scuoto"
-    excerpt: "Pre-owned car retailing platform, Spinny has acquired 100 percent stake in AI-powered Connected Car start-up, Scouto. The deal marks one of the first consolidations in the AI-powered used car solutions segment. Founded by ex-racecar driver Akshay Gupta ..."
-    publishedDateTime: 2022-02-10T09:46:00Z
-    webUrl: "https://www.autocarpro.in/news-national/spinny-acquires-aipowered-startup--scuoto-81089"
-    ampWebUrl: "https://www.autocarpro.in/news-national/spinny-acquires-aipowered-startup--scuoto-81089?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/spinny-acquires-aipowered-startup--scuoto-81089?amp=1"
-    type: article
-    provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 57
-    images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/65839919-303b-4e9d-9ae9-821f486448ca.jpg"
-        width: 735
-        height: 486
-        isCached: true
-  - title: "Schoolnet acqui-hires Hyderabad startup NextSteps AI"
-    excerpt: "Hyderabad: Hyderabad-based startup NextSteps AI has announced it has been acqui-hired by Noida-based education technology (edtech) company Schoolnet India. Through this acquisition, the team of NextSteps AI will be joining the Schoolnet’s team to enhance ..."
-    publishedDateTime: 2022-02-11T09:54:00Z
-    webUrl: "https://telanganatoday.com/schoolnet-acqui-hires-hyderabad-startup-nextsteps-ai"
-    ampWebUrl: "https://telanganatoday.com/schoolnet-acqui-hires-hyderabad-startup-nextsteps-ai/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/schoolnet-acqui-hires-hyderabad-startup-nextsteps-ai/amp"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 57
-    images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2022/02/Nextstep-AI.jpg"
-        width: 1200
-        height: 650
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048245156/image_1048245156.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Apple acquires AI Music to create songs adapted to our heartbeat using algorithms"
     excerpt: "Apple has acquired AI Music, a startup that created artificial intelligence capable of generating its own personalized music, according to Bloomberg. A purchase that has been closed in recent weeks and which,"
@@ -175,22 +95,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2022/02/1644308918_840_560-780x470.jpeg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Edtech firm Schoolnet acqui-hires AI startup NextSteps to boost deep-tech capabilities"
-    excerpt: "Leading Edtech company Schoolnet India Limited has acqui-hired NextSteps AI — a deep-tech (Artificial Intelligence/Machine Learning) startup incubated at Hyderabad’s T-hub startup hub — into its fold. NextSteps has played an integral part in the ..."
-    publishedDateTime: 2022-02-12T11:25:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
-    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 49
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1644664901_schoolnet1.jpg"
-        width: 558
-        height: 372
         isCached: true
   - title: "Apple acquires UK start-up that makes dynamic music using AI"
     excerpt: "Apple could use the start-up’s technology to create new music for advertising, or dynamic soundtracks that respond to the user’s heartbeat or mood. Tech giant Apple has reportedly acquired AI Music, a UK start-up that uses artificial intelligence to ..."
@@ -219,20 +123,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/aimusic.jpg"
         width: 1800
         height: 942
-        isCached: true
-  - title: "Spinny acquires AI-powered connected car startup Scouto"
-    excerpt: "Spinny, a pre-owned car retailing platform, has acquired AI-powered connected car startup, Scouto for an undisclosed amount. “As part of the acquisition, Scouto’s founders will become an integral part of Spinny and help build and drive our connected ..."
-    publishedDateTime: 2022-02-11T10:11:00Z
-    webUrl: "https://analyticsindiamag.com/spinny-acquires-ai-powered-connected-car-startup-scouto/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/AI-Features-Auto-Firms-Are-Embedding-In-Cars.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "How will Apple use the AI music generation startup"
     excerpt: "AI Music’s mission, according to its LinkedIn page ... Apple’s most recent acquisition was Primephonic, a music startup. This year, Apple plans to integrate that startup’s classical music streaming service into an app related to Apple Music."

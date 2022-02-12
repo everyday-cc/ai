@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
-excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
-publishedDateTime: 2022-02-09T05:53:00Z
-originalUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html"
-webUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html"
-ampWebUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
-cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
+title: "Experts Alarmed by Videos of Tesla Full Self-Driving Totally Screwing Up"
+excerpt: "So much for Tesla having the most advanced self-driving technology in the world. A panel of experts assembled by The Washington Post have reviewed and verified footage of Teslas equipped with the ..."
+publishedDateTime: 2022-02-12T15:35:00Z
+originalUrl: "https://futurism.com/experts-alarmed-tesla-fsd"
+webUrl: "https://futurism.com/experts-alarmed-tesla-fsd"
+ampWebUrl: "https://futurism.com/experts-alarmed-tesla-fsd/amp"
+cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/experts-alarmed-tesla-fsd/amp"
 type: article
-quality: 39
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: MyBroadband
-  domain: mybroadband.co.za
+  name: Futurism
+  domain: futurism.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://wp-assets.futurism.com/2022/02/experts-alarmed-tesla-fsd-600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving"
@@ -147,22 +153,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Experts Alarmed by Videos of Tesla Full Self-Driving Totally Screwing Up"
-    excerpt: "So much for Tesla having the most advanced self-driving technology in the world. A panel of experts assembled by The Washington Post have reviewed and verified footage of Teslas equipped with the ..."
-    publishedDateTime: 2022-02-12T15:35:00Z
-    webUrl: "https://futurism.com/experts-alarmed-tesla-fsd"
-    ampWebUrl: "https://futurism.com/experts-alarmed-tesla-fsd/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/experts-alarmed-tesla-fsd/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 58
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/experts-alarmed-tesla-fsd-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
     excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
     publishedDateTime: 2022-02-09T22:20:00Z
@@ -195,6 +185,17 @@ related:
         width: 1352
         height: 1211
         isCached: true
+  - title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
+    excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
+    publishedDateTime: 2022-02-09T05:53:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
     excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."
     publishedDateTime: 2022-02-11T01:51:00Z
@@ -212,6 +213,6 @@ related:
         height: 382
         isCached: true
 
-secured: "jSFqw00jWYlxVzpHWL1OjmFao0lJRO8NtJeblny+WW9RxoQfPpucxS2MzM1efUVSxGY7FWqlxhxfc4O5ug9xJynuGUuo3YB6fQoUMI47WUdC00ZzQACNkJGhH5hHsEmLTCHavLCJnQIi3i/O6+F9zfVx6sIAMJf172XullbHY9NbCBTo6UxIbID4VCpesmogh79tB6aWrJK0w7Mxb3vzKCZUy5ctQJBllU0XZpvXmALwNXaWUA3c52FMDy5+KOj2UnoLCRx6P1ZmCWoAYWyQfl0ziwL//9ok+ODFTL8Z1NvKAh11Lwd+flRV6ZHpFAmd4unowy1Ek3g9SeeezjUyaetWQjKNp0h8Tp/tGo4YBPW6W21B5u6v5iYMt4rCvNU+QC8mdtUtmKywLCf+ACi0rRzRqf2UtIqRFqInn4hmrdLo65th+2Qv7KR2Z2D3C/GtdELw1PQxEbpRFvW2NiOwWABPOWJso+OV0tDqqGkIF2tPThhWc5T5hU4x/R8r8PLE2loPj/Z38l3o1iULrg8BLg==;obDox0Ew0eirlIXpQJRZbg=="
+secured: "oHLw/jlc1Rd9ryMqLxT5rSrzoJ3cOxKZFefyBO5aMLnWJG//4StW3siX5mp89HmhvBfxJCXGRgM4UzU/W4uJBYDfBlbqhHTrxOXHFgzMV7NKJ1rjq0In5pDNalwappUvg4JpZAL3hL3jaKPEwyQxhef5dfWlc+QHxf6i3qjUJpgbsMT4pQKV6ACHY6AakAggLgq0dumKW48rQysDcVBZFQoEJxuVJy47+J967UaAbwKPV52t5P4/pYgEQsY4BNmjyujk8JttNOtFapy836KWNHT9UIvkUutV3qhjITipwaQCPpFuK/JFx0XE9HEA5kAn69A8rrs/nuvoBU3AQKCZngJLInexUO2GlA04tQIcnWY=;UUGtJkRCE4+Rr6zvr8lRcA=="
 ---
 

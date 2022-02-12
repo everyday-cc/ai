@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1357306976-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Sony And Gran Turismo 7 Dev Tease Big AI News For This Week"
-    excerpt: "Sony AI and Polyphony Digital released a teaser for a project between them which will be revealed on February 9. The announcement is related to the Gran Turismo franchise, which Polyphony Digital is known for. The trailer shows the Gran Turismo logo ..."
-    publishedDateTime: 2022-02-07T23:20:00Z
-    webUrl: "https://www.gamespot.com/articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 57
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1646/16465123/3937436-granturismo.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI driver can beat some of the world's best players at Gran Turismo"
     excerpt: "The AI, named GT Sophy, was able to execute tactical moves such as using an opponent’s slipstream to boost itself forwards and block its opponents from passing. Peter Wurman at Sony AI in New York and his colleagues trained the system using deep ..."

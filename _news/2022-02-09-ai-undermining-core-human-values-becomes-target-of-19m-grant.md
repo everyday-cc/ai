@@ -41,15 +41,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Cambridge awarded €1.9m to stop AI undermining ‘core human values’"
-    excerpt: "Work at the Leverhulme Centre for the Future of Intelligence will aim to prevent the embedding of existing inequalities – from gender to class and race – in emerging technologies."
-    publishedDateTime: 2022-02-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/942734"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "wgDgZCO+Zeq1zu1tqa/HEmDuXCfddVvRkDxBBeOcfSKhVIYxHphu6IMtXTQrUB7l9nXMZ8bJ/NU4MEu6mK8uIiAzDRFkAeLpu5SVn95zMJ2+04acfJrJq97SkeVAd+f+G3uf6ZPG7OKtJphcCAgDnRb84/zl9CSJRofuuD2yc3wxpH9NPUdr2jBi9xHudl8RUNY3JG6DxSg5B9PkADs7jPd8AFFHYAcC48hLtZ6sEgEZr7fehS58/gyJKr+x5A384yWUR9HpucuByEPxqLx999xzK9HexfqZcSWb+9wep/VoUH0S1QcDJQzMchI2nBFUmHuXiheapu6EBW58/sFUJN22O9neMjsHN3WYkP7b/3o=;w/kC4+8/mYlDwFLxdxIAWw=="
 ---

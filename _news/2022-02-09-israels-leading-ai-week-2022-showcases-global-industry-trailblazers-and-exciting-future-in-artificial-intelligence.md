@@ -32,20 +32,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
-    excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."
-    publishedDateTime: 2022-02-10T20:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2022/02/jauhar-vipra-frt-constitutional-challenges-law-enforcement/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 19
-    images:
-      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2022/01/facial_recognition_1643222271.png"
-        width: 1280
-        height: 1066
-        isCached: true
   - title: "Businesses In IT Robotic Automation Market Speed Up Implementation, Integrating Platforms With Machine Learning To Up The Ante For Incumbents"
     excerpt: "The ambit of the technology is notably expanding to entail decision-making capabilities with the help of AI tools and machine learning. Thus, IT robotic automation market is stridently slated for new potential of opportunities in the efforts of providers ..."
     publishedDateTime: 2022-02-08T11:20:00Z

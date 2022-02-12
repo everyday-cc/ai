@@ -25,40 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Article: Entering and staying resilient in an innovating industry: Women tech leaders on opportunities in AI, ML sector"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML ... Birlasoft says to mitigate any ethical complications and risks related to this, the role of an ethics leader for new-age technologies will be in demand, with increased ethical business practices ..."
-    publishedDateTime: 2022-02-11T01:22:00Z
-    webUrl: "https://www.peoplematters.in/article/diversity/entering-and-staying-resilient-in-an-innovating-industry-women-tech-leaders-on-opportunities-in-ai-ml-sector-32692"
+  - title: "Congress pressures more agencies to end use of facial recognition after ID.me debacle"
+    excerpt: "or voice. But all have their pros and cons relative to the balance of security and end-user convenience, he noted. \"Static Knowledge Based Answers (KBAs) can no longer be trusted as a means of identity verification and authentication. Facial recognition as ..."
+    publishedDateTime: 2022-02-09T16:40:00Z
+    webUrl: "https://www.zdnet.com/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
     type: article
     provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 32
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+  - title: "Government agencies will get more verification options after face-recognition backlash"
+    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
+    publishedDateTime: 2022-02-10T15:55:00Z
+    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    type: article
+    provider:
+      name: KCRA
+      domain: kcra.com
+    quality: 36
     images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1643716966/ad-kqkzykwk.jpg"
-        width: 990
-        height: 550
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
+        width: 1200
+        height: 677
         isCached: true
-  - title: "Israel's Leading AI Week 2022 Showcases Global Industry Trailblazers and Exciting Future in Artificial Intelligence"
-    excerpt: "This sentiment was mirrored by Professor Eviatar Matania, Co-Head of Israel's AI Initiative, who said, \"The desire in generating a holistic program for Israel in artificial intelligence was because of the understanding that AI…is going to dominate the ..."
-    publishedDateTime: 2022-02-09T15:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/israels-leading-ai-week-2022-showcases-global-industry-trailblazers-and-exciting-future-in-artificial-intelligence/article_6efddb75-6894-56e9-8670-e40bc8e6bf64.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
-  - title: "Businesses In IT Robotic Automation Market Speed Up Implementation, Integrating Platforms With Machine Learning To Up The Ante For Incumbents"
-    excerpt: "The ambit of the technology is notably expanding to entail decision-making capabilities with the help of AI tools and machine learning. Thus, IT robotic automation market is stridently slated for new potential of opportunities in the efforts of providers ..."
-    publishedDateTime: 2022-02-08T11:20:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 6
 
 secured: "gxguj0u5bdOmpTMWaNiScq0V7r89V91x8NgA7gaxdLh27Kn50QYt5wISNzNfj1VbmTh6YJ8J+L4NqEdrMB4MFgKcK0iiRIr7gkHF1acV4M7T5oVMXrOFHJ9gam27dI3IiF8E2p41RlkvJElJoM5/Rpi7/feOiW312shX7k50OLkmjfHjeTvjWFkOBJPOs8+QiKBBJLduxFq9LM8sgzF1V6gnIebRp0O1/tuZWinYUOcZ758cxzGFiXRalpY5N9CQv9Xpn8VCasOSVTbIFIFH+1UBV24YLDQ6YGRkSo3viz9PnhVUZmjZCtJ3OKnP5b33szQw+IU+ryyhohN7dByjosy88GVZ8/6EsG4/seX8rvbpeUNUG8CAqLn1SOHy+ylGTsTcQK2UfCVaNDtwTYYU+vagwLA7lSOCZmQ1TXyTQo16RvEC3v6/J+NqWtjCsL9veaKdNA9fAzkV0Oo/nK13MNUSfBNufCj2vmAWWLC0JIVX8FOHgLZe8mlPzgDkKGdrzN0Cna5oEwCxvXJMqDWQbw==;QzA2dns8WMv1FXPAy5vNhA=="
 ---

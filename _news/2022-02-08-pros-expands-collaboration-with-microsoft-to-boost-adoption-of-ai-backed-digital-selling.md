@@ -59,17 +59,6 @@ related:
         width: 806
         height: 434
         isCached: true
-  - title: "Westpac signs five-year deal with Microsoft to lift it further into the cloud"
-    excerpt: "Under the partnership, Westpac will adopt Microsoft Azure as it continues to expand the use of cloud-based systems, and look to bring its application, data, and AI capabilities together in a \"more cohesive manner that can be scaled across the enterprise\"."
-    publishedDateTime: 2022-02-07T23:19:00Z
-    webUrl: "https://www.zdnet.com/article/westpac-signs-five-year-deal-with-microsoft-to-lift-it-further-into-the-cloud/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/westpac-signs-five-year-deal-with-microsoft-to-lift-it-further-into-the-cloud/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/westpac-signs-five-year-deal-with-microsoft-to-lift-it-further-into-the-cloud/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
   - title: "Microsoft Cloud & PROS in AI-powered manufacturing move"
     excerpt: "PROS & Microsoft Dynamics 365 are working together by embracing AI manufacturing power ... the only business platform that natively integrates with Microsoft 365, Microsoft Azure, Azure Cloud Services and Microsoft Power platform, provides unparalleled ..."
     publishedDateTime: 2022-02-09T12:01:00Z
