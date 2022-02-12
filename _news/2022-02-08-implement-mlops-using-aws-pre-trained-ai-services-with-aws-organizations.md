@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/implement-mlops-usin
 webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/"
 type: article
 quality: 103
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1100
     height: 400
     isCached: true
+
+related:
+  - title: "Q&A: AI Helps Healthcare Organizations Reduce Avoidable Patient Harm"
+    excerpt: "Jvion Chief Medical Officer Dr. John Frownfelter explains how artificial intelligence improves patient care and offers tips for implementation success. As the healthcare industry shifts to more preventive, value-based care, AI provides guidance for early ..."
+    publishedDateTime: 2022-02-10T21:55:00Z
+    webUrl: "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm"
+    ampWebUrl: "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 74
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202202/Health%20AI.jpg?itok=TRSNbDPU"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "AYPiND0nvp2w9XwiYUnzO0lyx0a1SfXW8Ryv26OwDjqBNTHJKGoOTUv/9hri3uWKclAu7T4YxkraB7Itai5DbiTl0Z8SUH4QTzKzGsxBdPJykJcZcvbey0MPCPpyjkSnK8kcDf5XPGxOoBEsfrQ/3fbO24xJXxZRSk94l/zPANmekWZnE0h/PMX8Q0UFN76eptrNfKCH3Gh+DlTFPSJzO5aMt9yYwGLkiBwiBVA4/thNVgP5H1ra5sqd6EE4lU+PW6Icj+UoRA6Px6/jE5uTgqGrZoIsYeD+sQH1GWkSrJd2AQn2x5tj6C12rR9hAgR2oxRB3MiSf322msM5zqy2YZdsOR/oVyCwg+abgfjCiaA=;nyxFdFr23nA9I1jszjueYQ=="
 ---

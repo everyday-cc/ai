@@ -2,30 +2,22 @@
 category: news
 title: "Robotic Assistance Receives Order for Wally Security Robot from Fortune 500 Logistics Company"
 excerpt: "Detroit, Michigan, Feb. 11, 2022 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has received an order for a Wally security ..."
-publishedDateTime: 2022-02-11T13:57:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/02/g25564915/robotic-assistance-receives-order-for-wally-security-robot-from-fortune-500-logistics-company"
-webUrl: "https://www.benzinga.com/pressreleases/22/02/g25564915/robotic-assistance-receives-order-for-wally-security-robot-from-fortune-500-logistics-company"
-ampWebUrl: "https://www.benzinga.com/amp/content/25564915"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25564915"
+publishedDateTime: 2022-02-11T13:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-robotic-assistance-receives-order-wally-security-robot-from-/2022/02/11/9543937.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-robotic-assistance-receives-order-wally-security-robot-from-/2022/02/11/9543937.htm"
 type: article
-quality: 65
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Security
-
-images:
-  - url: "https://www.benzinga.com/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "AITX unit, Robotic Assistance Devices bags order for Wally Security Robot"
@@ -45,6 +37,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ix7fCPLdf78WP83PyUr7iDjkUC4X0XY7DweW+KKUdZe6igF0VFB4IPzAD3GSqCbMH7/B0hlyspcaeHGe+FG78NKlk8/9s+Ms8yYX+SJ5wB3mR3deccwmixG3+hGzNon0yh92yH739pe1sKLJaokx915E8XmiI7eVKwHPvf21FVi8oYlj+ZIUA59Mgew+q2cxdGD7JsqZ+ayD4jJ/5KkbFsZJhFLIJmLdKwaucwiGR27QRSoOIze36wBX52zckGhcRgiWfTHOpCNW1xr9kEfeycRxUzFkqrRwB0qscEcxRLarC93eYCuFB0jmK9wikOyx7dfaNqxXhpi9RMpYksO6uM3Ep+KTTbq6j4mgkTDiTpI=;S2gvebWcUsJD6Rf/akqnQA=="
+secured: "fdeoe3g0+mB0BVD274z+OGc26egrH8M0fNRDmRqD5n33lEiB9MTEpbd5B6wBTftP4zFW6YPp+LysSR8sWIGLMGdASzAyKNHG9YQUslenvjsjCFglQVK4lLC74zCECuih5A9UI/oOdHOjwKSWe230GfXO1bFISyJWJ112U79wICbadXmHE0Pzmqy61ApIsJsHUDdaddo0DaKeYV8pmlsAYiKqqN+uB4qwAUZyJBnuGmgVna/PQAd0LuRCDmjEhYFoic/xRY4UwjaItIIr1oBRUt9w7aQUgV1sqCry8Nv2pUF1UkSOuEPMTPZIDhIAfgnxeyilLF6I4Y4X9NGr9Pm41ysgPrHzZFXA2djuyBUtlsU=;JpawFz/awUkzj8WHMcFqZA=="
 ---
 

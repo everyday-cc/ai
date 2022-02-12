@@ -2,17 +2,17 @@
 category: news
 title: "Why It was Important for IRS to Remove Facial Recognition"
 excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-publishedDateTime: 2022-02-11T09:48:00Z
-originalUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
-webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+publishedDateTime: 2022-02-11T10:08:00Z
+originalUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: Info Risk Today
+  domain: inforisktoday.com
 
 topics:
   - Computer Vision
@@ -909,6 +909,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "dVgU4oHwT81npuhQinXwKkrKCPiNgpHYmLTyMYFn1cqj7UpB2KMBPxko1TK1tafaREyMH1bnQUVj6zcBXY7IU1+KF3EpEGT+NPhHEZLQZQKchPtLuZh+zh23TNfgb4lPrdHDxwnnIvv90U5B5XQLT946uABmreiZjWA3qN8gyABuUehiuXfKh4P7nJ4VHyIAT8WqYkbmNyaH2ZhiOCY/K7fgUN3ibuC44dKk6x24ZQytO2OW7jWQjjy8mdGs5Ytuxm/EuXdwOLDVMbKqrJBYbsD1jbvfx2a3viKMRDJOsCcbw8I8qbumjHL5e93ZyuUadBMMqW7+ziP7K6zfyEvWzC2pAhZ3tiBn2Yg/Bf0YNyY=;G7Ppfkgs64RDU09JTFG1og=="
+secured: "hpJRWr6oc2gB+DH3MAL4EiMVRxHtaKrm2jwLtD1HFVtegns+ggkgwzj+fLI6wWXfC3iaXQ39CfITPpoXI+SxJj4RdKwFDfCnyPkeXllgwgGrZdcLhxiJ9v3vUKecCmJAYCAOc97eEzrVljVQSJoyp/6iGNHOw+5vTNiZoGyEcfcBqVNVb5w012zC80yZe8e9QX8gci9U7sdv9NqfRGKMisqkIixeLSPjiD9FBThWJZbSbpAV/nPlBb2OoDna/WP4MzoyirpSGZVbppkREYdvZKKrP0kZYWTioSRLWwzmz8za2oK5vRJsHixGfqQTeOe2OOf2dIHRpetUcnuIed6iq3et+hKgfVprPr5cstpRErM=;ZNVpJ16q5YWha3gCKM4mPw=="
 ---
 

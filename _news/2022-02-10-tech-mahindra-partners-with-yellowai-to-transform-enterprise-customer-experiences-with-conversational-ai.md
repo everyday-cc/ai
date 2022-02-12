@@ -39,22 +39,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "AI-based powerline inspection software levels up to support utilities in navigating impact of climate change"
-    excerpt: "The Sharper CORE Living Digital Twin is Sharper Shape’s AI-based proprietary cloud software which automatically centralizes, stores, and visualizes all collected historical and real-time asset, vegetation, and environmental data to provide a highly ..."
-    publishedDateTime: 2022-02-07T13:21:00Z
-    webUrl: "https://www.suasnews.com/2022/02/ai-based-powerline-inspection-software-levels-up-to-support-utilities-in-navigating-impact-of-climate-change/"
-    ampWebUrl: "https://www.suasnews.com/2022/02/ai-based-powerline-inspection-software-levels-up-to-support-utilities-in-navigating-impact-of-climate-change/?amp"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/02/ai-based-powerline-inspection-software-levels-up-to-support-utilities-in-navigating-impact-of-climate-change/?amp"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 38
-    images:
-      - url: "https://www.suasnews.com/wp-content/uploads/2021/05/sharper-shape-inspection.jpg"
-        width: 1121
-        height: 625
-        isCached: true
 
 secured: "NpXOIv3d4FM9yvFzAnSHoiGFtkoryQBkUtgLH7+6+DJKpK2mmJ82rrXdzmgY+YOHZkGJWKk3A8EW+PkJCjpxuSP1f8N2yRscBgbthgJFWn3NmxtheKxHMNMcxpPlqdfZetnXcJA9VF/76oeONuKyorbVoPiVrO0siI7h+t7Ia1C3l1+Deti48xxMOumll7yg11my9VkdWWRpKWB/x81WCGj/JLumRC6bFnyCTp5olu49+zX7nDM2mmE7t4GhnX9j20Iav4YpTbp+hLyWXjIqpGJdF9sPaiu2I5dYhZ/7MpfV4711fpC6ZGIzPzILqLxbH8nqTye/ohxGaqMrP6njKayqI5i0sEnFOXAHqgesaTN6OkFdFz3JPpvyzN8xMIsrKAsZmqrQIjsoXwkRuSnYxTkUh3mdD8N1Wg2KxefDsiRP1QpSBqe4azvaTfgmq9KVZNlcQRb+xBVXJvxP5X7vU/SKr7a17nYlAKHAfAcqvgmPi+M4vrrOJKeQfdrcvCsgIOE9QDdMnM9a5udscw9PIA==;mR6d+15jEjPTK/DN9ZObyQ=="
 ---

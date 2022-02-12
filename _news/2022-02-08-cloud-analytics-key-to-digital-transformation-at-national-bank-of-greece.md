@@ -42,20 +42,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Cloud analytics key to digital transformation at National Bank of Greece'"
-    excerpt: "The self-service data mining, artificial intelligence and machine learning capabilities of SAS Viya, as well as the flexibility of Azure, also help the bank innovate faster by moving from ..."
-    publishedDateTime: 2022-02-07T14:39:00Z
-    webUrl: "https://menafn.com/1103652842/Cloud-analytics-key-to-digital-transformation-at-National-Bank-of-Greece"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/07/PN_d61ef93b-4_Image_In_Body.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Tiger Global invests in AI analytics platform founded by ex-undercover CIA"
     excerpt: "Traditional data science and AI development depend on copying or moving data to a ... Powering the ecosystems built on Concordium, with a special focus on Regulated DeFi and Decentralized Fintech, the CCD token was classified as a payment token by the ..."
     publishedDateTime: 2022-02-10T13:56:00Z

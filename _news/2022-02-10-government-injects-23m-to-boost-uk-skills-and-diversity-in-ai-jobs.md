@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "£23m AI and data courses to train underrepresented groups"
-    excerpt: "£23m in government funding aims to create more AI and data conversion courses, helping young people from underrepresented groups join the UK’s AI industry. Up to two thousand scholarships for masters AI conversion courses, enabling graduates to do ..."
-    publishedDateTime: 2022-02-10T14:49:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/02/10/23m-ai-and-data-courses-to-train-underrepresented-groups"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 37
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/vcMlvfs3M0ivaxUChBJJVuRktlS3TFlnpZF7jgOC.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=72d8a84776f39226e0069198dfcae3ac"
-        width: 940
-        height: 430
-        isCached: true
 
 secured: "bSXZsOhc4x3o0zYORdVSSyTt2czuNHr5DYzjjmhftIwIFZT/eW9AVkhwCkfdh8908rEDNknmO3kizTKZnB2cHu0qMn0HgZFn0DQQMXkukCJpfySZ+dlAOm5Evim7DWZc9cTgXjozDMgOheFMuKQZIxW0VSAp5IiV735bHbv/zMzSZQf3QH7kiyoOgQDKVn9xWOEDJ2EPKBdV4R+lCU0OfcmDEr+hCMt8T8H4GRI08JRU8K3oa02crVkPMamcVNIYQqaPA+9pvd6Y4NKxe9rx+xxNcrIibzi29sXIAWGIRu2haXfLca/xtPCzzMVVjGwkAh2tyTprx+vz+MzRA7KGuG0qRpT0RvUCZXAAWnPos44=;4GYhQBhjtUUs3S8Kpd42Ng=="
 ---

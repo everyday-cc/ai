@@ -52,22 +52,6 @@ related:
         width: 500
         height: 334
         isCached: true
-  - title: "CORRECTING and REPLACING WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the Enterprise"
-    excerpt: "WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the EnterpriseWEKA, the data platform for AI"
-    publishedDateTime: 2022-02-07T14:29:00Z
-    webUrl: "https://enterprisetalk.com/news/correcting-and-replacing-weka-increases-funding-to-140-million-to-accelerate-ai-data-platform-adoption-in-the-enterprise/"
-    ampWebUrl: "https://enterprisetalk.com/news/correcting-and-replacing-weka-increases-funding-to-140-million-to-accelerate-ai-data-platform-adoption-in-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/correcting-and-replacing-weka-increases-funding-to-140-million-to-accelerate-ai-data-platform-adoption-in-the-enterprise/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 34
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/CORRECTING-and-REPLACING-WEKA-Increases-Funding-to-_140-Million-to-Accelerate-AI-Data-Platform-Adoption-in-the-Enterprise-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "POET Technologies to Supply Celestial AI with its Optical Interposer-based Integrated Light Engine Modules"
     excerpt: "Celestial AI’s mission is to fundamentally transform computing efficiency with their Photonic Fabric™ technology platform, that uses light for data movement both within chip and between chips. “The customized Optical Interposer platform that we have ..."
     publishedDateTime: 2022-02-10T14:13:00Z
