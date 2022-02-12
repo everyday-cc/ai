@@ -8,7 +8,7 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-10503703/Artificial-Int
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10503703/amp/Artificial-Intelligence-expert-warns-slightly-conscious-AI.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10503703/amp/Artificial-Intelligence-expert-warns-slightly-conscious-AI.html"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2022/02/11/21/54081363-0-image-a-37_1644613554678.jpg"

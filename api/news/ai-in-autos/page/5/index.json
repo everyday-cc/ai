@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-06-self-driving-cars-are-set-for-mainstream-use-in-2018.md",
+      "title": "Self-Driving Cars Are Set for Mainstream Use in 2018",
+      "excerpt": "Waymo has promised to broaden the test ... poised to take control if artificial intelligence needs to be replaced with the biological variety. Here’s a look at three scenarios that experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2018/01/06/self-driving-cars-are-set-for-mainstream-use-in-2018/",
+      "originalUrl": "https://skift.com/2018/01/06/self-driving-cars-are-set-for-mainstream-use-in-2018/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2018/01/waymo_steve_mahan_1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2018/01/06/self-driving-cars-are-set-for-mainstream-use-in-2018/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2018/01/06/self-driving-cars-are-set-for-mainstream-use-in-2018/amp/",
+      "publishedDateTime": "2022-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas.md",
       "title": "University of Hawaii to compete in driverless car racing event in Las Vegas",
       "excerpt": "The University of Hawaiʻi will once again make history by competing in the world’s first-ever, head-to-head autonomous car racing competition scheduled to take place on Friday, Jan. 7.",
@@ -1315,49 +1358,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-autonomous-vehicles-market-is-gaining-momentum-by-key-players-tata-motors-tesla-toyota-uber.md",
-      "title": "Autonomous Vehicles Market is Gaining Momentum by key players Tata Motors, Tesla, Toyota, Uber",
-      "excerpt": "A new research document is added in HTF MI database of 66 pages titled as Autonomous Vehicles Thematic Research with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players and leaders by market share that",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
-      "originalUrl": "https://www.openpr.com/news/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc28132627_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
-      "publishedDateTime": "2021-12-28T00:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

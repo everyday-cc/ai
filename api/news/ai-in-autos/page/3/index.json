@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-20-jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023.md",
+      "title": "Jidu Robocar Teased From Baidu With Level 4 Autonomy, Production Version To Follow In 2023",
+      "excerpt": "Below you can see an earlier presentation from Jidu, where a 3D model of Baidu’s robotaxi was used to explain the nature of a robocar. Hilariously Poor Tesla Full Self Driving Performance In ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/",
+      "originalUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ycrv6Xv4e4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/amp/",
+      "publishedDateTime": "2022-01-20T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-visionnav-targets-european-market.md",
       "title": "VisionNav targets European market",
       "excerpt": "VisionNav targets European market, China. This is a news story by Forkliftaction News, a weekly independent publication about forklifts and the materials handling industry.",
@@ -1343,49 +1386,6 @@
       "provider": {
         "name": "Carscoops",
         "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-california-may-finally-regulate-teslas-full-self-driving-beta-test.md",
-      "title": "California May Finally Regulate Tesla's \"Full Self-Driving\" Beta Test",
-      "excerpt": "California allows vehicle manufacturers to implement Level 2 systems in production vehicles but has much more stringent requirements for tests of any semi-autonomous system meant to move further up the chain.",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132",
-      "originalUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2c5c03495b6e5210a97c22476d2fec12.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp",
-      "publishedDateTime": "2022-01-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
         "images": null,
         "publishers": null,
         "authors": null

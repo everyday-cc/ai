@@ -331,7 +331,7 @@
       "originalUrl": "https://www.wired.com/story/new-way-ai-see-3d/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -371,7 +371,9 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
       ]
     },
     {

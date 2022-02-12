@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-29-waymo-sues-california-dmv-over-robotaxi-safety-data.md",
+      "title": "Waymo Sues California DMV Over Robotaxi Safety Data",
+      "excerpt": "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
+      "originalUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
+      "publishedDateTime": "2022-01-28T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret.md",
       "title": "Waymo sues state DMV to keep robotaxi safety details secret",
       "excerpt": "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars",
@@ -1342,49 +1385,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023.md",
-      "title": "Jidu Robocar Teased From Baidu With Level 4 Autonomy, Production Version To Follow In 2023",
-      "excerpt": "Below you can see an earlier presentation from Jidu, where a 3D model of Baidu’s robotaxi was used to explain the nature of a robocar. Hilariously Poor Tesla Full Self Driving Performance In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/",
-      "originalUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ycrv6Xv4e4E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/jidu-robocar-teased-from-baidu-with-level-4-autonomy-production-version-to-follow-in-2023/amp/",
-      "publishedDateTime": "2022-01-20T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

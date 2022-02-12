@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Azure Data Scientist Associate certification guide"
-    excerpt: "... for individuals who have expertise in applying data science and machine learning to implement and run machine learning workloads on Azure. The certification requires passing the Designing and Implementing a Data Science Solution on Azure certification ..."
-    publishedDateTime: 2022-02-07T10:00:00Z
-    webUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html"
-    ampWebUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/02/certification_education_knowledge_learning_silhouette_with_graduation_cap_with_abstract_technology_imagery_by_monsitj_gettyimages-862136832_1200x800-100766599-orig-100850417-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Westpac signs five-year deal with Microsoft to lift it further into the cloud"
     excerpt: "Under the partnership, Westpac will adopt Microsoft Azure as it continues to expand the use of cloud-based systems, and look to bring its application, data, and AI capabilities together in a \"more cohesive manner that can be scaled across the enterprise\"."
     publishedDateTime: 2022-02-07T23:19:00Z

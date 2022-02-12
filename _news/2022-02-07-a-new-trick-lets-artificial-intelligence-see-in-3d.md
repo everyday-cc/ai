@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/new-way-ai-see-3d/"
 ampWebUrl: "https://www.wired.com/story/new-way-ai-see-3d/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-way-ai-see-3d/amp"
 type: article
-quality: 89
-heat: 89
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://media.wired.com/photos/61fda5afb12e3a968eaa52e6/master/pass/business-ai-see-1301850020.jpg"
@@ -30,6 +32,6 @@ images:
     height: 1350
     isCached: true
 
-secured: "BBLcsPO46Kt7rqt8SfqzGVsM9Kpsi5/3hqbJBIYlC0DsmrZ7jCIZ/oGZuaOFyx2UYhzSYgNiqkisp4Y2/6MJ/FQ8fzz9dVsC0HMdEwfcbQVd9gTt5R3+JHPGESA05e9SL+t0cZcqORzCy7udYcRvAklA3RIlU+Q09tP3nHX0JjNeOmxCiiCLrCCOxZ6PDA/7tGWIUQMBPOoOG00p9lsIOWr1zzq9dd9R3bnW5XNjtVTuXr0BQKB6iFIXtbMFr97oLF5kDI2zEKPpbkYIv5AoSy/NP0Aly4OLW2gZCYubeD2TbFvsdtIJYJaw0/9pTR8B5o7rX09X9rOU/PvKNSP8qFGL9k1eGBTqKZlEIiTs2sA=;OIQuvUoTHLgXJo0/ZK1z8w=="
+secured: "riCDuCWiykQUPwLfcC7Rh+wQwAtu2NYeSBZBSpINgFsacwNFVL3otp19KnifPm8Myamgu7gSQ31/usQrGwEk/3s1LSCGqLFm+VxmP8/WzmmJiNkHYgC7hYAxgfxUpIcnp4dUskRjPGTxHhinerorExzdNS7+tQZPBINCnzfPfYhvPOstA3gssViwvfiFKBq/iCqpQVhVUG2N2kOItUszbyE05i++huC9n5JZgBCldRCIYOgoZ5VIxKT7S5kmNBLbA72z3cp8U+MTrrODIsIXRh4hbfcIPsOOAPcpzKIWpN8CZe0uYEmj3DGnL2TW16HqULsweyIaqXXujFhhGwQdnQv8qO4bbk+2TJf0soFJOXZ2wUbP440P74hVYZpwwd2H4nzxtQx/l6UYrOMs9i+mTLXBnM9vZIee7FWUg+pcxpelk4yR2HksKdJvsSSqEguhIX3FIvmoFjTjVnaK4+kh+HkOXyvZr//XAMi/rfILsFasFzX5OGhFB71JWRnjY4gZWmRByYUKVt1unKjRu1zOOA==;Zywh+Xl4zLB+wd+xWHFW/Q=="
 ---
 
