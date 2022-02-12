@@ -1,27 +1,27 @@
 ---
 category: news
-title: "ID.me Announces Options for Selfie Deletion and Identity Verification without Automated Facial Recognition"
-excerpt: "Today, ID.me announced a new option to verify identity without using automated facial recognition and will make this available to all public sector government partners. “We have listened to the feedback about facial recognition and are making this important change,"
-publishedDateTime: 2022-02-08T21:53:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-df9830680f7c2d127d0987319ef7e0cf"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-df9830680f7c2d127d0987319ef7e0cf"
+title: "Virginia lawmakers move to end ban on police facial recognition technology"
+excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
+publishedDateTime: 2022-02-12T15:32:00Z
+originalUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
+webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
 type: article
-quality: 21
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WWBT
+  domain: nbc12.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
+    width: 980
+    height: 654
     isCached: true
 
 related:
@@ -526,20 +526,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-12T15:32:00Z
-    webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 37
-    images:
-      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
-        width: 980
-        height: 654
-        isCached: true
   - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
     publishedDateTime: 2022-02-09T19:48:00Z
@@ -567,6 +553,20 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/02/08/9b/18/c0/f5/bb/72/8a/34/00P4y000011p6OsEAI.png"
         width: 272
         height: 270
+        isCached: true
+  - title: "ID.me Announces Options for Selfie Deletion and Identity Verification without Automated Facial Recognition"
+    excerpt: "Today, ID.me announced a new option to verify identity without using automated facial recognition and will make this available to all public sector government partners. “We have listened to the feedback about facial recognition and are making this important change,"
+    publishedDateTime: 2022-02-08T21:53:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-df9830680f7c2d127d0987319ef7e0cf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
     excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."
@@ -615,6 +615,6 @@ related:
         height: 337
         isCached: true
 
-secured: "h6zq8trpApJ/OHsdEjeJ82K6hx046IRdOsMIgTL0ONPkPpN/nq3s70d8TBNMIDX+INzosDHaRSTh5sGJxIPt+8itRj2Na2Yhfs+ITgsJfTxuAJAJsOZntFzdL9P3V4gZbanST1wtGfO7LjgAVRkmENZTReeMmVtjaXiWFbfThI4E81j8ewH6Ti85DizBZKSb7Fn8dq4MyL1zijWTDHI5923/fYhzR4S3WjhDF0PelVMxlWT4/pBKv03IMK/sECvYBvCsgWjiR9RcYQaSM3J0AYfuJoOm/M8YGaBsX/7LZ27N47aKJaEYz2RyIykWoYuLLGjAAJxj+DNlX1IqBQ2ylz8QKd8y+S5oZCsTiisqrJ4=;D2My5gJlg6Vg/kukwwbliw=="
+secured: "FgW3ljE38kB32HA1oRmHQuoQmgvKiG73I1z03Q0zPR0g/kaX6iwE06WeC4l8XGGlx6vcMRn7fZHF1Coi4XTlE20KWv0LO5jYB9VfJZWJfmm0bC/xk/mL8leoIAz8kzxWZZ12uFIvZVeQOVHLyUYZ/SeM98smgmrJVHgVuHAy7N7X9k2DYdh00MkoOvErIEWST4LgwOj7i8Lpf6wSbZf9V+mUF8Bq7/CwX2JU/s2et8WliY10AAEi7hSYR18NZmyEsKh9B0A7aGwq/l4B4drOlQk2missBG12W4X4llQ4wDTJOhWksUrtHEAjmKf30mOr4G4lSy3xgdwTSoFVJ0tdtgXeCItP31HTMcYpuU2kmCs=;P6VJjyK6GSYAkvBIkzq7gg=="
 ---
 

@@ -155,22 +155,6 @@ related:
         width: 4500
         height: 3068
         isCached: true
-  - title: "Face off: IRS scrap facial recognition after blowback"
-    excerpt: "No one should be forced to submit to facial recognition to access critical government services,” said Senate Finance Chair Ron Wyden said in a statement after the IRS"
-    publishedDateTime: 2022-02-08T01:42:00Z
-    webUrl: "https://www.bostonherald.com/2022/02/07/face-off-irs-scrap-facial-recognition-after-blowback/"
-    ampWebUrl: "https://www.bostonherald.com/2022/02/07/face-off-irs-scrap-facial-recognition-after-blowback/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2022/02/07/face-off-irs-scrap-facial-recognition-after-blowback/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2022/02/bhr-z-irs0208-01.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "IRS scrapping facial recognition plan after widespread backlash"
     excerpt: "The Internal Revenue Service has agreed to abandon its plan requiring taxpayers to verify their identity through facial recognition technology provided by a private company, after privacy advocates, taxpayers, and lawmakers from both sides of the political ..."
     publishedDateTime: 2022-02-08T03:16:00Z
@@ -526,6 +510,20 @@ related:
       - url: "https://www.virginiamercury.com/wp-content/uploads/2018/08/charlottesville-pre-rally-4.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
+    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
+    publishedDateTime: 2022-02-12T15:32:00Z
+    webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
+    type: article
+    provider:
+      name: WWBT
+      domain: nbc12.com
+    quality: 37
+    images:
+      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
+        width: 980
+        height: 654
         isCached: true
   - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
     excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
