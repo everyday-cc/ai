@@ -25,47 +25,201 @@ images:
     isCached: true
 
 related:
-  - title: "Global Industrial Robotics Market to Surpass US$ 69.1 Mn by end of 2027, Says Coherent Market Insights"
-    excerpt: "Moreover, increasing adoption of AI robotics in the industrial sector is also expected ... For instance, in February 2021, Symbio Robotics, a U.S.-based industrial robotics startup, raised US$ 30 million in funding. Moreover, increasing investment in ..."
-    publishedDateTime: 2022-02-08T18:46:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industrial-robotics-market-to-surpass-us-69-1-mn-by-end-of-2027-says/article_5070fd8b-1ab7-51fd-874a-100b12d40ff4.html"
+  - title: "Global Deep Learning in Healthcare Market 2021 Key Players, Industry Size, Share, Segmentation, Comprehensive Analysis and Forecast by 2027"
+    excerpt: "Feb 08, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has presented a new report entitled Global Deep Learning in Healthcare Market Growth (Status and Outlook) 2021-2027 that provides insightful data about the market and an in-depth and crucial ..."
+    publishedDateTime: 2022-02-08T20:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-healthcare-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027-2022-02-08"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market 2022: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2022 (The Expresswire) -- “Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments and market potential ..."
+    publishedDateTime: 2022-02-08T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2022-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 38
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d4/2d499fad-25d4-5e32-a92d-0955ecb91282/6166f8a0cc6a6.image.jpg?crop=1213%2C637%2C143%2C0&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot Sensors Market revenue to cross USD 5 Bn by 2028: Global Market Insights Inc."
-    excerpt: "Growing advancements in Artificial Intelligence (AI) and robotic sensor technology allow flexible thoughts and motion in robots. These advancements also include the performance of a variety of entertainment tasks, such as playing music, watching TV shows ..."
-    publishedDateTime: 2022-02-09T08:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robot-sensors-market-revenue-to-cross-usd-5-bn-by-2028-global-market-insights-inc/article_8f49d272-5cd1-58d4-a7cc-8d4c1014ba31.html"
+  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
+    publishedDateTime: 2022-02-08T12:40:00Z
+    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/b0/8b053879-52e3-5eda-8af9-faa6c5b19596/62038a80d0245.image.jpg?crop=1200%2C630%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Overview, Merger and Acquisitions , Drivers, Restraints and Industry Forecast By 2027"
+    excerpt: "Artificial Intelligence in the Education Sector Market Size – USD 1.08 Billion in 2019, Market Growth – at a CAGR of 43.8%, Market Trends – Rise in venture capital funding in EdTech companies. Growing demand for artificial intelligence (AI ..."
+    publishedDateTime: 2022-02-08T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Google-office-logo-AFP-01-e1643044163307-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market 2022: Industry Trends, Demand, Business Growth, Future Scope, Investment Opportunities and Forecast 2029"
+    excerpt: "The newly published report is titled, Global \"Artificial Intelligence in Energy Market\" Research Report 2022that"
+    publishedDateTime: 2022-02-09T02:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2022-industry-trends-demand-business-growth-future-scope-investment-opportunities-and-forecast-2029-2022-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot As A Service Market to Reach US$ 41.3 Bn by end of 2028, Says Coherent Market Insights"
-    excerpt: "The highest in the industry, the new robot will enable customers to maximize the use of their warehouses. Growing use of advanced technologies such as automation, artificial intelligence, and machine learning for reducing cost is expected to offer ..."
-    publishedDateTime: 2022-02-09T18:51:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robot-as-a-service-market-to-reach-us-41-3-bn-by-end-of-2028/article_3906a1aa-9be1-5394-8887-6ad94b2c99ee.html"
+  - title: "Machine Learning as a Service (MLaaS) Market, Size & Share, Growth, Trends, COVID-19 Impact Analysis, and Forecasts to 2028"
+    excerpt: "Machine Learning as a Service (MLaaS) market was valued at 2103.3 million in 2021 and is projected to reach US$ 7923.8 million by 2028, at a CAGR of 20.9% during the forecast period Machine Learning as a Service (MLaaS) Market 2022-2028 A New Market Study ..."
+    publishedDateTime: 2022-02-11T18:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-size-share-growth-trends-covid-19-impact-analysis-and-forecasts-to-2028"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 28
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d4/2d499fad-25d4-5e32-a92d-0955ecb91282/6166f8a0cc6a6.image.jpg?crop=1213%2C637%2C143%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/fa80beb1e7cecbae551dc30ef613b59d97e0869c-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global facial recognition market to grow with a CAGR of 17."
+    publishedDateTime: 2022-02-09T06:52:00Z
+    webUrl: "https://menafn.com/1103662399/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324610"
+        width: 318
+        height: 250
+        isCached: true
+  - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
+    excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
+    publishedDateTime: 2022-02-09T08:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence Market Report 2022, Industry Trends, Share, Size, Demand and Future Scope 2027"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 11, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence Market: Industry Trends, Share, Size ..."
+    publishedDateTime: 2022-02-11T20:46:00Z
+    webUrl: "https://menafn.com/1103679983/Artificial-Intelligence-Market-Report-2022-Industry-Trends-Share-Size-Demand-and-Future-Scope-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/11/EP_0560bimage_story.jpeg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Robot Software Market Size In 2022: Recent Innovations, Top Countries Data with CAGR Value & Growth Insights to 2028"
+    excerpt: "Germany is leading the market due to presence of key players in the country such as ABB, KUKA, and Kawasaki Robotics. The extensive research and development of artificial intelligence in the region has benefitted these key players in upgrading their ..."
+    publishedDateTime: 2022-02-08T12:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robot-software-market-size-in-2022-recent-innovations-top-countries-data-with-cagr-value-growth-insights-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://markettrendandforecast.files.wordpress.com/2022/02/c-m-ivfofaeghqu-unsplash.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Data Monetization Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
+    excerpt: "For this, GE Healthcare's partnership with Amazon Web Services (AWS), which provides the ability to deploy machine learning solutions at scale through the Amazon SageMaker machine learning platform."
+    publishedDateTime: 2022-02-08T14:39:00Z
+    webUrl: "https://menafn.com/1103658542/Data-Monetization-Market-Global-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?796841"
+        width: 443
+        height: 250
+        isCached: true
+  - title: "Worldwide Smart Hospital Industry to 2026 - Modernization of Healthcare Infrastructure is Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The “Global Smart Hospital Market (2021-2026) by Components, Services Rendered, Application, Connectivity, Artificial Intelligence ... Factors such as technological advancements, increased healthcare spending, a sedentary lifestyle, more awareness ..."
+    publishedDateTime: 2022-02-11T16:54:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-0cfa55926bc24e99aafea9847e2b3ded"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Facial Recognition Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, Latest Key Players | NEC Corporation (Japan)"
+    excerpt: "The security applications of facial recognition are motivating Facial Recognition Market in 2020. The AI and analytics reports are made"
+    publishedDateTime: 2022-02-09T10:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-study-reveals-growth-factors-and-competitive-outlook-for-future-analysis-latest-key-players-nec-corporation-japan"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Voice Assistant Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, and Foreseen 2027"
+    excerpt: "The Voice Assistant Market is anticipated to grow by US$7.30 Billion by 2025 rapidly growing at a CAGR of 24.32% during the forecast"
+    publishedDateTime: 2022-02-09T11:18:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-assistant-market-study-reveals-growth-factors-and-competitive-outlook-for-future-analysis-and-foreseen-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/semiconductors-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "eGO/QehH/MjMamSDNwHuseAqh9jcDD8NQM/K73ehXx/xqC2maALmP3pBBZNZJmHRhjunBmKFAzh/A8r0HnhcFifDQ3PIpDm4rMif8g8Lwhh6SNFEiWdqsC8p4DiNT9eLH7Efp1J6+cR+RX51Z5DwwtiCH9nMSaE9DBGDVSKR4K+V+SvUMZ4UB/DAIVPmXcYfguxBUSMNy11KejhuHYKuXfAcP+2Mqx+REP2yYI966ArMyk2rsUrviK0MXx7apO5FJoeRDTYVOYEtw4minmpAyIRKtyz6+R0aRUtM3xQUxzs0eHEwsD1quuDqfMY8XdcLecgPUbjR34y4lPrm2LLy2do+E/8mmud2WqW2aphI82Q=;IT+lgPy36saqjg3YA/Pdew=="

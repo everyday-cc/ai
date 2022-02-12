@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
-    excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
-    publishedDateTime: 2022-02-07T21:44:00Z
-    webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
-        width: 363
-        height: 250
-        isCached: true
   - title: "Indian AI-SaaS start-ups can create market value of US$ 500 billion by 2030"
     excerpt: "According to a survey by venture capital firm Stellaris and the World Bank-backed International Finance Corporation (IFC), India's artificial intelligence (AI) and software as a service (SaaS) start-ups are well-positioned to create a market value of more ..."
     publishedDateTime: 2022-02-11T05:19:00Z

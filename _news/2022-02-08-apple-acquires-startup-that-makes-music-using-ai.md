@@ -80,22 +80,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Apple acquires startup with tool that creates songs with AI"
-    excerpt: "Apple on Monday acquired “AI Music,” a startup that has developed a platform capable of creating songs using artificial intelligence. The acquisition, according to sources familiar with the ..."
-    publishedDateTime: 2022-02-07T22:35:00Z
-    webUrl: "https://9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that-creates-songs-with-ai/"
-    ampWebUrl: "https://9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that-creates-songs-with-ai/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that-creates-songs-with-ai/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Streaming-music-services-should-pay-artists-more.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Spinny acquires AI-powered car connectivity solutions startup Scouto"
     excerpt: "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space. The company, however, did not disclose the amount it ..."
     publishedDateTime: 2022-02-10T09:18:00Z
@@ -207,20 +191,6 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1644664901_schoolnet1.jpg"
         width: 558
         height: 372
-        isCached: true
-  - title: "Apple Acquires AI Music Startup That Can Generate Dynamic Soundtracks"
-    excerpt: "Apple has acquired AI Music, a startup that uses artificial intelligence to generate personalized soundtracks and adaptive music, reports Bloomberg. AI Music developed an \"Infinite Music Engine\" meant to create bespoke audio solutions for marketers ..."
-    publishedDateTime: 2022-02-07T22:49:00Z
-    webUrl: "https://www.macrumors.com/2022/02/07/apple-acquires-ai-music/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/mZvApy6kL4CU6017nrjifizHLB8=/1600x/article-new/2022/02/ai-music.jpg"
-        width: 1600
-        height: 780
         isCached: true
   - title: "Apple acquires UK start-up that makes dynamic music using AI"
     excerpt: "Apple could use the start-up’s technology to create new music for advertising, or dynamic soundtracks that respond to the user’s heartbeat or mood. Tech giant Apple has reportedly acquired AI Music, a UK start-up that uses artificial intelligence to ..."

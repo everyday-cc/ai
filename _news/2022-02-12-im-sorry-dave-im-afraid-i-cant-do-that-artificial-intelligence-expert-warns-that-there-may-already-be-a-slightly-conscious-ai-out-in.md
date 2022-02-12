@@ -44,6 +44,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "OpenAI top scientist says AI might already be conscious. Researchers respond furiously"
+    excerpt: "According to UNSW Sidney AI researcher Toby Walsh ... and is just a sales pitch to claim magical tech capabilities for a startup that runs very simple statistics, just a lot of them.”"
+    publishedDateTime: 2022-02-12T14:55:00Z
+    webUrl: "https://interestingengineering.com/ai-might-be-conscious"
+    ampWebUrl: "https://amp.interestingengineering.com/ai-might-be-conscious"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-might-be-conscious"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 49
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/o2GzDZZowp/sizes/ai_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "B+g94KuuPVSjWFjxOSwdAKswsw3C7i7BuO8bg09xKwFfw6IhcKKW1OoOOrXPUEu7J/H6DSrbiLKsJUr1qm0iPv7bPleTzOrFIN9shzdzYpyD4LAkHklAFKCUsC8cvVJY5KTlQRIhlM/N/eP2RO4dx7aOQxEKl6fdL29KEj2gmpQsj+4JXbmLyqzGxStfGBxxlesGQI6/5MKnhEPVFkc3iogTxk7cnn3rdmyGUn4Mzga/IFS3b1laAd3VyN6OdfX2eUerpAbx7dhrTsZJwmSMXZcMO4iQ48hg34zfaiF6vDFgtOIX1mzTpgtoxi6xAvkgpDIwmOqRCPWXReso0NUnSRFcbyo0puxSk7G+01TtIILpxEj6+5gR8S62sqni4HK3e8UAKE0kueATYUsIPjxn81MVNw4o4YKgqJVGfZGziiMYSssqNwQKsFTZTA1KAPwujaoSKAooIN1ohUeHLbfwDrcF5S5VRzPHTjse1A1piYaGYHCMxi3N7Oyq+1MlYfZXSm0/Hn9RTwb8hMlgZitiOQ==;6YllQqEwLB0oEg+AN2gIPw=="
 ---

@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "5G, internet, AI on agenda for Feb meeting of global industry leaders, policymakers"
-    excerpt: "Global industry leaders and policymakers will meet in Geneva at the end of February to discuss technical standards to drive sustainable development in fields such as 5G, the internet and artificial intelligence (AI), the International Telecommunication ..."
-    publishedDateTime: 2022-02-07T22:56:00Z
-    webUrl: "https://www.aa.com.tr/en/science-technology/5g-internet-ai-on-agenda-for-feb-meeting-of-global-industry-leaders-policymakers/2496515"
+  - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
+    excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."
+    publishedDateTime: 2022-02-10T20:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2022/02/jauhar-vipra-frt-constitutional-challenges-law-enforcement/"
     type: article
     provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 31
+      name: Jurist
+      domain: jurist.org
+    quality: 19
     images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/08/thumbs_b_c_31c01ad62ff34f712060470a318be67d.jpg?v=014815"
-        width: 667
-        height: 375
+      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2022/01/facial_recognition_1643222271.png"
+        width: 1280
+        height: 1066
         isCached: true
   - title: "Israel's Leading AI Week 2022 Showcases Global Industry Trailblazers and Exciting Future in Artificial Intelligence"
     excerpt: "This sentiment was mirrored by Professor Eviatar Matania, Co-Head of Israel's AI Initiative, who said, \"The desire in generating a holistic program for Israel in artificial intelligence was because of the understanding that AI…is going to dominate the ..."

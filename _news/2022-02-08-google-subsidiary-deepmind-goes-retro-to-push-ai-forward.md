@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - Google AI
 
 related:
+  - title: "Deepmind’s New AI Code-Generation System Is Now at Par with an Average Human"
+    excerpt: "“AlphaCode achieved an estimated rank within the top 54 percent of participants in programming competitions by solving new problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding ..."
+    publishedDateTime: 2022-02-12T13:22:00Z
+    webUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/"
+    ampWebUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 71
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2019/06/artificial-intelligence-ai-vision-touch.jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
   - title: "How to impress recruiters at DeepMind, the futuristic Google research unit creating AI programs that rival humans"
     excerpt: "DeepMind is Google's London-headquartered artificial intelligence research unit. Its groundbreaking research includes an AI program that predicts a protein's structure. Insider asked four of DeepMind's talent and research leads from its Applied team what ..."
     publishedDateTime: 2022-02-08T00:00:00Z

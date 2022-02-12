@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-12T11:30:00Z
 originalUrl: "https://analyticsindiamag.com/good-old-fashioned-artificial-intelligence-and-other-weird-and-wonderful-ai-trivia/"
 webUrl: "https://analyticsindiamag.com/good-old-fashioned-artificial-intelligence-and-other-weird-and-wonderful-ai-trivia/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/ai-trivia-v_11zon.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "1Werjd+7Nara7pmLKB0rK/ZuWF71LyqgwBjfo1iWIpSxY0lrgDIb4vPrCBPJRy89D/IwyhrmHaMh76JMt78OwxQYtNAejK8EHKAWxbDBRu0Sh9FJtjkCmmPXhDJjT2OyFYHwKued6wDb8PuoS98kN6Ve3uCTiFfXRGaaRQFkn94796+J4osJZ0a5xld0cigHYa0zok1TtQ+GRj/mQzSXwhkySyGXHg49Qf79YMT340h5o0oVyJM5MYi2ZmUaDyvoHpIAorCOe6+S1k5lcG4l6tBKDrGMRbRh/ISu9nTJChxm5cYo4Xyb3z0C6Q2BYXSwkZjhtMXz+OGDstjYc0EG1l06NLdjGLTeK7xZtKtqkZM=;vW12Oq5gLjxQ8SFimkxOLg=="
+secured: "TUak9h1XOvWSVCaKXr/GRGLbslALCcUTPZZpwHj0IrR/PWY5y5LtoDUyAT6saFl553/d8hdDMv9ysSTS4d4pPh6zbFEC3nX1cL7aF0dCg3lSpCO8OTCwFwaLxvIYdXqtnGRgINpchnxj0Ylga7erY3aDPkHAMsTjr6onHybZgXViHsVsPUkzVPzlj9A9+7Xagk/lugcarjPUEH7g2ch7iq5TEsu4E/W1hu6ovOiG1Lg2qYw6rK+bT6ct45HjPYhnVaB/MBm2wRdhqdUykkPMralq/Y809yWzRb7h9V7yKHBFo1JioGqFSGuTS08L0brShzJuk2zmkhPwEZZ87wiarCEFY0ZlF6f0VdBhu9CwvXJWhAPSFY7JlaViVglRqrvjydpJ7dqLxiSqqNT2By2r33BkSuyi92ULHPISwSGCDY1Bz8BAxrjYtUWO3nBbcGRTgNspRgFHTML/ySavs/tdTZRA9Ug9Yu/c3tUw6WCSMa+/ggHizU6GQSOE2E7dWY7l9YmB7ZJ0EItIHkzkpq+B3A==;4r0mDj8+pf0+ChZBTzASvw=="
 ---
 

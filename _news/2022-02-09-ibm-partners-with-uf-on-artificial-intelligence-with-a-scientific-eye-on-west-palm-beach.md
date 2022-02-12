@@ -28,15 +28,6 @@ images:
 related:
   - title: "IBM partners with UF on artificial intelligence, with a scientific eye on West Palm Beach"
     excerpt: "IBM, which launched its clandestine “acorn” project from Boca Raton in the early 1980s, may return to Palm Beach County in partnership with the University of Florida and its ambitious pursuit to become a leader in artificial intelligence. IBM ..."
-    publishedDateTime: 2022-02-07T22:14:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/2022/02/07/uf-campus-west-palm-beach-include-ibm-artificial-intelligence/6692176001/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 8
-  - title: "IBM partners with UF on artificial intelligence, with a scientific eye on West Palm Beach"
-    excerpt: "IBM, which launched its clandestine “acorn” project from Boca Raton in the early 1980s, may return to Palm Beach County in partnership with the University of Florida and its ambitious pursuit to become a leader in artificial intelligence. IBM ..."
     publishedDateTime: 2022-02-09T17:38:00Z
     webUrl: "https://www.dispatch.com/story/news/2022/02/07/uf-campus-west-palm-beach-include-ibm-artificial-intelligence/6692176001/"
     type: article

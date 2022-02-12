@@ -281,6 +281,59 @@
       ]
     },
     {
+      "path": "_news/2022-02-09-global-deep-learning-in-healthcare-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027.md",
+      "title": "Global Deep Learning in Healthcare Market 2021 Key Players, Industry Size, Share, Segmentation, Comprehensive Analysis and Forecast by 2027",
+      "excerpt": "Feb 08, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has presented a new report entitled Global Deep Learning in Healthcare Market Growth (Status and Outlook) 2021-2027 that provides insightful data about the market and an in-depth and crucial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-healthcare-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027-2022-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-healthcare-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027-2022-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-nhs-in-england-set-to-trial-a-new-approach-for-ethical-adoption-of-ai-in-healthcare.md",
       "title": "NHS in England set to trial a new approach for ethical adoption of AI in healthcare",
       "excerpt": "Biases in artificial intelligence will aim to be eradicated in a world first as the NHS in England trials a new approach to the ethical adoption of AI in healthcare. Algorithmic Impact Assessment (AIA), designed by the Ada Lovelace Institute, will be ...",
@@ -1308,49 +1361,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-icads-breast-ai-platform-earns-us-department-of-defense-authorization-to-operate.md",
-      "title": "iCAD’s Breast AI Platform Earns U.S. Department of Defense Authorization to Operate",
-      "excerpt": "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced that the Company’s breast artificial intelligence (AI) platform was granted an Authorization to Operate (ATO) from the U.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-47f7256a62d08e71d71fe619d9605ddb",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-47f7256a62d08e71d71fe619d9605ddb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

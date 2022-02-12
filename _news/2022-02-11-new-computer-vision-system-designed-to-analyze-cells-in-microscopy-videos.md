@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-02-vision-cells-microscopy-videos.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-vision-cells-microscopy-videos.amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "New computer vision system designed to analyse cells in microscopy videos"
+    excerpt: "Researchers have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in order to characterize and describe the behavior of the cells that appear in the images. These new ..."
+    publishedDateTime: 2022-02-12T14:47:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220211102608.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 48
   - title: "New computer vision system designed to analyse cells in microscopy videos"
     excerpt: "Researchers at the Universidad Carlos III de Madrid (UC3M) have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in order to characterise and describe the behaviour of the ..."
     publishedDateTime: 2022-02-11T14:56:00Z

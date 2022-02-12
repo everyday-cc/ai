@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Snyk: Developers must lead the charge on cybersecurity"
-    excerpt: "Then when you couple that with something like IBM’s core strategy, which is a hybrid cloud approach, which means that our enterprises work with not just IBM’s software and cloud, but also work with AWS’s cloud, work with the Azure’s cloud ..."
-    publishedDateTime: 2022-02-07T22:14:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/"
-    ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
+  - title: "SecureThings.ai Raises $3.5 Million In Pre-Series A"
+    excerpt: "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team"
+    publishedDateTime: 2022-02-09T13:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/417696"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/20220126-DD-SnykIBM-Bill.jpg"
-        width: 1918
-        height: 1080
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Deep Instinct Welcomes Two New Cybersecurity Experts to Executive Leadership Team"
-    excerpt: "NEW YORK, Feb. 10, 2022 /PRNewswire/ -- Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced the addition of two recognized security experts to its executive leadership team. Yariv Fishman joins as Vice ..."
-    publishedDateTime: 2022-02-10T20:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deep-instinct-welcomes-two-new-cybersecurity-experts-executive-/2022/02/10/9543597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "EoroRzCmFL/YZMum3eaJSJup9u2oGqk0ZuwOHm5Y1+ztDwE2TSS9JtPGZtbT8ZUNFpoY//9eNpL4PzkOROVDMzDkps/ZgBFBqQljC2/t/hK+J7/kPqTYm7nnUl5BZNqSq/2oh9DcQqPqA0Wjvby292Mz/kDziNPmnwd4Jk8HAZ0R0Buoa7l9APKtYKwfdGpAs7gxOKabm13sRi5b3cPx5ufQk7WvWdjeFfi6R4tmP9rIJnHGASEGS9fch3vH4JNPkE6ZJ8B43B8zLQyynVp+lI5MmiojZMN0M26DkelH3lKWVc2FNrSCKlDq+cnC1nbJgelmji3ppcgvSVVuJ3cOYBic1+G6pTpTOmMi5tsDP7Zx3orAk5wuYtwhtS/8/DGRfUtBw3NctROqBAMrv5sNbpcqnjAGiFMDy3WL1/K/pns5QS7BZAHiRmtesG8iz4wMuExzdHwle1QkVdCm9AYcxAzT87f7QusqM1ZqHeWNM3Bfq6I4HzvQodvMWvApCaOsnn8+e0VVdnxfTtfXeaiZZQ==;xjLAm48VWBNLHpgww4S5pw=="
 ---

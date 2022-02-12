@@ -40,6 +40,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
+  - title: "Deepmind’s New AI Code-Generation System Is Now at Par with an Average Human"
+    excerpt: "“AlphaCode achieved an estimated rank within the top 54 percent of participants in programming competitions by solving new problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding ..."
+    publishedDateTime: 2022-02-12T13:22:00Z
+    webUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/"
+    ampWebUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 71
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2019/06/artificial-intelligence-ai-vision-touch.jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "DASyDbtvCRs2/8cp9FcAxcj5I9Ilc4oS7idjhzrx+IDWLsQosckVAmoV5yHoa8p/s2nSqQpvseFfpgq4IA/Ow60cVBHQC/cGalmCpgFW5jc+etEwE9ez7gMEwzAVtI3O3tAf1bCkko7HRUrG1kWTra6QvZHmUFmGTLEwVrXGdkwpGcEfZUXy11CxwpF9+df1zVsF7LG0UE7GyoK6DHhH9iBQo/jdmv1E3QMoLiZGEs8dUZ0LwaV9BiCu23h5wpuwL61VrRDw+cu3WUrWoXeaGvCtClmhbWRfMsK8iHq1vwg1cgFr2IhK3Rj7GoWmil7BEToO0Q5f+tB1yWg0NszEpVI3RGMohKJLV1Hwm4fSpraoU96bb+LDB0Or3VB1fMWg8CJkX/9z6URw0eqq8e1pra2oDX4rtB2/2NLKFtaF9QQLsRHaC+04f07X7Vxmu9jGtYpHwDvCJEB30hWaVTNnZphAfLCwyQh2kfxrcK23NP1oOfQBF3xkG241CbHxD5dS6cW8JFXuhnOSSJV3LiSc1w==;QKKXeoTJznv9ZHVcmwBy7g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/conscious-ai-backlash/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/conscious-ai-backlash/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Futurism
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI top scientist says AI might already be conscious. Researchers respond furiously"
+    excerpt: "According to UNSW Sidney AI researcher Toby Walsh ... and is just a sales pitch to claim magical tech capabilities for a startup that runs very simple statistics, just a lot of them.”"
+    publishedDateTime: 2022-02-12T14:55:00Z
+    webUrl: "https://interestingengineering.com/ai-might-be-conscious"
+    ampWebUrl: "https://amp.interestingengineering.com/ai-might-be-conscious"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-might-be-conscious"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 49
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/o2GzDZZowp/sizes/ai_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "'I'm sorry, Dave. I'm afraid I can't do that': Artificial Intelligence expert warns that there may already be a 'slightly conscious' AI out in the world"
     excerpt: "Conventional AI uses input to 'teach' an algorithm about a particular subject by feeding it massive amounts of information. Practical applications include Google's language translation services, Facebook's facial recognition software and Snapchat's ..."
     publishedDateTime: 2022-02-11T20:06:00Z

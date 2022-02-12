@@ -24,103 +24,30 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market 2022: Industry Size, Share, Revenue, Business Growth, Demand and Applications Market Research Report to 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2022 (The Expresswire) -- “Machine Learning Market” provides a comprehensive analysis of the market. The analysis includes market by segments and market potential ..."
-    publishedDateTime: 2022-02-08T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-industry-size-share-revenue-business-growth-demand-and-applications-market-research-report-to-2026-2022-02-08"
+  - title: "AI in Drug Discovery Market Estimated To Experience a Hike in Growth By 2021-2031"
+    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
+    publishedDateTime: 2022-02-09T10:37:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Intellectual Property Landscape Report 2022 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence in Healthcare ... improve operational efficiencies and cut-down on both operational and administrative expenses. Today, self-learning algorithms are being used to develop AI that can not only help automate various simple ..."
-    publishedDateTime: 2022-02-10T14:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20234737.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 35
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market 2022: Industry Trends, Demand, Business Growth, Future Scope, Investment Opportunities and Forecast 2029"
-    excerpt: "The newly published report is titled, Global \"Artificial Intelligence in Energy Market\" Research Report 2022that"
-    publishedDateTime: 2022-02-09T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2022-industry-trends-demand-business-growth-future-scope-investment-opportunities-and-forecast-2029-2022-02-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 – Global Forecast till 2027"
-    excerpt: "The global artificial intelligence systems spending market is estimated ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping. However, concerns over privacy, bias ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-research-report-2022-global-forecast-till-2027"
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 32
+  - title: "Artificial Intelligence as a Service Market : Likely To Experience A Tremendous Growth In Near Future 2017 – 2031"
+    excerpt: "Some of the key technologies used by the players in the global artificial intelligence as a service market include deep learning, natural language processing or NLP, and machine learning ... various circumstances. Financial services businesses have been ..."
+    publishedDateTime: 2022-02-11T07:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-likely-to-experience-a-tremendous-growth-in-near-future-2017-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 26
+    quality: 20
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Mexican-cultural-treasures-AFP-1L-01-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Artificial Intelligence Market Report 2022, Industry Trends, Share, Size, Demand and Future Scope 2027"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 11, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence Market: Industry Trends, Share, Size ..."
-    publishedDateTime: 2022-02-11T20:46:00Z
-    webUrl: "https://menafn.com/1103679983/Artificial-Intelligence-Market-Report-2022-Industry-Trends-Share-Size-Demand-and-Future-Scope-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/11/EP_0560bimage_story.jpeg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Robot Software Market Size In 2022: Recent Innovations, Top Countries Data with CAGR Value & Growth Insights to 2028"
-    excerpt: "Germany is leading the market due to presence of key players in the country such as ABB, KUKA, and Kawasaki Robotics. The extensive research and development of artificial intelligence in the region has benefitted these key players in upgrading their ..."
-    publishedDateTime: 2022-02-08T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robot-software-market-size-in-2022-recent-innovations-top-countries-data-with-cagr-value-growth-insights-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/02/c-m-ivfofaeghqu-unsplash.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Worldwide Smart Hospital Industry to 2026 - Modernization of Healthcare Infrastructure is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The “Global Smart Hospital Market (2021-2026) by Components, Services Rendered, Application, Connectivity, Artificial Intelligence ... Factors such as technological advancements, increased healthcare spending, a sedentary lifestyle, more awareness ..."
-    publishedDateTime: 2022-02-11T16:54:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-0cfa55926bc24e99aafea9847e2b3ded"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "4Dc2pQwHOMJ0hFAHQIojtlY6rXudr4vRmMUX6dUVj6WK8VifRJbHRhlsO4VvDMk0TbLZgh04eISF+ZtDkknZVE3mglhGTD2NM/ASDm7lOPOx/TS72PKWzDkN27ZQXIYaFXrwnkuVH8bd7LryBVyDVxaZkpxQ7gDVFFOiail3EGqQGG6f6zr4QJ5UvtI3P9orQKpOQkIEL7oCkhwNqTFIvm6SUy4sqBlKHxpQyO4ZvUN2tYbs2aKw1SWBX5b/oBdNEUy1WObe2iKt6eZkhx+gpUS5cUvDPX7xl2JGZakieLkC2EKXWMiwX+gSP7V+xT4lVStolGGx5xKNKxjP/Tn2RdYG30nhtC1qbYZCgxnii+M=;5CSexgMGr7N6nN3WNYZgug=="

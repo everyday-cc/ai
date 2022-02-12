@@ -41,6 +41,15 @@ related:
         width: 1882
         height: 944
         isCached: true
+  - title: "New computer vision system designed to analyse cells in microscopy videos"
+    excerpt: "Researchers have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in order to characterize and describe the behavior of the cells that appear in the images. These new ..."
+    publishedDateTime: 2022-02-12T14:47:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220211102608.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 48
 
 secured: "btkhLUiNQTfoZ0dG3Hu9Ey30loJkFyqp8LFA6TWHl5hwVZ5YAoevQgslc/+XIlyVGwmBrxSjdtXnDuwC8JNHbOuF1h2Jf6muVROivl+cmeDhnyzY066gw+j3DSu7vI0wVeTsa2naTI1RbGC196QAFCyUj2OYAoX6mAHOqcOGH7CsW3P8A+G56DiDHVIhohSXi92qhI0+xB8+UzF8GQvjCyB68uVSFfOUean37bamKQ6Dhz/gJwHefcQ0x9FWXy5Pfe4PdJXrm9lVYWnQFKGRopwtzSwjwed7rGFRM2yC/ibGSfGd8PHbLQEyEqW+Nr+wGFqIxkP0H7YfOEdTXfVnchWh4OYlcP7vW8bRd5Q0tPc=;4FnAbI7fvqBknjxkgipUjw=="
 ---

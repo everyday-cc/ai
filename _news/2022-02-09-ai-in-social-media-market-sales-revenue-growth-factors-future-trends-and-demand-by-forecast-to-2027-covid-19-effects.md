@@ -25,31 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market Overview, Merger and Acquisitions , Drivers, Restraints and Industry Forecast By 2027"
-    excerpt: "Artificial Intelligence in the Education Sector Market Size – USD 1.08 Billion in 2019, Market Growth – at a CAGR of 43.8%, Market Trends – Rise in venture capital funding in EdTech companies. Growing demand for artificial intelligence (AI ..."
-    publishedDateTime: 2022-02-08T13:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027"
+  - title: "Edge Artificial Intelligence (AI) Software Market Growth Prospects, Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "which are crucial for robotics and self-driving vehicles. As part of the competitive analysis of the global Edge Artificial Intelligence (AI) Software Market , the authors of the report have exhaustively covered the top companies operating in the market."
+    publishedDateTime: 2022-02-11T07:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-growth-prospects-key-vendors-and-future-scenario-forecast-to-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 34
+    quality: 33
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Google-office-logo-AFP-01-e1643044163307-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Augmented Reality & Virtual Reality Market Size for Education Industry Estimated to Reach $22.4 Billion by 2027"
-    excerpt: "Increasing penetration of interactive learning process for effective visualization of subjects by leveraging digital age technologies such as Artificial Intelligence (AI), Machine Learning ... storage to Microsoft’s Azure cloud, which in turn has ..."
-    publishedDateTime: 2022-02-08T23:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/augmented-reality-virtual-reality-market-size-for-education-industry-estimated-to-reach-22-4-billion-by-2027"
+  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
+    publishedDateTime: 2022-02-11T07:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 21
+    quality: 17
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600
         height: 337
         isCached: true
