@@ -41,6 +41,15 @@ related:
         width: 512
         height: 276
         isCached: true
+  - title: "'Devnagri' presented Machine Translation Engine that translates instantly with more than 85 percent Contextual Results"
+    excerpt: "Devnagri's platform combines AI and human-powered translation with Machine Learning. They are powered by Kutumbh, a community of 5000 + native language speakers and translators that enable 5x ..."
+    publishedDateTime: 2022-02-12T20:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220212/3906828.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 10
 
 secured: "5jubPS8wVv3xpzWRdNHKhMWNskXWuBNIjNjG/3JvHw8rjmRNYc/9wmKffDgFSgfotmlsX5ZnOUuEExjcZvgKz/bQm+DYRUFDWBdkG/+uhieU5DCE3z9jqYC732OOSpjzegTACh6aC+6OwCY5lXxW5zq1NtQmohhAyU5xM3W0LkZywJ9nF0yLLrZEkqodDXit7M7CPVRY/J7weFbSr0gS2tSOQRycsqgXxyly0zvTYqz/GP8SRlPha1ZxlcDlJRW3x+ujLCXPyMCIUOeejIZruv7/P9PPS0hWFbSuJs+fmUkozX322D0DKeOQY42aANcjluEYLXLpAoKC8Tc9xWapV4FI/GLN0YTg9QO2fNzMrIDgn7QYskzBjn3IaB2GhMUyco1uC9TdXcJdJzlLemVR8cmBIE33MtF0T7WWTT4ehu8vE1X7N5fuw9vCkM5mUZ1pg68DyXsCD0RtaQvIozsYg5ZZawaNd2aDDuDevz7v+kOBajbXpV7TxwQVAtI+uNY1iB70/vWkUw+WyITL5/SARA==;XIgx07yf5fkdHMbeblb02w=="
 ---

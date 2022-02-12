@@ -50,20 +50,6 @@ related:
         width: 423
         height: 238
         isCached: true
-  - title: "Facial Recognition Market Rising at a CAGR of 14.8% to Reach USD 12.92 Billion by 2027"
-    excerpt: "The global Facial Recognition Market size is expected to hit USD 12.92 billion by 2027 while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by manufacturers."
-    publishedDateTime: 2022-02-08T04:56:00Z
-    webUrl: "https://menafn.com/1103655048/Facial-Recognition-Market-Rising-at-a-CAGR-of-148-to-Reach-USD-1292-Billion-by-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_5.jpg?534683"
-        width: 374
-        height: 250
-        isCached: true
 
 secured: "x4gpQCHzGXiqCsHzoE+OBWzR07nKW/ePPJCklYBfkjcEMy87waP5djTRknhLbbpximCvx8ilaWdg2BzWs6YbyGP/yyMz6WIDA+El7fSgVVpzajpdHxlpNvWRvjKF7jzdarJy27j3XSaKSvKvKf7rk/FYY57Cdo52Yv2DCGn+0nBETlHFRIShKWNfwyE5q11X9QpEi38bia90wUBY3sJeKqCwF5P4jVdy4kVRe12QnMbuqfGwfYnPDmfI+ofJFpyqVWQRPDXFs3eSKZrMFsO4ZRpT9AxeXuwbOSwJslj1rF+RmRNPfx2682w0MKWXmN4XcATO+NjHjTScY5knhj/WbaTICHYXW5MP+xVvvthFco0=;8JGKk975BgLSDT6D0hkiJg=="
 ---

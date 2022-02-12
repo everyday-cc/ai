@@ -159,22 +159,6 @@ related:
         width: 4500
         height: 3068
         isCached: true
-  - title: "IRS scrapping facial recognition plan after widespread backlash"
-    excerpt: "The Internal Revenue Service has agreed to abandon its plan requiring taxpayers to verify their identity through facial recognition technology provided by a private company, after privacy advocates, taxpayers, and lawmakers from both sides of the political ..."
-    publishedDateTime: 2022-02-08T03:16:00Z
-    webUrl: "https://www.foxbusiness.com/politics/irs-scrapping-facial-recognition-plan-backlash"
-    ampWebUrl: "https://www.foxbusiness.com/politics/irs-scrapping-facial-recognition-plan-backlash.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/irs-scrapping-facial-recognition-plan-backlash.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8a908e86-949a-47e2-bb6f-e66f0457fb1d/4c62452d-7cfc-444a-ae22-e6e0f44db918/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "IRS halts facial recognition plan amidst backlash"
     excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash ..."
     publishedDateTime: 2022-02-08T18:31:00Z
@@ -358,20 +342,6 @@ related:
     quality: 41
     images:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IRS reverses plans on facial recognition"
-    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash from lawmakers and privacy groups. The IRS said in a statement ..."
-    publishedDateTime: 2022-02-08T04:21:00Z
-    webUrl: "https://www.fox10tv.com/news/daily_dot_com/irs-reverses-plans-on-facial-recognition/article_dd8061bc-8880-11ec-a8f8-2f6cc989cb33.html"
-    type: article
-    provider:
-      name: FOX10 News
-      domain: fox10tv.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/0/a8/0a847cad-7c22-5f52-92c9-273ab94cf978/6201ead3a4981.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -615,6 +585,6 @@ related:
         height: 337
         isCached: true
 
-secured: "FgW3ljE38kB32HA1oRmHQuoQmgvKiG73I1z03Q0zPR0g/kaX6iwE06WeC4l8XGGlx6vcMRn7fZHF1Coi4XTlE20KWv0LO5jYB9VfJZWJfmm0bC/xk/mL8leoIAz8kzxWZZ12uFIvZVeQOVHLyUYZ/SeM98smgmrJVHgVuHAy7N7X9k2DYdh00MkoOvErIEWST4LgwOj7i8Lpf6wSbZf9V+mUF8Bq7/CwX2JU/s2et8WliY10AAEi7hSYR18NZmyEsKh9B0A7aGwq/l4B4drOlQk2missBG12W4X4llQ4wDTJOhWksUrtHEAjmKf30mOr4G4lSy3xgdwTSoFVJ0tdtgXeCItP31HTMcYpuU2kmCs=;P6VJjyK6GSYAkvBIkzq7gg=="
+secured: "was39usPq8OdwuHPukH6/VNfgAEQ6T+/P2uJ0Ew1iNZosjszuYphsP1oZOi+tK/wNEHO/4c/GIpAC6pEcFcGCw0NB2KmJBbPfqX1iQzyBG5+X3iSpYtVefRD5U6r44cKmrBUaO1A2pyctBIIlYQF2GMgL5DXx5veg3wKpXuoSwI82to67zMJd36qBooAjaTaah7zI873NAmBiVsHOuba7M44hOI+htpm2R8q0XsnODYxIFJkhlBurVjK3IpfzC4OhY2SZIAZSTE4xOXw2Um6evX49W7se/V6+AqZf+ko1Gws51DVspcEGCc+Ao7b929EH9wn0PdaKYuHPqJJjPx7DWkLSdTzy+peLSuTQ7wCJ03Jt+cliSSf0PY5sAyd4Yu25LPQz8KJhI4ABpbjs3ZX/dIX8JIKmWQ6sB2JgffwbxCjQVoFdWtXSDvm/HoWxJXDjTLcuWuY1/bI4nhGP1yKZnq16Onqll7T9YH7hWAjrN0TswitdTR6514GG2ttrxdx5FQkYKojh+WcPfVRdHjC/A==;TCBZ6nol6drIpVMoPi2LjQ=="
 ---
 

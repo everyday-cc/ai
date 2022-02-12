@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-star
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence"
 type: article
 quality: 67
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood"
-    excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be ..."
-    publishedDateTime: 2022-02-08T04:02:00Z
-    webUrl: "https://time.com/6146000/apple-ai-music/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Apple acquires startup that uses AI for tailor-made music: Report"
     excerpt: "Apple has acquired London-based AI Music, that uses artificial intelligence to generate tailor-made music, Bloomberg reported citing sources. The startup had about two dozen employees before the deal."
     publishedDateTime: 2022-02-08T08:07:00Z
@@ -114,20 +100,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/02/AdobeStock_289510986_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Apple reportedly acquires UK startup AI Music"
-    excerpt: "Apple Inc. has reportedly acquired AI Music, a startup that uses artificial intelligence to create tailor-made music. As is typical with companies that Apple acquires, there is no official ..."
-    publishedDateTime: 2022-02-08T03:58:00Z
-    webUrl: "https://siliconangle.com/2022/02/07/apple-reportedly-acquired-uk-startup-ai-music/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/aimusic.jpg"
-        width: 1800
-        height: 942
         isCached: true
   - title: "How will Apple use the AI music generation startup"
     excerpt: "AI Music’s mission, according to its LinkedIn page ... Apple’s most recent acquisition was Primephonic, a music startup. This year, Apple plans to integrate that startup’s classical music streaming service into an app related to Apple Music."
