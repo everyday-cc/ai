@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 787
         isCached: true
+  - title: "Predicting Excess Wind Electricity With Machine Learning"
+    excerpt: "This study show that, using machine learning models, excess wind energy can be predicted with inputs of readily available weather data. Having this available is important for Surplus Map to know where this electricity is being overproduced and helping to ..."
+    publishedDateTime: 2022-02-12T21:03:00Z
+    webUrl: "https://www.linkedin.com/pulse/predicting-excess-wind-electricity-machine-learning-surplusmap"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFvcr6t9MdBDw/article-cover_image-shrink_720_1280/0/1644699689108?e=1649894400&v=beta&t=CmxnRhAp0sYbZDmY0B58EYGhx6eIdPKtRgkYVMJSeLo"
+        width: 1280
+        height: 616
+        isCached: true
 
 secured: "19mhsCIy6Yzn4n8Mlkncne+qBrQ4ORLtzPW3Att+8HZ82sFT34AWuw6wUehFRmQoSLqWN4Wbvco7HZUdrm5SuNEtr20TPLvQ1ALUL8p1TKqZ4sDFdG3OSIYiNhfcRpkN7KZKRFOybgywCgSx8/pwZHCsWDcyzLQDEhBz7dnY+4Mls8JPDjhKpwTFM2yzPtvo/iWZpR18lRfo6Ix131D023xyK+GcGGY1fZat9ON0wVPp5AWcJQE4mv2/b8gdlVGEYdeVSqBp5A7BT36JOy73v4TeROQBO8STOyYa+2IxCl11/4eLj+1bfRYDUMsps9gT75F0A7xAAW52weY6LfV4d/H8Sic/+K8jzsr1x7wtZ+MDk6z9evUcumxpG86jDyz67zqpA2DKyf6/dQPrUz1KR2kNPksHdSHZnKTiDXJg8tC++jRIhJ2ytFz+U13IqYuKYST43GzKnZ95jfUPth8nThClSHEtZrMfFM+nP5LCfg3YTADOEKyZ0RHM5ArGQeLu9xIMmJxHkiauGChSTbwr2Q==;0wPG9YLuCXRAtEZ0RTKAJg=="
 ---

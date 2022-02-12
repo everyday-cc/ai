@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Tiger Global fires up fintech"
-    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs- than any other firm, according to CB Insights."
-    publishedDateTime: 2022-02-08T05:32:00Z
-    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Here are Tiger Global's 10 top fintech investments"
     excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs than any other firm, according to CB Insights."
     publishedDateTime: 2022-02-08T20:08:00Z

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI Chief Scientist Says Advanced AI May Already Be Conscious"
+    excerpt: "\"It may be that today's large neural networks are slightly conscious.\" OpenAI’s top researcher has made a startling claim this week: that artificial intelligence may already be gaining ..."
+    publishedDateTime: 2022-02-11T01:16:00Z
+    webUrl: "https://futurism.com/the-byte/openai-already-sentient"
+    ampWebUrl: "https://futurism.com/openai-already-sentient/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-already-sentient/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/02/openai-already-sentient-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Researchers Furious Over Claim That AI Is Already Conscious"
     excerpt: "“Every time such speculative comments get an airing, it takes months of effort to get the conversation back to the more realistic opportunities and threats posed by AI,” UNSW Sidney AI ..."
     publishedDateTime: 2022-02-11T17:24:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "'I'm sorry, Dave. I'm afraid I can't do that': Artificial Intelligence expert warns that there may already be a 'slightly conscious' AI out in the world"
-    excerpt: "Conventional AI uses input to 'teach' an algorithm about a particular subject by feeding it massive amounts of information. Practical applications include Google's language translation services, Facebook's facial recognition software and Snapchat's ..."
-    publishedDateTime: 2022-02-11T20:06:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10503703/Artificial-Intelligence-expert-warns-slightly-conscious-AI.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10503703/amp/Artificial-Intelligence-expert-warns-slightly-conscious-AI.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10503703/amp/Artificial-Intelligence-expert-warns-slightly-conscious-AI.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 35
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/11/21/54081363-0-image-a-37_1644613554678.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "hL91T3oHvn47X8McqKVll6XvHqjr3Ih09tHnW8oLlPKGRfLZL+J+5tCdadPI7FnBG9WQIphN8otzyLwwFK4w0fp6tf1YMyEDEznVbHtRHe1GuPsAYYF+VHr740i2/hMXxI1Dn2JlE91Ow/gxKjgWTzVS/egy/SiiaBCPY0dFLtWOoLzyl2HbJKYhCcsK8mNbchi5D0rb21HwUeFBqUPemzmlSs/q3c30gm1uT3q8OpxN3rGZAY4PSyIxH3JcQmTVst0aqmbWPlD7JxUFRvCvrfrETjfsxEVjZQinCpkTcb9p96qMSGhSoQSF5yvRcmeh7x6scYJDgGQpw9dRYR+UTKXtFVQZ01pUGTHZJ+C2gl21xuykEIiCaliwowyPsEkXeLsjqoQh5vobAGgUzmBqSqq1qMD1+Ecznt0BKHAXDCK2OsxcyoRLLhLxhI2QAlrNypNtXx91GxQHQEaa9PJngRj36u5c03/Qr1xvZ/sBKmFyfjQ/7KT6sph4f7OLDWUu7l4BK4zjtGoNbCYLjfNCZQ==;xsWoWnJMhmGLPV3vXVUwMA=="

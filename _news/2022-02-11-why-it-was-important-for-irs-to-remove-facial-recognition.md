@@ -2,17 +2,17 @@
 category: news
 title: "Why It was Important for IRS to Remove Facial Recognition"
 excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-publishedDateTime: 2022-02-11T09:48:00Z
-originalUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
-webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+publishedDateTime: 2022-02-11T10:08:00Z
+originalUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: Info Risk Today
+  domain: inforisktoday.com
 
 topics:
   - Computer Vision
@@ -130,20 +130,6 @@ related:
       - url: "https://media.wired.com/photos/6202db28c14aa6d334a5d857/191:100/w_1280,c_limit/Business_IRS-1233687835.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "IRS says it will back away from facial recognition amid outcry"
-    excerpt: "The IRS has told Senator Ron Wyden it will back away from facial recognition tech following pressure from politicians and other critics.."
-    publishedDateTime: 2022-02-08T06:19:00Z
-    webUrl: "https://www.engadget.com/irs-to-end-facial-recognition-use-195637614.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-images/2020-06/b9358e00-ba31-11ea-b7bd-97f3759aed0d"
-        width: 5472
-        height: 3648
         isCached: true
   - title: "House Democrats urge IRS to halt facial recognition plans"
     excerpt: "It's not just Republican senators upset over the Internal Revenue Service's plans to adopt ID.me facial recognition. Democratic House Representatives Ted Lieu, Anna Eshoo, Pramila Jayapal and Yvette Clarke have sent a letter to IRS Commissioner Charles ..."
@@ -344,20 +330,6 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "IRS to drop facial recognition"
-    excerpt: "The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts afte"
-    publishedDateTime: 2022-02-08T06:08:00Z
-    webUrl: "https://www.journalgazette.net/news/us/20220208/irs-to-drop-facial-recognition"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20220208/ARTICLE/302089969/AR/0/AR-302089969.jpg"
-        width: 395
-        height: 600
         isCached: true
   - title: "IRS to end use of facial recognition to access tax accounts"
     excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID.me, the third-party verification system that ..."
@@ -585,6 +557,6 @@ related:
         height: 337
         isCached: true
 
-secured: "lxIgPwfzfLfHNUs6LRVBAli1R/YjvWNLVdoz+tCP3Y2PIBZtWgsOu9Ik+yluWhra5/qc+ENxcW4ptJ4dPIN7L658UkzaTT6sNhEsGGib7PYtrJBt44gS7Neche/AUNnpuNLWGZIARcLNZxX/Nqc5Jq3JFyaNJKdAggTnx+jcfZkQlB5h9bHWXrO1AeRTBrHDRI2ow/vfQL0IptHm/S4Y9Lyd78scUuPVbLBd/A70ZT1O+Zpuv2Vz7hLEBCLHUYYXM79xxi/U7Pzc2AZ47sIkde0aK7dZ6h6qpgjvNhGRqc4jeQUMghLjP37TCiWqS3MxXWBhieTnCuKZ+H7PCuzJZaV42JnMDeL8mxqOYAfrBq5AQiEpYurg2w7+c2OCgDbiVZJTL1dmbGWcS7Jqpfxz6nG/Io9W+oUy1tLMRE+R3OO2MSXtSX1QzoCjD+L9hfNDjFJfqqBnEW1F4ST2CWKk6ITKUkx61uyengaL5MA1I59PURWKeCaqWMe654WG0fscYPdshrD+wFiHP+JCjmzrXw==;twj3+vB6+mgLxt4MADm0hA=="
+secured: "x0BVmJmAR09qUQtjNR1WLcVACrm1xRS9YowgKYwBVchugzMdWOX/9rQml6JOZgWp+OP1C32jl23bbH8GQWAqEW5TRWBS6WF8y1AxdBS8BobA5GTUGYlueTQtVQjRF/3OhDd1SKImH29zpRxVJr7pWC32xGOBaNCNj4hnjAm2Lu+fzS/+sdrxldYWzSlTEC3haYWqh9lqUJYQkfiIPw1gYzbO96Txy3nMJyNS0bU8WotF0bIAP9a1WS45DpJ23KHYwYNQ84HSY0UUEysXv3Mj1zQ0erToJesTA9PLrLFh995st81hD2NlyCM1KMAKd3oRxfrFRzP9FljRHlJTli/6uAbxfTd6liruDPAYt+T1FVc=;DJM6XPXZQtR9WRbVKZGezg=="
 ---
 

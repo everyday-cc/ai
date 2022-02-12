@@ -24,28 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Drug Discovery Market Estimated To Experience a Hike in Growth By 2021-2031"
-    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
-    publishedDateTime: 2022-02-09T10:37:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/ai-in-drug-discovery-market-estimated-to-experience-a-hike-in-growth-by-2021-2031/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 32
-  - title: "Artificial Intelligence as a Service Market : Likely To Experience A Tremendous Growth In Near Future 2017 – 2031"
-    excerpt: "Some of the key technologies used by the players in the global artificial intelligence as a service market include deep learning, natural language processing or NLP, and machine learning ... various circumstances. Financial services businesses have been ..."
-    publishedDateTime: 2022-02-11T07:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-likely-to-experience-a-tremendous-growth-in-near-future-2017-2031"
+  - title: "Artificial Intelligence in the Education Sector Market Overview, Merger and Acquisitions , Drivers, Restraints and Industry Forecast By 2027"
+    excerpt: "Artificial Intelligence in the Education Sector Market Size – USD 1.08 Billion in 2019, Market Growth – at a CAGR of 43.8%, Market Trends – Rise in venture capital funding in EdTech companies. Growing demand for artificial intelligence (AI ..."
+    publishedDateTime: 2022-02-08T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 20
+    quality: 34
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Google-office-logo-AFP-01-e1643044163307-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Social Media Market Sales Revenue, Growth Factors, Future Trends, and Demand by Forecast to 2027 | COVID-19 Effects"
+    excerpt: "These data are needed to be aligned and managed properly. Therefore, the demand to manage and secure social media data is propelling the use of AI. This has led to the rise in the adoption of AI technologies in social media, and AI-based smartphones are ..."
+    publishedDateTime: 2022-02-09T08:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-sales-revenue-growth-factors-future-trends-and-demand-by-forecast-to-2027-covid-19-effects"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Augmented Reality & Virtual Reality Market Size for Education Industry Estimated to Reach $22.4 Billion by 2027"
+    excerpt: "Increasing penetration of interactive learning process for effective visualization of subjects by leveraging digital age technologies such as Artificial Intelligence (AI), Machine Learning ... storage to Microsoft’s Azure cloud, which in turn has ..."
+    publishedDateTime: 2022-02-08T23:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/augmented-reality-virtual-reality-market-size-for-education-industry-estimated-to-reach-22-4-billion-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-12-600x337.png"
         width: 600
         height: 337
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220210/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Italy’s AI-powered rare genetic disease detector GenomeUp raises $1.2 million"
-    excerpt: "Rome-based medical SaaS GenomeUp is using Artificial Intelligence to power a series of solutions for genetic analysis and clinical decision support for diseases"
-    publishedDateTime: 2022-02-08T06:00:00Z
-    webUrl: "https://tech.eu/2022/02/08/italys-ai-powered-rare-genetic-disease-detector-genomeup-raises-12-million"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 34
-    images:
-      - url: "https://cdn.tech.eu/uploads/2022/02/genome-872.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facial analysis improves diagnosis"
     excerpt: "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible,\" says ... However, this varies from disease to disease. Artificial intelligence (AI) uses these facial characteristics, calculates the similarities ..."
     publishedDateTime: 2022-02-11T01:59:00Z

@@ -86,17 +86,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Apple acquires startup that makes music using AI"
-    excerpt: "Apple’s acquisition of AI Music will allow it to create soundtracks using royalty-free music and artificial intelligence."
-    publishedDateTime: 2022-02-08T05:34:00Z
-    webUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html"
-    ampWebUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 37
   - title: "How will Apple use the AI music generation startup"
     excerpt: "AI Music’s mission, according to its LinkedIn page ... Apple’s most recent acquisition was Primephonic, a music startup. This year, Apple plans to integrate that startup’s classical music streaming service into an app related to Apple Music."
     publishedDateTime: 2022-02-12T10:30:00Z

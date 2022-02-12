@@ -39,20 +39,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Italy’s AI-powered rare genetic disease detector GenomeUp raises $1.2 million"
-    excerpt: "Rome-based medical SaaS GenomeUp is using Artificial Intelligence to power a series of solutions for genetic analysis and clinical decision support for diseases"
-    publishedDateTime: 2022-02-08T06:00:00Z
-    webUrl: "https://tech.eu/2022/02/08/italys-ai-powered-rare-genetic-disease-detector-genomeup-raises-12-million"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 34
-    images:
-      - url: "https://cdn.tech.eu/uploads/2022/02/genome-872.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "FDNA Publishes Study in Nature Genetics Describing Breakthrough in AI for Rare Disease Identification"
     excerpt: "FDNA, the leader for the early detection of rare genetic diseases, announced today that its breakthrough study findings were published in the esteemed peer-reviewed journal Nature Genetics, in a paper titled \"GestaltMatcher facilitates rare disease matching using facial phenotype descriptors."
     publishedDateTime: 2022-02-11T13:45:00Z

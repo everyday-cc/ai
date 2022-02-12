@@ -96,20 +96,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Tiger Global fires up fintech"
-    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs- than any other firm, according to CB Insights."
-    publishedDateTime: 2022-02-08T05:32:00Z
-    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Role Of Big Data In Fintech Industry"
     excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
     publishedDateTime: 2022-02-08T23:59:00Z

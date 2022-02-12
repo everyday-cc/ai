@@ -133,20 +133,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "IRS says it will back away from facial recognition amid outcry"
-    excerpt: "The IRS has told Senator Ron Wyden it will back away from facial recognition tech following pressure from politicians and other critics.."
-    publishedDateTime: 2022-02-08T06:19:00Z
-    webUrl: "https://www.engadget.com/irs-to-end-facial-recognition-use-195637614.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-images/2020-06/b9358e00-ba31-11ea-b7bd-97f3759aed0d"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "House Democrats urge IRS to halt facial recognition plans"
     excerpt: "It's not just Republican senators upset over the Internal Revenue Service's plans to adopt ID.me facial recognition. Democratic House Representatives Ted Lieu, Anna Eshoo, Pramila Jayapal and Yvette Clarke have sent a letter to IRS Commissioner Charles ..."
     publishedDateTime: 2022-02-08T18:49:00Z
@@ -331,20 +317,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IRS to drop facial recognition"
-    excerpt: "The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts afte"
-    publishedDateTime: 2022-02-08T06:08:00Z
-    webUrl: "https://www.journalgazette.net/news/us/20220208/irs-to-drop-facial-recognition"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20220208/ARTICLE/302089969/AR/0/AR-302089969.jpg"
-        width: 395
-        height: 600
-        isCached: true
   - title: "IRS to end use of facial recognition to access tax accounts"
     excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID.me, the third-party verification system that ..."
     publishedDateTime: 2022-02-08T12:59:00Z
@@ -442,12 +414,12 @@ related:
         isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-    publishedDateTime: 2022-02-11T09:48:00Z
-    webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+    publishedDateTime: 2022-02-11T10:08:00Z
+    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
     type: article
     provider:
-      name: HHS
-      domain: govinfosecurity.com
+      name: Info Risk Today
+      domain: inforisktoday.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"

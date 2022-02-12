@@ -103,20 +103,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Toronto company creates self-driving car simulator"
-    excerpt: "The star of Uber's Canadian autonomous vehicle efforts is striking out on her own and starting a new self-driving technology company. THE CANADIAN PRESS/HO-Waabi *MANDATORY CREDIT* - The Canadian Press TORONTO — One of Canada's leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away from the road."
-    publishedDateTime: 2022-02-09T12:08:00Z
-    webUrl: "https://www.toronto.com/news-story/10568990-toronto-company-creates-self-driving-car-simulator/"
-    type: article
-    provider:
-      name: toronto.com
-      domain: toronto.com
-    quality: 24
-    images:
-      - url: "https://www.toronto.com/Contents/Images/Communities/Toronto_1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "CASEY: On the brave new road to self-driving cars ... and Rocky Mount"
     excerpt: "It seemed perfect. “I am able to tell you that this is NOT a self-driving car,” Maxey also told me. Could have fooled me. We made it to Rocky Mount without incident, then headed east on U.S ..."
     publishedDateTime: 2022-02-10T02:32:00Z

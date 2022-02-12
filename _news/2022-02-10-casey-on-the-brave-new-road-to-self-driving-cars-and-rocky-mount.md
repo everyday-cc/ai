@@ -114,20 +114,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
-  - title: "Toronto company creates self-driving car simulator"
-    excerpt: "The star of Uber's Canadian autonomous vehicle efforts is striking out on her own and starting a new self-driving technology company. THE CANADIAN PRESS/HO-Waabi *MANDATORY CREDIT* - The Canadian Press TORONTO — One of Canada's leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away from the road."
-    publishedDateTime: 2022-02-09T12:08:00Z
-    webUrl: "https://www.toronto.com/news-story/10568990-toronto-company-creates-self-driving-car-simulator/"
-    type: article
-    provider:
-      name: toronto.com
-      domain: toronto.com
-    quality: 24
-    images:
-      - url: "https://www.toronto.com/Contents/Images/Communities/Toronto_1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "It’s time we got on the right track with ‘self-driving’ cars"
     excerpt: "Anyone who has spent hours on long motorway journeys will have fantasised about an automated vehicle doing all the work. In the real world, automated vehicles — so-called driverless cars — have been developed more with an eye on improved road safety ..."
     publishedDateTime: 2022-02-10T00:07:00Z

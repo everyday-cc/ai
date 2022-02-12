@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/417551"
 webUrl: "https://www.entrepreneur.com/article/417551"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Entrepreneur
@@ -27,6 +27,22 @@ images:
     width: 675
     height: 380
     isCached: true
+
+related:
+  - title: "Why AI is more relevant than ever"
+    excerpt: "Other prominent players like AWS have also joined in the fray with home-built AI chips. As evident in this AI day video, where they showcase their cutting-edge AI hardware, Tesla has enormous AI ambitions. And the list of AI-first startups working on ..."
+    publishedDateTime: 2022-02-11T20:45:00Z
+    webUrl: "https://www.linkedin.com/pulse/why-ai-more-relevant-than-ever-abhi-mahule"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGynyzc8VIQyg/article-cover_image-shrink_720_1280/0/1644608092182?e=1649894400&v=beta&t=QwxbJ5_YHHPfJakUCf4eYspgGPDIvKJu2_5bAm1FE7Q"
+        width: 1280
+        height: 685
+        isCached: true
 
 secured: "ir7hK3Z8y8oXDi1OYR7dLdQ5l6oi8KkiQrj1HENh/2F31RW0aMli3hpjIWkNhGc1VVh/9kcRMNnAS8lThaunB7vhSrW5BMYoQIms986ycJMKp+p/TyyuWPFuzSnbOfDsePtcrwnyNAuAb8h9ww0WFniaCzsdTvEA7jKxSy1XxS4AHIOjnOnj6Yx5iGI3h4xKD0JIgRInIYHW/i51LhfRPGbeCMns5qhNt2xryvhRsMqZtRFUaPlwRljRGQHSd+LPF5zFyu8mOkUzYTbtZpeLt1D5XXEdlRq666XCdyGFj1K+ctS4sSjesc5gV1yfyFc9O+6ML0G2oq9CxVCS0MAmdQhu+vZ6kShARQ7zDDI9FKw=;TIv1fQzJ4IIpirm6lgi1IA=="
 ---
