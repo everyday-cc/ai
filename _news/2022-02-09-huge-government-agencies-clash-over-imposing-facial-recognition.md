@@ -596,20 +596,6 @@ related:
         width: 1222
         height: 815
         isCached: true
-  - title: "Huge government agencies clash over imposing facial recognition"
-    excerpt: "Even as the Internal Revenue Service and other federal agencies are pushing to require Americans to consent to facial recognition to sign on to government websites, the government’s central management office has refused to use the technology on its own ..."
-    publishedDateTime: 2022-02-07T16:20:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/02/07/irs-gsa-id-facial-recogntion/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CGOFID44YI6ZDGIW2LFMS5HSY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "IRS backs away from facial recognition"
     excerpt: "The IRS reversed course Monday on earlier plans to require taxpayers to authenticate their identities with a nongovernmental facial-recognition service to use certain online services. In a news release, the IRS announced it will \"transition away from using ..."
     publishedDateTime: 2022-02-07T21:40:00Z
@@ -819,20 +805,6 @@ related:
       name: CBS SF BayArea
       domain: cbslocal.com
     quality: 33
-  - title: "Lawmakers ask IRS to halt use of facial recognition tech, noting ‘serious privacy issues’"
-    excerpt: "Multiple Democratic members of Congress in the House and Senate wrote to the IRS asking the agency to halt its plans for mandatory use of ID.me’s facial recognition system to verify the identity of taxpayers and consider alternatives that do not rely on the same technologies."
-    publishedDateTime: 2022-02-07T16:55:00Z
-    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/lawmakers-ask-irs-to-halt-use-of-facial-recognition-tech-noting-serious-privacy-issues"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 30
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted"
     excerpt: "Looking for the latest Government Contracting News? Read about IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted."
     publishedDateTime: 2022-02-08T22:01:00Z

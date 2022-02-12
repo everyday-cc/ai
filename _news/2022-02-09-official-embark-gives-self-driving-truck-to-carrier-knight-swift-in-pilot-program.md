@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Embark Gives Self-Driving Truck to Carrier Knight-Swift in Pilot Program"
-    excerpt: "Self-driving truck company Embark Technology Inc on Tuesday said it was handing over a few of its trucks to Knight-Swift, in what the companies called the first instance of a carrier owning and operating autonomous trucks as part of its fleet."
-    publishedDateTime: 2022-02-08T20:31:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-02-08/embark-gives-self-driving-truck-to-carrier-knight-swift-in-pilot-program"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 33
   - title: "CORRECTED(OFFICIAL)-Embark gives self-driving truck to carrier Knight-Swift in pilot program"
     excerpt: "Abidi said the Knight-Swift partnership would bring the company one step closer to the final commercial rollout. “The idea is if you give Knight-Swift the truck and they run it, then you’re inside their duty cycle,"
     publishedDateTime: 2022-02-08T20:48:00Z

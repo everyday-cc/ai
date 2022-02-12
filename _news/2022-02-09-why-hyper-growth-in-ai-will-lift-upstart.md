@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/417567"
 webUrl: "https://www.entrepreneur.com/article/417567"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 675
     height: 380
     isCached: true
-
-related:
-  - title: "Why Hyper-Growth in AI Will Lift Upstart"
-    excerpt: "Upstart (NASDAQ:UPST) describes itself as an artificial intelligence lending platform that partners with financial institutions. When readers take away the AI and fintech buzz words, it has a business that is easy to understand."
-    publishedDateTime: 2022-02-07T16:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-hyper-growth-in-ai-will-lift-upstart"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-hyper-growth-in-ai-will-lift-upstart?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-hyper-growth-in-ai-will-lift-upstart?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "10JNxnDq+uHs5csnqIvyO1YCAaVrg5OCbRwVuve5pkCrcixnxoUTS7xjEkkcLYIAxmx2hmZT/oTCq9WPhuV4tIVpBMlDkGQcmTU0iXsNnUTpteEJ/GQDYPsO9HX8NSuxfZAnOQSNGD6bOQOwgbZFq9i0ILJek2BJn9x3PAnvxM5ER2xopcJRkNQzM5flStMnBmjxopQubVpJlKYWrVfNwEgw38EXLNI91C7RyaJ2vcGAhunPKNaIp6bQM1B4p1K/qpkP3Vx8UZVHXM/xFZpVkgsqRtOKHeRMTZahfpnXILYW+/YIUdd8tjAPkhdjarr5g/lcNCcLSl9F3ct7hOCPw6RWJZDM1F8JwPM1AwSr7aFca/Ew1bMjwnDoDMblZ2/vhflbM5xHQkqqlvHuHlQAZC/iuaBKn7t9GEQOhp8eVh+3SzJkHxYBb7l1wQ8XvvPe3Qt1yQ7BxR0WhsUhpJLan4PAFUGsLmsnPtVFGOCzONwxJVzVc3UfSmHau5ayCkdyCwSXhA5RKhNVHpH1wYJzFw==;ZOWNtJ3h6N+4gW4h86AqZg=="
 ---

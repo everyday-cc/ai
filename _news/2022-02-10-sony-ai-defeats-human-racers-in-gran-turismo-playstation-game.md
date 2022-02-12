@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
 type: article
 quality: 87
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -193,20 +193,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
         width: 2400
         height: 1350
-        isCached: true
-  - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
-    excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."
-    publishedDateTime: 2022-02-07T16:48:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/02/sony-ai-and-gran-turismo-7-dev-polyphony-digital-to-announce-breakthrough-project"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 32
-    images:
-      - url: "https://images.pushsquare.com/97e9163f6cc97/1280x720.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Gran Turismo 7 developer & Sony to announce “breakthrough project in AI” this week"
     excerpt: "Sony’s AI department has announced it’ll be launching a project later this week with Gran Turismo 7 developer Polyphony Digital. Though details are currently hazy, the official Sony AI Twitter account teases a few details. (Spotted by Video Games ..."

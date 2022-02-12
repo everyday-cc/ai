@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud analytics key to digital transformation at National Bank of Greece"
-    excerpt: "The self-service data mining, artificial intelligence and machine learning capabilities of SAS Viya, as well as the flexibility of Azure, also help the bank innovate faster by moving from design phases to rollout phases with increased efficiency."
-    publishedDateTime: 2022-02-07T16:21:00Z
-    webUrl: "https://next-generation-communications.tmcnet.com/news/2022/02/07/9540061.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1736485/SAS_Viya_on_Azure.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Tiger Global invests in AI analytics platform founded by ex-undercover CIA"
     excerpt: "Traditional data science and AI development depend on copying or moving data to a ... Powering the ecosystems built on Concordium, with a special focus on Regulated DeFi and Decentralized Fintech, the CCD token was classified as a payment token by the ..."
     publishedDateTime: 2022-02-10T13:56:00Z

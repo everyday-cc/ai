@@ -104,20 +104,6 @@ related:
         width: 1918
         height: 1073
         isCached: true
-  - title: "Sony AI To Reveal Project Likely Related to Gran Turismo 7 This Week"
-    excerpt: "Today the artificial intelligence-dedicated arm of Sony, Sony AI teased the reveal of its “gaming flagship,” and it’s likely about Gran Turismo 7. The tease made on the company’s official ..."
-    publishedDateTime: 2022-02-07T16:37:00Z
-    webUrl: "https://twinfinite.net/2022/02/gran-turismo-7-sony-ai-tease/"
-    type: article
-    provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 37
-    images:
-      - url: "https://twinfinite.net/wp-content/uploads/2022/01/Gran-Turismo-7-Key-Art.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Sony AI and Polyphonic Unveil Gran Turismo Sophy"
     excerpt: "Christian Gerdes. In a blog post made on Sony AI’s blog, the team described the many challenges in making Sophy a reality. To start, the AI had to learn Gran Turismo‘s physics engine–a ..."
     publishedDateTime: 2022-02-09T18:34:00Z

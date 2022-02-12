@@ -116,20 +116,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "How IIoT and AI are Transforming the Supply Chain"
-    excerpt: "The intersection of AI and real-time data, in concert with the industrial IoT, will continue to provide a more holistic view and control over the supply chain, and with any luck will help prevent future disruptions in the global supply. How IIoT and AI can ..."
-    publishedDateTime: 2022-02-07T16:02:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21216152/digikey-how-iiot-and-ai-are-transforming-the-supply-chain"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/02/SourceTodayCurlPad.620142431078b.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Query.AI Earns Gold in the 2022 Cybersecurity Excellence Awards"
     excerpt: "Because of its unique ability to unlock access to and value from cybersecurity data wherever it is stored, regardless of vendor or technology, and without requiring centralization, the Query.AI Security Investigations Platform has won gold in the 2022 ..."
     publishedDateTime: 2022-02-09T18:32:00Z

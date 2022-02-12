@@ -204,20 +204,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
-    excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."
-    publishedDateTime: 2022-02-07T16:48:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/02/sony-ai-and-gran-turismo-7-dev-polyphony-digital-to-announce-breakthrough-project"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 32
-    images:
-      - url: "https://images.pushsquare.com/97e9163f6cc97/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sony AI Unveils Gran Turismo Sophy™, a Breakthrough in AI"
     excerpt: "TOKYO, Feb. 9, 2022 /PRNewswire/ -- Sony AI, together with Polyphony Digital Inc. (PDI) and Sony Interactive Entertainment (SIE), today announced a breakthrough in artificial intelligence (AI) called Gran Turismo Sophy (\"GT Sophy\") - the first superhuman ..."
     publishedDateTime: 2022-02-09T16:44:00Z

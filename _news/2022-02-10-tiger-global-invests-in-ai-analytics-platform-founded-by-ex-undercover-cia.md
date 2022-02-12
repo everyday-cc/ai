@@ -35,20 +35,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Cloud analytics key to digital transformation at National Bank of Greece"
-    excerpt: "The self-service data mining, artificial intelligence and machine learning capabilities of SAS Viya, as well as the flexibility of Azure, also help the bank innovate faster by moving from design phases to rollout phases with increased efficiency."
-    publishedDateTime: 2022-02-07T16:21:00Z
-    webUrl: "https://next-generation-communications.tmcnet.com/news/2022/02/07/9540061.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1736485/SAS_Viya_on_Azure.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "FsiH+I5iwMJbOKpoSlEpigeCqL3qcVugDEwCJw99o9jJQi9gYImXmnyfkTTZv8mxxMg+pI31IfHz8nFpctm1YkdNJsa0bxMgpzvpb/Ph918Kjqw2vPOZ10LYu4w2xMmeWXiThRiRLFprJQwbBciVxRkgw9FARUCkbHppM5lPYFPL5Q1j/V3tGMTFdk+XLeKaCj3Jp2asaylQOzSO0/dv0mmEphhz4Zw+ewvIeowX5TV5rzz/uFQi2+O43JIvtnr9z39B6aQaZGC0+rGvjWpFq9I1lCAJyEEvrkRsbUsJH1FnIoKAS5vyuPhYv5XRYga84I+vovC7ZmfyPFTX33NUh2kdPKVP+GbgZq4uQYHztFa5YMYYtNCz4oFtSEiCxOJ6GVogD65EIX8cXUH6CE/BpmxMwP2noqJhG21XfzWhNA55Hoay/CTjJUZFaUAzcsH1rxVDrdR0ncip18LYTleHOhVXY36RvhSxTGn2/a8qnULTcrBsRjtVwOImq6M18saMG5UbOjWp4w8OZBb27Ezaqg==;s2y3TPeg3+UkPfVNyS2ZsA=="
 ---

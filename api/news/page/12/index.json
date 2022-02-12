@@ -348,6 +348,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-29-course-listing-for-computer-science.md",
+      "title": "Course Listing for Computer Science",
+      "excerpt": "and object recognition. The purpose of this class is to ground students in the basics of how humans interact with technology, and make students aware of the breadth of topic areas related to human-computer interaction (HCI). This course emphasizes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uml.edu/Catalog/Graduate/Sciences/Computer-Science/course-listing.aspx",
+      "originalUrl": "https://www.uml.edu/Catalog/Graduate/Sciences/Computer-Science/course-listing.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uml.edu/images/allen-house-river-1400_tcm18-197005.jpg?w=x",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-29T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UMass Lowell",
+        "domain": "uml.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare.md",
       "title": "Union Minister Dr Jitendra Singh says, Artificial Intelligence (AI) and Digital Medicine are critical to future healthcare",
       "excerpt": "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said here today that",
@@ -1168,40 +1211,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-boostai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai-platforms.md",
-      "title": "Boost.ai Recognized in the First Ever 2022 Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms",
-      "excerpt": "Boost.ai, a leading conversational AI platform, today announced it has been positioned as a Niche Player by Gartner in their 2022 Magic",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

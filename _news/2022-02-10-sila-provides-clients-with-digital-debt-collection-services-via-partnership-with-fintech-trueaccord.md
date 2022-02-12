@@ -26,17 +26,6 @@ images:
     height: 1024
     isCached: true
 
-related:
-  - title: "Sila Offers Customers Digital Debt Collection Services Through New TrueAccord Partnership"
-    excerpt: "Sila Inc., a fintech software platform that provides payment infrastructure as a service, today announced that it partnered ... of their overall management of funds. Using a patented machine learning engine and engagement data from millions of customers ..."
-    publishedDateTime: 2022-02-07T15:33:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_6976b780-31f1-5272-94e0-fdd6fa9627fd.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
-
 secured: "8xdq0YpYQ9+5e0Bn7bWJxlg8gTemXwMoYV0G2Rr4e92OoHNBWjX2C04F1+XKNiw671kdrQcNxVrRfjzT9TDWKaWky6GTbBaof7bing6CPE2yU80Z3wpsqBu7oy7/Lrlfh3ZcSTHCUmDjsPavSwdBDwZDgqT2zZdbMilvbThKwzad2AdAsvhhz0uH76gqrxd7vlfSTVPvFabE2T654psgDi20C7orP4/rBc1UNWIv9qZLXYLtORmDzviwp4PcM1OlUryjsIQ1HicSYCMCIuguTxsiGeJNLgzHB9KmIhA4p74+1TQXcM4fGDWWPprU00dbCw17Sg9XMmaqCbWtmNZR7JyULtSTbPp6s2NC6rSVgscvQojnqru1GNjx4AbRBKN62U5gQ9ju38hd4sV8J2b4W6iW3D8j12eEC9EWROhUZ+aJRHWSgcco33kLocm25RvPnHKtjgjzh3T8ExDVJEL/6XcmjHba5x828lX5lwnSxpeWVAI8na/RRKC6WUAz2Z9kuaKrINd45JH3iuAWgAuWwg==;MNRawbfSIgw1+290DLpqcQ=="
 ---
 

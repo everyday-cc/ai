@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "This company plans to build a self-driving car with a brain that runs on light"
+    excerpt: "One company planning on tinkering at the intersection of these trends is called Lightmatter, which is going to build the brains of a self-driving prototype vehicle. The company’s microchips set them apart from others in the tech industry: The chips that ..."
+    publishedDateTime: 2022-02-11T15:00:00Z
+    webUrl: "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/"
+    ampWebUrl: "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 55
+    images:
+      - url: "https://www.popsci.com/uploads/2022/02/10/darwin-vegher-IAc1x02D9K0-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Malfunctioning self-driving car? We'll be too busy on Twitter to notice"
     excerpt: "I don’t mind driving, so I can’t think of any advantage of a self-driving car. But I highly encourage others to buy them as soon as they become available, because I think the results could be — entertaining. First, a distinction, as usual ..."
     publishedDateTime: 2022-02-08T10:08:00Z
@@ -54,6 +70,75 @@ related:
     quality: 44
     images:
       - url: "https://img.chdrstatic.com/media/d6868ecd-60a5-4464-96d8-3717b688c396.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "So what happened to self-driving cars?"
+    excerpt: "Apart from the convenience factor, self-driving cars are seen as a panacea for ... where humans can relax while an artificial intelligence does the driving. But here we are in 2022, still stressing out in heavy traffic dealing with inconsiderate drivers ..."
+    publishedDateTime: 2022-02-10T03:05:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/dFGKEqmvasAcjt_GxUIaUPiY6Q6zmnMJIS0b45QonT3FA8lDH1e8sUXgVMkkcEs9J2kWu8LdybkuwV_qB5WLYjaPGtkA1ugVxEFef-XijJbsSbI=s750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Apple’s Mystery Self-Driving Car Tech Covered 13,000 Miles Last Year"
+    excerpt: "As part of the testing of these systems, the firm is required to log all miles covered by self-driving cars with the State of California. But I digress. Once companies have logged all their miles ..."
+    publishedDateTime: 2022-02-11T17:47:00Z
+    webUrl: "https://jalopnik.com/apple-s-mystery-self-driving-car-tech-covered-13-000-mi-1848522875"
+    ampWebUrl: "https://jalopnik.com/apple-s-mystery-self-driving-car-tech-covered-13-000-mi-1848522875/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/apple-s-mystery-self-driving-car-tech-covered-13-000-mi-1848522875/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cfed146f17e73027ca67f13f729aa55e.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Embark Gives Self-Driving Truck to Carrier Knight-Swift in Pilot Program"
+    excerpt: "Self-driving truck company Embark Technology Inc on Tuesday said it was handing over a few of its trucks to Knight-Swift, in what the companies called the first instance of a carrier owning and operating autonomous trucks as part of its fleet."
+    publishedDateTime: 2022-02-08T20:31:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-02-08/embark-gives-self-driving-truck-to-carrier-knight-swift-in-pilot-program"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
+  - title: "Toronto company creates self-driving car simulator"
+    excerpt: "The star of Uber's Canadian autonomous vehicle efforts is striking out on her own and starting a new self-driving technology company. THE CANADIAN PRESS/HO-Waabi *MANDATORY CREDIT* - The Canadian Press TORONTO — One of Canada's leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away from the road."
+    publishedDateTime: 2022-02-09T12:08:00Z
+    webUrl: "https://www.toronto.com/news-story/10568990-toronto-company-creates-self-driving-car-simulator/"
+    type: article
+    provider:
+      name: toronto.com
+      domain: toronto.com
+    quality: 24
+    images:
+      - url: "https://www.toronto.com/Contents/Images/Communities/Toronto_1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "It’s time we got on the right track with ‘self-driving’ cars"
+    excerpt: "Anyone who has spent hours on long motorway journeys will have fantasised about an automated vehicle doing all the work. In the real world, automated vehicles — so-called driverless cars — have been developed more with an eye on improved road safety ..."
+    publishedDateTime: 2022-02-10T00:07:00Z
+    webUrl: "https://www.thetimes.co.uk/article/its-time-we-got-on-the-right-track-with-self-driving-cars-k7k5frj7f"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F803c0f66-89c4-11ec-a837-0153f5f4adaf.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
         width: 1200
         height: 675
         isCached: true

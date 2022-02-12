@@ -40,20 +40,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How to use AI-based tools to find your next job"
-    excerpt: "Over the last five years, I’ve been putting AI to work to improve the world of online recruitment for those who need it most: job seekers. To some, this might seem counterintuitive. AI often conjures up images of huge databases and thousands of lines of ..."
-    publishedDateTime: 2022-02-07T15:08:00Z
-    webUrl: "https://www.fastcompany.com/90719364/how-to-use-ai-based-tools-to-find-your-next-job"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/How-to-use-AI-based-tools-to-find-your-next-job.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "bMpevmpnbp3fvcFQDJOyeL3ObhQ1Keht2+XvIutCEbEZzVlcMy4d/rf61rARMRjUcQ2SWM6GeU6v1/RX8Mmk1yI6uYg4u8qK1jPxWwjTiu8gcVGpf9fumhKPIEsd9cjselfUDcJMh5GhCcbOz8wn6m/SOBBt/A5oBY1a6O6hiWfmA3hpmIZZF+U371fYzKXCELQdwym4fByzDIcCqPkqE/DyLX2hvIwSgRAWyEo0lV/r8B9BC+Q8+kyAnoOhjeWCMshcfVSQ1nwYuEmejg9ekn41fJbopNBPYzJ9i+x5VlnsrJOAHxSptEbF3gLEacoFZ13RVDovurgGzU+8/oU0JhIM+zNTgZJ9NmBpSjVmjVw=;VaMeI582lXmCTTtYbTNj4Q=="
 ---

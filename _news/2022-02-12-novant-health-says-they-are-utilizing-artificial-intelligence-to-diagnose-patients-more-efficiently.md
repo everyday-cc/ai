@@ -8,8 +8,8 @@ webUrl: "https://www.wsoctv.com/news/local/novant-health-says-they-are-utilizing
 ampWebUrl: "https://www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/?outputType=amp"
 cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/?outputType=amp"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/es6QH_Gnh184_-p_5vst-k_j3A0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/44ZWQPS2YBEIDDSCMEW3VDM7IM.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 810
     isCached: true
 
-secured: "xBqPuaO9pB4Ho0vK6UHcRuoK3m+swDU/Aong2cjdcOzeplRMQHwGVPSniznYMWwXMIT9SslzSfmeWof935icH4X3/Y/Lw+mLzSFwtIOfQtCaRMpXWznJKfirQkxxP/tr2fjMTuQWC1sVGvvqmcM7rPkU+jKUFz3gjNJ2Gdpod7vSqGxpMND5E+8X6f6RSIO9O3nQUk+BUE2HSGPplVvSORqNjrxFrW3abpFyZKM7/FKFSpn0kL8GIoTjCh/1Oma3Nw5oyUlG/Fq/a1lxqoWT9S4u5bPt5VeFt1QGSiYSQN5vLe7b1JbY9zMmo+9YKu/OW3OHjTlJyL8cX98bST8Ad46vyPE0OY08AM1Tu52mFAA=;XgHg1ESfPRPTMGWwm9kVgw=="
+secured: "sCm4b9rW+1d9pKb7kShgbaN7lpRvtUmwFQFFgzZyIATZmivy1VgNngXuPiR7mMj1JN9u0WJOHFPwiiLlbo3ixDQXOV/eaMbqsTzQ47gpa0vzUw03PmDTQcFXBfeKJn6Hs17M3Ppb4rIVqEvogBqxGzQOuYXAc6Z07k25kLU0hdMiqvGSNS+dzDLBcGpTAVzYgl8Rc3usOpprJiNeoBMEHtk1baHvOWsjpwqn2F0M/oXMgx33MdOL4E4DZ8BVAbNQ9wi7sgsl5UR5DhF3EWbnqnOTY0zahr9KcaQUnHFurnr/nU388uxE8I8OJsSYIU9fR1iU33LsuzqzoYbPE8IIR4i6fx4oN9XSw734ZwAdxKfFr0lRNGssFersclmUx9haC0woxtTBaGrrLJ1+fJuZwhtyuK+62hFChye0m/rIwXiu7KFIrMkofCtACzd9hAxYu18a+Egno/hXpldmehSYBTNP2g479DsPOrJMhYdfuQ3h5JMcAkV2DR59AmOmWcrd1F1T3L7hXjyTJY9GpnQpTg==;ES03J5TVH/NCAhum9TbblQ=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "It’s time we got on the right track with ‘self-driving’ cars"
-    excerpt: "Anyone who has spent hours on long motorway journeys will have fantasised about an automated vehicle doing all the work. In the real world, automated vehicles — so-called driverless cars — have been developed more with an eye on improved road safety ..."
-    publishedDateTime: 2022-02-10T00:07:00Z
-    webUrl: "https://www.thetimes.co.uk/article/its-time-we-got-on-the-right-track-with-self-driving-cars-k7k5frj7f"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F803c0f66-89c4-11ec-a837-0153f5f4adaf.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "n/2KpV+I6X7xULUuDz3O9uoi1LdyLiAsW76vBnEO7XAO4wP1q1D0zBjZ4pTGwgcsRIlpuu0r2Y6PPFaI6FAlCx+FBHfq+LTkgna3NBLYkUcxnYcVuAAIC1qZSpsK8biVxEa9Ot0i+c/G2cp2HWgKLbiMck7vTP85FlY811qqJlBhjzWUASHbRv8SNG7fTfIqkiHeZw3RHi783OnU0TFN/I2o+6N+/1UbVxwzHEKfOnq5DxcSKFthkXzqatfjnoi59TjQX+HqpZtgBpZ1ih1jxrVkmTM0XjRcTtjODd5h9UiP74UJZNEZ2hzVGFEQKQpcWWiyKQrH10BWEWQshyk/nOwyv1WE00VQUZ3dUsZfsor3ZghWLiGKfxO7G7W4598/rRjJT73x/lXfh3qYHhOsFTl8NIS0V+SJdqhu2KJiehgmt8cunYnp9ee8tJRH0gwnFeXfcBUduBe0muoUhTyopmafDRWnL/mB7rEyKYoFHBCYwYVt8TnxgQKrZNiznRZwzvyv4kwE9HXvDgS7tRijIg==;z/yBxfIZKeoPxaLaFXBrKw=="
 ---

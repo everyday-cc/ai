@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/tech/artificial-intelligence-human-b
 webUrl: "https://www.independent.co.uk/tech/artificial-intelligence-human-brain-ai-b2011188.html"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "New Reprogrammable Chip Lets AI Learn Continuously—Just Like the Brain"
-    excerpt: "On top of that, the devices can be manufactured using conventional chip fabrication technology. After testing the performance of individual devices, the researchers then used their data to create simulations of large networks of them. They used the ..."
-    publishedDateTime: 2022-02-07T15:01:00Z
-    webUrl: "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/"
-    ampWebUrl: "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 74
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/02/ramanathan-chipLO.jpg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "PhVlCsT6B2bqEL0GGQiKvHSzabdH82pbKhZ/JjQZ5Mg9FnqquUkw3uk3NyC15o05URmv3Liu1KyWJFD8qRAOejYqBKRC6jLQRBpVTnunTdd8ryQWnUxe3I1/9hKyVrX3jiuXDADzeIE/zT8+MIJHjigvF+Qwf6l7TmpGz/cPK6M1WawojuD90Z75NUJ03v4kp3aJ6hUcXwsvWJ2sC4I+LZ5BtGpdQoWIlqLsP+9RTx05Jqyiu8qbl1RczoZzDEtkT1R6oLEch+sSMQrBdoyfHKEh/y2cMP3MPVbLWx02QWAt+I2Zuha81d0GMbPKUpOWyBiI9pl65seTu7b/+qImDbH0BEBUbjnWkwFXokqNLpXeruKDFo8N137RyaTNKWypigHAePKxmm9iAjtGVG2bLGpnHa8dV6+HqxOomajxaLVD24WAZhvmFwxS8xUCVHrSe5d4Gc8AcyL8ceKYhyMYPokGlsodOfD5zIiPywZ9rJZNi2RTImWYtgn5CEVlgxKQNPoymSTZ6bv7p9BXKqwImA==;OxcobtFl5NM5g/lnr7CuBQ=="
 ---

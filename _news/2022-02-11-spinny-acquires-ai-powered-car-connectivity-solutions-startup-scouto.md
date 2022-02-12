@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/spinny-acquires-ai-powered-car-connec
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:
