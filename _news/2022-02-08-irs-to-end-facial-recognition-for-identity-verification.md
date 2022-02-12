@@ -42,22 +42,6 @@ related:
         width: 1079
         height: 449
         isCached: true
-  - title: "I.R.S. to End Use of Facial Recognition for Identity Verification"
-    excerpt: "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ..."
-    publishedDateTime: 2022-02-07T18:47:00Z
-    webUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "tjGjGw0nJVVlUBVZXOBZwOQ2xtm6CzCCUhv55E7m8rtrhvmX+d8d/FjB4LO+V1J7rVp8mAfNZovfZLUdn2+CC6gyjNXBKiXwK7KDNpjGMewhUad9RUN5tFiWv2UHc9GPCJc1kelVFdcRyh+TfNE4aYTl9Vgv3zdPZ9t6JRJ9XNRSjnh7HOMspSgE6nAX7jZzErrqmwanB+YxIGa+hS//eU1VwuU1o2HPA99g/2ZAhGzzE6KCc8GUUqkzunAaDJfZwMSJ1/y/XF3qeUIFDxwIM2Bx44cpqblHLFiwtjbzCy0F/lmhFFrvhTwJRB4DeOr7QbAHuVGwAh7tPRov9kTFx+UJXjQwogOioil6QTbxLVCKPnKr0icsCQ99M4omNOeps/SJXMg2Xyfrbw68ALMOggE3Osz3c4gufY77MzEekOoZp2h3qKTeFX7oxjjrbKjTMdkhfweBtyXeEOFqkz2KWIT2iNLyVUdfiEq0L06064UbC5mB2b1rP8roZpRNpGE3Xi9YrCjzCsayEMnzoNPDDA==;nhj+7HGiHsKVHTKJbLn0mQ=="
 ---

@@ -2,17 +2,17 @@
 category: news
 title: "Why It was Important for IRS to Remove Facial Recognition"
 excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-publishedDateTime: 2022-02-11T10:08:00Z
-originalUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
-webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+publishedDateTime: 2022-02-11T09:48:00Z
+originalUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Info Risk Today
-  domain: inforisktoday.com
+  name: HHS
+  domain: govinfosecurity.com
 
 topics:
   - Computer Vision
@@ -474,22 +474,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Rep. Huizenga introduces bill to ban facial recognition technology from IRS use"
-    excerpt: "WASHINGTON D.C., DC — Representative Bill Huizenga of Michigan's 2nd District introduced new legislation on Friday that would ban the Internal Revenue Service (IRS) from using facial recognition technology to verify identities. The Republican Congressman ..."
-    publishedDateTime: 2022-02-07T17:24:00Z
-    webUrl: "https://www.wzzm13.com/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
-    type: article
-    provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 55
-    images:
-      - url: "https://media.wzzm13.com/assets/WZZM/images/d36afa4b-04a2-4826-9abb-7c920fc9c63e/d36afa4b-04a2-4826-9abb-7c920fc9c63e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "You & facial recognition: Look for government to find more verification options"
     excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
     publishedDateTime: 2022-02-09T11:18:00Z
@@ -881,6 +865,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "o0pyCM3/E7F3RRME9PtwSzRXuQzs6RCXKyOqhtDRZuojM86jeal1V3GH/xleyBQNIOmAXD2s6dHW16o8XAZSBTvAhOifwb2noq+vE5kYJyy9KwwRpAnHUKxHRY/F6KnB9tFKVg1CCrlPnKlqF08v3bAOORhmkV/Wl0y3H2Td/DbxQfbdGIg4TyGia9Mb6V20Qem6koJWOvn/vmllmMVVwN/AX2sd3JJ20kmpzpbk3AyuORM1zrryIlaXiiHOjXsFrAvJcI6RnsP1btqBcC0sGE4/d6bilKxeV9lwbLIQJBkz6qCTEOrCuqrF9fnsQrmNY36b/Ji4lqdzY/Kq5CfPS7xYjH4meaUemboYbHtirfP4Xe0eqpnzPFZUYp6A25bHso9oL6wE9+dw98KiWnNv4yKWPjVFHyVHzbQr/rxVeZheSd1M48ltb7g/hfOCkC0VFDvknELXxYsHzdRh4fIWY2iiUV+9Re0bk2OIa4H6bMcrgqUC4ybf4uSQzvCg6xDVn7RLztSkdPp5yLXKA5Vu8g==;m71hGhsSxj3tkSUtPoXO7g=="
+secured: "zfz1JH3C5okhjW4t4wvdHdmzJLr0zTBBgZVuDlg9Zs6AHghjN1x/H3HczGlA+jC0+ttzkHi7KRDZnOFMQRrYy8loOMJ6gLuzbp8hHs3GLd35dZsZEowH6duC8S/40oMS89OlYSc7on/M3WGIhZLedgG+JacSzTJZDHLqf4oQzQf70aL9JQuCbmIY4xQ+TZrgSrQZm+pVt53c1FgviqlaxiM+4MXcZdbhaob6GSYyFKds98/MkEvSzj94+1E4eZHXkwUqIv0Im01qrdNXfBTPXhQrVlJWPUJGsezlNsaXz+Q1pCDHKuvk7GJ7z0BS14WEDxOQ9iJrHaHeIPSWfC4E3Xso4PZCcSTGAoHqPjGtb2M=;p91RneqfZBQ1IjwsPfvzIQ=="
 ---
 

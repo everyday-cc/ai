@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Technology for creating power-efficient AI processing for Edge solutions"
-    excerpt: "Our intimate knowledge of memory technology means that we have been able to create a solution for the next technology demand of integrating arithmetic operations within the memory. It is another example of us seeing what the industry will require in the near future and developing a solution that will be ready when the need for AI at the Edge becomes mainstream."
-    publishedDateTime: 2022-02-09T09:18:00Z
-    webUrl: "https://www.electropages.com/2022/02/technology-creating-power-efficient-ai-processing-edge-solutions"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 18
 
 secured: "qjz1ndr7EGmrg9+3YBSBZ23P1aSGcJsqEmT0Pe5BSheUwMBkys73tp1sKeAG6MIadZjW2/3gnG4nmzC1n5Kcwmse2lOewbHloxOg1IFEsX4kiBktkpRDTQjn8SLYyPOjrK1l1MnLxcCSNxocZMW2mMaJzPimpc8L62GSG9/eHki9q7qhIX6iBPpszuVeXEUeNCgvUPxe54UMFSEYvjlsekr3DnjgjbEI3GvxAIUd250njqvqkaO7qFHbfi1Ro2y15uqOADtItxzdOgHxm2m1VhgGZBgbVyYwFg6hO73I2u3/oxTx2eGcbmHoEbJOrePUxNqk54cX97t0fTrrJTPah8gylWY/I9Nvv27X1dpRn4I=;FNkyfNhLnHwU/XB2/F/vHQ=="
 ---

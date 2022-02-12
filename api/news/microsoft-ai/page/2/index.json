@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-25-momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings.md",
+      "title": "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings",
+      "excerpt": "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/414815",
+      "originalUrl": "https://www.entrepreneur.com/article/414815",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-microsoft-and-customer-fedex-partner-on-logistics-as-a-service.md",
       "title": "Microsoft and customer FedEx partner on 'logistics as a service'",
       "excerpt": "Microsoft and FedEx reveal more about their partnership around analytics, supply-chain and logistics management and specifically how Dynamics 365 will play a role.",
@@ -1371,41 +1423,6 @@
         "AI",
         "AI in Security",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-161-billion-by-2022.md",
-      "title": "Cognitive Computing and Artificial Intelligence Systems Market in Healthcare Expected to Reach $16.1 billion by 2022",
-      "excerpt": "Major market players such as IBM, Microsoft and Google have made significant investments in finding healthcare uses for cognitive computing ... software and services. Whereas, based on technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2019/01/cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-16-1-billion-by-2022.html",
-      "originalUrl": "https://www.medgadget.com/2019/01/cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-16-1-billion-by-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

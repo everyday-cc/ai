@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/extract-entities-fro
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "I.R.S. to End Use of Facial Recognition for Identity Verification"
-    excerpt: "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ..."
-    publishedDateTime: 2022-02-07T18:47:00Z
-    webUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "IRS to end facial recognition for identity verification"
     excerpt: "Last month, ID.me faced criticism when CEO Blake Hall admitted in a Linkedin post that the company used Amazon's Rekognition technology to compare video selfies submitted by users to its own, bigger internal database of previous applicants. FOX Business ..."
     publishedDateTime: 2022-02-07T23:19:00Z

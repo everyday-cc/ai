@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-17-commerceai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace.md",
+      "title": "Commerce.AI Expands Platform Availability With Launch Into Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to Commerce.AI, giving companies and their teams an easy way to leverage the power of unstructured data to build next-generation customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/commerce-ai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace",
+      "originalUrl": "https://www.digitaljournal.com/pr/commerce-ai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/a2/ff/6eacbd817226ad531d0b95c7a86d.jpg",
+          "width": 512,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-effect-of-bilingualism-on-infants-cognitive-flexibility.md",
       "title": "Effect of bilingualism on infants’ cognitive flexibility",
       "excerpt": "Research suggests that bilinguals often outperform monolinguals on tasks that tap into executive functions, such as those requiring conflict resolution and cognitive flexibility. Recently, better attentional control has been detected in infants as young as ...",

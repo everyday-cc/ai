@@ -124,47 +124,19 @@ related:
         isCached: true
   - title: "Artificial intelligence beats top human players in popular racing game"
     excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
-    publishedDateTime: 2022-02-12T02:25:00Z
-    webUrl: "https://www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-    ampWebUrl: "https://www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
-    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
+    publishedDateTime: 2022-02-11T21:25:00Z
+    webUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    ampWebUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
+    cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
     type: article
     provider:
-      name: WUWM
-      domain: wuwm.com
+      name: WAMC
+      domain: wamc.org
     quality: 57
     images:
       - url: "https://media.npr.org/assets/img/2021/06/15/ashish-headshot-1-_vert-3e16574e47e641b5645c4db11cac4def468309c8.jpg"
         width: 2197
         height: 2930
-        isCached: true
-  - title: "Gran Turismo developer teasing \"breakthrough\" collaboration with Sony AI"
-    excerpt: "It's website list four main areas of interest - AI ethics, imaging and sensing, gastronomy, and, of course, gaming - with this week's Polyphony news set to be the first project announced until the latter banner. As for what forthcoming collaboration may ..."
-    publishedDateTime: 2022-02-07T18:45:00Z
-    webUrl: "https://www.eurogamer.net/articles/2022-02-07-gran-turismo-developer-teasing-breakthrough-collaboration-with-sony-ai"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 38
-    images:
-      - url: "https://images.gnwcdn.com/2022/articles/2022-02-07-18-37/gran-turismo-developer-teasing-breakthrough-collaboration-with-sony-ai-1644259037563.jpg/EG11/resize/1200x-1/gran-turismo-developer-teasing-breakthrough-collaboration-with-sony-ai-1644259037563.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Sony and Gran Turismo 7 Dev Tease “Breakthrough AI Project”"
-    excerpt: "An official announcement is coming on Wednesday. In late 2019, Sony announced an artificial-intelligence division, exclusively focused on “unleashing human imagination and creativity with AI.”"
-    publishedDateTime: 2022-02-07T17:48:00Z
-    webUrl: "https://gameranx.com/updates/id/287453/article/sony-and-gran-turismo-7-dev-tease-breakthrough-ai-project/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 37
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/02/gran_turismo_7_090921.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
     excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
@@ -193,20 +165,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
         width: 2400
         height: 1350
-        isCached: true
-  - title: "Gran Turismo 7 developer & Sony to announce “breakthrough project in AI” this week"
-    excerpt: "Sony’s AI department has announced it’ll be launching a project later this week with Gran Turismo 7 developer Polyphony Digital. Though details are currently hazy, the official Sony AI Twitter account teases a few details. (Spotted by Video Games ..."
-    publishedDateTime: 2022-02-07T17:28:00Z
-    webUrl: "https://www.videogamer.com/news/gran-turismo-7-developer-sony-to-announce-breakthrough-project-in-ai-this-week/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 31
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/cf49ef2b-2867-4429-9b10-c56c49cb92f0_Gran-Turismo-7_2020_06-11-20_001-1-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Sony AI Unveils Gran Turismo Sophy™, a Breakthrough in AI"
     excerpt: "TOKYO, Feb. 9, 2022 /PRNewswire/ -- Sony AI, together with Polyphony Digital Inc. (PDI) and Sony Interactive Entertainment (SIE), today announced a breakthrough in artificial intelligence (AI) called Gran Turismo Sophy (\"GT Sophy\") - the first superhuman ..."

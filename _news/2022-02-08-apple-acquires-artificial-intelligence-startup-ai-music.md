@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 type: article
 quality: 172
-heat: 332
+heat: 342
 published: true
 
 provider:
@@ -248,6 +248,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/AI-Features-Auto-Firms-Are-Embedding-In-Cars.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "How will Apple use the AI music generation startup"
+    excerpt: "AI Music’s mission, according to its LinkedIn page ... Apple’s most recent acquisition was Primephonic, a music startup. This year, Apple plans to integrate that startup’s classical music streaming service into an app related to Apple Music."
+    publishedDateTime: 2022-02-12T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-will-apple-use-the-ai-music-generation-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/apple-music-ai-b_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Apple acquires a startup company that uses AI to adapt music to listeners"
     excerpt: "Apple appears to be continuing its acquisition of companies concentrated around music. After last year's acquisition of Primephonic, a music service for streaming classical music, the Cupertino company recently purchased AI Music,"

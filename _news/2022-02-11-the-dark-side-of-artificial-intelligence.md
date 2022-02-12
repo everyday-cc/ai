@@ -28,33 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "The power of AI-driven IT Management"
-    excerpt: "Symphony SummitAI offers AI-powered Enterprise and IT Service Management solutions to business enterprises. Our goal is to transforms the way enterprises work by leveraging AI and Automation technologies to deliver consumer-grade,"
-    publishedDateTime: 2022-02-09T12:55:00Z
-    webUrl: "https://www.sify.com/technology/the-power-of-ai-driven-it-management-news-technology-wcjlQDhfchdcf.html"
+  - title: "The AI edge chip market is raging"
+    excerpt: "Dozens of startups continue to get tens of millions in venture funding to make chips for AI in mobile and other embedded computing uses. The race shows no sign of slowing down."
+    publishedDateTime: 2022-02-11T12:51:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://www.sify.com/uploads/wcjlNMiagiidg.jpeg"
-        width: 400
-        height: 400
+      - url: "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 690
         isCached: true
-  - title: "How does Artificial Intelligence shape the future of customer communications management?"
-    excerpt: "Gone are the days when it was enough to respond to a comment. Many businesses are now evolving from customer service to customer-centric, which is crucial to thriving even in today’s competitive environment."
-    publishedDateTime: 2022-02-11T12:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-does-artificial-intelligence-shape-future-customer-venkat-bentech/?published=t"
+  - title: "How AI and machine learning is shaping legal strategy"
+    excerpt: "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ..."
+    publishedDateTime: 2022-02-12T09:15:00Z
+    webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 54
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE7i9SOsVxmrw/article-cover_image-shrink_600_2000/0/1644581375935?e=1649894400&v=beta&t=KIihwmMwIVQYYX5IrIBecfjZZEuIUWUfsaxzkHP4xHU"
-        width: 654
-        height: 350
+      - url: "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "Wallaroo Labs Secures $25 Million in Funding Round to continue growing in the machine learning market"
+    excerpt: "Wallaroo Labs, Inc., announced it has closed $25 million in a Series A funding round, enabling the company to expand product, sales, and marketing, and to release a free community edition of its machine learning platform. The funding round was led by ..."
+    publishedDateTime: 2022-02-11T18:51:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Labs-Secures-25-Million-in-Funding-Round-to-continue-growing-in-the-machine-learning-market-151406.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "woSKFDCTjNwAb1wHhiGiapHyUgzlfmQ0H8MuoW5cCSSQ+zSW586KlDHq4pO0qMY8B6MVdkHfBGjtBarvgnjQD5ely6lh31sODwWC2chfr7XjhZ2mNqdBwMgZvt28qKm7ICH8FNf7gpVG6fUi98z1BA+O6iuALRVx7X38/ssNAZgH8e4KlXpZI89t9G4e+2UDnUzpTN8wGRrUWnQZvYFpxj1EypJnjzvXORGe37ytwBqkyAQzEFQytGqJW8IbNlO7lwlXf2jbjw+YjS8LRC4a4VhdkWseAQLOJoBSaj1kzrzwtfW4nYHXMZZ8+LUbcZL2uLD3t1AY5imjeGTA967cb8kX6inN2yru34pDyiHanXk=;njV1nn0T3+fhO78kSaerNA=="

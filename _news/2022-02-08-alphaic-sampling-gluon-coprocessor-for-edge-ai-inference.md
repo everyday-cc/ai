@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/alphaic-sampling-gluon-coproc
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/alphaic-sampling-gluon-coprocessor-for-edge-ai-inference/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,38 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AlphaIC starts sampling Gluon chip for edge AI"
-    excerpt: "Register here. Start-up AlphaIC yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaIC claims the chip delivers competitive performance ..."
-    publishedDateTime: 2022-02-07T17:28:00Z
-    webUrl: "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/"
+  - title: "Technology for creating power-efficient AI processing for Edge solutions"
+    excerpt: "Our intimate knowledge of memory technology means that we have been able to create a solution for the next technology demand of integrating arithmetic operations within the memory. It is another example of us seeing what the industry will require in the near future and developing a solution that will be ready when the need for AI at the Edge becomes mainstream."
+    publishedDateTime: 2022-02-09T09:18:00Z
+    webUrl: "https://www.electropages.com/2022/02/technology-creating-power-efficient-ai-processing-edge-solutions"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The AI edge chip market is raging"
-    excerpt: "Dozens of startups continue to get tens of millions in venture funding to make chips for AI in mobile and other embedded computing uses. The race shows no sign of slowing down."
-    publishedDateTime: 2022-02-11T12:51:00Z
-    webUrl: "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 690
-        isCached: true
+      name: Electropages
+      domain: electropages.com
+    quality: 18
 
 secured: "poclhwB20W2BhzmnJJHSk4TOfubeIgcTnlgWYWxKc/zZWGIf8os6QpKMXShdrPl2gt+u51RjJobrSoBktpCUe2F92KpfPRghUYjuwEtplyqL3kwjVdQbyLwZ5gkJ3pWld/USyYrccRVIBvr9qcAB/wTYi/WWL48ep5TYIYTOzymy0uEyRGGZtl+aqoTvNwR2xdP7uR5M6KKBH/9WH9/RJDkOGj7j6S5FBpk7MhWulPoGJ2eWG0gYWwaBGa/1D4WMpky9JqUUE1G52XkvFLjdk1HTQbdEihA8QP0OMudoZbB0p98V6Yx6HebG5Nom0FxLke5cI6dK6O4OnqDQ/AhzyxK2GQNYB8LjimJLlM4vyKRyyzf4ucIB++zsJBM298po5RbOKeu3EWP7MYIE246YroMqXt2fmFSm6+ngdKm99xQSDzYhbuljCYw/QiKeG+17ahqcm+W8M30SlTLQ4JlSUaL1OKw7nOkr8kTbCjwIvc+KjmY4NZjg/SdjZxbSJEc1bHObOXWcRwzp1tEUiM7P1w==;Xbm9wuOoksSXCaAMwoF1tg=="
 ---

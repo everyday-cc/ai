@@ -109,6 +109,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Worldwide Smart Hospital Industry to 2026 - Modernization of Healthcare Infrastructure is Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The “Global Smart Hospital Market (2021-2026) by Components, Services Rendered, Application, Connectivity, Artificial Intelligence ... Factors such as technological advancements, increased healthcare spending, a sedentary lifestyle, more awareness ..."
+    publishedDateTime: 2022-02-11T16:54:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-0cfa55926bc24e99aafea9847e2b3ded"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "X55Uzpuhhxw8pxAd1fF1sj7tivtZrCH1fExvE4voVkFhTceipQQOF0AGzUNZkXyPHuFBADFnTNpAJ7HdKPJdc3wVLcaulDMA9sJ9QaUMQ125/JF063RBvxECYB+hCq3Y259kbzIjiH75KOIiGuPVW6rSgTnI27rxWWNu9eNcP+jEh9pJl94D1FqagjyqeeSW7JPn9OITjKU3gegyxqSXqB7nQxsvKJFmI7sQ7zvS/0R1uPIFp6bVvKJYiKfKhxVfX0flIso187knw8gMKhUjxqq5tt5PiZzqs8reH0T9Oivng6OBnr/eRP/mVeicwqhgZi6bFljPajY/az3t/a+pq6Xd7Cpa9pvWQZWlrXZP6wA=;+zWSZqSHQueJsA3hALad7w=="
 ---

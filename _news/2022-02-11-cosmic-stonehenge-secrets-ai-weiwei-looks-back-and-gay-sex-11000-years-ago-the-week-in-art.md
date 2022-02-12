@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Ai Weiwei on the Bird's Nest, the Olympics and all that's changed"
+    excerpt: "Chinese artist Ai Weiwei, who helped design the stadium, said it was conceived in the spirit of democracy and freedom. “Its balance and willingness to expose itself corresponded with the political forms that I wanted to see emerge in China,” he wrote ..."
+    publishedDateTime: 2022-02-12T09:30:00Z
+    webUrl: "https://www.nbcnews.com/news/world/chinas-dissident-artist-ai-weiwei-birds-nest-olympics-rcna14331"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna14331"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna14331"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220201-ai-weiwei-mb-1149-e2bfd8.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Artist Ai Weiwei Warns of Chinese and American Authoritarianism"
+    excerpt: "On the morning of April 3, 2011, the renowned artist Ai Weiwei was picked up by Chinese police at an airport in Beijing. Later that day, he found himself in the back of a van surrounded by ..."
+    publishedDateTime: 2022-02-08T15:15:00Z
+    webUrl: "https://reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/"
+    ampWebUrl: "https://reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 57
+    images:
+      - url: "https://i.ytimg.com/vi/IvgLUB5aF_4/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Ai Weiwei: The Liberty of Doubt review – so dull and sentimental it’s offensive"
     excerpt: "But this edgeless, confused and mawkish show suggests his art is less so Last modified on Thu 10 Feb 2022 23.57 EST In 1995 Ai Weiwei held up an ancient Chinese ceramic vessel, opened his arms to let it go, and stood there as it shattered. His new ..."
     publishedDateTime: 2022-02-11T03:57:00Z
@@ -45,6 +77,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/7816a8b539ddb034fd4626c4fe2d81c077044b59/164_317_4173_2504/master/4173.jpg?width=620&quality=85&auto=format&fit=max&s=484de7ac7aeb322e66567b7462f12dd4"
         width: 620
         height: 372
+        isCached: true
+  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
+    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct"
+    publishedDateTime: 2022-02-09T03:59:00Z
+    webUrl: "https://www.stltoday.com/sports/olympics/the-ap-interview-exiled-artist-reflects-on-beijing-olympics/article_d221181b-3a40-5ed9-81e6-937e0293f377.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/78/1786f1da-6bc0-5005-879b-c12394011d55/61fcb2ff9b2be.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rgGK+f+H9PnnNVJNWyFiuJs4edekzGtK5sUOQdZSj/RTXi6hAXfYx/FAB9IZURbq+kMV4EAER1AUrpT6PXVzrzd1kv8/jWI2YfRhCGZCe/cc5FEst0zflOg660CzLVaEsfMLmU8ObRd0Yoj/Wnrj+81HMNfRD3PncL6YxaZb65QMcpJwUwX7ZBsletCdzbsOU3kt/II5eJsCk6PlVWk9QEwl6tdGRETWyKU7ulmKnpJ6AiVI/X7doajpH+/fJEd0HEI0RSLsj7muIwQpgDPiWcjNqDLmTYCotOYTPJfe9MgNDrKxWvEEtT0tsnFrQMfdK8x2F78BntpfClMwQxCS8ApqXCNeYtzB+tr6MmyUwW27/q8hhmY8EQJ3gs6D3gmbORSh6ms9cYyPlb6X80mgtA5wCqkDd+kPwHUm+xMu4OL5ebf13pSQLmrPuCWvrSQ7anOVr/K6tzMTqdhgShgGCehYysVQdTr0LMYoccL6EaQZk7cEUG3IZM9PX53OynxuEqyi9svI+zI7EFWnSV5VTA==;1CVFdqihp9XG5CATEvMNXg=="

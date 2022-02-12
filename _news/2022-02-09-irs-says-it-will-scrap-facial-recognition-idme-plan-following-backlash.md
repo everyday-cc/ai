@@ -476,22 +476,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Rep. Huizenga introduces bill to ban facial recognition technology from IRS use"
-    excerpt: "WASHINGTON D.C., DC — Representative Bill Huizenga of Michigan's 2nd District introduced new legislation on Friday that would ban the Internal Revenue Service (IRS) from using facial recognition technology to verify identities. The Republican Congressman ..."
-    publishedDateTime: 2022-02-07T17:24:00Z
-    webUrl: "https://www.wzzm13.com/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
-    type: article
-    provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 55
-    images:
-      - url: "https://media.wzzm13.com/assets/WZZM/images/d36afa4b-04a2-4826-9abb-7c920fc9c63e/d36afa4b-04a2-4826-9abb-7c920fc9c63e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "You & facial recognition: Look for government to find more verification options"
     excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
     publishedDateTime: 2022-02-09T11:18:00Z
@@ -753,12 +737,12 @@ related:
         isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-    publishedDateTime: 2022-02-11T10:08:00Z
-    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
+    publishedDateTime: 2022-02-11T09:48:00Z
+    webUrl: "https://www.govinfosecurity.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
     type: article
     provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
+      name: HHS
+      domain: govinfosecurity.com
     quality: 39
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"

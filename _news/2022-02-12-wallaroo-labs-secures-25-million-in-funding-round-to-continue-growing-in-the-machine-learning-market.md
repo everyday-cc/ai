@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "SecureThings.ai Raises $3.5 Million In Pre-Series A"
-    excerpt: "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team"
-    publishedDateTime: 2022-02-09T13:11:00Z
-    webUrl: "https://www.entrepreneur.com/article/417696"
+  - title: "The AI edge chip market is raging"
+    excerpt: "Dozens of startups continue to get tens of millions in venture funding to make chips for AI in mobile and other embedded computing uses. The race shows no sign of slowing down."
+    publishedDateTime: 2022-02-11T12:51:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 690
+        isCached: true
+  - title: "How AI and machine learning is shaping legal strategy"
+    excerpt: "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ..."
+    publishedDateTime: 2022-02-12T09:15:00Z
+    webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
+    type: article
+    provider:
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 54
+    images:
+      - url: "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "The dark side of Artificial Intelligence"
+    excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
+    publishedDateTime: 2022-02-11T13:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF6Ivgx0ARsEw/article-cover_image-shrink_720_1280/0/1644578178017?e=1649894400&v=beta&t=BQWlqTiWMAf_M-GhvqL_SDe4Dd9eXw23XOaJOgR6a1E"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "RVVKyiNYRMATZOBHllpRLjcyMiwIK5F5ipF0S92j8372vYm/bKUksHlJ77PXR5by4j57whHaCCX7TsDSpEar7EWZwLM3rVPRVp0K4aUA6Ql9AMzvKdPLfw7PMlciucG+Tah4l68ptkeLp0f/Vccc4V4wMMYqjUUabXAkmqIpcF1xDlUvoBtaoCImUJ6NMQ5Ooln66ANXRKxrVYO3gHjp0FOEtp7h3UY4/qL0vP5Uqb/kyZpzHHV0RBLLTKvC49WTmHIhRHrHu37hlovMTw3DwQSRLLtQyIy3ArTKKWkw4BwgJcyDhT3ZyqdzybUiw+GEAf0QyYEXDlXhXhKdw2e02pBqVrCmV8pWp5MhQ/NPwg0=;R6+dRECEFl/eEQEqBjxTfQ=="

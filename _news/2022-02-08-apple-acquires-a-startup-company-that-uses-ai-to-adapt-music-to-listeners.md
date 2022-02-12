@@ -263,6 +263,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How will Apple use the AI music generation startup"
+    excerpt: "AI Music’s mission, according to its LinkedIn page ... Apple’s most recent acquisition was Primephonic, a music startup. This year, Apple plans to integrate that startup’s classical music streaming service into an app related to Apple Music."
+    publishedDateTime: 2022-02-12T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-will-apple-use-the-ai-music-generation-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/apple-music-ai-b_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "w7/MmZOkBw2UH6UEQlAUrdut3cz0OEv9AtwHuhRsGizdXoVIRQnBXeJu4TDAwTojI9CjPDCYtGNsgk6W175HOicW+J+et0c077m4XYJFfzFGJl9soEXTjBodYSVM+wRND+jOf8up+AFxccCWMGeRsEdlkpht8H9rme3WfPfjZt0kreTDCg77epWiqsKjQnM3MFOngDiXt/smrdLcakWUEhj4u7ty8tyD8B0k0c9nWgs7VXJgdvCXZXYfiPjEz6X9NhXLniXx4lYudkkIWflHxMeBVZ7vD0vIX0FfAybRd1BRWstrahVEaBT/AcSvbEUaWOQ3PxzrKm0Tez8RtdTJqyR5rGf3BF6mDd4XBvfi2nO9DGw72wLXg4aYRmbaBivpEGWqiES+nbB7qdxxhvoe9pg+t919UOkrLn8OO6Nt5KF+ysWH2zVbMRZ2zZWj6hul14Y3zjexTLfOK5uRj9bmn/mlUIERx5+2JgrQFSHRqdF2kqHSIdULSFd20G4p9p9XXzG0cctNjguBNMcsPQn1Jw==;6j6JuJlcKA5oTBGNs3fjLA=="
 ---

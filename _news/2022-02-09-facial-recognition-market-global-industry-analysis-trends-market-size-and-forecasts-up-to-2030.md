@@ -53,20 +53,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Geospatial Analytics Artificial Intelligence Market Estimated to Reach $172 Million by 2026"
-    excerpt: "Rise in Internet Penetration Driving the Growth of Geospatial Analytics Artificial Intelligence Market. The Global Geospatial Analytics Artificial Intelligence Market is estimated to reach $172 million by 2026, growing at a CAGR of 30.0% from 2021 to 2026."
-    publishedDateTime: 2022-02-07T17:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-artificial-intelligence-market-estimated-to-reach-172-million-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.abnewswire.com/uploads/1643623445.jpeg"
-        width: 256
-        height: 256
-        isCached: true
   - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
     excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
     publishedDateTime: 2022-02-09T08:53:00Z
