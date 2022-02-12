@@ -196,6 +196,22 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Edtech firm Schoolnet acqui-hires AI startup NextSteps to boost deep-tech capabilities"
+    excerpt: "Leading Edtech company Schoolnet India Limited has acqui-hired NextSteps AI — a deep-tech (Artificial Intelligence/Machine Learning) startup incubated at Hyderabad’s T-hub startup hub — into its fold. NextSteps has played an integral part in the ..."
+    publishedDateTime: 2022-02-12T11:25:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 49
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1644664901_schoolnet1.jpg"
+        width: 558
+        height: 372
+        isCached: true
   - title: "Apple Acquires AI Music Startup That Can Generate Dynamic Soundtracks"
     excerpt: "Apple has acquired AI Music, a startup that uses artificial intelligence to generate personalized soundtracks and adaptive music, reports Bloomberg. AI Music developed an \"Infinite Music Engine\" meant to create bespoke audio solutions for marketers ..."
     publishedDateTime: 2022-02-07T22:49:00Z
@@ -278,6 +294,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9V6Sd+Z2R5k6ENkuLjKqxbsOj7RQ2MuxRqFS+xfRf1FsMvIDUj3v8rFrerOoimbzfMs5b1/3z3Zpi0CvjwAgnb48vvbJapVfQXOrMh2KFjFfNO8mrmMUi//ZEvlU1iRUChMzojxlq9X701aqg5kE/OBKuFPPbXJze8Q0yQlfn4KYxUqUkXTwVT97OJN9RLGvJRaopYPYl1oQFlqMO946e6u53WNXqNATNHNoddtjxFAw/g0XPlFs3FHuVbeBwlyhN2Mm1eQ58vZxpmZ+CcqaMv4P5j1nBEVYgIxM4II9XCHJfY33irDhM1ZSrvweR2RjuvI6SIaTsT3SoScX663vpE8UH93UPC7ncxnyqVE2320=;a9CvxwOxfYr2//JxiGAhGQ=="
+secured: "E2hghQFUArlw5+o+pB3zuGZheeTQ2F6bF8YmGJAbYk6z96atkrK9HiHMR/66dNnQPlLpfRbzNRcvem7jJ4mKBl3VyrUC0pkNFfKGSFdWry4Tbm7dxlQd1uoGn4mxR5+xFxQhkMNGQ13b09bnTYEHAtJpVxiH1qIaIPagRnc78sZoKdUhxpLJUorwFjzhKB7kKoBDmIXTxFplVeI2cuALnR7a8KjNQIlFYUjm4l8ZCnYU67l13U83IeAEFd98Nu6uBdN0BQui8gWrtYKePShYYv5hFAQkEKk9A38KYYYJ9XEMHeUS7RISegaAxBVU2Zb6h7gVKhDz1o2fAwvSuHVb9kdiSBIseLG+9CTSw7D/Qlxz5SNw1xUbRHuTIaWkpMeph1MGBcgXGzPxo4pM5/NTtX6vLi0tG5g0myTTHxCOh7HZMtsZdvDROpxNuIh89TImvzuFh1fe7TGii5drUYkj3Ozc3xHfNGWA8Fw/Bxr+7i8gRZD0GOeNgWK98UJKIxuqjIfm1+I1jbT5Y2KukuG5xg==;QUTgBDbKBRdDpA1c73Es8g=="
 ---
 

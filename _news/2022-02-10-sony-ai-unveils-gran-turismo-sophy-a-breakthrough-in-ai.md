@@ -126,22 +126,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Artificial intelligence beats top human players in popular racing game"
-    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
-    publishedDateTime: 2022-02-11T21:25:00Z
-    webUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-    ampWebUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
-    cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
-    type: article
-    provider:
-      name: WAMC
-      domain: wamc.org
-    quality: 57
-    images:
-      - url: "https://media.npr.org/assets/img/2021/06/15/ashish-headshot-1-_vert-3e16574e47e641b5645c4db11cac4def468309c8.jpg"
-        width: 2197
-        height: 2930
-        isCached: true
   - title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
     excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
     publishedDateTime: 2022-02-09T16:55:00Z
@@ -170,6 +154,15 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
+    publishedDateTime: 2022-02-12T01:25:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    type: article
+    provider:
+      name: Health News Florida
+      domain: usf.edu
+    quality: 17
   - title: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment announce ‘superhuman AI agent’ Gran Turismo Sophy"
     excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced “Gran Turismo Sophy,” a “superhuman artificial intelligence agent that can race competitively against the top human Gran Turismo drivers.” Here is an overview of the ..."
     publishedDateTime: 2022-02-09T16:29:00Z

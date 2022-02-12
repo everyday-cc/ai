@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood"
-excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be ..."
-publishedDateTime: 2022-02-08T04:02:00Z
-originalUrl: "https://time.com/6146000/apple-ai-music/"
-webUrl: "https://time.com/6146000/apple-ai-music/"
+title: "Edtech firm Schoolnet acqui-hires AI startup NextSteps to boost deep-tech capabilities"
+excerpt: "Leading Edtech company Schoolnet India Limited has acqui-hired NextSteps AI — a deep-tech (Artificial Intelligence/Machine Learning) startup incubated at Hyderabad’s T-hub startup hub — into its fold. NextSteps has played an integral part in the ..."
+publishedDateTime: 2022-02-12T11:25:00Z
+originalUrl: "https://www.telegraphindia.com/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+webUrl: "https://www.telegraphindia.com/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
 type: article
-quality: 67
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Time
-  domain: time.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Telegraph
+  domain: telegraphindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://time.com/img/icons/wallet-connect.png"
-    width: 256
-    height: 256
+  - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1644664901_schoolnet1.jpg"
+    width: 558
+    height: 372
     isCached: true
 
 related:
@@ -57,6 +55,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5lliAQo0yVI/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood"
+    excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be ..."
+    publishedDateTime: 2022-02-08T04:02:00Z
+    webUrl: "https://time.com/6146000/apple-ai-music/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Apple acquires startup that uses AI for tailor-made music: Report"
     excerpt: "Apple has acquired London-based AI Music, that uses artificial intelligence to generate tailor-made music, Bloomberg reported citing sources. The startup had about two dozen employees before the deal."
@@ -186,22 +198,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Edtech firm Schoolnet acqui-hires AI startup NextSteps to boost deep-tech capabilities"
-    excerpt: "Leading Edtech company Schoolnet India Limited has acqui-hired NextSteps AI — a deep-tech (Artificial Intelligence/Machine Learning) startup incubated at Hyderabad’s T-hub startup hub — into its fold. NextSteps has played an integral part in the ..."
-    publishedDateTime: 2022-02-12T11:25:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
-    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 49
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1644664901_schoolnet1.jpg"
-        width: 558
-        height: 372
-        isCached: true
   - title: "Apple Acquires AI Music Startup That Can Generate Dynamic Soundtracks"
     excerpt: "Apple has acquired AI Music, a startup that uses artificial intelligence to generate personalized soundtracks and adaptive music, reports Bloomberg. AI Music developed an \"Infinite Music Engine\" meant to create bespoke audio solutions for marketers ..."
     publishedDateTime: 2022-02-07T22:49:00Z
@@ -298,6 +294,6 @@ related:
         height: 675
         isCached: true
 
-secured: "28CCfzU/NeLYTdCJoeZbVrytctvmHY7gs9YWejB/sfepj5AO6y//oSG94TY4yioP/WRNaM6VxBAH96dgL0jq6fdXdOlORZbckLsAlCOrIXrWjPrZ7dM+18AC5DDnG2NIt8IHhjKw6KcjaoGuJTdA3PErKjcRc2T9vhCdwncuUTK2HEopECaD22xHUn0YJfSnlxanZULfVjRugL0FkOUboRudRBzVaYggtsqXvjm6e4qR1T1AjTpbseL/pS6m3XqEHilYmSJel9mi2HkdhSsOQHO6E3IKa6lV3dWHbTcrekljmIlQFY5H/r9rqKH/nlmQByPK+J+i3TxqEE/Vy3miSg82OrLFmkUuNU/gNDn5KHiczHpyy4rq8IVWA3gGbqw5v/NxRIWvhvQuRz+LLquXenEuH6QYo7wcAGdlVQ224IGIdUy/dlaHFvKTDoRPM6jWBfXjwzIs9eFFlWMNSxXcCvT5afN/Z+hxOBwXg2xlT8OYgNE0LwFzoH/5AwvLzas9NYfly6SIbDvm9loej4AWBg==;MH6iNW9P5gXfjOmTy4xmQg=="
+secured: "hMXlQKJMU072ayyL/A0pVUZ8pFL/vImmIxAFfALVOcra9a/D+TIGiPs4UZtdY+EZiCFm+ehEViRCdx53ci0yQpN3lDeq8JS7s7hr2FJ8YpXA6KUma/i6rJFjZXrXdJavK7BE5Bzyc3l0yuvidtSKd3dPJ6peRLW1I1H1NceHJZcHInW2qOYETXl0G+Sd8qGwpL0wLFbgD8wkZL5aZ8xhC7yPlowh8ISp+oWMfB34nSmRs+k9+W6cp4d/UlDYqTcLjkYajo3+dlVV2rAFyV3xaLyXjGAJalDS2wQrY74B1W/Gy/nA9p+ED8sq1GXrO/SW+Cl55SsU7M88Pl+qERJWtBvOjYikM5tRiin/i+2wjik=;+3YvFqdeJmzKEi/HTObBxg=="
 ---
 

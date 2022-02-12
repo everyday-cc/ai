@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 type: article
 quality: 172
-heat: 342
+heat: 352
 published: true
 
 provider:
@@ -181,6 +181,22 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2022/02/1644308918_840_560-780x470.jpeg"
         width: 780
         height: 470
+        isCached: true
+  - title: "Edtech firm Schoolnet acqui-hires AI startup NextSteps to boost deep-tech capabilities"
+    excerpt: "Leading Edtech company Schoolnet India Limited has acqui-hired NextSteps AI — a deep-tech (Artificial Intelligence/Machine Learning) startup incubated at Hyderabad’s T-hub startup hub — into its fold. NextSteps has played an integral part in the ..."
+    publishedDateTime: 2022-02-12T11:25:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/edtech-firm-schoolnet-acqui-hires-ai-startup-nextsteps-to-boost-deep-tech-capabilities/cid/1851652"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 49
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1644664901_schoolnet1.jpg"
+        width: 558
+        height: 372
         isCached: true
   - title: "Apple Acquires AI Music Startup That Can Generate Dynamic Soundtracks"
     excerpt: "Apple has acquired AI Music, a startup that uses artificial intelligence to generate personalized soundtracks and adaptive music, reports Bloomberg. AI Music developed an \"Infinite Music Engine\" meant to create bespoke audio solutions for marketers ..."

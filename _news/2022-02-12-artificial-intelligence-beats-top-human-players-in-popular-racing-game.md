@@ -2,28 +2,20 @@
 category: news
 title: "Artificial intelligence beats top human players in popular racing game"
 excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
-publishedDateTime: 2022-02-11T21:25:00Z
-originalUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-webUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-ampWebUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
-cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
+publishedDateTime: 2022-02-12T01:25:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: Health News Florida
+  domain: usf.edu
 
 topics:
   - AI
-
-images:
-  - url: "https://media.npr.org/assets/img/2021/06/15/ashish-headshot-1-_vert-3e16574e47e641b5645c4db11cac4def468309c8.jpg"
-    width: 2197
-    height: 2930
-    isCached: true
 
 related:
   - title: "Sony AI defeats human racers in Gran Turismo PlayStation game"
@@ -186,6 +178,6 @@ related:
         height: 720
         isCached: true
 
-secured: "JmdI6cp5klUt4t2Bc0/ohPGi3WZgGv5hddCkdHJ7mYw5s3R21xKEWqWGoOmnJAWseXQRs5y7AsRQ6oYKCkxsql+vpnpsYROp68c7xgC7+MIErm3Q2VA/ao62L2oAny/tB92Vcfzu7H8uwdCtYIbP9LNKo8RGwqPxW1n15C1nLQiBpVj0zhjzyvVxGJUqt+65es4iaRVKau2i2oM1fyAWDlAn6cPqZnSCQVkO5oSbZCjyWg4p2Hu1h048olXIi1rsWkfDUlPfj+u8TayutQzrA/LS1s4BLq9vkN4OdGck7klFPOqVRFKHHoRZ6pftP+uEteVnEidAKFEVnYh79zvs2iyDz26czP2YhRad0RQ8XxI=;fvmYcuZSpwdHJOAg4jP8sw=="
+secured: "A22zywSw0/d8ec0ErlKvvqVW9mN5m3QpEPJeKjcuEch2uWo7pisa8aIAz4ks+V1lOccUwHynz05nGMYQDFeTJLu6Vsf7bEMdMzhPJ53OCR9VH/w/Sn7WF+R+bT2vjir/bPQPvn0tdhu8VHyIvxFbcK7/pDqCZW1vCOjIYd7tFUvmIvrRETMHaqMAayBh34oNjCF0GzLMWzkhosSt+y0/2F1dEVYMrHkVbMyvikZvhXEkz6jDnzwSx2z56DzD5tvM5ZfogyVb2w2unxToLDHJUaAJv/ndzGPeLyeaC54wuE8YlenXzlwpBXV7uLrdpTFKCTdejUz4xDn3SrvnLToGKJlKR7HC66lZTcDXe25Z/80=;/dw1rbF+9+L1iQjmKXgk+A=="
 ---
 

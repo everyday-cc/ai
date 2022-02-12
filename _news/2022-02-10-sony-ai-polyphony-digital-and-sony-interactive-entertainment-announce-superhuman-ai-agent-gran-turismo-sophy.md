@@ -132,22 +132,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Artificial intelligence beats top human players in popular racing game"
-    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
-    publishedDateTime: 2022-02-11T21:25:00Z
-    webUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-    ampWebUrl: "https://www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
-    cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
-    type: article
-    provider:
-      name: WAMC
-      domain: wamc.org
-    quality: 57
-    images:
-      - url: "https://media.npr.org/assets/img/2021/06/15/ashish-headshot-1-_vert-3e16574e47e641b5645c4db11cac4def468309c8.jpg"
-        width: 2197
-        height: 2930
-        isCached: true
   - title: "Sony AI Unveils “Gran Turismo Sophy,” a “Superhuman AI Agent”"
     excerpt: "Today Sony AI made the announcement that was teased a few days ago, and it’s about “Gran Turismo Sophy.” Gran Turismo Sophy is defined “the first superhuman AI agent to outrace the world ..."
     publishedDateTime: 2022-02-09T16:55:00Z
@@ -184,6 +168,15 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
+    quality: 17
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
+    publishedDateTime: 2022-02-12T01:25:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    type: article
+    provider:
+      name: Health News Florida
+      domain: usf.edu
     quality: 17
 
 secured: "hGgFrN6JMIlQw8CFCZ/Ya4OvGY6pvXVRdxlaMFK7Rs/3k2JKdftJ0hBSNRkwwXl7ldAR305u2SjO71bPwQebwFRm6ciVG4sCwmajE72O38/HFM04ub0nm3NpZSVIf424lFDQZsm8pDZCT029dG7SpMrtrW+wNBFBWahWj88lY27EicCHYQ+yAywDlo4OUsvHicTh1Exeg1tL5+I52mHXDnhF6pqokIiXqQ7MKlaZuhDx0j5sEiT1vtutw2/BikobSTSR58zDyaZGHHvv5MuNiuhQgkuBbcuOeaJ7XIEspi9fXrbDqt6SArEl//9Fg3jNALlK2e2lmfSyVEtFhR0oiFuRB6SoKzzuDvAarZ5Ncvc=;9u89f2wglnDyRU6dtSH2FQ=="
