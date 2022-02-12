@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence beats top human players in popular racing game"
-excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Get a quick look at the most important local stories of the day with KUOW's Today So Far newsletter."
-publishedDateTime: 2022-02-11T20:25:00Z
-originalUrl: "https://www.kuow.org/stories/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-webUrl: "https://www.kuow.org/stories/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
+publishedDateTime: 2022-02-12T02:25:00Z
+originalUrl: "https://www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+webUrl: "https://www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+ampWebUrl: "https://www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
+cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/d437895f907473a41cc114ac5c934f02.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=218&w=328"
-    width: 328
-    height: 218
+  - url: "https://media.npr.org/assets/img/2021/06/15/ashish-headshot-1-_vert-3e16574e47e641b5645c4db11cac4def468309c8.jpg"
+    width: 2197
+    height: 2930
     isCached: true
 
 related:
@@ -240,6 +242,6 @@ related:
         height: 720
         isCached: true
 
-secured: "N+uXBOV5g4Oa3Jvz7XSBXkXyQNq0DUoPSl0+hUJf/jOY3eR7u0tTQN9jPlSc2+cvG/R2jP623K9QcH3wdT0btzk3wvl1h1kGZV4KnIqQbmE4YhY47PybiUWfJVrNGDWiTnxV+9MR/03qlJ819ffL7q1DX2YQXeTap5uLQrmWtBmvx4UqlvkWlIXcnvvcq/lKszZ56rXO6xfYY8dOeCkI6aip9w2Sdi9I3sj1fgAfjrQDnZhCEJ2Jy0BAvMpMJblQLy26iRlMGWNjXV+ZYLpWLOJjQxvnfjO8Uv8oBby7mcWOjjrE0nja7vY0SNswqnLfDqIffCDRClvvYko7u7X95gl5BYj0sJtvxoWBkGMOaKnYLl12B8jVbLqN4W2jVQXZ9sIZewpKAnRaSQe+TGS2evgBemLl1dagb7mgLvM6YWXJORcieUzjUbtMqEn/G/b9L7HqnT+NYfRni0c03Fqc+2C8lYEz8xh2GNqbFuU3WbrJZjou8R3otJPmZ+sapARtL/SomvI1fbX+5mXcn7mgmQ==;li597gk0YmcnOcKP0zomHA=="
+secured: "tZcO8jZQi+MweahPtsXtOIPLGALP7Vvs9WatKgUfqUfTDJoDzejQ19jAx7bIPLV5scFYfxgs7ejhfTBbPmoShZs/bElRCNut/yYbdYojfBMrLa2PAmmVuuBGBxwZ55qpHsWUlSJPeqFTYyTkSB1tmDbdZTSA7EFLBDJJbaYOiBzE4xXaobyZQFO7xarMGjVVDBH0pZ52PV1ckjNPHNgdzJdaz4LT+AhPa/fA7vyolxzp7zxhWf785AnxLytQICDZ6x7CA2RX0tTCbo116DxzCbsIncnhqciP9jul5YclwWVEWeqTqg9A8n4sEsi2vM/Yr1zWZUImQ79eeP2ukSADE+UoJBR90bFHKDrKvz4Q9O4=;mA+JqQRQS4A1mwiD9JawSA=="
 ---
 

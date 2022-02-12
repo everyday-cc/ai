@@ -42,22 +42,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "How Machine Learning Can Guide COVID-19 Decision-Making"
-    excerpt: "Developed by Regenstrief Institute investigators, a new machine-learning algorithm can help stakeholders make decisions on resources and policy regarding the COVID-19 pandemic. February 07, 2022 - As the United States continues to see high rates of COVID ..."
-    publishedDateTime: 2022-02-07T13:00:00Z
-    webUrl: "https://healthitanalytics.com/features/how-machine-learning-can-guide-covid-19-decision-making"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/how-machine-learning-can-guide-covid-19-decision-making"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/how-machine-learning-can-guide-covid-19-decision-making"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
-    images:
-      - url: "https://healthitanalytics.com/images/sized/Integration_and_Interoperability-67199ff8dd2aaa686fbbb8d60359499a.jpg"
-        width: 600
-        height: 347
-        isCached: true
   - title: "Reason for calling deep learning, DEEP"
     excerpt: "Why is Deep Learning called Deep? You must have asked this question. In this post, I will try to answer that question and give a deeper definition of learning. I remember when Google's AlphaGo algorithm beat Lee Sedol, one of the world's top Go players ..."
     publishedDateTime: 2022-02-09T00:00:00Z

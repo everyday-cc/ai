@@ -2,6 +2,109 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-30-icymi-nvidias-rtx-3050-is-a-great-budget-gpu.md",
+      "title": "ICYMI: NVIDIA’s RTX 3050 is a great budget GPU",
+      "excerpt": "Engadget's tech reviews this week include a low cost ray tracing GPU from NVIDIA, new Jabra wireless earbuds and Sony's latest mirrorless camera..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
+      "originalUrl": "https://www.engadget.com/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/ede797d0-7e64-11ec-9fbd-cd302f05d636",
+          "width": 2000,
+          "height": 1079,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
+      "publishedDateTime": "2022-01-29T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-30-containers-and-kubernetes-underpin-more-edgy-artificial-intelligence-efforts.md",
+      "title": "Containers and Kubernetes underpin more edgy, artificial intelligence efforts",
+      "excerpt": "Containers are popular, and surveys show rise in Kubernetes adoption as their primary orchestration engine. This is key as applications grow more complex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "originalUrl": "https://www.zdnet.com/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a3370eb57abfa384af429f356d68ca7cbe8545db/2022/01/29/3ce43d82-f7de-4681-a27a-1cb7c2da4ac3/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1168,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "publishedDateTime": "2022-01-29T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-bias-in-ai-is-spreading-and-its-time-to-fix-the-problem.md",
       "title": "Bias in AI is spreading and it’s time to fix the problem",
       "excerpt": "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it.",
@@ -1095,91 +1198,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret.md",
-      "title": "Waymo sues state DMV to keep robotaxi safety details secret",
-      "excerpt": "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret/ar-AATeIKz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/a87d333/2147483647/strip/true/crop/5388x3603+341+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F46%2F743f192846669dfbca0ba9668179%2F473702-sd-me-ucsd-driver-less-vehicels-hl-003.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
-      "publishedDateTime": "2022-01-28T05:00:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
-        "domain": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems.md",
-      "title": "China Proposes Increased Regulation of Deepfakes and Other AI Synthesis Systems",
-      "excerpt": "The Cyberspace Administration of China (CAC) has proposed a new set of draft regulations to govern AI-aided synthesis systems, including deepfakes, virtual reality scenes, text generation, audio, and other sub-sectors of AI media synthesis – a field in which China produces a prodigious number of academic papers and innovative research projects each month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/",
-      "originalUrl": "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/china-deepfake-rules-2022a.jpg",
-          "width": 818,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

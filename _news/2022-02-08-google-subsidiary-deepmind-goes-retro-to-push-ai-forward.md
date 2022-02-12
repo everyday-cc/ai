@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -33,20 +33,6 @@ related:
     quality: 63
     images:
       - url: "https://i.insider.com/620269bcbd50410019192347?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How to get a job at DeepMind, Google's pioneering artificial intelligence division, according to 4 of its research and talent leads"
-    excerpt: "DeepMind is Google's London-headquartered artificial intelligence research unit. Its groundbreaking research includes an AI program that predicts a protein's structure. Insider asked four of DeepMind's talent and research leads what it takes to win a job ..."
-    publishedDateTime: 2022-02-07T12:40:00Z
-    webUrl: "https://www.businessinsider.com/how-to-get-a-job-at-deepmind-google-ai-lab-2022-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/61fb173f75a1f5001890a666?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

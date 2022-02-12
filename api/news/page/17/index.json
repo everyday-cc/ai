@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-01-25-tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google.md",
+      "title": "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google",
+      "excerpt": "A recent survey carried out by CNBC reported that 81% of executives worldwide say AI will play a prominent and critical role in how their businesses operate this year. Companies are phasing from the first generation of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+      "originalUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/762AEA63-1005-49DE-8AAD-2DF6AB8A18BA.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/",
+      "publishedDateTime": "2022-01-25T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-robotics-startups-seek-to-build-a-better-self-driving-lawn-mower.md",
+      "title": "Robotics Startups Seek to Build a Better Self-Driving Lawn Mower",
+      "excerpt": "Tiger Global led an investment in Electric Sheep Robotics, which makes a device for large-scale, autonomous commercial mowers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-25/autonomous-lawn-mowers-are-a-new-fixation-for-robotics-startups",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-25/autonomous-lawn-mowers-are-a-new-fixation-for-robotics-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBKA7J7cqqvo/v1/1200x676.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries.md",
       "title": "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries",
       "excerpt": "SparkCognition, a global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding",
@@ -1111,101 +1215,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast.md",
-      "title": "Latin America Artificial Intelligence Market 2021-26: Size, Share, Analysis and Forecast",
-      "excerpt": "Artificial intelligence (AI) refers to an interdisciplinary ... to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
-      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
-      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "originalUrl": "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/JDW04Yweb.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

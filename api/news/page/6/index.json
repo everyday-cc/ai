@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-05-extremetech-explains-what-is-a-neural-net.md",
+      "title": "ExtremeTech Explains: What is a Neural Net?",
+      "excerpt": "As Moore’s Law approaches its endgame, the technosphere has looked to different and more diverse approaches to computing. We can’t just depend on driving clock speeds higher and higher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/computing/328011-extremetech-explains-what-is-a-neural-net",
+      "originalUrl": "https://www.extremetech.com/computing/328011-extremetech-explains-what-is-a-neural-net",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2021/10/AI-Feature-Image-640x353.jpg",
+          "width": 640,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-telenor-teams-with-aws-to-accelerate-modernization-of-telecommunications.md",
       "title": "Telenor teams with AWS to accelerate modernization of telecommunications",
       "excerpt": "Internationally, Telenor’s Thailand brand dtac, launched a 5G private network proof-of-concept for Thai enterprises based on edge computing and the AWS Snow Family. This solution helps customers process real-time, artificial intelligence (AI)-based video ...",
@@ -876,6 +919,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-04-artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation.md",
+      "title": "Artificial Neural Network Market to Witness Growth Acceleration | Alphabet Inc., International Business Machines Corporation, Intel Corporation",
+      "excerpt": "Feb 04, 2022 (Heraldkeepers) -- Artificial neural network refers to a biologically inspired sub-set of artificial intelligence patterned after the human brain. An artificial neural network is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-artificial-intelligence-chipsets-market-size-application-and-future-forecast-by-2026.md",
       "title": "Artificial Intelligence Chipsets Market Size: Application and Future Forecast by 2026",
       "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
@@ -1081,93 +1176,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-teslas-full-self-driving-phantom-braking-problem-is-getting-worse.md",
-      "title": "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse",
-      "excerpt": "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
-      "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/tesla-fsd-phantom-braking?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp",
-      "publishedDateTime": "2022-02-03T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
-      "title": "Neuroscientists use deep learning model to simulate brain topography",
-      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
-          "width": 1920,
-          "height": 1462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
-      "publishedDateTime": "2022-02-03T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

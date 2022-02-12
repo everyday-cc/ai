@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-launches-watson-backed-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM Watson-Powered AI Virtual Assistant Helps Visitors on the TD Precious Metals Digital Store"
+    excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
+    publishedDateTime: 2022-02-09T11:39:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "IBM and TD Securities collaborate on use of AI in precious metals biz"
     excerpt: "To help make the purchasing process easier, IBM (NYSE: IBM) worked with TD to launch an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store ..."
     publishedDateTime: 2022-02-09T19:29:00Z

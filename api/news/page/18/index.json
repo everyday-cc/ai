@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-01-25-latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast.md",
+      "title": "Latin America Artificial Intelligence Market 2021-26: Size, Share, Analysis and Forecast",
+      "excerpt": "Artificial intelligence (AI) refers to an interdisciplinary ... to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
+      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
+      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
+      "originalUrl": "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/JDW04Yweb.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-us-artificial-intelligence-market-2026-size-share-trends-and-forecast.md",
       "title": "US Artificial Intelligence Market 2026: Size, Share, Trends and Forecast",
       "excerpt": "Jan 25, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United States Artificial Intelligence ... robots, and self-driving cars, over the ...",
@@ -1071,92 +1166,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-ai-revolutionizes-hospital-procurement-services.md",
-      "title": "AI revolutionizes hospital procurement services",
-      "excerpt": "Artificial intelligence (AI) is a formidable tool ... learning algorithms with the ability to translate structured and unstructured text into usable language and data points (ideal for evaluating ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/01/ai-revolutionizes-hospital-procurement-services/",
-      "originalUrl": "https://medcitynews.com/2022/01/ai-revolutionizes-hospital-procurement-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2022/01/GettyImages-1352661806.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month.md",
-      "title": "LG Electronics to unveil life-size self-driving concept car next month",
-      "excerpt": "The self-driving home on wheels is fitted with LG home appliances retooled for in-vehicle use and provided with artificial intelligence concierge services from Reah. Pic: Reuters",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941",
-      "originalUrl": "https://www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941/amp",
-      "publishedDateTime": "2022-01-24T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

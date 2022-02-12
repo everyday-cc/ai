@@ -47,6 +47,17 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 10
+  - title: "Businesses In IT Robotic Automation Market Speed Up Implementation, Integrating Platforms With Machine Learning To Up The Ante For Incumbents"
+    excerpt: "The ambit of the technology is notably expanding to entail decision-making capabilities with the help of AI tools and machine learning. Thus, IT robotic automation market is stridently slated for new potential of opportunities in the efforts of providers ..."
+    publishedDateTime: 2022-02-08T11:20:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 6
 
 secured: "BKkijbckqROM7cpekdc4zkQN1xYs6Y6PmQTuZNaT1MqiMESyi3DVtVZWNNXNp+dQbi07Tf0ROkj+D5YXat+6ijtR1ZarOfkEAS0yEPvcg4n+S5dOumsxD5qvVVTccd2CIdtDk+71zvrF58Fkle7K3j7yTsAeCpPhx82oGBeLmLlhCkamdfNMMx+Odk9LS/gg30YFvA3hFWLFXiKd9YpRwfXYJEeHeCT+OJC6H+2V7FRABTX5b3ZGWpayU1SgsBPWp3QcbWlM9XDshk6HxcxyDSwr1OTl6aKQ3CYEY9CQ8dxApc6W+kEQHTYuaSWlHGOsvP8bV82vU3Mw3+2c8Cxgsyf+J+7tVXDrwISqJIH74w0=;MEnY8tVLGNjmH7ErG4q4kg=="
 ---

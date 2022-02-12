@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "IBM Watson-Powered AI Virtual Assistant Helps Visitors on the TD Precious Metals Digital Store"
+    excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
+    publishedDateTime: 2022-02-09T11:39:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "XDmrDpCnR56q4eNocgvn8GecP+Np90WVntAJWHf3SPzAtTjkzxeQak0mtFDt14o0H5cEODq+k+bbW+Rps0H1OsmO/EMKjftA4zCiBenG9XM/C1E/ymlTbG/y65h/nc8KPTWn+aIT9v+Zk0rNZLJtxBQfHStXQttfHXBDBnu93ZZCQNXSD0No/9cS3YRJQqoW2Lodwr0HS2qQU/B6TtRNbe474kyJzJ6/5erXSsMBnQAuCAl4n42sGjxGpDaC0a+K+F++i+5IRawRnIBo6hGtjH6+N4zjYaZDM9Y41mLpzrP7RFtXl8XlBq82YO3ObHJaCHeQ05qCEjFZWsicN+yRRuTP5qxbVfhSUEdnUp3HOVU=;l8+gAFipnD4zGXb/DuwnMA=="
 ---

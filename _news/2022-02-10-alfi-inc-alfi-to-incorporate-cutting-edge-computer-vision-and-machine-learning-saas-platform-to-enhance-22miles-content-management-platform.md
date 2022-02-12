@@ -20,6 +20,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Alfi to incorporate computer vision and machine learning SaaS platform to enhance 22Miles' Content Management Platform"
+    excerpt: "Alfi's cutting-edge computer vision with machine learning technology now enables 22Miles to precisely match the content displayed on their kiosks to thousands, if not millions, of consumers that need guidance and understanding of large physical ..."
+    publishedDateTime: 2022-02-12T03:05:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=615421"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 32
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "ALFI to Incorporate Cutting-Edge Computer Vision and Machine Learning SaaS Platform to Enhance 22Miles’ Content Management Platform"
     excerpt: "Alfi’s cutting-edge computer vision with machine learning technology now enables 22Miles to precisely match the content displayed on their kiosks to thousands, if not millions, of consumers that need guidance and understanding of large physical ..."
     publishedDateTime: 2022-02-10T13:06:00Z

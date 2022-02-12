@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse"
-    excerpt: "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ..."
-    publishedDateTime: 2022-02-07T11:27:00Z
-    webUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 803
-        isCached: true
   - title: "Korea's $200 billion wealth fund is betting on the metaverse and AI startups"
     excerpt: "\"There are still plenty of good opportunities, if you chase them eagerly.\" KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation's finance industry."
     publishedDateTime: 2022-02-11T19:21:00Z

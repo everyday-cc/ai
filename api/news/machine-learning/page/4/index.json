@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-17-the-building-blocks-of-artificial-vision.md",
+      "title": "The building blocks of artificial vision",
+      "excerpt": "Another computational approach is thus required. AI needs artificial neural networks that mimic the intuitive way the brain works. This makes identification and decision making much faster compared to having to calculate everything and every point exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/the-building-blocks-of-artificial-vision/",
+      "originalUrl": "https://www.embedded.com/the-building-blocks-of-artificial-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/01/Neuromorphic-Vision.jpeg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.md",
+      "title": "Free-energy principle can explain how neural networks are optimized for efficiency",
+      "excerpt": "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "publishedDateTime": "2022-01-16T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
       "title": "Hands-on Machine Learning with AWS and NVIDIA",
       "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
@@ -1306,102 +1393,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-how-machine-learning-helps-global-businesses-navigate-covid.md",
-      "title": "How Machine Learning Helps Global Businesses Navigate COVID",
-      "excerpt": "Expert Guest Blogger, Bruno Herrmann For the past 10 years, Global Business growth has been propelled internationally by digital transformation at an unprecedented pace; further accelerated by the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-machine-learning-helps-global-businesses-",
-      "originalUrl": "https://www.linkedin.com/pulse/how-machine-learning-helps-global-businesses-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGkDbZX54NI3g/article-cover_image-shrink_600_2000/0/1641601985465?e=1648080000&v=beta&t=rNw923Vx4MYZBlzahjwDMX86WeJGKyN1fRrHmxR8NAw",
-          "width": 512,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-aiml-processor-supports-socs-and-chiplets-for-smart-edge-devices.md",
-      "title": "New AI/ML processor supports SoCs and chiplets for smart edge devices",
-      "excerpt": "CEVA’s latest NeuPro-M supports both system-on-chip and heterogeneous SoC scalability, targeting edge AI/ML and edge compute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "originalUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Neu-Pro-M-features.png",
-          "width": 893,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

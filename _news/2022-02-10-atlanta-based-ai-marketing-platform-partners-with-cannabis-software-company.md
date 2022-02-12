@@ -30,6 +30,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
+  - title: "The dark side of Artificial Intelligence"
+    excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
+    publishedDateTime: 2022-02-11T13:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF6Ivgx0ARsEw/article-cover_image-shrink_720_1280/0/1644578178017?e=1649894400&v=beta&t=BQWlqTiWMAf_M-GhvqL_SDe4Dd9eXw23XOaJOgR6a1E"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "X+V6JaBhiVovGK29L2AX5huuLcBqPRpwotOkO1NaYEWePg13tqy8KNNpedQSGlaGMMLHDwh9a5fFR32RaPjlmahMOwjRzn+Ea49hFGsbgea1MqN28cdDrXchOUXJMk52uUHWAJF5DJ0nH54IxwkVlWXbkStQfwtsAYjIvNqAgbuVm7t6e4vnu59eNQR8sGjAza1Oa8aMn0uYd1sJH3P2rb6314IO6b1htrPJ3s8PIWHXfXU97nIb0tESGJ8M7P7503MiLsdVDeLSbJA6L7M4mSuub58Xk7dMHJ4nm3MTig0/8dW7aEdesrWJ403xb8L39EzWUAZme0UnYLimbbUtzNJBG7Oe27126/XIsM2bOVsxt+mvczAd2O8fCYLRdrz6M5Usa4xY3CTgAQyqKL4bEXb8yLsLrc1+syBh7SW2rfGrFOC5wJcRVeYBuUkGocHabT3I0DctVLG5QkwcGb47IJ960TTvzYt8yLJ95fAVWJ4PYYjqBiDOohdp0fYLfScwz07CBcH+/MqTl/pFbwsNfg==;8tEoweTLz47fPYbbfzwg5A=="
 ---

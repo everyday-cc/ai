@@ -46,6 +46,17 @@ related:
         width: 667
         height: 375
         isCached: true
+  - title: "Businesses In IT Robotic Automation Market Speed Up Implementation, Integrating Platforms With Machine Learning To Up The Ante For Incumbents"
+    excerpt: "The ambit of the technology is notably expanding to entail decision-making capabilities with the help of AI tools and machine learning. Thus, IT robotic automation market is stridently slated for new potential of opportunities in the efforts of providers ..."
+    publishedDateTime: 2022-02-08T11:20:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 6
 
 secured: "B/RHjrTBUTFKrxm2sORhjO7WzApOpf9xhYX7n3S08Q/Ma0H3T5sPzL5eyw4kbfrXX/GCOy0z+4WA+ujnKG+r8Qpvyrf4oYq+IeU0P1O+AAn4YOZd7TdFV2SCxRkRBOoc2tZP2R8kG18Lk54myVeSajoEBC/kQ6CFcM4MvyTrhsidjxvgWIpjRezSyP3DhtiZTJc8hMeUokNNZkU/iBfS9vUU3pXKijXGKcT0D6PB7ZOasbjZk2ShCXmPRN02wSY1Sq5ctof9DMM11r6cyW5BCKNu0r4tJWPUqZn/wo93QHofI7OoB7P2B/nn/SQfxDEiCOHWWl4vtwPrz9oZYoe6VWBaZ7KoIYT5oxqqzndT8xshEBvHuTUfOo5ju4y+SuhGJPTHBpbakZnxUf70O9/ySXtO8F3j24Av1VdQxR8ANJm8nPh5q0LhkdCfQ3pkYuYGalKoW1XUtIIhljSlM6b/xk4pcFr3CDyPXvsVqn1iFUka+faTg0vQE4uOy588xy0uwmmqPGmnUSn88Dr6Fb3YKw==;xWRBhNEuOpVAm789UPu/vw=="
 ---

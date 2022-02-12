@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-bil
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse"
-    excerpt: "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ..."
-    publishedDateTime: 2022-02-07T11:27:00Z
-    webUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 803
-        isCached: true
   - title: "AI's Contribution to the Metaverse's Growth"
     excerpt: "The last several years have seen a slew of new revolutionary tech concepts emerge; the Metaverse is one of the most hotly debated. So, first, let's define Metaverse and how AI can assist in its development."
     publishedDateTime: 2022-02-09T13:04:00Z

@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-04-teslas-full-self-driving-phantom-braking-problem-is-getting-worse.md",
+      "title": "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse",
+      "excerpt": "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "publishedDateTime": "2022-02-03T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
+          "width": 1920,
+          "height": 1462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "publishedDateTime": "2022-02-03T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-toyota-built-an-autonomous-self-drifting-sports-car.md",
       "title": "Toyota built an autonomous self-drifting sports car",
       "excerpt": "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ...",
@@ -1130,109 +1217,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco.md",
-      "title": "GM’s Cruise brings self-driving car rides to the public in San Francisco",
-      "excerpt": "Cruise, the autonomous car company acquired by General Motors in 2016, has announced the launch of driverless car rides in San Francisco. The rides are offered to the public for free at this time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
-      "originalUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/gm-cruise-car.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
-      "publishedDateTime": "2022-02-02T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-findability-hopes-to-make-ai-adoption-easier-for-enterprises.md",
-      "title": "Findability hopes to make AI adoption easier for enterprises",
-      "excerpt": "When rolling out a suite like Findability’s, he added, “Now within just a few months their products can be enabled with AI, and it’ll start telling their end customers that ‘This will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1297913719-e1643839268515.jpg?fit=800%2C429&strip=all",
-          "width": 800,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
-      "publishedDateTime": "2022-02-02T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

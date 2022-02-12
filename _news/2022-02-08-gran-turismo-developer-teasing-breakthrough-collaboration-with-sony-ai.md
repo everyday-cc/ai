@@ -133,6 +133,22 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
+    publishedDateTime: 2022-02-12T02:25:00Z
+    webUrl: "https://www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    ampWebUrl: "https://www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
+    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game?_amp=true"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 57
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/15/ashish-headshot-1-_vert-3e16574e47e641b5645c4db11cac4def468309c8.jpg"
+        width: 2197
+        height: 2930
+        isCached: true
   - title: "Sony and Gran Turismo 7 Dev Tease “Breakthrough AI Project”"
     excerpt: "An official announcement is coming on Wednesday. In late 2019, Sony announced an artificial-intelligence division, exclusively focused on “unleashing human imagination and creativity with AI.”"
     publishedDateTime: 2022-02-07T17:48:00Z
@@ -174,20 +190,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
         width: 2400
         height: 1350
-        isCached: true
-  - title: "Artificial intelligence beats top human players in popular racing game"
-    excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Get a quick look at the most important local stories of the day with KUOW's Today So Far newsletter."
-    publishedDateTime: 2022-02-11T20:25:00Z
-    webUrl: "https://www.kuow.org/stories/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 37
-    images:
-      - url: "https://kuow-prod.imgix.net/store/d437895f907473a41cc114ac5c934f02.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=218&w=328"
-        width: 328
-        height: 218
         isCached: true
   - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
     excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."
