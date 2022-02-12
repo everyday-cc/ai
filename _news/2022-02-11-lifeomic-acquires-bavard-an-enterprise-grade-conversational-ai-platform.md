@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterpri
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: enterprisetalk
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI"
-    excerpt: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI Tech Mahindra and Yellow.ai will work towards developing next-gen conversational-AI solutions to elevate omnichannel capabilities such as ..."
-    publishedDateTime: 2022-02-07T07:46:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 40
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-08/27/full/1535369573-6334.png"
-        width: 350
-        height: 233
-        isCached: true
   - title: "LifeOmic Acquires Bavard, an Enterprise-grade Conversational AI Platform"
     excerpt: "a Utah-based conversational artificial intelligence (AI) startup offering intelligent digital assistants and platforms. The purchase comes as AI technology has experienced widespread adoption in the health care space, a trend accelerated by the COVID-19 ..."
     publishedDateTime: 2022-02-10T15:00:00Z

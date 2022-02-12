@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Watch out for the facial recognition overlords"
-    excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on ..."
-    publishedDateTime: 2022-02-07T08:13:00Z
-    webUrl: "https://www.japantimes.co.jp/opinion/2022/02/07/commentary/world-commentary/facial-recognition-overlords/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/02/np_file_138653-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
   - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
     excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
     publishedDateTime: 2022-02-11T20:05:00Z

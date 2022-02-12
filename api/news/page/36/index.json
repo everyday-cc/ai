@@ -2,6 +2,99 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-01-11-jdcom-opens-robotic-shops-in-the-netherlands-as-chinese-e-commerce-giant-tests-new-model-in-europe.md",
+      "title": "JD.com opens robotic shops in the Netherlands as Chinese e-commerce giant tests new model in Europe",
+      "excerpt": "JD.com has remained largely unscathed by government’s tech crackdown but new markets are key to offset slower consumer spending in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/10/091cf70a-db49-4b80-82a6-b402c01fe2f0_92b0c6d5.jpg?itok=5t6ipMJf&v=1641810010",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "publishedDateTime": "2022-01-10T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-lg-electronics-joins-ibm-quantum-network-to-research-ai-iot-and-more.md",
+      "title": "LG Electronics joins IBM Quantum Network to research AI, IoT, and more",
+      "excerpt": "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation, and robotics applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "originalUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "publishedDateTime": "2022-01-10T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-stagezero-raises-18m-to-combine-mobile-game-rewards-and-ai-training-data.md",
       "title": "StageZero raises $1.8M to combine mobile game rewards and AI training data",
       "excerpt": "StageZero has raised $1.8 million in funding to give gamers rewards for participating in in-app tasks that generate AI training data.",
@@ -1116,92 +1209,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future.md",
-      "title": "Can Voice AI Apps become the reliable virtual assistants of the future?",
-      "excerpt": "But when it comes to voice recognition technology like Apple’s Siri, consumer expectations face major disappointment. Try to hold a conversation with Siri and you’re bound to be met with the iPhone assistant’s confusion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089",
-      "originalUrl": "https://www.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/493470",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089/amp",
-      "publishedDateTime": "2022-01-10T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-global-enterprise-artificial-intelligence-market-emerging-trends-major-key-players-aws-and-google-corporation.md",
-      "title": "Global Enterprise Artificial Intelligence Market: Emerging Trends, Major Key Players AWS and Google Corporation",
-      "excerpt": "According to the report The global Enterprise Artificial Intelligence market was valued at 6 6 Billion in 2019 and is anticipated to grow at a CAGR of 36 1 from 2020 to 2027 As complex data sets advanced machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "originalUrl": "https://www.openpr.com/news/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V110318404_g.jpg",
-          "width": 603,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "publishedDateTime": "2022-01-10T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

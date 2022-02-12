@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -715,48 +716,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-11-lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform.md",
-      "title": "LifeOmic Acquires Bavard, an Enterprise-grade Conversational AI Platform",
-      "excerpt": "LifeOmic, a software company that leverages the cloud, machine learning and mobile devices to power precision health and wellness solutions, today announced the acquisition of Bavard, a Utah-based conversational artificial intelligence (AI) startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/",
-      "originalUrl": "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/LifeOmic-Acquires-Bavard_-an-Enterprise-grade-Conversational-AI-Platform-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lifeomic-acquires-bavard-an-enterprise-grade-conversational-ai-platform/amp/",
-      "publishedDateTime": "2022-02-11T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-11-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto.md",
       "title": "Spinny acquires AI-powered car connectivity solutions’ startup, Scouto",
       "excerpt": "New Delhi: Pre-owned car retailing platform Spinny has acquired a 100% stake in AI-powered Connected Car startup Scouto. The deal will mark one of the first consolidations in the AI-powered used car solutions segment where Spinny is gunning big to emerge ...",
@@ -1244,6 +1203,59 @@
       "topics": [
         "AI",
         "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai.md",
+      "title": "Stanford researchers propose ‘jury learning’ as a way to mitigate bias in AI",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. Many AI systems today learn from examples — whether images, text, or audio — that have been labeled by ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data-e1629907579542.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/amp/",
+      "publishedDateTime": "2022-02-10T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
         "Machine Learning"
       ]
     }

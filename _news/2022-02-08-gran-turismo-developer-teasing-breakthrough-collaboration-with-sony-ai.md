@@ -175,6 +175,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Get a quick look at the most important local stories of the day with KUOW's Today So Far newsletter."
+    publishedDateTime: 2022-02-11T20:25:00Z
+    webUrl: "https://www.kuow.org/stories/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 37
+    images:
+      - url: "https://kuow-prod.imgix.net/store/d437895f907473a41cc114ac5c934f02.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=218&w=328"
+        width: 328
+        height: 218
+        isCached: true
   - title: "Sony AI and Gran Turismo 7 Dev Polyphony Digital to Announce Breakthrough Project"
     excerpt: "Sony AI and Gran Turismo 7 developer Polyphony Digital will announce a “breakthrough project in AI” on 9th February. The teaser trailer is far too ambiguous to draw any conclusions from, but we’re going to assume this is all related to a study that ..."
     publishedDateTime: 2022-02-07T16:48:00Z
@@ -211,15 +225,6 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 17
-  - title: "Artificial intelligence beats top human players in popular racing game"
-    excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Copyright 2022 NPR"
-    publishedDateTime: 2022-02-11T21:25:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
     quality: 17
   - title: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment announce ‘superhuman AI agent’ Gran Turismo Sophy"
     excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced “Gran Turismo Sophy,” a “superhuman artificial intelligence agent that can race competitively against the top human Gran Turismo drivers.” Here is an overview of the ..."

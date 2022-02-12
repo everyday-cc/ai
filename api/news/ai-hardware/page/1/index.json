@@ -481,6 +481,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-02-backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu.md",
+      "title": "Backplane Systems Technology Presents Neousys’s Nuvo-8108GC-QD Industrial-grade Edge AI Platform Supporting NVIDIA® RTX A6000/ A4500 GPU",
+      "excerpt": "Backplane Systems Technology is proud to present Neousys’s Nuvo-8108GC-QD, which is an edge AI GPU computing platform supporting an NVIDIA® RTX A6000 or RTX A4500 Ampere GPU cards, and Intel® Xeon® E or 9th/ 8th-Gen Core™ (up to 8-core/ 16-thread ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
+      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ferret.com.au/wp-content/uploads/2022/02/PR-Image-Nuvo-8108GC-QD.jpg",
+          "width": 1500,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
+        "domain": "ferret.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
       "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
       "excerpt": "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ...",
@@ -1374,49 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-the-battle-of-ai-processors-begins-in-2018.md",
-      "title": "The Battle of AI Processors Begins in 2018",
-      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20TPU.png",
-          "width": 1000,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

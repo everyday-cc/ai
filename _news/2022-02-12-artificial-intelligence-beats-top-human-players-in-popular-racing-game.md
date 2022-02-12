@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence beats top human players in popular racing game"
-excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Copyright 2022 NPR"
-publishedDateTime: 2022-02-11T21:25:00Z
-originalUrl: "https://www.boisestatepublicradio.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-webUrl: "https://www.boisestatepublicradio.org/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+excerpt: "Scientists pitted an artificial intelligence driver against real human gamers in the PlayStation driving game Gran Turismo. The AI driver beat them all. Get a quick look at the most important local stories of the day with KUOW's Today So Far newsletter."
+publishedDateTime: 2022-02-11T20:25:00Z
+originalUrl: "https://www.kuow.org/stories/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+webUrl: "https://www.kuow.org/stories/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Boise State Public Radio
-  domain: boisestatepublicradio.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
   - AI
+
+images:
+  - url: "https://kuow-prod.imgix.net/store/d437895f907473a41cc114ac5c934f02.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=218&w=328"
+    width: 328
+    height: 218
+    isCached: true
 
 related:
   - title: "Sony AI defeats human racers in Gran Turismo PlayStation game"
@@ -234,6 +240,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fVJWUhhgkhkqUxqT7N+xVLBFYi3wqI9uhkyqv79lXHL8pQPHpmZhE4YpkO+YFthrTyMy1jRB1ygKolf6BFr4b8cbergwCOY9NqOoWeCCKmyOGqBr6KjfiHQcoa8If05kqvnGo8z5NlAqpaCBqv/uoCUUoA0GzI3P4rA8gRewdhIuLpS2OrXpkQVQSSbZNXlFwxNfqa2bv0wmTAsbOr6aWn7/2Jhe83g11h09KXC16pHHo7ybUxRKIhrc8Wb4fRBnx+cXTt/qsxrra4sLMxFtujDYwoyJhLwweXfgYa++tp4sIfYA+RaUAdix/DzScO6muhxy0sqpVb4fA8t6Z0Eq/lrKUZ28Jp5IleYr13f3+m4=;i3DqsvyL9RrNJmOHxQAn7w=="
+secured: "Rtfj+5kGeyNFg0RmbiUOqv5WDJOzIMDIKiUy9FDjOOv97Gw8xTFsO/QiYb0eDpwGsnF5bkr43QshBZrHF17tNekxAOroptdqo0skhaTCVa9qpXtvV2nXcU5VRHi3m/RPFiAArxrOqyn3eqGoiftjE904/kcjVP7ZIrBZB0GOmVqAuMeqE3WXugEXm3KP2LyJg7Ku5o1p1ti4vRHJZMefxXiDxctIlD01BXhHlua7xbsjteW2YUGowIinRvATM1qdVoAfhpL87ZetL49hDxbCvU+FUm+SPzQ1BcOL4rHRxdTkSD2wCViClW5u6q0oy6YDN/kEsF4IEjCHQ4Yq8Ky1MAkWJkyCvntkDdCW98S7k6s=;0bAODgZAau1DYhD71iQa5A=="
 ---
 

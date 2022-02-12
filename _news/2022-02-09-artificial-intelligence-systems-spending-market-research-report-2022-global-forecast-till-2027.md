@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
-    excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
-    publishedDateTime: 2022-02-07T07:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-report-2027-overview-size-share-analysis-key-players-and-outlook"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Artificial Intelligence Market Report 2022, Industry Trends, Share, Size, Demand and Future Scope 2027"
     excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 11, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence Market: Industry Trends, Share, Size ..."
     publishedDateTime: 2022-02-11T20:46:00Z

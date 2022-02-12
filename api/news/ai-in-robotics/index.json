@@ -323,6 +323,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-07-a-new-trick-lets-artificial-intelligence-see-in-3d.md",
+      "title": "A New Trick Lets Artificial Intelligence See in 3D",
+      "excerpt": "Search our artificial intelligence database and discover stories by sector ... and colleagues used NeRF to train robots to make sense of transparent objects, normally a challenge because of the way these objects reflect light, by letting them infer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/new-way-ai-see-3d/",
+      "originalUrl": "https://www.wired.com/story/new-way-ai-see-3d/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61fda5afb12e3a968eaa52e6/master/pass/business-ai-see-1301850020.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/new-way-ai-see-3d/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-way-ai-see-3d/amp",
+      "publishedDateTime": "2022-02-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-driving-value-in-your-supply-chain-with-robotics-and-automation.md",
       "title": "Driving Value in Your Supply Chain With Robotics and Automation",
       "excerpt": "Robots are capable of picking those individual pieces and ... By feeding the same data into artificial intelligence and business intelligence systems, companies can also track and predict demand and better understand customer purchasing intentions and ...",
@@ -1317,49 +1369,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-best-robot-vacuum-2022.md",
-      "title": "Best Robot Vacuum 2022",
-      "excerpt": "Not the only measure, mind you ... It’s up to you whether those remote control conveniences are worth the extra price. Mapping features: Cheaper robots tend to head in a random direction ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/best-robot-vacuum",
-      "originalUrl": "https://www.ign.com/articles/best-robot-vacuum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2019/08/12/robot-vacuums-1565622632427_160w.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-01-25-us-artificial-intelligence-market-2026-size-share-trends-and-forecast.md",
+      "title": "US Artificial Intelligence Market 2026: Size, Share, Trends and Forecast",
+      "excerpt": "Jan 25, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United States Artificial Intelligence ... robots, and self-driving cars, over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-2026-size-share-trends-and-forecast-2022-01-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-2026-size-share-trends-and-forecast-2022-01-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-video-robot-driven-video-screens-bring-entertainment-to-sea.md",
+      "title": "Video: Robot-Driven Video Screens Bring Entertainment to Sea",
+      "excerpt": "While robotic entertainment may have a big Gee Wiz factor, it still relies heavily on features developed for plant automation. \"Keep in mind that robots were conceived and designed to boost production output and quality,\" said Hunt. \"The first few times I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/RC-Robo-Illustration.jpg",
+          "width": 500,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse.md",
       "title": "Facebook parent Meta creates powerful AI supercomputer to support metaverse",
       "excerpt": "Facebook’s parent company Meta on Monday ... The computer, which is already up and running but is still being built, is called AI Research SuperCluster. Meta says it will help its AI researchers ...",
@@ -1062,102 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-sas-viya-is-living-large-on-azure.md",
-      "title": "SAS Viya is living large on Azure",
-      "excerpt": "A year and a half in, there is a critical mass of Viya embedded inside Azure analytics, and existing SAS customers are starting to buy in. By \"hiding in plain sight,\" could Azure make SAS cool again with a new generation of customers?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
-      "originalUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/780348d92f2b55f248dc1fa52ca2927783b0099a/2022/01/21/f0f7e2fc-b0dd-470c-a472-effa45c6d310/owl.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
-      "publishedDateTime": "2022-01-24T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-meta-taps-nvidia-to-build-a-massive-ai-supercomputer-to-master-human-speech-and-the-metaverse.md",
-      "title": "Meta Taps NVIDIA To Build A Massive AI Supercomputer To Master Human Speech And The Metaverse",
-      "excerpt": "the parent company to Facebook, have a new and powerful toy to play with courtesy of a collaboration with NVIDIA. Meta designed and NVIDIA built what is called the AI Research SuperCluster (RSC ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "originalUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57468/content/NVIDIA_AI_Supercomputer.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
-      "publishedDateTime": "2022-01-24T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

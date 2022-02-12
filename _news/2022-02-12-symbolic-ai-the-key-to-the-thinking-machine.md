@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-
 ampWebUrl: "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "vpG+XvUJAIZI6y7dnjFeuSUJ2HFZPo7Ftuze4m2rrhl4pTmn1Qyqrq3Y9631sM/3+IyfuWI8jdz3cpeREY5Ut7aO7D/BPZuYr8I7MCzc/wD3IDXhJI4idKxm5p8ph56wlGnatrzcxuROH9p1lKjM46KCyVavBdpeWYPgo2FjHumjvXtn61oH7b7Tc6RrMZGpaE2PQHo/6iQUqS1t4pWl/D9kAcNfsw6KaaAjWywoUl2PM00DCRqzMb5io5wh2O+MjbXcr5YqQpo4CwuTrLOBYes+AYi5AgJGPmmDTil/98zjr083xfV9me0rUHGWPmkIaUAdANAphU0dKJw9WX7JdpBrbbQRsaGrfgMaWK+EVS4=;wjj0wQQVEMDBzdGq3k4n3g=="
+secured: "djvUrxu76ssNfX7jdxbXbSbgKXMWDIu7MYphj2eWuV52hyf+09WBympP4+e7fZ917J1qciqLYIBaZvq0wqyMq3np5yQxnqk/eWJhGZesZimtHyqpQaI8+8Ruli7cMPNKwteme9/RXsGoohFVLLNxhesaM7nrxDIQm7BpoMuZcvsJB4e3ajZ2/sQRuijdTATeqfD4kW5ilvbD/fcXsGS9l0QbN0q5X3mE0Q18ODFE83xd4C4/jmgbrwsrV2XGNIL8MjbMQk3WEpOZnDaJ44VaNLYI56apGVKRdoXD3HG1pXqiifH+5wUqxnUHiGkd4lqajZH6mwGRm4roNOW5n2c/pEN57Qkz1GqCzzlHfjbW/YIZj9E5R34H3FM8lL0KOMw5m9XVh2/qkisJ/tiEs9To7OvB/4M+BtWQ0hFxywWNssRdUcCqugwQ4k8A7YHcsUBnwocHGWHZctZQO8KeJMr8S0/f5JzKBcly8HB81uAYm5N3p2EMFYcDexFAnYr6UAKXbqwKnEe2s8Alx1oaYh4Cuw==;fJn8yJGDpVFXl9dd5TzMTg=="
 ---
 

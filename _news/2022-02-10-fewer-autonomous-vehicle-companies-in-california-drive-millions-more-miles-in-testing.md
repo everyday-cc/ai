@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/02/10/fewer-autonomous-vehicle-compani
 webUrl: "https://www.theautochannel.com/news/2022/02/09/1104752-autonomous-vehicles-traveled-over-4-million-miles-california.html"
 type: article
 quality: 147
-heat: 148
+heat: 147
 published: true
 
 provider:

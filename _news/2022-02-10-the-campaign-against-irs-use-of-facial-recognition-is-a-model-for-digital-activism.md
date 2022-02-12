@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-
 webUrl: "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Watch out for the facial recognition overlords"
-    excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on ..."
-    publishedDateTime: 2022-02-07T08:13:00Z
-    webUrl: "https://www.japantimes.co.jp/opinion/2022/02/07/commentary/world-commentary/facial-recognition-overlords/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/02/np_file_138653-870x489.jpeg"
-        width: 870
-        height: 489
         isCached: true
   - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
     excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."

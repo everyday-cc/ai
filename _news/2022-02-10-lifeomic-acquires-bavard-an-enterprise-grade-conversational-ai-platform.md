@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI"
-    excerpt: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI Tech Mahindra and Yellow.ai will work towards developing next-gen conversational-AI solutions to elevate omnichannel capabilities such as ..."
-    publishedDateTime: 2022-02-07T07:46:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 40
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-08/27/full/1535369573-6334.png"
-        width: 350
-        height: 233
-        isCached: true
 
 secured: "9wwms8yfYr6qpTfvix6u2G50I+kaP1DMKVs0vUCw82h5TwaWCHXfMpm9Ldu2Gi2lIYTyLao6lwQnU5wqHzbsfRvLp9yjXQGui8MKrOEqDiaVGUVvJVqZtP60GuiF5Nyiz+i3w1goEbKn5f9UdO+UcNjSAf2DYLIz08CXU69uS9IbfZN7WhOaG6uqPd6qXY2QmEBgpZ6Hh0wmk1IXu/6324p/fVhqXKUN3qvhbtN4QX4/xuRdt3+FQEVYZmLuBLNTbF0mFNNe+y8fbEDEyDXkuCJVnPcuuccBuHsILNrhRFstFUhcM+vz/Fv8h5k1ZqVlDDFXur4K2rk42kux1VGgiYImfa2ImYWCNG/QsgzNsJ4=;8pQVcsGYr1MAXYSmdOGrAw=="
 ---

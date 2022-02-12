@@ -2,48 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-02-09-ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins.md",
-      "title": "AI-driven Congruence Therapeutics gets $50M to stabilize misfolded proteins",
-      "excerpt": "For proteins to function properly, they must take on the right shape. Misfolded proteins are the root of many diseases. Congruence Therapeutics is using computational tools to discover and develop ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
-      "originalUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg",
-          "width": 683,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-08-implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations.md",
       "title": "Implement MLOps using AWS pre-trained AI Services with AWS Organizations",
       "excerpt": "The AWS Machine Learning Operations (MLOps) framework is an iterative and repetitive process for evolving AI models over time. Like DevOps, practitioners gain efficiencies promoting their artifacts through various environments (such as quality assurance, integration, and production) for quality control.",
@@ -478,7 +436,7 @@
       "originalUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music",
       "featuredContent": null,
       "highlight": null,
-      "heat": 342,
+      "heat": 332,
       "tags": null,
       "images": [
         {
@@ -1192,6 +1150,57 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact.md",
+      "title": "How An AI System Can Predict Critical Events And Help Reduce Their Impact",
+      "excerpt": "Over the last two years, we've experienced increasingly persistent and worsening critical events globally — catastrophic weather, civil unrest, the pandemic, cyberattacks. According to a Forrester study commissioned by my company, OnSolve, 99% of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60536d1bc39854a4c039187a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/amp/",
+      "publishedDateTime": "2022-02-07T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

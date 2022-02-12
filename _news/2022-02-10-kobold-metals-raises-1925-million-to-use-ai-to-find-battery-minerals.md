@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

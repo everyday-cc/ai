@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-03-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/02/220203161125.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/02/220203161125.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-people-prefer-interacting-with-female-robots-in-hotels.md",
       "title": "People prefer interacting with female robots in hotels",
       "excerpt": "People are more comfortable talking to female rather than male robots working in service roles in hotels, according to a study by Washington State University researcher Soobin Seo.",
@@ -1178,48 +1221,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-alphabet-a-shares-googl-q4-2021-earnings-call-transcript.md",
-      "title": "Alphabet (A shares) (GOOGL) Q4 2021 Earnings Call Transcript",
-      "excerpt": "Q4 2021 Earnings CallFeb 01, 2022, 5:00 p.m. ETContents:  Prepared Remarks Questions and Answers Call Participants  Prepared Remarks:  OperatorWelcome, everyone, and thank you for standing by for the Alphabet's fourth quarter 2021 earnings conference call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/alphabet-a-shares-googl-q4-2021-earnings-call-transcript/ar-AATnP7H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T21:00:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
-        "domain": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
-        "images": null,
         "publishers": null,
         "authors": null
       },

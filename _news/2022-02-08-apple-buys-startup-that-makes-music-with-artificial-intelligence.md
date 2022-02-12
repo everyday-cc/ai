@@ -186,20 +186,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Jio Platforms takes stake in AI start-up"
-    excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
-    publishedDateTime: 2022-02-07T08:25:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/jio-platforms-takes-stake-in-ai-start-up"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 37
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
-        width: 600
-        height: 375
-        isCached: true
   - title: "Apple Acquires AI Music Startup That Can Generate Dynamic Soundtracks"
     excerpt: "Apple has acquired AI Music, a startup that uses artificial intelligence to generate personalized soundtracks and adaptive music, reports Bloomberg. AI Music developed an \"Infinite Music Engine\" meant to create bespoke audio solutions for marketers ..."
     publishedDateTime: 2022-02-07T22:49:00Z

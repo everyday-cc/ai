@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/02/10/top-artificial-intellige
 webUrl: "https://www.fool.com/investing/2022/02/10/top-artificial-intelligence-stocks-buy-february/"
 type: article
 quality: 67
-heat: 68
+heat: 67
 published: false
 
 provider:
