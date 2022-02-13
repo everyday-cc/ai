@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
-excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ..."
-publishedDateTime: 2022-02-11T16:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+title: "Agot AI Raises $12M in Funding"
+excerpt: "Led by CEO Evan DeSantola, Agot AI has developed a computer vision product that can accurately confirm order accuracy in real-time and notify employees if an order needs correction. Customers include some of the largest blue chip food service brands in the ..."
+publishedDateTime: 2022-02-13T17:12:00Z
+originalUrl: "https://www.finsmes.com/2022/02/agot-ai-raises-12m-in-funding.html"
+webUrl: "https://www.finsmes.com/2022/02/agot-ai-raises-12m-in-funding.html"
 type: article
-quality: 26
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: finsmes.com
+  domain: finsmes.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://www.finsmes.com/wp-content/uploads/2022/02/agot.png"
+    width: 350
+    height: 350
+    isCached: true
 
 related:
   - title: "Agot AI gives restaurants computer vision to see where food orders go wrong"
@@ -35,24 +41,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Agot AI Raises $12M in Funding"
-    excerpt: "Led by CEO Evan DeSantola, Agot AI has developed a computer vision product that can accurately confirm order accuracy in real-time and notify employees if an order needs correction. Customers include some of the largest blue chip food service brands in the ..."
-    publishedDateTime: 2022-02-13T17:12:00Z
-    webUrl: "https://www.finsmes.com/2022/02/agot-ai-raises-12m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/02/agot.png"
-        width: 350
-        height: 350
-        isCached: true
   - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
     excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ..."
     publishedDateTime: 2022-02-11T15:00:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
+  - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
+    excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ..."
+    publishedDateTime: 2022-02-11T16:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -68,6 +69,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "NQazM3qIqMGGWNwD+nNIVZ+KWFU/5e8Qsiwa0QD88XqnA8zzAjNxoH0Thu+g4mJGhmtcLJy7A12RVqlg17KO4PP46GOPfpXFlZErhEfCsrZgtn73/XxGHSjTA2inDx9KdwpccSvpDpu71KSoMsIv6/KY0pwhPidWx88AvOAC3C4rqyN6dHCHuaPTC47fIphdtN8Zrzi6K+cWUnBRu6p79PnfyXeb0nhYuyViH7l7w3/rzrsFk9GpP8tABV071/4y7h9VQNHyPLi8L+wpdpjmpSHJZDh51JymiSWcFmqRtErzRqv7nWcQ2zsDi+LwGMXXD7awxFq+7BvzONuXFSh8ts65Sc9ii04LIkGHzewuOP4=;WmA1WXxQ+uo52M4T5SeCUQ=="
+secured: "k4xIOe1l30wKQeapFNZx49yruwx02W+dMsecENncEO15EQ+DNkchLoWmgo6zn9nscYXn5+5d9puhJncWCaEVA3wJeKD2RqHNEoM3jDV8qA2cMJbsCJZgBSEjduo68iMW54XTca/kgUbeWO7H6RrQ6ZSjZGf5QMYGS0a8Ic+EMHk8TdmPbK0hRX4/l8rJ8Kwk84sU/7SZ2prsvEicEcVLN+uOWWMX/XFYDxj4ad+y/oSVurG2/hEO2pMDLnZafpNyR6PIyN4S+uj6XacbryjBF+khd/UTBERmzDd4TnWRPDRtRq/Ls8bKqXEDOtjHFVyDSI+FhJJyqhgJqDB+cGAKWPgNdghzb/Pn+M/s6/iSqfY=;ozOgIJpXlQPFKPqMnmu1Ow=="
 ---
 

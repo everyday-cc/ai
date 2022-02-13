@@ -174,6 +174,20 @@ related:
         width: 698
         height: 289
         isCached: true
+  - title: "Sony built an AI that can beat you at video games, with honor"
+    excerpt: "First they came for chess, now they come for video games. In the 21st century, a legion of AI competitors could very well dominate every board, screen, and console played by humans. Famous machines like Deep Blue and Alpha Go have already conquered some of ..."
+    publishedDateTime: 2022-02-11T13:25:00Z
+    webUrl: "https://www.fastcompany.com/90720719/sony-built-an-ai-that-can-beat-you-at-video-games-with-honor"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-First-they-came-for-chess-now-they-come-for-video-games-This-AI-will-dust-you.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DmWKCLD54U1qK/pbA0oXuhtMQMYmdZkmB6930Sob35yegFRgFnc/BHYHiHGafCCiIXlLnWEmiHcNoWi7zJkE09hl7up0YczRzibfYxTFmGSmoZ5v4ciA1jezFX2Oz9EoF0pOK5OB+O7stLeReTpvm5bS8ufRPT8kL1JwFsV7ilvYiNsBtUASSFLkVf7nQ9AdSPyiKZNHGKgWJL77ZyEbTTBuA82R+QKvmMIGi9Ep9jPUMwC2EsiZ5tzrVQ9a4ZWC16Y95ye7oBLul/1PJyRx3NrFvLuvWf03mOBC2v/3Ja6ehGBLcuU2jGpuCDJ7XqGfRM6rehrMgSlfxsz9GkCGt80L2UEnPr/vJR5O+2WAqahYUik1qnpVF8mpGSQdNbKOA43R55VZiL3ZKgygX+vm+0spdFWFbi8ORmHERIZc38+CHTG034SWmjT/+pH/EFAXGpUy5O3SDweK6jAuEtMX18gRNlD/u/bw4Ac1RNMrRN8PkB5KaeyQdvWiQusGKoFa3gFE19+CTeB5u13B9aBa2A==;AEvYuXnaYztmyp3ncntIwg=="
 ---

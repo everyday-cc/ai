@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Agot AI Raises $12M in Funding"
+    excerpt: "Led by CEO Evan DeSantola, Agot AI has developed a computer vision product that can accurately confirm order accuracy in real-time and notify employees if an order needs correction. Customers include some of the largest blue chip food service brands in the ..."
+    publishedDateTime: 2022-02-13T17:12:00Z
+    webUrl: "https://www.finsmes.com/2022/02/agot-ai-raises-12m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/02/agot.png"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
     excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ..."
     publishedDateTime: 2022-02-11T15:00:00Z

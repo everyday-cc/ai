@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Sony's AI Drives a Race Car Like a Champ"
-excerpt: "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more."
-publishedDateTime: 2022-02-09T16:47:00Z
-originalUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/"
-webUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/"
-ampWebUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp"
+title: "Sony built an AI that can beat you at video games, with honor"
+excerpt: "First they came for chess, now they come for video games. In the 21st century, a legion of AI competitors could very well dominate every board, screen, and console played by humans. Famous machines like Deep Blue and Alpha Go have already conquered some of ..."
+publishedDateTime: 2022-02-11T13:25:00Z
+originalUrl: "https://www.fastcompany.com/90720719/sony-built-an-ai-that-can-beat-you-at-video-games-with-honor"
+webUrl: "https://www.fastcompany.com/90720719/sony-built-an-ai-that-can-beat-you-at-video-games-with-honor"
 type: article
-quality: 189
-heat: 299
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Fast Company
+  domain: fastcompany.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg"
-    width: 2400
-    height: 1350
+  - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-First-they-came-for-chess-now-they-come-for-video-games-This-AI-will-dust-you.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
+  - title: "Sony's AI Drives a Race Car Like a Champ"
+    excerpt: "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more."
+    publishedDateTime: 2022-02-09T16:47:00Z
+    webUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/"
+    ampWebUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 189
+    images:
+      - url: "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Sony created a Gran Turismo AI that demolishes the world's best human drivers"
     excerpt: "As is common in AI, Sony trained its versions of Sophy GT using fast graphics chips. To run the simulations, it used computers with conventional processors. The next in the venerable series, Gran Turismo 7, debuts on March 4."
     publishedDateTime: 2022-02-10T04:31:00Z
@@ -179,21 +188,7 @@ related:
         width: 698
         height: 289
         isCached: true
-  - title: "Sony built an AI that can beat you at video games, with honor"
-    excerpt: "First they came for chess, now they come for video games. In the 21st century, a legion of AI competitors could very well dominate every board, screen, and console played by humans. Famous machines like Deep Blue and Alpha Go have already conquered some of ..."
-    publishedDateTime: 2022-02-11T13:25:00Z
-    webUrl: "https://www.fastcompany.com/90720719/sony-built-an-ai-that-can-beat-you-at-video-games-with-honor"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-First-they-came-for-chess-now-they-come-for-video-games-This-AI-will-dust-you.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "PfcyGvf7RtltCgrJv24AMSrA57A3fMLYUugMpQj4iaEWVqqEaN0C0skCxZzDtoJ2bkQq2kaq7U/CeAXnYfg2r0mH7J5jn6vN+tjjNG+d9qQtpeewhIcNy3fIkNaSBthRlRTozt80ldISx1MshGTT/5uWMej0PCvjarpbFzvl749NnJ5qAULM9B4s+23s+NL3boygNwnbg0JALJgXbVMm1bxzeXbuJ2Ro+JUZQTppsExZZ4yPClxs+nKTKKxMLhnnZJFsXUOaxb6Ev/vbmU0cP5iKBSj6m+fLpHtK8d275uATa/UPn+hGVkqxw4Msu67MPQ3jlytH/+RnehoAwHpdxBMeiSzWE7D3J4WRGKjv33Vmvp+P/idKL5rPIdXawrbOSKrGmBBRjfyqI6R7m6lkDB22tlnHnyH0EsqCMzYZp97b9AvF9yvj+1i54kdT4v8c6M1A8xWh/u0awOqJk2kVSrZLgoF0E1oQSd4Kws5H5XcH6R5tBalyaSBi7sPADtSRdGDarb9/k01NYnWN9Q1jwcI9vTG7majJRqEjsqELaiU=;i2cxVmuS7a2js9sLISgtdg=="
+secured: "3NFteMfzJPG+VWvyyRBHjbLo9/VtnkYcifJJbDnLy7iXs8y+h8dlS9UM+YArPG7EptwSKWDOr13eQgBaLfujSAvI+U3gyCsdsvIcUKhbKiwk9vqey51aE7dC9bPofzLIxitVHEOcKV8mkKKTWoBLMbf3r+VWduKkD4BR7zB7mn8tLMRrIbLhYqdXTEacIhVvjmReTHSTsqFXgkMS/XENxKL52RRqU7i9jzT0dB0I28tdG6tQAWlBzG4AVF5v6BrsTkIDCkKND4eZbx2y4AMmCqseNdwEGR5gg2fNWOFGc52UByP3mqVfj2DfzEndLMDTGwXBRL24QxUaiCqtzQxhJkx4xeJB09tzEBo6U/oYVr0=;r3HjvFoUZ38zGhZQ4qf+bg=="
 ---
 
