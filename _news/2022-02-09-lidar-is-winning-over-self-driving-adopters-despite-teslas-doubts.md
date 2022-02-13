@@ -37,22 +37,6 @@ related:
         width: 719
         height: 405
         isCached: true
-  - title: "2 Senators Tell Tesla They Are 'Deeply Troubled' About Self-Driving Dangers"
-    excerpt: "\"We are deeply troubled by Tesla's design choices that seemingly encourage unsafe driving habits,\" the Senators wrote about the automaker's \"Full Self-Driving\" system that was the subject of a recall of over 50,000 vehicles last week. This is a developing ..."
-    publishedDateTime: 2022-02-08T17:22:00Z
-    webUrl: "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270"
-    ampWebUrl: "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 87
-    images:
-      - url: "https://d.newsweek.com/en/full/1982603/tesla-elon-musk-richard-blumenthal-ed-markey.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Autonomous taxis are safer than Tesla’s ‘self-driving’ tech"
     excerpt: "It started with a rallying cry against the use of misleading terms like ‘self-driving’ to describe car functionalities that sit firmly in Level 2 in terms of vehicle automation. Even when a ..."
     publishedDateTime: 2022-02-10T14:02:00Z

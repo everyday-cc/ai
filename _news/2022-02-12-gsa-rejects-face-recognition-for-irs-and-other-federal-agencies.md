@@ -89,20 +89,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Cyber Daily: IRS Retreats From Facial Recognition to Verify Taxpayers’ Identities"
-    excerpt: "Hello. The Internal Revenue Service has been using a facial-recognition service from a company called ID.me for people to validate and verify their identities before opening online accounts and accessing personal tax data. The agency was also planning to ..."
-    publishedDateTime: 2022-02-08T18:47:00Z
-    webUrl: "https://www.wsj.com/articles/cyber-daily-irs-retreats-from-facial-recognition-to-verify-taxpayers-identities-11644346058"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 79
-    images:
-      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The campaign against IRS use of facial recognition is a model for digital activism"
     excerpt: "Likes Werner Herzog films and Arsenal FC. Digital activists can celebrate a memorable victory after the IRS ditched a controversial facial recognition system. The agency had planned to use third ..."
     publishedDateTime: 2022-02-09T18:24:00Z
@@ -130,36 +116,6 @@ related:
       - url: "https://media.wired.com/photos/6202db28c14aa6d334a5d857/191:100/w_1280,c_limit/Business_IRS-1233687835.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "House Democrats urge IRS to halt facial recognition plans"
-    excerpt: "It's not just Republican senators upset over the Internal Revenue Service's plans to adopt ID.me facial recognition. Democratic House Representatives Ted Lieu, Anna Eshoo, Pramila Jayapal and Yvette Clarke have sent a letter to IRS Commissioner Charles ..."
-    publishedDateTime: 2022-02-08T18:49:00Z
-    webUrl: "https://www.engadget.com/house-democrats-irs-facial-recognition-letter-173821508.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-02/2fa983a0-8837-11ec-9aa5-a4e12e896b56"
-        width: 4500
-        height: 3068
-        isCached: true
-  - title: "IRS halts facial recognition plan amidst backlash"
-    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash ..."
-    publishedDateTime: 2022-02-08T18:31:00Z
-    webUrl: "https://wraltechwire.com/2022/02/08/irs-halts-facial-recognition-plan-amidst-backlash/"
-    ampWebUrl: "https://wraltechwire.com/2022/02/08/irs-halts-facial-recognition-plan-amidst-backlash/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/08/irs-halts-facial-recognition-plan-amidst-backlash/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
-        width: 864
-        height: 486
         isCached: true
   - title: "ID.me to end facial recognition requirement for government agencies"
     excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
@@ -208,22 +164,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
         width: 1264
         height: 710
-        isCached: true
-  - title: "IRS to Move Away from Using Third-Party Verification involving Facial Recognition"
-    excerpt: "The US Internal Revenue Service (IRS) announced that it will transition away from using a third-party service for facial recognition in order to help authenticate individuals creating new online accounts. The transition will take place over the coming ..."
-    publishedDateTime: 2022-02-08T17:03:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/186703-irs-to-move-away-from-using-third-party-verification-involving-facial-recognition/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186703-irs-to-move-away-from-using-third-party-verification-involving-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186703-irs-to-move-away-from-using-third-party-verification-involving-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face.jpeg"
-        width: 1280
-        height: 1270
         isCached: true
   - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
     excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
@@ -452,15 +392,6 @@ related:
         width: 1440
         height: 833
         isCached: true
-  - title: "IRS to halt use of ID.me’s facial recognition software for identity authentication"
-    excerpt: "The Internal Revenue Service will stop using facial recognition software to authenticate taxpayers’ identities, the federal agency said Monday. The move responds to mounting backlash from lawmakers, advocates and members of the public about the use of ..."
-    publishedDateTime: 2022-02-08T18:08:00Z
-    webUrl: "https://www.bizjournals.com/rhodeisland/news/2022/02/08/irs-to-halt-use-of-idme-s-facial-recognition.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
   - title: "Facial Recognition Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, Latest Key Players | NEC Corporation (Japan)"
     excerpt: "The security applications of facial recognition are motivating Facial Recognition Market in 2020. The AI and analytics reports are made"
     publishedDateTime: 2022-02-09T10:48:00Z

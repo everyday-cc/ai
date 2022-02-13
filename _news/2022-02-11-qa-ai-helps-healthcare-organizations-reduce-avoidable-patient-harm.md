@@ -9,8 +9,8 @@ ampWebUrl: "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcar
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: HealthTech
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Implement MLOps using AWS pre-trained AI Services with AWS Organizations"
-    excerpt: "The AWS Machine Learning Operations (MLOps) framework is an iterative and repetitive process for evolving AI models over time. Like DevOps, practitioners gain efficiencies promoting their artifacts through various environments (such as quality assurance, integration, and production) for quality control."
-    publishedDateTime: 2022-02-08T17:11:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/"
+  - title: "MyHealthcare launches AI enabled enterprise ecosystem towards digitalisation of healthcare in India"
+    excerpt: "The MHEA ecosystem enables clinicians and hospital teams to manage complete patient care and hospital operations, through a task-based healthcare information management system (HIMS)."
+    publishedDateTime: 2022-02-09T10:48:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/myhealthcare-launches-ai-enabled-enterprise-ecosystem-towards-digitalisation-of-healthcare-in-india/2429415/"
+    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/myhealthcare-launches-ai-enabled-enterprise-ecosystem-towards-digitalisation-of-healthcare-in-india/2429415/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/myhealthcare-launches-ai-enabled-enterprise-ecosystem-towards-digitalisation-of-healthcare-in-india/2429415/lite/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 62
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/ml_6569_fig1-whitebackground.png"
-        width: 1100
-        height: 400
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/digital-pic.jpg"
+        width: 1200
+        height: 665
         isCached: true
 
 secured: "5s6cRxURtaV/FAOWnQ6l3kgY1EXTjPKhC5ge2CqEw2BdPeLdGqpK/mfYDk1NsqpHPbG5D4RGu6WL7BKpb96nyc03QsNXnt9TFzSBV1FrqPj7+PPoiRULrwqHOQUCRR+mHvvFChTr7t8Q87mVUgisfcuqRn8oa3gG6KO/R7giMIXSQ7oFTaWUrzVnRnJzS2S6efyBjp0FFrHsXXjdZNm3n7ys41UQKMlojAedwa5N68QIAD2iKlnS8RWRHiPvtkAHwUEwXthwGg2uEkQneO4uI81m88TzhM/g553bI7cQxcwSehutZb6XT7X0lyi9OOJQDGCWwEb2T1rbJZ9lCmCoZ/NnKmD/E/2xW+AAjoLZcj3Qkzr3H4TBIAkEm45NeEnalYpuKcFnTgTAQip2igsSOEnW3SxYI8X1zDsYvNmEeFjl0XIMxInso1H/W0cMm9v7YgsjtFphetzlqxsH9+0465B4Hh3xlF95KZ2q7E5vsf9RJ0pkx+QVYXn992O3cF+LTHCDIDbynYzh/yZv8Aj5sg==;2On6g3yo+UtkJ1AZFldcbA=="

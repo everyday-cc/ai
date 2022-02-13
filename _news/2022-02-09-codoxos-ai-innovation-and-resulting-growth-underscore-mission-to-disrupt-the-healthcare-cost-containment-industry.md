@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "MyHealthcare launches AI enabled enterprise ecosystem towards digitalisation of healthcare in India"
-    excerpt: "The MHEA ecosystem enables clinicians and hospital teams to manage complete patient care and hospital operations, through a task-based healthcare information management system (HIMS)."
-    publishedDateTime: 2022-02-09T10:48:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/myhealthcare-launches-ai-enabled-enterprise-ecosystem-towards-digitalisation-of-healthcare-in-india/2429415/"
-    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/myhealthcare-launches-ai-enabled-enterprise-ecosystem-towards-digitalisation-of-healthcare-in-india/2429415/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/myhealthcare-launches-ai-enabled-enterprise-ecosystem-towards-digitalisation-of-healthcare-in-india/2429415/lite/"
+  - title: "Contest: Vision Tank Start-Up Competition"
+    excerpt: "The Vision Tank Start-Up Competition showcases the best new ventures that are solving real-world problems by creating innovations fueled by visual AI, deep learning and computer vision. The firm is inviting early-stage companies to compete in technology innovation,"
+    publishedDateTime: 2022-02-08T20:13:00Z
+    webUrl: "https://www.electronicsforu.com/news/startup-contests/contest-vision-tank-start-up-competition"
+    ampWebUrl: "https://www.electronicsforu.com/news/startup-contests/contest-vision-tank-start-up-competition/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/startup-contests/contest-vision-tank-start-up-competition/amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 62
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/digital-pic.jpg"
-        width: 1200
-        height: 665
-        isCached: true
-  - title: "AI Could Be the Magic Pill for Improved Health Care, but Ethical Concerns Are a Side-Effect"
-    excerpt: "Rightfully so, AI utilization is starting to take center stage in hospital ... From strategic planning, clinical quality and risk management, to social responsibility and ethics, there are many areas that boards need to take into consideration."
-    publishedDateTime: 2022-02-09T12:01:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/ai-health-care-regulators-boards-laws-ethical-concerns/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
+      name: Electronics For You
+      domain: electronicsforu.com
     quality: 44
     images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2022/02/shutterstock_1181851309.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Specialised Report on Healthcare released by Government of India"
-    excerpt: "It presents a scenario where personalised healthcare is possible for all citizens of India, through use of artificial intelligence driven guidance for healthcare professionals, and cyber-physical ..."
-    publishedDateTime: 2022-02-11T08:41:00Z
-    webUrl: "https://menafn.com/1103678551/Specialised-Report-on-Healthcare-released-by-Government-of-India"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/11/EP_dce3cimage_story.jpeg"
-        width: 765
-        height: 708
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/02/download-2022-02-09T012645.721.jpg"
+        width: 500
+        height: 300
         isCached: true
 
 secured: "JVLeRgzo3thDr+SpVlOZwPr0kcJ379Crr2d9onEyEvXb8GSzsGKcF8IP1MrY/1xjOFcK/SDb5O912IXd2RxWjaWHs4KdCEHWK6az2sLuIpS9ZQRLueoJA323F4G4HUiWI1hkt36VwVJmDJ6/ZRI/xWgg2VYk9H96bvZgRiXO2UjK1U+xcY8JWDQnEDA1CCgpGziHIt9onjZ3bbq4buIObwzuHoAeS1EramkxKLWeVRfIkr+foEVJp55Qc7cxU6msTc0D5JU5Ps1S1tNhSHbDUuMd4Tswyosh+T53xhXy2pOKEXZJhnw1cZLiSxi31bQBtMf18dDXoYJhK9ZwUXZV6kg9W9mMRlbNRIECcd8ftMk=;sJ/Wq1T1f4EjJK0H7OT/vQ=="

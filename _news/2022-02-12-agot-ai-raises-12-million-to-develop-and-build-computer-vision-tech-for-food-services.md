@@ -3,8 +3,8 @@ category: news
 title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
 excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ..."
 publishedDateTime: 2022-02-11T16:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
 type: article
 quality: 26
 heat: -1
@@ -61,6 +61,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "wjm+53OQ4IR8l6EP9T3cAUHGZAiqVbq/zcJN76cSYf7Ya+KGfsGUMFOppZJUneMsnHvwkaYYcpmNdbpOU/Dz0y1ebWJNXra/apexqGyyTFsSbWlHjlFa5mVFG9Eam+KMxsFEGu9zaOQrNVZFDFUVe+c4py/Y4qXheIlMw5FSqe1+z391+9sNndT510MB5Fa+apeoAgHCyubMCv5wPahABCGMZDfSo8BkHagkqHNRUk1IpOOUSfDihcoE4I54W9qhCl8TRpQeDj9df0FTa/9Zwj5QeuTYrppd4axBQuk2g4/UZgBh5XTm1Hm8tJZTz9kp4waOYt9khdpuUpmsNhnycbdB2gK2qExp0CplEsPrJoY=;bI19l4fSeTEbTPNtX375cQ=="
+secured: "NQazM3qIqMGGWNwD+nNIVZ+KWFU/5e8Qsiwa0QD88XqnA8zzAjNxoH0Thu+g4mJGhmtcLJy7A12RVqlg17KO4PP46GOPfpXFlZErhEfCsrZgtn73/XxGHSjTA2inDx9KdwpccSvpDpu71KSoMsIv6/KY0pwhPidWx88AvOAC3C4rqyN6dHCHuaPTC47fIphdtN8Zrzi6K+cWUnBRu6p79PnfyXeb0nhYuyViH7l7w3/rzrsFk9GpP8tABV071/4y7h9VQNHyPLi8L+wpdpjmpSHJZDh51JymiSWcFmqRtErzRqv7nWcQ2zsDi+LwGMXXD7awxFq+7BvzONuXFSh8ts65Sc9ii04LIkGHzewuOP4=;WmA1WXxQ+uo52M4T5SeCUQ=="
 ---
 

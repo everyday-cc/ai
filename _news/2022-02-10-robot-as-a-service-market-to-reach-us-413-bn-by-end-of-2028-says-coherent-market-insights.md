@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Industrial Robotics Market to Surpass US$ 69.1 Mn by end of 2027, Says Coherent Market Insights"
-    excerpt: "Moreover, increasing adoption of AI robotics in the industrial sector is also expected ... For instance, in February 2021, Symbio Robotics, a U.S.-based industrial robotics startup, raised US$ 30 million in funding. Moreover, increasing investment in ..."
-    publishedDateTime: 2022-02-08T18:46:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industrial-robotics-market-to-surpass-us-69-1-mn-by-end-of-2027-says/article_5070fd8b-1ab7-51fd-874a-100b12d40ff4.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d4/2d499fad-25d4-5e32-a92d-0955ecb91282/6166f8a0cc6a6.image.jpg?crop=1213%2C637%2C143%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robot Sensors Market revenue to cross USD 5 Bn by 2028: Global Market Insights Inc."
     excerpt: "Growing advancements in Artificial Intelligence (AI) and robotic sensor technology allow flexible thoughts and motion in robots. These advancements also include the performance of a variety of entertainment tasks, such as playing music, watching TV shows ..."
     publishedDateTime: 2022-02-09T08:30:00Z

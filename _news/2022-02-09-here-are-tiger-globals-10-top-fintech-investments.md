@@ -71,15 +71,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
-    publishedDateTime: 2022-02-08T19:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/10-fintech-stocks-to-own-until-2032-and-beyond-1031173036"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Role Of Big Data In Fintech Industry"
     excerpt: "Fintech is the combination of finance and technology that when combined together can also tackle compliance.AI can evaluate and determine financial anomalies as well as track transactions. This enables fintech firms to take proactive actions before an ..."
     publishedDateTime: 2022-02-08T23:59:00Z

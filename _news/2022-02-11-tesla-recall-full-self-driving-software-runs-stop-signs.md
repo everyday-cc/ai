@@ -43,22 +43,6 @@ related:
         width: 719
         height: 405
         isCached: true
-  - title: "2 Senators Tell Tesla They Are 'Deeply Troubled' About Self-Driving Dangers"
-    excerpt: "\"We are deeply troubled by Tesla's design choices that seemingly encourage unsafe driving habits,\" the Senators wrote about the automaker's \"Full Self-Driving\" system that was the subject of a recall of over 50,000 vehicles last week. This is a developing ..."
-    publishedDateTime: 2022-02-08T17:22:00Z
-    webUrl: "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270"
-    ampWebUrl: "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 87
-    images:
-      - url: "https://d.newsweek.com/en/full/1982603/tesla-elon-musk-richard-blumenthal-ed-markey.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Autonomous taxis are safer than Tesla’s ‘self-driving’ tech"
     excerpt: "It started with a rallying cry against the use of misleading terms like ‘self-driving’ to describe car functionalities that sit firmly in Level 2 in terms of vehicle automation. Even when a ..."
     publishedDateTime: 2022-02-10T14:02:00Z
@@ -197,6 +181,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ct1yN9o3w1aUWFDbI1Zypw24yIMQozJpueHd6+wHpGgTnum/Xr92eUSdtM9R8XJKMnmM/vDFy6mWqKgYrqdY8bhUk4tnIk6uHR0Jnsl1ozoBJLZfayBwkzqrOPv+FNPiuvJJblo1V1O9pUsk6QdPHPtexSpwgjXcnU8BOsf0FS/H5esXPzV9YDouUZ5vZFDFTX2RPYBi84x2ZyoYOPDn+oeQ1YzAU4LJOypAfn95IprR7/rjmAXjYYKVAio6C5hCrA13GjyGFZthTAKrhuvhinvvRkTsc0V6/edw0xE97JmyKx71rVYEkmVZS3aWQuPNQ3v1Gd0ozs4Km5E/Ern/y8pFM3fR8rUE5IpOc43+y/k=;qE2B8jGwwvkOhkhb1REucQ=="
+secured: "rhMN5cM4A434f0aRipIai70RCjTGpJ3vBYy78VntICaMQ78BaYFyjiDLQeVyITEy14RKVAWptJgErNM+eTKLE3Ta/pD8m/QAdk2DlNemgz7/bOEDGGKLzcg+31TWW9L8ErQWALi1Ys3pwtS/bPbsXCO9S80nbpTp5xZsM1N8D6CNCk+8TpnL9VCMyeZWSpQQ9q6RwNfSQUo8yE0nDr99vZPKGWlyQ/ftBBwcx4aySIbDPnZMzRrB/aqU/jNMOhnWH4wIbzapqi4g5zQP5+C3J8bKfzoHpdPkV2L7RyUI5szKvmXbmLtXFtYl8uQ5zPcMpVzxMxfxGSLt/vaUeXHZ1HYu1e0juST+wSNZiVgRa9Uqe7hFVitvEfMGe54I6eZstKwYC2xrgVR/k025Tx2YPc6GDc/eS7keg10mXjAaO60SYIA5fkkZ1LXmsuX4Ok8VEDl5eJF4BfyxwPzd+MTwTSGOn8cARX+a2pTY7+zHJ77JiZEaeH+wzxftjTyRH8Y2D5SqxDhcjBTg48jWhtSmrg==;SaFlZvl6lYPTCm63E9v6tQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2022/02/agencies-look-expand
 webUrl: "https://www.nextgov.com/emerging-tech/2022/02/agencies-look-expand-both-automation-tech-and-ai-workforce/361843/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s Impact: Diversity and Workforce Automation"
-    excerpt: "Leaders must leverage AI so that it augments rather than replaces the human workforce, and ensure that AI no longer perpetuates historical bias. Artificial intelligence will shape so much across business and culture — but what will its effects be on the ..."
-    publishedDateTime: 2022-02-08T18:18:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ais-impact-diversity-and-workforce-automation/"
+  - title: "5 Areas AI-Driven Test Automation Improves the Online Shopping Experience"
+    excerpt: "Every retailer encounters fast-paced disruptive change, which requires them to adapt and innovate in a heartbeat. Some struggle to adjust to this turbulent environment because they rely on inflexible manual testing for various technologies and systems. To ..."
+    publishedDateTime: 2022-02-08T22:36:00Z
+    webUrl: "https://www.networkworld.com/resources/230630/5-areas-ai-driven-test-automation-improves-the-online-shopping-experience"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
+      name: Network World
+      domain: networkworld.com
+    quality: 36
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/LogMeIn-alberts_case_study_large-1.jpg"
-        width: 800
-        height: 600
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "LTXeHMvIt/OZ144dY0mfJ/NPcgk//sfjlg9PelV+zNVR1gFwbl9P42nq9l8MgpA7F37rVfJrA/AtpqFnYSVpXBmLKEURUXRrbFl2bEmuY69v84cNrT2I9NXq55edmr+pQKhzZ7w179V/BGhzgF2FGsKHS9d/3ggg3F32UisU7q3Xa2RNjZDstNjp0TLLcAp0kWiGgu6KDEKNIaVcuWuEBpGQAJD4plNz48RRxeh5PsSTPRiB+KjMLxPPf9P3F4oKnX9cat8mKV/Df6G72ZW0HzTXc8bvC3OIQUymHWr0QtPA5/HKXJvw88btZ4/ukWTrkmTBGgYqlmthHq+T9xpF4EhAiyp5wKqA/FHfebHyO/HPpIfF/KSvuM/tLGQD2wPYHNVUPjF5JCy0iPKGBj/wU3wxPRaImXpe9BUgvrnanfUEriCJClzAjMQQFyL9HoPZXCQd+/6yigoYKtuCirxfkppj/R65pB71SmmBtvYm4Rp49IKzWRWp/JMrlaKxwVww4YN+2vRxiH7uh/Cg0y5Y6Q==;PlvqjdsK32XkXOhW5RiPRg=="
