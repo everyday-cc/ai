@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Have Sony And Microsoft Announced A Partnership?"
-    excerpt: "Is Sony Partnering With Discord? In 2022, Discord will become a part of the PlayStation Network in Japan and North America. Gaming is carried out by more than 140 million users on"
-    publishedDateTime: 2022-02-08T22:41:00Z
-    webUrl: "https://www.ictsd.org/have-sony-and-microsoft-announced-a-partnership/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 39
-    images:
-      - url: "https://cdnictsd.ictsd.org/have-sony-and-microsoft-announced-a-partnership-.jpg"
-        width: 626
-        height: 417
-        isCached: true
   - title: "Refinitiv Expands Collaboration with Microsoft to Launch Market-data Powered AI Assistant in Microsoft Teams"
     excerpt: "Refinitiv AI Alerts powered by ModuleQ ... David Brunner, CEO of ModuleQ, said: “Since the start of the COVID-19 pandemic, two key trends have accelerated in the financial services industry – more data available than ever before for decision makers ..."
     publishedDateTime: 2022-02-10T15:22:00Z

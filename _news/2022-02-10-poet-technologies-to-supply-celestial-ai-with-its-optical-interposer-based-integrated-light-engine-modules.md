@@ -39,20 +39,6 @@ related:
         width: 333
         height: 235
         isCached: true
-  - title: "Chain.io Incorporates Altana AI into Integration Network to Enable Reliable Global Trade"
-    excerpt: "Chain.io data connectivity tools to streamline Altana data, connecting shippers and logistics providers to a fast-track global trade solution."
-    publishedDateTime: 2022-02-08T21:16:00Z
-    webUrl: "https://www.dcvelocity.com/articles/53766-chain-io-incorporates-altana-ai-into-integration-network-to-enable-reliable-global-trade"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 28
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/c994212e-d307-4d0a-b243-50b42712f878.jpg?height=635&t=1644334465&width=1200"
-        width: 600
-        height: 399
-        isCached: true
   - title: "AI Race in Drug Discovery Intensifies as Insilico Medicine Brings AI-generated Molecule To First-in-human Trial"
     excerpt: "A Hong Kong-based company applying a state-of-the-art artificial intelligence (AI) platform for drug discovery, Insilico Medicine, recently announced the start of a first-in-human microdose trial of ISM001-055 — a potentially first-in-class small ..."
     publishedDateTime: 2022-02-10T19:46:00Z

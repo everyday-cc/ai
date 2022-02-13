@@ -55,20 +55,6 @@ related:
         width: 668
         height: 504
         isCached: true
-  - title: "Have Sony And Microsoft Announced A Partnership?"
-    excerpt: "Is Sony Partnering With Discord? In 2022, Discord will become a part of the PlayStation Network in Japan and North America. Gaming is carried out by more than 140 million users on"
-    publishedDateTime: 2022-02-08T22:41:00Z
-    webUrl: "https://www.ictsd.org/have-sony-and-microsoft-announced-a-partnership/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 39
-    images:
-      - url: "https://cdnictsd.ictsd.org/have-sony-and-microsoft-announced-a-partnership-.jpg"
-        width: 626
-        height: 417
-        isCached: true
 
 secured: "+OZKLiaJVbTPPJ7wtfpiQb7j4egLWAMGhAq4FUUw42wTkzhOwlDjyTwrQj3rDq29DBbDDXJ54PLJesVNKPildVxRjN7wCZEs8BY14+eZ+IaAYzv7oUBQ56b+EojFcM9uauitlsNeLRCwwr99bgnuU28uCsXwToSWQTaIJCHwjD/ZkPXaC8CRFuFvlkqNU2k+aa3e2GxnGSpC8x2f9nouyBynmY+o9oXWhWDxapGFCJbzp7vToa6y0Gsan4xib2UlBbqpmMODGOBIi07Ht2StcmFowcHoe+NXLYoN/GfQFddgtmmYjPeyQs/CcCYxkry2PazYYJq25zsVcJivod+2TKmhic+t9FdihICclI797s660xTcSIKc8+LoLUbCTAjRrUg1v821vogNf6wDAdRXpPAVMIe76NlpAZ3dRENXryIRQ0TVqZGDkEtoVaNYpsKjwKz3cLIHTj9/2HL7HApWrHTB0CDD03p/qCQNW0jSCQnu9LDw1/1J+AcyfHPzY++hq8MQx9nctNqs2D5cOds5hA==;gDYlSLgijJ8oQ2mIzpsDFw=="
 ---

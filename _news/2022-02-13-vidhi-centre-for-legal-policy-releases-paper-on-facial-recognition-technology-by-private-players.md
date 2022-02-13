@@ -1,29 +1,27 @@
 ---
 category: news
-title: "You & facial recognition: Look for government to find more verification options"
-excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
-publishedDateTime: 2022-02-09T11:18:00Z
-originalUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/"
-webUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/"
-ampWebUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
+title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
+excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
+publishedDateTime: 2022-02-13T14:10:00Z
+originalUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
+webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
 type: article
-quality: 55
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: Bar & Bench
+  domain: barandbench.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
-    width: 1264
-    height: 710
+  - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -120,6 +118,22 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
+        isCached: true
+  - title: "You & facial recognition: Look for government to find more verification options"
+    excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
+    publishedDateTime: 2022-02-09T11:18:00Z
+    webUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/"
+    ampWebUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 55
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
+        width: 1264
+        height: 710
         isCached: true
   - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
     excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
@@ -290,20 +304,6 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
-    excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
-    publishedDateTime: 2022-02-13T14:10:00Z
-    webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
-    type: article
-    provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 26
-    images:
-      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
     excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."
     publishedDateTime: 2022-02-09T15:15:00Z
@@ -333,6 +333,6 @@ related:
         height: 337
         isCached: true
 
-secured: "/ran+AQKGMIIU8hmHIuL2KbZ5J5ctdjiPa6gWzUFKTyYOfwVRZzs2OLhhU8hBYkdEozjarDjZJGFjbrNQzAUw5WOglQLfV5TiBq2ivZlAVi6gsbw24rTmhjWMljpN0nnP8i3SR1p5COtRzbQjrpQsPdJd0ErNSMtfPEaGQwFo4R1LWXVOmQPA8+Vdoch5/SSnWrPzEes87+n9fOp0c/7Nurydo294tYkB97G7Rq5rQwQTddIhGFR6Xq0Sbl4vpSgmM0C5LjWPkivBmYpWAZFSi4LPxco+NAggBGnItK8v8NT22fcN/j8JUYZr/vKp//nJKqM1tAl6JPrm4J8hGfwZvngYH4GdPZZV0xK8KQeGulePgZUsr26R79SjaRj/S6USqlKm6U3fOrHLX4neIC41ngjwtBe0tvFm2X8Ba9gXMaTvrICxvACfhEz56DvehhjUhjKQ/uo8JToX1IZJ8rfWpKND0Uufxw5gPk2p0pZnk5nDf7L5f4VPX6c+ROq10zgRKEv/EdG/R6zDF05pNiByQ==;P6YAcx8CT+JmZarBBt/ZZQ=="
+secured: "glTL/niix2vkLWk5SYff/qa98lU1VfR6/HiMK7ry/u9IzUhnfctwXMCC/tWWejTYY4KmEW3hGIgGIKA7cX7KvrvXZPn+5r33lBBcxkpbvS4CGnq1M/SfkMyDylpi2M52ODCv/gGhOLebENp9pU0jgXIkisJdFCbs89aahw1PdQ30KEdJxG381QmanDb8z6njc+z5gO1tdqvrEFgVI89X8qTUuy/XXlnTDJIo2HPcnsbhzQRCaFmGse0R+vQEO/VkcVeusDQMUNn6vup4T9TpqlYI+yu03R/8aEorEY1WAHFnzV40Z+qr6qQjYWxto51YZcd66zJADjaicMNJnFE6ckddWjmlT83C7GMj1zlma5g=;PghC/wQN3FkDxyViriTHFQ=="
 ---
 

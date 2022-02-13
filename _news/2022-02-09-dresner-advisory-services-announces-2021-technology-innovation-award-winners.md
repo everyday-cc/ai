@@ -1,29 +1,47 @@
 ---
 category: news
 title: "Dresner Advisory Services Announces 2021 Technology Innovation Award Winners"
-excerpt: "NASHUA, N.H., Feb. 09, 2022 (GLOBE NEWSWIRE) -- Dresner Advisory Services today announced ... Data Science + Machine Learning; Embedded BI; Financial Consolidation, Close Management, and Reporting ..."
-publishedDateTime: 2022-02-09T14:46:00Z
-originalUrl: "https://menafn.com/1103664970/Dresner-Advisory-Services-Announces-2021-Technology-Innovation-Award-Winners"
-webUrl: "https://menafn.com/1103664970/Dresner-Advisory-Services-Announces-2021-Technology-Innovation-Award-Winners"
+excerpt: "Data Science + Machine Learning; Embedded BI; Financial Consolidation, Close Management, and Reporting; Guided Analytics; Natural Language Analytics; Sales Performance Management; and Self-Service BI. Analytical Platforms: integrated technology ..."
+publishedDateTime: 2022-02-09T12:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/g25505026/dresner-advisory-services-announces-2021-technology-innovation-award-winners"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/g25505026/dresner-advisory-services-announces-2021-technology-innovation-award-winners"
+ampWebUrl: "https://www.benzinga.com/amp/content/25505026"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25505026"
 type: article
-quality: 21
-heat: 21
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?252833"
-    width: 432
-    height: 250
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "pg20jp95yggNzSKzT0mbEXqvQEz2CKiMverpchVDboTlYJqI0YTQ5MeoWcLxeunn0SVKKfajmVWWnygfXzv3T4yrVs/PheagaWzM4B0E2j9N+L51l9opYzFe6pcX99ZS312A9iVSVgRasdb49QVtXDWDdlmk9kHFjalXHT5iagM9LaqOvMOPhN1d7Pggg+lWr+lW1q8OjX1YI6eXAnGkjPNvxliI/yyj/gvPNZZj8XKZIiKJpRMaPDM706dVSBmVgnqrbzYuPv+zGrROdg7SIEe2Ch2WCjECm+iBcK7aEezJ9AzTzrx2YKs6zS0k8fLAA/fb3Qs/TGZ4xTj30jK19x1bcZiX9Z06WJ7mdB7L3pU=;x89ZVnfhX51fJ47CtTGi8A=="
+related:
+  - title: "Top tech innovations we may see in 2022"
+    excerpt: "Data science, artificial intelligence and analytics are disrupting the technological ... Autonomous logistics: Companies like Waymo are already providing autonomous ride-hailing services in some world routes. While not completely developed yet, the service ..."
+    publishedDateTime: 2022-02-13T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-tech-innovations-we-may-see-in-2022/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/tech-pp-b_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "PM+hpIa2CnNBh2YY7aHIhoD86FMqaDvAzAUfef/ya+9LNA1uxOyMVr5Bz8QcDc63KYkRU2fEAxaQxXhMOaVo8Op7+zczF3EN7ZufyR/oWrCtLrRQDwV68K+0xDLAI2Pag9Cj/i7tQ8nHmBBSAXBB+cyIZLsUautr3yKIF/ImUcYns5L0QMWhVvNn6OmPN78XRwZd0avGignRVdpWFAYFgtfZOhvXAjmAy6aPFOPpnfWIhueg+1V66z1mvjyE9EAzItKR8yYI5nAMyxdrUvMBkERo8xUOMJh/DNw3AXi7o0pBs137YbHUQfso4eySJ/v0Mi8bQbiZbAEgtrVYGnaYDIbO/KjRPyxEVaLyOLdZ1cc=;9zqc8FcikfRQ9d+F9gpG3g=="
 ---
 

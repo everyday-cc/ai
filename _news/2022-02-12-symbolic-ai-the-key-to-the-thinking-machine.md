@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinki
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/"
 type: article
 quality: 91
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The key to the thinking machine is symbolic AI"
+    excerpt: "It’s most widely employed in linguistics models like natural language processing (NLP) and natural language understanding (NLU), but it’s also making its way into machine learning (ML) and other forms of AI, where it may provide much-needed ..."
+    publishedDateTime: 2022-02-13T13:10:00Z
+    webUrl: "https://bestgamingpro.com/the-key-to-the-thinking-machine-is-symbolic-ai/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/02/Symbolic-AI-The-key-to-the-thinking-machine.png"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "cg2DVyFpOQH5hDLW9wIu6uhYqmLCX8SI65ZrctDOs6gzntTWKtfpWFy6Nvp1UdOUnqHdHrQVZ9za+mHOZWTQIdA1NXhaH4ljsvgvlq2M6fU16W0G6QMlf5tJAlFJS2orTHgWfSig8HTBhPt/AkYzIzcoSqs96ly6gfZJG2M0CeU9jUqyBWA4bMrcD8+puxfA4jrwiv8e6qh0DyVjjYO3SfnG6r3KJ6ZHpJURVWAZVjrJNYMXyYNXRyiwsj9EKe1Nw+bh6Og/Z0+g3T5l/SpPwrH+lkbEWdD6is1KEgRMWlAL6Xhf3M4BGct77kWLsXAH2ayJJHCKYGqAmQDkpDw3sLoo532lDms2Myl94cbnD5JBQezSprwcjn5eKQZWE+SXDt5/iZ6ROp06uQp8QtKx+T9jHbME6gfvWhm0av89fv1wX9XSwpIcjho+JqQyVoKB2NtANttbdYJpnfOQOXrZseBJtdIcLVsJLr7fbxVz2CkxYzIxRkZfWOINv29P9eJQKtZa/kCOIvwcAgimceaT1A==;BCCtMj43xvo18x6IDq5Lyw=="
 ---

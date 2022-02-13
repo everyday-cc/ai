@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/top-tech-innovations-we-may-see-in-2
 webUrl: "https://analyticsindiamag.com/top-tech-innovations-we-may-see-in-2022/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Dresner Advisory Services Announces 2021 Technology Innovation Award Winners"
+    excerpt: "Data Science + Machine Learning; Embedded BI; Financial Consolidation, Close Management, and Reporting; Guided Analytics; Natural Language Analytics; Sales Performance Management; and Self-Service BI. Analytical Platforms: integrated technology ..."
+    publishedDateTime: 2022-02-09T12:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/g25505026/dresner-advisory-services-announces-2021-technology-innovation-award-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25505026"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25505026"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "ioqXBSrCmvHPCuHFJWNq9anX6Lfo+DhW8lOMq2vFnjikr18BWNF58EVQ7lj/q+ckNxKqrsy+XharkSnLwjtpbLZQibJlwX1I6lq6QMoc8YRdY8qkUOAQdXUYfA26ZeyLXJ6LPJLHKPpJjC7fGlA8HW0BUNkM9EJfwqohqnhgyziTMdqFR7T/rhupAh7kPErey/yD3W403g7VFB/PWx5Rn5QSJlMswENn5BAHbf/53h6dPVbAdhGPfyRW9Igyp/Gl5cuRpt4hazWCWN9FMrKJ2HXUs5dA4jAmYNCX+nb2nBmo1K+mdnixLR7xDi3FTmfEHlmLywmvvBO/yTHgyiQvWDYVtgi4x9rFkvQeS8Xo4fXSybE4nBpmhnPwMvkZLYuvav6o5N1x1Gyc9gs8Y8VstatkpE39eNenhhkmv9QVhZ5D2L/BHlDspBmPkGUcKBV1d6cC1YFf8INX8VZUTDhkBmK39CwT09fHgvezhsNnvL+SYHhGBN8VLU7M9sqnudGhnJripFsHgCeFNPJndJ/vDQ==;6JxE8FZzZ22ypUml+TPj2Q=="
 ---

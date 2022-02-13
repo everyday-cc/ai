@@ -77,20 +77,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The IRS Drops Facial Recognition Verification After Uproar"
-    excerpt: "The Internal Revenue Service is dropping a controversial facial recognition system that requires people to upload video selfies when creating new IRS online accounts. Ars Technica This story originally appeared on Ars Technica, a trusted source for ..."
-    publishedDateTime: 2022-02-08T21:35:00Z
-    webUrl: "https://www.wired.com/story/irs-drops-facial-recognition-verification/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/6202db28c14aa6d334a5d857/191:100/w_1280,c_limit/Business_IRS-1233687835.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "ID.me to end facial recognition requirement for government agencies"
     excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
     publishedDateTime: 2022-02-09T23:58:00Z
@@ -308,33 +294,19 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted"
-    excerpt: "Looking for the latest Government Contracting News? Read about IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted."
-    publishedDateTime: 2022-02-08T22:01:00Z
-    webUrl: "https://executivegov.com/2022/02/irs-to-end-use-of-facial-recognition-tech-to-verify-online-accounts/"
+  - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
+    excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
+    publishedDateTime: 2022-02-13T14:10:00Z
+    webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 29
+      name: Bar & Bench
+      domain: barandbench.com
+    quality: 26
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/08/9b/18/c0/f5/bb/72/8a/34/00P4y000011p6OsEAI.png"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "ID.me Announces Options for Selfie Deletion and Identity Verification without Automated Facial Recognition"
-    excerpt: "Today, ID.me announced a new option to verify identity without using automated facial recognition and will make this available to all public sector government partners. “We have listened to the feedback about facial recognition and are making this important change,"
-    publishedDateTime: 2022-02-08T21:53:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-df9830680f7c2d127d0987319ef7e0cf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
     excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."
