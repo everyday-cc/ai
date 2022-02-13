@@ -2,7 +2,7 @@
 name: "Suki"
 overview: "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://www.suki.ai/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "ySADklUD5OTxyBjHu5Uinhz+jIlQ/0f8khC8NuBz7rzdhowjIujpK67apITwtL8USMS1kEO93fyprb3BAqC9E4Ta9wJnVmOM8bW90Xqmv4MeB8gIyRKci/lVYkxv31u8CcPnX0+1ggOFEdMBaN4srpZYPcWGP4zhsrnXY5F7D+kRJG0Fn62Jne7NGStbLNpUkxzvgwRbpnQZ6gJHIyfQ2zJIkWciOD0r023Ruzj76qlzqO9eExFUeI+8S6nZbOj5p5+p5JLgCS1Qhy4+xi0SANhrwe2LaHbu7xrNFoaKvQjJyXuwUvc5TVIdoExneXDpbpmAbk2iQbnnPAChEwEC0TRrBCd/R0+htiCt/MWwwLo+ggVhnTtnZQAuNcllzxn5/PrQLD+4ARbSE92hzOlfjpPkGU11KcYLsol3kaoseBg=;nXQfnXAShpiABYN8MLuNCg=="
+secured: "rm020FaqUjnHLBvZceBran4rjecJYv7uFJfXkNH53lxXqDIKLJAsHJh/sQRokmTdLuIlWlwNJqQn9Unwanvcl+alS/spYQAi+V37Pvk8wbT1NZ7SFxDXwidocZ6mtg7xWUYAPC49z6lDKxvUjKLqeL5/qmdN3Q4aqZpAauXAPRKP2igB0fpF/XW3U8Q/EBZ/szrFIr9avcOXxkA/BxfAnEALaBH823v3FN1PeC9Q3XhGLlyRiYZjCrgA34cGxAn+8MWmW3VBkhiRmgi3Wvb70N4x5JSUGEr00oOTrAZWGYySUCoiE5KlO1igAVyYzcN11UcOmTAjO4ylsWDsKE+br0T3to6moInSGs6RSgjUxDQBYJYC6cwqZpqFeHiscznR3ZNwFUQzrVYNUwq/9+UcuFQnSFLwDMD3J2iFEoNrHoc=;jBYcds6uyAimWQTJ//JDtg=="
 ---
 
