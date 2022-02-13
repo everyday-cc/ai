@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Helping the Fintech Corridor power ahead with joined-up thinking"
-excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
-publishedDateTime: 2022-02-10T05:44:00Z
-originalUrl: "https://www.irishtimes.com/sponsored/innovation-partner-profiles/helping-the-fintech-corridor-power-ahead-with-joined-up-thinking-1.4796986"
-webUrl: "https://www.irishtimes.com/sponsored/innovation-partner-profiles/helping-the-fintech-corridor-power-ahead-with-joined-up-thinking-1.4796986"
+title: "Why The Future Of Fintech Depends On Open Data"
+excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
+publishedDateTime: 2022-02-09T13:42:00Z
+originalUrl: "https://www.linkedin.com/pulse/why-future-fintech-depends-open-data-naveen-joshi"
+webUrl: "https://www.linkedin.com/pulse/why-future-fintech-depends-open-data-naveen-joshi"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Irish Times
-  domain: irishtimes.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
-    width: 1440
-    height: 810
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQGC-IrFk_kSKA/article-cover_image-shrink_720_1280/0/1643831593265?e=1650499200&v=beta&t=z-DREcEk0IRXN50RpIDlKmNCrd3yKK2_Gy8SE8GVNQY"
+    width: 1000
+    height: 617
     isCached: true
 
 related:
@@ -85,19 +89,19 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Why The Future Of Fintech Depends On Open Data"
-    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
-    publishedDateTime: 2022-02-09T13:42:00Z
-    webUrl: "https://www.linkedin.com/pulse/why-future-fintech-depends-open-data-naveen-joshi"
+  - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
+    excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
+    publishedDateTime: 2022-02-10T05:44:00Z
+    webUrl: "https://www.irishtimes.com/sponsored/innovation-partner-profiles/helping-the-fintech-corridor-power-ahead-with-joined-up-thinking-1.4796986"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGC-IrFk_kSKA/article-cover_image-shrink_720_1280/0/1643831593265?e=1650499200&v=beta&t=z-DREcEk0IRXN50RpIDlKmNCrd3yKK2_Gy8SE8GVNQY"
-        width: 1000
-        height: 617
+      - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Trends that will shape the Fintech industry in 2022"
     excerpt: "This will finally allow businesses, and the fintech industry in particular ... Voice-enabled payment: With rapid improvements in AI-based voice technologies ensuring high precision in natural language processing, voice-enabled payments are expected ..."
@@ -128,6 +132,6 @@ related:
         height: 720
         isCached: true
 
-secured: "B+z+wPBWgLz5wc6CToP2e4GdAEQ7KiW9E//sFVZaixU9gvUPCWaP+KORQHVavAxV7W2Jz/qeGznTgaVhuPuoYvy32MLB3pcWL0zKc2RR3+BrrER++g0TeHY2rVteVwCirVvprCoXlxlu1h2ei3UTVN9Nu+V2aIgOPhu0o/tEjSy3mH+jieI+B+2YS+d0/ttZYrIkGGVs2h2lGr2HdWSXmvPqhJtUcvxp6EDOrQM0kEN74apxEwVorroVJ9zQWLXmgiQvd3jCyLhN+6Gbo0HOU16fE4eCbA2ylqCezXmEaiLWPE3TQ8cBGm6Qy03IODTxphU4KltUie1vgvOhUp9EBdrUw6phA7eKScAoq+vkOR1LMNerzJN2rWD32rBw7N7K1npjVL1u3VS7WFqoZZRJlQh3G+A+S2+guM/baga/necAW+OAnTGEUcyxbakCwAQVhnycyK4bnRAnv69UbuAWPP0mWtdvH0TWcHGdCq6MDb3plRuHe2jNutCjFnbPr5LQGHCunboP7s5VOK1qc8r9QA==;1VThVhke3VXIDWHaSr0UIA=="
+secured: "mgbj980xFQTqY4B3PfP/ntFZI2Fj1MePTStGT7bpnJEa31VpHi/S2A0VX2BhhRr/STmjduhR5R+5qLlDQGny2OmmiCLP/rb0ifac3/D9Im/f/r71EVMA853wKbULQcuV0+HmrVwFXML6FNJNdxX53Es0GC3fdfl2FtmU3VOF6DxPinLyMdGsgVbPJq3eX4uM6XYlZvBMXZswY90rouMrbWMN1Aa55G9d2zKae/FBP8TQ2pCoZAYAoSnMEwiJqu/0vxAV+XV2L/0GTuEpkN02Bh73RtWM22lsHY4jdrtAIHPcDPCJJA0s2pLnyYaobXd0YKbB2h4RQIaKr5xhqslg4DpDxR8GMKrouztL75z2UNM=;osgJ6wvsBqtkRyc5KI8Qow=="
 ---
 

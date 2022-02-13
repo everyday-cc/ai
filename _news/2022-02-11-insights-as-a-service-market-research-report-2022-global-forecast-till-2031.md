@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning in Healthcare Market 2021 Key Players, Industry Size, Share, Segmentation, Comprehensive Analysis and Forecast by 2027"
-    excerpt: "Feb 08, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has presented a new report entitled Global Deep Learning in Healthcare Market Growth (Status and Outlook) 2021-2027 that provides insightful data about the market and an in-depth and crucial ..."
-    publishedDateTime: 2022-02-08T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-healthcare-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027-2022-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robotic healthcare to be the future of Wheelchairs and Components Market"
     excerpt: "The gamut of care is being driven by the usage of sensors, digital technologies, and wearables, thereby allowing the healthcare personnel to delve ... areas such as computer science, robotics, artificial intelligence, and sensor technology are broadening ..."
     publishedDateTime: 2022-02-11T20:40:00Z

@@ -38,20 +38,6 @@ related:
         width: 333
         height: 235
         isCached: true
-  - title: "Virtana Incorporates AI into Hybrid Cloud Management Platform"
-    excerpt: "The company leverages a combination of AI, ML, and data analytics to provide observability for managing app workloads across public, private, hybrid, and multi-cloud environments. The platform enables workload migration, cost optimization, and ..."
-    publishedDateTime: 2022-02-08T19:39:00Z
-    webUrl: "https://www.just-auto.com/research-reports/virtana-incorporates-ai-into-hybrid-cloud-management-platform/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Cloud_2.jpg"
-        width: 500
-        height: 334
-        isCached: true
   - title: "POET Technologies to Supply Celestial AI with its Optical Interposer-based Integrated Light Engine Modules"
     excerpt: "Celestial AI’s mission is to fundamentally transform computing efficiency with their Photonic Fabric™ technology platform, that uses light for data movement both within chip and between chips. “The customized Optical Interposer platform that we have ..."
     publishedDateTime: 2022-02-10T14:13:00Z

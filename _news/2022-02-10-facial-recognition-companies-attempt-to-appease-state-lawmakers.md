@@ -41,22 +41,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "IRS scraps plan to use facial recognition technology to cut down on fraud"
-    excerpt: "NBC News' Kevin Collier reports on why the IRS was quick to abandon plans to use third-party facial recognition technology to cut down online tax fraud."
-    publishedDateTime: 2022-02-08T19:03:00Z
-    webUrl: "https://www.nbcnews.com/now/video/irs-scraps-plan-to-use-facial-recognition-technology-to-cut-down-on-fraud-132702277544"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo132702277544"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo132702277544"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 88
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_02/1644344342895_now_dayside_facial_recognition_220208_1920x1080-7anm4p.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "IRS will transition away from facial recognition after wave of criticism"
     excerpt: "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ..."
     publishedDateTime: 2022-02-09T16:39:00Z
@@ -181,22 +165,6 @@ related:
         width: 1280
         height: 674
         isCached: true
-  - title: "IRS says it will scrap facial-recognition ID.me plan following backlash"
-    excerpt: "The IRS on Monday said it will stop using face-recognition technology to authenticate taxpayers when they create online accounts. The decision comes amid a backlash from privacy advocates, taxpayers and lawmakers against the image-based system from ..."
-    publishedDateTime: 2022-02-08T19:27:00Z
-    webUrl: "https://www.cbsnews.com/news/irs-id-me-facial-recognition-tax-returns-backlash/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/irs-id-me-facial-recognition-tax-returns-backlash/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/irs-id-me-facial-recognition-tax-returns-backlash/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/11/3d791689-4fb9-4421-a446-dae871b4af40/thumbnail/1200x630/96422b27f7337af35e31743540440084/cbsn-fusion-irs-warns-of-frustrating-tax-filing-season-ahead-thumbnail-870962-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IRS Reverses Course on Facial Recognition Service Amid Backlash; Users Can Delete Selfies From ID.Me"
     excerpt: "Beginning March 1, the ID.me said that anyone who already created an account can delete it, and that it was allowing government agencies using the service to skip the selfie step altogether, CBS News reported. The IRS announced on Monday that they will ..."
     publishedDateTime: 2022-02-10T17:00:00Z
@@ -265,20 +233,6 @@ related:
       - url: "https://cdn.govexec.com/media/img/cd/2022/02/07/020722_getty_fcw_irs-2/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "IRS to end use of facial recognition to access tax accounts"
-    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID."
-    publishedDateTime: 2022-02-08T20:43:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=ebd87452-fb16-5381-8fee-9ccca13e0873&type=primary&q=72&width=1200"
-        width: 1200
-        height: 694
         isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."

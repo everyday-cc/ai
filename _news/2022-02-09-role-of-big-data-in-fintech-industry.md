@@ -71,19 +71,19 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Here are Tiger Global's 10 top fintech investments"
-    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs than any other firm, according to CB Insights."
-    publishedDateTime: 2022-02-08T20:08:00Z
-    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech?amp"
+  - title: "Why The Future Of Fintech Depends On Open Data"
+    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
+    publishedDateTime: 2022-02-09T13:42:00Z
+    webUrl: "https://www.linkedin.com/pulse/why-future-fintech-depends-open-data-naveen-joshi"
     type: article
     provider:
-      name: altfi.com
-      domain: altfi.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 24
     images:
-      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
-        width: 1200
-        height: 720
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGC-IrFk_kSKA/article-cover_image-shrink_720_1280/0/1643831593265?e=1650499200&v=beta&t=z-DREcEk0IRXN50RpIDlKmNCrd3yKK2_Gy8SE8GVNQY"
+        width: 1000
+        height: 617
         isCached: true
   - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
     excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"

@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning in Healthcare Market 2021 Key Players, Industry Size, Share, Segmentation, Comprehensive Analysis and Forecast by 2027"
-    excerpt: "Feb 08, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has presented a new report entitled Global Deep Learning in Healthcare Market Growth (Status and Outlook) 2021-2027 that provides insightful data about the market and an in-depth and crucial ..."
-    publishedDateTime: 2022-02-08T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-healthcare-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027-2022-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market, Size & Share, Growth, Trends, COVID-19 Impact Analysis, and Forecasts to 2028"
     excerpt: "Machine Learning as a Service (MLaaS) market was valued at 2103.3 million in 2021 and is projected to reach US$ 7923.8 million by 2028, at a CAGR of 20.9% during the forecast period Machine Learning as a Service (MLaaS) Market 2022-2028 A New Market Study ..."
     publishedDateTime: 2022-02-11T18:00:00Z
