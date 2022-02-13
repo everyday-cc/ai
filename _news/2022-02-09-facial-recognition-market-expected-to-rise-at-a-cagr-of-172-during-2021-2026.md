@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The artificial intelligence in genomics market to grow at a CAGR of 48.44% during the forecast period"
+    excerpt: "Artificial Intelligence (AI) is widely helping in diagnostics and contributing to accessible, affordable, and good quality healthcare, which is consequently improving accuracy. • Vendors are increasingly focusing on launching innovative devices to ..."
+    publishedDateTime: 2022-02-10T09:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/g25529778/the-artificial-intelligence-in-genomics-market-to-grow-at-a-cagr-of-48-44-during-the-forecast-peri"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25529778"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25529778"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Machine Learning Market to Expand at a CAGR of ~27% | 2020-2030"
     excerpt: "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,"
     publishedDateTime: 2022-02-09T11:25:00Z
@@ -36,6 +52,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 41
+  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
+    publishedDateTime: 2022-02-11T07:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "NDLrdG8VJ8YcKjI07IAK7QjqC2MqfZ8R7sC9h9WuKMIFLqoTqnOhHzlTFquNfoOjIyvMJzTASgSbE3bj9BjKSbkfT/WpJvy0nt7Oa86auhvGOpi7oL6fuVviOqg0sJ0TPNVzCCtkCWVww64rYhOeETNr9IUmKb4ykIFYrLIHvIo5G6VgVndpDXOlN2FrEzStnJYaCms37ti4pnUZ3ov0m5GFyLYrC4aOz3oawStoNVug8zmCukTAQ2dzI7ejrMoZmGwukkoPhG07DpXEFdIMVlMCxqIcgV26eoIYo9GOM/Q3T9cTp8XcTvobYVvf9IeTp767whdg9x3p2qm3olX6SRa1sJZ8IJB79oiYpJ/XipAVQL7cad8+7jOCF8xvoDVXmuDRDvShJsr9RA83fOGoE6YGIJGhNqrzcIXQMN/C5hfv5UZwRXHfLDXbYLpbmAXUzlwNiUMtJBgN3kaxtIhbNfKEqTlsGzHPhGXDtGH8XxW8w/o7CXZ65VvkvghYHedLEY2VzP6AwiZL5aKUccV0ag==;Ade5/WNr8JUmtQkdjnOsuQ=="
 ---

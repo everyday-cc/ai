@@ -62,20 +62,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct"
-    publishedDateTime: 2022-02-09T03:59:00Z
-    webUrl: "https://www.stltoday.com/sports/olympics/the-ap-interview-exiled-artist-reflects-on-beijing-olympics/article_d221181b-3a40-5ed9-81e6-937e0293f377.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/78/1786f1da-6bc0-5005-879b-c12394011d55/61fcb2ff9b2be.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "rgGK+f+H9PnnNVJNWyFiuJs4edekzGtK5sUOQdZSj/RTXi6hAXfYx/FAB9IZURbq+kMV4EAER1AUrpT6PXVzrzd1kv8/jWI2YfRhCGZCe/cc5FEst0zflOg660CzLVaEsfMLmU8ObRd0Yoj/Wnrj+81HMNfRD3PncL6YxaZb65QMcpJwUwX7ZBsletCdzbsOU3kt/II5eJsCk6PlVWk9QEwl6tdGRETWyKU7ulmKnpJ6AiVI/X7doajpH+/fJEd0HEI0RSLsj7muIwQpgDPiWcjNqDLmTYCotOYTPJfe9MgNDrKxWvEEtT0tsnFrQMfdK8x2F78BntpfClMwQxCS8ApqXCNeYtzB+tr6MmyUwW27/q8hhmY8EQJ3gs6D3gmbORSh6ms9cYyPlb6X80mgtA5wCqkDd+kPwHUm+xMu4OL5ebf13pSQLmrPuCWvrSQ7anOVr/K6tzMTqdhgShgGCehYysVQdTr0LMYoccL6EaQZk7cEUG3IZM9PX53OynxuEqyi9svI+zI7EFWnSV5VTA==;1CVFdqihp9XG5CATEvMNXg=="
 ---

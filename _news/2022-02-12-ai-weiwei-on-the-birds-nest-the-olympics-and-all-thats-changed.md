@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna14331"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna14331"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6ae16e29a96634247446ac210a68f70c1ec5e7a3/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=acd260a4235c6724111f9cdc8bf65fd2"
         width: 620
         height: 372
-        isCached: true
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct"
-    publishedDateTime: 2022-02-09T03:59:00Z
-    webUrl: "https://www.stltoday.com/sports/olympics/the-ap-interview-exiled-artist-reflects-on-beijing-olympics/article_d221181b-3a40-5ed9-81e6-937e0293f377.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/78/1786f1da-6bc0-5005-879b-c12394011d55/61fcb2ff9b2be.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "c8abxqWSOOXzmuHjOqVeYOrJLLkQAHJolee3r5KkzMps865TlA1rLhodQjHNh46Z2EuhPtYRd8pM/1SY0ElhfiymDCXC3BiuNN/AjFcHPd5Y4biSF9JXb1hZb4zdeTQynn6BS5VeLti645FDrLioo7lncC7TABuueSaomUn/kf4tGIn+fSzIQTf2An9EQluaoPdKiw9SSrECO35R5dHpAecNJrWQZphIouvey9Fm07bhJbLwwfXzxOa05XVDb4sQsDVP1opsKfYMBcWjzxF1UAMKI8AHm6jdd/TgHaiFzhL050ZgzjdsjWy+j+y5RQdnDXO2dxrcENSaBideinLj0pjG7Z/E1O5Z3TgaGVlx3Z5twzOSCmk8ZwTxWqLcD1xnltCjhvjhJhRHLPyZ4jteM0+7yDC49Y14GpexQytHUPWRW45hB4UY62l/Ph5UY2Fv6+T6EL5ZZ8kLtLprOVf2IWa7irIMTQ7gmDKHrVf3FwMWgcrw3YnSKBTJmwY/J0GA28gtxzlTaF8BUOZlN4iSbw==;/r7BVDmDz/5THTptx88vrw=="

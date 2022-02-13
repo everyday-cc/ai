@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Azure Women in AI Program Experience"
+    excerpt: "How do I even start?” I somehow ran into a training program called Microsoft Azure Women in AI Program on Google when I searched “how to get certified in Azure”. After hitting that “Register now for upcoming classes” button, I received an AI-900 ..."
+    publishedDateTime: 2022-02-10T13:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 69
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHlFLe62Tk6xg/article-cover_image-shrink_600_2000/0/1644499792793?e=1650499200&v=beta&t=hPTjgKDR8S1LBZS7NsOAOd4WOrrTCtqfDBYdp4Ih2DA"
+        width: 1668
+        height: 600
+        isCached: true
   - title: "Refinitiv Expands Collaboration with Microsoft to Launch Market-data Powered AI Assistant in Microsoft Teams"
     excerpt: "Refinitiv AI Alerts powered by ModuleQ ... David Brunner, CEO of ModuleQ, said: “Since the start of the COVID-19 pandemic, two key trends have accelerated in the financial services industry – more data available than ever before for decision makers ..."
     publishedDateTime: 2022-02-10T15:22:00Z

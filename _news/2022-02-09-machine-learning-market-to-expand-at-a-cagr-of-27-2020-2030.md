@@ -9,7 +9,7 @@ ampWebUrl: "https://ipsnews.net/business/2022/02/09/machine-learning-market-to-e
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/09/machine-learning-market-to-expand-at-a-cagr-of-27-2020-2030/?amp=1"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "The artificial intelligence in genomics market to grow at a CAGR of 48.44% during the forecast period"
+    excerpt: "Artificial Intelligence (AI) is widely helping in diagnostics and contributing to accessible, affordable, and good quality healthcare, which is consequently improving accuracy. • Vendors are increasingly focusing on launching innovative devices to ..."
+    publishedDateTime: 2022-02-10T09:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/g25529778/the-artificial-intelligence-in-genomics-market-to-grow-at-a-cagr-of-48-44-during-the-forecast-peri"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25529778"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25529778"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Facial Recognition Market Expected to Rise at a CAGR of 17.2% during 2021-2026"
     excerpt: "According to IMARC Group latest report titled” Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     publishedDateTime: 2022-02-09T12:42:00Z
@@ -35,6 +51,20 @@ related:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjrHGMESTGfMWE2Qk7pg0BFP4qsOHu-PS9CozxSt4eTnriErQOfiKdfsQ1IqvSg3u-b7ogqhHq5BsbK6qOqqoQKMTgyU6Nq9d5APoTVvXQ4LJ1Q_P0icLWC4byNB04b0240Oi8RwcClXj-bQO6-4OAMXJRU3pb3qQNk4QTsrAikEqKgPQu82QFIbiE=w423-h238"
         width: 423
         height: 238
+        isCached: true
+  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
+    publishedDateTime: 2022-02-11T07:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "4HZxAZHfjnqDKc6Yo57FMevmyK3enY1CImhOxkb4zinjZDOic4zSt+pxa/goUGMzxuLbXQ7h0Fl5ZbUFf5p8gZkpeah52jXgXhb88R3YmGVXbAV7U5LNFqD+yfvOGa6gsvN5lpSKLCEMpr0GmSoictqJm+75tgxfg1yes7DiZxBM0w8dbk0/aPjYyosS4dD4+3f6e0GILq8zFsYivlhaTlT50iB739eqR55heKbxCXUV46KeXTemPU0/5UlN/vXHDfTnPWRCbiPMPsezWaL2LMGbOYA3Sp1N7BV/r6FlkHmvJ9TUilPiZFxaSJJmTAMypzd2YlE8tPSDyq/cpKEEHLPelE2jrFMqXmR98mjYHzo=;el0cntoWnzwnJvsPgeVLWQ=="

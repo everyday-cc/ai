@@ -3,20 +3,28 @@ category: news
 title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
 excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ..."
 publishedDateTime: 2022-02-11T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services"
+ampWebUrl: "https://www.benzinga.com/amp/content/25569416"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416"
 type: article
-quality: 26
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Agot AI gives restaurants computer vision to see where food orders go wrong"
@@ -68,6 +76,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "Xsrth4rvXopmkOov2snGGKF2d9GjcP79fYi3LPuiyIEStPscSsuUT5M64rZvfsavU10hfampPII2GA4P+ohFgU0jNY0JGEbiDq2CKw6ngFt+xr7XSxF7zoJ26RFznDC7RDasXsVv0e/WTB+f9E/LZR6ioKsLLtAzjAXdC3ijW2lC6wLWLd1rIlwqjv5wEByv7fCHYll06VHcdZarepOmZB+oEYgnusnFNXelrfm04lUr9HfQ0KDJt3/MDs3SKS9m12zpsRnZTj4edVf9TuzlCyvjhTmXu+gW9BHCfxILamB9DfByLnbdHi840xzRU4YthGvO5z65yN/Ma6+q0MycucKlLCJq+lGO5WCf8oAjPkkluJ5Sy537LTDm5wwhyh6oQ8p+0ggYzeWhdbcvwl/E3J1xqV/8hHVc/r3kqCxrz12xdQUydm6/1r5N7Q+8UQo3fwa41tLNfHntC74BVqGqbHq2UaC6/3c4UAM3yRzje0f/FQ7UBrTtBDD1NZde/Lb2Il7Iqhw4iMuGh95QcnyCbg==;5niMBvUfuzbAn6a8yr6OHg=="
+secured: "I4+ATjEdpIIy45SxcnJGG3GvnamvwksTbYzbQAb/YzNiy2I/fxHj3xkRLMi4YP48IEQ/1P9eBqjlCowaOlbjBNsrPt/hkarG2coIWPQgYBc9i/IVZLaHBOy6ADGJYGLaNuvHsG44x5+gIZHDOuYhQ1W7UfiubprQZrXTNHgleXyS7/6MLhVZPBTdp7mVAAiNEU+Alm2N9L4Tz5MoAxn6dNm43FSJkuPKcfnvfe4JlMN/Bas0fDbVtK5uX2U7Efft/8c3uygdANdhQLkqbcqUSqN7+U0PG6BPMKUevykdrCBYg3wleJJFG5/kszhDGbQ/xqeDz1+LiZmk9MgfTP4hOUd1sbJZbQL35AHtJehaEeY=;sRC5vVCWGJ+im/qRTJx+Aw=="
 ---
 

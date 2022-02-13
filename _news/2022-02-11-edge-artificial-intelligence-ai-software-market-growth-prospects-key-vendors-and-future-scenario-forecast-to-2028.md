@@ -40,20 +40,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
-    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
-    publishedDateTime: 2022-02-11T07:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "PloCkTXJIRG8UV9kjlpj12ft3R49NZMVXqWEjD4y9UU2hpviMKhiLFHNRfQpHwMZmUSzuErzhgOmd5gL17WzEjrNZfVQD8FSBnvyas73/23ldQJj8qLngEkSINRb6qO1e6guz4sYnd/h6J1V7VrdV97LQJZsVmQKCpGBCV7w2mIc9bAkN4HRvXP8lz/KtiDVTem004iRoNGaw4Ivvx6KMa9J87wa8giRddyEvJoDGEcI2Kys59AVnfmdGrNbyAQXzmQhh65F4+B664EBfDk7P4p3WCDjVNQfwEGO0sZAfAtAMWh9e8z7xmFjlp0d5i6vuZeStDYqTr8qhUGCz0+JQeUdfYhqROGjqztgpugFRcY=;wnveV0yEu9uAmOygs7fxDA=="
 ---

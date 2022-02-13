@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Azure Women in AI Program Experience"
+    excerpt: "How do I even start?” I somehow ran into a training program called Microsoft Azure Women in AI Program on Google when I searched “how to get certified in Azure”. After hitting that “Register now for upcoming classes” button, I received an AI-900 ..."
+    publishedDateTime: 2022-02-10T13:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 69
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHlFLe62Tk6xg/article-cover_image-shrink_600_2000/0/1644499792793?e=1650499200&v=beta&t=hPTjgKDR8S1LBZS7NsOAOd4WOrrTCtqfDBYdp4Ih2DA"
+        width: 1668
+        height: 600
+        isCached: true
   - title: "Microsoft Cloud & PROS in AI-powered manufacturing move"
     excerpt: "PROS & Microsoft Dynamics 365 are working together by embracing AI manufacturing power ... the only business platform that natively integrates with Microsoft 365, Microsoft Azure, Azure Cloud Services and Microsoft Power platform, provides unparalleled ..."
     publishedDateTime: 2022-02-09T12:01:00Z
