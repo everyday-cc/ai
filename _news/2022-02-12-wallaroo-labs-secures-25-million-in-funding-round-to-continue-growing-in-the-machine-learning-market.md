@@ -39,22 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Cybersecurity startup SecureThings.ai picks up $3.5 million in funding led by Inflexor Ventures"
-    excerpt: "SecureThings.ai, founded by Vishal Bajpai will use the fresh capital towards product enhancement, business growth in India and overseas markets."
-    publishedDateTime: 2022-02-09T06:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/articleshow/89447433.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-86882,msid-89447462/securethings-founder.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "RVVKyiNYRMATZOBHllpRLjcyMiwIK5F5ipF0S92j8372vYm/bKUksHlJ77PXR5by4j57whHaCCX7TsDSpEar7EWZwLM3rVPRVp0K4aUA6Ql9AMzvKdPLfw7PMlciucG+Tah4l68ptkeLp0f/Vccc4V4wMMYqjUUabXAkmqIpcF1xDlUvoBtaoCImUJ6NMQ5Ooln66ANXRKxrVYO3gHjp0FOEtp7h3UY4/qL0vP5Uqb/kyZpzHHV0RBLLTKvC49WTmHIhRHrHu37hlovMTw3DwQSRLLtQyIy3ArTKKWkw4BwgJcyDhT3ZyqdzybUiw+GEAf0QyYEXDlXhXhKdw2e02pBqVrCmV8pWp5MhQ/NPwg0=;R6+dRECEFl/eEQEqBjxTfQ=="
 ---

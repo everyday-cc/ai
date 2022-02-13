@@ -58,22 +58,6 @@ related:
         height: 640
         isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-    publishedDateTime: 2022-02-09T05:24:00Z
-    webUrl: "https://www.wtsp.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: "https://media.wtsp.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
     publishedDateTime: 2022-02-09T17:41:00Z
     webUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
@@ -169,17 +153,6 @@ related:
         width: 1352
         height: 1211
         isCached: true
-  - title: "Lidar is winning over self-driving adopters, despite Tesla’s doubts"
-    excerpt: "Lidar is commonly used today by the companies that are trying to build mobility services using fully self-driving vehicles, such as Waymo and Cruise. For example, Waymo vehicles operating in ..."
-    publishedDateTime: 2022-02-09T05:53:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/433268-lidar-is-winning-over-self-driving-adopters-despite-teslas-doubts.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
 
 secured: "FSt4k0gYEo+iMxaE8T0b+p4a8te2nm7I3p26BYW4nKo7OLk/s6OJVPkMq/MYR9g4BDQ8fqdrA1EB24JRc/Hj8WUp7L8ZqQUJrO+dezJ5ZifKGEcUrI3yDkc2+WBxcwjj7yYcya5d7GnUOsDtfdd9TPJePEBcGZESKed5DKsXithsbWqyUM0yZh8J2A2OkO+P5NGa2jHBVK3Hs3/9sATbupBw+RdQ0e/P3vUZHuhcqUpEO+3bEAB6HHf0XHxT/K5hdAUE2/gQ+fv5rtiF5aQskFajPA3526oHduZ3f5JqM7hkOBKgzPWTu9OXRzuRG3BS39bCqIRzDpXjIWkDAtwuPQW5OY2cKret/N9+61+7LRM=;6DYI2LvT7GEQrt/Jfa3J2A=="
 ---

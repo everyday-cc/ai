@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Fintech Stocks You Can Buy Today"
-    excerpt: "Three fintech stocks you can buy today are Silvergate Capital (NYSE ... demand for loans through its website and app and then uses artificial intelligence (AI) to quantify the risk of those loans based on 1,600 variables. It then connects those loans ..."
-    publishedDateTime: 2022-02-09T06:26:00Z
-    webUrl: "https://www.fool.com/investing/2022/02/09/3-fintech-stocks-you-can-buy-today/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/665000/bitcoin-exchange-2022-getty.jpg"
-        width: 2291
-        height: 1309
-        isCached: true
   - title: "Top Fintech Companies To Invest In, In 2022"
     excerpt: "... help companies and individuals navigate adoption of new fintech technologies. Speaking of which, innovation is still ongoing even ad growing companies adopt new forms of payment and transfer. AI is already at the heart of start-up fintech business ..."
     publishedDateTime: 2022-02-10T18:31:00Z
@@ -116,6 +102,20 @@ related:
       - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Evolution of Fintech to Progress in future"
+    excerpt: "... but the underlying technology that has driven the Fintech 3.5/3.5 era, namely blockchain and open banking, will continue to drive the innovation of the future. Artificial Intelligence(AI) and combined with Machine Learning (ML) have developed a new ..."
+    publishedDateTime: 2022-02-13T14:52:00Z
+    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
+        width: 490
+        height: 351
         isCached: true
 
 secured: "KVoPmO2pzCO80amtRLjhVbKCiEh5YoMqNnLfcfEZ43Q3POhzW82rB8rxc54fh1I2R6bCaG6wBulEm+di+AUS7HaiWKVV1CIb8DNqk+IQRevEx3IXlJfDsrt+jHxoxXh+Ci2eaZ90H00q0cnGEA7brnxjoz2pho+Q/n0WBEGgScJiJOP2sS1nZxoGzu/lXF7MY1kIqOfLLsVmoDSreFJFcIETsJs7aSYIdOXVQktwcbTSghw3RlTZWVfloUCk8Nr6x2ZHexYsxHVrWOBCcohhKAOg8j4wDl4G0404tZBtxfjcTq00NzrTBiaNbdpbxt0O2yDMxw4lcbxTB2c8zOjei+AF0TSt77o75c6RCHZ2aYro/cLTKHDU6PtCYFObc/sJUIHQ3lNWEDpKF6Zt3kcKpHBwmcLGt3+cTj2k1ZyRLFRu/RdOYgYkqf5+eRIKj0eiS8dC7ChgKyWEchLJRnJpChMblo5ud/LmmXd7KoPWOD4aIZgZnYAnzVZrBBWfsat7EubXkzNC2koZFDLaP3yxbA==;auyMeAKqY5Dz5N9DbYvNug=="

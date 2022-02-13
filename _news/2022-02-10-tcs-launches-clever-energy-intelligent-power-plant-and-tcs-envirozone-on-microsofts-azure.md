@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/tcs-launche
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: India Infoline
@@ -25,6 +25,22 @@ images:
     width: 350
     height: 233
     isCached: true
+
+related:
+  - title: "TCS Launches Three Sustainability Solutions on Microsoft’s Azure IoT Cloud Platform to Help Enterprises Achieve Net-Zero"
+    excerpt: "The other two sustainability solutions available on Azure are TCS IP2 and TCS Envirozone. IP2 combines AI, IoT, and digital twin technologies to support critical power plants to enhance reliability, cut emissions and reduce operating costs by 2-3%."
+    publishedDateTime: 2022-02-10T21:00:00Z
+    webUrl: "https://financialit.net/news/consultancy/tcs-launches-three-sustainability-solutions-microsofts-azure-iot-cloud-platform"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
+    images:
+      - url: "https://financialit.net/sites/default/files/tata_consultancy_services_0.png"
+        width: 1575
+        height: 747
+        isCached: true
 
 secured: "is85msZx0FPlif15oxBdJEtWMYL/QizJqIaCNkG+pGOmtgcGmuIgTDRwDfX+E6uODDfoA3eoCu1MNkJqx2zZb92kXT0y3com+L9sNKr9yowM3krcZgBrdubMr0/9CRpzJMGmTbEy8Inxh1eq5UMmJNGmfZzV9YbaHE4vEIhUnMpkgZSqDR2hJnlXP5l7nalpAT2tIqc3QibG2IQWmIrPFQAN0L5tlOxK4f++A5EYyCpfr0J4xc7wvow/UUjxZ2jPiVPiDYiCbbXYNBJ6xtOdmzH/4l3is/gO6TAj2va98zV/2ABR98FIHpdPvrQTXwQYi2e+HHAEZAYuZ7J1OFoaX3xtikeHnExK3tZH/YmlSghKtEWfDXqwmX86MPYP6iQrUcORdo1CXF7iLd3kuRukt25ioutoz6utdWQx4ND6ZJW1uX7vR57AoQKOY4BfQwjQ4UiUYOuD/wvUJuDrlOpSSQizmHvqlo44/uFMnqZJe15GWvBUGu6DjRZaKLF5EjNJEateHLy3JgPmwgMpjZAQwQ==;th6Ngygh2Bn2NOKqpP5uRQ=="
 ---

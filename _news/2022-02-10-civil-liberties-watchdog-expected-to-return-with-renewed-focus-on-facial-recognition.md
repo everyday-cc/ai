@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-foc
 webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "PCLOB expected to return with renewed focus on privacy and facial recognition technology"
-    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
-    publishedDateTime: 2022-02-09T19:48:00Z
-    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
+  - title: "GSA won’t use facial recognition with Login.gov for now"
+    excerpt: "The General Services Administration won’t use facial recognition to grant users access to government benefits and services for now, but its secure sign-in team continues to research the technology. “Although the Login."
+    publishedDateTime: 2022-02-09T18:25:00Z
+    webUrl: "https://www.fedscoop.com/gsa-forgoes-facial-recognition-for-now/"
     type: article
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 32
+    quality: 39
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/02/GettyImages-607358443.jpg?w=1200&h=500&crop=1"
         width: 1200
         height: 500
         isCached: true

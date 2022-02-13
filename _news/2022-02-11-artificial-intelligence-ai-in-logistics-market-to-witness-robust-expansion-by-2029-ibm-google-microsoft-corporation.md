@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-lo
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-to-witness-robust-expansion-by-2029-ibm-google-microsoft-corporation"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -24,80 +24,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Komprise partners with Microsoft to support Azure File Data Migration program"
-    excerpt: "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. Krishna Subramanian, President and COO of Komprise says, “By working closely with the Microsoft Azure ..."
-    publishedDateTime: 2022-02-09T05:57:00Z
-    webUrl: "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 71
-    images:
-      - url: "https://images.assettype.com/freepressjournal/import/2016/01/handshake.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "TCS launches trio of new sustainability solutions on Microsoft Azure"
-    excerpt: "The offering is already helping drive sustainability goals for many of its customers, scaling quickly to multiple assets and buildings utilising the Azure Cloud platform services. Alongside that, TCS IP2 combines AI, IoT and digital twin technologies to ..."
-    publishedDateTime: 2022-02-11T10:15:00Z
-    webUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-sustainability-solutions-on-microsoft-azure"
-    type: article
-    provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
-    quality: 69
-    images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2022/02/green_tree_sustainability_gettyimages-1314148583.jpg"
-        width: 2120
-        height: 1193
-        isCached: true
-  - title: "Dynatrace Delivers Coverage for Microsoft Azure and Google Cloud functions"
-    excerpt: "In addition to existing support for AWS Lambda, this includes Microsoft Azure Functions, Google Cloud Functions ... and enabling teams to automate operations with precise, AI-powered insights, Dynatrace allows organizations to adopt modern approaches ..."
-    publishedDateTime: 2022-02-09T15:57:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Dynatrace-Delivers-Coverage-for-Microsoft-Azure-and-Google-Cloud-functions-151364.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 52
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "TCS Launches Three Sustainability Solutions on Microsoft’s Azure IoT Cloud Platform to Help Enterprises Achieve Net-Zero"
-    excerpt: "The other two sustainability solutions available on Azure are TCS IP2 and TCS Envirozone. IP2 combines AI, IoT, and digital twin technologies to support critical power plants to enhance reliability, cut emissions and reduce operating costs by 2-3%."
-    publishedDateTime: 2022-02-10T21:00:00Z
-    webUrl: "https://financialit.net/news/consultancy/tcs-launches-three-sustainability-solutions-microsofts-azure-iot-cloud-platform"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 44
-    images:
-      - url: "https://financialit.net/sites/default/files/tata_consultancy_services_0.png"
-        width: 1575
-        height: 747
-        isCached: true
-  - title: "How Komprise Is Sifting Through The Growing Mountains Of Unstructured Data Out There"
-    excerpt: "‘Increasingly, people want to run machine learning on their data ... a new partnership with Microsoft to support migration of data to the right tier in the Azure cloud at no cost. With the new partnership, solution providers can help clients do analytics ..."
-    publishedDateTime: 2022-02-09T17:02:00Z
-    webUrl: "https://www.crn.com/news/storage/how-komprise-is-sifting-through-the-growing-mountains-of-unstructured-data-out-there"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 32
-    images:
-      - url: "https://www.crn.com/resources/0272-1467af858ab5-3df4067ebf40-1000/krishna-subramanian-komprise.jpg"
-        width: 610
-        height: 458
-        isCached: true
 
 secured: "BPhKycKJJmStankCOusx9r9Am8Q+eFmLGrjsieXGB4XXi7gMVR0fwKCR+if4gaKotBBHwvLx4PJ2j6mDv7bGceyGUHIXjwxumbPcczZUwdLq0oftij1pXJ0eeHl0hV7IvXB6/SqbFAnzuPEkgloGA5Gi7DbiasTW55R7+LQE3WC2WNDEzNmYJT73V1YTTPQ7JsVIvkkWrBJswy48hnmqXYFe4zb5d42AI37XrSFVvtIHX3V7CNcFJvponOr3cA6aad8iCenkcmZ4ChYXEu2ZPVOuAkv5ZvYa9qzVDD6Jf2Kiyosm7B+yUmZ1dh7GhCu7mpBQ3dl6uUc/AZwZPZQmyqBZMZud/uopHBX4lUyipWhtUkTIdHWNZQqMI/wPCwFUKpqhcAbvUZpOiSfYYiqEcFG5V+Lq+gtLU3pidury/Kx7k5CohaobUz+Mf1veH9HPwtTME+izkT+agG1jN9kB1u4qakP8XJeokUcI1TRP4D6TKNJ6HKkzPiVWbIn8OZYvNw5yLwXxDnKfwJFQ0znvzQ==;qrI85b+uZMC42q2G4F5e/w=="
 ---

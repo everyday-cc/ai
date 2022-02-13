@@ -39,20 +39,6 @@ related:
         width: 379
         height: 250
         isCached: true
-  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global facial recognition market to grow with a CAGR of 17."
-    publishedDateTime: 2022-02-09T06:52:00Z
-    webUrl: "https://menafn.com/1103662399/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324610"
-        width: 318
-        height: 250
-        isCached: true
   - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
     excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
     publishedDateTime: 2022-02-09T08:53:00Z

@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-11-morgan-stanley-pounds-the-table-on-microsoft-stock.md",
+      "title": "Morgan Stanley Pounds the Table on Microsoft Stock",
+      "excerpt": "This includes products for collaboration & communication (Teams), analytics & visualization (PowerBI), endpoint security (Defender) and identity management (Azure AD ... data management and machine learning, amongst others. This provides enterprises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
+      "publishedDateTime": "2022-02-10T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
       "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
       "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
@@ -52,6 +86,101 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsofts-azure.md",
+      "title": "TCS launches Clever Energy, Intelligent Power Plant and TCS Envirozone on Microsoft’s Azure",
+      "excerpt": "The award-winning TCS Clever Energy platform uses IoT, AI, machine learning, and cloud to help organizations ... and TCS Envirozone on Microsoft’s Azure IoT platform. These suites will help organizations gain insights into energy usage and reduce waste ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
+      "publishedDateTime": "2022-02-09T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support.md",
+      "title": "Dynatrace updates software intelligence platform with serverless architecture support",
+      "excerpt": "The company explained that its platform’s broad observability and advanced AIops capabilities are being extended to all major serverless architectures including Microsoft Azure Functions ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/",
+      "originalUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all",
+          "width": 799,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/",
+      "publishedDateTime": "2022-02-09T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1267,127 +1396,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce.md",
-      "title": "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce",
-      "excerpt": "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
-      "originalUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
-      "publishedDateTime": "2022-01-25T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management.md",
-      "title": "Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management",
-      "excerpt": "Vectra AI, a leader in AI-driven threat detection and response, today announced it has acquired Siriux Security Technologies, a leading provider of",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-c3ai-finally-turning-bullish-after-85-retraction.md",
-      "title": "C3.ai: Finally Turning Bullish After 85%+ Retraction",
-      "excerpt": "C3.ai has seen the stock rapidly fall over 85% since ... Remember, the company also has sales partnerships with Azure, Google Cloud, and AWS, which seems very likely to achieve the remaining ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "originalUrl": "https://seekingalpha.com/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1296904409/image_1296904409.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4481350-c3ai-finally-turning-bullish-after-85-percent-plus-retraction",
-      "publishedDateTime": "2022-01-24T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

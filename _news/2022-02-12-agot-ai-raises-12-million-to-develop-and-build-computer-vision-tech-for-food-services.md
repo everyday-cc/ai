@@ -2,21 +2,29 @@
 category: news
 title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
 excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ..."
-publishedDateTime: 2022-02-11T16:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+publishedDateTime: 2022-02-11T16:32:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services"
+ampWebUrl: "https://www.benzinga.com/amp/content/25569416"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416"
 type: article
-quality: 26
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Agot AI gives restaurants computer vision to see where food orders go wrong"
@@ -35,22 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
-    excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ..."
-    publishedDateTime: 2022-02-11T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25569416"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Agot AI Raises $12M in Funding"
     excerpt: "Led by CEO Evan DeSantola, Agot AI has developed a computer vision product that can accurately confirm order accuracy in real-time and notify employees if an order needs correction. Customers include some of the largest blue chip food service brands in the ..."
     publishedDateTime: 2022-02-13T17:12:00Z
@@ -65,6 +57,15 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
+    excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ..."
+    publishedDateTime: 2022-02-11T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
   - title: "Smart restaurant kitchen tech startup Agot AI adds $2M to its seed funding round, reaches $17M in raised capital to date"
     excerpt: "Agot AI, a startup that equips restaurant kitchens with its suite of camera and computer vision software systems to help improve various efficiencies and to help identify potential mistakes in food orders, announced it added an additional $2 million to its ..."
     publishedDateTime: 2022-02-11T18:52:00Z
@@ -75,6 +76,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "NQazM3qIqMGGWNwD+nNIVZ+KWFU/5e8Qsiwa0QD88XqnA8zzAjNxoH0Thu+g4mJGhmtcLJy7A12RVqlg17KO4PP46GOPfpXFlZErhEfCsrZgtn73/XxGHSjTA2inDx9KdwpccSvpDpu71KSoMsIv6/KY0pwhPidWx88AvOAC3C4rqyN6dHCHuaPTC47fIphdtN8Zrzi6K+cWUnBRu6p79PnfyXeb0nhYuyViH7l7w3/rzrsFk9GpP8tABV071/4y7h9VQNHyPLi8L+wpdpjmpSHJZDh51JymiSWcFmqRtErzRqv7nWcQ2zsDi+LwGMXXD7awxFq+7BvzONuXFSh8ts65Sc9ii04LIkGHzewuOP4=;WmA1WXxQ+uo52M4T5SeCUQ=="
+secured: "4eu932qqpYRKz9Nk0Qj/P0bst7vyRzIwycEvI/Ta318Y5LztakT94zfU7qyQVq87c5l5exacQqhGNGl0d6dDHoKHaIfmRuROCzdrpGyDNaIf3T+SukZIaF8gLCM+07if7jWuFMK1Re+d7joxN5SGUyN2UAD9nL79BQ99W1wFRJv9V19TQ8euXDA7x/ugmD8TLsUny8o65T5h67q0e6QY+X3TF0z1eWKTOhSgLuR2g3YXCfnGcGAzrmTHfGH6X+dwK6ZzI2RIhQnghNgME0vF3EZ3N0/HKb6C33BC6hfblwwE89vx1Vb2WPXhLP+nkUUC6VzW/DjfH12tTHyfWv/ZzSsndOLxhB32asVgWlIks6Y=;Hf7Beej7I7aBByPHQe8i7g=="
 ---
 

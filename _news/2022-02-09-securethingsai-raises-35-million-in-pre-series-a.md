@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/417696"
 webUrl: "https://www.entrepreneur.com/article/417696"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity startup SecureThings.ai picks up $3.5 million in funding led by Inflexor Ventures"
-    excerpt: "SecureThings.ai, founded by Vishal Bajpai will use the fresh capital towards product enhancement, business growth in India and overseas markets."
-    publishedDateTime: 2022-02-09T06:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/articleshow/89447433.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-86882,msid-89447462/securethings-founder.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Wallaroo Labs Secures $25 Million in Funding Round to continue growing in the machine learning market"
     excerpt: "Wallaroo Labs, Inc., announced it has closed $25 million in a Series A funding round, enabling the company to expand product, sales, and marketing, and to release a free community edition of its machine learning platform. The funding round was led by ..."
     publishedDateTime: 2022-02-11T18:51:00Z

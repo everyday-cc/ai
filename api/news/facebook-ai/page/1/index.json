@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-14-language-is-the-next-great-frontier-in-ai.md",
+      "title": "Language Is The Next Great Frontier In AI",
+      "excerpt": "What is behind these astonishing new AI abilities, which just five years ago ... against which newer models are compared. Much subsequent research on transformers—for instance, Facebook’s influential RoBERTa model (2019)—is based on refining BERT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6206e085c5625214fbd9ed04/0x0.jpg?format=jpg&crop=1934,1088,x0,y185,safe&fit=crop",
+          "width": 1934,
+          "height": 1088,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
+      "publishedDateTime": "2022-02-13T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-could-expiration-dates-for-ai-systems-help-prevent-bias.md",
       "title": "Could ‘expiration dates’ for AI systems help prevent bias?",
       "excerpt": "Sainbayar Sukhbaatar, a research scientist at Meta (formerly Facebook), explored a data-focused “expiration” approach with a system that “deletes” stale data in an AI architecture called ...",
@@ -719,8 +771,8 @@
       "title": "Facebook’s Meta is building a “massive AI research supercomputer” with Nvidia",
       "excerpt": "In a blog (via PC Gamer), the company shared that the “massive AI research supercomputer” will be “the largest Nvidia DGX A100 customer system to date”. The AI Research SuperCluster (RSC ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3145882",
-      "originalUrl": "https://www.nme.com/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3145882",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -739,7 +791,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:17:00-08:00",
+      "publishedDateTime": "2022-01-25T05:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NME",
@@ -1411,49 +1463,6 @@
       "provider": {
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-former-google-scientist-says-the-computers-that-run-our-lives-exploit-us-and-he-has-a-way-to-stop-them.md",
-      "title": "Former Google scientist says the computers that run our lives exploit us — and he has a way to stop them",
-      "excerpt": "From Facebook algorithms that learn how to ... AI and Digital Policy and the new bias-fighting Distributed Artificial Intelligence Research Institute from former Google star Timnit Gebru, to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2022/01/17/artificial-intelligence-ai-empathy-emotions/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/17/artificial-intelligence-ai-empathy-emotions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KIDEI4DYQ4I6ZHOOOMJVPHPEGQ.jpg&w=1440",
-          "width": 1339,
-          "height": 1034,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,77 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Komprise partners with Microsoft to support Azure File Data Migration program"
-    excerpt: "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. Krishna Subramanian, President and COO of Komprise says, “By working closely with the Microsoft Azure ..."
-    publishedDateTime: 2022-02-09T05:57:00Z
-    webUrl: "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 71
-    images:
-      - url: "https://images.assettype.com/freepressjournal/import/2016/01/handshake.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "TCS launches trio of new sustainability solutions on Microsoft Azure"
-    excerpt: "The offering is already helping drive sustainability goals for many of its customers, scaling quickly to multiple assets and buildings utilising the Azure Cloud platform services. Alongside that, TCS IP2 combines AI, IoT and digital twin technologies to ..."
-    publishedDateTime: 2022-02-11T10:15:00Z
-    webUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-sustainability-solutions-on-microsoft-azure"
-    type: article
-    provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
-    quality: 69
-    images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2022/02/green_tree_sustainability_gettyimages-1314148583.jpg"
-        width: 2120
-        height: 1193
-        isCached: true
-  - title: "Artificial intelligence (AI) in Logistics Market to Witness Robust Expansion by 2029 | IBM, Google, Microsoft Corporation"
-    excerpt: "The continuous evolution of technologies such as artificial intelligence (AI) and machine learning (ML) is driving disruptions and innovations in the logistics and supply chain market. A companys efficiency in network planning and predictive demand ..."
-    publishedDateTime: 2022-02-10T16:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-to-witness-robust-expansion-by-2029-ibm-google-microsoft-corporation"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "TCS Launches Three Sustainability Solutions on Microsoft’s Azure IoT Cloud Platform to Help Enterprises Achieve Net-Zero"
-    excerpt: "The other two sustainability solutions available on Azure are TCS IP2 and TCS Envirozone. IP2 combines AI, IoT, and digital twin technologies to support critical power plants to enhance reliability, cut emissions and reduce operating costs by 2-3%."
-    publishedDateTime: 2022-02-10T21:00:00Z
-    webUrl: "https://financialit.net/news/consultancy/tcs-launches-three-sustainability-solutions-microsofts-azure-iot-cloud-platform"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 44
-    images:
-      - url: "https://financialit.net/sites/default/files/tata_consultancy_services_0.png"
-        width: 1575
-        height: 747
-        isCached: true
-  - title: "How Komprise Is Sifting Through The Growing Mountains Of Unstructured Data Out There"
-    excerpt: "‘Increasingly, people want to run machine learning on their data ... a new partnership with Microsoft to support migration of data to the right tier in the Azure cloud at no cost. With the new partnership, solution providers can help clients do analytics ..."
+  - title: "Dynatrace updates software intelligence platform with serverless architecture support"
+    excerpt: "The company explained that its platform’s broad observability and advanced AIops capabilities are being extended to all major serverless architectures including Microsoft Azure Functions ..."
     publishedDateTime: 2022-02-09T17:02:00Z
-    webUrl: "https://www.crn.com/news/storage/how-komprise-is-sifting-through-the-growing-mountains-of-unstructured-data-out-there"
+    webUrl: "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/"
+    ampWebUrl: "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 32
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.crn.com/resources/0272-1467af858ab5-3df4067ebf40-1000/krishna-subramanian-komprise.jpg"
-        width: 610
-        height: 458
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all"
+        width: 799
+        height: 596
         isCached: true
 
 secured: "ywp+Ur+VEKwHLIaFLeoSB6FrNe7LKOMz9kyLNmrgQergobqyhvRU1+K8WmILR19Dk6k4XdelGlB776gezz3Mp8l4oiQB4GIi9LM1YGDyI4q6dw1s0RR4MrCppnabDoYDhsNGKahpeRf/pFD233i837J2LLxM6pKrLMMsorSsVgCodlbcXGdUNlf40A0v8mAD/a/ApQewXh/8RBPbL+TL6otzkXiJIeTDa7pDp28Nphx0wiMhINXl0IDFwhoTbomysxEgQ/XkWlG+nfEH4c4FoPXac3kNfghAS31oWk2Z2MimStgsaZsrU6l6arr2eFhPM82G0zv4l/akKcRPrif6r2x9nD4QHiE3XB3b0C9A80E=;KYoQR0E2EA9llvIC8A3ZUw=="
