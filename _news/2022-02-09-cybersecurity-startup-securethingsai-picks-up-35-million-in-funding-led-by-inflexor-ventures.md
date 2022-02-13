@@ -40,6 +40,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Wallaroo Labs Secures $25 Million in Funding Round to continue growing in the machine learning market"
+    excerpt: "Wallaroo Labs, Inc., announced it has closed $25 million in a Series A funding round, enabling the company to expand product, sales, and marketing, and to release a free community edition of its machine learning platform. The funding round was led by ..."
+    publishedDateTime: 2022-02-11T18:51:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Labs-Secures-25-Million-in-Funding-Round-to-continue-growing-in-the-machine-learning-market-151406.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EoroRzCmFL/YZMum3eaJSJup9u2oGqk0ZuwOHm5Y1+ztDwE2TSS9JtPGZtbT8ZUNFpoY//9eNpL4PzkOROVDMzDkps/ZgBFBqQljC2/t/hK+J7/kPqTYm7nnUl5BZNqSq/2oh9DcQqPqA0Wjvby292Mz/kDziNPmnwd4Jk8HAZ0R0Buoa7l9APKtYKwfdGpAs7gxOKabm13sRi5b3cPx5ufQk7WvWdjeFfi6R4tmP9rIJnHGASEGS9fch3vH4JNPkE6ZJ8B43B8zLQyynVp+lI5MmiojZMN0M26DkelH3lKWVc2FNrSCKlDq+cnC1nbJgelmji3ppcgvSVVuJ3cOYBic1+G6pTpTOmMi5tsDP7Zx3orAk5wuYtwhtS/8/DGRfUtBw3NctROqBAMrv5sNbpcqnjAGiFMDy3WL1/K/pns5QS7BZAHiRmtesG8iz4wMuExzdHwle1QkVdCm9AYcxAzT87f7QusqM1ZqHeWNM3Bfq6I4HzvQodvMWvApCaOsnn8+e0VVdnxfTtfXeaiZZQ==;xjLAm48VWBNLHpgww4S5pw=="
 ---

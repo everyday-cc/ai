@@ -38,6 +38,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Amazon's AI Is Helping the Police Watch You"
+    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
+    publishedDateTime: 2022-02-10T00:00:00Z
+    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
+        width: 1280
+        height: 856
+        isCached: true
 
 secured: "5fyrbA68zF03aD9D+8TYRWWeJM9p9jlD/RKoPQeQfJGIo593emyzlfQmFIUdNPt+gZMnWEp2VtSkt1jsFUHmkTMXbhGr/8MIQe2uPbaJ4qBRDoqdzXuEX1JifA/s1RPoniYKAA9Gt9JMX8hzUGvp3f6LXTCkanodob0gBDIxH0rzOuqqHwFrAk669WcI7h+cI9lsuxDspJdd81TM5xhdWL2ugehgwIr+3uL9E7Stxv0YnRa2Up3XzdsIQmPOvP89FOPtk+ZAn2qlg6l7L53ovZ9XDKJ2Lgo76miS3oDgMGe1rESjZYZLKhlT9pT/qs6K6hLgtfzwbnYC/hG1l5kgegrgpaZcyl00y1BSmzI8aKg=;WawZGZpeMiZP8qQTdrGxxA=="
 ---

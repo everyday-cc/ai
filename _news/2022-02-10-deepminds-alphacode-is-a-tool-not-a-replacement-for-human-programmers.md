@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-10T11:39:00Z
 originalUrl: "https://thenextweb.com/news/deepmind-alphacode-tool-not-replacement-for-human-programmers-syndication"
 webUrl: "https://thenextweb.com/news/deepmind-alphacode-tool-not-replacement-for-human-programmers-syndication"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FDeepMind-AlphaCode-hed.jpg&signature=5d020b6dc8594e93e2a0e7a66d87fb41"

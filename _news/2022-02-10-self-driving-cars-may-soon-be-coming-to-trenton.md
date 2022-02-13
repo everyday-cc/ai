@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Malfunctioning self-driving car? We'll be too busy on Twitter to notice"
-    excerpt: "I don’t mind driving, so I can’t think of any advantage of a self-driving car. But I highly encourage others to buy them as soon as they become available, because I think the results could be — entertaining. First, a distinction, as usual ..."
-    publishedDateTime: 2022-02-08T10:08:00Z
-    webUrl: "https://www.heraldmailmedia.com/story/opinion/2022/02/08/self-driving-cars-malfunction-reminder-technology-cant-trusted-tim-rowland/6688289001/"
-    ampWebUrl: "https://amp.heraldmailmedia.com/amp/6688289001"
-    cdnAmpWebUrl: "https://amp-heraldmailmedia-com.cdn.ampproject.org/c/s/amp.heraldmailmedia.com/amp/6688289001"
-    type: article
-    provider:
-      name: The Herald-Mail
-      domain: heraldmailmedia.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/1fecae5856e58374cc9e1c0fd6dcc3c6aae79d4e/c=0-293-5760-3547/local/-/media/2017/07/17/SaintCloud/SaintCloud/636359038378137908-AP17198602843073.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "So what happened to self-driving cars?"
     excerpt: "Apart from the convenience factor, self-driving cars are seen as a panacea for ... where humans can relax while an artificial intelligence does the driving. But here we are in 2022, still stressing out in heavy traffic dealing with inconsiderate drivers ..."
     publishedDateTime: 2022-02-10T03:05:00Z

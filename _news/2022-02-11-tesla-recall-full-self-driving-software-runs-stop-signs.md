@@ -2,26 +2,26 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-publishedDateTime: 2022-02-11T13:57:00Z
-originalUrl: "https://www.cbs8.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.cbs8.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-11T07:22:00Z
+originalUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CBS News 8
-  domain: cbs8.com
+  name: 10TV.com
+  domain: 10tv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.cbs8.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+  - url: "https://media.tegna-media.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -213,6 +213,6 @@ related:
         height: 382
         isCached: true
 
-secured: "CxFlW1kGSxmk92Fnebr2fF2m3cdig2Fv36f9y0EvgGWs+4S5zWkFgzkOt6GWr/utZjfi9TrJqNqVHq0YAifTAAAfd8Zycjvr0XbOBK0BuS25RNSSUoetxORjkgfPSNjPYAKlnAiKLFQptIok30irC/6kkiAjGzUY2WU75opQcYg+XEATaCwToSKAcz/RNNDQTjO+y3eSa34LFLPkL1A2geZ8K9FA922EvDveajtfdWDS0ILinL5MqaVbhEIuL67EP4DEu3fFAaVOYUJN3IWNbKYCxdsSV+jRDSZA7xg0V2tsyGedrS8JUASa7n23y3yhm+jjI/IqGH0VzVCQJZSL4hW0bcaE/9bOzOLASTJXpOYFcuh9teuyV22aEJ5SGA9sGklsC0q+YKo7VSo8Odlbw2XbmosE13xQo9HgXKtiRyNnNuJAhrMU9UJAUfJH2ZZU0jLfV9K6LGmcpwcFPkXbn1JTV/Vn2Iko4o7uRrVFGftZo1Y8W0LsNKyKVLvWmrbsdA9Oj9CP89NfJmYLHM8i5w==;qRnsF6NF2VUjX5GbKMdHQg=="
+secured: "lNMp7KuaMyyMIg9LwDAk4kQKVa/PrMO8KqCH7fpEklcAxAmTzzo5LL3MI/GCNyzHh+4HoumHeKGPQ6jiJ5nqMhVCEp8hsJ9zx+PYx0cgz+7iz3lPD+g/Y7BhnOVbH0oshwNQrlAc0Ay3luaSShSDScEAAaqa5kVm2+SiTc08VFlDL0Y1NurqLFd6TeBUdYkHENubpZasKdz/qa12Gu/QHE0ACgYrP94H7CHJRTEbN9RllOxtpjAsef/EKdQrgv0WhCk3nvw7VdwhInGPyl4+D2zI+xletQvlUSBIDQqZ5G9iJNU+Jrv4Rnie/pK3/T7cyJRuKSTz9RS9zpmWI0Ls1fxaFaB59uWGoDsBaO4zT18=;EonKcHLUPLSvG06Hkx1Ncw=="
 ---
 

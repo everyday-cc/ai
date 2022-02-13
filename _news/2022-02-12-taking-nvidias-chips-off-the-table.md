@@ -28,22 +28,6 @@ images:
     height: 601
     isCached: true
 
-related:
-  - title: "It's Official, Nvidia Is Abandoning Its $40 Billion Purchase Of British Chip Designer Arm"
-    excerpt: "The company's primary area is creating GPUs, and outside of its Tegra \"system on a chip\" line – which is used in the Nintendo Switch – it is more concerned with AI and in-car tech. Early Tegra chips were intended for smartphones and MP3 players like ..."
-    publishedDateTime: 2022-02-08T09:50:00Z
-    webUrl: "https://www.nintendolife.com/news/2022/02/its-official-nvidia-is-abandoning-its-usd40-billion-purchase-of-british-chip-designer-arm"
-    type: article
-    provider:
-      name: Nintendo Life
-      domain: nintendolife.com
-    quality: 30
-    images:
-      - url: "https://images.nintendolife.com/1a646ec647d79/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "rh9o7WRXeVaXIIUbwS/xD0nnSkK/9BYJGLlHtGoptSfLS+pTg1C6dtRmNJuH9UVIg1jHmFkmobY99LgBO3o2IZHr3mgyae5qr+4ZNQ66CTFpHiwDdqYMornQffknjEeLNKPrIAsdSi34L+n7coy3u1pZ1mwog5U8qKGgdR958gzKflsfg6RpKc5pm8US15McNm+an8VoQ49rTSonW1U6UbgXeEcBCZkQbW7Rq98J3v+Qxrb7G2ab9i+uo+yWDWVWXHYDbHXSbONscTQ2mF8MlmqKL65zI+ayewBg9pckzgSsGVj9wZnuTN0jpL/zxoIe5V46ANaM8tchliSI2nWulvwk80SEvID5/Zbb5p5N78Q=;AYLJoP0nggfPsyGGaO8qMQ=="
+secured: "eGWYtVFcD4hvc0qpGkqYqXqHJ6C3yhNxm5s3ulss9T6EpxfaBcfvWbADSgR8ILVWt8sACJDL9GrYNjxWbC8+Z/bNdmfuOnHb8WNGz+97qWk49WiSR7/plkhz/EHM80ELgvyVasCcvrjVpgg1TzNeFCKK8Sy3ds+qBomFgNPSBV+4Q+ikQVd6CPaj74B8WkJ+H2OxmgLYXCqpDg4mYtZ8Y3ePqWB6w0AZy6mn5z1DboOQvL7m6lcmTAqdqEoQXtxyViJNtXNe1tGToD3RMmBgL/RpdHZjx8ZLc442a5Ot0/9+WdK9IArxDS+zMCaUkPAm2aanvXWw/xP5u8vW3r5X+YAT4MXQ8xyuE7kTTGHuFsUeCQmoEpuO5kSQS8oYRl2eg4vjt5CoYtrxFqLKEbFto8Kt+9pb8eAblhX5/rsXsUgcbqIv9AhfLdY/9ZGG84lldixiY0p5YcaaUop9FqhBuK1h7Tyhdsc6fcaibI2fMr1jQrnDjIPcUSeIqA38vPhKcgxV0vagumEK9oClu4ZMZA==;ECBrvMPDhSY8mEvCcMk1KA=="
 ---
 

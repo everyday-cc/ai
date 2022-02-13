@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Malfunctioning self-driving car? We'll be too busy on Twitter to notice"
-    excerpt: "I don’t mind driving, so I can’t think of any advantage of a self-driving car. But I highly encourage others to buy them as soon as they become available, because I think the results could be — entertaining. First, a distinction, as usual ..."
-    publishedDateTime: 2022-02-08T10:08:00Z
-    webUrl: "https://www.heraldmailmedia.com/story/opinion/2022/02/08/self-driving-cars-malfunction-reminder-technology-cant-trusted-tim-rowland/6688289001/"
-    ampWebUrl: "https://amp.heraldmailmedia.com/amp/6688289001"
-    cdnAmpWebUrl: "https://amp-heraldmailmedia-com.cdn.ampproject.org/c/s/amp.heraldmailmedia.com/amp/6688289001"
-    type: article
-    provider:
-      name: The Herald-Mail
-      domain: heraldmailmedia.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/1fecae5856e58374cc9e1c0fd6dcc3c6aae79d4e/c=0-293-5760-3547/local/-/media/2017/07/17/SaintCloud/SaintCloud/636359038378137908-AP17198602843073.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Self-driving cars may soon be coming to Trenton"
     excerpt: "Officials unveiled plans for a new autonomous vehicle program during an event at Trenton Central High School on Wednesday. The hope is that the program will especially help the younger generations ..."
     publishedDateTime: 2022-02-09T21:44:00Z

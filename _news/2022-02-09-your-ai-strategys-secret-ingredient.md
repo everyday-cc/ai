@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/303850/your-ai-strategys-secret-ingredie
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303850/your-ai-strategys-secret-ingredient.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIO
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and machine learning is shaping legal strategy"
+    excerpt: "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ..."
+    publishedDateTime: 2022-02-12T09:15:00Z
+    webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
+    type: article
+    provider:
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 54
+    images:
+      - url: "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Artificial Intelligence Strategies Startups Should Use to Grow"
     excerpt: "Consumers have incredibly high expectations for companies to deliver faster and more personalized experiences, which is fueling the demand for Artificial Intelligence (AI) solutions. In turn, the increase in this utilization of AI is driving growth for many startups."
     publishedDateTime: 2022-02-09T00:33:00Z

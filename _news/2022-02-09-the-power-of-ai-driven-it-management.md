@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "The dark side of Artificial Intelligence"
+    excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
+    publishedDateTime: 2022-02-11T13:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF6Ivgx0ARsEw/article-cover_image-shrink_720_1280/0/1644578178017?e=1649894400&v=beta&t=BQWlqTiWMAf_M-GhvqL_SDe4Dd9eXw23XOaJOgR6a1E"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How does Artificial Intelligence shape the future of customer communications management?"
     excerpt: "Gone are the days when it was enough to respond to a comment. Many businesses are now evolving from customer service to customer-centric, which is crucial to thriving even in today’s competitive environment."
     publishedDateTime: 2022-02-11T12:17:00Z

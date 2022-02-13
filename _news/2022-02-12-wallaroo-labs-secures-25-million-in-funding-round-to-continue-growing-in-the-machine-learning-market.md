@@ -25,63 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "The AI edge chip market is raging"
-    excerpt: "Dozens of startups continue to get tens of millions in venture funding to make chips for AI in mobile and other embedded computing uses. The race shows no sign of slowing down."
-    publishedDateTime: 2022-02-11T12:51:00Z
-    webUrl: "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
+  - title: "SecureThings.ai Raises $3.5 Million In Pre-Series A"
+    excerpt: "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team"
+    publishedDateTime: 2022-02-09T13:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/417696"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 690
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "How AI and machine learning is shaping legal strategy"
-    excerpt: "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ..."
-    publishedDateTime: 2022-02-12T09:15:00Z
-    webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
+  - title: "Cybersecurity startup SecureThings.ai picks up $3.5 million in funding led by Inflexor Ventures"
+    excerpt: "SecureThings.ai, founded by Vishal Bajpai will use the fresh capital towards product enhancement, business growth in India and overseas markets."
+    publishedDateTime: 2022-02-09T06:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/articleshow/89447433.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/cybersecurity-startup-securethings-ai-picks-up-3-5-million-in-funding-led-by-inflexor-ventures/amp_articleshow/89447433.cms"
     type: article
     provider:
-      name: Thomson Reuters
-      domain: thomsonreuters.com
-    quality: 54
+      name: India Times
+      domain: indiatimes.com
+    quality: 45
     images:
-      - url: "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png"
-        width: 768
-        height: 432
-        isCached: true
-  - title: "Amazon's AI Is Helping the Police Watch You"
-    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
-    publishedDateTime: 2022-02-10T00:00:00Z
-    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
-        width: 1280
-        height: 856
-        isCached: true
-  - title: "The dark side of Artificial Intelligence"
-    excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
-    publishedDateTime: 2022-02-11T13:12:00Z
-    webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF6Ivgx0ARsEw/article-cover_image-shrink_720_1280/0/1644578178017?e=1649894400&v=beta&t=BQWlqTiWMAf_M-GhvqL_SDe4Dd9eXw23XOaJOgR6a1E"
-        width: 1280
-        height: 720
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-86882,msid-89447462/securethings-founder.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "RVVKyiNYRMATZOBHllpRLjcyMiwIK5F5ipF0S92j8372vYm/bKUksHlJ77PXR5by4j57whHaCCX7TsDSpEar7EWZwLM3rVPRVp0K4aUA6Ql9AMzvKdPLfw7PMlciucG+Tah4l68ptkeLp0f/Vccc4V4wMMYqjUUabXAkmqIpcF1xDlUvoBtaoCImUJ6NMQ5Ooln66ANXRKxrVYO3gHjp0FOEtp7h3UY4/qL0vP5Uqb/kyZpzHHV0RBLLTKvC49WTmHIhRHrHu37hlovMTw3DwQSRLLtQyIy3ArTKKWkw4BwgJcyDhT3ZyqdzybUiw+GEAf0QyYEXDlXhXhKdw2e02pBqVrCmV8pWp5MhQ/NPwg0=;R6+dRECEFl/eEQEqBjxTfQ=="
