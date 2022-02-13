@@ -42,20 +42,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Reason for calling deep learning, DEEP"
-    excerpt: "Why is Deep Learning called Deep? You must have asked this question. In this post, I will try to answer that question and give a deeper definition of learning. I remember when Google's AlphaGo algorithm beat Lee Sedol, one of the world's top Go players ..."
-    publishedDateTime: 2022-02-09T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/reason-calling-deep-learning-ai-learning-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHLusZR4XgW8A/article-cover_image-shrink_600_2000/0/1644392003469?e=1649894400&v=beta&t=DC_71P6RgWPQzF2191mgs7bkGk0j7jevSjYsOoNT9mk"
-        width: 620
-        height: 475
-        isCached: true
   - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
     excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
     publishedDateTime: 2022-02-13T08:51:00Z

@@ -48,20 +48,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 33
-  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 – Global Forecast till 2027"
-    excerpt: "The global artificial intelligence systems spending market is estimated ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping. However, concerns over privacy, bias ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-research-report-2022-global-forecast-till-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Mexican-cultural-treasures-AFP-1L-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Insights-As-A-Service Market Research Report 2022 – Global Forecast till 2031"
     excerpt: "Insights-as-a-service offerings cover data such as stocks, financial data and results ... artificial intelligence, machine learning, and others. SMEs in emerging nations are gradually joining the bandwagon, attracting increasing investment from insight ..."
     publishedDateTime: 2022-02-11T04:08:00Z

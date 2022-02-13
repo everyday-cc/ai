@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS does an about-face on facial recognition plans"
-    excerpt: "The IRS is abandoning plans to require facial recognition to authenticate online access following criticism from politicians, privacy advocates, and tech experts, forcing the agency to look at"
-    publishedDateTime: 2022-02-09T00:52:00Z
-    webUrl: "https://www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/"
-    ampWebUrl: "https://www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/02/IRS-facial-recognition.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "IRS will transition away from facial recognition after wave of criticism"
     excerpt: "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ..."
     publishedDateTime: 2022-02-09T16:39:00Z
@@ -57,22 +41,6 @@ related:
         width: 3800
         height: 2533
         isCached: true
-  - title: "ID.me Says It Will Make Facial Recognition Optional for Government Agencies"
-    excerpt: "The major reversal comes one day after the IRS ended its use of ID.me's facial recognition service and amidst an outpouring of public pushback."
-    publishedDateTime: 2022-02-08T23:33:00Z
-    webUrl: "https://gizmodo.com/id-me-facial-recognition-optional-government-1848503651"
-    ampWebUrl: "https://gizmodo.com/id-me-facial-recognition-optional-government-1848503651/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/id-me-facial-recognition-optional-government-1848503651/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f846c5dff36aca7c00d3ea36f7440d14.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The campaign against IRS use of facial recognition is a model for digital activism"
     excerpt: "Likes Werner Herzog films and Arsenal FC. Digital activists can celebrate a memorable victory after the IRS ditched a controversial facial recognition system. The agency had planned to use third ..."
     publishedDateTime: 2022-02-09T18:24:00Z
@@ -87,6 +55,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Congress pressures more agencies to end use of facial recognition after ID.me debacle"
+    excerpt: "or voice. But all have their pros and cons relative to the balance of security and end-user convenience, he noted. \"Static Knowledge Based Answers (KBAs) can no longer be trusted as a means of identity verification and authentication. Facial recognition as ..."
+    publishedDateTime: 2022-02-09T16:40:00Z
+    webUrl: "https://www.zdnet.com/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "ID.me to end facial recognition requirement for government agencies"
     excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
     publishedDateTime: 2022-02-09T23:58:00Z
@@ -195,17 +174,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Huge government agencies clash over imposing facial recognition"
-    excerpt: "The General Services Administration, which oversees federal offices and technology, says face-scanning technology has too many problems to justify its use as an identity-verification service."
-    publishedDateTime: 2022-02-09T06:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/huge-government-agencies-clash-over-imposing-facial-recognition/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/huge-government-agencies-clash-over-imposing-facial-recognition/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/huge-government-agencies-clash-over-imposing-facial-recognition/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "IRS Backs Away From Facial Recognition Technology"
     excerpt: "In a Feb. 7 press release the IRS said it would transition away from the third-party service and \"quickly develop and bring online an additional authentication process that does not involve facial recognition.\" \"The IRS takes taxpayer privacy and ..."
     publishedDateTime: 2022-02-09T08:35:00Z
@@ -219,20 +187,6 @@ related:
       - url: "https://cdn.govexec.com/media/img/cd/2022/02/07/020722_getty_fcw_irs-2/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Facial recognition companies attempt to appease state lawmakers"
-    excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
-    publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/2b/c2bd22b8-8b10-5cad-95c9-2dce264e3d1a/620471f23a1af.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
     excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
@@ -248,61 +202,21 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-10T23:12:00Z
-    webUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move-to-end-ban-on-police-facial-recognition-technology/"
+  - title: "Government agencies will get more verification options after face-recognition backlash"
+    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
+    publishedDateTime: 2022-02-10T15:55:00Z
+    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
     type: article
     provider:
-      name: Virginia Mercury
-      domain: virginiamercury.com
-    quality: 37
+      name: KCRA
+      domain: kcra.com
+    quality: 36
     images:
-      - url: "https://www.virginiamercury.com/wp-content/uploads/2018/08/charlottesville-pre-rally-4.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-12T15:32:00Z
-    webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 37
-    images:
-      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
-        width: 980
-        height: 654
-        isCached: true
-  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
-    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
-    publishedDateTime: 2022-02-09T19:48:00Z
-    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 34
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
         width: 1200
-        height: 500
-        isCached: true
-  - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
-    excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
-    publishedDateTime: 2022-02-13T14:10:00Z
-    webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
-    type: article
-    provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 26
-    images:
-      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
+        height: 677
         isCached: true
   - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
     excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."
@@ -317,20 +231,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2P6BFEF2MI6ZFI4DYGMG4R6KM.jpg&w=1440"
         width: 1440
         height: 833
-        isCached: true
-  - title: "Facial Recognition Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, Latest Key Players | NEC Corporation (Japan)"
-    excerpt: "The security applications of facial recognition are motivating Facial Recognition Market in 2020. The AI and analytics reports are made"
-    publishedDateTime: 2022-02-09T10:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-study-reveals-growth-factors-and-competitive-outlook-for-future-analysis-latest-key-players-nec-corporation-japan"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 2
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "D9Ofw/KWYjHNRzFMFEjM90NA37jMZYkTFluj1wpkU0X4te4B+BZxNagAlZN641D7gWYEru1AesL8qMO+tmydJM7am9QCQedcl0/RtrEYf8VyYL9wvDi7QncR64pjmbVJgtskQQ5J37gBg1w7F9GTAnd8IhjrNUMDo31VW2Jb79nqKODLjJpytcD1IN1sWKuWGcNQDuueW3DeqktqCxub4dOQY5IJ/sl2Or23IhsQZ8eqEMN+Ko12sKIq5tep44OcLBkChpui0Njzk2kEm6iynEYX5KRZVyjg8vIQ4EO2jQ1J7vGoMTkO28x/2cOruKduPpWVht475L7JmuWVuksBL4iAYqhOkTA8vXxPth3KpOqkF5ToH/KO8yYGWDYKlm7MnmQPqMwLiUB4FNMkc8TWWSLUfeh32TGYIDw+tZejHb8WYbXYUYybhji9y1UbfPFQwrffEXb955l/aVslC/SOEOC/edJIjOI+IBZwo0uG3rmCCJvsq9FWUHR7wb0G2l6NyQk+fVrEJX6lJHInTh1T8w==;UC3yNZ47R2vK0lhXTcbt+A=="

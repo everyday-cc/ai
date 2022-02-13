@@ -62,20 +62,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 – Global Forecast till 2027"
-    excerpt: "The global artificial intelligence systems spending market is estimated ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping. However, concerns over privacy, bias ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-research-report-2022-global-forecast-till-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Mexican-cultural-treasures-AFP-1L-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence Systems Spending Market Insights – Global Industry Analysis, Trends and Forecast by 2020 – 2028"
     excerpt: "The global Artificial Intelligence systems spending market is forecast ... of AI-enabled chatbot solutions to improve operational activities and customer service. Healthcare segment is projected to account for comparatively higher market share during ..."
     publishedDateTime: 2022-02-11T08:53:00Z

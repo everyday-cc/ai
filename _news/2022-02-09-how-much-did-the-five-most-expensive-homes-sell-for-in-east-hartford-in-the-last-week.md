@@ -27,12 +27,12 @@ images:
 related:
   - title: "How much did the three most expensive homes sell for in Killingly in the last five weeks?"
     excerpt: "This automated story was produced for Hearst Connecticut by United Robots using artificial intelligence and data science ... picks for the 25 best restaurants that opened since the start of 2020. The sale of the single-family home at 22 Gendreau Drive ..."
-    publishedDateTime: 2022-02-09T23:49:00Z
-    webUrl: "https://www.middletownpress.com/realestate/article/How-much-did-the-three-most-expensive-homes-sell-16844050.php"
+    publishedDateTime: 2022-02-09T17:41:00Z
+    webUrl: "https://www.registercitizen.com/realestate/article/How-much-did-the-three-most-expensive-homes-sell-16844050.php"
     type: article
     provider:
-      name: The Middletown Press
-      domain: middletownpress.com
+      name: The Register Citizen
+      domain: registercitizen.com
     quality: 15
     images:
       - url: "https://s.hdnux.com/photos/01/23/42/64/21900577/3/rawImage.jpg"

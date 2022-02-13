@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "So what happened to self-driving cars?"
-    excerpt: "Apart from the convenience factor, self-driving cars are seen as a panacea for ... where humans can relax while an artificial intelligence does the driving. But here we are in 2022, still stressing out in heavy traffic dealing with inconsiderate drivers ..."
-    publishedDateTime: 2022-02-10T03:05:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/dFGKEqmvasAcjt_GxUIaUPiY6Q6zmnMJIS0b45QonT3FA8lDH1e8sUXgVMkkcEs9J2kWu8LdybkuwV_qB5WLYjaPGtkA1ugVxEFef-XijJbsSbI=s750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Apple’s Mystery Self-Driving Car Tech Covered 13,000 Miles Last Year"
     excerpt: "As part of the testing of these systems, the firm is required to log all miles covered by self-driving cars with the State of California. But I digress. Once companies have logged all their miles ..."
     publishedDateTime: 2022-02-11T17:47:00Z

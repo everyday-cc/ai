@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Reason for calling deep learning, DEEP"
-    excerpt: "Why is Deep Learning called Deep? You must have asked this question. In this post, I will try to answer that question and give a deeper definition of learning. I remember when Google's AlphaGo algorithm beat Lee Sedol, one of the world's top Go players ..."
-    publishedDateTime: 2022-02-09T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/reason-calling-deep-learning-ai-learning-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHLusZR4XgW8A/article-cover_image-shrink_600_2000/0/1644392003469?e=1649894400&v=beta&t=DC_71P6RgWPQzF2191mgs7bkGk0j7jevSjYsOoNT9mk"
-        width: 620
-        height: 475
-        isCached: true
 
 secured: "Okg6iEnivRwt95o66pwCjo9bQggHXo6ZpnJX/qI4b9zSMZNUe0aSFTm0mVTLxDVXApDAK4YvBvAKoKi4ZiyaTNKbgH+M7y6DBbOp2ZcNLyOgFO3i8FVV/XXutOKUZN/7O+l2ANxwuain0uhElAheWaYBQmNjYjKjDlFa09BFSImeiyNPmWYRMBJN7zBHbYAKSeULR7Jk79kPteDb+x+lfNuoqTNsmPdOkNDnBSNxHFPH5JhQujPe3kUn7T+KT0IKfDv8uX/xeT4YNE0M7BoiLwx7VQu5oFAusGrWipdhpeOiSewR+njhPYH1YMi8VVMMN99rNZu66VVQSENx9DXtCri5gKW5VkvkeDTAfZ3qUtE=;WvTTRfN2SKTjtm8IpUY28w=="
 ---

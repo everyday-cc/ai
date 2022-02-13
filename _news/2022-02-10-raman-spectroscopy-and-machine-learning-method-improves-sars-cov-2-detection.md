@@ -41,36 +41,6 @@ related:
         width: 920
         height: 450
         isCached: true
-  - title: "New reagent-free SARS-CoV-2 detection technique based on machine learning and Raman spectroscopy"
-    excerpt: "In their article published in the Journal of Biomedical Optics, they describe a new reagent-free detection technique that is based on machine learning (ML) and laser-based Raman spectroscopy. Raman spectroscopy is routinely used by researchers to determine ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://www.news-medical.net/news/20220209/New-reagent-free-SARS-CoV-2-detection-technique-based-on-machine-learning-and-Raman-spectroscopy.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220209/New-reagent-free-SARS-CoV-2-detection-technique-based-on-machine-learning-and-Raman-spectroscopy.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220209/New-reagent-free-SARS-CoV-2-detection-technique-based-on-machine-learning-and-Raman-spectroscopy.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 46
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Machine learning highly effective at identifying SARS-CoV-2 variants"
-    excerpt: "The genome of SARS-CoV-2 consists of a single-stranded RNA of 29,903 nucleotides. SARS-CoV-2 is associated with a very high mutation rate, and, recently, machine learning has proved to be a valuable method to identify the distinctive genomic signatures ..."
-    publishedDateTime: 2022-02-08T23:59:00Z
-    webUrl: "https://www.news-medical.net/news/20220209/Machine-learning-highly-effective-at-identifying-SARS-CoV-2-variants.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_704094_16444651729557529.jpg"
-        width: 1500
-        height: 899
-        isCached: true
 
 secured: "qrX4WvVTCKd/gBsNEAYMapma3ivUHM0Hgx50DBjuvCVl0sKdIFGYtGT08HQYm1XjDxdfiVwi0AWx9i5iixLTsbsULrtWmtg4gKT+I4Z/IPPKeIYbKSZiOJAD1ojDAPnHPA8FVUmIeXh/SIizbNoJS675Qp7lxvr4WYx7X4aA+Jq6yp+qOwi8JErVlYK2zM/YJrf+dZKJZ8dvGkGRjDsbi9j2/gMgcJ2CioMdNb/79RgViAKnzvm089o2WeYXLqKCDcjYs/9KFfVDFvI0TT8AvT9+Hfk7gvn1Vzo/3xta0mX/9i3zCpfFPV/aogzZXVPFfuqDCU+0hhRlTObuTO0AU/GBGF485vO5IIswjVRSXlWh8X4Ar0NRpac86GnFmpS2tuneVCwN2ImA3koGarD2EDuK/LJbVukWnMfJWO6GK4Z40Z7txQQ+5Z//Q+UPSiAy9TYBsAzGMggklgKoxIHlX1h6Q3lva4GT/8lgrOfqWbhVkaIzqpSosEJF5GmsAJvmlWABjaFZXRIez5aDpPd7fw==;dJu2dYWrp0cK2AQI0ri1CQ=="
 ---

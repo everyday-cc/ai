@@ -2,17 +2,17 @@
 category: news
 title: "How much did the three most expensive homes sell for in Killingly in the last five weeks?"
 excerpt: "This automated story was produced for Hearst Connecticut by United Robots using artificial intelligence and data science ... picks for the 25 best restaurants that opened since the start of 2020. The sale of the single-family home at 22 Gendreau Drive ..."
-publishedDateTime: 2022-02-09T23:49:00Z
-originalUrl: "https://www.middletownpress.com/realestate/article/How-much-did-the-three-most-expensive-homes-sell-16844050.php"
-webUrl: "https://www.middletownpress.com/realestate/article/How-much-did-the-three-most-expensive-homes-sell-16844050.php"
+publishedDateTime: 2022-02-09T17:41:00Z
+originalUrl: "https://www.registercitizen.com/realestate/article/How-much-did-the-three-most-expensive-homes-sell-16844050.php"
+webUrl: "https://www.registercitizen.com/realestate/article/How-much-did-the-three-most-expensive-homes-sell-16844050.php"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: The Middletown Press
-  domain: middletownpress.com
+  name: The Register Citizen
+  domain: registercitizen.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 740
         isCached: true
 
-secured: "M4q1N8AsrZyL60C+X4RNwl1ddtNiNhof2sqRXK2gssKF/wPOW/GkRfIdTmWpGxUs8LVEXJG3FFTRyt6q9q0GHfTGNN2XtURX6t7z+kCP1+5GAkh2moK0CysspVwTOQdtrPyAR2IF9mN2btY78f4kHM0U8rzAI1/OM6zeN3uJl15zF5nc2VDSyC10OWoHdKkejt25I5DO4/2Az2UIgvffKPfo6g/wjKVUua0Dv23XjaUqowYtVu/FRMp8QVNA/pYupllDI6inaHMxT9mkBQhWk21DZwRtV7z3d2ITcF4nSv0A9lJ4u9c8WXJ8jdI24nn49lrqn9+7/8+21+OCfdAmO1LITXm6bzc/X7J8AMfqTtcKRmRRBOtE6yD8usuYjSQi6qycHRUIrzII1/IRJ19byiiEvB/mPXn+6cJaCBGVw9nFGmMddea6/rxpBEcpIsFCsi6nobPqo8ndASKZ27L6WlI31OP7DNdHqSF5pFxb5OZ8+2uDI0FOSdbg5kGGTAbbK32s4/18yslEKI9CykoBdw==;Nx9XZQXRGt5z6HL34eEzuA=="
+secured: "FsHebCfBs6xGnvbOxvzRCXglsm+nF2z1eXjDYdxlZkhQlsVklqqWHKYcECnIWUV/gYDM7rsyuoJWe0/IDZk0VQeh4vZczS+4nzpb443VIQ9BnjkKy3jFpD4MPy4XfGjIB/hKHcZ0ks3LN0G+uxd7a5QhRIhtEBwFc+RlXCV37jH5yJWmIVDMtaQAB2gvEGwsAtQuxNAxEktjY+GnOz0Ag98JTI3SJYiIjoKbMPQeXlstGveoA+ndM3IxCbhVvAIjEk6j0qTtd5USsh7pngPXmovlS23cPIpByNgwnO2eBSXsl9PeIMNv0m6UCcUPTQr+O7l0X0u9Wp/K7R+0c5OIPGqGkGCfvMVbmk+VwLDxppU=;wKjtMmvWzlwCyVt9O6CbwQ=="
 ---
 

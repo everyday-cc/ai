@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "So what happened to self-driving cars?"
-    excerpt: "Apart from the convenience factor, self-driving cars are seen as a panacea for ... where humans can relax while an artificial intelligence does the driving. But here we are in 2022, still stressing out in heavy traffic dealing with inconsiderate drivers ..."
-    publishedDateTime: 2022-02-10T03:05:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/dFGKEqmvasAcjt_GxUIaUPiY6Q6zmnMJIS0b45QonT3FA8lDH1e8sUXgVMkkcEs9J2kWu8LdybkuwV_qB5WLYjaPGtkA1ugVxEFef-XijJbsSbI=s750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "CASEY: On the brave new road to self-driving cars ... and Rocky Mount"
     excerpt: "It seemed perfect. “I am able to tell you that this is NOT a self-driving car,” Maxey also told me. Could have fooled me. We made it to Rocky Mount without incident, then headed east on U.S ..."
     publishedDateTime: 2022-02-10T02:32:00Z
