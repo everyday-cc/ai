@@ -120,20 +120,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Apple acquires a startup company that uses AI to adapt music to listeners"
-    excerpt: "Apple appears to be continuing its acquisition of companies concentrated around music. After last year's acquisition of Primephonic, a music service for streaming classical music, the Cupertino company recently purchased AI Music,"
-    publishedDateTime: 2022-02-08T14:23:00Z
-    webUrl: "https://www.phonearena.com/news/apple-acquires-a-startup-company-that-uses-ai-to-adapt-music-to-listeners_id138326"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 36
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/138326-wide-two_1200/Apple-acquires-a-startup-company-that-uses-AI-to-adapt-music-to-listeners.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Spinny acquires Scouto, the AI-powered car connectivity solutions’ start-up"
     excerpt: "The deal marks a consolidation in the AI-powered used car solutions segment ... acquired a 100% stake in AI-powered connected car start-up Scouto. The deal marks a consolidation in the AI-powered ..."
     publishedDateTime: 2022-02-10T07:58:00Z

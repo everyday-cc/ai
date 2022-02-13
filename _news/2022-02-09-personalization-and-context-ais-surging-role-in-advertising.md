@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 12
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/687585/Vinay-Nair-PhD-TIFIN.jpeg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "TIFIN Wealth Launches TIFIN Grow with Over 500 Financial Advisors Using AI and Investment Intelligence Driven Personalization"
-    excerpt: "“We believe that many advisors like to start their journey into automated personalization with individual modules, while others find the full offering most helpful with a united and integrated experience from front to back. This is an important time in ..."
-    publishedDateTime: 2022-02-08T13:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/tifin-wealth-launches-tifin-grow-with-over-500-financial-advisors-using-ai-and-investment-intelligence-driven-personalization"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
     images:
       - url: "https://www.accesswire.com/users/newswire/images/687585/Vinay-Nair-PhD-TIFIN.jpeg"
         width: 800

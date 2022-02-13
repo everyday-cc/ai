@@ -42,6 +42,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "RoadRunner Recycling Launches AI Data-Driven Waste Management Platform"
+    excerpt: "Concept: American startup RoadRunner Recycling (RoadRunner) has rolled out an AI-based data-driven waste management platform to optimize waste and recycling operations. It assists businesses with waste management by utilizing ML algorithms. Nature of ..."
+    publishedDateTime: 2022-02-10T12:15:00Z
+    webUrl: "https://www.just-drinks.com/research-reports/roadrunner-recycling-launches-ai-data-driven-waste-management-platform/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 37
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/shutterstock_1803136597.jpg"
+        width: 500
+        height: 223
+        isCached: true
   - title: "How does Artificial Intelligence shape the future of customer communications management?"
     excerpt: "Gone are the days when it was enough to respond to a comment. Many businesses are now evolving from customer service to customer-centric, which is crucial to thriving even in today’s competitive environment."
     publishedDateTime: 2022-02-11T12:17:00Z

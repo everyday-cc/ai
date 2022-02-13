@@ -467,15 +467,6 @@ related:
         isCached: true
   - title: "IRS to halt use of ID.me’s facial recognition software for identity authentication"
     excerpt: "The Internal Revenue Service will stop using facial recognition software to authenticate taxpayers’ identities, the federal agency said Monday. The move responds to mounting backlash from lawmakers, advocates and members of the public about the use of ..."
-    publishedDateTime: 2022-02-08T13:15:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2022/02/08/irs-to-halt-use-of-idme-s-facial-recognition.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
-  - title: "IRS to halt use of ID.me’s facial recognition software for identity authentication"
-    excerpt: "The Internal Revenue Service will stop using facial recognition software to authenticate taxpayers’ identities, the federal agency said Monday. The move responds to mounting backlash from lawmakers, advocates and members of the public about the use of ..."
     publishedDateTime: 2022-02-08T18:08:00Z
     webUrl: "https://www.bizjournals.com/rhodeisland/news/2022/02/08/irs-to-halt-use-of-idme-s-facial-recognition.html"
     type: article

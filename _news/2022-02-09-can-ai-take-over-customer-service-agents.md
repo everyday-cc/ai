@@ -40,22 +40,6 @@ related:
         width: 655
         height: 473
         isCached: true
-  - title: "Pegasystems Debuts Voice AI, Messaging AI Solutions to Support CX Agent Experience"
-    excerpt: "Pegasystems Inc., a Cambridge, Mass-based provider of customer experience software solutions, announced today Pega Voice AI and Messaging AI. These new solutions analyze live customer service conversations in real time and are designed to help CX agents ..."
-    publishedDateTime: 2022-02-08T14:18:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/pegasystems-debuts-voice-ai-messaging-ai-solutions-to-support-cx-agent-experience/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/pegasystems-debuts-voice-ai-messaging-ai-solutions-to-support-cx-agent-experience/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/pegasystems-debuts-voice-ai-messaging-ai-solutions-to-support-cx-agent-experience/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 51
-    images:
-      - url: "https://www.cmswire.com/-/media/50c6f033b2a548f18f6789dc01cb7b6e.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "WLGzHrxRmIGFv3mzIgz2SiugKs/EhVI7BWbXmBmq5/E5/zxS1WULKHbpCxhL8fHtFx81pbNCpYQJ1IkaKbmc/A3hv0iYbuhY9/uckZwfyin1sukf3OyavvhdpdOWjfYwbyB4/l0dV79sseemiYKZ5H7KwlDxr5jhsYkt+6Gy69UdSIvHntBvBmdw7Ga6DwTqUoLNs2m8AA/XG58nIdKq4z1b1AYSU/lgXib9jrs7amPlRadaiEV723qX6gCit+blTcIY7wmMkwE7SWHEihGvROCt9+FZPV/kDwC/8pK0Tpnb86gYJTmNktsh4bbpiDOKY4QJuV4vmpnY/ryIpGqxJedpZhzy882l31Ow7UnmWXw=;qig7uGH4q3UsxKiKk7WuJw=="
 ---

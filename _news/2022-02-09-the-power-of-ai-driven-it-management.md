@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "RoadRunner Recycling Launches AI Data-Driven Waste Management Platform"
+    excerpt: "Concept: American startup RoadRunner Recycling (RoadRunner) has rolled out an AI-based data-driven waste management platform to optimize waste and recycling operations. It assists businesses with waste management by utilizing ML algorithms. Nature of ..."
+    publishedDateTime: 2022-02-10T12:15:00Z
+    webUrl: "https://www.just-drinks.com/research-reports/roadrunner-recycling-launches-ai-data-driven-waste-management-platform/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 37
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/shutterstock_1803136597.jpg"
+        width: 500
+        height: 223
+        isCached: true
   - title: "The dark side of Artificial Intelligence"
     excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
     publishedDateTime: 2022-02-11T13:12:00Z

@@ -118,20 +118,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Data Monetization Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
-    excerpt: "For this, GE Healthcare's partnership with Amazon Web Services (AWS), which provides the ability to deploy machine learning solutions at scale through the Amazon SageMaker machine learning platform."
-    publishedDateTime: 2022-02-08T14:39:00Z
-    webUrl: "https://menafn.com/1103658542/Data-Monetization-Market-Global-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?796841"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Voice Assistant Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, and Foreseen 2027"
     excerpt: "The Voice Assistant Market is anticipated to grow by US$7.30 Billion by 2025 rapidly growing at a CAGR of 24.32% during the forecast"
     publishedDateTime: 2022-02-09T11:18:00Z

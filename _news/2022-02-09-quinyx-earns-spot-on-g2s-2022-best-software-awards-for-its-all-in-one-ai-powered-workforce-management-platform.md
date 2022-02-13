@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-quinyx-earns-spot-g2s-2022-best-so
 webUrl: "https://www.tmcnet.com/usubmit/-quinyx-earns-spot-g2s-2022-best-software-awards-/2022/02/08/9541493.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Ada Earns a Top Spot on G2's 2022 Best Software Awards for Analytics & AI Products with Ada Support"
-    excerpt: "TORONTO, Feb. 8, 2022 /CNW/ -- Ada, an Automated Brand Interaction company that bridges the gap between brands and the people they care about, today announced it has been named to G2's 2022 Best Software Awards, placing 2nd on the Top 50 Analytics & AI ..."
-    publishedDateTime: 2022-02-08T20:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ada-earns-top-spot-g2s-2022-best-software-/2022/02/08/9541492.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "Q3z8DvTnoKqfnE0VaO4JpAN6YTECud3O4zw+9ZDk1OVRAfhTh9AoqokmWH6GRqeel8rDcTT8Bnccv2r5/LA2j0hNuWKFLnFE3c49TkORorh4P6QNx7MhB5JGM6oW43Lt4EkZWm8WakLL9EmCfafmMerKuJ0O1adET/vTqANY1Nx+JHQVLJArDFU1MWWfEXCOsdLaD0ZRIZ5ezy9c2/eRVmR7DQ/NaM92mXLmMEmiVnByS7gaJNpmupGByaTckf+X3NIhf6hA4KQyLRlBP17Ot/QXN5r91vyyZgMKm196DQsY5MErMFrErkZPmE3BFBjqxYpUJuFL9UesWxRwidlcyhhMc7qlcXIfcmvbDyUQ8Qs=;uNo+54OxNPdbQy7RnWiYxQ=="
 ---

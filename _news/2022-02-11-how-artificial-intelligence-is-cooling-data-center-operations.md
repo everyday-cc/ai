@@ -54,20 +54,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "TIFIN Wealth Launches TIFIN Grow with Over 500 Financial Advisors Using AI and Investment Intelligence Driven Personalization"
-    excerpt: "“We believe that many advisors like to start their journey into automated personalization with individual modules, while others find the full offering most helpful with a united and integrated experience from front to back. This is an important time in ..."
-    publishedDateTime: 2022-02-08T13:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/tifin-wealth-launches-tifin-grow-with-over-500-financial-advisors-using-ai-and-investment-intelligence-driven-personalization"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/687585/Vinay-Nair-PhD-TIFIN.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "9yrtgtlu0MA2DCrvSJZouaoKfTTZhGAjczfTeE6PCrt4Z3sE7PmgZgv9KDUG81xYNp1wybwBqoNBLUXztyqSWy4tE0I5TmJRxzUJkOt2KoMXaNrNUt8MwQTxYkUGaCF30/yZf15BDZhWVzcxI3kh0dZyVMrJ+Epaxusy9sYzoRX/c6xnr9wP/2pX26bZ4dDwDRyl3KULm2jDtv7uq/CXiziYX6vxpq9fStRt4sL10dm0MgSYVhkAlVuq6N1VnX4ZjktwnnJbWQXLOcSFPWQHXQ+/PpwLWCowJ+v9hyJ51zkJvHw1kdZ3OgwIwxrP+34TBOdh5Pflvm3dfxfm1g2Nw42hWU7fefj45Ki4fP8ITYn4CFEECzg5kMQiu43TnLjIr2EU7SYV/Uzhzi1MJaUL1FAFhl5mAnCffMn7TGKGfvjSaTxtdM3REU5BFWN1f8O2PvqnF1G/ZW+iRQY3vuRJ3tRxmZIuM6l7S9np8/Z4cI86onkJaB63BOnMIDAa/SvqPOueDLtG3cEwSej7emVAeA==;T5jftHv50G7/e26kOUiL5g=="
 ---

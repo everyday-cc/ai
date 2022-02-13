@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healt
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-share-forecasting-competitors-global-impact-2022-to-2027-2022-02-11"
 type: article
 quality: 75
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Data Monetization Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
-    excerpt: "For this, GE Healthcare's partnership with Amazon Web Services (AWS), which provides the ability to deploy machine learning solutions at scale through the Amazon SageMaker machine learning platform."
-    publishedDateTime: 2022-02-08T14:39:00Z
-    webUrl: "https://menafn.com/1103658542/Data-Monetization-Market-Global-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?796841"
-        width: 443
-        height: 250
         isCached: true
   - title: "Worldwide Smart Hospital Industry to 2026 - Modernization of Healthcare Infrastructure is Driving Growth - ResearchAndMarkets.com"
     excerpt: "The “Global Smart Hospital Market (2021-2026) by Components, Services Rendered, Application, Connectivity, Artificial Intelligence ... Factors such as technological advancements, increased healthcare spending, a sedentary lifestyle, more awareness ..."

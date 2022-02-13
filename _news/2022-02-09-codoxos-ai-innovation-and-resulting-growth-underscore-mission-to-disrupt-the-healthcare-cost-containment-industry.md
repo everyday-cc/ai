@@ -69,29 +69,6 @@ related:
         width: 765
         height: 708
         isCached: true
-  - title: "BioMech Sets New Standard of Care with AI-enabled, Clinically Actionable Real-time Motion Analytics for Improved Healthcare Outcomes"
-    excerpt: "Coupling advanced sensor technology with powerful artificial intelligence (AI ... real-time motion analytics that quantify and improve patient/user outcomes in healthcare, sports/wellness, and industrial sectors. Founded by scientists and clinicians ..."
-    publishedDateTime: 2022-02-08T13:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/biomech-sets-new-standard-of-care-with-ai-enabled-clinically-actionable-real-time-motion-analytics/article_4d278c46-2ce2-5ac0-9ada-7b5f8bd1d84a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a8/0a85ad72-cf68-5db3-8975-80360abd4b8b/6202747c801c1.image.jpg?crop=800%2C420%2C0%2C27&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Codoxo's AI Innovation and Resulting Growth Underscore Mission to Disrupt the Healthcare Cost Containment Industry"
-    excerpt: "ATLANTA, Feb. 8, 2022 /PRNewswire-PRWeb/ -- Codoxo, a trusted provider of healthcare artificial intelligence solutions for healthcare payers and agencies, announces the achievement of critical milestones and growth that showcases increasing momentum ..."
-    publishedDateTime: 2022-02-08T13:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/codoxos-ai-innovation-and-resulting-growth-underscore-mission-to-disrupt-the-healthcare-cost-containment-industry/article_ae702bcc-51c9-5b28-aab6-871e0ebd29bd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
 
 secured: "JVLeRgzo3thDr+SpVlOZwPr0kcJ379Crr2d9onEyEvXb8GSzsGKcF8IP1MrY/1xjOFcK/SDb5O912IXd2RxWjaWHs4KdCEHWK6az2sLuIpS9ZQRLueoJA323F4G4HUiWI1hkt36VwVJmDJ6/ZRI/xWgg2VYk9H96bvZgRiXO2UjK1U+xcY8JWDQnEDA1CCgpGziHIt9onjZ3bbq4buIObwzuHoAeS1EramkxKLWeVRfIkr+foEVJp55Qc7cxU6msTc0D5JU5Ps1S1tNhSHbDUuMd4Tswyosh+T53xhXy2pOKEXZJhnw1cZLiSxi31bQBtMf18dDXoYJhK9ZwUXZV6kg9W9mMRlbNRIECcd8ftMk=;sJ/Wq1T1f4EjJK0H7OT/vQ=="
 ---
