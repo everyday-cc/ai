@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
-    publishedDateTime: 2022-02-08T12:40:00Z
-    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market, Size & Share, Growth, Trends, COVID-19 Impact Analysis, and Forecasts to 2028"
     excerpt: "Machine Learning as a Service (MLaaS) market was valued at 2103.3 million in 2021 and is projected to reach US$ 7923.8 million by 2028, at a CAGR of 20.9% during the forecast period Machine Learning as a Service (MLaaS) Market 2022-2028 A New Market Study ..."
     publishedDateTime: 2022-02-11T18:00:00Z

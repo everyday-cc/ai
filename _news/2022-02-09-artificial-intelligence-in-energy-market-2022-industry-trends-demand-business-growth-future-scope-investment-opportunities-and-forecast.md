@@ -42,20 +42,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Robot Software Market Size In 2022: Recent Innovations, Top Countries Data with CAGR Value & Growth Insights to 2028"
-    excerpt: "Germany is leading the market due to presence of key players in the country such as ABB, KUKA, and Kawasaki Robotics. The extensive research and development of artificial intelligence in the region has benefitted these key players in upgrading their ..."
-    publishedDateTime: 2022-02-08T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robot-software-market-size-in-2022-recent-innovations-top-countries-data-with-cagr-value-growth-insights-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/02/c-m-ivfofaeghqu-unsplash.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "TcUJ3L7z/GcYGzcE4VIHZDOc7xkXfZNlpFtb/uImIkU5bKMihVOTYgeVn9QgkMx7GTtkr85Nj5yh4/U3JiZdl/kqeOyZay/yRq1xrrcqlBdleUUZdLqVlvNXUg7laV3/xTRrRLX3cMad5AywXBpofHEeSRb14iHq/RwSE8z+SttxJinD+9TK8Wcaw9LWNJfGSSTLGCj3OPP6ii/QeAUy5ABrFZn3GGPCVjD9/1re+DF7UCEkrbw5oxF5cy0LXN9jSZeC5D8XO7DvV8ysETwZBThFCU3ESRT17yIwq0Gb9DgCImqCwPjjH0IHtdKXVlAxkHBO9paQwGtiZdKyssTUaeHAa/jocy2Vu9OP03wsRQI=;pYDE1jwMSX8tMdH/lkN52Q=="
 ---

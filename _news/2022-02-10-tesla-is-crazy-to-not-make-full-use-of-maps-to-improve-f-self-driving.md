@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2Frsz_2untitled_design_16.png&signature=743b9c99598c1597501b6f59357f3d4c"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Tesla car in 'Full Self-Driving' mode hits a bollard on camera"
-    excerpt: "A Tesla Model 3 car in 'Full Self-Driving' mode has been captured colliding with a bike lane barrier post, in a potential setback for Elon Musk's firm. The footage was captured during a drive in downtown San Jose, California, by a YouTuber who goes by ..."
-    publishedDateTime: 2022-02-08T12:25:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."

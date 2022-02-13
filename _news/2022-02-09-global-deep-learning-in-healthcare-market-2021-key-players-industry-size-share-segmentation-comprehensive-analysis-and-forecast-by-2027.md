@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
-    publishedDateTime: 2022-02-08T12:40:00Z
-    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Robotic healthcare to be the future of Wheelchairs and Components Market"
     excerpt: "The gamut of care is being driven by the usage of sensors, digital technologies, and wearables, thereby allowing the healthcare personnel to delve ... areas such as computer science, robotics, artificial intelligence, and sensor technology are broadening ..."
     publishedDateTime: 2022-02-11T20:40:00Z

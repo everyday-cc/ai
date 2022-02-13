@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Komprise Partners with Microsoft to Support Microsoft Azure File Data Migration Program"
-    excerpt: "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. “By working closely with the Microsoft Azure ..."
-    publishedDateTime: 2022-02-08T12:40:00Z
-    webUrl: "https://menafn.com/1103657119/Komprise-Partners-with-Microsoft-to-Support-Microsoft-Azure-File-Data-Migration-Program"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Artificial intelligence (AI) in Logistics Market to Witness Robust Expansion by 2029 | IBM, Google, Microsoft Corporation"
     excerpt: "The continuous evolution of technologies such as artificial intelligence (AI) and machine learning (ML) is driving disruptions and innovations in the logistics and supply chain market. A companys efficiency in network planning and predictive demand ..."
     publishedDateTime: 2022-02-10T16:53:00Z

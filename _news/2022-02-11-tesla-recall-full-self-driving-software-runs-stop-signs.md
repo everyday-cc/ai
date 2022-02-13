@@ -73,22 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla car in 'Full Self-Driving' mode hits a bollard on camera"
-    excerpt: "A Tesla Model 3 car in 'Full Self-Driving' mode has been captured colliding with a bike lane barrier post, in a potential setback for Elon Musk's firm. The footage was captured during a drive in downtown San Jose, California, by a YouTuber who goes by ..."
-    publishedDateTime: 2022-02-08T12:25:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
     publishedDateTime: 2022-02-09T05:24:00Z
@@ -213,6 +197,6 @@ related:
         height: 382
         isCached: true
 
-secured: "lNMp7KuaMyyMIg9LwDAk4kQKVa/PrMO8KqCH7fpEklcAxAmTzzo5LL3MI/GCNyzHh+4HoumHeKGPQ6jiJ5nqMhVCEp8hsJ9zx+PYx0cgz+7iz3lPD+g/Y7BhnOVbH0oshwNQrlAc0Ay3luaSShSDScEAAaqa5kVm2+SiTc08VFlDL0Y1NurqLFd6TeBUdYkHENubpZasKdz/qa12Gu/QHE0ACgYrP94H7CHJRTEbN9RllOxtpjAsef/EKdQrgv0WhCk3nvw7VdwhInGPyl4+D2zI+xletQvlUSBIDQqZ5G9iJNU+Jrv4Rnie/pK3/T7cyJRuKSTz9RS9zpmWI0Ls1fxaFaB59uWGoDsBaO4zT18=;EonKcHLUPLSvG06Hkx1Ncw=="
+secured: "J57ZaGOAeG0NJzWZjVOCFXa6TjkTRZytkhB8a4z86I6KPvgAgVm8TqaiLYPVNZBZh5dwyFK1VEtGSawitSrj5q7yVzE7yU/V2/CGsbPA1c+JjmEToOoNJRejfqZofIgat3Fxmz/lnrnUo9J9R/57uhlvIUoxO1RZG2f03+TD3ipSFfU4WWlGAkM9QfFPpFFJnQwOezkDEX0mrx77MYUV4XSMdNddzy548omantE+MVDzO5Yw00iiDgHYmyhobg4u32iim18iZqcEt/ikIxYeA28QRa42rB0K1iP6RWNfA5GSvpZpR9Efr4Y1GRuLn7dkZ0L6aQwp9Hv343y/TEi9uiEgveZW1B0O4a96EkPwJFOmasP2eJ4C82XX4Qsy2w6PqpkSZIYM0HO/mn8s8u4y3TRKerqdMjlBedbb4JNeio0n3y0p5v81wzmmZQC5NrK4ovdo741rryg8cuipv4Sn6QWbDy2VZrKMsb08U2/BEQIjISbuoYsVKxQE6n4YZM+r3jAvqQpFnGfNv34hIUBwbQ==;KZmT4Y7uxHttrwoNzQKhbw=="
 ---
 

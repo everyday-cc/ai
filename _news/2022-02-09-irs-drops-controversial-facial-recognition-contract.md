@@ -274,20 +274,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Adams embraces facial recognition"
-    excerpt: "follow up on leads and collect evidence — from facial recognition technology to new tools that can spot those carrying weapons, we will use every available method to keep our people safe,” Adams said in his crime speech. The NYPD has been using facial ..."
-    publishedDateTime: 2022-02-08T12:44:00Z
-    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2022/02/08/adams-embraces-facial-recognition-00006587"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 41
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "Democrats Urge Federal Agencies to Abandon Use of Facial Recognition"
     excerpt: "\"Facial recognition tools pose a serious threat to the public's civil liberties and privacy rights, and Clearview AI's product is particularly dangerous,\" warn four progressive lawmakers. A quartet of progressives in Congress sent letters to five U.S ..."
     publishedDateTime: 2022-02-09T20:32:00Z
@@ -301,34 +287,6 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "IRS to end use of facial recognition to access tax accounts"
-    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID.me, the third-party verification system that ..."
-    publishedDateTime: 2022-02-08T12:59:00Z
-    webUrl: "https://www.centralmaine.com/2022/02/07/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
-    type: article
-    provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/2/2022/02/IRS_Facial_Recognition_83583-1644325026.jpg"
-        width: 1000
-        height: 648
-        isCached: true
-  - title: "The IRS backs down from facial recognition plan to verify identities"
-    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
-    publishedDateTime: 2022-02-08T12:51:00Z
-    webUrl: "https://www.timesrecordnews.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
-    type: article
-    provider:
-      name: Times Record News
-      domain: timesrecordnews.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Huge government agencies clash over imposing facial recognition"
     excerpt: "The General Services Administration, which oversees federal offices and technology, says face-scanning technology has too many problems to justify its use as an identity-verification service."
