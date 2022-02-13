@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-go
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/amp/"
 type: article
 quality: 102
-heat: 113
+heat: 112
 published: true
 
 provider:

@@ -58,6 +58,20 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Amazon's AI Is Helping the Police Watch You"
+    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
+    publishedDateTime: 2022-02-10T00:00:00Z
+    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
+        width: 1280
+        height: 856
+        isCached: true
   - title: "Wallaroo Labs Secures $25 Million in Funding Round to continue growing in the machine learning market"
     excerpt: "Wallaroo Labs, Inc., announced it has closed $25 million in a Series A funding round, enabling the company to expand product, sales, and marketing, and to release a free community edition of its machine learning platform. The funding round was led by ..."
     publishedDateTime: 2022-02-11T18:51:00Z

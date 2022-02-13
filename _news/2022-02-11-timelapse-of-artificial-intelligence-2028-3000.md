@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-11T14:45:00Z
 originalUrl: "https://www.linkedin.com/pulse/timelapse-artificial-intelligence-2028-3000-david-ruben-masters"
 webUrl: "https://www.linkedin.com/pulse/timelapse-artificial-intelligence-2028-3000-david-ruben-masters"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQEIoQDayqQ08Q/article-cover_image-shrink_720_1280/0/1644590554548?e=1649894400&v=beta&t=W9vpSvKmOPVuxJIAnegnBJy-DSoTsIxNqL3rsAtNgdg"
@@ -28,6 +29,6 @@ images:
     height: 630
     isCached: true
 
-secured: "rr1jWEIWZ44qnYM6z0Ah40PywTCF7aqeYan7dhcWOb12o6BHB5j52hjwSSlEvg5rO8Uv2neXXr/kKARmq3VEfHyNDyKw/heHQSOoF+3ltl4gS3MqwJZeWe0dfEw2RmcCjuDdyfZBgc0LOuvt1Pk6Zq0MmjozZNZbGV2pmhdJVGjepIWZUYK5A2U/F4XxSM23q8e9nCZUug6xpe82uCkF83LGy6njXP89XU1Z2Zn1dazmi+Dgcz6DlmCkfkZowAkslPB3CuD9qSySCSHY3sEZh+8UC8XXFox4cuBZOCZx6SbkYGv0pTh4SRC4Fn1wk8cXNfvRGdRc36gS5DyRSqp5vyku/Cceyv4OlbvLM0ridhk=;hAZR/tR57yW1PO69cbaOCw=="
+secured: "/dSJ6AE1EAz9nfJUBdCgnWR29KvlP6epGahb+KWqmE26ZHLdARyHYKsLiiV8tK/FbLxrNmT4q4NJdSmCCqLFQOFLazy8JW7Ts87Fs3okZQPYlNDBpk5QP9AWkrtW8a1sZt7cvUq38eX/b4Lj0IA5DFsCPpthApSpT8/yTpJnd1ZOdjBYrGS4xNdJcQwu4vDNGzgb30sq1OAHPpppNHpJV4lyB+p8FJ16ntJX58y671cJ+4D1zfk6kLDMSszuLMo48MVStKvzAOV3eA7t5oAzI6M6Ou7a8647+as8YVSWYt+tV6bk1RKQKOxEObcuHB6356k3Av6tZrezcQZZCtEjEiXWcl9lyhGwUY91bBOHhp1meywtiQ3GYD6YxveHFYbmP0MvrybedbZBUif2xgZbg8IH5XWtd/NauSu9+0FQJ7jMo2yuS1T7ARoN6picj1+G12s/ZuDyewi+ptPUsy+Gwtu3FuKJUsLN7VgIHRllnY6YOtSUljlhsAn64Iz08IcAxUlgSns4WLNI1L9JJeVC1g==;YiHmXHz1LYCFxc8bKB7n9g=="
 ---
 

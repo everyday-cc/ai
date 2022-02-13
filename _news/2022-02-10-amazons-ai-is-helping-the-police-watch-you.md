@@ -1,36 +1,46 @@
 ---
 category: news
-title: "The AI edge chip market is raging"
-excerpt: "Dozens of startups continue to get tens of millions in venture funding to make chips for AI in mobile and other embedded computing uses. The race shows no sign of slowing down."
-publishedDateTime: 2022-02-11T12:51:00Z
-originalUrl: "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/"
-webUrl: "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
+title: "Amazon's AI Is Helping the Police Watch You"
+excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
+publishedDateTime: 2022-02-10T00:00:00Z
+originalUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
+webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
 type: article
-quality: 104
-heat: 144
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Design News
+  domain: designnews.com
 
 topics:
+  - AWS AI
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-    width: 1200
-    height: 690
+  - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
+    width: 1280
+    height: 856
     isCached: true
 
 related:
+  - title: "The AI edge chip market is raging"
+    excerpt: "Dozens of startups continue to get tens of millions in venture funding to make chips for AI in mobile and other embedded computing uses. The race shows no sign of slowing down."
+    publishedDateTime: 2022-02-11T12:51:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 690
+        isCached: true
   - title: "How AI and machine learning is shaping legal strategy"
     excerpt: "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ..."
     publishedDateTime: 2022-02-12T09:15:00Z
@@ -44,20 +54,6 @@ related:
       - url: "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png"
         width: 768
         height: 432
-        isCached: true
-  - title: "Amazon's AI Is Helping the Police Watch You"
-    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
-    publishedDateTime: 2022-02-10T00:00:00Z
-    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
-        width: 1280
-        height: 856
         isCached: true
   - title: "The dark side of Artificial Intelligence"
     excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
@@ -88,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "r0RlAFD0cbZB4EUUlBK5BH5/ux+51NKNXcq61kQC3bAZTXyyiqmC5QHLmEtRzEmX6xbLdl+4ikcD+zfRL7+W9sIKVicLkUG3ghVCxk5ctVpDBNDr4L9VH8YxjFMH51qXASLhCs31I2eqeBpoNKhEVbLh3wRuOcg68YA5G5Mosv6JS8QCbmNgLps8tx4lnt7nT/CLqydPS0kkI93JQW2YbScmKLjh55NWnCIsdrCV4VVNoAR/WcmlkkHvM6QMT6OlTkdW4fAAp+v67PegEeiRvVBrVaIt4mAxspTIjtdF/izimdi1D1Cns+yvfi6SXEX2SCUNyJ82H/HX1cqtpFx1NBdb2bCdgrRRmCvNyMAKkjr55KSLPU8Uykfsp4MckLne5L0FN1ewfHUfXw8051qbzpolqWSy8Avmm/MtvR/WlDYCMK1kalxWrsiO75t5F58Mine1iz4l3eGMbxiYBCMKCOIAuAZB+LPleoqd+tXJ4RS/+1H6WH1+ye9MOLM8zUkafTBUDElueH+eJov/ubbsZg==;Md4I91FvDerliIQnXXibkQ=="
+secured: "vG/FovEnj3aInDUSIssl5/kkjwQ+RF0KKIcGbpLpLEbFXZ8xRhWRXGg0BF/AiwbPnH+OT3Ztuh3LIqbwZa0nIAyS5fHntUDPSSNT12B4X5lsefD5XffQGEbp56dz4bY/jBJRLgbw/MTaWaPDSPIpuKuurGAeiT6HGd//t7U1t/VkDXEfzzbXIBM1meFP1cAIoKaOZsQak2iTOporpp0Eyu779Q/f91clllsVtMvhf/0eZC/OvJMUoAK9zUySG2eHdSqhqYDkqwSr0TDay9VpwdXeG2x76DDbv34qFsiw4wTQKaTr70ycoUHov+WD9IITEMtX5+psQU2OQuIDMAWCeNnylTbxPRWSyrVfMMBPnoE=;UD/7EjEQ2zTjQyFBh1QlLQ=="
 ---
 

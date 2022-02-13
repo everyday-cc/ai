@@ -55,6 +55,20 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Amazon's AI Is Helping the Police Watch You"
+    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
+    publishedDateTime: 2022-02-10T00:00:00Z
+    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
+        width: 1280
+        height: 856
+        isCached: true
   - title: "The dark side of Artificial Intelligence"
     excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
     publishedDateTime: 2022-02-11T13:12:00Z

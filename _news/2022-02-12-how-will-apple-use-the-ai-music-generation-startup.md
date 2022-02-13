@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Buys Startup That Makes Music With Artificial Intelligence"
-    excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of AI ..."
-    publishedDateTime: 2022-02-08T07:08:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5lliAQo0yVI/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple acquires startup that uses AI for tailor-made music: Report"
-    excerpt: "Apple has acquired London-based AI Music, that uses artificial intelligence to generate tailor-made music, Bloomberg reported citing sources. The startup had about two dozen employees before the deal."
-    publishedDateTime: 2022-02-08T08:07:00Z
-    webUrl: "https://inshorts.com/en/news/apple-acquires-startup-that-uses-ai-for-tailormade-music-report-1644306989304"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/apple-acquires-startup-that-uses-ai-for-tailormade-music-report-1644306989304"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/apple-acquires-startup-that-uses-ai-for-tailormade-music-report-1644306989304"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/02_feb/8_tue/img_1644304660673_910.jpg?"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Apple buys artificial intelligence music startup for undisclosed sum: report"
     excerpt: "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ..."
     publishedDateTime: 2022-02-08T12:31:00Z
@@ -70,22 +40,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Apple acquires AI Music to create songs adapted to our heartbeat using algorithms"
-    excerpt: "Apple has acquired AI Music, a startup that created artificial intelligence capable of generating its own personalized music, according to Bloomberg. A purchase that has been closed in recent weeks and which,"
-    publishedDateTime: 2022-02-08T08:30:00Z
-    webUrl: "https://manometcurrent.com/apple-acquires-ai-music-to-create-songs-adapted-to-our-heartbeat-using-algorithms/"
-    ampWebUrl: "https://manometcurrent.com/apple-acquires-ai-music-to-create-songs-adapted-to-our-heartbeat-using-algorithms/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/apple-acquires-ai-music-to-create-songs-adapted-to-our-heartbeat-using-algorithms/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 52
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2022/02/1644308918_840_560-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Apple acquires UK start-up that makes dynamic music using AI"
     excerpt: "Apple could use the start-up’s technology to create new music for advertising, or dynamic soundtracks that respond to the user’s heartbeat or mood. Tech giant Apple has reportedly acquired AI Music, a UK start-up that uses artificial intelligence to ..."
     publishedDateTime: 2022-02-08T12:33:00Z
@@ -99,20 +53,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/02/AdobeStock_289510986_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Apple acquires a startup company that uses AI to adapt music to listeners"
-    excerpt: "Apple appears to be continuing its acquisition of companies concentrated around music. After last year's acquisition of Primephonic, a music service for streaming classical music, the Cupertino company recently purchased AI Music,"
-    publishedDateTime: 2022-02-08T14:23:00Z
-    webUrl: "https://www.phonearena.com/news/apple-acquires-a-startup-company-that-uses-ai-to-adapt-music-to-listeners_id138326"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 36
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/138326-wide-two_1200/Apple-acquires-a-startup-company-that-uses-AI-to-adapt-music-to-listeners.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "E2hghQFUArlw5+o+pB3zuGZheeTQ2F6bF8YmGJAbYk6z96atkrK9HiHMR/66dNnQPlLpfRbzNRcvem7jJ4mKBl3VyrUC0pkNFfKGSFdWry4Tbm7dxlQd1uoGn4mxR5+xFxQhkMNGQ13b09bnTYEHAtJpVxiH1qIaIPagRnc78sZoKdUhxpLJUorwFjzhKB7kKoBDmIXTxFplVeI2cuALnR7a8KjNQIlFYUjm4l8ZCnYU67l13U83IeAEFd98Nu6uBdN0BQui8gWrtYKePShYYv5hFAQkEKk9A38KYYYJ9XEMHeUS7RISegaAxBVU2Zb6h7gVKhDz1o2fAwvSuHVb9kdiSBIseLG+9CTSw7D/Qlxz5SNw1xUbRHuTIaWkpMeph1MGBcgXGzPxo4pM5/NTtX6vLi0tG5g0myTTHxCOh7HZMtsZdvDROpxNuIh89TImvzuFh1fe7TGii5drUYkj3Ozc3xHfNGWA8Fw/Bxr+7i8gRZD0GOeNgWK98UJKIxuqjIfm1+I1jbT5Y2KukuG5xg==;QUTgBDbKBRdDpA1c73Es8g=="

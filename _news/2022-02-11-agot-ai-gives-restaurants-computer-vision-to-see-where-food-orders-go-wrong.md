@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
+    excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ..."
+    publishedDateTime: 2022-02-11T16:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
   - title: "Smart restaurant kitchen tech startup Agot AI adds $2M to its seed funding round, reaches $17M in raised capital to date"
     excerpt: "Agot AI, a startup that equips restaurant kitchens with its suite of camera and computer vision software systems to help improve various efficiencies and to help identify potential mistakes in food orders, announced it added an additional $2 million to its ..."
     publishedDateTime: 2022-02-11T18:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-an-inventor/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
