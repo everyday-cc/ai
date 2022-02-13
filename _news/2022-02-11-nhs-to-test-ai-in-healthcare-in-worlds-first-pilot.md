@@ -7,7 +7,7 @@ originalUrl: "https://www.medscape.com/viewarticle/968326"
 webUrl: "https://www.medscape.com/viewarticle/968326"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NHS in England set to trial a new approach for ethical adoption of AI in healthcare"
-    excerpt: "Biases in artificial intelligence will aim to be eradicated in a world first as the NHS in England trials a new approach to the ethical adoption of AI in healthcare. Algorithmic Impact Assessment (AIA), designed by the Ada Lovelace Institute, will be ..."
-    publishedDateTime: 2022-02-08T16:40:00Z
-    webUrl: "https://www.news-medical.net/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 85
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "NHS England works with Ada Lovelace Institute to tackle AI bias in healthcare"
     excerpt: "Brhmie Balaram, head of AI research and ethics at the NHS AI Lab, hopes that supporting patient and public involvement as part of the development process will lead to improvements in patient experience and the clinical integration of AI. “Building trust ..."
     publishedDateTime: 2022-02-08T17:59:00Z

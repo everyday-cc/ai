@@ -46,22 +46,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artist Ai Weiwei Warns of Chinese and American Authoritarianism"
-    excerpt: "On the morning of April 3, 2011, the renowned artist Ai Weiwei was picked up by Chinese police at an airport in Beijing. Later that day, he found himself in the back of a van surrounded by ..."
-    publishedDateTime: 2022-02-08T15:15:00Z
-    webUrl: "https://reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/"
-    ampWebUrl: "https://reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 57
-    images:
-      - url: "https://i.ytimg.com/vi/IvgLUB5aF_4/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Cosmic Stonehenge secrets, Ai Weiwei looks back, and gay sex 11,000 years ago – the week in art"
     excerpt: "V&A, London, from 12 February to 25 September. Ai Weiwei: The Liberty of Doubt Fake and real antiquities alongside simulacra of everyday objects by the activist and dissident. Kettle’s Yard, Cambridge, from 12 February to 19 June. Ida Applebroog ..."
     publishedDateTime: 2022-02-11T11:21:00Z

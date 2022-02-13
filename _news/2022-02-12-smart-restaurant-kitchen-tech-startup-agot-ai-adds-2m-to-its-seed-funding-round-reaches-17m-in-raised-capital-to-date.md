@@ -53,7 +53,7 @@ related:
   - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
     excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ..."
     publishedDateTime: 2022-02-11T16:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_575e98b6-22a5-5498-9517-2d8ec0b0a8a7.html"
     type: article
     provider:
       name: WFMZ-TV

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna14331"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna14331"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artist Ai Weiwei Warns of Chinese and American Authoritarianism"
-    excerpt: "On the morning of April 3, 2011, the renowned artist Ai Weiwei was picked up by Chinese police at an airport in Beijing. Later that day, he found himself in the back of a van surrounded by ..."
-    publishedDateTime: 2022-02-08T15:15:00Z
-    webUrl: "https://reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/"
-    ampWebUrl: "https://reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/video/2022/02/08/artist-ai-weiwei-warns-of-chinese-and-american-authoritarianism/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 57
-    images:
-      - url: "https://i.ytimg.com/vi/IvgLUB5aF_4/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Ai Weiwei: The Liberty of Doubt review – so dull and sentimental it’s offensive"
     excerpt: "But this edgeless, confused and mawkish show suggests his art is less so Last modified on Thu 10 Feb 2022 23.57 EST In 1995 Ai Weiwei held up an ancient Chinese ceramic vessel, opened his arms to let it go, and stood there as it shattered. His new ..."
     publishedDateTime: 2022-02-11T03:57:00Z

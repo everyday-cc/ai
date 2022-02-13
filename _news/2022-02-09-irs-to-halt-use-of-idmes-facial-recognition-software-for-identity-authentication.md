@@ -334,20 +334,6 @@ related:
         width: 1200
         height: 694
         isCached: true
-  - title: "The IRS backs down from facial recognition plan to verify identities"
-    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
-    publishedDateTime: 2022-02-08T16:39:00Z
-    webUrl: "https://www.dispatch.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facial recognition companies attempt to appease state lawmakers"
     excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
     publishedDateTime: 2022-02-10T12:00:00Z

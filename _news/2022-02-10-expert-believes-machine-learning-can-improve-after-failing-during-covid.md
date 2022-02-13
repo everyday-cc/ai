@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/health/article-10494799/amp/Expert-belie
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 620
         height: 475
         isCached: true
+  - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
+    excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
+    publishedDateTime: 2022-02-13T08:51:00Z
+    webUrl: "https://europepmc.org/article/MED/35142636"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 0
 
 secured: "d+jodLf/ytLR8CEaCfjF4RhVeUdwqlvqPCmbU8k99To887i4TeAGsByV16KuY7CMXjM3EgOI5yekpYtN3CMUbldwhzHZXtk/Godw4wq6D10wcS/LUEKzyeVHoMCNNeYtXpwnZHTlUc9h4rdeWKp6k4s5fiBTCWfMOJAI6wYaKJcmwyTyEC3z2ehPsoghRCefKkyFmvBcTr9ovQeeEeIxBoZaBfUAyFFZ5pzKJ/ZoLxnh776VwqdB1q4rArZTxFL/fJZc4B/Vxp8efomMgIseW2ayQNPk4dFz8OSJVyXoindvUkYTGigQSVygzeV3RMKRhAsjcK6DIjkDq9nmWqryp6LBMNn71LjxSPVvSEWUBYY=;3csVUBOO+SosVih2egCLCA=="
 ---

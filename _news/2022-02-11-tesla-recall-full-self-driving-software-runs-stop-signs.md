@@ -2,26 +2,26 @@
 category: news
 title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
 excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-publishedDateTime: 2022-02-11T07:22:00Z
-originalUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-webUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+publishedDateTime: 2022-02-11T13:57:00Z
+originalUrl: "https://www.cbs8.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+webUrl: "https://www.cbs8.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: 10TV.com
-  domain: 10tv.com
+  name: CBS News 8
+  domain: cbs8.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.tegna-media.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+  - url: "https://media.cbs8.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -197,6 +197,6 @@ related:
         height: 382
         isCached: true
 
-secured: "J57ZaGOAeG0NJzWZjVOCFXa6TjkTRZytkhB8a4z86I6KPvgAgVm8TqaiLYPVNZBZh5dwyFK1VEtGSawitSrj5q7yVzE7yU/V2/CGsbPA1c+JjmEToOoNJRejfqZofIgat3Fxmz/lnrnUo9J9R/57uhlvIUoxO1RZG2f03+TD3ipSFfU4WWlGAkM9QfFPpFFJnQwOezkDEX0mrx77MYUV4XSMdNddzy548omantE+MVDzO5Yw00iiDgHYmyhobg4u32iim18iZqcEt/ikIxYeA28QRa42rB0K1iP6RWNfA5GSvpZpR9Efr4Y1GRuLn7dkZ0L6aQwp9Hv343y/TEi9uiEgveZW1B0O4a96EkPwJFOmasP2eJ4C82XX4Qsy2w6PqpkSZIYM0HO/mn8s8u4y3TRKerqdMjlBedbb4JNeio0n3y0p5v81wzmmZQC5NrK4ovdo741rryg8cuipv4Sn6QWbDy2VZrKMsb08U2/BEQIjISbuoYsVKxQE6n4YZM+r3jAvqQpFnGfNv34hIUBwbQ==;KZmT4Y7uxHttrwoNzQKhbw=="
+secured: "ct1yN9o3w1aUWFDbI1Zypw24yIMQozJpueHd6+wHpGgTnum/Xr92eUSdtM9R8XJKMnmM/vDFy6mWqKgYrqdY8bhUk4tnIk6uHR0Jnsl1ozoBJLZfayBwkzqrOPv+FNPiuvJJblo1V1O9pUsk6QdPHPtexSpwgjXcnU8BOsf0FS/H5esXPzV9YDouUZ5vZFDFTX2RPYBi84x2ZyoYOPDn+oeQ1YzAU4LJOypAfn95IprR7/rjmAXjYYKVAio6C5hCrA13GjyGFZthTAKrhuvhinvvRkTsc0V6/edw0xE97JmyKx71rVYEkmVZS3aWQuPNQ3v1Gd0ozs4Km5E/Ern/y8pFM3fR8rUE5IpOc43+y/k=;qE2B8jGwwvkOhkhb1REucQ=="
 ---
 

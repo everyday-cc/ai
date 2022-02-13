@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-02-turkey-taps-artificial-intelligence-in-its-fight-against-wildfires.md",
+      "title": "Turkey taps artificial intelligence in its fight against wildfires",
+      "excerpt": "The Ministry of Agriculture and Forestry plans to implement artificial intelligence (AI) technology to tackle forest fires, which destroyed large swaths",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "originalUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/02/thumbs/800x531/179522.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "publishedDateTime": "2022-02-02T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-deepmind-says-its-new-ai-coding-engine-is-as-good-as-an-average-human-programmer.md",
       "title": "DeepMind says its new AI coding engine is as good as an average human programmer",
       "excerpt": "DeepMind has created an AI system named AlphaCode that it says “writes computer programs at a competitive level.” The Alphabet subsidiary tested its system against coding challenges used in ...",
@@ -1113,49 +1155,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-ai-collaboration-to-create-personalized-healthcare.md",
-      "title": "AI Collaboration to Create Personalized Healthcare",
-      "excerpt": "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
-      "originalUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
-      "publishedDateTime": "2022-02-01T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

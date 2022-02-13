@@ -22,22 +22,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "NHS in England set to trial a new approach for ethical adoption of AI in healthcare"
-    excerpt: "Biases in artificial intelligence will aim to be eradicated in a world first as the NHS in England trials a new approach to the ethical adoption of AI in healthcare. Algorithmic Impact Assessment (AIA), designed by the Ada Lovelace Institute, will be ..."
-    publishedDateTime: 2022-02-08T16:40:00Z
-    webUrl: "https://www.news-medical.net/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 85
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "NHS to Test AI in Healthcare in World's First Pilot"
     excerpt: "Brhmie Balaram, head of AI Research & Ethics at the NHS AI Lab, said: \"Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing ..."
     publishedDateTime: 2022-02-11T15:56:00Z
