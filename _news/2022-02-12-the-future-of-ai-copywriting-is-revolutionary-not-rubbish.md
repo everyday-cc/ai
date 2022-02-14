@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence is Powering the Future of Retail."
+    excerpt: "One such way is to increase the use of technology - Brands and retailers have found that artificial intelligence solutions can entice consumers back to physical stores. A few years back we heard that “Artificial intelligence is the next big thing ..."
+    publishedDateTime: 2022-02-14T21:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-powering-future-retail-braiyt-ai"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFgITh6-thMgg/article-cover_image-shrink_600_2000/0/1644873366050?e=1650499200&v=beta&t=dKQNR67JWdQ-zE_nLa8kff2ePaG3OTZe7XmNb0e4xkw"
+        width: 825
+        height: 433
+        isCached: true
   - title: "AI copywriting’s future is transformative, not garbage"
     excerpt: "As a starting point, AI does not have an understanding of what “meaning” is; rather, it uses natural language processing principles to find categories, sequences and order in the data. Concerning AI enslaving humanity in 2022 is perhaps a little far ..."
     publishedDateTime: 2022-02-12T18:20:00Z

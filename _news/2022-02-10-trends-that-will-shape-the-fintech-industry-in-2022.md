@@ -77,20 +77,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
-    excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
-    publishedDateTime: 2022-02-10T05:44:00Z
-    webUrl: "https://www.irishtimes.com/sponsored/innovation-partner-profiles/helping-the-fintech-corridor-power-ahead-with-joined-up-thinking-1.4796986"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.4796985.1644354789!/image/image.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "11/02 – Weekly Fintech Recap"
     excerpt: "Refinitiv AI Alerts seeks to provide personalized ... has partnered with Visa as the London-based fintech prepares to roll out its inclusive Global Currency Account and debit cards across the Asia Pacific. Founded in 2019, Sokin is committed to supporting ..."
     publishedDateTime: 2022-02-11T14:22:00Z
@@ -132,6 +118,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
         width: 1724
         height: 1080
+        isCached: true
+  - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
+    excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
+    publishedDateTime: 2022-02-14T20:40:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=616070"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 23
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "gMRIaElqusXVF2enjMaAPS4LQXyXlN0ibJoD5A4SiltYMpNPPMrp0wjMoOhoQzi3RE6tC7rE0cfHvZpfUhfPOR5dEiI00AQ9nxhodrWY6zMF1m/tKtkrjs85qbpqumL6XoHYkXsMLjbd6n9RoY7ZaUK2Ov3vBevOtF7hb+aqtHiNOuGlnsnXTCLGxgHOu8Ypp0DlAyHaFykV+gIXVyiz/bIZabUyuhNnAfQZnhIAjKNbDxQPuczrs2wX01NmabnYxKqsa2HHyZhDkKA7F211Sy50aJogGcg2a0v2tM+1qIFsWl0aLf5RAaKwQTO8PfU/kd1t0JU5ursjP41X2W2VNaOt1Golyn8TacCALFsxyxM=;w46GRfRR/hvbUMpmQ7Fv6w=="

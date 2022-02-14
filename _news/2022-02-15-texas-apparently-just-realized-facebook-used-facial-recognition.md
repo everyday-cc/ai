@@ -208,6 +208,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Texas sues Meta over Facebook's past facial recognition practices"
+    excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
+    publishedDateTime: 2022-02-14T21:24:00Z
+    webUrl: "https://appleinsider.com/articles/22/02/14/texas-sues-meta-over-facebooks-past-facial-recognition-practices"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 39
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/46988-91556-45331-88209-Zuckerberg-Meta-xl-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z

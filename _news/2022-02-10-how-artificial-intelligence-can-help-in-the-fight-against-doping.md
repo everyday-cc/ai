@@ -38,6 +38,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Supply Chain Disruption Isn’t Going Away. But AI Can Help."
+    excerpt: "The result: empty shelves in stores and long waits for a wide range of products, from computer chips to cars. Moving forward ... powered by artificial intelligence (AI) to help with these challenges. While these solutions won’t solve all of the ..."
+    publishedDateTime: 2022-02-14T21:57:00Z
+    webUrl: "https://www.dcvelocity.com/blogs/2-one-off-sound-off/post/53826-supply-chain-disruption-isnt-going-away-but-ai-can-help"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/f3337937-2ceb-4ae3-b198-1c128ce39503.png?crop=true&height=430&t=1644443448&width=640"
+        width: 600
+        height: 339
+        isCached: true
 
 secured: "5fyrbA68zF03aD9D+8TYRWWeJM9p9jlD/RKoPQeQfJGIo593emyzlfQmFIUdNPt+gZMnWEp2VtSkt1jsFUHmkTMXbhGr/8MIQe2uPbaJ4qBRDoqdzXuEX1JifA/s1RPoniYKAA9Gt9JMX8hzUGvp3f6LXTCkanodob0gBDIxH0rzOuqqHwFrAk669WcI7h+cI9lsuxDspJdd81TM5xhdWL2ugehgwIr+3uL9E7Stxv0YnRa2Up3XzdsIQmPOvP89FOPtk+ZAn2qlg6l7L53ovZ9XDKJ2Lgo76miS3oDgMGe1rESjZYZLKhlT9pT/qs6K6hLgtfzwbnYC/hG1l5kgegrgpaZcyl00y1BSmzI8aKg=;WawZGZpeMiZP8qQTdrGxxA=="
 ---

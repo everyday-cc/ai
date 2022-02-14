@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
-    excerpt: "Sony Group Corp. says it has trained a champion capable of beating the world’s best racers at Gran Turismo -- only the player is an artificial intelligence agent."
-    publishedDateTime: 2022-02-10T05:52:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/sony-uses-1-000-playstations-to-train-gran-turismo-ai-champion"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibVis_kYj_9Y/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sony’s Racing AI Beat the World’s Best Gran Turismo Drivers"
     excerpt: "Now an AI created by Sony has overtaken humans in another popular and complex game: Gran Turismo. Besides being a feat in itself, the accomplishment could have real-world implications for training self-driving cars. For those unfamiliar, Gran Turismo is a ..."
     publishedDateTime: 2022-02-10T15:03:00Z

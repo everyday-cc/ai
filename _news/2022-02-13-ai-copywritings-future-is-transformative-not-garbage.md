@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "Artificial Intelligence is Powering the Future of Retail."
+    excerpt: "One such way is to increase the use of technology - Brands and retailers have found that artificial intelligence solutions can entice consumers back to physical stores. A few years back we heard that “Artificial intelligence is the next big thing ..."
+    publishedDateTime: 2022-02-14T21:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-powering-future-retail-braiyt-ai"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFgITh6-thMgg/article-cover_image-shrink_600_2000/0/1644873366050?e=1650499200&v=beta&t=dKQNR67JWdQ-zE_nLa8kff2ePaG3OTZe7XmNb0e4xkw"
+        width: 825
+        height: 433
+        isCached: true
 
 secured: "spax90Yf590a2lMc5qD6qSIXwnSUUF0gaCyJZRNyxx5FjtoFVjYklOtDf0BWJkFQByDGunH5KJjPPSYNGoiRxrQtlztZ0bYEAdmyv3fNiokZTKVWKlgpvrQvDwRF5e0K2sM1xWIk0wxAqkUt8Dl1Rkq80zccLaFyuxPz8kJfsMcUuToFg3WieTMHV7r9TSxJ6X1/2gNbaPeVLsXf2EUdOuYD5x6l2HMjcCJIx9RtpZtMOGsduvjoR3CjnCywYWzVTHnfDSRHcJCjGh3mZTIWfIRUuccnt4EO1xT9fc1NJZzlgGSvAp5jvIPVYAiPw6hSJKmLhS2Fi3nqvGotGo/58sesG62JQpdL2VIe552R3Y1OJDWA8ZHIp2Yir3+XFxDkPpP5tyHx93YbYfQSok1y5c8oiR9PTW9DHHG8JjZQj3m2QyM00o1Mv8Hp6xCGDuFtdIuSf7IT4BtvVQCB7ZbYsyrTGB//43GiO8vxhdZkh1EisxmjWzt306toG+GIcISUGKzmPNcUKKAH5zMqJlVh3w==;5Vn3OsHzyYKohXWDty299A=="
 ---

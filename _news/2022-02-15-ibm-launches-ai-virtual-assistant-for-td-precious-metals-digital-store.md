@@ -41,15 +41,6 @@ related:
         width: 468
         height: 269
         isCached: true
-  - title: "Refinitiv Launches Market-Data Powered AI Assistant"
-    excerpt: "Refinitiv AI Alerts, powered by AI platform ModuleQ, automatically learns about users’ relationships from their Microsoft 365 interactions, keeps that information private for the user, and recommends suggested Refinitiv content based on upcoming meetings and frequent email conversations."
-    publishedDateTime: 2022-02-10T06:00:00Z
-    webUrl: "https://www.tradersmagazine.com/am/refinitiv-launches-market-data-powered-ai-assistant/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
   - title: "AI Race in Drug Discovery Intensifies as Insilico Medicine Brings AI-generated Molecule To First-in-human Trial"
     excerpt: "A Hong Kong-based company applying a state-of-the-art artificial intelligence (AI) platform for drug discovery, Insilico Medicine, recently announced the start of a first-in-human microdose trial of ISM001-055 — a potentially first-in-class small ..."
     publishedDateTime: 2022-02-10T19:46:00Z

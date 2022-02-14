@@ -19,32 +19,46 @@ topics:
   - AI
 
 related:
-  - title: "AI in Computer Vision Market Size, Competition Weakness and Thorough Analysis from 2019 to 2028"
-    excerpt: "An estimated 51.4% of the global population or 4 billion people was using internet by the end of 2019 – International Telecommunication Union (ITU"
-    publishedDateTime: 2022-02-10T05:52:00Z
-    webUrl: "https://menafn.com/1103668393/AI-in-Computer-Vision-Market-Size-Competition-Weakness-and-Thorough-Analysis-from-2019-to-2028"
+  - title: "UAE Face Recognition Market Size, Trends, and Growth Forecast, 2025"
+    excerpt: "(MENAFN- MarkNtel Advisors LLP ) MarkNtel Advisors recently conducted research that showed the UAE Face Recognition Market is expected to grow at considerable CAGR through 2025. The market ..."
+    publishedDateTime: 2022-02-14T11:49:00Z
+    webUrl: "https://menafn.com/1103692260/UAE-Face-Recognition-Market-Size-Trends-and-Growth-Forecast-2025"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 42
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?484751"
-        width: 379
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
+        width: 375
         height: 250
         isCached: true
-  - title: "AI in IoT Market : In-Depth Industry Analysis on Size, Cost Structure and Prominent Key Players Analysis"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 03:24 /Comserve / -- AI in IoT Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
-    publishedDateTime: 2022-02-14T10:52:00Z
-    webUrl: "https://menafn.com/1103691634/AI-in-IoT-Market-In-Depth-Industry-Analysis-on-Size-Cost-Structure-and-Prominent-Key-Players-Analysis"
+  - title: "AI Chipsets Market Growth Analysis, Outlook by Trends, Opportunities and Forecast"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 06:37 /Comserve / -- AI Chipsets Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
+    publishedDateTime: 2022-02-14T12:50:00Z
+    webUrl: "https://menafn.com/1103692353/AI-Chipsets-Market-Growth-Analysis-Outlook-by-Trends-Opportunities-and-Forecast"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 20
+    quality: 32
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?56654"
-        width: 395
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Cognitive Media Market : Business overview, Upcoming Trends and Top Company Analysis Forecast"
+    excerpt: "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ..."
+    publishedDateTime: 2022-02-11T11:52:00Z
+    webUrl: "https://menafn.com/1103679411/Cognitive-Media-Market-Business-overview-Upcoming-Trends-and-Top-Company-Analysis-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904840"
+        width: 375
         height: 250
         isCached: true
 

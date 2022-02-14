@@ -212,6 +212,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Texas sues Meta over Facebook's past facial recognition practices"
+    excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
+    publishedDateTime: 2022-02-14T21:24:00Z
+    webUrl: "https://appleinsider.com/articles/22/02/14/texas-sues-meta-over-facebooks-past-facial-recognition-practices"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 39
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/46988-91556-45331-88209-Zuckerberg-Meta-xl-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z
@@ -227,6 +241,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ZVEidH4yAeaIrPjJZ3o3x5BLfE+cyYBi2ohUq/2m1i74d8vj/qINkcgmofvjOSnuLTPeQx49Vtc4eKF+UN7XpHVL1SmNj4MJb7IFGeKPBQvHHIYiCmmS6DJ6GlBEkVFN0jn02YEFeKOhtzRTe7BAbl9dKy9Sz7iGDB4xLUNQBpZVWa6c4QPPV89OmvzUqWcNIW5bnsyO7C0PzMrCx8uddgcW6lwdHcYZN2kq5Un3Ifwbqwi/yLAHZ84+a+jukzrga/JR1XsTZKxl4VYKtflT9kWl6FPBtd8+YaGHUSuLc80bztmSDXB3aRF00K1Dlbt8oYq8tDtlU+SIvd1USXUXD2FYym4+Mzmu14c5vgejp9E=;XTGMJ2h56wYcNWN8WzcVgQ=="
+secured: "A/Kgh8UQnlSU1kay0sflVOUnkBW6OkmvnP2f9uLt/Esa3QcxpZjyPyojQougP3BLnk9TN9RZ0F216IZI5JnrMNYPm+aH0ZH9PuUrux0aG3bzgHtVwm8XKUy+sq6xAqV/bZ0C1j9xvfUh32elYMBrtAHzmdgGVsXmc6mlyn1sYO7yeIgM8L8srQ2EKj4oCgw/ZW4p2MwbOP0TtzSu/5IMeNa78HhtSCOvv19WQc9L8YYGtwur5K5Aazq+iIksUH8LwYZ/jP4GQkhpAvPWTPcNVjVI5zqIzrSzngy523DrtQdkiX2M7IT7ay1cGE2wY5UL5utYd1bhRSy41uOdGcNj2vpAKIEH06cCnbbiCnaBgIFL0VNcfUahR975uxqwKjdBVqKbkwfZ6QGmKcx+NIFbIWPZ7lzosc80WQQIyPMTHk2IhywxTVmVW1ew4ajaP72OTQw8tXpht8PDz13BpzKcXVVoYpH0HjPbygJkLs+cgSUSObbxX/JdPVReQM5NHyGN/kAwCrxzur8NOC060+CyFA==;rt6R+88UVLBUir/1GHX5Vw=="
 ---
 

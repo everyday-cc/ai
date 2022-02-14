@@ -226,6 +226,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Texas sues Meta over Facebook's past facial recognition practices"
+    excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
+    publishedDateTime: 2022-02-14T21:24:00Z
+    webUrl: "https://appleinsider.com/articles/22/02/14/texas-sues-meta-over-facebooks-past-facial-recognition-practices"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 39
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/46988-91556-45331-88209-Zuckerberg-Meta-xl-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xNgy3KhDLBlX6d1JDlF4kBzxv3VGqdr3ShuFFrlUpP7hwzJn+oCFAyWKBNpYisWV3mxnx/wniLqbA/hdEJI+fBCTNTHtYHOabWMdDUAzN/NHuUISGhutgUIz5CFgbjJ2xxObFBuRIgaomY4iWDEikzUI6+uGxQyrwxQD1lOQXIWYz6kFpBGvwhWxUQhN/SO7T0KtXUPhP6aRKBmdcL854Y61W0ovJJelrww6yusFIoaNcb4velC+apOrjGGBoeiACgDvOBzCDI0oUhpxWBMODH+qm0GyxGR/SIQEtqDa0dcrcTdZFT9KLC1JcDKzqp3L3v+QwhKfhQxdUTAFvjfpyb4UFDB82ggqkKSqpjGxAnJBQ+L3JXIoLaSwaHLTD3VP5bKpCWGPgdgN5lxWlki/0O5Ws19nElJsHHEepGOH++lcwRiDsRPFRxCiDPW8uMuF9gsE0m4eGD0wonwb809okVuBxmK026GBBNwUmq0BGpyYFxYD6owvJ2zGD3OCZGhpiSxBUiAJXLYAQ0m+EIwdHg==;cUauxGmX+mrdDDILrOLg4g=="
 ---

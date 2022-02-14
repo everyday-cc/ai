@@ -70,6 +70,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Manufacturing AI Is about Good Data, Not Big Data"
+    excerpt: "For manufacturers who’ve yet to implement AI, here are four steps to getting started with a data-centric approach: 1. Involve the subject-matter expert on day one. Today, many manufacturers start with an AI team of IT engineers who train AI models ..."
+    publishedDateTime: 2022-02-14T22:41:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21216847/manufacturing-ai-is-about-good-data-not-big-data"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/02/manufacturing_ai.620ad6734f18a.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Lt45Et19s5OUz/RQJB6EQq7GnBPBOM3avNLIoZI096Lgvt2pwi4bWHUUFqx7726ea8Mjq3TSkCq+VHjZY2UENSjVlOnshDKMAyF/1ChQOtskjGi6HQRl4khrWYR87tJi44fgIdkFXLqgEyEHXrPZxIhAHJ+P6MoAYi4qFrKRb+yPTlbZaf0XkOdUYrIJK+Of4SkHQX94/ZfSUAAV/GTikRQkO9/3BQjloNLT72CR1VeDdtTkupUqBdY3U6Tv+KNauDPfvBbBdBmysaS6ZnyD51zO2GKFPN5GlqpNFY93/QKsELSklVR+tUXZpI1eayNyOD9jyTfLgXAFnTdY5VJjLd8unWoRdRAqeErGtiibmbD4EzcrbkfnaXAhQDpJEszl/mVYvP3Ba0IcrKvv4zs6ve3lLksuUSjHLe17VwDOcnFH8Ny29OTpqcwnmNgFLSJWLasPptBiMB462cN/uh6VFDuCBDMFnaPTWbiIXXYHhUqY3TeDnUBBptA+Ta3TZ2gkC/ZERxbpE8KPeC5U6wUkDA==;A2ta+4u3uQTVYicpjeqDbQ=="
 ---

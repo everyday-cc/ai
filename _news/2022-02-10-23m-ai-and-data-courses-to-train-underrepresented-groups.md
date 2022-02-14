@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2022/02/10/23m-ai-and-data-courses-t
 webUrl: "https://bdaily.co.uk/articles/2022/02/10/23m-ai-and-data-courses-to-train-underrepresented-groups"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 940
     height: 430
     isCached: true
-
-related:
-  - title: "Government injects £23m to boost UK skills and diversity in AI jobs"
-    excerpt: "The government has pumped £23m into Artificial Intelligence (AI) and data conversion courses for young and underrepresented groups, as the UK aims to be the industry leader. There will be up to two thousand scholarships for masters AI conversion courses ..."
-    publishedDateTime: 2022-02-10T06:46:00Z
-    webUrl: "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all"
-    ampWebUrl: "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 57
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/09/679721416.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Government pumps £23 million into AI re-skilling"
-    excerpt: "The move will create 2,000 scholarships in AI and data science across England. Labour shortages are currently holding multiple industries back as they try to recover from a turbulent last two years. Chief among these struggling sectors seems to be the IT ..."
-    publishedDateTime: 2022-02-14T04:12:00Z
-    webUrl: "https://www.consultancy.uk/news/30414/government-pumps-23-million-into-ai-re-skilling"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/30414/government-pumps-23-million-into-ai-re-skilling"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/30414/government-pumps-23-million-into-ai-re-skilling"
-    type: article
-    provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 57
-    images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2022-02-06-164044375-How-Search-AI-can-help-retailers-stand-out-in-the-e-commerce-boom-spot.jpg"
-        width: 546
-        height: 312
-        isCached: true
-  - title: "UK allots GBP 23Mn to upskill students in AI"
-    excerpt: "The United Kingdom has asked companies to play their part by match-funding the AI scholarships for the conversion courses. The UK Government has launched a GBP 23 million fund to create 2,000 scholarships in AI and data science across the country."
-    publishedDateTime: 2022-02-14T12:14:00Z
-    webUrl: "https://analyticsindiamag.com/uk-allots-gbp-23mn-to-upskill-students-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/UK.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "97xMOsNw6JupqXKWmHJ04plb5bG/0IVA9OsnKx5yHcS6sPoq+CT+BBD6R84Xrb+/4Lwyw7CmALC9H7oJcXzS+XvGOIhn3Av0WJq89lge9LkMuiKYd5cNmMMiT7LxLdHy+MyFEB/lK9mMPRn4CvK2RE3smHUKkuL8YUSmNzEgehtePyFHE/amC5rOzk5XUzBFcvlHOzH8yiFxQ7utaBqu+sERIinMdc/N8sFA85pE3QLfcIB3MvJVUxBckkudLN90SguEHLweGWS2OP8UrxO3TwNSR9P/FQMi3eeCLJ6wLU6JO08h4eDgEudm9qGn0juv+VNGt4eKO8Xy+W42VTXn1P63WlFWiV0G1yHk5p8HvRI=;ZSWjSp0YcfKVhui6l8E37w=="
 ---

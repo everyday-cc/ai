@@ -212,6 +212,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Texas sues Meta over Facebook's past facial recognition practices"
+    excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
+    publishedDateTime: 2022-02-14T21:24:00Z
+    webUrl: "https://appleinsider.com/articles/22/02/14/texas-sues-meta-over-facebooks-past-facial-recognition-practices"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 39
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/46988-91556-45331-88209-Zuckerberg-Meta-xl-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z
@@ -227,6 +241,6 @@ related:
         height: 720
         isCached: true
 
-secured: "glBzIzRwNHq3j+SUye6KXJljBJHG+utUCnYrZtmmXAT5yS27EPe2KJoC+V6+1nRzgvWVqrOP2xs03QH07B7bug5QW3HNg36Rl84QGPEe6e8pHGOJPpjRwX27pIOlVzCbcpZv7BQKsCSPG3zfd7+/h+jUJ7UD5SvGsuu8C0y67g58C+eVltIlDjAm0Nihb9fbxggIsSwoPUCtGpGl3D/vfUbXv0jbRdL0T1MHAOeQyNr90ZqCKmymk7Y0R9iyqD0H8dPUviKvkX0ZGaLzHCYH8Zb9tdgnenhoAXgIbLY0VmCrp9L6HyK/9734mEmzyUv9Hu3F2bxmmS9njvI/b8Uay5wMUMuaSy1UKDYcxsfzMwc=;QlYpUMGqIXf2QN5KbnNfPw=="
+secured: "znKlhxc4XpOkaKp3XVQPMlnVi+icpC5MPhXxUQbaTvTnZUtnP2u3768itDPex5BT3WgMj3Lcoi5rhvDDvnHcPOOaygPFIjDWTQW3kNlgRQjPGGFYBV3SludZGKImMSZtk5Dwsl9aaGDAF3tZtVZym2zhuv82RipP4nwGY+gFSjXDlUn0Sjh0tFcC5vMdtGK3xMKGg7l3efkJ/8rIyaie13q4UyzJzJERdZaSI3XR7TEEzAyRGSpmRspyTvEDVe/f0UC6fXhirijMgQzpBmquRWNn+o+eL1Brd9ZrDuvRaDs9ChD2d2uCTM19IYUrldBf2OMV3NWN710ObvzU+C3ktBbJxZHtsZ6q0eWGdKLw29DFwiruMT8JPpEeBKeIiBOyMNULY8QLWPLuW9jbCil7Rj5d4taE8Yom/WRMmjW4QgmHahDEK2yhN2iApSidT/OoToG8eo93Xe4fhf89/RrY51vHYXlRGmSTMO+7cssbWH9L60y2UA4TB4Yv1FvAbA158nLXjC/LwfsPpyA4dt8usQ==;csAnZB7NpP3zamkurY5Llw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufact
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.designnews.com/sites/designnews.com/files/feature_42.jpg"
         width: 1540
         height: 800
+        isCached: true
+  - title: "Manufacturing AI Is about Good Data, Not Big Data"
+    excerpt: "For manufacturers who’ve yet to implement AI, here are four steps to getting started with a data-centric approach: 1. Involve the subject-matter expert on day one. Today, many manufacturers start with an AI team of IT engineers who train AI models ..."
+    publishedDateTime: 2022-02-14T22:41:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21216847/manufacturing-ai-is-about-good-data-not-big-data"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/02/manufacturing_ai.620ad6734f18a.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "opxHk9h+bdZzYtTlziIPIG85SXntxn8ekZ02Oz8B04j5QiSdLFDGkBvGQmYlcJr9QZ6UUaWozZDrgLQT3Gb5sSjAdI1mVMkAmUh7f3n2JHf0o3xA4O1GNDy1GvKlnda8/wZx4BCwzq/usTj629sq55TZOZ4xCpL94yIlVgWXPZvi7W5tjc560t+cPLzaN8kB/NOxcNQDnAEuZNEhhvkeCnuN7dmstOLwHh7Fl1A3429euv1IAjWeKkJ5mzLLa8jh5qYd8Cu2t2Ws+cwjh1LMXqlvsdKghd2GliB0WA+jcop4xhGVN1tG5OP2w6Dl+2g7eFe2unS2JhpinHt6ptI3enpw6jxR41FgOg616CmsZ+Q=;75Ap7Z7oLofcQrUVZ5kMrg=="

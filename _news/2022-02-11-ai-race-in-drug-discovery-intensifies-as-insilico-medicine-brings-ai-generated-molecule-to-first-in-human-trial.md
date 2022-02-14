@@ -58,15 +58,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Refinitiv Launches Market-Data Powered AI Assistant"
-    excerpt: "Refinitiv AI Alerts, powered by AI platform ModuleQ, automatically learns about users’ relationships from their Microsoft 365 interactions, keeps that information private for the user, and recommends suggested Refinitiv content based on upcoming meetings and frequent email conversations."
-    publishedDateTime: 2022-02-10T06:00:00Z
-    webUrl: "https://www.tradersmagazine.com/am/refinitiv-launches-market-data-powered-ai-assistant/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
 
 secured: "+CEAQwXSayO5EOIVfWKB6JPMXBLF9OEzFux18W0LcwImA+N/KiI3fTaJNMnBtyqdn4VgISuVODscWTOXZQCJ2e6YHP4LZr1L3WS1AO5VWT0+igr0CMW3Aajn9TRnBvwOC0XGZqvFngDpaN91EtiqH+zYwtSTPIfd+VujFR6ibTD6U6We3qoRd4a7LuV1xOiiwgfTz31sDr+/6G68WMkvK+htDe+cyXfmrjSObCN4Uacu9bJt6QJB0+KS34TBbrnQWfaf+3JKGt814NTeZoPmBmt8JCERaeG6cBj9vXi6XaozSIngb0SP8W90pWASHktY6SBX9hOPewcRCg6Kxhv2ozIJdGcbYDpLygXw7ghc/SqdcCwpY7CXSlScVwO/JszLr1jol+68ZebhRD3I7kkbO2ZdSqkO3ow7lPYRvtSbPaxfdZKekejQ/VRpbhOfjU1P4zGqxvpfvkEPQP+n688jibmRwDDhXjbGioB+jPY/ydB3FveFLGmUIu4U20w7FFZgVyDA7+f7/CNz2N0wqsqzUg==;jnxcOYIO4sShYIzRW7UsLQ=="
 ---
