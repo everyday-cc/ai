@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canadian AI-Based Company SenseNet Launches IoT Solution to Detect and Combat Wildfires"
-    excerpt: "SenseNet Inc. has announced the launch of its newest technology which is designed to detect wildfires before they start In 2021, the world witnessed ... leading to fewer people wanting them deployed. Canadian AI-based Company SenseNet has developed an ..."
-    publishedDateTime: 2022-02-09T16:11:00Z
-    webUrl: "https://www.digitaljournal.com/pr/canadian-ai-based-company-sensenet-launches-iot-solution-to-detect-and-combat-wildfires"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.abnewswire.com/uploads/1644369147.png"
-        width: 1192
-        height: 1594
-        isCached: true
   - title: "Wallaroo Labs Secures $25 Million in Funding Round to continue growing in the machine learning market"
     excerpt: "Wallaroo Labs, Inc., announced it has closed $25 million in a Series A funding round, enabling the company to expand product, sales, and marketing, and to release a free community edition of its machine learning platform. The funding round was led by ..."
     publishedDateTime: 2022-02-11T18:51:00Z

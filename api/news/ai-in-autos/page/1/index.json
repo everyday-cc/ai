@@ -1412,6 +1412,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-02-rise-of-the-robots-how-restaurants-can-automate-without-losing-the-human-touch.md",
+      "title": "Rise of the robots: How restaurants can automate without losing the human touch",
+      "excerpt": "Robots are flipping burgers and frying chicken wings, and driverless bots and drones are delivering ... and that automation tends to have artificial intelligence as its basis. According to one recent report, 50% of U.S. restaurant operators are planning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.restaurantdive.com/news/rise-of-the-robots-how-restaurants-can-automate-without-losing-the-human-t/617703/",
+      "originalUrl": "https://www.restaurantdive.com/news/rise-of-the-robots-how-restaurants-can-automate-without-losing-the-human-t/617703/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.restaurantdive.com/user_media/cache/29/e0/29e08af696a4d54e5092f52ab79bf082.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "restaurantdive",
+        "domain": "restaurantdive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature.md",
       "title": "Tesla to recall nearly 54K cars which could threaten future of Full Self Driving feature",
       "excerpt": "Tesla will have to recall close to 54,000 of its electric vehicles due to a feature called Rolling Stop which comes with the Full Self Driving premium package. The FSD is still in the Beta version.",
@@ -1451,49 +1494,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-nsas-cybersecurity-directorate-looks-to-scale-up-this-year.md",
-      "title": "NSA’s cybersecurity directorate looks to scale up this year",
-      "excerpt": "NSA will be digging deeper under the hood to understand the security vulnerabilities across the entire lifecycle for applying machine learning or artificial intelligence into a system — such as a driverless vehicle — Ziring said, citing an example of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/cyber/2022/02/01/nsas-cybersecurity-directorate-looks-to-scale-up-this-year/",
-      "originalUrl": "https://www.c4isrnet.com/cyber/2022/02/01/nsas-cybersecurity-directorate-looks-to-scale-up-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/pQ5Rd8V5hGPV7iTsi4pJQ3bUWdA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/PVBSGFPEURG43OMLBEF4AGLDEY.jpg",
-          "width": 1024,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

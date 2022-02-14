@@ -25,31 +25,6 @@ images:
     height: 550
     isCached: true
 
-related:
-  - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
-    excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."
-    publishedDateTime: 2022-02-10T20:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2022/02/jauhar-vipra-frt-constitutional-challenges-law-enforcement/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 19
-    images:
-      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2022/01/facial_recognition_1643222271.png"
-        width: 1280
-        height: 1066
-        isCached: true
-  - title: "Israel's Leading AI Week 2022 Showcases Global Industry Trailblazers and Exciting Future in Artificial Intelligence"
-    excerpt: "This sentiment was mirrored by Professor Eviatar Matania, Co-Head of Israel's AI Initiative, who said, \"The desire in generating a holistic program for Israel in artificial intelligence was because of the understanding that AI…is going to dominate the ..."
-    publishedDateTime: 2022-02-09T15:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/israels-leading-ai-week-2022-showcases-global-industry-trailblazers-and-exciting-future-in-artificial-intelligence/article_6efddb75-6894-56e9-8670-e40bc8e6bf64.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
-
 secured: "FqrdB3pxtCuQPOoiCOl/Sy0TUMSFI/G1M2Hp3dBCiAkd6kDCHlQHcD/eJ53hDDmL24jbXoTAU3eHPs2d5uvkUJvFNu6hr8IKRTwCBqIucNkbzFRdPx/zINx85mq1NujItPdUWcaAyi2+HstYvAQ2T50m8n1hpLgdeEyaumnJ56vBjabL9oqYQ3nMin4Tcu9H8sdwbtWvs8aTf6jr+PZHsaKhBGFWKfLXfF2muJVRVa2dFCRkJC44UxOZXU3/7mR4AnH62qXYfDoYjHDUnfm5im6qY4toA/BZi4xfCyEFwTpo+PM6RwtO6uQkFSJB2d8chHT9dGptwHdm2WVf8qZfXO4Fq1hNfS6BSc+jon+ZeIz/iJhqAQpKOVCvuKaVUFDjYLvI4u4AWSF8U/7cWYW1YFgyTL/rKfw6om4APHVrpH3wYIYaI8MjyMUwFkx1j73/GSoQkyV+BwjG7MPnOjo+BlDTVkcnUy8ZrrQvDPlSmaFm2Xo1FI+n8ipliRV5NWhrAq3maqYGVtL0OGCTxn5lNg==;I2lCY/eg1Yh4Hl+oa7lB0g=="
 ---
 

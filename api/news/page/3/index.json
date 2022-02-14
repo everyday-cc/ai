@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-10-micropsi-raises-34m-to-retrain-industrial-robots-using-human-demonstrations.md",
+      "title": "Micropsi raises $34M to retrain industrial robots using human demonstrations",
+      "excerpt": "“We and everybody around us — that’s us, who provide the AI, but also the makers of robots ... “Most customers will start with a single system and then add more as they validate its ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1316352689-e1635532855453.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "publishedDateTime": "2022-02-10T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify.md",
+      "title": "On AI Ethics: Wendy Foster, Director Of Engineering And Data Science At Shopify",
+      "excerpt": "Your academic background spans both the humanities and technical disciplines; how does that inform your perspective as an executive and thought leader on AI ethics? Foster: I actually think about this a lot, unpacking it to see what I can mine for my teams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62042ef5da6fdebdbc4354fc/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "publishedDateTime": "2022-02-10T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-who-its-time-to-eliminate-ageism-in-artificial-intelligence.md",
       "title": "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence",
       "excerpt": "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ...",
@@ -579,6 +683,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-10-idme-to-end-facial-recognition-requirement-for-government-agencies.md",
+      "title": "ID.me to end facial recognition requirement for government agencies",
+      "excerpt": "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "publishedDateTime": "2022-02-09T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-the-best-speech-to-text-software-for-2022.md",
       "title": "The best speech-to-text software for 2022",
       "excerpt": "... is a dedicated mobile speech-to-text app that delivers a high degree of accuracy thanks to its industry-leading speech recognition software that can adapt to your own speech patterns. In other words, Dragon Anywhere can actually learn how you speak ...",
@@ -818,6 +965,100 @@
       ]
     },
     {
+      "path": "_news/2022-02-10-sony-ais-first-project-can-drive-circles-around-you.md",
+      "title": "Sony AI's First Project Can Drive Circles Around You",
+      "excerpt": "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "originalUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3938443-granturismo73.png",
+          "width": 1918,
+          "height": 1073,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "publishedDateTime": "2022-02-09T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-the-campaign-against-irs-use-of-facial-recognition-is-a-model-for-digital-activism.md",
+      "title": "The campaign against IRS use of facial recognition is a model for digital activism",
+      "excerpt": "Likes Werner Herzog films and Arsenal FC. Digital activists can celebrate a memorable victory after the IRS ditched a controversial facial recognition system. The agency had planned to use third ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work",
+      "originalUrl": "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FUntitled-design-3.jpg&signature=42e3c8ee5d842e1747b4a6479bf4aeb1",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-navrina-singh-founded-credo-ai-to-align-ai-with-human-values.md",
       "title": "Navrina Singh Founded Credo AI To Align AI With Human Values",
       "excerpt": "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ...",
@@ -826,7 +1067,7 @@
       "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -972,247 +1213,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-lawmakers-warn-clearview-ai-could-end-public-anonymity-if-feds-dont-ditch-it.md",
-      "title": "Lawmakers Warn Clearview AI Could End Public Anonymity if Feds Don't Ditch It",
-      "excerpt": "or simply appear in public without being identified,” the lawmakers wrote. Clearview AI’s partnerships with government agencies are of particular concern, the authors argued, because a public ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/lawmakers-warn-clearview-ai-could-end-public-anonymity-if-feds-dont-ditch-it/ar-AATEKdn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1d0d9a38a8a76273eea71dddc6c24b0a.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp",
-      "publishedDateTime": "2022-02-09T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
-        "domain": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support.md",
-      "title": "Dynatrace updates software intelligence platform with serverless architecture support",
-      "excerpt": "The company explained that its platform’s broad observability and advanced AIops capabilities are being extended to all major serverless architectures including Microsoft Azure Functions ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/",
-      "originalUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all",
-          "width": 799,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/",
-      "publishedDateTime": "2022-02-09T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sonys-ai-drives-a-race-car-like-a-champ.md",
-      "title": "Sony's AI Drives a Race Car Like a Champ",
-      "excerpt": "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
-      "originalUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp",
-      "publishedDateTime": "2022-02-09T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-irs-will-transition-away-from-facial-recognition-after-wave-of-criticism.md",
-      "title": "IRS will transition away from facial recognition after wave of criticism",
-      "excerpt": "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "originalUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg",
-          "width": 3800,
-          "height": 2533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "publishedDateTime": "2022-02-09T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ibm-launches-watson-backed-virtual-assistant-for-td-securities.md",
-      "title": "IBM launches Watson-backed virtual assistant for TD Securities",
-      "excerpt": "IBM unveiled a new AI-based virtual assistant powered by IBM Watson Assistant that is designed to help customers answer crucial questions. The first company to take advantage of the tool is TD Securities, which will use the virtual agent system for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "publishedDateTime": "2022-02-09T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

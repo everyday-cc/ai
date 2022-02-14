@@ -30,21 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Sony's AI Drives a Race Car Like a Champ"
-    excerpt: "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more."
-    publishedDateTime: 2022-02-09T16:47:00Z
-    webUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/"
-    ampWebUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp"
+  - title: "Sony AI defeats human racers in Gran Turismo PlayStation game"
+    excerpt: "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors ..."
+    publishedDateTime: 2022-02-09T20:41:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 189
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg"
-        width: 2400
-        height: 1350
+      - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Sony develops Gran Turismo AI agent that can beat top game players"
+    excerpt: "She continues to expand her repertoire as a tech journalist with ZDNet. Sony AI, together with Polyphony Digital (PDI) and Sony Interactive Entertainment (SIE), have jointly developed Gran Turismo (GT) Sophy, an AI-based agent trained to bring a realistic ..."
+    publishedDateTime: 2022-02-10T17:57:00Z
+    webUrl: "https://www.zdnet.com/article/sony-develops-gran-turismo-ai-agent-that-can-beat-top-game-players/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/sony-develops-gran-turismo-ai-agent-that-can-beat-top-game-players/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-develops-gran-turismo-ai-agent-that-can-beat-top-game-players/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/41efcde271a966a96e2a42a4b58a6252d6942cdb/2022/02/10/bda73196-ea07-4c81-92ae-ffbbad5d918e/sophy-web-004.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Sony created a Gran Turismo AI that demolishes the world's best human drivers"
     excerpt: "As is common in AI, Sony trained its versions of Sophy GT using fast graphics chips. To run the simulations, it used computers with conventional processors. The next in the venerable series, Gran Turismo 7, debuts on March 4."
@@ -62,21 +78,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sony AI's First Project Can Drive Circles Around You"
-    excerpt: "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ..."
-    publishedDateTime: 2022-02-09T18:54:00Z
-    webUrl: "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/"
+  - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
+    excerpt: "Sony Group Corp. says it has trained a champion capable of beating the world’s best racers at Gran Turismo -- only the player is an artificial intelligence agent."
+    publishedDateTime: 2022-02-10T05:52:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/sony-uses-1-000-playstations-to-train-gran-turismo-ai-champion"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 57
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.gamespot.com/a/uploads/original/1640/16407182/3938443-granturismo73.png"
-        width: 1918
-        height: 1073
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibVis_kYj_9Y/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Sony’s Racing AI Beat the World’s Best Gran Turismo Drivers"
     excerpt: "Now an AI created by Sony has overtaken humans in another popular and complex game: Gran Turismo. Besides being a feat in itself, the accomplishment could have real-world implications for training self-driving cars. For those unfamiliar, Gran Turismo is a ..."
@@ -94,6 +108,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "AI Outraces Human Champs at the Video Game Gran Turismo"
+    excerpt: "Credit: Jack Thomas/Gran Turismo via Getty Images To teach their program the ropes, the Sony AI researchers used a technique called deep reinforcement learning. They rewarded the AI for certain behaviors, such as staying on the track, remaining in control ..."
+    publishedDateTime: 2022-02-11T20:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-outraces-human-champs-at-the-video-game-gran-turismo/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-outraces-human-champs-at-the-video-game-gran-turismo/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-outraces-human-champs-at-the-video-game-gran-turismo/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/08724109-83CE-422D-83CF16BE487AB2EB.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Sony AI and Polyphonic Unveil Gran Turismo Sophy"
     excerpt: "Christian Gerdes. In a blog post made on Sony AI’s blog, the team described the many challenges in making Sophy a reality. To start, the AI had to learn Gran Turismo‘s physics engine–a ..."
     publishedDateTime: 2022-02-09T18:34:00Z
@@ -107,20 +137,6 @@ related:
       - url: "https://gameranx.com/wp-content/uploads/2021/11/gameranx-icon.png"
         width: 500
         height: 499
-        isCached: true
-  - title: "Sony AI Announces Superhuman AI Agent Called Gran Turismo Sophy - News"
-    excerpt: "Sony AI, Polyphony Digital, and Sony Interactive Entertainment have announced a the \"first superhuman AI agent\" called Gran Turismo Sophy. The AI was designed to \"outrace the world’s best drivers of the highly realistic PlayStation 4 racing simulation ..."
-    publishedDateTime: 2022-02-09T16:36:00Z
-    webUrl: "https://www.vgchartz.com/article/452520/sony-ai-announces-superhuman-ai-agent-called-gran-turismo-sophy/"
-    type: article
-    provider:
-      name: VG Chartz
-      domain: vgchartz.com
-    quality: 37
-    images:
-      - url: "https://www.vgchartz.com/articles_media/images/bloomberg-new-assassins-creed-to-help-fill-ubisofts-schedule-beyond-good-923182_featured.jpg"
-        width: 600
-        height: 250
         isCached: true
   - title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
     excerpt: "On the other hand, now that the proof-of-concept is here, you never know where this kind of AI tech may start popping up. Check out our Gran Turismo 7 preview to see how else it changes the racing game. I got a BA in journalism from Central Michigan ..."
@@ -136,48 +152,29 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sony Announces Gran Turismo Sophy, a New Artificial Intelligence"
-    excerpt: "Sony has announced Gran Turismo Sophy, an artificial intelligence built in collaboration between Sony AI and Polyphony Digital. Revealed as part of the Race Together Media Event, Sony claims that the new artificial intelligence, which has been trained ..."
-    publishedDateTime: 2022-02-09T16:22:00Z
-    webUrl: "https://www.ign.com/articles/gran-turismo-sophy-sony-ai"
+  - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
+    excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
+    publishedDateTime: 2022-02-10T08:51:00Z
+    webUrl: "https://analyticsindiamag.com/the-first-ai-agent-to-beat-the-worlds-best-drivers-in-gran-turismo/"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 37
     images:
-      - url: "https://assets-prd.ignimgs.com/2022/02/09/gt-sophy-1644425611544.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
+        width: 2400
+        height: 1350
         isCached: true
-  - title: "Sony, Polyphony Digital Introduce GT Sophy AI"
-    excerpt: "A new breakthrough in artificial intelligence has been revealed from both Sony AI and Polyphony Digital. The AI is called Gran Turismo Sophy, or GT Sophy, as this AI has learned the tricks of the ..."
-    publishedDateTime: 2022-02-09T23:14:00Z
-    webUrl: "https://hardcoregamer.com/news/sony-polyphony-digital-introduce-sophy-ai/418530/"
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
+    publishedDateTime: 2022-02-12T01:25:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
     type: article
     provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 37
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2021/02/Gran-Turismo-7-Header.jpg"
-        width: 698
-        height: 289
-        isCached: true
-  - title: "Sony built an AI that can beat you at video games, with honor"
-    excerpt: "First they came for chess, now they come for video games. In the 21st century, a legion of AI competitors could very well dominate every board, screen, and console played by humans. Famous machines like Deep Blue and Alpha Go have already conquered some of ..."
-    publishedDateTime: 2022-02-11T13:25:00Z
-    webUrl: "https://www.fastcompany.com/90720719/sony-built-an-ai-that-can-beat-you-at-video-games-with-honor"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-First-they-came-for-chess-now-they-come-for-video-games-This-AI-will-dust-you.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Health News Florida
+      domain: usf.edu
+    quality: 17
 
 secured: "IwiwKECxIVKQcvf3ybmbNB5HJUDvBnyIYwYSFJWnyFWHYA/saOgxf4JJljguAUk5f2yBmphLhtyxSRdD9BT34KXS6av5HLtm4RM8C4ayLIaFyp6OCgWYlaSCMZvywxbzQm/s5mKRozkpHCm2Q2bATEQI3DwrmdtLLYPDVaEy4QniRWh6/oQgEnFx/m5BYcerLJrQQ1FUoRC5gpW2DjUjvI4jg9OkyyqU9GfiG2gwBmcZNFmjE0XqiaVueCB5Du1NExa9XRgj2iFZivxjp1zEJfCvEIrM5tG0Nlx/0GnR1tGXHd6e72KB23V4tCtTYb27foeEMqlta6uIHEjQWfkAGX2bGaatP9dfDzoeZDWw6sgZAcXN7ow+IGfpupRKW7wpjwikAN3vNHB5xrQ5EW8Dx/uhi/PN6mVFTGVhHd+8Gxeg+svXEEDgtiuiqaBQSyPeKW5JkknG3f3T4xT3nFpvoeKNSKqjQ1dv49csY3VZcjJUl6IyJWPWEOtCjtz+BiCWNVNOPojwxZYWQamU8siH8A==;ZV4A5PU9ZPYrZSMGWzpdIA=="
 ---

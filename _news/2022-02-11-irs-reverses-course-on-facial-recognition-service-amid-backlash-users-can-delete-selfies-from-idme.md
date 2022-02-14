@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS will transition away from facial recognition after wave of criticism"
-    excerpt: "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ..."
-    publishedDateTime: 2022-02-09T16:39:00Z
-    webUrl: "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 88
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg"
-        width: 3800
-        height: 2533
-        isCached: true
   - title: "The campaign against IRS use of facial recognition is a model for digital activism"
     excerpt: "Likes Werner Herzog films and Arsenal FC. Digital activists can celebrate a memorable victory after the IRS ditched a controversial facial recognition system. The agency had planned to use third ..."
     publishedDateTime: 2022-02-09T18:24:00Z
@@ -56,33 +40,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FUntitled-design-3.jpg&signature=42e3c8ee5d842e1747b4a6479bf4aeb1"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Congress pressures more agencies to end use of facial recognition after ID.me debacle"
-    excerpt: "or voice. But all have their pros and cons relative to the balance of security and end-user convenience, he noted. \"Static Knowledge Based Answers (KBAs) can no longer be trusted as a means of identity verification and authentication. Facial recognition as ..."
-    publishedDateTime: 2022-02-09T16:40:00Z
-    webUrl: "https://www.zdnet.com/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/congress-pressures-agencies-to-end-use-of-facial-recognition-after-id-me-debacle/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
-  - title: "ID.me to end facial recognition requirement for government agencies"
-    excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
-    publishedDateTime: 2022-02-09T23:58:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg"
-        width: 800
-        height: 532
         isCached: true
   - title: "Privacy Tip #318 – IRS Abandons Use of Facial Recognition for New Accounts"
     excerpt: "The Internal Revenue Service previously announced in November 2021, that it would use facial recognition technology offered by ID.me to authenticate taxpayers before using any online services the IRS provides, including viewing accounts, making online ..."
@@ -99,22 +56,6 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
-        isCached: true
-  - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
-    excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
-    publishedDateTime: 2022-02-11T00:45:00Z
-    webUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/"
-    ampWebUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 48
-    images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/02/AP1160239734938483.jpg?w=1280"
-        width: 1280
-        height: 674
         isCached: true
   - title: "Democrats Urge Federal Agencies to Abandon Use of Facial Recognition"
     excerpt: "\"Facial recognition tools pose a serious threat to the public's civil liberties and privacy rights, and Clearview AI's product is particularly dangerous,\" warn four progressive lawmakers. A quartet of progressives in Congress sent letters to five U.S ..."
@@ -157,36 +98,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4490654204-AdobeStock_211603224_facial_recognition_SUPERSIZE.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Government agencies will get more verification options after face-recognition backlash"
-    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
-    publishedDateTime: 2022-02-10T15:55:00Z
-    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
-    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    type: article
-    provider:
-      name: KCRA
-      domain: kcra.com
-    quality: 36
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "Private contractor to drop facial recognition requirement for all state and federal agencies after backlash over IRS plan"
-    excerpt: "The private contractor ID.me said it will drop the facial recognition requirement in the identity-verification software used by 30 states and 10 federal agencies, a major reversal following a backlash due to the technology’s accuracy and privacy concerns."
-    publishedDateTime: 2022-02-09T15:15:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/02/09/irs-idme-facial-recognition-login/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 14
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2P6BFEF2MI6ZFI4DYGMG4R6KM.jpg&w=1440"
-        width: 1440
-        height: 833
         isCached: true
 
 secured: "OcS32sJneydTqIkvrPi87goCizIaq9WjLjdjcTm4SqShipICLTUGwHxNtiyDZ0BYRjWkMgc3yucjjEDDy/4qcLt9Xwr50/GWl0Fmb3MdKbm/kOwIOvfBePZjCboxZf2t3c5dZ/qjCCgib6GkL8mGpSlFtS/aGAW5vZFS8Wq5VWxP0iTDLwxTRzYEmQ24fwrby2WaIqX4lv8xCt3Bo+Pp6WAflx8UjXxxX5wvknwl9OvrOpKf1jtI0gpClRWhG4UhiYfVUsIv3xO8NzrLCfO2YmOuCMDzKLEJAmRLnWFs4+TXc61nmtKo1GYp0JKzwfM4M/BSrmPHaT4KyjoaBw5mTj+WfXy1xRF78FmoatUlUpmq1g0/eHZsER/ruAfHbcEV5do71TN/rV2TpSuDweTkpStfldRRDHXxkNXxTKHYvy9GbZgEC0r4RH4Hj3RNLmjLIu4HOQczBk0xIm35slkQxWNEB14XmjqO2EVvZ2468H/vEoAAtgX4yd/H9FMG0Pe3jyCgwvNbXmbRHNG6040nkg==;+Ps2waGfBPuD73rQO80NRg=="

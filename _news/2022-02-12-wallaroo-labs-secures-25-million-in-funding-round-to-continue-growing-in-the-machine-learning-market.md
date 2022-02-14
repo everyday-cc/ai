@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 934
         isCached: true
-  - title: "Canadian AI-Based Company SenseNet Launches IoT Solution to Detect and Combat Wildfires"
-    excerpt: "SenseNet Inc. has announced the launch of its newest technology which is designed to detect wildfires before they start In 2021, the world witnessed ... leading to fewer people wanting them deployed. Canadian AI-based Company SenseNet has developed an ..."
-    publishedDateTime: 2022-02-09T16:11:00Z
-    webUrl: "https://www.digitaljournal.com/pr/canadian-ai-based-company-sensenet-launches-iot-solution-to-detect-and-combat-wildfires"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.abnewswire.com/uploads/1644369147.png"
-        width: 1192
-        height: 1594
-        isCached: true
 
 secured: "RVVKyiNYRMATZOBHllpRLjcyMiwIK5F5ipF0S92j8372vYm/bKUksHlJ77PXR5by4j57whHaCCX7TsDSpEar7EWZwLM3rVPRVp0K4aUA6Ql9AMzvKdPLfw7PMlciucG+Tah4l68ptkeLp0f/Vccc4V4wMMYqjUUabXAkmqIpcF1xDlUvoBtaoCImUJ6NMQ5Ooln66ANXRKxrVYO3gHjp0FOEtp7h3UY4/qL0vP5Uqb/kyZpzHHV0RBLLTKvC49WTmHIhRHrHu37hlovMTw3DwQSRLLtQyIy3ArTKKWkw4BwgJcyDhT3ZyqdzybUiw+GEAf0QyYEXDlXhXhKdw2e02pBqVrCmV8pWp5MhQ/NPwg0=;R6+dRECEFl/eEQEqBjxTfQ=="
 ---

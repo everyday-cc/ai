@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/devnagri-presented-their-machine-tran
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/devnagri-presented-their-machine-translation-engine-that-translates-instantly-with-85-contextual-results-on-shark-tank-india/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "'Devnagri' Presented Machine Translation Engine that Translates Instantly with more than 85 percent Contextual Results"
-    excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagris platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
-    publishedDateTime: 2022-02-12T07:13:00Z
-    webUrl: "https://www.indianweb2.com/2022/02/devnagri-presented-machine-translation.html"
+  - title: "'Devnagri' presented Machine Translation Engine that translates instantly with more than 85 percent Contextual Results"
+    excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagri's platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
+    publishedDateTime: 2022-02-12T11:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 30
+      name: Business Standard
+      domain: business-standard.com
+    quality: 50
     images:
-      - url: "https://lh5.googleusercontent.com/proxy/JAmDABaSdYTeaTRZUxl4VoT_vxaQmQ4KQEVsotNb3T-erZQ63Ti5nBIr9VJH0yLBhoYN127fFOlqoTQusoGBnwMY7Ckfn4VgbyOtqsO2hWIajhc"
-        width: 512
-        height: 276
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/12/full/20220212135151.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "'Devnagri' presented Machine Translation Engine that translates instantly with more than 85 percent Contextual Results"
     excerpt: "Devnagri's platform combines AI and human-powered translation with Machine Learning. They are powered by Kutumbh, a community of 5000 + native language speakers and translators that enable 5x ..."

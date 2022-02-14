@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-g
 webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "The Power of AI and Cloud – Evolution meets Convergence"
+    excerpt: "This may range from the database itself, through to legacy languages, with developers leveraging AI to translate them into modern code thereby expediting the end-to-end development process, improving productivity, and freeing up time for value-added ..."
+    publishedDateTime: 2022-02-14T07:02:00Z
+    webUrl: "https://www.infosys.com/services/cloud-cobalt/insights/evolution-convergence.html"
+    type: article
+    provider:
+      name: Infosys
+      domain: infosys.com
+    quality: 41
+    images:
+      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "woSKFDCTjNwAb1wHhiGiapHyUgzlfmQ0H8MuoW5cCSSQ+zSW586KlDHq4pO0qMY8B6MVdkHfBGjtBarvgnjQD5ely6lh31sODwWC2chfr7XjhZ2mNqdBwMgZvt28qKm7ICH8FNf7gpVG6fUi98z1BA+O6iuALRVx7X38/ssNAZgH8e4KlXpZI89t9G4e+2UDnUzpTN8wGRrUWnQZvYFpxj1EypJnjzvXORGe37ytwBqkyAQzEFQytGqJW8IbNlO7lwlXf2jbjw+YjS8LRC4a4VhdkWseAQLOJoBSaj1kzrzwtfW4nYHXMZZ8+LUbcZL2uLD3t1AY5imjeGTA967cb8kX6inN2yru34pDyiHanXk=;njV1nn0T3+fhO78kSaerNA=="
 ---

@@ -25,29 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Article: Entering and staying resilient in an innovating industry: Women tech leaders on opportunities in AI, ML sector"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML ... Birlasoft says to mitigate any ethical complications and risks related to this, the role of an ethics leader for new-age technologies will be in demand, with increased ethical business practices ..."
-    publishedDateTime: 2022-02-11T01:22:00Z
-    webUrl: "https://www.peoplematters.in/article/diversity/entering-and-staying-resilient-in-an-innovating-industry-women-tech-leaders-on-opportunities-in-ai-ml-sector-32692"
+  - title: "ID.me to end facial recognition requirement for government agencies"
+    excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
+    publishedDateTime: 2022-02-09T23:58:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
     type: article
     provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 32
+      name: UPI.com
+      domain: upi.com
+    quality: 59
     images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1643716966/ad-kqkzykwk.jpg"
-        width: 990
-        height: 550
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg"
+        width: 800
+        height: 532
         isCached: true
-  - title: "Israel's Leading AI Week 2022 Showcases Global Industry Trailblazers and Exciting Future in Artificial Intelligence"
-    excerpt: "This sentiment was mirrored by Professor Eviatar Matania, Co-Head of Israel's AI Initiative, who said, \"The desire in generating a holistic program for Israel in artificial intelligence was because of the understanding that AI…is going to dominate the ..."
-    publishedDateTime: 2022-02-09T15:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/israels-leading-ai-week-2022-showcases-global-industry-trailblazers-and-exciting-future-in-artificial-intelligence/article_6efddb75-6894-56e9-8670-e40bc8e6bf64.html"
+  - title: "GSA won’t use facial recognition with Login.gov for now"
+    excerpt: "The General Services Administration won’t use facial recognition to grant users access to government benefits and services for now, but its secure sign-in team continues to research the technology. “Although the Login."
+    publishedDateTime: 2022-02-09T18:25:00Z
+    webUrl: "https://www.fedscoop.com/gsa-forgoes-facial-recognition-for-now/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/02/GettyImages-607358443.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
+  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
+    publishedDateTime: 2022-02-09T19:48:00Z
+    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 34
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "gxguj0u5bdOmpTMWaNiScq0V7r89V91x8NgA7gaxdLh27Kn50QYt5wISNzNfj1VbmTh6YJ8J+L4NqEdrMB4MFgKcK0iiRIr7gkHF1acV4M7T5oVMXrOFHJ9gam27dI3IiF8E2p41RlkvJElJoM5/Rpi7/feOiW312shX7k50OLkmjfHjeTvjWFkOBJPOs8+QiKBBJLduxFq9LM8sgzF1V6gnIebRp0O1/tuZWinYUOcZ758cxzGFiXRalpY5N9CQv9Xpn8VCasOSVTbIFIFH+1UBV24YLDQ6YGRkSo3viz9PnhVUZmjZCtJ3OKnP5b33szQw+IU+ryyhohN7dByjosy88GVZ8/6EsG4/seX8rvbpeUNUG8CAqLn1SOHy+ylGTsTcQK2UfCVaNDtwTYYU+vagwLA7lSOCZmQ1TXyTQo16RvEC3v6/J+NqWtjCsL9veaKdNA9fAzkV0Oo/nK13MNUSfBNufCj2vmAWWLC0JIVX8FOHgLZe8mlPzgDkKGdrzN0Cna5oEwCxvXJMqDWQbw==;QzA2dns8WMv1FXPAy5vNhA=="
 ---

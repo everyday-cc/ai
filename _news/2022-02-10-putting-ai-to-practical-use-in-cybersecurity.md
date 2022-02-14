@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Developing drugs with the aid of artificial intelligence"
-    excerpt: "Deep learning is a form of artificial intelligence that mimics how the brain works. It uses neural networks that form numerous connections. It is already possible to design molecules with it ..."
-    publishedDateTime: 2022-02-09T16:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-drugs-aid-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-drugs-aid-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-drugs-aid-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/developing-drugs-with.jpg"
-        width: 880
-        height: 319
-        isCached: true
   - title: "Artificial Intelligence and the China-U.S. Rivalry"
     excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
     publishedDateTime: 2022-02-11T17:40:00Z

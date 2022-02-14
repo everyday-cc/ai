@@ -132,58 +132,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-10-dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support.md",
-      "title": "Dynatrace updates software intelligence platform with serverless architecture support",
-      "excerpt": "The company explained that its platform’s broad observability and advanced AIops capabilities are being extended to all major serverless architectures including Microsoft Azure Functions ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/",
-      "originalUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all",
-          "width": 799,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/09/dynatrace-updates-software-intelligence-platform-with-serverless-architecture-support/amp/",
-      "publishedDateTime": "2022-02-09T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-09-tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai.md",
       "title": "TigerGraph launches $1 million challenge to inspire use of graph AI",
       "excerpt": "With a $250,000 first prize, entrepreneurs, academics, engineers, scientists can create their own problem statement focused on a topic of their choosing.",
@@ -1396,6 +1344,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce.md",
+      "title": "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce",
+      "excerpt": "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
+      "originalUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
+      "publishedDateTime": "2022-01-25T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
         "images": null,
         "publishers": null,
         "authors": null

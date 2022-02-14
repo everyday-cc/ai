@@ -7,8 +7,8 @@ originalUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-
 webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Thomson Reuters
@@ -38,6 +38,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Siemens_How_Artificial_Intelligen.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How AI enables more inclusive lending"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) present a unique opportunity for credit unions to contribute to a fairer, more inclusive financial system. Unfortunately, the traditional credit model perpetuates bias and excludes a large portion of ..."
+    publishedDateTime: 2022-02-14T07:30:00Z
+    webUrl: "https://www.cuinsight.com/how-ai-enables-more-inclusive-lending.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 37
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/02/bigstock-d-Abstract-Hud-Brain-And-Nerv-401073950.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "aSy+98uXlmM8DJ45znAsz1LN5zGZo121W9k2k1mBIRiniVyp1K0M4CMuGPcYtxchtw68A3eRg2aIZ7SchuOuuijCgm4zwVD3CFy1NrjXmhPZQrHGjgIggMw65ITLkghaj83reBM933kXsdoEJwJ9g60bcSbD/MzWD084UDQklmR9YNzzdsozSYlorlxelp/xcKuxRUm3I9ROtP6sSpBhSmW7UqR3JRtViIEizGXlG+G94zVcPqJKFUmCVNwaqPyog88bi4/e9jMMhU5kMJ4EG9InodoylolPS9ot9UrCzLkKmprp6TcgwyUialH68MUvWiBaG3BaVJZJHP9DlI4QFQFWYplzXv5q2W/8kg0V+lsJsGwTl/n0KZq/ZvtWx3soGZwJsLlhDRn7kX3NJniZ+cMEI1DUZLhkQ7F+0FKkFRD4VJ8LmcRqJ/TlPXAG8SOGFSVOJh9LcDfmizM/vUqstgsakK+GErkQ6r5j7iEF+QMgmtGUCDaf/W2aCF78K52VqQ64OeRGJKUn2hvvbmIDkA==;yG9yCuss7ypbiIwoiZaYMA=="
