@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-g
 webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,50 +26,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "The power of AI-driven IT Management"
-    excerpt: "Symphony SummitAI offers AI-powered Enterprise and IT Service Management solutions to business enterprises. Our goal is to transforms the way enterprises work by leveraging AI and Automation technologies to deliver consumer-grade,"
-    publishedDateTime: 2022-02-09T12:55:00Z
-    webUrl: "https://www.sify.com/technology/the-power-of-ai-driven-it-management-news-technology-wcjlQDhfchdcf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/wcjlNMiagiidg.jpeg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "RoadRunner Recycling Launches AI Data-Driven Waste Management Platform"
-    excerpt: "Concept: American startup RoadRunner Recycling (RoadRunner) has rolled out an AI-based data-driven waste management platform to optimize waste and recycling operations. It assists businesses with waste management by utilizing ML algorithms. Nature of ..."
-    publishedDateTime: 2022-02-10T12:15:00Z
-    webUrl: "https://www.just-drinks.com/research-reports/roadrunner-recycling-launches-ai-data-driven-waste-management-platform/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 37
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/shutterstock_1803136597.jpg"
-        width: 500
-        height: 223
-        isCached: true
-  - title: "How does Artificial Intelligence shape the future of customer communications management?"
-    excerpt: "Gone are the days when it was enough to respond to a comment. Many businesses are now evolving from customer service to customer-centric, which is crucial to thriving even in today’s competitive environment."
-    publishedDateTime: 2022-02-11T12:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-does-artificial-intelligence-shape-future-customer-venkat-bentech/?published=t"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE7i9SOsVxmrw/article-cover_image-shrink_600_2000/0/1644581375935?e=1649894400&v=beta&t=KIihwmMwIVQYYX5IrIBecfjZZEuIUWUfsaxzkHP4xHU"
-        width: 654
-        height: 350
-        isCached: true
 
 secured: "woSKFDCTjNwAb1wHhiGiapHyUgzlfmQ0H8MuoW5cCSSQ+zSW586KlDHq4pO0qMY8B6MVdkHfBGjtBarvgnjQD5ely6lh31sODwWC2chfr7XjhZ2mNqdBwMgZvt28qKm7ICH8FNf7gpVG6fUi98z1BA+O6iuALRVx7X38/ssNAZgH8e4KlXpZI89t9G4e+2UDnUzpTN8wGRrUWnQZvYFpxj1EypJnjzvXORGe37ytwBqkyAQzEFQytGqJW8IbNlO7lwlXf2jbjw+YjS8LRC4a4VhdkWseAQLOJoBSaj1kzrzwtfW4nYHXMZZ8+LUbcZL2uLD3t1AY5imjeGTA967cb8kX6inN2yru34pDyiHanXk=;njV1nn0T3+fhO78kSaerNA=="
 ---

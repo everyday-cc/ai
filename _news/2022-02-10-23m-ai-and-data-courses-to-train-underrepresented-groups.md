@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Government pumps £23 million into AI re-skilling"
+    excerpt: "The move will create 2,000 scholarships in AI and data science across England. Labour shortages are currently holding multiple industries back as they try to recover from a turbulent last two years. Chief among these struggling sectors seems to be the IT ..."
+    publishedDateTime: 2022-02-14T04:12:00Z
+    webUrl: "https://www.consultancy.uk/news/30414/government-pumps-23-million-into-ai-re-skilling"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/30414/government-pumps-23-million-into-ai-re-skilling"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/30414/government-pumps-23-million-into-ai-re-skilling"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 57
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2022-02-06-164044375-How-Search-AI-can-help-retailers-stand-out-in-the-e-commerce-boom-spot.jpg"
+        width: 546
+        height: 312
+        isCached: true
 
 secured: "97xMOsNw6JupqXKWmHJ04plb5bG/0IVA9OsnKx5yHcS6sPoq+CT+BBD6R84Xrb+/4Lwyw7CmALC9H7oJcXzS+XvGOIhn3Av0WJq89lge9LkMuiKYd5cNmMMiT7LxLdHy+MyFEB/lK9mMPRn4CvK2RE3smHUKkuL8YUSmNzEgehtePyFHE/amC5rOzk5XUzBFcvlHOzH8yiFxQ7utaBqu+sERIinMdc/N8sFA85pE3QLfcIB3MvJVUxBckkudLN90SguEHLweGWS2OP8UrxO3TwNSR9P/FQMi3eeCLJ6wLU6JO08h4eDgEudm9qGn0juv+VNGt4eKO8Xy+W42VTXn1P63WlFWiV0G1yHk5p8HvRI=;ZSWjSp0YcfKVhui6l8E37w=="
 ---

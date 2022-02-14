@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/mg25333730-500-the-fear-index-r
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25333730-500-the-fear-index-review-a-psychological-thriller-with-a-dash-of-ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Book Review: ‘The Age of AI: And Our Human Future’"
+    excerpt: "At its core, this book is meant to start a conversation — perhaps what will soon be “the” conversation. As a new, AI-driven epoch of human existence looms on the horizon, this is a subject everyone needs to take the time to familiarize themselves ..."
+    publishedDateTime: 2022-02-14T04:43:00Z
+    webUrl: "https://themontclarion.org/feature/book-review-the-age-of-ai-and-our-human-future/"
+    type: article
+    provider:
+      name: Montclair
+      domain: themontclarion.org
+    quality: 37
+    images:
+      - url: "https://themontclarion.org/wp-content/uploads/2022/02/1.png"
+        width: 1347
+        height: 1238
+        isCached: true
 
 secured: "lj8YZgS8SMO2HpGl3IpCVjuDzubWDi1WfMhz0XqY9xidi8zqjwtj7wLE7tXsBKszivY0Pq32xHUYzgDGxBwjR9/Nt8w4d/BVQproASFiyqeCakmoiACQn7O07wo1gcxV5zvn5JRjNQk+u45BM5/DD06+UOKMbd2KMaCj51wDpDv5GNuBuDh4BF48B6QCNfDc8sZpXJuzqlxnvjvP5doyJ5xd/0B7YJBO5SYo2hzg3FPBFtkEdc/HQPP340YoLKgg8nmIRNXBNniS9Zo2t/uFMB9CWGtDn/JAKAZyrkA4O9rRaUKWhJBmBtH5u36BVRGbdgIZZAQ1vVUlK4HOI6+jLxX4GnPk6DvBEKDmnQbJ3CGBtrOtzZvn1Jp6BSzGNJNRtfvT+ab6oNYxdWNe8M5kuvJ8CDMS1RzIR4VxQqj2D7WT4zCquR24LgZHlHzobr29NXShUSjLFq3JsUq3l4lE73fomz2PtJKdL4oq6rKJOWlbTNKXX5tu0uSyPoiL6ZZilKAVTnXoozUKjhX2ugIBvA==;zB9amlvSLnzxK4gmmJYbYQ=="
 ---

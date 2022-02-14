@@ -90,20 +90,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Voice Assistant Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, and Foreseen 2027"
-    excerpt: "The Voice Assistant Market is anticipated to grow by US$7.30 Billion by 2025 rapidly growing at a CAGR of 24.32% during the forecast"
-    publishedDateTime: 2022-02-09T11:18:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-assistant-market-study-reveals-growth-factors-and-competitive-outlook-for-future-analysis-and-foreseen-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 2
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/semiconductors-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ozgIDTrdXfCVvB3iqutKmZAwJLTiOh2jGg0bwW0ylv6QHl9CE+TtazAysmZcF0nlD/n4LEmrPaFktZiTsy1q8NvRIwSDWNC5DA/vdPzs4h8zWxZAxtKQiI4GMeYj9K/vxQacWslj1CJoW2N4IU9ObCGzInOiU8LDcK7l98DWaSm8eIzlOwhqyGuqKNXQ/B7jo2Wkvlmqb4gMvAmIGCg2w7JYZOzpJdIxFLKmApG87r8KHKp2IRU21bl7ZhwKwX06hz9zLF9wrEtQlK4MAFgiekxL9Ho/hEJVB2OErn9futtSBC8DLg9BNiIt+zpOSUvZ3Hx/ONbZFzJWtow/pLyN7YF/9KftoRmm0jQJO3dykxw=;mcm6EcEt5r6iizL69S1KhA=="
 ---

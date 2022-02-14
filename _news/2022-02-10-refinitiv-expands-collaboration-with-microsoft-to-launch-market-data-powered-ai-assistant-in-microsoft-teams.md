@@ -55,20 +55,6 @@ related:
         width: 1668
         height: 600
         isCached: true
-  - title: "Microsoft Cloud & PROS in AI-powered manufacturing move"
-    excerpt: "PROS & Microsoft Dynamics 365 are working together by embracing AI manufacturing power ... the only business platform that natively integrates with Microsoft 365, Microsoft Azure, Azure Cloud Services and Microsoft Power platform, provides unparalleled ..."
-    publishedDateTime: 2022-02-09T12:01:00Z
-    webUrl: "https://manufacturingglobal.com/ai-and-automation/microsoft-cloud-pros-in-ai-powered-manufacturing-move"
-    type: article
-    provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 54
-    images:
-      - url: "https://assets.bizclikmedia.net/668/d6e6c39ea617c586f8c69521038d171c:39043bdafdc54a386ca0d17ec7345fa8/gettyimages-1313422838.jpg.jpg"
-        width: 668
-        height: 504
-        isCached: true
 
 secured: "+OZKLiaJVbTPPJ7wtfpiQb7j4egLWAMGhAq4FUUw42wTkzhOwlDjyTwrQj3rDq29DBbDDXJ54PLJesVNKPildVxRjN7wCZEs8BY14+eZ+IaAYzv7oUBQ56b+EojFcM9uauitlsNeLRCwwr99bgnuU28uCsXwToSWQTaIJCHwjD/ZkPXaC8CRFuFvlkqNU2k+aa3e2GxnGSpC8x2f9nouyBynmY+o9oXWhWDxapGFCJbzp7vToa6y0Gsan4xib2UlBbqpmMODGOBIi07Ht2StcmFowcHoe+NXLYoN/GfQFddgtmmYjPeyQs/CcCYxkry2PazYYJq25zsVcJivod+2TKmhic+t9FdihICclI797s660xTcSIKc8+LoLUbCTAjRrUg1v821vogNf6wDAdRXpPAVMIe76NlpAZ3dRENXryIRQ0TVqZGDkEtoVaNYpsKjwKz3cLIHTj9/2HL7HApWrHTB0CDD03p/qCQNW0jSCQnu9LDw1/1J+AcyfHPzY++hq8MQx9nctNqs2D5cOds5hA==;gDYlSLgijJ8oQ2mIzpsDFw=="
 ---

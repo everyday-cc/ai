@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: City A.M.
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Government pumps £23 million into AI re-skilling"
+    excerpt: "The move will create 2,000 scholarships in AI and data science across England. Labour shortages are currently holding multiple industries back as they try to recover from a turbulent last two years. Chief among these struggling sectors seems to be the IT ..."
+    publishedDateTime: 2022-02-14T04:12:00Z
+    webUrl: "https://www.consultancy.uk/news/30414/government-pumps-23-million-into-ai-re-skilling"
+    ampWebUrl: "https://www.consultancy.uk/news/amp/30414/government-pumps-23-million-into-ai-re-skilling"
+    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/30414/government-pumps-23-million-into-ai-re-skilling"
+    type: article
+    provider:
+      name: Consultancy
+      domain: consultancy.uk
+    quality: 57
+    images:
+      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2022-02-06-164044375-How-Search-AI-can-help-retailers-stand-out-in-the-e-commerce-boom-spot.jpg"
+        width: 546
+        height: 312
+        isCached: true
   - title: "£23m AI and data courses to train underrepresented groups"
     excerpt: "£23m in government funding aims to create more AI and data conversion courses, helping young people from underrepresented groups join the UK’s AI industry. Up to two thousand scholarships for masters AI conversion courses, enabling graduates to do ..."
     publishedDateTime: 2022-02-10T14:49:00Z

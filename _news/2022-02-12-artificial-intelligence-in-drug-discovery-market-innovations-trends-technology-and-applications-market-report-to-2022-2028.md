@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Report 2022, Industry Trends, Share, Size, Demand and Future Scope 2027"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 11, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence Market: Industry Trends, Share, Size ..."
-    publishedDateTime: 2022-02-11T20:46:00Z
-    webUrl: "https://menafn.com/1103679983/Artificial-Intelligence-Market-Report-2022-Industry-Trends-Share-Size-Demand-and-Future-Scope-2027"
+  - title: "Top tech innovations we may see in 2022"
+    excerpt: "Data science, artificial intelligence and analytics are disrupting the technological ... Autonomous logistics: Companies like Waymo are already providing autonomous ride-hailing services in some world routes. While not completely developed yet, the service ..."
+    publishedDateTime: 2022-02-13T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-tech-innovations-we-may-see-in-2022/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2022-02/11/EP_0560bimage_story.jpeg"
-        width: 640
-        height: 480
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/tech-pp-b_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "4Dc2pQwHOMJ0hFAHQIojtlY6rXudr4vRmMUX6dUVj6WK8VifRJbHRhlsO4VvDMk0TbLZgh04eISF+ZtDkknZVE3mglhGTD2NM/ASDm7lOPOx/TS72PKWzDkN27ZQXIYaFXrwnkuVH8bd7LryBVyDVxaZkpxQ7gDVFFOiail3EGqQGG6f6zr4QJ5UvtI3P9orQKpOQkIEL7oCkhwNqTFIvm6SUy4sqBlKHxpQyO4ZvUN2tYbs2aKw1SWBX5b/oBdNEUy1WObe2iKt6eZkhx+gpUS5cUvDPX7xl2JGZakieLkC2EKXWMiwX+gSP7V+xT4lVStolGGx5xKNKxjP/Tn2RdYG30nhtC1qbYZCgxnii+M=;5CSexgMGr7N6nN3WNYZgug=="

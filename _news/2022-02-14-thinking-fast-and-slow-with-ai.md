@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Introducing AI In The Sky"
-excerpt: "Autonomous vehicles in the sky and on the ground, AI, Crypto, IoT, cloud computing, edge networks all share one similar trait; peoples all over the world are being challenged by rapid innovation occurring at a speed, scale, and scope never before seen."
-publishedDateTime: 2022-02-11T17:54:00Z
-originalUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/"
-webUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/"
-ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
+title: "Thinking fast and slow with AI"
+excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."
+publishedDateTime: 2022-02-14T04:30:00Z
+originalUrl: "https://analyticsindiamag.com/thinking-fast-and-slow-with-ai/"
+webUrl: "https://analyticsindiamag.com/thinking-fast-and-slow-with-ai/"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/6206afeeefec90ff71d9ed04/0x0.jpg?format=jpg&width=1200&fit=bounds"
-    width: 1200
-    height: 799
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -45,6 +40,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Introducing AI In The Sky"
+    excerpt: "Autonomous vehicles in the sky and on the ground, AI, Crypto, IoT, cloud computing, edge networks all share one similar trait; peoples all over the world are being challenged by rapid innovation occurring at a speed, scale, and scope never before seen."
+    publishedDateTime: 2022-02-11T17:54:00Z
+    webUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/"
+    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6206afeeefec90ff71d9ed04/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Developing drugs with the aid of artificial intelligence"
     excerpt: "Deep learning is a form of artificial intelligence that mimics how the brain works. It uses neural networks that form numerous connections. It is already possible to design molecules with it ..."
@@ -75,20 +86,6 @@ related:
       - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "Thinking fast and slow with AI"
-    excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."
-    publishedDateTime: 2022-02-14T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/thinking-fast-and-slow-with-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Putting AI to Practical Use in Cybersecurity"
     excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."
@@ -161,6 +158,6 @@ related:
         height: 640
         isCached: true
 
-secured: "LRhBbbO7K7Qlf/SNp9kEHNfCkUTlOi14y+9X38/bbqxlBbFR5F8Tm3NRQ8EE0zPOodR6XBZuLoW4g28hJYCx57Q2Cfy+BSsZ7NeLVU87QHKx7KF303V5iuGWlkjk3XH7Fs6GJYjqphuf2QeNY+4y068czAP80+nhz64xX+74ks/baZOW0KcdDWRwHoEt1Er9iNtKAiXssfI8LMSd3bcqqkujIedelhwX9ulQTxVEX1wKo4471f2X/utZgmAU/1SpP4eVD6NwlCVeg+ET7QDFoC3kVY5WkbGpEFPiHBT62GEpXcnnr9P4/6nSwbv0XR3B9CyegyrYZhQb9D9ZAaXwLAKx7WPWvQ0kzEMF8Ofo1UZA95CJZ64FEoAUHtfWEEQJzQoCOoLHry/dx+iS84VxMPps+LAh1F7gs4TOSMPiIazmoYpxYqPa5r6lleXEiyjcmlKb6Si1dY0qQshsJSnqyK4e6uEr4fMU32/NZIf1d7nG2KMI8p+AGWqWdIJIxQsdhHQuHWqiAcMxOX7d6mMZTg==;z0+lcAqVKs1olH9eNPpb+g=="
+secured: "8j/Z/srWlHTwm1WBvnvKLtWwb3VfhyLxit4AOc1R3SIemilWT+eIyVRhb0CmShdYeKgig9inP9y54GxQu7LP4g8Q2juGtRMrWPuuc23wQe6JM4DQFh42CAyCC0uJQ7eNcQB9xUqNxinUuN6rootq6gypIepu75HHlBm3RXWcXjr08GahqtnT6DQobD9nhrp8Fnt3TxmjBSnWJuJ+BgAbeSOSTh82BKoiNERHE3d6CKdzHF8ADe9/s5fHDZnq3eiU0YnRGNhuQ127TIQqnCADeQjSQTsbZDIp85f/S7YjpUvSkVAsRZCn3kCB0YtTRhUu5snqfgE+RUB/OyQ6c+Jr+heQY96H315+wRp98OsnKKE=;lHHSXs6hlgTbf0RKrtH2IA=="
 ---
 

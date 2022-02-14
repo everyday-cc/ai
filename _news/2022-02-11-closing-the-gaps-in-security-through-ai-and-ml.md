@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
 type: article
 quality: 121
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "Thinking fast and slow with AI"
+    excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."
+    publishedDateTime: 2022-02-14T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/thinking-fast-and-slow-with-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Putting AI to Practical Use in Cybersecurity"
     excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."

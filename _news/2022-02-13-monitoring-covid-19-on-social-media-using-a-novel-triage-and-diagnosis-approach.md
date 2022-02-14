@@ -35,22 +35,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "AI based home monitoring during COVID-19 pandemic"
-    excerpt: "Researchers conducted an open, prospective pilot feasibility analysis through artificial intelligence (AI)-based platform to provide clinical decision support on COVID-19 outcomes."
-    publishedDateTime: 2022-02-09T12:41:00Z
-    webUrl: "https://www.news-medical.net/news/20220209/AI-based-home-monitoring-during-COVID-19-pandemic.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220209/AI-based-home-monitoring-during-COVID-19-pandemic.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220209/AI-based-home-monitoring-during-COVID-19-pandemic.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_703998_16444099738087104.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Machine learning technique helps diagnose COVID-19"
     excerpt: "Researchers have devised a machine-learning technique that can detect key signs of COVID-19 infection in chest X-ray images 1. It differentiated between lungs which were affected by COVID-19 and lungs which were not. A chest X-ray shows other organs as ..."
     publishedDateTime: 2022-02-13T22:04:00Z

@@ -100,22 +100,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "You & facial recognition: Look for government to find more verification options"
-    excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
-    publishedDateTime: 2022-02-09T11:18:00Z
-    webUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/"
-    ampWebUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
-        width: 1264
-        height: 710
-        isCached: true
   - title: "IRS Reverses Course on Facial Recognition Service Amid Backlash; Users Can Delete Selfies From ID.Me"
     excerpt: "Beginning March 1, the ID.me said that anyone who already created an account can delete it, and that it was allowing government agencies using the service to skip the selfie step altogether, CBS News reported. The IRS announced on Monday that they will ..."
     publishedDateTime: 2022-02-10T17:00:00Z

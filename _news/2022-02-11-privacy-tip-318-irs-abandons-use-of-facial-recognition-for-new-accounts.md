@@ -84,22 +84,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "You & facial recognition: Look for government to find more verification options"
-    excerpt: "ID.me CEO and founder Blake Hall said in a press release Tuesday that the company is making it possible for government agencies to give users the option to verify their identity — a one-time process — by talking to a human agent,"
-    publishedDateTime: 2022-02-09T11:18:00Z
-    webUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/"
-    ampWebUrl: "https://wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/09/you-facial-recognition-look-for-government-to-find-more-verification-options/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
-        width: 1264
-        height: 710
-        isCached: true
   - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
     excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
     publishedDateTime: 2022-02-11T00:45:00Z

@@ -41,22 +41,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "AI based home monitoring during COVID-19 pandemic"
-    excerpt: "Researchers conducted an open, prospective pilot feasibility analysis through artificial intelligence (AI)-based platform to provide clinical decision support on COVID-19 outcomes."
-    publishedDateTime: 2022-02-09T12:41:00Z
-    webUrl: "https://www.news-medical.net/news/20220209/AI-based-home-monitoring-during-COVID-19-pandemic.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220209/AI-based-home-monitoring-during-COVID-19-pandemic.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220209/AI-based-home-monitoring-during-COVID-19-pandemic.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_703998_16444099738087104.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
     excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
     publishedDateTime: 2022-02-13T08:51:00Z
