@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp"
 type: article
 quality: 189
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/naBUN_x1JY-fa1a78xpWTJs2OAI=/0x0:2988x1990/1400x933/filters:focal(1255x756:1733x1234):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70488847/1174706815.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Can Next-Generation Simulation Build A Better Self-Driving Car? This AI Upstart Thinks So"
-    excerpt: "Toronto-based Waabi says its advanced new simulator can train autonomous vehicles to handle a nearly limitless number of road conditions–and do so faster than bigger self-driving rivals that rely more on road tests."
-    publishedDateTime: 2022-02-09T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2022/02/09/can-next-generation-simulation-build-a-better-self-driving-car-this-ai-upstart-thinks-so/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6201ceac39bd7c60059e4537/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 781
         isCached: true
   - title: "Sony AI's First Project Can Drive Circles Around You"
     excerpt: "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ..."

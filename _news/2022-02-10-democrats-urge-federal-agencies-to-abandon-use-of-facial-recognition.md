@@ -147,20 +147,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IRS Drops Controversial Facial Recognition Contract"
-    excerpt: "The recent controversy was just one of many issues that the IRS has faced in 2022. Last November, the Internal Revenue Service (IRS) announced that it was teaming up with a vendor called ID.me to install a new level of security for tax filings."
-    publishedDateTime: 2022-02-09T09:03:00Z
-    webUrl: "https://nationalinterest.org/blog/politics/irs-drops-controversial-facial-recognition-contract-200457"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 41
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/Facial%20recognition.jpg"
-        width: 1222
-        height: 815
-        isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
     publishedDateTime: 2022-02-11T10:08:00Z

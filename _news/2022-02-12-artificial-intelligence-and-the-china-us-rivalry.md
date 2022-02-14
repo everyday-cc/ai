@@ -73,22 +73,6 @@ related:
         width: 880
         height: 319
         isCached: true
-  - title: "Recognizing and Eliminating Bias in Artificial Intelligence"
-    excerpt: "Over the last couple of years, the society has begun to wrestle with the extent to which human prejudices might infiltrate artificial intelligence systems, with potentially disastrous consequences. Being acutely aware of those risks and striving to ..."
-    publishedDateTime: 2022-02-09T09:06:00Z
-    webUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/"
-    ampWebUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 61
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Recognizing-and-Eliminating-Bias-in-Artificial-Intelligence-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Putting AI to Practical Use in Cybersecurity"
     excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."
     publishedDateTime: 2022-02-09T23:40:00Z

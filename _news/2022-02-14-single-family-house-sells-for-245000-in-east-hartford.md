@@ -7,7 +7,7 @@ originalUrl: "https://www.thehour.com/realestate/article/Single-family-house-sel
 webUrl: "https://www.thehour.com/realestate/article/Single-family-house-sells-for-245-000-in-East-16915595.php"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,30 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How much did the five most expensive homes sell for in East Hartford in the last week?"
-    excerpt: "A house in Derby that sold for $450,000 tops the list of the most expensive real estate sales in East Hartford in the last week. In total, 15 real estate sales were registered in the area during the past week,"
-    publishedDateTime: 2022-02-09T13:39:00Z
-    webUrl: "https://www.ctpost.com/realestate/article/How-much-did-the-five-most-expensive-homes-sell-16844038.php"
+  - title: "Sale closed in East Lyme $305,000 for a three-bedroom home"
+    excerpt: "This automated story was produced for Hearst Connecticut by United Robots using artificial intelligence and data science. Property information is compiled from municipal assessors in Connecticut. The property located on 17 Brookfield Drive in East Lyme was ..."
+    publishedDateTime: 2022-02-13T23:42:00Z
+    webUrl: "https://www.nhregister.com/realestate/article/Sale-closed-in-East-Lyme-305-000-for-a-16916165.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 16
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 24
     images:
-      - url: "https://s.hdnux.com/photos/01/23/72/16/21996427/3/rawImage.jpg"
-        width: 1110
-        height: 740
+      - url: "https://s.hdnux.com/photos/13/52/25/3056994/3/730x0.jpg"
+        width: 730
+        height: 517
         isCached: true
-  - title: "Single family residence sells for $430,000 in East Haven"
-    excerpt: "This automated story was produced for Hearst Connecticut by United Robots using artificial intelligence and data science. Property information is compiled from municipal assessors in Connecticut. A 1,678-square-foot house built in 2018 has changed hands."
-    publishedDateTime: 2022-02-14T00:00:00Z
-    webUrl: "https://www.newstimes.com/realestate/article/Single-family-residence-sells-for-430-000-in-16915751.php"
-    type: article
-    provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
-    quality: 4
 
-secured: "L2rrNycKmk3/Lnx6Dzp/wchqFHOlRXYEJ7DNk+pmR/f0dKQ5Imk1fN9/FiJDrm5oFmwxoXxG3Jxh55c2BlLppduCisfkeSGDyq7pSlOsMYK9+kKbeccayggvkLlWJ0Sx3lOJxeGk0G55Ih6W3OQHZrmG4YiCAbM/y9DdtdDlRU8GUDjtaoed5xc8n1DByf/EZmyX8gc/sX+fs4Cwa3YoJMv246K0opu0IvpQh5asCjBmnrdmezURNj1wjVLcY6os4Fj2jRTJ/6wvtm5SwEFcfoE6lDhEgpgB/MQhCI6JIb/Xew5OPUoxQ8uFbDMAro4ez/iS87rmgjub26BfKJi+h/oP69G9HmoCwLTl1xPKhvg=;iCoahhkRa7PYqlHI9++qvw=="
+secured: "YPZ1z4qYPG5ARU36/Kcu9r3Y3IBUCGBGcNABWFbMneE+DRN6B3gM0Tbg2pRN1rjRCOu2BMmrvDyHGIIxqJq9q4YpItYJGnrLTuugmI5H2FP4aNzNEmDWEFiy0yrO0H/l6FH7Q6vvuuA2I3c+BzsRg+xTKjRXeJ2Ndb81cYenYFSBw/xQGh3G2/iUc7uvaGJjfO8OONQjitRuvTEEpE/SfcaUOnTjHZ4Gmm85vCs1V0u7LOZsMTHrTs448p13mTAJx6rIIAAaxn00lAn3eQ6wx6WYV9Pdir+fCY7vYLKLpn7A/ieWhCs8DAuv+kNTlz4xJ4AerY3AC5HHEezl9JejDufB2oXyTyIJeU/YfECb64bT3XFKCG0Io0ePTTOlgwwiAOJ9Y7lsXo6YBHcbahqfNURve/NhH+Tx09TxDfQlGug9nYDDYLUSgorE/gil97ojLz9Wc+oNGeV022uF/gKc8KCduKN2oBjGBrmvRkSRSnzUotPEh2Hod9SiPpED2YDy6YY381X7V4Rh5EhYrLv4lg==;blaaVPl4WRqFj67I0wYgUw=="
 ---
 

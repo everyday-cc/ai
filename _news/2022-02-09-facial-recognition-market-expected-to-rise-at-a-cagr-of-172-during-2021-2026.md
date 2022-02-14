@@ -52,19 +52,19 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 41
-  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
-    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
-    publishedDateTime: 2022-02-11T07:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
+  - title: "Artificial Intelligence Systems Spending Market exhibiting a CAGR of 46.1%"
+    excerpt: "The global artificial intelligence systems spending ... Further, these systems are proving useful in administration applications in healthcare facilities. Also, increased use of online shopping."
+    publishedDateTime: 2022-02-14T02:49:00Z
+    webUrl: "https://menafn.com/1103688843/Artificial-Intelligence-Systems-Spending-Market-exhibiting-a-CAGR-of-461"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?866667"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "NDLrdG8VJ8YcKjI07IAK7QjqC2MqfZ8R7sC9h9WuKMIFLqoTqnOhHzlTFquNfoOjIyvMJzTASgSbE3bj9BjKSbkfT/WpJvy0nt7Oa86auhvGOpi7oL6fuVviOqg0sJ0TPNVzCCtkCWVww64rYhOeETNr9IUmKb4ykIFYrLIHvIo5G6VgVndpDXOlN2FrEzStnJYaCms37ti4pnUZ3ov0m5GFyLYrC4aOz3oawStoNVug8zmCukTAQ2dzI7ejrMoZmGwukkoPhG07DpXEFdIMVlMCxqIcgV26eoIYo9GOM/Q3T9cTp8XcTvobYVvf9IeTp767whdg9x3p2qm3olX6SRa1sJZ8IJB79oiYpJ/XipAVQL7cad8+7jOCF8xvoDVXmuDRDvShJsr9RA83fOGoE6YGIJGhNqrzcIXQMN/C5hfv5UZwRXHfLDXbYLpbmAXUzlwNiUMtJBgN3kaxtIhbNfKEqTlsGzHPhGXDtGH8XxW8w/o7CXZ65VvkvghYHedLEY2VzP6AwiZL5aKUccV0ag==;Ade5/WNr8JUmtQkdjnOsuQ=="

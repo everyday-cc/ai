@@ -148,20 +148,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IRS Drops Controversial Facial Recognition Contract"
-    excerpt: "The recent controversy was just one of many issues that the IRS has faced in 2022. Last November, the Internal Revenue Service (IRS) announced that it was teaming up with a vendor called ID.me to install a new level of security for tax filings."
-    publishedDateTime: 2022-02-09T09:03:00Z
-    webUrl: "https://nationalinterest.org/blog/politics/irs-drops-controversial-facial-recognition-contract-200457"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 41
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/Facial%20recognition.jpg"
-        width: 1222
-        height: 815
-        isCached: true
   - title: "Democrats Urge Federal Agencies to Abandon Use of Facial Recognition"
     excerpt: "\"Facial recognition tools pose a serious threat to the public's civil liberties and privacy rights, and Clearview AI's product is particularly dangerous,\" warn four progressive lawmakers. A quartet of progressives in Congress sent letters to five U.S ..."
     publishedDateTime: 2022-02-09T20:32:00Z

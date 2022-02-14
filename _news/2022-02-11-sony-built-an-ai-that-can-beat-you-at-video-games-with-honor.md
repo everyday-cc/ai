@@ -72,20 +72,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Can Next-Generation Simulation Build A Better Self-Driving Car? This AI Upstart Thinks So"
-    excerpt: "Toronto-based Waabi says its advanced new simulator can train autonomous vehicles to handle a nearly limitless number of road conditions–and do so faster than bigger self-driving rivals that rely more on road tests."
-    publishedDateTime: 2022-02-09T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2022/02/09/can-next-generation-simulation-build-a-better-self-driving-car-this-ai-upstart-thinks-so/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6201ceac39bd7c60059e4537/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 781
-        isCached: true
   - title: "Sony AI's First Project Can Drive Circles Around You"
     excerpt: "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ..."
     publishedDateTime: 2022-02-09T18:54:00Z

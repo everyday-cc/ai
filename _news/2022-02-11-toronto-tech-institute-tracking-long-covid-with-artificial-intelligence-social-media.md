@@ -7,7 +7,7 @@ originalUrl: "https://www.castanet.net/news/Canada/359749/Toronto-tech-institute
 webUrl: "https://www.castanet.net/news/Canada/359749/Toronto-tech-institute-tracking-long-COVID-with-artificial-intelligence-social-media"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Aventis Aligns Itself With Advancing AI In Light Of Covid-19"
+    excerpt: "SINGAPORE – Media OutReach – 14 February 2022 – Aventis Graduate School has aligned itself with the advancing Artificial Intelligence (AI) surrounding the thriving age of digitalisation, following Singapore’s Deputy Prime Minister Heng Swee Keat ..."
+    publishedDateTime: 2022-02-14T02:02:00Z
+    webUrl: "https://www.macaubusiness.com/aventis-aligns-itself-with-advancing-ai-in-light-of-covid-19/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 37
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/02/Aventis-logo-v6izHy.jpeg"
+        width: 1210
+        height: 680
+        isCached: true
 
 secured: "oW65Kg32adsCUlZpLJbvKNH6BYXxQQTE1ZxieE+pr4GOiurobyvhXG6hqYahcT9v0F0FvbtswmY5kKNjVopcDQBAR/5AW5Jyo8Ef5S5eEtb99x0USk7lMEwrzPyYcaB/1mhDfhIJ9K6i5JCccKCSH8Wpl4HzMWzqV1V3Q2qOn8T0GGJqlJ8bdSS7Oqs8M363v2Xor3vL9xq11gmkHf835A8fkrq8IueADLuzS6xQ63ABL52LTvknwIBwRrOeMQ0CiO3LDEk2esrEYwppe2n9zN75UQ90eWTTMFYSfG5p1/jAM6d5xhSuLHQoCaeCLh+T9+82aaAeVFvvsoHNr6tDbdvxQNFGZvlqoQUaHiKP/sEKYC/bIKrYNjJjE6C24hTp2Hj+Rcz+PWFXWsZzBFhce8VyRO6u4geMTeW09NaZmfX3eq349JhO//uoHqr/hZfDGrehwBJ1caHGkkZjV5wIiOXMZEgAjJV3/IGa2CxC12O/UD1/qY3O/w57Rp0p0eZ2Zd+OmKiUESJeEnHi/rU4bw==;BUU+Z3BdrD2buT33tZq5CA=="
 ---

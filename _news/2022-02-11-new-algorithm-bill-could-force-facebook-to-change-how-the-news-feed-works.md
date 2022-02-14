@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/new-algorithm-bill-could
 webUrl: "https://www.theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health"
 type: article
 quality: 121
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Is this the beginning of Facebook’s downfall?"
-    excerpt: "If there’s a single immutable law in human biology, it’s that no one lives forever. The same goes for corporations. The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms,"
-    publishedDateTime: 2022-02-09T10:07:00Z
-    webUrl: "https://lasvegassun.com/news/2022/feb/09/is-this-the-beginning-of-facebooks-downfall/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
 
 secured: "vG6RvsHtR8YXreQydEvo1ZHvN4J3YoJMUgIOcKJavBPxSazbEDt8gFDIgMmeGsuRRYeQ/ivD9RO73L++AKTmU/TdJTIXzD5WP3ZyT9EIN6YszTHRsC0+BFhMjYdX3FdKOFxXY6ELz1LIqeE0uRYpvM382iSh52PoW+x7kA9YsB7tEccYDfkCU+reMcmeqlu/kvz9lLM87o3BgoQlvIz8r3ztDM23tbWcnuU+xWeTQ1iNkNtlZEJOhVcFdbg9Iyf38IF0khm1U9gyqKt/S16DbZwovnnrOCaq0crh8NjiiMb2QXJt7isN8UpFf9nx0aAA4ZEeErJ3didzs+G6n0wzM1fSkqXa4YaEeTfqJ/zyzdLtEinwmZ9d2U0IsBLTXbPozNQxC+yUloM878+5gmOzpps4jyKXjsn+VukYbFGgU1q3BbMTqp+kc5+wqh4J0xxwE8tM43fFhqL+Absh/sSNT6IqX68HMOf2PWrRGs80NiebyXtBoJ7s9P/RsVXO1HVxI0sKuvOSi1o0qZGXyLIBUpEi76loUsDHRcg8EKM4B3E=;ShFlHgm5UAQ1WzNzc31v/w=="
 ---

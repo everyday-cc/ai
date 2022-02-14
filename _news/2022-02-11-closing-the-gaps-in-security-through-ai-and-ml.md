@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
 type: article
 quality: 121
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/developing-drugs-with.jpg"
         width: 880
         height: 319
-        isCached: true
-  - title: "Recognizing and Eliminating Bias in Artificial Intelligence"
-    excerpt: "Over the last couple of years, the society has begun to wrestle with the extent to which human prejudices might infiltrate artificial intelligence systems, with potentially disastrous consequences. Being acutely aware of those risks and striving to ..."
-    publishedDateTime: 2022-02-09T09:06:00Z
-    webUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/"
-    ampWebUrl: "https://enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/recognizing-and-eliminating-bias-in-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 61
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Recognizing-and-Eliminating-Bias-in-Artificial-Intelligence-01.jpg"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Artificial Intelligence and the China-U.S. Rivalry"
     excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
