@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
-    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
-    publishedDateTime: 2022-02-09T19:48:00Z
-    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 34
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
-        isCached: true
 
 secured: "gxguj0u5bdOmpTMWaNiScq0V7r89V91x8NgA7gaxdLh27Kn50QYt5wISNzNfj1VbmTh6YJ8J+L4NqEdrMB4MFgKcK0iiRIr7gkHF1acV4M7T5oVMXrOFHJ9gam27dI3IiF8E2p41RlkvJElJoM5/Rpi7/feOiW312shX7k50OLkmjfHjeTvjWFkOBJPOs8+QiKBBJLduxFq9LM8sgzF1V6gnIebRp0O1/tuZWinYUOcZ758cxzGFiXRalpY5N9CQv9Xpn8VCasOSVTbIFIFH+1UBV24YLDQ6YGRkSo3viz9PnhVUZmjZCtJ3OKnP5b33szQw+IU+ryyhohN7dByjosy88GVZ8/6EsG4/seX8rvbpeUNUG8CAqLn1SOHy+ylGTsTcQK2UfCVaNDtwTYYU+vagwLA7lSOCZmQ1TXyTQo16RvEC3v6/J+NqWtjCsL9veaKdNA9fAzkV0Oo/nK13MNUSfBNufCj2vmAWWLC0JIVX8FOHgLZe8mlPzgDkKGdrzN0Cna5oEwCxvXJMqDWQbw==;QzA2dns8WMv1FXPAy5vNhA=="
 ---

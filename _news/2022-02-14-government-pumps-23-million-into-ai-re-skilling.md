@@ -56,6 +56,20 @@ related:
         width: 940
         height: 430
         isCached: true
+  - title: "UK allots GBP 23Mn to upskill students in AI"
+    excerpt: "The United Kingdom has asked companies to play their part by match-funding the AI scholarships for the conversion courses. The UK Government has launched a GBP 23 million fund to create 2,000 scholarships in AI and data science across the country."
+    publishedDateTime: 2022-02-14T12:14:00Z
+    webUrl: "https://analyticsindiamag.com/uk-allots-gbp-23mn-to-upskill-students-in-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/UK.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "4kf95enwrECYvHW2bA+pNag9Nc7nu/zltet0SmLkygR784g/j7szRQ6IwN2n+KoQH3zkolkxob+LRWREekY+lOv+NFOMnOfq9FKWrz174dWN3ZZjCfAJdpQTAPwQJj/NHW9XrbYBL76YDRXvLLOohU0oMvhG5pRP0LkM7cx8Gip627N5S1LIFWtzmtHfS/PvUdI/36Mpwv2KTSBzYlhNxvpnuYDW5dA8sCdNUKDX6rWiGfyl2jtXO9YgFNcfm0FGNDTU9EfWWSJ5zLH4NO0NahCotqoPN7EevyZ+18wt05rBFq6syDFtsO8ZJBcHhT0PqShzephHGYS0Kurx6UZm81mMc3wFWVuI+WmjSAuxtxs=;iGq0Fh/G4AQ2/9heMIhaeA=="
 ---

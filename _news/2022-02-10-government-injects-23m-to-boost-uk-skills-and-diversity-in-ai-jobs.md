@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://bdaily.co.uk/images/uploads/vcMlvfs3M0ivaxUChBJJVuRktlS3TFlnpZF7jgOC.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=72d8a84776f39226e0069198dfcae3ac"
         width: 940
         height: 430
+        isCached: true
+  - title: "UK allots GBP 23Mn to upskill students in AI"
+    excerpt: "The United Kingdom has asked companies to play their part by match-funding the AI scholarships for the conversion courses. The UK Government has launched a GBP 23 million fund to create 2,000 scholarships in AI and data science across the country."
+    publishedDateTime: 2022-02-14T12:14:00Z
+    webUrl: "https://analyticsindiamag.com/uk-allots-gbp-23mn-to-upskill-students-in-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/UK.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "bSXZsOhc4x3o0zYORdVSSyTt2czuNHr5DYzjjmhftIwIFZT/eW9AVkhwCkfdh8908rEDNknmO3kizTKZnB2cHu0qMn0HgZFn0DQQMXkukCJpfySZ+dlAOm5Evim7DWZc9cTgXjozDMgOheFMuKQZIxW0VSAp5IiV735bHbv/zMzSZQf3QH7kiyoOgQDKVn9xWOEDJ2EPKBdV4R+lCU0OfcmDEr+hCMt8T8H4GRI08JRU8K3oa02crVkPMamcVNIYQqaPA+9pvd6Y4NKxe9rx+xxNcrIibzi29sXIAWGIRu2haXfLca/xtPCzzMVVjGwkAh2tyTprx+vz+MzRA7KGuG0qRpT0RvUCZXAAWnPos44=;4GYhQBhjtUUs3S8Kpd42Ng=="

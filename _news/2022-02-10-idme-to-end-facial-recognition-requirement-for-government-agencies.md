@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recog
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
         width: 1200
         height: 677
-        isCached: true
-  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
-    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
-    publishedDateTime: 2022-02-09T19:48:00Z
-    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 34
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
         isCached: true
   - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
     excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."

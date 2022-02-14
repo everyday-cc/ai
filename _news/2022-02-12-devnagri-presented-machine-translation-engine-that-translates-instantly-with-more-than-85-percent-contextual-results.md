@@ -1,29 +1,27 @@
 ---
 category: news
-title: "'Devnagri' presented Machine Translation Engine that translates instantly with more than 85 percent Contextual Results"
-excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagri's platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
-publishedDateTime: 2022-02-12T11:00:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html"
+title: "'Devnagri' Presented Machine Translation Engine that Translates Instantly with more than 85 percent Contextual Results"
+excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagris platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
+publishedDateTime: 2022-02-12T07:13:00Z
+originalUrl: "https://www.indianweb2.com/2022/02/devnagri-presented-machine-translation.html"
+webUrl: "https://www.indianweb2.com/2022/02/devnagri-presented-machine-translation.html"
 type: article
-quality: 50
-heat: 70
-published: true
+quality: 30
+heat: -1
+published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: indianweb2.com
+  domain: indianweb2.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/12/full/20220212135151.jpg"
-    width: 600
-    height: 450
+  - url: "https://lh5.googleusercontent.com/proxy/JAmDABaSdYTeaTRZUxl4VoT_vxaQmQ4KQEVsotNb3T-erZQ63Ti5nBIr9VJH0yLBhoYN127fFOlqoTQusoGBnwMY7Ckfn4VgbyOtqsO2hWIajhc"
+    width: 512
+    height: 276
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: webindia123.com
     quality: 10
 
-secured: "XFBhXPmb7zZW/k7CjKPy2tSQMaZXgHe9l1RNzIsUHzqj+DeXFZFIlkE2rGrbW3AfGY1dDOPD4UMPQFjh8OFXlFbQh5t7mEqOQeKn5aEbVogSfnuK5s4kczCRJMA7GYEzKp/L3Uv+eyuM271nVtVnv90Kj7JuZBKiN+8qWYeyU+WWtcRLSJAzt3lCWz8x4TJRFOTS2PT9zcV1u+hN5OJKY5n9MGYQGlpMCd3qZIot0wpiDjyG+aaMV1pOgv/MSe7yrxND+q2dVv05Pu9b22Y1mdXLsoNXfSbcAJq0DSPhq6hjGsKpEtGXxb2JuUDidPfpThq8oFAkZXHGvFCgcaz05vSbH/qf9C7W5lFR2tMI02wJTw7Tu9tAlCwHFZbDFoTFy8wxn1lChXMKMxeV3M4joQvfv10X7gCEqIFH/Z9VevpgPQIKl5trIN8fMcfaciMG4+teViL3Pi59d9bsHumpMd5O28oVEx6UIUDSpPqVpPDpnuBcfNmQuXBY8wgL85khb4t3uIIdkJIBzyZhJgITBQ==;BBQ1XPDQDFESFTUPWOXTzg=="
+secured: "P/qihgt8jFadEwVQqfo6X9ftjct+b1DOpEWB/Buir7LVUOeYsAt2XoUrx460XgY6O5X+o+W1jEybqTR+k5OYCqABMR+zDe8QFchnLqknSLBlRl94dzzOIGX9RJ0HRXRwCzRX/1Nh5GKP7s3RIgaIHYeK2KFHz04lg+KcXwKMdQyvs9QsnEmId3nWEIIRqo7CDo/boqTlUrYyPXKZAHj8WQP3601kz3CAdQYtFBkaG8M34MGRdj7VV1NYdLnmITB3FljkkdyHg//LPkuE917YYGpugaMM418YdXeTUu09xE3SAvLSy9ojCthpPJKQvs8vxzVLNhjrXnAOseKg1MscDNFqRi7CTrzJNpDigIP7toY=;J1k6caCKT0De/x/B/lHh5A=="
 ---
 

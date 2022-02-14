@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-14-dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence.md",
+      "title": "Dubai to unveil new mental health app that uses artificial intelligence",
+      "excerpt": "Users’ daily voice logs to be analysed by algorithms to recommend therapy, book a doctor Dr Ayesha Al Basti (L) from the DHA with a visitor at the 'Mindspire' event at Expo 2020 Dubai Image ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
+      "originalUrl": "https://gulfnews.com/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/02/14/Dr-Ayesha-Al-Basti-with-a-visitor-at--Mindspire--event-at-Expo-1644841205236_17ef82cfdfd_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
+      "publishedDateTime": "2022-02-14T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits.md",
+      "title": "How Telecom Companies Can Leverage Machine Learning To Boost Their Profits",
+      "excerpt": "Businesses can use specific capabilities, avatars or applications of machine learning and AI for this purpose. AI and Predictive Analysis: For Optimizing Global Telecom Networks Mobile networks are one of the prime components of the ever-expanding internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61d67c285d76cd136b034eaa/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1000,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
+      "publishedDateTime": "2022-02-14T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-elon-musks-neuralink-says-brain-chips-in-monkeys-follow-ethical-rules.md",
+      "title": "Elon Musk’s Neuralink says brain chips in monkeys follow ethical rules",
+      "excerpt": "Elon Musk’s brain chip startup Neuralink has responded to accusations that ... The company eventually hopes to use the technology to allow “human-AI symbiosis”, though early applications will focus on treating people with brain disorders and diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html",
+      "originalUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/02/14/10/elon%20musk%20neuralink%20monkey%20brain%20chip.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-europe-needs-to-hasten-ai-in-manufacturing-adoption.md",
       "title": "Europe needs to hasten AI in manufacturing adoption",
       "excerpt": "When it comes to automating processes in the manufacturing industry, AI is a key technology component in making it happen. Today, AI in manufacturing has a myriad of use cases that can not only help businesses have better businesses continuity and ...",
@@ -293,49 +432,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results.md",
-      "title": "'Devnagri' presented Machine Translation Engine that translates instantly with more than 85 percent Contextual Results",
-      "excerpt": "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagri's platform combines AI and human-powered translation with Machine Learning. They are powered by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/12/full/20220212135151.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "publishedDateTime": "2022-02-12T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1125,102 +1221,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot.md",
-      "title": "AITX unit, Robotic Assistance Devices bags order for Wally Security Robot",
-      "excerpt": "Artificial Intelligence Technology Solutions' (OTCPK ... Previously (Jan. 21): Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport To ensure this doesn ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "originalUrl": "https://seekingalpha.com/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1320950393/image_1320950393.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "publishedDateTime": "2022-02-11T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-the-ai-edge-chip-market-is-on-fire-kindled-by-staggering-vc-funding.md",
-      "title": "The AI edge chip market is on fire, kindled by 'staggering' VC funding",
-      "excerpt": "Chips to perform AI inference on edge devices such as smartphones is a red-hot market, even years into the field's emergence, attracting more and more startups and more and more venture funding, according to a prominent chip analyst firm covering the field. \"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/?taid=620846816194ae0001832e64",
-      "originalUrl": "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/?taid=620846816194ae0001832e64",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/",
-      "publishedDateTime": "2022-02-11T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

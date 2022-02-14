@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sony AI defeats human racers in Gran Turismo PlayStation game"
-    excerpt: "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors ..."
-    publishedDateTime: 2022-02-09T20:41:00Z
-    webUrl: "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sony develops Gran Turismo AI agent that can beat top game players"
     excerpt: "She continues to expand her repertoire as a tech journalist with ZDNet. Sony AI, together with Polyphony Digital (PDI) and Sony Interactive Entertainment (SIE), have jointly developed Gran Turismo (GT) Sophy, an AI-based agent trained to bring a realistic ..."
     publishedDateTime: 2022-02-10T17:57:00Z
@@ -148,15 +132,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence beats top human players in popular racing game"
-    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
-    publishedDateTime: 2022-02-12T01:25:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
+  - title: "Sony built an AI that can beat you at video games, with honor"
+    excerpt: "First they came for chess, now they come for video games. In the 21st century, a legion of AI competitors could very well dominate every board, screen, and console played by humans. Famous machines like Deep Blue and Alpha Go have already conquered some of ..."
+    publishedDateTime: 2022-02-11T13:25:00Z
+    webUrl: "https://www.fastcompany.com/90720719/sony-built-an-ai-that-can-beat-you-at-video-games-with-honor"
     type: article
     provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 17
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-First-they-came-for-chess-now-they-come-for-video-games-This-AI-will-dust-you.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VjElQrcIeMMVAu2bAuMOqN/qUfj4a6w8TeV23WYPm514bcsaiv92jLb8KHkklcZI7E/oASTCfajYdNe/s9kGXU9JeQKSY+u4w4nEUWNkT8xCaxXYe8rSfof45KZeCbSlh6bf8kMnkce18UAMWswguJjPjWzDOs/BhLg2ohX6QR5xXVLSK7m/AAIX5FnLKl3OdYVe7TGmNPv1Zj6q72Xn3PFzzENZkp3gS3vw9nlRAJcDCK52iTZMeN11o0DU3eY66yF4i4GenGVMlWUwaEArqcYEcdAAOtWIouN3LWOm9OLdSECEG3co4rkAv13oWpxKY2eFrRFBoBboTf/68h5smkfPmnUmS42rlaQVPQ6zLTA=;t3+kkTpz8ZtwDOk0RL0u4w=="
 ---

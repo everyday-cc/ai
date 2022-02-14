@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-12-devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results.md",
-      "title": "'Devnagri' presented Machine Translation Engine that translates instantly with more than 85 percent Contextual Results",
-      "excerpt": "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagri's platform combines AI and human-powered translation with Machine Learning. They are powered by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/12/full/20220212135151.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/devnagri-presented-machine-translation-engine-that-translates-instantly-with-more-than-85-percent-contextual-results-122021200782_1.html",
-      "publishedDateTime": "2022-02-12T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-12-symbolic-ai-the-key-to-the-thinking-machine.md",
       "title": "Symbolic AI: The key to the thinking machine",
       "excerpt": "Register here. Even as many enterprises are just starting to dip their toes into the AI pool with rudimentary machine learning (ML) and deep learning (DL) models, a new form of the technology ...",
@@ -1475,6 +1432,58 @@
         "name": "The Standard Digital",
         "domain": "standardmedia.co.ke",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-report-62-of-orgs-use-voice-technology-to-increase-revenue.md",
+      "title": "Report: 62% of orgs use voice technology to increase revenue",
+      "excerpt": "A new report found that many companies are using voice technology to identify new business opportunities, and to increase revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/voice-conversational-UI.GettyImages-1031313606.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/amp/",
+      "publishedDateTime": "2022-01-28T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

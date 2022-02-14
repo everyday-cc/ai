@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision System Market is Expected to Reach USD 25.69 Billion By 2028"
+    excerpt: "Increased advancements in information and communication technology [ICT], increased demand for vision-guided robotic systems, and continuous R&D in digital technology resulted in boosting Computer Vision System market. Computer Vision System Market Size ..."
+    publishedDateTime: 2022-02-14T11:26:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-is-expected-to-reach-usd-25-69-billion-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Indian AI-SaaS start-ups can create market value of US$ 500 billion by 2030"
     excerpt: "According to a survey by venture capital firm Stellaris and the World Bank-backed International Finance Corporation (IFC), India's artificial intelligence (AI) and software as a service (SaaS) start-ups are well-positioned to create a market value of more ..."
     publishedDateTime: 2022-02-11T05:19:00Z
