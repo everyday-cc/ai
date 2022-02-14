@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/ai-company-launches-remote-ca
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-company-launches-remote-care-service-for-chronic-conditions"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 480
     height: 278
     isCached: true
+
+related:
+  - title: "MarkiTech, A Top 20 AI Company, Launches API Marketplace - A Data Monetization Platform for Healthcare"
+    excerpt: "Start of the Year Successes for MarkiTech.AI MarkiTech.AI was selected one of the Top 20 Leading Companies in AI in 2022 by Global Business Leaders, US. Its high capability in catering to the ..."
+    publishedDateTime: 2022-02-14T18:42:00Z
+    webUrl: "https://menafn.com/1103693864/MarkiTech-A-Top-20-AI-Company-Launches-API-Marketplace-A-Data-Monetization-Platform-for-Healthcare"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/14/EP_3244fimage_story.png"
+        width: 940
+        height: 788
+        isCached: true
 
 secured: "eJlkLv1NIa28Irs9r6HVGm2lCbufHzJTTZ125en11J9kWe5MZiBFzb5bvoP3p+59hvdLWm8NGzD8gVR0xDHJfN0xAxs5XGh1MJv5vT3S5NpP2+QFhsgjLYrWYEsyKxnummR6Q0B5ou8o187Ovbzj2K9a/ccTRexqm9kN1Hz4XzBwncMuEtlobBMH7cJI2hilf6cEV4qjgCcSVNU7AwjDuR+RGMF2lMMe+a9ftLa0w18SY96vlPAMqqwZHEoS53caf8r/1O72+K5fUq2mtLzGZR37QEoXRUeJ6t6yOgN5213QvgLMltYRQk0+CbLEaRiWzOGBQQnJQd8AmHLwU3YJrfrDkUclDVrm5sHfa7wRaDe+UNwiSwHCAB7bNt1jx6Hl8Ge2ihYLf7k5jO4OMhhJYoc7qTaUs1Jlqcj5fHdN2JZmKA3gDgBw0trvfa0KZNysEqmEqvmjeJlcGqEtdu37v7FMv6lkr24rT1ltsIzQyGefy1KLGC0dxsznfdYc/UENX8K72juguEgcgfpV22vdZA==;xxiccxRwieAAGRfhnoMAhw=="
 ---

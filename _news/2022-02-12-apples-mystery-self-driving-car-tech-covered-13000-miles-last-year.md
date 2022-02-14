@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "CASEY: On the brave new road to self-driving cars ... and Rocky Mount"
-    excerpt: "It seemed perfect. “I am able to tell you that this is NOT a self-driving car,” Maxey also told me. Could have fooled me. We made it to Rocky Mount without incident, then headed east on U.S ..."
-    publishedDateTime: 2022-02-10T02:32:00Z
-    webUrl: "https://roanoke.com/news/local/casey-on-the-brave-new-road-to-self-driving-cars-and-rocky-mount/article_a163f8ae-89ef-11ec-9c11-437d2d357616.html"
-    type: article
-    provider:
-      name: The Roanoke Times
-      domain: roanoke.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-        width: 256
-        height: 256
-        isCached: true
 
 secured: "Nm8cgsUb2T24h7wxPXTWThhsU0DG+Vn0SxlGbIFttKzqgYRiwjR5j2DLNWXgFP16b+o8zvQKBP2QH8ChzGCPt3SKDrxbGg6ZCwMuqws0ZAWadw0YrahDNnXuTkS/G1H/FJYFdlbtVU+PrsA3KPprv2g5ohkbAJ0xMSOcg2g/ojVnEO1mWd9QaSA2zrIX7Ktidz5m8i8SjI7KunLZRt+4ge3xcpFY7QJlWNW3KzM4IfO1AUa2uVa3Eud+ZPQjA3Dt3rb5mB4a8eNSmdEAzSjoz/iOerw5qBZSGQEg89AbPU3pip7TpZC+LoU9PgqlwMcx+6n/8Y1RzYe/I8QUgngv01sP1D+WJUP3vP4jI3qfFESLdcC68kSV1oWDiv9TvwGTQGA6cYzb0do+RXh5EaIg69oLcEEptCG8b87CXDU8iDSmBlRUiiAtOObFbUePVGtzCcsy9YHlr5TrAc4C293KRrMY0rF3VmJQsuPIO4QQW5qwINIryajcgKAEv31o7eBnxJJpavni+r5KJqMqf5yvCw==;dRox7msdKyQHu5UvAze8ew=="
 ---

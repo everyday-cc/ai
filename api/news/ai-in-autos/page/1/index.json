@@ -107,49 +107,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-11-this-company-plans-to-build-a-self-driving-car-with-a-brain-that-runs-on-light.md",
-      "title": "This company plans to build a self-driving car with a brain that runs on light",
-      "excerpt": "One company planning on tinkering at the intersection of these trends is called Lightmatter, which is going to build the brains of a self-driving prototype vehicle. The company’s microchips set them apart from others in the tech industry: The chips that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/",
-      "originalUrl": "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/02/10/darwin-vegher-IAc1x02D9K0-unsplash.jpg?auto=webp",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp",
-      "publishedDateTime": "2022-02-11T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-11-maryland-armed-robbery-victim-allegedly-shot-teenage-attacker-in-self-defense-authorities-say.md",
       "title": "Maryland armed robbery victim allegedly shot teenage attacker in self-defense, authorities say",
       "excerpt": "The victim discharged his registered weapon in what police believe to be self-defense, striking one 17-year-old robbery ... and apprehended the 16-year-old and other 17-year-old suspects driving the vehicle. The 16-year-old and two 17-year-old suspects ...",
@@ -262,7 +219,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -397,6 +354,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
+      "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
+      "excerpt": "One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away from the road. Raquel Urtasun’s Toronto-based company Waabi revealed Wednesday that it has built a high-fidelity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insauga.com/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/",
+      "originalUrl": "https://www.insauga.com/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.insauga.com/wp-content/uploads/2022/02/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg",
+          "width": 1280,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mississauga's Top 5 Fish",
+        "domain": "insauga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

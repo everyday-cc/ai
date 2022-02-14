@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive"
+    excerpt: "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ..."
+    publishedDateTime: 2022-02-14T18:33:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaKtWWAHaJUI/v0/1200x748.png"
+        width: 1200
+        height: 748
+        isCached: true
   - title: "Autonomous taxis are safer than Tesla’s ‘self-driving’ tech"
     excerpt: "It started with a rallying cry against the use of misleading terms like ‘self-driving’ to describe car functionalities that sit firmly in Level 2 in terms of vehicle automation. Even when a ..."
     publishedDateTime: 2022-02-10T14:02:00Z
@@ -92,6 +106,22 @@ related:
       - url: "https://wp-assets.futurism.com/2022/02/experts-alarmed-tesla-fsd-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
+    excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
+    publishedDateTime: 2022-02-14T18:01:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-price-self-driving-cars-51644843165"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-price-self-driving-cars-51644843165"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-price-self-driving-cars-51644843165"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 53
+    images:
+      - url: "https://images.barrons.com/im-462998/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster"
     excerpt: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster 4 the Drivers Oy is a Helsinki-based company that has been founded in 2021. The company makes hand-held manual controllers for autonomous vehicles and ..."

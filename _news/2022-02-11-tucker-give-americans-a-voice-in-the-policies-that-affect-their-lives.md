@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/transcript/tucker-give-americans-a-voice-in-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-give-americans-a-voice-in-the-policies-that-affect-their-lives.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Americans have too much stuff: The upward trend of self storage"
+    excerpt: "Self storage continues to gain popularity for ... The growing demand for the service is consequently driving prices, the national average price now $127 per month, up 6.7 percent year-over-year."
+    publishedDateTime: 2022-02-14T18:00:00Z
+    webUrl: "https://rejournals.com/americans-have-too-much-stuff-the-upward-trend-of-self-storage/"
+    type: article
+    provider:
+      name: RE Journals
+      domain: rejournals.com
+    quality: 24
+    images:
+      - url: "https://rejournals.com/wp-content/uploads/adam-winger-OpV94f2edwE-unsplash.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "1zQ87JZEy2+avhJvua5OKdXbhScxs1Ycoeq6QsaS12Wr3QYiooL7Gkdcd5jyoGFHSvlH0zcL7YOQWi2aPE5TqeeOCciokQ0ihmSbZU2vXSE0PEZw+hFkBXJIJ+4zCCtw/4MsnkhAkpxJyDadZWF8rhpOhDgdXdfFG2PPc3M4m9RAHe3kr2Nc0O6CWfE0rDDtF3XDKMYYpln0ODhEaKy2dea6ibIVMNQasoQ+fegCO1qdcu3ZBUmcZfb+JgdjlQt5DVnAY/SvZHpDYf1H7nU83fY9CGOdtCpHUjQnsJC4RJyAkfka/y4BpuxK+s7lUPccFawBuTM3IJLjg0UfIXme5CRryzs1JaktXdFQ/550/Yc=;mY/6C9BZNEDYmGF+fokaRg=="
 ---
