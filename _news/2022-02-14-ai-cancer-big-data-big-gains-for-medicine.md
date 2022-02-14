@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T14:41:00Z
 originalUrl: "https://www.openaccessgovernment.org/ai-cancer/129591/"
 webUrl: "https://www.openaccessgovernment.org/ai-cancer/129591/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: openaccessgovernment.org

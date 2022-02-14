@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sony-develops-gran-turismo-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-develops-gran-turismo-ai-agent-that-can-beat-top-game-players/"
 type: article
 quality: 87
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sony's Gran Turismo AI demolishes the world's best human drivers"
+    excerpt: "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors."
+    publishedDateTime: 2022-02-14T16:34:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sony created a Gran Turismo AI that demolishes the world's best human drivers"
     excerpt: "As is common in AI, Sony trained its versions of Sophy GT using fast graphics chips. To run the simulations, it used computers with conventional processors. The next in the venerable series, Gran Turismo 7, debuts on March 4."
     publishedDateTime: 2022-02-10T04:31:00Z
@@ -45,22 +61,6 @@ related:
       - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Sony’s new AI driver achieves ‘reliably superhuman’ race times in Gran Turismo"
-    excerpt: "AI agents have bested humans at many games, from chess to Go to poker. Now, the machines can claim a new high score on the classic racing video game series Gran Turismo. Sony announced today that its researchers have developed an AI driver named GT Sophy ..."
-    publishedDateTime: 2022-02-10T01:01:00Z
-    webUrl: "https://www.theverge.com/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/naBUN_x1JY-fa1a78xpWTJs2OAI=/0x0:2988x1990/1400x933/filters:focal(1255x756:1733x1234):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70488847/1174706815.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
     excerpt: "Sony Group Corp. says it has trained a champion capable of beating the world’s best racers at Gran Turismo -- only the player is an artificial intelligence agent."
@@ -108,20 +108,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
-    excerpt: "On the other hand, now that the proof-of-concept is here, you never know where this kind of AI tech may start popping up. Check out our Gran Turismo 7 preview to see how else it changes the racing game. I got a BA in journalism from Central Michigan ..."
-    publishedDateTime: 2022-02-09T23:00:00Z
-    webUrl: "https://www.gamesradar.com/au/sony-ais-first-major-product-is-a-fast-learning-gran-turismo-racer/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/dQsLErTFoxCpKhKtac7icC-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
     excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
     publishedDateTime: 2022-02-10T08:51:00Z
@@ -136,20 +122,15 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Sony built an AI that can beat you at video games, with honor"
-    excerpt: "First they came for chess, now they come for video games. In the 21st century, a legion of AI competitors could very well dominate every board, screen, and console played by humans. Famous machines like Deep Blue and Alpha Go have already conquered some of ..."
-    publishedDateTime: 2022-02-11T13:25:00Z
-    webUrl: "https://www.fastcompany.com/90720719/sony-built-an-ai-that-can-beat-you-at-video-games-with-honor"
+  - title: "Artificial intelligence beats top human players in popular racing game"
+    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
+    publishedDateTime: 2022-02-12T01:25:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-First-they-came-for-chess-now-they-come-for-video-games-This-AI-will-dust-you.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Health News Florida
+      domain: usf.edu
+    quality: 17
 
 secured: "TlJy7kIjU399Id8hLLvhqKyD8vXozTVYTqoqK0ew5Jo+r4Cd9kP9MgHPmS8UFSKpYBkSC/L0G5+5p5i/bxfY0OT6hjL6VDZGf/l6xNeKsfLVnmXt+iOJm2vyBERdK8rRKQM2g6paKCCdOy+7ykcAX4b8Yd1ggi6aa5w525d24LyaMqlPhjse4iYgiCURd79IS1RnC1edJ4IC1wFTwByLCp45VJR007/dGkXBw6iudT2pgbYrjQWtOGDU1scXTqb5Q7uZdm/lLNwZutpBIhTdvkB3LefUT8afnO1R1pm/aR8Jd9dmoFVxZsU4aFrwSKFY41A7TNkq9ig3YAj6oxl6VxMuvj5EyJXf+L8bKyKX+NO1/5o1qghsA6JArw9j6ICiAgCvoG/wjDsU8ebDxjSqOPbjNPWm/yi3B32dwPbuXd+1qj9PU3Z4ofFZh7eSTn6M3Q9f5QaMRWKv8m3xIPmV0gZxfbxdlyqYvnQMX1S96UbeGQ7sseKrYNIFfntyZo19kMxxCPbA6sduPXq4muNl/Q==;ghCiZvzV+GO+NMJc3CohDA=="
 ---

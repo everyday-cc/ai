@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T14:44:00Z
 originalUrl: "https://www.bbntimes.com/science/can-artificial-intelligence-really-detect-your-emotions"
 webUrl: "https://www.bbntimes.com/science/can-artificial-intelligence-really-detect-your-emotions"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: bbntimes

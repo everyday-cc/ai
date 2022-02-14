@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T13:45:00Z
 originalUrl: "https://nationalpost.com/pmn/technology-pmn/amd-closes-biggest-chip-acquisition-with-49-8-bln-purchase-of-xilinx"
 webUrl: "https://nationalpost.com/pmn/technology-pmn/amd-closes-biggest-chip-acquisition-with-49-8-bln-purchase-of-xilinx"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: National Post

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-deep-instinct-welcomes-two-new-cyb
 webUrl: "https://www.tmcnet.com/usubmit/-deep-instinct-welcomes-two-new-cybersecurity-experts-executive-/2022/02/10/9543597.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Comparing Legacy Rules-Based Cybersecurity Platforms And AI-Based Platforms"
+    excerpt: "One solution is to leverage \"third-wave AI,\" which DARPA defines as AI that is based on generative dynamical models of the underlying network and leverages contextual reasoning rather than simple automation. Rule-based and supervised machine learning ..."
+    publishedDateTime: 2022-02-14T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/14/comparing-legacy-rules-based-cybersecurity-platforms-and-ai-based-platforms/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
 
 secured: "hrhK6JykzWQF15YWHX0L2E+3fpSp3+Bms6rfDmgIOmdkkU238ScSfbDUWJo59+i6/X2NSKOmpdxc/Ktuwn3ylPDoxFMVtt/+e7ttwuwezpqL/Tf2JRjv0pE9n5GbI8LudmDHCkfV4EG3V2oSemE53jhXzAniw1ZeUbgiaLvtKjxx+geMaMUe14KYIMWsdBicgBUaWK+BbzK8z5+kLORJe5NJlvykse01IIS1rjWt+oDqbIgqX9q++k4QL/GdDgs4e1wnePrIJGK7RA5veL9x0j7E/TlOsxRjjYKPt3NztNmOqGLCuvxJGVdsaB12I+KOAKu52NdlFMCgwGWLHGGiGHL9w5rLBp8Ohnxy8v02MCMssybn8OMzG+z1Xgb03IwnX0jWdhA6PoXAEUK9VlFMxj/AFJHZaMqPLDAMQxzd30P9MbNJgqi/omb8ZygkvhC7kDM8ffcPuuWzyBRhi8F1SqqJ1DoHosHtycA8dNodU9JAQ+F+7MjH9C/mQPQXO5R99MJ/BwfFQw0DPSpdnot7BA==;8RsuNbxST7OqI4cni2zZrA=="
 ---

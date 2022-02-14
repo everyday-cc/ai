@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T13:35:00Z
 originalUrl: "https://www.digitaljournal.com/pr/modex-2022-to-feature-picavi-pick-by-vision-with-artificial-intelligence-driving-better-warehouse-performance"
 webUrl: "https://www.digitaljournal.com/pr/modex-2022-to-feature-picavi-pick-by-vision-with-artificial-intelligence-driving-better-warehouse-performance"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/lightmatter-receives-funding-auton
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp"
 type: article
 quality: 55
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars may soon be coming to Trenton"
-    excerpt: "Officials unveiled plans for a new autonomous vehicle program during an event at Trenton Central High School on Wednesday. The hope is that the program will especially help the younger generations ..."
-    publishedDateTime: 2022-02-09T21:44:00Z
-    webUrl: "https://longisland.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
-    ampWebUrl: "https://longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
-    cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 44
-    images:
-      - url: "https://img.chdrstatic.com/media/d6868ecd-60a5-4464-96d8-3717b688c396.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple’s Mystery Self-Driving Car Tech Covered 13,000 Miles Last Year"
     excerpt: "As part of the testing of these systems, the firm is required to log all miles covered by self-driving cars with the State of California. But I digress. Once companies have logged all their miles ..."
     publishedDateTime: 2022-02-11T17:47:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "It’s time we got on the right track with ‘self-driving’ cars"
-    excerpt: "Anyone who has spent hours on long motorway journeys will have fantasised about an automated vehicle doing all the work. In the real world, automated vehicles — so-called driverless cars — have been developed more with an eye on improved road safety ..."
-    publishedDateTime: 2022-02-10T00:07:00Z
-    webUrl: "https://www.thetimes.co.uk/article/its-time-we-got-on-the-right-track-with-self-driving-cars-k7k5frj7f"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F803c0f66-89c4-11ec-a837-0153f5f4adaf.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "jFfFKd7z5FkynbUoSidCQBoGWQxUDZ2rAkMM1HPu6gCiOBQDz/dbt/+ygUPcIG2Uy5l03G0UszP0y0wCBbgXk3Fzxa+pbMvkGs8ikUPf3ljBtXBqit/dF8pvzhzR9KmYyicO/fsUtvrQqR5g7t2iTBpFeWMIwplyRdIRTn8uQFmp6V5qGazPsLGmkVqUWL4jOUoyP1j2SWe0YSCQmlWw+2+9K0wEf5Yl787cg1PlUicWIzqFEIwRLcU4IhTCgAIr1KrMJIpVJCIZcPEBn0F20k+qbmGS4PuHFNzgTBAhM0OBMFriElx00/obdhNKX/w/6Ims+1HokgfOVmHhzoaFoLf75W3Z4YeN5hs0YAip1ouxaT9p3EiImYJWA3Yn1l4egwLX2MOr7Kpf48uafrSWBCBqp6k2BzzgO8Ok65+gWhWsfmY4XLN/icrdFEa73SeWhZ//gmbwxObt3UE9Gw428vJMzZE6j+ib79eTaCkYJGEhm/swPiUc9i4rDX3JiIgq530S6ssmAJJFxN5WgynGBw==;mZVCuB6gUWE7JP8+V6kdlg=="

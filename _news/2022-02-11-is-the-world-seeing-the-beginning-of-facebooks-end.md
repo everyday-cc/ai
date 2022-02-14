@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Texas Sues Meta Over Facebook’s Facial-Recognition Practices"
+    excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
+    publishedDateTime: 2022-02-14T15:06:00Z
+    webUrl: "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-485400/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Texas sues Facebook owner Meta over face recognition"
+    excerpt: "The state of Texas is suing Meta Platforms (FB-0.2%) seeking hundreds of billions of dollars, saying that Facebook's use of facial recognition violated state privacy protections. Texas Attorney ..."
+    publishedDateTime: 2022-02-14T15:21:00Z
+    webUrl: "https://seekingalpha.com/news/3799624-texas-sues-facebook-owner-meta-over-face-recognition"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3799624-texas-sues-facebook-owner-meta-over-face-recognition"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799624-texas-sues-facebook-owner-meta-over-face-recognition"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1291913158/image_1291913158.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z
@@ -55,6 +87,17 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Texas sues Meta over Facebook's facial-recognition practices - report"
+    excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology ..."
+    publishedDateTime: 2022-02-14T16:53:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/crime-pmn/texas-sues-meta-over-facebooks-facial-recognition-practices-report"
+    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/crime-pmn/texas-sues-meta-over-facebooks-facial-recognition-practices-report/wcm/9f80ea48-ded5-4bfd-9611-6c4726f59549/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/crime-pmn/texas-sues-meta-over-facebooks-facial-recognition-practices-report/wcm/9f80ea48-ded5-4bfd-9611-6c4726f59549/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 24
 
 secured: "R/A7hvM5gDqkPZQ0WlBXTz7R8IJk/YpNM/TrCzsJT8R2zwd67bEyGYQfAuxt+Wq9QQUUlnqwJgOQz/xLFdmpDRgVwfn3AG1E2MYXgR5xn28zkTlQZLaMjppZdNd2IM4+pW67a8u1MQdiPHyVISaXo1z1frHW7FMe7Au7OSkktk3HpICo4QkqLpbajGsThxLzNOI/UGvAqrrhsj4IuOprP28w/okjP/OrDcvQZQ+gptLCVzMWTXwcsjkobDAIMSbr2b73BCPzbwIkdE9zm1iGqpD/YApcIr1dQSZ04Q9wtOly1UV4Ig1LoYCE2EjEtSgWMxuPQOSGT4Ss8c4p3bAnzySp/ZE/i9Grb/EnoYRC/mo6VFcqEbtyWA58gA03cbl+1oqbBvVzESTKnOncxQ6UtNzH+Ci+p+QJDJNjswFNIaTrNz6zrW8MHZbxjcSy+reMoZ2PVNDJuBfGGCZ8y8SkoGAWJ12glP3JREzUMKof18zMwa9Y4n+qjJZ6AwpSEi8oU+ScsqFFW79vtcBthc+eTg==;w4uYd0I4PRtCZg/Qpqnb7g=="
 ---

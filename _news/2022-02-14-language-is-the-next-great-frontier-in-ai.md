@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-nex
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1934
     height: 1088
     isCached: true
+
+related:
+  - title: "Why better data governance is the key to better AI"
+    excerpt: "“We can use AI to identify unusual patterns of behaviour in a business… or we can see a business changing how it earns money from contracts in real time,” says Franki Hackett, head of audit and ethics at data analytics firm Engine B. “To do ..."
+    publishedDateTime: 2022-02-14T16:17:00Z
+    webUrl: "https://www.raconteur.net/technology/data-governance-ai-machine-learning/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/02/Web-images-Feb-2022-7.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "n+rvDFKxjPZfoxOPBGFb9oGd4VKHdVOhbrBQiNbkI3rLON5MH8K8uH646EV5hPVsRuGxHfrzZgxEDKrAdHuAXquc9rWORdCMraL/Xc8lYQvAkCUYboIfGVsseE8GVqrXde5XGPh3OMJOEqF22PDFdG2SKJD1wDHLjhi7CtfW/he/VVcpWE6/z85GboYLyIhHTn/sMYhK/1tHmiRIDWHmaTXVdmeuFloW0ejoDILDLAJQ9jROHz7HQCGjPVrsF/aSA27QhLsm8sAY9GuF6SkyAHWMslzYcutYDPe0nFq1Q6zoHhC7doR4rXJePUNfwfDLu3bfHcKtF8rIsfqfk0NVNnVezDAQOLvgLtWyQ4tByfEJNxp8hvmwiQrtJP6GM/bWDVSo12bJTTyR9TXa6rOeJRAPC9F4nYWTlQokfzIEMtsFXEjWlHd6sYyIh5Htl3poTXyPX+v+d27Ch6LqBMaJeFF1ihKVWx3FQX+pcCm2NVFqzJcH2XD5iHeW2AAWqXnwUQr97fM/OQY+EWDMJdStNw==;SaKbejCW8a1INLD5Mdzb9A=="
 ---

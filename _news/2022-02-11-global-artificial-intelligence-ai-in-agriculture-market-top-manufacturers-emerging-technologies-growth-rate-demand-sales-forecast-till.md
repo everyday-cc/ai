@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-top-manufacturers-emerging-technologies-growth-rate-demand-sales-forecast-till-2028-2022-02-11"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Machine Learning Market Future Trend, Global Demand and Current Scenario by Forecast to 2027"
+    excerpt: "Machine Learning is a part of Artificial Intelligence (AI) that grants computers the capability to learn without being detailed programmed. Machine learning market mainly focuses on the improvement of the computers programs that can be switch when reveal ..."
+    publishedDateTime: 2022-02-14T13:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-future-trend-global-demand-and-current-scenario-by-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
 
 secured: "7+LASlV8iFbzAu6bP9JpLMSb7JHOABpOmJj7zPUWdMJynfKaMHksMWSAsQvT9rFAgmd7rffqcHTABjcyXqohqf7IbxDDDsc62rrSIhHN9wUIxWsWsuinX+OcR4/LrWJ0CjuRxH4nS1dnASqayDG3YocakCQjCZCGiYnKFFS22NOc9igC7G0Tt5H1eGgnD17sgMbn8hpzsoubDbcMTQeEDqhagScme4b0S8bVOsd43dRDXejTjwBPymVNSP7rZbGtIfKDk3CQqytjBK8M+C3/p6XyPCYHtiQZQn3IRpoC0IaqAonO9QBfRk9tdjh1txB1lDcBZl7Cu0ifSNN/ZV+gbdY1EmF4Z0UTSHdAvqAVRq0=;UGOyRiXDwjlE3uhPrAEf+A=="
 ---

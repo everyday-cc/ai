@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/news-releases/943116"
 webUrl: "https://www.eurekalert.org/news-releases/943116"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: EurekAlert!
@@ -38,20 +38,6 @@ related:
       - url: "http://www.idw-online.de/de/institutionlogo22442"
         width: 1890
         height: 827
-        isCached: true
-  - title: "Amazon's AI Is Helping the Police Watch You"
-    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
-    publishedDateTime: 2022-02-10T00:00:00Z
-    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
-        width: 1280
-        height: 856
         isCached: true
 
 secured: "Cs0RpZHdL8EM+tHionSSY7DYfIZsA/N2gdwschk7+jEtCzJ8fvugVwfOHa3kjGO7jZtZpkhDO6k7UmYQ1+qM/2Jti+jjvh/eNhXzdCwwfsXTttD2p01s1eS/VPBEd8w0du7RboZdFWwvn90jzBXVeJsHefe4oUfsUL7e4rv7i+pUtFZRgrLBZO819pkzYQFt4Phii8K9yXKto3wUrgMf1pMg6/ZdyboISHwaP1rgKpnxW4YRFNRDqz5+vbd6pa2Ql2B5WV38zCJLr2ohNfuqeC5sODLuS/SN6ijPTpO0No1bRdr8YPuWZQWyzw+pnF+2pux5rfH1L8D+ohXAIhS4ESRBfwEfgKw9Vqoh55U2lMiFD43GX0bngYJFK376iZyUuOq58OXZA5gS54YwqEkvrDplp6o5lhqvAoUsEHwG0+IkjFGsG+p/ATZI29wQYQdcTQ7As8qiywfzK3/MivFLrI8/IRsDGx3tpC3pRes4Kn51JDTEX+oAKQDidO9rqX525rN4hZWiIqa15oUIiUYeUw==;yqZ4QrjyOiGh9ovIRaw7Wg=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T14:43:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-business-health-travel-lifestyle-c7f6abab9f4048868c3cba78d2d5521d"
 webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-business-health-travel-lifestyle-c7f6abab9f4048868c3cba78d2d5521d"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -14,6 +17,31 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Global Artificial Intelligence in Healthcare Intellectual Property Landscape Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Healthcare ... improve operational efficiencies and cut-down on both operational and administrative expenses. Today, self-learning algorithms are being used to develop AI that can not only help automate various simple ..."
+    publishedDateTime: 2022-02-10T14:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20234737.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 35
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "22nd Issue Oil & Gas Start-Up Tracker - AI as a Tool to Achieve Sustainability Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The “Oil & Gas Start-Up Tracker - Issue 22” report has been added to ... newer technologies, such as AI, IoT, and robotics are starting to gain more relevance in the industry. Oil and gas companies adopted automation technologies for their upstream ..."
+    publishedDateTime: 2022-02-10T18:16:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-oil-and-gas-industry-fefd5ff82774434baa66c6525ef3f45a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "dJz+NxN6nSABzwQRzTEajCagl0OZspAkiTZ2tgK1h/juyBQn/0xFUiTFixIHnKbsjZg4PK/dia1fhCryjeIj5D+B+dODB7ELJ/YqaawVz7MABAMR6H7O9vklsCPdRkZqYYnOVPvlcZIE+BBxKtkK833U6+HGmAcMXWiZdf7M6E9QmoO5Pf5BcKMS9d4/uIlmECO9054Ir7LstqK9KRIlAdyenS2Yz/Tihc4GbfPTC5cVRTQK2m6d+mW5H/IvhReQ6xUvDWv1kVEvvlL7MEUfo84pHEmWt90v4IbwCT3it63ZQFP1l11/LIIUQpTv27FCpqTcPAttIwJprCklxjSFaSoFAF/P9i5UMIDdX3Y2dvk=;2DPunZ/VVANkGxALs1KtgA=="
 ---

@@ -103,22 +103,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Tesla Accused of Cutting Corner That Makes Level 3 Self-Driving Impossible"
-    excerpt: "A CNBC report found that Tesla cut corners to deal with the rampant supply chain issues caused by the pandemic — putting yet another hurdle in the way to level three full-self driving cars."
-    publishedDateTime: 2022-02-09T22:20:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-cutting-corners-self-driving"
-    ampWebUrl: "https://futurism.com/tesla-cutting-corners-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-cutting-corners-self-driving/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/tesla-cutting-corners-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster"
     excerpt: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster 4 the Drivers Oy is a Helsinki-based company that has been founded in 2021. The company makes hand-held manual controllers for autonomous vehicles and ..."
     publishedDateTime: 2022-02-11T10:17:00Z
@@ -151,6 +135,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
+    excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
+    publishedDateTime: 2022-02-14T12:53:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-tsla-stock-bulls-bears-self-driving-fsd-51644843165"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 13
 
 secured: "u1njtX/PWIL/6OMcrfGxT1vatEMqDUDTbM81SIiJqAoWRKbzdMAoxtTEYrYz5rufpV3w4M5Q4bU0z9hhuG1/upgfgS1V4HN8p12hkfih70cBHh4URmicQhGVrLJy9ODsbNM6ZKHiXBEEr0E7VL4fslsf5aToiqtRN+D2RIBpOcSagJXba4w9Em6KRQvib6KAIfbQM6zxm/najta3siixanKHKI6YywU1BmW6jdHkHbLsfV5uhGJAdHJGRMUjQKKTGU27e9XfVK/P9IY9fZnZTg0g2wgf977H77qhb0QQMeFq+cURHXoN+1uVgLlxZmko3mwYYDtR24fheskhHZngnoz0ii68O6LmuGVpEKKs9FtZxNXTnx3bqeFjBUNkF3wmqaPXwi1/bmwQWrLyu+jjIwShjhGimCsOpdaYaLk9zbDF7OShr2O81F+Wov+6u31OLkh1ACbxIWnz6ybs0cgwfwZJp7fSNJ4Z/HMmyau/APtuw02PKKp5g7on0SmIGTrgwPtQ7zVtmf3BUaYYtZTyag==;vC3v4/p4UMLd+OxXUA2xzA=="
 ---

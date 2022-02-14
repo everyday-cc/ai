@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Self-driving cars may soon be coming to Trenton"
-    excerpt: "Officials unveiled plans for a new autonomous vehicle program during an event at Trenton Central High School on Wednesday. The hope is that the program will especially help the younger generations ..."
-    publishedDateTime: 2022-02-09T21:44:00Z
-    webUrl: "https://longisland.news12.com/self-driving-cars-may-soon-be-coming-to-trenton"
-    ampWebUrl: "https://longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
-    cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/self-driving-cars-may-soon-be-coming-to-trenton"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 44
-    images:
-      - url: "https://img.chdrstatic.com/media/d6868ecd-60a5-4464-96d8-3717b688c396.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple’s Mystery Self-Driving Car Tech Covered 13,000 Miles Last Year"
     excerpt: "As part of the testing of these systems, the firm is required to log all miles covered by self-driving cars with the State of California. But I digress. Once companies have logged all their miles ..."
     publishedDateTime: 2022-02-11T17:47:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cfed146f17e73027ca67f13f729aa55e.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "It’s time we got on the right track with ‘self-driving’ cars"
-    excerpt: "Anyone who has spent hours on long motorway journeys will have fantasised about an automated vehicle doing all the work. In the real world, automated vehicles — so-called driverless cars — have been developed more with an eye on improved road safety ..."
-    publishedDateTime: 2022-02-10T00:07:00Z
-    webUrl: "https://www.thetimes.co.uk/article/its-time-we-got-on-the-right-track-with-self-driving-cars-k7k5frj7f"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F803c0f66-89c4-11ec-a837-0153f5f4adaf.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "8QlWV++RjectH5SQmN/27hVluBwGnFKtzZ/6zmeDZrubfGjen/TMJXBRDRofJhdvZyAtmLXVkDcH8f8k4f+0Wp5e/N/fQruM9MfXaNDeYYJgAayRtp1/piPN/ThMN/j514e3Ri6teOzlbdYmDXGi+VhbFS6Qs8n1FLRDMVF5/u8C+w6EqYN41vjydwFEtPMLjEeKf8Qszq41R7w2dNDGziGtQcolzwMSY+4ViAZ3A3qfcJH2xZMzwuydZpWWSIL4oAWgW7R4itBVAFSQ3nmC9+6AjO0gGaVAyxvBC6v6NkRg7wA7MkwFYRdXrkzQwSJZhr91Hkbm+a3HjvEr/I+KfDb+tM0B2xvvuZlZ8NoyMaQz9YiOu5R1UhU0brKG+/m8LMANTvhC0B15QfLPdG3wz6h6TPJ3KjHD15DU5Kn04i5soriWPOu4epR0+KURpIZjKzQWLsDoZI25ig+8oyBkWzBQSATKnDIzZKS1bFHPp/fY6hfdAVSyQhvdHMIblUbWqnfS/H8XXXQI00EtS1kmSA==;o/ep4ixQntrfSl6KAzKTKA=="

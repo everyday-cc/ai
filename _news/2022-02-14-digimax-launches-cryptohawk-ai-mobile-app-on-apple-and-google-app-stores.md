@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T14:55:00Z
 originalUrl: "https://menafn.com/1103693205/DigiMax-Launches-CryptoHawk-AI-Mobile-App-on-Apple-and-Google-App-Stores"
 webUrl: "https://menafn.com/1103693205/DigiMax-Launches-CryptoHawk-AI-Mobile-App-on-Apple-and-Google-App-Stores"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

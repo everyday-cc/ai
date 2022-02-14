@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/taking-nvidias-chips-off-table-mack
 webUrl: "https://www.linkedin.com/pulse/taking-nvidias-chips-off-table-mack-page"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 960
     height: 601
     isCached: true
+
+related:
+  - title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
+    excerpt: "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI/ML workload support and the capability to share virtual GPU’s – a relatively recent advancement – across ..."
+    publishedDateTime: 2022-02-14T16:17:00Z
+    webUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
+    ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all"
+        width: 708
+        height: 472
+        isCached: true
 
 secured: "eGWYtVFcD4hvc0qpGkqYqXqHJ6C3yhNxm5s3ulss9T6EpxfaBcfvWbADSgR8ILVWt8sACJDL9GrYNjxWbC8+Z/bNdmfuOnHb8WNGz+97qWk49WiSR7/plkhz/EHM80ELgvyVasCcvrjVpgg1TzNeFCKK8Sy3ds+qBomFgNPSBV+4Q+ikQVd6CPaj74B8WkJ+H2OxmgLYXCqpDg4mYtZ8Y3ePqWB6w0AZy6mn5z1DboOQvL7m6lcmTAqdqEoQXtxyViJNtXNe1tGToD3RMmBgL/RpdHZjx8ZLc442a5Ot0/9+WdK9IArxDS+zMCaUkPAm2aanvXWw/xP5u8vW3r5X+YAT4MXQ8xyuE7kTTGHuFsUeCQmoEpuO5kSQS8oYRl2eg4vjt5CoYtrxFqLKEbFto8Kt+9pb8eAblhX5/rsXsUgcbqIv9AhfLdY/9ZGG84lldixiY0p5YcaaUop9FqhBuK1h7Tyhdsc6fcaibI2fMr1jQrnDjIPcUSeIqA38vPhKcgxV0vagumEK9oClu4ZMZA==;ECBrvMPDhSY8mEvCcMk1KA=="
 ---

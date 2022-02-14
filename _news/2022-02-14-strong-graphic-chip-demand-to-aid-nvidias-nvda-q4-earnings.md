@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T10:56:00Z
 originalUrl: "https://www.nasdaq.com/articles/strong-graphic-chip-demand-to-aid-nvidias-nvda-q4-earnings"
 webUrl: "https://www.nasdaq.com/articles/strong-graphic-chip-demand-to-aid-nvidias-nvda-q4-earnings"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Nasdaq

@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T13:47:00Z
 originalUrl: "https://www.digitalcameraworld.com/features/top-10-ai-tools-in-photoshop-and-is-the-rise-of-one-click-editing-a-good-thing"
 webUrl: "https://www.digitalcameraworld.com/features/top-10-ai-tools-in-photoshop-and-is-the-rise-of-one-click-editing-a-good-thing"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: digitalcameraworld.com

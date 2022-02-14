@@ -56,6 +56,20 @@ related:
         width: 668
         height: 504
         isCached: true
+  - title: "AI Takes Manufacturing Beyond Industry 4.0"
+    excerpt: "Now AI takes the lead role while humans are supervising. AI can schedule automation and predictive maintenance. It has more tools under its control. You can start tying multiple cognizant tools together. As AI becomes more autonomous, humans will still be ..."
+    publishedDateTime: 2022-02-14T16:38:00Z
+    webUrl: "https://www.designnews.com/automation/ai-takes-manufacturing-beyond-industry-40"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 37
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/feature_42.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "Lt45Et19s5OUz/RQJB6EQq7GnBPBOM3avNLIoZI096Lgvt2pwi4bWHUUFqx7726ea8Mjq3TSkCq+VHjZY2UENSjVlOnshDKMAyF/1ChQOtskjGi6HQRl4khrWYR87tJi44fgIdkFXLqgEyEHXrPZxIhAHJ+P6MoAYi4qFrKRb+yPTlbZaf0XkOdUYrIJK+Of4SkHQX94/ZfSUAAV/GTikRQkO9/3BQjloNLT72CR1VeDdtTkupUqBdY3U6Tv+KNauDPfvBbBdBmysaS6ZnyD51zO2GKFPN5GlqpNFY93/QKsELSklVR+tUXZpI1eayNyOD9jyTfLgXAFnTdY5VJjLd8unWoRdRAqeErGtiibmbD4EzcrbkfnaXAhQDpJEszl/mVYvP3Ba0IcrKvv4zs6ve3lLksuUSjHLe17VwDOcnFH8Ny29OTpqcwnmNgFLSJWLasPptBiMB462cN/uh6VFDuCBDMFnaPTWbiIXXYHhUqY3TeDnUBBptA+Ta3TZ2gkC/ZERxbpE8KPeC5U6wUkDA==;A2ta+4u3uQTVYicpjeqDbQ=="
 ---

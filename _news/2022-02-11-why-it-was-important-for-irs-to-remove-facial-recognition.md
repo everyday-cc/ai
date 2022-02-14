@@ -25,21 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "ID.me to end facial recognition requirement for government agencies"
-    excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
-    publishedDateTime: 2022-02-09T23:58:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+  - title: "Privacy Tip #318 – IRS Abandons Use of Facial Recognition for New Accounts"
+    excerpt: "The Internal Revenue Service previously announced in November 2021, that it would use facial recognition technology offered by ID.me to authenticate taxpayers before using any online services the IRS provides, including viewing accounts, making online ..."
+    publishedDateTime: 2022-02-10T20:14:00Z
+    webUrl: "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts"
+    ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg"
-        width: 800
-        height: 532
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
+    excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
+    publishedDateTime: 2022-02-11T00:45:00Z
+    webUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/"
+    ampWebUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 48
+    images:
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/02/AP1160239734938483.jpg?w=1280"
+        width: 1280
+        height: 674
+        isCached: true
+  - title: "IRS Reverses Course on Facial Recognition Service Amid Backlash; Users Can Delete Selfies From ID.Me"
+    excerpt: "Beginning March 1, the ID.me said that anyone who already created an account can delete it, and that it was allowing government agencies using the service to skip the selfie step altogether, CBS News reported. The IRS announced on Monday that they will ..."
+    publishedDateTime: 2022-02-10T17:00:00Z
+    webUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme"
+    ampWebUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 44
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2022-02/irspix.jpg?h=e4b88df5&width=1280&height=720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
     excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
@@ -71,20 +103,15 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
-    excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."
-    publishedDateTime: 2022-02-10T20:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2022/02/jauhar-vipra-frt-constitutional-challenges-law-enforcement/"
+  - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
+    excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."
+    publishedDateTime: 2022-02-14T12:55:00Z
+    webUrl: "https://federalnewsnetwork.com/agency-oversight/2022/02/irs-struck-a-nerve-with-facial-recognition-but-pieces-missing-in-fight-against-fraud/"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 19
-    images:
-      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2022/01/facial_recognition_1643222271.png"
-        width: 1280
-        height: 1066
-        isCached: true
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 26
 
 secured: "D9Ofw/KWYjHNRzFMFEjM90NA37jMZYkTFluj1wpkU0X4te4B+BZxNagAlZN641D7gWYEru1AesL8qMO+tmydJM7am9QCQedcl0/RtrEYf8VyYL9wvDi7QncR64pjmbVJgtskQQ5J37gBg1w7F9GTAnd8IhjrNUMDo31VW2Jb79nqKODLjJpytcD1IN1sWKuWGcNQDuueW3DeqktqCxub4dOQY5IJ/sl2Or23IhsQZ8eqEMN+Ko12sKIq5tep44OcLBkChpui0Njzk2kEm6iynEYX5KRZVyjg8vIQ4EO2jQ1J7vGoMTkO28x/2cOruKduPpWVht475L7JmuWVuksBL4iAYqhOkTA8vXxPth3KpOqkF5ToH/KO8yYGWDYKlm7MnmQPqMwLiUB4FNMkc8TWWSLUfeh32TGYIDw+tZejHb8WYbXYUYybhji9y1UbfPFQwrffEXb955l/aVslC/SOEOC/edJIjOI+IBZwo0uG3rmCCJvsq9FWUHR7wb0G2l6NyQk+fVrEJX6lJHInTh1T8w==;UC3yNZ47R2vK0lhXTcbt+A=="
 ---

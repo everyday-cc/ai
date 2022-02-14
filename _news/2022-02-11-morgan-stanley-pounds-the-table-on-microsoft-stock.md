@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-m
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
         width: 2120
         height: 1193
         isCached: true
+  - title: "TANAAKK HITSERIES now available in Microsoft Azure Marketplace"
+    excerpt: "Also Read: How Enterprises Can Identify and Evaluate the Right AI Model Governance Solution HITSERIES offers ... “We are excited to scale HITSERIES through the Microsoft Azure Marketplace. Every cloud-native company inherently has the critical demand ..."
+    publishedDateTime: 2022-02-14T12:56:00Z
+    webUrl: "https://enterprisetalk.com/news/tanaakk-hitseries-now-available-in-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
 
 secured: "zyzXPSAy1fEOjnJ2Ri0Rsq5+VeUyePhc5x7sPIxFfNhJewuFYrHZhsIZlDjygmUTF20xoK7f6t9Y0rbmU+aq+5V1rfbiR2xuURqf61iopavHzr3weEdhDJ89cLioNOJ3TeEGhBjFNPZhn/c2T0ZLGRK/cVztVgVYs87fqFheEuW7EGsUQihTOgu4EApsyJJDcEkQG8LSttfiuL0pFD4j/GlWTSsbX3mUcARrOnEzyTn2ZMltQ3aqnE0Cq3sbDTmLmRMGzrYa25ArmuqxFV6Tz5OBikNw7akROPxfJJjap8K4wDFG6RD7L+gvVZwzms2+c1CnPoAzE2rzYsVnRZzAapCrrI86ItV9DFnKrJtIUJg=;olhOBB6CWaDP2sbefrKZWg=="
 ---

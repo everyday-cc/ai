@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T14:40:00Z
 originalUrl: "https://www.digitaljournal.com/pr/healthcare-chatbots-market-to-witness-impressive-growth-by-2026-sensely-ymd-baidu"
 webUrl: "https://www.digitaljournal.com/pr/healthcare-chatbots-market-to-witness-impressive-growth-by-2026-sensely-ymd-baidu"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Digital Journal

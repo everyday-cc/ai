@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/video/2308148-ai-at-the-super-bowl-ho
 webUrl: "https://www.newscientist.com/video/2308148-ai-at-the-super-bowl-how-nfls-digital-athlete-reduces-concussions/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "NFL Using AI \"Digital Athlete\" for Concussion Research"
+    excerpt: "The National Football League is hoping that artificial intelligence can help reduce concussions in athletes. The NFL “Digital Athlete” is an artificial intelligence tool that uses TV imager and sensors embedded in helmets, mouth guards and shoulder ..."
+    publishedDateTime: 2022-02-14T16:16:00Z
+    webUrl: "https://www.athleticbusiness.com/operations/safety-security/article/15288510/nfl-using-ai-digital-athlete-for-concussion-research"
+    type: article
+    provider:
+      name: Athletic Business
+      domain: athleticbusiness.com
+    quality: 39
+    images:
+      - url: "https://img.athleticbusiness.com/files/base/abmedia/all/image/2022/02/adrian_curiel__GPDUfIlooM_unsplash.620a805ebd292.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NFL's Digital Athlete uses AI to reduce injury and concussions"
     excerpt: "The National Football League (NFL) has developed an artificial intelligence tool that uses TV imagery and sensors embedded in helmets, mouth guards and shoulder pads to try and reduce injuries in American football games. The NFL “Digital Athlete ..."
     publishedDateTime: 2022-02-12T18:22:00Z

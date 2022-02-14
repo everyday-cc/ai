@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Putting AI to Practical Use in Cybersecurity"
-    excerpt: "The shortcomings of artificial intelligence tools in the cybersecurity world have drawn a lot of attention. But does the bad press mean that AI isn't working? Or is AI just getting slammed for failing to meet overinflated expectations? It's time to take a ..."
-    publishedDateTime: 2022-02-09T23:40:00Z
-    webUrl: "https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc397638f1d4603f4/62044b557290bb4b19d5beba/robots_ai_Besjunior_AlamyStockPhoto.jpg"
-        width: 700
-        height: 394
         isCached: true
   - title: "Artificial Intelligence and Data Initiative"
     excerpt: "The Department of Defense is working with unnamed commercial companies to build an integration layer where combatant commands can access data feeds for their artificial intelligence algorithms ..."

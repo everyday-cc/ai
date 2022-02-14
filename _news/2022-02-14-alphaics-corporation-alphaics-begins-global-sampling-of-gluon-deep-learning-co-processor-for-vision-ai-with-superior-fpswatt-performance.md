@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "AlphaICs Begins Global Sampling of \"Gluon - Deep Learning Co-Processor\""
+    excerpt: "Our team worked very hard to design this high-performance, industry resonating deep-learning co-processor. Gluon is future-ready and is well-positioned to address the AI vision applications for surveillance, retail, industrial, and smart city markets.”"
+    publishedDateTime: 2022-02-14T13:40:00Z
+    webUrl: "https://www.design-reuse.com/news/51424/alphaics-deep-learning-co-processor.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
   - title: "AlphaICs Begins Global Sampling of ‘Gluon – Deep Learning Co-Processor’ for Vision AI With Superior FPS/Watt Performance"
     excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. Gluon provides the best fps/watt performance in the market for classification and ..."
     publishedDateTime: 2022-02-14T01:00:00Z
@@ -40,6 +49,15 @@ related:
         width: 512
         height: 315
         isCached: true
+  - title: "AlphaICs begins global sampling of ‘Gluon-Deep Learning Co-Processor’ for Vision AI"
+    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings it said in a press statememt. Gluon provides the best fps/watt performance in the ..."
+    publishedDateTime: 2022-02-14T14:08:00Z
+    webUrl: "https://www.freepressjournal.in/technology/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 30
 
 secured: "/KZwo5sezAY6xPLUtKuCFo9SVER9/OwnW0n/iKdE/kzsKTVoXjI8+oHwToszjsPf/rYOjTXLqKAk68Wxx3oiTBLL+Pl+OyVCAy+5O5TmsK1U1zvv2CGWqW17e14+RSFreQY9lCSL1w6t9/pr8WspxdLoMj77xmA/Edb9UPVPY4B2y7x3lvuNWh35Pp/SHirnVThGLpZqCOHLDqhhBgKbk2Se4kVTOMX1v8VAntQ1JNBOFNfOvPn8UFjIVZHx2bpPOlPzgHnIq38/0jC7FaP7HnhndqvJQZBLw1+iUS1zfIcSN95hASJ75x/4qfmPq0tOWVab6TrHE/2jyGRwG3xK4VQAc1FphovYWf8yhVQml4U=;ikzS5X6o55/N+xOZW6Nhuw=="
 ---

@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Texas Sues Meta Over Facebook’s Facial-Recognition Practices"
+    excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
+    publishedDateTime: 2022-02-14T15:06:00Z
+    webUrl: "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-485400/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Texas sues Facebook owner Meta over face recognition"
+    excerpt: "The state of Texas is suing Meta Platforms (FB-0.2%) seeking hundreds of billions of dollars, saying that Facebook's use of facial recognition violated state privacy protections. Texas Attorney ..."
+    publishedDateTime: 2022-02-14T15:21:00Z
+    webUrl: "https://seekingalpha.com/news/3799624-texas-sues-facebook-owner-meta-over-face-recognition"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3799624-texas-sues-facebook-owner-meta-over-face-recognition"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799624-texas-sues-facebook-owner-meta-over-face-recognition"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1291913158/image_1291913158.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Is the World Seeing the Beginning of Facebook's End?"
     excerpt: "The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms, formerly known as Facebook. Meta on Thursday ... to networking, and to artificial intelligence machines that beat chess grandmasters and \"Jeopardy!\""
     publishedDateTime: 2022-02-11T00:00:00Z
@@ -59,6 +91,17 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Texas sues Meta over Facebook's facial-recognition practices - report"
+    excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology ..."
+    publishedDateTime: 2022-02-14T16:53:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/crime-pmn/texas-sues-meta-over-facebooks-facial-recognition-practices-report"
+    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/crime-pmn/texas-sues-meta-over-facebooks-facial-recognition-practices-report/wcm/9f80ea48-ded5-4bfd-9611-6c4726f59549/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/crime-pmn/texas-sues-meta-over-facebooks-facial-recognition-practices-report/wcm/9f80ea48-ded5-4bfd-9611-6c4726f59549/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 24
 
 secured: "xNgy3KhDLBlX6d1JDlF4kBzxv3VGqdr3ShuFFrlUpP7hwzJn+oCFAyWKBNpYisWV3mxnx/wniLqbA/hdEJI+fBCTNTHtYHOabWMdDUAzN/NHuUISGhutgUIz5CFgbjJ2xxObFBuRIgaomY4iWDEikzUI6+uGxQyrwxQD1lOQXIWYz6kFpBGvwhWxUQhN/SO7T0KtXUPhP6aRKBmdcL854Y61W0ovJJelrww6yusFIoaNcb4velC+apOrjGGBoeiACgDvOBzCDI0oUhpxWBMODH+qm0GyxGR/SIQEtqDa0dcrcTdZFT9KLC1JcDKzqp3L3v+QwhKfhQxdUTAFvjfpyb4UFDB82ggqkKSqpjGxAnJBQ+L3JXIoLaSwaHLTD3VP5bKpCWGPgdgN5lxWlki/0O5Ws19nElJsHHEepGOH++lcwRiDsRPFRxCiDPW8uMuF9gsE0m4eGD0wonwb809okVuBxmK026GBBNwUmq0BGpyYFxYD6owvJ2zGD3OCZGhpiSxBUiAJXLYAQ0m+EIwdHg==;cUauxGmX+mrdDDILrOLg4g=="
 ---

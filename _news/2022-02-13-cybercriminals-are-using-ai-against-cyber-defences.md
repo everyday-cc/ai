@@ -24,6 +24,17 @@ images:
     height: 510
     isCached: true
 
+related:
+  - title: "Interview: Tackling Evolving Cyber Challenges in Financial Services"
+    excerpt: "As with many parts of the economy, digital technologies are playing an increasingly significant role in the financial services industry. This includes automation technologies such as artificial intelligence (AI) and machine learning (ML), enhancing the ..."
+    publishedDateTime: 2022-02-14T13:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/interviews/cyber-challenges-financial-services/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 4
+
 secured: "523alzzk4lI8p7JE3OiORUmioRwzRCpH88h7Px8xp44rmk3BTBdyK3JDWjINQjxLkIyXR3pFQZfbru7vJTswLOVrR5TwFpOLKezV5xfXbfgbbkPBUR0/KpJrnW5t89x0plCNZTUSqhgiTLMFtTtU83sByB2FiGyygO0rKiKCwUdoMec3Nr4YHJ+LJzIPy8HX2V7d2lImKFC5PAyLTrTg7qdyPTjLGF7nOKzkxV8K6NU/p1B0IGr9RCnwKaylCjd9a0+J244W8o887/0GAKvT7fDY1dfM2CFZH5sF4aP3PwTd8VzKgWiuYRzwJJ7GUc7ovB5qQuKBiA2b51YJryacqtCbuZ74I+Xeft/t28g6Ql/wsSrYtd5Mjw3+z7H17XaIUFupI4KIUvuMAX61lDzyJFEKoZTIRTrMTox/kpRnGavsDovdl3xp4Gzv7l+0+8qUoN9VAw1g+R0K2iLch6Te4AuGK32XYxI1TAI9PTft3XjkUe6HhJ5KWLEmWOiMxYjfws5yIHHN0QcX1TNXwhs5hw==;CDwtP0qOvxe+/3dyux/5Kg=="
 ---
 

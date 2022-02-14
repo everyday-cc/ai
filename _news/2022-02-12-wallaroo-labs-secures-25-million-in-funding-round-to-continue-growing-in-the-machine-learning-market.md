@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Labs-Secures-
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Labs-Secures-25-Million-in-Funding-Round-to-continue-growing-in-the-machine-learning-market-151406.aspx"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Smarter.ai, a Marketplace that’s Democratizing AI and Helping SMEs Compete with BigTech, Secures Funding"
-    excerpt: "Smarter.ai, the creators of an AI marketplace to democratize artificial intelligence and help SMEs meaningfully compete with Big Tech, has announced its pre- seed raise, which was led by Fuel Ventures and Hambro Perks. As noted in the update, this comes at ..."
-    publishedDateTime: 2022-02-09T21:18:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 40
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg"
-        width: 1280
-        height: 934
-        isCached: true
 
 secured: "RVVKyiNYRMATZOBHllpRLjcyMiwIK5F5ipF0S92j8372vYm/bKUksHlJ77PXR5by4j57whHaCCX7TsDSpEar7EWZwLM3rVPRVp0K4aUA6Ql9AMzvKdPLfw7PMlciucG+Tah4l68ptkeLp0f/Vccc4V4wMMYqjUUabXAkmqIpcF1xDlUvoBtaoCImUJ6NMQ5Ooln66ANXRKxrVYO3gHjp0FOEtp7h3UY4/qL0vP5Uqb/kyZpzHHV0RBLLTKvC49WTmHIhRHrHu37hlovMTw3DwQSRLLtQyIy3ArTKKWkw4BwgJcyDhT3ZyqdzybUiw+GEAf0QyYEXDlXhXhKdw2e02pBqVrCmV8pWp5MhQ/NPwg0=;R6+dRECEFl/eEQEqBjxTfQ=="
 ---

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Expert believes machine learning can improve after failing during Covid"
-    excerpt: "Machine learning and artificial intelligence (AI) systems have long been touted as the future of medicine. A patient can walk into a doctors office, and after a quick scan discover their risk for a variety of diseases, and be given information on how to ..."
-    publishedDateTime: 2022-02-09T21:37:00Z
-    webUrl: "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html"
-    ampWebUrl: "https://www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 74
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/09/20/53985879-0-image-a-59_1644439690246.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Machine learning technique helps diagnose COVID-19"
     excerpt: "Researchers have devised a machine-learning technique that can detect key signs of COVID-19 infection in chest X-ray images 1. It differentiated between lungs which were affected by COVID-19 and lungs which were not. A chest X-ray shows other organs as ..."
     publishedDateTime: 2022-02-13T22:04:00Z

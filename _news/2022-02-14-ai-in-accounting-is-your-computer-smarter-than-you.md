@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T14:00:00Z
 originalUrl: "https://www.accountingtoday.com/news/ai-in-accounting-is-your-computer-smarter-than-you"
 webUrl: "https://www.accountingtoday.com/news/ai-in-accounting-is-your-computer-smarter-than-you"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Accounting Today
@@ -14,7 +17,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
-secured: "D2GwDlpulXA8VQLTBo3SsuDHqixMAhoVU6zYrZQz0Wo27ZMwxQQ4uZkIWVzmj8w7QFcc5D1iscZ9TspUwRt9NWHR+VdCxI13dH9zb2e78uvF/AVk7UVnhi97GpxCH44enUmbyCgADCxmSlWkG7yT7CZbrdKrjsfH9sNaS2PCvJA4Bg0w/rjRejZLrwUSUZ6AgtHsh8HOEnL11YKnJ5EPnay9nMHiYK/CZBf+rCaFJJ49yOuZ00B5BmilqiWN0L4tEqv0wFpIKT4AtjLgdYSQxctGOFJ0UtrMCoqYcwqUa9LriRlkBiGC3gS6/8RHSCfWYFZW9o/mR/Z1k8qBDJ9taptz1ja3j7BngKs9IpAnIaEiA5JJyVAyncYkA2MPJk18ZxE3poHmhEUkk9u4Q+yIT24ozXKT4VU1CniL/fHDjdWES34ky8T944mgX00ymvSt6RWqUmI6L1mKD0BBFFimUsbBjGMQlS2DhI6LKqRHDuKbwjzeihdCyonqhmvg939otfSN3LVexjoV3Ky1chxUkA==;ovCXIWEMrrYi1+8BXzv7qA=="
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/ea2485d/2147483647/strip/true/crop/6710x3523+0+478/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc5%2Fd5%2Fdb249430451082323e50993b441a%2Fmarch-ai-survey-art.jpeg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "5uGQ9kce9TfRFeDFSV7Yu5zbUHg5Y8/RRcs5l4veWEJrDrlCnPrvE3mj+e3L7A+EQA9zC4Ixm4Seslrjz97x7cGEAKRE5kE8s46mOsD/9iuPc1LsUhmvHN9VArzeT/1IGd5VLR+sq9TdtSpgpYPgtJ7E3TRpp8qw2QzKvwOjWyT4jBPfagVWXX46gQ2Asdfzz6Gd/nrXPqefV3394D+JsfXX8QeOjZim38O0WMjpICNcx8+vNQAkkZyo2zg6O82ZSH64V1mP3dEhn5K4pfOMhnZ8/uTb8KQkS7U6ukfe/pSHrBp8kxJIvxo3/PcVsHta0r+Iy7nYEVIFiabzDzaWM5OE3vLCaBJmprglbW2ThY8=;BunLhNMI4n7UYVlhl9qoVQ=="
 ---
 

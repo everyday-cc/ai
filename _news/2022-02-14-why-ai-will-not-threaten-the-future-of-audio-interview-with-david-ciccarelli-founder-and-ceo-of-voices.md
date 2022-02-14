@@ -6,6 +6,9 @@ publishedDateTime: 2022-02-14T13:41:00Z
 originalUrl: "https://techbullion.com/why-ai-will-not-threaten-the-future-of-audio-interview-with-david-ciccarelli-founder-and-ceo-of-voices/"
 webUrl: "https://techbullion.com/why-ai-will-not-threaten-the-future-of-audio-interview-with-david-ciccarelli-founder-and-ceo-of-voices/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Impacts

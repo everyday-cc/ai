@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-14T12:45:00Z
 originalUrl: "https://www.searchenginejournal.com/ai-content-creation/436763/"
 webUrl: "https://www.searchenginejournal.com/ai-content-creation/436763/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
