@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Robotics
 
 images:
   - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2021/06/7-ways-to-write-blog-introductions-that-work-for-readers-and-google-60ba231193132-276x244.png"
@@ -24,6 +25,6 @@ images:
     height: 244
     isCached: true
 
-secured: "lmyRm0rm+nKXBVLKYBfRwMwN0YRdc/Wr2xwvRC24Q15qUT4YlhPCqWDRI7sWBYp+xTklDNr7R0AR5WEKL19KuyYnzV7e6UrfV23BnK62DZJ1r43XTh5/3PWNHANx4FORd30ms7otBRgv0C6W2aPplzoApHGhumkbngBvGfUuvn4duQzRwBMvC/Cbigvrh9y+cLUgqSPoHBAjoe4BHokoOlOpxAW+mZxpwYIYLK1OorQorPdbEQojkm2xzZH+n+dRGRpV+O0VUerWT0aijAgGADjMS9e3ogHiUJrZFm+kZp4mouDqFshRHg8VVZwojJv7dq+5KvtmYToCByYkN/t/qEC0LueFauX5bfJUq2o9M4U=;UjGQwsJvCCOf+Catv5aVQg=="
+secured: "p5wSw9b1YWPbJgG8vQQ7yR9f6rMFy+oF+wNC/zf/Ga5g+40flYw96zWovGWuceu3YaJi9VY9xRBNxkzd3H/DM1ZpQCUVU+OHx4u/G06DXIJMlJV1g3ofrWpiOIqRtQNOXZy2PZheGEaYSk8LeFMX9zNxZfHPTlu1+PRyetEbRp8fUcE0RYZ6re+1q62bYZ71k2ODAYUIIGUNsdbHbIsNaJXsvXGtAyh81t/ACngw5c1X1TapxQPyNYQTdJx5xWSwhjuzoS5k3U/mA4SVv9m5JtPR8FQ9JzCHCYKTN1rfTXSK3kq9yfaWrJCBUGGyAkbixwcm+jvbeSw1Jc3uSHilD001fNgHVeiD2xCNIU3GiiwSVC9cTuwb+K+Th4nx9ykjkGYVqVqd5ruQJflyBxfiaOc2Lq3RMSzQ3j89qX7DGomyYbuHXdp0vEE/KtbZREOonTqEhhUU11gIoWtKOCXrYKstSk3lzhWyWIL1s8jqNXsBaRuIm2k0ntMTXTPVntX5eXTJhrVUQo137g9xOGJ28g==;KuCoU/LlO4iVx81eDgvA8w=="
 ---
 
