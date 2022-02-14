@@ -57,6 +57,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Five trends shaping the future of Fintech"
+    excerpt: "With billions of dollars on the line, it&#39;s no surprise that machine learning is becoming more popular in fintech. The strength of this AI subset rests in its capacity to process huge amounts ..."
+    publishedDateTime: 2022-02-14T10:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Trends that will shape the Fintech industry in 2022"
     excerpt: "This will finally allow businesses, and the fintech industry in particular ... Voice-enabled payment: With rapid improvements in AI-based voice technologies ensuring high precision in natural language processing, voice-enabled payments are expected ..."
     publishedDateTime: 2022-02-10T08:17:00Z
@@ -98,6 +114,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
         width: 490
         height: 351
+        isCached: true
+  - title: "Why The Future Of Fintech Depends On Open Data"
+    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
+    publishedDateTime: 2022-02-14T10:32:00Z
+    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 24
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
+        width: 1724
+        height: 1080
         isCached: true
 
 secured: "B+z+wPBWgLz5wc6CToP2e4GdAEQ7KiW9E//sFVZaixU9gvUPCWaP+KORQHVavAxV7W2Jz/qeGznTgaVhuPuoYvy32MLB3pcWL0zKc2RR3+BrrER++g0TeHY2rVteVwCirVvprCoXlxlu1h2ei3UTVN9Nu+V2aIgOPhu0o/tEjSy3mH+jieI+B+2YS+d0/ttZYrIkGGVs2h2lGr2HdWSXmvPqhJtUcvxp6EDOrQM0kEN74apxEwVorroVJ9zQWLXmgiQvd3jCyLhN+6Gbo0HOU16fE4eCbA2ylqCezXmEaiLWPE3TQ8cBGm6Qy03IODTxphU4KltUie1vgvOhUp9EBdrUw6phA7eKScAoq+vkOR1LMNerzJN2rWD32rBw7N7K1npjVL1u3VS7WFqoZZRJlQh3G+A+S2+guM/baga/necAW+OAnTGEUcyxbakCwAQVhnycyK4bnRAnv69UbuAWPP0mWtdvH0TWcHGdCq6MDb3plRuHe2jNutCjFnbPr5LQGHCunboP7s5VOK1qc8r9QA==;1VThVhke3VXIDWHaSr0UIA=="

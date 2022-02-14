@@ -7,7 +7,7 @@ originalUrl: "https://hardcoregamer.com/news/sony-polyphony-digital-introduce-so
 webUrl: "https://hardcoregamer.com/news/sony-polyphony-digital-introduce-sophy-ai/418530/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sony AI's First Project Can Drive Circles Around You"
-    excerpt: "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ..."
-    publishedDateTime: 2022-02-09T18:54:00Z
-    webUrl: "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 57
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1640/16407182/3938443-granturismo73.png"
-        width: 1918
-        height: 1073
-        isCached: true
   - title: "Sony built an AI that can beat you at video games, with honor"
     excerpt: "First they came for chess, now they come for video games. In the 21st century, a legion of AI competitors could very well dominate every board, screen, and console played by humans. Famous machines like Deep Blue and Alpha Go have already conquered some of ..."
     publishedDateTime: 2022-02-11T13:25:00Z

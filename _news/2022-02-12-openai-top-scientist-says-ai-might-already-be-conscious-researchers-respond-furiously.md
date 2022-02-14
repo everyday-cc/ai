@@ -52,7 +52,7 @@ related:
     provider:
       name: Futurism
       domain: futurism.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg"
         width: 600

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/"
 type: article
 quality: 98
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 952
     isCached: true
+
+related:
+  - title: "New Zealand to develop ethical AI strategy based on trust"
+    excerpt: "New Zealand is developing an approach to supporting the ethical adoption of AI, focusing on building an AI ecosystem on a foundation of trust, equity, and accessibility. The new AI strategy is part of this plan and is structured around five cornerstones."
+    publishedDateTime: 2022-02-14T10:44:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362235/new-zealand-ethical-ai-strategy-based-on"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1621505233/New_Zealand_Parliament_Flag_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
 
 secured: "Wqpn8mEBERQzKps5zsA9IAHN+ZI/vsJAwJngmYLnvf7p7Sv8xkDy5f3JoaAQRdp0owaM6c90VzaXFqzRqEhvtNjWy72YRqeqidhmLjxD4l+UZUX7LVFt1RJUxRaAQJv0D5JhjU64aNCFmjwuLRMLs5hKJixxlz7v4ZuoSnLw6Z3qYWTnB3thZ+7sSaN0LtqPISpHzIpmfTgk/84zYw3zIztBqUUI7xZSJRO254wISYEimvBKrnJvbqKhBgc0HariAUFFKHgWhb+4ihMjaZypoeOVTVnwtjkwLrzqPnlAnzRwo5nV5DkuPTi5BtmLK/K6elsd0zaYbHy3EDUB2Sestg+8XKxLXk9fSIqhE0JpWdI3G156ZzUjE38o0HoPKH+V4TaFZaRWxBmvE0uTeJN96xWA2/VrREe/q5fXiDaoVN430PfHttRJvV4ktSGNq1+0diiHozmlSN6p/lphwWqa/qpY+bs+PS/e6/SVDTlxq4ybYPL67IC901iv2o1ciYB+P2r8DqCl4egqKKFsiWcXVA==;uWyB6/RFGdBZvjF9iFxAIQ=="
 ---

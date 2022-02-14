@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/02/top-fintech-companies-to-invest-in-in-2022.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "Five trends shaping the future of Fintech"
+    excerpt: "With billions of dollars on the line, it&#39;s no surprise that machine learning is becoming more popular in fintech. The strength of this AI subset rests in its capacity to process huge amounts ..."
+    publishedDateTime: 2022-02-14T10:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
   - title: "Helping the Fintech Corridor power ahead with joined-up thinking"
     excerpt: "The continuing growth and development of Ireland’s burgeoning fintech sector is being supported by the cross-Border Fintech Corridor. The InterTrade Ireland-backed initiative brings together businesses,"
@@ -102,6 +118,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
         width: 490
         height: 351
+        isCached: true
+  - title: "Why The Future Of Fintech Depends On Open Data"
+    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
+    publishedDateTime: 2022-02-14T10:32:00Z
+    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 24
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
+        width: 1724
+        height: 1080
         isCached: true
 
 secured: "KVoPmO2pzCO80amtRLjhVbKCiEh5YoMqNnLfcfEZ43Q3POhzW82rB8rxc54fh1I2R6bCaG6wBulEm+di+AUS7HaiWKVV1CIb8DNqk+IQRevEx3IXlJfDsrt+jHxoxXh+Ci2eaZ90H00q0cnGEA7brnxjoz2pho+Q/n0WBEGgScJiJOP2sS1nZxoGzu/lXF7MY1kIqOfLLsVmoDSreFJFcIETsJs7aSYIdOXVQktwcbTSghw3RlTZWVfloUCk8Nr6x2ZHexYsxHVrWOBCcohhKAOg8j4wDl4G0404tZBtxfjcTq00NzrTBiaNbdpbxt0O2yDMxw4lcbxTB2c8zOjei+AF0TSt77o75c6RCHZ2aYro/cLTKHDU6PtCYFObc/sJUIHQ3lNWEDpKF6Zt3kcKpHBwmcLGt3+cTj2k1ZyRLFRu/RdOYgYkqf5+eRIKj0eiS8dC7ChgKyWEchLJRnJpChMblo5ud/LmmXd7KoPWOD4aIZgZnYAnzVZrBBWfsat7EubXkzNC2koZFDLaP3yxbA==;auyMeAKqY5Dz5N9DbYvNug=="

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Backed by multiple CES awards, Mindtronic AI enters auto supply chain"
-excerpt: "This is not only due to the rapid advancement of semiconductor architectures driving down the prices of chips and sensors, but also thanks to assistance from startups making clever use of AI ..."
+excerpt: "In 2021, it was selected by the German Trade Office Taipei as the best startup in Taiwan and one of the top three in Asia. Overcoming vehicle AI challenges with proprietary edge AI solution Many ..."
 publishedDateTime: 2022-02-14T02:35:00Z
-originalUrl: "https://digitimes.com/news/a20220211VL202.html?chid=11"
-webUrl: "https://digitimes.com/news/a20220211VL202.html?chid=11"
+originalUrl: "https://digitimes.com/news/a20220211VL202.html"
+webUrl: "https://digitimes.com/news/a20220211VL202.html"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 427
     isCached: true
 
-secured: "s5i1/exHa0QLof8Fo40BRSV9cHzd7/teJEJkqB3fJ5GFP8cjOe0mdThiRhYo/TiHZTHYFGPDZHHRpHQ2swvsPziN2IcaFrnhWCuD1CVpzlP1EYS0lcUKfgZx36Snw1GL9E0k+DJdAYOiK018gdDxtDP02DjHMSIaOFDxp2zUGEXRlokRYoGi5bGjVEyjSZkvA0oldOUervXJmbTWXppdpMGNP5J2/razZ8vNHKsYCXKh1BKwtiRxNVg6bQPBttatSE8ltuYOw31m3c94C7W7gT5UzulXfHVkprusQX4NuQfTcQ9HODWZpnuK/TbLxsk6BpHN9u8qc+93EYK7xuD9IovG1BXayiNEqhEVSFoxR4M=;5I7Eav80SpfrAygxOa1KDw=="
+secured: "LaUGwkYB6qd/oVOwOFvIIa1Y7WN2k/UYrSd+WXB7Ii0QSyt8brsLt8yqC1Y+z/80vTZ/kRlFpbjHetCWfZqxW0AyBqzy9Yje+dB2iQ/Cdqw59RopxZjeHHgGT/qCejHnkZ4WPuYvrFxg02ofdqc/VHqd5Qr20LKMO2fFA8woe0D6wfHmy7/2K9OZNlWDMmMGcSyMFwxjhLWlxZT1gs2qGMm3zTdLCReaVePI4DXIHiNogBy9SUcBEhptSeobfEUVlps7QflPKJhhgm6/mpBO5QC2CZwo++dubyBCHYAJ8vFMkHx8Ihd3vRqXlN/XGM+UVPkFPChKDC3G/MXeM5Ors/JvcLciwXxvFkSYq7ku2/Y=;Ck2w5bB/eCBYykWG5C/guA=="
 ---
 

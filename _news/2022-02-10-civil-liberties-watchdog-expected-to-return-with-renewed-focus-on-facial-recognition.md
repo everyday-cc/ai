@@ -42,19 +42,49 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "GSA won’t use facial recognition with Login.gov for now"
-    excerpt: "The General Services Administration won’t use facial recognition to grant users access to government benefits and services for now, but its secure sign-in team continues to research the technology. “Although the Login."
-    publishedDateTime: 2022-02-09T18:25:00Z
-    webUrl: "https://www.fedscoop.com/gsa-forgoes-facial-recognition-for-now/"
+  - title: "Why It was Important for IRS to Remove Facial Recognition"
+    excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
+    publishedDateTime: 2022-02-11T10:08:00Z
+    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
+      name: Info Risk Today
+      domain: inforisktoday.com
     quality: 39
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/02/GettyImages-607358443.jpg?w=1200&h=500&crop=1"
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
+        width: 860
+        height: 520
+        isCached: true
+  - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
+    excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
+    publishedDateTime: 2022-02-11T20:05:00Z
+    webUrl: "https://www.techzone360.com/topics/news/articles/451502-gsa-rejects-face-recognition-irs-other-federal-agencies.htm"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4490654204-AdobeStock_211603224_facial_recognition_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Government agencies will get more verification options after face-recognition backlash"
+    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
+    publishedDateTime: 2022-02-10T15:55:00Z
+    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    type: article
+    provider:
+      name: KCRA
+      domain: kcra.com
+    quality: 36
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
         width: 1200
-        height: 500
+        height: 677
         isCached: true
   - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
     excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."

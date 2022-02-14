@@ -25,65 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The campaign against IRS use of facial recognition is a model for digital activism"
-    excerpt: "Likes Werner Herzog films and Arsenal FC. Digital activists can celebrate a memorable victory after the IRS ditched a controversial facial recognition system. The agency had planned to use third ..."
-    publishedDateTime: 2022-02-09T18:24:00Z
-    webUrl: "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work"
+  - title: "ID.me to end facial recognition requirement for government agencies"
+    excerpt: "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ..."
+    publishedDateTime: 2022-02-09T23:58:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 78
+      name: UPI.com
+      domain: upi.com
+    quality: 59
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FUntitled-design-3.jpg&signature=42e3c8ee5d842e1747b4a6479bf4aeb1"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Privacy Tip #318 – IRS Abandons Use of Facial Recognition for New Accounts"
-    excerpt: "The Internal Revenue Service previously announced in November 2021, that it would use facial recognition technology offered by ID.me to authenticate taxpayers before using any online services the IRS provides, including viewing accounts, making online ..."
-    publishedDateTime: 2022-02-10T20:14:00Z
-    webUrl: "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts"
-    ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "IRS Reverses Course on Facial Recognition Service Amid Backlash; Users Can Delete Selfies From ID.Me"
-    excerpt: "Beginning March 1, the ID.me said that anyone who already created an account can delete it, and that it was allowing government agencies using the service to skip the selfie step altogether, CBS News reported. The IRS announced on Monday that they will ..."
-    publishedDateTime: 2022-02-10T17:00:00Z
-    webUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme"
-    ampWebUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
-    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 44
-    images:
-      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2022-02/irspix.jpg?h=e4b88df5&width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democrats Urge Federal Agencies to Abandon Use of Facial Recognition"
-    excerpt: "\"Facial recognition tools pose a serious threat to the public's civil liberties and privacy rights, and Clearview AI's product is particularly dangerous,\" warn four progressive lawmakers. A quartet of progressives in Congress sent letters to five U.S ..."
-    publishedDateTime: 2022-02-09T20:32:00Z
-    webUrl: "https://www.commondreams.org/news/2022/02/09/democrats-urge-federal-agencies-abandon-use-facial-recognition"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 41
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
-        width: 1200
-        height: 630
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
@@ -98,6 +54,50 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
         width: 860
         height: 520
+        isCached: true
+  - title: "Government agencies will get more verification options after face-recognition backlash"
+    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
+    publishedDateTime: 2022-02-10T15:55:00Z
+    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
+    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
+    type: article
+    provider:
+      name: KCRA
+      domain: kcra.com
+    quality: 36
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "Civil liberties watchdog expected to return with renewed focus on facial recognition"
+    excerpt: "The Privacy and Civil Liberties Oversight Board (PCLOB) is expected to return after the Senate on Monday confirmed two new members to the watchdog by voice vote ... key issues including the use of facial recognition and artificial intelligence by federal ..."
+    publishedDateTime: 2022-02-09T19:48:00Z
+    webUrl: "https://www.fedscoop.com/pclob-expected-to-return-with-renewed-focus-on-privacy-and-facial-recognition-technology/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 34
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/09/GettyImages-1334388867.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
+  - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
+    excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."
+    publishedDateTime: 2022-02-10T20:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2022/02/jauhar-vipra-frt-constitutional-challenges-law-enforcement/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 19
+    images:
+      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2022/01/facial_recognition_1643222271.png"
+        width: 1280
+        height: 1066
         isCached: true
 
 secured: "FnzmFUX+j90Otpkdy+YhdJPt7GBjJUr/T3rs4QmwPoq+qnS5hC0O1W6t4fZ5D+tcH4fZ1t650fpKucSn12LW/I3HVf2YzOHNju296B4hJD4RGaOr5UikiFoJtbgEtR2D7SiOVO6ng6IqCdVc6ax7HDnkqJY+z0Mkley6KI2bd9299pJNppfAJ0z3p/A1eNobvk31fb4O3UUwqgJ6n/h6KWjgdRZ/tYnpzM9/SBt7KeAQhBPihU0oeiuxGKgQ3LrYVU63fDwwTjfwhlfmnZc3qSWAMV6rx93U2+9ABoL+eMavnx16xEsYo9CEPJECK5NM8fOKbLNi4kRi6jnlDWln9ODJHVGHBJ6x/p0esQK3e6RFEUvZOl/Mkmj/BhwBHTVj+Mid6CkQO5mudLDuyfkRj8LDD7zs/ZZAsaD4iapxXEpgEDn6txTg6NX/BpFE/ywr2JcbwMXey1B8jQeDI+keRvgnGpM6+iwNlnR48NUatuQCX93uOeFjQZwhipSRuQ0VCpTC+pJ60QXq+Bh0wEKU3A==;3kXc8X6YthyUXJ1MZDH2Qw=="

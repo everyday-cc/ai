@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How NFL’s Digital Athlete uses AI to reduce concussions and injuries"
+    excerpt: "The National Football League (NFL) has developed an artificial intelligence tool that uses TV imagery and sensors embedded in helmets, mouth guards and shoulder pads to try and reduce injuries in American football games. The NFL “Digital Athlete ..."
+    publishedDateTime: 2022-02-14T10:17:00Z
+    webUrl: "https://www.newscientist.com/video/2308148-how-nfls-digital-athlete-uses-ai-to-reduce-concussions-and-injuries/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/13071423/nfl_video_thumbv2.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7s5uaLbuUiPaXYFabcqL1e8KmE8nVhji6WPj9XouuZUapL8Hb1wvTsXbpl8tlfHXf0aRdetcHeqLVVEHbO/y9Vlff5J2huJVQ3fS6lQppKx1xM8mdkgONb7ee+Ktikv9lXuqi0FqpOc4YLwCJRZ2t1k3vVQKqncoK3ceQ/hQVPdiKE7082ntuWRghYT1dvkU1UmA8zdyu3oOaeflCXO444KQlf11RJH6UsUuvqcx+lJ/9sNh8ZRQzR5IpqExso+K+SD+u692xzUKi3FY0DszbEENQyqK+Y+GvORW3Z7fuFI3ygrSHLeboge4R9f1yZ6Rcc3keR12Q3Lkee/354YnH5O50VBGz73o/NTD7afosw4ggEs4PEuyaLQg+bdfk9kD0pEyoWyLttKYdeN4A4aaj1GaPq3ragxswWsYvvGo6M8kGfV/Vc2YCB/IPMcPSoCeoWWyOuaE8U2l6ex5PWuEWkgYSl7DOWzqgp/KyH+CuDx2qOrUVhp7Z2nIrjX1s2q52r77+TRZRsuSg8AQDghKxg==;cVlWbwSRg7MgB87hyDO2zQ=="
 ---

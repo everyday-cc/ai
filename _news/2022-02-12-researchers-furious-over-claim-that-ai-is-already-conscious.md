@@ -8,7 +8,7 @@ webUrl: "https://futurism.com/conscious-ai-backlash"
 ampWebUrl: "https://futurism.com/conscious-ai-backlash/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/conscious-ai-backlash/amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg"

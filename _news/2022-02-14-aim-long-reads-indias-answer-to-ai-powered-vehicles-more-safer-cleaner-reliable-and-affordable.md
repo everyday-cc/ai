@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-14T06:30:00Z
 originalUrl: "https://analyticsindiamag.com/aim-long-reads-indias-answer-to-ai-powered-vehicles-more-safer-cleaner-reliable-and-affordable/"
 webUrl: "https://analyticsindiamag.com/aim-long-reads-indias-answer-to-ai-powered-vehicles-more-safer-cleaner-reliable-and-affordable/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Indias-answer-to-AI-powered-vehicles-–-More-safer-cleaner-reliable-and-affordable_4.jpg"

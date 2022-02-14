@@ -134,20 +134,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Sony AI and Polyphonic Unveil Gran Turismo Sophy"
-    excerpt: "Christian Gerdes. In a blog post made on Sony AI’s blog, the team described the many challenges in making Sophy a reality. To start, the AI had to learn Gran Turismo‘s physics engine–a ..."
-    publishedDateTime: 2022-02-09T18:34:00Z
-    webUrl: "https://gameranx.com/updates/id/287895/article/sony-ai-and-polyphonic-unveil-gran-turismo-sophy/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 37
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2021/11/gameranx-icon.png"
-        width: 500
-        height: 499
-        isCached: true
   - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
     excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
     publishedDateTime: 2022-02-10T08:51:00Z

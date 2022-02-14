@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-clearview-ai-democ
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-clearview-ai-democrats-letter-federal-agencies/?amp"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Daily Dot
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Lawmakers Warn Clearview AI Could End Public Anonymity if Feds Don't Ditch It"
-    excerpt: "or simply appear in public without being identified,” the lawmakers wrote. Clearview AI’s partnerships with government agencies are of particular concern, the authors argued, because a public ..."
-    publishedDateTime: 2022-02-09T17:28:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp"
+  - title: "Democrats Urge Federal Agencies to Abandon Use of Facial Recognition"
+    excerpt: "\"Facial recognition tools pose a serious threat to the public's civil liberties and privacy rights, and Clearview AI's product is particularly dangerous,\" warn four progressive lawmakers. A quartet of progressives in Congress sent letters to five U.S ..."
+    publishedDateTime: 2022-02-09T20:32:00Z
+    webUrl: "https://www.commondreams.org/news/2022/02/09/democrats-urge-federal-agencies-abandon-use-facial-recognition"
     type: article
     provider:
-      name: https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135
-      domain: https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135
-    quality: 154
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 41
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1d0d9a38a8a76273eea71dddc6c24b0a.jpg"
-        width: 800
-        height: 449
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-02/GettyImages-1285414057%281%29.jpg?h=8f9cfe54&itok=aOdd-Izg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OHZ5DPkiLeh2Q3H0ghqg22sSWdrc/z7gry4x9cT5fciSeLB2Nr00q4ex3WWgM8hTSjEWlTVJ0sc4XGU6bnMo5Dmk7ZG4qeSOqfZev87mEmSF1KugbPGRiObUv2x+Qn8ZRQK8N3z3YwVYXb9BIM777TWol0U0aF28wMCWjpCGlI7I41C90ZUh9l6ptCLhOo1/OPeWVIZtYhW8O9Y9lJXZQYITrI32ru8cJhVzQXBOhV66XAN6ZUVyJy3Lj1GkTJ/5Pdw9AX6FKD2UdziL7rIcmBC8QEPFtnaMEru5Q9xc1ZYbZuocFoBz11LLNnx5R2bqoI+qSdahdM4YvIDAa2HZILe5pjDNcyAYIZKZ/YvrTzoWc4vQqtM1kLP+RRi73Fb4EAJgnKsm4VEeBv2hz/uSMjRCRNsCTMlL5HHabe1FrLujjLqnCeRvpvwyKyTc2lnwpEeAFYLCunBN6pz9hbiNbrMKzI/8XPK2YBkeEqd8065bdJF3SqLWNqkVX+WdYsyDEVGNwnj9FML416x3m5faBQ==;2r4fEWr7M31fIWKmVf4c0Q=="

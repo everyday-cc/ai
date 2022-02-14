@@ -120,20 +120,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Sony AI and Polyphonic Unveil Gran Turismo Sophy"
-    excerpt: "Christian Gerdes. In a blog post made on Sony AI’s blog, the team described the many challenges in making Sophy a reality. To start, the AI had to learn Gran Turismo‘s physics engine–a ..."
-    publishedDateTime: 2022-02-09T18:34:00Z
-    webUrl: "https://gameranx.com/updates/id/287895/article/sony-ai-and-polyphonic-unveil-gran-turismo-sophy/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 37
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2021/11/gameranx-icon.png"
-        width: 500
-        height: 499
-        isCached: true
   - title: "Sony AI's first major product is a fast-learning Gran Turismo racer"
     excerpt: "On the other hand, now that the proof-of-concept is here, you never know where this kind of AI tech may start popping up. Check out our Gran Turismo 7 preview to see how else it changes the racing game. I got a BA in journalism from Central Michigan ..."
     publishedDateTime: 2022-02-09T23:00:00Z

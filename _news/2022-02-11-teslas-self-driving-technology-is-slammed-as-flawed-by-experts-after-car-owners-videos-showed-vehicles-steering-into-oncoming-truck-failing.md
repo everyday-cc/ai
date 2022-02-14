@@ -59,22 +59,6 @@ related:
         isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-    publishedDateTime: 2022-02-09T17:41:00Z
-    webUrl: "https://www.ksdk.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    type: article
-    provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 59
-    images:
-      - url: "https://media.ksdk.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
-    excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
     publishedDateTime: 2022-02-11T07:22:00Z
     webUrl: "https://www.10tv.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
     ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
@@ -152,6 +136,20 @@ related:
       - url: "https://arcticstartup.com/wp-content/uploads/2022/02/metropolia_navya.jpg"
         width: 1352
         height: 1211
+        isCached: true
+  - title: "Will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
+    excerpt: "Instead, Musk promised something wilder still: vastly improved \"Full Self-Driving\" software by year end that could turn existing Teslas into driverless robotaxis, capable of making money for their owners. The software is in the beta test phase and requires ..."
+    publishedDateTime: 2022-02-14T09:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/will-feds-frustrate-elon-musks-plan-make-teslas-self-driving"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "FSt4k0gYEo+iMxaE8T0b+p4a8te2nm7I3p26BYW4nKo7OLk/s6OJVPkMq/MYR9g4BDQ8fqdrA1EB24JRc/Hj8WUp7L8ZqQUJrO+dezJ5ZifKGEcUrI3yDkc2+WBxcwjj7yYcya5d7GnUOsDtfdd9TPJePEBcGZESKed5DKsXithsbWqyUM0yZh8J2A2OkO+P5NGa2jHBVK3Hs3/9sATbupBw+RdQ0e/P3vUZHuhcqUpEO+3bEAB6HHf0XHxT/K5hdAUE2/gQ+fv5rtiF5aQskFajPA3526oHduZ3f5JqM7hkOBKgzPWTu9OXRzuRG3BS39bCqIRzDpXjIWkDAtwuPQW5OY2cKret/N9+61+7LRM=;6DYI2LvT7GEQrt/Jfa3J2A=="
