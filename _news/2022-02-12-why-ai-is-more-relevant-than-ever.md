@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Bull Thesis for C3.ai Is More Artificial Than Intelligent"
-    excerpt: "At least two big-bank analysts are not particularly optimistic. First, Bank of America Global Research analyst Brad Sills downgraded his rating on AI stock from “neutral” to “underperform,” which is similar to a “sell” rating. Sills also cut ..."
-    publishedDateTime: 2022-02-09T14:09:00Z
-    webUrl: "https://www.entrepreneur.com/article/417551"
+  - title: "Novant Health says they are utilizing artificial intelligence to diagnose patients more efficiently"
+    excerpt: "Eskioglu said the new technology, currently in use at Novant Presbyterian, is utilizing artificial intelligence. [ ALSO READ: Action 9 helps couple hit with $56K bill after taking infant to ER ] He said the new software helps to scrub through crucial ..."
+    publishedDateTime: 2022-02-12T06:52:00Z
+    webUrl: "https://www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/"
+    ampWebUrl: "https://www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/?outputType=amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 45
     images:
-      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
-        width: 675
-        height: 380
+      - url: "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/es6QH_Gnh184_-p_5vst-k_j3A0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/44ZWQPS2YBEIDDSCMEW3VDM7IM.jpeg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "D2v3pR83hfr8U//DaeeVmqxs9pWyQMweFwv6rw/EWhX2vxo0ZI/wmq2aJWa4kXkIkFh5yFtG0b5KtkO5WK/bdlHbURR/3xtHN3ZbbRCKvVnlqiMm+7fQ4glJlw3Pfakjmfk6Pzuuf0wo1TzJZUhwg8UZI0eUFc+KK3Yzt1Ldc73srwAlNijOV5sCkSjju9ZI0EncRgOb0y0kNfKxJK5wgyUtfzxqiyN0FcLpH8NOYQ+dUhf88ze7H1vaKvUkOvN5oJCKI9d23CzhDSx0RgO84NGXUH3vewWfZHujWFI3Qu9EpMKPwRznNqn+eImcAn/tuRYMYxgMGNwy9jx6c5hcvw8TOJx6RnGoI27A8BgalXMpS9snKfUYATvPCrzCwfgWHNpAtES1PP2Uq7yjuiVh8N3mGsWi/lqUX7qfTHKxKBFLGR86aTSWgf/c4RMGJnyMlyYlpTT+ha/BrmQjAh+z79IXkNbV5fF9Dn+4MnnjSUF0qIQ2HPp0MN9iC5paVBSTj9bUOCiSCCIuaNn13yvCFA==;w+smcfd+qhHtfuzFCnFKjw=="

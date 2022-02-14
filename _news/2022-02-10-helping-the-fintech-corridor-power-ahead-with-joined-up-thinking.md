@@ -57,20 +57,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Why The Future Of Fintech Depends On Open Data"
-    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
-    publishedDateTime: 2022-02-09T13:42:00Z
-    webUrl: "https://www.linkedin.com/pulse/why-future-fintech-depends-open-data-naveen-joshi"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGC-IrFk_kSKA/article-cover_image-shrink_720_1280/0/1643831593265?e=1650499200&v=beta&t=z-DREcEk0IRXN50RpIDlKmNCrd3yKK2_Gy8SE8GVNQY"
-        width: 1000
-        height: 617
-        isCached: true
   - title: "Trends that will shape the Fintech industry in 2022"
     excerpt: "This will finally allow businesses, and the fintech industry in particular ... Voice-enabled payment: With rapid improvements in AI-based voice technologies ensuring high precision in natural language processing, voice-enabled payments are expected ..."
     publishedDateTime: 2022-02-10T08:17:00Z

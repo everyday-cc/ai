@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI's Contribution to the Metaverse's Growth"
-    excerpt: "The last several years have seen a slew of new revolutionary tech concepts emerge; the Metaverse is one of the most hotly debated. So, first, let's define Metaverse and how AI can assist in its development."
-    publishedDateTime: 2022-02-09T13:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/ais-contribution-metaverses-growth-harish-rohokale"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE4EFtMQx8IKg/article-cover_image-shrink_720_1280/0/1644410950856?e=1649894400&v=beta&t=XmDhTEPC5ch41W4uYRtpxhpn6pUghezHGRx-hHa324o"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Korea's $200 billion wealth fund is betting on the metaverse and AI startups"
     excerpt: "\"There are still plenty of good opportunities, if you chase them eagerly.\" KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation's finance industry."
     publishedDateTime: 2022-02-11T19:21:00Z

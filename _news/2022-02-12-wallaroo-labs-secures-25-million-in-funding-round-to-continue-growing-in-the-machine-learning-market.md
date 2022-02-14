@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "SecureThings.ai Raises $3.5 Million In Pre-Series A"
-    excerpt: "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team"
-    publishedDateTime: 2022-02-09T13:11:00Z
-    webUrl: "https://www.entrepreneur.com/article/417696"
+  - title: "Smarter.ai, a Marketplace that’s Democratizing AI and Helping SMEs Compete with BigTech, Secures Funding"
+    excerpt: "Smarter.ai, the creators of an AI marketplace to democratize artificial intelligence and help SMEs meaningfully compete with Big Tech, has announced its pre- seed raise, which was led by Fuel Ventures and Hambro Perks. As noted in the update, this comes at ..."
+    publishedDateTime: 2022-02-09T21:18:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186748-smarter-ai-a-marketplace-thats-democratizing-ai-and-helping-smes-compete-with-bigtech-secures-funding/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 40
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg"
+        width: 1280
+        height: 934
+        isCached: true
+  - title: "Canadian AI-Based Company SenseNet Launches IoT Solution to Detect and Combat Wildfires"
+    excerpt: "SenseNet Inc. has announced the launch of its newest technology which is designed to detect wildfires before they start In 2021, the world witnessed ... leading to fewer people wanting them deployed. Canadian AI-based Company SenseNet has developed an ..."
+    publishedDateTime: 2022-02-09T16:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/canadian-ai-based-company-sensenet-launches-iot-solution-to-detect-and-combat-wildfires"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.abnewswire.com/uploads/1644369147.png"
+        width: 1192
+        height: 1594
         isCached: true
 
 secured: "RVVKyiNYRMATZOBHllpRLjcyMiwIK5F5ipF0S92j8372vYm/bKUksHlJ77PXR5by4j57whHaCCX7TsDSpEar7EWZwLM3rVPRVp0K4aUA6Ql9AMzvKdPLfw7PMlciucG+Tah4l68ptkeLp0f/Vccc4V4wMMYqjUUabXAkmqIpcF1xDlUvoBtaoCImUJ6NMQ5Ooln66ANXRKxrVYO3gHjp0FOEtp7h3UY4/qL0vP5Uqb/kyZpzHHV0RBLLTKvC49WTmHIhRHrHu37hlovMTw3DwQSRLLtQyIy3ArTKKWkw4BwgJcyDhT3ZyqdzybUiw+GEAf0QyYEXDlXhXhKdw2e02pBqVrCmV8pWp5MhQ/NPwg0=;R6+dRECEFl/eEQEqBjxTfQ=="

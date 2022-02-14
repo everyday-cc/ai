@@ -24,19 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Your AI Is Scary: Explainability and Interpretability in Artificial Intelligence"
-    excerpt: "Explainable AI seems like a good and necessary goal but it does come ... In fact, the director of the Center for Ethics and Policy at Carnegie Mellon University wrote in 2019, “… a blanket requirement that machine learning systems in medicine be ..."
-    publishedDateTime: 2022-02-10T20:15:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2022/02/10/your-ai-is-scary-explainability-and-interpretability-in-artificial-intelligence/"
+  - title: "Europe needs to hasten AI in manufacturing adoption"
+    excerpt: "When it comes to automating processes in the manufacturing industry, AI is a key technology component in making it happen. Today, AI in manufacturing has a myriad of use cases that can not only help businesses have better businesses continuity and ..."
+    publishedDateTime: 2022-02-14T02:14:00Z
+    webUrl: "https://techhq.com/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
+    ampWebUrl: "https://techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 51
+      name: TechHQ
+      domain: techhq.com
+    quality: 57
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/02/Goldstein-Northman-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2022/02/000_9XR4C2-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
+  - title: "ELLIS is making progress with an ambitious multicentric approach to Artificial Intelligence research in Europe"
+    excerpt: "(Risk-free with a 14 day refund guarantee) ALICANTE, Spain, Feb. 10, 2022 /PRNewswire/ -- The European Laboratory for Learning and Intelligent Systems (ELLIS), the leading European Artificial Intelligence (AI) association with a focus on scientific ..."
+    publishedDateTime: 2022-02-10T09:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/n25529505/ellis-is-making-progress-with-an-ambitious-multicentric-approach-to-artificial-intelligence-resear"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25529505"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25529505"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "hbSMNQtvNBDclIOggzEmd0zc0DcOX1pBNm1xZCubULp80E+/Fy+aWh5YuUcVs/vLwHEa79HEDU/75Pc4PjzODwIoUWSzMmIbdbwcXWXclGHSejUaotCd7qh8hg8v8Fx+W8498NR1FyRygY2xQJeaIj07EIvcE3b0kaudO/zzytAP3sOFTIKVfX4w0AkxrAAXSqKO90LrQeq8wrb/48aH7Y5WzJ1uE602UD9llauTsu8jq2Io4iCJQcYkko9GxxwKZC+u/gdkSY2MYD8Rtk0H+85P7hC1fnsFU8DVaVly0y9f6qRzy5dSI2O07ThZt6Gu1EsGWPcM1l0ULJ5IoCEwMu7NUMhIKU4cCghiPtyuXnc=;Do2iv7VR+qVzKV0Xo4KifQ=="
