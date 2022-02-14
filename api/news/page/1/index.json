@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-15-fake-faces-created-by-ai-look-more-trustworthy-than-real-people.md",
+      "title": "Fake faces created by AI look more trustworthy than real people",
+      "excerpt": "Artificial intelligence can create such realistic human faces that people can’t tell them apart from real faces – and they actually trust the fake faces more. Computer-generated, fictional human faces are so convincing, they can fool even trained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/",
+      "originalUrl": "https://www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/02/14174128/PRI_223554170.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/amp/",
+      "publishedDateTime": "2022-02-14T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-jaic-piloting-artificial-intelligence-education-for-dod.md",
+      "title": "JAIC piloting artificial intelligence education for DOD",
+      "excerpt": "The Department of Defense’s Joint Artificial Intelligence Center recently launched new AI education pilots for thousands of DOD employees that range from executive education for general officers to in-depth coding bootcamps. The most recent cohort of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/",
+      "originalUrl": "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2019/08/GettyImages-667849954.jpg?w=1200&h=500&crop=1",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-ambientais-stephanie-mcreynolds-on-ais-role-in-physical-security.md",
+      "title": "Ambient.ai’s Stephanie McReynolds on AI’s Role in Physical Security",
+      "excerpt": "I spoke with Stephanie McReynolds, Head of Marketing at Ambient.ai, about how AI can provide a network of cameras with predictive, real-time intelligence, and respect privacy at the same time. Among the topics we covered: The use of AI to boost security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
+      "originalUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/02/New-eSPEAKS-thumbnail-6.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-an-ai-assistant-for-material-discovery.md",
       "title": "An AI assistant for material discovery",
       "excerpt": "When Tony Stark needs to travel to space in the original Iron Man movie, he asks his artificial intelligent (AI) assistant J.A.R.V.I.S. to make a suit that can survive harsh conditions. As AI specialist Kamal Choudhary explains: \"The way I see it ...",
@@ -52,7 +189,7 @@
       "originalUrl": "https://techcrunch.com/2022/02/14/texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -199,7 +336,7 @@
       "originalUrl": "https://www.cnet.com/tech/gaming/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -291,6 +428,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report.md",
+      "title": "Intel's Mobileye aims for self-driving shuttles in the U.S. by 2024 -- report",
+      "excerpt": "Mobileye, the self-driving technology unit owned by Intel (NASDAQ:INTC), has set a goal of rolling out self-driving electric shuttle vehicles in the United States by 2024 as part of its efforts to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "originalUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/951562278/image_951562278.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "publishedDateTime": "2022-02-14T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -398,7 +578,7 @@
       "originalUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -641,7 +821,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven-cars-are-going-to-crash-into-each-other/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -694,7 +874,7 @@
       "originalUrl": "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1022,196 +1202,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-us-bill-promises-to-regulate-social-media.md",
-      "title": "AI Weekly: AI beats race car drivers in a video game and a U.S. bill promises to regulate social media",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. This week in AI, Sony — the Japanese electronics giant that’s still selling luxury MP3 players ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/",
-      "originalUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/porsche.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/",
-      "publishedDateTime": "2022-02-11T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers.md",
-      "title": "Darktrace on where security AI goes next: ‘Turning the tables’ on attackers",
-      "excerpt": "Register here. The next phase of security AI will bring a greater focus on preventing attacker movement — making cyber attacks much more difficult and far less likely to succeed — through ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/",
-      "originalUrl": "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/darktrace-ai-prevent-attack-path.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/amp/",
-      "publishedDateTime": "2022-02-11T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-new-computer-vision-system-designed-to-analyze-cells-in-microscopy-videos.md",
-      "title": "New computer vision system designed to analyze cells in microscopy videos",
-      "excerpt": "Researchers at the Universidad Carlos III de Madrid (UC3M) have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
-      "originalUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-computer-vision-sy.jpg",
-          "width": 1882,
-          "height": 944,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
-      "publishedDateTime": "2022-02-11T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai.md",
-      "title": "Forrester's take on navigating The Business Roundtable's Roadmap for responsible AI",
-      "excerpt": "While many companies are already thinking about responsible AI due to market forces such as the impending Artificial Intelligence Act in Europe and the demands of values-based consumers, this announcement will elevate the conversation to the C-suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
-      "originalUrl": "https://www.zdnet.com/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
-      "publishedDateTime": "2022-02-11T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Texas AG sues Facebook parent Meta over facial recognition"
-excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed ..."
-publishedDateTime: 2022-02-14T18:43:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state’s ..."
+publishedDateTime: 2022-02-14T19:11:00Z
+originalUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+webUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+ampWebUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "New algorithm bill could force Facebook to change how the news feed works"
@@ -183,6 +177,20 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "Texas sues Meta's Facebook over facial-recognition practices"
+    excerpt: "WASHINGTON, Feb 14 (Reuters) - The Texas attorney general's office sued Meta's (FB.O) Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of ..."
+    publishedDateTime: 2022-02-14T18:16:00Z
+    webUrl: "https://www.reuters.com/technology/texas-sues-meta-over-facebooks-facial-recognition-practices-report-2022-02-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/3DIMCwJISd63m-_elCUQMtEQhrE=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6WVIO3H3LJIF3BHDITYPZD2YDQ.jpg"
+        width: 728
+        height: 381
+        isCached: true
   - title: "Is the World Seeing the Beginning of Facebook's End?"
     excerpt: "The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms, formerly known as Facebook. Meta on Thursday ... to networking, and to artificial intelligence machines that beat chess grandmasters and \"Jeopardy!\""
     publishedDateTime: 2022-02-11T00:00:00Z
@@ -214,6 +222,6 @@ related:
         height: 720
         isCached: true
 
-secured: "5Aq565BQByhT7msfFrdnBhG48adCrYNNkg2Y9j3V0aXECUcokUigr/+47L4iBjYxTjHstTnsf7lRRAHpfzGmNT/q/GVsLABE5BoEA67RaACJR5hMfBQFlaY/raf12bEP/m6RV+Ns10vdQlc4NjRtuHdvDC0N8l61IqWXjI66YOtCGaTO0pHnCBcHR8DHq05KE1J+SfJRWPnmidNnDHyyzpdiX7d+oRQ4FEXA94JELJSCfbe7GvkCQu9oJTQ0ywAQwf8ToIArj646xbveEcAvQi+a/GItIuU/ASP+3Sk+IusR/ZGRz3MkPtxUfpczo8vAwlahrXXwsFPPNwb3Hp/ZmoCRl43fTnI2KUN4y32NP5s=;gzALGcfENL0xtkabexJV8g=="
+secured: "DpyigKoYCS9ErAuJ7s3vNizbayjQEbznnO23oQTefyhOvwzePxnl5MUBYtNesh4imudmavOX6RH8xvJ8vjtgOhObnHZG/Dnms1W/KOP9tf/02w4gYl7+yAPWgzzRAQSRs8mbyNa1eiUIJcQONg8aUHnqv8eEXL1oPKPCqb+7wMMceDfUbhFcVwevDKKeH3gQgBMqYiBAoeDxkpsMo0PHD049q5zPg1iEBDahJQ65203q04/vDedAUGBG7vcT2lwro1fo3llesSSiDJ61zHKEzuPkAKr0BxzQETAR4eLV8kVoHvqFuIpMAdGLC1TVYzvduLdwccddtHa3oOEicjhWjg9SOjsGlQs+wen1H89uYL48EDgvNyuTnaOd2sEdxP8L8rhP8IrH2dbAzkJZJpP68Dg2isJIIlIUWSPvJKvz8TfBlyT6OQpPMy5kbxcJL9FzL9+NJyS/F9zg8zztZADBQQ5WeeWEbdNswOKFf5cbR4o0k04rdEaqDN5tvUAw10wLehrFrbgR8BKW+jSWShutzw==;aiW5qf8JUVrJ7avKH1u07Q=="
 ---
 

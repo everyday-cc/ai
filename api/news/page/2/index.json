@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-12-ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-us-bill-promises-to-regulate-social-media.md",
+      "title": "AI Weekly: AI beats race car drivers in a video game and a U.S. bill promises to regulate social media",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. This week in AI, Sony — the Japanese electronics giant that’s still selling luxury MP3 players ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/",
+      "originalUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/porsche.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/",
+      "publishedDateTime": "2022-02-11T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-12-darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers.md",
+      "title": "Darktrace on where security AI goes next: ‘Turning the tables’ on attackers",
+      "excerpt": "Register here. The next phase of security AI will bring a greater focus on preventing attacker movement — making cyber attacks much more difficult and far less likely to succeed — through ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/",
+      "originalUrl": "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/darktrace-ai-prevent-attack-path.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers/amp/",
+      "publishedDateTime": "2022-02-11T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-new-computer-vision-system-designed-to-analyze-cells-in-microscopy-videos.md",
+      "title": "New computer vision system designed to analyze cells in microscopy videos",
+      "excerpt": "Researchers at the Universidad Carlos III de Madrid (UC3M) have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
+      "originalUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-computer-vision-sy.jpg",
+          "width": 1882,
+          "height": 944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
+      "publishedDateTime": "2022-02-11T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai.md",
+      "title": "Forrester's take on navigating The Business Roundtable's Roadmap for responsible AI",
+      "excerpt": "While many companies are already thinking about responsible AI due to market forces such as the impending Artificial Intelligence Act in Europe and the demands of values-based consumers, this announcement will elevate the conversation to the C-suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
+      "originalUrl": "https://www.zdnet.com/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forresters-take-on-navigating-the-business-roundtables-roadmap-for-responsible-ai/",
+      "publishedDateTime": "2022-02-11T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-can-an-ai-be-properly-considered-an-inventor.md",
       "title": "Can an AI be properly considered an inventor?",
       "excerpt": "Several years ago, I wrote a piece titled “How AI and copyright would work.” As I looked over the state of several interesting questions at the intersection of artificial intelligence and ...",
@@ -1034,189 +1224,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda.md",
-      "title": "Reduce costs and complexity of ML preprocessing with Amazon S3 Object Lambda",
-      "excerpt": "Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. Often, customers have objects in S3 buckets that need further processing to be used effectively by consuming applications. Data engineers must",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/ml_6508_fig1.png",
-          "width": 942,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T12:40:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-privacy-tip-318-irs-abandons-use-of-facial-recognition-for-new-accounts.md",
-      "title": "Privacy Tip #318 – IRS Abandons Use of Facial Recognition for New Accounts",
-      "excerpt": "The Internal Revenue Service previously announced in November 2021, that it would use facial recognition technology offered by ID.me to authenticate taxpayers before using any online services the IRS provides, including viewing accounts, making online ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts",
-      "originalUrl": "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp",
-      "publishedDateTime": "2022-02-10T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai.md",
-      "title": "Stanford researchers propose ‘jury learning’ as a way to mitigate bias in AI",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. Many AI systems today learn from examples — whether images, text, or audio — that have been labeled by ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data-e1629907579542.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/amp/",
-      "publishedDateTime": "2022-02-10T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-morgan-stanley-pounds-the-table-on-microsoft-stock.md",
-      "title": "Morgan Stanley Pounds the Table on Microsoft Stock",
-      "excerpt": "This includes products for collaboration & communication (Teams), analytics & visualization (PowerBI), endpoint security (Defender) and identity management (Azure AD ... data management and machine learning, amongst others. This provides enterprises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
-      "publishedDateTime": "2022-02-10T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

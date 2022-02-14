@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Raquel Urtasun’s tech company develops self-driving vehicle simulator"
-excerpt: "One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away from the road. Raquel Urtasun’s Toronto-based company Waabi revealed Wednesday that it has built a high-fidelity,"
-publishedDateTime: 2022-02-09T11:15:00Z
-originalUrl: "https://www.insauga.com/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/"
-webUrl: "https://www.insauga.com/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/"
+excerpt: "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away"
+publishedDateTime: 2022-02-09T11:40:00Z
+originalUrl: "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html"
+webUrl: "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html"
 type: article
 
 provider:
-  name: Mississauga's Top 5 Fish
-  domain: insauga.com
+  name: Waterloo Region Record
+  domain: therecord.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.insauga.com/wp-content/uploads/2022/02/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg"
+  - url: "https://images.thestar.com/j-LCDvx0Et6fcBec6MzWhz1IcJ0=/1280x1024/smart/filters:cb(1644443122032)/https://www.therecord.com/content/dam/thestar/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg"
     width: 1280
-    height: 919
+    height: 1024
     isCached: true
 
-secured: "HToF8H0rlZDP5LPSgcPV629Ygu0NWQKI/AIxIFwbZpcLsb5f5wMqkiGxPmbcOzVP6HI0+7BR1FR8A+Pv3wysmeIrdoOqih/Ec/SeffycRo6kGWLsJXTK47gL0KWR6pXIl243xFpUhM3zgORKWVEdtm1yP/0IRRKtFRXFeqMFPC4xoniYoP2MwFecwIOHERSDa7vrGcTvziJ2+jm1afaGGgeEtQnlTlU+Fz+DYNEYDFOdTu1OMzKuyulJCT4UlzyLdxb9QyZllueR5lb7P7TGZVfyDvWrb0xpqQLl4F1rLb5f0xtYlA3oxGbvrNvPYGHcbBQ+p+wA31DLGtGqapwMzA9HshHN8AlCJPAQmP6CEx0=;jr0SJnnvYCFBUi8sGnsirQ=="
+secured: "8L2TxaPj4nnUcNK1UWlRRSh7SXHeyOWosDoMvOZO1OpxHIN7/PLPCqTp0qYMa3nkunsQNCDXdxb8SYHb7Ogig/WaYw47gSaGbjuTDRjmIrH8BtqM8rP+SV9FTwv96nviNbb+lVm0/G/SRIo00y/mwj92u2xfXxIApEtfdF4iIxgxQn6s3HGwIc2ROcPENBGSr7kPSuPCZ+YxBsTuzheeE5YKebWcoyKde5ZFZlPNRx05SubyCtSGM177Z130MfSzJYpzYKjTUctMkTQOIsy4vZFLGsrwZuCyoHAszC3iUS27hScgtJf+7s0BvvPxDNE1oag8qStyBeRh6pkblo9RIEjmLXAUeJu9ucqrAt82RmY=;M6GOht1ZiQfzVIWLV6Q9MQ=="
 ---
 

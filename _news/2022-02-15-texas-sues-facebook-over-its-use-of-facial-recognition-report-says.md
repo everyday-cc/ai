@@ -125,22 +125,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Texas AG sues Facebook parent Meta over facial recognition"
-    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed ..."
-    publishedDateTime: 2022-02-14T18:43:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Texas apparently just realized Facebook used facial recognition"
     excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
     publishedDateTime: 2022-02-14T18:05:00Z
@@ -187,6 +171,20 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "Texas sues Meta's Facebook over facial-recognition practices"
+    excerpt: "WASHINGTON, Feb 14 (Reuters) - The Texas attorney general's office sued Meta's (FB.O) Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of ..."
+    publishedDateTime: 2022-02-14T18:16:00Z
+    webUrl: "https://www.reuters.com/technology/texas-sues-meta-over-facebooks-facial-recognition-practices-report-2022-02-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/3DIMCwJISd63m-_elCUQMtEQhrE=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6WVIO3H3LJIF3BHDITYPZD2YDQ.jpg"
+        width: 728
+        height: 381
+        isCached: true
   - title: "Is the World Seeing the Beginning of Facebook's End?"
     excerpt: "The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms, formerly known as Facebook. Meta on Thursday ... to networking, and to artificial intelligence machines that beat chess grandmasters and \"Jeopardy!\""
     publishedDateTime: 2022-02-11T00:00:00Z
@@ -203,6 +201,17 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state’s ..."
+    publishedDateTime: 2022-02-14T19:11:00Z
+    webUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z
@@ -218,6 +227,6 @@ related:
         height: 720
         isCached: true
 
-secured: "m0ymzEng++mLCl55rwoXjt5VURAkvT+vTcAtD5LN1Yw8G/gJ8OCpLnl7zeV2hzohbePLMJs3PvrcsMQZ7Rz82/h2SmISYoCvc0MTB4Qm6Nurb9SNx7xVxqfZkmaA8/0fejENZp6e6lCGmfrCREjVQ5l6ZnB4F16ovuAZKsntghjEvJJNml+usAyIx/RZpx1luRcmhAsrwPSakH5Bij0lI1UDYGVTGZY3FUg1wwzFCkTz6a0M6jQ+GWrhhpAtcQod7prrgQSGVT1GCsfYNka9nnjUnZ7FaveSy3vS8b1DsurQq/pk90FUSR9VEIC6KpayS6Z/8Jbl79a5hH9JD41rcMOjbnzcv7jzYVwm6cxPUug=;WEZLZeMarzJJaO5BsLVnig=="
+secured: "m4RSAxbuhiAuSCIEt6jmCDo0MPbQ0p+HSCcgUFWxc3fLbNlLPoMKA5Ae174OJRgVvLJpYrn1mtZKu2SqTpuybwPzucQO1GOJfYbOQVAo+1AWKZQ6mNbJoXKO7XDvUi34Ep5aZsjUez+S/+TRIfCWngewwE3JRfRd5ZFW35YQPlgvxr7o/9PfNuXl5ouxuqwpKUvQQWUR+4Ab3lH4ks46AuhMGt3jadFWpMIhiSXcarmZAFn3KVzwj3X5La4SzZFZswW8mD9zMEuqfeRtOcv14W7MjI3TAMzY7VRFqYs5kEFXBb6xzNvDwY4MqUP4u5UlI1N9nK+N1NdAcXowlCVHaeTDxSENkTUSU55raeBY88wPXugQTbM1pzPLdBeC52GSwSoSujR7Az7f5nvM539mx2FceSyGBHbN0GUlUy2kR5qM3DwdhPdbnc4546xGxW/S7Hv8F9JKHx3YD5U8KaoR8ZNZYu6qKIj3Hh46fDz15IxYY6M+qWhAFuG3+t95DDOL3Jhdd1jPkuUxMUSj+SC6FQ==;1Xq9mjIjY4mstQSvUN39Ug=="
 ---
 

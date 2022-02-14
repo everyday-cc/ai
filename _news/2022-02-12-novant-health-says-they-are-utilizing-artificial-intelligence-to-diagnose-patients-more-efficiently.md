@@ -26,22 +26,6 @@ images:
     height: 810
     isCached: true
 
-related:
-  - title: "Why AI is more relevant than ever"
-    excerpt: "Other prominent players like AWS have also joined in the fray with home-built AI chips. As evident in this AI day video, where they showcase their cutting-edge AI hardware, Tesla has enormous AI ambitions. And the list of AI-first startups working on ..."
-    publishedDateTime: 2022-02-11T20:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/why-ai-more-relevant-than-ever-abhi-mahule"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGynyzc8VIQyg/article-cover_image-shrink_720_1280/0/1644608092182?e=1649894400&v=beta&t=QwxbJ5_YHHPfJakUCf4eYspgGPDIvKJu2_5bAm1FE7Q"
-        width: 1280
-        height: 685
-        isCached: true
-
 secured: "sCm4b9rW+1d9pKb7kShgbaN7lpRvtUmwFQFFgzZyIATZmivy1VgNngXuPiR7mMj1JN9u0WJOHFPwiiLlbo3ixDQXOV/eaMbqsTzQ47gpa0vzUw03PmDTQcFXBfeKJn6Hs17M3Ppb4rIVqEvogBqxGzQOuYXAc6Z07k25kLU0hdMiqvGSNS+dzDLBcGpTAVzYgl8Rc3usOpprJiNeoBMEHtk1baHvOWsjpwqn2F0M/oXMgx33MdOL4E4DZ8BVAbNQ9wi7sgsl5UR5DhF3EWbnqnOTY0zahr9KcaQUnHFurnr/nU388uxE8I8OJsSYIU9fR1iU33LsuzqzoYbPE8IIR4i6fx4oN9XSw734ZwAdxKfFr0lRNGssFersclmUx9haC0woxtTBaGrrLJ1+fJuZwhtyuK+62hFChye0m/rIwXiu7KFIrMkofCtACzd9hAxYu18a+Egno/hXpldmehSYBTNP2g479DsPOrJMhYdfuQ3h5JMcAkV2DR59AmOmWcrd1F1T3L7hXjyTJY9GpnQpTg==;ES03J5TVH/NCAhum9TbblQ=="
 ---
 

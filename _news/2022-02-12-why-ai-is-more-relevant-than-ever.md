@@ -29,21 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Novant Health says they are utilizing artificial intelligence to diagnose patients more efficiently"
-    excerpt: "Eskioglu said the new technology, currently in use at Novant Presbyterian, is utilizing artificial intelligence. [ ALSO READ: Action 9 helps couple hit with $56K bill after taking infant to ER ] He said the new software helps to scrub through crucial ..."
-    publishedDateTime: 2022-02-12T06:52:00Z
-    webUrl: "https://www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/"
-    ampWebUrl: "https://www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/novant-health-says-they-are-utilizing-artificial-intelligence-diagnose-patients-more-efficiently/X23ENWBNEZHRPMXHSKX3PLDYIU/?outputType=amp"
+  - title: "Fake faces created by AI look more trustworthy than real people"
+    excerpt: "Artificial intelligence can create such realistic human faces that people can’t tell them apart from real faces – and they actually trust the fake faces more. Computer-generated, fictional human faces are so convincing, they can fool even trained ..."
+    publishedDateTime: 2022-02-14T20:00:00Z
+    webUrl: "https://www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/"
+    ampWebUrl: "https://www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/amp/"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 45
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
     images:
-      - url: "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/es6QH_Gnh184_-p_5vst-k_j3A0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/44ZWQPS2YBEIDDSCMEW3VDM7IM.jpeg"
-        width: 1440
-        height: 810
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/14174128/PRI_223554170.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Humans Find AI-Generated Faces More Trustworthy Than the Real Thing"
+    excerpt: "Baik Kyeong-hoon, director of the \"AI Yoon\" team, makes a video clip using \"AI Yoon\", a digital avatar of South Korean presidential candidate Yoon Suk-yeol of the opposition People Power Party. The images on the screen demonstrate how far artificially ..."
+    publishedDateTime: 2022-02-14T20:03:00Z
+    webUrl: "https://www.scientificamerican.com/article/humans-find-ai-generated-faces-more-trustworthy-than-the-real-thing/"
+    ampWebUrl: "https://www.scientificamerican.com/article/humans-find-ai-generated-faces-more-trustworthy-than-the-real-thing/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/humans-find-ai-generated-faces-more-trustworthy-than-the-real-thing/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/44E2388E-2E93-4791-B2B85189932303FF.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "D2v3pR83hfr8U//DaeeVmqxs9pWyQMweFwv6rw/EWhX2vxo0ZI/wmq2aJWa4kXkIkFh5yFtG0b5KtkO5WK/bdlHbURR/3xtHN3ZbbRCKvVnlqiMm+7fQ4glJlw3Pfakjmfk6Pzuuf0wo1TzJZUhwg8UZI0eUFc+KK3Yzt1Ldc73srwAlNijOV5sCkSjju9ZI0EncRgOb0y0kNfKxJK5wgyUtfzxqiyN0FcLpH8NOYQ+dUhf88ze7H1vaKvUkOvN5oJCKI9d23CzhDSx0RgO84NGXUH3vewWfZHujWFI3Qu9EpMKPwRznNqn+eImcAn/tuRYMYxgMGNwy9jx6c5hcvw8TOJx6RnGoI27A8BgalXMpS9snKfUYATvPCrzCwfgWHNpAtES1PP2Uq7yjuiVh8N3mGsWi/lqUX7qfTHKxKBFLGR86aTSWgf/c4RMGJnyMlyYlpTT+ha/BrmQjAh+z79IXkNbV5fF9Dn+4MnnjSUF0qIQ2HPp0MN9iC5paVBSTj9bUOCiSCCIuaNn13yvCFA==;w+smcfd+qhHtfuzFCnFKjw=="

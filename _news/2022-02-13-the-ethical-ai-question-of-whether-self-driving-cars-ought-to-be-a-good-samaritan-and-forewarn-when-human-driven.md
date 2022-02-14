@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-qu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven-cars-are-going-to-crash-into-each-other/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 3782
     height: 2128
     isCached: true
-
-related:
-  - title: "So what happened to self-driving cars?"
-    excerpt: "Apart from the convenience factor, self-driving cars are seen as a panacea for ... where humans can relax while an artificial intelligence does the driving. But here we are in 2022, still stressing out in heavy traffic dealing with inconsiderate drivers ..."
-    publishedDateTime: 2022-02-10T03:05:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2022-02-10-so-what-happened-to-self-driving-cars/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/dFGKEqmvasAcjt_GxUIaUPiY6Q6zmnMJIS0b45QonT3FA8lDH1e8sUXgVMkkcEs9J2kWu8LdybkuwV_qB5WLYjaPGtkA1ugVxEFef-XijJbsSbI=s750"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "CDMWGKqkduJiE+l8/zt0Ek/Nbu2Res2lIgRgB8nIXBaJ6RKgmv4chWSyDS65IBNmvu8vMg56oXpD1SSH3rQdGskGEzNtihpV1YrJ+/i4Vp2JB2RCpxfnQh4JLwmBD6fpqL1NZYEH6XAEmBZdpqaDyolYUfnDi4dwoP5tmOnbQg1qAf9/dwLNdQG5s2pbyqCwXaE1dtOLjgJ9/HcNY/CLzh2t5T1s+Dj2jmvqmeTunlFEGQnsEvuzrmGBOQD1YuYfC3preoaEYEBPIESpYNEVjCbuMZFDDMHloYTxuPOQ8Ga5EtfKpSNk3Dbmy08ys/tjERt0DQc0sWjuEo6FtjiJrvjZCa8rW4+pdKPnjA8brgJeI2QeYXzfEfKFWPXxtE8Jb8C/SW7AAyO/ZZC5umV+FTbxrl5xt3m/g/ZhmNBZwzemtSIv2cmYvOxzFusXaki1o+OU1CNApoUrmLOwnx305s7zuts/EgD365tt8CdYYJ7KSaBY/wvOloJzDhAlN1a6Ia0lwz7UyjT8FdP8u5xG8w==;Kgmh5eFVbc9rZSHeAccEXw=="
 ---

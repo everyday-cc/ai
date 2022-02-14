@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/"
 type: article
 quality: 89
-heat: 159
+heat: 160
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/41efcde271a966a96e2a42a4b58a6252d6942cdb/2022/02/10/bda73196-ea07-4c81-92ae-ffbbad5d918e/sophy-web-004.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Sony created a Gran Turismo AI that demolishes the world's best human drivers"
-    excerpt: "As is common in AI, Sony trained its versions of Sophy GT using fast graphics chips. To run the simulations, it used computers with conventional processors. The next in the venerable series, Gran Turismo 7, debuts on March 4."
-    publishedDateTime: 2022-02-10T04:31:00Z
-    webUrl: "https://www.cnet.com/tech/gaming/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-created-a-gran-turismo-ai-that-demolishes-the-worlds-best-human-drivers/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Sony Develops Toughest AI Opponent Ever for New Gran Turismo Game"
     excerpt: "Sony Group Corp. says it has trained a champion capable of beating the world’s best racers at Gran Turismo -- only the player is an artificial intelligence agent."
@@ -108,6 +92,22 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/08724109-83CE-422D-83CF16BE487AB2EB.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Sony’s AI Is So Good At Gran Turismo That It’s Giving Top Human Players Road Rage"
+    excerpt: "Until then, Sony and Gran Turismo developer Polyphony Digital have partnered to make their AI better at racing. We have definitely been impressed by the amazing leaps done by their teams and they ..."
+    publishedDateTime: 2022-02-14T18:46:00Z
+    webUrl: "https://hothardware.com/news/sonys-ai-gran-turismo-human-players-road-rage"
+    ampWebUrl: "https://amp.hothardware.com/news/sonys-ai-gran-turismo-human-players-road-rage"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/sonys-ai-gran-turismo-human-players-road-rage"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 52
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57693/content/gran-turismo.jpg"
+        width: 708
+        height: 399
         isCached: true
   - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
     excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."

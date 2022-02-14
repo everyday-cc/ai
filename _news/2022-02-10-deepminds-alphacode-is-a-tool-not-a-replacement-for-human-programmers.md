@@ -46,6 +46,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "DeepMind’s new AI can write code"
+    excerpt: "A new programming AI system from Deepmind, Alphabet’s experimental AI research arm, can perform complex coding tasks better than the average programmer and could lead to the AI that can change itself. AlphaCode was trained using open source code from ..."
+    publishedDateTime: 2022-02-14T19:09:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/deepmind-s-new-ai-can-write-code.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 54
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/coding%20programmer.jpg"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "Ko2VMln2qdhTe6/V7cFpZb8YUmBHfcgNLmmp0xqQJZJNmk+UYyckVP3j0Pk1wbk2bi8yUEyLjAz1t8FtRflOQY6kyDRtRU+7y/UfM+wfcE7Qgx4w33EsVnLLJe8O6FByVOi3Tp1bALazBz+ZIMfSf3en5dmI6sUx2IBNmLbkLqExgbBaJEpZKx/wGQEmRJAfvew7vBekmOCZ2ppe3Kefap4WQft3ETCyimL0v5nikL4mzxdiGCiZDbcF2DizdU6vnjlw4NlqulwTkbpTygKvXHmjso/H3mbLx4V3SPDsL1y3Ewl1LyRL6oriUTkLYVtCymnB9Dqued6yTjKidQvK+poz+8CRX5Bh36M36UfZKuXBXTKbP5pX/34KsdIH5DNlusEiuxyqibOwlvDT4Gxxt9/ZyecdsVZmses/PbaTZ7TwP5QMG2EcxO/RdGgfVAZGGmyzgrcFehlhg0zPsQOCoMHbBi1nsiEkGK8+y8OszedLP2pKgw+8rl46nx9mg3i3bmRHzvw5pzBd2S/CswBl2w==;lvigAy4S//breutnGzRGsg=="
 ---

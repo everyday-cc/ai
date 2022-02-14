@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-s
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Seeking Alpha
@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving airport shuttle bus to start trial run"
-    excerpt: "A driverless bus will soon start a trial run at Narita Airport outside Tokyo shuttling between terminals. Its developers are planning to put the vehicle in regular service. Two of Japan's leading ..."
-    publishedDateTime: 2022-02-10T04:19:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220210_19/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220210_19/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220210_19/amp.html"
+  - title: "Intel teams up with Benteler and Beep to develop self-driving shuttles"
+    excerpt: "“Working with Beep and Benteler, Mobileye aims to mass-produce first- and last-mile self-driving mobility solutions that will enable the convenient, accessible and safe movement of people across ..."
+    publishedDateTime: 2022-02-14T18:22:00Z
+    webUrl: "https://siliconangle.com/2022/02/14/intel-teams-benteler-beep-develop-self-driving-shuttles/"
     type: article
     provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220210_19_1078521_L.jpg"
-        width: 640
-        height: 360
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/image.png"
+        width: 850
+        height: 484
+        isCached: true
+  - title: "Intel's Mobileye plans self-driving shuttles in U.S. in 2024"
+    excerpt: "SAN FRANCISCO -- Intel Corp.'s Mobileye unit plans to build and deploy self-driving electric shuttles with its U.S. partners in 2024, in a bid to scale up its automated driving system beyond taxis and delivery vehicles, executives told Reuters. Mobileye ..."
+    publishedDateTime: 2022-02-14T20:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report/intels-mobileye-plans-self-driving-shuttles-us-2024"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/Intel%20BB%20web.jpg"
+        width: 792
+        height: 528
         isCached: true
 
 secured: "JfqA0jJCGZndGo5MCI+eA9t7Yw+SwsUrf3tP6x645lm3CieDKWX5eZrGl9yC2ogqmL1IvVcWMvddPJLreiW9TcU6sE+1TX+pObJNJPgH1RkqSLnmmUvB/eNBCC/ld/4LVh6j8HSt5+MMBLKtOdv2ZtLMo+ci7G6Mv4gyeTq/7hRjsYbmcB+tZWR4ZOXX6Sg+fTQIpSfxBe/5S/ydyn1YzbD+nrd9KTBk2BEqezEWA/ANJKGNXrMThHI2fBjImPtHUBIbTB03heX+jW5g7qVCR9OtrJ+5PLVZ6pMivkt8GIaJl+z8QWfPw+aiVvl951EpYUGaXt1rXkftuslzKT50vdyS2+o0kuTmucW83rHwnSpw1TdtkWt8TqxuaAjEpWUTeNWB+ULTgOe+VeSN5cITci7yNXQxFwZlgT432sgo+ekpoGg9Aj+zWx/RexjsffLKcdsmboHr4hPCirdm9bcRc10qlww3lDemawFGRoReel2VOqnnSvLMdNXyDHvRPTUbDXC3TjT9ZUObp7I3+k1Omg==;ctzhRvq/NnYGXKCqlGpVzA=="
