@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Wipro Joins Intel Foundry Services’ Accelerator Alliance to Speed up the Chip Design Cycle"
-    excerpt: "Wipro Limited , a leading global information technology, consulting, and business process services company, today announced that it has joined"
-    publishedDateTime: 2022-02-09T08:01:00Z
-    webUrl: "https://enterprisetalk.com/news/wipro-joins-intel-foundry-services-accelerator-alliance-to-speed-up-the-chip-design-cycle/"
-    ampWebUrl: "https://enterprisetalk.com/news/wipro-joins-intel-foundry-services-accelerator-alliance-to-speed-up-the-chip-design-cycle/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/wipro-joins-intel-foundry-services-accelerator-alliance-to-speed-up-the-chip-design-cycle/amp/"
+  - title: "Pythian Renews Machine Learning Partner Specialization in the Google Cloud Partner Advantage Program"
+    excerpt: "\"Developing the deepest proficiency in cloud services and technologies like machine learning and artificial intelligence ... today announced that David Bonanno will be the company's incoming Chief Financial Officer (CFO), subject to the closing of a ..."
+    publishedDateTime: 2022-02-09T14:04:00Z
+    webUrl: "https://www.lelezard.com/en/news-20232693.html"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 49
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 26
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Wipro-Joins-Intel-Foundry-Services-Accelerator-Alliance-01.jpg"
-        width: 1200
-        height: 676
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Mtisplxzp7U7shfMvQ+vlC0HfhfgVzsT/PT38B6o9ZebvZ4lasOgYlDKOalYos9O4EjTOPY0zMjU++QY5D+MhTfXm3s+66j7Tp25dBVqLuaVUyVGTBA6nwywSyrHH3ejbAhAu4aszMl8H6yE9F/ReI45sqYUUK27OY8/LrxCKFyfby2P7fAeT+k+eP6afVj0NhhJWNp2VO7Wt/CBsoOvyXix4N8QKUDMTAcTeRxDATaPwXRtRDHkQ/JdEMk5pMLWPTVcdmuEr8tR2M0+AhghMDpgqTYaAeHF5zGqeT2mYDI7Gh1N8ArgTZp+loCqDrld6IKcen79+qGsHjxYJorEUPSfMalaVPOE4HMHq5c+sYU=;fEM+BSC6sVwq4bBWftjgYw=="

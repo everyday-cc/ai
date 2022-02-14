@@ -42,6 +42,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Machine learning technique helps diagnose COVID-19"
+    excerpt: "Researchers have devised a machine-learning technique that can detect key signs of COVID-19 infection in chest X-ray images 1. It differentiated between lungs which were affected by COVID-19 and lungs which were not. A chest X-ray shows other organs as ..."
+    publishedDateTime: 2022-02-13T22:04:00Z
+    webUrl: "https://www.nature.com/articles/d44151-022-00016-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d44151-022-00016-6/d44151-022-00016-6_20116200.jpg"
+        width: 1024
+        height: 1325
+        isCached: true
   - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
     excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
     publishedDateTime: 2022-02-13T08:51:00Z

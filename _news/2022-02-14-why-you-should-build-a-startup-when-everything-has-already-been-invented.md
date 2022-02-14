@@ -2,31 +2,27 @@
 category: news
 title: "Why You Should Build a Startup When Everything Has Already Been Invented"
 excerpt: "For the last 15 years, we have become accustomed to the emergence of giant marketplaces. Soon, giant automation, AI and robotics will start to appear more and more frequently in the news. The time for change is quickly approaching. New startups must ..."
-publishedDateTime: 2022-02-13T18:30:00Z
-originalUrl: "https://www.entrepreneur.com/article/413437"
-webUrl: "https://www.entrepreneur.com/article/413437"
+publishedDateTime: 2022-02-13T22:45:00Z
+originalUrl: "https://www.chron.com/business/article/Why-You-Should-Build-a-Startup-When-Everything-16915012.php"
+webUrl: "https://www.chron.com/business/article/Why-You-Should-Build-a-Startup-When-Everything-16915012.php"
 type: article
-quality: 51
-heat: 51
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1644353909-GettyImages-1201710330.jpg"
+  - url: "https://s.hdnux.com/photos/01/24/12/06/22061470/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
 
-secured: "bkoRMYTUbxlC7ykh0FWKPJS3KkOh6V3G2T4Ev4j0nc98kNK7Fo/4T9Vs8bVaNrJYT3PszO9vI1dosb8ixagY1EBgbb9Q17bKujbQ7v1HnoxrsOoXmZY/UOmGsEtNsnYph5Tn5kzr5gQyUfcFVPRyihgGPhO9xZYrFYwb1iNjYMNauYUxLgtfuAaDR83gH12eD10sU9UAAjVQvD/ZRv6+rBYZovA+TysGGzwJlTDJsPpQ4je/va2OBU2OAMB+enTUIhSR2ji2EovIEt+3jkCezhVSo33IfPNuSAnnj4fOkcJWuyKoVGrwgONKAvItK7fTGckPSgJ5X0g0vWRolCkDnVUVjuch+5qnMAH8kGD7Ces=;bD3VD6NUKetrDYpyXlud8Q=="
+secured: "OL1B4psB36sved1TizQQsMk7tJ6RB8kLkE5fZY1VTQLmLLjjzcxc2xiambPN6vBON+k1vR0TyYZmXfnnf0qwE0wQ0gyfozurLfP716g267MvN9WHfizMQe1tKPkaYS6cBS8jMNIzsk2fUJn/0OKju2gRRpywvPSlWJpZqy6nOxBvEKz4x1z8HUk+Za7QG5jJTdl+8HnmelXwDB82IlXt9Sbivjzl2XPGJ6Y9yTEuG5iaQeA+J0yVmC2F7WdVMgvwFVcpnmDHgCNSZpXOfkl2GqFz7XRhnr0FKxKugh0DhaKteSI3+xDWcEDpQeeLp3m8WSyzEuRLPNEjalM8RZ6yBBqLXkdgqkgBlIJdoEbUrF0=;Dnt59mCB7wrelWo8sAwTrg=="
 ---
 

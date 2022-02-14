@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-udchalo-acquires-data-analytics-firm-dimentrix.md",
+      "title": "udChalo acquires data analytics firm Dimentrix",
+      "excerpt": "Chalo, a consumer technology company, has acquired Dimentrix, a Pune-based data analytics firm, to enhance AI/ML-driven data insights. UdChalo exclusively serves India’s defence forces and dependents.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/udchalo-acquires-data-analytics-firm-dimentrix/",
+      "originalUrl": "https://analyticsindiamag.com/udchalo-acquires-data-analytics-firm-dimentrix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Ravi-Kumar.jpeg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
       "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
       "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",

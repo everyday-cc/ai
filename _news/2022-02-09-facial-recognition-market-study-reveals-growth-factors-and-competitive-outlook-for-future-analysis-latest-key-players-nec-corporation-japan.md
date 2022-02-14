@@ -39,20 +39,6 @@ related:
         width: 379
         height: 250
         isCached: true
-  - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
-    excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
-    publishedDateTime: 2022-02-09T08:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "mIisMqmk8uzXeNQXK6mfBzPc8yhS0O6wSk8jqKYmn55C6QW6/UGzqD64Ug7aJZuoflyXoVJ0FynY4aWQeePuIt/mJ96IkyivaxZc/mlqWh6HKvX6H3BSre6gJ33DPkdAttj24pfVZihCZRVN4rxbTx8ZMJ+eYo8uKLPuuH763U4m2DI+XzJt0ZxtCBLhiWa/+z0HRRkx940sTUbSPU3MEXi18XttS0haKGTCfo6u2g/Mn1zHyD0DokvEyjRnMgME5oL6pAwGjDs+ZgpraeL1NYCYHbVj3JyPO3Sl54SXVcO57c7AEb/IE2dQGiZYuA5a+2pZ9Ztny46wTjqglsY7kMNYstXOgafJnJ8HjojET24=;Yi4fqV27OlKhtCTpBxHWQw=="
 ---

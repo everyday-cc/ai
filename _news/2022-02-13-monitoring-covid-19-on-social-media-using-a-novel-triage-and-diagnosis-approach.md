@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machine learning technique helps diagnose COVID-19"
+    excerpt: "Researchers have devised a machine-learning technique that can detect key signs of COVID-19 infection in chest X-ray images 1. It differentiated between lungs which were affected by COVID-19 and lungs which were not. A chest X-ray shows other organs as ..."
+    publishedDateTime: 2022-02-13T22:04:00Z
+    webUrl: "https://www.nature.com/articles/d44151-022-00016-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d44151-022-00016-6/d44151-022-00016-6_20116200.jpg"
+        width: 1024
+        height: 1325
+        isCached: true
 
 secured: "Okg6iEnivRwt95o66pwCjo9bQggHXo6ZpnJX/qI4b9zSMZNUe0aSFTm0mVTLxDVXApDAK4YvBvAKoKi4ZiyaTNKbgH+M7y6DBbOp2ZcNLyOgFO3i8FVV/XXutOKUZN/7O+l2ANxwuain0uhElAheWaYBQmNjYjKjDlFa09BFSImeiyNPmWYRMBJN7zBHbYAKSeULR7Jk79kPteDb+x+lfNuoqTNsmPdOkNDnBSNxHFPH5JhQujPe3kUn7T+KT0IKfDv8uX/xeT4YNE0M7BoiLwx7VQu5oFAusGrWipdhpeOiSewR+njhPYH1YMi8VVMMN99rNZu66VVQSENx9DXtCri5gKW5VkvkeDTAfZ3qUtE=;WvTTRfN2SKTjtm8IpUY28w=="
 ---

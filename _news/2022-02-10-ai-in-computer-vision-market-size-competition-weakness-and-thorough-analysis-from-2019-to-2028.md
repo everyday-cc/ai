@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
-    excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
-    publishedDateTime: 2022-02-09T08:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Market, Study Reveals Growth Factors and Competitive Outlook for Future Analysis, Latest Key Players | NEC Corporation (Japan)"
     excerpt: "The security applications of facial recognition are motivating Facial Recognition Market in 2020. The AI and analytics reports are made"
     publishedDateTime: 2022-02-09T10:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/sccg-management-and-odds-ai-anno
 webUrl: "https://www.digitaljournal.com/pr/sccg-management-and-odds-ai-announce-strategic-business-development-partnership-for-north-america"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1024
     height: 1024
     isCached: true
-
-related:
-  - title: "Accern and LPA partner to deliver AI-Powered Investment Research"
-    excerpt: "Accern, a leading no-code artificial intelligence platform for financial services, recently announced a new strategic partnership with LPA,"
-    publishedDateTime: 2022-02-09T08:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/accern-and-lpa-partner-to-deliver-ai-powered-investment-research/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Credit-Portfolios-WP.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "XjtWCxO7IRDcCQ8xfa6H203iQZ/NC5NB9fy+mDI3Tybdn+h3Q0D9dwc7bMrvJLKb54IL7p0LmoaKWVp1jrqzPDS1PKAm3DzHRA3wR3DANgszZ7Wubk+AzdrKFwP0OnA2BWz+sBgZW0/Qemp0hEPe2J87N1bEz2Zn2R2vRzFSoSNlnPlDtYqRMSb0TBCAqQGvN1xgSPLdokO6L/S+TRPBBvEZhphRadDgrKqctHlpy5N0FtwSwuIsCuvyV8fC2rieR81plE26Mc9R8iZ8oaDaU5zUPIf9pF9AIATZcOb0hqPkbC2N+S+Uuc4wp9YmbD4j66w7An76Dukz6fYGPdL7K4KNcVrAd+jHSuGA/yJC9/UOTr22zSlK+U4eq3NINhBllxIdClh9P5mQArcplWSIfgrWzv8713zA5XGaL64+Pbox9IdqstlsCTZ4ByXJDyf9DCucOONbSex5CQs92F8OYBFELLs04hr/ev6buEWWa8QE/EEginW1AQSNdj1g6nGWOwIvOBVlVyGDGTp+QeDxPA==;okTuljgOF394P3iYz5V9/A=="
 ---

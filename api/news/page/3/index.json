@@ -441,49 +441,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-10-enhancing-cross-cultural-dialogues-with-ai.md",
-      "title": "Enhancing cross-cultural dialogues with AI",
-      "excerpt": "A new project, led by Monash University researchers, will develop an Artificial Intelligence (AI)-assisted application to help with real-time interpretations for diplomatic talks, international business and tourism.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/enhancing-cross-cultural-dialogues-with-ai/",
-      "originalUrl": "https://indiaeducationdiary.in/enhancing-cross-cultural-dialogues-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/enhancing-cross-cultural-dialogues-with-ai/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/enhancing-cross-cultural-dialogues-with-ai/",
-      "publishedDateTime": "2022-02-09T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-10-the-best-speech-to-text-software-for-2022.md",
       "title": "The best speech-to-text software for 2022",
       "excerpt": "... is a dedicated mobile speech-to-text app that delivers a high degree of accuracy thanks to its industry-leading speech recognition software that can adapt to your own speech patterns. In other words, Dragon Anywhere can actually learn how you speak ...",
@@ -586,7 +543,7 @@
       "originalUrl": "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -783,7 +740,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1034,7 +991,7 @@
       "originalUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -1212,6 +1169,50 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms.md",
+      "title": "Palo Alto Networks Adds Deep Learning Algorithms to Security Platforms",
+      "excerpt": "Code-named Nebula, version 10.2 of PAN-OS added deep learning algorithms that Palo Alto Networks can apply to, for example, instantly identifying zero-day threats or malware that is using specific techniques to evade legacy cybersecurity platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
+      "originalUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityboulevard.com/wp-content/uploads/2020/09/securitytraining.jpg",
+          "width": 768,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
+      "publishedDateTime": "2022-02-09T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "securityboulevard.com",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

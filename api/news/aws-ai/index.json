@@ -362,6 +362,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-08-data-monetization-market-global-industry-analysis-size-share-growth-trends-and-forecast.md",
+      "title": "Data Monetization Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast",
+      "excerpt": "For this, GE Healthcare's partnership with Amazon Web Services (AWS), which provides the ability to deploy machine learning solutions at scale through the Amazon SageMaker machine learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints.md",
       "title": "Improve high-value research with Hugging Face and Amazon SageMaker asynchronous inference endpoints",
       "excerpt": "Many of our AWS customers provide research, analytics, and business intelligence as a service. This type of research and business intelligence enables their end customers to stay ahead of markets and competitors, identify growth opportunities, and address issues proactively. For example, some of our",
@@ -1422,49 +1474,6 @@
       "provider": {
         "name": "ITWire",
         "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.md",
-      "title": "Telenor teams with AWS to accelerate modernisation of telecommunications",
-      "excerpt": "Fornebu: As part of the agreement, Telenor and AWS will invest in joint go-to-market activities in select industries—such as manufacturing, supply chain and logistics, and automotive—to enable more 5G and edge services for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/amp/",
-      "publishedDateTime": "2022-01-20T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -174,20 +174,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IRS Backs Away From Facial Recognition Technology"
-    excerpt: "In a Feb. 7 press release the IRS said it would transition away from the third-party service and \"quickly develop and bring online an additional authentication process that does not involve facial recognition.\" \"The IRS takes taxpayer privacy and ..."
-    publishedDateTime: 2022-02-09T08:35:00Z
-    webUrl: "https://www.govexec.com/technology/2022/02/irs-backs-away-facial-recognition-technology/361680/?%3Foref=GovExecTCO"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2022/02/07/020722_getty_fcw_irs-2/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
     excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
     publishedDateTime: 2022-02-11T20:05:00Z
