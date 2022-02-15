@@ -30,8 +30,8 @@ images:
 
 related:
   - title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
-    excerpt: "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI/ML workload support and the capability to share virtual GPU’s – a relatively recent advancement – across ..."
-    publishedDateTime: 2022-02-14T16:17:00Z
+    excerpt: "based giant – reports estimate that 95% of all IT departments have at least one VMware product – is moving into a new realm of AI-powered development of next-generation infrastructure."
+    publishedDateTime: 2022-02-14T23:17:00Z
     webUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
     ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
     cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
@@ -39,7 +39,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all"
         width: 708

@@ -130,20 +130,6 @@ related:
         width: 480
         height: 384
         isCached: true
-  - title: "Human Immortality and Artificial Intelligence"
-    excerpt: "Still, others propose using a certain type of bacteria to keep old age at bay. Instead of fearing artificial intelligence as the harbinger of humanity’s demise, we need to use AI to defeat aging. Is human immortality to be found in the hands of AI?"
-    publishedDateTime: 2022-02-10T19:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/human-immortality-artificial-intelligence-prof-dr-daniel-cebo"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
-        width: 1079
-        height: 720
-        isCached: true
 
 secured: "48soJ+uJx9QDNwbM8ZxeSR+exzlpmGjU72Z6aGzqc/hFmxKe+7FHubFDwATYBetpyCAckw+eCyxmyXYnpdy1AYSRzSIW8PxoaQJxiDiVy/P0h3fJM6UwRzPhffEKKn74yQev/j+NqZ9t9nB+XNG4mvFWnxzIk8rpX/Tlat9YBjlMztrhsepv/iBigqFHaopV0EA2dQPSGYMXQB0HRzHZFt7XtUWrnQoLxVHOe2RoD46voI3/COiNxw+gQ9yt7LaVWCc608VEUAiOaDcLCU8aoIm6/GIQKsTwSKCEiVA8srjbOLgE8HOyoIqZcP1RvSJEiN4qOOFRdN+Up671aihjS7VViYQox/l7ON6MnKSut7q7h0cfwa7ks7rodfkA/zfNq/ewOafNQFYttqog/d1vimiDC+WwgFr1UyRiUUHm7aCGyh+PyiclQ+jbCRjP0zz6OAwQ9yrvYXxaNSOPYc6nb5Bjbo3CHUWcmaR3ipIwm6pLTVMdTyRlFy/j9lQZ1vr3erRgNiWaQi5FiE/inLNTWA==;7jctB0JItkXIhOTUmtwWlA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-s
 webUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-sustainability-solutions-on-microsoft-azure"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Channel Pro
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Morgan Stanley Pounds the Table on Microsoft Stock"
-    excerpt: "This includes products for collaboration & communication (Teams), analytics & visualization (PowerBI), endpoint security (Defender) and identity management (Azure AD ... data management and machine learning, amongst others. This provides enterprises ..."
-    publishedDateTime: 2022-02-10T19:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock"
-    ampWebUrl: "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Microsoft’s big cloud expansion plans with Azure"
     excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
     publishedDateTime: 2022-02-15T10:30:00Z
@@ -44,7 +33,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
         width: 1920

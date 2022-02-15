@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
 type: article
 quality: 121
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -121,20 +121,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/02/10/d9/ff/0d/0f/b2/f5/22/84/00P4y00001fiOK1EAM-480x384.png"
         width: 480
         height: 384
-        isCached: true
-  - title: "Human Immortality and Artificial Intelligence"
-    excerpt: "Still, others propose using a certain type of bacteria to keep old age at bay. Instead of fearing artificial intelligence as the harbinger of humanity’s demise, we need to use AI to defeat aging. Is human immortality to be found in the hands of AI?"
-    publishedDateTime: 2022-02-10T19:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/human-immortality-artificial-intelligence-prof-dr-daniel-cebo"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
-        width: 1079
-        height: 720
         isCached: true
   - title: "The Use of Artificial Intelligence in Streaming Services"
     excerpt: "Artificial Intelligence or AI plays out a significant situation inside the OTT business in heaps of ways. From content material revelation and content material improvement to video ordering and upgrading the high-agreeableness of virtual pictures ..."

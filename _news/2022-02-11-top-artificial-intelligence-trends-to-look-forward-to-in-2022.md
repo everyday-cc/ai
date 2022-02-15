@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Computer Vision Trends To Watch in 2022"
-    excerpt: "Companies like Amazon, Nokia, and many more have already started using computer vision technology as a safety and security method for their employee and to ensure a smooth workflow. With the growth in technology, we are now shifting towards a new digital ..."
-    publishedDateTime: 2022-02-10T20:06:00Z
-    webUrl: "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/"
-    ampWebUrl: "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/"
-    type: article
-    provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 59
-    images:
-      - url: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220210235234/Top-10-Computer-Vision-Trends-to-Watch-in-2022.png"
-        width: 1000
-        height: 479
-        isCached: true
   - title: "Emerging data trends in 2022"
     excerpt: "Tensorflow Extended (TFX) and Amazon Sagemaker are two of the most potent full-stack MLOps platforms that bring compliance, efficiency, and robustness to the entire ML lifecycle. These platforms ..."
     publishedDateTime: 2022-02-15T03:16:00Z

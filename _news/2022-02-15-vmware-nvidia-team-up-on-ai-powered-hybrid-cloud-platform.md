@@ -1,15 +1,15 @@
 ---
 category: news
 title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
-excerpt: "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI/ML workload support and the capability to share virtual GPU’s – a relatively recent advancement – across ..."
-publishedDateTime: 2022-02-14T16:17:00Z
+excerpt: "based giant – reports estimate that 95% of all IT departments have at least one VMware product – is moving into a new realm of AI-powered development of next-generation infrastructure."
+publishedDateTime: 2022-02-14T23:17:00Z
 originalUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
 webUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
 ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -46,6 +45,6 @@ related:
         height: 601
         isCached: true
 
-secured: "h0hw4ipfaV1uA8xOFrxInM7iKMn2cKNHWNEvMpcmF0eu33gFZYQvVHnP/DPXkHGMPSnzAaCNl55ES11gA4JTsxLxvhENXNdDuIy8rRC4DKnG/ky3eLBs9sntP7lVcACrKDHKn+6HhuWSCqnvRf6qQJJ0Ux0nuyqgLcd+m7meavo4JTQz2VgXKMMnAfuMVfEHaK15XewqaP2rQhQbvftMtqXSz2J+hV9Px3mwnUdL7BGgWm34wDomDoqArO9QxluWOw7Y8K3kU0DzDdZA8oJ6fw/+pNu5gUBlDwaKsestp8DhpXmmhLme7UEAFIu3f6B4ieeVPpGJvAPEZyHDako8XzfbY/w1SVORfaVsVmvCecy2VpL3SYb6F2jQA7N9IpFR/CpmE5XcyWJaYWME2MsSqnHKNT0tt7JR2fhFnX9/q2/Oi1SDmqCRAU7Hs89kuKwDTDaW26qCkH0lwabGhuZPkBtHbe+F/iCGmw7QqGlW6KvpGXCIZnUtAi4Y0Hbx5e9K8FRFeFrG/+dRENiv0ZKEkw==;xIClsJ7ZNo+Avq1PnBlckg=="
+secured: "IvKRn3bMuwAxDQZ0bRs7V4AHjPKyphYC1JhCCQgFUIyziLZfUD91J2bcAACIt6cQvtYFqh/G2WKlOJ9BEKmwyyg7WfPAlSCHGYvG9Ow8KdV7sRZ5ZNkPED/uP8eUpc69XEvx1KC+OJxluMvF8KeKpVe1kK++qUDJM17Y28RYH36swTZ779X/N9t9Y1SnMSfvUAJh26QT6MzG5N5wNmAZquNOlK84YidviU2GdZqVIycMH45VgIeXZQL78h2US0aTJceEL5S5eIxkaDUDXL98PnbaQ1zDKtB6lnfEInzprzYNs7C2QxL3w0fCXd2bLZ99t4P36w85jb6E7pGJzeLQBvdMXPecnpjTblQu1BBJ7OU=;LnRDGHWlGFqL8kJ/ypAHsw=="
 ---
 

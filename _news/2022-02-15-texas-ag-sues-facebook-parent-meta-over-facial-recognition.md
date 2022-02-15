@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Texas AG sues Facebook parent Meta over facial recognition"
-excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-publishedDateTime: 2022-02-15T10:34:00Z
-originalUrl: "https://www.sunherald.com/news/business/article258385193.html"
-webUrl: "https://www.sunherald.com/news/business/article258385193.html"
-ampWebUrl: "https://amp.sunherald.com/news/business/article258385193.html"
-cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article258385193.html"
+excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans ..."
+publishedDateTime: 2022-02-14T19:40:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Biloxi Sun Herald
-  domain: sunherald.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+
+images:
+  - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law"
@@ -276,6 +282,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Meta’s Facebook set for another legal showdown over past facial recognition practices"
+    excerpt: "Police forces have also been criticized for making use of facial recognition technology, given that there is well documented research that ... Texas' lawsuit argues that Facebook, for over a decade, built an \"Artificial Intelligence empire on the back ..."
+    publishedDateTime: 2022-02-15T12:27:00Z
+    webUrl: "https://diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices"
+    ampWebUrl: "https://diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
+        width: 1688
+        height: 1190
+        isCached: true
   - title: "Texas sues Facebook over facial-recognition use"
     excerpt: "Reuters Now Texas sues Facebook over facial-recognition use Posted The Texas attorney general's office sued Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the ..."
     publishedDateTime: 2022-02-14T23:07:00Z
@@ -440,6 +462,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "JMjV14B4PVqoldwX2tEaYzYk/a0NMmBzZn2WKEhOLjLyPs7PZg8JiVGfOY7xooYdCgB2QFqaYa2CgYMS9rKpBA6zu+vogxav5s+WuFuIzB3JbXEDYs3obkcJ3aWjNZNLHT7Asj9I1OcZjlTM2kaw5O+5XLEPMKYp+sO8LrNDmqeFoqcSpl9Z/5wohXUnhmfLJafzhJfQ28uU9BJhq1vrKt3aTsLmahbaxkAHezy0V82jj1vEQ5B0boGsRjMx66BNmNFVEtUsxSF4bb6nBjPOF5flBmpH8psyDsRoR7kmlhW6/YXf1HpdcikgQPoI0Q/Jl27cMxHWLGA57GzhXtgO/ObOfLokFX/F/07NIFchecBcdKfCvWuWgD8tqIy8lKo3bRHLM2Po1t4dmVRb1lOagTZH7bvWsoXVYvv641yaYNPNJkK0M83aPzGO3tws4qMVwWXYaTwdMA6KypAQjvhCrLl8tAIU9MQLHrTYuhkeXV8THzySGAUIxSzgXr7AFjZPWT08aCLnj6tXwgIUvLaTyg==;VAoV4eW7IFFqIP4vdQH1+Q=="
+secured: "h192/lIn4v5gcj/Tt+dwWEUEsNJv3P9Bmf5l8kJVvNcyEJq3SN/lcJRdM0qkKNQeeUUDORjqm2fd8RrxGpFRxnCvH5LCJkJHoqur1yYEcMwDMuf8+9eyrkARlPiQkASqYKvwNmhWkaesZhysmTIfcC2enZwXDuUMd8uMrbIb6WvIledoLIdrXb0k0TAUc3Uys4c+Gj//+hZUoujODGjx/RP941w52hNAIITl2vshid5fSNbHhGe7TwZGIGbc0xZ4vbf0/lrXAKWJU1a5uATRmrQfznvF652+6YFTlrnl6bM7fzNghwUqSVBHjjzFq59fiezSUTk29KxcU+gtkFfbGk3joUSJn7AMgLdKdeH7HQ4=;OrosF+CWezffVxx6vPAR/A=="
 ---
 

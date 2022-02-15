@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - AI Hardware
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
@@ -54,6 +55,6 @@ related:
         height: 337
         isCached: true
 
-secured: "RIAhznezxl3yaS/iFvwsSxroPA351YQ9Czfo9oaYB1/rBc9+M34zkOhkh1jQZl0T7fJGKgt7V5YnA+KK2W5JcrcAKHKbj9cKbl9MGzyi/MWmH5BhDHST69fgGDj02bWojTpiBNJA6VOIMjWpIOKZgs3Xf6eixVqRWLfxa+REuvhuPdOY85HmKaxqlPOHrYoIs//tH3LuBgIUlsfde61CIKQjMiHndX3bwEVhEfkFPB8rpZoyEoVZ2/ZSxyqc0YdYVoh5FUYNY0iAIr5fJliTQeiMJBuTvDiBhpKQilszgVBvRS8pp2DhtV2t1YSJVyDkOOqwO8qaDjhhe8zU5T1PvoejH0NqXhfyd1pL3p64A/Q=;933xpBq7RZgbtgTKlCnPiA=="
+secured: "kiNi1NxHiFFP6hIY6PqxuNM09bufvfbYbn+GWCyFIz/oMiFiE3YyztucnlD8/zTwwZp2FAhNv5+/3NZnwmCaWSzz4eFj7L2OmB9O+cK5lBRSX1EPpfMIgPD1f3q3ke1uhvqIjxi5SUgGvAYUlOKIYfCgFSgbNnFbumJ2/43UoE3L9Z5uX+8lAd02pnlbpNyVc83Mb/XvSklYV37VHclkEcDfv80VchYk0BqpHX+ojYwM1s7DhhndHoRsplABbuaYncL22U6+j782NWCVmViZ7g65kAFWdavUbjja7W2Ds3gOzlXwQQfeit3Kvg2LnHTdbJeEgu+pT6P/we6menFqKCRrRasOOzRuQi+DdemEUhPyG25np20xaBlBgdTnn3R42xmEA+twUd2qWxI5tZtE+xkAjgyjQqAJ3D90pkXAksJ5WdLePmkMvfZPn47FFjtY1FXulCyXs1VKFVG/t/grchmFmBpikwfUtfP1kXp5+fz5Do3scUgghssHddSdHr8GBzIzSIr/cQnjFTu8sJVTZw==;LlaZZDeDzs525D91NfvZig=="
 ---
 

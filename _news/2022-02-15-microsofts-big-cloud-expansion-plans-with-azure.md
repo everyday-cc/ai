@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-15T10:30:00Z
 originalUrl: "https://analyticsindiamag.com/microsofts-big-cloud-expansion-plans-with-azure/"
 webUrl: "https://analyticsindiamag.com/microsofts-big-cloud-expansion-plans-with-azure/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
@@ -25,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Morgan Stanley Pounds the Table on Microsoft Stock"
-    excerpt: "This includes products for collaboration & communication (Teams), analytics & visualization (PowerBI), endpoint security (Defender) and identity management (Azure AD ... data management and machine learning, amongst others. This provides enterprises ..."
-    publishedDateTime: 2022-02-10T19:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock"
-    ampWebUrl: "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "TCS launches trio of new sustainability solutions on Microsoft Azure"
     excerpt: "The offering is already helping drive sustainability goals for many of its customers, scaling quickly to multiple assets and buildings utilising the Azure Cloud platform services. Alongside that, TCS IP2 combines AI, IoT and digital twin technologies to ..."
     publishedDateTime: 2022-02-11T10:15:00Z
@@ -60,6 +50,6 @@ related:
       domain: enterprisetalk.com
     quality: 49
 
-secured: "yONh7ib604fxYB1KskyYTXDa05Etmmm3m+EksKmhvJ88lSFg17U5/Kn8S8QhxEN/zRI/4Dyo37gMqq4z5ZHcxi6uHl5BZ48MAg6rAa7jRZYYgIh4a6e8p1N49RdKcGLXlI8IBGYSS+k1ZLkaLDCZDLZNQ8g9baKH4UZQiHi4lzspaOUaIVE8ZoBc8Cu+HV187olInMwLh+6ZLPgPIKVeQ3h8Vjbrr+jznXdy3QdLyqotYSZUO6FcOXM5YJI0QsnU+44FlA58mfeiutyxObOCVpOC793xQ8o8KtzeTMRzmKBNEumYTB8vbRr60VrCvDPNMEIFP6QrXcAf6ByhMLYbNEFzmZdKgebZunneunmP7HA=;0F04GS5K9dN/uxdg/SmGLw=="
+secured: "2kXFPYebLF5HLZTcRuD9MjJwjpTcFAJxTAhdysXZYJy/QT8nAfa24ivFqkuZmdFYFxzMyMms8dH2Yfy8kxYgM0u72YAGAOSGViCrqIEz7Oyrq+CED1ZkTFYm1253KeiPQEbVkDFqPwPr7gQEXJKF7PBEEpYvvmmxwppZ2437U4MX6tYcVfhoVTPEPmHxa3kk4MiUJdFKQn8jbSu9tVAxfcFrRhK3KPVqrRDt0A5vUIGSSAcgl6h7OdfUWAw+OiV2Nfx7KJfqzoPQIXHkVi7M+L7QOLYK3zTQtw5ckz+bpkS4iHO9FFqht6xNOfPdc9ss73S/iLRxEPjWKmCdhNN1ZPolEhTCSbbMT1hevCCCPMql2fPlSISoKhDI40ozUMdR/c55/WjRnoR7usx8BPpYHkyizwCfA5ctlGnc06bwXfs9tZce2B6CJfogO/JAxcI+ike3ogoLV568xt+pmIoruw4a8i3DeBmVKGOeTuJkLQZm4Z0Ai5DL4E5WLH/BLJFKPnHNseWvgg4Ff5sbH+WSNg==;YhKcd48qp+68nxJ/WiigMQ=="
 ---
 

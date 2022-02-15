@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-02-ai-material-discovery.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-ai-material-discovery.amp"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: techxplore.com
@@ -39,20 +39,6 @@ related:
       - url: "https://www.plant.ca/wp-content/uploads/2021/06/plant-news-new-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "AI Race in Drug Discovery Intensifies as Insilico Medicine Brings AI-generated Molecule To First-in-human Trial"
-    excerpt: "A Hong Kong-based company applying a state-of-the-art artificial intelligence (AI) platform for drug discovery, Insilico Medicine, recently announced the start of a first-in-human microdose trial of ISM001-055 — a potentially first-in-class small ..."
-    publishedDateTime: 2022-02-10T19:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-race-drug-discovery-intensifies-insilico-medicine-brings-buvailo"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEI19qtw2bqtQ/article-cover_image-shrink_600_2000/0/1644519322214?e=1649894400&v=beta&t=TIFsT1ASRMGJn_avodEfigGMPkImNHlv4p4uzIu1ybE"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "7rDdxsi9atAlRm9JKTqAwuexCQbP7TOout1+vS/290a+sF9opoR8F5mBALhB7RrxQjmd5Sr3lU+/Z1uaLlNFmQJ1WFfQzj+45fB/sLnV7j3pFo2X3oqLfcjujGaE88Tii+IvidUoBFYfkEqQNqIn42mlRf+pU6eZ6AHQWrDSbNFBOURt8KQthkeXX9c/gmUbTRCbX4dyJvd+OUF3iFiDzsmPc3DECNMDCkV4pjcZGUaZRZI68gAxuLMhuxE5I/jFxKf5Yh3bWaKq3FRMbNDKgFxE6keZo3Uf4qprFkiI/0c403RDCdYDgqlAcQ9mtwdu05/UDfRAOyYM7H7HBCRgsQ02M92LTvuXTYahxJpEsBk=;3i5NID+nTMOoMsiFSk4ZEQ=="

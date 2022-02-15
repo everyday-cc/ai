@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/big-data/emerging-
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/big-data/emerging-data-trends-in-2022/89581352"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Computer Vision Trends To Watch in 2022"
-    excerpt: "Companies like Amazon, Nokia, and many more have already started using computer vision technology as a safety and security method for their employee and to ensure a smooth workflow. With the growth in technology, we are now shifting towards a new digital ..."
-    publishedDateTime: 2022-02-10T20:06:00Z
-    webUrl: "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/"
-    ampWebUrl: "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/"
-    type: article
-    provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 59
-    images:
-      - url: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220210235234/Top-10-Computer-Vision-Trends-to-Watch-in-2022.png"
-        width: 1000
-        height: 479
-        isCached: true
   - title: "Top Artificial Intelligence Trends to Look Forward To in 2022"
     excerpt: "The last year saw some incredible breakthroughs in the field of artificial intelligence. Building on them, corporations and the developers who work for them are poised to spearhead equally impressive advances in 2022. Dr. Tehseen Zia has Doctorate and more ..."
     publishedDateTime: 2022-02-11T00:11:00Z

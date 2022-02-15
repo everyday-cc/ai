@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telefonica.com/en/communication-room/blog/telemedicine-a
 cdnAmpWebUrl: "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Tech Startup Bringing Joy To Medicine. And Its Own Team"
-    excerpt: "The Suki AI Assistant, a voice-enabled digital assistant that ... Palm had been following new companies and developments in healthcare technology for nearly a decade, waiting for a startup whose ambitions were equal to her own. “My bar was super high ..."
-    publishedDateTime: 2022-02-10T20:19:00Z
-    webUrl: "https://www.forbes.com/sites/darrynking/2022/02/10/the-tech-startup-bringing-joy-to-medicine-and-its-own-team/"
-    ampWebUrl: "https://www.forbes.com/sites/darrynking/2022/02/10/the-tech-startup-bringing-joy-to-medicine-and-its-own-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/darrynking/2022/02/10/the-tech-startup-bringing-joy-to-medicine-and-its-own-team/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620580aac0cfd0a5237c06bf/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1024
-        height: 600
-        isCached: true
   - title: "Predicting Excess Wind Electricity With Machine Learning"
     excerpt: "This study show that, using machine learning models, excess wind energy can be predicted with inputs of readily available weather data. Having this available is important for Surplus Map to know where this electricity is being overproduced and helping to ..."
     publishedDateTime: 2022-02-12T21:03:00Z

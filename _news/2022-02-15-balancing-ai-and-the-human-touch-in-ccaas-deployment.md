@@ -117,20 +117,6 @@ related:
         width: 480
         height: 384
         isCached: true
-  - title: "Human Immortality and Artificial Intelligence"
-    excerpt: "Still, others propose using a certain type of bacteria to keep old age at bay. Instead of fearing artificial intelligence as the harbinger of humanity’s demise, we need to use AI to defeat aging. Is human immortality to be found in the hands of AI?"
-    publishedDateTime: 2022-02-10T19:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/human-immortality-artificial-intelligence-prof-dr-daniel-cebo"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQElpYMHiNjujg/article-cover_image-shrink_720_1280/0/1644517308172?e=1649894400&v=beta&t=Z7FQIq6eiQ5aXQPF5_B3F1RbOeLtzHFjap2XeBPbOy4"
-        width: 1079
-        height: 720
-        isCached: true
   - title: "The Use of Artificial Intelligence in Streaming Services"
     excerpt: "Artificial Intelligence or AI plays out a significant situation inside the OTT business in heaps of ways. From content material revelation and content material improvement to video ordering and upgrading the high-agreeableness of virtual pictures ..."
     publishedDateTime: 2022-02-11T21:56:00Z
@@ -146,6 +132,6 @@ related:
         height: 640
         isCached: true
 
-secured: "fQllKDH4Tur0tEI7I+497rBgLpHkjJ1vTUJdUCzrE6mQrzMbx1yN/qIm3PpjImt+CXD5v+DBydMcxX6ytG9s72H+zH8BBhqu6Iy+5jcFZ8+hdPs4rnpL9UX3M9mZ1sK5D3K23qFkkh7z63iaN9M3TaEi0dcQvtLVwLih8tAfiAfF5UZWjbW66mYs4qFhOa+Jr97xxSoDBBDte4Azi3C8lCpg05cjVfKO8treo1RhnlAznBd3oOc58aeg9Cq3ypBae+LJA3IGlv2PgWgNHgp2qYnqpmi3wlMke45KRk81teYRR+sye92ArLdMHUcLuIdCEJBFxnFVWFLIACG8Rdeu86YNn0CkmHwDJntH2hQam/4=;eMQAZE09XmfySn1o2qPH5Q=="
+secured: "U/KeQje5Uq0WwLxzdMjszbxE7mT2iKf+z1BNBk65pgENR/38WSOAACLULTRiAxjPrZS+vhBxnX5sOJ5xBYpGh+/m5oFdYaWCC/DlwOqWeOGELGt0bgk+6UkGCEOzFgAZACysVWDC4JzwqsfNj7TmdORGKSKH5a8p/fRmFMvsDHUhEvsFsQYW/lMe7hsMFlTPbA8sjiygt9Se8yvzqld0WDukaBkDH5Ikkev8esVf9o+VltBmidDzcW1+r7DxvkbHJTumvgVZsSFJeV3UYekEigGPq+vJbf7FY3IjVMqzeL2SMLQe2bz/d9SG+FMuxC7+BGRxHyJXht82AE6Rw1xLqfvZOZHLGjfNbEgV6YHl37VPxzPeV5vntdnzjVoooXodV0ZPYAMaR/VfS3AqVq6H6K1WQ4S5ZEj/yaaOXlasjQWYFSqLN+reB1R0/HOi7B7T1hTEh9mNCHAi2rLDFYNY4bO4R03Uvlfxiziy/vNTEYMqOva0FIao+ZSBfOM65dgh70YLGpKGOB+GBz6+/IHR8g==;RqlDokZJir0tQ3KUvE56Vw=="
 ---
 

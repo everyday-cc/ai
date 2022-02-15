@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans ..."
+    publishedDateTime: 2022-02-14T19:40:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 61
+    images:
+      - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Texas AG sues Facebook’s Meta over facial recognition"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
     publishedDateTime: 2022-02-14T20:28:00Z
@@ -283,6 +299,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Meta’s Facebook set for another legal showdown over past facial recognition practices"
+    excerpt: "Police forces have also been criticized for making use of facial recognition technology, given that there is well documented research that ... Texas' lawsuit argues that Facebook, for over a decade, built an \"Artificial Intelligence empire on the back ..."
+    publishedDateTime: 2022-02-15T12:27:00Z
+    webUrl: "https://diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices"
+    ampWebUrl: "https://diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
+        width: 1688
+        height: 1190
+        isCached: true
   - title: "Texas sues Facebook over facial-recognition use"
     excerpt: "Reuters Now Texas sues Facebook over facial-recognition use Posted The Texas attorney general's office sued Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the ..."
     publishedDateTime: 2022-02-14T23:07:00Z
@@ -361,17 +393,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Texas AG sues Facebook parent Meta over facial recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T10:34:00Z
-    webUrl: "https://www.sunherald.com/news/business/article258385193.html"
-    ampWebUrl: "https://amp.sunherald.com/news/business/article258385193.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article258385193.html"
-    type: article
-    provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 41
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/signiant-integrates-saas-
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/signiant-integrates-saas-products-into-awss-media2cloud?amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Signiant announces integration with AWS Media2Cloud"
-    excerpt: "With Media2Cloud, frame-level metadata is generated using machine learning (ML) and artificial intelligence (AI) from Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. With this integration, customers of products such as Media Shuttle and ..."
-    publishedDateTime: 2022-02-10T19:15:00Z
-    webUrl: "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html"
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
-    images:
-      - url: "https://www.rapidtvnews.com/images/2022/Feb_2022/Signiant_Media2Cloud_I10Feb2022.jpg"
-        width: 874
-        height: 413
-        isCached: true
-  - title: "Signiant announces integration with Media2Cloud on AWS"
-    excerpt: "With Media2Cloud, frame-level metadata is generated using machine learning (ML) and artificial intelligence (AI ... and once the content is in the Amazon S3 bucket, Media2Cloud on AWS begins the content analysis and post-processing. Deployed across ..."
-    publishedDateTime: 2022-02-10T19:15:00Z
-    webUrl: "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html"
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
-    images:
-      - url: "https://www.rapidtvnews.com/images/2022/Feb_2022/Signiant_Media2Cloud_I10Feb2022.jpg"
-        width: 874
-        height: 413
-        isCached: true
 
 secured: "e9pdlZwuh3Qp0AKw7JvOgVXzbTbmtVo1NEx4F7B+GmWTNX4Nrlw2ysOUbJvCjjiyX4+2su49pYR+XhaP3vyNdAyxWJyF7I4yqs5us9MSU4MaLTCJR9uUMRNNvkYHSfJussc+B8HjShJuNua4jMQtvqtOKxUG5IJcM7B8WoTAGjgY0mBPnJ07D519v0Ypw6Ci0BbU6g+eSoVCzxOaqYwzN3ZTy18hl9yXH5N11uSRt+TmLW0wWCXFRuLDkCUD6YO3WVPBLosjOVrfWZp/HwtKgljp6gy0BnCYnb/OW6+1/BSecyiPwo/oYxSosYIKFZGaE0nBuHhiGQPx9ax0LyCAsDSPfEzLLP5Y4oW//isoyZ5sapfRdjFi9DkEy91hGFb80HyjosXG106wFl9SqpOaTQ7UoD6mZSaB66x1nQGT/wNonxqZa16Pd59LQusksh3PNG8FGaEs/RQ3uEYuPc7HJuuFjBpcB4z6eQmCe4O4lhshdPpovUmULmfnRio+zSXSTNCp3oqxRePJevCwhbqFgg==;2GebuVlmdmE+tzo+NNNEUg=="
 ---

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 787
         isCached: true
-  - title: "The Tech Startup Bringing Joy To Medicine. And Its Own Team"
-    excerpt: "The Suki AI Assistant, a voice-enabled digital assistant that ... Palm had been following new companies and developments in healthcare technology for nearly a decade, waiting for a startup whose ambitions were equal to her own. “My bar was super high ..."
-    publishedDateTime: 2022-02-10T20:19:00Z
-    webUrl: "https://www.forbes.com/sites/darrynking/2022/02/10/the-tech-startup-bringing-joy-to-medicine-and-its-own-team/"
-    ampWebUrl: "https://www.forbes.com/sites/darrynking/2022/02/10/the-tech-startup-bringing-joy-to-medicine-and-its-own-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/darrynking/2022/02/10/the-tech-startup-bringing-joy-to-medicine-and-its-own-team/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620580aac0cfd0a5237c06bf/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1024
-        height: 600
-        isCached: true
 
 secured: "5U088WvARJG2p12QkmiHgo5nJIBhAbmKcLojR0PTb+JhLjsWMmvaLLSY9oWrDgUYqxJ44Z+ByVgoSix1LbrT4RPvUXhaMcYfgP/twXWJo1T6BQfAT0J8BhOVBg0qF3LaxepboToIxL1eX5h3o4kMYn6dz4gqalJ/NsCrrDT1wOzdPXlTeiDNleWvduu/7eJOPsL97no+4dHtf+/vBjZTBoR0mR6wpAk5WAVTtEN3UAAlFHcmnrMpa2r8glDbpLuVLe/Vi4sYjl83p0m/hy+yD2xaDpUckgWXR+2bzgEvrNgJvMJc2votk/U1zVaWAUHF8WA2ZDU7ViVAy8OpGdQiGARaQepspGJZIhSSpKoIa24BbLAI3URYzRlo7mJVdiRRAvZj9Jf+hSxVgn3dYHetS9fkFBiyZVo43woSQTTzF2hbYle3mSeBr5MRsU/jQy7OEc8oUz97ps7x3qah/AtGa1elidjvAWZwVtK0yipVn2nZUQSvXtJRjJh6OJSIEUkw1SKkzb/IjfdiBzBjNdTeBQ==;TR0od29S10SvXwJhZedvmw=="
 ---
