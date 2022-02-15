@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Texas sues Meta’s Facebook over facial-recognition practices"
-excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
-publishedDateTime: 2022-02-14T20:30:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
-webUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna16201"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201"
+title: "Texas sues Meta's Facebook over facial-recognition practices"
+excerpt: "WASHINGTON (Reuters) -The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
+publishedDateTime: 2022-02-14T21:37:00Z
+originalUrl: "https://www.reuters.com/article/us-tech-facebook-texas-idTRNIKBN2KJ1O9"
+webUrl: "https://www.reuters.com/article/us-tech-facebook-texas-idTRNIKBN2KJ1O9"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN2KJ1O9"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN2KJ1O9"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220214&t=2&i=1591135380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI1D0SF"
+    width: 837
+    height: 545
     isCached: true
 
 related:
@@ -419,6 +423,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-15T18:54:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article258385193.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article258385193.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article258385193.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 41
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z
@@ -514,6 +529,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "J8qLnWvel8L8KUu61L/HD92BBu3pSaSWahzY6Fl/nKp3yIE/DTMrPYTrzsqUFwsNsRayyMfCwS8pbIsKz3624Kibaa7S0h/8mcCZigLjn6VBgtpKKqI5xEgbkONNqvYQlmk7L577deWuOm4JBwCrFgc13n/4avZ3hJIDQKNc6IC8tQvvx+2INZaxjOCaVUdOPUNLPahqJFbGW/2cJP5qBRcYw0iLITV9FkYD2q595OUmK1j6V1zJYmrnb1LniomIdhA253ufyaGp+EhRFrGtP1YBoKG/tFhOAeqKPZoyqtaUWHbqn4FhAh49cYGh6jqTe4VmBYxI8VEd9rKQI+L1UmeGpWC18yOhEovR1GmI1eg2/dHU0DRaYbxS1XZNIedpwpbbVlJceKYJ/gOdP/5wIkGgje1Yd3fwdI/+lxaciJ/Te4mK5RvUFsgdriBtY/H8pIjPSEkS1t/FoWDzaZn/dtvyudOQvWDrL9oE3pGBkmdMMqIPxorTGa2ji8+OkAVtYUbF6Rr8+Oc95B9z4cfc8w==;BZoOsgpu2XcpGiugxMBWZg=="
+secured: "9WJNikFVM0+MOc/S8jH8PbcXv3BxESmzYoGMbZl+wlOnPKuCaUduCLzq1qDjL1D8Hqj0ZMH+2zLKrIWFcID7u4v91H3PqZZfxzzpHBdHY6gHVRwt3BOjqLJmTVeAEad8TYqF2fF0rrbWzow0oESNxnqGi4E5g/+9jbD4gQOkK7z8lCu4I2/hNDJI0Zzl9xs9CZLMUjd2YNBXrF1HAJ350Nmq8mwkopsFQjQF/CiD6cwr13z3HY3s3qMr7nFND9BPFd08/WAJKXhV/48QX4DrW8IB6EZD3lg8Wst9iudkngrrmNjXvx+ZheDcpQteF23j6TnAK1u33TFUs7dcmU+SIYZJYWU3G7avRdJSHcxS/Ws=;H7Y3BKLhuvSypWWi68FZQA=="
 ---
 

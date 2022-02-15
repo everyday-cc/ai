@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning helped detect possible COVID-19 spreaders"
+    excerpt: "When used for COVID-19 detection and tracing, machine learning models helped predict potentially infectious individuals and helped test them faster than manual tracing, a Feb. 11 study showed. The study, published in Nature, used machine learning models to ..."
+    publishedDateTime: 2022-02-15T17:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-helped-detect-possible-covid-19-spreaders.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
     excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
     publishedDateTime: 2022-02-13T08:51:00Z

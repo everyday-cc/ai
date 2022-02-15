@@ -1,31 +1,29 @@
 ---
 category: news
 title: "GTT Group To Sell Neural Network AI Machine Learning Portfolio"
-excerpt: "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ..."
+excerpt: "This portfolio offers breakthroughs in machine learning that could shape the landscape of tomorrow's edge and data center capabilities. The primary researcher, David Barton, CEO of npArbor, has 25+ years of experience in AI, system architecture and High ..."
 publishedDateTime: 2022-02-15T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio"
-webUrl: "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio"
-ampWebUrl: "https://www.benzinga.com/amp/content/25639015"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25639015"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio/article_2e08e193-a8be-58bd-be47-b491d43f2a64.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio/article_2e08e193-a8be-58bd-be47-b491d43f2a64.html"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.benzinga.com/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "N9aGhVMvp3CLnNyJXMWHP4Ft9rMQSjfiVXvIo2qMUPzkjzb9IyYBvFKM9r6ubyQM2bloOX+7cYNgBKHDo196EgePqOPK7Ij8N8QxiL7OtFSbhgxxkCi4fB/Xs8TUKEn4tjGLw5C01gao5PhawOYm12vGW/2yd2qjA+lilJI4tUyGGPuAye376GZG2ETpJqmsBF4SJ20BTTNMpN+M9ZTYFPmAbA5qv+ZkQJ1hQ2HV4fdtHdZYJf/0D/qq49oBBcQKcXQ/L1bsW4DA0624/jhLpFd5dRDtHlewygr9XnZFtX6fAZ3E2zI7+IIWJBNopTCap6WckeIgPN966HqYVpJrIJMbk//kWT9tgToNhbVdxSU=;douaCHNairDnbD8u/JwATA=="
+secured: "I1NmwDpj+gkcK/D3y22t21UvClq1w4t6OARYH8WTs0dg57avCi2ZieyV1TqZnMBlJjMkdJSPYrjAxhvLnHZp1bzVrhaODQ+Oz4hMS58T9WFCMVwN+We0s5Ot03v1zNFsk5Wt4BiBFw1f0K/9aQk9GfVPXKjVsr1eRrJuYNLEv2iCeFhzRmhHQ3f3cHDU1JyyVgAw8V1tRDhXdupNBB1OUyCjgKKVITMmrEBaWO1EoWM/wEwayoNyMrEVeU/mnCPSMW7Ihpt+PzoL2pWagNgdFa211+SKCQOv4hVq/dq0Ptg+dNjOc7j53AaKQqxHkNPdgF7R6l2zLYE1JH9OZS4PMVmgSRfivg2k9b49QFOUCwU=;U/ZbVIvKncm4tnxaWBGKtQ=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
+    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
+    publishedDateTime: 2022-02-15T20:02:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/02/15/9545848.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+    images:
+      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "FnzW4FjOY5XM9ANy0BPB3CmFlrC+zGvxpsodQ6qvrvBB2QfE7zcrvyoMS4cesGj4k2WKq9n2r9Fz/+V7K2K79sA7bzVVzDTMvJB/p3wgQikxKwEshSDYTo11UQL8eQg6OcOKhnkJWINoC3bp5Jkh6PNBeIxyQplXL81ZYY0cv7pW37VWEcQZHAmTmLCKnYiOgS4AE3JGSaGBczMf01lHDXyjVl4ImXliBL6Msj0MH9uddKV337bTbDsIEm4bkqcFbZ0rilqUC2w8D430Xt6Ai5n+FWID2uRX3KB+TY8eWzlSX98ceAPYIbYmQFGfmR61wDYCH/Mh5VO7VPO1/Sq+4W1k5as9ne41iNv2SayvIu8=;HkCXsWZJaK3Cj60am9gRnQ=="
 ---

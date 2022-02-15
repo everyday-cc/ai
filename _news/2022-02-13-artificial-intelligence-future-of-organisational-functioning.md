@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why cloud computing for healthcare organizations?"
+    excerpt: "Although the healthcare technology is an integral part of the healthcare ... FHIR), Big Data and analytics, Artificial Intelligence and Machine Learning (AI/ML). Other significant market participants include Oracle Cloud Infrastructure, Rackspace, Fujitsu ..."
+    publishedDateTime: 2022-02-15T18:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/why-cloud-computing-healthcare-organizations-john-achokah"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFkVwshY2GzJw/article-cover_image-shrink_720_1280/0/1644948141168?e=1650499200&v=beta&t=F_CaRavW1NTAiTEWGj5nJgOFVhIw4Gxye-Ihu_QBKcU"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Options Announce 12 Years of AICPA Service Organisation Controls (SOC) Compliance"
     excerpt: "\"Options is fully committed to investing in new technologies, additional resources, team development, partnerships, and the strategic use of Machine Learning and Artificial Intelligence to ensure our security controls, managed services, and internal audit ..."
     publishedDateTime: 2022-02-15T18:40:00Z

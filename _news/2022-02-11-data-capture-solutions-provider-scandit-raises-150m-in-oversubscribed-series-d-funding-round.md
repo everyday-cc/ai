@@ -7,7 +7,7 @@ originalUrl: "https://www.auganix.org/data-capture-solutions-provider-scandit-ra
 webUrl: "https://www.auganix.org/data-capture-solutions-provider-scandit-raises-150m-in-oversubscribed-series-d-funding-round/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wallaroo Labs Secures $25 Million in Funding Round to continue growing in the machine learning market"
-    excerpt: "Wallaroo Labs, Inc., announced it has closed $25 million in a Series A funding round, enabling the company to expand product, sales, and marketing, and to release a free community edition of its machine learning platform. The funding round was led by ..."
-    publishedDateTime: 2022-02-11T18:51:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Labs-Secures-25-Million-in-Funding-Round-to-continue-growing-in-the-machine-learning-market-151406.aspx"
+  - title: "Scandit now unicorn with $150M funding to advance ID document scans, computer vision"
+    excerpt: "Swiss startup Scandit has secured around US$150 million in Series D funding, valuing the firm at over $1 billion as it plans to continue developing its ID document scanning and other related technologies. The oversubscribed funding round that was led by ..."
+    publishedDateTime: 2022-02-15T19:30:00Z
+    webUrl: "https://www.biometricupdate.com/202202/scandit-now-unicorn-with-150m-funding-to-advance-id-document-scans-computer-vision"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/24132025/selfie-biometrics-and-id-document-check-GOVUK.png"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "YWK113gj6ZxcR+GW+OpoyHGvjXQSjbCxjpB6PJlgFuGLXi2cyT6vCLKcbSTkfFFyFbEKWwt5TgVyU0Bly7ZuXZ5V6Ib7yTvNcZWntNEYT6aUqZjNoH71DmQPw/7DMaA937GbFNNNpiApV28Wsjgkgy1ZKo+w41wiv47dpiMONGN/mIm1s/yCztucWC5rPxsSNeCUSje/inw55AFAZ476Axfkvey6V1ibYgj+nFNZqy59UM85C3tE1H6lF+1d47zWdkFJBhH7tSfL1xSMkRV4QYgpg4rXhjvWSjEsbkvIPe1jzNAN4ivp27Bb/ZygrV4HE0Gh02nLty1LvzZa03d01BahLA94+TF1EWIfZR6sH3ZX1LiM4Wu0Sqt8QchY2FijsIZ4q8Utn4QVMVZLJmjsrjm0r1WBaC6iOiVB/J2SGroXbIch/SG+8i+41tN5lV8TSIb0va+srrB2fn9dSMM5nZOz6U2iKbw7wbOFiczNoJidFyoaPhazj+rjzoFSf7HPJAyPRIDAN3Mqrz/VC+wZpA==;K3y5QufblwZAp5BOY7ZGnA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/portworx-by-pure-storage-announces-s
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: enterprisetalk
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Amperity Announces Strategic Collaboration Agreement with AWS to Deliver Customer-Centric Interactions and Drive Product Innovation"
+    excerpt: "SEATTLE, Feb. 15, 2022 /PRNewswire/ -- Amperity, a leading customer data platform (CDP) for consumer brands, today announced a Strategic Collaboration Agreement with Amazon Web Services, Inc. (AWS) to help support digital transformations for companies ..."
+    publishedDateTime: 2022-02-15T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-amperity-announces-strategic-collaboration-agreement-with-aws-deliver-/2022/02/15/9545582.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Mm1l+AHtu2Xs1V4TRC2MvSWDgHWirQwgqdjvwByA0HjffSYXK+2bYWCV7dpvRgubLXA1DtXHmZXYS3zrMoLtvmXUt6bw9GR5p2yASjmtaBOfzMAfdeVL+fr/rtYyArri027QYW2MgBAAw2TQKSpd3esADLmkQUPsa7GPCY0PDRDfTN+fLSTCrNaPlz+HO8RvmXohyh2vViwWwIbM50HUdi7aIFEItKgkDnCScmGmGQMtChycc3bAhJ483oWtZW7Xa4qAv1AS5OfvBqG6CxglUV24Ugft3AElF3zpFitwBF/ZmdYkAwa8sbzi2eR9A1YQn6P7yiKD44Df+rBDw5XzIvO5OENN0ci5oRrUDgTinhPkgZw8fKytvBBbtkyPM7QRsB4F/jaW8LKP9DjHPrGzKVivYi+UdxbEyRQbQMu6qt/Y8hNF5wsNBX3Nq+tfihwu8Kh6Qtse2J1thfGfORilp9fcOab4NXwA6CTzrvH5FxpiY0MhYGpQXIicO9EeGya6+sjBYkrxksXvi/yQFSUWrw==;1/FfQvNxaJnUWv/hHIaTiA=="
 ---

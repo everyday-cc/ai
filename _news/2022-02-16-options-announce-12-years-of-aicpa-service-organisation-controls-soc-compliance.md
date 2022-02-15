@@ -33,6 +33,20 @@ related:
         width: 325
         height: 325
         isCached: true
+  - title: "Why cloud computing for healthcare organizations?"
+    excerpt: "Although the healthcare technology is an integral part of the healthcare ... FHIR), Big Data and analytics, Artificial Intelligence and Machine Learning (AI/ML). Other significant market participants include Oracle Cloud Infrastructure, Rackspace, Fujitsu ..."
+    publishedDateTime: 2022-02-15T18:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/why-cloud-computing-healthcare-organizations-john-achokah"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFkVwshY2GzJw/article-cover_image-shrink_720_1280/0/1644948141168?e=1650499200&v=beta&t=F_CaRavW1NTAiTEWGj5nJgOFVhIw4Gxye-Ihu_QBKcU"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VYcHcoY7t5PXoI3y7HA/8oNRjMOMaphx+sEQJItsd8rgShNq+jUPaTCcEURc3s0IbphG1ltTJE1Oasl3wlhXNY+SOymxvYMD6DFsML5eZnKEvuCAuYTIM2vYzyJ+Wk8LCRvwH+/VaXF2tixhnvQekaV4wqBdWSnoFufUwO7NQ4g5gOCtwc/focPCksbI1VU+aCY7oFp2xlYPzA2q7b5mwMW1Ebrpv14KQHnDERTiybiWYFwd/y7mtOYLccrAAPmcsRAx96U5NY8FiaJ5/zq8jnSYW/2YsND98ARg8fhOjI7K3oMb9CQ4qpabqYGoaKzsPcHOzvcNdfpvfTWxbrboKAn4Iugk/b7Emoo7RjW4RqY=;qix5umoopX2OWx5ZcYO4JQ=="
 ---

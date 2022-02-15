@@ -147,6 +147,20 @@ related:
         width: 500
         height: 324
         isCached: true
+  - title: "Payments-as-a-Service Fintech Finexio Announces Partnership With Autonomous Commerce Leader JAGGAER"
+    excerpt: "Over $500 billion worth of goods flow frictionlessly through our Enterprise Commerce Network every year. Leveraging AI and machine learning, our intelligent procurement solutions provide enterprise buyers and suppliers smart-match recommendations that ..."
+    publishedDateTime: 2022-02-15T19:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/payments-as-a-service-fintech-finexio-announces-partnership-with-autonomous-commerce-leader-jaggaer"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://cdn.newswire.com/files/x/65/b8/213aa9e9696ddcb5909212ca5ec6.jpg"
+        width: 500
+        height: 243
+        isCached: true
   - title: "Autonomous Commerce Leader JAGGAER Announces Partnership with Payments-as-a-Service Fintech Finexio"
     excerpt: "Over $500 billion worth of goods flow frictionlessly through our Enterprise Commerce Network every year. Leveraging AI and machine learning, our intelligent procurement solutions provide enterprise buyers and suppliers smart-match recommendations that ..."
     publishedDateTime: 2022-02-15T14:18:00Z

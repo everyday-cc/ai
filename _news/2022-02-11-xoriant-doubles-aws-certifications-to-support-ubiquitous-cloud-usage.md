@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Amperity Announces Strategic Collaboration Agreement with AWS to Deliver Customer-Centric Interactions and Drive Product Innovation"
+    excerpt: "SEATTLE, Feb. 15, 2022 /PRNewswire/ -- Amperity, a leading customer data platform (CDP) for consumer brands, today announced a Strategic Collaboration Agreement with Amazon Web Services, Inc. (AWS) to help support digital transformations for companies ..."
+    publishedDateTime: 2022-02-15T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-amperity-announces-strategic-collaboration-agreement-with-aws-deliver-/2022/02/15/9545582.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "wbcxgJXktm1ViLZcSYzJ4152bLRZCgcVZF6VaRCGMKU+6kKI3R8SFPRTBtanLCSIDm5hISl0CbplpONzG8kEDFNjZPx/tHs4yitXzQSJKtIUYIBJ7FRXDs/5cXCe+8Su1bGI5qVvcJZFvYgOdk9jZ2aJ4qGnEKvqED1AmCLrAZ214hMjGwK+jbN075EZHp7lwsl5oTW2jiXvlEXqCsov9nFpIn+QyjazEVT9mWal55vlM7n+D3jr8OUTySeB8gTylo04gGJpYj6pNhUrxqxZ2Rbb50mBifFoPdRdvq1aTRRRtkQk/Lo6dUetVtwCc7ME7GAXNOzPvSSaS9amfyz+TfnUu9x9irLZPuiKR0d3TzqtvDbNXX51nXNUUtfLdQNwEIl7Sy98hTrZ2+YtqNMc+XAxl0opAbUfrHtgUkjrUF7bUMVvxaOz2fGBDk5lXrtm+lBCuVGAdds/5nmY/cOqRIquEubIF9GH1T7j86ortPXNQvkUHxnaAXjVjXGNe5heB9xRS/hvfK83hO2p+NbJoA==;TsdI63pNTdeFLI5ssCPKMA=="
 ---

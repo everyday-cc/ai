@@ -76,20 +76,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Insights-As-A-Service Market Research Report 2022 – Global Forecast till 2031"
-    excerpt: "Insights-as-a-service offerings cover data such as stocks, financial data and results ... artificial intelligence, machine learning, and others. SMEs in emerging nations are gradually joining the bandwagon, attracting increasing investment from insight ..."
-    publishedDateTime: 2022-02-11T04:08:00Z
-    webUrl: "https://www.fmiblog.com/2022/02/11/insights-as-a-service-market-research-report-2022-global-forecast-till-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 21
-    images:
-      - url: "https://www.futuremarketinsights.com/report-images/image/insights-as-a-service-market-key-regions-and-applications-mekko-chart-2021.jpg"
-        width: 650
-        height: 409
-        isCached: true
   - title: "Worldwide Smart Hospital Industry to 2026 - Modernization of Healthcare Infrastructure is Driving Growth - ResearchAndMarkets.com"
     excerpt: "The “Global Smart Hospital Market (2021-2026) by Components, Services Rendered, Application, Connectivity, Artificial Intelligence ... Factors such as technological advancements, increased healthcare spending, a sedentary lifestyle, more awareness ..."
     publishedDateTime: 2022-02-11T16:54:00Z
