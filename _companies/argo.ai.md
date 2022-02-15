@@ -2,7 +2,7 @@
 name: "Argo AI"
 overview: "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel."
 type: "profile"
-heat: 105
+heat: 120
 
 website: https://argo.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "argoai"
   url: "https://twitter.com/argoai"
-  followers: 8202
+  followers: 8203
 
 size: 501-1,000 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Argo AI"
 
-secured: "fK6XiPE/TJOxAKOMAcP8q7zhEa0X/3YVJW8iRVSJGKwVH6qU9SIGvTmm7igd9KHhcYBsq78dbExwQLNGm2rx0pnYMfDGyj9o7/+kQ5/B3E4zDCmyeENBi6iO+EXoLTPDqqXl10IBCAASAVbN0fIrEvNqbOfwi0eAarCL+fp9v3GaPetjoQGmdwSfIlo3oorGry+FQsUr6SpOWNHN5Mh943ZN9ZivpTxsJVW9PYzycqGCXD1rwopy4s+VANi2GNIvx+a6hBAiaWPyixPNmIct67+N+H1FEgra1EuerFsufZGQIKPrAYj7InwFTvDg35oAZm1/wzz5gjjj47NDp24nUlHy87cwXYM6REMcgNlye1Zfh8zs0SeYoet2tkqVQK+JE9SovskCo7F6C9wHiRr36yyfr/nEU8MhPM9v1PSqN5s=;l5Us1xD1IX4kKTKlNCnAeQ=="
+secured: "zTTcyb7Q1VK2jEof9+BpXrPEXRqtNUdA97zz7aJ7Ak3nfwdwV40RncDDPnD5lOx0AUY/8PAA1mcibF7XHBsFpJmJWK5D6QLh+v4dq50nU/G1WwIkHq0uJ31PtNe+tfxwxAW/SqNGxx4nPHWR5D7/32sDfb3ugKSxlhbLbeEnfFHBOjbkm90MVL0SqeqmibT/E4UeAiKuahpypvoxOF5AfpgNEuppWIcbUSkU6T0oU7sLe1fy+pE6ZKgtZFngYnq1YWm0Pd+ET++sPGPixj+yzafSsVzBSjiZxnv6wVVGr51zHoGjHmHMWsNL2bL4cc4rf6NC6bjUn0wbBKaN+gUmwLcajvoHBFaSU0qFeJF6vzPSMCv+5EZz1WVS2yLbHfZkP1MfVFp4pCm2e4VPsEmtT11avqgMGBVfc6NYRlqV7CE=;7VTZc+pt0a6qLz6OFI9HVg=="
 ---
 

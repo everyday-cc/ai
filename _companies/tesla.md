@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 628
+heat: 633
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 13096076
+  followers: 13096931
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "K9E09gpd7uiLpnqezeYXN7qCulltbuvT0Qlm8L9bIr0IvFKqMfBnTORo8lAtENb0hijtgmqoYFr8LUv2sKxuQ0XTwpOkRBKUZIqNY30sYJdDjj6TPVDDGdUcH6vnMRND3ET5HiZxDYcjKcktNaJ1NCAmcCk72aEOfAaGqs5hLczWY2XelCKXGJgM7v6Ruu9anThWhyHOOQ3xYRB/kNvfQrU5bHvctjdpPSojyO2g0d7YdnbFzW3F5J0Hz6BPPytLxUoveGJiNhxX7RneHQo2G5Pg14X2K2JLau7NHzd3ZK1ZFgTYL2X6cNCOwWmhF38vZWvRNQzh3DI9qVhY93wOi48sdWjU2Xh2XrRD++M2g1n/18iioniiLF4Mng/RGdicC5KicpjlWzWIR0ERbdZBNbjvAHdp82bOvrmAo9NHzyc=;DuXTJH6yMDP859kyv5eisg=="
+secured: "P8sUxuzdmKzqo1xRaGEmrg1XhjdWYUv9XBQvW/6uCDBIrGdw6IWpnXFGhrnVLl/lYMDhER4hAusEhB4gYHFQSiF32/jgGKWdnPbDcxwL0pgNEL6oeek24nxE1USD5/TNPtZGDlkaywQiaa/Kha77DIz8quMBpo5pggoE1MpTQ3mP2xq1wrZwiOajR7v0yB+8ddywJUwa1eoqyp0r3Ek91tc0eHLcOuZF7Rm+QLmWelTBljQ3JJYVvTOMwwAMKGNYa7MsK9zGk90p1VxGpW3jIf9AoAshxnXBBFX0S+LIzjoq7igxvBM3+4JD80W/vg9WOez9iKM/7fjgwdWtqsKnfmsu9l3BgB5QLC+dTh5WE5O1lMnm9629zc8JXT4ZP7esvsAz0nmwnHrKzI32CpbtErM27NuT3NwFXl6t2d7Djx0=;rM+PqLIPOsgpMkvQJgjdmQ=="
 ---
 

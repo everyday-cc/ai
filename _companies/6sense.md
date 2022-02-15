@@ -2,7 +2,7 @@
 name: "6sense"
 overview: "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth."
 type: "profile"
-heat: 57
+heat: 58
 
 website: https://www.6sense.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "6sense"
 
-secured: "5yvdcq4j0UtV8h7lEG1kNJvaumycSZxgP+gs8kaovUlS7H9ztyf3VKtinfzq94+ddiGDdEEObWNACQcxcsLOxSN1k+SMRFWFd3kPedZE1G7ywXBNgQkGj496HNwkMfANLAqxDOuSdYV4O+zdF5jlV8otTDe3KocMJ2CwSwmmTC9MVVIvv5nTHSl3G/7msSiuojpSZa+VWwecUecBfqBLzENgS6bPWaozahbV4T+N6KiZyCx3YAwMr3MoiT43wuNIiSCsCg/VLpPpZZzdmXii3VrvhkjksPtnk+frETDvVQIPcJQkX857LQ+w5JEel0OtEXny7BBKwygZ3bqUWOwjUe0MQY91KWTC/UP2nn6ao/H0EoDH1Cde4RPyszEmiFRJf0U94qwBdGlErsgrWqIAojoVLU2S1OS7gHCC8ABXwtk=;oUKoSUXaRpaXCyrI4/6lAA=="
+secured: "wCdi9wQ/jjJX9ugF4g0J7qBABKeaUjexCJaP/zEVQHoVbPwI77O4sgofBYx7rwSW4knzCFGX4Dy46tloqx5xbBliHJnRg9E3t5JR0xV83ishv4sP1FCaQ56cmGb3VRTvpTxRuYmmXbzjHgUCJqXdQs4YwlnrMRgeZYZxBUJvaq3QZyLtMSPzccw5S9qxDSIUksfMbhqxTZ5REbuJKi7YRIIMbF2LEqxlVqZBDUVCqb1ozdT6i3Ju9I2PF4N/NWGviGdZL1gT3yDoLta74UzkS4T+NpiHKh9azMV785vhhh2xf/bYENx1NIwaTNAASA4iuReTRk5L1YLLbrrsuC2yoOUMlwSihi9UoDUGb2VWaIg0ITeVwjZp3I/93ESqkPANRizIBcZlb31PeIBq8NYQ7TRrxuxFmLW1fRyNrtExzC8=;DBX/VR+VxZqywF4OMKgDBQ=="
 ---
 
