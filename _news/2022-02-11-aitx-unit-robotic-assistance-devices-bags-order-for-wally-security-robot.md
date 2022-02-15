@@ -31,7 +31,7 @@ related:
   - title: "Robotic Assistance Receives Order for Wally Security Robot from Fortune 500 Logistics Company"
     excerpt: "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security challenges, and fuel new business ideas at reduced costs."
     publishedDateTime: 2022-02-11T13:43:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-robotics-bb4f1e78e85cbeb4fc71b3a3068b3034"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-robotics-bb4f1e78e85cbeb4fc71b3a3068b3034"
     type: article
     provider:
       name: Associated Press

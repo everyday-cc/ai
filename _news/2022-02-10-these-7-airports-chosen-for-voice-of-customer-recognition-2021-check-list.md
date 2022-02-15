@@ -73,20 +73,6 @@ related:
         width: 500
         height: 278
         isCached: true
-  - title: "Curaçao International Airport earns ACI recognition for ‘the Voice of the Customer’ for the 2nd consecutive year"
-    excerpt: "Willemstad, February 10, 2022 - Curaçao International Airport is proud to share that for the second year in a row it has received the prestigious recognition by the Airports Council International (ACI) in its World’s ‘The Voice of the Customer ..."
-    publishedDateTime: 2022-02-10T08:57:00Z
-    webUrl: "https://www.routesonline.com/airports/2396/curacao-hato-international-airport/news/297549/curacao-international-airport-earns-aci-recognition-for-the-voice-of-the-customer-for-the-2nd-consecutive-year/"
-    type: article
-    provider:
-      name: Routesonline
-      domain: routesonline.com
-    quality: 18
-    images:
-      - url: "https://static.routesonline.com/images/cached/newsarticle-297549-scaled-620x0.jpg"
-        width: 620
-        height: 438
-        isCached: true
 
 secured: "pJ9v/CqZdicJuXVppKlXxRUKBMJkcNzctk6d9xbk+fwNbOOSt0oC5sgTxRMbmRx+EFguRRTZiL1gMLP5Ei3LjlF6GaBPkuk0ioKlYa9pFQjEF8AySplP45zDyAyJU14lI4WaZoxL6s8TXZ2fV4g6yL0qKS5jE2oVd/+rxrFS2eyFCGOYtItv1YC1oh5pRIZU3le5B6BYkQ9b0SibR45L4vUAR7hwfouJGnGxfSLwm4tq77BPFki7rDYFfEJc8cQz9J4lZ5Ufn5uI4oAdzPsJsR5efsFoYYpH+YM7xnoTjFHHdwENTE9qIHWte540/vVfLtG0SzycDmc0mXn5WKP6iBIwTkD+ww4Q0WpyLxURFVhr1WyT0jJt+yrrP1h9r07xdGGFP3iEF4cJkyliLb513FOJBkzlv+/8tsjtLE8ZRR0bWtc7n8nlUG44rIsbc6svn7VNp1yZcSfREjG/ulsQyfuOFFnUkZluD+486+L9E7ZOSEafeFILsS6UOQKmSgSC/xdcqXlbJiMFcJeQxnEyjA==;/dlgzyydfblOV/6J7p0/5g=="
 ---

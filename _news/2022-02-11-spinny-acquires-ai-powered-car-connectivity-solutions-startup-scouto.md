@@ -120,20 +120,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Spinny acquires Scouto, the AI-powered car connectivity solutions’ start-up"
-    excerpt: "The deal marks a consolidation in the AI-powered used car solutions segment ... acquired a 100% stake in AI-powered connected car start-up Scouto. The deal marks a consolidation in the AI-powered ..."
-    publishedDateTime: 2022-02-10T07:58:00Z
-    webUrl: "https://bestmediainfo.com/2022/02/spinny-acquires-scouto-the-ai-powered-car-connectivity-solutions-start-up/"
-    type: article
-    provider:
-      name: Best Media
-      domain: bestmediainfo.com
-    quality: 35
-    images:
-      - url: "https://bestmediainfo.com/wp-content/uploads/2022/02/ScoutoXSpinny_8.jpg"
-        width: 620
-        height: 350
-        isCached: true
 
 secured: "kdSuq5gF9vfgilkrmLzy7a2ut4MTVAX3HAw1GLwdPyw9hrQ+UFH4OUzeiIYk7/uuFIwuMmlBqE1EYDdYjWinuw7nXJ6wZ1oPEQLOn8CwS9/hM8NXdyNaQD5XNkYEBNd0F0cd1RkfpsSfYcf4krVIj6dGC7XC9DnY84rdUVU61WI73AMbVc0AWDSHcBLWcd/iTjmF+tBYw8O6arxBGUieljGsi35hFckM+r3vGl/Ju1nPynH8jJjFWbqKKrT/laPwDxLENg/2awgFfsB/SviaH5OeAMvqxGfRTkHHIouKaE1UEoHwvJI8QHpkZedag1Fw0Df6NNQbRbfCFVINpzehRNUYupOwlbbr0WmdnJQLzKLfJpKsesw5qUA++7tl285dWNlLK+eGV/RNRvKnWIYZL03dU83CMtgbPLwbdoQXpOo2qcVXn5JqGtDAjXYSIxs55afXcshLbVyd5IO9a2PcFMoQn0JzTnyPXqc2gREF4KQReFXasVVtKKKgMTjJ4YOk0xMS7ikrAwpi6AueHrpgsQ==;Wg2kGjxIlbo7kqMCeiWUhA=="
 ---

@@ -119,6 +119,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Texas AG sues Facebook’s Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-14T20:28:00Z
+    webUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+    ampWebUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 61
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/02/Texas-Meta-Facebook-Lawsuit_69852.jpg?w=1024&h=815"
+        width: 1024
+        height: 814
+        isCached: true
   - title: "Texas sues Facebook owner Meta over face recognition"
     excerpt: "The state of Texas is suing Meta Platforms (FB-0.2%) seeking hundreds of billions of dollars, saying that Facebook's use of facial recognition violated state privacy protections. Texas Attorney ..."
     publishedDateTime: 2022-02-14T15:21:00Z
@@ -138,7 +154,7 @@ related:
   - title: "Texas apparently just realized Facebook used facial recognition"
     excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
     publishedDateTime: 2022-02-14T18:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
+    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
     ampWebUrl: "https://www.protocol.com/amp/texas-suing-meta-2656661461"
     cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/texas-suing-meta-2656661461"
     type: article
@@ -166,6 +182,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/24/12/66/22064529/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Texas sues Facebook over facial-recognition use"
+    excerpt: "Reuters Now Texas sues Facebook over facial-recognition use Posted The Texas attorney general's office sued Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the ..."
+    publishedDateTime: 2022-02-14T23:07:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsYK8?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/620ac4f1e4b085d396fd452f-1644872945737?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Texas sues Meta over Facebook’s facial-recognition practices - report"
     excerpt: "WASHINGTON, Feb 14 (Reuters) - The Texas attorney general's office sued Meta's (FB.O) Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that has since been discontinued ..."
@@ -237,6 +267,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Rkn+dsn+DIOqFSg+bXtajW5x7teay9WAQkfyvlk6tcf1cAZXtQELpnTCVWptVbtV36I9WN5KTXUVHZHd/GnBiWdhIwmA0jjT+xYInmdLIQ7ma1zAJeIXNOIS9T/zgVyVTipzfXJAh6wFckrivl1Mhc8PS7vpNzn34XNIXmZiVZhQTpvE5Ex+A7AvMgonUB+To+TfFwJYvnRB5zgbda1NK5hxe7zvOdiLGjZX5KdQIwcBp252Dg0bge0In+Hix5ox7e7w/ywmZtXraX618HDMLHa7p/8MRo4A2MecgjAj41z8ucc8qQX9JU2VFs+CV3OqcKeMtFhu/yj6DrNaBhUP5qFHxgkt4fuALv7la9BsNUg=;06Mxwvmx9D6OhrCzSNhqYQ=="
+secured: "oiNFFK0Gn/NoxUtWAlZc9yxJixEQ+W+hUd/a2PDgCZq+HddY+EoQ7vn+A3mD3J6fW2CNuIWRpP379geVG9AFWfTuWCpSgY/2E7vKXfh3dC98+1BoCA/VGosz4VmKJIWURaYR1v5Dnh66e0QyQhSX65Gk1kI+yUFTZ9XMmTspxubA781jEaqc8IMpmHhyxek8LwiDLZYvoHxy0wjJf7fbNDLMdFJXrg89LVZiDuALuJEZl4MpLHy4J+RfkMYjPqN9U+QlbQEnlFz0HbPeSXhLawq17dNLuqKosDQD/85OPmfxOf2uqHkPjQVDBlRBlSMykUAnKcAQSV/pzyd/wAGA4kK2j5G1gFnLmm04CTogdIshWrTNpWYsyOK91996oesr4T4zAPuNwWwynLGrLqApNXSt9U41I23aL5tDy0vaI6NA3BZc3C5rWMs3py9rTO9Tgt3rVQI+RZmING1lLU4UXyufjDTI0wvp0qYJeuZ4FLgELgcuTTJst0VRd0jSPxTOMZm+W0ga8InTUbAGABAuLw==;dqEW9v7A6CqEZ/hdGmUmjQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-13T17:43:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-machine-learning-algorithms-pauselay-brun"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-machine-learning-algorithms-pauselay-brun"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGSIoTpL3AqqA/article-cover_image-shrink_720_1280/0/1644772205517?e=1650499200&v=beta&t=2Z-alQD3E6E_oX0-vyELxVTEneHv8751AgNIYiK4xFA"
@@ -29,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "e1xNGVorhxqG3EMPbdpplOupw1FWTmx+6cJTBPc3wJvXY1jTEIWiKdL9Px88fYiPriNR9vnuq5qCkZJYaTMsy8LL6g0t3zCZ1cN4fs4MyN5AnVV1qVSvWXR6fKM6X2KOoQVD5TrHZKMZHDN7wQOJ2ktaWy3n643OxwL1tF9SCmOoA/baffBM7pjTHFCHUDbiXb88RrLAY2Ls3MX+KEX2vR7NBjCfjhdb2tw2dICoL3C+L+Z955i43vnUEy6eKfqrMHsgyuBcDVPnL5dfuI1o70v3oBQdSzVj4mNcBW/MUR21U908p4u2i5nc3TMyjlMqicl7bwFWY2Qa9IakqDZykgQp/6tioCJXWtctyzSYSBk=;38JUkvp1LrNGfHegD32YKw=="
+secured: "QX9ibDYhaUPOHQAvqPj253mMoRQNYKsiEw0Ni8cNuCefFlnpeSzxyNZz1iYoIUNDVITp6np7Jt3JoCdN/kTZ3VlHhivNrvEyqYaDYROAZLrE0DIYHk4u43r5EA5ysIVuH/DUvTxQMMiFmHY9hgquRO+wG9/ISRtIKY7rV3iu3M9SDxp0n6K2uFuo4Qbp9Q7QW4A8y7nOwn1OcpdsB05cCpuZn4+S7BuvaSrW3S+4azt/neMmFFhCvgP779zR7JbWMnKLGJCbbAiWXd5HmBQ4Gw3VX6S3osLCXw4PO8bjsk8ze28J8AVRmVKkLRhwd2zcrkAEO71NmzxOZ7S471jeXlc5K0YvIOUkKP7ug9LB+0YrIJP1hM9DnHflmz5HWa4Xhqyau5e6uZbYtTFyHiYdUNl5D+A3grkc0VH1bwrGBxYqCwsqBiftO6CTnwTk90os8gH/mbUaunocX6W7bexdCdiGqBNulMYJobMH4gbHrryA40oDWV+7joXJAsPODUiBbJA15okUhbPqh0kAO24D2Q==;5s31Fy3QEvzYYrBFJ2+PaA=="
 ---
 

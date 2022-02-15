@@ -3,8 +3,8 @@ category: news
 title: "Texas apparently just realized Facebook used facial recognition"
 excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
 publishedDateTime: 2022-02-14T18:05:00Z
-originalUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
-webUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
+originalUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
+webUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
 ampWebUrl: "https://www.protocol.com/amp/texas-suing-meta-2656661461"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/texas-suing-meta-2656661461"
 type: article
@@ -121,6 +121,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Texas AG sues Facebook’s Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-14T20:28:00Z
+    webUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+    ampWebUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 61
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/02/Texas-Meta-Facebook-Lawsuit_69852.jpg?w=1024&h=815"
+        width: 1024
+        height: 814
+        isCached: true
   - title: "Texas sues Facebook owner Meta over face recognition"
     excerpt: "The state of Texas is suing Meta Platforms (FB-0.2%) seeking hundreds of billions of dollars, saying that Facebook's use of facial recognition violated state privacy protections. Texas Attorney ..."
     publishedDateTime: 2022-02-14T15:21:00Z
@@ -152,6 +168,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/24/12/66/22064529/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Texas sues Facebook over facial-recognition use"
+    excerpt: "Reuters Now Texas sues Facebook over facial-recognition use Posted The Texas attorney general's office sued Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the ..."
+    publishedDateTime: 2022-02-14T23:07:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsYK8?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/620ac4f1e4b085d396fd452f-1644872945737?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Texas sues Meta over Facebook’s facial-recognition practices - report"
     excerpt: "WASHINGTON, Feb 14 (Reuters) - The Texas attorney general's office sued Meta's (FB.O) Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that has since been discontinued ..."
@@ -237,6 +267,6 @@ related:
         height: 720
         isCached: true
 
-secured: "7VWPWCYeBz1arPXF4d/s15x4uszs0z/apU/IQzqhQHwwgKowb1KuqYHOkkBOsKeSHiHQ/3kQdh34sDvpRPoDlpK5eFPD7yByzWBruekmLQXjZBvX9FLCp9WxRJL50bi8H3gMRhS2zb0UqZi6WLLwFETlc4Re61jbjNIAJbVXJ4A9cTTZ+QKgKcPH62fp+8Vdfr9T593AUf2jj26ap9VPCzMgsrujMV7B4EXWbC9Nzz+vxUiYxohkFD7WXR5vFBrw3VP7triwTG4XwYF+yDQUlWiR2rOHLWocpNhYGggFC/lxGYzGBi9DrLe3zt/EQ7Q5/iot+OX357djk/G62JEsod3TTojSEIfpEDeljtmyRkjRb5dzdBh/MYSDjpdb9fmHdpOzBVfXxjoy+G7E0apJpkDN8+iO9ddWlGzlnf9wvVii7FaiyPwnEsMQt6gtkTwYNEJpZTIY85+xZBJAqzd7NSWErnoI7l5vWcK/DzvCp0PPyZurJmgU1+yLS0sIBEyTVPo5zmOirrNfy+cXr0eK0A==;jJcxO1h0sFF4o8d1oYU8eA=="
+secured: "p73XhfBIDt1k3RbdvoDhC/HbdATZTzdQ9YxilT0d1KVkQRPFsdQXxqn1XDJiD5+6TUU44vA3mP5owbThhuoZo4EeRhPXSg09G6XQ/gIc/5iOI3jjIJlO+JnEp7aJcCUE7V4VV1i3Sr0r/mdfMkUAod6YqJj9x5+30ufmPEw9sYQ8sZuM8NShL+6sywq3m+nj6ombJrnN3H8gKbsPZTP3fw5OCSife3Dtx6YnRSjv57qBICyiZ7N5Vo1bjSE7ydMf7rGi2BPMtvX4z6uCNoqPsZMmE6q+avmNvCg995RNQwiXSe99UKk0Wi2CPJyEU7EVb6a4IQSe7Vv4Gbx09bB3p2ShgMqtA7vrjNTy34DJM/g=;ubcKkC4G1QPlFRN21y4IWw=="
 ---
 

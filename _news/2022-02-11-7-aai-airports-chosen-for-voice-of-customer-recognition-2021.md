@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airport
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2017/10/2C_WORLDsq.59f23d1ac307f.png?auto=format&fit=fill&pad=5&fill-color=white&h=278&w=500&q=60"
         width: 500
         height: 278
-        isCached: true
-  - title: "Curaçao International Airport earns ACI recognition for ‘the Voice of the Customer’ for the 2nd consecutive year"
-    excerpt: "Willemstad, February 10, 2022 - Curaçao International Airport is proud to share that for the second year in a row it has received the prestigious recognition by the Airports Council International (ACI) in its World’s ‘The Voice of the Customer ..."
-    publishedDateTime: 2022-02-10T08:57:00Z
-    webUrl: "https://www.routesonline.com/airports/2396/curacao-hato-international-airport/news/297549/curacao-international-airport-earns-aci-recognition-for-the-voice-of-the-customer-for-the-2nd-consecutive-year/"
-    type: article
-    provider:
-      name: Routesonline
-      domain: routesonline.com
-    quality: 18
-    images:
-      - url: "https://static.routesonline.com/images/cached/newsarticle-297549-scaled-620x0.jpg"
-        width: 620
-        height: 438
         isCached: true
 
 secured: "SAjz8w3h8H+RbOj7BqoXJLPQSSJSTH+/tI8J9XD85fWFeonAoo0Geyg1G5IR9yiMx5kpkMc9wy29pl3ly2uPqdb8jVZ+oDJI2t4TXJDkqgDRe0MUDp45FuCmAbHSoPpYxGytE0gHsqeKdYPzo+tfPdtt0zsIFnn4Di+Uk59pz4ed8EcCsvdbP2S7k85BEkYDue7NOudz81Vp34hysUFaJ6Hy/kB3q2OC5xZm8+B0UArJIjpf/hkxrtHabUymNsbxx14e9RLLh/uFFcBczM5x6MRjwF9bg63omm6ENGoHco/PcdKLQdaul/iQDpRsuoDAlLUctQJJggRyvnPPyGRG5FS3r537geZ4qvrEn7EiIf7Zw7jMUp42Hn3Oe0R8Wnr0Qv3aP+8064EwLzXuvqkawatYam2znzjVJrNyqoCEeEjVcH8y/9iG14FGrtxIki3eDKq0SxgcdARfP4D6a5rzck4C01WdT94rHTgmPe+GE8DV7pX5so7TZVlkO8lqU67ed6xGbPSkAQHlcPqdTk/YBA==;NMUovomHeVTGKUML094G9Q=="

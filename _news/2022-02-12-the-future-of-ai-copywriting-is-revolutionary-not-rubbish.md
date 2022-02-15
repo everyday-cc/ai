@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

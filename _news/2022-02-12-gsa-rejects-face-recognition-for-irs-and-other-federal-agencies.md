@@ -65,7 +65,7 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://api.time.com/wp-content/uploads/2022/02/meta-smartphone.jpg"
         width: 1024
@@ -102,6 +102,22 @@ related:
       - url: "https://images.barrons.com/im-485816/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Texas sues Facebook parent Meta over facial recognition data from users’ posts"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-14T19:08:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2022/02/14/texas-sues-facebook-parent-meta-over-facial-recognition-data-from-users-posts/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2022/02/14/texas-sues-facebook-parent-meta-over-facial-recognition-data-from-users-posts/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2022/02/14/texas-sues-facebook-parent-meta-over-facial-recognition-data-from-users-posts/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 57
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/NWn9P4tIWJqDFk_4YHWOXtcOmD0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/L26Q36CVRHJPBLTXQKFY4QG3TE.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Texas sues Meta for hundreds of billions for using face recognition without consent"
     excerpt: "The suit claims that Facebook and Instagram snooped on the photos and videos people posted to their accounts by using the face-recognition technology — and asks for a staggering amount in damages."

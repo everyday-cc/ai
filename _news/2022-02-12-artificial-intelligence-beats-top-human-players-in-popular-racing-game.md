@@ -98,20 +98,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
-    excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
-    publishedDateTime: 2022-02-10T08:51:00Z
-    webUrl: "https://analyticsindiamag.com/the-first-ai-agent-to-beat-the-worlds-best-drivers-in-gran-turismo/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
-        width: 2400
-        height: 1350
-        isCached: true
 
 secured: "NwW+ldsg8L+W3htqxxbtXdLYQTizW/wYDUlkbeYFSBYoe2Wybb4SrGkXnfHomBe6cMldZSQsTibHFCqoLM6ouMMcqJYzTBMOJLs+m8tuTcjhUvDorH3P+C/iMWMtGA/fjtNkT03nPeO4tFFsDJ9AGMC9Qk5vvmGzCu8mehVxoxJo15IzBCUZt4yxJhEE/4612dkECX24IoKxV2XKtnocNm3WKx7cvgJuV8cTd/H/HCXlVVJbWnGTcjz0J3IwoifmL5pI1AumivM7Td671AZC9NRqeMPv/h3Fl7HEGR4yMnULWBzYl+bp8GAG5kzCba7Df/PWa04OkDsBNA6uVX028VFtzXviBIf47nz8doVM6nU=;bQXYsdkH9pOlE3rvWcIWdw=="
 ---

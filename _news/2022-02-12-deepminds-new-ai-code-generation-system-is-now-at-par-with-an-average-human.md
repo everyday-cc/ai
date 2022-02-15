@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-wit
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
 type: article
 quality: 71
-heat: 93
+heat: 91
 published: true
 
 provider:

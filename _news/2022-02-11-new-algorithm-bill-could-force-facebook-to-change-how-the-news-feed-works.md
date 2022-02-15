@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/new-algorithm-bill-could
 webUrl: "https://www.theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health"
 type: article
 quality: 121
-heat: 261
+heat: 281
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Texas AG sues Facebook’s Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-14T20:28:00Z
+    webUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+    ampWebUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 61
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/02/Texas-Meta-Facebook-Lawsuit_69852.jpg?w=1024&h=815"
+        width: 1024
+        height: 814
+        isCached: true
   - title: "Texas sues Facebook owner Meta over face recognition"
     excerpt: "The state of Texas is suing Meta Platforms (FB-0.2%) seeking hundreds of billions of dollars, saying that Facebook's use of facial recognition violated state privacy protections. Texas Attorney ..."
     publishedDateTime: 2022-02-14T15:21:00Z
@@ -123,7 +139,7 @@ related:
   - title: "Texas apparently just realized Facebook used facial recognition"
     excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
     publishedDateTime: 2022-02-14T18:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
+    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
     ampWebUrl: "https://www.protocol.com/amp/texas-suing-meta-2656661461"
     cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/texas-suing-meta-2656661461"
     type: article
@@ -151,6 +167,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/24/12/66/22064529/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Texas sues Facebook over facial-recognition use"
+    excerpt: "Reuters Now Texas sues Facebook over facial-recognition use Posted The Texas attorney general's office sued Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the ..."
+    publishedDateTime: 2022-02-14T23:07:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsYK8?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/620ac4f1e4b085d396fd452f-1644872945737?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Texas sues Meta over Facebook’s facial-recognition practices - report"
     excerpt: "WASHINGTON, Feb 14 (Reuters) - The Texas attorney general's office sued Meta's (FB.O) Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that has since been discontinued ..."

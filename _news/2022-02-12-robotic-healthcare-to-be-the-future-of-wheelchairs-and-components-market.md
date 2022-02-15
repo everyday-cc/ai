@@ -89,6 +89,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Search and Rescue Robots Market Future Technology Trend ,Size, Share, Business Growth, Booming With Strong Growth Prospects And Forecast To 2027"
+    excerpt: "In addition, technologies such as thermal imaging, object recognition, and Lidar mapping are used to help find and save individuals. The United States has been providing Ukraine with a steady supply of weapons in the face of the Russian threat - Copyright ..."
+    publishedDateTime: 2022-02-14T12:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/search-and-rescue-robots-market-future-technology-trend-size-share-business-growth-booming-with-strong-growth-prospects-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "5GiFUZF2UYoWTpfa8HI06LBrAsycB/iPfYYqs9IGyqt7OIHVAGgrgG+6bRJVnCcVCV9NvYeBWf9Aas+DoDTBESkNgXAFe4TIj90ZocMxQPINAqJRDtHMdVjVO3NBzn2Ei6GSM+7+R7xyDaVWcNYh41MxcblCCheDMbc+9F9Ym9L2+VYoUrTlk17gf7FadAmDvPGWveS8MkbtTc0GGV+okofrYD9Nn2CFBjsVvxP8XcIUe6McIGrvbOunsxuu4Xlra5PiTGNtrNem/GFKbDDcvr1J1wIWpbEcpvjzQgUBC9uHabOM5+CHdplXT7YFwN8HyLkLLQeZpRu+PIDAH0ErC/wBkG/zFY2w7uHrzsBGbetF97YD5b9fNeeQJaqeP8ZoxS8gIGocKhEJtmdwBup2zvBNzbApJcDCZssVbdIRY/qCMmlYft70PMeybYEbPCQmhzSKW9j9z2gmOYw+DQ8uffEpkYoZpKWj+VO/c4d9GcZiRy8j7T+qu/ajxolSHeUOd7Ex21d4XnrQcm9NkakqjA==;uaIbLSLJfoPWP3PBzEsKZw=="
 ---

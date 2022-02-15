@@ -1,49 +1,22 @@
 ---
 category: news
 title: "Olympics-Chinese women online show more interest in Winter Games"
-excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
-publishedDateTime: 2022-02-02T06:36:00Z
-originalUrl: "https://www.metro.us/olympics-chinese-women-online-show/"
-webUrl: "https://www.metro.us/olympics-chinese-women-online-show/"
-ampWebUrl: "https://www.metro.us/olympics-chinese-women-online-show/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/olympics-chinese-women-online-show/amp/"
+excerpt: "BEIJING — Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday. Curling ..."
+publishedDateTime: 2022-02-02T06:23:00Z
+originalUrl: "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games"
+webUrl: "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games"
+ampWebUrl: "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/"
+cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/"
 type: article
-quality: 44
-heat: -1
-published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: National Post
+  domain: nationalpost.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1105D-BASEIMAGE.jpg"
-    width: 800
-    height: 534
-    isCached: true
-
-related:
-  - title: "Chinese scientists build robot nanny to care for babies in artificial womb"
-    excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
-    publishedDateTime: 2022-02-04T19:08:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 57
-    images:
-      - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 899
-        isCached: true
-
-secured: "FoDTlZE5dICP7CNv1D2oFDdbXGIfAhKtHMpRF+hiTYQXV8Dyc89PZQwISOAeqw7LkbUQkeB/u0RxNl4gq5sJneEGHLVelVQagP638L57pumxUhBLgx2d769Kexl01FJ6PTXfjgl6cQ3nhTiPvG49i67JIh9hCy2rQGYrtBIbe8nxWVN32LMwr70eXHXWpBnubR3ZHPMf6kLHDdYUEx6GHAF9rhV7uWFRIG+moccM7MmTUgg/38sC4QFdjxkSAfE72GADf7df+Pp45y1isQwCD90YArqULBBhIDCVbPte9yfcXbivOPO5Fy17c+xODkIeV11Hps0QL1gg2q+IKg2RjOmpoOHMcE0MFCIrXJW51Ag=;00d3BkYUTK0J6ts9sBu1ag=="
+secured: "58+04XrLcpX5Ti1kgJQVKjBiGBwWF/xC2N5XDxG0R/pamEmfpPaHtjHmh/yjqRgnqCGJNtzdV/gIb1TT0Y1pBKQUGEbflHUCfFNr3BoiQSFz+bFo4vaUXdsDk9T0tNfQhu6khQ28zPomqJKSbZQ6IEWnJpU0092IbH9if8E9uHdtOjYR9G09nxxe7Lfj9dh0Z3FvIOFVgDljBiLnCzow3DwUr7+OChBsMglVT+jWwDtHw0S1iguwmE6TT271h3mKjakNTw9UkLvSjpfybrg/x0qYZeLBET2LRzu6vNQEZ5EC7bm50/wADZLpDFg6mddNx8PF86sucdkTw0w4eguGC5E5jIgFl+R6Y8MFZXVZEpA=;X5dcOdie7sTUZuC+ccPIRg=="
 ---
 

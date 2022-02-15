@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/spinny-acquires-ai-powe
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto"
 type: article
 quality: 57
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/AI-Features-Auto-Firms-Are-Embedding-In-Cars.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Spinny acquires Scouto, the AI-powered car connectivity solutions’ start-up"
-    excerpt: "The deal marks a consolidation in the AI-powered used car solutions segment ... acquired a 100% stake in AI-powered connected car start-up Scouto. The deal marks a consolidation in the AI-powered ..."
-    publishedDateTime: 2022-02-10T07:58:00Z
-    webUrl: "https://bestmediainfo.com/2022/02/spinny-acquires-scouto-the-ai-powered-car-connectivity-solutions-start-up/"
-    type: article
-    provider:
-      name: Best Media
-      domain: bestmediainfo.com
-    quality: 35
-    images:
-      - url: "https://bestmediainfo.com/wp-content/uploads/2022/02/ScoutoXSpinny_8.jpg"
-        width: 620
-        height: 350
         isCached: true
 
 secured: "0+lr4M6B/c+MvZohAsGO8euYHOJBBXJRWcmXqPSCSO8TpPJeTJjreP57k68AeaRAT/Ez0zwmwXVaN1WC6ABRr/twHCO89H/VuU8L535LDCiruETQ1uJxzu1A4y5pwvy+0kKQWkhc0NN3dllXBswJJTHwz6lqRseWZyKw52gsVv7WQ1H/eFWDiOzwgHF9JfwxaqdwKanrfynhtsUb9sGT9eENQ/d5v40mwe0ObcIKsD+PMd+3Ke2VRBiqzkhKSdoNFH5ZeXi2h4cc1tDUtMLhlLQcGp05RTsHV6k0sGpj6rqrA9dHChBX9Y2V/la5yj1d7bmURJjNU+UFWjswJsO0F3DaOk+7AtvVfzazHwOfJQrzbHSj8p7A5rTKzB+yHUj/6Y7hZI9hW9FPAFO3zxi1GDAEriS0YgVDfLsx278BmGZKFmollgZMOm5+0KJab7vB3ci0bhUBcMbCGgGw+97DVIZ86oB8kfs09wYW40QnIf3YJTaRZkLImfdPk1Ev4IbJa4XIa4MZXxt9Q8CANNEZZg==;gz6wN5bokGOG+tNsF8Zryg=="

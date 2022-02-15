@@ -94,20 +94,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "The first AI agent to beat the world’s best drivers in Gran Turismo"
-    excerpt: "The breakthrough presents new opportunities in areas such as autonomous racing, autonomous driving, high-speed robotics and control."
-    publishedDateTime: 2022-02-10T08:51:00Z
-    webUrl: "https://analyticsindiamag.com/the-first-ai-agent-to-beat-the-worlds-best-drivers-in-gran-turismo/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/GT.jpeg"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Artificial intelligence beats top human players in popular racing game"
     excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
     publishedDateTime: 2022-02-12T01:25:00Z

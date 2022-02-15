@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Insuring The Self-Driving Car"
+    excerpt: "The “Full Self Driving” technology that is being implemented in the next generation of vehicles has many challenges for consumers and insurers. I recall in 2018 seeing studies that self-driving cars do not always register two wheeled vehicles ..."
+    publishedDateTime: 2022-02-13T22:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/insuring-self-driving-car-anthony-deguerre"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE2tOgrB3xnjg/article-cover_image-shrink_600_2000/0/1644789421849?e=1650499200&v=beta&t=uwrnBY0wXHqUGYoaePWjqKpKTwVfWWrTKs2BaqPtzHQ"
+        width: 624
+        height: 468
         isCached: true
   - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
     excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."

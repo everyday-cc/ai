@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healt
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-share-forecasting-competitors-global-impact-2022-to-2027-2022-02-11"
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Search and Rescue Robots Market Future Technology Trend ,Size, Share, Business Growth, Booming With Strong Growth Prospects And Forecast To 2027"
+    excerpt: "In addition, technologies such as thermal imaging, object recognition, and Lidar mapping are used to help find and save individuals. The United States has been providing Ukraine with a steady supply of weapons in the face of the Russian threat - Copyright ..."
+    publishedDateTime: 2022-02-14T12:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/search-and-rescue-robots-market-future-technology-trend-size-share-business-growth-booming-with-strong-growth-prospects-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "7hlUDqyPILJoVg3Un5Fzwk5CtqyKxZbn19SM5OzUic5mjLnGMUX0jsmpNijl2ChPbDE9f7NXuADX5JPROskxlXI3eLEc1pck028GKdt0LlvKwB0edGO57MAOJb7yUGt24hSYjxVAOU6DHZfHv7BG5j9JCIuxATGTiO9IIVHKLqiOZh8/ohoJt9HoyZ84YGJunDQwtalmtkM4b31neAQTL0QZDmkW6ze5lWgd3wIIrqmlUcdH/vAkkZ2lCFHfsm0PlgIyLHALlG1hH/fSxHeszkmiwfXhMO7tCbVRbHIm8AUG4KtIz4x0hpu0FXawTDTR3rJvkFozbLuTVGDBdc77MpiiDNqBCKl2+X8+l4x53CA=;7wNjPFwuVsVzRbEkpNTFXQ=="

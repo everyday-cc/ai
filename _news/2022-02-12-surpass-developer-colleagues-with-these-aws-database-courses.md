@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/aws-database-course-bundle-deal-sale-1555
 webUrl: "https://www.engadget.com/aws-database-course-bundle-deal-sale-155527480.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Engadget
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 627
     isCached: true
+
+related:
+  - title: "AWS outlines leading trends, developments"
+    excerpt: "\"Cloud everywhere\", development of artificial intelligence (AI)-supported software, the rollout of smart Internet of Things (IoT) devices as well as sustainability will be prevailing tech trends to watch in 2022, says Amazon Web Services (AWS), the cloud ..."
+    publishedDateTime: 2022-02-14T22:43:00Z
+    webUrl: "https://www.bangkokpost.com/business/2264203/aws-outlines-leading-trends-developments"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20220215/c1_2264203_220215064459_700.jpg"
+        width: 700
+        height: 468
+        isCached: true
 
 secured: "5gl7QYDx8SyeSUqAddSMCEOJ6kP6t/SAIXXtG/g/KqMr74tSKcbvCmYhqy1Q/64ANiefBKL6GFQiyJhl2pQe88C4DA6D9/pHnuSx69G00THIuLBc+uPbVA4TV0l31mRHDOrVtnfpp8wuGNvFbUJmgzNKc4eeddbok5BvVJcBSgXukppMCC7PzRjoavHPokIAm1bu1lr8oMesZCXyiLCYoKBKj737pxy7+t8DdcHpy7Bsj1kRevZ1dyJ7L8Epi2ZcIubDj6R8bZNFQdW59lrA7HturV76oGaRuagm+a+KXCZ1iVRhzKgIGfT3w7fQ6i0ezU8EYnZoIifqX22OzOnbkyl9v+2Ozq46/8vMLiBuSpQ=;V4TwyFncet97sufbpbo1Sg=="
 ---
