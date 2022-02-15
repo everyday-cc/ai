@@ -9,8 +9,8 @@ ampWebUrl: "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-fo
 cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: Odisha TV
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "7 AAI airports chosen for Voice of Customer recognition 2021"
-    excerpt: "The Ministry of Civil Aviation (MoCA) on Thursday said seven airports that participated in the ACI-ASQ survey in 2021 have been chosen for ‘Voice of Customer Recognition’ under Airports Council International (ACI) World’s Voice of the Customer ..."
-    publishedDateTime: 2022-02-10T16:27:00Z
-    webUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701"
-    ampWebUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
+  - title: "CSMIA Gets ACI’s ‘The Voice of the Customer’ Award Again"
+    excerpt: "Launched in 2020, the ACI recognition acknowledges the continued efforts of the ... The airport was recognized as ‘The Voice of the Customer’ by ACI in 2021 as well and bagged the Best Airport by Size and Region in the over 40 million passenger ..."
+    publishedDateTime: 2022-02-11T16:25:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21256514/chhatrapati-shivaji-maharaj-international-airport-csmia-gets-acis-the-voice-of-the-customer-award-again"
     type: article
     provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 59
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 39
     images:
-      - url: "https://static.tnn.in/thumb/msid-89485701,imgsize-100,width-1280,height-720,resizemode-75/89485701.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/02/16x9/CSMIA_Pic_1.62068b0196d18.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "7 AAI airports Chosen for Voice of Customer Recognition 2021 by ACI"
     excerpt: "Seven airports of the Airports Authority of India (AAI) namely Chennai, Kolkata, Goa, Pune, Patna, Bhubaneswar and Chandigarh that participated in ACI-ASQ survey in 2021, have been chosen for Voice of Customer Recognition under Airports Council ..."

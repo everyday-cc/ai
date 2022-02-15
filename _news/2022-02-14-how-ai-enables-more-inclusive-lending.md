@@ -38,20 +38,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "How Artificial Intelligence is cooling data center operations"
-    excerpt: "Massive demand is bringing new challenges. The need to scale facilities to demand is challenging, but Artificial Intelligence (AI) offers a promising solution. This paper explores AI and its impact on data centers, using white space cooling optimization as ..."
-    publishedDateTime: 2022-02-10T16:00:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/how-artificial-intelligence-is-cooling-data-center-operations/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Siemens_How_Artificial_Intelligen.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "jGaZEdHKC5+rPm9pUnPQr89YIsTocREmxFNRoZsrquQm9XDksEM+EfY6Z4fted2s/j+MEoF24r1XXqwYOnw7OHCvJDaZZD1tNsjPhDoeXMucVYIkgriUepTNeeH3IBSQUV5BeCTnLKGu9gGexpRGzHRMfcmsblgnXAqEE1cpYngnY4sa4tgMOenDbClJ7Xx1cFbSsKG/1epLOFtJeBjglrFiTaV8ZZPES6UNSjWBVCMRimApUgtn4MIZdLkrKQTGeAbThq90t8AiAF9C2F435nvFiBPm1piOTnURs0NCvapVxk2zLzOJcCxygvnRm+VoP7NWtTEEHHP8cKh5DD6DGyaonMpm2TY2ERPWPeD/fYzxw//xAXQghskRowhVPBV6wiLRXLvvFkqjTtx7LTRnU/Ohu+lVW/TcZR3O2MVR8LaMnGCzjjSXrjg2rWVWP+xsYLB87ctsQy26omLr2RJ5ylGMrHJpOldzi+mokCzgKSHh3KP/u/3AjzjhLNG2UwWitSEzzTUDjw6eOxcW35B2pA==;Yuz0/2mUuVNTu050McxrWQ=="
 ---

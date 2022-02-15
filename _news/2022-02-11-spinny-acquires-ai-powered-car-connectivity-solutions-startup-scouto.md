@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/spinny-acquires-ai-powered-car-connec
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spinny acquires AI-powered car connectivity startup Scouto"
-    excerpt: "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ..."
-    publishedDateTime: 2022-02-10T15:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-40956,msid-89485264/spinny.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Spinny acquires AI-powered connected car startup Scouto"
     excerpt: "Spinny, a pre-owned car retailing platform, has acquired AI-powered connected car startup, Scouto for an undisclosed amount. “As part of the acquisition, Scouto’s founders will become an integral part of Spinny and help build and drive our connected ..."
     publishedDateTime: 2022-02-11T10:11:00Z

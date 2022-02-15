@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 AAI airports chosen for Voice of Customer recognition 2021"
-    excerpt: "The Ministry of Civil Aviation (MoCA) on Thursday said seven airports that participated in the ACI-ASQ survey in 2021 have been chosen for ‘Voice of Customer Recognition’ under Airports Council International (ACI) World’s Voice of the Customer ..."
-    publishedDateTime: 2022-02-10T16:27:00Z
-    webUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701"
-    ampWebUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 59
-    images:
-      - url: "https://static.tnn.in/thumb/msid-89485701,imgsize-100,width-1280,height-720,resizemode-75/89485701.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI"
     excerpt: "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ..."
     publishedDateTime: 2022-02-11T17:43:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "CSMIA Gets ACI’s ‘The Voice of the Customer’ Award Again"
+    excerpt: "Launched in 2020, the ACI recognition acknowledges the continued efforts of the ... The airport was recognized as ‘The Voice of the Customer’ by ACI in 2021 as well and bagged the Best Airport by Size and Region in the over 40 million passenger ..."
+    publishedDateTime: 2022-02-11T16:25:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21256514/chhatrapati-shivaji-maharaj-international-airport-csmia-gets-acis-the-voice-of-the-customer-award-again"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 39
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/02/16x9/CSMIA_Pic_1.62068b0196d18.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "ACI World Announces Recipients of The Voice of the Customer Initiative"
     excerpt: "Airports Council International (ACI) World has announced the recipients of The Voice of the Customer, a recognition that celebrates airports that have continued to prioritize listening and adapting to customers during the pandemic. This year, over 200 ..."

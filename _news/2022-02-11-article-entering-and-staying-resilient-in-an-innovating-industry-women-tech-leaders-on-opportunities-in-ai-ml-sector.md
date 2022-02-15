@@ -25,6 +25,22 @@ images:
     height: 550
     isCached: true
 
+related:
+  - title: "Addressing Constitutional Challenges in Use of Facial Recognition Technology by Indian Law Enforcement Agencies"
+    excerpt: "Facial Recognition Technology (FRT) is becoming a buzzword globally and within India, among debates centering around AI ethics and high-tech surveillance. FRT is a collective nomenclature for any system that conducts 1:1 verification functions, or 1 ..."
+    publishedDateTime: 2022-02-10T20:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2022/02/jauhar-vipra-frt-constitutional-challenges-law-enforcement/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 19
+    images:
+      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2022/01/facial_recognition_1643222271.png"
+        width: 1280
+        height: 1066
+        isCached: true
+
 secured: "FqrdB3pxtCuQPOoiCOl/Sy0TUMSFI/G1M2Hp3dBCiAkd6kDCHlQHcD/eJ53hDDmL24jbXoTAU3eHPs2d5uvkUJvFNu6hr8IKRTwCBqIucNkbzFRdPx/zINx85mq1NujItPdUWcaAyi2+HstYvAQ2T50m8n1hpLgdeEyaumnJ56vBjabL9oqYQ3nMin4Tcu9H8sdwbtWvs8aTf6jr+PZHsaKhBGFWKfLXfF2muJVRVa2dFCRkJC44UxOZXU3/7mR4AnH62qXYfDoYjHDUnfm5im6qY4toA/BZi4xfCyEFwTpo+PM6RwtO6uQkFSJB2d8chHT9dGptwHdm2WVf8qZfXO4Fq1hNfS6BSc+jon+ZeIz/iJhqAQpKOVCvuKaVUFDjYLvI4u4AWSF8U/7cWYW1YFgyTL/rKfw6om4APHVrpH3wYIYaI8MjyMUwFkx1j73/GSoQkyV+BwjG7MPnOjo+BlDTVkcnUy8ZrrQvDPlSmaFm2Xo1FI+n8ipliRV5NWhrAq3maqYGVtL0OGCTxn5lNg==;I2lCY/eg1Yh4Hl+oa7lB0g=="
 ---
 

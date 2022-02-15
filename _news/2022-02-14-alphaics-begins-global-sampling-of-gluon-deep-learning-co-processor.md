@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AlphaICs gets long-awaited AI Gluon chips fabbed by TSMC"
+    excerpt: "AlphaICs says it has put its first AI chip from design to production on a shoestring budget of $10m in venture-capital funding. The four-year-old startup on Monday announced it was sampling the chip, which is called Gluon, to customers for evaluation."
+    publishedDateTime: 2022-02-15T03:44:00Z
+    webUrl: "https://www.theregister.com/2022/02/15/gluon_chip/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/15/gluon_chip/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/15/gluon_chip/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 76
+    images:
+      - url: "https://regmedia.co.uk/2022/02/15/gluon.jpg"
+        width: 1000
+        height: 699
+        isCached: true
   - title: "AlphaICs Begins Global Sampling Of ‘Gluon- Deep Learning Co-Processor’ For Vision AI"
     excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. It provides the best fps/watt performance in the market for classification and ..."
     publishedDateTime: 2022-02-15T05:56:00Z
@@ -34,22 +50,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ipufirvuo8ccosrb_1644902773.jpeg"
         width: 768
         height: 438
-        isCached: true
-  - title: "AlphaICs gets long-awaited AI Gluon chips fabbed by TSMC"
-    excerpt: "AlphaICs says it has put its first AI chip from design to production on a shoestring budget of $10m in venture-capital funding. The four-year-old startup on Monday announced it was sampling the chip, which is called Gluon, to customers for evaluation."
-    publishedDateTime: 2022-02-15T03:44:00Z
-    webUrl: "https://www.theregister.com/2022/02/15/gluon_chip/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/15/gluon_chip/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/15/gluon_chip/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/02/15/gluon.jpg"
-        width: 1000
-        height: 699
         isCached: true
   - title: "AlphaICs Begins Global Sampling of ‘Gluon – Deep Learning Co-Processor’ for Vision AI With Superior FPS/Watt Performance"
     excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. Gluon provides the best fps/watt performance in the market for classification and ..."
@@ -74,20 +74,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 30
-  - title: "AlphaICs Corporation: AlphaICs Begins Global Sampling of 'Gluon - Deep Learning Co-Processor' for Vision AI With Superior FPS/Watt Performance"
-    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. Gluon provides the best fps/watt performance in the market for classification and ..."
-    publishedDateTime: 2022-02-14T01:13:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55229046-alphaics-corporation-alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-with-superior-fps-watt-performance-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 20
-    images:
-      - url: "https://cdn.newswire.com/files/x/ac/4d/39a63d0e5751aef6c742d69bd82b.jpg"
-        width: 512
-        height: 315
-        isCached: true
 
 secured: "GhEr7P0eoeY1g4CWV+Gtqwx843mj7L9qn/OFHcokAEjvpPH2yOYsYd9zIZknyikTvT9ziYIzo24BE5maIisDali0YglO6S7x2KjVPA2N/DKmAloKHLjtLROuuiy1KrDRluILwkNJrCZkqMbBCE0/FUY1JV63RO1KSg7UPGDk7LRg4SDAOOyJx3m78PSQ53aD23fsOwzJRYYRtIUG5j1w04sf9B+cqnaI6WmiMxC8IW4G4s30aBPLMyllCpbbNGjowPp+dawXKztNBoEwWyFXrlj7BKOj87YV0r1rbYxsMwJWfKGshs2tRMVDmMzBQdvTF6sPKX9rKN8SEHi8Fquekg/eBbzLFOfNnKvD8ObfpNA=;izJqhu3lJWmblxGrVdaPoQ=="
 ---

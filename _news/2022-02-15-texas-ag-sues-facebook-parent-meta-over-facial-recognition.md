@@ -2,7 +2,7 @@
 category: news
 title: "Texas AG sues Facebook parent Meta over facial recognition"
 excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state’s ..."
-publishedDateTime: 2022-02-14T19:11:00Z
+publishedDateTime: 2022-02-14T22:44:00Z
 originalUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
 webUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
 ampWebUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
@@ -239,6 +239,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Texas sues Meta over Facebook’s facial-recognition practices"
+    excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
+    publishedDateTime: 2022-02-15T07:54:00Z
+    webUrl: "https://www.foxbusiness.com/economy/texas-meta-over-facebooks-facial-recognition"
+    ampWebUrl: "https://www.foxbusiness.com/economy/texas-meta-over-facebooks-facial-recognition.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/texas-meta-over-facebooks-facial-recognition.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 44
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec281133-629e-4f4f-b4ab-695da15975e0/947244e1-da0c-4697-a127-acd79c03af0d/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z
@@ -268,6 +284,6 @@ related:
         height: 720
         isCached: true
 
-secured: "wsrYjTdZMfP2hNFu7MLCjHAWdh+uHcrxEKA3IAAyNsjj04D7AkooQOLQfLS5O2CM8obAIz0FhNUWuIMMgSIDCpN5uTnopwNjitJ/b+uL2BEcrD6lafAc7AoD9gF8GMccPhN6GXtlSWWHBVIjEWpe60UYt1+cE7ncZ4gvViq+CSKByq8tSrJZHcbCIHRTdh+oo44FF4FRUqHQh6rjJAyfZaPBPGI5JhLGXMy/wIudHHZTPEvXHjWBheG0P7uPhX+++y9x+aQqJBvrQmbVAUxrOv67JswdeQDbkMSBm5qmd163sLQTYlPupskh4Aako7eYWjX3SNXVzsmMSg9nDXgv9RTk/ntx4CIF2iaCIZUZnE950dj6H+QleJS3fhNrt0aYoDfsUg4gilGIYNE+fkKUxwUlvZGXxrsgDinXjFXIleMmOqcr/1Wcvu3Fps7aOK7WLqy2t74nRHw9sMbR3RoaGwO2j7ac2sYiZkbQAtUb1uGncf4KJkVAFqWqmKYioPkop9yWPMuNNYbXrOzC4hwoOA==;EP9XqncoDPJreVYrNujZlw=="
+secured: "acNYriPvy8sWspeb0pePo3yzvCPDCQzapV+ntmMzY/ZLUWH4jxYycgbxtHO1ahvQ7zdhK9Y8veVAIxfXNeyaSR3cOSqwru65zxxVYNFJq4Msgdkf2O7+k4niGPvUPARBH/FmC0dplJL1hChDjqTpV4qH962ed7PCTnjz0IR8cwoMrRRMmI0toaaTt78yVH42Ea647X/YbAJ9Ur7GoCGagMpHTbRMcKs5SfDu9kdtpxgp3SEEDCRr8bqw77vl320irwMjcAkfmu0iQizYgEvJhqTvfjudVqaa7DdszG74JTRoj//OLmM5F0CXtuLreM5LcywnQZ1qtAzILnlM0MrbPVn021YJZWD5IXkWbl/onr9nF2Fk6zVz3TCUPbPBOB3Aqra/KJNUNx+a6KmifUpHwPxgJMllPzkpj/mpE499PaLsvHatjmFQuMSKhOeVs8jU6JpZqnFpRCMQ3tDWEcQJHUbDYTuuAz9RmQlVCaMwH/BqLGJb0X7j2tTiIs14Fv3Dzqinc22Zm5rBJl+rYJZ35A==;mbGwwS4RJ7eKe6ROJ4XXRA=="
 ---
 

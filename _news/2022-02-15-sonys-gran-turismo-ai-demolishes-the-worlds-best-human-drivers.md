@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/"
 type: article
 quality: 89
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/41efcde271a966a96e2a42a4b58a6252d6942cdb/2022/02/10/bda73196-ea07-4c81-92ae-ffbbad5d918e/sophy-web-004.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Sony’s Racing AI Beat the World’s Best Gran Turismo Drivers"
-    excerpt: "Now an AI created by Sony has overtaken humans in another popular and complex game: Gran Turismo. Besides being a feat in itself, the accomplishment could have real-world implications for training self-driving cars. For those unfamiliar, Gran Turismo is a ..."
-    publishedDateTime: 2022-02-10T15:03:00Z
-    webUrl: "https://singularityhub.com/2022/02/10/sonys-ai-beat-the-worlds-best-gran-turismo-drivers/"
-    ampWebUrl: "https://singularityhub.com/2022/02/10/sonys-ai-beat-the-worlds-best-gran-turismo-drivers/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/10/sonys-ai-beat-the-worlds-best-gran-turismo-drivers/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/02/Gran-Turismo-GT-Sophy-AI-deep-reinforcement-learning.jpg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "AI Outraces Human Champs at the Video Game Gran Turismo"
     excerpt: "Credit: Jack Thomas/Gran Turismo via Getty Images To teach their program the ropes, the Sony AI researchers used a technique called deep reinforcement learning. They rewarded the AI for certain behaviors, such as staying on the track, remaining in control ..."

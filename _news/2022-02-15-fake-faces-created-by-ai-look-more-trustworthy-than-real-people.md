@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2308312-fake-faces-created-by-a
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: New Scientist
@@ -41,20 +41,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/44E2388E-2E93-4791-B2B85189932303FF.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "Why AI is more relevant than ever"
-    excerpt: "Other prominent players like AWS have also joined in the fray with home-built AI chips. As evident in this AI day video, where they showcase their cutting-edge AI hardware, Tesla has enormous AI ambitions. And the list of AI-first startups working on ..."
-    publishedDateTime: 2022-02-11T20:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/why-ai-more-relevant-than-ever-abhi-mahule"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGynyzc8VIQyg/article-cover_image-shrink_720_1280/0/1644608092182?e=1649894400&v=beta&t=QwxbJ5_YHHPfJakUCf4eYspgGPDIvKJu2_5bAm1FE7Q"
-        width: 1280
-        height: 685
         isCached: true
 
 secured: "JZylflvuzJpLKiscVZWqU8cBJALqvt79n9M+C7R1IE3YaXDLvYLWlFUHHweBitquTcrzDKc/Ak+SOC857xvEdFC2Nc9vb9vxYf0uofkea3d7wcz7Xsqu+L4mW8TXUEbSUOaaiU8s246xEMkUJf7Z/qAwnQvnb+kAdCgyFF44n/Qr7BSo8FYFxS75noQdjJbBDIs4uTpVn6dyD7E9G5flitnzluBjBwX088CQC1TVLzZDecbuxP2c+NiczuP7B1C3M6Fuj11uSGGf3uu9SHtWGBqEDMphw9gUibouyY9GB3tpl3Ao7JBtKZu/4SYCPsJZo/0iI2PI1KAkzWaKzfL78gt8N3bPGSNVRqfFQmX686DuKTx+quS78fbJ4FvynOeqPFHUSCViBRkVuZI4zDPqnpuWcKw1txC0HEP/SYZ5YGc8CkT6a6WK3JQff3CB6sHH+f3sYfORKWcJv/4bWP6mPVFzLas+uW5O0+wHXM05C5bvkS/CvmWYz+zimHiqKxjRvwcDL5wCJiAcWNmzkLrcrA==;4cAD+LEom8FoB7eDnbYPZA=="

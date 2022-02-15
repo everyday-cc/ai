@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
+    excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."
+    publishedDateTime: 2022-02-15T08:32:00Z
+    webUrl: "https://fintechnews.sg/59200/security/thales-drives-fintech-development-in-singapore-with-edbs-support/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/02/Thales-Reinforces-its-Digital-Innovation-Capabilities-in-Singapore-with-EDBs-Support_Mainpic-1024x567_1.png?x82653"
+        width: 2134
+        height: 1182
+        isCached: true
   - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
     excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
     publishedDateTime: 2022-02-14T20:40:00Z

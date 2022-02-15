@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spinny acquires AI-powered car connectivity startup Scouto"
-    excerpt: "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ..."
-    publishedDateTime: 2022-02-10T15:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-40956,msid-89485264/spinny.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Spinny acquires AI-powered car connectivity solutions’ startup, Scouto"
     excerpt: "New Delhi: Pre-owned car retailing platform Spinny has acquired a 100% stake in AI-powered Connected Car startup Scouto. The deal will mark one of the first consolidations in the AI-powered used car solutions segment where Spinny is gunning big to emerge ..."
     publishedDateTime: 2022-02-11T09:12:00Z

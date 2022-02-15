@@ -7,8 +7,8 @@ originalUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-
 webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Thomson Reuters
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is cooling data center operations"
-    excerpt: "Massive demand is bringing new challenges. The need to scale facilities to demand is challenging, but Artificial Intelligence (AI) offers a promising solution. This paper explores AI and its impact on data centers, using white space cooling optimization as ..."
-    publishedDateTime: 2022-02-10T16:00:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/how-artificial-intelligence-is-cooling-data-center-operations/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Siemens_How_Artificial_Intelligen.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How AI enables more inclusive lending"
     excerpt: "Artificial intelligence (AI) and machine learning (ML) present a unique opportunity for credit unions to contribute to a fairer, more inclusive financial system. Unfortunately, the traditional credit model perpetuates bias and excludes a large portion of ..."
     publishedDateTime: 2022-02-14T07:30:00Z

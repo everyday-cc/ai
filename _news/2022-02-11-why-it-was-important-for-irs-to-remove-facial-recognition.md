@@ -57,38 +57,6 @@ related:
         width: 1280
         height: 674
         isCached: true
-  - title: "IRS Reverses Course on Facial Recognition Service Amid Backlash; Users Can Delete Selfies From ID.Me"
-    excerpt: "Beginning March 1, the ID.me said that anyone who already created an account can delete it, and that it was allowing government agencies using the service to skip the selfie step altogether, CBS News reported. The IRS announced on Monday that they will ..."
-    publishedDateTime: 2022-02-10T17:00:00Z
-    webUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme"
-    ampWebUrl: "https://www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
-    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/irs-reverses-course-on-facial-recognition-service-amid-backlash-users-can-delete-selfies-from-idme?amp"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 44
-    images:
-      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2022-02/irspix.jpg?h=e4b88df5&width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Government agencies will get more verification options after face-recognition backlash"
-    excerpt: "On Monday, the Internal Revenue Service halted a plan that would have forced taxpayers to verify their identities with facial recognition software before signing on to its website.A day later, the company behind that software, ID.me, said it will make it ..."
-    publishedDateTime: 2022-02-10T15:55:00Z
-    webUrl: "https://www.kcra.com/article/government-agencies-will-get-more-verification-options/39036742"
-    ampWebUrl: "https://www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/government-agencies-will-get-more-verification-options/39036742"
-    type: article
-    provider:
-      name: KCRA
-      domain: kcra.com
-    quality: 36
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-2a3ec9434c3b380c858fa6a440e06b21-h-a67ec1945d9d6ec8e3d5ac60c6db6cef-1644512240.jpg?crop=1.00xw:0.848xh;0,0.152xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
     excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."
     publishedDateTime: 2022-02-14T12:55:00Z

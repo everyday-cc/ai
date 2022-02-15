@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
-    excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
-    publishedDateTime: 2022-02-15T00:03:00Z
-    webUrl: "https://abcnews.go.com/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
-    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+  - title: "Article: Entering and staying resilient in an innovating industry: Women tech leaders on opportunities in AI, ML sector"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML ... Birlasoft says to mitigate any ethical complications and risks related to this, the role of an ethics leader for new-age technologies will be in demand, with increased ethical business practices ..."
+    publishedDateTime: 2022-02-11T01:22:00Z
+    webUrl: "https://www.peoplematters.in/article/diversity/entering-and-staying-resilient-in-an-innovating-industry-women-tech-leaders-on-opportunities-in-ai-ml-sector-32692"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
+      name: People Matters
+      domain: peoplematters.in
+    quality: 32
     images:
-      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
-    excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
-    publishedDateTime: 2022-02-13T14:10:00Z
-    webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
-    type: article
-    provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 26
-    images:
-      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1643716966/ad-kqkzykwk.jpg"
+        width: 990
+        height: 550
         isCached: true
 
 secured: "gxguj0u5bdOmpTMWaNiScq0V7r89V91x8NgA7gaxdLh27Kn50QYt5wISNzNfj1VbmTh6YJ8J+L4NqEdrMB4MFgKcK0iiRIr7gkHF1acV4M7T5oVMXrOFHJ9gam27dI3IiF8E2p41RlkvJElJoM5/Rpi7/feOiW312shX7k50OLkmjfHjeTvjWFkOBJPOs8+QiKBBJLduxFq9LM8sgzF1V6gnIebRp0O1/tuZWinYUOcZ758cxzGFiXRalpY5N9CQv9Xpn8VCasOSVTbIFIFH+1UBV24YLDQ6YGRkSo3viz9PnhVUZmjZCtJ3OKnP5b33szQw+IU+ryyhohN7dByjosy88GVZ8/6EsG4/seX8rvbpeUNUG8CAqLn1SOHy+ylGTsTcQK2UfCVaNDtwTYYU+vagwLA7lSOCZmQ1TXyTQo16RvEC3v6/J+NqWtjCsL9veaKdNA9fAzkV0Oo/nK13MNUSfBNufCj2vmAWWLC0JIVX8FOHgLZe8mlPzgDkKGdrzN0Cna5oEwCxvXJMqDWQbw==;QzA2dns8WMv1FXPAy5vNhA=="

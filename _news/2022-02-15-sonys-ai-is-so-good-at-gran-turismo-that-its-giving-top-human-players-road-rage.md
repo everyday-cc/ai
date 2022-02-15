@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sony’s Racing AI Beat the World’s Best Gran Turismo Drivers"
-    excerpt: "Now an AI created by Sony has overtaken humans in another popular and complex game: Gran Turismo. Besides being a feat in itself, the accomplishment could have real-world implications for training self-driving cars. For those unfamiliar, Gran Turismo is a ..."
-    publishedDateTime: 2022-02-10T15:03:00Z
-    webUrl: "https://singularityhub.com/2022/02/10/sonys-ai-beat-the-worlds-best-gran-turismo-drivers/"
-    ampWebUrl: "https://singularityhub.com/2022/02/10/sonys-ai-beat-the-worlds-best-gran-turismo-drivers/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/10/sonys-ai-beat-the-worlds-best-gran-turismo-drivers/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/02/Gran-Turismo-GT-Sophy-AI-deep-reinforcement-learning.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "AI Outraces Human Champs at the Video Game Gran Turismo"
     excerpt: "Credit: Jack Thomas/Gran Turismo via Getty Images To teach their program the ropes, the Sony AI researchers used a technique called deep reinforcement learning. They rewarded the AI for certain behaviors, such as staying on the track, remaining in control ..."
     publishedDateTime: 2022-02-11T20:16:00Z

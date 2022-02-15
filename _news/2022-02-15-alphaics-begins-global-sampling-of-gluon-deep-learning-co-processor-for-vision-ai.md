@@ -9,8 +9,8 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/alpha
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-articleshow.html"
 type: article
 quality: 69
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: RepublicWorld
@@ -38,7 +38,7 @@ related:
     provider:
       name: theregister
       domain: theregister.com
-    quality: 59
+    quality: 76
     images:
       - url: "https://regmedia.co.uk/2022/02/15/gluon.jpg"
         width: 1000
@@ -76,21 +76,7 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 30
-  - title: "AlphaICs Corporation: AlphaICs Begins Global Sampling of 'Gluon - Deep Learning Co-Processor' for Vision AI With Superior FPS/Watt Performance"
-    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. Gluon provides the best fps/watt performance in the market for classification and ..."
-    publishedDateTime: 2022-02-14T01:13:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55229046-alphaics-corporation-alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-with-superior-fps-watt-performance-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 20
-    images:
-      - url: "https://cdn.newswire.com/files/x/ac/4d/39a63d0e5751aef6c742d69bd82b.jpg"
-        width: 512
-        height: 315
-        isCached: true
 
-secured: "tpigcuDwQr17fWzKK3DrGAiLSAnFS4opq8zy55GSy6210Z0F3+qei1pwCsVatOPOOGb2lkr9PFeRlnumrkVz+PtlSew6YwYlfH+nZe002/aP8dOfGrPdBeiNvrJatWXVijM3sppcSdWkvuJn8YqH9ZoLERpK9PnIeHqYDrv90YjH/6Xv4XyQXK2nXpyJ5Ci0w1QW4scWvpGtl9YTyro6Zyy4nuptoIY+Vd/Zf6hIz+v6/10+vur6vXFi0qdIvvqIqH+OxVGg2JTuG3M/eQ4y/icCghhopGkpxx9/z2n1HHBxnEu2wTgTXjOSO/mXdovg2kScrASejeBlu2xhIM3Gy19s3q/cR7ObPvKi9Skm3jE=;bRf4Cg6fdfGRAhHzGlDdww=="
+secured: "1bb40HP1lVDVPo+iRtc96spKr08dXAgyBmokXDyJUObxMaKyCSQf8HCqq1c8JureSmoJ/dD9nJauUprEJ/lf8i5fnZ6Vlo6UlBoaMZuahs2b0wYN50VhgSbjqVCLrpJk/sgAzz4Per7CJZGDvbO8p4Meepy2Q0fWn8iOkpwq4SYbNJrdN33XgIOT8DpJ5ZHu3BT5AoaI8hXD5S41wR1JtcLmSpl0BG3QUEkJpDP8IA/7JMQgXk2ysj1cLgCDTXxIMF9WG0GLbZO9MVPRTv+NZa1fmwapgxzVGzk/WBsA/ZxT663Y6Gk54qUbmEhfAdLga9PZKWLMvu0v6FxykMYtxQC40gjFRlIoLcvYuAjOx77kOQSzYX8q/JwvQG0jb5YiCZoZhSzonikxp8XDNVG1JLOmtYLtpl70sU4F0Dkkctom8Bx7P08RybZmIuGN8w6jpq1ne+V2W5rdYAFV/wkBMaRaAbWogY1oSBSa+OCkC24e1txiTme8NqBBUaPA2yleET4RFI19hSspcGSGlG3URQ==;ctojYKHhP/URcQBHvBLJXg=="
 ---
 

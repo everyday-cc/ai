@@ -1,0 +1,95 @@
+---
+category: news
+title: "New Yorkers in high stop-and-frisk areas subject to more facial recognition tech"
+excerpt: "Research also showed that in the Brooklyn, Bronx and Queens boroughs of the city there was a direct correlation between the proportion of non-white residents and the concentration of controversial facial recognition technology. “Our analysis shows that ..."
+publishedDateTime: 2022-02-15T04:04:00Z
+originalUrl: "https://www.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
+webUrl: "https://www.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
+ampWebUrl: "https://amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
+type: article
+quality: 54
+heat: 94
+published: true
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/ea80a6c087fb01fc7b95dbe9c5c79576ae4595b0/158_0_4682_2810/master/4682.jpg?width=620&quality=85&auto=format&fit=max&s=5e134d9fbff44650d7e377361442b743"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
+    excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
+    publishedDateTime: 2022-02-15T00:03:00Z
+    webUrl: "https://abcnews.go.com/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Racial Minorities ‘More At Risk’ Of Being Spied On By New York City’s Massive Facial Recognition Surveillance Machine"
+    excerpt: "there’s a very good chance your face will be captured by surveillance cameras and run through facial recognition software. If you’re in a predominantly Black, Asian or Hispanic community in New York City, that chance is even greater. That’s according ..."
+    publishedDateTime: 2022-02-14T23:00:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/14/new-york-facial-recognition-surveillance-puts-minorities-at-risk-says-amnesty/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 46
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620ab71d7ae909a86b686c72/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 483
+        isCached: true
+  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
+    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
+    publishedDateTime: 2022-02-10T23:12:00Z
+    webUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move-to-end-ban-on-police-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Virginia Mercury
+      domain: virginiamercury.com
+    quality: 37
+    images:
+      - url: "https://www.virginiamercury.com/wp-content/uploads/2018/08/charlottesville-pre-rally-4.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
+    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
+    publishedDateTime: 2022-02-12T15:32:00Z
+    webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
+    type: article
+    provider:
+      name: WWBT
+      domain: nbc12.com
+    quality: 37
+    images:
+      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
+        width: 980
+        height: 654
+        isCached: true
+
+secured: "YiViU07bpr5cPbxShXgHoMZrHH9NGa8PFoNM9eS7oD009MzVht2m1Xm1XuuJKiwI3UHqTSpqn1CmlczpoKrj8ERfZEKi7JTquS3sJzCorBY2SBgdRVPiNQ1Cr8Vw2b9WqNbXw7ahsBo2W7q7sxvdCX+gtxM0+HuDhxz02fShNgA2s7N8dV2xB/EmAml/NrI1Kl/9HkuEZ+7bHZAY69lf5KlL4gIF2OMGIvQKInkXMUev0Hzf6JB4z5hI7zPVMitpHSDz1zcxdBPjBa4VvbYnKMN7RPkHdLxlOBDEaSYQaIkDJT8rJRuO1zd2pgqMJzDSJPLPIEVRmu+ZOa6/JJUaCyzKYDjABT1wP+u4QEPrzQg=;hS1HF9RzG+c/Nfp3wWzZ0w=="
+---
+
