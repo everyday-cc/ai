@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-08-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report.md",
+      "title": "Apple buys artificial intelligence music startup for undisclosed sum: report",
+      "excerpt": "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "originalUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048245156/image_1048245156.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "publishedDateTime": "2022-02-08T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home.md",
       "title": "Cutting OPEX With Five New AI Workforce Optimizations To Place Broadband In Every Home",
       "excerpt": "Bottom Line: For a viable telco business model, service providers need more operational efficiency. Five Ways To Empower Your Teams With AI Analytics For Better Service By empowering customer service professionals with the right AI analytics, telco staff ...",
@@ -1146,49 +1188,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-humaai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform.md",
-      "title": "Huma.AI Adds Post-Market Surveillance Capacity to its Unique AI-Based Healthcare Data Knowledge Platform",
-      "excerpt": "–(BUSINESS WIRE)–February 7, 2022– Huma.AI has expanded its self-service business intelligence platform to include a post-market surveillance (PMS) solution specifically designed to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/amp/",
-      "publishedDateTime": "2022-02-07T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10503703/amp/Artific
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10503703/amp/Artificial-Intelligence-expert-warns-slightly-conscious-AI.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 636
     height: 382
     isCached: true
+
+related:
+  - title: "Researchers Furious Over Claim That AI Is Already Conscious"
+    excerpt: "“Every time such speculative comments get an airing, it takes months of effort to get the conversation back to the more realistic opportunities and threats posed by AI,” UNSW Sidney AI ..."
+    publishedDateTime: 2022-02-11T17:24:00Z
+    webUrl: "https://futurism.com/conscious-ai-backlash"
+    ampWebUrl: "https://futurism.com/conscious-ai-backlash/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/conscious-ai-backlash/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "B+g94KuuPVSjWFjxOSwdAKswsw3C7i7BuO8bg09xKwFfw6IhcKKW1OoOOrXPUEu7J/H6DSrbiLKsJUr1qm0iPv7bPleTzOrFIN9shzdzYpyD4LAkHklAFKCUsC8cvVJY5KTlQRIhlM/N/eP2RO4dx7aOQxEKl6fdL29KEj2gmpQsj+4JXbmLyqzGxStfGBxxlesGQI6/5MKnhEPVFkc3iogTxk7cnn3rdmyGUn4Mzga/IFS3b1laAd3VyN6OdfX2eUerpAbx7dhrTsZJwmSMXZcMO4iQ48hg34zfaiF6vDFgtOIX1mzTpgtoxi6xAvkgpDIwmOqRCPWXReso0NUnSRFcbyo0puxSk7G+01TtIILpxEj6+5gR8S62sqni4HK3e8UAKE0kueATYUsIPjxn81MVNw4o4YKgqJVGfZGziiMYSssqNwQKsFTZTA1KAPwujaoSKAooIN1ohUeHLbfwDrcF5S5VRzPHTjse1A1piYaGYHCMxi3N7Oyq+1MlYfZXSm0/Hn9RTwb8hMlgZitiOQ==;6YllQqEwLB0oEg+AN2gIPw=="
 ---

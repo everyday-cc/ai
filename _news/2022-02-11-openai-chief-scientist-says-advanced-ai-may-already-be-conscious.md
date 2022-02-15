@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/openai-already-sentient/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-already-sentient/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Futurism
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Furious Over Claim That AI Is Already Conscious"
-    excerpt: "“Every time such speculative comments get an airing, it takes months of effort to get the conversation back to the more realistic opportunities and threats posed by AI,” UNSW Sidney AI ..."
-    publishedDateTime: 2022-02-11T17:24:00Z
-    webUrl: "https://futurism.com/conscious-ai-backlash"
-    ampWebUrl: "https://futurism.com/conscious-ai-backlash/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/conscious-ai-backlash/amp"
+  - title: "Scientists Just Gave An Ominous Warning About Artificial Intelligence"
+    excerpt: "Research lab OpenAI's top scientist has made a controversial claim, one that could upend the artificial intelligence (AI) market and already has other scientists up in arms, according to Futurism. Ilya Sutskever has claimed the largest neural networks may ..."
+    publishedDateTime: 2022-02-15T01:03:00Z
+    webUrl: "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
     images:
-      - url: "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.slashgear.com/img/gallery/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/l-intro-1644886305.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "OpenAI top scientist says AI might already be conscious. Researchers respond furiously"
     excerpt: "According to UNSW Sidney AI researcher Toby Walsh ... and is just a sales pitch to claim magical tech capabilities for a startup that runs very simple statistics, just a lot of them.”"

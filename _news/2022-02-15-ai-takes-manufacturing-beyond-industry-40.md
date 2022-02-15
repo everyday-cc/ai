@@ -40,22 +40,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "ELLIS is making progress with an ambitious multicentric approach to Artificial Intelligence research in Europe"
-    excerpt: "(Risk-free with a 14 day refund guarantee) ALICANTE, Spain, Feb. 10, 2022 /PRNewswire/ -- The European Laboratory for Learning and Intelligent Systems (ELLIS), the leading European Artificial Intelligence (AI) association with a focus on scientific ..."
-    publishedDateTime: 2022-02-10T09:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/02/n25529505/ellis-is-making-progress-with-an-ambitious-multicentric-approach-to-artificial-intelligence-resear"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25529505"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25529505"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Sustainability goals in manufacturing need a boost with AI"
     excerpt: "Moving sustainability goals from the boardroom to the control room will need the power of AI to truly reduce emissions, says Jane Ren, founder of Atomiton Jane Ren, CEO, and founder of computer software company Atomiton explains how artificial intelligence ..."
     publishedDateTime: 2022-02-13T08:00:00Z

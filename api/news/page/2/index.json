@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-12-how-ai-and-machine-learning-is-shaping-legal-strategy.md",
+      "title": "How AI and machine learning is shaping legal strategy",
+      "excerpt": "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html",
+      "originalUrl": "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-12T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thomson Reuters",
+        "domain": "thomsonreuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-symbolic-ai-the-key-to-the-thinking-machine.md",
       "title": "Symbolic AI: The key to the thinking machine",
       "excerpt": "Register here. Even as many enterprises are just starting to dip their toes into the AI pool with rudimentary machine learning (ML) and deep learning (DL) models, a new form of the technology ...",
@@ -1048,49 +1091,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-openai-chief-scientist-says-advanced-ai-may-already-be-conscious.md",
-      "title": "OpenAI Chief Scientist Says Advanced AI May Already Be Conscious",
-      "excerpt": "\"It may be that today's large neural networks are slightly conscious.\" OpenAI’s top researcher has made a startling claim this week: that artificial intelligence may already be gaining ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/openai-already-sentient",
-      "originalUrl": "https://futurism.com/the-byte/openai-already-sentient",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/02/openai-already-sentient-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/openai-already-sentient/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-already-sentient/amp",
-      "publishedDateTime": "2022-02-10T17:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI avatars: Auckland startup Soul Machines rides metaverse hype with $104m raise"
+    excerpt: "ANZ's virtual assistant named Jamie was developed by Soul Machines. Auckland startup Soul Machines has closed another huge capital raise as Mark Zuckerberg's \"metaverse\" hype and AI boom help to stoke demand for its AI-powered avatars. The firm says a ..."
+    publishedDateTime: 2022-02-15T01:00:00Z
+    webUrl: "https://www.nzherald.co.nz/business/ai-avatars-auckland-startup-soul-machines-rides-metaverse-hype-with-104m-raise/QWP2TMGTZOVMDH4SMYKJX3KEXM/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 32
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/8JJ_cRSu9OJ6oDK-XTr3AKsEBBQ=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/634O74EOHK347OVQWCMMAMQIHQ.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XUnAYzwBOkaOploqJ+rUr/rUZLkEDmKEdQbY1I0ZH5y3ABkattTRg/GgG0rZ8bqBAk4A0CqmA+M9y/YGgtn8Nu6vPYrgxryf2sL4FTgnj4eqgvo/7hdQcfpDbz3N2SECVQDwF9mmMDfFBvYUnYNHAI/cIAdTpTej8FoRwveMqvkpNbfxj8Isp55jT2kdnqx6DKLIUkhCER5U7lkMwibeNXuc+FnTzMuAgEc/lTt09y3Lbksxu5wuxqMQV1jfw/wigr1kvbGE0Xj1p+Deyb30QhiYe/MVX4bS2BqRP+MINq4S6BjZea1Bz3nNo34I5Mi8QccSrko3HhKCabvbp6LzxsnE44nntnS9LY0843QGcl8=;+HizZdj68ZVpj/u7bReNUw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-bil
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://s3-prod.pionline.com/s3fs-public/styles/1200x630/public/Jin_Seoungho_i.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI avatars: Auckland startup Soul Machines rides metaverse hype with $104m raise"
+    excerpt: "ANZ's virtual assistant named Jamie was developed by Soul Machines. Auckland startup Soul Machines has closed another huge capital raise as Mark Zuckerberg's \"metaverse\" hype and AI boom help to stoke demand for its AI-powered avatars. The firm says a ..."
+    publishedDateTime: 2022-02-15T01:00:00Z
+    webUrl: "https://www.nzherald.co.nz/business/ai-avatars-auckland-startup-soul-machines-rides-metaverse-hype-with-104m-raise/QWP2TMGTZOVMDH4SMYKJX3KEXM/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 32
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/8JJ_cRSu9OJ6oDK-XTr3AKsEBBQ=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/634O74EOHK347OVQWCMMAMQIHQ.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ktjtfibWRRoIp3ZNJNzu+rJKgdmDYulSNIHg4xnT6OE37tFeYebBPFTLy7e+5RqwawyVtyYfsrqGCEyBNDiK7obpLiNosXpACRgmrcqHp7aIWoDh0h+/pWyh9klAAz3un+gjSvd0dFKSMEIu35tggwmTTwanePknb1jByIKlop9oNvZM8n5oouL8QJsqsvGugRZoCbOJH2+9XGL3/vzgGJL/lJJeJghVzqVlGAoq8YuXjhnNixmE2EIyYjUbRzFoVpQKK2McfWdfQi3V86LqJJSHdrM+QpRDCbswNnXHxsqaeEeYd9gTLd9KIavnTHaxzyBcHAFZh2fEZQBwnWVuyTh8KNv1thdr1+3qK7HKfdudu02xzICxq+rUqO1xJLMKzHkpXVnRStReWgTKnib3jHpBnpVSbAuXrB3J8L9sl7li14QoapPo4nHcqRn1yeqTAs22dMvk5D4W+9i4tZtxXGc5TY08BBnuQE2J+CoGJIer/2PeGT1lVpN9C0jNJ3I7FoZEIS2MWWhQZhAPUzVA/w==;8WwEm0/eIxVt/E2UbzaVvQ=="

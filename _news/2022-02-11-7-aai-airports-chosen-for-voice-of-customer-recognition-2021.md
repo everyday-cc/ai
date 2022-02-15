@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airport
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2017/10/2C_WORLDsq.59f23d1ac307f.png?auto=format&fit=fill&pad=5&fill-color=white&h=278&w=500&q=60"
         width: 500
         height: 278
+        isCached: true
+  - title: "BWI Marshall earns Voice of the Customer recognition"
+    excerpt: "BWI Thurgood Marshall Airport has been honored with a Voice of the Customer recognition from Airports Council International (ACI). The acknowledgement honors international airports that prioritized customer service and remained committed to ensuring that ..."
+    publishedDateTime: 2022-02-15T00:14:00Z
+    webUrl: "https://www.bizmonthly.com/bwi-marshall-earns-voice-of-the-customer-recognition/"
+    type: article
+    provider:
+      name: The Business Monthly
+      domain: bizmonthly.com
+    quality: 24
+    images:
+      - url: "https://www.bizmonthly.com/wp-content/uploads/2020/12/BWI-Red-Logo-Template.png"
+        width: 960
+        height: 478
         isCached: true
 
 secured: "SAjz8w3h8H+RbOj7BqoXJLPQSSJSTH+/tI8J9XD85fWFeonAoo0Geyg1G5IR9yiMx5kpkMc9wy29pl3ly2uPqdb8jVZ+oDJI2t4TXJDkqgDRe0MUDp45FuCmAbHSoPpYxGytE0gHsqeKdYPzo+tfPdtt0zsIFnn4Di+Uk59pz4ed8EcCsvdbP2S7k85BEkYDue7NOudz81Vp34hysUFaJ6Hy/kB3q2OC5xZm8+B0UArJIjpf/hkxrtHabUymNsbxx14e9RLLh/uFFcBczM5x6MRjwF9bg63omm6ENGoHco/PcdKLQdaul/iQDpRsuoDAlLUctQJJggRyvnPPyGRG5FS3r537geZ4qvrEn7EiIf7Zw7jMUp42Hn3Oe0R8Wnr0Qv3aP+8064EwLzXuvqkawatYam2znzjVJrNyqoCEeEjVcH8y/9iG14FGrtxIki3eDKq0SxgcdARfP4D6a5rzck4C01WdT94rHTgmPe+GE8DV7pX5so7TZVlkO8lqU67ed6xGbPSkAQHlcPqdTk/YBA==;NMUovomHeVTGKUML094G9Q=="

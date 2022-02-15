@@ -137,6 +137,20 @@ related:
         width: 400
         height: 246
         isCached: true
+  - title: "More facial recognition technology reported in non-white areas in NYC"
+    excerpt: "\"The facial recognition tools are not attached to those ... effect on how people engage and how they make use of their free speech rights. It's extremely frightening thinking about how protests ..."
+    publishedDateTime: 2022-02-15T00:30:00Z
+    webUrl: "https://6abc.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 41
+    images:
+      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
   - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
     excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
     publishedDateTime: 2022-02-11T20:05:00Z

@@ -73,6 +73,20 @@ related:
         width: 500
         height: 278
         isCached: true
+  - title: "BWI Marshall earns Voice of the Customer recognition"
+    excerpt: "BWI Thurgood Marshall Airport has been honored with a Voice of the Customer recognition from Airports Council International (ACI). The acknowledgement honors international airports that prioritized customer service and remained committed to ensuring that ..."
+    publishedDateTime: 2022-02-15T00:14:00Z
+    webUrl: "https://www.bizmonthly.com/bwi-marshall-earns-voice-of-the-customer-recognition/"
+    type: article
+    provider:
+      name: The Business Monthly
+      domain: bizmonthly.com
+    quality: 24
+    images:
+      - url: "https://www.bizmonthly.com/wp-content/uploads/2020/12/BWI-Red-Logo-Template.png"
+        width: 960
+        height: 478
+        isCached: true
 
 secured: "ZoIz9Y/n+v7u8giJmq8TU6lUjLf/AMwzNFA3eomg9fcuieg57XtwM6dIP++hmx1zUhlnQKNb+ZPKgCpKE4yAp1e6BXXHXApgMdIoWbHMaXmA7/5yyPZN/i/hLd/LVHBzFXyvKfrsVEGaomWkPWa7hmyQIb6P+Ie7LH/Xic1KnO6EflmAsnOqeK1r8cAFHzJlk6HCidOovNyXvrPmY6fjpQIP1MA7MUxmXNaCFRKE7/MjgJhKDSztsY9Oic0w7xb1H9JHu39NoTtplOR4AYtV+7kWbKNjJ1LC6fH87hOFK9pJSoC/rxcRc1YH47fJ8O4jCFq5+n8QGXUeGvuO74RC8A+PFlczigRng/AElzVIp9li9bNdyhQ7B5fTEwpCoCrlTx1ZBry3f0AwPdRGjmT1tqyW52zB5m0AcgmvmCpi3h+NWdVA9lKQyPqMHpPRSy7Sd8PJY+UqIMTKDF2XD/V3fv0hMmmy7A+cdDs3DyUE2xafO4Z1o64wZL90V4PvR39JBvsKcMqlkWLGVZoEZuPnrA==;qY6+EA9wx5m9DLt8Mmdp9g=="
 ---

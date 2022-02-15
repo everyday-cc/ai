@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-07-humaai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform.md",
+      "title": "Huma.AI Adds Post-Market Surveillance Capacity to its Unique AI-Based Healthcare Data Knowledge Platform",
+      "excerpt": "–(BUSINESS WIRE)–February 7, 2022– Huma.AI has expanded its self-service business intelligence platform to include a post-market surveillance (PMS) solution specifically designed to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/amp/",
+      "publishedDateTime": "2022-02-07T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact.md",
       "title": "How An AI System Can Predict Critical Events And Help Reduce Their Impact",
       "excerpt": "Over the last two years, we've experienced increasingly persistent and worsening critical events globally — catastrophic weather, civil unrest, the pandemic, cyberattacks. According to a Forrester study commissioned by my company, OnSolve, 99% of ...",
@@ -1140,59 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-we-need-to-decouple-ai-from-human-brains-and-biases.md",
-      "title": "We need to decouple AI from human brains and biases",
-      "excerpt": "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
-      "originalUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FBrainAi-CALLUM-EDIT.jpg&signature=cd986f4c8514cb750531f05dae512116",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-05T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

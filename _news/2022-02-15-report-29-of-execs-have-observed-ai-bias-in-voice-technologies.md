@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-
 ampWebUrl: "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1303435789-e1644856780654.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Wit2j5N38BHAb+b+j9qG7Ebmv5SivNJChkGgjRWObYuhgMcSCLLvLEQjngRv9u7ibvka0k1XrldHvS9aaWcC+vMRt3nvu1eSP3dIhHoGkweGQz3gNV47BJ3shZ5mfpwJXCOQdvy4NWoj/95zJOu5kr/UNqFk+FGbflP6aeJmC9KWNbj1US/eqfcx15h2JD6F1mALNbP90nv8d6nQ/RbAP/khQvHWVAw7bxj8UBAh+/wa4vh/yxyqY8Hz3MSdbl95j3KtXC+7HMlE5qFxi/tuCOZFsnmNLV3JZymSTD9+RACWnwCIiqjA3coK/pZBJWAbjRFv1GzU4U0DSEdDelX24EZDXhXD2Owm6DMQ+OSAJ64=;lRI9pBcO0Zcq9VyJaILLzg=="
+secured: "t0VDuw6evIh52OSKEtCOTM+lFDU4XMUMk2l2uAVmxjI0eX6sRJTOd1ZPG6t6ZyTkrQwHWxj9abHyKAaW54MAvnY+GlOmCkoh0SD5266b9OYMy/+QC+L+kBOh9UIRuQM2DXsB4iGUeion+9KvMCmDUJHSSnMe2oTXX6b5psI6hg2GhrNRcv4bS0sm5FxWCsPlKpr9fKvHelMfqDGT8Ync08iglLUOuwl9A3yKYJrziLd1d3Nm2pNsRhlsFxLDvndsPDiaw6ivGEq2ICURmIYyIMt8rPwjYi3q+GQaEJ4PKHREonIZS0J2Wyk5grmMurJk/2dSsgopVYEw4Aj9RLeUBuHMwfkgw787XsZeDTaSCqv/luImwuw9s2a81FiWfz/yWV21udaikRIwsUxdS34IO+FJQhXH0kAa1EPGKwReXK/lQD7SB7OGVrMx0JfS4XdTyaBegq7U7uvtIyyJmkzSimkUWQA2ajhOcInjXWou/wklpIK/W3Ky4DMmiPTQWNsd0odoCDHq467smStEmoAiCQ==;RTdh1wdgpl0ORrtnmorx+g=="
 ---
 
