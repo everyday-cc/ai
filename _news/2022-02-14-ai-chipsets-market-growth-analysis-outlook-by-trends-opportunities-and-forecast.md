@@ -52,6 +52,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Speech Recognition Market Scenario, Future Scope, Size, Share, Business Analysis, Opportunities, Challenges, Growth Drivers and Impact of COVID"
+    excerpt: "Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner exponential traction by 2027, registering a colossal CAGR during the review period (2020-2027). The speech recognition market is proliferating globally."
+    publishedDateTime: 2022-02-15T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-scenario-future-scope-size-share-business-analysis-opportunities-challenges-growth-drivers-and-impact-of-covid"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Transportation Market Size, Revenue Analysis, Function, production, Industry Outlook, Forecast, 2021-2028"
     excerpt: "Artificial Intelligence (AI) in transportation is used to gather traffic ... Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology. The partnership is intended to combine the automated driver ..."
     publishedDateTime: 2022-02-14T13:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pionline.com/sovereign-wealth-funds/s-koreas-200-billi
 webUrl: "https://www.pionline.com/sovereign-wealth-funds/s-koreas-200-billion-wealth-fund-betting-metaverse-and-ai-startups"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Korea’s $200 Billion Wealth Fund Is Betting on the Metaverse and AI Startups"
-    excerpt: "South Korea’s $200 billion sovereign wealth fund plans to boost investments in Silicon Valley startups as it looks to the metaverse and artificial-intelligence to accelerate its expansion in alternative assets. Seoungho Jin, who took over the reins of ..."
-    publishedDateTime: 2022-02-10T22:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 64
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZYHLMg9aWqU/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI avatars: Auckland startup Soul Machines rides metaverse hype with $104m raise"
     excerpt: "ANZ's virtual assistant named Jamie was developed by Soul Machines. Auckland startup Soul Machines has closed another huge capital raise as Mark Zuckerberg's \"metaverse\" hype and AI boom help to stoke demand for its AI-powered avatars. The firm says a ..."
     publishedDateTime: 2022-02-15T01:00:00Z

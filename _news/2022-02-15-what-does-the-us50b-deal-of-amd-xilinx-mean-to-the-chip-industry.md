@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2022/02/what-does-the-us50b-deal-of-amd-xilin
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/what-does-the-us50b-deal-of-amd-xilinx-mean-to-the-chip-industry/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 375
     height: 210
     isCached: true
+
+related:
+  - title: "AMD completes $35 billion acquisition of chip maker Xilinx"
+    excerpt: "“Xilinx offers industry-leading FPGAs, adaptive SoCs, AI engines and software expertise that enable AMD to offer the strongest portfolio of high-performance and adaptive computing solutions in the industry and capture a larger share of the approximately ..."
+    publishedDateTime: 2022-02-15T14:01:00Z
+    webUrl: "https://www.itp.net/business/amd-completes-35-billion-acquisition-of-chip-maker-xilinx"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "pq64KPd1szEWIRtTH+Nzp0yylgxYSgKoeykUI3UrcyN5BRqbmu/cuVmqiv/ctN4W05a1h+Sc1pRjcv8x4lTl5TFMfe/94pVJEMwiM1PK4YaMbVCvJXt432DBbM2poh2l6gP7A3y4nF0datJVlHCxjxWgw0FEJH1P8ZHy+5JL1N+OUrInuc27YSEKnRNl/MNCqqLmu0AIbvEL5ByUNn2u9st5MyQtQDVVM272rxr+r9Qtsb8D8PGV/LGQ9MBhwj/5AcxhtQ2bj9B3sA+7zY4CF9+KNS3KPLtarB9BCgLR9DTHFQxFzRE9TJ4uyB42uV/ZCJvOvtKjzeDVDCnGl92zpm0Yx2MemWeGI8ho3Sio0y393XekNiCgmTGtjqTXw2LF8QfhZ8N1XAgGrsCCsfkGhsUJn7hkq91yBG6Mw+sL85oawkIf9OSW4AqgRbEBuJkJWQ000An6hx2TC6YdWsfSqSIdygZtwe8E+Ek1HKlkfzYcD8HDqdQoRZRzQSW4wqgF72HEW2OPB8TVbtFg5eQI7w==;OmgA9+haOlqkP8jiwVrN7A=="
 ---

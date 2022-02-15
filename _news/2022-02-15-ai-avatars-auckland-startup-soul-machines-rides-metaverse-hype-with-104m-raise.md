@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Korea’s $200 Billion Wealth Fund Is Betting on the Metaverse and AI Startups"
-    excerpt: "South Korea’s $200 billion sovereign wealth fund plans to boost investments in Silicon Valley startups as it looks to the metaverse and artificial-intelligence to accelerate its expansion in alternative assets. Seoungho Jin, who took over the reins of ..."
-    publishedDateTime: 2022-02-10T22:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 64
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZYHLMg9aWqU/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "S. Korea's $200 billion wealth fund is betting on the metaverse and AI startups"
     excerpt: "\"There are still plenty of good opportunities, if you chase them eagerly.\" KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation's finance industry."
     publishedDateTime: 2022-02-11T19:21:00Z

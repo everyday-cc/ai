@@ -97,6 +97,20 @@ related:
         width: 1724
         height: 1080
         isCached: true
+  - title: "Mogo to Participate in the Jefferies Payments & FinTech Summit"
+    excerpt: "Mogo’s wholly-owned subsidiary, Carta Worldwide, also offers a digital payments platform that powers the next-generation card programs from innovative fintech companies in Europe ... Hyperconnect : real-time video AI monito.. Hyperconnect launches ..."
+    publishedDateTime: 2022-02-15T11:49:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=616364"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
     excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
     publishedDateTime: 2022-02-14T20:40:00Z
@@ -119,6 +133,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 0
+  - title: "Autonomous Commerce Leader JAGGAER Announces Partnership with Payments-as-a-Service Fintech Finexio"
+    excerpt: "Over $500 billion worth of goods flow frictionlessly through our Enterprise Commerce Network every year. Leveraging AI and machine learning, our intelligent procurement solutions provide enterprise buyers and suppliers smart-match recommendations that ..."
+    publishedDateTime: 2022-02-15T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-autonomous-commerce-leader-jaggaer-announces-partnership-with-payments-/2022/02/15/9545689.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "ZbH+ZcYgFrMcWFbmuCQQ/Uu0zYLezrR08ldVQpP0U2UOcEBzttXF8+rNYhm3v5eLHe+5lHyx5TQPaiLSMKfneZlsoDUYTQDDW4LRMeTg6t4PFrW+5GIv90xWDKQ6sjeloZ12QMqnTU2rbQaKPCZJ2o3AmUxbzgB/k6mOfvt9UU5ZxfYqXQa8/kBWemW7vrjqpZK775CPSn9laZkuyiZWlEFiwUi0J3z0bbtDkWBEo7e9naEt4Gc4nTBisl7RR+OZVc33rf9EJ99/OWGMvPj2Os+jkObDsM+Tp9qRdB1HRiv1/AImqRYeW+QCoRdTQtepS+K/9slWeJGQp9ayZ479P03+2AP0GjYBn7fCpRGriokvntkwvRY8aVdMQ/ypJBb8Itq0dgKjnCPGLpYCy0u4U4C3l9xbKtWJXchrpkXJZBn0rLlZm2y2i66dbgqlbTdVSzXYIkiXU7GYOxbNYj7poS5Yvx7HH+2SZn9ym9AFVnx5593QCQkRmBEAqKoaFyIz7a5ySDwatIw5OIjO2a5XMg==;Ec3gqcoDxQy3/j3ky8VYoQ=="

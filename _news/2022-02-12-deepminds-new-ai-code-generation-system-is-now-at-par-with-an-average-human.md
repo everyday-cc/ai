@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-wit
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind Open-Sources Quantum Chemistry AI Model DM21"
+    excerpt: "Because manually designing functionals to handle such cases has proved difficult, the DeepMind team approached the problem using machine learning. The researchers used a supervised learning approach to train an MLP neural network. The training dataset ..."
+    publishedDateTime: 2022-02-15T14:31:00Z
+    webUrl: "https://www.infoq.com/news/2022/02/deepmind-quantum-chemistry/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2022/02/deepmind-quantum-chemistry/en/headerimage/generatedHeaderImage-1644167237071.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DeepMind’s new AI can write code"
     excerpt: "A new programming AI system from Deepmind, Alphabet’s experimental AI research arm, can perform complex coding tasks better than the average programmer and could lead to the AI that can change itself. AlphaCode was trained using open source code from ..."
     publishedDateTime: 2022-02-14T19:09:00Z

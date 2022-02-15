@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "LivePerson announces new AI capabilities and integrations to help brands deliver Curiously Human™ digital experiences"
+    excerpt: "LivePerson's Conversational AI can also now use real time signals like intents ... Brands can also begin selling faster than ever with LivePerson's new commerce starter pack, a quick start feature triggering highly accurate, automated responses to increase ..."
+    publishedDateTime: 2022-02-15T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-liveperson-announces-new-ai-capabilities-integrations-help-brands-/2022/02/15/9545578.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Nrm7U27mNLxoRDt0QVysd2JegHzTraUAHg1HBuxbN74MeWLQbFMF/BF+HZC/s6O3zNgRHBZSLcAFBGhx6lRt7YbCTjWr/7rVO1WFt1TqGRIY8ZPkvle/2z9zKbQgKo8H/HnrcA3WJiO2NOViW4F9QsR+vq70aiQCPtJYJINO0jbkF9k7z5bunBTKmvqHVLDVT4Ht3Ro2D6X/fCAU+cWg/h9KF3hla6K8QpfEnfieIuj9OqP3acfO+hpleo8Xt0Tkeg/Tq5A0HeahOXMWfLFSooHIW6ME0IfAMK8xjXUC7tuYS+K1rxNk63a44H+2IaRvMLeCYxQol1YnH3CH44rfqGWTijLKhq1B7qYRJUkeG4VMgX70w4YQq+rU0cGXRPpmCSwvMs0P+QrbUwmHMe8pLfzq6+U/Ydnkv0RAz8Qej/V97ZK5jeGg8Eppm7iiSiwaw+D/+7xdE+fVYt+ELazSud3BmpP0YQYOe3/j12hrvKF0+ml7CTWncYV/+M1DmAytlgzRzS2i8srvQy2XYZXnJA==;dL5XVVqGUzRm5P+t59IEpA=="
 ---

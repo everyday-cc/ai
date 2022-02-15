@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Texas Sues Meta Over Facebook’s Facial-Recognition Practices"
+    excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
+    publishedDateTime: 2022-02-14T15:06:00Z
+    webUrl: "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 174
+    images:
+      - url: "https://images.wsj.net/im-485400/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law"
     excerpt: "Texas attorney general Ken Paxton has taken yet another swing at Big Tech, this time suing Meta for allegedly capturing and using facial recognition data on millions of users without their consent."
     publishedDateTime: 2022-02-14T18:45:00Z
@@ -121,22 +137,6 @@ related:
         width: 1927
         height: 1085
         isCached: true
-  - title: "Texas Sues Meta Over Facebook’s Facial-Recognition Practices"
-    excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
-    publishedDateTime: 2022-02-14T15:06:00Z
-    webUrl: "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
-    ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-485400/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Texas sues Meta’s Facebook over facial-recognition practices"
     excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
     publishedDateTime: 2022-02-14T20:30:00Z
@@ -214,6 +214,38 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2022/02/Texas-Meta-Facebook-Lawsuit_69852.jpg?w=1024&h=815"
         width: 1024
         height: 814
+        isCached: true
+  - title: "Texas sues Facebook parent Meta over facial recognition data"
+    excerpt: "The Texas Attorney General is suing Facebook's parent company, saying it collected biometric data on Texans for commercial purposes without their informed consent. Attorney General Ken Paxton filed the lawsuit Monday in a state district court. The suit ..."
+    publishedDateTime: 2022-02-15T11:58:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-meta-lawsuit-facial-recognition-texas/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/25/e7b38470-1eab-4e44-8a0e-66c594fe2b55/thumbnail/1200x630/d3d5261ec692183c3298778bd9a5a8ec/zuck-gettyimages-1201476983.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Texas attorney general sues Facebook parent Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-15T12:47:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2022/02/15/texas-lawsuit-meta-facial-recognition/6794970001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6794970001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6794970001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/02/02/USAT/7783bc44-07e1-4c13-8036-bb6b4fb0062c-AP_Meta-Instagram-State_Investigations.jpg?auto=webp&crop=3741,2105,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Texas sues Facebook owner Meta over face recognition"
     excerpt: "The state of Texas is suing Meta Platforms (FB-0.2%) seeking hundreds of billions of dollars, saying that Facebook's use of facial recognition violated state privacy protections. Texas Attorney ..."
@@ -414,6 +446,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 37
+  - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
+    excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."
+    publishedDateTime: 2022-02-14T12:55:00Z
+    webUrl: "https://federalnewsnetwork.com/agency-oversight/2022/02/irs-struck-a-nerve-with-facial-recognition-but-pieces-missing-in-fight-against-fraud/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 26
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z

@@ -8,9 +8,9 @@ webUrl: "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-reco
 ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 174
+heat: 494
+published: true
 
 provider:
   name: Wall Street Journal
@@ -204,6 +204,38 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2022/02/Texas-Meta-Facebook-Lawsuit_69852.jpg?w=1024&h=815"
         width: 1024
         height: 814
+        isCached: true
+  - title: "Texas sues Facebook parent Meta over facial recognition data"
+    excerpt: "The Texas Attorney General is suing Facebook's parent company, saying it collected biometric data on Texans for commercial purposes without their informed consent. Attorney General Ken Paxton filed the lawsuit Monday in a state district court. The suit ..."
+    publishedDateTime: 2022-02-15T11:58:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-meta-lawsuit-facial-recognition-texas/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/25/e7b38470-1eab-4e44-8a0e-66c594fe2b55/thumbnail/1200x630/d3d5261ec692183c3298778bd9a5a8ec/zuck-gettyimages-1201476983.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Texas attorney general sues Facebook parent Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-15T12:47:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2022/02/15/texas-lawsuit-meta-facial-recognition/6794970001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6794970001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6794970001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/02/02/USAT/7783bc44-07e1-4c13-8036-bb6b4fb0062c-AP_Meta-Instagram-State_Investigations.jpg?auto=webp&crop=3741,2105,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Texas sues Facebook owner Meta over face recognition"
     excerpt: "The state of Texas is suing Meta Platforms (FB-0.2%) seeking hundreds of billions of dollars, saying that Facebook's use of facial recognition violated state privacy protections. Texas Attorney ..."
@@ -418,6 +450,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 37
+  - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
+    excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."
+    publishedDateTime: 2022-02-14T12:55:00Z
+    webUrl: "https://federalnewsnetwork.com/agency-oversight/2022/02/irs-struck-a-nerve-with-facial-recognition-but-pieces-missing-in-fight-against-fraud/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 26
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z
@@ -465,6 +506,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "Uk/r/xH6J0vyD4ti8fVIDIhhm4v8DR/6ZYnfcPahjg+wIL/dCDTp7KJCSMy01VKsRe6XbYHAo6RdcFMFRO6l/Sq6Kh/9EiMCpHqyfccF6zU02TM+3H33C07ZG3E4d1spWCDAHhHLzZ/pvtQzxxQbuQpXiJkV5w1zoA2HPaN0XrWWxga2740dXbTuXtXat2hmudiprotXhKsNHAjz78Tdv/Nq2Yipy0OSHe1c1yFWJApAfRvPXcGh/4+fTuct/5rzT8dmCdiZ+fo+7EAd9QDctrOZCDtVSJcx1q7z1ACFYCQsJWh8zY4nU7sSq8LYGRe+QxMvg6qD5jgn3wQPmYUKrB7wnu1P65FmxlNP3nNYY8+sdmdEKNn+cI5nZJ/OmPi9gYQgeGCcdvgKAeZxWsoH6blfkovE2bhlFKEqAzwW0IvbA8FYsBb3sG9F+j8mbLY5oVhQ2FKD6Bjec8nysjtT5UgZe4uaroH7F4UsaDqcN+dkwlMgroy8cvlEo8gKD7viylde2p1RJzx+LNrstxPmag==;YSHY/kj/OAGTMBW0bYUMrQ=="
+secured: "SEhL2tfEF5XuvA53+RHECfGKge1zr3VuPucfSxHLKOM0wyqeJCLuP5KG+A6pbQkY3bzT71jXsmZVQ7ZaTICe88Y5nNGN9t8C5EtBrp5eBv7eLQxumRSoOgV5lUaTLbU8m3QbO+MTzUuRyF+HbP8rUXZbB9KktK2LXm+FOnjfLc6AEN0MeXOFlE/KYGMswwSFw0QArHE8xwySpHvA1Bj8LPWi1uWqp/ZFTV21sGn0gCP7hHRlOQ6HB0MiFM7ytXtcaNjPgs6JBOGsdyf/vqcJwj/ocyfkyKJKkE2scedzQ86lHbpliV1t00HBqKpmU7IqMJtXCQ00ExnJmZfV/5Xvs55L8GULA4EgC5VXxfQzQhHmotE77hmzwp60QUOghBQly4EfICzg4Er6q1VI7NjJE+l74oOHJXGvt0xJlpO9HTsio8UjcD1byXmMGQ51Lew6Leyifak1Isny0NS0fgpMLUgvOnfjZwuHr8UibTxLvBGX7evpmhiKnn7fmi/ApaF/qNXZPWnCP4T6ZSiXny4Nt6SIejpQlmSMZ97XE3TgoMk=;Z4yRysQQlg6eTZJfbJegqA=="
 ---
 

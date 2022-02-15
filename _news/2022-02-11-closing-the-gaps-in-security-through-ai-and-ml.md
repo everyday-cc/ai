@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Cow, Bull, and the Meaning of AI Essays"
+    excerpt: "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ..."
+    publishedDateTime: 2022-02-15T13:00:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-language-education/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-education/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/620ae1e210a719b317e6acae/master/pass/Cow,%20Bull,%20and%20the%20Meaning%20of%20AI%20Essays%20(0;00;02;02).jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Balancing AI and the Human Touch in CCaaS Deployment"
     excerpt: "They also deploy tech tools like artificial intelligence (AI) and natural language processing (NLP) to enhance the customer experience. Jeetu Patel, Cisco's Executive Vice President and General Manager of security and collaboration, explained that these ..."
     publishedDateTime: 2022-02-15T10:50:00Z
@@ -107,20 +123,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Artificial Intelligence and Data Initiative"
-    excerpt: "The Department of Defense is working with unnamed commercial companies to build an integration layer where combatant commands can access data feeds for their artificial intelligence algorithms ..."
-    publishedDateTime: 2022-02-10T21:30:00Z
-    webUrl: "https://executivegov.com/tag/artificial-intelligence-and-data-initiative/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 37
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/10/d9/ff/0d/0f/b2/f5/22/84/00P4y00001fiOK1EAM-480x384.png"
-        width: 480
-        height: 384
         isCached: true
   - title: "The Use of Artificial Intelligence in Streaming Services"
     excerpt: "Artificial Intelligence or AI plays out a significant situation inside the OTT business in heaps of ways. From content material revelation and content material improvement to video ordering and upgrading the high-agreeableness of virtual pictures ..."

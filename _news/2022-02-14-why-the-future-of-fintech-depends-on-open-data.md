@@ -83,6 +83,20 @@ related:
         width: 490
         height: 351
         isCached: true
+  - title: "Mogo to Participate in the Jefferies Payments & FinTech Summit"
+    excerpt: "Mogo’s wholly-owned subsidiary, Carta Worldwide, also offers a digital payments platform that powers the next-generation card programs from innovative fintech companies in Europe ... Hyperconnect : real-time video AI monito.. Hyperconnect launches ..."
+    publishedDateTime: 2022-02-15T11:49:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=616364"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
     excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."
     publishedDateTime: 2022-02-15T08:32:00Z
@@ -119,6 +133,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 0
+  - title: "Autonomous Commerce Leader JAGGAER Announces Partnership with Payments-as-a-Service Fintech Finexio"
+    excerpt: "Over $500 billion worth of goods flow frictionlessly through our Enterprise Commerce Network every year. Leveraging AI and machine learning, our intelligent procurement solutions provide enterprise buyers and suppliers smart-match recommendations that ..."
+    publishedDateTime: 2022-02-15T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-autonomous-commerce-leader-jaggaer-announces-partnership-with-payments-/2022/02/15/9545689.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "LD+FrLAlkeSPh/eY8erRuCoy7yOgZkZ/OQOVUCYDOmM6aTemNWzM+JK9330KnmDvyrI0vhECf9ukj9JlKhW30nZtDUXo0FKOLGw5jf3sWHlT6qXK1soyX1HkkTP/AHF/HKRAYmWxoU3T56HbeUZnwfE8NLN7O4Y9/qjedzlfDGEET5DGqjqNgbany4JhWtER0HGpTWZZCNRTjbt6gMuUU9DdmgwF9qJytu7dfEFwFvYcLXte5tsonmz0kMRAyPN1ki80OKtJiYbEqcYJnwK3Ny/sZjkeC/sGfTB92uEzBfAnpIR5pCs2ZOfYj3m6iw3qYQTbkv11QbX+Dj2Gin7Tw/rOZCbTGL0TQfjeHHFzoApg3ZEMc1MkA1YFzAysV1dJbhA+tDUkZH2+ufkszzRdRZ0V/lgbWDeOXp0mZy2exOk2P1eaQGbsf4VO+5O/yrvkD1a3Bf1gmVUydZTTGb1XNE9EqDMierOliRYOYA81nQsieaW1lH95pCvh6Nvw1m6aAMtusF58vwE/p70kFtU+VA==;x0aQ2s5TJp87L5F2PJB04w=="

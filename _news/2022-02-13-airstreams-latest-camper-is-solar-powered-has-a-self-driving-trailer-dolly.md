@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/02/13/airstream-camper-solar-powered
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/13/airstream-camper-solar-powered-self-driving-trailer-dolly/?amp=1"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Airstream to Launch a Solar-Powered Self-Driving Camper Trailer"
+    excerpt: "Recently, Airstream announced the development of the e-Stream camper trailer that has solar panels on the roof for charging, as well as autonomous driving capability. Design-wise, the e-Stream ..."
+    publishedDateTime: 2022-02-15T13:32:00Z
+    webUrl: "https://propakistani.pk/2022/02/15/airstream-to-launch-a-solar-powered-self-driving-camper-trailer/"
+    ampWebUrl: "https://propakistani.pk/2022/02/15/airstream-to-launch-a-solar-powered-self-driving-camper-trailer/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/02/15/airstream-to-launch-a-solar-powered-self-driving-camper-trailer/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2022/02/Airstream-eStream-Bug-Eye-View-e1644846518264.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "KmFdJ4k4UlBl5+2pRHuGf4S1wTJlO+aaSvFoazZedf7iuzh4h+PmGPPzbr4tkapKFjf6yMjpULXwJH4hJ3X7ahUGvX19i5jQmAzxN1qiBVf8P5CG5j2QQ5SzuhoiywOx3S2ZyJ9hE5rcNzGdAEV+EfNoAqw5uBTtzIcpHrI5WNb8pXs9w/TBxHp4810px7kOcdn0uvDkUO/l6bH2YpRMpbQkmcVrKzvOPAq677bqUbmM9jOOBZzn1hFlRKxo15lj753tDQlboNfZS+tr+MbgGPYHMkFtuKXhNZIcAnYFu7FyRp3UtKaoxU6tLQAW2OtxcBignoLT6XR3Q3GqRKpLlojCfVfafT5FfkwuyNWPoLL5qouw3QzDZkABMsuYzeSmJvc3o/qKhH8Qdvmp52mxsnKEhpA0GUHJb3wJDxCRNQn/Vb2g5p4syCkOd/EvVy6k4JYys3sSgjf7oov2DNeEmeW2/jxw0Hn+rkH/vnGtHuaQolqlDsNCIp/hIlCc+1u8q2/5iKoO4ZbvK/lzcO6Z6A==;QnF83vE4l0aTMkPssGvywQ=="
 ---

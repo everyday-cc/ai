@@ -26,21 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: AI Helps Healthcare Organizations Reduce Avoidable Patient Harm"
-    excerpt: "Jvion Chief Medical Officer Dr. John Frownfelter explains how artificial intelligence improves patient care and offers tips for implementation success. As the healthcare industry shifts to more preventive, value-based care, AI provides guidance for early ..."
-    publishedDateTime: 2022-02-10T21:55:00Z
-    webUrl: "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm"
-    ampWebUrl: "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp"
+  - title: "NHS to Test AI in Healthcare in World's First Pilot"
+    excerpt: "Brhmie Balaram, head of AI Research & Ethics at the NHS AI Lab, said: \"Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing ..."
+    publishedDateTime: 2022-02-11T15:56:00Z
+    webUrl: "https://www.medscape.com/viewarticle/968326"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
+      name: Medscape
+      domain: medscape.com
+    quality: 56
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202202/Health%20AI.jpg?itok=TRSNbDPU"
-        width: 1440
-        height: 500
+      - url: "https://img.medscape.com/thumbnail_library/dt_181106_brain_circuit_board_ai_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "UK NHS to test AI systems for biases in healthcare"
+    excerpt: "head of AI research & ethics at the NHS AI Lab. “Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing an AI system to market."
+    publishedDateTime: 2022-02-14T16:02:00Z
+    webUrl: "https://www.globalgovernmentforum.com/uk-nhs-to-test-ai-systems-for-biases-in-healthcare/"
+    type: article
+    provider:
+      name: globalgovernmentforum.com
+      domain: globalgovernmentforum.com
+    quality: 56
+    images:
+      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/2022-02-14__UK-NHS-to-test-AI-systems-for-biases-in-healthcare_doctors_CREDIT-EVG-Kowalievska-620x414.jpg"
+        width: 620
+        height: 414
         isCached: true
 
 secured: "P1ySk4MzJZRw/RYDz26OtGxVesJkwQGtsdajVLvT9ajS2yOo0rresFBD9xAmsiHYPU0tiOxagqYGGPm8DbSaMblbBoxFYUBixgWQ+Xpr4s/ZFWnfhT6RpLJUNWaER0LCDN2DCSuKnLQjTV6vqBz7E3qttyzlcRARV4anFbn/cbnRYKFNwrW963wYMjjENthWTtBmtUTuN3YPsyDsQYElYxseK7dUxXf8iFDUbanUYr/krRrOWHQIYSEhbJ5yJKU/MxPHrDGmXQkfgB9yOEiru0lSMUjm35H7ROYezMVwuulSVyYRXSWZaF/vDYjxhChxyBjx1QoHqr49/aovJESbPTEyIibHoe2rl/XqBLbNMsc=;TCPh12U5p5pugR8r0Elfaw=="

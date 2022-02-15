@@ -55,15 +55,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
-    excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."
-    publishedDateTime: 2022-02-14T12:55:00Z
-    webUrl: "https://federalnewsnetwork.com/agency-oversight/2022/02/irs-struck-a-nerve-with-facial-recognition-but-pieces-missing-in-fight-against-fraud/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 26
 
 secured: "D9Ofw/KWYjHNRzFMFEjM90NA37jMZYkTFluj1wpkU0X4te4B+BZxNagAlZN641D7gWYEru1AesL8qMO+tmydJM7am9QCQedcl0/RtrEYf8VyYL9wvDi7QncR64pjmbVJgtskQQ5J37gBg1w7F9GTAnd8IhjrNUMDo31VW2Jb79nqKODLjJpytcD1IN1sWKuWGcNQDuueW3DeqktqCxub4dOQY5IJ/sl2Or23IhsQZ8eqEMN+Ko12sKIq5tep44OcLBkChpui0Njzk2kEm6iynEYX5KRZVyjg8vIQ4EO2jQ1J7vGoMTkO28x/2cOruKduPpWVht475L7JmuWVuksBL4iAYqhOkTA8vXxPth3KpOqkF5ToH/KO8yYGWDYKlm7MnmQPqMwLiUB4FNMkc8TWWSLUfeh32TGYIDw+tZejHb8WYbXYUYybhji9y1UbfPFQwrffEXb955l/aVslC/SOEOC/edJIjOI+IBZwo0uG3rmCCJvsq9FWUHR7wb0G2l6NyQk+fVrEJX6lJHInTh1T8w==;UC3yNZ47R2vK0lhXTcbt+A=="
 ---

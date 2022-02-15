@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coachi
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "Visual Globe Announces Next Generation of Artificial Intelligence Platform"
+    excerpt: "Today, Visual Globe, a Colorado-based artificial intelligence company ... This end-to-end solution automates the conversion of data into predictive neural networks and then brings those networks into our rule-building platform, all without the need ..."
+    publishedDateTime: 2022-02-15T13:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/visual-globe-announces-next-generation-of-artificial-intelligence-platform"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://cdn.newswire.com/files/x/f0/9b/fae9c711ee5de9d5a0e646383c1d.jpg"
+        width: 512
+        height: 267
+        isCached: true
+  - title: "Webinar on artificial intelligence"
+    excerpt: "A webinar on “Artificial intelligence-based conversational interfaces” organised by the Computer Science and Engineering Association of the National Institute of Technology Calicut (NITC) will be held at 7.30 p.m. on Wednesday. An alumnus of NITC ..."
+    publishedDateTime: 2022-02-15T13:14:00Z
+    webUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 37
   - title: "Dahua explains the advantages of integrating AI applications in school for the benefits of students"
     excerpt: "AI is empowering a new generation of advanced, efficient security systems. In the field of education, AI is also facilitating the digital and intelligent upgrading of schools and institutions from K12 to universities. AI applications such as smart ..."
     publishedDateTime: 2022-02-15T12:44:00Z

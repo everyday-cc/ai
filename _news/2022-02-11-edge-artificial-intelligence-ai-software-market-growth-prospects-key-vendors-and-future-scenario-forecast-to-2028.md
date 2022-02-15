@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market- emerging trends, opportunities and forecast"
+    excerpt: "Artificial Intelligence (AI) in Drug Discovery Market grew at an average yearly rate of around 35% during the timeframe (2018-2021). The industry market size in 2021 was around $250 million. The role of AI is becoming more significant in the medical ..."
+    publishedDateTime: 2022-02-15T13:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-emerging-trends-opportunities-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
     excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
     publishedDateTime: 2022-02-11T07:10:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.medscape.com/viewarticle/968326"
 webUrl: "https://www.medscape.com/viewarticle/968326"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medscape
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "WHO: How to reduce ageism in healthcare AI"
+    excerpt: "7. More research should be conducted regarding how to avoid bias in AI and how to understand new uses of AI. 8. In the development and application of AI, there needs to be a robust ethics process."
+    publishedDateTime: 2022-02-11T18:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/who-how-to-reduce-ageism-in-healthcare-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "UK NHS to test AI systems for biases in healthcare"
     excerpt: "head of AI research & ethics at the NHS AI Lab. “Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing an AI system to market."
     publishedDateTime: 2022-02-14T16:02:00Z

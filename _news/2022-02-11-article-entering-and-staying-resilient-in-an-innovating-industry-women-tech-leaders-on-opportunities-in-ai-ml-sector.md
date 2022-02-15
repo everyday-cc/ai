@@ -7,7 +7,7 @@ originalUrl: "https://www.peoplematters.in/article/diversity/entering-and-stayin
 webUrl: "https://www.peoplematters.in/article/diversity/entering-and-staying-resilient-in-an-innovating-industry-women-tech-leaders-on-opportunities-in-ai-ml-sector-32692"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 990
     height: 550
     isCached: true
+
+related:
+  - title: "Complying with GDPR When Using AI"
+    excerpt: "Training the AI: algorithms need to be fed data to learn and further develop ... they will inevitably create opportunities for new and additional uses of data. Before businesses start deploying their technology in this way, they should ensure the data ..."
+    publishedDateTime: 2022-02-15T14:46:00Z
+    webUrl: "https://www.mhc.ie/latest/insights/complying-with-gdpr-when-using-ai"
+    type: article
+    provider:
+      name: Business Law Firm
+      domain: www.mhc.ie
+    quality: 37
+    images:
+      - url: "https://www.mhc.ie/uploads/images/Illustrations/_1200x630_crop_center-center_82_none/Tech-future-AI-Gaming-small.jpg?mtime=1638890413"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FqrdB3pxtCuQPOoiCOl/Sy0TUMSFI/G1M2Hp3dBCiAkd6kDCHlQHcD/eJ53hDDmL24jbXoTAU3eHPs2d5uvkUJvFNu6hr8IKRTwCBqIucNkbzFRdPx/zINx85mq1NujItPdUWcaAyi2+HstYvAQ2T50m8n1hpLgdeEyaumnJ56vBjabL9oqYQ3nMin4Tcu9H8sdwbtWvs8aTf6jr+PZHsaKhBGFWKfLXfF2muJVRVa2dFCRkJC44UxOZXU3/7mR4AnH62qXYfDoYjHDUnfm5im6qY4toA/BZi4xfCyEFwTpo+PM6RwtO6uQkFSJB2d8chHT9dGptwHdm2WVf8qZfXO4Fq1hNfS6BSc+jon+ZeIz/iJhqAQpKOVCvuKaVUFDjYLvI4u4AWSF8U/7cWYW1YFgyTL/rKfw6om4APHVrpH3wYIYaI8MjyMUwFkx1j73/GSoQkyV+BwjG7MPnOjo+BlDTVkcnUy8ZrrQvDPlSmaFm2Xo1FI+n8ipliRV5NWhrAq3maqYGVtL0OGCTxn5lNg==;I2lCY/eg1Yh4Hl+oa7lB0g=="
 ---
