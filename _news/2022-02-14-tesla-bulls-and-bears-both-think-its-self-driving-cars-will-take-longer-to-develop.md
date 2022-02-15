@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
-    excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."
-    publishedDateTime: 2022-02-11T01:51:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10499145/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10499145/amp/Full-Self-Driving-clips-Teslas-trying-drive-train-tracks-smashing-bike-lane.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/10/23/54040853-0-image-a-20_1644535576598.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "1xKxd8sNvPCLZJEYGAAZHrQKQK9Op8sZjtKREjBwIgPn2Y8EAzc9eFuHwne27JMjxtWcGOQtiUUXu4TCH1rWCZE4BUn51AVdPNEuaoFMHWleCgeS95+fHbuaVxirgE2nTputKw7K0s5n0RLbp4bCA56G8VdFnLZXo8PKo0IgxD7FJJdQKP8K+XPNraIpx7IByL2NBvZT1OvOGybWOPVDAcB+8xf9CkE61Jr+cm/6fUvb+NjNK27r3KmO41aFULituqOpTV4XiPrNM1gs+ckjgOBf7JeZkUry+84JHBnppDutSDbYR8y/7pBnDS/PMjqvK89cAFFIz1UKiL0EESMMOsQNx4f0aqsOPUwW1I321irgrzV9+BqhEcu55Aq3fD0VaWADKeZulv6jqqTRmP4sMT4P4zh1iiTsn7hiOTOXaCIb/WQGIRw70tZLpjPagb3yIo6pEEGiCEZDnHeHV1BcDin1nafTp1S40KePZ4EoZeg5OFcUBGisPIXih6/KuoGnk3+rIvLbmh2Fv81iIsOpag==;mPwB3RoEgtoCRce/8XTZSw=="
 ---

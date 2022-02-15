@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-w
 webUrl: "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Chief Scientist Says Advanced AI May Already Be Conscious"
-    excerpt: "\"It may be that today's large neural networks are slightly conscious.\" OpenAI’s top researcher has made a startling claim this week: that artificial intelligence may already be gaining ..."
-    publishedDateTime: 2022-02-11T01:16:00Z
-    webUrl: "https://futurism.com/the-byte/openai-already-sentient"
-    ampWebUrl: "https://futurism.com/openai-already-sentient/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-already-sentient/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/openai-already-sentient-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "OpenAI top scientist says AI might already be conscious. Researchers respond furiously"
     excerpt: "According to UNSW Sidney AI researcher Toby Walsh ... and is just a sales pitch to claim magical tech capabilities for a startup that runs very simple statistics, just a lot of them.”"
     publishedDateTime: 2022-02-12T14:55:00Z

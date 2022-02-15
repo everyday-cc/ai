@@ -23,7 +23,7 @@ related:
   - title: "Will Q4 earnings chip away at Nvidia’s share price?"
     excerpt: "Chip maker Nvidia [NVDA] is expected to report a 48.5% increase ... “Demand for Nvidia artificial intelligence (AI) is surging, driven by hyperscale and cloud scale-out, and broadening adoption by more than 25,000 companies.” Nvidia’s shares have ..."
     publishedDateTime: 2022-02-14T18:05:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/opto/will-q4-earnings-chip-away-at-nvidias-share-price"
+    webUrl: "https://www.cmcmarkets.com/en/opto/will-q4-earnings-chip-away-at-nvidias-share-price"
     type: article
     provider:
       name: CMC Markets

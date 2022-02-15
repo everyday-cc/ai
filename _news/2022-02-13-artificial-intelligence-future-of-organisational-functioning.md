@@ -24,6 +24,17 @@ images:
     height: 325
     isCached: true
 
+related:
+  - title: "Options Announce 12 Years of AICPA Service Organisation Controls (SOC) Compliance"
+    excerpt: "\"Options is fully committed to investing in new technologies, additional resources, team development, partnerships, and the strategic use of Machine Learning and Artificial Intelligence to ensure our security controls, managed services, and internal audit ..."
+    publishedDateTime: 2022-02-15T18:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-options-announce-12-years-aicpa-service-organisation-controls-/2022/02/15/9546036.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
+
 secured: "Jl4A3KfutAEFLI8+Q/6EKdEYHfFDQfcVDrKV9Lxm5NjwVx33wBogfyX3h/Q+rUkpL7uy9yZTBypzjvzgR5fjsBIsJl1RQr774jzdYAof0Pfcpk7yKslJFdH+UYU7DQdASR5TBfAPbjBcjliR13d+ln75WBq2Z1Ux1ez7W6YU8S3lCUJXiLIxC+G4PJ/JVf51mjewHNVb3mZr6SGr3yBVjNX3RBIA9JdLRcliOqlHKt5PRoI1/EwqQb/TG5jfFARaxBKO19Py6RDQhKQCzrluq1WHsMQTiVVwMr/RaV0uEFz1BKW3QIrIsIvduSE9NOB93ec7bl4M939bixXYfTNkFD1GKPJWu88d02KBw145DB4=;7tDlOrRh/DrsxAIuC0vnfQ=="
 ---
 

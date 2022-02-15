@@ -23,6 +23,17 @@ images:
     height: 284
     isCached: true
 
+related:
+  - title: "Scientists show how artificial intelligence can help to study protein complexes"
+    excerpt: "Study: Skalidis I., Kyrilis F.L., Tüting C., Hamdi F., Chojnowski G., Kastritis P.L. Cryo-EM and artificial intelligence visualize endogenous protein community members. Structure (2022). doi: 10.1016/j.str.2022.01.001 Authors declare no competing interests."
+    publishedDateTime: 2022-02-15T17:40:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/943480"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
+
 secured: "X7IZYJU29iQdFI2no0owyNZwz4tiL22TbL2+ZT64KM6aVIM5hRDGKR7p30csE+oCJic6NRqOU83mf6c2yMQoGg79f22XOqx2QNQs/YpvxmVpPqCOba4oBqOA2qIaUSi/xYLaq3TcRDTpMqUb77fSMzTW5asSy4Zxsbn24/NSEPLAbsYEkPCSvdlAy7twuQFBPsqtK4CuGjmnNEWQarwkqGbLij1XUi8YlzL21kW0FhJM/VcrQ8ql8VRtUmwG+/u7BTF4z69ph27gNE9hWGKIOB1sbJM6S5707srY7WNTCWDs4Z0fCZ7WeikpQRfVrHtIOmwYkpjYjyIrAKGtwKxT65jMECJnoJIeAm+rwXsCNzs=;Z2y8CE6bBH7ARKqf4C1c2Q=="
 ---
 

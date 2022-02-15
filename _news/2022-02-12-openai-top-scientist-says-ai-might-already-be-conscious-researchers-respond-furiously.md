@@ -40,22 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI Chief Scientist Says Advanced AI May Already Be Conscious"
-    excerpt: "\"It may be that today's large neural networks are slightly conscious.\" OpenAI’s top researcher has made a startling claim this week: that artificial intelligence may already be gaining ..."
-    publishedDateTime: 2022-02-11T01:16:00Z
-    webUrl: "https://futurism.com/the-byte/openai-already-sentient"
-    ampWebUrl: "https://futurism.com/openai-already-sentient/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-already-sentient/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/openai-already-sentient-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "hL91T3oHvn47X8McqKVll6XvHqjr3Ih09tHnW8oLlPKGRfLZL+J+5tCdadPI7FnBG9WQIphN8otzyLwwFK4w0fp6tf1YMyEDEznVbHtRHe1GuPsAYYF+VHr740i2/hMXxI1Dn2JlE91Ow/gxKjgWTzVS/egy/SiiaBCPY0dFLtWOoLzyl2HbJKYhCcsK8mNbchi5D0rb21HwUeFBqUPemzmlSs/q3c30gm1uT3q8OpxN3rGZAY4PSyIxH3JcQmTVst0aqmbWPlD7JxUFRvCvrfrETjfsxEVjZQinCpkTcb9p96qMSGhSoQSF5yvRcmeh7x6scYJDgGQpw9dRYR+UTKXtFVQZ01pUGTHZJ+C2gl21xuykEIiCaliwowyPsEkXeLsjqoQh5vobAGgUzmBqSqq1qMD1+Ecznt0BKHAXDCK2OsxcyoRLLhLxhI2QAlrNypNtXx91GxQHQEaa9PJngRj36u5c03/Qr1xvZ/sBKmFyfjQ/7KT6sph4f7OLDWUu7l4BK4zjtGoNbCYLjfNCZQ==;xsWoWnJMhmGLPV3vXVUwMA=="
 ---

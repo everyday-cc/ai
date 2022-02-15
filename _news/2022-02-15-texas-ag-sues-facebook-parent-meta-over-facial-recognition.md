@@ -1,25 +1,30 @@
 ---
 category: news
 title: "Texas AG sues Facebook parent Meta over facial recognition"
-excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-publishedDateTime: 2022-02-15T15:36:00Z
-originalUrl: "https://www.thenewstribune.com/news/business/article258385193.html"
-webUrl: "https://www.thenewstribune.com/news/business/article258385193.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article258385193.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article258385193.html"
+excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed ..."
+publishedDateTime: 2022-02-14T19:40:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
 type: article
-quality: 41
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+
+images:
+  - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Texas Sues Meta Over Facebook’s Facial-Recognition Practices"
@@ -400,6 +405,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas AG Sues Facebook Parent Over Facial Recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-15T15:55:00Z
+    webUrl: "https://www.manufacturing.net/laws-regulations/news/22056255/texas-ag-sues-facebook-parent-over-facial-recognition"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 41
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/02/16x9/AP22045682669852.620bc39d99efc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z
@@ -495,6 +514,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "5jHscyFF4VyfdBd8jfUMLtlTGHtcRRynoN1L9E3+0vB6TmQ+k28xzLNrTbsVsvrs8hbc92dNjiE9VWOS4g2D4JhJGhXQ4uB2TC3GN3p1OrJgD81WhB2pqyiO7wvrgDfnuidsEVEqsgdcWvgIg+2i00Akkv7fepkoWt4On7svhpppvLaIZ+Avo9E95dJjMyL49fsPsTZhsXLwXouc7Nnc/Q/NESX8HEz0FtFK/kgN8XWGxKz2SLmvDPwb+dwucSUh1m5mRMV6rNmCyhM0RtqF7KRm0g7x7D2CTRXCX0eztMSF7XjT2oux7g6uyc9Vbc2TmPh0xsBvO9bG2tKaR6NtUG6VaCIuf75cCp3Mgxc/tp/GxQhnSIq1ejVppYyGSCPz9WjJEVnZgigjIWJCmihmWBvD0RS7xxZkHrBOM9TUq8jE8aptP8soZaSO9hC9fnwhtiRQLX/ENOUSDFK2Xvwtxc16kBHOXPzTW1OaYf28o2M0YlpwyoW9YLaGZ+fpS683vrBIOX6ZpYVg8nou2a1JTg==;y5xzy/8FI/ftC320YbWfhQ=="
+secured: "HpD9Je6EPa1cBHglW+N5wOP8AzKbhYN5q737tw49DeiwurXmwUc6EkdfkH6v4b4OrC7J31TiCinpXvriN6YdNURlcoeAt/AIlZ51ttRhlAnFf+4nVBCrChwcJCZDW3p56/XCF0gtbCz2xO1qBGbTsLiS792gYCyW98BCTJPH+/idpRDHVGPXjwkFC0ZaGfKOt1j+IcMKkX9rlE8q7+7yO/32xZ2NF4piwCMGZ2wWPwtSUMsBa8XuPqp1kxbdXBZ4/xpqI2Z1ZIEL3wxZOy1QvqZS3bf5Kolvevm06LUqfxzn2PIZFe++zRXjWQJsa0zmfbfvUgbg+3QH4zSoSHg73AUWLuV6Q4V3ckH0tZ+YqfU=;W5/FpLUi5s3kOyccK3/DDA=="
 ---
 

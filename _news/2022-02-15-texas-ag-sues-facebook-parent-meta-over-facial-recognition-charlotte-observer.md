@@ -244,6 +244,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed ..."
+    publishedDateTime: 2022-02-14T19:40:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Texas apparently just realized Facebook used facial recognition"
     excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
     publishedDateTime: 2022-02-14T18:05:00Z
@@ -400,17 +416,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+  - title: "Texas AG Sues Facebook Parent Over Facial Recognition"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T15:36:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article258385193.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article258385193.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article258385193.html"
+    publishedDateTime: 2022-02-15T15:55:00Z
+    webUrl: "https://www.manufacturing.net/laws-regulations/news/22056255/texas-ag-sues-facebook-parent-over-facial-recognition"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 41
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/02/16x9/AP22045682669852.620bc39d99efc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z
