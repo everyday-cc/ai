@@ -69,6 +69,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Evolution of Fintech to Progress in future"
+    excerpt: "... but the underlying technology that has driven the Fintech 3.5/3.5 era, namely blockchain and open banking, will continue to drive the innovation of the future. Artificial Intelligence(AI) and combined with Machine Learning (ML) have developed a new ..."
+    publishedDateTime: 2022-02-13T14:52:00Z
+    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
+        width: 490
+        height: 351
+        isCached: true
+  - title: "Why The Future Of Fintech Depends On Open Data"
+    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
+    publishedDateTime: 2022-02-14T10:32:00Z
+    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 24
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
+        width: 1724
+        height: 1080
+        isCached: true
   - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
     excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
     publishedDateTime: 2022-02-14T20:40:00Z
@@ -93,6 +121,6 @@ related:
       domain: finextra.com
     quality: 0
 
-secured: "/sj12h3ywjKTyhIuIVHBXHWDRYbjwIGO50dCkfcT/5ifmi+J8LIR6HNW3u6rdxStmxRk68LWwWMnuzPAUTooKYjWmnKNH1/PTZboSgIOqftRbM0TUa9EfHNofMmk5+HjGw+hvZFlijzzoPEboKtQp2+xuus4TnrBCj86xl69hkwhae5CDI3YrpOn463keoSk4nu1muYJTGFEHQMxOr5j16RNVAlleL6kIhKLLN6PEoT8HWsoBqBy35dFmJELsJUc4qLRBNz6y/VWgk2YbsMw01HUN/VcLXtfKqNki0iSGYuYm2OzKrGJNdj3JcSsO5wcQnJVr8PVYW3jwuxajDC5ZF20WQ01haiO7lst1j2rnk4=;XmX3sLU7SZvOaYbLUMcGxg=="
+secured: "ZbH+ZcYgFrMcWFbmuCQQ/Uu0zYLezrR08ldVQpP0U2UOcEBzttXF8+rNYhm3v5eLHe+5lHyx5TQPaiLSMKfneZlsoDUYTQDDW4LRMeTg6t4PFrW+5GIv90xWDKQ6sjeloZ12QMqnTU2rbQaKPCZJ2o3AmUxbzgB/k6mOfvt9UU5ZxfYqXQa8/kBWemW7vrjqpZK775CPSn9laZkuyiZWlEFiwUi0J3z0bbtDkWBEo7e9naEt4Gc4nTBisl7RR+OZVc33rf9EJ99/OWGMvPj2Os+jkObDsM+Tp9qRdB1HRiv1/AImqRYeW+QCoRdTQtepS+K/9slWeJGQp9ayZ479P03+2AP0GjYBn7fCpRGriokvntkwvRY8aVdMQ/ypJBb8Itq0dgKjnCPGLpYCy0u4U4C3l9xbKtWJXchrpkXJZBn0rLlZm2y2i66dbgqlbTdVSzXYIkiXU7GYOxbNYj7poS5Yvx7HH+2SZn9ym9AFVnx5593QCQkRmBEAqKoaFyIz7a5ySDwatIw5OIjO2a5XMg==;Ec3gqcoDxQy3/j3ky8VYoQ=="
 ---
 

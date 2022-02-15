@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-m
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2022/02/green_tree_sustainability_gettyimages-1314148583.jpg"
         width: 2120
         height: 1193
+        isCached: true
+  - title: "Microsoft’s big cloud expansion plans with Azure"
+    excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
+    publishedDateTime: 2022-02-15T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsofts-big-cloud-expansion-plans-with-azure/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "TANAAKK HITSERIES now available in Microsoft Azure Marketplace"
     excerpt: "Also Read: How Enterprises Can Identify and Evaluate the Right AI Model Governance Solution HITSERIES offers ... “We are excited to scale HITSERIES through the Microsoft Azure Marketplace. Every cloud-native company inherently has the critical demand ..."

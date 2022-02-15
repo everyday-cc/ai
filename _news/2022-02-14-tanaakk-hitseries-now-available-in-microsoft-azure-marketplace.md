@@ -44,6 +44,20 @@ related:
         width: 2120
         height: 1193
         isCached: true
+  - title: "Microsoft’s big cloud expansion plans with Azure"
+    excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
+    publishedDateTime: 2022-02-15T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsofts-big-cloud-expansion-plans-with-azure/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "K2Q0EFjzIjw6RxPw/A41/5O3QbVwWmesdSbUzy4QUSl4thHIKduZu6nN1Eb2vVqz1gSIxjGD3w6lJ94vSMxoByC0ArqGEExAfi7ebk9YPDmxHJBjz5+6Fg/b8gDsWunrZLJd3pF8qXgTBlaPWXhinErhKJAavzCxVgvkE44pAbv4CrHbO2a1kfjLB0tHiBgEkDYs4XpbivnkDjzpnaE1NN0h3oV4cw0JMTMOnXb7mU6vgeaOl9lCPfklkY4YIm57RVNB1S3i44QG8r71Yx/YXtaDVMRSzKbNfrO/1cdXtqmPk/Uea3MkzRMb5fuIs8GdC12BRpqoZFdOpxZ+B6SjoyG0Sl/egkfN91VtRgc5PAJbebRjm7PdiolDy1cK6WfK8li9c1bylNL4MLVChCV6aWdMU8ni7Bb2ncO2/V2KfiyQuOwm2YUHv/SRcc0hebVkMqCOk+fFhdkmMTwO1IIV4DeF07gFbSXdTZ6IxTQjSlmlMuTKGVWghOeRAFwGfF4ot45JkxlXdjYTMxnZtnwR4w==;aUP1PaEl9sS6woYd2XQjeA=="
 ---

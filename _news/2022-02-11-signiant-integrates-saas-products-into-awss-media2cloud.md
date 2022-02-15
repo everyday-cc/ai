@@ -59,20 +59,6 @@ related:
         width: 874
         height: 413
         isCached: true
-  - title: "Signiant Integrates Media Shuttle, Jet SaaS Solutions into AWS Media2Cloud"
-    excerpt: "LEXINGTON, Mass.—Signiant today announced integration of its Media Shuttle and Signiant Jet cloud-native software as a service solutions (SaaS) products into Amazon Web Services’ (AWS’s) Media2Cloud. With Media2Cloud, frame-level metadata is ..."
-    publishedDateTime: 2022-02-10T17:38:00Z
-    webUrl: "https://www.tvtechnology.com/news/signiant-integrates-media-shuttle-jet-saas-solutions-into-aws-media2cloud"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hLeX65sNpQAinKC3F3qRFe-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "e9pdlZwuh3Qp0AKw7JvOgVXzbTbmtVo1NEx4F7B+GmWTNX4Nrlw2ysOUbJvCjjiyX4+2su49pYR+XhaP3vyNdAyxWJyF7I4yqs5us9MSU4MaLTCJR9uUMRNNvkYHSfJussc+B8HjShJuNua4jMQtvqtOKxUG5IJcM7B8WoTAGjgY0mBPnJ07D519v0Ypw6Ci0BbU6g+eSoVCzxOaqYwzN3ZTy18hl9yXH5N11uSRt+TmLW0wWCXFRuLDkCUD6YO3WVPBLosjOVrfWZp/HwtKgljp6gy0BnCYnb/OW6+1/BSecyiPwo/oYxSosYIKFZGaE0nBuHhiGQPx9ax0LyCAsDSPfEzLLP5Y4oW//isoyZ5sapfRdjFi9DkEy91hGFb80HyjosXG106wFl9SqpOaTQ7UoD6mZSaB66x1nQGT/wNonxqZa16Pd59LQusksh3PNG8FGaEs/RQ3uEYuPc7HJuuFjBpcB4z6eQmCe4O4lhshdPpovUmULmfnRio+zSXSTNCp3oqxRePJevCwhbqFgg==;2GebuVlmdmE+tzo+NNNEUg=="
 ---

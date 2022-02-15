@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-11-telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits.md",
+      "title": "Telemedicine and artificial intelligence, a pairing brimming with benefits",
+      "excerpt": "This support to be provided by artificial intelligence in the world of healthcare stems from the amount of computer data available, whose management now lies beyond human capacity and which requires new tools to organise and understand them. Chatbots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/",
+      "originalUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/01/pexels-negative-space-48604.jpg",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/",
+      "cdnAmpWebUrl": "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/",
+      "publishedDateTime": "2022-02-11T00:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telefonica",
+        "domain": "telefonica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-deepdub-raises-20m-for-ai-powered-dubbing-that-uses-actors-original-voices.md",
       "title": "Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices",
       "excerpt": "With Deepdub, the aim is to bridge the language barrier ... including the translation, the adapting, and the mix. In other words, it’s not just an AI platform, it’s a full business that ...",
@@ -509,7 +552,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts-in-business-courses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -614,7 +657,7 @@
       "originalUrl": "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -753,7 +796,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -787,7 +830,7 @@
       "originalUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1135,58 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-micropsi-raises-34m-to-retrain-industrial-robots-using-human-demonstrations.md",
-      "title": "Micropsi raises $34M to retrain industrial robots using human demonstrations",
-      "excerpt": "“We and everybody around us — that’s us, who provide the AI, but also the makers of robots ... “Most customers will start with a single system and then add more as they validate its ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
-      "originalUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1316352689-e1635532855453.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
-      "publishedDateTime": "2022-02-10T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

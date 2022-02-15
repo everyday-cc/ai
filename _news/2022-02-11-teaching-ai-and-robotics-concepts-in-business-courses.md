@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/teaching-ai-and-robotics-concepts-in-business-courses/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI and Machine Learning Algorithms in Response to Emerging Infectious Diseases"
+    excerpt: "We invite contributions that include, but are not limited to: • Machine/deep learning or AI-based approaches to identify the biological structure of infective agents • Algorithms to identify variants • Machine/deep learning or AI-based approaches to ..."
+    publishedDateTime: 2022-02-15T10:23:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/32926/ai-and-machine-learning-algorithms-in-response-to-emerging-infectious-diseases"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 30
 
 secured: "YIYAuigWM7YakyDHrJOjqocVpiIjrznSx+DNrn3HnERPmQlOyF+femKxW5M/mCZ0zQuAC2Qzhla73L/uthpkXdLCR1DEfgcRaNwdHlcvd+fGP8O6hx0Qf1CDh4LZ4KAMx0+5G98K1lJl8V1HNvw1VhHqnS1/+AeIon3YMfRZCooH9vlY6zwLS+fYCgRN+UCqS1Dh8Riy38O25xsRj4Sxo8v3LkkvRSX0x6/cJICUtUwQTkMNNZJX8UvHacCdbueTZlxjFPvmaMfG4Nnyq7GIgO0zM0Mt+C8UgJUN/FOgXgqphIJ6ViBVPobV+o3J3u1OJvxKAow0x4ODadBik4jBUG+TbaRn1CG/LRUT6KEd6kle+PcG4MIR2YDaPCmKJMt//30JJtWywA1rktpxphMQXHqZzNLS02eiRwR1+PBOOno2FzQtak1C0961oFZBWb2Q/eM4nRe0v4wL9p9cK/o3Nj4HpazuDPHOmvGQiYOPd1Reod1tRQc0LCwKLv9WDQyGLfTt8vDoWGD1btZhyUjYLg==;hOj+/fnkGO++ortrGUuIlw=="
 ---

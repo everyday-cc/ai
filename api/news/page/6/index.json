@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-09-tesla-cut-a-steering-component-from-some-cars-to-deal-with-chip-shortage-sources-say.md",
+      "title": "Tesla cut a steering component from some cars to deal with chip shortage, sources say",
+      "excerpt": "Tesla omitted one of two electronic control units in the cars' electrical power assisted steering systems. Tens of thousands of cars are affected, sources say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html?utm_term=Autofeed&utm_medium=Social&utm_content=Tech&utm_source=Twitter",
+      "originalUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106806379-1607090740945-gettyimages-1229775273-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090829",
+          "width": 4000,
+          "height": 2672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
+      "publishedDateTime": "2022-02-08T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review.md",
       "title": "Impact of maternal obesity on the cognitive function and mental health of the offspring: a systematic review",
       "excerpt": "Exposures considered were maternal BMI, height and weight, The outcome was any measure of cognitive function and mental health of the offspring. Quality assessment and risk of bias was assessed using a standardized form consisting of 22 criteria ...",
@@ -1111,58 +1164,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa.md",
-      "title": "The Great Resignation gives birth to digital employees powered by AI, ML, and RPA",
-      "excerpt": "Companies across numerous industries are increasingly relying on digital workers to automate and streamline various tasks — and, in turn, these virtual employees powered by AI, machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
-      "publishedDateTime": "2022-02-07T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

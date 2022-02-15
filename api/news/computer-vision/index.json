@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology.md",
-      "title": "Texas attorney general files lawsuit against Meta over Facebook’s facial recognition technology",
-      "excerpt": "Texas Attorney General Ken Paxton has filed a lawsuit against Meta over Facebook’s facial recognition practices, his office announced on Monday. The news was first reported by The Wall Street ...",
+      "path": "_news/2022-02-15-texas-lawsuit-claims-facebooks-facial-recognition-violated-user-privacy-and-broke-the-law.md",
+      "title": "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law",
+      "excerpt": "Texas attorney general Ken Paxton has taken yet another swing at Big Tech, this time suing Meta for allegedly capturing and using facial recognition data on millions of users without their consent.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/14/texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology/",
-      "originalUrl": "https://techcrunch.com/2022/02/14/texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology/",
+      "webUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "originalUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 374,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-rotate-pattern.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/097c4a263d1e62634e634f40e3b2b165.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +76,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/14/texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology/amp/",
-      "publishedDateTime": "2022-02-14T09:47:00-08:00",
+      "ampWebUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "publishedDateTime": "2022-02-14T10:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -209,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-share-forecasting-competitors-global-impact-2022-to-2027-2022-02-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -314,7 +314,7 @@
       "originalUrl": "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {

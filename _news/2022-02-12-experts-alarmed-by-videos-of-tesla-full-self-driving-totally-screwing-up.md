@@ -57,22 +57,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "'Full Self-Driving' clips show Teslas on train tracks and fighting for control. Experts see deep flaws"
-    excerpt: "Each of these moments — captured on video by a Tesla owner and posted online — reveals a fundamental weakness in Tesla's Full Self-Driving technology, according to a panel of experts assembled by the Washington Post and asked to examine the videos."
-    publishedDateTime: 2022-02-10T17:26:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/02/10/full-self-driving-clips-show-teslas-rail-tracks-failing-yield-tdn/6734640001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/6734640001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6734640001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 58
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/20/PDTN/766b09c5-25eb-4df0-a8df-153f952d5296-BIZ-AUTO-TESLA-CRASH-REGULATORS-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
     excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
     publishedDateTime: 2022-02-14T18:01:00Z

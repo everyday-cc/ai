@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-04-how-will-conversational-ai-transform-customer-experience.md",
+      "title": "How Will Conversational AI Transform Customer Experience?",
+      "excerpt": "... recognition (ASR), the AI application can understand spoken words and translate them into text. Next, the AI app determines what the text means by using natural language understanding (NLU) and then formulates a response to the text. The app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/how-will-conversational-ai-transform-customer-experience/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/how-will-conversational-ai-transform-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/069a8728bac64cff929d04d6787a26f0.ashx",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-air-force-taps-clearview-ai-to-research-face-identifying-augmented-reality-glasses.md",
       "title": "Air Force taps Clearview AI to research face-identifying augmented reality glasses.",
       "excerpt": "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ...",
@@ -1183,57 +1226,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-four-tips-to-avoid-common-startup-errors.md",
-      "title": "Four Tips To Avoid Common Startup Errors",
-      "excerpt": "As a global investor, I’m often asked by global entrepreneurs how to scale successfully and avoid some of the common errors that startups make. Startups are faced with a range of decisions at each phase of the company’s growth;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fa764aac29d3e6111fe0fa/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "publishedDateTime": "2022-02-03T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

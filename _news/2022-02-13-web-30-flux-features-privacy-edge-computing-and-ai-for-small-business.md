@@ -41,6 +41,15 @@ related:
         width: 1199
         height: 622
         isCached: true
+  - title: "AI and Machine Learning Algorithms in Response to Emerging Infectious Diseases"
+    excerpt: "We invite contributions that include, but are not limited to: • Machine/deep learning or AI-based approaches to identify the biological structure of infective agents • Algorithms to identify variants • Machine/deep learning or AI-based approaches to ..."
+    publishedDateTime: 2022-02-15T10:23:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/32926/ai-and-machine-learning-algorithms-in-response-to-emerging-infectious-diseases"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 30
 
 secured: "yqK8usSb796D9zuA1lKg24en+TQSvfagfBBXtQfpNCvCJ3B1j7gmNa2t+Yzq4SNVSYUayX1AvVP9pigoRQWsUtPDSGrvV0p85ryoDNf6n8PJB1V+ztUM1CxJKxNwiXry0HqGha7eKY7U/9OQsRUWylsdjjPKPeSdwxHoQgmUz5oLBfaUvePS/NIsmEpDoVlJ5g9xBuyB5Yg9doGpcbOB27hwliHvDywv5nHje++gDZs+zyFWr+xG4a1n78/zKuPQxB7IIZkOJSUd/eUPs17bmsvxBxFtn09rncK/RbFWkGaKcZQvRx/j+WVFtw3raYJEmAptt0DxkBjwGibjD8ioYxnu7z2JAPNcCwY8T9IHdek=;ADjO/0KAyA86ZMgIAITVhQ=="
 ---

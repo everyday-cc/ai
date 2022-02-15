@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2022/feb/15/new-york-facial-reco
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 483
         isCached: true
+  - title: "More facial recognition technology reported in non-white areas in NYC"
+    excerpt: "\"The facial recognition tools are not attached to those ... effect on how people engage and how they make use of their free speech rights. It's extremely frightening thinking about how protests ..."
+    publishedDateTime: 2022-02-15T05:30:00Z
+    webUrl: "https://abc7chicago.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 41
+    images:
+      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
   - title: "Virginia lawmakers move to end ban on police facial recognition technology"
     excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
     publishedDateTime: 2022-02-10T23:12:00Z
@@ -90,6 +104,6 @@ related:
         height: 654
         isCached: true
 
-secured: "YiViU07bpr5cPbxShXgHoMZrHH9NGa8PFoNM9eS7oD009MzVht2m1Xm1XuuJKiwI3UHqTSpqn1CmlczpoKrj8ERfZEKi7JTquS3sJzCorBY2SBgdRVPiNQ1Cr8Vw2b9WqNbXw7ahsBo2W7q7sxvdCX+gtxM0+HuDhxz02fShNgA2s7N8dV2xB/EmAml/NrI1Kl/9HkuEZ+7bHZAY69lf5KlL4gIF2OMGIvQKInkXMUev0Hzf6JB4z5hI7zPVMitpHSDz1zcxdBPjBa4VvbYnKMN7RPkHdLxlOBDEaSYQaIkDJT8rJRuO1zd2pgqMJzDSJPLPIEVRmu+ZOa6/JJUaCyzKYDjABT1wP+u4QEPrzQg=;hS1HF9RzG+c/Nfp3wWzZ0w=="
+secured: "Tu3sSAfE5d/fyjLHkbwGObELVykcRWMuiluuOerRb9HBuMAJY0v1/CmtnCYUUoqFaydW5gIGMy6w7gl/cMWcJK/r/uTuN9K79fVmaSxBYxTZW4Yj+VoVGZ9n1Jv19r6OI2P0A6XS9luv+KIrpcIHyp7sEvIvIUvetapCKT0Yqjzb6WIFdAirHYrYM8iwdNrjDegMk2odCdj5WLvmz25xI4aWWWkve5U87Lv1s+EiwNUnn4+oB1g1fglgDWYVl+Emqm9MpaRHaLAA31Ax3+VIvw8dSC+faJKZ1hBWNBIW4wlTM9zmY7bNh1dgqHy+7jWyHhvEyv1Ur5WyIb/eNEm+VHcBH22t/nZOVyCoI5U9VzebKSvGNH/ydtbSXABa2fjP91pTDM6FWyLjrEuWxPDR4z/azxHK1LcoqLcZiJlfWsqC6g7YapggkBWxmSIRWmEA3hr6uwDElAg7fB0ug72hUTDrSg2h0dijnN3cV2BNXmNwiNLpnhgr4sP+LSSzgclDLV8TSJHr/si/XMFZcFAt4w==;GO05OKwD2DWgRNK9/4+Odw=="
 ---
 

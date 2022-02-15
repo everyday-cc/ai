@@ -2,6 +2,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-02-02-want-fair-redistricting-use-artificial-intelligence.md",
+      "title": "Want fair redistricting? Use artificial intelligence",
+      "excerpt": "Over 200 years ago, the “Gerrymander,” a salamander-like legislative district, was mocked in a newspaper cartoon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/PdC_O1q7OQzw1frCV0NMi-1SkB4=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FWAFTSG63FBRTBWC6VVVY46YJE.jpg",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "publishedDateTime": "2022-02-01T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs.md",
       "title": "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs",
       "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios. The recall will impact Model S,",
@@ -1113,40 +1155,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-fujitsu-establishes-ai-ethics-and-governance-office.md",
-      "title": "Fujitsu establishes AI ethics and governance office",
-      "excerpt": "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office",
-      "originalUrl": "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

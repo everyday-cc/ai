@@ -59,6 +59,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Evolution of Fintech to Progress in future"
+    excerpt: "... but the underlying technology that has driven the Fintech 3.5/3.5 era, namely blockchain and open banking, will continue to drive the innovation of the future. Artificial Intelligence(AI) and combined with Machine Learning (ML) have developed a new ..."
+    publishedDateTime: 2022-02-13T14:52:00Z
+    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
+        width: 490
+        height: 351
+        isCached: true
+  - title: "Why The Future Of Fintech Depends On Open Data"
+    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
+    publishedDateTime: 2022-02-14T10:32:00Z
+    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 24
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
+        width: 1724
+        height: 1080
+        isCached: true
   - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
     excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."
     publishedDateTime: 2022-02-15T08:32:00Z

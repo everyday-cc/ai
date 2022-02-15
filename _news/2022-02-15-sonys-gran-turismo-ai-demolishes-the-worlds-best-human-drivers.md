@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/"
 type: article
 quality: 89
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sony develops Gran Turismo AI agent that can beat top game players"
-    excerpt: "She continues to expand her repertoire as a tech journalist with ZDNet. Sony AI, together with Polyphony Digital (PDI) and Sony Interactive Entertainment (SIE), have jointly developed Gran Turismo (GT) Sophy, an AI-based agent trained to bring a realistic ..."
-    publishedDateTime: 2022-02-10T17:57:00Z
-    webUrl: "https://www.zdnet.com/article/sony-develops-gran-turismo-ai-agent-that-can-beat-top-game-players/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sony-develops-gran-turismo-ai-agent-that-can-beat-top-game-players/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-develops-gran-turismo-ai-agent-that-can-beat-top-game-players/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/41efcde271a966a96e2a42a4b58a6252d6942cdb/2022/02/10/bda73196-ea07-4c81-92ae-ffbbad5d918e/sophy-web-004.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Outraces Human Champs at the Video Game Gran Turismo"
     excerpt: "Credit: Jack Thomas/Gran Turismo via Getty Images To teach their program the ropes, the Sony AI researchers used a technique called deep reinforcement learning. They rewarded the AI for certain behaviors, such as staying on the track, remaining in control ..."
     publishedDateTime: 2022-02-11T20:16:00Z

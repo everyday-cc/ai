@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Healthcare Market by Product Type, End-User, Application, Region - Global Forecast to 2030"
+    excerpt: "Kenneth Research has recently added a report titled Global AI in Healthcare Market in its storehouse of market research reports. The report provides a detailed insight into the market scenario on ..."
+    publishedDateTime: 2022-02-15T10:55:00Z
+    webUrl: "https://menafn.com/1103699724/Global-AI-in-Healthcare-Market-by-Product-Type-End-User-Application-Region-Global-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?972537"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Robotic healthcare to be the future of Wheelchairs and Components Market"
     excerpt: "The gamut of care is being driven by the usage of sensors, digital technologies, and wearables, thereby allowing the healthcare personnel to delve ... areas such as computer science, robotics, artificial intelligence, and sensor technology are broadening ..."
     publishedDateTime: 2022-02-11T20:40:00Z

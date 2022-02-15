@@ -44,6 +44,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "No, artificial intelligence is not slightly conscious (yet)"
+    excerpt: "Consciousness is a much-debated point in the field of artificial intelligence. Making an AI model reach minimal levels of consciousness would be one of the elements that would signal that we are very close to general artificial intelligence. Many ..."
+    publishedDateTime: 2022-02-14T15:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-slightly-conscious-yet-luca-sambucci"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEu6xNbLnPegA/article-cover_image-shrink_720_1280/0/1644840290062?e=1650499200&v=beta&t=0ZkIO-5VP_36F3EtnZFNyC50NayLVsxSBRgR5BwEYDg"
+        width: 1000
+        height: 661
+        isCached: true
 
 secured: "B+g94KuuPVSjWFjxOSwdAKswsw3C7i7BuO8bg09xKwFfw6IhcKKW1OoOOrXPUEu7J/H6DSrbiLKsJUr1qm0iPv7bPleTzOrFIN9shzdzYpyD4LAkHklAFKCUsC8cvVJY5KTlQRIhlM/N/eP2RO4dx7aOQxEKl6fdL29KEj2gmpQsj+4JXbmLyqzGxStfGBxxlesGQI6/5MKnhEPVFkc3iogTxk7cnn3rdmyGUn4Mzga/IFS3b1laAd3VyN6OdfX2eUerpAbx7dhrTsZJwmSMXZcMO4iQ48hg34zfaiF6vDFgtOIX1mzTpgtoxi6xAvkgpDIwmOqRCPWXReso0NUnSRFcbyo0puxSk7G+01TtIILpxEj6+5gR8S62sqni4HK3e8UAKE0kueATYUsIPjxn81MVNw4o4YKgqJVGfZGziiMYSssqNwQKsFTZTA1KAPwujaoSKAooIN1ohUeHLbfwDrcF5S5VRzPHTjse1A1piYaGYHCMxi3N7Oyq+1MlYfZXSm0/Hn9RTwb8hMlgZitiOQ==;6YllQqEwLB0oEg+AN2gIPw=="
 ---

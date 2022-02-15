@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemi
 webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-business-health-travel-lifestyle-c7f6abab9f4048868c3cba78d2d5521d"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "22nd Issue Oil & Gas Start-Up Tracker - AI as a Tool to Achieve Sustainability Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The “Oil & Gas Start-Up Tracker - Issue 22” report has been added to ... newer technologies, such as AI, IoT, and robotics are starting to gain more relevance in the industry. Oil and gas companies adopted automation technologies for their upstream ..."
-    publishedDateTime: 2022-02-10T18:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-oil-and-gas-industry-fefd5ff82774434baa66c6525ef3f45a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "dJz+NxN6nSABzwQRzTEajCagl0OZspAkiTZ2tgK1h/juyBQn/0xFUiTFixIHnKbsjZg4PK/dia1fhCryjeIj5D+B+dODB7ELJ/YqaawVz7MABAMR6H7O9vklsCPdRkZqYYnOVPvlcZIE+BBxKtkK833U6+HGmAcMXWiZdf7M6E9QmoO5Pf5BcKMS9d4/uIlmECO9054Ir7LstqK9KRIlAdyenS2Yz/Tihc4GbfPTC5cVRTQK2m6d+mW5H/IvhReQ6xUvDWv1kVEvvlL7MEUfo84pHEmWt90v4IbwCT3it63ZQFP1l11/LIIUQpTv27FCpqTcPAttIwJprCklxjSFaSoFAF/P9i5UMIDdX3Y2dvk=;2DPunZ/VVANkGxALs1KtgA=="
 ---

@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-31-chinese-scientists-create-ai-nanny-to-look-after-babies-in-artificial-womb.md",
+      "title": "Chinese scientists create AI nanny to look after babies in artificial womb",
+      "excerpt": "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/30/3a67679c-ae63-438d-9823-d9cd26b35347_133e8188.jpg?itok=V-lHp7fa&v=1643542137",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "publishedDateTime": "2022-01-30T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-5-ways-aws-robomaker-is-transforming-the-robot-programming-game.md",
       "title": "5 ways AWS RoboMaker is transforming the robot programming game",
       "excerpt": "5: Giving educators a machine learning tool Amazon revealed a new hardware product at AWS re:Invent: DeepRacer. It’s a 1:18 scale race car that uses reinforcement learning to teach it to ...",
@@ -1169,49 +1220,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so.md",
-      "title": "Watch now: Are Illinois farmers ready for self-driving tractors? Deere thinks so.",
-      "excerpt": "The high-tech vehicle emblazoned with the Moline company's iconic deer logo marks a massive leap forward for farmers, who will have a solution for improving yields and efficiencies. That could",
-      "sourceUrl": null,
-      "webUrl": "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html",
-      "originalUrl": "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/f9/df968333-46ac-520c-8a5e-1d04e8b98486/61f448235c638.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Southern Illinoisan",
-        "domain": "thesouthern.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Healthcare Market by Product Type, End-User, Application, Region - Global Forecast to 2030"
+    excerpt: "Kenneth Research has recently added a report titled Global AI in Healthcare Market in its storehouse of market research reports. The report provides a detailed insight into the market scenario on ..."
+    publishedDateTime: 2022-02-15T10:55:00Z
+    webUrl: "https://menafn.com/1103699724/Global-AI-in-Healthcare-Market-by-Product-Type-End-User-Application-Region-Global-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?972537"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market, Size & Share, Growth, Trends, COVID-19 Impact Analysis, and Forecasts to 2028"
     excerpt: "Machine Learning as a Service (MLaaS) market was valued at 2103.3 million in 2021 and is projected to reach US$ 7923.8 million by 2028, at a CAGR of 20.9% during the forecast period Machine Learning as a Service (MLaaS) Market 2022-2028 A New Market Study ..."
     publishedDateTime: 2022-02-11T18:00:00Z

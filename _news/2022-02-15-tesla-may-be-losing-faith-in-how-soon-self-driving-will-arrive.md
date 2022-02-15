@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://media.tegna-media.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "'Full Self-Driving' clips show Teslas on train tracks and fighting for control. Experts see deep flaws"
-    excerpt: "Each of these moments — captured on video by a Tesla owner and posted online — reveals a fundamental weakness in Tesla's Full Self-Driving technology, according to a panel of experts assembled by the Washington Post and asked to examine the videos."
-    publishedDateTime: 2022-02-10T17:26:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/02/10/full-self-driving-clips-show-teslas-rail-tracks-failing-yield-tdn/6734640001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/6734640001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6734640001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 58
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/20/PDTN/766b09c5-25eb-4df0-a8df-153f952d5296-BIZ-AUTO-TESLA-CRASH-REGULATORS-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Experts Alarmed by Videos of Tesla Full Self-Driving Totally Screwing Up"
     excerpt: "So much for Tesla having the most advanced self-driving technology in the world. A panel of experts assembled by The Washington Post have reviewed and verified footage of Teslas equipped with the ..."

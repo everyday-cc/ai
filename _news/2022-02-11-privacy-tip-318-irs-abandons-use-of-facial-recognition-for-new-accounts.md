@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-318-irs-abandons-us
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-318-irs-abandons-use-facial-recognition-new-accounts?amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
         width: 860
         height: 520
+        isCached: true
+  - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
+    excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
+    publishedDateTime: 2022-02-11T20:05:00Z
+    webUrl: "https://www.techzone360.com/topics/news/articles/451502-gsa-rejects-face-recognition-irs-other-federal-agencies.htm"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/4490654204-AdobeStock_211603224_facial_recognition_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
     excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."

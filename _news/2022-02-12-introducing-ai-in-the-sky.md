@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Balancing AI and the Human Touch in CCaaS Deployment"
+    excerpt: "They also deploy tech tools like artificial intelligence (AI) and natural language processing (NLP) to enhance the customer experience. Jeetu Patel, Cisco's Executive Vice President and General Manager of security and collaboration, explained that these ..."
+    publishedDateTime: 2022-02-15T10:50:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/858a0f30bd3e4e7084a0d20b24b121fd.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
     excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
     publishedDateTime: 2022-02-15T04:39:00Z

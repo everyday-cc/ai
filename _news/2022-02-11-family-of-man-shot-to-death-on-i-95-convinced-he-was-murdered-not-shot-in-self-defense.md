@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wpbf.com/amp/article/family-man-shot-death-i-95-convince
 cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/family-man-shot-death-i-95-convinced-murdered-not-shot-self-defense/39040388"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Maryland armed robbery victim allegedly shot teenage attacker in self-defense, authorities say"
-    excerpt: "The victim discharged his registered weapon in what police believe to be self-defense, striking one 17-year-old robbery ... and apprehended the 16-year-old and other 17-year-old suspects driving the vehicle. The 16-year-old and two 17-year-old suspects ..."
-    publishedDateTime: 2022-02-10T18:53:00Z
-    webUrl: "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense"
-    ampWebUrl: "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 62
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d273baf0-893e-4c61-968f-cb155b30fc76/bd6188a2-b614-44ff-9382-d274216cf78d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "jNM96meAgBcJtoIwhKp8YrEHtrQZTAGge8obOJgd0DNCbCugzlb0T1SuaroTo2c5xXkSxCIV/oVqq/qh65qLKhDqthTR8sLOac7hr4RCk+qTUZkR6CLkWLr8XOFdN9vm0kKD60zZcKHhgFFRiC8Hls7RmujRXOZm1JiWgYOeYOJSwUIixpomZTx67v1YDJB6LT+drSMpW2NSeemxqCFKxQNspSCXs0ZdcoxTFNWRaGZxMRgun6oZyRZ1cBBznSbE5Axvp2yApfs4po8no0jDuy2J7NKAjdA/1Ix9mIA6kYp4qpI3TBFhkG1pwqr18BlXtozFT+m7a0Ggkoy8vuXPDKBrnZ+zgPcynl93W2RbNMp0m7T5frQJzaSPABx7L98VvOT2BVAuhy5JjxZ8/ee576I+MJDRqNMb8VVz9phMUu+Hdgcv5K3Iaci4nUZA2ciB0UjU+YQXiPPJjxksE6MAcnyL5ULDPgBDiJUL8AqPqII0wKxf+zrYT+pXaKQ52/UVzpOevB8Hs0HUdL5/BICyrA==;tqNSV6uJxz0wCIGcU7b49g=="
 ---

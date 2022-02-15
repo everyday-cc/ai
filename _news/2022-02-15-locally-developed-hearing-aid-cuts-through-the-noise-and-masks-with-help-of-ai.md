@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Balancing AI and the Human Touch in CCaaS Deployment"
+    excerpt: "They also deploy tech tools like artificial intelligence (AI) and natural language processing (NLP) to enhance the customer experience. Jeetu Patel, Cisco's Executive Vice President and General Manager of security and collaboration, explained that these ..."
+    publishedDateTime: 2022-02-15T10:50:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/858a0f30bd3e4e7084a0d20b24b121fd.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence and the China-U.S. Rivalry"
     excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
     publishedDateTime: 2022-02-11T17:40:00Z

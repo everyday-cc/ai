@@ -202,6 +202,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-12-researchers-furious-over-claim-that-ai-is-already-conscious.md",
+      "title": "Researchers Furious Over Claim That AI Is Already Conscious",
+      "excerpt": "“Every time such speculative comments get an airing, it takes months of effort to get the conversation back to the more realistic opportunities and threats posed by AI,” UNSW Sidney AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/conscious-ai-backlash",
+      "originalUrl": "https://futurism.com/conscious-ai-backlash",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/conscious-ai-backlash/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/conscious-ai-backlash/amp",
+      "publishedDateTime": "2022-02-11T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-closing-the-gaps-in-security-through-ai-and-ml.md",
       "title": "Closing The Gaps In Security Through AI And ML",
       "excerpt": "AI and ML have matured to provide cybersecurity teams with critical tools to combat the rapidly changing threat landscape.",
@@ -210,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1376,59 +1419,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues.md",
-      "title": "Report: 79% of ML teams say they ‘lack access’ to data needed to identify bias and ethics issues",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. A new report from Arize AI illustrates that the day-to-day reality for data scientists and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1076658510-e1643733014824.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
-      "publishedDateTime": "2022-02-03T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "Machine Learning"
       ]

@@ -7,7 +7,7 @@ originalUrl: "https://www.auganix.org/data-capture-solutions-provider-scandit-ra
 webUrl: "https://www.auganix.org/data-capture-solutions-provider-scandit-raises-150m-in-oversubscribed-series-d-funding-round/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Data capture firm Scandit raises $150M, reaches unicorn status"
-    excerpt: "Data capture firm Scandit has raised $150 million in a series D investment round as it looks to expand the customer base for its retail technologies. (Photo: Scandit) As e-commerce, and specifically fulfillment operations, have ramped up, accurate ..."
-    publishedDateTime: 2022-02-10T18:34:00Z
-    webUrl: "https://www.freightwaves.com/news/data-capture-firm-scandit-raises-150m-reaches-unicorn-status"
-    ampWebUrl: "https://www.freightwaves.com/news/data-capture-firm-scandit-raises-150m-reaches-unicorn-status/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/data-capture-firm-scandit-raises-150m-reaches-unicorn-status/amp"
+  - title: "Wallaroo Labs Secures $25 Million in Funding Round to continue growing in the machine learning market"
+    excerpt: "Wallaroo Labs, Inc., announced it has closed $25 million in a Series A funding round, enabling the company to expand product, sales, and marketing, and to release a free community edition of its machine learning platform. The funding round was led by ..."
+    publishedDateTime: 2022-02-11T18:51:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Labs-Secures-25-Million-in-Funding-Round-to-continue-growing-in-the-machine-learning-market-151406.aspx"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 59
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/02/Scandit-last-mile-scan.jpg.optimal.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "YWK113gj6ZxcR+GW+OpoyHGvjXQSjbCxjpB6PJlgFuGLXi2cyT6vCLKcbSTkfFFyFbEKWwt5TgVyU0Bly7ZuXZ5V6Ib7yTvNcZWntNEYT6aUqZjNoH71DmQPw/7DMaA937GbFNNNpiApV28Wsjgkgy1ZKo+w41wiv47dpiMONGN/mIm1s/yCztucWC5rPxsSNeCUSje/inw55AFAZ476Axfkvey6V1ibYgj+nFNZqy59UM85C3tE1H6lF+1d47zWdkFJBhH7tSfL1xSMkRV4QYgpg4rXhjvWSjEsbkvIPe1jzNAN4ivp27Bb/ZygrV4HE0Gh02nLty1LvzZa03d01BahLA94+TF1EWIfZR6sH3ZX1LiM4Wu0Sqt8QchY2FijsIZ4q8Utn4QVMVZLJmjsrjm0r1WBaC6iOiVB/J2SGroXbIch/SG+8i+41tN5lV8TSIb0va+srrB2fn9dSMM5nZOz6U2iKbw7wbOFiczNoJidFyoaPhazj+rjzoFSf7HPJAyPRIDAN3Mqrz/VC+wZpA==;K3y5QufblwZAp5BOY7ZGnA=="
