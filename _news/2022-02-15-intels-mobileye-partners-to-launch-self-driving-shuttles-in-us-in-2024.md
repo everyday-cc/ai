@@ -1,30 +1,31 @@
 ---
 category: news
 title: "Intel's Mobileye, partners to launch self-driving shuttles in U.S. in 2024"
-excerpt: "San Francisco, Feb 14 (Reuters) - Intel Corp's Mobileye unit plans to build and deploy self-driving electric shuttle vehicles with its partners in the United States in 2024 ... and Beep will launch the on-demand driverless shuttles, which will feature ..."
+excerpt: "Monday, February 14, 2022 A view shows a self-driving electric shuttle that Mobileye, Benteler EV Systems and Beep, plan to launch in the U.S. in 2024, in this undated artist's rendering handout picture. Benteler/Handout via REUTERS WASHINGTON (Reuters ..."
 publishedDateTime: 2022-02-14T16:08:00Z
-originalUrl: "https://www.reuters.com/technology/intels-mobileye-launch-self-driving-shuttles-us-2024-2022-02-14/"
-webUrl: "https://wtvbam.com/2022/02/14/intels-mobileye-to-launch-self-driving-shuttles-in-u-s-in-2024/"
+originalUrl: "https://www.reuters.com/news/picture/intels-mobileye-partners-to-launch-self-idUSKBN2KJ101"
+webUrl: "https://www.reuters.com/news/picture/intels-mobileye-partners-to-launch-self-idUSKBN2KJ101"
 type: article
-quality: 150
-heat: 200
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/14/2022-02-14T120533Z_1_LYNXMPEI1D0HD_RTROPTP_3_MOBILEYE-AUTONOMOUS.JPG"
-    width: 800
-    height: 534
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220214&t=2&i=1591132018&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI1D0QS"
+    width: 810
+    height: 540
     isCached: true
 
 related:
@@ -96,6 +97,6 @@ related:
         height: 528
         isCached: true
 
-secured: "13vD57ES83PoZHRbaVt5zirmBbIvZZpKQCiuoUeydHg6+jIicnofvfrwKzszxN2rH2jYE582a1Oh1Guyu50cPBTe5nmgpFN+V/BP9GWu1s1mxxq0EMmnj2Lg+VSA4BG8wGC53Ktc4QkypxXx9mZGx5LJ7EX+QgwW9esivws82ggOzTGfyZxj0QV9Fgqs5TjYub86BVHdiJq2zeYH5fc4mS5zZzW+iXAMXSDSxMzo1/a5A5uc7lGJtZt4RLjWaj6VrTAqCT2OeX1QU6azh5dNoRpiWjJGD4Rd/BiIdm9lAPU/f5WoHnBmQtnre9aum2NpZCqhU+Ou6XJW2ynfAWWk6r6SxvN3ppsDrxgZ7nveGA0=;t89vFI7v9hQDgqb2KCuEHQ=="
+secured: "BhZxTZx76o3IcrCIMYlVWPkqqdhxlbWuZ2J3zxm07bGHNlhsKqkI3EghR2ZJEUb5gkBd9ePSNhZQarDJRu0d8JD+ww6Sx+psKGJ/XjpI8by8JSdrlpMTMoCBU7Zo6ph9O6gSC3XsN9opo2Jm2Vsd70OPvNwl8cdhfIV+rVPPEOImSf/B3TNcHHrR6CjsXC1WfJHh8cnIjeXJV+NwyErrSqBcY+Mfe3JkFW9D8z9uTRvY6W9KCAtSAYUukyTjILBI09RxFXQztVZnmkL1rVxYUYd4YsHupusw1B6dcPEF/AHAsYi3IYul2704MBreBNqngo31ejGXRYuTFadx2V3DGHWO5VWurmRtMwCWIYHLyCs=;JC6xcJZ5hSM2oiVHISAvOQ=="
 ---
 

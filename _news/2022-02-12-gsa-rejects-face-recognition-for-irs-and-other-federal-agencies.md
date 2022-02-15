@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
-    excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
-    publishedDateTime: 2022-02-11T00:45:00Z
-    webUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/"
-    ampWebUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 48
-    images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/02/AP1160239734938483.jpg?w=1280"
-        width: 1280
-        height: 674
-        isCached: true
   - title: "Why It was Important for IRS to Remove Facial Recognition"
     excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
     publishedDateTime: 2022-02-11T10:08:00Z

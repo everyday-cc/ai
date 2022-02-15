@@ -73,20 +73,6 @@ related:
         isCached: true
   - title: "Virginia lawmakers move to end ban on police facial recognition technology"
     excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-10T23:12:00Z
-    webUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move-to-end-ban-on-police-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Virginia Mercury
-      domain: virginiamercury.com
-    quality: 37
-    images:
-      - url: "https://www.virginiamercury.com/wp-content/uploads/2018/08/charlottesville-pre-rally-4.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
     publishedDateTime: 2022-02-12T15:32:00Z
     webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
     type: article

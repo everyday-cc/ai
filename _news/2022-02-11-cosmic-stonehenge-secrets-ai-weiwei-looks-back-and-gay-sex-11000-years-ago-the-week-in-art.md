@@ -62,6 +62,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Apps, AI Translator, Marker Pens: At Beijing Olympics, Overcoming The Language Barrier"
+    excerpt: "Businesses at the Beijing Olympics are getting around the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
+    publishedDateTime: 2022-02-15T04:21:00Z
+    webUrl: "https://www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913"
+    ampWebUrl: "https://www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 51
+    images:
+      - url: "https://c.ndtvimg.com/2022-02/55636o4s_beijing-olympics-translation-reuters_625x300_15_February_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "rgGK+f+H9PnnNVJNWyFiuJs4edekzGtK5sUOQdZSj/RTXi6hAXfYx/FAB9IZURbq+kMV4EAER1AUrpT6PXVzrzd1kv8/jWI2YfRhCGZCe/cc5FEst0zflOg660CzLVaEsfMLmU8ObRd0Yoj/Wnrj+81HMNfRD3PncL6YxaZb65QMcpJwUwX7ZBsletCdzbsOU3kt/II5eJsCk6PlVWk9QEwl6tdGRETWyKU7ulmKnpJ6AiVI/X7doajpH+/fJEd0HEI0RSLsj7muIwQpgDPiWcjNqDLmTYCotOYTPJfe9MgNDrKxWvEEtT0tsnFrQMfdK8x2F78BntpfClMwQxCS8ApqXCNeYtzB+tr6MmyUwW27/q8hhmY8EQJ3gs6D3gmbORSh6ms9cYyPlb6X80mgtA5wCqkDd+kPwHUm+xMu4OL5ebf13pSQLmrPuCWvrSQ7anOVr/K6tzMTqdhgShgGCehYysVQdTr0LMYoccL6EaQZk7cEUG3IZM9PX53OynxuEqyi9svI+zI7EFWnSV5VTA==;1CVFdqihp9XG5CATEvMNXg=="
 ---

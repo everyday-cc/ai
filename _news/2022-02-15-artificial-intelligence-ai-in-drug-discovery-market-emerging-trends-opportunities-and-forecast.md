@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-15T13:49:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-emerging-trends-opportunities-and-forecast"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-emerging-trends-opportunities-and-forecast"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"

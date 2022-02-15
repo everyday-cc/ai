@@ -39,7 +39,37 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Winter Olympics: Beijing visitors go hi-tech to avoid getting lost in translation"
+    excerpt: "ZHANGJIAKOU, China - Businesses at the Beijing Olympics are getting around the language barrier by using high-tech ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
+    publishedDateTime: 2022-02-15T06:02:00Z
+    webUrl: "https://www.asiaone.com/digital/winter-olympics-beijing-visitors-go-hi-tech-avoid-getting-lost-translation"
+    ampWebUrl: "https://www.asiaone.com/digital/winter-olympics-beijing-visitors-go-hi-tech-avoid-getting-lost-translation?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/winter-olympics-beijing-visitors-go-hi-tech-avoid-getting-lost-translation?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/150222_translationdevicewinterolympics_reuters.jpg?itok=iDWsh78h"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Beijing visitors go hi-tech to avoid getting lost in translation"
+    excerpt: "ZHANGJIAKOU, China : Businesses at the Beijing Olympics are getting around the language barrier by using high-tech ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
+    publishedDateTime: 2022-02-15T16:06:00Z
+    webUrl: "https://www.channelnewsasia.com/business/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2498886"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--8D6KB7a4--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-15t040616z_1_lynxmpei1e03o_rtroptp_3_olympics-2022-translation.jpg?itok=KgcKmXL0"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "/GagjlQUoY5TeEtIGzzIE7OhgDOa/WV5AtBdue6q+RKh+Q5Ije3ClVistcG0OFwSIRyqq2XdrPiuINLeF1YYw64arfobB7ebUF1/Yg1JirdAb/AT3r0azbYM4Cin02o+q3KVv9oucblEsTdgZ28PYlo9QSxJbfSxBXRn6u6ryH5tUPQhTSQFByo3kPOvGuNsy5xMgMTLshDl3wnVbxByTqv1HSemSgUBk1W/I8bhnJ59oNMPXhXDwHSgce2eK5cm1abn4t9LPQA9htNY2rG+nbk3xDvwcgixpTscPc/J5jrI1Y2K2VB1ZVyopXHrkOiEcS84dEL7aqxw7AIDa4cFfFbyucLR46J7yHBOb/gdswg=;AEzgSe0QcPHhdS00ft+DLg=="
+secured: "aPvSellQqq9AbhnQlx+840mI6Mq7TK+V+W9joVdtO5mRAeh+QCbxhRFp/0qFIKqrEYX2U/fASed6MtXf6+BTIWjzbVAk8gQQUpYp/S26tMc1NL67X7NqTHXMBMxs8+06L18qgAVllHlJJn8npR7ktRgtsTpRGqDogeGZwV1/YhbNwUw4GB8eEB5vHo1uVSIRY+ntM5Vjk+9S945zeeRzquFglWW3FP+beVmREleLaxI08v+/VpV1GtgO4TD3+Pl3gkoTqMtGgmwt7Suu1i3v2MkEJtA85hKX+nl7vwmxCcu6Z1fsC32KQQFAD+5wQJy5b5FdhydB/91JVeSagLMgzPjVQbCrQtFAE7FjSlRRta+FJADmsrnQAZEpgBJ2SkMUxTFW0vqtE4mRouEWRb+Ue2vSde87I8mRW3HnjJingRGTNPvtZtjVAkpeDdwEait5Ic0KPFbPJkkRcvNYUdqi43I7VWWRESar1t0y+x6yAin3rz2O2wC+bQXXb7ZygjLKNzVztARMLUmXfU8g+LBb5w==;StqP/ntbbsyKDa6nSY2+IA=="
 ---
 

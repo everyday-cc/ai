@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-fu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1000
         height: 473
         isCached: true
-  - title: "LivePerson announces new AI capabilities and integrations to help brands deliver Curiously Human™ digital experiences"
-    excerpt: "LivePerson's Conversational AI can also now use real time signals like intents ... Brands can also begin selling faster than ever with LivePerson's new commerce starter pack, a quick start feature triggering highly accurate, automated responses to increase ..."
-    publishedDateTime: 2022-02-15T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-liveperson-announces-new-ai-capabilities-integrations-help-brands-/2022/02/15/9545578.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "zT9OfWTzds/gy135IrNEuGcnp0PNcodNZOQk0Y61Jh62UYCRN3Kijr3TW3qUvL5BLnZFvY8pZLlGMjy/kQe8Jh8Cj4zBpxb9TE1ycaGafC7zKVYTRE1GLYWrj0ej9koOk4VZohwfJsNAMDIT54LhF3loBEk+1wE45AWH6nyKa0ZsvvyS6f4s691yhAnTIwB9kcRn6AqggVVSc2tV0ZNygR1ep1lNmg3XPzWMdiGvaJiHeGHJu50StZf8lQNtAnhnIlmTbOabeCqFFdDRYgeN2bi+lqcUc22+TVY2idX4vKM+EJXWqPIuG7/n6WyZ3HJQ4h9aYPVyfYJbUMuozGIFkGa8J3LgPlRMom+o/O32oVGqc4L9WYi8CiyquogFrfgLaypjWINSnz16juvQkZknVEOsBpwGoUuHRcsuUK/nUHSV7e9ExB5iV3LyQN/mYTlUL22eh24TolKj8+u2J6PTX8F0dqZWnEskyFD8BGRvZ3uz19Fwteycy9zieNxej4EIaxvtiwQGPu+qQyTF+vosJA==;rWi+fAB/PvU867fvVlkexw=="
 ---

@@ -46,6 +46,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Apps, AI Translator, Marker Pens: At Beijing Olympics, Overcoming The Language Barrier"
+    excerpt: "Businesses at the Beijing Olympics are getting around the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
+    publishedDateTime: 2022-02-15T04:21:00Z
+    webUrl: "https://www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913"
+    ampWebUrl: "https://www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 51
+    images:
+      - url: "https://c.ndtvimg.com/2022-02/55636o4s_beijing-olympics-translation-reuters_625x300_15_February_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Cosmic Stonehenge secrets, Ai Weiwei looks back, and gay sex 11,000 years ago – the week in art"
     excerpt: "V&A, London, from 12 February to 25 September. Ai Weiwei: The Liberty of Doubt Fake and real antiquities alongside simulacra of everyday objects by the activist and dissident. Kettle’s Yard, Cambridge, from 12 February to 19 June. Ida Applebroog ..."
     publishedDateTime: 2022-02-11T11:21:00Z

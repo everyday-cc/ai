@@ -85,20 +85,6 @@ related:
         width: 608
         height: 342
         isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-10T23:12:00Z
-    webUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move-to-end-ban-on-police-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Virginia Mercury
-      domain: virginiamercury.com
-    quality: 37
-    images:
-      - url: "https://www.virginiamercury.com/wp-content/uploads/2018/08/charlottesville-pre-rally-4.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "was39usPq8OdwuHPukH6/VNfgAEQ6T+/P2uJ0Ew1iNZosjszuYphsP1oZOi+tK/wNEHO/4c/GIpAC6pEcFcGCw0NB2KmJBbPfqX1iQzyBG5+X3iSpYtVefRD5U6r44cKmrBUaO1A2pyctBIIlYQF2GMgL5DXx5veg3wKpXuoSwI82to67zMJd36qBooAjaTaah7zI873NAmBiVsHOuba7M44hOI+htpm2R8q0XsnODYxIFJkhlBurVjK3IpfzC4OhY2SZIAZSTE4xOXw2Um6evX49W7se/V6+AqZf+ko1Gws51DVspcEGCc+Ao7b929EH9wn0PdaKYuHPqJJjPx7DWkLSdTzy+peLSuTQ7wCJ03Jt+cliSSf0PY5sAyd4Yu25LPQz8KJhI4ABpbjs3ZX/dIX8JIKmWQ6sB2JgffwbxCjQVoFdWtXSDvm/HoWxJXDjTLcuWuY1/bI4nhGP1yKZnq16Onqll7T9YH7hWAjrN0TswitdTR6514GG2ttrxdx5FQkYKojh+WcPfVRdHjC/A==;TCBZ6nol6drIpVMoPi2LjQ=="
 ---

@@ -26,22 +26,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Top Artificial Intelligence Trends to Look Forward To in 2022"
-    excerpt: "The last year saw some incredible breakthroughs in the field of artificial intelligence. Building on them, corporations and the developers who work for them are poised to spearhead equally impressive advances in 2022. Dr. Tehseen Zia has Doctorate and more ..."
-    publishedDateTime: 2022-02-11T00:11:00Z
-    webUrl: "https://www.techopedia.com/top-artificial-intelligence-trends-to-look-forward-to-in-2022/2/34655"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 37
-    images:
-      - url: "https://images.techopedia.com/images/uploads/artificial_intelligence_trends.jpg"
-        width: 788
-        height: 443
-        isCached: true
-
 secured: "N7U8ybswobj4TjnHgRTm1HSmpBmIFGF8poW8MvNHvAzzyysosSLIn7VRI3CxPtO3k5JRZfPY8bFzEiDj5ucqoQ82BgCMMaQdjyOUm/ntRutN//Tv/Z6ik/0nY9GsLSWXnUorCQDAsP+1r4w1FdZZDTDRZkGPEc2muRnlpmE+sxmAZIaKmF95iyfyaVLTZBF9bgW/5c1zOKlebQ2Nd1MzwByea8IR5Pw60/SdxuRm8QYa7LicdSiU6vcNGEn//QDdq9o0Q+d0+dPMMiq/qcsLJJ4gobQI2JfOocCF5YUnLEULppdbezyyTmeOjYGYQEHU/nX1NtmoxRcA82lmN1N3fvSTDJjxu7zAQ+NqNl3pti1lpm8/YF8NPfnEZIh91aJKJrBiuPpC8nrODwhc7CgyRQF54DG55Cb5UDiDg4mnqNN4qppPtWUf/acWJUuNDEwEXyK4juGwbYlYO7XU/n6PdSLS9w6yWH82VHZm8cRajIzi1wxSDiRY6puiP9Lc21p4bNvx1O3mfRub/JUhMX2YDw==;f02F2bCykrOe00B8nTsLaA=="
 ---
 

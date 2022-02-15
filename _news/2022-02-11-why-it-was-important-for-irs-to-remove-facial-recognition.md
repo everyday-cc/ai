@@ -7,7 +7,7 @@ originalUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-f
 webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS parting ways with facial recognition service that was needed to access your taxes online"
-    excerpt: "RICHMOND, Va. (AP) — Republican Virginia Gov. Glenn Youngkin seems ready to move on to finding a new nominee after clashing with Senate Democrats over the appointment of former Environmental Protection Agency administrator Andrew Wheeler to his Cabinet ..."
-    publishedDateTime: 2022-02-11T00:45:00Z
-    webUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/"
-    ampWebUrl: "https://wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/your-money-matters/irs-parting-ways-with-facial-recognition-service-that-was-needed-to-access-your-taxes-online/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 48
-    images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/02/AP1160239734938483.jpg?w=1280"
-        width: 1280
-        height: 674
-        isCached: true
   - title: "GSA Rejects Face Recognition for IRS and Other Federal Agencies"
     excerpt: "The U.S. biometric industry received a blow this week when the General Services Administration (GSA) refused to use facial recognition to secure its Login.gov service. The GSA, which oversees federal offices and technology, proclaimed the technology has ..."
     publishedDateTime: 2022-02-11T20:05:00Z

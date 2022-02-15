@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-c
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1"
 type: article
 quality: 88
-heat: 88
+heat: 89
 published: true
 
 provider:

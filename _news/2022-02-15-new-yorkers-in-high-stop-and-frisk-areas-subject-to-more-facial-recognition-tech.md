@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2022/feb/15/new-york-facial-reco
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"
         width: 608
         height: 342
-        isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-10T23:12:00Z
-    webUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move-to-end-ban-on-police-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Virginia Mercury
-      domain: virginiamercury.com
-    quality: 37
-    images:
-      - url: "https://www.virginiamercury.com/wp-content/uploads/2018/08/charlottesville-pre-rally-4.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Virginia lawmakers move to end ban on police facial recognition technology"
     excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."

@@ -177,22 +177,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Texas AG sues Facebook parent Meta over facial recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans ..."
-    publishedDateTime: 2022-02-14T19:40:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 61
-    images:
-      - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Texas AG sues Facebook’s Meta over facial recognition"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
     publishedDateTime: 2022-02-14T20:28:00Z
@@ -381,22 +365,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Is the World Seeing the Beginning of Facebook's End?"
-    excerpt: "The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms, formerly known as Facebook. Meta on Thursday ... to networking, and to artificial intelligence machines that beat chess grandmasters and \"Jeopardy!\""
-    publishedDateTime: 2022-02-11T00:00:00Z
-    webUrl: "https://www.govtech.com/products/is-the-world-seeing-the-beginning-of-facebooks-end"
-    ampWebUrl: "https://www.govtech.com/products/is-the-world-seeing-the-beginning-of-facebooks-end?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/is-the-world-seeing-the-beginning-of-facebooks-end?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/95194cb/2147483647/strip/true/crop/3000x1564+0+199/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2Fa6%2F399fc5374b9e8e609b5ecff6322b%2Fbiz-hiltzik-column-facebook-get.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Texas Attorney General Ken Paxton sues Facebook’s parent company over use of facial recognition tech"
     excerpt: "Texas Attorney General Ken Paxton is suing Facebook’s parent company, Meta Platforms Inc., saying the technology conglomerate infringed on the state’s privacy protections by using facial recognition technology on its users without their consent."
     publishedDateTime: 2022-02-14T20:33:00Z
@@ -429,6 +397,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-15T15:36:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article258385193.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article258385193.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article258385193.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 41
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z
@@ -454,6 +433,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 37
+  - title: "Texas sues Facebook parent Meta over use of facial recognition, alleging privacy violations"
+    excerpt: "Still, the company said then, it would continue to use facial recognition in some instances, such as when users have been locked out of their accounts. “There are many concerns about the place of facial recognition technology in society, and regulators ..."
+    publishedDateTime: 2022-02-15T13:06:00Z
+    webUrl: "https://www.washingtonpost.com/business/2022/02/15/texas-lawsuit-facebook-meta-privacy-facial-recognition/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 29
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BXWJTYEIHUI6ZA4PBT67NHGOHQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z

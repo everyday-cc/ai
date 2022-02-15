@@ -1,56 +1,46 @@
 ---
 category: news
 title: "LivePerson announces new AI capabilities and integrations to help brands deliver Curiously Human™ digital experiences"
-excerpt: "LivePerson's Conversational AI can also now use real time signals like intents ... Brands can also begin selling faster than ever with LivePerson's new commerce starter pack, a quick start feature triggering highly accurate, automated responses to increase ..."
-publishedDateTime: 2022-02-15T14:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-liveperson-announces-new-ai-capabilities-integrations-help-brands-/2022/02/15/9545578.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-liveperson-announces-new-ai-capabilities-integrations-help-brands-/2022/02/15/9545578.htm"
+excerpt: "LivePerson’s Conversational AI can also now use real time signals like intents ... Brands can also begin selling faster than ever with LivePerson’s new commerce starter pack, a quick start feature triggering highly accurate, automated responses ..."
+publishedDateTime: 2022-02-15T15:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-1d4d56d0f76b492b1db273074016e67a"
+webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-1d4d56d0f76b492b1db273074016e67a"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
-  - title: "Are lifelike digital humans the future of customer experience?"
-    excerpt: "Soul Machines, a New Zealand-based company that uses CGI, AI and natural language processing to create lifelike digital people who can interact with humans in real time, has raised $70 million in ..."
-    publishedDateTime: 2022-02-14T17:00:00Z
-    webUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/"
-    ampWebUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
+  - title: "LivePerson put more personality (and AI) into next-gen bots"
+    excerpt: "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers."
+    publishedDateTime: 2022-02-15T15:19:00Z
+    webUrl: "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/"
+    ampWebUrl: "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/2_selected_arya_happy1_COMPED_v2-1-copy.png?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "What does the future of artificial intelligence look like within the life sciences?"
-    excerpt: "Large companies such as Google, Amazon, and Apple have been using artificial intelligence (AI) for years and now the life sciences sector has seen AI become increasingly prominent. How has AI transformed the life sciences sector and how important is it to ..."
-    publishedDateTime: 2022-02-14T11:37:00Z
-    webUrl: "https://www.news-medical.net/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 51
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_703595_16439823428418409.jpg"
-        width: 1000
-        height: 473
+      - url: "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
         isCached: true
 
-secured: "4A99v9MWtnoS09qo4pzXYqjaVJyQN5Pj4y4rtxULDUt/fcM7wJFIsnFMgj1Y+KI5WMb9Lt3YBAte4ESYRcP6x3Q+LLAE81UCp8F70YVUeI2HAU9O5rib5NraOG+px88ABiky9RdbfTAc7hr1OLvqA+NC0JBF3H5+nXqNbBMF0RVZR27VM9Ccc2BfweiIluasdGay8arEht4Hogpe0tN0YzJ8aVzBi4PsXMUCTye7OKhelrUeZUUNTbYXhTLBNcnWI0KIFgkB503ekT+NTdDEMyOdIq+nLQwSvziY4fFL5oITy9WZ4At/aAWtiPRICKE3SgXCfvCdstgUBrgb6GgQ6bH140pG9gjwy9P/JrADS2k=;l/67/VhQUpTTe/U2HqKsIw=="
+secured: "dXsrX/atvBcC1h9RVLaTeytdm1mFBLnOgaNa9tPz5xbsl1gyrJT/TeBr25cCkTQ/ipkmK5mxDhD4T+wZZEcIKU+Fvn+d1/whKy0CLJ9pJHBj2pEnI0NoK2QGIsdNPG5uQe8kcGDzs+AJpcuwL/tp7u8t7g/2D90CHGhknIGIAsyM+h7IuGgtX/cnqLYkuyjO7YHdtl6tzZ95b+rx4zTMRWD1V4Ypn5tvMJLT0zSUuqFNi5iWpaacK9aMwVffIw+mgkTrMX1moVeyHsCIklFL27yiibI8q+LfFqTiyQKoANnPvj0KTxkp/JeLq6JdLvytwipM1cyH4GRLttnIES5pusGVAKwj49NwwvAR5rKR7Cg=;abMn4zvigFZWkbRlIWgrkQ=="
 ---
 

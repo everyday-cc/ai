@@ -45,6 +45,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "FinTech Industry Pressures Banks to Meet Customer Demands by Addressing Digital Skills Gap at Scale"
+    excerpt: "For more information, visit www.eightfold.ai. View original content: https://www.prnewswire.com/news-releases/fintech-industry-pressures-banks-to-meet-customer-demands-by-addressing-digital-skills-gap-at-scale-301482214.html SOURCE Eightfold AI"
+    publishedDateTime: 2022-02-15T14:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-e2acb7a8e490425c91690ccdfacbd509"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "11/02 – Weekly Fintech Recap"
     excerpt: "Refinitiv AI Alerts seeks to provide personalized ... has partnered with Visa as the London-based fintech prepares to roll out its inclusive Global Currency Account and debit cards across the Asia Pacific. Founded in 2019, Sokin is committed to supporting ..."
     publishedDateTime: 2022-02-11T14:22:00Z
