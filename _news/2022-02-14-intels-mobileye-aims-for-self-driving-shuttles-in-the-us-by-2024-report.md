@@ -35,7 +35,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 150
+    quality: 152
     images:
       - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/14/2022-02-14T120533Z_1_LYNXMPEI1D0HD_RTROPTP_3_MOBILEYE-AUTONOMOUS.JPG"
         width: 800

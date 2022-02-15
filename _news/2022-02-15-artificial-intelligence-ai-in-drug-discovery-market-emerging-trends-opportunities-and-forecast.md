@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-dr
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-emerging-trends-opportunities-and-forecast"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market Top Manufacturers, Emerging Technologies, Growth Rate, Demand, Sales, Forecast till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 11, 2022 (The Expresswire) -- The \"Artificial Intelligence (AI) in Agriculture Market\" 2022 Research report will make detailed analysis essentially on top to bottom ..."
-    publishedDateTime: 2022-02-11T05:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-top-manufacturers-emerging-technologies-growth-rate-demand-sales-forecast-till-2028-2022-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge Artificial Intelligence (AI) Software Market Growth Prospects, Key Vendors And Future Scenario Forecast to 2028"
     excerpt: "which are crucial for robotics and self-driving vehicles. As part of the competitive analysis of the global Edge Artificial Intelligence (AI) Software Market , the authors of the report have exhaustively covered the top companies operating in the market."
     publishedDateTime: 2022-02-11T07:15:00Z
@@ -53,19 +39,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
-    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
-    publishedDateTime: 2022-02-11T07:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
+  - title: "AI Chipsets Market Growth Analysis, Outlook by Trends, Opportunities and Forecast"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 06:37 /Comserve / -- AI Chipsets Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
+    publishedDateTime: 2022-02-14T12:50:00Z
+    webUrl: "https://menafn.com/1103692353/AI-Chipsets-Market-Growth-Analysis-Outlook-by-Trends-Opportunities-and-Forecast"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
+        width: 375
+        height: 250
         isCached: true
   - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
     excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
@@ -81,15 +67,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Machine Learning Market Future Trend, Global Demand and Current Scenario by Forecast to 2027"
-    excerpt: "Machine Learning is a part of Artificial Intelligence (AI) that grants computers the capability to learn without being detailed programmed. Machine learning market mainly focuses on the improvement of the computers programs that can be switch when reveal ..."
-    publishedDateTime: 2022-02-14T13:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-future-trend-global-demand-and-current-scenario-by-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
 
 secured: "hCjEGs6RNml6SRlQvS/rm+IaFIli7BK8zgmvqK7C1xGTIPSHoNIKu68y8TeRcNWmwtr/OyLp5mjAhV81CL9vxs7LpE+f5fcqO7YY2IiCey9SpuAUFXDwe0EhIp/7Mkk36N6pCNEybScnRZXaTWj+ZW1yk/MRuy/tcsvo2fyWb3R0gcxlDaGUoN6XqMwcvJ0lhDl4x/XYhErNx8SSQXPS6/KyfTSp/BBk9TM4gmgg6Hn2GeLt8fENYAL1P8zEkQhNwDBG4P5ZKWwWRDvaNzj02OtBvT8iaW038eMNSjv5gGQo+4XdpXb87mQVAmTD7w6iRrUu73sPDa+5BK7k8lG4zxDw8cy629+/ShyREH8M9x0=;zK6H5YDKb7hxCBHKpl9LkA=="
 ---

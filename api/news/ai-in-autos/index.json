@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-15-intels-mobileye-partners-to-launch-self-driving-shuttles-in-us-in-2024.md",
+      "title": "Intel's Mobileye, partners to launch self-driving shuttles in U.S. in 2024",
+      "excerpt": "San Francisco, Feb 14 (Reuters) - Intel Corp's Mobileye unit plans to build and deploy self-driving electric shuttle vehicles with its partners in the United States in 2024 ... and Beep will launch the on-demand driverless shuttles, which will feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtvbam.com/2022/02/14/intels-mobileye-to-launch-self-driving-shuttles-in-u-s-in-2024/",
+      "originalUrl": "https://www.reuters.com/technology/intels-mobileye-launch-self-driving-shuttles-us-2024-2022-02-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/14/2022-02-14T120533Z_1_LYNXMPEI1D0HD_RTROPTP_3_MOBILEYE-AUTONOMOUS.JPG",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-02-13-airstreams-latest-camper-is-solar-powered-has-a-self-driving-trailer-dolly.md",
       "title": "Airstream’s latest camper is solar-powered & has a self-driving trailer dolly",
       "excerpt": "The electric vehicle revolution is fast catching some never-before thought segments of human activities. This technological improvement is not unconnected with the growing demand for sustainable solutions to environmental problems, with a greater emphasis ...",
@@ -1450,40 +1502,6 @@
       "provider": {
         "name": "restaurantdive",
         "domain": "restaurantdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-olympics-chinese-women-online-show-more-interest-in-winter-games.md",
-      "title": "Olympics-Chinese women online show more interest in Winter Games",
-      "excerpt": "BEIJING — Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday. Curling ...",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games",
-      "originalUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/",
-      "publishedDateTime": "2022-02-01T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
         "images": null,
         "publishers": null,
         "authors": null

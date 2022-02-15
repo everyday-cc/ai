@@ -24,57 +24,48 @@ images:
     isCached: true
 
 related:
-  - title: "UAE Face Recognition Market Size, Trends, and Growth Forecast, 2025"
-    excerpt: "(MENAFN- MarkNtel Advisors LLP ) MarkNtel Advisors recently conducted research that showed the UAE Face Recognition Market is expected to grow at considerable CAGR through 2025. The market ..."
-    publishedDateTime: 2022-02-14T11:49:00Z
-    webUrl: "https://menafn.com/1103692260/UAE-Face-Recognition-Market-Size-Trends-and-Growth-Forecast-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Cognitive Media Market : Business overview, Upcoming Trends and Top Company Analysis Forecast"
-    excerpt: "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ..."
-    publishedDateTime: 2022-02-11T11:52:00Z
-    webUrl: "https://menafn.com/1103679411/Cognitive-Media-Market-Business-overview-Upcoming-Trends-and-Top-Company-Analysis-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904840"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Speech Recognition Market Scenario, Future Scope, Size, Share, Business Analysis, Opportunities, Challenges, Growth Drivers and Impact of COVID"
-    excerpt: "Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner exponential traction by 2027, registering a colossal CAGR during the review period (2020-2027). The speech recognition market is proliferating globally."
-    publishedDateTime: 2022-02-15T12:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-scenario-future-scope-size-share-business-analysis-opportunities-challenges-growth-drivers-and-impact-of-covid"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market- emerging trends, opportunities and forecast"
+    excerpt: "Artificial Intelligence (AI) in Drug Discovery Market grew at an average yearly rate of around 35% during the timeframe (2018-2021). The industry market size in 2021 was around $250 million. The role of AI is becoming more significant in the medical ..."
+    publishedDateTime: 2022-02-15T13:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-emerging-trends-opportunities-and-forecast"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 3
+    quality: 40
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market Size, Revenue Analysis, Function, production, Industry Outlook, Forecast, 2021-2028"
-    excerpt: "Artificial Intelligence (AI) in transportation is used to gather traffic ... Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology. The partnership is intended to combine the automated driver ..."
-    publishedDateTime: 2022-02-14T13:38:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-transportation-market-size-revenue-analysis-function-production-industry-outlook-forecast-2021-2028"
+  - title: "Edge Artificial Intelligence (AI) Software Market Growth Prospects, Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "which are crucial for robotics and self-driving vehicles. As part of the competitive analysis of the global Edge Artificial Intelligence (AI) Software Market , the authors of the report have exhaustively covered the top companies operating in the market."
+    publishedDateTime: 2022-02-11T07:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-growth-prospects-key-vendors-and-future-scenario-forecast-to-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
+    excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
+    publishedDateTime: 2022-02-14T05:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-camera-market-size-share-trends-high-growth-rate-business-opportunities-demand-revenue-impact-of-covid-and-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/2532a3e059750315e745b1ddff96b7a5ea90be9d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "AyTqiUQef01UdCLaV4s4mwUyqv7/KXOwnk8y3br8u9hME25PiqFBv/U5HULUkBRyax1DnlnXTkIJqMUKOD1mv0izaZlnvrfGaT3MFRGZgynTPkBwFJTVA7vBXcnvGxeEY8L9+n5tJxCi0RBntss19SkM3cqOtoFRUOLqZGMmFP7b/DZOF0zUmKBOJ+40Ot/0TjNHpCsf0ibGSnyuLsI8Qcy3Ts0a6NwqOx2Nw0mz6xbfxNu26foVZqqusZuHvH7jTuPQVQ0zYp4iK+1Z7ivSeMUjjDemjSksV1JmosW+9AHdr9teCUrYenQac101vN00HBROVpNMX7HA/MqOn1cG72CC9wrG//H22dSWQWMKvQw=;Pwknuk0j6tLLam+KzDVTAQ=="
 ---

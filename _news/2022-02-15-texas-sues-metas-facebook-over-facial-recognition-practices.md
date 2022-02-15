@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Texas sues Meta's Facebook over facial-recognition practices"
-excerpt: "WASHINGTON (Reuters) -The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
-publishedDateTime: 2022-02-14T21:37:00Z
-originalUrl: "https://www.reuters.com/article/us-tech-facebook-texas-idTRNIKBN2KJ1O9"
-webUrl: "https://www.reuters.com/article/us-tech-facebook-texas-idTRNIKBN2KJ1O9"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN2KJ1O9"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN2KJ1O9"
+title: "Texas sues Meta’s Facebook over facial-recognition practices"
+excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
+publishedDateTime: 2022-02-14T20:30:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
+webUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna16201"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220214&t=2&i=1591135380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI1D0SF"
-    width: 837
-    height: 545
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -529,6 +525,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "9WJNikFVM0+MOc/S8jH8PbcXv3BxESmzYoGMbZl+wlOnPKuCaUduCLzq1qDjL1D8Hqj0ZMH+2zLKrIWFcID7u4v91H3PqZZfxzzpHBdHY6gHVRwt3BOjqLJmTVeAEad8TYqF2fF0rrbWzow0oESNxnqGi4E5g/+9jbD4gQOkK7z8lCu4I2/hNDJI0Zzl9xs9CZLMUjd2YNBXrF1HAJ350Nmq8mwkopsFQjQF/CiD6cwr13z3HY3s3qMr7nFND9BPFd08/WAJKXhV/48QX4DrW8IB6EZD3lg8Wst9iudkngrrmNjXvx+ZheDcpQteF23j6TnAK1u33TFUs7dcmU+SIYZJYWU3G7avRdJSHcxS/Ws=;H7Y3BKLhuvSypWWi68FZQA=="
+secured: "Ln/cdAT52ocmuWZWNouwQjGTbQxNLVmrWDGejZzEK+hqHE9V5h/3QwP/WOcpmelsgmoStmygrnVIqYu9HWx42iXIiCIQSaINA3HpqbBJmFNtZHiL2Mw+Ap1SXlArvio6gybANvKG7MnF2Ed8ytFfocg+nPSWXEvXnMhZfPzSNequHM5h9qOIna8AqSNK8ZDDKqBKTuhpKMa20zgIRSiNWWso+IfEHRQ8b8qvSfF5hMjqasy5rkJWcpSRz6e8Qa7OFpQCr8d1tccGhBEpbnWcITYjjLZix2tuasVnpat2YKcJ9WjKTQ9L5cGTTJBa1PWffDpFvGCq9ZaWOu48W265MH7uhADZ1CzWUQpsJHv+vVE=;oW/pl1Lyjgg/U3hSED7i1Q=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 900
         height: 450
         isCached: true
-  - title: "Indian AI-SaaS start-ups can create market value of US$ 500 billion by 2030"
-    excerpt: "According to a survey by venture capital firm Stellaris and the World Bank-backed International Finance Corporation (IFC), India's artificial intelligence (AI) and software as a service (SaaS) start-ups are well-positioned to create a market value of more ..."
-    publishedDateTime: 2022-02-11T05:19:00Z
-    webUrl: "https://www.ibef.org/news/indian-aisaas-startups-can-create-market-value-of-us-500-billion-by-2030"
-    type: article
-    provider:
-      name: IBEF
-      domain: ibef.org
-    quality: 15
 
 secured: "G9OnpOgYCdzJXqKPTeR5Zz+yL01DgPAg9vAL76nzNo9yfV4sihTafePqb8+wQAcGYo0iGk0vrFr5wHsUNIZcTOLc9dc/2B93mAl9hYS1WGWOxVNond9CpIf6A0hkWk1+HV2k8x9X8EWAufnTY0x9ecdS54lcHq+ohh9NX8rW+zC0ZvRAnpK1QMz0WUn7iDZOVNg2VwSifdIsR9qwT0rCnuOvw8dZkA8+t8tbC8YOGInHZYRBARQbWu+eAoO2PzPpT64aFW/bUpDEtdIW/DRVZDQubEYeeEgsNqtHCk5WQkTCDW7FR2w2qnKk0SwFSOIz9vcHcHQhoAdTW92FrvezGg5krxypTMcBXZlF6CUoU7U=;JuYD3KtqZCeu9CsirMZfFA=="
 ---

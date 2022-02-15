@@ -141,21 +141,21 @@ related:
         width: 1927
         height: 1085
         isCached: true
-  - title: "Texas sues Meta's Facebook over facial-recognition practices"
-    excerpt: "WASHINGTON (Reuters) -The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
-    publishedDateTime: 2022-02-14T21:37:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-facebook-texas-idTRNIKBN2KJ1O9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN2KJ1O9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN2KJ1O9"
+  - title: "Texas sues Meta’s Facebook over facial-recognition practices"
+    excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
+    publishedDateTime: 2022-02-14T20:30:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna16201"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 74
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220214&t=2&i=1591135380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI1D0SF"
-        width: 837
-        height: 545
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Meta Illegally Collected Facial Recognition Data on Texans, Lawsuit Alleges"
     excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed ..."

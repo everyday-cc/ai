@@ -6,20 +6,21 @@ publishedDateTime: 2022-02-14T16:08:00Z
 originalUrl: "https://www.reuters.com/technology/intels-mobileye-launch-self-driving-shuttles-us-2024-2022-02-14/"
 webUrl: "https://wtvbam.com/2022/02/14/intels-mobileye-to-launch-self-driving-shuttles-in-u-s-in-2024/"
 type: article
-quality: 150
-heat: 200
+quality: 152
+heat: 202
 published: true
 
 provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/14/2022-02-14T120533Z_1_LYNXMPEI1D0HD_RTROPTP_3_MOBILEYE-AUTONOMOUS.JPG"
@@ -96,6 +97,6 @@ related:
         height: 528
         isCached: true
 
-secured: "Bts9j9lsSQVMhlpdg0tMdEpoJVDQ30BLdPFosMk0TLZ5lcUe8jE1c/vlEuBIFhfLW+EPZXx0rD7AGZ9q16uuv37XxFVK4wYOBEg/+QspQvttPspm+ZzOpHlB1wo5wxAQPVH8FveohMw2JqhI3Z/bxVUnksxHPtXX+BgSDmgDEStY+EsYDrcPZzfLpmfqJ+ZpLJWbJPk7627afR6+gCxABQNBlVdbRQF1XEBuJ8G5BTiUYasoftNXsJUhACnPrGEZNnQ5c3VvoOKCSWJBKY8x+DRS/KI8KlBfMw4WaEiOMkR4vbtxPBekRJp73iya3gu8yoXLamifV9mfJGOiOJBepSUQWx9veaWzDz1qAqm9ing=;kniWSIZn/6RmjYBDesfHlQ=="
+secured: "wD0cAzWDo6u983lq92H5CdkBObIZKQB5sJ99hxKPKJ4blvUHbmMjRNVG6dKuPMp8MSwUrLAxKI1FQ4c+YFZVNZ+JDRaMGpXY0RDBuKSDXA3vhR7s22Vpb9XRJzu+zbPdAdEVaWao21otP5aXTtLOuIxvjpsOC3LftQ724KupILUHw6XJN3mMw49Iz/sCiMGrssPAw6ZMpONmJcBaOKV/C01Z3uEfQqVzfxNniRdHWpRK3FXlWWLJj1Qu//ZPrsaDfIGPNp49jkd2opTZ38ijjf2Hi+J6h9JU9BC7yU3Hsx3V+U6yx/uIXJWMmb7YCyW2LBi1uuwBvGRg/xQeItxi5q09L++rxrP2eFpB1hbvzWbI9KF3ofy0TLiGC1V7onyDXbWfLpZhjvTzu3HxNgiFvjKPGqFTcymm5HgXAk61+rarupNUcfUPpRicyTQvEhhblECRYHxkQP0SLtHCuA14NwNA2tXW4ES3Wja//st9RUkGBOEeKwpMGg8Xzy+wyeDCKVddpJ5XNRrF5j2X8OA7Dc+P0+/X2y36awokca8OF4A=;9Brmvq+oJNd14fFeDwcB3g=="
 ---
 

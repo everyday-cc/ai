@@ -33,19 +33,19 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "AI Chipsets Market Growth Analysis, Outlook by Trends, Opportunities and Forecast"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 06:37 /Comserve / -- AI Chipsets Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
-    publishedDateTime: 2022-02-14T12:50:00Z
-    webUrl: "https://menafn.com/1103692353/AI-Chipsets-Market-Growth-Analysis-Outlook-by-Trends-Opportunities-and-Forecast"
+  - title: "Artificial Intelligence in Military Market Future Growth, Top Key Vendors And Future Scenario Forecast to 2028"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4% during the forecast period, according to latest analysis by Emergen Research. Increasing hostility and ..."
+    publishedDateTime: 2022-02-11T07:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-future-growth-top-key-vendors-and-future-scenario-forecast-to-2028"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
-        width: 375
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Cognitive Media Market : Business overview, Upcoming Trends and Top Company Analysis Forecast"
     excerpt: "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ..."
@@ -61,6 +61,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Machine Learning Market Future Trend, Global Demand and Current Scenario by Forecast to 2027"
+    excerpt: "Machine Learning is a part of Artificial Intelligence (AI) that grants computers the capability to learn without being detailed programmed. Machine learning market mainly focuses on the improvement of the computers programs that can be switch when reveal ..."
+    publishedDateTime: 2022-02-14T13:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-future-trend-global-demand-and-current-scenario-by-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
   - title: "Speech Recognition Market Scenario, Future Scope, Size, Share, Business Analysis, Opportunities, Challenges, Growth Drivers and Impact of COVID"
     excerpt: "Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner exponential traction by 2027, registering a colossal CAGR during the review period (2020-2027). The speech recognition market is proliferating globally."
     publishedDateTime: 2022-02-15T12:59:00Z
