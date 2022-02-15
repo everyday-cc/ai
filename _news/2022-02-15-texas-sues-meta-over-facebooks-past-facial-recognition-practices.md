@@ -243,20 +243,17 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Texas AG Sues Facebook Parent Meta over Facial Recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday in a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T00:21:00Z
-    webUrl: "https://www.snopes.com/ap/2022/02/14/texas-facebook-facial-recognition/"
+  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state’s ..."
+    publishedDateTime: 2022-02-14T19:11:00Z
+    webUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 41
-    images:
-      - url: "https://www.snopes.com/tachyon/2022/02/Texas-Meta-Facebook-Lawsuit_69852-scaled-e1644884454693.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "3 reasons why Facebook will never leave Europe!"
     excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
     publishedDateTime: 2022-02-11T09:36:00Z

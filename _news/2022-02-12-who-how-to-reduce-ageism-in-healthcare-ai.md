@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence"
-    excerpt: "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ..."
-    publishedDateTime: 2022-02-10T14:17:00Z
-    webUrl: "https://www.who.int/publications/i/item/9789240040793"
+  - title: "Q&A: AI Helps Healthcare Organizations Reduce Avoidable Patient Harm"
+    excerpt: "Jvion Chief Medical Officer Dr. John Frownfelter explains how artificial intelligence improves patient care and offers tips for implementation success. As the healthcare industry shifts to more preventive, value-based care, AI provides guidance for early ..."
+    publishedDateTime: 2022-02-10T21:55:00Z
+    webUrl: "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm"
+    ampWebUrl: "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 141
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 74
     images:
-      - url: "https://www.who.int/images/default-source/campaigns/global-campaign-to-combat-ageism/ageism-in-ai---cover.tmb-1200v.jpg?sfvrsn=8925a8df_1"
-        width: 1200
-        height: 1697
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202202/Health%20AI.jpg?itok=TRSNbDPU"
+        width: 1440
+        height: 500
         isCached: true
 
 secured: "P1ySk4MzJZRw/RYDz26OtGxVesJkwQGtsdajVLvT9ajS2yOo0rresFBD9xAmsiHYPU0tiOxagqYGGPm8DbSaMblbBoxFYUBixgWQ+Xpr4s/ZFWnfhT6RpLJUNWaER0LCDN2DCSuKnLQjTV6vqBz7E3qttyzlcRARV4anFbn/cbnRYKFNwrW963wYMjjENthWTtBmtUTuN3YPsyDsQYElYxseK7dUxXf8iFDUbanUYr/krRrOWHQIYSEhbJ5yJKU/MxPHrDGmXQkfgB9yOEiru0lSMUjm35H7ROYezMVwuulSVyYRXSWZaF/vDYjxhChxyBjx1QoHqr49/aovJESbPTEyIibHoe2rl/XqBLbNMsc=;TCPh12U5p5pugR8r0Elfaw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airport
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "7 AAI airports Chosen for Voice of Customer Recognition 2021 by ACI"
+    excerpt: "Seven airports of the Airports Authority of India (AAI) namely Chennai, Kolkata, Goa, Pune, Patna, Bhubaneswar and Chandigarh that participated in ACI-ASQ survey in 2021, have been chosen for Voice of Customer Recognition under Airports Council ..."
+    publishedDateTime: 2022-02-14T10:10:00Z
+    webUrl: "https://www.traveltrendstoday.in/news/aviation/item/10705-7-aai-airports-chosen-for-voice-of-customer-recognition-2021-by-aci"
+    type: article
+    provider:
+      name: T3
+      domain: traveltrendstoday.in
+    quality: 39
+    images:
+      - url: "https://www.traveltrendstoday.in/images/Square_SATTE-Banner-2022-600x600pxl-06.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "ACI World Announces Recipients of The Voice of the Customer Initiative"
     excerpt: "Airports Council International (ACI) World has announced the recipients of The Voice of the Customer, a recognition that celebrates airports that have continued to prioritize listening and adapting to customers during the pandemic. This year, over 200 ..."

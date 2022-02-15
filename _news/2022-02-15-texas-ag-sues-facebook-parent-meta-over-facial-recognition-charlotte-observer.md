@@ -150,12 +150,12 @@ related:
         isCached: true
   - title: "More facial recognition technology reported in non-white areas in NYC"
     excerpt: "\"The facial recognition tools are not attached to those ... effect on how people engage and how they make use of their free speech rights. It's extremely frightening thinking about how protests ..."
-    publishedDateTime: 2022-02-15T00:30:00Z
-    webUrl: "https://6abc.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
+    publishedDateTime: 2022-02-15T05:30:00Z
+    webUrl: "https://abc7chicago.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 41
     images:
       - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"

@@ -2,17 +2,17 @@
 category: news
 title: "More facial recognition technology reported in non-white areas in NYC"
 excerpt: "\"The facial recognition tools are not attached to those ... effect on how people engage and how they make use of their free speech rights. It's extremely frightening thinking about how protests ..."
-publishedDateTime: 2022-02-15T00:30:00Z
-originalUrl: "https://6abc.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
-webUrl: "https://6abc.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
+publishedDateTime: 2022-02-15T05:30:00Z
+originalUrl: "https://abc7chicago.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
+webUrl: "https://abc7chicago.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - Natural Language Processing
@@ -196,6 +196,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "I32Z3T4lN86z2GawPXbWCMz0/C8BDmSf8U9yIKdVMo25Z6viO8CtAqdLafpvFAMlLV4+d0vU7B9Wc5dyyurlKTu9ydRPxfd5O5VRxZtOn9jxlW5uQQ8oegtsX/A5cymdz90s/Ct8OZ6izXhlq9XN4u6qGKqTGP8wS8wVhbmc3GN4QSMvmL2dFmYhQN9W9vN65BV5FXx/zbyXmNjMEFkLB2FE9jG+5LEfh+yTh+1EahNwNdFw1rHshbCuB1BliBjIZ05E3k28h4MniuWZvj3aJvqhu11t65A3hCmuw4SKYBKoJbCtyv3T90TJdziovWU1b3XNyY14RJM/qJ/Hx0CNiiqYVTuFLXZlj5gIOR8KQbc=;7UXlScIo1AdCLMbU6tYX0A=="
+secured: "JYnuFzk2oKCfeP44DVaBuA/9Km0huLIJjRmkAWPqyc40DJqy+f9rnYUXB3mXTNKtw2Ht3TGvu8sgnST46oC9fWzOZ32jmlmiyhTzcM6SeLw3eYXbOKTr+P8wgCEXB1My0FaSP4FzdwYXMjvzN99npH2NUCaoMFfdVOTSZ6rlL6x+lVn+ub6GlzIshAtg+6qhv03Bt4FatENLeDrtPdIYEireexTnvF4lkgmPyMFMqb844bfRJfi8rQNyZDyS12xgnQKlWrgL92Dd/vDOa5VoOMmgDs93C+JcJre8+BKZg2k2uxO8U6TPA17C1/V9iSfOdDRoZyCkRJHV2+VGNihUWPxb9iYmX5mzmiqKVZyyh+o=;j4AsoHdSzsq3zGBDCaXs1w=="
 ---
 

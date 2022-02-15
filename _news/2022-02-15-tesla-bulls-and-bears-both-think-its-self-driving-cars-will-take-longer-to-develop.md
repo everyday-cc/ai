@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving"
-    excerpt: "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ..."
-    publishedDateTime: 2022-02-10T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop"
-        width: 719
-        height: 405
-        isCached: true
   - title: "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive"
     excerpt: "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ..."
     publishedDateTime: 2022-02-14T18:33:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaKtWWAHaJUI/v0/1200x748.png"
         width: 1200
         height: 748
-        isCached: true
-  - title: "Autonomous taxis are safer than Tesla’s ‘self-driving’ tech"
-    excerpt: "It started with a rallying cry against the use of misleading terms like ‘self-driving’ to describe car functionalities that sit firmly in Level 2 in terms of vehicle automation. Even when a ..."
-    publishedDateTime: 2022-02-10T14:02:00Z
-    webUrl: "https://thenextweb.com/news/you-might-be-safer-in-a-autononous-robotaxi-than-a-tesla-in-driver-assist"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2Frsz_2untitled_design_16.png&signature=743b9c99598c1597501b6f59357f3d4c"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
@@ -119,22 +89,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster"
-    excerpt: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster 4 the Drivers Oy is a Helsinki-based company that has been founded in 2021. The company makes hand-held manual controllers for autonomous vehicles and ..."
-    publishedDateTime: 2022-02-11T10:17:00Z
-    webUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    ampWebUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 43
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2022/02/metropolia_navya.jpg"
-        width: 1352
-        height: 1211
-        isCached: true
   - title: "Will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
     excerpt: "Instead, Musk promised something wilder still: vastly improved \"Full Self-Driving\" software by year end that could turn existing Teslas into driverless robotaxis, capable of making money for their owners. The software is in the beta test phase and requires ..."
     publishedDateTime: 2022-02-14T09:00:00Z
@@ -148,20 +102,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Insuring The Self-Driving Car"
-    excerpt: "The “Full Self Driving” technology that is being implemented in the next generation of vehicles has many challenges for consumers and insurers. I recall in 2018 seeing studies that self-driving cars do not always register two wheeled vehicles ..."
-    publishedDateTime: 2022-02-13T22:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/insuring-self-driving-car-anthony-deguerre"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE2tOgrB3xnjg/article-cover_image-shrink_600_2000/0/1644789421849?e=1650499200&v=beta&t=uwrnBY0wXHqUGYoaePWjqKpKTwVfWWrTKs2BaqPtzHQ"
-        width: 624
-        height: 468
         isCached: true
   - title: "Tesla's self-driving technology is slammed as 'flawed' by experts after car owners' videos showed vehicles steering into oncoming truck, failing to stop for pedestrians and ..."
     excerpt: "Tesla's beta stage Full Self-Driving software does not appear to be ready for the mass market after users posted multiple videos in recent months showing harrowing near-misses. In footage recorded earlier this month by YouTube user AI Addict, a Tesla ..."

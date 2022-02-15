@@ -1,29 +1,24 @@
 ---
 category: news
-title: "Texas AG Sues Facebook Parent Meta over Facial Recognition"
-excerpt: "Attorney General Ken Paxton filed the lawsuit Monday in a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-publishedDateTime: 2022-02-15T00:21:00Z
-originalUrl: "https://www.snopes.com/ap/2022/02/14/texas-facebook-facial-recognition/"
-webUrl: "https://www.snopes.com/ap/2022/02/14/texas-facebook-facial-recognition/"
+title: "Texas AG sues Facebook parent Meta over facial recognition"
+excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state’s ..."
+publishedDateTime: 2022-02-14T19:11:00Z
+originalUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+webUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+ampWebUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Snopes.com
-  domain: snopes.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
-
-images:
-  - url: "https://www.snopes.com/tachyon/2022/02/Texas-Meta-Facebook-Lawsuit_69852-scaled-e1644884454693.jpg"
-    width: 2560
-    height: 1440
-    isCached: true
+  - AI
 
 related:
   - title: "New algorithm bill could force Facebook to change how the news feed works"
@@ -273,6 +268,6 @@ related:
         height: 720
         isCached: true
 
-secured: "jHUQ2kDl2QT+rE8MTbFi6apR7YNHV+8ykzGnAwTm7whSYqUVP+4Pyfv8LnjNo50m9k7QSrrHM0huqXxVQubY6gvIHtJLCMPVCql8DN2dkZGzurWNlxjc9ZTuWTpP9jUkJu2GdBgWVrOTg8n2ct4gIKW764/30jWIVzMpsew+MDmZLJEUQ8zSDsw3vuuft1Aww1HtRgKZqM8AgAM8Av0PbiXZiQPn0GyKYHVJTN8iELj65Lxoffzvb2AE57bPasSaVCGw0fCnRbw5Mrla3THR6+5Fb+3VtfEJgrKqa2MuSHkllTolqGcebzMOe0iDDFwLl3OsfbD/aSvfRmvhIVJ8FGeKVVaLxcVfkdv/+H6lbyw=;3D5LUkAI5qXDqwzcHtePnA=="
+secured: "wsrYjTdZMfP2hNFu7MLCjHAWdh+uHcrxEKA3IAAyNsjj04D7AkooQOLQfLS5O2CM8obAIz0FhNUWuIMMgSIDCpN5uTnopwNjitJ/b+uL2BEcrD6lafAc7AoD9gF8GMccPhN6GXtlSWWHBVIjEWpe60UYt1+cE7ncZ4gvViq+CSKByq8tSrJZHcbCIHRTdh+oo44FF4FRUqHQh6rjJAyfZaPBPGI5JhLGXMy/wIudHHZTPEvXHjWBheG0P7uPhX+++y9x+aQqJBvrQmbVAUxrOv67JswdeQDbkMSBm5qmd163sLQTYlPupskh4Aako7eYWjX3SNXVzsmMSg9nDXgv9RTk/ntx4CIF2iaCIZUZnE950dj6H+QleJS3fhNrt0aYoDfsUg4gilGIYNE+fkKUxwUlvZGXxrsgDinXjFXIleMmOqcr/1Wcvu3Fps7aOK7WLqy2t74nRHw9sMbR3RoaGwO2j7ac2sYiZkbQAtUb1uGncf4KJkVAFqWqmKYioPkop9yWPMuNNYbXrOzC4hwoOA==;EP9XqncoDPJreVYrNujZlw=="
 ---
 

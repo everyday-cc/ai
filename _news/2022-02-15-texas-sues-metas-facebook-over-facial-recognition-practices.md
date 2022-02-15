@@ -229,20 +229,17 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Texas AG Sues Facebook Parent Meta over Facial Recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday in a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T00:21:00Z
-    webUrl: "https://www.snopes.com/ap/2022/02/14/texas-facebook-facial-recognition/"
+  - title: "Texas AG sues Facebook parent Meta over facial recognition"
+    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state’s ..."
+    publishedDateTime: 2022-02-14T19:11:00Z
+    webUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 41
-    images:
-      - url: "https://www.snopes.com/tachyon/2022/02/Texas-Meta-Facebook-Lawsuit_69852-scaled-e1644884454693.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z
@@ -272,6 +269,6 @@ related:
         height: 720
         isCached: true
 
-secured: "aZQMJz5Cc9K9BIeokV8sacGQ9YEf5fAski2VjQ+RNwxgKvZ557t5XI3DBBLto8/JP3UDAMVor3//wRb0Elgr/yHHuZhJDvwZrr6EzMOqXUypRsIEJE/ViIF1LQvgz4a2jguierar6Ub9a65Ut3wibbcFT09i3Sp/xcnlBApgbdrkVHePw6+hvsjz0Lx+9863ldagNQG15DelWjCWKk1rCQfUIwVMFFUGM10GKjUF7x2Iw2n3R0lB8HNEUMBVY1MWesl5jxY2zOvIzEN4RYcxB1N1Xu8fRWv4G/GRi0NqB3FfC/F5dk23nKrnhpDbzGnsb0SEFzrc2fkh5w+mirebxQ5r+IZiXbBelaOL7jdmqds=;i/IJomT/ilJAw5oPtczjrg=="
+secured: "J8qLnWvel8L8KUu61L/HD92BBu3pSaSWahzY6Fl/nKp3yIE/DTMrPYTrzsqUFwsNsRayyMfCwS8pbIsKz3624Kibaa7S0h/8mcCZigLjn6VBgtpKKqI5xEgbkONNqvYQlmk7L577deWuOm4JBwCrFgc13n/4avZ3hJIDQKNc6IC8tQvvx+2INZaxjOCaVUdOPUNLPahqJFbGW/2cJP5qBRcYw0iLITV9FkYD2q595OUmK1j6V1zJYmrnb1LniomIdhA253ufyaGp+EhRFrGtP1YBoKG/tFhOAeqKPZoyqtaUWHbqn4FhAh49cYGh6jqTe4VmBYxI8VEd9rKQI+L1UmeGpWC18yOhEovR1GmI1eg2/dHU0DRaYbxS1XZNIedpwpbbVlJceKYJ/gOdP/5wIkGgje1Yd3fwdI/+lxaciJ/Te4mK5RvUFsgdriBtY/H8pIjPSEkS1t/FoWDzaZn/dtvyudOQvWDrL9oE3pGBkmdMMqIPxorTGa2ji8+OkAVtYUbF6Rr8+Oc95B9z4cfc8w==;BZoOsgpu2XcpGiugxMBWZg=="
 ---
 
