@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AlphaSenseInc"
   url: "https://twitter.com/AlphaSenseInc"
-  followers: 4106
+  followers: 4107
 
 size: 51-200 employees
 yearFounded: 2011
