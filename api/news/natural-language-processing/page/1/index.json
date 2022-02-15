@@ -106,6 +106,41 @@
       ]
     },
     {
+      "path": "_news/2022-02-14-strong-graphic-chip-demand-to-aid-nvidias-nvda-q4-earnings.md",
+      "title": "Strong Graphic Chip Demand to Aid NVIDIA's (NVDA) Q4 Earnings",
+      "excerpt": "Also, the rising adoption of Natural Language Processing by cloud players is expected to have been an upside during the fiscal fourth quarter. Additionally, NVIDIA’s data center business is likely to have continued the growth momentum during the fourth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/strong-graphic-chip-demand-to-aid-nvidias-nvda-q4-earnings",
+      "originalUrl": "https://www.nasdaq.com/articles/strong-graphic-chip-demand-to-aid-nvidias-nvda-q4-earnings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-language-is-the-next-great-frontier-in-ai.md",
       "title": "Language Is The Next Great Frontier In AI",
       "excerpt": "What is behind these astonishing new AI abilities, which just five years ago ... against which newer models are compared. Much subsequent research on transformers—for instance, Facebook’s influential RoBERTa model (2019)—is based on refining BERT.",
@@ -423,6 +458,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-11-deepdub-raises-20m-for-ai-powered-dubbing-that-uses-actors-original-voices.md",
+      "title": "Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices",
+      "excerpt": "With Deepdub, the aim is to bridge the language barrier ... including the translation, the adapting, and the mix. In other words, it’s not just an AI platform, it’s a full business that ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/",
+      "originalUrl": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/59cDtx-XFPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/",
+      "publishedDateTime": "2022-02-10T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-tucker-give-americans-a-voice-in-the-policies-that-affect-their-lives.md",
       "title": "Tucker: Give Americans a voice in the policies that affect their lives",
       "excerpt": "UNIDENTIFIED MALE (voice over): One man arrested in Malibu for paddle- boarding ... Now, you'd think in the age of facial recognition software, that video might produce a suspect. You'd think the fact that person was on a phone might be very helpful ...",
@@ -483,7 +570,7 @@
       "originalUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1397,93 +1484,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer.md",
-      "title": "Trax Names Former Google AI Leader, Barak Turovsky, as Chief Product Officer",
-      "excerpt": "Trax, a leading global provider of computer vision solutions and analytics for retail, today announced the appointment of Barak Turovsky as it (CPO). Under Turovsky’s leadership, Trax combines its product and engineering teams to support the company’s growth and enable development of new solutions to meet market needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
-      "originalUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/1e/21e303c9-dc91-5caf-b9da-0b1b557da643/61f944cf3e1ea.image.jpg?resize=400%2C566",
-          "width": 400,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
-      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
-      "excerpt": "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
-      "originalUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
-      "publishedDateTime": "2022-01-31T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

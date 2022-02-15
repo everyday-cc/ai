@@ -7,7 +7,7 @@ originalUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move
 webUrl: "https://www.virginiamercury.com/2022/02/10/virginia-lawmakers-move-to-end-ban-on-police-facial-recognition-technology/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition companies attempt to appease state lawmakers"
-    excerpt: "Two facial recognition companies on Wednesday testified before state lawmakers hoping to placate their concerns over the software, one of which was reportedly dumped days earlier by the IRS over ..."
-    publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://billingsgazette.com/news/state-and-regional/govt-and-politics/facial-recognition-companies-attempt-to-appease-state-lawmakers/article_c2bd22b8-8b10-5cad-95c9-2dce264e3d1a.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/2b/c2bd22b8-8b10-5cad-95c9-2dce264e3d1a/620471f23a1af.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Virginia lawmakers move to end ban on police facial recognition technology"
     excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
     publishedDateTime: 2022-02-12T15:32:00Z

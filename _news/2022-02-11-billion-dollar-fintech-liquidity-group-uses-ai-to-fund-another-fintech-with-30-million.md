@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/"
 type: article
 quality: 51
-heat: 51
-published: false
+heat: 81
+published: true
 
 provider:
   name: Impacts
@@ -25,6 +25,52 @@ images:
     width: 700
     height: 420
     isCached: true
+
+related:
+  - title: "Top Fintech Companies To Invest In, In 2022"
+    excerpt: "... help companies and individuals navigate adoption of new fintech technologies. Speaking of which, innovation is still ongoing even ad growing companies adopt new forms of payment and transfer. AI is already at the heart of start-up fintech business ..."
+    publishedDateTime: 2022-02-10T18:31:00Z
+    webUrl: "https://techbullion.com/top-fintech-companies-to-invest-in-in-2022/"
+    ampWebUrl: "https://techbullion.com/top-fintech-companies-to-invest-in-in-2022/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-fintech-companies-to-invest-in-in-2022/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/top-fintech-companies-to-invest-in-in-2022.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Evolution of Fintech to Progress in future"
+    excerpt: "... but the underlying technology that has driven the Fintech 3.5/3.5 era, namely blockchain and open banking, will continue to drive the innovation of the future. Artificial Intelligence(AI) and combined with Machine Learning (ML) have developed a new ..."
+    publishedDateTime: 2022-02-13T14:52:00Z
+    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
+        width: 490
+        height: 351
+        isCached: true
+  - title: "Why The Future Of Fintech Depends On Open Data"
+    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
+    publishedDateTime: 2022-02-14T10:32:00Z
+    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 24
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
+        width: 1724
+        height: 1080
+        isCached: true
 
 secured: "tS4UPYqSpQUuoHJhHbquI062Hp0ki798YvcXXHGoudbArf2BniWal+wUiopz5OgWR/Bt5AAix11nWw23snbAFOQW37PEh8tygDU1Z4w9tlyCHcgfgtcL652pGq0ol4ROBTVGeSpPdZEZMxKUVc0kQM3o+RT6wFJUpK0KUuJnj7GS3AlqEj6OBJitKv+4bnA1xrxMD4eLWm+5GQajYdJE7hKIM2kGecqdui2GdYIrfN41bdrg1D9jtr51tEAFzphMb0vJwKrimW7UdOLOq7FXUFtct48d+Ce6+smdSMLlxuL31xltFzdWulvuB90K610BtyW2J+LexKpRz2bWs0OHdX2wkpsYo1E5vZfzccPSsDiz6JN8HlyqG/oA2bbchOeA4c34vsnKPNDGYRQK2srULELOOMHzwNWYKk7i7eYE1f8dlWhmynyJv3q09PQ++xhxotm/2i7uKMkQbs/s22rOJ+hcmfphwUlSL1KjdfaCF0gVfNqNVXqjGHmbeidua7FcH0bXhqLHZ7+iLFh70uXkGw==;4je4k+AAdufIp+gXr7n5Fg=="
 ---

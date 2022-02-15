@@ -57,22 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "These 7 airports chosen for Voice of Customer Recognition 2021. Check list"
-    excerpt: "Seven AAI airports namely Chennai, Kolkata, Goa, Pune, Patna, Bhubaneswar and Chandigarh that participated in ACI-ASQ (Airport Service Quality) survey in 2021 have been chosen for Voice of Customer Recognition under Airports Council International (ACI ..."
-    publishedDateTime: 2022-02-10T11:53:00Z
-    webUrl: "https://www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list-11644493200788.html"
-    ampWebUrl: "https://www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list/amp-11644493200788.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list/amp-11644493200788.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/02/10/600x338/0d76f4fa-504e-11ec-93a1-2e784d59340f_1644493558230_1644493578206.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "ACI World Announces Recipients of The Voice of the Customer Initiative"
     excerpt: "Airports Council International (ACI) World has announced the recipients of The Voice of the Customer, a recognition that celebrates airports that have continued to prioritize listening and adapting to customers during the pandemic. This year, over 200 ..."
     publishedDateTime: 2022-02-11T15:44:00Z
@@ -88,6 +72,6 @@ related:
         height: 278
         isCached: true
 
-secured: "yRmrs/VWOoZRdZFgVVCzBDmsEYL9g/8MuT6fI0wiuCA7j/nt3PHRWQz4S+/O134oqdyv5fMT6fG5XVWO26AemYMBl0zj766FEwv+LJwYEn/keDGowQzfqbEpWLOxrMP2HeSnZSR1A+/40S2tgVARjt/A1xdnJv2kzHIexUhY1HO16KrUwQ40PNVlpaVnEti7dls5MpHvq3L/mfkqPNVQ8BmtpCMYzggOKrCDeZPZTNfiwUPR29+dP5OQbekKEWOd46kl9qoLkJuWqIXPcm0nRLhCenGs33o6KNmWtfN+X5RJ3XaQKMrMdXB0S7k6h7XsVDAzTDLqUsOidK3ns7SVwGou7yif8d8wJNLvjM0BDfQ=;H4XllG29/iRrBCQjwPid2Q=="
+secured: "iM8dq3hq1RiY/e2K0fwxgLcfRG02reP/x5wUBkwI92DaxRUH+Q2GHivOXrjcgQyO/TDrW4ygrYRTe4wPTXYT6MaE5DPIu8B6/s/Z77Lr9PrslUCkLpJyRdhf4hnDKy86uIP+wOGdfgEIx4BMIs0UPQ5q8QzIhs4XbFIYaHt1CI2vJTuW6D6o6hALgNhxN7xGajvEpEdmNDuMkFJi34iiC9kBQVdttdM70b3YM7Tn/8+Tj1obKxmRg1piq9BS+LN+8GNsKdUFdVHS+wQPRx0rffTVr7mCWwMkVcXOxlIIFZHPFWz5GzU1YEgqZp7tY4FDuFD9LfroC9Y4jEnXE003xxWLTBLuYMu14C4FlMJUERkrNcaefmhXPSHAv5Zt9K2BAfuc3Cp25r00Rc5JW/sFj35FNw/Ldtlspbn4tCN0GIQW1aVEbuU2ymgesC1SurehHFhRJKP4FDn/UgBScCFBh/DI2DW/G35k/oto5EY1rnfW9PSQ90zgwf3JjKpYKyoYRdiGEq7taKAqUQ6zsGiqwQ==;3ISZUNJ6NlXE6/PO/R1Hcg=="
 ---
 

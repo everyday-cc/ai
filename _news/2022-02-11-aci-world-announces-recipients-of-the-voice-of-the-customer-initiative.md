@@ -57,22 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "These 7 airports chosen for Voice of Customer Recognition 2021. Check list"
-    excerpt: "Seven AAI airports namely Chennai, Kolkata, Goa, Pune, Patna, Bhubaneswar and Chandigarh that participated in ACI-ASQ (Airport Service Quality) survey in 2021 have been chosen for Voice of Customer Recognition under Airports Council International (ACI ..."
-    publishedDateTime: 2022-02-10T11:53:00Z
-    webUrl: "https://www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list-11644493200788.html"
-    ampWebUrl: "https://www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list/amp-11644493200788.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list/amp-11644493200788.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/02/10/600x338/0d76f4fa-504e-11ec-93a1-2e784d59340f_1644493558230_1644493578206.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "BWI Marshall earns Voice of the Customer recognition"
     excerpt: "BWI Thurgood Marshall Airport has been honored with a Voice of the Customer recognition from Airports Council International (ACI). The acknowledgement honors international airports that prioritized customer service and remained committed to ensuring that ..."
     publishedDateTime: 2022-02-15T00:14:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/rise-fintech22-how-india-embraced-d
 webUrl: "https://www.linkedin.com/pulse/rise-fintech22-how-india-embraced-digital-payments-ruchi-rathor"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,61 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Five trends shaping the future of Fintech"
+    excerpt: "With billions of dollars on the line, it&#39;s no surprise that machine learning is becoming more popular in fintech. The strength of this AI subset rests in its capacity to process huge amounts ..."
+    publishedDateTime: 2022-02-14T10:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "11/02 – Weekly Fintech Recap"
+    excerpt: "Refinitiv AI Alerts seeks to provide personalized ... has partnered with Visa as the London-based fintech prepares to roll out its inclusive Global Currency Account and debit cards across the Asia Pacific. Founded in 2019, Sokin is committed to supporting ..."
+    publishedDateTime: 2022-02-11T14:22:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1102-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
+    excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
+    publishedDateTime: 2022-02-14T20:40:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=616070"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 23
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "FinTech Software Development, Management, And Adoption Trends That Help Companies Go Digital In 2022"
+    excerpt: "COVID-19 has given a spur to fintech software development, currently showing widespread adoption across 3 major areas of digital transformation. At the same time, however, Artificial Intelligence (AI) and Blockchain actually remain less common technologies ..."
+    publishedDateTime: 2022-02-11T18:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/21808/fintech-software-development-management-and-adoption-trends-that-help-companies-go-digital-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 0
 
 secured: "YKZB9EnY2KOs+7jx9A5/9mQlxPiIVsjKV2xbvAGqVuy40nmwpjAra3ajeo+Qtb6U1h735hkbMH3TuSq6JGKUArB4O6S0zOWBkO30JJkqO3NO2oFRPswH9x5rsCS6clP4KQII2bnfwcD5sbm3ToQyKPd7TFTwmsP0AAokSdUCgwVO/uwFfH/zdKIg9pGixv4Kcn632l0PrLk/8Z3mSB42FzLsma5JyOZV03BOudCY03LR86l1HBfgomls0Ex6FMNeqFjR1GBvrbrvW2wCsn+vNnpUS3EtjiXgfCY6zjFBehhN34GCfSJRfm9oJ16BKMiXqGnUdazlkCVd+z8vUIzd8H6z5086iQ14DVCap2NBq5U=;b1mFjyNpHyH5zYpLX/34DQ=="
 ---

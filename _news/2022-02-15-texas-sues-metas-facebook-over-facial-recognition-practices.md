@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Texas sues Meta's Facebook over facial-recognition practices"
-excerpt: "WASHINGTON, Feb 14 (Reuters) - The Texas attorney general's office sued Meta's (FB.O) Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of ..."
-publishedDateTime: 2022-02-14T18:16:00Z
-originalUrl: "https://www.reuters.com/technology/texas-sues-meta-over-facebooks-facial-recognition-practices-report-2022-02-14/"
-webUrl: "https://www.reuters.com/technology/texas-sues-meta-over-facebooks-facial-recognition-practices-report-2022-02-14/"
+title: "Texas sues Meta’s Facebook over facial-recognition practices"
+excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
+publishedDateTime: 2022-02-14T20:30:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
+webUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna16201"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/3DIMCwJISd63m-_elCUQMtEQhrE=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6WVIO3H3LJIF3BHDITYPZD2YDQ.jpg"
-    width: 728
-    height: 381
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -231,17 +229,20 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Texas AG sues Facebook parent Meta over facial recognition"
-    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state’s ..."
-    publishedDateTime: 2022-02-14T19:11:00Z
-    webUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
-    ampWebUrl: "https://www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/texas-ag-sues-facebook-parent-meta-over-facial-recognition/?amp=1"
+  - title: "Texas AG Sues Facebook Parent Meta over Facial Recognition"
+    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday in a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
+    publishedDateTime: 2022-02-15T00:21:00Z
+    webUrl: "https://www.snopes.com/ap/2022/02/14/texas-facebook-facial-recognition/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
+      name: Snopes.com
+      domain: snopes.com
+    quality: 41
+    images:
+      - url: "https://www.snopes.com/tachyon/2022/02/Texas-Meta-Facebook-Lawsuit_69852-scaled-e1644884454693.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Texas sues Meta over Facebook's past facial recognition practices"
     excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
     publishedDateTime: 2022-02-14T21:24:00Z
@@ -271,6 +272,6 @@ related:
         height: 720
         isCached: true
 
-secured: "A/Kgh8UQnlSU1kay0sflVOUnkBW6OkmvnP2f9uLt/Esa3QcxpZjyPyojQougP3BLnk9TN9RZ0F216IZI5JnrMNYPm+aH0ZH9PuUrux0aG3bzgHtVwm8XKUy+sq6xAqV/bZ0C1j9xvfUh32elYMBrtAHzmdgGVsXmc6mlyn1sYO7yeIgM8L8srQ2EKj4oCgw/ZW4p2MwbOP0TtzSu/5IMeNa78HhtSCOvv19WQc9L8YYGtwur5K5Aazq+iIksUH8LwYZ/jP4GQkhpAvPWTPcNVjVI5zqIzrSzngy523DrtQdkiX2M7IT7ay1cGE2wY5UL5utYd1bhRSy41uOdGcNj2vpAKIEH06cCnbbiCnaBgIFL0VNcfUahR975uxqwKjdBVqKbkwfZ6QGmKcx+NIFbIWPZ7lzosc80WQQIyPMTHk2IhywxTVmVW1ew4ajaP72OTQw8tXpht8PDz13BpzKcXVVoYpH0HjPbygJkLs+cgSUSObbxX/JdPVReQM5NHyGN/kAwCrxzur8NOC060+CyFA==;rt6R+88UVLBUir/1GHX5Vw=="
+secured: "aZQMJz5Cc9K9BIeokV8sacGQ9YEf5fAski2VjQ+RNwxgKvZ557t5XI3DBBLto8/JP3UDAMVor3//wRb0Elgr/yHHuZhJDvwZrr6EzMOqXUypRsIEJE/ViIF1LQvgz4a2jguierar6Ub9a65Ut3wibbcFT09i3Sp/xcnlBApgbdrkVHePw6+hvsjz0Lx+9863ldagNQG15DelWjCWKk1rCQfUIwVMFFUGM10GKjUF7x2Iw2n3R0lB8HNEUMBVY1MWesl5jxY2zOvIzEN4RYcxB1N1Xu8fRWv4G/GRi0NqB3FfC/F5dk23nKrnhpDbzGnsb0SEFzrc2fkh5w+mirebxQ5r+IZiXbBelaOL7jdmqds=;i/IJomT/ilJAw5oPtczjrg=="
 ---
 

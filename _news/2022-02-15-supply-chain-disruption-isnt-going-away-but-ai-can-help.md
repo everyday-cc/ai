@@ -39,20 +39,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "How artificial intelligence can help in the fight against doping"
-    excerpt: "Artificial intelligence may help to make sporting competitions cleaner and fairer in the future. Professor of Business Informatics Wolfgang Maaß and his teams at Saarland University and the ..."
-    publishedDateTime: 2022-02-10T11:58:00Z
-    webUrl: "https://idw-online.de/de/news788188"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 52
-    images:
-      - url: "http://www.idw-online.de/de/institutionlogo22442"
-        width: 1890
-        height: 827
-        isCached: true
 
 secured: "cIaSfrs8eA8+JcZpMNgb68nt13uLpHvZqolANGQJmlZ+iMWbmkFzH23gZN+TMfoEv8t1JlGCYIaPpMtisjmIZr7w0tc/Ip6ila8+9X82wLM4lTT3+8kRuj5+qoxpNBVN/sosg7/Cxsc/v1ApQbpw2KVa3o6VcLVbMs43euC1VwNw1bqCawCrDQvmdrZ6E0i0NHFtT/lpAq1XbN1RYfIOMa80eMVW4RDwl2XAiAcw2xBRxsNGcALZk/XMQAlFlViAvkAcEe4uHmyXNKA7Bir2s3cWUvR3F7q6Eqxqj6tOIcawxn+twxnmSk9ql9ndR2DmgmUZn7O7BCDmwJyeZ95OgoVtyUuzlv7oAilvVH26W3Q=;48w0Uwd81bHmMF7uGqUCrA=="
 ---

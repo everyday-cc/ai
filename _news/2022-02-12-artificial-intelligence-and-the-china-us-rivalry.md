@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
+    excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
+    publishedDateTime: 2022-02-15T04:39:00Z
+    webUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/"
+    ampWebUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
+    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
+    type: article
+    provider:
+      name: KSTP
+      domain: kstp.com
+    quality: 51
+    images:
+      - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Thinking fast and slow with AI"
     excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."
     publishedDateTime: 2022-02-14T04:30:00Z

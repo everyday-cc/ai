@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-wit
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s AlphaCode is a tool — not a replacement — for human programmers"
-    excerpt: "DeepMind is the latest AI research lab to introduce a deep learning model that can generate software source code with remarkable results. Called AlphaCode, the model is based on Transformers ..."
-    publishedDateTime: 2022-02-10T11:39:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-alphacode-tool-not-replacement-for-human-programmers-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FDeepMind-AlphaCode-hed.jpg&signature=5d020b6dc8594e93e2a0e7a66d87fb41"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "DeepMind’s new AI can write code"
     excerpt: "A new programming AI system from Deepmind, Alphabet’s experimental AI research arm, can perform complex coding tasks better than the average programmer and could lead to the AI that can change itself. AlphaCode was trained using open source code from ..."
     publishedDateTime: 2022-02-14T19:09:00Z

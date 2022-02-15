@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: GeeksforGeeks
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Emerging data trends in 2022"
+    excerpt: "Tensorflow Extended (TFX) and Amazon Sagemaker are two of the most potent full-stack MLOps platforms that bring compliance, efficiency, and robustness to the entire ML lifecycle. These platforms ..."
+    publishedDateTime: 2022-02-15T03:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/big-data/emerging-data-trends-in-2022/89581352"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/big-data/emerging-data-trends-in-2022/89581352"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/big-data/emerging-data-trends-in-2022/89581352"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89581352,imgsize-10362,width-1200,height-628,overlay-etcio/emerging-data-trends-in-2022.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Top Artificial Intelligence Trends to Look Forward To in 2022"
     excerpt: "The last year saw some incredible breakthroughs in the field of artificial intelligence. Building on them, corporations and the developers who work for them are poised to spearhead equally impressive advances in 2022. Dr. Tehseen Zia has Doctorate and more ..."
     publishedDateTime: 2022-02-11T00:11:00Z

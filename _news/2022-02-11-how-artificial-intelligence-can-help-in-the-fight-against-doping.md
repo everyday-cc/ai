@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/news-releases/943116"
 webUrl: "https://www.eurekalert.org/news-releases/943116"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: EurekAlert!
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence can help in the fight against doping"
-    excerpt: "Artificial intelligence may help to make sporting competitions cleaner and fairer in the future. Professor of Business Informatics Wolfgang Maaß and his teams at Saarland University and the ..."
-    publishedDateTime: 2022-02-10T11:58:00Z
-    webUrl: "https://idw-online.de/de/news788188"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 52
-    images:
-      - url: "http://www.idw-online.de/de/institutionlogo22442"
-        width: 1890
-        height: 827
-        isCached: true
   - title: "Supply Chain Disruption Isn’t Going Away. But AI Can Help."
     excerpt: "The result: empty shelves in stores and long waits for a wide range of products, from computer chips to cars. Moving forward ... powered by artificial intelligence (AI) to help with these challenges. While these solutions won’t solve all of the ..."
     publishedDateTime: 2022-02-14T21:57:00Z

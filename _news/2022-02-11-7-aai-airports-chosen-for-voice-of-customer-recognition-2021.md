@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/business-economy/industry/7-aai-airport
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "These 7 airports chosen for Voice of Customer Recognition 2021. Check list"
-    excerpt: "Seven AAI airports namely Chennai, Kolkata, Goa, Pune, Patna, Bhubaneswar and Chandigarh that participated in ACI-ASQ (Airport Service Quality) survey in 2021 have been chosen for Voice of Customer Recognition under Airports Council International (ACI ..."
-    publishedDateTime: 2022-02-10T11:53:00Z
-    webUrl: "https://www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list-11644493200788.html"
-    ampWebUrl: "https://www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list/amp-11644493200788.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/these-7-airports-chosen-for-voice-of-customer-recognition-2021-check-list/amp-11644493200788.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/02/10/600x338/0d76f4fa-504e-11ec-93a1-2e784d59340f_1644493558230_1644493578206.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "ACI World Announces Recipients of The Voice of the Customer Initiative"
     excerpt: "Airports Council International (ACI) World has announced the recipients of The Voice of the Customer, a recognition that celebrates airports that have continued to prioritize listening and adapting to customers during the pandemic. This year, over 200 ..."

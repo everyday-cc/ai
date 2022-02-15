@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel's Mobileye, partners to launch self-driving shuttles in U.S. in 2024"
-excerpt: "San Francisco, Feb 14 (Reuters) - Intel Corp's Mobileye unit plans to build and deploy self-driving electric shuttle vehicles with its partners in the United States in 2024, in a bid to scale up its automated driving systems beyond taxis and delivery ..."
+excerpt: "Monday, February 14, 2022 A view shows a self-driving electric shuttle that Mobileye, Benteler EV Systems and Beep, plan to launch in the U.S. in 2024, in this undated artist's rendering handout picture. Benteler/Handout via REUTERS WASHINGTON (Reuters ..."
 publishedDateTime: 2022-02-14T16:08:00Z
-originalUrl: "https://www.reuters.com/technology/intels-mobileye-launch-self-driving-shuttles-us-2024-2022-02-14/"
-webUrl: "https://www.reuters.com/technology/intels-mobileye-launch-self-driving-shuttles-us-2024-2022-02-14/"
+originalUrl: "https://www.reuters.com/news/picture/intels-mobileye-partners-to-launch-self-idUSKBN2KJ101"
+webUrl: "https://www.reuters.com/news/picture/intels-mobileye-partners-to-launch-self-idUSKBN2KJ101"
 type: article
 quality: 52
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/nc6mTw6Fy1iqtl01_Ilh-eazdY0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VGM2USMAJZKQLA6PAH4CSCZUMM.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220214&t=2&i=1591132018&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI1D0QS"
+    width: 810
+    height: 540
     isCached: true
 
 related:
@@ -54,6 +54,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Intel’s Mobileye with its partners to launch self driving cars in the US by 2024"
+    excerpt: "Intel’s Mobileye announces plans to build and deploy self-driving cars in the US by 2024. The announcement comes in a bid to scale up its automated driving systems beyond the current system of ride-hailing and others. Mobileye and its partners ..."
+    publishedDateTime: 2022-02-15T02:41:00Z
+    webUrl: "https://techstory.in/intels-mobileye-with-its-partners-to-launch-self-cars/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/641220_39429767.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Intel teams up with Benteler and Beep to develop self-driving shuttles"
     excerpt: "“Working with Beep and Benteler, Mobileye aims to mass-produce first- and last-mile self-driving mobility solutions that will enable the convenient, accessible and safe movement of people across ..."
     publishedDateTime: 2022-02-14T18:22:00Z
@@ -83,6 +97,6 @@ related:
         height: 528
         isCached: true
 
-secured: "hPH9453n6jvmgNOLKZybbX7DB5LwQrhSBCZ9KN2F1wb50H0ZYK5eCLlpPjkIpitnsTPSRmNhGAN/fObNHS9CPqMM0BtxiblGLz4krTttaz2cUkDDt0qSI3l//oC3tOhmBIRb0wpketLqM5ezBg6BfJgU35L2386Jk5aVY/2kU6qQjsjsB2j3MrU7b8OMoZrF0/ISZ+f3MXY5vW5Z4HnEXQEthEIUukDNg7RTaH7rv4mnwchBBnASwo6cGIOZTqDzW0FHa5fU5LiY5CRBe+8FB/k2EzatO2ly6OLIpJX02E57srzlgIxvEllJvrQSu/pdLPTgAUh6XQ3RXxmNMxjzCLOeBfepl+n1up2Rwk4M+m/Et9m8Ah8CWj4yRHSCV5YSifK5KcfPa7kFZY/RkM6qm5A1CZAtZ9KjFWT4T0XMgb7unGeSdaUGWmo4nxOPYS8PWaFtXhPx9UYfqGi387L12hGBGNnec1Dqn/izNQpTkFLdU4qP/7y3+qDQhJ5FhSSV1Wzw/T1FaeeZWIFbBjdmXA==;CnfRgyIDvViWqBQXBTxhMA=="
+secured: "Khu7VurkOAvlBDhVtHa9HJu27DATYsKVMmEADAcgV7USKhttM+zuzMi3i0yGGhsVJdicXNacyTbTEq24ji1elu/fkL3KENf2Hxa4bR/m5WBUmuFfkPfYckBsgDJMkLMkzgciEcLF2mQ44jIexv72aSFk+aAxvcw3a5vSrQDVi2NUT6ez32w74jFCn92CAkrypbmetHgkkaPdfEWu7pRU3t+0cGf5/vpn13WDyuFFhJ0zhYPxFMyuIZoNiW6Ki7xplv285fLQ+i3n7YBiWc2orG0rZ5gPsXY5km2psMV/Zpu5ZvCWilTYdNih3nGJaZttPyNGfTyrl60UoT2f7SGXd/sXrdW524ifaPEYzODzcsw=;7QcjpPp05GC/mSk0zRZzIg=="
 ---
 

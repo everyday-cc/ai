@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: TechCrunch
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deepdub closes fresh financing round for AI that dubs movies, shows, and games"
-    excerpt: "The AI-generated voice in the target language can then perform at any ... But localization isn’t as straightforward as simple translation. As The Washington Post’s Steven Zeitchik points ..."
-    publishedDateTime: 2022-02-10T12:32:00Z
-    webUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/"
-    ampWebUrl: "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 185
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "Deepdub: bringing you AI-based dubbing"
     excerpt: "Israeli startup Deepdub is trying to make your movie experience more laid back, and easier to enjoy with their cutting-edge AI technology that allows you to watch whatever you want, regardless of your native language. Deepdub's platform allows content ..."
     publishedDateTime: 2022-02-10T14:27:00Z
@@ -62,22 +46,6 @@ related:
       - url: "https://www.geektime.com/content/images/2022/02/Team-photo.-Credit---Deepdub.jpg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Deepdub, Israeli Startup Using AI for Dubbing, Raises $20M From Kevin Reilly, Others"
-    excerpt: "The Tel Aviv-based company says it has partnered \"with multiple Hollywood studios on various projects\" to localize TV and film content."
-    publishedDateTime: 2022-02-10T12:00:00Z
-    webUrl: "https://hollywoodreporter.com/business/business-news/deepdub-dubbing-raises-funding-kevin-reilly-1235088720/"
-    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/deepdub-dubbing-raises-funding-kevin-reilly-1235088720/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/deepdub-dubbing-raises-funding-kevin-reilly-1235088720/amp/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 50
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2022/02/Deepdub.jpg?w=1024"
-        width: 1024
-        height: 500
         isCached: true
 
 secured: "5k48l6K4GdOe47WiAL1qcA3+Qq92pxzEPGlIxzMfZ09AJ8m92JT3PQEmp2DLm6YY+jd/4FiuLJo5cUu9iMDYMCp9t4B/kcEo0fk77gRxdeVVZ0xpAWDK6DT/0Gughj2E8yKuTEy4FwBHWRQ86B3Btal3pdWWsZQvIrkuhGN6UVr8bdEl65vPHkNqiJIIYKjelIMEtozRGreB0hCuqaH+qNO+enINyxNkNP8HwELEbPHH/QM6N6cuvw8YhprAICTxDXYKJcWqBZTD+mDXVtcQjpASphSO++auirO4ENsiqRQdFiphD0VMoyN+IjtRYrGOxkfs3cYFBzi2ggHhnEEvwAXTPPzgdJ0v3y7n8EYi80liRyRNcvh3lp8l+NUmNArpy1GaRPp1fmDDHQpKQ2IQyO0bYqnOoDydAbsRI/rlRl1p7P/vu/0uzw1ypdjMrZrLHa8BbtjcemltpEPenjUbgsrTfOdXWcZdG5FzcK/oa4tZ7AvhlXJgiRgc4exHrzqKXgLw8eZJsk434B8Sop1bag==;Z0JiQdt+RwzGvXVmKLWGqA=="

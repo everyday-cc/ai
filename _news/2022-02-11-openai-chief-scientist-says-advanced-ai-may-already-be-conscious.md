@@ -35,7 +35,7 @@ related:
     provider:
       name: SlashGear
       domain: slashgear.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.slashgear.com/img/gallery/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/l-intro-1644886305.jpg"
         width: 1600

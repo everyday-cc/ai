@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways Fintech Will Influence The CFO Role"
-    excerpt: "So, who is the primary beneficiary of this fintech revolution? CFOs. In the past few years, new technologies and software have spilled into every aspect of finance, from analytics to AI and beyond. Digital tools have helped boost efficiency and decision ..."
-    publishedDateTime: 2022-02-10T12:38:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/606b44f264bac4503c6bfc54/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Top Fintech Companies To Invest In, In 2022"
-    excerpt: "... help companies and individuals navigate adoption of new fintech technologies. Speaking of which, innovation is still ongoing even ad growing companies adopt new forms of payment and transfer. AI is already at the heart of start-up fintech business ..."
-    publishedDateTime: 2022-02-10T18:31:00Z
-    webUrl: "https://techbullion.com/top-fintech-companies-to-invest-in-in-2022/"
-    ampWebUrl: "https://techbullion.com/top-fintech-companies-to-invest-in-in-2022/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-fintech-companies-to-invest-in-in-2022/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/top-fintech-companies-to-invest-in-in-2022.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Five trends shaping the future of Fintech"
     excerpt: "With billions of dollars on the line, it&#39;s no surprise that machine learning is becoming more popular in fintech. The strength of this AI subset rests in its capacity to process huge amounts ..."
     publishedDateTime: 2022-02-14T10:05:00Z
@@ -87,34 +55,29 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Evolution of Fintech to Progress in future"
-    excerpt: "... but the underlying technology that has driven the Fintech 3.5/3.5 era, namely blockchain and open banking, will continue to drive the innovation of the future. Artificial Intelligence(AI) and combined with Machine Learning (ML) have developed a new ..."
-    publishedDateTime: 2022-02-13T14:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
+  - title: "Rise of FinTech'22: How India Embraced Digital Payments"
+    excerpt: "Furthermore, AI needs to be implemented in our digital ecosystem in order ... India has disruptive potential in the finance sector, with more FinTech businesses breaking new ground with their strong, cutting-edge technology, resulting in a record-breaking ..."
+    publishedDateTime: 2022-02-11T12:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/rise-fintech22-how-india-embraced-digital-payments-ruchi-rathor"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
-        width: 490
-        height: 351
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGKCfB0nbWIqg/article-cover_image-shrink_720_1280/0/1644388446675?e=1649894400&v=beta&t=jBV0m6cuWJrrWxAsr29LLnX_xjawUpi_c5hV6uncrgg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Why The Future Of Fintech Depends On Open Data"
-    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
-    publishedDateTime: 2022-02-14T10:32:00Z
-    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
+  - title: "FinTech Software Development, Management, And Adoption Trends That Help Companies Go Digital In 2022"
+    excerpt: "COVID-19 has given a spur to fintech software development, currently showing widespread adoption across 3 major areas of digital transformation. At the same time, however, Artificial Intelligence (AI) and Blockchain actually remain less common technologies ..."
+    publishedDateTime: 2022-02-11T18:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/21808/fintech-software-development-management-and-adoption-trends-that-help-companies-go-digital-in-2022"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 24
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
-        width: 1724
-        height: 1080
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 0
 
 secured: "rI9LjDq5zsyBbcelA3bilrxtfuuG9/D7ONbLVciZ3WeCDM+QYRjZFSApQYMMHvNgjp+QjPTRTfhhR6jH1ZS/6GfjbO/iFusnnNXIc8KK7BHcis/XOyKPsKxDxeitZo61FBQNzydC9m32/eEV64gcZ2RUENsKgCtLSvdlrF8gghWdXK1R7oWhSi67u4gL9Je7cXEp7a8psuISxvOtvIc5S92Hngoa2ZbH7KTkrpNL68mKvupXel03WC25o93r8U2srj8qj1IsgZ605kHOLr1X0pXnoclkZxK684k5u9zWwVIC6/FOtq31P2zDDN9pAQ3FKNDYLq8Hwqh3RnEtWAMHkNvFfXdZrzcYlib703hcB5M=;MoCSUASoco/YJNTjQjFW9w=="
 ---

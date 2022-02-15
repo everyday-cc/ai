@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spinny acquires AI-powered car connectivity start-up Scouto"
-    excerpt: "Feb 10 Pre-owned car retailing platform Spinny has acquired a 100 per cent stake in AI-powered Connected Car startup Scouto for an undisclosed price. Founded by ex-race car driver Akshay Gupta (CEO) & Shubham Sharma (CTO), Scouto has built an end-to-end ..."
-    publishedDateTime: 2022-02-10T11:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/xkjt62/article64999969.ece/alternates/LANDSCAPE_615/IMG_hy26Sindhu_5_1_6D94DH64.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Spinny acquires AI-powered car connectivity startup Scouto"
     excerpt: "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ..."
     publishedDateTime: 2022-02-10T15:39:00Z

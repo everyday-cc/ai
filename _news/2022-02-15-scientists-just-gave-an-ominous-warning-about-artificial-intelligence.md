@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-15T01:03:00Z
 originalUrl: "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/"
 webUrl: "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.slashgear.com/img/gallery/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/l-intro-1644886305.jpg"

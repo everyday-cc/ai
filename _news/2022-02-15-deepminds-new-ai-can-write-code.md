@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "DeepMind’s AlphaCode is a tool — not a replacement — for human programmers"
-    excerpt: "DeepMind is the latest AI research lab to introduce a deep learning model that can generate software source code with remarkable results. Called AlphaCode, the model is based on Transformers ..."
-    publishedDateTime: 2022-02-10T11:39:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-alphacode-tool-not-replacement-for-human-programmers-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FDeepMind-AlphaCode-hed.jpg&signature=5d020b6dc8594e93e2a0e7a66d87fb41"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "4OvXMEh9E9yCRFVCm6l46Tl0kUtKLykbFmNNbWBy/H1DjF9noGd2voRLpPjrtaJi92LvEeG4Uj/9xuytuhAINJtevV68q3r7TaZ6OMxeJ5kLhL47vuoVuMk6VEQ1MD1OLz9gWgjPBJFS0jHAHe44LTcXWgeKKfBsfG9J46L0TonMLZQJeApvFOfliEPnpVYib4XtbHjgAGGBC77S4d+vc4DtVkVjntPaHeWUO4m3L2VJaufn21Z7tRWnW2GsHvcYXiKH36rDL1OT/DiutS3t2fU+fvEoWmyahcHaSCTad0Gi7t8UVlzHb8Y7OjiWn4+O1d2D5bdf7MzbZ95lVYv/Z7vjkiVqrBVaGwD06UtTdIExJK78V1K1ecMyXdjwmOBT0W6WUhBLnrzclP9e8Td0PKRT+WTJ9m9122lSMGYSpnt/S3CDYTs1JD0UQXq6pyJctqHZShk/RWCxj4MBiTLBbBZS7dAjquhgMGjmbbO/knqTAkGlAaxD618Avdh5+QeoXgafisfzTeyHW7WnRcrrfA==;pZVLwM/dJWCzcOBsRDRlRw=="
 ---

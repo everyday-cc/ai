@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-15-local-municipalities-use-ai-robots-to-improve-care-for-elderly.md",
+      "title": "Local municipalities use AI robots to improve care for elderly",
+      "excerpt": "Among the various AI robots which can be found inside of stuffed toys ... Soon-yi is a wristwatch-type product made by DNX, a startup company in the Yongin City Digital Industry Promotion Agency. After DNX provided the products to 111 elderly people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/02/113_323917.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/02/113_323917.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202202/80187d74a9984404b3a204a4ee0b2759.jpg",
+          "width": 980,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917",
+      "publishedDateTime": "2022-02-14T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot.md",
       "title": "AITX unit, Robotic Assistance Devices bags order for Wally Security Robot",
       "excerpt": "Artificial Intelligence Technology Solutions' (OTCPK ... Previously (Jan. 21): Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport To ensure this doesn ...",
@@ -361,6 +404,49 @@
       "provider": {
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-global-industrial-robotics-market-to-surpass-us-691-mn-by-end-of-2027-says-coherent-market-insights.md",
+      "title": "Global Industrial Robotics Market to Surpass US$ 69.1 Mn by end of 2027, Says Coherent Market Insights",
+      "excerpt": "According to Coherent Market Insights, The global industrial robotics market was valued at US$ 49.0 Mn in 2019 and is forecast to reach a value of US$ 69.1 Mn by 2027 at a CAGR of 6.4% between 2020 and 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9541431.htm",
+      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9541431.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2019-aug/2411888530-keyboard-USB-laptop.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1294,93 +1380,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates.md",
-      "title": "Study uses artificial intelligence to understand lung and bronchus cancer mortality rates",
-      "excerpt": "Research explores how impact of known risk factors for lung and bronchus cancer mortality varies spatially across US. By the University at Buffalo. Many people think of robots whe",
-      "sourceUrl": null,
-      "webUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
-      "originalUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wnypapers.com/templates/custom/niagara-publications-2020/images/share-nfp.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Niagara Frontier Publications",
-        "domain": "wnypapers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-humanoid-robot-is-teslas-most-important-product-this-year-musk-says.md",
-      "title": "Humanoid robot is Tesla's 'most important product' this year, Musk says",
-      "excerpt": "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "originalUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "publishedDateTime": "2022-01-27T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
