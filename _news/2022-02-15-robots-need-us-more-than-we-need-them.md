@@ -2,9 +2,9 @@
 category: news
 title: "Robots Need Us More Than We Need Them"
 excerpt: "The robots employ an off-the-shelf industrial ... Familiarity with the basics of artificial intelligence will also equip them to develop creative ways to apply it to the business."
-publishedDateTime: 2022-02-14T19:00:00Z
-originalUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them"
-webUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them"
+publishedDateTime: 2022-02-15T13:00:00Z
+originalUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them?tpcc=orgsocial_edit"
+webUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them?tpcc=orgsocial_edit"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 1124
     isCached: true
 
-secured: "Vw7d+KiHokmgir7UL+g1rdyCsBSwoiNK2YvqZoH37sBzxa01cy+teCAuS37yf5QnqN9ZziKRbvxZc/JITFMpnZMd0yMYj7ufdJlkAZOiaPWKwg76z1SV59pAChjAxpMbQZabTCdb7ZJAqNutCNggvgIiC4GIvuAKgHBP/HXrT3N2jRENcAKosl+wNZ+HCrKTmPTTDCUti6lzYidpcuCQ0itd6xWWC4UNASEzIofUZlKZCIBZ1d7uoKg3ive8s4xYEoePncriDUTAk5ZGQ8FF93Ow64LnnZ6bWu9UD+M0J1pO3sTB4UGMPfKQTK+l5rdjsXsbeWHCuLtFNdkuBfTGS12itMffT1+vLMz6uR1UjpHAqrB1g1d5DF0k02kInMDueBhsoaPR9iiMvClWacDB26c9tkjm3EiVrul5c+WRptEANjjwYzmZ8MPxiXDVtG3TRiB0+yqiRhv51y3XG7LxB2MBhu+3OvAKb6HTGBC/n2F3dgTP/GpRXJc9f+xxPZRzx4CW1zdRBxdHBkXQU/rDuw==;yZdUnMsr2Sz24IlrBvSCOw=="
+secured: "zgecJ9TQ6nzKbwbtxFMk6x8nyt5Dq4a3/K+4rgak3nbZoZcHL0wG5HjQx7Y/HldxL7tic8vVyphYiHfagE7/CSNBhGChpGxFRGMDmqQIMvdh/0tylJVBzWjGjY22tCSYMSgzGQWnPTm6xMWjQqVPcaALPC5NQsQqV8jWK/NTuvtZK5nOa98AK0FwDgRIcGowuQNvX9MW68Prt5vNNpKRISYkQGwt8PltyfYsTpTwqI2i91sHPISTREQEDpTGVfecZsiR7aNjfjVz5CkVogBWpsJhO+fBZYPTosFtS4fIVTYeGxZE8txd6CqbTu8kxrNp9gxJ45w5LGj7RBHaSKBU3w+iFxaxQ0EyoZKSe0OSd8Q=;oCK8cAqBLpUxnTh4/w15FQ=="
 ---
 

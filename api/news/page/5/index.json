@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-10-on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify.md",
+      "title": "On AI Ethics: Wendy Foster, Director Of Engineering And Data Science At Shopify",
+      "excerpt": "Your academic background spans both the humanities and technical disciplines; how does that inform your perspective as an executive and thought leader on AI ethics? Foster: I actually think about this a lot, unpacking it to see what I can mine for my teams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62042ef5da6fdebdbc4354fc/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "publishedDateTime": "2022-02-10T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-who-its-time-to-eliminate-ageism-in-artificial-intelligence.md",
+      "title": "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence",
+      "excerpt": "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.who.int/publications/i/item/9789240040793",
+      "originalUrl": "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.who.int/images/default-source/campaigns/global-campaign-to-combat-ageism/ageism-in-ai---cover.tmb-1200v.jpg?sfvrsn=8925a8df_1",
+          "width": 1200,
+          "height": 1697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-visionifyai-chosen-as-computer-vision-solutions-partner-by-dessert-toppings-company-tr-toppers.md",
       "title": "Visionify.ai Chosen as Computer Vision Solutions Partner by Dessert Toppings Company TR Toppers",
       "excerpt": "DENVER, Feb. 10, 2022 /PRNewswire/ -- Visionify.ai, a Colorado based Computer Vision company that provides turnkey solutions to its customers, today announced it is now a solutions partner for TR ...",
@@ -1062,99 +1158,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sony-ai-defeats-human-racers-in-gran-turismo-playstation-game.md",
-      "title": "Sony AI defeats human racers in Gran Turismo PlayStation game",
-      "excerpt": "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "publishedDateTime": "2022-02-09T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sony-ais-first-project-can-drive-circles-around-you.md",
-      "title": "Sony AI's First Project Can Drive Circles Around You",
-      "excerpt": "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "originalUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3938443-granturismo73.png",
-          "width": 1918,
-          "height": 1073,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "publishedDateTime": "2022-02-09T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

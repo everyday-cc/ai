@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Toronto AI star Cohere raises US$125-million led by Tiger Global"
+    excerpt: "Cohere, co-founded in 2019 by protégés of AI luminaries Geoffrey ... algorithms to generate language. Mr. Gomez and Cohere co-founder Nick Frosst, another ex-Google researcher who previously worked with Mr. Hinton, wanted to translate gains in NLP ..."
+    publishedDateTime: 2022-02-15T20:53:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-toronto-ai-star-cohere-lands-tiger-led-125-million-venture-funding/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/u9aGdNp4Q3WDmP2PMFnyueV9oug=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/AKP5PASY3ZDGHEENIHPNKS4SFY.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "AJSEXr4ngly1FS1v0OnLVisKT83NO16WMdP6mZfrCYEqVcLV2eA0shG2HV3Ypuv2pSNxOcjm2nUXuiWt0GJXC1ZZjsuWBZ808C/Sx7ob19mcruHGB0RSdTL61SOQrZszcPmFGlw8/ZSsPu4U6ueyz5A739F3WN87X7DFZe67bhcx8XUSq30dJNzkkyp2SN+bj9f/Jc0VQUkhSK8IsTctnndiykk627Q+LPdJ43AHjheWPDbV7YMEs30qViCoPeglnblLBQf0PvA+BpIOZOWQoWFpcgesgeReP6Y+KhMsHViyOFFhK6Oehu9HghtM5co2c883OqrPOcW32Wuzjy1jSB7LSEBPXjHKPVujy4ea9g6sBt4IFOPuxAHhR9NL5mnAdhVu5537nCqC3PTDQwZdJ4qrGzbE2xCGSGf1mHPOQtwRKJcVj5MRhRKyHfPOtock7rXNMU/YIo9KcsK62VU2tMnkktE2bb5DUPEJi3AeCbpGeUb4QdmgKf+UUu7yYFnOS0Oy8o8TjNNKMHPkHiHKAw==;kj1W6pGr22ooBz2Gak7pWg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-biweekly-metaverse-sylvain-duran
 webUrl: "https://www.linkedin.com/pulse/ai-biweekly-metaverse-sylvain-duranton"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -28,19 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: AI beats race car drivers in a video game and a U.S. bill promises to regulate social media"
-    excerpt: "Join today's leading executives online at the Data Summit on March 9th. Register here. This week in AI, Sony — the Japanese electronics giant that’s still selling luxury MP3 players ..."
-    publishedDateTime: 2022-02-11T17:20:00Z
-    webUrl: "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/"
-    ampWebUrl: "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/"
+  - title: "S. Korea's $200 billion wealth fund is betting on the metaverse and AI startups"
+    excerpt: "\"There are still plenty of good opportunities, if you chase them eagerly.\" KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation's finance industry."
+    publishedDateTime: 2022-02-11T19:21:00Z
+    webUrl: "https://www.pionline.com/sovereign-wealth-funds/s-koreas-200-billion-wealth-fund-betting-metaverse-and-ai-startups"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/porsche.jpg?w=1200&strip=all"
+      - url: "https://s3-prod.pionline.com/s3fs-public/styles/1200x630/public/Jin_Seoungho_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI avatars: Auckland startup Soul Machines rides metaverse hype with $104m raise"
+    excerpt: "ANZ's virtual assistant named Jamie was developed by Soul Machines. Auckland startup Soul Machines has closed another huge capital raise as Mark Zuckerberg's \"metaverse\" hype and AI boom help to stoke demand for its AI-powered avatars. The firm says a ..."
+    publishedDateTime: 2022-02-15T01:00:00Z
+    webUrl: "https://www.nzherald.co.nz/business/ai-avatars-auckland-startup-soul-machines-rides-metaverse-hype-with-104m-raise/QWP2TMGTZOVMDH4SMYKJX3KEXM/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 32
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/8JJ_cRSu9OJ6oDK-XTr3AKsEBBQ=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/634O74EOHK347OVQWCMMAMQIHQ.png"
         width: 1200
         height: 675
         isCached: true

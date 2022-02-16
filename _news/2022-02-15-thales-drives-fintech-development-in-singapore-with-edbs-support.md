@@ -24,17 +24,6 @@ images:
     height: 1182
     isCached: true
 
-related:
-  - title: "FinTech Software Development, Management, And Adoption Trends That Help Companies Go Digital In 2022"
-    excerpt: "COVID-19 has given a spur to fintech software development, currently showing widespread adoption across 3 major areas of digital transformation. At the same time, however, Artificial Intelligence (AI) and Blockchain actually remain less common technologies ..."
-    publishedDateTime: 2022-02-11T18:03:00Z
-    webUrl: "https://www.finextra.com/blogposting/21808/fintech-software-development-management-and-adoption-trends-that-help-companies-go-digital-in-2022"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 0
-
 secured: "ZbH+ZcYgFrMcWFbmuCQQ/Uu0zYLezrR08ldVQpP0U2UOcEBzttXF8+rNYhm3v5eLHe+5lHyx5TQPaiLSMKfneZlsoDUYTQDDW4LRMeTg6t4PFrW+5GIv90xWDKQ6sjeloZ12QMqnTU2rbQaKPCZJ2o3AmUxbzgB/k6mOfvt9UU5ZxfYqXQa8/kBWemW7vrjqpZK775CPSn9laZkuyiZWlEFiwUi0J3z0bbtDkWBEo7e9naEt4Gc4nTBisl7RR+OZVc33rf9EJ99/OWGMvPj2Os+jkObDsM+Tp9qRdB1HRiv1/AImqRYeW+QCoRdTQtepS+K/9slWeJGQp9ayZ479P03+2AP0GjYBn7fCpRGriokvntkwvRY8aVdMQ/ypJBb8Itq0dgKjnCPGLpYCy0u4U4C3l9xbKtWJXchrpkXJZBn0rLlZm2y2i66dbgqlbTdVSzXYIkiXU7GYOxbNYj7poS5Yvx7HH+2SZn9ym9AFVnx5593QCQkRmBEAqKoaFyIz7a5ySDwatIw5OIjO2a5XMg==;Ec3gqcoDxQy3/j3ky8VYoQ=="
 ---
 

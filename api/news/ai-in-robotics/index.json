@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-16-futuristic-technology-at-the-olympics-ai-iot-and-robots.md",
+      "title": "Futuristic Technology At The Olympics: AI, IoT, And Robots",
+      "excerpt": "Artificial intelligence tools like computer-vision cameras give the ... and an automatic control system to help teams refine their performance. The robot simulates the curling throwing process, which can help athletes predict potential game situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620cc32dc292d32d47f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/",
+      "publishedDateTime": "2022-02-16T00:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-four-ways-artificial-intelligence-is-transforming-e-commerce.md",
       "title": "Four Ways Artificial Intelligence Is Transforming E-Commerce",
       "excerpt": "There isn’t an industry in the world that is immune to the influence of artificial intelligence (AI). From virtual reality (VR) gaming systems to AI robots in industrial manufacturing, the development of AI technology is revolutionizing the way we ...",
@@ -181,6 +233,49 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-clubtest-2022-30-top-new-drivers-robot-tested-and-reviewed.md",
+      "title": "ClubTest 2022: 30 top new drivers robot-tested and reviewed",
+      "excerpt": "The details: The 0211 is designed with optimal feel and sound in mind ... added ball control; and TSi4, for high-speed, low-spin aficionados. (Night lights sold separately.) Robot’s take ...",
+      "sourceUrl": null,
+      "webUrl": "https://golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/",
+      "originalUrl": "https://golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://golf.com/wp-content/uploads/2022/02/clubtest-drivers-2022-lead.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/?amp=1",
+      "cdnAmpWebUrl": "https://golf-com.cdn.ampproject.org/c/s/golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/?amp=1",
+      "publishedDateTime": "2022-02-14T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GOLF.com",
+        "domain": "golf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1259,110 +1354,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind.md",
-      "title": "How MIT’s new AI system lets you control a robot with your mind",
-      "excerpt": "How MIT’s new AI system lets you control a robot with your mind Your email has been sent A new machine learning system developed by MIT and Boston University offers a feedback system for humans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/",
-      "originalUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/03/y6rgz2-2.gif?x23932",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/amp/",
-      "publishedDateTime": "2022-02-01T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-here-come-the-underdogs-of-the-robot-olympics.md",
-      "title": "Here Come the Underdogs of the Robot Olympics",
-      "excerpt": "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
-      "originalUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61f853d9a098d1434bc85a47/master/pass/2022_01_17_WIRED_DARPA_SubT_ROBOTS_206_FNL-FA.jpg",
-          "width": 2400,
-          "height": 1647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
-      "publishedDateTime": "2022-02-01T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

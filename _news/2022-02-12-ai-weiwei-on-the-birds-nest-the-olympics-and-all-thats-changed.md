@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna14331"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna14331"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Futuristic Technology At The Olympics: AI, IoT, And Robots"
+    excerpt: "Artificial intelligence tools like computer-vision cameras give the ... and an automatic control system to help teams refine their performance. The robot simulates the curling throwing process, which can help athletes predict potential game situations ..."
+    publishedDateTime: 2022-02-16T08:32:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620cc32dc292d32d47f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Apps, AI Translator, Marker Pens: At Beijing Olympics, Overcoming The Language Barrier"
     excerpt: "Businesses at the Beijing Olympics are getting around the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
     publishedDateTime: 2022-02-15T04:21:00Z
@@ -41,20 +57,6 @@ related:
       - url: "https://c.ndtvimg.com/2022-02/55636o4s_beijing-olympics-translation-reuters_625x300_15_February_22.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Ai Weiwei at Kettle’s Yard — a story of faith and fakes"
-    excerpt: "Or would you feel something akin to betrayal? At Kettle’s Yard in Cambridge, the city that became a home for Ai Weiwei in 2018 following his self-imposed exile from China, the dissident artist has filled the galleries with an assortment of Chinese ..."
-    publishedDateTime: 2022-02-16T05:00:00Z
-    webUrl: "https://www.ft.com/content/7b4a3889-f3ac-48bf-a5e9-88ce959fb806"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "Technology the big winner at Winter Olympics"
     excerpt: "ZHANG WEI/CHINA DAILY Earlier this month, a self-driving car carried the Olympic torch for the first time in the Games' history, showcasing China's ambitions and ability to produce such vehicles. Developed by information technology giant Baidu, the car ..."

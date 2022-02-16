@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Insurtech Market Next Big Thing | Major Giants Lemonade, Cape Analytics, Salesforce"
+    excerpt: "... intelligence-in-insurtech-market Major Highlights of the Artificial Intelligence In Insurtech Market report released by HTF MI Market Breakdown by Applications: Automotive, Healthcare, Information Technology & Others Market Breakdown by Types ..."
+    publishedDateTime: 2022-02-16T08:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-next-big-thing-major-giants-lemonade-cape-analytics-salesforce"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "WNS Triange Powers Business Growth & Innovation with Next-gen Data & Analytics Solutions and Artificial Intelligence"
     excerpt: "WNS (Holdings) Limited (NYSE: WNS), a leading provider of global Business Process Management (BPM) solutions, today unveiled WNS Triange - the new data, analytics, and Artificial Intelligence (AI) unit of WNS. Driven by a specialized team of over 4,000 ..."
     publishedDateTime: 2022-02-15T13:10:00Z

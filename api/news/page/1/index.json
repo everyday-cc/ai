@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-16-algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc.md",
+      "title": "Algorithmic impact assessments — AI Act enforcement — Facial recognition in NYC",
+      "excerpt": "AI: Decoded called Jenny Brennan ... about what facial recognition and surveillance tools the department had acquired. The EU launched its Chips Act industrial plan, a multiyear, large-scale investment plan for its microchips sector, and presented new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/",
+      "publishedDateTime": "2022-02-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-futuristic-technology-at-the-olympics-ai-iot-and-robots.md",
+      "title": "Futuristic Technology At The Olympics: AI, IoT, And Robots",
+      "excerpt": "Artificial intelligence tools like computer-vision cameras give the ... and an automatic control system to help teams refine their performance. The robot simulates the curling throwing process, which can help athletes predict potential game situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620cc32dc292d32d47f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/",
+      "publishedDateTime": "2022-02-16T00:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-marqeta-and-plaid-are-teaming-up-its-a-sign-that-fintech-is-maturing.md",
       "title": "Marqeta and Plaid are teaming up. It’s a sign that fintech is maturing.",
       "excerpt": "social networking and AI to the impact of the Great Recession and the COVID crisis on Silicon Valley and beyond. He can be reached at bpimentel@protocol.com or via Signal at (510)731-8429. Benjamin Pimentel ( @benpimentel) covers crypto and fintech from ...",
@@ -241,7 +337,7 @@
       "originalUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -282,6 +378,49 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng.md",
+      "title": "Indian Engineer Develops AI Model That Instantly Translates American Sign Language To Eng",
+      "excerpt": "Priyanjali Gupta, an engineering student from Tamil Nadu's Vellore Institute of Technology (VIT), has created an AI model which can translate American sign language to English in real-time. A third-year computer science student, Priyanjali Gupta is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jbxoumigagmwijxk_1644938606.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "publishedDateTime": "2022-02-15T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -542,7 +681,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -593,7 +732,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -929,7 +1068,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1057,162 +1196,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-beijing-visitors-go-hi-tech-to-avoid-getting-lost-in-translation.md",
-      "title": "Beijing visitors go hi-tech to avoid getting lost in translation",
-      "excerpt": "ZHANGJIAKOU, China, Feb 15 (Reuters) - Businesses at the Beijing Olympics are getting around the language barrier by using high ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2022-02-15/",
-      "originalUrl": "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2022-02-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/CWl1hFxcYlumTqokdV5ePg1TlTs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X5N3IS5GP5JI5EWCEIOXBWJKY4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T19:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-scientists-just-gave-an-ominous-warning-about-artificial-intelligence.md",
-      "title": "Scientists Just Gave An Ominous Warning About Artificial Intelligence",
-      "excerpt": "Research lab OpenAI's top scientist has made a controversial claim, one that could upend the artificial intelligence (AI) market and already has other scientists up in arms, according to Futurism. Ilya Sutskever has claimed the largest neural networks may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/",
-      "originalUrl": "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/l-intro-1644886305.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-report-29-of-execs-have-observed-ai-bias-in-voice-technologies.md",
-      "title": "Report: 29% of execs have observed AI bias in voice technologies",
-      "excerpt": "What’s more, nearly a third of respondents have experienced AI bias, or imbalances in the types of voices that are understood by speech recognition. There are significant enhancements to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "originalUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1303435789-e1644856780654.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "publishedDateTime": "2022-02-14T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

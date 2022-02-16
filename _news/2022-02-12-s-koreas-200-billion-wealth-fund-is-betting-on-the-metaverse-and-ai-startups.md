@@ -7,7 +7,7 @@ originalUrl: "https://www.pionline.com/sovereign-wealth-funds/s-koreas-200-billi
 webUrl: "https://www.pionline.com/sovereign-wealth-funds/s-koreas-200-billion-wealth-fund-betting-metaverse-and-ai-startups"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Biweekly: The Metaverse"
+    excerpt: "I shared perspectives in my AI biweekly on Quantum Computing (QC ... all companies and teams should start building their own small experimental place in the Metaverse. Joël Hazan, our metaverse pioneer, pushed us at GAMMA to take our first step and ..."
+    publishedDateTime: 2022-02-15T06:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-biweekly-metaverse-sylvain-duranton"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFljuFbK5gErQ/article-cover_image-shrink_600_2000/0/1643905366795?e=1650499200&v=beta&t=4Lu1eM_Lhz-1QaP1ZMLePqLolFJ10DPTjUn7DrC8u1s"
+        width: 1730
+        height: 600
+        isCached: true
   - title: "AI avatars: Auckland startup Soul Machines rides metaverse hype with $104m raise"
     excerpt: "ANZ's virtual assistant named Jamie was developed by Soul Machines. Auckland startup Soul Machines has closed another huge capital raise as Mark Zuckerberg's \"metaverse\" hype and AI boom help to stoke demand for its AI-powered avatars. The firm says a ..."
     publishedDateTime: 2022-02-15T01:00:00Z

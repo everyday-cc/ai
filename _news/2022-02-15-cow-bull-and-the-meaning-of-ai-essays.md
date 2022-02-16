@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-educati
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "Artificial Intelligence and the China-U.S. Rivalry"
-    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
-    publishedDateTime: 2022-02-11T17:40:00Z
-    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
-    type: article
-    provider:
-      name: China-US Focus
-      domain: chinausfocus.com
-    quality: 39
-    images:
-      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
-        width: 700
-        height: 400
         isCached: true
   - title: "Thinking fast and slow with AI"
     excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."

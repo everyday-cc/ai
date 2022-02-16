@@ -9,8 +9,8 @@ ampWebUrl: "https://golf.com/gear/drivers/best-drivers-2022-tested-reviewed-club
 cdnAmpWebUrl: "https://golf-com.cdn.ampproject.org/c/s/golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: GOLF.com
@@ -31,6 +31,20 @@ related:
     excerpt: "BitIQ – Bitcoin Trading Robot Using AI and Quantum Computing The team at BitIQ claims ... Then, when you are ready to start trading with real money, Bitcoin Motion simply requires you to activate its robot. At Bitcoin Motion, you will first need ..."
     publishedDateTime: 2022-02-15T04:58:00Z
     webUrl: "https://www.business2community.com/uk/cryptocurrency/bitcoin-robots"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 39
+    images:
+      - url: "https://cdn.business2community.com/B2C_FB.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Best Bitcoin Robot 2022 – Cheapest Robots Revealed"
+    excerpt: "BitIQ – Bitcoin Trading Robot Using AI and Quantum Computing The team at BitIQ claims ... Then, when you are ready to start trading with real money, Bitcoin Motion simply requires you to activate its robot. At Bitcoin Motion, you will first need ..."
+    publishedDateTime: 2022-02-16T04:59:00Z
+    webUrl: "https://www.business2community.com/cryptocurrency/bitcoin-robots"
     type: article
     provider:
       name: Business 2 Community

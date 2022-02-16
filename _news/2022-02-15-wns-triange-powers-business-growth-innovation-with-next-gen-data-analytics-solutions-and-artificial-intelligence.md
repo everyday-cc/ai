@@ -32,6 +32,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Artificial Intelligence In Insurtech Market Next Big Thing | Major Giants Lemonade, Cape Analytics, Salesforce"
+    excerpt: "... intelligence-in-insurtech-market Major Highlights of the Artificial Intelligence In Insurtech Market report released by HTF MI Market Breakdown by Applications: Automotive, Healthcare, Information Technology & Others Market Breakdown by Types ..."
+    publishedDateTime: 2022-02-16T08:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-next-big-thing-major-giants-lemonade-cape-analytics-salesforce"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Ma5wsPx2OGCD4nbwiAqODSdvt3a4ezQvrdCA5Xqn0UOFtc1hn8xN+R6FXKCd+CkIW4ORVddFnwNVokDULLrgeMjNKOE/35dos6BhFZXAMZMjvVxrb/Qc07ofPNLa+AZ1KpqZO+ZPEj77Ylc/srDz/7687PrMJhILK1e3rX0Q499OaiaqVLU/l6/Bk9eHv/mHTRdZzZ8RuieUZq6C7lE9hGujbIFmKk5khjMzM079CVJ1t3IUunnbExswyce1ddpjD31JHXKQIt4uHgDib07natpZ/ECKruVgVF06mC3mnYZ4Sn1UvKb2LsFTustQ3qWJAWeEp4J/FBoeBFgYmvVm+k0kcywGfTNnTMWDDvn7WbA=;BXJXMcLnJCg9Y/MVk5bJkA=="
 ---

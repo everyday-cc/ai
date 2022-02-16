@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report to 2022-2028"
-    excerpt: "Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2022-2028. This press release was orginally distributed by SBWire London ..."
-    publishedDateTime: 2022-02-11T18:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-drug-discovery-market-innovations-trends-technology-and-applications-market-report-to-2022-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/fa80beb1e7cecbae551dc30ef613b59d97e0869c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "3dVI6LWxA2tI3K8R98nrnaiRCUu9D13MKX7RXwAd0YL+LB2WPRsuBwRC7165e/CmRN/OBv/cbeW6exkYXzKVaJpz+DHNCeS3Xte/0diH8K3yJdAOAhDrXoTDlpwX7sCqDwTVlMQIbcCgDOtLki89hZ0aAesXpwNfxyj+nPHiNUfGv7Fv/A70BB99GBIDb+LrOQZ+llmGFTIp2Rjar/x/gsNwyGGMQJMuzZJiQ/g9/AvC2KEuQOweNpbnZrgf41x8KTtG+8gN2H95acvd0fj+7Dr4HJMtoueroHzjTM4ul+kzpXu34XXyd+AthCSg5EFnDhRb0cTNj/JaBH9pWUilAFezSx/xLn1XoNq6kQRTE4ENN0eCxH7eWtIfgXZfmoQF8j0k9b4SpF9AFNoi6nKU/haKfaD7NY49RVQPSSmxTYFXRZ5k5/1Zj0gZ5DzxFaVZmHmND6dCtD43SxNaBCOIEvaiuidZBoqtmPdcmE+94W7nUFxfk330MVj9bPlODNyOCi4UOEMvZx/YsExJdiFO1g==;fmzmWqQG7POTU3PfROXc/A=="
 ---

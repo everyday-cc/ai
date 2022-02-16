@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Futuristic Technology At The Olympics: AI, IoT, And Robots"
+    excerpt: "Artificial intelligence tools like computer-vision cameras give the ... and an automatic control system to help teams refine their performance. The robot simulates the curling throwing process, which can help athletes predict potential game situations ..."
+    publishedDateTime: 2022-02-16T08:32:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620cc32dc292d32d47f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Ai Weiwei on the Bird's Nest, the Olympics and all that's changed"
     excerpt: "Chinese artist Ai Weiwei, who helped design the stadium, said it was conceived in the spirit of democracy and freedom. “Its balance and willingness to expose itself corresponded with the political forms that I wanted to see emerge in China,” he wrote ..."
     publishedDateTime: 2022-02-12T09:30:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220201-ai-weiwei-mb-1149-e2bfd8.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Ai Weiwei at Kettle’s Yard — a story of faith and fakes"
-    excerpt: "Or would you feel something akin to betrayal? At Kettle’s Yard in Cambridge, the city that became a home for Ai Weiwei in 2018 following his self-imposed exile from China, the dissident artist has filled the galleries with an assortment of Chinese ..."
-    publishedDateTime: 2022-02-16T05:00:00Z
-    webUrl: "https://www.ft.com/content/7b4a3889-f3ac-48bf-a5e9-88ce959fb806"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "Technology the big winner at Winter Olympics"
     excerpt: "ZHANG WEI/CHINA DAILY Earlier this month, a self-driving car carried the Olympic torch for the first time in the Games' history, showcasing China's ambitions and ability to produce such vehicles. Developed by information technology giant Baidu, the car ..."

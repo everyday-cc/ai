@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-12-the-future-of-ai-copywriting-is-revolutionary-not-rubbish.md",
+      "title": "The future of AI copywriting is revolutionary, not rubbish",
+      "excerpt": "For one, AI has no idea of “meaning”; it simply follows rules of natural language processing, looking for categories, sequences, and order. Therefore, worrying about AI taking over the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/",
+      "originalUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1220044599.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/",
+      "publishedDateTime": "2022-02-11T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-apply-profanity-masking-in-amazon-translate.md",
+      "title": "Apply profanity masking in Amazon Translate",
+      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. This post shows how you can mask profane words and phrases with a grawlix string (“?$#@$”). Amazon Translate typically chooses clean words for your translation",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/apply-profanity-masking-in-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/apply-profanity-masking-in-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T10:55:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly.md",
       "title": "How Süddeutsche Zeitung optimized their audio narration process with Amazon Polly",
       "excerpt": "This is a guest post by Jakob Kohl, a Software Developer at the Süddeutsche Zeitung. Süddeutsche Zeitung is one of the leading quality dailies in Germany when it comes to paid subscriptions and unique users. Its website, SZ.de, reaches more than 15 million monthly unique users as of October 2021. Thanks",
@@ -1106,109 +1211,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-ai-engine-exposes-online-fraud.md",
-      "title": "AI engine exposes online fraud",
-      "excerpt": "“Allure Security’s AI-based approach to targeting the scam source destroys criminals’ business models — something traditional approaches fail at.” Allure’s AI-powered engine is ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1333578770-e1644515132390.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "publishedDateTime": "2022-02-10T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-atommerce-wants-to-scale-its-mental-health-platform-with-167m-funding.md",
-      "title": "Atommerce wants to scale its mental health platform with $16.7M funding",
-      "excerpt": "and artificial intelligence interact to address mental illness by adding the AI chatbot service capable of giving therapy just like a human expert. The company’s AI chatbot RONI, which was ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/",
-      "originalUrl": "https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Photo-1-MiNDCAFE-Branding-Image-1.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/amp/",
-      "publishedDateTime": "2022-02-10T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

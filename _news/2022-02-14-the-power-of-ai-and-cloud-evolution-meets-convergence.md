@@ -72,20 +72,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence and the China-U.S. Rivalry"
-    excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
-    publishedDateTime: 2022-02-11T17:40:00Z
-    webUrl: "https://www.chinausfocus.com/peace-security/artificial-intelligence-and-the-china-us-rivalry"
-    type: article
-    provider:
-      name: China-US Focus
-      domain: chinausfocus.com
-    quality: 39
-    images:
-      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Thinking fast and slow with AI"
     excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."
     publishedDateTime: 2022-02-14T04:30:00Z

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-16-algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc.md",
+      "title": "Algorithmic impact assessments — AI Act enforcement — Facial recognition in NYC",
+      "excerpt": "AI: Decoded called Jenny Brennan ... about what facial recognition and surveillance tools the department had acquired. The EU launched its Chips Act industrial plan, a multiyear, large-scale investment plan for its microchips sector, and presented new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/",
+      "publishedDateTime": "2022-02-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
       "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
       "excerpt": "PIM(Processing In Memory): A next-generation technology that provides a solution for data congestion issues for AI and big data by adding computational functions to semiconductor memory It has ...",
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -147,6 +191,58 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform.md",
+      "title": "VMware, Nvidia team up on AI-powered hybrid cloud platform",
+      "excerpt": "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all",
+          "width": 708,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "publishedDateTime": "2022-02-14T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -278,58 +374,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-13-nvidia-hopper-gpu-insane-140-billion-semiconductors-on-cutting-edge-ai-chip.md",
-      "title": "NVIDIA Hopper GPU: insane 140 billion semiconductors on cutting edge AI chip",
-      "excerpt": "NVIDIA Hopper GPU ought to uncover its cutting-edge Hopper GPU engineering during its impending GTC (GPU Technology Conference) in only half a month’s time in March 2022. NVIDIA’s new Hopper GPU engineering whether it be in solid or MCM GPU configuration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin",
-      "originalUrl": "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGqVIGtS42zkA/article-cover_image-shrink_600_2000/0/1644738503810?e=1650499200&v=beta&t=fiyewJRBhPd-zVuotXH58qL8OMd-uppUvTubeC_L0Wo",
-          "width": 744,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-12T23:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1365,58 +1409,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-icymi-nvidias-rtx-3050-is-a-great-budget-gpu.md",
-      "title": "ICYMI: NVIDIA’s RTX 3050 is a great budget GPU",
-      "excerpt": "Engadget's tech reviews this week include a low cost ray tracing GPU from NVIDIA, new Jabra wireless earbuds and Sony's latest mirrorless camera..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "originalUrl": "https://www.engadget.com/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/ede797d0-7e64-11ec-9fbd-cd302f05d636",
-          "width": 2000,
-          "height": 1079,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "publishedDateTime": "2022-01-29T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -41,22 +41,6 @@ related:
         width: 1934
         height: 1088
         isCached: true
-  - title: "Introducing AI In The Sky"
-    excerpt: "Autonomous vehicles in the sky and on the ground, AI, Crypto, IoT, cloud computing, edge networks all share one similar trait; peoples all over the world are being challenged by rapid innovation occurring at a speed, scale, and scope never before seen."
-    publishedDateTime: 2022-02-11T17:54:00Z
-    webUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/"
-    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6206afeeefec90ff71d9ed04/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Customer Experience in the Age of AI"
     excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
     publishedDateTime: 2022-02-15T13:00:00Z

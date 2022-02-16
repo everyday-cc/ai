@@ -33,20 +33,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market, Size & Share, Growth, Trends, COVID-19 Impact Analysis, and Forecasts to 2028"
-    excerpt: "Machine Learning as a Service (MLaaS) market was valued at 2103.3 million in 2021 and is projected to reach US$ 7923.8 million by 2028, at a CAGR of 20.9% during the forecast period Machine Learning as a Service (MLaaS) Market 2022-2028 A New Market Study ..."
-    publishedDateTime: 2022-02-11T18:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-size-share-growth-trends-covid-19-impact-analysis-and-forecasts-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/fa80beb1e7cecbae551dc30ef613b59d97e0869c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Voice User Interface Market 2030 | Top Impacting Factors That Could Escalate Market’s Rapid Growth"
     excerpt: "Rise in the adoption of smart speakers in the residential industry, due to the offer of control over smart home application solution through voice recognition drives the growth of the segment. However, the smartphones and tablets segment is projected to ..."
     publishedDateTime: 2022-02-16T04:48:00Z
