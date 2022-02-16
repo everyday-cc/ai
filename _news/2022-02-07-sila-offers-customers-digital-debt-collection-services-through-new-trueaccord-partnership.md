@@ -2,27 +2,19 @@
 category: news
 title: "Sila Offers Customers Digital Debt Collection Services Through New TrueAccord Partnership"
 excerpt: "Sila Inc., a fintech software platform that provides payment infrastructure as a service, today announced that it partnered ... of their overall management of funds. Using a patented machine learning engine and engagement data from millions of customers ..."
-publishedDateTime: 2022-02-07T15:33:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/02/b25454761/sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership"
-webUrl: "https://www.benzinga.com/pressreleases/22/02/b25454761/sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership"
-ampWebUrl: "https://www.benzinga.com/amp/content/25454761"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25454761"
+publishedDateTime: 2022-02-07T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sila-offers-customers-digital-debt-collection-services-through-/2022/02/07/9540218.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sila-offers-customers-digital-debt-collection-services-through-/2022/02/07/9540218.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.benzinga.com/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "0zIfvTMD/ZtTjYbxPAiMgTnzoXugdE3H0nvE/U99dl4IAvXluN+afvssywy+Cn7UNYeukEgFGicZNGeGQglGAF/FhT4yY+iTo4OKSpvFu4YNyLDKWhiOuCGh6iz0JxS5iUkLjyfbwRdwEnaID+Oj8QlU5awGwyqdx9bsrBUfLYBxnCmnP5nahj/7a1M/C9xZL+EqY6qT4+odjvAFIsqsNJLqT3iypdr/Q/adWbI3MQnWTAa3b9hoI2wdLajMpBa7P4v0vhuCrjk9NdalxYuvPv6Q+/8NJjElofBCfVJv9nGhOx3ajYjb7UkjhxtjbowWcwIXvljJkGl7g7mANJ+jNW9gKgVvMQ0AjT3LprNcxh0=;M0g49qXEsY/59Vrm3Wwq5g=="
+secured: "/hJyLxJTL6StzdpG1RjbXpmCXHsbYzy8euOjZ+aVU051xhjsxj34FWz6S3cJyYpoa1arRvGBY0Ulzq52bXpHjiESL6z9ZRXOT24efQnPay/ATJfCH31zr0isTyk9rjDolDN9En7Oza90cCsFXwRsSPbM4r29S+6f9ZQHn+MAOljCa1NL0xGO22zuL2TSsWwQ4BLe+uP2fIOfMpASMjBe+lvrvgg2CfDhqxk/TEeyFYHW3Bol+++YBXnTN3S1UcUDbu6YHFVaFXaNxaj8b3x4g5KE9q7t7GNAAg09CSE4mQsqqeRJLyE4xAIFioG6cPouf0PfkRtTStNka8zAhMwqpR+1tuO1Fc02I4/4fg6vfy0=;YL7rVSGCyjX33mP2zdh++w=="
 ---
 

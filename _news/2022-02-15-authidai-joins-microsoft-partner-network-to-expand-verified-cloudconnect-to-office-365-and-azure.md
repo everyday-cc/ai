@@ -1,27 +1,27 @@
 ---
 category: news
-title: "authID.ai Joins Microsoft Partner Network to Expand Verified™ CloudConnect™ to Office 365 and Azure"
-excerpt: "“authID.ai is committed to delivering intuitive ... we are excited that our new biometric integration with the Microsoft Office 365 and Azure platform will protect the data and IP of an even larger cohort of enterprises and professionals across the ..."
-publishedDateTime: 2022-02-15T12:00:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html"
-webUrl: "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html"
+title: "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure"
+excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
+publishedDateTime: 2022-02-15T12:12:00Z
+originalUrl: "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure"
+webUrl: "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure"
 type: article
-quality: 55
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://frontpages.bakersfieldcdn.com/TBC/frontpage-large.jpg"
-    width: 500
-    height: 1100
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -69,20 +69,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "TCS launches trio of new sustainability solutions on Microsoft Azure"
-    excerpt: "The offering is already helping drive sustainability goals for many of its customers, scaling quickly to multiple assets and buildings utilising the Azure Cloud platform services. Alongside that, TCS IP2 combines AI, IoT and digital twin technologies to ..."
-    publishedDateTime: 2022-02-11T10:15:00Z
-    webUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-sustainability-solutions-on-microsoft-azure"
-    type: article
-    provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
-    quality: 69
-    images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2022/02/green_tree_sustainability_gettyimages-1314148583.jpg"
-        width: 2120
-        height: 1193
-        isCached: true
   - title: "Microsoft’s big cloud expansion plans with Azure"
     excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
     publishedDateTime: 2022-02-15T10:30:00Z
@@ -107,6 +93,6 @@ related:
       domain: enterprisetalk.com
     quality: 49
 
-secured: "Ar7e/5MOsZbZVf73v2yeKV0h4p9/3kJCbqotjBLecMWrZ33QyggbW/GZRdzK7SVQlzLf5cfnEKfTr/zD/Ch2W7qYAysdgXmR9ewViGctN6lNzu7akTTrYPNj1cj93gpbwxZ40eaovqa5UF4IF817y4fkiobrEoYvAKhzx2aYsq9A6E1tVINWZoDVQ5gGvBRIUtOYbjyyPPf7novr0CTdW/ztFATLUUMSpU33c46YRlv5WpuzeXoD0LxFD4wML92X3hVuTyRMn2O0hHoYcwrOCMmMUExH3yWZVFnP8nyg44fy1vdrnOiBg+hsRwXwD06vS/8J6r0W6Tse8vquo2OIEsBfIVtRQ3FNtRcFOiT18+vrQT4EZ4p8uLe1CapkDS+acc4JVNGFRiQAfGR1nlS6bHgv97mcYuMiZV1A5ysLFzNlDkTaNTiNfs82IJVZkeRWjhsVhK2NHP2zbmqLykM1lQtepVVYiWWIJJMkKrkH9cPhhmhKgFvOFRcu6KU94/5FMyX3hlkfVwDcSuzQBhZxiQ==;nRoF2c6xONAXaWzX0sBe2Q=="
+secured: "bVXyPD5kLi2c/VE8undnx9RwhUCcQVyc8oV4YUvQqHaXB3p1AyfWMG9H2pIrG4VwFgp9H6MPqRgn9Xn2wsIYiMosNLBQ2kR1dsrZs8xFEXPhCt3aEQudw2IIJNF/112DtdvXC4/C8WCxJR23LsH79JIbI8JFUKK4UvH+Id2icwcGpjccEnQpM4y+vBj3mbZ2Pv1uzslGSbNbXfQ8o6F7A9QwrOD9JOGwMiGd8WjZJfExa/lzX0W1aeZsbfc34yHpbRkC2W2AdOPNEuskYj4TSJWsTFuFZmv6T71RUQzrvy7sbexMJZ9CxXYUkd3XgANd3IE7tjfBnzaBSmkD4z1Po+XO2YmpVKktxyPOQFWbOJI=;w0O2oHPvPpiPFn8UScxx+w=="
 ---
 

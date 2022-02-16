@@ -45,22 +45,6 @@ related:
         width: 3782
         height: 2128
         isCached: true
-  - title: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster"
-    excerpt: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster 4 the Drivers Oy is a Helsinki-based company that has been founded in 2021. The company makes hand-held manual controllers for autonomous vehicles and ..."
-    publishedDateTime: 2022-02-11T10:17:00Z
-    webUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    ampWebUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 43
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2022/02/metropolia_navya.jpg"
-        width: 1352
-        height: 1211
-        isCached: true
 
 secured: "Sc70QOYYZt+aeJayJ5/a5WibEGyCvSS84WCKnAdsfE2Vqj7QF69bQMDYJNpkmErvmhZUuZDhNLjOUJqFjGAAJtyjTeIZmzJtwdtwRfIgQq+79DRh0P1a9Dm9ZtqR7Ucgx+EYzHqwInMJJ39T3pGJ2ICNxCPaXwU8WnUyUc3UInFZCL6kfKnak7wGtLoygnV02aYPmHA4qwvI/Tq2A83ILfNRpg187NgG/YCLkSzRChU/cMLwmA06Rztq+VcFvU5OOz0g0+ASeecVXPdYVMVcozS5D8HI7uZoIF2F5LsbNRMjUTTMh00Tv2OS+cSIx54VzNUEQjS4uK5eSaPqJeG1H6BKb1puElnL7nmiPaJdBwArH8ypUc/opPVqZpvkCYyYGPmONwWZZMuHU8zSfgKBjZO6X3II6/fmRCQ8wKv1R6aMPeJd1aCgWO8LHFzuhpbBiSlcd/ulNiPlinaYUPzq0g8w3bVetJL4OMALcfSHJxNym3Tqkq02aJbWW71Xwwsb0lkVZ8xCGoWQOIArnxypXA==;wq3UlsccG5QYCgpdtX7mBw=="
 ---

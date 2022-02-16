@@ -25,71 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market Share Forecasting Competitors Global Impact 2022 to 2027"
-    excerpt: "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ..."
-    publishedDateTime: 2022-02-11T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-share-forecasting-competitors-global-impact-2022-to-2027-2022-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI in Healthcare Market by Product Type, End-User, Application, Region - Global Forecast to 2030"
-    excerpt: "Kenneth Research has recently added a report titled Global AI in Healthcare Market in its storehouse of market research reports. The report provides a detailed insight into the market scenario on ..."
-    publishedDateTime: 2022-02-15T10:55:00Z
-    webUrl: "https://menafn.com/1103699724/Global-AI-in-Healthcare-Market-by-Product-Type-End-User-Application-Region-Global-Forecast-to-2030"
+  - title: "UAE Face Recognition Market Size, Trends, and Growth Forecast, 2025"
+    excerpt: "(MENAFN- MarkNtel Advisors LLP ) MarkNtel Advisors recently conducted research that showed the UAE Face Recognition Market is expected to grow at considerable CAGR through 2025. The market ..."
+    publishedDateTime: 2022-02-14T11:49:00Z
+    webUrl: "https://menafn.com/1103692260/UAE-Face-Recognition-Market-Size-Trends-and-Growth-Forecast-2025"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 38
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?972537"
-        width: 444
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
+        width: 375
         height: 250
         isCached: true
-  - title: "Robotic healthcare to be the future of Wheelchairs and Components Market"
-    excerpt: "The gamut of care is being driven by the usage of sensors, digital technologies, and wearables, thereby allowing the healthcare personnel to delve ... areas such as computer science, robotics, artificial intelligence, and sensor technology are broadening ..."
-    publishedDateTime: 2022-02-11T20:40:00Z
-    webUrl: "https://www.medgadget.com/2022/02/robotic-healthcare-to-be-the-future-of-wheelchairs-and-components-market.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 33
-  - title: "Worldwide Smart Hospital Industry to 2026 - Modernization of Healthcare Infrastructure is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The “Global Smart Hospital Market (2021-2026) by Components, Services Rendered, Application, Connectivity, Artificial Intelligence ... Factors such as technological advancements, increased healthcare spending, a sedentary lifestyle, more awareness ..."
-    publishedDateTime: 2022-02-11T16:54:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-0cfa55926bc24e99aafea9847e2b3ded"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
-    publishedDateTime: 2022-02-15T05:43:00Z
-    webUrl: "https://menafn.com/1103697522/Aerostat-Systems-Market-2022-2027-Global-Industry-Trends-Share-Size-Growth-Opportunity-and-Forecast"
+  - title: "Cognitive Media Market : Business overview, Upcoming Trends and Top Company Analysis Forecast"
+    excerpt: "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ..."
+    publishedDateTime: 2022-02-11T11:52:00Z
+    webUrl: "https://menafn.com/1103679411/Cognitive-Media-Market-Business-overview-Upcoming-Trends-and-Top-Company-Analysis-Forecast"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 7
+    quality: 13
     images:
-      - url: "https://menafn.com/updates/pr/2022-02/15/EP_97885image_story.jpeg"
-        width: 474
-        height: 355
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904840"
+        width: 375
+        height: 250
         isCached: true
+  - title: "Machine Learning Market Future Trend, Global Demand and Current Scenario by Forecast to 2027"
+    excerpt: "Machine Learning is a part of Artificial Intelligence (AI) that grants computers the capability to learn without being detailed programmed. Machine learning market mainly focuses on the improvement of the computers programs that can be switch when reveal ..."
+    publishedDateTime: 2022-02-14T13:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-future-trend-global-demand-and-current-scenario-by-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+  - title: "Speech Recognition Market Scenario, Future Scope, Size, Share, Business Analysis, Opportunities, Challenges, Growth Drivers and Impact of COVID"
+    excerpt: "Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner exponential traction by 2027, registering a colossal CAGR during the review period (2020-2027). The speech recognition market is proliferating globally."
+    publishedDateTime: 2022-02-15T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-scenario-future-scope-size-share-business-analysis-opportunities-challenges-growth-drivers-and-impact-of-covid"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Transportation Market Size, Revenue Analysis, Function, production, Industry Outlook, Forecast, 2021-2028"
+    excerpt: "Artificial Intelligence (AI) in transportation is used to gather traffic ... Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology. The partnership is intended to combine the automated driver ..."
+    publishedDateTime: 2022-02-14T13:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-transportation-market-size-revenue-analysis-function-production-industry-outlook-forecast-2021-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
   - title: "Search and Rescue Robots Market Future Technology Trend ,Size, Share, Business Growth, Booming With Strong Growth Prospects And Forecast To 2027"
     excerpt: "In addition, technologies such as thermal imaging, object recognition, and Lidar mapping are used to help find and save individuals. The United States has been providing Ukraine with a steady supply of weapons in the face of the Russian threat - Copyright ..."
     publishedDateTime: 2022-02-14T12:24:00Z

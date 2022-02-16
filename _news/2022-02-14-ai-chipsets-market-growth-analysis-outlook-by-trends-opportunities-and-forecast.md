@@ -52,6 +52,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
+    publishedDateTime: 2022-02-15T05:43:00Z
+    webUrl: "https://menafn.com/1103697522/Aerostat-Systems-Market-2022-2027-Global-Industry-Trends-Share-Size-Growth-Opportunity-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/15/EP_97885image_story.jpeg"
+        width: 474
+        height: 355
+        isCached: true
 
 secured: "AyTqiUQef01UdCLaV4s4mwUyqv7/KXOwnk8y3br8u9hME25PiqFBv/U5HULUkBRyax1DnlnXTkIJqMUKOD1mv0izaZlnvrfGaT3MFRGZgynTPkBwFJTVA7vBXcnvGxeEY8L9+n5tJxCi0RBntss19SkM3cqOtoFRUOLqZGMmFP7b/DZOF0zUmKBOJ+40Ot/0TjNHpCsf0ibGSnyuLsI8Qcy3Ts0a6NwqOx2Nw0mz6xbfxNu26foVZqqusZuHvH7jTuPQVQ0zYp4iK+1Z7ivSeMUjjDemjSksV1JmosW+9AHdr9teCUrYenQac101vN00HBROVpNMX7HA/MqOn1cG72CC9wrG//H22dSWQWMKvQw=;Pwknuk0j6tLLam+KzDVTAQ=="
 ---

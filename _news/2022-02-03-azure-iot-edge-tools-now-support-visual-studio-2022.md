@@ -2,13 +2,10 @@
 category: news
 title: "Azure IoT Edge Tools Now Support Visual Studio 2022"
 excerpt: "\"The fully managed Azure IoT Edge service brings cloud intelligence to edge devices through the use of artificial intelligence (AI), cloud services (including machine learning, stream analytics, SQL Server databases and more) and custom logic local to ..."
-publishedDateTime: 2022-02-02T20:39:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/2022/02/02/azure-iot-edge-vs2022.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/2022/02/02/azure-iot-edge-vs2022.aspx"
+publishedDateTime: 2022-02-02T20:40:00Z
+originalUrl: "https://visualstudiomagazine.com/Articles/2022/02/02/azure-iot-edge-vs2022.aspx?p=1"
+webUrl: "https://visualstudiomagazine.com/Articles/2022/02/02/azure-iot-edge-vs2022.aspx?p=1"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Visual Studio Magazine
@@ -24,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "JZiK68YF8xz/OWt6lNaoWh4Fn1n6wWBmLOC69QUYlr4c3XvdIORF1c2Mv8JsXZVon1MxFR30EuKzSTB4C/w067ocN8mTlyCbbEfDXTawiO/KUHmb9iKYSJUICg8rcMNKozkahC6m5br19aGurbk6714PhxXbtrgqHLFV4sf7k59cIJCtNpauy6vVQov6AWNGF6//Jkpgx8TROwXgsO6goJPp56a/hTByieKgruyly61QKEWdC4S8DsisAu154KWTzk8Rq44No0roID8u+psJOoricyITNJjUfbxEwNrqLZ6GKHF5dO90p1KWztn8bUIdp0DgLzGa5liiBDM2hO3rP6Q4uT87ACcJVZKzyXeIE8ETpO7F7g9OTH4uvy1vvKOMfWgZ1fzYGcvlVJq5Lkhszs8dAfpUT/lPllXyEpWaggdLgKYFMmdaZerHnhoahol15/NIC0nFrXHCX1K7HSgThiZGj1iAwanp9ePcjU2Ds86oF4/dnmJZr5LJGjYngu7AfQryrVIs+2yCEDzsjg9wVA==;5bd5QFDwvE9CMJkXbs4QAA=="
+secured: "NBRq3r6jHx/JiaiODU24vJN2AXiy8zS9wP9e49wj67TVzfgOcw9PmgJBLnmOYt69a+cRU9zRP+B//js3Uq0yHn+MZfsWPWcky0NT+JhOPP3NDDdff3YZXBnZp0A/Y8alwFhaON7AhacpekMrRU4+TPfgJqI0HDTFt2BYfJGaL7SeogeiS+XO3iEVSQ6rfFp26HFMvkoG4oXIethM6+FiSPDWQXA9FKv6tyjRf2aTt0K4dYGYZXEd0xMwUJHCnah5f3Nvzm0+3VTLmZp6m+8EwtJNZbdmYs5VN/4Qsped7Yy874Nwp8rhGPL8eBuYWLvKGqtznf4vOU29dxcFAoGPg82OEaPrP+9c+dqrrkmMKrk=;gFQiQm/wbU/Jk114dxGm8A=="
 ---
 

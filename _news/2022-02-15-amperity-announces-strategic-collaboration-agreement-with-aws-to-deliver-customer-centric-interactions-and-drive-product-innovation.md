@@ -19,38 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Portworx by Pure Storage Announces Strategic Engagement with AWS"
-    excerpt: "Also Read: Recognizing and Eliminating Bias in Artificial Intelligence As part of its work with AWS, Portworx has also announced an Early Access Programme for Portworx Backup as-a-Service (BaaS) on AWS. Portworx BaaS introduces a modern data protection ..."
-    publishedDateTime: 2022-02-11T10:00:00Z
-    webUrl: "https://enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/"
-    ampWebUrl: "https://enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/amp/"
+  - title: "Carta Healthcare Announces Successful Completion of the SOC 2 Type 1 Examination"
+    excerpt: "Carta Healthcare Inc., provider of solutions for common healthcare data challenges through a combination of people, processes, and artificial intelligence (AI)-powered technology, today announced that it has successfully completed a Type 1 System and ..."
+    publishedDateTime: 2022-02-15T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-carta-healthcare-announces-successful-completion-the-soc-2-/2022/02/15/9545680.htm"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Portworx-by-Pure-Storage-Announces-Strategic-Engagement-with-AWS-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Xoriant Doubles AWS Certifications to Support Ubiquitous Cloud Usage"
-    excerpt: "Also Read: Recognizing and Eliminating Bias in Artificial Intelligence Xoriant is also constantly expanding the capabilities it brings to AWS engagements including security incident and event management with network segregation, data protection and ..."
-    publishedDateTime: 2022-02-11T10:09:00Z
-    webUrl: "https://enterprisetalk.com/news/xoriant-doubles-aws-certifications-to-support-ubiquitous-cloud-usage/"
-    ampWebUrl: "https://enterprisetalk.com/news/xoriant-doubles-aws-certifications-to-support-ubiquitous-cloud-usage/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/xoriant-doubles-aws-certifications-to-support-ubiquitous-cloud-usage/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Xoriant-Doubles-AWS-Certifications-to-Support-Ubiquitous-Cloud-Usage-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "C9KNWo4YTKk4M2toVn+8i/wYe5QKVLwOILPaPr6y8nbHOzIPPT2Exips1fuwSIeUfb7ue4WNVs+812GRZEicetrx9mvXgrwnGJoA3Q/RuCt7LGWFGV0iHIqhT9NFfalKUrPacv6tVTnNAitEea+VrDRVZ9AM4ki6+XsXcdgIIju+RAOusxqYG8KltY0tLrDO69aDzJQxkaiSXDcoKrRTJp8AuM4Lzh9ZScbxKwWFRFWzE/7RRaEjTQ8VEdf2A9iut8XuKAMqu2SAoAUeISl45rttZUgUTCqNqEapGGGWkn0aJSbCoALmy7DKpFezRnES+NC5HNG3jzjgxU8zKYnM1is8DhK7h0ktoPKXORUri+vBqXMZC6uT2TvV32IYnsRhUcFQpSIm6ckJt8WCARO1vpukGttfS5RKtd0kyesLlttvVfx6RFi9UEH8i9oYb9t5sfGwabR04+yKOivyvt+d1SkOPbnZBDaFHaw8cD4BYZ12gFXJmnddkOwV1wnCh+KNfemWps/VenddvmDWJgsMrA==;4qyfXXmv8PeWCucbQi++WA=="
 ---

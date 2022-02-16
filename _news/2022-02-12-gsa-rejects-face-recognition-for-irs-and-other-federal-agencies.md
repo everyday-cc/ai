@@ -7,7 +7,7 @@ originalUrl: "https://www.techzone360.com/topics/news/articles/451502-gsa-reject
 webUrl: "https://www.techzone360.com/topics/news/articles/451502-gsa-rejects-face-recognition-irs-other-federal-agencies.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Why It was Important for IRS to Remove Facial Recognition"
-    excerpt: "Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft Facial recognition as a tool is not bad, but the manner in which it is used can make it look bad, says Brett Johnson, a consultant on cybersecurity, cybercrime and ID theft who was a ..."
-    publishedDateTime: 2022-02-11T10:08:00Z
-    webUrl: "https://www.inforisktoday.com/it-was-important-for-irs-to-remove-facial-recognition-a-18496"
-    type: article
-    provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/it-was-important-for-irs-to-remove-facial-recognition-showcase_image-3-a-18496.jpg"
-        width: 860
-        height: 520
-        isCached: true
 
 secured: "FnzmFUX+j90Otpkdy+YhdJPt7GBjJUr/T3rs4QmwPoq+qnS5hC0O1W6t4fZ5D+tcH4fZ1t650fpKucSn12LW/I3HVf2YzOHNju296B4hJD4RGaOr5UikiFoJtbgEtR2D7SiOVO6ng6IqCdVc6ax7HDnkqJY+z0Mkley6KI2bd9299pJNppfAJ0z3p/A1eNobvk31fb4O3UUwqgJ6n/h6KWjgdRZ/tYnpzM9/SBt7KeAQhBPihU0oeiuxGKgQ3LrYVU63fDwwTjfwhlfmnZc3qSWAMV6rx93U2+9ABoL+eMavnx16xEsYo9CEPJECK5NM8fOKbLNi4kRi6jnlDWln9ODJHVGHBJ6x/p0esQK3e6RFEUvZOl/Mkmj/BhwBHTVj+Mid6CkQO5mudLDuyfkRj8LDD7zs/ZZAsaD4iapxXEpgEDn6txTg6NX/BpFE/ywr2JcbwMXey1B8jQeDI+keRvgnGpM6+iwNlnR48NUatuQCX93uOeFjQZwhipSRuQ0VCpTC+pJ60QXq+Bh0wEKU3A==;3kXc8X6YthyUXJ1MZDH2Qw=="
 ---

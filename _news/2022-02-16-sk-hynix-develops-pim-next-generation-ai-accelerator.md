@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-15T23:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
 webUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg"
@@ -27,6 +28,6 @@ images:
     height: 246
     isCached: true
 
-secured: "MSN9qe5hA1Ilcj5yGWwDBbWsnajk+hRMnd6OxVOX2hDhYxqdnptHW+BL4ur839OWvLTdP+/6MDPvgKmBZ51rUo94JgJsNxN7f8cF9AAC0rB0nmPZUdIHQQnrLFHE/D1yqHp7W3zK/8fk8s55yc9dWV40mO9wCOxjpPG5ONIi+yi0McSGXkAjmfU/O8JqasSuYkoW6Jz0veA6KL3bQECLgWKReDTVTp2iZU5MclUDxuSQiJ6vaSSpR62kQrij/IFzKd6Z9rGgM2j7PhP6ZCKZ/sOAQOC1Pw3hRns8swKOelytwhIhnSEcWO8hYCKJeuIBy73dtY5xoPYxncE/zrciVFGfVy26TlV0Vlp7oKCskIY=;6hw2wxpyBsCYkwl83WrxhA=="
+secured: "u7v4vdno4ivTs0rx3bR6i9RyIfvUT0NoNINtkknhCEr9soKuxuluTyh7GMz3cEQC3mNG6a3dJ/aQOx6hrUvT4fp5s+aGxtiTcy4VrO7+ukoP9VWA1HVzC841/O7dKewGwvAyCokEbcgJ5w+G4w85PHwCHyji3Apeh564eR2HVozoPNMcQ1ah3touyEvdbW3Jxj5DDeWKEtzTYCOBBIckghXC8ru6nwJQX9fzIzKWfs/efHMVrpMxmG8ErIwaF1TLq+7CXDWonaacYTq7LzropLTucDh3gyKg75zeWKzBrKrIdiTnSuUG/zwl3pbb1lvwGTaMFLLTWRosHKdWNvTLMFGVN3QJfuYySbQydSu/NvNMlWp2Y9MgmZhae2Osv51dVAEG+2bwGVoF8aePUROgbGzfxiLSRcQZLKIthcyPiCgzqUnFLTGheE4mUtfqLAEeTceDGghyxI0icoU2ET1nI8S33iOEXuVPHvQtKjIEM9as5cAtlMWYP5Z/y/rEVktrC7dz5Dq+3cuWqBd8b69jMA==;hCy5/6sfHTCr6LbjVU7r4g=="
 ---
 

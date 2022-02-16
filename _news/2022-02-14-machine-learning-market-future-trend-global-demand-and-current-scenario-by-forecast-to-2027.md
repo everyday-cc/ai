@@ -33,6 +33,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market, Size & Share, Growth, Trends, COVID-19 Impact Analysis, and Forecasts to 2028"
+    excerpt: "Machine Learning as a Service (MLaaS) market was valued at 2103.3 million in 2021 and is projected to reach US$ 7923.8 million by 2028, at a CAGR of 20.9% during the forecast period Machine Learning as a Service (MLaaS) Market 2022-2028 A New Market Study ..."
+    publishedDateTime: 2022-02-11T18:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-size-share-growth-trends-covid-19-impact-analysis-and-forecasts-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/fa80beb1e7cecbae551dc30ef613b59d97e0869c-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cognitive Media Market : Business overview, Upcoming Trends and Top Company Analysis Forecast"
     excerpt: "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ..."
     publishedDateTime: 2022-02-11T11:52:00Z
@@ -70,6 +84,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 0
+  - title: "Search and Rescue Robots Market Future Technology Trend ,Size, Share, Business Growth, Booming With Strong Growth Prospects And Forecast To 2027"
+    excerpt: "In addition, technologies such as thermal imaging, object recognition, and Lidar mapping are used to help find and save individuals. The United States has been providing Ukraine with a steady supply of weapons in the face of the Russian threat - Copyright ..."
+    publishedDateTime: 2022-02-14T12:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/search-and-rescue-robots-market-future-technology-trend-size-share-business-growth-booming-with-strong-growth-prospects-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "HZGh/aEkqRUnZSQ+C6Nslwg368avwwGRxY3kJVkoWEtbFHQniz01iKsdgLXsC7p/ok6wHQHRvvz7dRc3Ykw9zava+1ZTV/aEU3APGOTCOx8aM02Aool3WQHZ6WlH8XqJkkymXcQozGhDzBZN/wMzPAhUpjwamVrypP+U2E7b7/sKQJpdXk81JhFRtKnFVZu8nJN4TYWT7n9qGSmDN257ATqTk7m0UCrt5/ProKaItApw6Gv/uV4ocZSLUOYo+1ghg9yuWSQ7Ru0pNJek0RuhhPSY0MNtDdlNOQluLX8iHpCL1Z2QCITdU/uQtfSUphxTrIkC4eAJhFLMklb31Q/+A2A1wrf1igkh8agSt2l9638=;SY3f0g/bOXpGcTmmIxaMHg=="
 ---

@@ -2,22 +2,28 @@
 category: news
 title: "WaveDancer Blockchain approved for use on Amazon Web Services (AWS) Marketplace for GovCloud"
 excerpt: "This move releases the power of an operational blockchain on the AWS GovCloud for all U.S. Government agencies ... “Our unique combination of blockchain, Artificial Intelligence (AI) and Internet of Things (IoT) capabilities provides the U.S ..."
-publishedDateTime: 2022-02-15T15:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wavedancer-blockcha-approved-use-amazon-web-services-aws-/2022/02/15/9545852.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wavedancer-blockcha-approved-use-amazon-web-services-aws-/2022/02/15/9545852.htm"
+publishedDateTime: 2022-02-15T15:37:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-united-states-blockchain-united-states-government-06fd46479ea8de6ca1b92d8dc0e0f2c0"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-united-states-blockchain-united-states-government-06fd46479ea8de6ca1b92d8dc0e0f2c0"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "VE+mfHc7Sy1SvoDXLArmYOZ/3tiyYwQu2XOBS62IAcR//qdNkm8xnQzDNxQiSLtOhhA4FxXBgn3q8XDqSFKoD2jH3g+jX11vBU0dzFf9vt+vIWpGodeOGuU7EAggsMxlUwyhfEGaQtdGvOVAqESjKpp2IcZ4AEBafKaw541GdxljjK5zN1b6EHpRUGI0RSG38fnAN1w0ZRl35s/4whLCAPw3A0OhxS//n/9MwyC/iChjxcXgHi+LfC+E+aNMIaQScnmyJE1QXgb4e9ILaV4VLYBfD57zr57ZVfVNhcG3EyRwPn6uHBRXcOnOJglOErdrid5UUq6YdB++VxHsqS3NEEN2RH7G6lOHumBho2ub0BE=;xJXytzZ59n0OqQC8Af6jCg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "fBCrjtWmNybvs6CDsYz1GipgGFFOm9oeOXD1T8VbtlvdskthNxkPZIb74gn+Mq3dyvJIXNcDT+236Crsi8WSaL1eanyKnLsWRtLAnJgjG+GzIPj9k+SjORmir7QHMGDb//rT+l6b5PAYltI3AK0Q6dOS3wHPMG3ZZaliwOz6nYqL+sfzJpMognxnipKSsG9ObuqWYl7uzDVqwq3rIA+XXbMWaT3P9+AC2L4Khvv1uoud5vazCie98md8CwAYRp8Vn7F2xwL8P07kjgcKJu7qQXxhDseMLLQDIP8I4eigTnWCv2xcfSUSl28xu3fxnqfr9nsFPeKKuRkeXShQnmxt4jo6rvPYxWJ5b+k/RvJdhkw=;FDzgL0WzJj1wAA6Qmo8L/w=="
 ---
 

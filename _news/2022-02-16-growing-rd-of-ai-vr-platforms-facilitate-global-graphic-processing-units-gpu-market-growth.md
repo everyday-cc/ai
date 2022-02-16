@@ -2,17 +2,17 @@
 category: news
 title: "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth"
 excerpt: "Therefore, the rising R&D in VR and AI is one of the main drivers of the global graphic processing unit (GPU) market growth. However, the market growth is restricted by the shortage of semiconductor chips. The Global Graphic Processing Units (GPU ..."
-publishedDateTime: 2022-02-16T00:50:00Z
-originalUrl: "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
-webUrl: "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
+publishedDateTime: 2022-02-15T23:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -24,6 +24,6 @@ images:
     height: 683
     isCached: true
 
-secured: "bcXmIbUDx0KLnsaN1Lm9zFOFuTE9sj2XmYA1erPBowp6VkdH7P82A57ClOxM/mKwc0gwd0DyHwyxchhQ6gF4SjfH3+YSHd2T2AKXmeeCAJ7STBpJ3k6zzZyu2QEInXGiOX/vkdrDF/K1s9ARrVJ4AjOg1U+kuEdRSHJHRCoPkaGb51l11yvg2mu2MqPukrM1yCzv6qpZWVAlvo/4AkW9hwvj3y2OojaUxtI9t3GILUFaBJTbU8UfNYIZOr/pcAEnQR7WmQEitKLz5JX3AzHjJlriIp07cYZmNWQjxHZj3cF/imL+1UaXdp6ad75zIkcmuWlpPSz+VYsesgLVwOukU8LKL6k/5FACY+LuFKrYBh8=;qOubz99Pt9USEcjqg1LHUA=="
+secured: "C/kRgOipx/hJ8vXz0Yb26mmAKIFJ+mWucEfsuCw6KZxbYei4kOgqvrsUfIYGatybAblfVFg3wNxVarMzE81SfmySRg/XOIIop7cxbAxsPEG/JTNV62KmCpb2SA6byJb3hCQQ1uy+H/bIHzIVsUO6IwyOFvhp7CZKzIZYEUKu/qUUs6AtBhO5gw6qcL1TeRRWvW4OVdkX5wNTEjnqEbVvfcR4WCZPJMMGAwvz8mwOoDoonCTQRTjVpzC8Ch4M7B7nGlY19RsvGOG98nLQcRz3ncf2NaxEZhKsQ6IDhHPzkVZ17tyeA7+/YmhZut08afGCeuFYu6PBTTtBAYksYVb/ckgKbTcRTXlRQP8UCs1+gzY=;EfIABk/Md0S04ho60Ji5VA=="
 ---
 

@@ -59,19 +59,19 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "TCS launches trio of new sustainability solutions on Microsoft Azure"
-    excerpt: "The offering is already helping drive sustainability goals for many of its customers, scaling quickly to multiple assets and buildings utilising the Azure Cloud platform services. Alongside that, TCS IP2 combines AI, IoT and digital twin technologies to ..."
-    publishedDateTime: 2022-02-11T10:15:00Z
-    webUrl: "https://www.channelpro.co.uk/news/12464/tcs-launches-trio-of-new-sustainability-solutions-on-microsoft-azure"
+  - title: "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
+    publishedDateTime: 2022-02-15T12:12:00Z
+    webUrl: "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure"
     type: article
     provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
-    quality: 69
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
     images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2022/02/green_tree_sustainability_gettyimages-1314148583.jpg"
-        width: 2120
-        height: 1193
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft’s big cloud expansion plans with Azure"
     excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
@@ -87,20 +87,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "authID.ai Joins Microsoft Partner Network to Expand Verified™ CloudConnect™ to Office 365 and Azure"
-    excerpt: "“authID.ai is committed to delivering intuitive ... we are excited that our new biometric integration with the Microsoft Office 365 and Azure platform will protect the data and IP of an even larger cohort of enterprises and professionals across the ..."
-    publishedDateTime: 2022-02-15T12:00:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 55
-    images:
-      - url: "https://frontpages.bakersfieldcdn.com/TBC/frontpage-large.jpg"
-        width: 500
-        height: 1100
-        isCached: true
   - title: "TANAAKK HITSERIES now available in Microsoft Azure Marketplace"
     excerpt: "Also Read: How Enterprises Can Identify and Evaluate the Right AI Model Governance Solution HITSERIES offers ... “We are excited to scale HITSERIES through the Microsoft Azure Marketplace. Every cloud-native company inherently has the critical demand ..."
     publishedDateTime: 2022-02-14T12:56:00Z
@@ -111,6 +97,6 @@ related:
       domain: enterprisetalk.com
     quality: 49
 
-secured: "SPKE+NMC+wO+Da2cdAawBVAGP85NEPoRZU4ApI03g8ph4MIuXNbS/OxfprIfhBS6ovh0Hih+02NtpbRwAMqvTy1tWAHK06YeFmOlAS/CTKfmWnLk7raJqAIQVjBW9Sq1wEO4Iev/4nTvqg4efNorliK6w1ywvoMsuZuMLVAdMuOajD6A2PKpiPJppsO8Pqvp+E3N0tFjnAZDgHKqtY0Cr6j07eNoLAWPXRWE9SqYNabW8RNHRt9wgv+pJXpAzoe22/zeyuXh36+AsY0yBC5eRg98Y7LheHHCQqIwdWWARVqFw33BU0FMH/EyFZdAWdg/JnfowBw78B/svdecU2WILg96p+OWgekw9NgOvlJXpO4=;C0SJMW8WtbaKPlTDia4gUw=="
+secured: "ruw4r+fOariyHzlS2hS0OdNfK/94tV3y9E5dVI6rYDX+Z13u3pyhIw+I/kbPs5X5I3q7XB7KXmP1pNejXeingR6nD1mQBR/V0rNUvaVZ4Xah1POv9EU+0w2LCKq64oOG886R9VTCuTvuPuZ+BjbuRJ+3egIej0ZocFpBEcX4AqqYdTFMIUuu9/XMr/XLF65AD+TZvri2WjQyvYplqeog4FYFRp1/r5y2RwQAQE2Nh46aWeCzcylF3qhEb3KcrnnvBzORahPRCezaDz9becHHlRkDfhmwkwIj1tV6qW7MY/F7BfFmThny2Lt3nCw/0oCC/9eXov6L/UHVsAbeeYY//9aN6ouCpS8wBxn36R1fGm6gpPGQHIHCXYqp1lhVHckIfckmk3oZ4Vl/vldufE8HCdshyG5aKGB9vp9fS3Cnk/AQXh79BsN8UJgte+sBITE+2MHEo+Z0jOdqsQEGEqpvGA2xK/QJDrfE3FkqRvkyygPOq4/3C6lEdPxSXam+MId4nISBrFXtaU4Tizp1iAWobg==;g2QECbZT9JZO/Eoj0AvDcw=="
 ---
 

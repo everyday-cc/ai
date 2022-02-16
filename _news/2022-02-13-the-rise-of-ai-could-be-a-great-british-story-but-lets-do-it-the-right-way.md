@@ -1,15 +1,15 @@
 ---
 category: news
 title: "The rise of AI could be a great British story. But let’s do it the right way"
-excerpt: "This exciting industrial advance will bring new jobs – especially if we put ethics at its core The Leonardo Da Vinci: Wisdom of Light exhibition, which combined classic art with artificial intelligence at the X Media Art Museum in Istanbul last month."
+excerpt: "However, the United Kingdom is getting something right. On Thursday, the government announced that it is investing up to £23m to boost artificial intelligence (AI) skills by creating up to 2,000 scholarships across England. This will fund masters ..."
 publishedDateTime: 2022-02-13T07:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
-webUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way?via=indexdotco"
+webUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
 type: article
-quality: 56
-heat: 56
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Cn+ENn+A0v9vVQDxawYZ00jk/cdwPcd77SkIOaXRWE0VNZ+09IMQXGUN81wicioEMAFKl4pw4N+/m0qbR/Wf3tN3sFunFKvzqhnOz6febpArSvQlAsn3yFOvpG18UqaSGd5Y/ponsOKGUr8ttcg0BSCtEfRjzxqc2w845k0qiGrrIbEDTzwEI+CpGMVV6ooVx/FHeWnLxWosx3U2VN+D5qNI1vPt4FVeshW/CwiwFd+qqSOeHMYsvbcYg82oYAkUKMoassDPtaUaWad+hfWRzgFREDemV5kHxQiyjA/6etUI1+26ZYsbWf+NKjo+hOicNGT0NQDLjEQSbx5+6lsZZ5IjoETqHhYbDUF+w1KOOBJjg39k52YvePEkP3Fv5fudXKjnKr31DfOQbiRoisIsruwf3diJeLxaShkzBdBAelvXbON+evcbemFyjaT+kcka74RSA5Kna0kMn3B/S3HgqiuggE708UV7D9ig4vWZRUFZ1DnqBXbcUM+p99dU4xApRFPu0efUUXwVczF5Uo6GIQ==;gSGclD3NI/ntJCuDthXjQA=="
+secured: "PKh20DxrRvUonnZ4xY75GZOt1TptCwMRS94QcIyi34pjWrxut0LHoB7+RNKxWkHqxlY9fC7GfvoBHc2h9HlBFuYveOy8A9n68ejwkynRb9wDf1nQJmF+vS1Xp/KBZI6N7J3bbMsAAZuk/ZoH4+5Gznu3cZYCeN2hufY2YNedMXATLZlURtJMOGcbBFDngy0Nsm4n6tjwRCBTvxE3ojsR7PAPgSlq+fj2o7k9SKLwQ69/FeoRjY/rVaLnd0od3vtPQpvGk8OUpy1vciUs8tBKsvxGnJmEDG6aS3PBtGwJsCi7JB96NDyMoYU9JcCCRqHkekwt1qc2ohvXzASp4Xp9vRPfbDioho51zrdwb4iQIFc=;GRSI7M8GpvmI5QFT7psGhQ=="
 ---
 

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's Mobileye, partners to launch self-driving shuttles in U.S. in 2024"
-    excerpt: "San Francisco, Feb 14 (Reuters) - Intel Corp's Mobileye unit plans to build and deploy self-driving electric shuttle vehicles with its partners in the United States in 2024 ... and Beep will launch the on-demand driverless shuttles, which will feature ..."
-    publishedDateTime: 2022-02-14T16:08:00Z
-    webUrl: "https://wtvbam.com/2022/02/14/intels-mobileye-to-launch-self-driving-shuttles-in-u-s-in-2024/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 152
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/14/2022-02-14T120533Z_1_LYNXMPEI1D0HD_RTROPTP_3_MOBILEYE-AUTONOMOUS.JPG"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Intel's Mobileye aims for self-driving shuttles in the U.S. by 2024 -- report"
     excerpt: "Mobileye, the self-driving technology unit owned by Intel (NASDAQ:INTC), has set a goal of rolling out self-driving electric shuttle vehicles in the United States by 2024 as part of its efforts to ..."
     publishedDateTime: 2022-02-14T15:43:00Z
@@ -54,6 +40,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/951562278/image_951562278.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Intel's Mobileye, partners to launch self-driving shuttles in U.S. in 2024"
+    excerpt: "Monday, February 14, 2022 A view shows a self-driving electric shuttle that Mobileye, Benteler EV Systems and Beep, plan to launch in the U.S. in 2024, in this undated artist's rendering handout picture. Benteler/Handout via REUTERS WASHINGTON (Reuters ..."
+    publishedDateTime: 2022-02-14T16:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/intels-mobileye-partners-to-launch-self-idUSKBN2KJ101"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 52
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220214&t=2&i=1591132018&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI1D0QS"
+        width: 810
+        height: 540
         isCached: true
   - title: "Intel's Mobileye to Launch Self-Driving Shuttles in U.S. in 2024"
     excerpt: "San Francisco (Reuters) - Intel Corp's Mobileye unit plans to build and deploy self-driving electric shuttles with its partners in the United States in 2024, in a bid to scale up its automated ..."

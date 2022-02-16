@@ -266,7 +266,7 @@ related:
   - title: "Texas apparently just realized Facebook used facial recognition"
     excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
     publishedDateTime: 2022-02-14T18:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
+    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
     ampWebUrl: "https://www.protocol.com/amp/texas-suing-meta-2656661461"
     cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/texas-suing-meta-2656661461"
     type: article
@@ -492,20 +492,6 @@ related:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
     quality: 26
-  - title: "3 reasons why Facebook will never leave Europe!"
-    excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
-    publishedDateTime: 2022-02-11T09:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/3-reasons-why-facebook-never-leave-europe-prof-alexiei-dingli"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGZH_Uu6JoUWg/article-cover_image-shrink_720_1280/0/1644571633392?e=1649894400&v=beta&t=93oiCKkrVDJ6lwlMOYbIOId3wJU3BD-AwAr1fybIpQ4"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Opinion: Is this the beginning of Facebook's downfall?"
     excerpt: "The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms, formerly known as Facebook. Meta on Thursday ... to networking, and to artificial intelligence machines that beat chess grandmasters and Jeopardy!"
     publishedDateTime: 2022-02-13T02:05:00Z
@@ -539,6 +525,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "eI+AXbMOK6qNy+sqBgjyu6UsijHiL9eASGpCbfUx5H6IFMYaPCYcwEMR8bBHEvlisjGyg8aX2gdndWLKRwGHEsPCSaw2j4vOo9yXvczCeg7nRzTAue+wx4cl9UYsb5MWsaI1NwWlvvI7Ul416MVZqyriA3KgZy3amvqsjH8sVENDN/lwu2Rnf3XRdl1b6gqiNSlEthBvQwZCm+Rtv44yrz0lOVDCa43wgr6P6X3rq4obQw0IR3g5vxrULaVYyVl9aNstno6NV3MDaXB5O4ehpRGF24d0JsFmAm+dwmnC8ErYoOln+vgkznAXerBHHWnklpkZiIc+7bAHjkK5U7whOw74WEtfAhDJp1/mzSYzhs8=;MAzy+I7U19sLEDFMJsK2CQ=="
+secured: "anGimeuAVAaxHU5SiVCKaYDEctvENAwwqrTiNSZa5wXMTae3eBgOyNNjYnezZrWbHdHMGbTKr2q4RIWbSxncE0EPr/uJ5ruMcNN4F0T7ur0QzJSw6FdonnrLUrW7qmrAare9fF5ntn3nd1AXAGgY4mRkvrtB7x4Iuzf9MQW2mRoIffoK1EvXHSKw0TAuAk3yqFVGcLjPePofWWjn1j6iPCCwl2LtE+ePMNlcg7WoGz9OH9jLbgQgaNhWMj2Q1iTuDoWwADH7nECP+5GPl4Qs9+OSrUTQYB/xyhGiEsiOBGF+Wr02BOiY7SLMfLiu9GRTj+DNWjUmPZgC63zDtlwuyugEk6oheHwfHQXgsNA5/dnlQ7YZmFX+OSzlUBHl0qi7ocZYeLjg75SIBv3Xecs2YwvIvnhiVYpK4+YUjlnoH+8ykCwueR8x7DFNzKHQpfDGp8BlekwEKdjxfAJBWbaAb9y0oimpXxR4s0FuJ5A9JNrp45tHGGXto/8R7oPyn2/K9158tN35/hTvH87+hXvLJQ==;8lgoSs3bsFBZsmpD8gm2eQ=="
 ---
 

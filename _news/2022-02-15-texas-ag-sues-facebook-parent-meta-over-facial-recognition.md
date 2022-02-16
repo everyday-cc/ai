@@ -252,7 +252,7 @@ related:
   - title: "Texas apparently just realized Facebook used facial recognition"
     excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
     publishedDateTime: 2022-02-14T18:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
+    webUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
     ampWebUrl: "https://www.protocol.com/amp/texas-suing-meta-2656661461"
     cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/texas-suing-meta-2656661461"
     type: article
@@ -492,20 +492,6 @@ related:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
     quality: 26
-  - title: "3 reasons why Facebook will never leave Europe!"
-    excerpt: "Meta Platform Inc., the parent company of Facebook, Instagram ... He has been conducting research and working in the field of AI for more than two decades, assisting different companies to implement AI solutions. His work has been rated World Class ..."
-    publishedDateTime: 2022-02-11T09:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/3-reasons-why-facebook-never-leave-europe-prof-alexiei-dingli"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGZH_Uu6JoUWg/article-cover_image-shrink_720_1280/0/1644571633392?e=1649894400&v=beta&t=93oiCKkrVDJ6lwlMOYbIOId3wJU3BD-AwAr1fybIpQ4"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Opinion: Is this the beginning of Facebook's downfall?"
     excerpt: "The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms, formerly known as Facebook. Meta on Thursday ... to networking, and to artificial intelligence machines that beat chess grandmasters and Jeopardy!"
     publishedDateTime: 2022-02-13T02:05:00Z

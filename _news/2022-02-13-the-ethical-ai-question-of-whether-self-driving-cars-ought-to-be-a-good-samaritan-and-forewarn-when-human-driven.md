@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-qu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven-cars-are-going-to-crash-into-each-other/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster"
-    excerpt: "4 the Drivers aims to make transition into energy-saving innovative robots and self-driving cars faster 4 the Drivers Oy is a Helsinki-based company that has been founded in 2021. The company makes hand-held manual controllers for autonomous vehicles and ..."
-    publishedDateTime: 2022-02-11T10:17:00Z
-    webUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    ampWebUrl: "https://arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/4-the-drivers-aims-to-make-transition-into-energy-saving-innovative-robots-and-self-driving-cars-faster/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 43
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2022/02/metropolia_navya.jpg"
-        width: 1352
-        height: 1211
-        isCached: true
   - title: "Insuring The Self-Driving Car"
     excerpt: "The “Full Self Driving” technology that is being implemented in the next generation of vehicles has many challenges for consumers and insurers. I recall in 2018 seeing studies that self-driving cars do not always register two wheeled vehicles ..."
     publishedDateTime: 2022-02-13T22:18:00Z
