@@ -3,7 +3,7 @@ name: "Javier M. Duarte"
 bio: "particle physics assistant prof at @UCSanDiego on the @CMSExperiment"
 location: San Diego, CA
 type: "profile"
-heat: 50
+heat: 42
 published: false
 
 affiliation:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Javier M. Duarte"
 
-secured: "v8R/AgRmfIAh96PG3CLs4TtJB8WAFZm8bbtViG29qmzMdkNRoUFAS0DIHrO+2r6HIl5Ti+kzqGawt1revCQ4oQv/7U84mKvQoLyyCfGHrvYq5eZM9R7pZ0qSHvt+9SwZE7aoGhFNSJyRJwt8oDcvjoU8dygt73flXdUqqlxR9I7GIt4TzWlSNhS9hU+kXtOOzPv1lbtYa3TpJghNgnZLTt0mrzSrQYKOyjuco29b6/oSQi51QhQAQS0xDSMAa1OvYiEV84l0Y/jmzWXjT4lKSyM4yBshntGwk4G+TN4laVNPLDs3A/SUq8RzSZE9vy110PQFcYecWwCiNrL9FxWZkmss9hWwOpUW0EOfiMEyhhpXV3vVeZp3rjwZ+t9N2kttx3vLTsGNKnClgBonfJ2Vbd7ykGawKp79Io8iTZKsQmc=;753bgWnOyHML765SCrk7oQ=="
+secured: "+z/JpuCxXNmLT+pf34KPA0ALuqcKZW+Ex5beTM7ep0Cc3GVi+NXqh0+sPZTZyfnLxJTDRDs53iZlQYUbtPtMbqwKRMV9/oBOALvKANAnohXEMyIjBczq+wnyinEtXnQRuZkiaDCAIt6KwUEzXYsPfieoSL5c5iaxlhL42pBOLPfO8we7AwZbGQziidT6D//lcFqkzIWtu0cfeAZzU+23i3ay2fGhttpLf3gKohpRoRZe6xNpWhrlHsxexa7kT0MhFKvvdSvzbT+QpjGCerORXbzkwdzntUjuuD/q+LoRuxBsFXw79RXIFsklg86oXlLcvZpWLnURTThPNynZt2Pux7qAH1EsNwhKLgzABF621q5KeCVXp3KJvnkKTnomp3x86854LzH3a940nclw5N05r8mmBvkcFYwu3KIGmz0bkqg=;MpFvNwVaELRwj+b1V4S4xA=="
 ---
 
