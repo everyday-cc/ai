@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-25-klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting.md",
+      "title": "Klarity lands $18m Series A to Expand Its Document Automation Platform for Finance and Accounting",
+      "excerpt": "Klarity, the AI platform that turns documents into structured data and frees humans from painful and voluminous document review, today announces $18M in Series A funding led by Tola Capital with participation from new and existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1731884/Picture1.jpg",
+          "width": 400,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-ai-revolutionizes-hospital-procurement-services.md",
       "title": "AI revolutionizes hospital procurement services",
       "excerpt": "Artificial intelligence (AI) is a formidable tool ... learning algorithms with the ability to translate structured and unstructured text into usable language and data points (ideal for evaluating ...",
@@ -1404,58 +1457,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry.md",
-      "title": "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry",
-      "excerpt": "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
-      "originalUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
-      "publishedDateTime": "2022-01-12T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

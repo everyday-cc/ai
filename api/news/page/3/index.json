@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-15-report-29-of-execs-have-observed-ai-bias-in-voice-technologies.md",
+      "title": "Report: 29% of execs have observed AI bias in voice technologies",
+      "excerpt": "What’s more, nearly a third of respondents have experienced AI bias, or imbalances in the types of voices that are understood by speech recognition. There are significant enhancements to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
+      "originalUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1303435789-e1644856780654.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
+      "publishedDateTime": "2022-02-14T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies.md",
+      "title": "Sales Down 6% Annually Since 2011, IBM Is Full Of Business Line Dinobabies",
+      "excerpt": "IBM launched Watson Health in 2015 aiming to revolutionize medicine through AI, according to MarketWatch. After years of acquisitions — including $4 billion spent on acquisitions aimed at combining “patient records, medical literature, and medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62090afa7934c9f2a277d907/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 869,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/amp/",
+      "publishedDateTime": "2022-02-14T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-ambientais-stephanie-mcreynolds-on-ais-role-in-physical-security.md",
+      "title": "Ambient.ai’s Stephanie McReynolds on AI’s Role in Physical Security",
+      "excerpt": "I spoke with Stephanie McReynolds, Head of Marketing at Ambient.ai, about how AI can provide a network of cameras with predictive, real-time intelligence, and respect privacy at the same time. Among the topics we covered: The use of AI to boost security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
+      "originalUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/02/New-eSPEAKS-thumbnail-6.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive.md",
       "title": "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive",
       "excerpt": "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ...",
@@ -10,7 +167,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -50,6 +207,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-machine-learning-helps-classify-hip-fractures.md",
+      "title": "Machine Learning Helps Classify Hip Fractures",
+      "excerpt": "A novel machine learning method designed by researchers helps identify and classify hip fractures. The machine learning process has shown to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath were able ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/Osteoporosis-Women.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "publishedDateTime": "2022-02-14T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -774,6 +974,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-12-ai-eye-podcast-659-stocks-discussed-nyse-ibm-nasdaqgs-flnc-nyse-aes.md",
+      "title": "AI Eye Podcast 659: Stocks discussed: (NYSE: $IBM) (NasdaqGS: $FLNC) (NYSE: $AES)",
+      "excerpt": "of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions. Daniel ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES",
+      "originalUrl": "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?604886",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T20:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-symbolic-ai-the-key-to-the-thinking-machine.md",
       "title": "Symbolic AI: The key to the thinking machine",
       "excerpt": "Register here. Even as many enterprises are just starting to dip their toes into the AI pool with rudimentary machine learning (ML) and deep learning (DL) models, a new form of the technology ...",
@@ -982,238 +1225,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci.md",
-      "title": "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI",
-      "excerpt": "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ...",
-      "sourceUrl": null,
-      "webUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "originalUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "publishedDateTime": "2022-02-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha TV",
-        "domain": "odishatv.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-tunisian-start-up-uses-ai-to-help-remote-african-hospitals.md",
-      "title": "Tunisian start-up uses AI to help remote African hospitals",
-      "excerpt": "Innovations Tunisian start-up uses AI to help remote African hospitals Posted A MedTech startup in Tunisia is providing solutions using artificial intelligence, e-reporting and radiologists' expertise to help remote-areas hospitals with limited resources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVFY8KUW7",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVFY8KUW7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20220211&i=OVFY8KUW7&r=OVFY8KUW7&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-researchers-furious-over-claim-that-ai-is-already-conscious.md",
-      "title": "Researchers Furious Over Claim That AI Is Already Conscious",
-      "excerpt": "“Every time such speculative comments get an airing, it takes months of effort to get the conversation back to the more realistic opportunities and threats posed by AI,” UNSW Sidney AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/conscious-ai-backlash",
-      "originalUrl": "https://futurism.com/conscious-ai-backlash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/conscious-ai-backlash/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/conscious-ai-backlash/amp",
-      "publishedDateTime": "2022-02-11T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-us-bill-promises-to-regulate-social-media.md",
-      "title": "AI Weekly: AI beats race car drivers in a video game and a U.S. bill promises to regulate social media",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. This week in AI, Sony — the Japanese electronics giant that’s still selling luxury MP3 players ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/",
-      "originalUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/porsche.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/ai-weekly-ai-beats-race-car-drivers-in-a-video-game-and-a-u-s-bill-promises-to-regulate-social-media/amp/",
-      "publishedDateTime": "2022-02-11T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
-      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
-      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
-      "publishedDateTime": "2022-02-11T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

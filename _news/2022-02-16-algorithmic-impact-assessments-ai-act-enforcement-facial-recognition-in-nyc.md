@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-ass
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"
         width: 608
         height: 342
+        isCached: true
+  - title: "Facial recognition firm Clearview AI tells investors it is seeking massive expansion beyond law enforcement"
+    excerpt: "The facial recognition company Clearview AI is telling investors it’s on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial ..."
+    publishedDateTime: 2022-02-16T16:47:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 36
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "8H38yhbtCMEJn8IihteRBu/IXAdDp553k2bi3YpKsmlnhhGMIptDUscqkDydvryiyrgS7UmpFhXgmgWWcuhHXgEewFvKIl7PlEWL5lOZpv5eXC6ElWk6CZTspf86Ma9qMLkWrdlb0LvBQHXVeqBPM7tbfSxMyfx069L7saFj8azya7WK4kp5HfskKf/ZMNR7/kQjUVMA5YEnwth4XHwkKLHuN4NteTes/doxCqThE7DrbNoomghKhIyc807ZiStPgWZzX5MNoaQPRVPk8SOiDMMMFnxadqeA/9iVQyhO7TqGIiHF0q7QLd5IZS11W24ygBeBJmW6c4TNA5dOUYBIzboOh9LyrhDSHfp0IXja6wg=;NU0tu4Fs2455Jsxbp3Xmyw=="

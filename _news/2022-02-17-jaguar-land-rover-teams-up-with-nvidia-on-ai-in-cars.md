@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T18:00:00Z
 originalUrl: "https://www.motorauthority.com/news/1135085_jaguar-land-rover-teams-up-with-nvidia-on-ai-in-cars"
 webUrl: "https://www.motorauthority.com/news/1135085_jaguar-land-rover-teams-up-with-nvidia-on-ai-in-cars"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
@@ -72,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
+    excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
+    publishedDateTime: 2022-02-16T19:28:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 37
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
     excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."
     publishedDateTime: 2022-02-16T14:01:00Z
@@ -87,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fgYl+5tjojYOdX8+3+Xqhxf/5c/k536+sV8ZgPCnq0nPn9KwoxAwfBtrjRFofcoi0DLhsZzDlKhIz8MexUMWPzGBaJ1/u+DIiu0hl4915Zvkxs1Iu5lnDflc0itCqnL4KtOtY6DII+XfDbPIuTiZmlRLgR1AqJsj5ieLTNIfrV9NpZxaTNnAdAH7GTtUjf6c8fcCQvuQXyIc0t11XPyJA+dgv8tSy73hgx3CVKkifSS/EitcyJR56YrZCohB2l5XI4Ft+yaTyD0n1gFxgbhtIdQsuEGIj9xWNtbjFL9OiiMMpI+8Tx6qjxp20ozqDJaMlGnltsdfE6EdKTIXr/fbwpUz6aMZv8SdTlsqpg7kz64=;FxX7K+nmd5h7ep5FEuouTw=="
+secured: "n222FTD7dH8KjChVyQLMjPwb0atd4ZCCrcFMsOwk/sqk6D53+qseG75IHyT4bgUJ55DIEaPO5L3FUwH7CUqZc4j3GvoE+EUu2PaJrMLCROg5DPM4K2aXNhHl013bBZYrIl4GqTFvPVdUiwOy+Sk4aMeiKy43/LWjP0jUUBcNnWXM3MzqarvDizlQpCjFtmM87vIHKMXjn52fT9i2tBsbllHzOmY9RjNZdIQgiJejNykP3fUww4pRs5hVuyKBoBFhFUEkNMi9ih/EbFpglwMp854WlCjEU8EY4mBWuUfBJU8Kj6sydbf106gYnWWNExb8mkypIJqzN+NEFGnMYag55Ok/qKeyBU3gFNW/vt3HV9MI3K6wL0v8Dtkj6g4tc7AON+WvzlgRWr/JPcuP8X6UtBPnESljegjSyFRMUZLMVC0RpjGfTpVp1kUvdLnWpMUHI3Nm9P18FOlkgHSU2LrtWdfUnzKsXXJKXrmdNZang1p+0rqUpwJwxWC5y1zt1n2pMkz0a+8K5PvgKMl+jeC6FA==;TdsZE3apds+PM8XBNp69CA=="
 ---
 

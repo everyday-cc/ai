@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-17-ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news.md",
+      "title": "AI acquires the power to manipulate fusion, but wait, it’s actually good news",
+      "excerpt": "The project is a collaboration between Google’s DeepMind and l’École Polytechnique Fédérale de Lausanne (EPFL) started years ago when AI researchers from the former and fusion researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
+      "originalUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/tokamak-plasma.jpg?w=1024",
+          "width": 1024,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
+      "publishedDateTime": "2022-02-16T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-deepmind-has-trained-an-ai-to-control-nuclear-fusion.md",
       "title": "DeepMind Has Trained an AI to Control Nuclear Fusion",
       "excerpt": "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -1456,59 +1508,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-build-tensorflow-lite-for-android.md",
-      "title": "Build TensorFlow Lite for Android",
-      "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/lite/guide/build_android?hl=zh-cn",
-      "originalUrl": "https://www.tensorflow.org/lite/guide/build_android?hl=zh-cn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png?hl=zh-cn",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

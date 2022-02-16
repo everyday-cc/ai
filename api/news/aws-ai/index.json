@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-16-how-signal-iduna-operationalizes-machine-learning-projects-on-aws.md",
+      "title": "How SIGNAL IDUNA operationalizes machine learning projects on AWS",
+      "excerpt": "This post is co-authored with Jan Paul Assendorp, Thomas Lietzow, Christopher Masch, Alexander Meinert, Dr. Lars Palzer, Jan Schillemans of SIGNAL IDUNA. At SIGNAL IDUNA, a large German insurer, we are currently reinventing ourselves with our transformation program VISION2023 to become even more customer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-4172-image005-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T12:12:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe.md",
+      "title": "Bongo Learn provides real-time feedback to improve learning outcomes with Amazon Transcribe",
+      "excerpt": "Real-time feedback helps drive learning. This is especially important for designing presentations, learning new languages, and strengthening other essential skills that are critical to succeed in today’s workplace. However, many students and lifelong learners lack access to effective face-to-face instruction",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/16/ML-7981-image001.png",
+          "width": 603,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T11:11:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-prepare-time-series-data-with-amazon-sagemaker-data-wrangler.md",
       "title": "Prepare time series data with Amazon SageMaker Data Wrangler",
       "excerpt": "Time series data is widely present in our lives. Stock prices, house prices, weather information, and sales data captured over time are just a few examples. As businesses increasingly look for new ways to gain meaningful insights from time-series data, the ability to visualize data and apply desired",
@@ -1397,101 +1503,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector.md",
-      "title": "How Clearly accurately predicts fraudulent orders using Amazon Fraud Detector",
-      "excerpt": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Sarvi Loloei, Machine Learning Engineer at Clearly. The content and opinions in this post are those of the third-party authors and AWS is not responsible for the content or accuracy of this post. A pioneer in online shopping, Clearly",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/26/ML-7595-image001-new.png",
-          "width": 671,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T09:46:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
-      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
-      "excerpt": "With this collaboration, AWS will be able to help its users ... as a payment method for the finance industry. The global artificial intelligence market size is expected to reach USD 360.36 billion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
-      "publishedDateTime": "2022-01-27T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

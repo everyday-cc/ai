@@ -2,6 +2,164 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-17-ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news.md",
+      "title": "AI acquires the power to manipulate fusion, but wait, it’s actually good news",
+      "excerpt": "The project is a collaboration between Google’s DeepMind and l’École Polytechnique Fédérale de Lausanne (EPFL) started years ago when AI researchers from the former and fusion researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
+      "originalUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/tokamak-plasma.jpg?w=1024",
+          "width": 1024,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
+      "publishedDateTime": "2022-02-16T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-how-signal-iduna-operationalizes-machine-learning-projects-on-aws.md",
+      "title": "How SIGNAL IDUNA operationalizes machine learning projects on AWS",
+      "excerpt": "This post is co-authored with Jan Paul Assendorp, Thomas Lietzow, Christopher Masch, Alexander Meinert, Dr. Lars Palzer, Jan Schillemans of SIGNAL IDUNA. At SIGNAL IDUNA, a large German insurer, we are currently reinventing ourselves with our transformation program VISION2023 to become even more customer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-4172-image005-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T12:12:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe.md",
+      "title": "Bongo Learn provides real-time feedback to improve learning outcomes with Amazon Transcribe",
+      "excerpt": "Real-time feedback helps drive learning. This is especially important for designing presentations, learning new languages, and strengthening other essential skills that are critical to succeed in today’s workplace. However, many students and lifelong learners lack access to effective face-to-face instruction",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/16/ML-7981-image001.png",
+          "width": 603,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T11:11:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-hampton-university-amazon-partnering-for-new-robotics-program.md",
       "title": "Hampton University, Amazon partnering for new robotics program",
       "excerpt": "Amazon Robotics is paying to establish a new robotics program for students at HU, which will create a new research laboratory, hire a faculty position to teach students about artificial intelligence and encourage other STEM learning opportunities.",
@@ -105,7 +263,7 @@
       "originalUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -198,6 +356,48 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-ai-generated-faces-found-more-trustworthy-than-real-faces-researchers-warn-of-deep-fakes.md",
+      "title": "AI-generated faces found more trustworthy than real faces: Researchers warn of 'deep fakes'",
+      "excerpt": "AI-synthesized faces are indistinguishable from real faces and more trustworthy, Proceedings of the National Academy of Sciences (2022). DOI: 10.1073/pnas.2120481119 Journal information: Proceedings of the National Academy of Sciences",
+      "sourceUrl": null,
+      "webUrl": "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news",
+      "originalUrl": "https://techxplore.com/news/2022-02-ai-generated-trustworthy-real-deep-fakes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pnas.org/content/119/8/e2120481119/F1.large.jpg",
+          "width": 1049,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -514,7 +714,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -774,7 +974,7 @@
       "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1055,186 +1255,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems.md",
-      "title": "AI can erase tattoos from photos to help face recognition systems",
-      "excerpt": "Artificial intelligence can accurately remove tattoos from photos of people’s faces – potentially helping face recognition systems, which can be flummoxed by such tattoos, work accurately. In previous research, Mathias Ibsen at Darmstadt University of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "originalUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/02/15162452/PRI_223719357.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "publishedDateTime": "2022-02-15T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-the-cryptocurrency-industry-is-cozying-up-to-lawmakers-in-washington.md",
-      "title": "The Cryptocurrency Industry Is Cozying Up to Lawmakers in Washington",
-      "excerpt": "(Michael Nagle / Bloomberg via Getty Images) Have you read ... financial disclosure he filed last July. Progressive representative Marie Newman (D-IL) also has ties to the crypto industry, since her husband, Jim Newman, has reportedly traded sixteen times ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "originalUrl": "https://jacobinmag.com/2022/02/cryptocurrency-industry-lawmakers-investment-energy-blockchain-mining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0460153-569b-4a33-8c65-90ab2790bdc5.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "publishedDateTime": "2022-02-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jacobin",
-        "domain": "jacobinmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-uk-watchdogs-to-clamp-down-on-banks-using-discriminatory-ai-in-loan-applications.md",
-      "title": "UK watchdogs to clamp down on banks using discriminatory AI in loan applications",
-      "excerpt": "UK banks that use AI to approve loan applications must be able to prove the tech will not worsen discrimination against minorities. Banks must recognise the inherent flaws in AI, improve transparency, and take responsibility for problems. Insider ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "originalUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/620bccdfb20df7001809f414?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "publishedDateTime": "2022-02-15T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng.md",
-      "title": "Indian Engineer Develops AI Model That Instantly Translates American Sign Language To Eng",
-      "excerpt": "Priyanjali Gupta, an engineering student from Tamil Nadu's Vellore Institute of Technology (VIT), has created an AI model which can translate American sign language to English in real-time. A third-year computer science student, Priyanjali Gupta is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jbxoumigagmwijxk_1644938606.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
-      "publishedDateTime": "2022-02-15T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

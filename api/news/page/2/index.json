@@ -2,6 +2,186 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-16-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems.md",
+      "title": "AI can erase tattoos from photos to help face recognition systems",
+      "excerpt": "Artificial intelligence can accurately remove tattoos from photos of people’s faces – potentially helping face recognition systems, which can be flummoxed by such tattoos, work accurately. In previous research, Mathias Ibsen at Darmstadt University of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
+      "originalUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/02/15162452/PRI_223719357.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
+      "publishedDateTime": "2022-02-15T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-the-cryptocurrency-industry-is-cozying-up-to-lawmakers-in-washington.md",
+      "title": "The Cryptocurrency Industry Is Cozying Up to Lawmakers in Washington",
+      "excerpt": "(Michael Nagle / Bloomberg via Getty Images) Have you read ... financial disclosure he filed last July. Progressive representative Marie Newman (D-IL) also has ties to the crypto industry, since her husband, Jim Newman, has reportedly traded sixteen times ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
+      "originalUrl": "https://jacobinmag.com/2022/02/cryptocurrency-industry-lawmakers-investment-energy-blockchain-mining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0460153-569b-4a33-8c65-90ab2790bdc5.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
+      "publishedDateTime": "2022-02-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jacobin",
+        "domain": "jacobinmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-uk-watchdogs-to-clamp-down-on-banks-using-discriminatory-ai-in-loan-applications.md",
+      "title": "UK watchdogs to clamp down on banks using discriminatory AI in loan applications",
+      "excerpt": "UK banks that use AI to approve loan applications must be able to prove the tech will not worsen discrimination against minorities. Banks must recognise the inherent flaws in AI, improve transparency, and take responsibility for problems. Insider ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
+      "originalUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/620bccdfb20df7001809f414?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
+      "publishedDateTime": "2022-02-15T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng.md",
+      "title": "Indian Engineer Develops AI Model That Instantly Translates American Sign Language To Eng",
+      "excerpt": "Priyanjali Gupta, an engineering student from Tamil Nadu's Vellore Institute of Technology (VIT), has created an AI model which can translate American sign language to English in real-time. A third-year computer science student, Priyanjali Gupta is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jbxoumigagmwijxk_1644938606.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html",
+      "publishedDateTime": "2022-02-15T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
       "title": "LivePerson put more personality (and AI) into next-gen bots",
       "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
@@ -923,7 +1103,7 @@
       "originalUrl": "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -967,48 +1147,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-ai-generated-faces-are-more-trustworthy-than-real-faces-say-researchers-who-warn-of-deep-fakes.md",
-      "title": "AI generated faces are MORE trustworthy than real faces say researchers who warn of “deep fakes”",
-      "excerpt": "but nearly indistinguishable from real faces and are even judged to be more trustworthy. “Our evaluation of the photo realism of AI-synthesized faces indicates that synthesis engines have passed through the uncanny valley and are capable of creating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news",
-      "originalUrl": "https://www.eurekalert.org/news-releases/943356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pnas.org/content/pnas/119/8/e2120481119/F1.medium.gif",
-          "width": 361,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform.md",
       "title": "VMware, Nvidia team up on AI-powered hybrid cloud platform",
       "excerpt": "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ...",
@@ -1017,7 +1155,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1058,163 +1196,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-report-29-of-execs-have-observed-ai-bias-in-voice-technologies.md",
-      "title": "Report: 29% of execs have observed AI bias in voice technologies",
-      "excerpt": "What’s more, nearly a third of respondents have experienced AI bias, or imbalances in the types of voices that are understood by speech recognition. There are significant enhancements to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "originalUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1303435789-e1644856780654.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "publishedDateTime": "2022-02-14T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies.md",
-      "title": "Sales Down 6% Annually Since 2011, IBM Is Full Of Business Line Dinobabies",
-      "excerpt": "IBM launched Watson Health in 2015 aiming to revolutionize medicine through AI, according to MarketWatch. After years of acquisitions — including $4 billion spent on acquisitions aimed at combining “patient records, medical literature, and medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62090afa7934c9f2a277d907/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 869,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/amp/",
-      "publishedDateTime": "2022-02-14T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-ambientais-stephanie-mcreynolds-on-ais-role-in-physical-security.md",
-      "title": "Ambient.ai’s Stephanie McReynolds on AI’s Role in Physical Security",
-      "excerpt": "I spoke with Stephanie McReynolds, Head of Marketing at Ambient.ai, about how AI can provide a network of cameras with predictive, real-time intelligence, and respect privacy at the same time. Among the topics we covered: The use of AI to boost security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
-      "originalUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/02/New-eSPEAKS-thumbnail-6.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

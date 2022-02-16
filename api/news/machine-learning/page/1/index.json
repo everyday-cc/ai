@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-16-how-signal-iduna-operationalizes-machine-learning-projects-on-aws.md",
+      "title": "How SIGNAL IDUNA operationalizes machine learning projects on AWS",
+      "excerpt": "This post is co-authored with Jan Paul Assendorp, Thomas Lietzow, Christopher Masch, Alexander Meinert, Dr. Lars Palzer, Jan Schillemans of SIGNAL IDUNA. At SIGNAL IDUNA, a large German insurer, we are currently reinventing ourselves with our transformation program VISION2023 to become even more customer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-4172-image005-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T12:12:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
       "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
       "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
@@ -254,7 +307,7 @@
       "originalUrl": "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -295,6 +348,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-machine-learning-helps-classify-hip-fractures.md",
+      "title": "Machine Learning Helps Classify Hip Fractures",
+      "excerpt": "A novel machine learning method designed by researchers helps identify and classify hip fractures. The machine learning process has shown to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath were able ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/Osteoporosis-Women.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
+      "publishedDateTime": "2022-02-14T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1343,93 +1439,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
-      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
-      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "publishedDateTime": "2022-02-04T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-deep-learning-model-simulates-brain-topography.md",
-      "title": "Deep Learning Model Simulates Brain Topography",
-      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization, or topography of the IT. “The brain doesn’t have unlimited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/deep-learning-model-simulates-brain-topography-358218",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/deep-learning-model-simulates-brain-topography-358218",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/358218/deep-learning-model-simulates-brain-topography-358218-640x360.jpg?cb=20220204",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-04T02:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

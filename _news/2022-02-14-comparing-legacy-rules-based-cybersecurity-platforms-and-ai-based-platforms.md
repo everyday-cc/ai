@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 661
         isCached: true
+  - title: "Bfore.ai Partners With Quad9 To Provide Predictive DNS Cybersecurity Protection"
+    excerpt: "The integration of bfore.ai and Quad9 generates hundreds of thousands of new and unique indicators of future cyber threats, enabling their customers to be protected by cyber attacks before they even start. The proof was in the pudding in mid-December 2021 ..."
+    publishedDateTime: 2022-02-16T17:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bfore-ai-partners-with-quad9-to-provide-predictive-dns-cybersecurity-protection/article_af475106-5232-56b2-a9ef-801618094505.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "CHv4OYGaz3vmA73LHuyVOyyWOCsQ7bSRJV9v7bf9m4cwydWk/2/eKCVjVkRaFUCrIjwyRDawGp+d5u1hy6bybBL4PngwfkWfmUuCi7z9KzqySr6HP6qpzZdonUtgAN2U0iu+5sUQzbT4TpiCVyu/fLCGNNrB3LtonNt0U4ebK4GYUHK6zxYEB1NQK2L/wEAnXpC/42ST5D7bAqAUBL1wQBBkzZK6Sh0IRR7P0I+67AWUeNT5tvmphfivBoKpFLKO5gjtAIZGSmN3Y6gjzmGmfQUK1VnWkbSx5LfxWt9X8d0JI4TsTVTagOmng+9yDx73Hw3gaNFmFtzy+bPNj3lsijOha4gvZUpV+3fNgvUPQ7zVSoIKCfynm6NVpbgs4ZTcpf44Soy7B8VNnDysXv2Gnxykm3n1UjS9D5rNNRX0cx2oi358Gu8BUP8wl1mtO3T5+MbDzwxvxBu6vSnbBnRQhyDf7rWRFHoo5zBdskDTfQVlixhktSQbmAWvm0Iw0mhAPgSM8JNNySCO2EabW08ZOg==;Bg5Sjm48Hgu8wIQ7bu6SEA=="
 ---

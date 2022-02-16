@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-w
 webUrl: "https://www.slashgear.com/768203/scientists-just-gave-an-ominous-warning-about-artificial-intelligence/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

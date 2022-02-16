@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
+      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
+      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "publishedDateTime": "2022-02-04T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-deep-learning-model-simulates-brain-topography.md",
+      "title": "Deep Learning Model Simulates Brain Topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization, or topography of the IT. “The brain doesn’t have unlimited ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/deep-learning-model-simulates-brain-topography-358218",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/deep-learning-model-simulates-brain-topography-358218",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/358218/deep-learning-model-simulates-brain-topography-358218-640x360.jpg?cb=20220204",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-deep-learning-model-identifies-patients-with-mental-disorders.md",
       "title": "Deep learning model identifies patients with mental disorders",
       "excerpt": "A new study, published in the journal Molecular Psychiatry, has developed a deep learning model that is able to genetically differentiate patients with mental disorders from control patients. Mental disorders are a leading global health concern ...",
@@ -1309,102 +1396,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
-      "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
-      "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/20/ML-6266-image001-1119x630.png",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T10:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-machine-learning-ml-market-is-expected-to-reach-usd-18389-billion-in-2030.md",
-      "title": "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030",
-      "excerpt": "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
-      "originalUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/26/EP_dee60image_story.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

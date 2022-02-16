@@ -41,22 +41,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "‘Devnagri’ presented their Machine translation engine that translates instantly with 85% + contextual results On Shark Tank India"
-    excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagri’s platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
-    publishedDateTime: 2022-02-12T03:02:00Z
-    webUrl: "https://indiaeducationdiary.in/devnagri-presented-their-machine-translation-engine-that-translates-instantly-with-85-contextual-results-on-shark-tank-india/"
-    ampWebUrl: "https://indiaeducationdiary.in/devnagri-presented-their-machine-translation-engine-that-translates-instantly-with-85-contextual-results-on-shark-tank-india/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/devnagri-presented-their-machine-translation-engine-that-translates-instantly-with-85-contextual-results-on-shark-tank-india/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 45
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/02/Nakul-and-Himanshu-co-founders-of-Devnagri-at-Shark-Tank-Show.-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "'Devnagri' Presented Machine Translation Engine that Translates Instantly with more than 85 percent Contextual Results"
     excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagris platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
     publishedDateTime: 2022-02-12T07:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
 type: article
 quality: 106
-heat: 176
+heat: 178
 published: true
 
 provider:
@@ -139,6 +139,6 @@ related:
         height: 405
         isCached: true
 
-secured: "kkiqXRCgF554EY+7QdEPcj/iLsmG90SkCED9jPZAoi5JzCOIQBgQBV58SK6CgYAnMul6zNmeD0ObMu9xh7bYwKrnzUQERsMDTYWn01VKZxbTKH2XE7HHZenrQGfixtRNzIg9qxI7WnkT2YuMN8EfjKZ/7tye94s1ZD2iClM3eaEdypgsIohcce3U0yKyaNbE1aTWzBd/9HDMiUVvG6oRgReJB33yK1dW5zCaFzop1os3iqqLjEh0S4/bTRlIMa3wPVhsN2vhCqOusA9B8adYVI+VGrVji9G0+1X6PYKVbEaWLyoTu9dVolyk9/ynBK3YDWlfqDWop+l596qHEYlkDoJ8L2iJmO3ZuuwKi9yi8x4=;lzDnmMAfATPNdqY9VpCJYA=="
+secured: "abc/7xrE6iOPHtuaQ6PPGK65dV+tI0sC+SsghfYvIhg9zaXxjmFj7QD+E//zIZAzMwcayqigQzkCUkXtDKMVu+2heXCQvgafCmdAToeOoVyXlwkNdpx7CIsADZAc94NoyXBJYvKQ2H2WXqj2G3UIoWSBnixh2J7CzcpD/WkFyruE9ige33DXE2ql0oXgpwUUIRiG4zrHpXP0QNBUXcZeAdZyXnuO4b/cWhM9u2JUIOoASxHLJE86lzTdReikXlByZFwtZozykBORMVjQO8H45zMmYqdETVVCiKCukeCRkldVc+HozRzlVHtspy6DkZq0+kdKM8S5EgK6JiD4fG1iHVVM3pG/5xtj+JD9FgKZvxNWGuug1ycpyJQ9pCBOgGQrctHWv+xFwAnTfVCiPl4eLBGSrpbTmV4gEHKXnHRLTnFjCAaz1INIGUkD/g7eOXBhz1HB7cEIQA5rowNpycllA/3c99xC5//ZfjgUelT3yiz35yrri44NIz4RJacKAzs4/c7oFpuLuLD4w9A7m6k+GQ==;3uACyL0pIUdNcb2FvZF5yw=="
 ---
 

@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facial recognition firm Clearview AI tells investors it is seeking massive expansion beyond law enforcement"
+    excerpt: "The facial recognition company Clearview AI is telling investors it’s on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial ..."
+    publishedDateTime: 2022-02-16T16:47:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 36
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "JYnuFzk2oKCfeP44DVaBuA/9Km0huLIJjRmkAWPqyc40DJqy+f9rnYUXB3mXTNKtw2Ht3TGvu8sgnST46oC9fWzOZ32jmlmiyhTzcM6SeLw3eYXbOKTr+P8wgCEXB1My0FaSP4FzdwYXMjvzN99npH2NUCaoMFfdVOTSZ6rlL6x+lVn+ub6GlzIshAtg+6qhv03Bt4FatENLeDrtPdIYEireexTnvF4lkgmPyMFMqb844bfRJfi8rQNyZDyS12xgnQKlWrgL92Dd/vDOa5VoOMmgDs93C+JcJre8+BKZg2k2uxO8U6TPA17C1/V9iSfOdDRoZyCkRJHV2+VGNihUWPxb9iYmX5mzmiqKVZyyh+o=;j4AsoHdSzsq3zGBDCaXs1w=="
 ---

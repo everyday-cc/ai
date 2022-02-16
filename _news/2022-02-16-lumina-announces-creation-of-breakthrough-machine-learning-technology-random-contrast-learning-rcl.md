@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-16T14:06:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2022/02/16/9546653.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/02/16/9546653.htm"
 type: article
-quality: 4
-heat: 4
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 secured: "gmv3tEg0ZG0NoH3RENH1IYYNwgbpldKbNEJiqaTmJyWn529ZYE853MyUvGr64bB0O/bHttWVC+tm6PHXxjmUcbUBYJjRjUpJzEX5/jkhgJ920MS/2RcXS53RxBthYwy096/ZaSmNThikx6D2faHpToL0dX6/BbHwu5g2sGBUr9kYImdbKCc2DEIoSfU19OskKc7u+f2WrKjVcrfAQDUPMVZ3DwJjs1ajWUjQwp9sRXj/ljji+TO1zZ3i2Ak0SjWttNYTUz+M8fiskqws+uEl5wyA1yRV8mLJ+/odQ8K7HSQ+TxQNQ7wJ6IAcBnGJsEdMoiZaDEbAnQUWEuQszzX6c3f4t3xNKzVaAMgZJdRg5frj2DB/toSnzufqaAWeel4d+MBu7cTQR87i4tndQ3GWuJvZ+adO1okZ9shXSJc0TYhm5TVQv7IONkfgJe3HPamXFLdzeu3FOpdoRW87HVFgxiMlxtcXQK21P2uGk0vnHi1W3fkbyrxiMKCvY5GOHa7/XwYaWG3FzFqBGuSwB9kpzg==;bJkSyY7oEjw7zBVIs1wuUQ=="
 ---

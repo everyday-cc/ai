@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/news-releases/943356"
 webUrl: "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news"
 type: article
 quality: 124
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: EurekAlert!
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-generated faces found more trustworthy than real faces: Researchers warn of 'deep fakes'"
+    excerpt: "AI-synthesized faces are indistinguishable from real faces and more trustworthy, Proceedings of the National Academy of Sciences (2022). DOI: 10.1073/pnas.2120481119 Journal information: Proceedings of the National Academy of Sciences"
+    publishedDateTime: 2022-02-16T15:11:00Z
+    webUrl: "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 127
+    images:
+      - url: "https://www.pnas.org/content/119/8/e2120481119/F1.large.jpg"
+        width: 1049
+        height: 1280
+        isCached: true
   - title: "Fake faces created by AI look more trustworthy than real people"
     excerpt: "Artificial intelligence can create such realistic human faces that people can’t tell them apart from real faces – and they actually trust the fake faces more. Computer-generated, fictional human faces are so convincing, they can fool even trained ..."
     publishedDateTime: 2022-02-14T20:00:00Z

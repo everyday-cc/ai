@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/indian-eng
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Devnagri’ presented their Machine translation engine that translates instantly with 85% + contextual results On Shark Tank India"
-    excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagri’s platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
-    publishedDateTime: 2022-02-12T03:02:00Z
-    webUrl: "https://indiaeducationdiary.in/devnagri-presented-their-machine-translation-engine-that-translates-instantly-with-85-contextual-results-on-shark-tank-india/"
-    ampWebUrl: "https://indiaeducationdiary.in/devnagri-presented-their-machine-translation-engine-that-translates-instantly-with-85-contextual-results-on-shark-tank-india/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/devnagri-presented-their-machine-translation-engine-that-translates-instantly-with-85-contextual-results-on-shark-tank-india/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 45
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/02/Nakul-and-Himanshu-co-founders-of-Devnagri-at-Shark-Tank-Show.-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The African software developers using AI to fight inequality"
     excerpt: "Digital rights groups warn about AI's use in surveillance and the ... machine learning to translate African languages not typically found in online programmes such as Google Translate."
     publishedDateTime: 2022-02-15T22:01:00Z

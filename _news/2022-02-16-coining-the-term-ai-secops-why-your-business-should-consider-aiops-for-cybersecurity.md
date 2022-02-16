@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
+  - title: "Bfore.ai Partners With Quad9 To Provide Predictive DNS Cybersecurity Protection"
+    excerpt: "The integration of bfore.ai and Quad9 generates hundreds of thousands of new and unique indicators of future cyber threats, enabling their customers to be protected by cyber attacks before they even start. The proof was in the pudding in mid-December 2021 ..."
+    publishedDateTime: 2022-02-16T17:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bfore-ai-partners-with-quad9-to-provide-predictive-dns-cybersecurity-protection/article_af475106-5232-56b2-a9ef-801618094505.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "s3dZejNJygHdvxBZaoU85mLjfDmxdsmk9zfxzNGXQJ9LCkc/Ga3VYh+mNPwu2p0ef3dA9Thelns9ZsuLBZHKZJhhEVn5KdrM7KO9mcH2o5qpt23PPeUohotcILQbkS/PF5QV1b4WR4GkYErOjgGNXeeWQZZ1Z/VfKODa/NeY+a2EYovE8TSt+vXiEiFdpw1xcUra4lX/eFq3lmIxqlpD1ftoRyHd+yoSUdQLYzjZRbFX0021nYfX7JVLb3BVjB51FVVSDYW7vY6I5zKDiKnRUiUIoDFQnStW7+D8BwEyrtUepQJvgANch3MozuPzJUYIeQFGtnvVbZZFRFAPYYoV5lUMxEME3yeBfzuACwn8abltVVxvHd4Ka/p2TnkL37YK1Ta02ChIAUN2ClVJKeOCWDEi5NOkn4rr5ZHUtp4ohD9bUtENEujvuZIJLg414CSGque7zngew0nJ+wf0c+wclfxcJKitZxuDfZXvGUOTl2p4vxnqMT8lLaWcnnv/wjWcWQza8NG6m6glBZAJ8NYePA==;1ujJl3yVBXS+61YHFFQVzA=="
 ---

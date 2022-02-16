@@ -7,7 +7,7 @@ originalUrl: "https://tdwi.org/articles/2022/02/14/adv-all-operationalizing-your
 webUrl: "https://tdwi.org/articles/2022/02/14/adv-all-operationalizing-your-machine-learning.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 976
     height: 400
     isCached: true
+
+related:
+  - title: "How SIGNAL IDUNA operationalizes machine learning projects on AWS"
+    excerpt: "This post is co-authored with Jan Paul Assendorp, Thomas Lietzow, Christopher Masch, Alexander Meinert, Dr. Lars Palzer, Jan Schillemans of SIGNAL IDUNA. At SIGNAL IDUNA, a large German insurer, we are currently reinventing ourselves with our transformation program VISION2023 to become even more customer"
+    publishedDateTime: 2022-02-16T20:12:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-4172-image005-1120x630.png"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "STyHkgKIc7cyOO5A8FjbLSSu7gKczJ+ly9huUBu7rlsOwpxv9IrZ9a4qG+FMXRchVdBdFElknN8l5BZ8/Ver4X9GQ3RxVwcqnbBzV/iSOd/+7jgHAHOHIB/zgN2YatgH27p/xVhS0oDDqMteOUb4Kz3tt7FIIVDqJyvHii4rb0ipmzxTtI+0Sm7u9ixYJHjqhwsXM3n9unw6VXxbNgnZ75+uwOpVcrABXZnW6eK0k8P8D9qw6oGOputnGkvP3dCJCvTohiHOO9KANiJUvdc6q1K+LuX060IKJ68BqUdl1BwPUZEC9XJplmdy4IXBjJKz3fgIv++gOpSQOcOjdj91DK4JYf+bVwbkpbwRZSMO5e/ciBuCz+OUES3KdWn96sve3yvtp224t4ULT9CiDodE+1KE9Omd+Enx7nkU5vaQuvP8Fd68bfbbQHSPdOdv6hZ43BQQ9gUuqOy2jRTPxoxvsfXo2SH+RWTm/3TIDg5fs2yWeCneYytKG6hAyNXToRohXLh5AaghfSCVv76qmX/GgQ==;XxiGYpjwXPekEsDV6hw0lw=="
 ---

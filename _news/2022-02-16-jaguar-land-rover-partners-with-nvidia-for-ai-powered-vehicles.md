@@ -70,11 +70,25 @@ related:
     provider:
       name: Motor Authority
       domain: motorauthority.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
         width: 1920
         height: 1107
+        isCached: true
+  - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
+    excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
+    publishedDateTime: 2022-02-16T19:28:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 37
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
     excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."
@@ -91,6 +105,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tmv9R8fezvO1CS+v58iqbYe2TO9CfMAvovlgQhqd35+JvZ83rmdP79F9C2HhV9UdqTv5vngeZPqfW6/IjxaLcp+NckGdpqyATigGCXxH2LgOLKeRO73E5CCc8YG8GZcSU+kTjDC00NLrz8VS4ixlnpsm1kZu7YvFcI72qfdD3lrYMH8DqFYkg8LVq5ra+DfZGWsvUMomkHr9Gr52TGL7f9LUZzZ09kyXRmioD+A4KgDgva9dma/LsEeHBAqpT2cnOGN8ttOmyVkou31F8akzC9ZQICtdpMDnbeUXKZz24U8/OE4nB7z2J8m84Iw4Maxilb/zZd+FggwQHwwnCITwuslEwFT4uX/2VjZL+MV0QNw=;LlIq16yjffs6t0MJIM5icw=="
+secured: "5w2fWTzF3vuvUvqmOpK8eNtqdnlL3ANtUSZbvvjv4vcT8MabftLVJcLn3P37tlvSiRQNfT1RvJRPfyb4HPI9pNwZGH7g8TEj0XbZiEwjdTVB2BK9S7qS6wiOkp4PJVgoXiNoSegkXwodtzlLQd8O7eM1v4zw9tNCTHsqMmD9uR1P72QoDRXY+p6IwgJuTsmrIiFy+rXkbLx2Lxum0xznTaVUzWu296dunjx958lq0ox5feDqIop3q5tEiWJ9GE0TNLchAjCM/7i6ag+IsPuytgtHJ6KJb1YTP1bx0uJYfaq9K4Jcf3LP8OVhL26m9SBgnsZJ0bcSidrbYSM3oobevoJE6hg2F6BZC1RcP3PtjoKoUdXduToLAdo50NHUduNwZbsO+3BDy7q09ibr6FEyH3jnstmKMO31pgMpCxjzus1FxzrRNv3clF91mHHFQDHr6R/OUUE20wKlmIVRz2FvYenwT4FYr7tPPtNtgj9QvkLBGKHWek3rqUSSJZjR58MrCfAKVFDUQSfSZKj9ClMqAw==;eoIDB+xt1HgJ50x25u/RBQ=="
 ---
 

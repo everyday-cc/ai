@@ -72,11 +72,25 @@ related:
     provider:
       name: Motor Authority
       domain: motorauthority.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
         width: 1920
         height: 1107
+        isCached: true
+  - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
+    excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
+    publishedDateTime: 2022-02-16T19:28:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 37
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
     excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."
