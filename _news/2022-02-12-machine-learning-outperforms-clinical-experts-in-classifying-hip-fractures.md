@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Machine Learning Can Assist in Hip Fracture Classification"
+    excerpt: "February 16, 2022 - A new machine-learning method used to identify and classify hip fractures has demonstrated its ability to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath identified and ..."
+    publishedDateTime: 2022-02-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-can-assist-in-hip-fracture-classification"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-can-assist-in-hip-fracture-classification"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-can-assist-in-hip-fracture-classification"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-912319336-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "zDzm8A/PNxZHhK2fRuHGai4Z8HLDe10hGImDtSHMk6V4tmeMhE0rT+FUdRDYOXcH3gKbxsTpEYc2QLhwBq6fDAne8dLlEBdB7PoR5QegjST1aLTsDCrms1O+22is6j3ik4vlXIR2KoUiZ6y2Xl+17yLKZEvt+BK6Tra9TXUd+ZbUJJFIXSncTZLwEp1oH7wqd5YAjXrzYHErrMNy4zodmaxI7NCEhc8rHoRnGwdM2rAjXIS6qglIjMsee5Aok34dbqek1ZnIPsFTbHvGa7HEArygkjvTyykBEq8rMyPB2W7Jqq+dsGDkw/n92bVdTjZy2tQj65YJzX88Oiko3L/PFrVbPfB2TrZsECwsxsfTT3E=;UGUV2eyy9IFnvG0CfWwUug=="
 ---

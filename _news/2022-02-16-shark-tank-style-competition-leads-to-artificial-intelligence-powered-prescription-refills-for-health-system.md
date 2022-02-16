@@ -8,8 +8,8 @@ webUrl: "https://www.mlive.com/news/grand-rapids/2022/02/shark-tank-style-compet
 ampWebUrl: "https://www.mlive.com/news/grand-rapids/2022/02/shark-tank-style-competition-leads-to-artificial-intelligence-powered-prescription-refills-for-health-system.html?outputType=amp"
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2022/02/shark-tank-style-competition-leads-to-artificial-intelligence-powered-prescription-refills-for-health-system.html?outputType=amp"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XXAJANTAGBAIVAHTZ2OGF2BOQI.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 4480
     isCached: true
 
-secured: "i4IXcXIGpi75LC7gr3NU+rVnFGKvQ1ziRtz+FNjJmj6duFukZUbi5qzZ8yGEIA5DK0s3+J0XuYaKsgq01MJYMqM07IpieHqts3nU25jm1JDTy4mtWp/gSNp7jmXzW7WY82OyHSwTQCfN8xrTfcNBDeEidMraClwkkmDoq8JyCwtfC1WtOx9mt9EqlYSNPdFiwsJlxgqKMi/VDJ+MaQpamtAwuBtgQxaFhawkMBkXYmizupCUpOYr3Ej3hfNYazFUtUE0kY3xxDJmn1aoXZ9wUdTd8V/EWjcz4Mt5+5GGqPdGT85uF0R65to2WY3tFzYHHt5E6sXXaC41+opB1kPpzFDyizwNZ8svQtjXw8OiPOk=;mBoK50mNk0Rpm3xEPePdLg=="
+secured: "JXakCXFoIKcxObGbzq8CYefZFvXY/UVdUumuPnA6l+L2ESBi2DkiuGlxVo5DQsqtb6bID6snWEvpkMxNLHCAC9r6ASZS1ol48aA/T3KFSdnxxICV04jO9UfNjomsky1IXaHZVbZVuVrF+mzAndNq0xZJ2UceByBx+aj8TTXMv2QI5AijDHXuLqlyswlTepCEXU0ciHAQAqdHQIXbOcz++HF2vowZW6518QOg4cx3VvqIwsJV1o56vD0Nx6dalZeo4XViFKafGc0Voujos2r3glr4sFwK0O18wU9q37nU8pQ6OK1/X/8iw46BIEdpSPqAq5I8VnLEfOyeYbf/8kvtC/q+h1eriHihD3X3UhdiK47rsSSqe/KP2buAHK7ZJescbZrjYqAemybwr04MneNGredQNZ5Os+B7qT34bGf3W0rWfG1G8/nuqpsinTelgvtvI8wFiqUhy0OwPQaS6ns/WThiWPWYqRTcytLEKcCdqA38nWbeUjcZgRtI8g7Cg1BClTxLMY4RDd7suyKycLO96A==;we1mwYOSizIO5El7l/5bJA=="
 ---
 

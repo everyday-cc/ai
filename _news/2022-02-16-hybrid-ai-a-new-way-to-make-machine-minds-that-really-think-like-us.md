@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-way-to-make-machine-minds-that-really-think-like-us/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Symbolic AI: The key to the thinking machine"
-    excerpt: "Register here. Even as many enterprises are just starting to dip their toes into the AI pool with rudimentary machine learning (ML) and deep learning (DL) models, a new form of the technology ..."
-    publishedDateTime: 2022-02-11T22:00:00Z
-    webUrl: "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/"
-    ampWebUrl: "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The key to the thinking machine is symbolic AI"
-    excerpt: "It’s most widely employed in linguistics models like natural language processing (NLP) and natural language understanding (NLU), but it’s also making its way into machine learning (ML) and other forms of AI, where it may provide much-needed ..."
-    publishedDateTime: 2022-02-13T13:10:00Z
-    webUrl: "https://bestgamingpro.com/the-key-to-the-thinking-machine-is-symbolic-ai/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/02/Symbolic-AI-The-key-to-the-thinking-machine.png"
-        width: 600
-        height: 375
-        isCached: true
-
-secured: "ruORJwYPu+zbu7CtHOimKNm2eQ0fqUnlN+r+BCyh6PZ9tbkYl8kQcfQObfDY3N+/8mB6pAHlXfI3DwZxx8mkkhAEBEg8OkurhEauFKIeabtb9kf3daMCo8LFfjfoaukzrZlHHvjOWm6W9MWEDmTTW6QVKFwHIpqGaRaKdm5QY5m0RKXplIGVBnb5J4NktEebCTXd5mRK/72vHhd24CUtnX5DZidWZHIZ9gK+0ZLVmL7cv9xq9dD5q3zhz4+TI1fjNuilLrPIaV1rUx1QcInqpUBzDyjiiASVXTHO1LpEXJMAc8uAnNIfBcncVwT7jZGAA1J9EAH/ZZppli6NJhHH2QW/4Pg1cxJGlPF3SeG81jM=;SMpCeWXc2fnbWdvtVM1gaQ=="
+secured: "RXWXLln1kSvdZi4WROXv5JYGSe2p4Tt90uaSfQ+nrNbbE49YvMC5R9LuAR3E4uM3w2g1C95K3TL/SEcgLa6oT5Rjz0CWYSh8ixlJac7wvkUH/w5gRPCIrudHTsNwFL6dOLV+OW5NqQo2dacXRkRHlmFc/f+dNGOQRoNdsK/OI+kAntj1g1ukAj/EzT8VTE0G7hjXZbsL+3eaeeDKuAPlaPIQZtqaeJh4pfngoTWLuIm4KCeY/fyJ7hrcKXsnRlHTwEzJnFrucQtcdJcCkSQ7i+KX1eBCX/ysYLscrMq0U7UkwcMZgnUnPXZITtA4/GFoDejb5AZyOMePCvO9xAAI6PKZ84T3b1W2tNI7jb/Uzr8mD/qCC6E9mGSF7HmwLfpFWBtNgl+BiIKfybamP9YY+/v35rvtwXOwEqDexbupD4y4KtsRGkWGAjmIoMFURbv0R2n0sgzp16idIu1QyDGG6eUayH4j7QoqDx/Wg/ozgEkXdt6JokxcyXXw5l9p1bY6fKmEvw27NvFzZCzgEaVwyg==;D7nhDahv+AL+2rA2e5/sAw=="
 ---
 

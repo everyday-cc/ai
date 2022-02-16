@@ -9,8 +9,8 @@ ampWebUrl: "https://www.asiaone.com/business/parascript-goes-step-further-intell
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Asia One
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Infrrd Mentioned in Four Recent Gartner® Reports for Its AI-led Intelligent Document Processing Solutions"
+    excerpt: "Each report cites Infrrd's proprietary artificial intelligence (AI)-led IDP technology and relevant ... at 08:10 C.H. Robinson and Waymo Via Enter Strategic Partnership to Advance Development of Autonomous Trucking for Supply Chains Global logistics ..."
+    publishedDateTime: 2022-02-16T13:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-20243757.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 22
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Parascript, LLC: Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3"
     excerpt: "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ..."
     publishedDateTime: 2022-02-15T14:08:00Z

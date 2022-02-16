@@ -35,6 +35,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Infrrd Mentioned in Four Recent Gartner® Reports for Its AI-led Intelligent Document Processing Solutions"
+    excerpt: "Each report cites Infrrd's proprietary artificial intelligence (AI)-led IDP technology and relevant ... at 08:10 C.H. Robinson and Waymo Via Enter Strategic Partnership to Advance Development of Autonomous Trucking for Supply Chains Global logistics ..."
+    publishedDateTime: 2022-02-16T13:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-20243757.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 22
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "NnBkzLSjd7WYMprH+DXvnhsVdbCHhsGEDUpgIcRxWMdI5XOi5auhDOnHqT1LWENEEduWB/WXCGVebM7Nf//7g1nz3szNQanP1oB5aSTOL5F1Zx9MpKO1TN/ZPfRixNcyzJyT1jz5SPzfw3W1E5ZEc6gANrQxlP+Zmmn/ub3BWmZYxzdkQoaCIEudxzR293HxtQN8VlmvxxKFeNpR0Miyod1Hi2RMLsCsoW0/DfkWGX68NNvYKhsCv2ryjsQfMTmx0Rn0i4REo8se61J2x8o4yXobYRIouMS6CZOhFQsyY4BfKqQFPk3vQEN3HoqD/Rv07mko2ZZGSXLEFJxyAxEgoYB1GK6NzY0Bp2+8VWd5R2I=;yUsOkEoZJaQKQ8oYpuy/Zw=="
 ---

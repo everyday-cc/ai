@@ -19,24 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "UAE Face Recognition Market Size, Trends, and Growth Forecast, 2025"
-    excerpt: "(MENAFN- MarkNtel Advisors LLP ) MarkNtel Advisors recently conducted research that showed the UAE Face Recognition Market is expected to grow at considerable CAGR through 2025. The market ..."
-    publishedDateTime: 2022-02-14T11:49:00Z
-    webUrl: "https://menafn.com/1103692260/UAE-Face-Recognition-Market-Size-Trends-and-Growth-Forecast-2025"
+  - title: "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ..."
+    publishedDateTime: 2022-02-16T14:23:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 65
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI Chipsets Market Growth Analysis, Outlook by Trends, Opportunities and Forecast"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 06:37 /Comserve / -- AI Chipsets Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
+    publishedDateTime: 2022-02-14T12:50:00Z
+    webUrl: "https://menafn.com/1103692353/AI-Chipsets-Market-Growth-Analysis-Outlook-by-Trends-Opportunities-and-Forecast"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 39
+    quality: 32
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
         width: 375
         height: 250
         isCached: true
-  - title: "Voice User Interface Market 2030 | Top Impacting Factors That Could Escalate Market’s Rapid Growth"
-    excerpt: "Rise in the adoption of smart speakers in the residential industry, due to the offer of control over smart home application solution through voice recognition drives the growth of the segment. However, the smartphones and tablets segment is projected to ..."
-    publishedDateTime: 2022-02-16T04:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-user-interface-market-2030-top-impacting-factors-that-could-escalate-markets-rapid-growth"
+  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
+    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
+    publishedDateTime: 2022-02-16T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
     type: article
     provider:
       name: Digital Journal
@@ -44,6 +58,20 @@ related:
     quality: 10
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
+    excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
+    publishedDateTime: 2022-02-14T05:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-camera-market-size-share-trends-high-growth-rate-business-opportunities-demand-revenue-impact-of-covid-and-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/2532a3e059750315e745b1ddff96b7a5ea90be9d-600x337.jpg"
         width: 600
         height: 337
         isCached: true
@@ -61,15 +89,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market Size, Revenue Analysis, Function, production, Industry Outlook, Forecast, 2021-2028"
-    excerpt: "Artificial Intelligence (AI) in transportation is used to gather traffic ... Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology. The partnership is intended to combine the automated driver ..."
-    publishedDateTime: 2022-02-14T13:38:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-transportation-market-size-revenue-analysis-function-production-industry-outlook-forecast-2021-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
   - title: "Search and Rescue Robots Market Future Technology Trend ,Size, Share, Business Growth, Booming With Strong Growth Prospects And Forecast To 2027"
     excerpt: "In addition, technologies such as thermal imaging, object recognition, and Lidar mapping are used to help find and save individuals. The United States has been providing Ukraine with a steady supply of weapons in the face of the Russian threat - Copyright ..."
     publishedDateTime: 2022-02-14T12:24:00Z
@@ -84,15 +103,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Generic Oncology Drugs Market Growth Trends, Key Players, Competitive Strategies and Forecasts to 2028"
-    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer."
-    publishedDateTime: 2022-02-16T06:17:00Z
-    webUrl: "https://www.fmiblog.com/2022/02/16/10543-72/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "HZGh/aEkqRUnZSQ+C6Nslwg368avwwGRxY3kJVkoWEtbFHQniz01iKsdgLXsC7p/ok6wHQHRvvz7dRc3Ykw9zava+1ZTV/aEU3APGOTCOx8aM02Aool3WQHZ6WlH8XqJkkymXcQozGhDzBZN/wMzPAhUpjwamVrypP+U2E7b7/sKQJpdXk81JhFRtKnFVZu8nJN4TYWT7n9qGSmDN257ATqTk7m0UCrt5/ProKaItApw6Gv/uV4ocZSLUOYo+1ghg9yuWSQ7Ru0pNJek0RuhhPSY0MNtDdlNOQluLX8iHpCL1Z2QCITdU/uQtfSUphxTrIkC4eAJhFLMklb31Q/+A2A1wrf1igkh8agSt2l9638=;SY3f0g/bOXpGcTmmIxaMHg=="
 ---

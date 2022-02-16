@@ -1,27 +1,27 @@
 ---
 category: news
 title: "The African software developers using AI to fight inequality"
-excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
-publishedDateTime: 2022-02-16T05:44:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
+excerpt: "Digital rights groups warn about AI's use in surveillance and the ... machine learning to translate African languages not typically found in online programmes such as Google Translate."
+publishedDateTime: 2022-02-15T22:01:00Z
+originalUrl: "https://news.trust.org/item/20220216102206-e81gv/"
+webUrl: "https://news.trust.org/item/20220216102206-e81gv/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Thomson Reuters Foundation
+  domain: trust.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483105.jpeg"
-    width: 1240
-    height: 826
+  - url: "https://news.trust.org/contentAsset/image/77d1bae1-ca7c-4e0e-8717-dfa785de5fa1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+    width: 1100
+    height: 527
     isCached: true
 
 related:
@@ -72,6 +72,6 @@ related:
         height: 276
         isCached: true
 
-secured: "zK/F47ZE+l5xrKSuMIxJxwDCZ85de85yb3dWUJ0Bats6af8N7sdj5aU/GfVXuhQDG2W1AWc5dp9MEGJaf2IVlVx+swY46zRPVwP4cJUMK4rUWMs68qXSTMt8xFoKnGCar7LPPWzRQqs5m/SkGouUfo20iHSvIEJIrKc5OXcFnKjn3XOD/l6A41cX5r8F+F6lpexyhzK0SbfhOfriz/3kTQdQ3MAslaLK6dWSYQXQUywvly8R3w8V98K4q3w9ouPdx+K4nc40XCFk9rpxsFd1DdG7bc2Oku50afYYwSGJsKz86BthwPT92l7wpuNoFLL4VgQVC9rqhGqzMhIpzt0WblY/gcKzQsqiWpcnMJawZy0=;QoqwSG3OMhgVILLhKuJ0hA=="
+secured: "EDXCj/lxyRdLCwPeSBF0WyHyDscPnbNWwnGXQ1twz7LfBmdqG5hO1W+dNFRi/QkTsny6zmF+FiYgU3kZjZqm0zlcmuUAtTovmdhsXww9v0qI7vANtwv/yx9aqW4oWTxRK3M48Y0C2f6shtbxJ51YB2tcsROzD+30Xr1/ZXHTg1/u8FQuO6uSOcHNjnr4Fvf7sx32r2TETMMryGbO9eRUBjXzS/RwcQqKfm4KIjpnLS2ElYRQ8OniKH8CxaY9b/zEhKrwuiUxaFTJFRRAn9RInmb3VXYmYlI5HqQUeRwNaXaYbOFHjMbdIfL0V6iblPkJzsbrs7FkaB1WVyYIj/rsCTo6hUenKNlasELIkV+YE5Q=;FJPPz2WCjKf763HgtU/Eqg=="
 ---
 

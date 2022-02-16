@@ -4,19 +4,19 @@ title: "Reliance’s Jio Platforms Invests $200 Million In AI-Driven Mobile Star
 excerpt: "Indian billionaire Mukesh Ambani’s Jio Platforms, the tech arm of Reliance Industries, has invested $200 million in multinational tech company InMobi’s mobile content startup Glance. Glance, backed by the likes of Google and PayPal cofounder Peter ..."
 publishedDateTime: 2022-02-15T06:30:00Z
 originalUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/"
-webUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/"
+webUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/?sh=3a20b79740a4"
 ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/"
 type: article
-quality: 82
-heat: 112
+quality: 182
+heat: 212
 published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -70,6 +70,6 @@ related:
       domain: indiatimes.com
     quality: 13
 
-secured: "9RbTLBl81Zmc6wiV+LS1YiR5qS/OvCgoCw1iKvhvXh/VjOcPZFH/S/dHdcFkfxP58IsyUACTEJbc+vQRn5RPfnY8PxU9/hsY6kxUVfKC2kvfeAm0cVFhKCglCuh6g43REJzUovfwkBi0iQAMsHCks+W0JWpe/cubjZ6nhsyyf1/Fjld/bq+JD6UkCpL6+cDKKDhSZUrzhmaPYLMjFtwxsA8+TWUE6DpLO3QCCwmN4/5zgAY6Ou0aCxZGzgP9mFEf0ArrBREzvQDp9cFhzVAJDSG4OenCcVfJ0LvmgFsco13CibD1U78YbGteobsdU54g9Sd2ser+IykPx4pMnR30XYsuVR1ZADK+zRmLNdj6QzvXGLZvJrqch7Tk7kBDtbaPbOVmZ9/rvUR/22tluReI+rskskHy92oQIBoQSaxdsDH+iXi5OiUFd99pPGtpAVrrdk4hMByzcoD/QNhbqrPHCg4OhppLA0E/I3ovSJeA2xDnNDErxiNB/+nF+pBdDRhIgHyPOdXP2TBAFVg/ZIcyRQ==;/h4jLmj0ekyMaw30YCuThw=="
+secured: "18QZYJNQZKZpakkuM8QAbcR89jIa4N5Jy27knsRYZCXyKQMRqX9jXRvuADZltwrd6zXOtOsTg48eWEtJDU8BGFa0nitcBLpJsJFUWqgU2MJd08FQlVXDALeyENx0h7XlMWHLW4cERvbAOf/yJjQTd2WiKrbGLLu/HewAp9FKAeCFc29bKV3An7ruJPuZ4vPhECZPSSwPSwqUk9tJofzBA7/Kyxk7PPO6QZG0bVTahYm8pzIP5bdt9Ex+DCtKvkuk4ysCfAVDnJwM8Zd9YBh1kaZpI6mVoLJT38V1a4KtYIE+WIJAw/RhdBXhiDHMFk0J3dvSvRZlpyIzOQReeCXcwL6m6mvf2w6zOQAywceDekI=;01ma+6MuGhUNp2HD6R+vUw=="
 ---
 

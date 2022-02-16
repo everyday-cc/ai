@@ -25,77 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Europe needs to hasten AI in manufacturing adoption"
-    excerpt: "When it comes to automating processes in the manufacturing industry, AI is a key technology component in making it happen. Today, AI in manufacturing has a myriad of use cases that can not only help businesses have better businesses continuity and ..."
-    publishedDateTime: 2022-02-14T02:14:00Z
-    webUrl: "https://techhq.com/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
-    ampWebUrl: "https://techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
+  - title: "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ..."
+    publishedDateTime: 2022-02-16T14:23:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 57
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 65
     images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2022/02/000_9XR4C2-375x210.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI Chipsets Market Growth Analysis, Outlook by Trends, Opportunities and Forecast"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 06:37 /Comserve / -- AI Chipsets Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
+    publishedDateTime: 2022-02-14T12:50:00Z
+    webUrl: "https://menafn.com/1103692353/AI-Chipsets-Market-Growth-Analysis-Outlook-by-Trends-Opportunities-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
         width: 375
-        height: 210
+        height: 250
         isCached: true
-  - title: "Sustainability goals in manufacturing need a boost with AI"
-    excerpt: "Moving sustainability goals from the boardroom to the control room will need the power of AI to truly reduce emissions, says Jane Ren, founder of Atomiton Jane Ren, CEO, and founder of computer software company Atomiton explains how artificial intelligence ..."
-    publishedDateTime: 2022-02-13T08:00:00Z
-    webUrl: "https://manufacturingglobal.com/ai-and-automation/sustainability-goals-in-manufacturing-need-a-boost-with-ai"
+  - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
+    excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
+    publishedDateTime: 2022-02-14T05:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-camera-market-size-share-trends-high-growth-rate-business-opportunities-demand-revenue-impact-of-covid-and-forecast-2027"
     type: article
     provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 37
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
     images:
-      - url: "https://assets.bizclikmedia.net/668/08290eaf858c9115ef8d79b0cc4bca21:e246ad4e350201ecb8a454164fea0aba/gettyimages-1291013803.jpg.jpg"
-        width: 668
-        height: 504
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/2532a3e059750315e745b1ddff96b7a5ea90be9d-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "AI Takes Manufacturing Beyond Industry 4.0"
-    excerpt: "Now AI takes the lead role while humans are supervising. AI can schedule automation and predictive maintenance. It has more tools under its control. You can start tying multiple cognizant tools together. As AI becomes more autonomous, humans will still be ..."
-    publishedDateTime: 2022-02-14T16:38:00Z
-    webUrl: "https://www.designnews.com/automation/ai-takes-manufacturing-beyond-industry-40"
+  - title: "Machine Learning Market Future Trend, Global Demand and Current Scenario by Forecast to 2027"
+    excerpt: "Machine Learning is a part of Artificial Intelligence (AI) that grants computers the capability to learn without being detailed programmed. Machine learning market mainly focuses on the improvement of the computers programs that can be switch when reveal ..."
+    publishedDateTime: 2022-02-14T13:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-future-trend-global-demand-and-current-scenario-by-forecast-to-2027"
     type: article
     provider:
-      name: Design News
-      domain: designnews.com
-    quality: 37
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/feature_42.jpg"
-        width: 1540
-        height: 800
-        isCached: true
-  - title: "Manufacturing AI Is about Good Data, Not Big Data"
-    excerpt: "For manufacturers who’ve yet to implement AI, here are four steps to getting started with a data-centric approach: 1. Involve the subject-matter expert on day one. Today, many manufacturers start with an AI team of IT engineers who train AI models ..."
-    publishedDateTime: 2022-02-14T22:41:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21216847/manufacturing-ai-is-about-good-data-not-big-data"
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+  - title: "Speech Recognition Market Scenario, Future Scope, Size, Share, Business Analysis, Opportunities, Challenges, Growth Drivers and Impact of COVID"
+    excerpt: "Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner exponential traction by 2027, registering a colossal CAGR during the review period (2020-2027). The speech recognition market is proliferating globally."
+    publishedDateTime: 2022-02-15T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-scenario-future-scope-size-share-business-analysis-opportunities-challenges-growth-drivers-and-impact-of-covid"
     type: article
     provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 37
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
     images:
-      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/02/manufacturing_ai.620ad6734f18a.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "The network effect: Southeast Europe now has everything a start-up needs"
-    excerpt: "Dronamics is now valued at around 125 million euros and the firm is proof that for the right start-up with the right idea, a SEE location is no handicap to success, as is FlowX.ai, an enterprise platform that enables banks and financial institutions with ..."
-    publishedDateTime: 2022-02-16T06:00:00Z
-    webUrl: "https://emerging-europe.com/business/the-network-effect-southeast-europe-now-has-everything-a-start-up-needs/"
+  - title: "Search and Rescue Robots Market Future Technology Trend ,Size, Share, Business Growth, Booming With Strong Growth Prospects And Forecast To 2027"
+    excerpt: "In addition, technologies such as thermal imaging, object recognition, and Lidar mapping are used to help find and save individuals. The United States has been providing Ukraine with a steady supply of weapons in the face of the Russian threat - Copyright ..."
+    publishedDateTime: 2022-02-14T12:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/search-and-rescue-robots-market-future-technology-trend-size-share-business-growth-booming-with-strong-growth-prospects-and-forecast-to-2027"
     type: article
     provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 21
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
     images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2022/02/bigstock-young-friends-working-together-382080113-1024x682.jpeg"
-        width: 1024
-        height: 682
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "gIZXFaWSdUqgHHTR5Kowzm2t92NBOb7lu16SB0fEGlnAA12YR9qQ1HTuX37Hy/GbrS9HL2JwDYVluKCUBod4UyUnacnL4lwIzwz//uzTKe+7TAPLiJ30LPDsU3+JUz5bkXfC32bAKKoI5PeGRFVYRMRiPYjcS76VKxJD1ADpgMCvb7AlRpXmAFS979HibBSPku4VEXIZat/5kAsEGu//G0qtWIHwNlv9hNsx/rIpzR3SNO+uiGITEVVnPHi4vhQJ/xEq5QioQeiSkRltOITgKye1OPPzpiyN07uqI9IWJn7FypyF+PvF2jr3IhZQT7eatbaW+8HycyVs/NHzqgTY5wBrxVeTk9fp+aJGcDWPWRA=;3LY3FtDzWZ3RpFowez6Uww=="

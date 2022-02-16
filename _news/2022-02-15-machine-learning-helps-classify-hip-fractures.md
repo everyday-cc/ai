@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-classify-hi
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medindia
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Can Assist in Hip Fracture Classification"
+    excerpt: "February 16, 2022 - A new machine-learning method used to identify and classify hip fractures has demonstrated its ability to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath identified and ..."
+    publishedDateTime: 2022-02-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-can-assist-in-hip-fracture-classification"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-can-assist-in-hip-fracture-classification"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-can-assist-in-hip-fracture-classification"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-912319336-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Machine learning outperforms clinical experts in classifying hip fractures"
     excerpt: "A new machine learning process designed to identify and classify hip fractures has been shown to outperform human clinicians. Two convolutional neural networks (CNNs) were able to identify and classify hip fractures from X-rays with a 19% greater degree of ..."
     publishedDateTime: 2022-02-11T23:15:00Z

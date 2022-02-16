@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-educati
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The Use of Artificial Intelligence in Streaming Services"
-    excerpt: "Artificial Intelligence or AI plays out a significant situation inside the OTT business in heaps of ways. From content material revelation and content material improvement to video ordering and upgrading the high-agreeableness of virtual pictures ..."
-    publishedDateTime: 2022-02-11T21:56:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2022/02/11/451487-use-artificial-intelligence-streaming-services.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-feb/7749977819-artificial-intelligence-3382507_960_720.jpg"
-        width: 960
-        height: 640
         isCached: true
 
 secured: "Zu2jr8X8+FeOfwMRcKURdfHly8HuC4G/znWx8IbUyG9aIMzT4g6TIHNW1XcDWzQOKuiFpzMVBBPSd17Ruoe756RE4k/D4P393ct45l2w/fxXAuIno791Ln2n5L24kPjbAzhBgcGngJLkhUn4OfzZTt8YMaIF+30W1fapkOggAlx+ruwGWTqjEnPlwo0s4PVAlkmgkqPjs1VMbtdHiU/aMnbtibNS2FVCDiTv03P79+Tis38ltrNUySC1rhRmL8iTicGyco6mpJQtknvOp4jGVLybz0RjotRVQKVUpOaN2JYQEqimB4Rofo+AGD1xc5UrbwhyAvkgKeia9JZCijbpkWHAanEc2kQIn01i0r+tofpBgVgiroltAN4zuODnURnuZIQUvuWHn3Y6Wix0oqa9KCynfr2jTknzFU0N770ftQTPqCC7KpeEDUIfojEgWVzC1KAmzyTBFDwz68sBSmM+jJpAICytxbjkhRopAiTLNMNPR+DukQUtRffpDWqAiHyszBSuQBR8N8Vpu9KYqwYZQA==;QDO9zZpjDQYSBncZvJZ3nA=="

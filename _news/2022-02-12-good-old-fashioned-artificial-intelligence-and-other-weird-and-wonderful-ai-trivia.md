@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/good-old-fashioned-artificial-intell
 webUrl: "https://analyticsindiamag.com/good-old-fashioned-artificial-intelligence-and-other-weird-and-wonderful-ai-trivia/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Embedded AI based Noise Cancellation for Headphones and other devices"
+    excerpt: "SAN JOSE, Calif., Feb. 16, 2022 /PRNewswire-PRWeb/ -- Meeami to offer small footprint single chip AI based Noise Cancellation solution for Headphones and Smart Home Devices Meeami Technologies (Meeami®), a pioneer and leader in audio AI, noise ..."
+    publishedDateTime: 2022-02-16T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/embedded-ai-based-noise-cancellation-for-headphones-and-other-devices/article_faa9bbf3-ee5e-555d-8e9d-0f72ebf0ef74.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "TUak9h1XOvWSVCaKXr/GRGLbslALCcUTPZZpwHj0IrR/PWY5y5LtoDUyAT6saFl553/d8hdDMv9ysSTS4d4pPh6zbFEC3nX1cL7aF0dCg3lSpCO8OTCwFwaLxvIYdXqtnGRgINpchnxj0Ylga7erY3aDPkHAMsTjr6onHybZgXViHsVsPUkzVPzlj9A9+7Xagk/lugcarjPUEH7g2ch7iq5TEsu4E/W1hu6ovOiG1Lg2qYw6rK+bT6ct45HjPYhnVaB/MBm2wRdhqdUykkPMralq/Y809yWzRb7h9V7yKHBFo1JioGqFSGuTS08L0brShzJuk2zmkhPwEZZ87wiarCEFY0ZlF6f0VdBhu9CwvXJWhAPSFY7JlaViVglRqrvjydpJ7dqLxiSqqNT2By2r33BkSuyi92ULHPISwSGCDY1Bz8BAxrjYtUWO3nBbcGRTgNspRgFHTML/ySavs/tdTZRA9Ug9Yu/c3tUw6WCSMa+/ggHizU6GQSOE2E7dWY7l9YmB7ZJ0EItIHkzkpq+B3A==;4r0mDj8+pf0+ChZBTzASvw=="
 ---

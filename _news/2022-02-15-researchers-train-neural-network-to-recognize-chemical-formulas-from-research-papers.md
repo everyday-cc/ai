@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-02-neural-network-chemical-formulas
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-neural-network-chemical-formulas-papers.amp"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore.com
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 269
     isCached: true
+
+related:
+  - title: "Neural Network Can Recognize Chemical Formulas From Research Papers"
+    excerpt: "Humanity is entering the age of artificial intelligence. Chemistry, too, will be transformed by the modern methods of deep learning, which invariably require large amounts of qualitative data for neural network training. The good news is that chemical data ..."
+    publishedDateTime: 2022-02-16T10:19:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/neural-network-can-recognize-chemical-formulas-from-research-papers-358621"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/358621/neural-network-can-recognize-chemical-formulas-from-research-papers-358621-640x360.jpg?cb=20220216"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "U085P+iMIG+RkmhCDDwCUqCZTColeEtOAFEF4G4YSf6oXu13n0MQOiWEjmOqN9X35z9STRP3FOAWPawplHVxG6WhLzQk//p17tPpHrru7Tzt4TfkgjbG6FC4VMmdwEn6ttv9QFS+vrbYiuq3gOu9jzCqYIgmPwZD/z44T4kHoVpH3lGugyvhOREWkF9W+L9B8LVfIEHqAHgEhRjDrMlnwJd0pl6EVlEUQtU4r1ztisCep1kB6DRcVgy649V4bX3DLds5+/wcVyhO5QYrrnke7q9xvdPGyMl+Po64l+mJOI0XHJKKiPD7SbJxurebMuRmiPAzrS9SACMN3bfRiONbhz3a2IGFsvDyscy8kGi9sOE=;s7WiI9jb3xClAePWDZdIrg=="
 ---

@@ -82,20 +82,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
-    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
-    publishedDateTime: 2022-02-16T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "lbijgUEh92CQZ1eYPzOn8tcXVOO80nt4sDXKxhOHrDwXDSuxnSzof7i0v+aAguSRUodKPhk/m9/i8KkGgwBumsEdSwMwhZljKGy0mvKtNO2DndBnuJfStvuqdl4UWeI0Shh+rfsi0Co0lGr0yPFXtylUFgFipU/sBUIsW514NmIcyx8WdXGU1EJWkyWeKOzaLnJ6UgukrMgkcP0it+7EY+HQIPBVK1MSdtQqKoAQYzcSbR5vr655RKqs9x3n0i3N5Bxhjalzq1ET3+Sk73x9BcZr3De4X5wqlEjZGV+Mx4DAKqVcsVhCHHSG6amMZChUV2igEgw10lGfo5xk2Hy8SVcpKf37CvWYY/80//kCjFPB6ZYm0+DQ3AHalmwYpf/MrOdvZ04O6MQxlwH++nUjTs80rxlRPVzZPTTurpKg2auenQRzGWftjdJwlCc3XG7Z3/u4DCgtowa1CNV2UoWnF1tKBe1TcuJjIYQva0WEsGekTV/tx0jKkc8SM2ye2/+eviXI2iHZ1Z9BMlS+E041Vg==;Vu9Vf+8u7LOmacYtBeqwEA=="
 ---

@@ -44,18 +44,18 @@ related:
         height: 438
         isCached: true
   - title: "The African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-16T05:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
+    excerpt: "Digital rights groups warn about AI's use in surveillance and the ... machine learning to translate African languages not typically found in online programmes such as Google Translate."
+    publishedDateTime: 2022-02-15T22:01:00Z
+    webUrl: "https://news.trust.org/item/20220216102206-e81gv/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Thomson Reuters Foundation
+      domain: trust.org
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483105.jpeg"
-        width: 1240
-        height: 826
+      - url: "https://news.trust.org/contentAsset/image/77d1bae1-ca7c-4e0e-8717-dfa785de5fa1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 527
         isCached: true
   - title: "'Devnagri' Presented Machine Translation Engine that Translates Instantly with more than 85 percent Contextual Results"
     excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagris platform combines AI and human-powered translation with Machine Learning. They are powered by ..."

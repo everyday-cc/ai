@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-nex
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2022/02/Web-images-Feb-2022-7.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "2034. Ai's own Universal Language."
+    excerpt: "In November 2016, two months after its Neural Machine Translation (GNMT) system was switched on, Google found that the AI computer had developed its own internal language to represent the concepts it uses to translate between other languages. Google ..."
+    publishedDateTime: 2022-02-16T12:55:00Z
+    webUrl: "https://www.linkedin.com/pulse/2034-ais-own-universal-language-agustín-borrazás-raffo"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH3BS7iCG2Nwg/article-cover_image-shrink_600_2000/0/1645015392405?e=1650499200&v=beta&t=lVAtOkzAcSuTaDkdXcsHoXOw-TMKsJkNqsVoEA4FuzM"
+        width: 600
+        height: 600
         isCached: true
   - title: "Customer Experience in the Age of AI"
     excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."

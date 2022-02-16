@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufact
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://emerging-europe.com/wp-content/uploads/2022/02/bigstock-young-friends-working-together-382080113-1024x682.jpeg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
-    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
-    publishedDateTime: 2022-02-16T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "opxHk9h+bdZzYtTlziIPIG85SXntxn8ekZ02Oz8B04j5QiSdLFDGkBvGQmYlcJr9QZ6UUaWozZDrgLQT3Gb5sSjAdI1mVMkAmUh7f3n2JHf0o3xA4O1GNDy1GvKlnda8/wZx4BCwzq/usTj629sq55TZOZ4xCpL94yIlVgWXPZvi7W5tjc560t+cPLzaN8kB/NOxcNQDnAEuZNEhhvkeCnuN7dmstOLwHh7Fl1A3429euv1IAjWeKkJ5mzLLa8jh5qYd8Cu2t2Ws+cwjh1LMXqlvsdKghd2GliB0WA+jcop4xhGVN1tG5OP2w6Dl+2g7eFe2unS2JhpinHt6ptI3enpw6jxR41FgOg616CmsZ+Q=;75Ap7Z7oLofcQrUVZ5kMrg=="

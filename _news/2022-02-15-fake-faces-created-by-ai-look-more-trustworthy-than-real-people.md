@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2308312-fake-faces-created-by-a
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308312-fake-faces-created-by-ai-look-more-trustworthy-than-real-people/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI generated faces are MORE trustworthy than real faces say researchers who warn of “deep fakes”"
+    excerpt: "but nearly indistinguishable from real faces and are even judged to be more trustworthy. “Our evaluation of the photo realism of AI-synthesized faces indicates that synthesis engines have passed through the uncanny valley and are capable of creating ..."
+    publishedDateTime: 2022-02-14T23:18:00Z
+    webUrl: "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 124
+    images:
+      - url: "https://www.pnas.org/content/pnas/119/8/e2120481119/F1.medium.gif"
+        width: 361
+        height: 440
+        isCached: true
   - title: "Humans Find AI-Generated Faces More Trustworthy Than the Real Thing"
     excerpt: "Baik Kyeong-hoon, director of the \"AI Yoon\" team, makes a video clip using \"AI Yoon\", a digital avatar of South Korean presidential candidate Yoon Suk-yeol of the opposition People Power Party. The images on the screen demonstrate how far artificially ..."
     publishedDateTime: 2022-02-14T20:03:00Z
