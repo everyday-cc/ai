@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
+      "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
+      "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe/ar-AATr2HE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
+          "width": 5496,
+          "height": 3664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+      "publishedDateTime": "2022-02-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+        "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20.md",
+      "title": "Proofpoint Announces 2021 Financial Results; Completes V-Shaped Recovery with Both Revenue and Billings Growing More Than 20%",
+      "excerpt": "(the “Company” or “Proofpoint”), a leading cybersecurity and compliance company, today announced year-end financial results for 2021. “Our strong 2021 results are a testament to our team’s consistent execution and dedicated focus on protecting our customers from advanced threats and compliance risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8469007/proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8469007/proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
       "title": "Does AI Improve Human Judgment?",
       "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
@@ -1105,110 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-how-video-games-could-be-used-to-generate-ai-training-data.md",
-      "title": "How video games could be used to generate AI training data",
-      "excerpt": "Some researchers believe that video games could be used to more effectively generate AI training data. But they're not a perfect solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/super-nes-switch-controller.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
-      "publishedDateTime": "2022-02-02T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-investing-in-ai-stocks.md",
-      "title": "Investing in AI Stocks",
-      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

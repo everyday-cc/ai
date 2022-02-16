@@ -99,6 +99,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 0
+  - title: "Generic Oncology Drugs Market Growth Trends, Key Players, Competitive Strategies and Forecasts to 2028"
+    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer."
+    publishedDateTime: 2022-02-16T06:17:00Z
+    webUrl: "https://www.fmiblog.com/2022/02/16/10543-72/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "Ru5Iah3SHGlvIYwVrT/zB73MBEw5ENOe13NHHyLJpWAVYcNzg6u0W+vnCpg1lNYDL7fXm9SdViQegV7leus7PUgxiU1LniVUHJywQahv1XTXB+6a3lotjEOfq2OAG7LGvJ1QjMVdhyoxCtV9ek13nSRVj+pfgVq33IDs0zvAkMNR4w2D7UVRmpEyBEWqMWv7n4n7EfLvZ/JA7Uk5lxa4zbde7GgfeBt06dc+7npqRnK/nIM6eJWhWu0LFf+4M4U5grbs9Ud9PPvhLbIGXU9CESQHIqmKWrjQl1tJhA5PqvyafTjPyq7LUzdmqocLOTP2MHN10S4YtE91uMBm9ax+BriSRHooExY6vvmF1qQTZ9o=;T+HAlsxhVf8ksGxrKlTgow=="
 ---

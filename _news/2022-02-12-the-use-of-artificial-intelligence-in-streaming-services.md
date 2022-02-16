@@ -112,20 +112,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The dark side of Artificial Intelligence"
-    excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
-    publishedDateTime: 2022-02-11T13:12:00Z
-    webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF6Ivgx0ARsEw/article-cover_image-shrink_720_1280/0/1644578178017?e=1649894400&v=beta&t=BQWlqTiWMAf_M-GhvqL_SDe4Dd9eXw23XOaJOgR6a1E"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "48soJ+uJx9QDNwbM8ZxeSR+exzlpmGjU72Z6aGzqc/hFmxKe+7FHubFDwATYBetpyCAckw+eCyxmyXYnpdy1AYSRzSIW8PxoaQJxiDiVy/P0h3fJM6UwRzPhffEKKn74yQev/j+NqZ9t9nB+XNG4mvFWnxzIk8rpX/Tlat9YBjlMztrhsepv/iBigqFHaopV0EA2dQPSGYMXQB0HRzHZFt7XtUWrnQoLxVHOe2RoD46voI3/COiNxw+gQ9yt7LaVWCc608VEUAiOaDcLCU8aoIm6/GIQKsTwSKCEiVA8srjbOLgE8HOyoIqZcP1RvSJEiN4qOOFRdN+Up671aihjS7VViYQox/l7ON6MnKSut7q7h0cfwa7ks7rodfkA/zfNq/ewOafNQFYttqog/d1vimiDC+WwgFr1UyRiUUHm7aCGyh+PyiclQ+jbCRjP0zz6OAwQ9yrvYXxaNSOPYc6nb5Bjbo3CHUWcmaR3ipIwm6pLTVMdTyRlFy/j9lQZ1vr3erRgNiWaQi5FiE/inLNTWA==;7jctB0JItkXIhOTUmtwWlA=="
 ---

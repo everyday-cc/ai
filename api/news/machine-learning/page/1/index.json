@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-15-gtt-group-to-sell-neural-network-ai-machine-learning-portfolio.md",
+      "title": "GTT Group To Sell Neural Network AI Machine Learning Portfolio",
+      "excerpt": "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25639015",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25639015",
+      "publishedDateTime": "2022-02-15T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-scientists-just-gave-an-ominous-warning-about-artificial-intelligence.md",
       "title": "Scientists Just Gave An Ominous Warning About Artificial Intelligence",
       "excerpt": "Research lab OpenAI's top scientist has made a controversial claim, one that could upend the artificial intelligence (AI) market and already has other scientists up in arms, according to Futurism. Ilya Sutskever has claimed the largest neural networks may ...",
@@ -295,6 +338,49 @@
         "AI",
         "Machine Learning",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-iot-development-tools-work-on-ultra-low-power-psoc-6-mcus.md",
+      "title": "IoT development tools work on ultra-low power PSoC 6 MCUs",
+      "excerpt": "Additionally, they can use an AutoML cloud platform to train models without extensive AI expertise, and then deploy the resulting models on the PSoC 6 MCU for use on edge devices. Ideal for battery-powered applications, Infineon’s PSoC 6 MCUs are built ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
+      "originalUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://czdfw1kuw9n20zm0l7pmfb1a-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/scope-finder.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1193,8 +1279,8 @@
       "title": "Artificial Neural Network Market to Witness Growth Acceleration | Alphabet Inc., International Business Machines Corporation, Intel Corporation",
       "excerpt": "Feb 04, 2022 (Heraldkeepers) -- Artificial neural network refers to a biologically inspired sub-set of artificial intelligence patterned after the human brain. An artificial neural network is the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04?mod=search_headline",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1325,102 +1411,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-ai-can-be-a-powerful-tool-in-drug-development-discovery-tellius.md",
-      "title": "AI can be a powerful tool in drug development, discovery: Tellius",
-      "excerpt": "AutoML and predictive machine learning can also help prevent workflow delays that impact quality processes. When elevating marketing efforts and boosting market share, AI analytics and decision intelligence are critical to performance tracking, sales force ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2022/02/03/ai-can-be-a-powerful-tool-in-drug-development-discovery",
-      "originalUrl": "https://www.outsourcing-pharma.com/Article/2022/02/03/ai-can-be-a-powerful-tool-in-drug-development-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-can-be-a-powerful-tool-in-drug-development-discovery/13213325-1-eng-GB/AI-can-be-a-powerful-tool-in-drug-development-discovery.jpg",
-          "width": 750,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
-      "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
-      "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y26,safe&fit=crop",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "publishedDateTime": "2022-02-03T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

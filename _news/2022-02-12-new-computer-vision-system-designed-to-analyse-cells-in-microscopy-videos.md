@@ -39,20 +39,6 @@ related:
         width: 1882
         height: 944
         isCached: true
-  - title: "New computer vision system designed to analyse cells in microscopy videos"
-    excerpt: "Researchers at the Universidad Carlos III de Madrid (UC3M) have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in order to characterise and describe the behaviour of the ..."
-    publishedDateTime: 2022-02-11T14:56:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/943185"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bbff1c78-01a8-40b7-8ee6-567947729bec/Rendition/low-res/Content/Public"
-        width: 700
-        height: 351
-        isCached: true
 
 secured: "i6XC5na3RdPSnCFrYUJr7ohIX6aXh7wsGpdrV8RDkBFsA0lWGv9dpmk+Q4I77C7yRkV6Vkro3KsxSkERFNcO1uSiproaUnI31V7w0CnmzxahcjelXu2k6mK2uR9NtRLJzaihHozDT4z+T/kwJtWlTMOH9Mhh61Ah1yFHeBkE4+DRWT+cR9s0+RPlcJlrszeeXhZ9mhdvEHZgMj7Ty+eyNF5glnVYieTj9TrdClFcaUUE+sj/gRXXA9eVqUmlZfSXTJ9rorfPNAZE9IdTHldzABrfO61sgyBiMSNIotLEApWAEhbMKV3+JmBDuedhgcU5ZJ4KjNc71jGpa7Qd6Rnmqw6c/YDPovEVWWfiLgtdEUA=;JG1mEVyTJePSlCEPBMbL6w=="
 ---

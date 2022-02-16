@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-12-bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci.md",
+      "title": "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI",
+      "excerpt": "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ...",
+      "sourceUrl": null,
+      "webUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
+      "originalUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
+      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
+      "publishedDateTime": "2022-02-11T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha TV",
+        "domain": "odishatv.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-tunisian-start-up-uses-ai-to-help-remote-african-hospitals.md",
       "title": "Tunisian start-up uses AI to help remote African hospitals",
       "excerpt": "Innovations Tunisian start-up uses AI to help remote African hospitals Posted A MedTech startup in Tunisia is providing solutions using artificial intelligence, e-reporting and radiologists' expertise to help remote-areas hospitals with limited resources.",
@@ -156,7 +199,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -329,21 +372,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-11-new-computer-vision-system-designed-to-analyze-cells-in-microscopy-videos.md",
-      "title": "New computer vision system designed to analyze cells in microscopy videos",
-      "excerpt": "Researchers at the Universidad Carlos III de Madrid (UC3M) have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in ...",
+      "path": "_news/2022-02-11-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
-      "originalUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_dc9a2284-ba43-5e67-ac54-b9af90e5631a.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_dc9a2284-ba43-5e67-ac54-b9af90e5631a.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-computer-vision-sy.jpg",
-          "width": 1882,
-          "height": 944,
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -351,13 +394,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
-      "publishedDateTime": "2022-02-11T07:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1155,58 +1198,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-augmented-reality-finds-a-foothold-in-cars-via-safety-features.md",
-      "title": "Augmented reality finds a foothold in cars via safety features",
-      "excerpt": "“So we solve it in the way that we constantly visualize what the car sees and provide object recognition for the driver. We also visualize what the car thinks, so you know what the car is going ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/",
-      "originalUrl": "https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Basemark_BMW_Press-release-2022-02-09.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/amp/",
-      "publishedDateTime": "2022-02-10T16:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

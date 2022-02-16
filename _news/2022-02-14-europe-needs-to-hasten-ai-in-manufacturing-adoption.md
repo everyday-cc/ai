@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufact
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/europe-needs-to-hasten-ai-in-manufacturing-adoption/"
 type: article
 quality: 57
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -67,6 +67,34 @@ related:
       - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/02/manufacturing_ai.620ad6734f18a.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The network effect: Southeast Europe now has everything a start-up needs"
+    excerpt: "Dronamics is now valued at around 125 million euros and the firm is proof that for the right start-up with the right idea, a SEE location is no handicap to success, as is FlowX.ai, an enterprise platform that enables banks and financial institutions with ..."
+    publishedDateTime: 2022-02-16T06:00:00Z
+    webUrl: "https://emerging-europe.com/business/the-network-effect-southeast-europe-now-has-everything-a-start-up-needs/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 21
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2022/02/bigstock-young-friends-working-together-382080113-1024x682.jpeg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
+    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
+    publishedDateTime: 2022-02-16T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "opxHk9h+bdZzYtTlziIPIG85SXntxn8ekZ02Oz8B04j5QiSdLFDGkBvGQmYlcJr9QZ6UUaWozZDrgLQT3Gb5sSjAdI1mVMkAmUh7f3n2JHf0o3xA4O1GNDy1GvKlnda8/wZx4BCwzq/usTj629sq55TZOZ4xCpL94yIlVgWXPZvi7W5tjc560t+cPLzaN8kB/NOxcNQDnAEuZNEhhvkeCnuN7dmstOLwHh7Fl1A3429euv1IAjWeKkJ5mzLLa8jh5qYd8Cu2t2Ws+cwjh1LMXqlvsdKghd2GliB0WA+jcop4xhGVN1tG5OP2w6Dl+2g7eFe2unS2JhpinHt6ptI3enpw6jxR41FgOg616CmsZ+Q=;75Ap7Z7oLofcQrUVZ5kMrg=="

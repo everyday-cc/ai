@@ -157,7 +157,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -192,21 +192,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-11-new-computer-vision-system-designed-to-analyze-cells-in-microscopy-videos.md",
-      "title": "New computer vision system designed to analyze cells in microscopy videos",
-      "excerpt": "Researchers at the Universidad Carlos III de Madrid (UC3M) have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in ...",
+      "path": "_news/2022-02-11-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
-      "originalUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.html",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_dc9a2284-ba43-5e67-ac54-b9af90e5631a.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_dc9a2284-ba43-5e67-ac54-b9af90e5631a.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-computer-vision-sy.jpg",
-          "width": 1882,
-          "height": 944,
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -214,13 +214,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-vision-cells-microscopy-videos.amp",
-      "publishedDateTime": "2022-02-11T07:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

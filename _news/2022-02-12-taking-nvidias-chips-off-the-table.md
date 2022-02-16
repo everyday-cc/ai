@@ -29,17 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
-    excerpt: "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ..."
-    publishedDateTime: 2022-02-14T23:17:00Z
-    webUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
-    ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
+  - title: "NVIDIA Hopper GPU: insane 140 billion semiconductors on cutting edge AI chip"
+    excerpt: "NVIDIA Hopper GPU ought to uncover its cutting-edge Hopper GPU engineering during its impending GTC (GPU Technology Conference) in only half a month’s time in March 2022. NVIDIA’s new Hopper GPU engineering whether it be in solid or MCM GPU configuration."
+    publishedDateTime: 2022-02-13T07:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 66
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGqVIGtS42zkA/article-cover_image-shrink_600_2000/0/1644738503810?e=1650499200&v=beta&t=fiyewJRBhPd-zVuotXH58qL8OMd-uppUvTubeC_L0Wo"
+        width: 744
+        height: 418
+        isCached: true
 
 secured: "eGWYtVFcD4hvc0qpGkqYqXqHJ6C3yhNxm5s3ulss9T6EpxfaBcfvWbADSgR8ILVWt8sACJDL9GrYNjxWbC8+Z/bNdmfuOnHb8WNGz+97qWk49WiSR7/plkhz/EHM80ELgvyVasCcvrjVpgg1TzNeFCKK8Sy3ds+qBomFgNPSBV+4Q+ikQVd6CPaj74B8WkJ+H2OxmgLYXCqpDg4mYtZ8Y3ePqWB6w0AZy6mn5z1DboOQvL7m6lcmTAqdqEoQXtxyViJNtXNe1tGToD3RMmBgL/RpdHZjx8ZLc442a5Ot0/9+WdK9IArxDS+zMCaUkPAm2aanvXWw/xP5u8vW3r5X+YAT4MXQ8xyuE7kTTGHuFsUeCQmoEpuO5kSQS8oYRl2eg4vjt5CoYtrxFqLKEbFto8Kt+9pb8eAblhX5/rsXsUgcbqIv9AhfLdY/9ZGG84lldixiY0p5YcaaUop9FqhBuK1h7Tyhdsc6fcaibI2fMr1jQrnDjIPcUSeIqA38vPhKcgxV0vagumEK9oClu4ZMZA==;ECBrvMPDhSY8mEvCcMk1KA=="
 ---

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "The African software developers using AI to fight inequality"
-excerpt: "Digital rights groups warn about AI’s use in surveillance https ... machine learning to translate African languages not typically found in online programs such as Google Translate."
-publishedDateTime: 2022-02-16T00:02:00Z
-originalUrl: "https://nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality"
-webUrl: "https://nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality"
-ampWebUrl: "https://nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality/wcm/d8daf216-dc80-430e-8a9e-c0d62b2b0291/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality/wcm/d8daf216-dc80-430e-8a9e-c0d62b2b0291/amp/"
+excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+publishedDateTime: 2022-02-16T05:44:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483105.jpeg"
+    width: 1240
+    height: 826
+    isCached: true
 
 related:
   - title: "Tunisian start-up uses AI to help remote African hospitals"
@@ -52,6 +56,6 @@ related:
         height: 438
         isCached: true
 
-secured: "Ze2AyCzfbXsurY5m3UlFXeAgI0QFak9j9ql0fa6Tevf1jcXSh/7PvB2KWzuy5lQk1VccByoj1kXWhN4vqIulc56H056OBzPk5LEKq7MucFsOmnDO2Zg2aHcjKVvG4MpQ5KzIgI2uOJdT/FPAk2BPal/kRw4DfC+gJeKwcld3sIXnyjPOs1+bAoVkU97uiYYWMp0hfBuBfUGdczlQOXV4zxfI7Y9bLFNJDqCqDce4noYjUBTjtTamTwK3D5Ubt0E9C/0QTiGMW50lxwj6J57pQsHGGVjz03ZmGokpFfudDQ9mZO/VMlNHQFI9h2AZWd5B2kuNnDkn4+N4Ia+aMwp70p9AuA7nN1aAXFCCz9ZhGeY=;BLNXpcJOzJz0YTYUim7RQg=="
+secured: "U1xqw4oQK/UoWS+S0ToVSGfEogpNH6Z/Re2Cf9Ck6ZKLtp4vEdVfS41PAHBQj/psgc4vbgRA1apR9NiuTKJMovyGOh43/TRXJUoSU7JHZQ1vCCZs6WrxgU8XuUuNDW3gSxmUGbaoEHkDurxdPHN9inmYrYHpqH04xm7ftgtkbNcf7PgXgO9ueHWXnAswlH9l8nY/kMQouGMpQSvxLBJrwrynsfRNCuZHknkH5yjTRw6lnjgXrscxmT5DvtLEMlV4rtzxQnT+M+YKbuzzA2kmvhvvQ1pupC8FsCqNNJTwAk6qfGAY6MqtcC+YwhMfXOltYWn38yjK5fKXQfI3nEsXAGKbaebeUVGMmWBdx800HE4=;3Di2sYSUJlNJ2jHQH/Ej4g=="
 ---
 

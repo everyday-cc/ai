@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-11-augmented-reality-finds-a-foothold-in-cars-via-safety-features.md",
+      "title": "Augmented reality finds a foothold in cars via safety features",
+      "excerpt": "“So we solve it in the way that we constantly visualize what the car sees and provide object recognition for the driver. We also visualize what the car thinks, so you know what the car is going ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/",
+      "originalUrl": "https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Basemark_BMW_Press-release-2022-02-09.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/amp/",
+      "publishedDateTime": "2022-02-10T16:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-muzeros-first-step-from-research-into-the-real-world.md",
       "title": "MuZero’s first step from research into the real world",
       "excerpt": "",
@@ -51,6 +103,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-iot-development-tools-work-on-ultra-low-power-psoc-6-mcus.md",
+      "title": "IoT development tools work on ultra-low power PSoC 6 MCUs",
+      "excerpt": "Additionally, they can use an AutoML cloud platform to train models without extensive AI expertise, and then deploy the resulting models on the PSoC 6 MCU for use on edge devices. Ideal for battery-powered applications, Infineon’s PSoC 6 MCUs are built ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
+      "originalUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://czdfw1kuw9n20zm0l7pmfb1a-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/scope-finder.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1067,109 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing.md",
-      "title": "Fewer autonomous vehicle companies in California drive millions more miles in testing",
-      "excerpt": "Fewer companies tested autonomous vehicles ... reported period, test vehicles with human safety drivers behind the wheel traveled about 4,091,500 million miles on California’s public roads ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theautochannel.com/news/2022/02/09/1104752-autonomous-vehicles-traveled-over-4-million-miles-california.html",
-      "originalUrl": "https://techcrunch.com/2022/02/10/fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theautochannel.com/news/2022/02/09/1104752-autonomous-vehicles-traveled-over-4-million-miles-california.1.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-odaia-raises-138m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies.md",
-      "title": "ODAIA raises $13.8M for its AI-powered commercial insights platform for pharma companies",
-      "excerpt": "Toronto-based ODAIA, an AI-powered commercial insights platform for pharmaceutical companies, has raised $13.8 million in Series A funding led by Flint Capital. The platform combines data analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/",
-      "originalUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Holding-tablet-with-Maptual-App.png?w=1024",
-          "width": 1023,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/amp/",
-      "publishedDateTime": "2022-02-10T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

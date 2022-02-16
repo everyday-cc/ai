@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.cnet.com/a/img/siHq4W98CK1DZnjUDNNGOJaq8Mk=/1200x630/2022/01/23/1b7d5a6f-b387-4fc8-8304-404b063355b7/facebook-meta-ai-supercomputer.jpg"

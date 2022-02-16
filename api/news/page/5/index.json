@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-10-fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing.md",
+      "title": "Fewer autonomous vehicle companies in California drive millions more miles in testing",
+      "excerpt": "Fewer companies tested autonomous vehicles ... reported period, test vehicles with human safety drivers behind the wheel traveled about 4,091,500 million miles on California’s public roads ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theautochannel.com/news/2022/02/09/1104752-autonomous-vehicles-traveled-over-4-million-miles-california.html",
+      "originalUrl": "https://techcrunch.com/2022/02/10/fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theautochannel.com/news/2022/02/09/1104752-autonomous-vehicles-traveled-over-4-million-miles-california.1.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-odaia-raises-138m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies.md",
+      "title": "ODAIA raises $13.8M for its AI-powered commercial insights platform for pharma companies",
+      "excerpt": "Toronto-based ODAIA, an AI-powered commercial insights platform for pharmaceutical companies, has raised $13.8 million in Series A funding led by Flint Capital. The platform combines data analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/",
+      "originalUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Holding-tablet-with-Maptual-App.png?w=1024",
+          "width": 1023,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/amp/",
+      "publishedDateTime": "2022-02-10T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-microsoft-azure-women-in-ai-program-experience.md",
       "title": "Microsoft Azure Women in AI Program Experience",
       "excerpt": "How do I even start?” I somehow ran into a training program called Microsoft Azure Women in AI Program on Google when I searched “how to get certified in Azure”. After hitting that “Register now for upcoming classes” button, I received an AI-900 ...",
@@ -1070,110 +1173,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-navrina-singh-founded-credo-ai-to-align-ai-with-human-values.md",
-      "title": "Navrina Singh Founded Credo AI To Align AI With Human Values",
-      "excerpt": "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6203e02ea9ce90ee549e7ae6/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
-      "publishedDateTime": "2022-02-09T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
-      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
-      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "publishedDateTime": "2022-02-09T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

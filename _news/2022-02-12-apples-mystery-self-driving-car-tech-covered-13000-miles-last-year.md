@@ -9,7 +9,7 @@ ampWebUrl: "https://jalopnik.com/apple-s-mystery-self-driving-car-tech-covered-1
 cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/apple-s-mystery-self-driving-car-tech-covered-13-000-mi-1848522875/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "This company plans to build a self-driving car with a brain that runs on light"
-    excerpt: "One company planning on tinkering at the intersection of these trends is called Lightmatter, which is going to build the brains of a self-driving prototype vehicle. The company’s microchips set them apart from others in the tech industry: The chips that ..."
-    publishedDateTime: 2022-02-11T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/"
-    ampWebUrl: "https://www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lightmatter-receives-funding-autonomous-vehicle/?amp"
+  - title: "Manufacturing for the First-Ever Black-Owned Fleet of Self-Driving Pods Has Officially Begun"
+    excerpt: "JéGO Technologies Inc., a Black-owned innovative tech firm based in Miami, Florida, is celebrating that they have officially begun the manufacturing process for their self-driving vehicles called JéGO Pods. To be released in late 2022, these pods will ..."
+    publishedDateTime: 2022-02-13T18:00:00Z
+    webUrl: "https://www.blackenterprise.com/manufacturing-for-the-first-ever-black-owned-fleet-of-self-driving-pods-has-officially-begun/"
+    ampWebUrl: "https://www.blackenterprise.com/manufacturing-for-the-first-ever-black-owned-fleet-of-self-driving-pods-has-officially-begun/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/manufacturing-for-the-first-ever-black-owned-fleet-of-self-driving-pods-has-officially-begun/amp/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 55
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 33
     images:
-      - url: "https://www.popsci.com/uploads/2022/02/10/darwin-vegher-IAc1x02D9K0-unsplash.jpg?auto=webp"
-        width: 1920
-        height: 1280
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/02/Jego-Pods.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "Nm8cgsUb2T24h7wxPXTWThhsU0DG+Vn0SxlGbIFttKzqgYRiwjR5j2DLNWXgFP16b+o8zvQKBP2QH8ChzGCPt3SKDrxbGg6ZCwMuqws0ZAWadw0YrahDNnXuTkS/G1H/FJYFdlbtVU+PrsA3KPprv2g5ohkbAJ0xMSOcg2g/ojVnEO1mWd9QaSA2zrIX7Ktidz5m8i8SjI7KunLZRt+4ge3xcpFY7QJlWNW3KzM4IfO1AUa2uVa3Eud+ZPQjA3Dt3rb5mB4a8eNSmdEAzSjoz/iOerw5qBZSGQEg89AbPU3pip7TpZC+LoU9PgqlwMcx+6n/8Y1RzYe/I8QUgngv01sP1D+WJUP3vP4jI3qfFESLdcC68kSV1oWDiv9TvwGTQGA6cYzb0do+RXh5EaIg69oLcEEptCG8b87CXDU8iDSmBlRUiiAtOObFbUePVGtzCcsy9YHlr5TrAc4C293KRrMY0rF3VmJQsuPIO4QQW5qwINIryajcgKAEv31o7eBnxJJpavni+r5KJqMqf5yvCw==;dRox7msdKyQHu5UvAze8ew=="

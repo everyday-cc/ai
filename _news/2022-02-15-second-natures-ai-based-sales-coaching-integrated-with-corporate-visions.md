@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coachi
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 23
+  - title: "AI-based Location Intelligence Startup Data Sutram Raises $2.07 Mn in Latest Funding Round to Scale Up"
+    excerpt: "The proprietary AI and ML-driven data engine automatically converts raw ... This brings in a growing need for fintech and traditional companies to use alternative intelligence and enhance customer acquisition, credit underwriting, and distribution planning."
+    publishedDateTime: 2022-02-16T04:57:00Z
+    webUrl: "https://www.indianweb2.com/2022/02/ai-based-location-intelligence-startup.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 23
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjRATANVzbu85bz6h2E-oP9xZTthcCCLF7VzOaoz_SbfiUgXG-yCGUTg4dbxxbSlHxBQnL1m7oO2m9HqdPw4r0tfbBV98713atMiIz9htaWBQpxuep7VvxngwDxuXBrXyPye9pGFrrAy-EJWIXJFjnV5EgZscyyuaeUDefo7FeKAlvja_9yd0WHkyul=s16000"
+        width: 614
+        height: 350
+        isCached: true
   - title: "AlphaICs Corporation: AlphaICs Begins Global Sampling of 'Gluon - Deep Learning Co-Processor' for Vision AI With Superior FPS/Watt Performance"
     excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. Gluon provides the best fps/watt performance in the market for classification and ..."
     publishedDateTime: 2022-02-14T01:13:00Z

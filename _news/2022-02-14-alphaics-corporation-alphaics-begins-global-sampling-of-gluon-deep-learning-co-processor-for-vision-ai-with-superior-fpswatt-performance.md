@@ -78,6 +78,20 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 23
+  - title: "AI-based Location Intelligence Startup Data Sutram Raises $2.07 Mn in Latest Funding Round to Scale Up"
+    excerpt: "The proprietary AI and ML-driven data engine automatically converts raw ... This brings in a growing need for fintech and traditional companies to use alternative intelligence and enhance customer acquisition, credit underwriting, and distribution planning."
+    publishedDateTime: 2022-02-16T04:57:00Z
+    webUrl: "https://www.indianweb2.com/2022/02/ai-based-location-intelligence-startup.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 23
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjRATANVzbu85bz6h2E-oP9xZTthcCCLF7VzOaoz_SbfiUgXG-yCGUTg4dbxxbSlHxBQnL1m7oO2m9HqdPw4r0tfbBV98713atMiIz9htaWBQpxuep7VvxngwDxuXBrXyPye9pGFrrAy-EJWIXJFjnV5EgZscyyuaeUDefo7FeKAlvja_9yd0WHkyul=s16000"
+        width: 614
+        height: 350
+        isCached: true
 
 secured: "/KZwo5sezAY6xPLUtKuCFo9SVER9/OwnW0n/iKdE/kzsKTVoXjI8+oHwToszjsPf/rYOjTXLqKAk68Wxx3oiTBLL+Pl+OyVCAy+5O5TmsK1U1zvv2CGWqW17e14+RSFreQY9lCSL1w6t9/pr8WspxdLoMj77xmA/Edb9UPVPY4B2y7x3lvuNWh35Pp/SHirnVThGLpZqCOHLDqhhBgKbk2Se4kVTOMX1v8VAntQ1JNBOFNfOvPn8UFjIVZHx2bpPOlPzgHnIq38/0jC7FaP7HnhndqvJQZBLw1+iUS1zfIcSN95hASJ75x/4qfmPq0tOWVab6TrHE/2jyGRwG3xK4VQAc1FphovYWf8yhVQml4U=;ikzS5X6o55/N+xOZW6Nhuw=="
 ---

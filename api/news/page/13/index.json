@@ -2,6 +2,110 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-02-03-how-video-games-could-be-used-to-generate-ai-training-data.md",
+      "title": "How video games could be used to generate AI training data",
+      "excerpt": "Some researchers believe that video games could be used to more effectively generate AI training data. But they're not a perfect solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/super-nes-switch-controller.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
+      "publishedDateTime": "2022-02-02T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible.md",
       "title": "CoreWeave partners with EleutherAI & NovelAI to make open-source AI more accessible",
       "excerpt": "CoreWeave, a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with",
@@ -1114,92 +1218,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-itu-unveils-ai-platform-to-hasten-community-development.md",
-      "title": "ITU unveils AI platform to hasten community development",
-      "excerpt": "yesterday launched an artificial intelligence (AI)-powered platform, which seeks to step up global collaboration on the use of AI to drive sustainable development. The AI for Good Neural Network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
-      "originalUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/_qZgaXhmHYeZHAWpsRhNWbcy1HhjmNHVH-1ME1AeEN4Ouobgg_8cHIaPvSncCsRtj2AWCBjlxCWu2yoIaTIMDGw=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
-      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
-      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

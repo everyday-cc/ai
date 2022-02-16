@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-10-navrina-singh-founded-credo-ai-to-align-ai-with-human-values.md",
+      "title": "Navrina Singh Founded Credo AI To Align AI With Human Values",
+      "excerpt": "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6203e02ea9ce90ee549e7ae6/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
+      "publishedDateTime": "2022-02-09T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
+      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
+      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
+      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
+      "publishedDateTime": "2022-02-09T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition.md",
       "title": "Extract entities from insurance documents using Amazon Comprehend named entity recognition",
       "excerpt": "Intelligent document processing (IDP) is a common use case for customers on AWS. You can utilize&nbsp;Amazon Comprehend&nbsp;and&nbsp;Amazon Textract&nbsp;for a variety of use cases ranging from document extraction, data classification, and entity extraction. One specific industry that uses IDP is insurance.",
@@ -1088,112 +1192,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-an-update-on-the-mathematics-of-machine-learning-book.md",
-      "title": "An update on the Mathematics of Machine Learning book",
-      "excerpt": "It's been more than six months since I started to write my Mathematics of Machine Learning book. Recently, I was focusing 100% on writing. So, an update is long overdue. Here is the journey so far and the road ahead. 1. The past. I have always wanted to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/update-mathematics-machine-learning-book-tivadar-danka",
-      "originalUrl": "https://www.linkedin.com/pulse/update-mathematics-machine-learning-book-tivadar-danka",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7cZahYvyE2Q/article-cover_image-shrink_600_2000/0/1644396933872?e=1649894400&v=beta&t=JO3_43E7bfMO3V0Pk5NwfA3A_q_UCH1de_oY_8fonUg",
-          "width": 955,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-tesla-cut-a-steering-component-from-some-cars-to-deal-with-chip-shortage-sources-say.md",
-      "title": "Tesla cut a steering component from some cars to deal with chip shortage, sources say",
-      "excerpt": "Tesla omitted one of two electronic control units in the cars' electrical power assisted steering systems. Tens of thousands of cars are affected, sources say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html?utm_term=Autofeed&utm_medium=Social&utm_content=Tech&utm_source=Twitter",
-      "originalUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806379-1607090740945-gettyimages-1229775273-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090829",
-          "width": 4000,
-          "height": 2672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "publishedDateTime": "2022-02-08T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
       ]
     }
   ],

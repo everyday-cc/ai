@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth"
-excerpt: "At the same time, there is a huge need for VR and AI platforms for efficient gaming purposes. This has led to companies launching GPU innovations in the market. For instance, NVidia introduced its new RTX graphics card that uses AI for efficiency in 2020."
-publishedDateTime: 2022-02-16T00:50:00Z
-originalUrl: "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
-webUrl: "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
+excerpt: "Therefore, the rising R&D in VR and AI is one of the main drivers of the global graphic processing unit (GPU) market growth. However, the market growth is restricted by the shortage of semiconductor chips. The Global Graphic Processing Units (GPU ..."
+publishedDateTime: 2022-02-15T23:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -24,6 +24,6 @@ images:
     height: 683
     isCached: true
 
-secured: "g/mqqrIGDw1eI9ftlZBm9ILo0Xd9dMm5MSvXNxU+n1/mmJ/5VfdGe3qnljE40ByKJidg1W3B3xZ7XTnkxM60HMwFeQeqmkfgQGBykXdrpxDgFTlZPxku0JrnXP6GE31OMLsz4bS1NNBVTQTdIss8CRT3qdFzLJELzPmjcxhgLPccetVji7+bjKjCFlkArLGt/G6oo1qOuA0hc3BpZLG9P+XB2luvmNwyRksyIZZDz0NC1dpt10Vh7zUxu+VQggNq9sgQ9oC+OS6MSijvZMczy6Fd102OUdc/kmyouYetrZVYIW1rkTOHVh3qCu8MlFCE1BNBmOU1rSFeFndB/oXj2bQswWIGDO5tGGtSzo6/xcE=;x1DJXHkRUzh0ol/7kszqAQ=="
+secured: "fMuYf1GeZBmVi5jijb7YOyh+kIaqgMSwb9i+/dx74L6xMyucgBlqWCXurnOLb8/gqoXQATm7DXr6JR7yc/aJCGQKJVYuj9eYMVARIJrg3W/l9WDZ80qWKibrxI/eIfxTDQb4gktHw06iFDXnxPPuobXljQEBYPDCIBOWxKHT/GIIJUBZ+RA16569GvAG1BxqDODrplGzta5PEwqvE5XeHnYej4zSYvlmki+aT6Mt+zAp5yIsAgNTtqcmdUcW/RXXL1FkaDx7pXcxq6UySgYXjqhmY4TNombJwW9ZpFoj+dIRVqiv9iuvSzC4RTEcNCsxPzpArVqtGyQaPpEq1N6TZpqCrhG7p47Rt/Y20gn5azY=;6aZkBE3umAPHAZae8b2Mjw=="
 ---
 

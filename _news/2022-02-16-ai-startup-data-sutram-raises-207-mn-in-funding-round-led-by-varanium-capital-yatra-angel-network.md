@@ -8,8 +8,8 @@ webUrl: "https://www.freepressjournal.in/business/ai-startup-data-sutram-raises-
 ampWebUrl: "https://www.freepressjournal.in/amp/business/ai-startup-data-sutram-raises-207-mn-in-funding-round-led-by-varanium-capital-yatra-angel-network"
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ai-startup-data-sutram-raises-207-mn-in-funding-round-led-by-varanium-capital-yatra-angel-network"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.assettype.com/freepressjournal/2022-02/8385cf83-b47b-4094-bc81-54097f762722/Data_Sutram_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
@@ -25,6 +26,6 @@ images:
     height: 684
     isCached: true
 
-secured: "Kym4D8u82JXqobm2V+NvlijfLQhdbKjsSyiXkOMQ7ozv/dGV8jN1IqvKELPKzVShJdwaI2rLsv19X4898Bw0qRhRKkwQQ5RBSOw7axGX2WFFeb6LSyNerpTi5AS/KoXin/qrygfO16zXCimBj6GlHhgIIxdTSzLMIFYMa63OmlTj3PxGc1cP6cmq76DzQkjwKTWFW+AxjNF1DAbDO6UpuXACv3/klyswrs/ztToqiXZDQwJY/bYxImYBzMzunyas2Do7d7AHKIkBwUOqFL0OVYX9WCUBrdK7OUOASLCk36LLUvmYyAf8sL/sDwInRzDvHy9KBjObtUwYvuJsjvrvmUiMw538liLv/nsuAN0PCqI=;EsLjPgyJ4g1geB64teU8hA=="
+secured: "12Snf2B9XVO40StZOignEflCLtvzmoTsozjCsQ8oPWCzdxTwoU88jjfa6ljWfHN3jnDjsrZztdSj9QvwCIxDrlvHUSHMDNiTcNAAB6GFX+ZC0VvkEUOLpGfzMr/FqVbsqA8ilLMr7lnOnJB0Yu6tiaDR9bghlsGiNoq23IMb+p1cLpiq2IZQP5k/2DMjvthHzraQ/jMureYfnnWr7ZnoWD9PjDMVicUPof9Tq2eUrDXI6h/XaZXk4uxXBeOYQ5dNziqZRO+8jIp4zAUGoUj9DFPTxoUAafqHEyATYPwY8ZNV/mflwUjGxgAwP6KhIvpFbRsRy/V6Aok6iqn2aaosddqIDZLjD4sYuSUMeCrltydEc3sE1kpOEG30cZcXoOq7Y7lbUBs9Yj82G8177eY1cP9k3Pl1+GpwdUU4Mjq+ZQ0T6+65Ii0QjRBJyZf6x3razkPUP6gUum0nx8yTPJD2+VlOgxYAvztqR2qBPpXCrS1dyU50YPjGbDuyuKAt0nAfxFlLb/H5mZ9C+LMP7cqMJg==;rIshGmksSvfoAg0BOlKWww=="
 ---
 

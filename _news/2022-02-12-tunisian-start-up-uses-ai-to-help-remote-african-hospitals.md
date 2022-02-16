@@ -45,16 +45,19 @@ related:
         height: 438
         isCached: true
   - title: "The African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI’s use in surveillance https ... machine learning to translate African languages not typically found in online programs such as Google Translate."
-    publishedDateTime: 2022-02-16T00:02:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality"
-    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality/wcm/d8daf216-dc80-430e-8a9e-c0d62b2b0291/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality/wcm/d8daf216-dc80-430e-8a9e-c0d62b2b0291/amp/"
+    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+    publishedDateTime: 2022-02-16T05:44:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
     type: article
     provider:
-      name: National Post
-      domain: nationalpost.com
+      name: The Star
+      domain: thestar.com.my
     quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483105.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "9MqjrhWFH6EWzeX6V3h8eFXokNM3SGCB98RwLUnL3k7FaijDWVGkyUJLyUO6tBtPZmgfJzh6GP708JszLDYZbMJoO/9Fr21T8WyA+bBByXIxQ/RlQWT9TfRfNpHCHpF82fFHubkmuJYsFZXtBTUG1lncnyasBQijyACdip7yfSzBLjSkwUTve/ZXWjA3VuJTBKOuWJF1EbKcNjoFWD3Jh+X8yThX3x7NfHs6V2+v+lZvxRJMydl63nRPcoM+nFGPRhWsQgijAtOZFIvAaawo/RTnQDeA3LqKaPJnK45nJAT3oBTbyLVAbGt8/LDIn1fwRMiWAgVG9yU5tzCLG9jNjAcJhgo4UkgQYx949Q/BciI=;l+mSOX2TLTKwgcQFqKD+wA=="
 ---

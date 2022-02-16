@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-can-be-a-powerful-tool-in-drug-development-discovery/13213325-1-eng-GB/AI-can-be-a-powerful-tool-in-drug-development-discovery.jpg"

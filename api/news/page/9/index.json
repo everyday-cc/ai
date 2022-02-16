@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-07-driving-value-in-your-supply-chain-with-robotics-and-automation.md",
+      "title": "Driving Value in Your Supply Chain With Robotics and Automation",
+      "excerpt": "Robots are capable of picking those individual pieces and ... By feeding the same data into artificial intelligence and business intelligence systems, companies can also track and predict demand and better understand customer purchasing intentions and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
+      "originalUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Nov-2021-SM.jpg?crop=1&height=348&t=1636504089&width=271",
+          "width": 271,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-two-members-of-google-ethical-ai-research-group-left-the-company.md",
+      "title": "Two Members Of Google Ethical AI Research Group Left The Company",
+      "excerpt": "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-5.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
+      "publishedDateTime": "2022-02-07T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-arti-modi-wins-the-business-excellence-award-for-fintech.md",
       "title": "Arti Modi Wins the Business Excellence Award for FinTech",
       "excerpt": "CALGARY, AB, Feb. 7, 2022 /PRNewswire/ - Calgary based Fintech Platform founder, Arti Modi has been awarded the Business Excellence Award for 2020 for the founding of some of Canada's top online FinTech Platforms. \"I appreciate the recognition and highly ...",
@@ -1107,101 +1194,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today.md",
-      "title": "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today",
-      "excerpt": "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET ... in both the Olympic Charter and the organization's code of ethics. \"Given the diverse participation in the Olympic Games ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
-      "originalUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
-      "publishedDateTime": "2022-02-04T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles.md",
-      "title": "Ag Expo rolls out innovations in AI, robotics, electric vehicles",
-      "excerpt": "Technology that farmers have only dreamed about will be on full display next week at Tulare's annual World Ag Expo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html",
-      "originalUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/74/37433be8-1a79-523c-8cf3-89c216f4e07b/61fdac8f356b3.image.jpg?resize=1024%2C540",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html",
-      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html",
-      "publishedDateTime": "2022-02-04T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

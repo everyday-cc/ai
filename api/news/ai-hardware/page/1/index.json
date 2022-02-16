@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform.md",
-      "title": "VMware, Nvidia team up on AI-powered hybrid cloud platform",
-      "excerpt": "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
-      "publishedDateTime": "2022-02-14T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-sonys-gran-turismo-ai-demolishes-the-worlds-best-human-drivers.md",
       "title": "Sony's Gran Turismo AI demolishes the world's best human drivers",
       "excerpt": "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors.",
@@ -269,6 +226,58 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-13-nvidia-hopper-gpu-insane-140-billion-semiconductors-on-cutting-edge-ai-chip.md",
+      "title": "NVIDIA Hopper GPU: insane 140 billion semiconductors on cutting edge AI chip",
+      "excerpt": "NVIDIA Hopper GPU ought to uncover its cutting-edge Hopper GPU engineering during its impending GTC (GPU Technology Conference) in only half a month’s time in March 2022. NVIDIA’s new Hopper GPU engineering whether it be in solid or MCM GPU configuration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin",
+      "originalUrl": "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGqVIGtS42zkA/article-cover_image-shrink_600_2000/0/1644738503810?e=1650499200&v=beta&t=fiyewJRBhPd-zVuotXH58qL8OMd-uppUvTubeC_L0Wo",
+          "width": 744,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-12T23:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
