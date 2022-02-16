@@ -43,16 +43,7 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Machine learning outperforms clinical experts in classifying hip fractures"
-    excerpt: "A new machine learning process designed to identify and classify hip fractures has been shown to outperform human clinicians. Two convolutional neural networks (CNNs) were able to identify and classify hip fractures from X-rays with a 19% greater degree of ..."
-    publishedDateTime: 2022-02-11T23:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/02/220211102644.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
-secured: "9C2edS4rUjdW4P0jUo1XQt4QujGhTI885C94JTwiXdS71zbbdkj4mEYcslGIE8DuTt1EqUvZSaucA2TtKyS08psPjfhqSu2eVKuIUdsETWgxDCLydedz4SesjHF2aXYXoq727S7oaTvLUUDbBBOuIcf7bq0fs6pkExY02yBzt+H5M/1brg7+vt4ikB7tIUOu8tJG/f4Y911kHkMcUwcUKr1cDtMhKslphCyENNgF6vUITuMG5Mt1CUe82M+svjpkaRmehhSu+heFg0rslnKB8qVBVaq3Vy+86Umei5FOpSQrk95O47xdUfp2ozsbnTpvQxoR4YtXjSACtWJVclArf/7wsqVxZey+v0P5AMFFSgQ=;ZtgWcnC7J8UDC05QVAAcPQ=="
+secured: "phJricsMU166EkQ26dy3u8d3za5OZMA6wMtx1uWGnocvXba6Wvn0S/3noKD/F5+DWcW8w669wFKrcUFMuUZ2QFzD3naJX9hiisrbcZRaghCDIiWfA51SrBzMG/qsOVYFbCKJf5Kgx7EJNjgm4S5ktCwPJSJVndA4IexngX4OBaLstw99yTlusVy/io+9xHbdDqrXo590bwu8gn1Jbr5oewsCjFNzAK5J2rmW3Omb971WG95qZEtkxX5kaJrlQG42HcTXnfwXDXwo5ViuVWHaByGBFND8OZNSBl47+zZ0D070iDzj4Wqshqy9FrA9gBjlwwAQtCzKwdppQniRr2SRoT0HWmbR2qTYeoU816ugPHuFfPiUcdihQcBqeZ30oAlCReM2ry/jKWC6ljl4aKbPVYUKgtVVdiZLXzff2ZRvxDk7T5fy1ksLMewR4W0c55lfekxG0xL6mzX3RIb8OoQSImVKpQUkf41lzHn83pWdqSiYNOlMA30FpW0cj3p+3hlP/GUPs6Gsv0UxHgti501Tew==;5GYBId/lHtZc51i66yz6zQ=="
 ---
 

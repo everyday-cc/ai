@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-12-deepminds-new-ai-code-generation-system-is-now-at-par-with-an-average-human.md",
-      "title": "Deepmind’s New AI Code-Generation System Is Now at Par with an Average Human",
-      "excerpt": "“AlphaCode achieved an estimated rank within the top 54 percent of participants in programming competitions by solving new problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding ...",
+      "path": "_news/2022-02-17-deepmind-applies-ai-to-controlling-nuclear-fusion-reactors.md",
+      "title": "DeepMind applies AI to controlling nuclear fusion reactors",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. DeepMind, the AI lab backed by Google parent company Alphabet, today announced that it used AI to ...",
       "sourceUrl": null,
-      "webUrl": "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/",
-      "originalUrl": "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/",
+      "webUrl": "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/",
+      "originalUrl": "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://beebom.com/wp-content/uploads/2019/06/artificial-intelligence-ai-vision-touch.jpg?w=750&quality=75",
-          "width": 750,
-          "height": 500,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/",
-      "publishedDateTime": "2022-02-12T05:22:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/amp/",
+      "publishedDateTime": "2022-02-16T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {

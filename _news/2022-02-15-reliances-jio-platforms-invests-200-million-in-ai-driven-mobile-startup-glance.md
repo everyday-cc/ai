@@ -16,7 +16,7 @@ provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -70,6 +70,6 @@ related:
       domain: indiatimes.com
     quality: 13
 
-secured: "18QZYJNQZKZpakkuM8QAbcR89jIa4N5Jy27knsRYZCXyKQMRqX9jXRvuADZltwrd6zXOtOsTg48eWEtJDU8BGFa0nitcBLpJsJFUWqgU2MJd08FQlVXDALeyENx0h7XlMWHLW4cERvbAOf/yJjQTd2WiKrbGLLu/HewAp9FKAeCFc29bKV3An7ruJPuZ4vPhECZPSSwPSwqUk9tJofzBA7/Kyxk7PPO6QZG0bVTahYm8pzIP5bdt9Ex+DCtKvkuk4ysCfAVDnJwM8Zd9YBh1kaZpI6mVoLJT38V1a4KtYIE+WIJAw/RhdBXhiDHMFk0J3dvSvRZlpyIzOQReeCXcwL6m6mvf2w6zOQAywceDekI=;01ma+6MuGhUNp2HD6R+vUw=="
+secured: "nrJiON0QabXiHdYO0WAMql26R9GvLng+a0cZ+nDfHfrJwZjYY2LaEECqVhBgPCkhk9JhU6tSTGgsINTXSVv9F7Oe9zR/2ZiAKad/P64pmz6wObx8BwJXpQYjl1sAIYraDmRmUEGA69s9EOKBeyaEXEyfrTwuunoBpmk/aIIjLGsBO8QCnDzSjw9Hf5ipFDIweprfZf1Fg9cc2pm7FFv4AGxJtm3Yt5ukTWScAxzneYxkhNqjyCAjLpl0LkvY4pmBfb0ncxS9sj44+htWMy/QpkDWcKq73NfbLRwxJRWYZmwYjNLweY9/S/EJrVy/UmEPlVRvUjVnAy1vxOkQwhuOb8Sp6sJUiQ0vR/NoqxoFZax0Ytsgu7jO52aCEcV7y8il4nGUYQVYEgDnvpFRMwAn1pwPHK2kJQFFvWEUyWhpEiwSJy9ju/WkCoL3SugzFrxDPD2Jh6MuJxB2/VEEfZfuas+zpSqwoEYeu6ZEIXuAA2tXhDEKXSjuMXCJQYoBheOgwdvmwMj1QfOWuUuVhV6q2U4E1/tKL5tU5bogxXU2WIk=;mJAoX6g3KBtjremr1A9yog=="
 ---
 

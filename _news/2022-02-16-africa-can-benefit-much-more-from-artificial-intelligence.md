@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecitizen.co.tz/tanzania/oped/africa-can-benefit-much-m
 cdnAmpWebUrl: "https://www-thecitizen-co-tz.cdn.ampproject.org/c/s/www.thecitizen.co.tz/tanzania/oped/africa-can-benefit-much-more-from-artificial-intelligence-3718620?view=htmlamp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
+    excerpt: "To mark International Women’s Day, March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
+    publishedDateTime: 2022-02-16T15:01:00Z
+    webUrl: "https://iafrica.com/artificial-intelligence/"
+    type: article
+    provider:
+      name: iafrica.com
+      domain: iafrica.com
+    quality: 39
+    images:
+      - url: "https://iafrica.com/wp-content/uploads/2022/02/face-w-data-points.jpg"
+        width: 794
+        height: 924
+        isCached: true
 
 secured: "5TV/D0AyRAgNtpvi94VnaHOl0X4B0+rB+IYSDn1qlmgF+Bz/QtICe58dDRGFtrDIA6rqKZ71Ri+QBmOHFMHE/s4WX3mMtIDWfeXwCag/8vQTwQ1V1zo8p8XTkdzB7NWZ3XoTuE328Ivb6zAhkjed4DhC5yqfjGV2nLoxS7vfYAmKh9WN4TOpn69yXoCAgDdX0YSu/5OEM57QqwtP0guyKLJo7tKtm/KHvRuSbBr2H0ZTugCClB+O4WlwZddDwU5A8vZ3z+Wqc+kSdzmVkVSnmtR3knVjRdnkxmzqVVIXyNtMf6vOcAt9lQZ7gFry45x8c1qkEmd+k7QEXqFKvq9Er5lF27VTuLxA01sIvwopFok=;1FRKm2/agjMqU/CZJe5fBg=="
 ---

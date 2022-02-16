@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-fu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_703595_16439823428418409.jpg"
         width: 1000
         height: 473
+        isCached: true
+  - title: "Artificial Intelligence. Human Experience. Five Ways To Strengthen Customer Experience With AI"
+    excerpt: "Winning companies are using artificial intelligence (AI) to boost that experience. 86% of organizations that have fully embraced AI say it has improved customer experience. Let's look at five ways you can use AI to strengthen experience for your customers."
+    publishedDateTime: 2022-02-16T15:23:00Z
+    webUrl: "https://www.fieldtechnologiesonline.com/doc/artificial-intelligence-human-experience-five-ways-to-strengthen-customer-experience-with-ai-0001"
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 40
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/fc662665/fc662665-690f-4438-b9ed-93bc255651f7/istock_1145585734.jpg"
+        width: 701
+        height: 467
         isCached: true
 
 secured: "zT9OfWTzds/gy135IrNEuGcnp0PNcodNZOQk0Y61Jh62UYCRN3Kijr3TW3qUvL5BLnZFvY8pZLlGMjy/kQe8Jh8Cj4zBpxb9TE1ycaGafC7zKVYTRE1GLYWrj0ej9koOk4VZohwfJsNAMDIT54LhF3loBEk+1wE45AWH6nyKa0ZsvvyS6f4s691yhAnTIwB9kcRn6AqggVVSc2tV0ZNygR1ep1lNmg3XPzWMdiGvaJiHeGHJu50StZf8lQNtAnhnIlmTbOabeCqFFdDRYgeN2bi+lqcUc22+TVY2idX4vKM+EJXWqPIuG7/n6WyZ3HJQ4h9aYPVyfYJbUMuozGIFkGa8J3LgPlRMom+o/O32oVGqc4L9WYi8CiyquogFrfgLaypjWINSnz16juvQkZknVEOsBpwGoUuHRcsuUK/nUHSV7e9ExB5iV3LyQN/mYTlUL22eh24TolKj8+u2J6PTX8F0dqZWnEskyFD8BGRvZ3uz19Fwteycy9zieNxej4EIaxvtiwQGPu+qQyTF+vosJA==;rWi+fAB/PvU867fvVlkexw=="

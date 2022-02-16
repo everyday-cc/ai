@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Artificial Intelligence. Human Experience. Five Ways To Strengthen Customer Experience With AI"
+    excerpt: "Winning companies are using artificial intelligence (AI) to boost that experience. 86% of organizations that have fully embraced AI say it has improved customer experience. Let's look at five ways you can use AI to strengthen experience for your customers."
+    publishedDateTime: 2022-02-16T15:23:00Z
+    webUrl: "https://www.fieldtechnologiesonline.com/doc/artificial-intelligence-human-experience-five-ways-to-strengthen-customer-experience-with-ai-0001"
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 40
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/fc662665/fc662665-690f-4438-b9ed-93bc255651f7/istock_1145585734.jpg"
+        width: 701
+        height: 467
+        isCached: true
 
 secured: "Nrm7U27mNLxoRDt0QVysd2JegHzTraUAHg1HBuxbN74MeWLQbFMF/BF+HZC/s6O3zNgRHBZSLcAFBGhx6lRt7YbCTjWr/7rVO1WFt1TqGRIY8ZPkvle/2z9zKbQgKo8H/HnrcA3WJiO2NOViW4F9QsR+vq70aiQCPtJYJINO0jbkF9k7z5bunBTKmvqHVLDVT4Ht3Ro2D6X/fCAU+cWg/h9KF3hla6K8QpfEnfieIuj9OqP3acfO+hpleo8Xt0Tkeg/Tq5A0HeahOXMWfLFSooHIW6ME0IfAMK8xjXUC7tuYS+K1rxNk63a44H+2IaRvMLeCYxQol1YnH3CH44rfqGWTijLKhq1B7qYRJUkeG4VMgX70w4YQq+rU0cGXRPpmCSwvMs0P+QrbUwmHMe8pLfzq6+U/Ydnkv0RAz8Qej/V97ZK5jeGg8Eppm7iiSiwaw+D/+7xdE+fVYt+ELazSud3BmpP0YQYOe3/j12hrvKF0+ml7CTWncYV/+M1DmAytlgzRzS2i8srvQy2XYZXnJA==;dL5XVVqGUzRm5P+t59IEpA=="
 ---

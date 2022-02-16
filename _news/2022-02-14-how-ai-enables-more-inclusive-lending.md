@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/how-ai-enables-more-inclusive-lending.ht
 webUrl: "https://www.cuinsight.com/how-ai-enables-more-inclusive-lending.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHZtX_CGtygMg/article-cover_image-shrink_600_2000/0/1644950357226?e=1650499200&v=beta&t=CG2sTS3_oEGW-zV27LZZpMSwIu5hraQjCJIb9onjKW0"
         width: 922

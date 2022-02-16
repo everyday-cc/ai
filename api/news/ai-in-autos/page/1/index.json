@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-16-jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving.md",
+      "title": "Jaguar Land Rover Picks Nvidia To Power Future Assisted And Automated Driving",
+      "excerpt": "This includes the ability to create the visualizations that Tesla drivers are used to with AutoPilot and full self-driving beta software which display everything detected by the sensors. Unlike Tesla however, Nvidia is not trying to insist that automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620bdc033fde221ccd43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/",
+      "publishedDateTime": "2022-02-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-baidus-self-driving-vehicles-take-a-turn-with-olympics-showcase.md",
       "title": "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase",
       "excerpt": "Stay on top of the electric car revolution by signing up to our Hyperdrive newsletter here. Cities usually have many reasons for bidding to host major sports events like the Olympics, but demonstrating to the world the best the city has to offer is often ...",
@@ -1442,49 +1494,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-driverless-big-rig-truck-company-partners-with-union-pacific-to-haul-freight-from-tucson-to-phoenix.md",
-      "title": "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix",
-      "excerpt": "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/",
-      "originalUrl": "https://www.statesman.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/03/05/PPHX/42d3dafe-87c2-4b5c-907b-05ccb19fa9e1-TuSimple.jpg?auto=webp&crop=7951,4473,x0,y405&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

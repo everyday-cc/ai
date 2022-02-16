@@ -107,6 +107,6 @@ related:
       domain: enterprisetalk.com
     quality: 49
 
-secured: "K8D6O/ooY8XO9y6RYesLcEUWKbYXXOOriYds+rrje69Di0TDZxP0TLgInbP1ydvtk/TWa3flwYgQKN0aIv5/IlTqorzt8mfu7k/yAJVlKC17u+0blKwpW3l4U8qADtQA3jnaavO6nM+WsVdN5evAM/Nzpj8ELAdPzzAWeVVoPLc061Nfj13DfkeMhiKK4kehdn4lGov4FatLrmxoK3ygW/nprrjddHwVCPgEl46Na/dP4K/7MYgUTTmZ7YjJ836GWr1Kq+vckYIkEfX3SmX6ipdVLYt9jZn8dFoq9LXKry1MugZJ6E5bw8nbiB00BBDaf0/u1ptG9df6mfVqqjNfnhxRNagOuI/4xSOZqTf0Pac=;7AWwKX7S8VSF/69nRjvztw=="
+secured: "oC2U6APlXxoXhCiq3Ddu1lm56R4ebSHnZrxqKClDb0Jl7LD+jSiw2m/llXJ+VUjsCVbo/8YaMRRw+sB664j17/QTEV+QzjyeCdiCmCVuiM0rR6UqPPeOWjEPfvBMguhBbidYDg/BZWbOrFSQiqjSmbXT4od8LSEmHdteXERdemAQUUrd7lWK+WuZaqFOoGqiK6ULMRV1g+yxmh5DcdjoHkJTDjZazMMYNfTKdSCEcHilM/EMPD2yfqi899xO8RMtHHcqV5bUdSidhxAnQYzI55cpSebTvc/AcRqs3irotize4SXdgSTqmZUsbrSG5m+k6zSYOG6daO0nO6L74+JnK0//HftvXSN0o3kGpWPqn9A=;pYyHEGTO1JjBb7sHw72QnA=="
 ---
 

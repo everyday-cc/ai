@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accura
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     height: 799
     isCached: true
 
-secured: "Ofoi+XTyXVC7P5UYuUzP3lX69+HjvTbt5l972zFveKl55Nrca5zxGga+tf33++WdrGDCdfI9NiaAjgztWAkSGwclvQRFuGo3IKQ1EmePCWniudKr9fvTUlb/iSxp3yHDBJJVMxfTZvhRKhrhAJ9XlyWrmEAU8xRu7dER2DKXjUZ4II92ugQPmkfsroCo8CN/3jn+u7iiqbKTjgu1uQu49gYj+QHBU217jHCRK8mWq1bA4HuT6ypyryqxZVzvhX6IIJGagcPLtSoIAY5zMGK+8kpxMa2Vr/gwLrvfgf6eXaieCyFC+Kr4rbHij5axCfglPtvqk73PpcheeNA7TrNjCHYMvqJLLqwyjiXffbuLVkw=;H3G/ZvXq8pP5ODHG7IEVAw=="
+related:
+  - title: "Putting user-needs at the heart of a multi-agency advisory service for artificial intelligence and data-driven technologies"
+    excerpt: "Health Research Authority and Medicines and Healthcare products Regulatory Agency to deliver a multi-agency advisory service (MAAS) for developers and adopters of data-driven technologies, such as artificial intelligence (AI). This innovative new cross ..."
+    publishedDateTime: 2022-02-16T15:40:00Z
+    webUrl: "https://www.nice.org.uk/news/blog/multi-agency-advisory-service-for-artificial-intelligence-and-data-driven-technologies"
+    type: article
+    provider:
+      name: National Institute for Health and Care Excellence
+      domain: nice.org.uk
+    quality: 13
+    images:
+      - url: "https://www.nice.org.uk/Media/Default/News/press-and-media/Shot%20of%20a%20young%20scientist%20using%20a%20laptop%20while%20conducting%20research%20in%20a%20laboratory-%20stock%20image-%20385x215.jpg"
+        width: 385
+        height: 215
+        isCached: true
+
+secured: "9aBys+I63iS1FG0NgEtgZGw87AuabGrUIHNiKeMMiI6uoZ+sfNgko3pWJwuRxith5mA16Qpmaqx0Ci71FPxoici21l18xLigf06neCjOiticJgdLFXhTC8goEUDg/78/iSd8FNEsmoWwbmjebSRaLpqY76+tbLXDe2AqqJqaDViinOvlVqDEVh4bmP6+LfEWaFpHb+8Dz77yzniy9YbZnWYUr4v5QKjcpXck64o/G7r5pc0JANf+c0Xziehlamgy03LnmMcskgoRVwTyFOgspJRbU3Adpueb4j35hVZXSsi+v1HI8+5RTUi4ebhi8fMndIPBkV/GdzhU0NA7JZwGSa3d1mx+sEd0+tRH1gX45MkiGUHHYRG56Cz6JmMdij0kAn8M4dT+Muijn407zlXhKe76CmZw6wO8GLCdGj17tOa/aGTHQyE/3yrkL3OPPoaUOyNVxfL36jJLZbsxJeFV1+wcIUEXT6e//dvDaQSG6ryLplwO7SB8Ib0PygHTJL3AuMaArrqTb2fgfXYcpNe8Tw==;mZ2QvAKpD/U7NyWI2BMhrw=="
 ---
 

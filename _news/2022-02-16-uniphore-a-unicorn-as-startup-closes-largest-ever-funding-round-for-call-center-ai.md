@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/kenrickcai/2022/02/15/uniphore-series
 webUrl: "https://www.forbes.com/sites/kenrickcai/2022/02/15/uniphore-series-e-largest-funding-round-for-call-center-ai/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,17 @@ images:
     width: 2880
     height: 1920
     isCached: true
+
+related:
+  - title: "Uniphore, which offers AI-powered call center software, scored $400M at a $2.5B valuation"
+    excerpt: "New Enterprise Associates led Uniphore's latest round. As part of the investment, NEA partner Hilarie Koplow-McAdams, a former executive at Oracle, Salesforce and New Relic, will join the startup's board. Uniphore's software uses artificial intelligence to ..."
+    publishedDateTime: 2022-02-16T14:32:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/02/16/uniphore-scores-400m-at-a-25b-valuation.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "BI5SuXUH70Lq6FVBslLBU+DarDuYuO3u4KUYJ38X3f3KHeqDu4hMnJJuQSsakpfDTqYnDkhebBhFxMWNFuYXsgLdvGKL6/BOPUmCVe6Eh7ZQ89rRoAsZDlmOWOnEWbJVug3Xzysm6zZNqhqaZyrHFqzjkQn5TGtichxTHo97OHgPmoM19jRae8YI7bJtoB1bvk/ln2Diepfk98zyrZD9H6VK/T7yixuGIzUZDlC4zFwByZU0QGh0dP7kASt0Ptu1sP8Yx5OX+6J6AC7X448tLmW+w/3DWGAtXGvUztFHyq+w7MDSz+dCcoxtGblNQXrywhTezeC8tV4FGcxW2GltcYP2GMk7SUjNlj84S8XHl8AJYtEtlraMUTEnZyxSDVG+IsGUT7nBZvfwnCYy94h24ghjKvc40fnCmzQn9JShgotDGb9QJngO2oucQmyH6f6oQSIeYW07Z6LoRnxPJ3Vp6x4VVqhH5R69cwkbpDlAy+sCPtBb4/7nz3IU4MvCe1Xq+MuMJ1rsQDkYheGV1+EFSw==;Wvp8lgHAh7Cp5R/2ci3PHw=="
 ---

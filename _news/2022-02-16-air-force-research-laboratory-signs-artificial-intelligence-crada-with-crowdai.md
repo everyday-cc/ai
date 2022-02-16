@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Air Force Research Laboratory Signs Artificial Intelligence CRADA with CrowdAI"
-excerpt: "SAN FRANCISCO, Feb. 16, 2022 /PRNewswire/ -- CrowdAI, the leading no-code computer vision platform, today announced it signed a five-year Cooperative Research ... and use our AI to provide ..."
-publishedDateTime: 2022-02-16T13:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/air-force-research-laboratory-signs-artificial-intelligence-crada-with-crowdai-1031200697"
-webUrl: "https://markets.businessinsider.com/news/stocks/air-force-research-laboratory-signs-artificial-intelligence-crada-with-crowdai-1031200697"
+excerpt: "CrowdAI, the leading no-code computer vision platform, today announced it signed a five-year Cooperative Research and Development Agreement (CRADA) with the Space Vehicles Directorate of the Air Force Research Laboratory (AFRL)."
+publishedDateTime: 2022-02-16T14:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-4af9881927d223adfc17061982eaad58"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-4af9881927d223adfc17061982eaad58"
 type: article
-quality: 60
-heat: 60
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "xCTcGaniDGfEnlKctc/C5pZjDdEfWVoSI5fQYpEFxAn1dW1/NIknBH8eF2F8p8jSI5wAmt7w8DS1GSEGXGTiboM8nae4ARDh6sItXN5W4NSj22aJFuu6JjUhO1ly2mdTW7Wp2w6kmR3OPMks2HaQH/btkkJE7LCV4rRW5iYiMvAumnzwStQUlE7uUX9ce95HVESc6l2glkp5pOZ7XdcxWl12CYvyjheOFbNm4OAscpl0sv0Ic99gX7+kHg3n4Q7e4h91jrwhG2p6PR2KBKkuIr725MB81gapo8GNlUJdc4r7yJWyXzStOIkqHzQMmVkn+IQBCX85A6WI0WpbAV8t+8rrQjHYm/xpbmnkZqqU4zQ=;Sl6wSyUtC3b8N9Rvfi5vRQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ahjww6OO5HwuDyhY/CDPfo4cFIsS1NvOUkBTZ/RG86Xwt7pQQOXoWYFZztvNFas1m/Tsx2ZbaBiuIhSLdavIIr0rpDrMfVhQUg3l2xRIJTtjMSCtGZ/cV+fY1cE6lYbtaCbxvM3Vnn+iu9kzXhGJACYU3uoXwP2YuktlZTo6UKm9zWcRaeR50clH5JfHjJQC88Eso0t9zUhcMjvHCiBIYTj9g0ilCensR/GBnk5ITl0xXnB480UOhp1EdH0tYmODp2hYmEbsyZEiKcEgbUL1+IlLqqZrGzQ62Fx8FuMfzOgBzIohTAg1Fm3p/1DIVxz+ap++UxkLZNCKFeeQpwDaASk6U/6GSK9TmTqTafWrvsI=;5sJpSwfRuCEfyEFpUU6Hew=="
 ---
 

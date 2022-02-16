@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-15T19:47:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-home-lending-vs-cfpb-dain-ehring"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-home-lending-vs-cfpb-dain-ehring"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHZtX_CGtygMg/article-cover_image-shrink_600_2000/0/1644950357226?e=1650499200&v=beta&t=CG2sTS3_oEGW-zV27LZZpMSwIu5hraQjCJIb9onjKW0"

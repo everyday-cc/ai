@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey
 webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028"
 type: article
 quality: 65
-heat: 125
+heat: 126
 published: true
 
 provider:
