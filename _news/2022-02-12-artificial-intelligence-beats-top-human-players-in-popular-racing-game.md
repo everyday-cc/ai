@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Outraces Human Champs at the Video Game Gran Turismo"
-    excerpt: "Credit: Jack Thomas/Gran Turismo via Getty Images To teach their program the ropes, the Sony AI researchers used a technique called deep reinforcement learning. They rewarded the AI for certain behaviors, such as staying on the track, remaining in control ..."
-    publishedDateTime: 2022-02-11T20:16:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-outraces-human-champs-at-the-video-game-gran-turismo/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-outraces-human-champs-at-the-video-game-gran-turismo/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-outraces-human-champs-at-the-video-game-gran-turismo/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/08724109-83CE-422D-83CF16BE487AB2EB.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Sony’s AI Is So Good At Gran Turismo That It’s Giving Top Human Players Road Rage"
     excerpt: "Until then, Sony and Gran Turismo developer Polyphony Digital have partnered to make their AI better at racing. We have definitely been impressed by the amazing leaps done by their teams and they ..."
     publishedDateTime: 2022-02-14T18:46:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-powering-fu
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-powering-future-retail-braiyt-ai"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 825
     height: 433
     isCached: true
-
-related:
-  - title: "The future of AI copywriting is revolutionary, not rubbish"
-    excerpt: "For one, AI has no idea of “meaning”; it simply follows rules of natural language processing, looking for categories, sequences, and order. Therefore, worrying about AI taking over the world ..."
-    publishedDateTime: 2022-02-11T19:17:00Z
-    webUrl: "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/"
-    ampWebUrl: "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1220044599.jpg?w=1200&strip=all"
-        width: 1200
-        height: 626
-        isCached: true
-  - title: "AI copywriting’s future is transformative, not garbage"
-    excerpt: "As a starting point, AI does not have an understanding of what “meaning” is; rather, it uses natural language processing principles to find categories, sequences and order in the data. Concerning AI enslaving humanity in 2022 is perhaps a little far ..."
-    publishedDateTime: 2022-02-12T18:20:00Z
-    webUrl: "https://bestgamingpro.com/ai-copywritings-future-is-transformative-not-garbage/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/02/The-future-of-AI-copywriting-is-revolutionary-not-rubbish.png"
-        width: 600
-        height: 375
-        isCached: true
 
 secured: "y9QzB6sh3pN1cRcegGLWqt5c8Pm0oDH/BBC/DcwwC1i/Bxc2a69HyD0GrV+Ajlpf7m9XaXBJOFFFLV5g1r1CR6Vq6PC8ifBCSRUDHqpKVaKDhaScT0NluYm2KF/depTJRbjDQNBofNJ1DDRN+/VjrnUOemQV5tmvm2+j4SLjcnIzXhBQW5v240/bnILfxoM/UoIPSnjH/MqZ3jVJsa/9ZKStFvSC8QthJ+zJYI0qQ4VR/TtDCa6mfAm9OsEjAyWxkdLPpVffDvFdfqNe3pxk56l2MUNF3ntmzPbQOCVSGiDTD2Mwl2AnZG0GGPqEmcOP1LcpwB8OLtFZIJ8XaoaMK7LShwMYD/blsEXelca52f4J4dVxDbVda3W6RI+4rGuNJVd3+/552qZuNSA4pnxDknO8t7t884negf7GvSfIFS3J+icMcRm7DWr2ZoFJFyTuMoFOsqRLE7NaWfBy9HzjxoEMP7c7KOqHQTchloGqaM2xg17YjLBB+0mvqBs70yvDcG0Z155Jz2jy6EDuB9Zobg==;MnWr9aEmVE5iBrPskMJvfQ=="
 ---

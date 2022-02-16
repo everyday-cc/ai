@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-techn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -77,7 +77,16 @@ related:
         width: 538
         height: 538
         isCached: true
+  - title: "Beijing Olympics: visitors go hi-tech to overcome language barrier"
+    excerpt: "ISLAMABAD, Feb 16 (APP):At Beijing Olympics, tourists overcame the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. That aimed to achieve “barrier-free communication” so that all may ..."
+    publishedDateTime: 2022-02-16T12:12:00Z
+    webUrl: "https://www.app.com.pk/national/beijing-olympics-visitors-go-hi-tech-to-overcome-language-barrier/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 4
 
-secured: "0dYBDpOyY3dEoYThrgvNS6j5cF+IMprsW02Tx4uTKr0W4xJ375jMFgmpKWw8VcMPNIDx9tk5bw4Uhu51R80yyF0Q98YFM3MwqsyjJ7cYjRDUmuhucPI+BBiwRaqMOM8CN3wKjtjX9R4rCW+I7JdHrJ1A4sVgI8jSyjSvJ2n2x8jDio5508dClec4lkK9z5o92ALi+WTw5fsqRCkek8+b4WTj35lXiUiZp9x63rUlLDun+DvqkXyEvDS1dYugN0O0P+a0EdLgAczYO+Bu/Yf6zWL29+o1R5FM2ZWVzZ3RYRiBi7yJhAj+uMXwkY/PkBEhhEGZdDOekC8xrr4yU6AjEXZdY9AQ996emAojNByIwsU=;LkiqSDfXailLndUPREdTcA=="
+secured: "iALZJcEy4savgZU9N/wEMOLVFjrG8BBU/Id6o3HSLjuvkVRNYZgEIfNrb3gpFSlu4E0Xt3t9veu/cU0e/rUZzlwOwu0juCBMT0RGIR21D7z3EecxKB0mp2JsFQaf0X+5g97Ur8LzTx1YuGBUnNz44u98Vb5EOQWJhEaVhaK21fCRG9gQ8x1d7m5ZmwvBXm6XMrrYkVULqoufYqikLxFGpUouJ3YlAe062XgpKQDAePbq8xJyJzazg2zNKYiRLj3BM9YZpQ3LFLoh3KOkkGRGVNPH5faqMyHGiblX3JibFvPIksFvW5ZLQJp4woQin00s2sxWgBYewDZECVYThZyiv+GmgYxqfrwNfQ3xmIVdtiUBCaEQcNV7JEFuGEL0BiPXAK1jWzj3lvtPWcV5FYeknqP/Fch1D52irWc05xVkzvtCKGkE3GxaMrpvzDHm9bQZNZxoeTNZzz3bnlx1bIkzOcPHf8W0qz3/zyFbrJKxeIHcmPDOyFaUQIFmmWsU4Sb+Mx1CK84+9LVGuFEl9DA8Hw==;LFwYIlI93rfoydm5tW48dw=="
 ---
 

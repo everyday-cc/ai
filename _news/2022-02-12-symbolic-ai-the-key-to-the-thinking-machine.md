@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinki
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hybrid AI: A new way to make machine minds that really think like us"
+    excerpt: "That’s why some believe more abstract ideas about how intelligence works can provide shortcuts. Their claim is that to really accelerate the progress of AI towards something that we can justifiably say thinks like a human, we need to emulate not the ..."
+    publishedDateTime: 2022-02-16T12:13:00Z
+    webUrl: "https://www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-way-to-make-machine-minds-that-really-think-like-us/"
+    ampWebUrl: "https://www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-way-to-make-machine-minds-that-really-think-like-us/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-way-to-make-machine-minds-that-really-think-like-us/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/15153513/PRI_222457181.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The key to the thinking machine is symbolic AI"
     excerpt: "It’s most widely employed in linguistics models like natural language processing (NLP) and natural language understanding (NLU), but it’s also making its way into machine learning (ML) and other forms of AI, where it may provide much-needed ..."
     publishedDateTime: 2022-02-13T13:10:00Z

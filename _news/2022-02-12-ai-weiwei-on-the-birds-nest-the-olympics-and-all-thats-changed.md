@@ -72,6 +72,15 @@ related:
         width: 538
         height: 538
         isCached: true
+  - title: "Beijing Olympics: visitors go hi-tech to overcome language barrier"
+    excerpt: "ISLAMABAD, Feb 16 (APP):At Beijing Olympics, tourists overcame the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. That aimed to achieve “barrier-free communication” so that all may ..."
+    publishedDateTime: 2022-02-16T12:12:00Z
+    webUrl: "https://www.app.com.pk/national/beijing-olympics-visitors-go-hi-tech-to-overcome-language-barrier/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 4
 
 secured: "c8abxqWSOOXzmuHjOqVeYOrJLLkQAHJolee3r5KkzMps865TlA1rLhodQjHNh46Z2EuhPtYRd8pM/1SY0ElhfiymDCXC3BiuNN/AjFcHPd5Y4biSF9JXb1hZb4zdeTQynn6BS5VeLti645FDrLioo7lncC7TABuueSaomUn/kf4tGIn+fSzIQTf2An9EQluaoPdKiw9SSrECO35R5dHpAecNJrWQZphIouvey9Fm07bhJbLwwfXzxOa05XVDb4sQsDVP1opsKfYMBcWjzxF1UAMKI8AHm6jdd/TgHaiFzhL050ZgzjdsjWy+j+y5RQdnDXO2dxrcENSaBideinLj0pjG7Z/E1O5Z3TgaGVlx3Z5twzOSCmk8ZwTxWqLcD1xnltCjhvjhJhRHLPyZ4jteM0+7yDC49Y14GpexQytHUPWRW45hB4UY62l/Ph5UY2Fv6+T6EL5ZZ8kLtLprOVf2IWa7irIMTQ7gmDKHrVf3FwMWgcrw3YnSKBTJmwY/J0GA28gtxzlTaF8BUOZlN4iSbw==;/r7BVDmDz/5THTptx88vrw=="
 ---

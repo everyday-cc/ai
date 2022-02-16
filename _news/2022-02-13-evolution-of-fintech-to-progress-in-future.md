@@ -61,6 +61,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "UK Tops the Chart in FinTech investments"
+    excerpt: "KPMG’s latest data proves that this trend is set to carry on in 2022, so it’s a fascinating time to be in FinTech right now. In particular, the likes of Buy Now Pay Later, Request to Pay and using emerging technology such as AI are set to define the ..."
+    publishedDateTime: 2022-02-16T11:44:00Z
+    webUrl: "https://enterprisetalk.com/featured/uk-tops-the-chart-in-fintech-investments/"
+    ampWebUrl: "https://enterprisetalk.com/featured/uk-tops-the-chart-in-fintech-investments/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/uk-tops-the-chart-in-fintech-investments/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/UK-Tops-the-Chart-in-FinTech-investments-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Why The Future Of Fintech Depends On Open Data"
     excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
     publishedDateTime: 2022-02-14T10:32:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI copywriting’s future is transformative, not garbage"
+    excerpt: "As a starting point, AI does not have an understanding of what “meaning” is; rather, it uses natural language processing principles to find categories, sequences and order in the data. Concerning AI enslaving humanity in 2022 is perhaps a little far ..."
+    publishedDateTime: 2022-02-12T18:20:00Z
+    webUrl: "https://bestgamingpro.com/ai-copywritings-future-is-transformative-not-garbage/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/02/The-future-of-AI-copywriting-is-revolutionary-not-rubbish.png"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "MHecx+AE4hg7WxpKTL9nRTw0n/H/fnnCJb12TfESIDp6V6XNgrxL1Ap/9bgTB1zIKUobXy2jlB5UX3Wv2zbcAVGTHPMlD8h2/mNZF7pYSZ1YCR7q5ZukTh6gJACJ4z1G+rMXUEUUaWww4ad4pTcsk6eXy3k0A9qKVE2Ko8ekVEZQ2P+/Cf4SeB+LKvyMxKs4hNLZjk0PPt6f5xunSPEjY57Wch6hFfZkT4+A+2EncjFoAbTjVFaQSRY4lXhMuQmYVeVG1UcwkG19wMfBmwdJV6Y1KwyPM5UZPlGk4Zksn0ysda4Xyjb0gKs2knABGmDo8dz79/nO/aOMLWF1yPj8R+BmKabxtWZ2YjYi0Z0x4fCTDISmzI8/7Cj/LJ1vqrsjb+R+XP7uJxiXEVBwqK9/WctoyxZRybZkL2rSADkVnn8e+H1ixOs+6jr+yqrwlUsCTBKJavBCC4m6dfdNtPki+lwlBSKAMoEZwCK3nUWyiAUHCo6zQ28fU23KZ2bF6gr9zoRiS4/FCBoG18jDf1oHwA==;96P7GprVMTKnmrshtAUqjg=="
 ---

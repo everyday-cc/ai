@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/592e05699f02c948540bf5879996d915.jpg?t=20220216_002211"
         width: 752
         height: 408
-        isCached: true
-  - title: "Korea's $200 billion wealth fund is betting on the metaverse and AI startups"
-    excerpt: "\"There are still plenty of good opportunities, if you chase them eagerly.\" KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation's finance industry."
-    publishedDateTime: 2022-02-11T19:21:00Z
-    webUrl: "https://www.pionline.com/sovereign-wealth-funds/koreas-200-billion-wealth-fund-betting-metaverse-and-ai-startups"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 34
-    images:
-      - url: "https://s3-prod.pionline.com/s3fs-public/styles/1200x630/public/Jin_Seoungho_i.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Jio Platforms to invest $200 million in artificial intelligence company, Glance"
     excerpt: "Jio Platforms, on Monday, announced that they would be investing in Bengaluru-based artificial intelligence firm, Glance. The investment is expected to \"expedite Glace's vision of bringing the internet to lock screens, globally,\" said a release. The $200 ..."

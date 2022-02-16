@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The African software developers using AI to fight inequality"
-excerpt: "Digital rights groups warn about AI's use in surveillance and the ... machine learning to translate African languages not typically found in online programmes such as Google Translate."
-publishedDateTime: 2022-02-15T22:01:00Z
-originalUrl: "https://news.trust.org/item/20220216102206-e81gv/"
-webUrl: "https://news.trust.org/item/20220216102206-e81gv/"
+excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+publishedDateTime: 2022-02-16T05:44:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483105.jpeg"
+    width: 1240
+    height: 826
+    isCached: true
 
 related:
   - title: "Indian Engineer Develops AI Model That Instantly Translates American Sign Language To Eng"
@@ -66,6 +72,6 @@ related:
         height: 276
         isCached: true
 
-secured: "Vxy/tA9gXX4zK4Y3jcF3Qs5xhigfY5Wol11SxuoqN0CGOO9YM3VxitzFNzC8w/ciqNfPz5o4UUhRt+DVifMP3sLGEe+yDZzZxojuK3TTc35Q2a2/4IUaCyb28VKW4sjMzyV8AKDix7jGfkjCWYHhD0U5+zws0SL2QFQCrOX298uLD+EProS6UPSH7arQAj5KUrYPKPDxUfffI3EQq9rfCPRu27VianEug05dnGmaTbUGnRS8xb5EbQr5ghaO/SZ5so4v4xs54MzSUTRVAnqL2zMwAH6oG1UHoWkjYtSJiFQf1TBK/68toVD4653pouiPkutf1b8sf776TBwJNSWUGweinOmvY4E4BpaXOsfonLQ/E7eqOzndjnGs/B4UOLMXfIiTTNTIoqyNIC/q7aq25ic5VB+pfBa9p4fB2t5fii1F4G0q5K/+p6x6p6gqpjpXEjC1/nzAT273nQUfUTVo2qkG039ZpiyXRF8K58S6bt+okpMfofFvNWMkoYGV65A7QmOZ982HmaKd8fqvdR1T0g==;OuHhKfxLkYtnsDw0R6pvHg=="
+secured: "zK/F47ZE+l5xrKSuMIxJxwDCZ85de85yb3dWUJ0Bats6af8N7sdj5aU/GfVXuhQDG2W1AWc5dp9MEGJaf2IVlVx+swY46zRPVwP4cJUMK4rUWMs68qXSTMt8xFoKnGCar7LPPWzRQqs5m/SkGouUfo20iHSvIEJIrKc5OXcFnKjn3XOD/l6A41cX5r8F+F6lpexyhzK0SbfhOfriz/3kTQdQ3MAslaLK6dWSYQXQUywvly8R3w8V98K4q3w9ouPdx+K4nc40XCFk9rpxsFd1DdG7bc2Oku50afYYwSGJsKz86BthwPT92l7wpuNoFLL4VgQVC9rqhGqzMhIpzt0WblY/gcKzQsqiWpcnMJawZy0=;QoqwSG3OMhgVILLhKuJ0hA=="
 ---
 

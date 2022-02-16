@@ -58,14 +58,19 @@ related:
         height: 576
         isCached: true
   - title: "The African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI's use in surveillance and the ... machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-15T22:01:00Z
-    webUrl: "https://news.trust.org/item/20220216102206-e81gv/"
+    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+    publishedDateTime: 2022-02-16T05:44:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 19
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483105.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "VVeB3oEuVIZ+XnWOqTGTOLba0OQD9F25WV9SbbHuTH+f+p5uO5xasAZQquANLprT7gS4Ao2PL7PNzz8D6cQdN5yp+Zb0NPeLZdt4wQjA3PGFxImBdyl3LeBBdLfdilCo4AidQIH27vH7xPb8EwbY0JYGOhzKWkpOVBOD9ug8+wMhldQIE1CfRg/h3m4eig+kxVs6PaXSoTc86xSIFPP+lQKHJkQnG3+UgxWY3aP+bHHb8/U36cBX8bxxgTNV1mDVSvpiHpDl6/fqqnW223/dttT1JR+ha3nr8M319UB+aSd4FzXjYQVH3JfQKzl1REZ1fMGpf4cGWKO2ZdC8ondgCZyRrfXSTLW/0f5DOULZMCjWgFGWeaoiGxeKVXK0Lo2SvVxkf0I9RDFGhqsggsydRohVBGLHzQvAVYtjlvfiNGnSbiklWDWj23P9y76mPTdCmAoMyp51JMlbTkozz1D9CGzfZPzyWLEvYeCw+cmstXTXHb3IPI/ApajQ+TaS85jzv+C9O57Fn/zkAFT35c6Row==;Yay4U+8LBog5MAMqvlhvvg=="
 ---

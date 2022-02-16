@@ -43,6 +43,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "The African software developers using AI to fight inequality"
+    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+    publishedDateTime: 2022-02-16T05:44:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/the-african-software-developers-using-ai-to-fight-inequality"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483105.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "'Devnagri' Presented Machine Translation Engine that Translates Instantly with more than 85 percent Contextual Results"
     excerpt: "... would like to read exclusively in regional languages. This indicates the prospects and potential of vernacular content in the Indian context. Devnagris platform combines AI and human-powered translation with Machine Learning. They are powered by ..."
     publishedDateTime: 2022-02-12T07:13:00Z
@@ -57,15 +71,6 @@ related:
         width: 512
         height: 276
         isCached: true
-  - title: "The African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI's use in surveillance and the ... machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-15T22:01:00Z
-    webUrl: "https://news.trust.org/item/20220216102206-e81gv/"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 19
 
 secured: "5jubPS8wVv3xpzWRdNHKhMWNskXWuBNIjNjG/3JvHw8rjmRNYc/9wmKffDgFSgfotmlsX5ZnOUuEExjcZvgKz/bQm+DYRUFDWBdkG/+uhieU5DCE3z9jqYC732OOSpjzegTACh6aC+6OwCY5lXxW5zq1NtQmohhAyU5xM3W0LkZywJ9nF0yLLrZEkqodDXit7M7CPVRY/J7weFbSr0gS2tSOQRycsqgXxyly0zvTYqz/GP8SRlPha1ZxlcDlJRW3x+ujLCXPyMCIUOeejIZruv7/P9PPS0hWFbSuJs+fmUkozX322D0DKeOQY42aANcjluEYLXLpAoKC8Tc9xWapV4FI/GLN0YTg9QO2fNzMrIDgn7QYskzBjn3IaB2GhMUyco1uC9TdXcJdJzlLemVR8cmBIE33MtF0T7WWTT4ehu8vE1X7N5fuw9vCkM5mUZ1pg68DyXsCD0RtaQvIozsYg5ZZawaNd2aDDuDevz7v+kOBajbXpV7TxwQVAtI+uNY1iB70/vWkUw+WyITL5/SARA==;XIgx07yf5fkdHMbeblb02w=="
 ---

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Internet of Things will dominate applied Artificial Intelligence"
-    excerpt: "New forecasts from Transforma Insights point at an explosion in the use of Artificial Intelligence for improving enterprise processes and critical systems. The devil is, as ever, in the detail, but the headline is that adoption of AI, measured in ..."
-    publishedDateTime: 2022-02-11T19:21:00Z
-    webUrl: "https://www.linkedin.com/pulse/internet-things-dominate-applied-artificial-matt-hatton"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF4i6N4lGAyzA/article-cover_image-shrink_720_1280/0/1644607092457?e=1649894400&v=beta&t=Qi6vgYzNjO_Y7USvoXxCkP8XL21CG_cX6c1fTGU-2cI"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why Artificial Intelligence (AI) Will Power the Next Generation of NFT Marketplaces"
     excerpt: "Integrating NFTs with Artificial Intelligence (AI) Going by the rate at which NFTs ... Machinery Intelligence’, has found a place in modern-day products, including self-driving cars (Tesla), recommendation systems (Amazon & YouTube) and speech ..."
     publishedDateTime: 2022-02-15T14:36:00Z
