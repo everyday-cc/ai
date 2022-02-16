@@ -9,11 +9,6 @@ website: https://www.appannie.com/
 crunchbase:
   url: "https://www.crunchbase.com/organization/app-annie"
 
-twitter:
-  username: "appannie"
-  url: "https://twitter.com/appannie"
-  followers: 168041
-
 locations:
   - San Francisco, CA
 
