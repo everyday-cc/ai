@@ -8,8 +8,8 @@ webUrl: "https://www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-way
 ampWebUrl: "https://www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-way-to-make-machine-minds-that-really-think-like-us/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25333740-900-hybrid-ai-a-new-way-to-make-machine-minds-that-really-think-like-us/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/02/15153513/PRI_222457181.jpg?width=1200&enable=upscale"

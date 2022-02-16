@@ -7,7 +7,7 @@ originalUrl: "https://www.usf.edu/business/news/articles/220125-florida-blue-big
 webUrl: "https://www.usf.edu/business/news/articles/220125-florida-blue-big-data.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Insurtech Market Next Big Thing | Major Giants Lemonade, Cape Analytics, Salesforce"
-    excerpt: "... intelligence-in-insurtech-market Major Highlights of the Artificial Intelligence In Insurtech Market report released by HTF MI Market Breakdown by Applications: Automotive, Healthcare, Information Technology & Others Market Breakdown by Types ..."
-    publishedDateTime: 2022-02-16T08:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-next-big-thing-major-giants-lemonade-cape-analytics-salesforce"
+  - title: "Anadolu Efes CIO drives AI-fuelled data, analytics strategy"
+    excerpt: "Murat Ozkan, chief information and digital officer at Anadolu Efes, the Turkey-based international beverages company, chats with CIO Middle East about how a data management strategy comprising AI and analytics ... representatives start taking real-time ..."
+    publishedDateTime: 2022-02-16T21:03:00Z
+    webUrl: "https://www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html"
+    ampWebUrl: "https://www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html/amp"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
+      name: CIO
+      domain: cio.com
+    quality: 61
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
+      - url: "https://www.cio.com/wp-content/uploads/2022/02/Murat-Ozkan.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "Report on National Enrollment Trends: Institutions Using Advanced Analytics and AI Fared Nearly Three Times Better Than Most Colleges"
+    excerpt: "\"As institutions confront trends that threaten to undo hard-fought gains in enrollment and student success, this research highlights ... analytics and artificial intelligence solutions for higher ..."
+    publishedDateTime: 2022-02-15T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/report-on-national-enrollment-trends-institutions-using-advanced-analytics-and-ai-fared-nearly-three-times-better-than-most-colleges-1031196251"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 18
   - title: "WNS Triange Powers Business Growth & Innovation with Next-gen Data & Analytics Solutions and Artificial Intelligence"
     excerpt: "WNS (Holdings) Limited (NYSE: WNS), a leading provider of global Business Process Management (BPM) solutions, today unveiled WNS Triange - the new data, analytics, and Artificial Intelligence (AI) unit of WNS. Driven by a specialized team of over 4,000 ..."
     publishedDateTime: 2022-02-15T13:10:00Z

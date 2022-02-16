@@ -89,6 +89,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
+    excerpt: "DeepMind is a scientific discovery company acquired by Google in 2014 that's committed to \"solving intelligence to advance science and humanity.\" Together, they have developed a new magnetic ..."
+    publishedDateTime: 2022-02-16T21:57:00Z
+    webUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.html"
+    ampWebUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/epfl-and-deepmind-use.jpg"
+        width: 1107
+        height: 622
+        isCached: true
   - title: "Deepmind’s New AI Code-Generation System Is Now at Par with an Average Human"
     excerpt: "“AlphaCode achieved an estimated rank within the top 54 percent of participants in programming competitions by solving new problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding ..."
     publishedDateTime: 2022-02-12T13:22:00Z
@@ -119,6 +135,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "DeepMind Simulates Matter on the Nanoscale With Artificial Intelligence"
+    excerpt: "By expressing the functional as a neural network and incorporating exact properties into ... to engineers and ethicists – to pioneer the development of advanced artificial intelligence. The company’s breakthroughs include AlphaGo, AlphaFold, over ..."
+    publishedDateTime: 2022-02-16T22:13:00Z
+    webUrl: "https://scitechdaily.com/deepmind-simulates-matter-on-the-nanoscale-with-artificial-intelligence/"
+    ampWebUrl: "https://scitechdaily.com/deepmind-simulates-matter-on-the-nanoscale-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deepmind-simulates-matter-on-the-nanoscale-with-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 56
   - title: "DeepMind’s new AI can write code"
     excerpt: "A new programming AI system from Deepmind, Alphabet’s experimental AI research arm, can perform complex coding tasks better than the average programmer and could lead to the AI that can change itself. AlphaCode was trained using open source code from ..."
     publishedDateTime: 2022-02-14T19:09:00Z

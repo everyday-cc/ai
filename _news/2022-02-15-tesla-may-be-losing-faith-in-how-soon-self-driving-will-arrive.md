@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Self-Driving Tesla Cars Stay in Their Lanes?"
+    excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
+    publishedDateTime: 2022-02-16T22:36:00Z
+    webUrl: "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUxNDA4NzkzNDEzNTI3/nvidia-chips-are-superior-to-everybody-elses-jim-cramer-says.jpg"
+        width: 620
+        height: 400
+        isCached: true
   - title: "Elon Musk's Promises of Self-Driving Tesla Cars Run into Potholes"
     excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
     publishedDateTime: 2022-02-16T20:48:00Z

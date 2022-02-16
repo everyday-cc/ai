@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avo
 webUrl: "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2022-02-15/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--8D6KB7a4--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-15t040616z_1_lynxmpei1e03o_rtroptp_3_olympics-2022-translation.jpg?itok=KgcKmXL0"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Olympics-Beijing visitors go hi-tech to avoid getting lost in translation"
+    excerpt: "ZHANGJIAKOU, China (Reuters) – Businesses at the Beijing Olympics are getting around the language barrier ... an artificial intelligence (AI) smart translator developed in China."
+    publishedDateTime: 2022-02-15T04:12:00Z
+    webUrl: "https://www.metro.us/olympics-beijing-visitors-go-hi-tech/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 23
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1E03O-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "xvBzi1ZjhVskMBS1k/M7iX63iOG7jhSQx5j4CUQYRG+Pz4aW5IanVvBUdqxzA+eHKvTcWV+jxM1rvGKG/Dw9vSVsLGCJ4C9NmRSxhUhaAoByiVR9jfOIbA0XDMNWUiaJ39Puo9l4Q9AwspKXWfwQzW3vilMPWGzMD9LuX+MSrj9j2IgswmYxl5QrNp6P9jFTn0Cb5LNHcgkd9lrTjljuit2jgh/H1IqSIY3cQcubceWOFgHCdDCx4JYr+6zuY7fOmU0PFI3pkUlUmGEK4QFmuxdDhkB04mS7ecike6HEhXnCu6B8oIfJrcy1EPcNnY+OMvjGk/GHmLyTllutNTqhfsiWDBiVZCy94aPeTaNjaa/P4psMpv066MjLNs+348czHqeaHWvJNqTMKiqC83g7wG8Pry0y/RKmFvNAvW7mACqf3KEqvccVISJ3qSPfVzwvo4M+47Og6EwnJyP50Zc0yz0rYlWfFIufJGfZDLe+GIF2PlHdUIyIN7oZUdA+RcEQNKkUHYagEKr7j8PXGV7/fA==;1d1+SoGbctI1Eb9Kb7TTBg=="

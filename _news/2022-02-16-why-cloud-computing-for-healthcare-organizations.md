@@ -43,6 +43,20 @@ related:
         width: 325
         height: 325
         isCached: true
+  - title: "Challenges of AI commercialisation"
+    excerpt: "there remains doubts and challenges in AI commercialization. These include human behaviors, ethics, safety, politics, liabilities, and so much more. Here, I will discuss a few examples of these obstacles that were interesting for me. Earlier this month ..."
+    publishedDateTime: 2022-02-15T18:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/challenges-ai-commercialisation-shima-rafizadeh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQENHAfthUgbPw/article-cover_image-shrink_720_1280/0/1644944151978?e=1650499200&v=beta&t=0GIRmLXXayaaRrmXcNq3ipyWTJEi8VccSDQowb8WGRo"
+        width: 720
+        height: 720
+        isCached: true
   - title: "Options Announce 12 Years of AICPA Service Organisation Controls (SOC) Compliance"
     excerpt: "\"Options is fully committed to investing in new technologies, additional resources, team development, partnerships, and the strategic use of Machine Learning and Artificial Intelligence to ensure our security controls, managed services, and internal audit ..."
     publishedDateTime: 2022-02-15T18:40:00Z

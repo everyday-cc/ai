@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accura
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "The accuracy limits of data-driven healthcare"
+    excerpt: "This is not a new concept, but as we begin to rely more heavily on data-driven technologies, such as artificial intelligence (AI) and other automation tools and applications, it’s becoming a more important one. Cough, fever, and shortness of breath are ..."
+    publishedDateTime: 2022-02-16T22:40:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/accuracy-limits-data-driven-healthcare"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
+        width: 820
+        height: 312
+        isCached: true
   - title: "Putting user-needs at the heart of a multi-agency advisory service for artificial intelligence and data-driven technologies"
     excerpt: "Health Research Authority and Medicines and Healthcare products Regulatory Agency to deliver a multi-agency advisory service (MAAS) for developers and adopters of data-driven technologies, such as artificial intelligence (AI). This innovative new cross ..."
     publishedDateTime: 2022-02-16T15:40:00Z

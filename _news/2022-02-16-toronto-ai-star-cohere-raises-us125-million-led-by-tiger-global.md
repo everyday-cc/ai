@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI language processing startup Cohere raises US$125 million: The Globe and Mail"
+    excerpt: "Cohere Inc., an AI startup founded by University of Toronto alumni that uses natural language processing to improve human-machine interactions, has raised US$125 million as it looks to open a new office in Silicon Valley, the Globe and Mail reports."
+    publishedDateTime: 2022-02-16T21:36:00Z
+    webUrl: "https://www.utoronto.ca/news/ai-language-processing-startup-cohere-raises-us125-million-globe-and-mail"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 35
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/GettyImages-1318603905-crop.jpg?172807"
+        width: 1140
+        height: 760
+        isCached: true
 
 secured: "nZLaCKGvgxhCvj7RQl5o0SQqeMReKmKkyI7bxlBWX4KpocmBIdPBzYLN7JM/mU3d7oGF6MUS+hxyhyTx2lJRq/JPaEORWc/3/9qO+2aclcuFyqFBijQ5jc2czQzQFSosPiIuj0GGLUdWoXWCkN6mUwG7N0MLhm1VA7tSl2STSGHa9SIQAYMUw0q09ge2asNLc4HLBPfCkjj20ehT2oGvU5mrL17FzNYxCOguwtlqOg8/mvBZPl0QeFiKPOZrvt9+sJ6XpWbyJh5jzOtgl0RFCgK/4iobSTTFWr7yNXi/dd2T+dhllfY24rhg6idNZcShLxAfc7zB7lNhlhbbAr002qupjoZOtRoX8t0Uol7GlscSx6DmAaqGwF9IhBtL022nB9Gs98fFDcXi76tp/gWCXOYrO1UlSqpM1eltfWiyCFGPtcRFbtXC+rGzKDqM07NOR0B9I5C+UQhafp5c5GUs1IEE6/JWv1N4Q4nlGhLa/zZ6ECWV8DlU/01YmWt97hr7SdSACwac3uY2sQRajKtBcg==;LkcZg/3q+t9Y5CfXF+qRPg=="
 ---

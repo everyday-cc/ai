@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "POWER Engineers Partners With Fault Detection AI Startup"
+    excerpt: "POWER Engineers has partnered with Buzz Solutions, a Palo Alto-based startup focused on helping utilities spot and fix power line problems before faults can spark wildfires. Buzz Solutions offers Artificial Intelligence (AI)-driven image recognition that ..."
+    publishedDateTime: 2022-02-16T21:13:00Z
+    webUrl: "https://www.tdworld.com/test-and-measurement/article/21233699/power-engineers-inc-power-engineers-partners-with-fault-detection-ai-startup"
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 37
+    images:
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/02/Supoj_Buranaprapapong_Dreamstime.620d623b78b51.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Artificial Intelligence (AI) Will Power the Next Generation of NFT Marketplaces"
     excerpt: "Integrating NFTs with Artificial Intelligence (AI) Going by the rate at which NFTs ... Machinery Intelligence’, has found a place in modern-day products, including self-driving cars (Tesla), recommendation systems (Amazon & YouTube) and speech ..."
     publishedDateTime: 2022-02-15T14:36:00Z

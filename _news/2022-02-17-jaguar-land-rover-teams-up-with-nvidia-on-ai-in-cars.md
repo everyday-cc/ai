@@ -81,7 +81,7 @@ related:
     provider:
       name: TheDetroitBureau
       domain: thedetroitbureau.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
         width: 1600

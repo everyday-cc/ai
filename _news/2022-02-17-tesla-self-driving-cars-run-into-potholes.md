@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 748
         isCached: true
+  - title: "Can Self-Driving Tesla Cars Stay in Their Lanes?"
+    excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
+    publishedDateTime: 2022-02-16T22:36:00Z
+    webUrl: "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUxNDA4NzkzNDEzNTI3/nvidia-chips-are-superior-to-everybody-elses-jim-cramer-says.jpg"
+        width: 620
+        height: 400
+        isCached: true
   - title: "Elon Musk's Promises of Self-Driving Tesla Cars Run into Potholes"
     excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
     publishedDateTime: 2022-02-16T20:48:00Z
@@ -113,6 +129,6 @@ related:
       domain: barrons.com
     quality: 13
 
-secured: "SIz7nq3xSQ/3Bl9T0gjkTz7HM5fDHpvIV55fwwY3suVDPYp4u0qm0UhkdDQ55vwWS2HDFgA0WFF0LI6jQmphgZAFGbwzXga2/S6WuU/LBsIcyYD/KhujViChnzDt7Z+EJKQztq0IcWa1ybzy55U67Y0/R9NcaiNFVUYVDnB3gi6n/ejhUtIROPZVczBGT/TZYTdLqqdX6o4KHCMQMH/1HjmPvNa9YAne/4BBaf8m4TALveQxsNMm6q4isSGQKaM1j4SUYQ5yyvmcpPOGLFzmA1x+atBQhU7UAQddBd8psFfsDr863kaUP3JnnecfpRUS0qgsb+S74s9+QEOFWUFI+VpHi6bhMEkyi3cTvLQdCPg=;qDH530MaMh87HUSLjKYCjA=="
+secured: "00xpMHlIXI32SV/Ma92R5Eft5TyC7CJb88d50ijxivaYSLsPtQ3wF4bJEohXGjq6p3M4fCId8pqgf47WEiYHir1WYYKoth9tYlTqFJf7MoHWJDgZ+vWwbIpYJYoz2G2GQ2xusy+nRWr2L5ui2LKIxp7X8HIgzZFaN9IRlQWqwMnhr3CoBl8/qDGZxb6CM3mtjIFbN18RL08Cr64RJEJEiWVnvGIVmStcHKJQID+KQM3wsoDfl2nGcSGqF1fnZ2VnZ2DWJzV7dX1Kuf/H78M+/dH9a0xMvW4olhFGA5cQmVQIXcXUWI78NBbuUz9hjjQcbPtCrQWxrJ9VMFHGnwKPd7yoDDYLmzAJOY92W2qHPdl5JGxPAs3lNEJ+CVb+u1D0UGPJnmDht89i8hygkn7g0+gR1bmzmbkBFN8dw5H/GhTyb6TIn+tQFNc8bD2d68aSq01YBTeodAWGOzcC0trJp6OSuLXznxZTwI2Yh8dbW3SYEDJJhGulPp6vOtNRMEuwo9iCAqx6ZNjR6kiiEiwERw==;5CwS+OOTpOR1yGNLrnTQFw=="
 ---
 

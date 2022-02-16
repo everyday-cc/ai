@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta-AI: How to Build True AI for the Metaverse Platforms, or what's wrong with Meta’s Next-Gen AI Supercomputer"
+    excerpt: "Meta Platforms (former Facebook) has introduced the AI Research SuperCluster (RSC) as the world’s fastest AI supercomputers to accelerate AI research and help us build for the metaverse. RSC is supposed to help us build new and better AI models that can ..."
+    publishedDateTime: 2022-02-16T13:14:00Z
+    webUrl: "https://www.linkedin.com/pulse/meta-ai-how-build-true-ai-metaverse-platforms-whats-wrong-abdoullaev"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 18
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHNz1c212OFhQ/article-cover_image-shrink_600_2000/0/1645016282331?e=1650499200&v=beta&t=-G2KHIMZ2vJVyPL7mFAqN0d7kqQttNvMycxvJREkSjI"
+        width: 602
+        height: 339
+        isCached: true
 
 secured: "PXmrXAj5q26pvDzJSZKCPNBrluhhb2s9WfeJlNiQ1GYy84sRFzTVpfd5YqNrCVG4Fg8x5zg3f6nHZzLX1Vyb11ZUEfHkBVmmHjfiu05dkQaD34d4KL6RMHkpVLgXgJdwNjUv7xgUI8LHF+6TWi2xgm58xY07Vco26QiVWkfvVI1/W0bk/ItsrATaBZ01azMlqR+Pnm4E5QMrWzP2dKrR7E1Ori2jK5MFpSIR0APOEWIb7sIvOeHIehqngTGfJUmW+69peOpAmRPQ/uFv5RO4peRoatSagmd7tETqZawK0kxbEKI1SQaT7QYU3UUuua76P3DLTYcPGo93OieqJqXAzHoyWTvKY+20aRm5b3rCS/7LRuPZE7K+PMlugiXGwLiqNfQkKFfeYvw1Hjph8k3SGcEDuMH7lLMLU0zJ2wOiVTwRKvvzYq6MGkJN2Xz7v7lHnXufjR4bTdIz9sm0wclDyssooDOe6m2QxmnJI/6VYUlE++pl046Qh5sXYVew3gMWH9pJB5ZaHWGdelgrksmMNw==;fTBc9/UdMI3KXmGRKGeGqQ=="
 ---

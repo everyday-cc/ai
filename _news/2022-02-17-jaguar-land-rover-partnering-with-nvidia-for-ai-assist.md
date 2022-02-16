@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T19:28:00Z
 originalUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
 webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
@@ -101,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "l5g/JHejKwnE6rD8z+P6E6s4AZI1+OybMUYpCj5Pl2uO/GZfG/EdNyZ99v34kNJRMEoLIwJBf28L0VGXvXFQPLo/TFSTYK/VT6Nbp7CRVOQgv2cdPmMDtygf0zGElbiNqzqtVXHMwpBgDCRIetm1QMKTB5ED1RMMXgpjdoH0WSd9MD6Gw7Rx7ZlG19PTz1+/mSAMolGf/6mkIZuS6POu0U6u/fO2L5Zk8g1j6pEYoMAA27ZlEYrCaH7XijV9xQkVchyUxTP6u4t0Mo7wR/78g7CKTXVGcZ2yfTBprebh4gsL7BFO0Py8b/lVmwbA4eBft9gEucwUjqHpkysrNT/hgvBFY2OzIecCNeeemM9mHIU=;W5I6tPa/g8SuN4SsWON4rw=="
+secured: "8UbI6U58t2I3J8LwWajs7bM5DCgzxKeecatO21WsUiMjbQiV1VRcOcSmB0mU/4GmLXs22ihqrIuM3xBFne4SG6n06cL3QfKobb1Ums5mclLiQPjOd5UhBnWM8KUkCI3C/vjIGmgigy/yp255t5XqQMz8QenMfCzKioYFicdjyH5nkkVyxqjvRtmftIu/MZJazhowQs4RtZhApfC9UHKBQReQLX1TRGxro6/ba6neAhuLgDhAzr/EYXQ1OIFq8eRt3p2DaxT111RzrPaBFBVbQpjz6mWklzyHxeSUvYgJ1Mmj0Kk74L4p8GhifMxUGvo5bc6r8LVN5lxC7TYHLYKdKnLPjgq5UzWxads9/T0/cTV8HzR1SXzSX7OTmZ/jQzLnbG8SVAImJheVJQ6g37L5zz7G4+ql9Ab4kiNQpWhxLPPnrCT2/3mr0gYFMbLeChpFeKNqu+EFZ8zzeciEiRp2OXrgoNDA3obXLz8cgFpZMmG1Bu7wiYZMxmA53RwSlhqf1y5+ATORYt6MY1hpPjS/HA==;LthApXDgt+tAZl6JTIJGIg=="
 ---
 

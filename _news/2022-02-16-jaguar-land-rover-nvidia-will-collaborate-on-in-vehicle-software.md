@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
+    excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
+    publishedDateTime: 2022-02-16T19:28:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Jaguar Land Rover teams up with Nvidia on AI in cars"
     excerpt: "Jaguar Land Rover on Wednesday announced it will partner with Nvidia on a range of technology fronts, which customers will start experiencing from 2025 ... including self-driving capability and other AI-enabled services and experiences in the works."
     publishedDateTime: 2022-02-16T18:00:00Z
@@ -86,20 +100,6 @@ related:
       - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
         width: 1920
         height: 1107
-        isCached: true
-  - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
-    excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
-    publishedDateTime: 2022-02-16T19:28:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 37
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "eahaO7c20WQFm/j/2fGbWdHZ46jgtY/PxRABA6lipmNTgs52zTb5V9yHE0/JJWVcS/Zb2aoXSq7i5jgdgVQXZ+RAXy10Ini9/2spQrjz0ShIUSoh2sTZYd/lez8CCMp6ref+C0AgSxuzT39/V547gUqO0sIz6L1v7RrTyGBYAhMZsnjodiGxEb0hJtqLvANLbI7Hp0/2JQIFFMUDFYWhpiyCpPzT6PvlYcQvv6bymJ7WRNFpjXbPLuSMNsq8CkA84jf/2MTl/MGCSDqIKeY8Y1C3kpGScRz1jBUrT3r2zXc/Gym9YGLNrVy7IxHMOxcxqv22xW2mT+15sCTro5Tu/OChMZVfovRbQ76QrAHOQMNaARZ4PZNcZHbrmS6vmnFP9+uVsHZlRxkuHwzcGIuwemCYlGQy+rX+nnwFZFCzkuLx38F2diB9VO69yHqQTxyHCnrElOeOYMf002QBBU3n/Hbtd/MS3+oG/ojzsOOvjh0hYRDfVCkXcEDKmPh9HuweKV26Wt/vax1cEGeQakwNFg==;NYyqDXOQaadRXDspUNgfBg=="

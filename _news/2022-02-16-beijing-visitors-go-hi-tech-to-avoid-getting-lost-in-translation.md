@@ -69,6 +69,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Olympics-Beijing visitors go hi-tech to avoid getting lost in translation"
+    excerpt: "ZHANGJIAKOU, China (Reuters) – Businesses at the Beijing Olympics are getting around the language barrier ... an artificial intelligence (AI) smart translator developed in China."
+    publishedDateTime: 2022-02-15T04:12:00Z
+    webUrl: "https://www.metro.us/olympics-beijing-visitors-go-hi-tech/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 23
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1E03O-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "33jtuJCDOpNzrRkWdFGHMPd3A2viEX7Yye6RqQ07Q6WP9+mnjTktOHWmNyvqb/HnPlRImHEhkXzDOxjw9RjqcySukR13TC3q0IhqWsjXob/s7Al8Pk1luejp7ayrRxHAil8o6Il7xDijRASfa6U7A2MmnbDoPWq9eVffqJVwMyzDu1LoU/EklWYxWrRhPX+NZTtoIH3j6QcMaoQLFphsrV8d1XiMr7VELMQvmZKFHJTDGjQkGemUsC9B9mT8+VbUb/phYRAQ1k3TFQCiEsdKjZJSdSK66e0/Fyl/gFsJhGxP4czCywMF0WX4jrLxlvkulUuK3ELsi3Q22MXcFIAJVHc7KBQ1mrLyeG6baWXEIE8=;2pCGodmRxAeY/kX2H2kMcA=="
 ---
