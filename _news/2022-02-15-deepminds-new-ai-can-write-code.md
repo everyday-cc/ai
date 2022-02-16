@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind Has Trained an AI to Control Nuclear Fusion"
+    excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
+    publishedDateTime: 2022-02-16T16:00:00Z
+    webUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/"
+    ampWebUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 106
+    images:
+      - url: "https://media.wired.com/photos/620cf87dd88b0a9fa5094bd1/master/pass/Science_TCV-purple-plasma-visible-light-cam.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "DeepMind applies AI to controlling nuclear fusion reactors"
     excerpt: "Join today's leading executives online at the Data Summit on March 9th. Register here. DeepMind, the AI lab backed by Google parent company Alphabet, today announced that it used AI to ..."
     publishedDateTime: 2022-02-16T16:00:00Z
@@ -116,20 +132,6 @@ related:
       - url: "https://res.infoq.com/news/2022/02/deepmind-quantum-chemistry/en/headerimage/generatedHeaderImage-1644167237071.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "DeepMind Has Trained an AI to Control Nuclear Fusion"
-    excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation, and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
-    publishedDateTime: 2022-02-16T16:00:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-ai-nuclear-fusion"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: "https://media.wired.co.uk/photos/620c038dcba4b51f053ce8f8/16:9/w_1280,c_limit/Science_TCV-purple-plasma-visible-light-cam.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "4OvXMEh9E9yCRFVCm6l46Tl0kUtKLykbFmNNbWBy/H1DjF9noGd2voRLpPjrtaJi92LvEeG4Uj/9xuytuhAINJtevV68q3r7TaZ6OMxeJ5kLhL47vuoVuMk6VEQ1MD1OLz9gWgjPBJFS0jHAHe44LTcXWgeKKfBsfG9J46L0TonMLZQJeApvFOfliEPnpVYib4XtbHjgAGGBC77S4d+vc4DtVkVjntPaHeWUO4m3L2VJaufn21Z7tRWnW2GsHvcYXiKH36rDL1OT/DiutS3t2fU+fvEoWmyahcHaSCTad0Gi7t8UVlzHb8Y7OjiWn4+O1d2D5bdf7MzbZ95lVYv/Z7vjkiVqrBVaGwD06UtTdIExJK78V1K1ecMyXdjwmOBT0W6WUhBLnrzclP9e8Td0PKRT+WTJ9m9122lSMGYSpnt/S3CDYTs1JD0UQXq6pyJctqHZShk/RWCxj4MBiTLBbBZS7dAjquhgMGjmbbO/knqTAkGlAaxD618Avdh5+QeoXgafisfzTeyHW7WnRcrrfA==;pZVLwM/dJWCzcOBsRDRlRw=="

@@ -26,6 +26,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Nigerian immigrant begins manufacturing first-ever Black-owned fleet of self-driving pods"
+    excerpt: "A black-owned tech firm based in Miami, Florida, has begun manufacturing self-driving vehicles called JéGO Pods. The firm will start releasing the pods in late 2022 and will be used to mobilize healthcare services. JéGO Technologies Inc is founded by ..."
+    publishedDateTime: 2022-02-16T17:21:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/africa/Nigerian-immigrant-begins-manufacturing-first-ever-Black-owned-fleet-of-self-driving-pods-1470784"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 15
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/126/12681572.jpg"
+        width: 600
+        height: 369
+        isCached: true
+
 secured: "9Ma/xKrsaZOL/5atkjdOtcXw8qOAJn8RyIYcerDoLNRmzruMR9cSRFEq6gLKgyhWRd6iDA7UdY7ft3Atj5Ojz4LB24BsAOdQ3hz0wPG5KlxUzSkJ8vzkVtJnP18jTLBJSOd1V71/ulQw4DaP6lj1hO8VZna+gB1LuxkYkg22uVBq6Ehup+6aJyA/4/o02+QUxJTSpJrAy1usDRhi2q0FwRe9g7a+VVbp2RZvH2cGQTxFbn2mOoqMYNHQoTYO1Em/sJkf0kCe01ZHXgHuB1ScHQbBqqvgtsrUi5HL5vBv0ugtSUd+aO8OyZiw3QdqnB8qOvdSyLTAZCksj4JWFZrXqSG5S3dQXOj6oEicU6S1z2IRGvmEgP+SER7HHZUrL5HKbaKu7FdlN2wnO1GvJf4MkkAFWdikT2ZolO8GA7ZTRaj2Cvkej7X0rK6mBDH/lnrqw2su6OQhhf0mOs5ZENkcgYSFM/krS9bGxICh0SrFTlB4kZrrdbQedzxidYFg5/+/eEP54yP9G/kQg8WivOIKcQ==;mZLCzPsLaVFvCT1iRORN0Q=="
 ---
 

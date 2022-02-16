@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controllin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/amp/"
 type: article
 quality: 104
-heat: 174
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind Has Trained an AI to Control Nuclear Fusion"
+    excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
+    publishedDateTime: 2022-02-16T16:00:00Z
+    webUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/"
+    ampWebUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 106
+    images:
+      - url: "https://media.wired.com/photos/620cf87dd88b0a9fa5094bd1/master/pass/Science_TCV-purple-plasma-visible-light-cam.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "DeepMind uses AI to control plasma inside tokamak fusion reactor"
     excerpt: "Fusion reactors promise cheap, abundant and relatively clean energy – if we can get them to work. Now, thanks to artificial intelligence firm DeepMind, fusion researchers are one step closer to extracting power from plasma hotter than the surface of the sun."
     publishedDateTime: 2022-02-16T16:00:00Z
@@ -121,21 +137,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "DeepMind Has Trained an AI to Control Nuclear Fusion"
-    excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation, and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
-    publishedDateTime: 2022-02-16T16:00:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-ai-nuclear-fusion"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: "https://media.wired.co.uk/photos/620c038dcba4b51f053ce8f8/16:9/w_1280,c_limit/Science_TCV-purple-plasma-visible-light-cam.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "wmL1RY0zxqIjIg0GGn1H6U9uOJ+8VfSNQcm2gJP6GXTZOp5mgP+MXxVdv4/ktdA1Zp6TI6CHIMTeAbMPsQzioy2pyKij0AiJFopKUBr/EAkdUX8p2Mh4t+YmGtv/saN+aejTKSnHi0zxgOF22oujjSkeNFuGeZjb8+33ERSPv/IkIwD+gl7fBNNhYLXTx0hrSW+SM5x8Q3MxnmxlU+6+SXicDbsTKWNCuDuFJhciXwn/O8VwRGFmTW99My1mqvCgnvDQEgzCT/b2zSQ2YB85J8SwbNkFrkwKRCAot7TuBcEPjFDrRv9QhUJ9KacY+4dOlDBH7I1m0I8u7gPMlaEtkkfaHLv5dycSfz3cdbWhBiI=;vZ5IDidXc6h/TU4r9SrLkw=="
+secured: "7R+FbdDZJ9+9g8FTDIHAz74+N3OmOQNM8BUNE77gwfxi9EsWRZ4IVpb1+ohYbVa6QP/lzCYDdwojqpGKD4XREl6oMGWfW7EyMiUiBGkzT8RvMyxfv2FQW+x98MYcuYHiBt5l6XmOGq7HQafoVaM074EvgL8P/aTT0j5K5mFc0fVF6EEKdziK/TDgfUOUsjJmY85uN7HkV3qfHui1Roa8HtbhgeAJUJ6yipyWh/Qlk3J+Qt5Vp3pdu9jUYX/DWxbyV9nzpHw399aGyDMnUcB1y2mqF8k97MMWfiANYiuh/hj4A+cCsQT5LNVTFtqfWgCOVVdUwmx8ykpz8HWg5r3fXVXM8lM2nS2HRReAM8/Mr9wUkvyCjAdBUBr1ESE0lRqh+bZuBSrUx36lM0+wUmdB+8ro2YE03HvtoIFqHmBZp+xMiPmnveF1tNJXdSAcFHKrad9sV+fiTchaRFjtMiaGWnWSWd7sGSyC7kwMN+v2AneAkeI9FPEyfgZEhRcRUmCpy7yYHNMHqc13p54tShKG9w==;1kd0qECI8b/mhYkz2nSrTA=="
 ---
 

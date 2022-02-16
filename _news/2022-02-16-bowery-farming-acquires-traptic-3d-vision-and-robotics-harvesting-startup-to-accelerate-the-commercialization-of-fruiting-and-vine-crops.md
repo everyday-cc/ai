@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T14:17:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-robotics-whole-foods-market-inc-artificial-intelligence-a3f233cb7ceaf0a7621cc656d770451d"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-robotics-whole-foods-market-inc-artificial-intelligence-a3f233cb7ceaf0a7621cc656d770451d"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

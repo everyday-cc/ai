@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jaguar Land Rover teams up with Nvidia on AI in cars"
+    excerpt: "Jaguar Land Rover on Wednesday announced it will partner with Nvidia on a range of technology fronts, which customers will start experiencing from 2025 ... including self-driving capability and other AI-enabled services and experiences in the works."
+    publishedDateTime: 2022-02-16T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135085_jaguar-land-rover-teams-up-with-nvidia-on-ai-in-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 37
+    images:
+      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
+        width: 1920
+        height: 1107
+        isCached: true
   - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
     excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."
     publishedDateTime: 2022-02-16T14:01:00Z
@@ -78,6 +92,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fIYYnekkrFBXal1OIQobeBTFGDij1vwc1n+OU8kWIsKiYehYIjtolNM3PrIozjM/KyercT2dgKoAI3d/qn2CYzeJK/9fh3e1eE+zOQ8vFh0m1XmbIoyUZf3Wr3UGVNhbM4r2QZpydGZqL4BI9Wi/vkvBN0PiMyJLJwlO4cyu/6CLGuvACZbUrLBY5nMu7/pQqyeY6SNSRkoTwrxfjqlDbB/KtYOjTsvtfk9oRuPqjDeb30qOoMIPSa87FMwEi5GBTKzsB8zFD8kiGemeQI0NmZbaUwHyyDYBw6pWKJt5XljaWG3EMjiQMB1jncls+lPDIL7IDMi6KZpaKIgPl7jTArsosHBBJtYemdUVe+Dddiw=;dxewU5pWprUcWyxapO5VqA=="
+secured: "gtkrUFJl9POix3pV050miiVn7hTmt0sUgVOfhoN0vgIomNEvz800b2OBxoUj9LBpTe4hUcCuyZ+J6Hj7nmyCH3htqxdQug79VOy+/rYcpS1RY4YhT4PkpIAZXxZZdsudyQLheItR+gg0dnQPj7u/MVVneYrBs42xfnXjnVEGyKV+dXoVcseu1YnCWnElIQB1tTMcQFk8lcje4xaD7KGnbPd+Gi3pVw1jHsVnlKsNVUMQbk1ju9o2eM5P31xj/U6/You9Dp0plGh67tu6w8N4AnKP/0CdNgD1fOEFLJ6PXjZsCHwi5di5d963z9aBaXkczDJwLiwp+dBzHscrAfGPqg65NOnVtF+FrGJ911KZ09YxdcNgqtF/DrwTnHCwEazJmlJ4EPuUI5fNj6fshyfgC0ZDqXVlBpLhlBZgZC6ECPSK6yqAgE9MQUlsYqIPftjTx4GW/T7aMzTIRYOXvsWGiGKMNdFj5OuoHr9vVlE9KUqow/PgUJIzbbqvQHO725C7KuSo9ttoD3Qp28Ev9KeIxQ==;guCBxZnu00TnD5fRhA8TpA=="
 ---
 

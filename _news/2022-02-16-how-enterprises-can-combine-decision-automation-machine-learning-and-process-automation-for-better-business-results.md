@@ -70,6 +70,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "kiweFxCeJ171L1t0S7X9aKUwWz/Nnz1DQjIYUx+a75JygqY/wcSpnuNq4XW/jRh6WmO9uwIvQ432o4xF9OMB0qwWT7ettxCh0ZrTU9NZMDq9LyA5j8rlbonv6eKczR47suYnvqR8ymiGRbSCdF8paRQLsyCL+iGwsGoB2L0y55Oy2v8ffUlV7hHbLE1A7iS/IaWlFsGe2m6YXwSsmsl/gghK36M47hQjCcQHn8TGj8PiK04sLKfNHgYQi1o97SIhidHDUK4n3MNEh0ODokpA/UcYMI8fPSMlV45evTK60qMRsLKPJVohDvu6zmhSLf5BCJtKbD/a88+uAGIikS+3obyQ1y7+H0c3cI40DQSxMcs=;n3dxnteg/iFTETLaq1P9tw=="
+secured: "u4P+7X1DDjasu94UacbBivWkkwls8jXICb6WLkalimz4X5k++4tuc4ponOjCQkL2qghF0pUb+YqtJJJSsjoEqTS/m0Br5amk+GMsIPzEYvlStv5+mCKa7hoD9nSly8jeHEbYM/aMTkEx/cevof0MXLduQmyriOQxYuspj1KhSPpMKLqOJ35NMbeu0yOCuM4uG3hSZviFwk1VRkgqCxlfSs1+WmadLkChmeuCeoFstyrSzrxOHRkk+0XQ/CZWTea1ZzAkbKI/+DiPRFQ3D41wzk+ukNlzKWLKjl92GhI+MGI/eYQnsVk6x2twAY0jOdBZGjb+LKTAbeCZSb+d1QHv7p1Ct2LX9IiTVB8Qrx1clYLclvK2aybQnmsaphZusYhPZiYcDUOwWJiXQ29O/mIB70YEjwNgtmckK3/AkAO/baoPD3hDdbpnLTtoKIHeqz/xQJuDOC+voR3anwhNQ6OzgMggiGn+9Q/pTSPxht6QevKIyY3o1ri/2RsFbQz+2kadhbxVHb+M+A9OCR4ysLBCOA==;rS/YzEIRqqszAVyFF0s8jw=="
 ---
 

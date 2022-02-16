@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jaguar Land Rover teams up with Nvidia on AI in cars"
+    excerpt: "Jaguar Land Rover on Wednesday announced it will partner with Nvidia on a range of technology fronts, which customers will start experiencing from 2025 ... including self-driving capability and other AI-enabled services and experiences in the works."
+    publishedDateTime: 2022-02-16T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135085_jaguar-land-rover-teams-up-with-nvidia-on-ai-in-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 37
+    images:
+      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
+        width: 1920
+        height: 1107
+        isCached: true
   - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
     excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."
     publishedDateTime: 2022-02-16T14:01:00Z

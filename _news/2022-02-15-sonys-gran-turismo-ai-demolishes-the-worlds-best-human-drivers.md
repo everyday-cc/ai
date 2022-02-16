@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-gran-turismo-ai-demolishes-the-worlds-best-human-drivers/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "Artificial intelligence beats top human players in popular racing game"
-    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
-    publishedDateTime: 2022-02-12T01:25:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-    type: article
-    provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 17
 
 secured: "S9GhJe6bNjRGJC0KcnWr6pBr+mloD0f4zY4jwhquwntljFPQ/LuyEoYxhoCiWg2QzGxXLHAlyr8fvs1yBgnQvIgK4uXyUGNf7jNHvrFhdlZ3mPWHPtXPW1ZFPPSGecZBsCiSChZhrCgxc4tReEX1W6Kh5ITrYUQjxUF8IkpHZ5PG453/M/yDepCY1bu4WwLzL4DboDdBzEHuBsWwSwCaqlAI2IfinpHpBO4n+yZXHclmgaqxw0kxpxcKfda9QLDEl39F0B/8/20seGG0LZgg1Aed6toi+rewhezvDY7gB2UPcAUg0vmmCt1A8HV9u+1lU0WsCe9yG4a1QVBFhD6pkyrEGQOMqtViNCL/tv4wSaA=;ycq+Fv7XD1n5/HLRcBXoMQ=="
 ---

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Lumina Announces Creation of Breakthrough Machine Learning Technology, Random Contrast Learning (RCL)"
-excerpt: "In early testing, RCL has outperformed deep learning algorithms in Natural Language Processing across multiple measures. These include recall, training speed, inference speed, and size of resulting model. Though RCL is applicable to a wide range of ..."
+excerpt: "TAMPA, Fla., Feb. 16, 2022 /PRNewswire/ -- Tampa-based, Lumina Analytics announced today that it has developed a new form of machine learning called Random Contrast Learning or RCL. In early testing, RCL has outperformed deep learning algorithms in ..."
 publishedDateTime: 2022-02-16T14:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-lumina-announces-creation-breakthrough-machine-learning-technology-random-/2022/02/16/9546653.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-lumina-announces-creation-breakthrough-machine-learning-technology-random-/2022/02/16/9546653.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/02/16/9546653.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/02/16/9546653.htm"
 type: article
-quality: 6
-heat: 6
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
 
-secured: "nQi6u5m5YSKdjv7k1ikLxdKPNqJzUJ3kvopaRC5kdRiVpYIwGDbXFEPYP52eFWatwigWnyjvEezNZlKtp1gAd9o5H/b8O2wFyYU5qpC5qUORsXIz+3fRklrZPoiFanx6si504RB1wFF5Yy6tmeaBrsWF6LOcoXEv9KyehLqK0HEivod7Cymmrf3C+1VOvJldSrR/nuYvc9kKEXs6qIva5ULFEb9hHEHBT7HoiIX59tS3vDpH/vfr/b58H9Zipi8zZm5dnHSUsBPdtHiHtXlFYyCvcpHJMn9mLTCKaivAptpAEBgOB23EHp6sj0kXpn04omBedw7BIp70oKM4yclY2dKypwQ/A/yr5UeCR1Zso76olasl22PCbjOTck3DvC3t8h+37/gXRoP6URm46dudR18j7Tcf2C8ocxGbXqVoDxCCQWhtgPttnRZ3kAtCAxVia1UmzBfdAJByR8brGKPLzFCiWHg3qj43cLuW29Jldy0XNbR5A4LdUoOzN3ANjXY7WbVQilBkLg60zN2xh074hA==;DdFWQSOu2hpQgL8T7qHLqQ=="
+secured: "gmv3tEg0ZG0NoH3RENH1IYYNwgbpldKbNEJiqaTmJyWn529ZYE853MyUvGr64bB0O/bHttWVC+tm6PHXxjmUcbUBYJjRjUpJzEX5/jkhgJ920MS/2RcXS53RxBthYwy096/ZaSmNThikx6D2faHpToL0dX6/BbHwu5g2sGBUr9kYImdbKCc2DEIoSfU19OskKc7u+f2WrKjVcrfAQDUPMVZ3DwJjs1ajWUjQwp9sRXj/ljji+TO1zZ3i2Ak0SjWttNYTUz+M8fiskqws+uEl5wyA1yRV8mLJ+/odQ8K7HSQ+TxQNQ7wJ6IAcBnGJsEdMoiZaDEbAnQUWEuQszzX6c3f4t3xNKzVaAMgZJdRg5frj2DB/toSnzufqaAWeel4d+MBu7cTQR87i4tndQ3GWuJvZ+adO1okZ9shXSJc0TYhm5TVQv7IONkfgJe3HPamXFLdzeu3FOpdoRW87HVFgxiMlxtcXQK21P2uGk0vnHi1W3fkbyrxiMKCvY5GOHa7/XwYaWG3FzFqBGuSwB9kpzg==;bJkSyY7oEjw7zBVIs1wuUQ=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-17-hampton-university-amazon-partnering-for-new-robotics-program.md",
+      "title": "Hampton University, Amazon partnering for new robotics program",
+      "excerpt": "Amazon Robotics is paying to establish a new robotics program for students at HU, which will create a new research laboratory, hire a faculty position to teach students about artificial intelligence and encourage other STEM learning opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.13newsnow.com/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
+      "originalUrl": "https://www.13newsnow.com/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.13newsnow.com/assets/WVEC/images/f0e06000-23a1-43d9-abda-568bcc7e145d/f0e06000-23a1-43d9-abda-568bcc7e145d_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.13newsnow.com/amp/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
+      "cdnAmpWebUrl": "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
+      "publishedDateTime": "2022-02-16T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WVEC",
+        "domain": "13newsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-prepare-time-series-data-with-amazon-sagemaker-data-wrangler.md",
       "title": "Prepare time series data with Amazon SageMaker Data Wrangler",
       "excerpt": "Time series data is widely present in our lives. Stock prices, house prices, weather information, and sales data captured over time are just a few examples. As businesses increasingly look for new ways to gain meaningful insights from time-series data, the ability to visualize data and apply desired",
@@ -54,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-17-deepmind-applies-ai-to-controlling-nuclear-fusion-reactors.md",
-      "title": "DeepMind applies AI to controlling nuclear fusion reactors",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. DeepMind, the AI lab backed by Google parent company Alphabet, today announced that it used AI to ...",
+      "path": "_news/2022-02-17-deepmind-has-trained-an-ai-to-control-nuclear-fusion.md",
+      "title": "DeepMind Has Trained an AI to Control Nuclear Fusion",
+      "excerpt": "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/",
+      "webUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
+      "originalUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
+          "url": "https://media.wired.com/photos/620cf87dd88b0a9fa5094bd1/master/pass/Science_TCV-purple-plasma-visible-light-cam.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +119,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/amp/",
+      "ampWebUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp",
       "publishedDateTime": "2022-02-16T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,7 +145,8 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
+        "Google AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1191,57 +1235,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
-      "title": "LivePerson put more personality (and AI) into next-gen bots",
-      "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
-      "originalUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
-      "publishedDateTime": "2022-02-15T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

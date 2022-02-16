@@ -1,27 +1,34 @@
 ---
 category: news
 title: "DeepMind Has Trained an AI to Control Nuclear Fusion"
-excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation, and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
+excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
 publishedDateTime: 2022-02-16T16:00:00Z
-originalUrl: "https://www.wired.co.uk/article/deepmind-ai-nuclear-fusion"
-webUrl: "https://www.wired.co.uk/article/deepmind-ai-nuclear-fusion"
+originalUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/"
+webUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/"
+ampWebUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 106
+heat: 176
+published: true
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Google AI
   - AI
+  - Google AI
+  - Facebook AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/620c038dcba4b51f053ce8f8/16:9/w_1280,c_limit/Science_TCV-purple-plasma-visible-light-cam.jpg"
-    width: 1280
-    height: 720
+  - url: "https://media.wired.com/photos/620cf87dd88b0a9fa5094bd1/master/pass/Science_TCV-purple-plasma-visible-light-cam.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
@@ -132,6 +139,6 @@ related:
         height: 405
         isCached: true
 
-secured: "IT5p68lyDxNq41f5zb+hDxCV5D3HsMM4rCDwfajbffqpiK/9chyOvrbSZeg/CBMf8HZotSUK45Na9TrGzlAyBaW8L/5BbYfoSuh7wqjd4W7xm5OhLhgeBVhvxxa9lTc1xVdQGguzdt7B2gOYCD5JToNMMrQ8nTbpVW1uuFqC/S7MAENHi+iErYzOxYCJV+16jZ/a3uJe2ZCoweLKRzJ9R8q3aaARMByhXBp3JTDgCxlJh/cWbQhrzSj9gEdINjn5CsiU6nyZLeHy+agPN6lE66MyP/1tYFO+7HQu03/nEiH5gXD+nfB7bCrc2QuCTX3HAcygmHtxmm6x+6JFTJ7EdUtlqz8UIlnQANHRejzcQ3Y=;8YDB3Z8OrZAYHvSdhWrvFg=="
+secured: "kkiqXRCgF554EY+7QdEPcj/iLsmG90SkCED9jPZAoi5JzCOIQBgQBV58SK6CgYAnMul6zNmeD0ObMu9xh7bYwKrnzUQERsMDTYWn01VKZxbTKH2XE7HHZenrQGfixtRNzIg9qxI7WnkT2YuMN8EfjKZ/7tye94s1ZD2iClM3eaEdypgsIohcce3U0yKyaNbE1aTWzBd/9HDMiUVvG6oRgReJB33yK1dW5zCaFzop1os3iqqLjEh0S4/bTRlIMa3wPVhsN2vhCqOusA9B8adYVI+VGrVji9G0+1X6PYKVbEaWLyoTu9dVolyk9/ynBK3YDWlfqDWop+l596qHEYlkDoJ8L2iJmO3ZuuwKi9yi8x4=;lzDnmMAfATPNdqY9VpCJYA=="
 ---
 

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence beats top human players in popular racing game"
-    excerpt: "It's the sound of the PlayStation racing game Gran Turismo Sport. In this play-by-play, some of the world's top human gamers are facing off against cars driven by an artificial intelligence agent named Gran Turismo Sophy. The red car, Sophy Rouge ..."
-    publishedDateTime: 2022-02-12T01:25:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2022-02-11/artificial-intelligence-beats-top-human-players-in-popular-racing-game"
-    type: article
-    provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 17
 
 secured: "dJJCkraM1dHjLHoZ9d1mHDeEwxxmGwmVYnin6o2MCR1HbvBsdkSvritXOKqGlaB/N41tQn047HbWmoG8kv35OD77XMRY1jTNJP+p2bEpioiRl4cgSKr2gVNpX67VsHKXAsIqN3uwqndf/u3LiCvmBg5NjY7ptCIwdHzZ3iWgeUVgbp+GVkFGxkFxxy040whLgSfVCB4fbBBGF8fW+hFZ+jzI1sPmEs2ItlzSEFw1Ni48eK1/K2H6ZiE984LEr5kH6WaSHEI3MrHlmq2rB8+ei7TQT3RnhNO9Ko94bKPmIPoFWb+B0gYUDcqNRkCEDy+vlosRaIA/vJuwMawxyqDPJvQc1RPNZlr25066ErlIpJc=;o4wft1LXnHbV0wlYh5Q2OQ=="
 ---
