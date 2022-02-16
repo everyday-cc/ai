@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-15-robotics-market-expected-to-rise-at-206-cagr-during-2021-2026.md",
+      "title": "Robotics Market Expected to Rise at 20.6% CAGR during 2021-2026",
+      "excerpt": "It deals with the construction, design, and operation of the robots through the use of various digital technologies, such as cognitive computing, sensors, control system, batteries, virtual reality (VR), artificial intelligence (AI), augmented reality (AR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/robotics-market-expected-to-rise-at-20-6-cagr-during-2021-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/robotics-market-expected-to-rise-at-20-6-cagr-during-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg8BMb302rxxdMNX-7iGhzs9UQFhgmHFtNJ2CrhWBCYaHpTcI2XEGxSpAK0sySIbrCKvscbVb0jh1StHpGjPCX3fwl5iZr47qLZ7Z3M53_HKoYzwZ5__4ESgndsSPw0OOt0F76g9uaLZjSbsMBPTrGf0L7mwOUL9CjRnM1RPWIy9ALlgutswWk9WiU=w416-h238",
+          "width": 416,
+          "height": 238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-local-municipalities-use-ai-robots-to-improve-care-for-elderly.md",
       "title": "Local municipalities use AI robots to improve care for elderly",
       "excerpt": "Among the various AI robots which can be found inside of stuffed toys ... Soon-yi is a wristwatch-type product made by DNX, a startup company in the Yongin City Digital Industry Promotion Agency. After DNX provided the products to 111 elderly people ...",
@@ -1327,49 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-ocean-exploration-with-advanced-underwater-robotics.md",
-      "title": "Ocean Exploration With Advanced Underwater Robotics",
-      "excerpt": "With optimised techniques and machine learning, underwater robots can be created that mimic the movement and manoeuvrability of fish",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/01/swim-carlingfish.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
-      "publishedDateTime": "2022-01-31T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

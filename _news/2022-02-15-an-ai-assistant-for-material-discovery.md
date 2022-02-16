@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-02-ai-material-discovery.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-ai-material-discovery.amp"
 type: article
 quality: 57
-heat: 68
+heat: 67
 published: false
 
 provider:

@@ -455,6 +455,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas sues Meta, saying it misused facial recognition data"
+    excerpt: "The suit involves Facebook's \"tag suggestions\" feature, which the company ended last year, that used facial recognition to encourage users to link the photo to a friend's profile. Paxton alleged the company collected facial recognition data without their ..."
+    publishedDateTime: 2022-02-15T15:52:00Z
+    webUrl: "https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2022/02/15/ap19170571721946_wide-c21e27afb0247a6845bc1612611605f6c2a6b305.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Texas sues Facebook parent Meta over use of facial recognition, alleging privacy violations"
     excerpt: "Still, the company said then, it would continue to use facial recognition in some instances, such as when users have been locked out of their accounts. “There are many concerns about the place of facial recognition technology in society, and regulators ..."
     publishedDateTime: 2022-02-15T13:06:00Z

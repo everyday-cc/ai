@@ -38,20 +38,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market Growth Prospects, Key Vendors And Future Scenario Forecast to 2028"
-    excerpt: "which are crucial for robotics and self-driving vehicles. As part of the competitive analysis of the global Edge Artificial Intelligence (AI) Software Market , the authors of the report have exhaustively covered the top companies operating in the market."
-    publishedDateTime: 2022-02-11T07:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-growth-prospects-key-vendors-and-future-scenario-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
     excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
     publishedDateTime: 2022-02-14T05:49:00Z

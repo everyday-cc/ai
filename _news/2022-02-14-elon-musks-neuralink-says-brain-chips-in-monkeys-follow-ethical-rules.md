@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-
 webUrl: "https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

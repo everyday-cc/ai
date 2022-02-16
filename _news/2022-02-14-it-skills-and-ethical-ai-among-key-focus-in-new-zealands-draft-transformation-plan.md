@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/"
 type: article
 quality: 98
-heat: 109
+heat: 108
 published: true
 
 provider:

@@ -76,20 +76,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Insights – Global Industry Analysis, Trends and Forecast by 2020 – 2028"
-    excerpt: "The global Artificial Intelligence systems spending market is forecast ... of AI-enabled chatbot solutions to improve operational activities and customer service. Healthcare segment is projected to account for comparatively higher market share during ..."
-    publishedDateTime: 2022-02-11T08:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-insights-global-industry-analysis-trends-and-forecast-by-2020-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
     publishedDateTime: 2022-02-15T05:43:00Z

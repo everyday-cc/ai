@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edge Artificial Intelligence (AI) Software Market Growth Prospects, Key Vendors And Future Scenario Forecast to 2028"
-    excerpt: "which are crucial for robotics and self-driving vehicles. As part of the competitive analysis of the global Edge Artificial Intelligence (AI) Software Market , the authors of the report have exhaustively covered the top companies operating in the market."
-    publishedDateTime: 2022-02-11T07:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-growth-prospects-key-vendors-and-future-scenario-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI Chipsets Market Growth Analysis, Outlook by Trends, Opportunities and Forecast"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 06:37 /Comserve / -- AI Chipsets Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
     publishedDateTime: 2022-02-14T12:50:00Z

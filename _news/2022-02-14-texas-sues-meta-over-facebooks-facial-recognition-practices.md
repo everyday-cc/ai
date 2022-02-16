@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-faci
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
 type: article
 quality: 174
-heat: 514
+heat: 524
 published: true
 
 provider:
@@ -447,6 +447,20 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/46988-91556-45331-88209-Zuckerberg-Meta-xl-xl.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas sues Meta, saying it misused facial recognition data"
+    excerpt: "The suit involves Facebook's \"tag suggestions\" feature, which the company ended last year, that used facial recognition to encourage users to link the photo to a friend's profile. Paxton alleged the company collected facial recognition data without their ..."
+    publishedDateTime: 2022-02-15T15:52:00Z
+    webUrl: "https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2022/02/15/ap19170571721946_wide-c21e27afb0247a6845bc1612611605f6c2a6b305.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Texas AG sues Facebook parent Meta over facial recognition | Charlotte Observer"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."

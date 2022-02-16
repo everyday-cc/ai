@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jio Platforms to Invest $200M in AI-base Mobile Startup Glance"
+    excerpt: "Glance, a leading AI-driven lock-screen platform, announced this week that it has agreed to raise US$200 million from Jio Platforms in its Series D round of funding. The proposed investment by Jio is aimed at accelerating Glance’s launch in several key ..."
+    publishedDateTime: 2022-02-16T00:24:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/23012-jio-platforms-to-invest-200m-in-ai-base-mobile-startup-glance"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/592e05699f02c948540bf5879996d915.jpg?t=20220216_002211"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Jio Platforms to invest $200 million in artificial intelligence company, Glance"
     excerpt: "Jio Platforms, on Monday, announced that they would be investing in Bengaluru-based artificial intelligence firm, Glance. The investment is expected to \"expedite Glace's vision of bringing the internet to lock screens, globally,\" said a release. The $200 ..."
     publishedDateTime: 2022-02-14T13:25:00Z

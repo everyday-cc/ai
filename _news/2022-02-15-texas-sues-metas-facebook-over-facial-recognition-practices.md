@@ -444,6 +444,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas sues Meta, saying it misused facial recognition data"
+    excerpt: "The suit involves Facebook's \"tag suggestions\" feature, which the company ended last year, that used facial recognition to encourage users to link the photo to a friend's profile. Paxton alleged the company collected facial recognition data without their ..."
+    publishedDateTime: 2022-02-15T15:52:00Z
+    webUrl: "https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2022/02/15/ap19170571721946_wide-c21e27afb0247a6845bc1612611605f6c2a6b305.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Texas AG sues Facebook parent Meta over facial recognition | Charlotte Observer"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
     publishedDateTime: 2022-02-14T17:30:00Z
@@ -525,6 +539,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "Ln/cdAT52ocmuWZWNouwQjGTbQxNLVmrWDGejZzEK+hqHE9V5h/3QwP/WOcpmelsgmoStmygrnVIqYu9HWx42iXIiCIQSaINA3HpqbBJmFNtZHiL2Mw+Ap1SXlArvio6gybANvKG7MnF2Ed8ytFfocg+nPSWXEvXnMhZfPzSNequHM5h9qOIna8AqSNK8ZDDKqBKTuhpKMa20zgIRSiNWWso+IfEHRQ8b8qvSfF5hMjqasy5rkJWcpSRz6e8Qa7OFpQCr8d1tccGhBEpbnWcITYjjLZix2tuasVnpat2YKcJ9WjKTQ9L5cGTTJBa1PWffDpFvGCq9ZaWOu48W265MH7uhADZ1CzWUQpsJHv+vVE=;oW/pl1Lyjgg/U3hSED7i1Q=="
+secured: "hwZEwSUAgum3Kd2qzJ3xfU6RQBlqkAxur2AW0PcA4825vw7pYo6R3WeLk8Vbi+OGfUOFGCennXjZmyqbUDCLhT7FMv5Jjax4ugyIYad8x/EKSCY0YEWsGyOyMZhZmQc2fw9wftYhnJDNqhVC4ubLE/N/xDdPV3Bl5s5XNSb70ou3itAur9D4M8hZ9wg/38+/NfesKP9NWoa0pIqZfRnd62AyZ5C5o6pKSs6uDOJgPokNbOv2lhMiKkO+Dohlj6V19OXEB5w5Cxw92iTnorIeL1glHWYHEvS1dj4vaGwiyLT6/Z1Dt/e9apr5f81FKBZjcPnx0DvPk+vn187PP0/X+bfTtusYt7GbPgLW141dKKLJbHg3QzqwM+4GREMLkrDDjAdXJZD2rkRatdIHy8toshemUWbGy/SixlYXo7evlJ090/SVc4UHsyJLZtquD2+W69NDTuJu5N8/DvajUbbSNk1+zMx0ZOsMbOboG/sdQ+c3RO4JKrNvmoKWKueLRjTDfgJ/PiPtRi//hls5H6oBqg==;s28dgqJNNOsMO0NvHyhHNg=="
 ---
 

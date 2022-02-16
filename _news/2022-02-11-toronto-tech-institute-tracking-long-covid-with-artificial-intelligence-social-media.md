@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Aventis Aligns Itself With Advancing AI In Light Of Covid-19"
-    excerpt: "SINGAPORE - Media OutReach - 14 February 2022 - Aventis Graduate School has aligned itself with the advancing Artificial Intelligence (AI) surrounding the thriving age of digitalisation ..."
-    publishedDateTime: 2022-02-14T04:49:00Z
-    webUrl: "https://menafn.com/1103689094/Aventis-Aligns-Itself-With-Advancing-AI-In-Light-Of-Covid-19"
+  - title: "Toronto AI star Cohere lands Tiger-led $125-million venture funding"
+    excerpt: "Cohere, co-founded by protégés of AI luminaries Geoffrey ... AI algorithms to generate language. Mr. Gomez and Cohere co-founder Nick Frosst, another ex-Google researcher who previously worked with Mr. Hinton, wanted to translate gains in NLP from ..."
+    publishedDateTime: 2022-02-15T18:09:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-toronto-ai-star-cohere-lands-tiger-led-125-million-venture-funding/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?433493"
-        width: 374
-        height: 250
+      - url: "https://www.theglobeandmail.com/resizer/u9aGdNp4Q3WDmP2PMFnyueV9oug=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/AKP5PASY3ZDGHEENIHPNKS4SFY.JPG"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "oW65Kg32adsCUlZpLJbvKNH6BYXxQQTE1ZxieE+pr4GOiurobyvhXG6hqYahcT9v0F0FvbtswmY5kKNjVopcDQBAR/5AW5Jyo8Ef5S5eEtb99x0USk7lMEwrzPyYcaB/1mhDfhIJ9K6i5JCccKCSH8Wpl4HzMWzqV1V3Q2qOn8T0GGJqlJ8bdSS7Oqs8M363v2Xor3vL9xq11gmkHf835A8fkrq8IueADLuzS6xQ63ABL52LTvknwIBwRrOeMQ0CiO3LDEk2esrEYwppe2n9zN75UQ90eWTTMFYSfG5p1/jAM6d5xhSuLHQoCaeCLh+T9+82aaAeVFvvsoHNr6tDbdvxQNFGZvlqoQUaHiKP/sEKYC/bIKrYNjJjE6C24hTp2Hj+Rcz+PWFXWsZzBFhce8VyRO6u4geMTeW09NaZmfX3eq349JhO//uoHqr/hZfDGrehwBJ1caHGkkZjV5wIiOXMZEgAjJV3/IGa2CxC12O/UD1/qY3O/w57Rp0p0eZ2Zd+OmKiUESJeEnHi/rU4bw==;BUU+Z3BdrD2buT33tZq5CA=="

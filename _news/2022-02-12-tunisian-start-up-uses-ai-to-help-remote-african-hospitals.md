@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOVFY8KUW7"
 webUrl: "https://www.reuters.com/video/watch/idOVFY8KUW7"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "The African software developers using AI to fight inequality"
+    excerpt: "Digital rights groups warn about AI’s use in surveillance https ... machine learning to translate African languages not typically found in online programs such as Google Translate."
+    publishedDateTime: 2022-02-16T00:02:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality"
+    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality/wcm/d8daf216-dc80-430e-8a9e-c0d62b2b0291/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/the-african-software-developers-using-ai-to-fight-inequality/wcm/d8daf216-dc80-430e-8a9e-c0d62b2b0291/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 39
 
 secured: "9MqjrhWFH6EWzeX6V3h8eFXokNM3SGCB98RwLUnL3k7FaijDWVGkyUJLyUO6tBtPZmgfJzh6GP708JszLDYZbMJoO/9Fr21T8WyA+bBByXIxQ/RlQWT9TfRfNpHCHpF82fFHubkmuJYsFZXtBTUG1lncnyasBQijyACdip7yfSzBLjSkwUTve/ZXWjA3VuJTBKOuWJF1EbKcNjoFWD3Jh+X8yThX3x7NfHs6V2+v+lZvxRJMydl63nRPcoM+nFGPRhWsQgijAtOZFIvAaawo/RTnQDeA3LqKaPJnK45nJAT3oBTbyLVAbGt8/LDIn1fwRMiWAgVG9yU5tzCLG9jNjAcJhgo4UkgQYx949Q/BciI=;l+mSOX2TLTKwgcQFqKD+wA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2022/02/2.jiophone-next-120000-1.jpeg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Jio Platforms to Invest $200M in AI-base Mobile Startup Glance"
+    excerpt: "Glance, a leading AI-driven lock-screen platform, announced this week that it has agreed to raise US$200 million from Jio Platforms in its Series D round of funding. The proposed investment by Jio is aimed at accelerating Glance’s launch in several key ..."
+    publishedDateTime: 2022-02-16T00:24:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/23012-jio-platforms-to-invest-200m-in-ai-base-mobile-startup-glance"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/592e05699f02c948540bf5879996d915.jpg?t=20220216_002211"
+        width: 752
+        height: 408
         isCached: true
   - title: "Korea's $200 billion wealth fund is betting on the metaverse and AI startups"
     excerpt: "\"There are still plenty of good opportunities, if you chase them eagerly.\" KIC has almost doubled in size over the past five years, after a slow start when it was created in 2005 to increase national wealth and contribute to the nation's finance industry."

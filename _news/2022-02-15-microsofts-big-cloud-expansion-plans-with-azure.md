@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "Microsoft extends Emissions Impact Dashboard to Microsoft 365"
+    excerpt: "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions."
+    publishedDateTime: 2022-02-16T00:20:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a7df44fb0835e74d125ed7e4365ae7d8ef9e1f9/2022/02/16/d3d7d83c-8620-4899-a8eb-75644c5b689c/eid-m365-image-1-resized-to-1238px.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "IBM Acquires Neudesic, Leading Microsoft Azure Consultancy"
     excerpt: "IBM continues to invest in its hybrid cloud and AI strategy, expanding its cloud ... 3 \"As one of the leading cloud platforms, Microsoft Azure is key to many of our clients' ability to modernize ..."
     publishedDateTime: 2022-02-15T16:00:00Z

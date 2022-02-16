@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healt
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-share-forecasting-competitors-global-impact-2022-to-2027-2022-02-11"
 type: article
 quality: 75
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
     quality: 28
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/fa80beb1e7cecbae551dc30ef613b59d97e0869c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Insights – Global Industry Analysis, Trends and Forecast by 2020 – 2028"
-    excerpt: "The global Artificial Intelligence systems spending market is forecast ... of AI-enabled chatbot solutions to improve operational activities and customer service. Healthcare segment is projected to account for comparatively higher market share during ..."
-    publishedDateTime: 2022-02-11T08:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-insights-global-industry-analysis-trends-and-forecast-by-2020-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Maggie-L-Walker-600x337.jpg"
         width: 600
         height: 337
         isCached: true

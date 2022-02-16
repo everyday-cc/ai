@@ -40,6 +40,20 @@ related:
         width: 416
         height: 238
         isCached: true
+  - title: "Artificial Intelligence In Aviation Market Estimated to grow at a CAGR of 45.3% during 2022-2027"
+    excerpt: "Artificial Intelligence in Aviation Market is estimated to witness substantial growth over the forecast period primarily due to cost effectiveness, efficiency of the system as well as more timely management of services are driving the artificial ..."
+    publishedDateTime: 2022-02-15T23:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-aviation-market-estimated-to-grow-at-a-cagr-of-45-3-during-2022-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Google-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "+1Nu0t2D5YhVTf1945ZDOb8jnT2/frWBopJ5d5OeYmfDBt4lck6FpWXSPXBX4RqW0a9M9D2O//o4OVh/+IDzsHTzRSYxw8NTA+hOUPCZXHkicHzqMOyi+vPMn2xM3k1dXEqy+aTs9U2G3pY+WGqFcHN+ZOntSB+rbivD6EtTbRZNVu9PgPHdmF0SInc4QInGCK5iFBwCfsDbIJpuxTZ4t5QAcCruIZtlPoxdHRuUmY9SokIIhj5QjS4PTc4S8xskqE9Fe96CZTyBAbB+8zlRpVlxadLWqwV2BVqX2HgC3xWXfJQsDGwWFDeFxMh819cQmAlcuLMbjCXidmt2daLGrM91GeZ0QChd79OPFdCSSEZORGK0Sj5b98T+wYTeQRXrSp32CoWvHZwQUj2JqW7OMGGt8XJUOhJ5eCUkY9i5Eb94aUZWFZjCv15bMgJJedf1SXzKI9jCU5CdcIM4USBjwyu74/I5zsyl7rN+uGO5cAW2UwS0dV3k34nXBzqxo8WcftT5Cv2dcDGpZFnqYHpcvg==;PnPwP1G6aP+WYvU18dJN+w=="
 ---

@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Power of AI and Cloud – Evolution meets Convergence"
-    excerpt: "This may range from the database itself, through to legacy languages, with developers leveraging AI to translate them into modern code thereby expediting the end-to-end development process, improving productivity, and freeing up time for value-added ..."
-    publishedDateTime: 2022-02-14T07:02:00Z
-    webUrl: "https://www.infosys.com/services/cloud-cobalt/insights/evolution-convergence.html"
+  - title: "Inside the Pentagon's AI Epiphany"
+    excerpt: "Fool contributor Lou Whiteman describes the history of the Pentagon's relationship with AI, and what the future may hold. Lou Whiteman: We're going to start with a wide view of what's going on with the Pentagon and then dig down into a couple of companies ..."
+    publishedDateTime: 2022-02-16T00:06:00Z
+    webUrl: "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/"
     type: article
     provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 41
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
-        width: 800
-        height: 500
+      - url: "https://g.foolcdn.com/editorial/images/666268/gettyimages-investortablet.jpg"
+        width: 2138
+        height: 1402
         isCached: true
 
 secured: "woSKFDCTjNwAb1wHhiGiapHyUgzlfmQ0H8MuoW5cCSSQ+zSW586KlDHq4pO0qMY8B6MVdkHfBGjtBarvgnjQD5ely6lh31sODwWC2chfr7XjhZ2mNqdBwMgZvt28qKm7ICH8FNf7gpVG6fUi98z1BA+O6iuALRVx7X38/ssNAZgH8e4KlXpZI89t9G4e+2UDnUzpTN8wGRrUWnQZvYFpxj1EypJnjzvXORGe37ytwBqkyAQzEFQytGqJW8IbNlO7lwlXf2jbjw+YjS8LRC4a4VhdkWseAQLOJoBSaj1kzrzwtfW4nYHXMZZ8+LUbcZL2uLD3t1AY5imjeGTA967cb8kX6inN2yru34pDyiHanXk=;njV1nn0T3+fhO78kSaerNA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinki
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/"
 type: article
 quality: 91
-heat: 105
+heat: 101
 published: true
 
 provider:

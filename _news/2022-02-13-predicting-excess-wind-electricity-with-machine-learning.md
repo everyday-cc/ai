@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/predicting-excess-wind-electricity-
 webUrl: "https://www.linkedin.com/pulse/predicting-excess-wind-electricity-machine-learning-surplusmap"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1280
     height: 616
     isCached: true
-
-related:
-  - title: "Telemedicine and artificial intelligence, a pairing brimming with benefits"
-    excerpt: "This support to be provided by artificial intelligence in the world of healthcare stems from the amount of computer data available, whose management now lies beyond human capacity and which requires new tools to organise and understand them. Chatbots ..."
-    publishedDateTime: 2022-02-11T08:50:00Z
-    webUrl: "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/"
-    ampWebUrl: "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/"
-    cdnAmpWebUrl: "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/"
-    type: article
-    provider:
-      name: Telefonica
-      domain: telefonica.com
-    quality: 72
-    images:
-      - url: "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/01/pexels-negative-space-48604.jpg"
-        width: 1200
-        height: 787
-        isCached: true
 
 secured: "5U088WvARJG2p12QkmiHgo5nJIBhAbmKcLojR0PTb+JhLjsWMmvaLLSY9oWrDgUYqxJ44Z+ByVgoSix1LbrT4RPvUXhaMcYfgP/twXWJo1T6BQfAT0J8BhOVBg0qF3LaxepboToIxL1eX5h3o4kMYn6dz4gqalJ/NsCrrDT1wOzdPXlTeiDNleWvduu/7eJOPsL97no+4dHtf+/vBjZTBoR0mR6wpAk5WAVTtEN3UAAlFHcmnrMpa2r8glDbpLuVLe/Vi4sYjl83p0m/hy+yD2xaDpUckgWXR+2bzgEvrNgJvMJc2votk/U1zVaWAUHF8WA2ZDU7ViVAy8OpGdQiGARaQepspGJZIhSSpKoIa24BbLAI3URYzRlo7mJVdiRRAvZj9Jf+hSxVgn3dYHetS9fkFBiyZVo43woSQTTzF2hbYle3mSeBr5MRsU/jQy7OEc8oUz97ps7x3qah/AtGa1elidjvAWZwVtK0yipVn2nZUQSvXtJRjJh6OJSIEUkw1SKkzb/IjfdiBzBjNdTeBQ==;TR0od29S10SvXwJhZedvmw=="
 ---
