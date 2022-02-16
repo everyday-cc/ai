@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Agot AI gives restaurants computer vision to see where food orders go wrong"
-    excerpt: "Its product confirms order accuracy in real-time for both online ordering and notifies employees if an order needs a correction, for example, they forgot to add cheese or ketchup."
-    publishedDateTime: 2022-02-11T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/"
-    ampWebUrl: "https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/Agot-AI-founders.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services"
     excerpt: "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ..."
     publishedDateTime: 2022-02-11T16:32:00Z
@@ -65,15 +49,6 @@ related:
         width: 350
         height: 350
         isCached: true
-  - title: "Smart restaurant kitchen tech startup Agot AI adds $2M to its seed funding round, reaches $17M in raised capital to date"
-    excerpt: "Agot AI, a startup that equips restaurant kitchens with its suite of camera and computer vision software systems to help improve various efficiencies and to help identify potential mistakes in food orders, announced it added an additional $2 million to its ..."
-    publishedDateTime: 2022-02-11T18:52:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/02/11/agot-ai-adds-2-million-to-seed-round.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "xRJGMuzzxrsekC58p0zCzh74t5MQ5LXaE4wHSbVNcl7vPF/+kUjmZTCfgUcVRi/20JxKro3Y1oAD0Q1Jk1sgB0dqJXJrZ+fFrfrmTNOFGuWs21smkYivnRKI21VWaJBVhNz++mlP+guD65ar2pi6d/SHeTYS734DfLRdIE9eEggoAZ30jqi+YoVhixefISK/khi+d0Hcwp6qKwRWzQKVz7PC3arrpEa6YJpo5D/6pft3bS6GTzP+6sQ4DfDl5PviElN8ztR1o/s5vxv0xUUq8ujydctF0AJ96kBltfBF2zkQ2tAj3AOkzznFmOobyYYs9B316EY2N1f7ZaoLgH/yATdnNXryH5WyqGlN6iuTmDVjrizD4X8MuVC6HT3uHGrjezJhfRXVrk0/pFjzs0EXrw65XqX5pXTFzEkY4eT0L1kcejKfjhPcfYcys91w5J7GDhKe7W5u0InW1cb84+vPRnf+DALIVVJOphNvc/U05UebH2t0iuNRpJNPZnHzSTUaZXlQnm8LkDku/E86k2fASA==;5+4ri3z8Ad5Pv2dzva/tZQ=="
 ---

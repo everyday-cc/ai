@@ -1,31 +1,29 @@
 ---
 category: news
 title: "New Zealand’s Ardern to give Harvard commencement speech"
-excerpt: "New Zealand Prime Minister Jacinda Ardern has been chosen to give the keynote speech at Harvard University ... She has drawn recognition for her work to fight climate change, promote gender ..."
+excerpt: "(AP) — New Zealand Prime Minister Jacinda Ardern has been chosen to give the keynote speech at Harvard University’s spring ... Labour Party before becoming prime minister. She has drawn recognition for her work to fight climate change, promote gender ..."
 publishedDateTime: 2022-02-15T16:41:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/zealands-ardern-give-harvard-commencement-speech-82903062"
-webUrl: "https://abcnews.go.com/US/wireStory/zealands-ardern-give-harvard-commencement-speech-82903062"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/zealands-ardern-give-harvard-commencement-speech-82903062"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/zealands-ardern-give-harvard-commencement-speech-82903062"
+originalUrl: "https://apnews.com/7fcb4a5fd207cb1d26b2ae40da26e41f"
+webUrl: "https://apnews.com/7fcb4a5fd207cb1d26b2ae40da26e41f"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_86ffa6d0ea174b718dc41ad36a2ffd95_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/86ffa6d0ea174b718dc41ad36a2ffd95/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
-secured: "PonHcWJ+VfNiU7xix7YewIcyiJCavzQr32HF7gNelbu8+t3T5j65+pYQZpgnEj9nWlEbm+pB6mX9Zg6uXC3+XBhIQJt1RUsGLLrmf8lryEEIUn++Nd64Y12SVHpDaikfYHli0F0PgGlIBnvuk9CjkCOzmFepJpqZeTQrVsy1Tan6w3s3GdhyjZBWHGnas+cNHe5wpE02PWh3wu7yHP0WmoxqvJnbfclMTBYhOvBY0pBpWaCS/hBhrNLjHeexocehH+RuFLzd0o0T6I3rNOe1IFdI3lyJZPkzOGrmr1vY1oAY/KNLJM5IF3BQYHcmzyDKksiPZwTseFL5F/A7pUfUNdriaV+fptMTbDXWCPix/9E=;WUivxx5wqzFLsXDJEEcXmw=="
+secured: "cqb197RigEOXXopER9bRuMZE91gVcMfeFYn04DrLES39Sz6aeKsaLXMHendR5ti6/hKki9dtfaoynsjshU7MjzCHtFSXwr0PWXbAkZR+lttbchduZaXwgVajcH/ZDcqiD7JkKYg9yzhEzvwXrSPG3WcS17ESjWpAdw8y9TcGL1AVuyKME+WJ4FLlLJSHsdBVdVOcUqwYWTm8bcuknkqrJtm4EHFiABPXfbJB68XXbFAkSiWUs20LO1T4Meh04FhDzwYrjPvAGInt6dW1mKKub9L5XPcr2WvdX2mLT1XCRJI0E6l+S2Pi2ST8aU8uVovY6QgJNpaJueK7m0Z2U8QBrVRAMXbuf9EWtsZaFBQbnFo=;J/XR7wrvM9WploWagnfNRA=="
 ---
 

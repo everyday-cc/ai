@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-educati
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Wired
@@ -30,53 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Closing The Gaps In Security Through AI And ML"
-    excerpt: "AI and ML have matured to provide cybersecurity teams with critical tools to combat the rapidly changing threat landscape."
-    publishedDateTime: 2022-02-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/"
+  - title: "How AI and machine learning is shaping legal strategy"
+    excerpt: "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ..."
+    publishedDateTime: 2022-02-12T09:15:00Z
+    webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Introducing AI In The Sky"
-    excerpt: "Autonomous vehicles in the sky and on the ground, AI, Crypto, IoT, cloud computing, edge networks all share one similar trait; peoples all over the world are being challenged by rapid innovation occurring at a speed, scale, and scope never before seen."
-    publishedDateTime: 2022-02-11T17:54:00Z
-    webUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/"
-    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2022/02/11/introducing-ai-in-the-sky/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6206afeeefec90ff71d9ed04/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Balancing AI and the Human Touch in CCaaS Deployment"
-    excerpt: "They also deploy tech tools like artificial intelligence (AI) and natural language processing (NLP) to enhance the customer experience. Jeetu Patel, Cisco's Executive Vice President and General Manager of security and collaboration, explained that these ..."
-    publishedDateTime: 2022-02-15T10:50:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/balancing-ai-and-the-human-touch-in-ccaas-deployment/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/858a0f30bd3e4e7084a0d20b24b121fd.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png"
+        width: 768
+        height: 432
         isCached: true
   - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
     excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
@@ -93,6 +59,20 @@ related:
       - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Power of AI and Cloud – Evolution meets Convergence"
+    excerpt: "This may range from the database itself, through to legacy languages, with developers leveraging AI to translate them into modern code thereby expediting the end-to-end development process, improving productivity, and freeing up time for value-added ..."
+    publishedDateTime: 2022-02-14T07:02:00Z
+    webUrl: "https://www.infosys.com/services/cloud-cobalt/insights/evolution-convergence.html"
+    type: article
+    provider:
+      name: Infosys
+      domain: infosys.com
+    quality: 41
+    images:
+      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "Artificial Intelligence and the China-U.S. Rivalry"
     excerpt: "Developments in artificial intelligence will completely transform government management, economic security, social stability, and global governance. With this, it is safe to say that the country that reaches an artificial intelligence ‘breakout point ..."
@@ -121,6 +101,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The dark side of Artificial Intelligence"
+    excerpt: "we need to consider what the future of AI might look like. The term Artificial General Intelligence (AGI) refers to a hypothetical version of AI that has \"agency\"; that is, it is able to direct its own intellectual pursuits instead of pursuing some ..."
+    publishedDateTime: 2022-02-11T13:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/dark-side-artificial-intelligence-greg-martin"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF6Ivgx0ARsEw/article-cover_image-shrink_720_1280/0/1644578178017?e=1649894400&v=beta&t=BQWlqTiWMAf_M-GhvqL_SDe4Dd9eXw23XOaJOgR6a1E"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Use of Artificial Intelligence in Streaming Services"
     excerpt: "Artificial Intelligence or AI plays out a significant situation inside the OTT business in heaps of ways. From content material revelation and content material improvement to video ordering and upgrading the high-agreeableness of virtual pictures ..."

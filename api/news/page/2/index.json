@@ -667,7 +667,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -817,58 +817,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-13-nvidia-hopper-gpu-insane-140-billion-semiconductors-on-cutting-edge-ai-chip.md",
-      "title": "NVIDIA Hopper GPU: insane 140 billion semiconductors on cutting edge AI chip",
-      "excerpt": "NVIDIA Hopper GPU ought to uncover its cutting-edge Hopper GPU engineering during its impending GTC (GPU Technology Conference) in only half a month’s time in March 2022. NVIDIA’s new Hopper GPU engineering whether it be in solid or MCM GPU configuration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin",
-      "originalUrl": "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGqVIGtS42zkA/article-cover_image-shrink_600_2000/0/1644738503810?e=1650499200&v=beta&t=fiyewJRBhPd-zVuotXH58qL8OMd-uppUvTubeC_L0Wo",
-          "width": 744,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-12T23:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-12-surpass-developer-colleagues-with-these-aws-database-courses.md",
       "title": "Surpass developer colleagues with these AWS database courses",
       "excerpt": "Among those is Amazon Web Services (AWS), the popular ... In addition, this course will help you understand the fundamentals of AWS Rekognition through hands-on lessons. Finally, you’ll get ...",
@@ -972,7 +920,7 @@
       "originalUrl": "https://www.nbcnews.com/news/world/chinas-dissident-artist-ai-weiwei-birds-nest-olympics-rcna14331",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1214,6 +1162,49 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-12-bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci.md",
+      "title": "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI",
+      "excerpt": "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ...",
+      "sourceUrl": null,
+      "webUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
+      "originalUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
+      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
+      "publishedDateTime": "2022-02-11T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha TV",
+        "domain": "odishatv.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

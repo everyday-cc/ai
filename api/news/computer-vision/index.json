@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
+      "publishedDateTime": "2022-02-11T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-new-computer-vision-system-designed-to-analyze-cells-in-microscopy-videos.md",
       "title": "New computer vision system designed to analyze cells in microscopy videos",
       "excerpt": "Researchers at the Universidad Carlos III de Madrid (UC3M) have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in ...",
@@ -1374,58 +1417,6 @@
         "name": "WION",
         "domain": "wionews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-privacy-advocates-lawmakers-concerned-about-irss-facial-recognition-plan.md",
-      "title": "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan",
-      "excerpt": "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050",
-      "originalUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 287,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000",
-          "width": 1778,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
-      "publishedDateTime": "2022-01-31T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-02-12-bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci.md",
-      "title": "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI",
-      "excerpt": "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ...",
-      "sourceUrl": null,
-      "webUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "originalUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "publishedDateTime": "2022-02-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha TV",
-        "domain": "odishatv.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-12-tunisian-start-up-uses-ai-to-help-remote-african-hospitals.md",
       "title": "Tunisian start-up uses AI to help remote African hospitals",
       "excerpt": "Innovations Tunisian start-up uses AI to help remote African hospitals Posted A MedTech startup in Tunisia is providing solutions using artificial intelligence, e-reporting and radiologists' expertise to help remote-areas hospitals with limited resources.",
@@ -188,6 +145,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
+      "publishedDateTime": "2022-02-11T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

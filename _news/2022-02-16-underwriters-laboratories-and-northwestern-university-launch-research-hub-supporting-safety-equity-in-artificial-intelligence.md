@@ -28,6 +28,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Northwestern creates new research hub focused on artificial intelligence"
+    excerpt: "Northwestern announced the creation of a new research hub Tuesday to examine artificial intelligence systems and their impact. The Digital Intelligence Safety Research Institute at Underwriters ..."
+    publishedDateTime: 2022-02-16T04:48:00Z
+    webUrl: "https://dailynorthwestern.com/2022/02/15/campus/northwestern-creates-new-research-hub-focused-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Daily Northwestern
+      domain: dailynorthwestern.com
+    quality: 36
+    images:
+      - url: "https://dailynorthwestern.com/wp-content/uploads/2022/02/DEERING-nick_001.jpg"
+        width: 900
+        height: 600
+        isCached: true
+
 secured: "QjMY5xPkkqLCpaDF1ygSBok5oSBtjikBudFFay+QnBi/IUBb1iCpXuFaGXxImk1fLFTxxoopNuH9DIUq0ckeGKeqSvGYcuG1NTvLvdY6Li2SAN3ri/P+9jKtCJoxnfk14tGOpSoxbBAAZzJdya+/gYX2Q58Wl+ehbN26D6la2S0ILq4GUUOqFKU0z9gmnfFVjG7tmcBYPbKPB/rSVwONXTC5C/LHfVcfv3AgmHjk2x9DXVUDYWkMt5XXS7sb2SnY55CNJy+2TKsbS29Ha++dTyX+SIP1BWq0pHHxireSOESMs+bosDhBHb179pK/d3OK6/HLMswFVbRMkQcd+n9TOYDu4Hdm7Mw1Z8rZ82U6pa5Jt2gLoDbXllU9ExpKmyXgmdR2FhgbNpCeG3yOBAEH2aOQu1YpXTXiODwDOVcDxAYVkFJJlGKEkQ1edH1W1woy1+W8EVu2dGE7eb/v640PmMgXqRwOHhFNEghlNmDl6jtw0TCGtqcgnNZMSanC0GtZbUL+EFJjbN2yfBnQhy1VHA==;TIMeycVlsqAGKIl46k15eA=="
 ---
 

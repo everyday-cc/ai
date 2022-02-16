@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Cosmic Stonehenge secrets, Ai Weiwei looks back, and gay sex 11,000 years ago – the week in art"
-    excerpt: "V&A, London, from 12 February to 25 September. Ai Weiwei: The Liberty of Doubt Fake and real antiquities alongside simulacra of everyday objects by the activist and dissident. Kettle’s Yard, Cambridge, from 12 February to 19 June. Ida Applebroog ..."
-    publishedDateTime: 2022-02-11T11:21:00Z
-    webUrl: "https://www.theguardian.com/artanddesign/2022/feb/11/cosmic-stonehenge-british-museum-ai-weiwei-art-weekly"
-    ampWebUrl: "https://amp.theguardian.com/artanddesign/2022/feb/11/cosmic-stonehenge-british-museum-ai-weiwei-art-weekly"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2022/feb/11/cosmic-stonehenge-british-museum-ai-weiwei-art-weekly"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 45
-    images:
-      - url: "https://i.guim.co.uk/img/media/6ae16e29a96634247446ac210a68f70c1ec5e7a3/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=acd260a4235c6724111f9cdc8bf65fd2"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "0kC/hlcl2nVx93OteGfPv3Xyg+RCysYb/2ST2OAJk+IyYIkHm86eIKXHmHeUeAJpXIm+lt/sd2rQqICdMLEpidivA0BLMElyE0AMcxz5p83ooe5Xok1Ws8pe1zwq0EOrlH9qwANI20WwcGj8sOHjNDTGgy1WH8Q9eSsdiqtzlAAC2M5DbGOkKm4lVZmOLv0w8hFXmepz+FGRw9TzLOdp/i3HzGCOlNZwsQw5MDxFu+ZbAwVKByN6PPcQsJKCEujx+nYDnAjNrCYDJ9kZYLLneFvX/DdBCHf75nB0vz6Z/PuqknryLd9ypf2xH1TmQxZJkyKxaPhu6VfPlo5bRfmxsytLeyIVRDyBvBZhyGeHZUU=;zh23jl8TY52DZk7galpqAQ=="
 ---

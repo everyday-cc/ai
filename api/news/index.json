@@ -10,7 +10,7 @@
       "originalUrl": "https://www.protocol.com/fintech/marqeta-plaid-fintech-payments-ach",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -41,57 +41,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-inside-the-pentagons-ai-epiphany.md",
-      "title": "Inside the Pentagon's AI Epiphany",
-      "excerpt": "Fool contributor Lou Whiteman describes the history of the Pentagon's relationship with AI, and what the future may hold. Lou Whiteman: We're going to start with a wide view of what's going on with the Pentagon and then dig down into a couple of companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
-      "originalUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/666268/gettyimages-investortablet.jpg",
-          "width": 2138,
-          "height": 1402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -387,49 +336,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-gtt-group-to-sell-neural-network-ai-machine-learning-portfolio.md",
-      "title": "GTT Group To Sell Neural Network AI Machine Learning Portfolio",
-      "excerpt": "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25639015",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25639015",
-      "publishedDateTime": "2022-02-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee.md",
       "title": "Building an AI flywheel: Grabango's checkout-free tech rolls out in Tennessee",
       "excerpt": "Five years after launching its first proof-of-concept, the checkout-free technology startup Grabango is rolling out into its ... Thanks to real-world learnings and improvements to its AI, Grabango is gaining real momentum, founder and CEO Will Glaser ...",
@@ -462,6 +368,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-cow-bull-and-the-meaning-of-ai-essays.md",
+      "title": "Cow, Bull, and the Meaning of AI Essays",
+      "excerpt": "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/620ae1e210a719b317e6acae/master/pass/Cow,%20Bull,%20and%20the%20Meaning%20of%20AI%20Essays%20(0;00;02;02).jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-language-education/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp",
+      "publishedDateTime": "2022-02-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1057,6 +1014,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform.md",
+      "title": "VMware, Nvidia team up on AI-powered hybrid cloud platform",
+      "excerpt": "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "publishedDateTime": "2022-02-14T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

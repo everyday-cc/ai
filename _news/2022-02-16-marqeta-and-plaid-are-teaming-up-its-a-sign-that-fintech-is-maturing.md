@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/marqeta-plaid-fintech-payments-ach-2656
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/marqeta-plaid-fintech-payments-ach-2656680316"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -72,6 +72,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Pai0JSYGtQvvN275pp4rhz8T8uvs2UVfoI81QsXMHG0DuiIGJUWJpW7thH7ayoby2c63pd5p7JKzVdNh39j1z9F1m9g8cZ0yZn/OTDPnf48f8n+SGf59hmptw/vlbzUPoSJSlxEapGTlJNpbxalxd+MXeBzRX31ZTDVPw24hlRdeXMOZjfz2adEIJL0/qG4ZRXt35eyXCaB53i+6dytmxtqc9AFEpcBLjI79X4sdajR67+zOwL0eir7w88UmobS/ancCgKC40hsIw4FVsaZ5SrDD+jiOgDDSxIZRLxidbnMJTB9pw5gKySz9zFMm5GXRt3hjgGi1S287KFr29VeIS6QjkY8r8Im4x4/6TRbbVA8=;lh3AEUsloMB345hFbc3nQA=="
+secured: "gNkDPScSjag82L0QoNfP2ML/BtQk0Zq1tXkwohPRH4oL6pz8HChfgh46Zewp+NPjTss1Of3tMQcODhomhvf304bSUziLxkx+ySJmWJqnQSBQoTcAj00Mk9lSO5SKqUcEDdo5cHtbKY1xQxR3jqi8o6T2Z4noeLDsxgcB/mbVsVPRkKiuuKhUNehSbSnJvBb8XDCWrpsbdaEW7kt9kklARZCI95htvOXik7rf0N4M3fdPWYge1D3RW2RzZjnoyMP4S9/gXv73SO70FWguhOX3BptiaoeoChlB905g4shmfsUnmafGkBfGkyxDJlKHGsXmTG5/yreCbJyi4bERdF8IoE7zD3WXgoKMTkaYNYs0qgPGFnRbAfdmi83Ic8P4E+Ius+7nd9nyrue8E/eejQlmEahfCBx4jx+a5y0LtfWXKSjhvlU5x95HNrNDdi+wJXg0NyosrPBAbh9e+zByzfljVt9+fmErELT0DGcya/TM/2pZgtDymwNTEW158++yTtUK2mvOzzXrpWF8SFndXSpwwQ==;gNWpZSLz8Xy8k8VSRfnLfg=="
 ---
 

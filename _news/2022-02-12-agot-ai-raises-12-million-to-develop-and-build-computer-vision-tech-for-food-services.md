@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25569416"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Agot AI gives restaurants computer vision to see where food orders go wrong"
-    excerpt: "Its product confirms order accuracy in real-time for both online ordering and notifies employees if an order needs a correction, for example, they forgot to add cheese or ketchup."
-    publishedDateTime: 2022-02-11T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/"
-    ampWebUrl: "https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/Agot-AI-founders.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Agot AI Raises $12M in Funding"
     excerpt: "Led by CEO Evan DeSantola, Agot AI has developed a computer vision product that can accurately confirm order accuracy in real-time and notify employees if an order needs correction. Customers include some of the largest blue chip food service brands in the ..."
     publishedDateTime: 2022-02-13T17:12:00Z
@@ -66,15 +50,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 26
-  - title: "Smart restaurant kitchen tech startup Agot AI adds $2M to its seed funding round, reaches $17M in raised capital to date"
-    excerpt: "Agot AI, a startup that equips restaurant kitchens with its suite of camera and computer vision software systems to help improve various efficiencies and to help identify potential mistakes in food orders, announced it added an additional $2 million to its ..."
-    publishedDateTime: 2022-02-11T18:52:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/02/11/agot-ai-adds-2-million-to-seed-round.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "4eu932qqpYRKz9Nk0Qj/P0bst7vyRzIwycEvI/Ta318Y5LztakT94zfU7qyQVq87c5l5exacQqhGNGl0d6dDHoKHaIfmRuROCzdrpGyDNaIf3T+SukZIaF8gLCM+07if7jWuFMK1Re+d7joxN5SGUyN2UAD9nL79BQ99W1wFRJv9V19TQ8euXDA7x/ugmD8TLsUny8o65T5h67q0e6QY+X3TF0z1eWKTOhSgLuR2g3YXCfnGcGAzrmTHfGH6X+dwK6ZzI2RIhQnghNgME0vF3EZ3N0/HKb6C33BC6hfblwwE89vx1Vb2WPXhLP+nkUUC6VzW/DjfH12tTHyfWv/ZzSsndOLxhB32asVgWlIks6Y=;Hf7Beej7I7aBByPHQe8i7g=="
 ---

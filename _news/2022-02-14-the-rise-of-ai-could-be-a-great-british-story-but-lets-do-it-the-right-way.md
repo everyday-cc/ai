@@ -2,14 +2,14 @@
 category: news
 title: "The rise of AI could be a great British story. But let’s do it the right way"
 excerpt: "However, the United Kingdom is getting something right. On Thursday, the government announced that it is investing up to £23m to boost artificial intelligence (AI) skills by creating up to 2,000 scholarships across England. This will fund masters ..."
-publishedDateTime: 2022-02-13T07:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way?via=indexdotco"
-webUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way?via=indexdotco"
+publishedDateTime: 2022-02-13T19:06:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
+webUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -32,8 +32,8 @@ images:
 related:
   - title: "The rise of AI could be a great British story. But let’s do it the right way"
     excerpt: "However, the United Kingdom is getting something right. On Thursday, the government announced that it is investing up to £23m to boost artificial intelligence (AI) skills by creating up to 2,000 scholarships across England. This will fund masters ..."
-    publishedDateTime: 2022-02-13T19:06:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
+    publishedDateTime: 2022-02-13T07:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way"
     type: article
@@ -47,6 +47,6 @@ related:
         height: 372
         isCached: true
 
-secured: "PKh20DxrRvUonnZ4xY75GZOt1TptCwMRS94QcIyi34pjWrxut0LHoB7+RNKxWkHqxlY9fC7GfvoBHc2h9HlBFuYveOy8A9n68ejwkynRb9wDf1nQJmF+vS1Xp/KBZI6N7J3bbMsAAZuk/ZoH4+5Gznu3cZYCeN2hufY2YNedMXATLZlURtJMOGcbBFDngy0Nsm4n6tjwRCBTvxE3ojsR7PAPgSlq+fj2o7k9SKLwQ69/FeoRjY/rVaLnd0od3vtPQpvGk8OUpy1vciUs8tBKsvxGnJmEDG6aS3PBtGwJsCi7JB96NDyMoYU9JcCCRqHkekwt1qc2ohvXzASp4Xp9vRPfbDioho51zrdwb4iQIFc=;GRSI7M8GpvmI5QFT7psGhQ=="
+secured: "AqITNYOt59kAQheL98SQpn3NeSLruync3su2/Y0+dnv8KWZ70t2TbRhpGQniRWXxkUpsFNRS1TSlb3zRI3E80wlnXk/kwRyNJlnn40J8ECwtA/4+4SWygD0kNmXQD6EUacBsGE+oo+Z3NQVkrlKG1F2QJhmmnE/IwjjJ+oOhU4gTal/XnHIdJqT4nbsZ8TqxQKKRXQ5Z2lTkhmKcY6Nd9A4OwIwtPF8DJytxMM6I/aBqKQFjGw17zRQZGRpPF1J6BRzmwfcv2rOGssvs14BOzUDhqsxcDGCyF1BIi3Fq3mlgYrpIjdfSsZpCoO+oicLFfWUZLDqfk2KMglv22Aab+HP/D1qAeXYyXXqs1m+GpzY=;xz9OIBSdugH4P63Cx3ARag=="
 ---
 

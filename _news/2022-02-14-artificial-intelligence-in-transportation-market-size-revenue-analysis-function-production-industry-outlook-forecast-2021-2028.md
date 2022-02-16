@@ -47,19 +47,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Cognitive Media Market : Business overview, Upcoming Trends and Top Company Analysis Forecast"
-    excerpt: "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ..."
-    publishedDateTime: 2022-02-11T11:52:00Z
-    webUrl: "https://menafn.com/1103679411/Cognitive-Media-Market-Business-overview-Upcoming-Trends-and-Top-Company-Analysis-Forecast"
+  - title: "Voice User Interface Market 2030 | Top Impacting Factors That Could Escalate Market’s Rapid Growth"
+    excerpt: "Rise in the adoption of smart speakers in the residential industry, due to the offer of control over smart home application solution through voice recognition drives the growth of the segment. However, the smartphones and tablets segment is projected to ..."
+    publishedDateTime: 2022-02-16T04:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-user-interface-market-2030-top-impacting-factors-that-could-escalate-markets-rapid-growth"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904840"
-        width: 375
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
         isCached: true
   - title: "Machine Learning Market Future Trend, Global Demand and Current Scenario by Forecast to 2027"
     excerpt: "Machine Learning is a part of Artificial Intelligence (AI) that grants computers the capability to learn without being detailed programmed. Machine learning market mainly focuses on the improvement of the computers programs that can be switch when reveal ..."
