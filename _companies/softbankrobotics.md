@@ -2,7 +2,7 @@
 name: "SoftBank Robotics"
 overview: "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises."
 type: "profile"
-heat: 50
+heat: 64
 
 website: https://www.softbankrobotics.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sbreurope"
   url: "https://twitter.com/sbreurope"
-  followers: 16636
+  followers: 16637
 
 locations:
   - Tokyo, Tokyo
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=oDeQCIkrLvc"
 
-secured: "iLaE965Xc6ICPJEp6G01te8vUcFABy90kVTlab8NAd2fAc//aMs7AQnhnIpPozm/Lh+ND5MrsIdrZJiub75fQSLmo5ljmoB+sZvNdn/a0x3Ny0ZxRJ1qwoUAKVnAlsTOtj/K0xJy0iHfRz1+pYSzYSRLowpHoWm1sQIzBVdl+/YMkDfG1kT216g7E6u37huixBw3229iojxB3fu01jtT09uFai+sqwUXCXeMBypoRgoA9Oj7/rvFxZFtL1k4Xn16nE+AQfQCv7NwzR2WCl5d0U1+VxJVhFYZKvapi1wcMD2XEqj3eIK8HmVZ/ogjjvp4iZ6GC7phw2dzs3QMpJpz6ozmaLzPQZrs4/SNChw+iInY5fpQAUmlPs9232Ywy3BdXG3VrdDR9WLYaNN6qAn00Qn+MFxEx6ukXHi2HylAf2M=;MOGGYg1/gMWgP6HkJv5Umg=="
+secured: "cof3BMT2lcm5hC3YdKNKyCqwSS8tOzev9slOOCSn8yUvibvWTKie+R9q70rxDztNEwz+nsTrIRiJOPCRhn3IJ/UAmgIfP0VMhmOqs0reIOMqqf/C1mS6uht1H3FQCjVHcRavo4Cncw3OgTHdgF7N48WPhR1y7fImNtoTD6bSL7xRIA4J93OTo3kxVfxyn5yY38onYE2TVQT2d4IXdqvG2qmW/TRNDcop0JZQDSf7R+pVSI8ZlQpocdpxg3TcpQk6EQBpaNq79u0uEqHVca6VmfFgWeIxrjWe1t8LVh0iPjB7iprUsDd7NA+ioHRIZWmOPcPUW/2yd5tRLNYrsefSBPeZ71DHxeNHrpVaIc6MURmI0Fa6GTDmtnZHsh+GnEkrfSTrkqo3p8kgaXFs/EuEY5z9NUsBrtc0O40/V1KJ6k8=;VUIQbGJZBrOLuKMMBKqDLQ=="
 ---
 
