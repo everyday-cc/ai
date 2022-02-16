@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NHS to Test AI in Healthcare in World's First Pilot"
-    excerpt: "Brhmie Balaram, head of AI Research & Ethics at the NHS AI Lab, said: \"Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing ..."
-    publishedDateTime: 2022-02-11T15:56:00Z
-    webUrl: "https://www.medscape.com/viewarticle/968326"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 56
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_181106_brain_circuit_board_ai_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "WHO: How to reduce ageism in healthcare AI"
     excerpt: "7. More research should be conducted regarding how to avoid bias in AI and how to understand new uses of AI. 8. In the development and application of AI, there needs to be a robust ethics process."
     publishedDateTime: 2022-02-11T18:28:00Z

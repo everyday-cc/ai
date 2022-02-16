@@ -52,6 +52,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Self-Service Technology Market Trends, Growth, Opportunity, Key Players and Industry Report 2021-26"
+    excerpt: "Service Technology Market: Global Industry Trends, Size, Share, Growth, Opportunity and Forecast 2021-2026”, the global self-service technology market grew at a CAGR of around 7% during 2015-2020. Looking forward,"
+    publishedDateTime: 2022-02-16T08:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-service-technology-market-trends-growth-opportunity-key-players-and-industry-report-2021-26"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEif3J-8fjNE4Kg9rAo_EbT29bpBaBY1nEnV-B81fqMmZzI84Lw4l5dsaBUA080zLzooKk-tzOl6Nfh3TW_1PxrB4TrF60Q_BcPwfH45XTrlXsrSo29dbsiIYe9X-0BLnYddNZVNkMFyNelq7D2ewlRDXIvGD3DPhub_Ag8T1kJ_t6dHB-zDRqwOBEU=s320"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
     publishedDateTime: 2022-02-15T05:43:00Z

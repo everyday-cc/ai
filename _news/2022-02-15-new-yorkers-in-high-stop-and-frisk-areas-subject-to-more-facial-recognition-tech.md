@@ -41,7 +41,7 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"
         width: 992

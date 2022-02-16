@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase"
-    excerpt: "At the 2018 Winter Olympics in Pyeongchang, Hyundai offered demonstrations of its self-driving functionality to guests in vehicles operating on a controlled test loop. KT Corp. also ran what it called a 5G bus that demonstrated some of the in-vehicle ..."
-    publishedDateTime: 2022-02-15T14:57:00Z
-    webUrl: "https://www.ttnews.com/articles/baidus-self-driving-vehicles-take-turn-olympics-showcase"
+    excerpt: "Stay on top of the electric car revolution by signing up to our Hyperdrive newsletter here. Cities usually have many reasons for bidding to host major sports events like the Olympics, but demonstrating to the world the best the city has to offer is often ..."
+    publishedDateTime: 2022-02-15T13:52:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-02-15/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 39
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/baidu_apollo_s_fully_driverless_robotaxis_motion.jpg?itok=Jsclp4_8"
-        width: 470
-        height: 246
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHsLHzGeBdPM/v1/1200x776.jpg"
+        width: 1200
+        height: 776
         isCached: true
 
 secured: "leFc9bdPIF0c+7ot3mgOWeXzWmNBNKiPNWvHIpXKKgKhnxTAdyAYge2qHk61IxADDypX3r4qWEZLq6aVl72K9D1+VU58wgKom+l7sox0vC1v8Y/m60MAz7NQUT5SaJVL8vcXqgf/myODdrcZe4Kgb6StTAHxJc2ABOA9BW0MzRRlyfbQXOo3Evm3Cd2dqOZHeKc9bVgv5gFkonqlP11K88JmGY+4pSl6JVVJMT0er5jxsFrrW2z/z+53ukb5jUGC+u8fl4f8iHPmyCfTWH/smlaAWgnmxXJnOyQNPDnwjQux/aVM4VlFENOzfFOE+vEhafNL1Q/SwRKZoC+eMxVTsLFZDK75qlabIYCNE9ANJBc=;SJ23ILflsd8g769pwY7Yvg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/who-how-to-reduce-ageism-in-healthcare-ai.html"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NHS to Test AI in Healthcare in World's First Pilot"
-    excerpt: "Brhmie Balaram, head of AI Research & Ethics at the NHS AI Lab, said: \"Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing ..."
-    publishedDateTime: 2022-02-11T15:56:00Z
-    webUrl: "https://www.medscape.com/viewarticle/968326"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 56
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_181106_brain_circuit_board_ai_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "UK NHS to test AI systems for biases in healthcare"
     excerpt: "head of AI research & ethics at the NHS AI Lab. “Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing an AI system to market."
     publishedDateTime: 2022-02-14T16:02:00Z

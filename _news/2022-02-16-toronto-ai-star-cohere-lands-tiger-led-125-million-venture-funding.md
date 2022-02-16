@@ -24,22 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Toronto tech institute tracking long COVID with artificial intelligence, social media"
-    excerpt: "an artificial intelligence organization based at the MaRS tech hub in Toronto, has teamed up with telecommunications company Telus Corp., consulting firm Deloitte and diagnostics and pharmaceuticals business Roche Canada to help health care professionals ..."
-    publishedDateTime: 2022-02-11T15:15:00Z
-    webUrl: "https://www.castanet.net/news/Canada/359749/Toronto-tech-institute-tracking-long-COVID-with-artificial-intelligence-social-media"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 32
-    images:
-      - url: "https://www.castanet.net/content/2022/2/20220208140228-6202c4fe39bd76110c9e347bjpeg_p3576428.jpg"
-        width: 640
-        height: 427
-        isCached: true
-
 secured: "AJSEXr4ngly1FS1v0OnLVisKT83NO16WMdP6mZfrCYEqVcLV2eA0shG2HV3Ypuv2pSNxOcjm2nUXuiWt0GJXC1ZZjsuWBZ808C/Sx7ob19mcruHGB0RSdTL61SOQrZszcPmFGlw8/ZSsPu4U6ueyz5A739F3WN87X7DFZe67bhcx8XUSq30dJNzkkyp2SN+bj9f/Jc0VQUkhSK8IsTctnndiykk627Q+LPdJ43AHjheWPDbV7YMEs30qViCoPeglnblLBQf0PvA+BpIOZOWQoWFpcgesgeReP6Y+KhMsHViyOFFhK6Oehu9HghtM5co2c883OqrPOcW32Wuzjy1jSB7LSEBPXjHKPVujy4ea9g6sBt4IFOPuxAHhR9NL5mnAdhVu5537nCqC3PTDQwZdJ4qrGzbE2xCGSGf1mHPOQtwRKJcVj5MRhRKyHfPOtock7rXNMU/YIo9KcsK62VU2tMnkktE2bb5DUPEJi3AeCbpGeUb4QdmgKf+UUu7yYFnOS0Oy8o8TjNNKMHPkHiHKAw==;kj1W6pGr22ooBz2Gak7pWg=="
 ---
 

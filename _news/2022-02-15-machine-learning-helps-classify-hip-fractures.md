@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-classify-hi
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medindia
@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Machine learning outperforms clinical experts in classifying hip fractures"
-    excerpt: "A new machine learning process designed to identify and classify hip fractures has been shown to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath were able to identify and classify hip fractures from ..."
-    publishedDateTime: 2022-02-11T15:47:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/943203"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d3443a9e-c141-43c2-96e4-d5959f6af2d4/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 246
-        isCached: true
 
 secured: "Jg480Jn+aLrwJxYv8UVVjoztQOiQLItRs83aNpEhXEXJ8rdD8mAqj+rKbT1tDB49xsGoeyAjn3pSgbX6NO0p8VEPKttBvJoIdKeMf1cI6XsUvFgkZhHwTEn44TJekPguT6t6BgwiDU9KXzQ/4SefPE8z6vrNfWwWN11LNto3gpGGKvnXDQP2QO5ylB9BZXaFCnoLC+35d5Z95sZ2BN/u5ecV67Yzf9fxQiIEiiydQIW3EE4nrBmYfv0h3s5UPccHWETqrujNwGrDudXMbHZNyVWezQzlfCg9TmJeLfhvsdDJld4aHCmaEx01b6yFsHNJbEIhb5LKkXwg7Dx9OfmcgzxavqHIaEmsM5WLmtyZH/awhiN1a1dGWlqQYjRBldNohM8XjkG0PTFjXiALLmoYkWa3i35kOs8poESvxnv5PawyWiEBXcBBJjnH0uAME2yI8d7OM9Ggato16l/Hwn4mzNo07IQKYJmFQYq1kJOoPbB7R4pXPioN3LZ5Z0+nb4sTQMVyUlNgRUhVP5k4qiDzJA==;AimQ4hL8ARu63CUqfbMwBw=="
 ---

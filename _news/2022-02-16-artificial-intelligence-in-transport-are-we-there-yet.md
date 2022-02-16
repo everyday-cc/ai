@@ -8,8 +8,8 @@ webUrl: "https://www.cio.com/article/304940/artificial-intelligence-in-transport
 ampWebUrl: "https://www.cio.com/article/304940/artificial-intelligence-in-transport-are-we-there-yet-2.html/amp"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304940/artificial-intelligence-in-transport-are-we-there-yet-2.html/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cio.com/wp-content/uploads/2022/02/Adobe-Stock-Artificial-intelligence-in-transport-are-we-there-yet-4.jpeg?quality=50&strip=all&w=1024"
@@ -25,6 +26,6 @@ images:
     height: 683
     isCached: true
 
-secured: "9nIMwD37DhB8CeVyGniIozlJIQHgypDjjQUA2YF4rBQ4+Qe296cf6LzQ06PcbfWxNQhwF5+bkiHZPsVR583R/mdTYtZ51XfucGfoABPB9VUtob/AA6O4Fo9kFjbvcumFo3TxmGesheJCCDXv5lLy/pAjSv8ZeyuTwQtxiC5HPeA2AC9FraqFaKATg/HsEtCggjHTQqQWXO+O2SQDl9Vq9TmrkSSDAaQ4781/icWNaoWcbxGQnwJ097oqgTf51x2RJlu9Elq4Bj7WRx1Gqixk/8DGG++gDiHFDqYCI6htsyUCxwK/6mYUN1McPZUZA7qdqn+QQmeHQ5UTipu4A7+tzZQW8T12fr780wvJZEznvHk=;xR9JvCZt6evreEeCfUiu4w=="
+secured: "x/oKg6qe0hwkg98UkyVkL7gmj+UXgkp04roNcXEOlhA3DNw2NgWMHH7sLY/pCW8FXUuhFvs84vTYJChA4WxGUy2NCPKQHNvxpG4FcPNkoE4Y/0jvsWSXsfZNyqogvUp5Oj1xZO7JMZn7EhUwHAXIVmop0YhPkVYz5i2HMUEeyXUTlolh7MtBslEtt1mm5l7l1uOBEJczNBaVWkNKqz92sXAqE2qz60GjzeaBEXNLvO9qRHvzuMaANVPBqMApmPGRfjhAbUfjUJdPQOIkJ5CNZEyFkude/mwQksBJuFIS3LXHQOh0Z2hzChGE2Pihiu8WX70fA+FRkFXytIZUZ/ZWuUxTIzPzwzeFp/jI1KrXEGs4XcRKnLc2xzQLmhU3G7GRqqRhebDu4UI65QKeniYP9zRxzOVp9XtQHhed0gBl13wxzUAzLgqvJGWGSuMbMgt8O5cShSttof/ifStrttnnfH8CUlXDnKLs8E3eGFCV61RSwhcwJ8Sq8CMrCMlWB8h8DyYKRxFQqIkEV4mqPYCjIw==;+lMkBkXnqW0ELMPGSmoTCQ=="
 ---
 

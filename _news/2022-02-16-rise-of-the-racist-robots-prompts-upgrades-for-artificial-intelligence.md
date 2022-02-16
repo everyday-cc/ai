@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T05:00:00Z
 originalUrl: "https://www.telegraph.co.uk/business/2022/02/16/rise-racist-robots-prompts-upgrades-artificial-intelligence/"
 webUrl: "https://www.telegraph.co.uk/business/2022/02/16/rise-racist-robots-prompts-upgrades-artificial-intelligence/"
 type: article
-quality: 41
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://www.telegraph.co.uk/content/dam/business/2022/02/15/algos_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?impolicy=logo-overlay"
@@ -43,6 +44,6 @@ related:
         height: 516
         isCached: true
 
-secured: "GBzxGcADJW5bhZlYeCz6A/BxhFHvMh2NFkodatUfb7h5hcs8W9pBJw7xrXITixnJY9P+mjhMIhBo4c2RjWwZ0VyGCkAgpOr+ZlPvUAwd2CErDgKKloT8IWXlPMOof1vYB3BnTAi7EMJAZqLXgoAisEUAWJEf5+YJwdhBIKiXkKQMs5g1PCxvaVYGaHhihUX1n+XN+V/6119VORG3kd4L7kiBfnIYpM3pq4T+viQIL1ew6qOeG8a1ToSjN5htbDh+PswFOZYb311kTCZnfgkmI2jvy0e5vmk6iaC6WRxvKPLYvDRIj4HY6RhAtUabZfWFYkkF6iP8Zr4LtK/JagZ8r2dzrAJTjZnNYZbQCHhv0Fs=;bsei5ycwTY76cBIba+IDTQ=="
+secured: "F8Z8u5ylm5YD8jY/oPAuDJ5oj3aMYFZ/Q5gRTeYBoxWkByKJEQjhGJGKjkGo8zeo020sz0Mjy+iyXo4pCvZDNNLhfvIUSK1lHpssqdqvwstBBTJ3NMjd2AGtxfz4A+9JtLkatSr8WZ2nbfo0HiUSu/lD+DNBxx6926rnKeezYe0s6kyGYaknBufjsG6eQSt38Gz3KtQX2HmK3fn+KhZVknxOWkgs8AtwDvYguzOMLmbi+729zUCQLOm9DoyPw1teukZb0aSSPy6u0JXkCOhEEiGB/tQ1ymWLGiMjkBm8Y5B9j1g/gvxnohCst3bTIw2MZS5Z7miJfWQy01+dvnpdeCIwXoBO3S/767x0cpPXY8KTR3hURbyl/RQiHFTzTf2YGi3j5oqib7fNNq8vsu6gNXHVULKixRFi88Rma98DhgBgz/175xSz/r5hCMXXPzXhkfJsuYaqiGCoeLpz6fzmVh52jEHZMZdFwG1boWqHYi9tPI9OMOQZqBx/Q2RZT4uwPBwvbZpQ+31fYXR8exfetA==;+UbJhpipyql8GxctpGgd9Q=="
 ---
 

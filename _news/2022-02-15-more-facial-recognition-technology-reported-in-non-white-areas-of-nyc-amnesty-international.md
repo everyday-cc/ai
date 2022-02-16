@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/US/facial-recognition-technology-reported-white-
 ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"

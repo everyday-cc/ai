@@ -35,7 +35,7 @@ related:
     provider:
       name: The Daily Telegraph
       domain: telegraph.co.uk
-    quality: 41
+    quality: 58
     images:
       - url: "https://www.telegraph.co.uk/content/dam/business/2022/02/15/algos_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?impolicy=logo-overlay"
         width: 1024

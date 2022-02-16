@@ -41,20 +41,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "CSMIA Gets ACI’s ‘The Voice of the Customer’ Award Again"
-    excerpt: "Launched in 2020, the ACI recognition acknowledges the continued efforts of the ... The airport was recognized as ‘The Voice of the Customer’ by ACI in 2021 as well and bagged the Best Airport by Size and Region in the over 40 million passenger ..."
-    publishedDateTime: 2022-02-11T16:25:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21256514/chhatrapati-shivaji-maharaj-international-airport-csmia-gets-acis-the-voice-of-the-customer-award-again"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 39
-    images:
-      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/02/16x9/CSMIA_Pic_1.62068b0196d18.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "7 AAI airports Chosen for Voice of Customer Recognition 2021 by ACI"
     excerpt: "Seven airports of the Airports Authority of India (AAI) namely Chennai, Kolkata, Goa, Pune, Patna, Bhubaneswar and Chandigarh that participated in ACI-ASQ survey in 2021, have been chosen for Voice of Customer Recognition under Airports Council ..."
     publishedDateTime: 2022-02-14T10:10:00Z
@@ -68,20 +54,6 @@ related:
       - url: "https://www.traveltrendstoday.in/images/Square_SATTE-Banner-2022-600x600pxl-06.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "ACI World Announces Recipients of The Voice of the Customer Initiative"
-    excerpt: "Airports Council International (ACI) World has announced the recipients of The Voice of the Customer, a recognition that celebrates airports that have continued to prioritize listening and adapting to customers during the pandemic. This year, over 200 ..."
-    publishedDateTime: 2022-02-11T15:44:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21256494/airports-council-international-aciworld-aci-world-announces-recipients-of-the-voice-of-the-customer-initiative"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 24
-    images:
-      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2017/10/2C_WORLDsq.59f23d1ac307f.png?auto=format&fit=fill&pad=5&fill-color=white&h=278&w=500&q=60"
-        width: 500
-        height: 278
         isCached: true
 
 secured: "iM8dq3hq1RiY/e2K0fwxgLcfRG02reP/x5wUBkwI92DaxRUH+Q2GHivOXrjcgQyO/TDrW4ygrYRTe4wPTXYT6MaE5DPIu8B6/s/Z77Lr9PrslUCkLpJyRdhf4hnDKy86uIP+wOGdfgEIx4BMIs0UPQ5q8QzIhs4XbFIYaHt1CI2vJTuW6D6o6hALgNhxN7xGajvEpEdmNDuMkFJi34iiC9kBQVdttdM70b3YM7Tn/8+Tj1obKxmRg1piq9BS+LN+8GNsKdUFdVHS+wQPRx0rffTVr7mCWwMkVcXOxlIIFZHPFWz5GzU1YEgqZp7tY4FDuFD9LfroC9Y4jEnXE003xxWLTBLuYMu14C4FlMJUERkrNcaefmhXPSHAv5Zt9K2BAfuc3Cp25r00Rc5JW/sFj35FNw/Ldtlspbn4tCN0GIQW1aVEbuU2ymgesC1SurehHFhRJKP4FDn/UgBScCFBh/DI2DW/G35k/oto5EY1rnfW9PSQ90zgwf3JjKpYKyoYRdiGEq7taKAqUQ6zsGiqwQ==;3ISZUNJ6NlXE6/PO/R1Hcg=="

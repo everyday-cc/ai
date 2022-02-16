@@ -53,6 +53,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Self-Service Technology Market Trends, Growth, Opportunity, Key Players and Industry Report 2021-26"
+    excerpt: "Service Technology Market: Global Industry Trends, Size, Share, Growth, Opportunity and Forecast 2021-2026”, the global self-service technology market grew at a CAGR of around 7% during 2015-2020. Looking forward,"
+    publishedDateTime: 2022-02-16T08:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-service-technology-market-trends-growth-opportunity-key-players-and-industry-report-2021-26"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEif3J-8fjNE4Kg9rAo_EbT29bpBaBY1nEnV-B81fqMmZzI84Lw4l5dsaBUA080zLzooKk-tzOl6Nfh3TW_1PxrB4TrF60Q_BcPwfH45XTrlXsrSo29dbsiIYe9X-0BLnYddNZVNkMFyNelq7D2ewlRDXIvGD3DPhub_Ag8T1kJ_t6dHB-zDRqwOBEU=s320"
+        width: 320
+        height: 214
+        isCached: true
   - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
     excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
     publishedDateTime: 2022-02-14T05:49:00Z
