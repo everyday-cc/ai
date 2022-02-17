@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI copywriting’s future is transformative, not garbage"
-    excerpt: "As a starting point, AI does not have an understanding of what “meaning” is; rather, it uses natural language processing principles to find categories, sequences and order in the data. Concerning AI enslaving humanity in 2022 is perhaps a little far ..."
-    publishedDateTime: 2022-02-12T18:20:00Z
-    webUrl: "https://bestgamingpro.com/ai-copywritings-future-is-transformative-not-garbage/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/02/The-future-of-AI-copywriting-is-revolutionary-not-rubbish.png"
-        width: 600
-        height: 375
-        isCached: true
   - title: "Device can transform into four components for artificial intelligence systems"
     excerpt: "Plastic fantastic: this perovskite-based device can be reconfigured and could play an important role in artificial intelligence systems. (Courtesy: Purdue University/Rebecca McElhoe) Researchers in the US have developed a perovskite-based device that could ..."
     publishedDateTime: 2022-02-15T17:10:00Z

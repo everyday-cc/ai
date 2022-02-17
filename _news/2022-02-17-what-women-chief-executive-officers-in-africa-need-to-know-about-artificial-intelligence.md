@@ -1,28 +1,24 @@
 ---
 category: news
 title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
-excerpt: "To mark International Women's Day, March 8, Africa.com ( ) is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
-publishedDateTime: 2022-02-17T00:53:00Z
-originalUrl: "https://menafn.com/1103712373/What-Women-Chief-Executive-Officers-in-Africa-Need-to-Know-about-Artificial-Intelligence"
-webUrl: "https://menafn.com/1103712373/What-Women-Chief-Executive-Officers-in-Africa-Need-to-Know-about-Artificial-Intelligence"
+excerpt: "To mark International Women’s Day, March 8, Africa.com ( is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with Harvard Business School Professor Karim Lakhani and Harvard Business School Professor Tsedal Neeley."
+publishedDateTime: 2022-02-17T09:17:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR160220220673/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR160220220673/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?185963"
-    width: 440
-    height: 250
-    isCached: true
 
 related:
   - title: "The African software developers using AI to fight inequality"
@@ -100,6 +96,6 @@ related:
         height: 924
         isCached: true
 
-secured: "i9gsd6owDQcSFqNL+ZL+Wi/367yfBC1uBfZJJUeB7SUXyts80yv5F9z28ocTpYCapSlDwfOocsAR0GABGmMXK+6sjRivA0S+oVYIFdjP5ZUYPhobmqwxtwBD2U6Z8ZuGVdHz0wCJ1y9/lc4sRCtQwRwyT+0hIby1LgGs2UchJhlBBjNH9GgMn7aw1/JT5rzn5feGGQ6X6lOCCIx4iPVTpm8EhnzjJOmmZkCKRMtcg7vSCMWvEtghWlHuEEgBo/uvunWSVEIuVbp7tIzhMokvL+oCG2TEXPRY5hfBHLwg8ryXoRNDRAiM7vJekXUlLEX36m4+Uj9iWuQc9nylybZn0kS6rn5eTCsnRYiKj94yMG4=;sb1IghzUxQOeqN+Nl8609g=="
+secured: "L5T81c0SbTIAHf+52TR/XAC87PSYavIfku4eCmufGxR1iFZEqjexbhQ3RJUqsVwBgEblIVScoRG3XC3KWeMnWpU7J63DdtNDmAckfl7DmScCQC/0VfhhZMt+pGNqE6hox1XDXCQ3Re5joH43tQC/jux8UcIIprA6rd72mNWJ26UHsvHj5ntDD7v69/gMz8zVDGC0QSZurrwNyrsQn0NnDOgHiea6MdZg1AFqnYME0hjCNAN2MJL4/Hnk9aJrIbz5gO2S8JVCpmteFSJB/gwPRLb2xOzG5Vsgn0BOfXhuglfPXYH/0hhZPC2MnA7mIhfdiMLLsKxDy5bZbiCdcieiM89s0Ai9v2USslnCRuor034c9zIPtt7sudzopfYA2iXIsIZp7CgLHD67MgZ3CJfgVDuw8D/vvJyOhpmgMOvYgJqkJDo0ZHY6Wkg6ZepKuSvlro3vwWpA6XQBZZJ5t6vFl+sfknKpP7lvDcgB+1vjQ7dhgJ8IrhJA+PZArOAkvRTJo6/sSQP5lhkykMv+YlcZVg==;4NI3iEKltbJabaQ3YIAsDQ=="
 ---
 

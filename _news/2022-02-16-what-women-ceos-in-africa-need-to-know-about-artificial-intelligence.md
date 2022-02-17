@@ -86,19 +86,16 @@ related:
         height: 527
         isCached: true
   - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
-    excerpt: "To mark International Women's Day, March 8, Africa.com ( ) is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
-    publishedDateTime: 2022-02-17T00:53:00Z
-    webUrl: "https://menafn.com/1103712373/What-Women-Chief-Executive-Officers-in-Africa-Need-to-Know-about-Artificial-Intelligence"
+    excerpt: "To mark International Women’s Day, March 8, Africa.com ( is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with Harvard Business School Professor Karim Lakhani and Harvard Business School Professor Tsedal Neeley."
+    publishedDateTime: 2022-02-17T09:17:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR160220220673/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR160220220673/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Zawya
+      domain: zawya.com
     quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?185963"
-        width: 440
-        height: 250
-        isCached: true
 
 secured: "8AsMH7R3QifeEC2c9EpLgxkXiPt38DxrdmLbWPyrQSaLQhMrYRa8sEBdjYDjdWpWs1//Bm7Yj4JsuDMHUApQcyKNEYVAdLzjmmsUpQM3i3EPTNNEdUDbWSYRxxcQdVem+yaHYcA0kq4O6lXO3wNdANk6oJEIylM9An18uh7cwKUYMxGC+sxhmD5KyIgdTQ9/k48YnruQyF2NNqiKTV9Nyx55R3eAC1WLn70O2hky71tI8bMACw36AA2DzpBZBWCGBrwlpaVBLUhgOmiP4IUOaq1kyT3e3IZh1PjEOAbmYS9yGSNqmcdo48WLLM2NF6Hi/D6QBXcLcYdOZv4NUWDm8CMbviexFwE1Hd6vs+chjDI+yktqU9z026qv6lPOIe7Q7XPOJddunCoWolDc1FT1N/ql6YxX2AUqYds7o3vdVkWPVcfYiU79YYA38UJHNNbCbeSDq8ar2Gsc26BqThig+TtyP1Q28c9t/BsKhXTQx3aPMj2Ju7AZa6ZA0Waw3YfVGaw8sbte1VqoKc6fMQkQdQ==;PxVOI9CobHB6cisUlAz26g=="
 ---

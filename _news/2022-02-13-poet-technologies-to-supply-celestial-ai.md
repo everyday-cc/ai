@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "POET Technologies To Supply Celestial AI"
+    excerpt: "Photonics company POET Technologies has entered into an agreement with Celestial AI to provide multi-laser integrated external light source (ELS) modules using its advanced packaging platform based on the POET Optical Interposer."
+    publishedDateTime: 2022-02-17T10:35:00Z
+    webUrl: "https://compoundsemiconductor.net/article/114239/POET_Technologies_to_Supply_Celestial_AI"
+    type: article
+    provider:
+      name: Compoundsemiconductor.net
+      domain: compoundsemiconductor.net
+    quality: 39
+    images:
+      - url: "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=Quantencomputer_Keyvisual_Chip.jpg"
+        width: 655
+        height: 300
+        isCached: true
+
 secured: "yYhrC3hJ4Epzv2YmOorL5tGOOcRUgJBKxGsXmRxfAYOEmQI0uCv1KvoxMuSuoZJ/ZBm2YSLBn26hqv5GqtnYQwziyizfW1XauS61SlWIaXAJL9u3NCrcFNcOppYBni/+KeBySU+6U+aSCU2yU1mX7jF+x6NEcydqxI8aporoUDKeuysxOxhpPV1WsZa8G7yTW6fdPXqLv3p/+5kIJO4lZLxpg6bB5fqM2wPtYHVZElvpHeXVOVcWHwZhuQSYuq99+75aqWdPe059N1Z85310HSeqm/c6nHbpmoXxaZw9IQZZg6Kc99Jfe2ZKgDF9STmrxgme1EecPOaV3lq2/sNTFuR5U1Xzh6flm5cc/Ta+VJnFzj9ZiBhX1EeZONi7fpxReCuE+LtX0Dqf6RDlCOdZPHDpUmn2/GY9kxTBVNGXDLvkK5cfEaG8EF6dOgvqEH5OeX1GuVuG1FLkJfg9UaR1n8NCPvW0KQddzJaObF1eHGNmjrKGQIUtWwmiNyUuNNxDnHiLTXdYScihQ2wLQmRVGQ==;dsXXDKoZWlP+yNUw6TrgbA=="
 ---
 
