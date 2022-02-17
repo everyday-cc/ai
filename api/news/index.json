@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-18-ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale.md",
+      "title": "Ethics waiver for Biden digital officer scrutinized after stock sale",
+      "excerpt": "The Project on Government Oversight is calling on the Biden administration to rescind ethics waivers after a top official ... she sold her interest in an artificial intelligence defense contractor called Rebellion Defense for between $500,000 and $1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/white-house/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale",
+      "originalUrl": "https://www.washingtonexaminer.com/news/white-house/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg",
+          "width": 530,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/news/white-house/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/white-house/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale?_amp=true",
+      "publishedDateTime": "2022-02-17T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-ai-in-healthcare-presents-need-for-security-privacy-standards.md",
       "title": "AI in Healthcare Presents Need for Security, Privacy Standards",
       "excerpt": "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare.",
@@ -916,7 +959,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1157,57 +1200,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-ai-technology-lets-you-skip-the-checkout-line.md",
-      "title": "This AI technology lets you skip the checkout line",
-      "excerpt": "Standard Cognition CEO & co-founder Jordan Fisher explains how his company's technology, which allows consumers to pick up products and pay for them without visiting the checkout line, could be a boon for consumers and retailers.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "originalUrl": "https://edition.cnn.com/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181119195120-02-ai-autonomous-checkout-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "publishedDateTime": "2022-02-16T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

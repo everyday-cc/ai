@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-15-report-29-of-execs-have-observed-ai-bias-in-voice-technologies.md",
+      "title": "Report: 29% of execs have observed AI bias in voice technologies",
+      "excerpt": "What’s more, nearly a third of respondents have experienced AI bias, or imbalances in the types of voices that are understood by speech recognition. There are significant enhancements to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
+      "originalUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1303435789-e1644856780654.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
+      "publishedDateTime": "2022-02-14T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies.md",
       "title": "Sales Down 6% Annually Since 2011, IBM Is Full Of Business Line Dinobabies",
       "excerpt": "IBM launched Watson Health in 2015 aiming to revolutionize medicine through AI, according to MarketWatch. After years of acquisitions — including $4 billion spent on acquisitions aimed at combining “patient records, medical literature, and medical ...",
@@ -444,7 +496,7 @@
       "originalUrl": "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 524,
+      "heat": 544,
       "tags": null,
       "images": [
         {
@@ -924,49 +976,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-12-ai-eye-podcast-659-stocks-discussed-nyse-ibm-nasdaqgs-flnc-nyse-aes.md",
-      "title": "AI Eye Podcast 659: Stocks discussed: (NYSE: $IBM) (NasdaqGS: $FLNC) (NYSE: $AES)",
-      "excerpt": "of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions. Daniel ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES",
-      "originalUrl": "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?822053",
-          "width": 367,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-12-quad-air-drone-reviews-is-the-quadair-drone-legit.md",
       "title": "Quad Air Drone Reviews: Is The QuadAir Drone Legit?",
       "excerpt": "It will thrive despite strong winds. Features of good design on QuadAir include an object recognition system. Its unparalleled power and benefits come from the latest technology, as well as the use of state-of-the-art cameras. Using a clever design ...",
@@ -1063,6 +1072,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-12-ai-eye-podcast-659-stocks-discussed-nyse-ibm-nasdaqgs-flnc-nyse-aes.md",
+      "title": "AI Eye Podcast 659: Stocks discussed: (NYSE: $IBM) (NasdaqGS: $FLNC) (NYSE: $AES)",
+      "excerpt": "IBM (NYSE:IBM) has announced the launch, in collaboration with TD Securities, of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp",
+      "originalUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investorideas.com/images/AI-Eye.jpg",
+          "width": 1280,
+          "height": 1206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investor ideas",
+        "domain": "investorideas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-the-future-of-ai-copywriting-is-revolutionary-not-rubbish.md",
       "title": "The future of AI copywriting is revolutionary, not rubbish",
       "excerpt": "For one, AI has no idea of “meaning”; it simply follows rules of natural language processing, looking for categories, sequences, and order. Therefore, worrying about AI taking over the world ...",
@@ -1140,59 +1192,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-02-11T10:55:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly.md",
-      "title": "How Süddeutsche Zeitung optimized their audio narration process with Amazon Polly",
-      "excerpt": "This is a guest post by Jakob Kohl, a Software Developer at the Süddeutsche Zeitung. Süddeutsche Zeitung is one of the leading quality dailies in Germany when it comes to paid subscriptions and unique users. Its website, SZ.de, reaches more than 15 million monthly unique users as of October 2021. Thanks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/tts-architecture-ml-blog.drawio-002-1260x479.png",
-          "width": 1260,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T10:37:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

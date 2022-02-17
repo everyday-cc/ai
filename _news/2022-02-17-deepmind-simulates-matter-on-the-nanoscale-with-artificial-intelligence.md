@@ -164,6 +164,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "New DeepMind Program Shows Major Progress Within AI"
+    excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
+    publishedDateTime: 2022-02-17T20:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Google's research lab DeepMind built an AI for nuclear fusion energy research, helping control gas as hot as the sun"
     excerpt: "DeepMind was the first to use this particular type of AI in nuclear fusion research Before we get into what DeepMind actually did, it might be useful to familiarize yourself with the experimental machines being developed to try and produce nuclear fusion ..."
     publishedDateTime: 2022-02-16T16:01:00Z

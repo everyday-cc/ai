@@ -172,6 +172,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "New DeepMind Program Shows Major Progress Within AI"
+    excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
+    publishedDateTime: 2022-02-17T20:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "DeepMind’s AI Competes with Average Human Coder"
     excerpt: "DeepMind, a Google-owned artificial intelligence startup, has revealed a major breakthrough in competitive computer programming. DeepMind, a U.K.-based AI company, has taught some of its computers to create computer software, and when judged in a ..."
     publishedDateTime: 2022-02-16T12:16:00Z

@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-08-how-artificial-intelligence-and-big-data-can-help-preserve-wildlife.md",
+      "title": "How artificial intelligence and big data can help preserve wildlife",
+      "excerpt": "The field of animal ecology has entered the era of big data and the Internet of Things. Unprecedented amounts of data are now being collected on wildlife populations, thanks to sophisticated ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.html",
+      "originalUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/animalkingdom.jpg",
+          "width": 1920,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-artificial-intelligence-big-wildlife.amp",
+      "publishedDateTime": "2022-02-08T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-five-ways-to-reduce-your-cloud-security-blast-radius.md",
       "title": "Five Ways To Reduce Your Cloud Security Blast Radius",
       "excerpt": "CEO and co-founder of Ermetic, a provider of public cloud security technology for AWS, Azure and Google Cloud infrastructures ... which may rely on artificial intelligence and machine learning, can deliver an immediate alert that lets you stay ahead ...",
@@ -1134,49 +1177,6 @@
       "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
       "publishedDateTime": "2022-02-07T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-alphaics-sampling-gluon-chip-for-edge-ai.md",
-      "title": "AlphaICs sampling Gluon chip for edge AI",
-      "excerpt": "Register here. Start-up AlphaICs yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaICs claims the chip delivers competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "publishedDateTime": "2022-02-07T09:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

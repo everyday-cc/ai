@@ -472,6 +472,34 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "What the Tech: Facebook Facial Recognition"
+    excerpt: "Thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces to be identified in photos and videos using facial recognition. Texas is the latest to file ..."
+    publishedDateTime: 2022-02-16T15:54:00Z
+    webUrl: "https://www.wccbcharlotte.com/2022/02/16/what-the-tech-facebook-facial-recognition/"
+    type: article
+    provider:
+      name: WCCB
+      domain: wccbcharlotte.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2022/02/u/v/19bf3c68273677b74b38da942ca89508140c2d3f.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What the Tech? Facial recognition"
+    excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
+    publishedDateTime: 2022-02-16T23:45:00Z
+    webUrl: "https://www.wfmz.com/features/what-the-tech/what-the-tech-facial-recognition/article_8f565ad8-8f5a-11ec-86eb-fbea4dbfdb71.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/cd/ccd9c44a-36a6-565d-964f-53538bd6c56f/620d892de78df.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
     excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
     publishedDateTime: 2022-02-16T14:50:00Z
@@ -539,6 +567,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "U7Pz3VbHbxjYaFgf00/0Xjk7CreGD8sQOAQ4Uzo8FrNt8J8ZxVW19Gv8MbmOs0ep7nEUEy4N9jVp8KVAwWwFLWZPmFTaL6YufeB8Z0dQCSQmuLGlhFtXQ27CabWJXffmyuI5qL8l6pHA47ZqA84ys8sJlmdgAzyqTihmqx4aS/HX/anAavBqeZ+8bScL3l66AbNV07LHjqinqhNZZqlFszSrTE2u9rSjkB0glWNYzQpUEYprjbDjPcrlQRgbIWNpCcPqiak5TLQ4Qp7njtnZXs5hKCS7+R1F49mJ0wISA7oWoFweYvYSBajO2ZN/Jh7PaSGRR98znTMmxzrf32p26ugf0TZB8wsDfEm1O52S9IA=;fDLcv998Dgjq5sZfaJJuBQ=="
+secured: "SS6ujW40yfXtRD9TymZRI54S7cjflqG+zTi3/NP43aOY9xxXDiiKPbyWq1ozI/vIBCnepzugP1wzZujKGPtBIMw3pUZzNXYhXkELhbhPXZC9gQ4nQE8OyMYMlItrNp/5CV9yPVb3WPivry9OPOqVdJXriaWZhlo+LkUevQoak0/HnMWQkP2cE8SU8q7QfHYmGZpw2Ij5LnV7Nt6QpIMQ/B538VqOnkG1Lut591IbYvVD9+RWFp7LscG8ahGIkebI/xgE2izgYsuTTlzVLPZ98SwVBD83fQ6D/k8i3j5w/w6HGWOrhMLbbvfU1RKD/drPwRnST5vNfpnZe7tTtyZcGa6NGHQgPYiQcclrTaAv6Pyv42aD/jJWu3CAXTRO3COGYadQmLyo69qcEsr1hYF6PzuIULoSW7xyFyMIGD4hB/EPJ/ZbteB4DxAT8QqlrgHzpDWnMygaGI/a+S+9OwRAJOvxPVx8grC2s+MUnim3kgQDvY5B6xg5DiYNE+UDpHcjhbiA2r/8Tz4ckBF4PXb5xQ==;O+2LTqClvwUz8d0Plp8K9w=="
 ---
 

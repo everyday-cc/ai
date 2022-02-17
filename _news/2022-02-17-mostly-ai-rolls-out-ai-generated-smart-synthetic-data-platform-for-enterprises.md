@@ -3,22 +3,22 @@ category: news
 title: "MOSTLY AI Rolls Out AI-Generated Smart Synthetic Data Platform for Enterprises"
 excerpt: "Vienna’s high-tech startup, MOSTLY AI has unveiled an AI-generated smart synthetic data platform to help enterprises to generate data for smart and safe services."
 publishedDateTime: 2022-02-17T11:28:00Z
-originalUrl: "https://www.clinicaltrialsarena.com/research-reports/mostly-ai-rolls-out-ai-generated-smart-synthetic-data-platform-for-enterprises/"
-webUrl: "https://www.clinicaltrialsarena.com/research-reports/mostly-ai-rolls-out-ai-generated-smart-synthetic-data-platform-for-enterprises/"
+originalUrl: "https://www.power-technology.com/research-reports/mostly-ai-rolls-out-ai-generated-smart-synthetic-data-platform-for-enterprises/"
+webUrl: "https://www.power-technology.com/research-reports/mostly-ai-rolls-out-ai-generated-smart-synthetic-data-platform-for-enterprises/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Clinical Trials Arena
-  domain: clinicaltrialsarena.com
+  name: Power Technology
+  domain: power-technology.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Image-1-6.jpg"
+  - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/02/Image-1-6.jpg"
     width: 640
     height: 427
     isCached: true
@@ -69,6 +69,6 @@ related:
         height: 427
         isCached: true
 
-secured: "/tJuH7uI9CodUrQR443Ww5E8VzCuVhps+mFiwwEIFntJZVjYDEWW4SXqCbUNaNjeI1ZcWjrm1X0k2q9fy7bEGwS6k7gnsLnjlNTORzKfGq/P1ppJ8s/U8BfEBz4pEjGhT1ML6YDBTEv8W37OyBPlqUJsue9eWlNmatX7JkHNzX4gYdH8kFn/pjR9DBjtZw8EkmQxakMx5jcHKxtJPD8YyYzWVOZ3KkdIPrErf7oDZXcRXO5QP8J4L1YB8B5CG8RmuLkH5PPYRVFTCXBE9x+C+PG/JZ/y/YRxvsTnv/Dj3IEV34Xynv2Ed0jSB9nL7uJp9XtlsNLbSWlNqyWtLPcZccdpw2WGo6zas/zl9k22CXAl6KHxqhWDWs4sZ3pcEFrYUM7Bqzf5C+1TKYWwRDIp8k3BiGW9vMuEcoKiNT0Qq1mwUd1+Ovu2K5snFZ5MFTGoYTg/VQPSL0n2fXAEuPzKhIhdkVM+GgK5HK+FQpWA/lqkTvWkSGihmcMp6xD1TX+1SNFG/a9TglLSOLnvO1WPJg==;lZyeJO4tQnBP3RcBKFe4Hg=="
+secured: "a68C4nhsQES57dGTABV9d7PsR2W+Pq2kIlqJceq1CAtVVGhNkIh17VUaFIx7M8fSkh78d01jj6A8MuK69CgV7/8e6DLBPwWHtHzszxCsqbj+gjjq8J7kCVYD5p+GWb5DuoT2JhT2F49F2wJ0is1qZT0Z/v0x10BMZw4lIp4tZf/fGNK8YddH+6ysRn7kMkgkrqclF8z0YuZqlUZLkRh530bm4pqHilfsyl/hQkmdaH1rDeyTCpwLC6c8bfr2q3ZpW3f7fkYrT+FXEuHF8jdI1hdelSi5p3TmCXT45knGcOiCRB70QbhRDiJYPY11ctIYF/OPAxtHRBHb60d7Nqjj/LL8Fd7HlKBqX/4AlpcdtLY=;8VXCKDT1qCX+QFTT0HezCw=="
 ---
 

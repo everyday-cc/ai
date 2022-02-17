@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/components-peripherals/nvidia-doubled-wor
 webUrl: "https://www.crn.com/news/components-peripherals/nvidia-doubled-workstation-gpu-sales-last-year-amid-supply-issues"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 648
     height: 432
     isCached: true
+
+related:
+  - title: "Nvidia doubled Workstation GPU sales in 2021 amid supply issues"
+    excerpt: "Nvidia hit new revenue records for gaming, data centre and professional visualisation in its 2022 fiscal year, but it was the latter that grew faster than the rest, doubling sales of GPUs for workstations."
+    publishedDateTime: 2022-02-17T21:45:00Z
+    webUrl: "https://www.crn.com.au/news/nvidia-doubled-workstation-gpu-sales-in-2021-amid-supply-issues-576230"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220218090141_crn-14_nvidia_sign_iStock-502379459_(1).jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "SKbt8tjZFOwpRiAiMmcmc5y/Ye3ElnuY2aMWSFMe6eCGUEogNx8B8+0wbdeeCnR3hAlSMJdAQLCqw5bgdAKCjsZTxCixpiMslZ10gp61PHLBZ62sHvvCTJanFNOPIlLl5GKIUOCj0WKZhb0aOTm+EvRQaenlq1u5t45Qvv02KSn6ahKKZosH9iH9ckg9QMq51mlL6WBvXpmZr2nqxUBN2/kapZO/5XmoTcSSSrmvZgbACwoOulWWP1HeAVC56dShcRmY/bqaUoVFHTfJ6p398SqRyycGMnmUR9GAU2y6CFLaqZX8AF9Ev7C2KH9ttM9zwXqMJoI2iWWxM8x2Z44Emz7DuXI5F+QoOrYZH7JkbIo2r8FNCz9Jdvya75DS9C1CmF3RYhPMLvmelKPMlQFRWlLtuWWyJ0pfJ2NTmavDU40JgbHt7sUn5Pb51cebT2uRYAT9VH1DGGr+MQJibanoXTbA8v/43wy1MEVtocRz2jaE+EVVNbR/MVpbd4zkLynkM/Zwm/Cfz3TrQcKMNF0p/A==;ZmCilB2irfLSDCDEtG4/Xw=="
 ---

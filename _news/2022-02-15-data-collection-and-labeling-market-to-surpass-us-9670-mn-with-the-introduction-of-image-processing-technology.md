@@ -41,6 +41,22 @@ related:
         width: 420
         height: 241
         isCached: true
+  - title: "Facial recognition taken to the next level in virtual reality"
+    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
+    publishedDateTime: 2022-02-17T12:12:00Z
+    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
+        width: 1920
+        height: 1105
+        isCached: true
   - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
     excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
     publishedDateTime: 2022-02-15T00:03:00Z

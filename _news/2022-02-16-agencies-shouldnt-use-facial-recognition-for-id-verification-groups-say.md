@@ -486,6 +486,34 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "What the Tech: Facebook Facial Recognition"
+    excerpt: "Thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces to be identified in photos and videos using facial recognition. Texas is the latest to file ..."
+    publishedDateTime: 2022-02-16T15:54:00Z
+    webUrl: "https://www.wccbcharlotte.com/2022/02/16/what-the-tech-facebook-facial-recognition/"
+    type: article
+    provider:
+      name: WCCB
+      domain: wccbcharlotte.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2022/02/u/v/19bf3c68273677b74b38da942ca89508140c2d3f.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What the Tech? Facial recognition"
+    excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
+    publishedDateTime: 2022-02-16T23:45:00Z
+    webUrl: "https://www.wfmz.com/features/what-the-tech/what-the-tech-facial-recognition/article_8f565ad8-8f5a-11ec-86eb-fbea4dbfdb71.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/cd/ccd9c44a-36a6-565d-964f-53538bd6c56f/620d892de78df.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Texas AG sues Facebook parent Meta over facial recognition | Charlotte Observer"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
     publishedDateTime: 2022-02-14T17:30:00Z

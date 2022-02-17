@@ -40,6 +40,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Facial recognition firm aims to collect 100 billion photos by 2023"
+    excerpt: "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020."
+    publishedDateTime: 2022-02-17T18:38:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 74
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg"
+        width: 530
+        height: 300
+        isCached: true
   - title: "Facial recognition firm Clearview AI tells investors it is seeking massive expansion beyond law enforcement"
     excerpt: "The facial recognition company Clearview AI is telling investors it’s on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial ..."
     publishedDateTime: 2022-02-16T16:47:00Z

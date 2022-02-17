@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 589
         isCached: true
+  - title: "Artificial Intelligence and its real-life practices"
+    excerpt: "There is now a vast plethora of opportunities in our lives, all thanks to the advancements made in technology: the concept of Artificial Intelligence (AI), being the most important one, with endless possibilities. There are many ways artificial ..."
+    publishedDateTime: 2022-02-16T17:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-its-real-life-practices-kuldeep-saxena"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGEAf8JsGABkQ/article-cover_image-shrink_600_2000/0/1645031715834?e=1650499200&v=beta&t=ekyhXqcxpNJAbNeL0oQ7OYsppvpVoDBaXyB56RoFQ08"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
     excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
     publishedDateTime: 2022-02-17T11:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/stanford-scientists-co.jpg"
         width: 1000
         height: 1300
+        isCached: true
+  - title: "Artificial Intelligence and its real-life practices"
+    excerpt: "There is now a vast plethora of opportunities in our lives, all thanks to the advancements made in technology: the concept of Artificial Intelligence (AI), being the most important one, with endless possibilities. There are many ways artificial ..."
+    publishedDateTime: 2022-02-16T17:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-its-real-life-practices-kuldeep-saxena"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGEAf8JsGABkQ/article-cover_image-shrink_600_2000/0/1645031715834?e=1650499200&v=beta&t=ekyhXqcxpNJAbNeL0oQ7OYsppvpVoDBaXyB56RoFQ08"
+        width: 1024
+        height: 512
         isCached: true
   - title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
     excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
