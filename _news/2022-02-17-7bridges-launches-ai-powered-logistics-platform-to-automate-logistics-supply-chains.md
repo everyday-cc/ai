@@ -2,23 +2,23 @@
 category: news
 title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
 excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
-publishedDateTime: 2022-02-17T11:35:00Z
-originalUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
-webUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+publishedDateTime: 2022-02-17T11:33:00Z
+originalUrl: "https://www.power-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+webUrl: "https://www.power-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Just Auto
-  domain: just-auto.com
+  name: Power Technology
+  domain: power-technology.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-2-4.jpg"
+  - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/02/Image-2-4.jpg"
     width: 500
     height: 334
     isCached: true
@@ -57,6 +57,6 @@ related:
         height: 1300
         isCached: true
 
-secured: "y80TgMJYMuxKeAOc2AA1sxZKJnFD1ovjNwqjzI7SEC+8y32oYHZ7syeB7bXbHtz6TaaUXDrnrE1lWaFzJq6HRk+yzykCk4LNjh6aANC3U6/m5IfDqhSTbWehrQOKPaMI9IUpU0nq1folubU9OQX7jm2PYiTqH1JgoTXI7V4VXbw4kPftf7de6xSHyrqMwTzD0CLzY4n7J4tPu4KZWoUN/2obvpMHMU2ycHFDcOJ/E+adauuTo6sIx4V4TKPdAgKwyupTpMi2CMVuff7XFrtf3fRQy/yEY8pu9PcdwuL91PLT9WRFDlb8+IcJDMrtPS+gIfLWiAOOJxo/UjGPvWQ6nsmGD7/zzwdA8OFx00GBr5A=;sxgg6nnjnXcS26akajYD/g=="
+secured: "RQ+2GH9yK+C9c1KXg+31b+H7Jtf20FwuUoc21Ua4dwIKiQrdAE3yz3worEMC3DujKyd81ir+DrEXpRbbNsNd7IxosXkl00Rq6LoQ98UISN453dSJSClVtcT9wIy+zVlxgoiqPtiYIqVsoJxs0fjPrAUFNDTKeTNwETJIYH1nxRfiQkCutrDlXffB09v6r2Og+vQMZ6qSUsW47KxwwcWRICsjnJc/nLXWu1KFCVx8PDSV7+k0HQ3dwSnAkGBmg62X1a+1zs4fAyIM0fuIeLXZnmcvVefmwOOOVjYUGI/IkbwqnqA5PxEtHVj946z7+4S+7LjzgPxMkXGWYh75mL8lt89FdSCl0ZQ6zMoB2kovaUk=;/3+JTe1zgjX+BqY+H5sOkw=="
 ---
 

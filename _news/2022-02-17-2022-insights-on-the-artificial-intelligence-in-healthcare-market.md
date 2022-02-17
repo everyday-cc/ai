@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "UK NHS to test AI systems for biases in healthcare"
-    excerpt: "head of AI research & ethics at the NHS AI Lab. “Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing an AI system to market."
-    publishedDateTime: 2022-02-14T16:02:00Z
-    webUrl: "https://www.globalgovernmentforum.com/uk-nhs-to-test-ai-systems-for-biases-in-healthcare/"
+  - title: "AI in Healthcare Presents Need for Security, Privacy Standards"
+    excerpt: "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare."
+    publishedDateTime: 2022-02-17T17:22:00Z
+    webUrl: "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards"
+    ampWebUrl: "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards"
     type: article
     provider:
-      name: globalgovernmentforum.com
-      domain: globalgovernmentforum.com
-    quality: 56
-    images:
-      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/2022-02-14__UK-NHS-to-test-AI-systems-for-biases-in-healthcare_doctors_CREDIT-EVG-Kowalievska-620x414.jpg"
-        width: 620
-        height: 414
-        isCached: true
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 71
 
 secured: "YW6ICRq8lc726eHGkBVZv02zFCYehYBDZ7BjPcu/bkkIDTMUhWy/og/gQlYsekgtV571AA2kdz0ivjflHQM4ia3aeXmTc2DH5AYfn7XUR8/HUaeZ7DTp88QLLcKivNSH4YnlU3CXJZZRD/Yyg1WlXRvvtepKJKADTcZqm9y9dQvN0h0R2GKrcjz9Q1e2rN3rTmUnAd8Dm9uJWBQrWbHQNTv/c9wBo44Pcc0szRVRE1XwdDvdjNZZmAMdxF0bicT50+3KAl5Qgk+bmIMAgcOKK63pIjrv5RVWFR3oDEaAcJ5bstMPPb47gYEGaJwBzDjPGLLLKE/l6dqK9CqpGeqMiOz2IQuDecMAgkk+UQQJDv0=;/UhZBA1dSK7LLYOTg4J0pg=="
 ---

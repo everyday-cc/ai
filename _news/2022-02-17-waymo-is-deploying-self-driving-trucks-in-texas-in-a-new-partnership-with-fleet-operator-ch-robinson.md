@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google's self-driving truck project is teaming up with a logistics company to carry deliveries down a 240-mile Texas road"
+    excerpt: "The partnership will combine Waymo Via's autonomous truck technology with C.H. Robinson's network of almost 200,000 shippers and carriers."
+    publishedDateTime: 2022-02-17T13:33:00Z
+    webUrl: "https://www.businessinsider.com/google-self-driving-truck-waymo-via-deliveries-texas-autonomous-trucking-2022-2"
+    ampWebUrl: "https://www.businessinsider.com/google-self-driving-truck-waymo-via-deliveries-texas-autonomous-trucking-2022-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-self-driving-truck-waymo-via-deliveries-texas-autonomous-trucking-2022-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/620e4256f0b06900185e4e39?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Eden Prairie's C.H. Robinson entering self-driving truck market with Waymo partnership"
     excerpt: "Eden Prairie-based C.H. Robinson is pairing with Waymo — formerly the Google self-driving car project — to make autonomous trucks an option for its customers. C.H. Robinson is world's largest third-party logistics company, and its job has become harder ..."
     publishedDateTime: 2022-02-16T11:18:00Z
@@ -38,6 +54,20 @@ related:
       - url: "https://chorus.stimg.co/23240958/Waymo_Via___C.H._Robinson.png?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "C.H. Robinson to Test Self-Driving Trucks with Waymo"
+    excerpt: "Eden Prairie-based transportation firm C.H. Robinson is partnering with Waymo Via on an autonomous trucking project in Texas."
+    publishedDateTime: 2022-02-17T17:43:00Z
+    webUrl: "https://tcbmag.com/c-h-robinson-to-test-self-driving-trucks-with-waymo/"
+    type: article
+    provider:
+      name: Twin Cities Business
+      domain: tcbmag.com
+    quality: 39
+    images:
+      - url: "https://d5c1j5k5drfk7.cloudfront.net/wp-content/uploads/2022/02/Waymo-CH-robinson-self-driving-trucks-pilot.jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "C7g3DG9utyaOtn9FVp8unJgiHTMvUZE4k1MRfcxVvCOUJMB+e7kCnHfzcXnoowAgd9/T2X+tYOsrAQ2OfBxQ6v4zs6Y0gMb4KciV4cAn/E7sorvjgymPHCQdD5jjZvDsPoWPtFHCLjerkrIxXGCrmEFim1ktRu2jtTlRVqBXVEub+gQ1noCwOIpBEjOIJqR8fzF02FrS3Da/mtc/Yqixdqsie+DuVDvErDRLd0smHXB2goEEFsGc22v7oioHnYOmRGB4hmPEOaagL0jHUPH2HkaJ16TM3xBOm0ewrK0vslLhbeVJfqiqwPtlb1l4Zehu0sejLXlRGqrSHCPqnn83ffRN7wY5GKCnY8bhCSeLpHGF+Wk5qNTtRa9jwBXzx6YTWAFy7fFadtzxifLAl+wGL61+pu5rOk0praNw/A+eSyced/kq0GL3Wk+LP4UDMttW+cZn8i2tklRgmCqqiXsVi6s/m+9IbGQvFEWRoB2bjI4d0F2zNM93hctVd+5wMfU37d8VrXAMSgHZIyStSVHIsA==;J8qiPYToTnW6gu6PPyoACw=="

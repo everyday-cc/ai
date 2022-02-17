@@ -44,19 +44,19 @@ related:
         isCached: true
   - title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
     excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
-    publishedDateTime: 2022-02-17T11:35:00Z
-    webUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+    publishedDateTime: 2022-02-17T11:33:00Z
+    webUrl: "https://www.power-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: Power Technology
+      domain: power-technology.com
     quality: 31
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-2-4.jpg"
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/02/Image-2-4.jpg"
         width: 500
         height: 334
         isCached: true
 
-secured: "a1fWEAhjd2yEnYyRYrEMKaKbJ86KS3s8g5hCpFG28kGZ13tamEY5vdvfzsTwGURkgRXh0bsAGhxPrmYIe554NuJ0d+zHKjiXfY9sAGhh9XtCkYUR3irofD4qhDxYy2ZTQRDaeV8hNbRJ3HPri/nGk9TFDx2tGlsTVlcLWcybyGPeDdWvtHicfCquV9AnR49cfgv7GzwZvznghkRstp5Y3210NQNEfch985r0X9mjw43d204KyZFoFEQMR3pFaV1WvDc6ja+Ej4iyi4PhRM9aPX1eHNYfjeoXdzw056ZtLwJSwUlD6SouRvHb3KQWF+K7edKVm2vITTDBY/xxuUmMI+OjaI0ztnlINc7bEhmlDT0=;4vii4Pwp7TmDkoDl4CpwEA=="
+secured: "nPFHy3wYWqg1yoyd7dlh9QhKPtpvFI+Ztai4saIwj6DQeRuyAZ4o0ImWza18hQM/0qV9qQcMYOw90HaOA2L9V1nL0xWs3ELsvNfvXIWdABRnScY1O4e/v0r3LyJtqVGdVpkYFyUHuzSnViYjCZclkgA/0cyEbgUr93BCPK1xrc1SOCxcrbYkD00cPz86YLq5ZYniFZuZPem854JJxoxGMwRFyBSA31kAeLzlYrwj6xmBynJZTmv2gxitLooUmAFZj42IdxcjAmL3oPel54aVWO2o4OUM3cmoHdUrYLBIK/FEYT/W/t08a+kotHuD7Y3Tvee2Z/Lwc+3V2zPIljlwnb/mboCdcVtvwD55nFQPSFYQqM1q3jOe6B0D5Dv7vsGFv8BacyC88OlDDn7fuNvM54CaX8p6ls3hZxpYItrOxtbcNddgPS5Jzi8tX6/2He1y4O/nhfLDig67Eg47fPucrybS66hAqsclDoEmXM9OPY0jjlYinsdmKt0neP8aKNaCmpyShvAAqS0wDfH8uU670Q==;QoEbOTv9J66EOrNbYfYs8w=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
 excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
-publishedDateTime: 2022-02-17T13:02:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/17/9547347.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/17/9547347.htm"
+publishedDateTime: 2022-02-17T11:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -74,6 +74,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
         width: 443
         height: 250
+        isCached: true
+  - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
+    excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
+    publishedDateTime: 2022-02-17T17:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-banking-market-demand-business-scenario-share-applications-types-and-forecasts-2020-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
     excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
@@ -155,6 +169,6 @@ related:
         height: 337
         isCached: true
 
-secured: "vKOTjJEuIsYnGhDEGCfmaLoyxNZgvCluczKR7A7Nxzt1VvYKlv+Cz5wW58JXfrx9qRS56yevtcYW2coymfWvrEWclUgZuNCVrRStMAxU7aQvAPIoI0ep9/SUvqt4PSakGbSanCjer3Vvotzt3hSmhqsDMWLeGrBaxLmwRBw41ibAYNLvi95dAIBK6vYUBoYPHns+garM+Kml+fWaPWLDcLYCn8snd1C/GXp36eXA5IZ0paRrlRz1EyW93CSq2tqrSql+hMgtVIeH+Pl2b6FBhIoOtGRixJOpNry13wHoI+tRFVIzt7+8ibqMhPC9+L8+II7nDovmqKMyg9CW5NjPQZ8k8vxMtXrwVcNgBytSLXk=;7/9sN+pwA1F+C9KqHbx+FA=="
+secured: "W4LG4bN4KtB2lz4QhIQddS96zDETmlhteIHlAsJpQg1vriOvSRjIczN0ghG2Cai/XoxNO5nHxChi1Chi2MSqOwvd4BzKwxL+Vb4nVNNlZVGRsSgwgT4jYDtZfwkUCldtkixFkwq2iWB36wPT3eM8S/rsvR46V8CNlfmFe3Wh6cqzn/2Ncb/xf0GXJy5L59zw3tTYZKRvUebFUozGWjL5W1cqpgTtfR5Ul1SDDUi3rXuaoXbMKTI6VykJXK5cwtvxmpAI9bZ9LWSBZGJyKZGYSvcvg1dz47eha0kRNgVdjXjaYCJF6dmHKs9dTtSlyWFykZ/fdtL+TPx8SBVHNUWkq+xm2o/EPRE+d5v7ikox4JA=;eyNgUsZLbr3t1amlN7Lmlw=="
 ---
 

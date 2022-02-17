@@ -1,10 +1,10 @@
 ---
 category: news
 title: "TechScape: surveillance is now just a part of daily life for US citizens"
-excerpt: "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ..."
-publishedDateTime: 2022-02-09T12:06:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
+excerpt: "In this week’s newsletter: from seeking out mental health care to filing your taxes, being watched while doing even the most mundane things has become dangerously normalised"
+publishedDateTime: 2022-02-09T10:45:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
+webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "YmkGEOvcVgsoMU+u9J/BrIwSe4xgJHt7pGs+0dROOsxJbvL4rpcW3PQ4lOKtc+tNDwmL8akeFjWigs4x19iHquAaf0pfDYXaRY3vnlngqyED4XpBSvTBA6fL2f+nGbwf5KNsa9VKaPcbBSyoA7GdUAia7zV8Z1HZ+w4ISj+5uL9rEOzTRhGr6wrbBxZn3qHkOuTR4EYSMNKMWBVRlBPJcLGcSJjplrm+Rm5MJaNhCGCTosFSnwhOzcF/YUB21s2DKg+Cs/Te6ukjuUqK6yIUS1mjJmCamzXz1CCGGcW5katd3tBe01dX/Ap+yToxc7RT1178z9EejKoDIP0Kh3m0tQiwCpDgX+5qyU5l+6GSeFY=;ITEmaQPRmfMOYxs8ooyBHA=="
+secured: "J4A8H0tjKkgbj2OOKfqE+odLTcupfT3zDVyw+ALIAYkcr2bqbO++XnKsZAZTv0Vt0tfNJ9+JsBFIaoaoDuLtyuuBcPaPlmMfgYsYNAqLjDfqEgj94UhS57i2axZ5mHrc8411bcNozW77c0SOf4aP1/j6kRzdmLv1cnQMHmeGBkUcHBNQ2wy/WzaH5Qnn7qOU1F7YA5V/8fnNK0xHemqmf1MIogNDIejIHPQyUnpklDbIZ93J2kEz9dZ6rXm923SUz262mog5awgZr2ydZMzUeswAevuwZ356arDju6/4fW/2ZVIYb9JP33fiQrkD4QwlVMjbO0WWi4nIjUraTkpMBoXq45Tk5a/dCf3SLM7h5SA=;MD1i01vJPnvN9KJtGmveVA=="
 ---
 

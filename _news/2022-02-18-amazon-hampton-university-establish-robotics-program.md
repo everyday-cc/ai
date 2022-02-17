@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/amazon-robotics-hampton-university-
 webUrl: "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/"
 type: article
 quality: 84
-heat: 94
+heat: 95
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         height: 641
         isCached: true
 
-secured: "8hu8IaLStckVUMgrvTc+rWj6zTR3d5+cC8mXlAcs7usfnGSsdgFNOqH70bviJNmgPJxmP3aWIk6MRUuBhMHTbGRgix8V6ryBcOenSENTlRWld/9SaxnRA/UWdkr6jTrw3B7BB3lGkOS5Fz3XvIdUCIAy/awXplrQnmXly+pppxtk2v7/48ViDjlEqtkKUB/lpOSty7v5HtyCN/TDmIS7TNIE3PBkg2ijrReZpk1mI2+c8uz9DnGRNXNO15PSevlPhHpitVU0KiPTSFycEt5wMnAN5xDQ+8iba4VjcjGfT1362d2EbHWv8DrY77wifSTuihkPvY1OqzUDKPgewSy515F9F23QxWdp2Mpac8iQ7kc=;+0nqRNld0gPJhvi26Kkdbw=="
+secured: "qqy0BNh2sn/w71QLX4ZMPiv093iUSYKzKuyBfBbuCOqemawzlFrOD3XEkMNumtgDwuV2NmFb2qlE4bD6CO61Em0XtuGkLDRMsRG7CGhEajcVa7PDIs3J5jiDDMYF1wZyFIWSy9gwYixjUhHdScysSLmx0+Gqpg+6pWJfoxVrXyu7Ei88yt6Zfk4HTKlZrggqC2sucXsXyBpJS0KcmkDzDz8Wg/3aA3YFJ6IhLBtJCvZ89eXo1FoGk9jQZ0ifvSPWPh0JD+T5BF+C47/ZdNFbvyOLEpmcnwpcIOcb9DEJ83G378Q+NDthPM7sDzmvebhpxhNEV4i8zFRM8l7YCGG5E7PaxxXgoEqkw+GGZYYHLZS/dxnZSc3GANsukBVJ10hlqwfdd/md0JdmzeDlHHSsNVMP7uCDPK6p40fL6Ag8XO7oivPJSFkS+7me6qSfO4KYopOys4l2GODbdUBX/I0oohHKSTvJVikXih+GK0dFUq9WCSqTmYAiFB2xRNirIDJS5507BIpWGb13Avh+ATcnKA==;oOLFhdtD4bMpny5fkMjjjQ=="
 ---
 

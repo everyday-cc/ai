@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-faci
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
 type: article
 quality: 174
-heat: 514
+heat: 524
 published: true
 
 provider:
@@ -361,6 +361,20 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "Inside Facebook’s African Sweatshop"
+    excerpt: "Some said they had done research that showed content moderators ... and no users nor Facebook’s AI systems have flagged specific points in the video. Through its prioritization of speed and ..."
+    publishedDateTime: 2022-02-17T18:04:00Z
+    webUrl: "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 54
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2022/02/TIM220228.Facebook.Cover_.jpg?quality=85&w=1012"
+        width: 1011
+        height: 1349
+        isCached: true
   - title: "Texas sues Meta for hundreds of billions for using face recognition without consent"
     excerpt: "The suit claims that Facebook and Instagram snooped on the photos and videos people posted to their accounts by using the face-recognition technology — and asks for a staggering amount in damages."
     publishedDateTime: 2022-02-14T18:12:00Z
@@ -462,6 +476,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
+    excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
+    publishedDateTime: 2022-02-16T14:50:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/agencies-shouldnt-use-facial-recognition-id-verification-groups-say/362054/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 38
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/16/021522_getty_fcw_facial_recog/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Texas AG sues Facebook parent Meta over facial recognition | Charlotte Observer"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
     publishedDateTime: 2022-02-14T17:30:00Z
@@ -496,20 +524,6 @@ related:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
     quality: 26
-  - title: "Opinion: Is this the beginning of Facebook's downfall?"
-    excerpt: "The latest big company to confront the fact that the Grim Reaper spares no one and no thing is Meta Platforms, formerly known as Facebook. Meta on Thursday ... to networking, and to artificial intelligence machines that beat chess grandmasters and Jeopardy!"
-    publishedDateTime: 2022-02-13T02:05:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/13/opinion-is-this-the-beginning-of-facebook039s-downfall"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/02/11/1477643.jpg"
-        width: 1240
-        height: 802
-        isCached: true
   - title: "Facebook owner Meta sued by Texas over facial recognition system"
     excerpt: "The filing alleges that Facebook violated state privacy laws ‘not hundreds, or thousands, or millions of times — but billions of times’ © AFP via Getty Images"
     publishedDateTime: 2022-02-14T18:23:00Z
