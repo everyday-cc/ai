@@ -92,9 +92,9 @@ related:
   - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
     excerpt: "To mark International Women’s Day, March 8, Africa.com ( is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with Harvard Business School Professor Karim Lakhani and Harvard Business School Professor Tsedal Neeley."
     publishedDateTime: 2022-02-17T09:17:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR160220220673/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR160220220673/"
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR160220220673/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR160220220673/"
     type: article
     provider:
       name: Zawya

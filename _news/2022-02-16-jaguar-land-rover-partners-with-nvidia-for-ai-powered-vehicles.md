@@ -105,19 +105,14 @@ related:
         height: 630
         isCached: true
   - title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-    excerpt: "DETROIT : Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo ..."
-    publishedDateTime: 2022-02-17T02:07:00Z
-    webUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
+    excerpt: "DETROIT: Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday they will collaborate to develop the computer brains and nervous systems for Jaguars and Land Rovers launching in 2025 and beyond."
+    publishedDateTime: 2022-02-17T05:23:00Z
+    webUrl: "https://www.carsifu.my/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--cyy0ypgk--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-16t142852z_3_lynxmpei1f0o2_rtroptp_3_autos-tech-nvidia.jpg?itok=f2NfKs_v"
-        width: 1200
-        height: 676
-        isCached: true
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "5w2fWTzF3vuvUvqmOpK8eNtqdnlL3ANtUSZbvvjv4vcT8MabftLVJcLn3P37tlvSiRQNfT1RvJRPfyb4HPI9pNwZGH7g8TEj0XbZiEwjdTVB2BK9S7qS6wiOkp4PJVgoXiNoSegkXwodtzlLQd8O7eM1v4zw9tNCTHsqMmD9uR1P72QoDRXY+p6IwgJuTsmrIiFy+rXkbLx2Lxum0xznTaVUzWu296dunjx958lq0ox5feDqIop3q5tEiWJ9GE0TNLchAjCM/7i6ag+IsPuytgtHJ6KJb1YTP1bx0uJYfaq9K4Jcf3LP8OVhL26m9SBgnsZJ0bcSidrbYSM3oobevoJE6hg2F6BZC1RcP3PtjoKoUdXduToLAdo50NHUduNwZbsO+3BDy7q09ibr6FEyH3jnstmKMO31pgMpCxjzus1FxzrRNv3clF91mHHFQDHr6R/OUUE20wKlmIVRz2FvYenwT4FYr7tPPtNtgj9QvkLBGKHWek3rqUSSJZjR58MrCfAKVFDUQSfSZKj9ClMqAw==;eoIDB+xt1HgJ50x25u/RBQ=="
 ---

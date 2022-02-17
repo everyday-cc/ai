@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/geox-sompo-partnership-japan/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/geox-sompo-partnership-japan/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1381
     height: 983
     isCached: true
+
+related:
+  - title: "Israeli startup GeoX and Japanese insurance giant Sompo announce AI collaboration"
+    excerpt: "GeoX's AI technology that analyzes 3D aerial images will be used to assess millions of Japanese buildings to determine damages."
+    publishedDateTime: 2022-02-17T03:48:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/article-696743"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/article-696743/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/article-696743/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 52
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/496422"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "oP9o8tjnlkTDeWbQtAx1CghPpQgd1srygVCtJnNE/lNBNwvmV1F9cA6hmljTfM1/YESEBTb37tV5ifyEJ77bdcoLEbO3SlO8vf9r+KieOxSqjdRFbCBcI2aa4JlpCl/ERrli/Ef0qWMkuwGWQNB6+F7FJp4LPsG/0aGfdJpftfwgN8RE4WIs9qlRUkUxLGUfF2e0StjNWO2wsnfmpdj+Tv27rDhsrhB6tpOpfSV3ikyj1cHCXzeqJUAxUZSP0dCoNVhMZPFfZPf64OLGM55JvQp8Mc+Iz21kLq77M9RKh4efLHS8jp21mjBoUO0kzEziS3xkzB84Gi/UEVLTo2ZgQ3GZaeUNBV4Ps+bmdw0I0FeTukyFutWUdPdDjQWD2lsuz1yP1DNhFASboYTBXI9LH3vUMm1wcqiQw0cHTTks45i7kAa9cADdRCsjYyDgBpDpApdIXkAec+VGtyQ0Wgts29XKg847llZr8EQ17TjGuvO9DOq/yztHe0pFZ+KWR0sCiGupZXmwMriyA5GPq1icSQ==;sYIE7nycCSrlQuklcx8yUg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey
 webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028"
 type: article
 quality: 65
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Robotics Surgical Simulation Systems Market Recent Trends, Business Scenario, High Demand, Product, Share and Forecasts 2028"
+    excerpt: "The global robotics surgical simulation systems market is projected to reach a market size of USD 1.69 Billion by 2028 at a double-digit CAGR over the"
+    publishedDateTime: 2022-02-17T12:23:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotics-surgical-simulation-systems-market-recent-trends-business-scenario-high-demand-product-share-and-forecasts-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
     excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
     publishedDateTime: 2022-02-17T02:58:00Z
@@ -54,6 +68,15 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
+    excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
+    publishedDateTime: 2022-02-17T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
   - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
     excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
     publishedDateTime: 2022-02-16T06:44:00Z

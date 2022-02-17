@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 589
     isCached: true
+
+related:
+  - title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
+    excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
+    publishedDateTime: 2022-02-17T11:35:00Z
+    webUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 31
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-2-4.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "iqMdxSZkinJOY6Omu4Q1Qhmayb0f/LdXHemBKRR9OJOVs/L9CsnlrKTVSIS2gSSGtXy8MojXSZuJ52P+9iJH/FQYERbWj23hVt9VPY473F64OQpeKHcS3hVOyQKLKCKcesEGQjXUg0xFxCF8pkLQeBfjqWkNpW2yN42YJVWyeX/Hx9spDpNzFIl0MG/oxnHFrkqtyd98rGso9d9pVi7TqpMSIMHe5TEloQeyCHcFhE5BHqDRmwncAD+MKHPgz3v2b8SJ9rrBGc3Hqs0xzVr3oWYuPsb+nqfNje11u8Rd8tOBeubVXr8trrtJxJ8fitSmyxT25izKCcyjrnZrNH4MYYEAPiM4qTDcNBdAnMeEEiiBe3Ed98tMVtQt+NdViaKmhibMs68RaegR0BYC3xrcr6T3jzygKrXTDsX51SJeeIv+9C0lUq7K/mgGJMzg6s1NZwRWvv5ogX+cxbyODFd2fieVAXyxaTpghFJGsCLX0eAcYnu/CZv28DKa7w7BqJdU5wtO2IeEHttwJUFGrPAQZQ==;KV8N01AfW8JB6owb5Ywozw=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-excerpt: "DETROIT : Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo ..."
-publishedDateTime: 2022-02-17T02:07:00Z
-originalUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
-webUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
+excerpt: "DETROIT: Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday they will collaborate to develop the computer brains and nervous systems for Jaguars and Land Rovers launching in 2025 and beyond."
+publishedDateTime: 2022-02-17T05:23:00Z
+originalUrl: "https://www.carsifu.my/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/"
+webUrl: "https://www.carsifu.my/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: CarSifu
+  domain: carsifu.my
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--cyy0ypgk--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-16t142852z_3_lynxmpei1f0o2_rtroptp_3_autos-tech-nvidia.jpg?itok=f2NfKs_v"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
@@ -116,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5/qWW9Z9IAy4I0zklM32gS6+gR+4q8DWLH2YeNGIXCLfSYBaY4IoFx9FWFIawXfHePjb7ua8TU28y6PIW1ivIFQZz0Bw+T92bUmqiWz/wpqf8LR8RXTITA6PpYaUrMnJGw5cIt0onEyvcTj3NDcZ7joV8knwaZMskFjC3EXArrJMaYISkyjMBhmP9/RlMjkWQV0UlMKlaQJvl0eSO6GgpnuK79d20M2Jy4PznqejP5K7ub0CtiI23yAC/Ql71GsoMDJ6nKsVgOtq/jgeATJjyI/rsoIMdZ+SWdNLIwgcP04d3AO3bMAfAO9PzZHuHkk2xW8FK2jXD3xmyahnjZC2xYfgR0HbVGUny6j60YY55RQ=;gqXdUIhBpATt4cSPBvAqHQ=="
+secured: "QP5uICjGDhwhKH/n1rK+4WYpZH5NUfDkLsDmhQubn4mhUzQifnZFiQqxGYMF8HAOA464G0sU5ZcQOL3/MNMGsXr7lY+1XDJ9iOfBtC+3VUnMDS1L+EJyi/UAp3X64Fn+OoYMnenR8Oc4AWW2eiI2H4HvAEa+JDQpGmbGsbZkmm4d9dsWfdkfbQLC22T/4rVUBlVvcdSCuHQi4wh/20V87UB7wW9kC8OH1HjZ7ELVt8uqZ2E/NvFX8/vlbAXOCTjpJIQ9zAqNM1HfANS4h7zUh4xD4pLZlC5tqaF80cqbA/tv66hAPyPiQB76ZcxnJW6R1ESRJsrLwP93Slfn+u1yHFveGWeQvPTXtTJt32ItmNol+AERxsNYePYZYvOvM6lM0kdx/VMTgVwRmbaG22TMB23vGyBlX68VEFCi0eRmwCcBj1SPExL85T7UAVQLpVqjnKZZBixDviC4eVOTmbA+G6OKE003sbMGv6xdb6GsGRDLYt6HhSpP8DcJcEsz2h/LkFstD5oO0IGm7NwHS0ujhw==;jAALjdy/FbwZ6be7y0+7hA=="
 ---
 
