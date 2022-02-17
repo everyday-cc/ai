@@ -16,11 +16,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/cleo-ai"
 
-twitter:
-  username: "meet_cleo"
-  url: "https://twitter.com/meet_cleo"
-  followers: 20259
-
 size: 11-50 employees
 yearFounded: 2016
 locations:
