@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-02-neural-network-chemical-formulas
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-neural-network-chemical-formulas-papers.amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cornell Researchers Train Physical Systems, Revolutionize Machine Learning"
+    excerpt: "Peter McMahon, applied and engineering physics,has successfully trained various physical systems to perform machine learning computations in the same way as a computer. The researchers have ..."
+    publishedDateTime: 2022-02-17T01:18:00Z
+    webUrl: "https://cornellsun.com/2022/02/16/cornell-researchers-train-physical-systems-revolutionize-machine-learning/"
+    type: article
+    provider:
+      name: Cornell Daily Sun
+      domain: cornellsun.com
+    quality: 52
+    images:
+      - url: "https://i2.wp.com/cornellsun.com/wp-content/uploads/2022/02/Pg-8-Science-Machine-Learning-Courtesy-of-Philipp-Jordan-2.jpg?fit=1170%2C779&#038;ssl=1"
+        width: 1170
+        height: 779
+        isCached: true
   - title: "Neural Network Can Recognize Chemical Formulas From Research Papers"
     excerpt: "Humanity is entering the age of artificial intelligence. Chemistry, too, will be transformed by the modern methods of deep learning, which invariably require large amounts of qualitative data for neural network training. The good news is that chemical data ..."
     publishedDateTime: 2022-02-16T10:19:00Z

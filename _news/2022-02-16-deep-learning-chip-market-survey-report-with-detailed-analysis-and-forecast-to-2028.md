@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey
 webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028"
 type: article
 quality: 65
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
         width: 375
+        height: 250
+        isCached: true
+  - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
+    publishedDateTime: 2022-02-17T02:58:00Z
+    webUrl: "https://menafn.com/1103707586/AI-Computing-Hardware-Market-Insights-By-Growth-Research-Methodology-Emerging-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
+        width: 443
         height: 250
         isCached: true
   - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"

@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Could Tesla Be Cooling On Self-Driving Cars?"
+    excerpt: "Would Tesla have achieved its stellar valuations without the promise that self driving was are around the corner? Elon Musk predicts that perfecting self diving technology will lead to one of the biggest asset-value increases in history. However Tesla ha ..."
+    publishedDateTime: 2022-02-17T01:01:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/delusions/tesla-cooling-self-driving-cars-2022-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg"
+        width: 292
+        height: 256
+        isCached: true
   - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
     excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
     publishedDateTime: 2022-02-14T12:53:00Z
@@ -129,6 +143,6 @@ related:
       domain: barrons.com
     quality: 13
 
-secured: "NWAp8SJIkElhY+zD2nInbinay+We4SYrsmtQzye6XLzjZ/MqezCjgZwkhnk9xym9ffHFAjBaTIaQ/u1OpHbc9v415FZtMBVFC/+xRp9EGu3u/pkElyIAd1/UzpkQ3VsguHShnWTOQFhQ9bhG594ZOd1mx0R9xcF2gXBHhKI6QDtMqbU2jwiQ34t0f7dKJJOAPg94OrVG325T5nUL7j2GU2kUPYVU5SZ4UYqpTWMP8Vm9HQsLTDOj6LZ6RBVZ6cYk8OHMzZHdk1un5/Jjin+LiQofeKBdYcBUtKDSD3ls6JsYO34pHYj9yxts9EEjMvG2UZui/ddLqam/PEHvQes0khlGaF3X2CRQjcaWmDxyPBo=;f6y2em3YBfGhMQdNEvD2cg=="
+secured: "nxiEhUkZiFNh278IpT9amLoiiEMALhABjvjTJXUAB+ypjMexgJjTBA4Y9I3Qp7z25jU8YQORUKR6PMcy8otDhyeg7ODHNaGroTVo/faaYieLV69ryOfKSezFV5lO9yoykFLOzjJT5LJXxS/K6RNrKXKZWGQ8vc+mS5CnEV1k4tH/AU6cck7FeefHzUNmxDbuhU0PCnX6uqLeXigjyg9zqonxM7Oj14fygc55sltAgqk4QtngHz46L72ODLfmy/tPF0G5JgzvFNT1s+pH42ZieWJB+PG+f3bmlsIb1HaiuwpbdBjQ/bEfzD5c37Xno2EpeiP4ROHgmp6LxdERpWZYuWzNg1QV5kyyTjdKnP2YGkD+w5Glfoxb/zsSkWNy/E8p6mZ+LeMAYaP2ACmTk69/IaO7Sx6BlNG1tV80qt0H+nbB00PPzSKfB8NOcZQblq5wyiYaqyHW62Yy1ul/Gcd6VdYpwz9u4z9HgMdNV7ij/FuGXo71DWGhpwlAQCc9PNkUOiRtlUceWFD9fwDpRq8bFg==;gkc2Cp/HAAwf/5b4uCl00g=="
 ---
 

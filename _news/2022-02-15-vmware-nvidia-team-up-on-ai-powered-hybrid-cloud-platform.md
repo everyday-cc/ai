@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Jaguar_NVIDIA.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
+    excerpt: "DETROIT : Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo ..."
+    publishedDateTime: 2022-02-17T02:07:00Z
+    webUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--cyy0ypgk--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-16t142852z_3_lynxmpei1f0o2_rtroptp_3_autos-tech-nvidia.jpg?itok=f2NfKs_v"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "gtkrUFJl9POix3pV050miiVn7hTmt0sUgVOfhoN0vgIomNEvz800b2OBxoUj9LBpTe4hUcCuyZ+J6Hj7nmyCH3htqxdQug79VOy+/rYcpS1RY4YhT4PkpIAZXxZZdsudyQLheItR+gg0dnQPj7u/MVVneYrBs42xfnXjnVEGyKV+dXoVcseu1YnCWnElIQB1tTMcQFk8lcje4xaD7KGnbPd+Gi3pVw1jHsVnlKsNVUMQbk1ju9o2eM5P31xj/U6/You9Dp0plGh67tu6w8N4AnKP/0CdNgD1fOEFLJ6PXjZsCHwi5di5d963z9aBaXkczDJwLiwp+dBzHscrAfGPqg65NOnVtF+FrGJ911KZ09YxdcNgqtF/DrwTnHCwEazJmlJ4EPuUI5fNj6fshyfgC0ZDqXVlBpLhlBZgZC6ECPSK6yqAgE9MQUlsYqIPftjTx4GW/T7aMzTIRYOXvsWGiGKMNdFj5OuoHr9vVlE9KUqow/PgUJIzbbqvQHO725C7KuSo9ttoD3Qp28Ev9KeIxQ==;guCBxZnu00TnD5fRhA8TpA=="

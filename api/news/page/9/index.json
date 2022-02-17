@@ -2,6 +2,142 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-08-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report.md",
+      "title": "Apple buys artificial intelligence music startup for undisclosed sum: report",
+      "excerpt": "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "originalUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048245156/image_1048245156.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "publishedDateTime": "2022-02-08T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home.md",
+      "title": "Cutting OPEX With Five New AI Workforce Optimizations To Place Broadband In Every Home",
+      "excerpt": "Bottom Line: For a viable telco business model, service providers need more operational efficiency. Five Ways To Empower Your Teams With AI Analytics For Better Service By empowering customer service professionals with the right AI analytics, telco staff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62011fae3902ba8469b672f0/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "publishedDateTime": "2022-02-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-data-integration-remains-essential-for-ai-and-machine-learning.md",
+      "title": "Data integration remains essential for AI and machine learning",
+      "excerpt": "The nature of human consciousness has so far evaded all, from philosophers to neuroscientists. It should therefore be of no surprise that the artificial intelligence (AI) that we can currently build is limited to more basic pattern recognition within sets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
+      "originalUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a279596285.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
+      "publishedDateTime": "2022-02-08T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-your-pocket-sized-ai-career-coach-is-here-as-preston-based-rocky-robots-brings-in-300000-for-motivation-lessons.md",
       "title": "Your pocket-sized AI career coach is here as Preston-based Rocky Robots brings in £300,000 for motivation lessons",
       "excerpt": "Digital coaching startup designed to guide and motivate young professionals Rocky Robots has raised £300,000 pre-seed investment from Jenson Funding Partners alongside other investors. The company is the developer of Rocky.AI, an app with an interactive ...",
@@ -1052,135 +1188,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership.md",
-      "title": "Sila Offers Customers Digital Debt Collection Services Through New TrueAccord Partnership",
-      "excerpt": "Sila Inc., a fintech software platform that provides payment infrastructure as a service, today announced that it partnered ... of their overall management of funds. Using a patented machine learning engine and engagement data from millions of customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/b25454761/sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25454761/sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25454761",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25454761",
-      "publishedDateTime": "2022-02-07T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-new-reprogrammable-chip-lets-ai-learn-continuouslyjust-like-the-brain.md",
-      "title": "New Reprogrammable Chip Lets AI Learn Continuously—Just Like the Brain",
-      "excerpt": "On top of that, the devices can be manufactured using conventional chip fabrication technology. After testing the performance of individual devices, the researchers then used their data to create simulations of large networks of them. They used the ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
-      "originalUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/02/ramanathan-chipLO.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
-      "publishedDateTime": "2022-02-07T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-aiml-innovations-tech2heal-selected-for-prestigious-health-tech-campus.md",
-      "title": "AI/ML Innovations' Tech2Heal Selected for Prestigious Health Tech Campus",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / February 7, 2022 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-for-Prestigious-Health-Tech-Campus",
-      "originalUrl": "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-for-Prestigious-Health-Tech-Campus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?786443",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

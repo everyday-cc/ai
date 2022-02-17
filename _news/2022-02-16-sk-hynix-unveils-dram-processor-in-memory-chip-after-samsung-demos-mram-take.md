@@ -69,6 +69,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "SK hynix GDDR6-AiM: next-gen memory with computing abilities for AI"
+    excerpt: "GDDR6-AiM does things differently by adding computational functions to the GDDR6 memory chips, where GDDR6-AiM and a CPU or GPU -- instead of regular DRAM -- will speed up computational speed by up to 16x. SK hynix is aiming its new GDDR6-AiM memory for ..."
+    publishedDateTime: 2022-02-17T01:14:00Z
+    webUrl: "https://www.tweaktown.com/news/84615/sk-hynix-gddr6-aim-next-gen-memory-with-computing-abilities-for-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "wLuebVlT1s8MuMTlKSlnstk//TebfJH7Bo7hQUTFcN6sM/m4NHn+AquynHQzZsc4eBeDa3YzKNE8k24NUokPOLYs+BOnb1AtigLIq8F2XAlC5DwSQX45ZippfP8J4RhBElD5g5fZDGf7YwvreX5azE4zeaDKVnRsGbD5/eJ9LyirBI3bUf1uRVSM6lxW3OnvVkgoUEB1a4zXqha078sHR+/O2jJRzgy9sORNWkwNinIbhtLvb+GlOTkF4ogbLzlOQV9WDo0rLXuWnsg81FgFojdeSKi15v8wHC/OtwZS0mAzW3uYKDmBImJqO1hJaB7eeMKSpRakaIQJYOH169RIEiiZGb4gKOiwOotKBlDilPcc7s22/KJH4iia9kIM6U5H+boM/5h7Yp2eZsRYr0Da2T5B4bRiW+rfFHvi3mmeDpVwrI4W29KYMKCmC3NcHZURys+IFM4AgljBSNgVhq76DKfpkP6R3sYtJ5y4D7nCOICxAsik9z2wpPoR/bijmYpxu1nuFaYQntjEt5L/8pcCFA==;4kg7JjWanZsDW9xVdB0ESA=="
 ---

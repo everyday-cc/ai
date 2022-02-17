@@ -49,7 +49,7 @@ related:
   - title: "2034. Ai's own Universal Language."
     excerpt: "In November 2016, two months after its Neural Machine Translation (GNMT) system was switched on, Google found that the AI computer had developed its own internal language to represent the concepts it uses to translate between other languages. Google ..."
     publishedDateTime: 2022-02-16T12:55:00Z
-    webUrl: "https://www.linkedin.com/pulse/2034-ais-own-universal-language-agustín-borrazás-raffo"
+    webUrl: "https://www.linkedin.com/pulse/2034-ais-own-universal-language-agust%25C3%25ADn-borraz%25C3%25A1s-raffo"
     type: article
     provider:
       name: LinkedIn

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Could Tesla Be Cooling On Self-Driving Cars?"
+    excerpt: "Would Tesla have achieved its stellar valuations without the promise that self driving was are around the corner? Elon Musk predicts that perfecting self diving technology will lead to one of the biggest asset-value increases in history. However Tesla ha ..."
+    publishedDateTime: 2022-02-17T01:01:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/delusions/tesla-cooling-self-driving-cars-2022-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg"
+        width: 292
+        height: 256
         isCached: true
   - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
     excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."

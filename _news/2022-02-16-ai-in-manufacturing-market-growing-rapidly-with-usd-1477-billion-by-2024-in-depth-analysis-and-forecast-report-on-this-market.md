@@ -53,6 +53,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
+    publishedDateTime: 2022-02-17T02:58:00Z
+    webUrl: "https://menafn.com/1103707586/AI-Computing-Hardware-Market-Insights-By-Growth-Research-Methodology-Emerging-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
+        width: 443
+        height: 250
+        isCached: true
   - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
     excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
     publishedDateTime: 2022-02-14T05:49:00Z

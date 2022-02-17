@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Ai Weiwei on the Bird's Nest, the Olympics and all that's changed"
-    excerpt: "Chinese artist Ai Weiwei, who helped design the stadium, said it was conceived in the spirit of democracy and freedom. “Its balance and willingness to expose itself corresponded with the political forms that I wanted to see emerge in China,” he wrote ..."
-    publishedDateTime: 2022-02-12T09:30:00Z
-    webUrl: "https://www.nbcnews.com/news/world/chinas-dissident-artist-ai-weiwei-birds-nest-olympics-rcna14331"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna14331"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna14331"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220201-ai-weiwei-mb-1149-e2bfd8.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Technology the big winner at Winter Olympics"
     excerpt: "ZHANG WEI/CHINA DAILY Earlier this month, a self-driving car carried the Olympic torch for the first time in the Games' history, showcasing China's ambitions and ability to produce such vehicles. Developed by information technology giant Baidu, the car ..."
     publishedDateTime: 2022-02-15T23:25:00Z
@@ -83,6 +67,6 @@ related:
       domain: app.com.pk
     quality: 4
 
-secured: "0kC/hlcl2nVx93OteGfPv3Xyg+RCysYb/2ST2OAJk+IyYIkHm86eIKXHmHeUeAJpXIm+lt/sd2rQqICdMLEpidivA0BLMElyE0AMcxz5p83ooe5Xok1Ws8pe1zwq0EOrlH9qwANI20WwcGj8sOHjNDTGgy1WH8Q9eSsdiqtzlAAC2M5DbGOkKm4lVZmOLv0w8hFXmepz+FGRw9TzLOdp/i3HzGCOlNZwsQw5MDxFu+ZbAwVKByN6PPcQsJKCEujx+nYDnAjNrCYDJ9kZYLLneFvX/DdBCHf75nB0vz6Z/PuqknryLd9ypf2xH1TmQxZJkyKxaPhu6VfPlo5bRfmxsytLeyIVRDyBvBZhyGeHZUU=;zh23jl8TY52DZk7galpqAQ=="
+secured: "fnlVXF3EOKf2A11iSnd3udkr47DT6V9jiXPtxBWxYKB/BbS/ehOuS3ZiK1Utz/3QZVpB2IedQPIY/Fd4vyY9ViiFH3l25Lq7rRKpUjWCMKT2hk0WVdfWc/upE1GsjZt64XzBnzTO+k4iI1efibJWh6oXdMz3gGiEVBdYP/5kcTAodhruWiwWMVD7oa74Jn345vZQLsVu5g3OZYLrTPNv3i3T65wAsFVZCi5BF9XfU/h18LbpNk5z4bInUpj8H7zR4uk7BMLosAxgfwvQdwbbzLBI4nO8Q7gwwQhYpMwjB8W+K2kaOHRLB/lFxeBgTwGE2kf7O4If3PFjEhLOtKF8IwzxcVuQXbJZqot4RxutJtY/y+/1EAA/Oo/Uip3snXTk3yI/VwJP2D/tndzSuQN5HdmRgGWcGx81bBl6MxXhdNDlP+D7PT8HOLhctlk6HXHAYYocfRZuqHVamHgcZtNPTE3m4Rvx4r0Od8Lf97UyKafYT4o5UMuJgEOlWhEnW+kv3hZWJAJ06BC1zA5jQ7r8sg==;mN5fVvg+f29pVVwx7yb3/Q=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-12-ai-eye-podcast-659-stocks-discussed-nyse-ibm-nasdaqgs-flnc-nyse-aes.md",
+      "title": "AI Eye Podcast 659: Stocks discussed: (NYSE: $IBM) (NasdaqGS: $FLNC) (NYSE: $AES)",
+      "excerpt": "IBM (NYSE:IBM) has announced the launch, in collaboration with TD Securities, of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp",
+      "originalUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investorideas.com/images/AI-Eye.jpg",
+          "width": 1280,
+          "height": 1206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investor ideas",
+        "domain": "investorideas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-12-the-future-of-ai-copywriting-is-revolutionary-not-rubbish.md",
+      "title": "The future of AI copywriting is revolutionary, not rubbish",
+      "excerpt": "For one, AI has no idea of “meaning”; it simply follows rules of natural language processing, looking for categories, sequences, and order. Therefore, worrying about AI taking over the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/",
+      "originalUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1220044599.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/",
+      "publishedDateTime": "2022-02-11T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-apply-profanity-masking-in-amazon-translate.md",
       "title": "Apply profanity masking in Amazon Translate",
       "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. This post shows how you can mask profane words and phrases with a grawlix string (“?$#@$”). Amazon Translate typically chooses clean words for your translation",
@@ -1106,109 +1201,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-global-artificial-intelligence-ai-in-agriculture-market-top-manufacturers-emerging-technologies-growth-rate-demand-sales-forecast-till.md",
-      "title": "Global Artificial Intelligence (AI) in Agriculture Market Top Manufacturers, Emerging Technologies, Growth Rate, Demand, Sales, Forecast till 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 11, 2022 (The Expresswire) -- The \"Artificial Intelligence (AI) in Agriculture Market\" 2022 Research report will make detailed analysis essentially on top to bottom ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-top-manufacturers-emerging-technologies-growth-rate-demand-sales-forecast-till-2028-2022-02-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-top-manufacturers-emerging-technologies-growth-rate-demand-sales-forecast-till-2028-2022-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-ai-engine-exposes-online-fraud.md",
-      "title": "AI engine exposes online fraud",
-      "excerpt": "“Allure Security’s AI-based approach to targeting the scam source destroys criminals’ business models — something traditional approaches fail at.” Allure’s AI-powered engine is ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1333578770-e1644515132390.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "publishedDateTime": "2022-02-10T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

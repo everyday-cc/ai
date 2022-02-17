@@ -667,6 +667,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-09-techscape-surveillance-is-now-just-a-part-of-daily-life-for-us-citizens.md",
+      "title": "TechScape: surveillance is now just a part of daily life for US citizens",
+      "excerpt": "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/da7340c8bd85c3551cfe0eb308af0895429ef458/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=f3d9ac91fde9b8ffbe82321b33b028a3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "publishedDateTime": "2022-02-09T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-irs-drops-facial-recognition-program-used-to-verify-identities.md",
       "title": "IRS Drops Facial Recognition Program Used to Verify Identities",
       "excerpt": "Also, Amazon’s Rekognition software has been previously shown to be inaccurate when trying to identify people of color. This led Amazon to announce it would no longer sell its facial recognition software to law enforcement agencies in 2020, as an ...",
@@ -1044,31 +1096,22 @@
       "title": "Best Buy Selects AWS as Its Strategic Cloud Provider",
       "excerpt": "Combining AWS’s advanced cloud technologies with ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR ...",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/best-buy-selects-aws-as-its-strategic-cloud-provider/article_8fbeec48-b340-5fb7-8e1f-ab86f17f8539.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/best-buy-selects-aws-as-its-strategic-cloud-provider/article_8fbeec48-b340-5fb7-8e1f-ab86f17f8539.html",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T00:08:00-08:00",
+      "publishedDateTime": "2022-02-03T02:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1441,58 +1484,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration.md",
-      "title": "Amazon Cloud gets file sharing and collaboration boost with Box integration",
-      "excerpt": "One of the most interesting integrations is with Rekognition, Amazon’s deep learning image recognition tool. In connecting Box with the AWS Rekognition service, a Lambda function could tap ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/04/boxaws.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/amp/",
-      "publishedDateTime": "2022-01-28T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

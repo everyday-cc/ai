@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Ai Weiwei on the Bird's Nest, the Olympics and all that's changed"
-    excerpt: "Chinese artist Ai Weiwei, who helped design the stadium, said it was conceived in the spirit of democracy and freedom. “Its balance and willingness to expose itself corresponded with the political forms that I wanted to see emerge in China,” he wrote ..."
-    publishedDateTime: 2022-02-12T09:30:00Z
-    webUrl: "https://www.nbcnews.com/news/world/chinas-dissident-artist-ai-weiwei-birds-nest-olympics-rcna14331"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna14331"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna14331"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220201-ai-weiwei-mb-1149-e2bfd8.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apps, AI Translator, Marker Pens: At Beijing Olympics, Overcoming The Language Barrier"
     excerpt: "Businesses at the Beijing Olympics are getting around the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
     publishedDateTime: 2022-02-15T04:21:00Z

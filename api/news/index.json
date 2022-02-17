@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-17-this-wearable-smart-camera-can-detect-voice-commands-without-a-sound.md",
+      "title": "This Wearable Smart Camera Can Detect Voice Commands Without a Sound",
+      "excerpt": "Here’s to hoping the researchers continue to develop the technology, because with more advanced speech recognition capabilities, the world would be a more peaceful place where no one had to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
+      "originalUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655ba50d6201fb981d11ac499e741434.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
+      "publishedDateTime": "2022-02-16T18:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database.md",
       "title": "Clearview AI aims to put almost every human in facial recognition database",
       "excerpt": "The controversial facial recognition company Clearview AI reportedly told investors that it aims to collect 100 billion photos—supposedly enough to ensure that almost every human will be in its database.",
@@ -610,7 +662,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1205,58 +1257,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-futuristic-technology-at-the-olympics-ai-iot-and-robots.md",
-      "title": "Futuristic Technology At The Olympics: AI, IoT, And Robots",
-      "excerpt": "Artificial intelligence tools like computer-vision cameras give the ... and an automatic control system to help teams refine their performance. The robot simulates the curling throwing process, which can help athletes predict potential game situations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620cc32dc292d32d47f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/",
-      "publishedDateTime": "2022-02-16T00:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

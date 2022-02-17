@@ -41,20 +41,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "How AI and machine learning is shaping legal strategy"
-    excerpt: "And augmentation, rather than automation, is key to the role AI and machine learning can play in shaping legal strategy. When we think about AI today in legal tech, it is important to remember that AI is not merely one thing. Instead, it is a variety of ..."
-    publishedDateTime: 2022-02-12T09:15:00Z
-    webUrl: "https://www.thomsonreuters.com/en/careers/careers-blog/how-ai-and-machine-learning-is-shaping-legal-strategy.html"
-    type: article
-    provider:
-      name: Thomson Reuters
-      domain: thomsonreuters.com
-    quality: 54
-    images:
-      - url: "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/our-purpose/isabelle-moulinier.png.transform/rect-768/q90/image.png"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
     excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
     publishedDateTime: 2022-02-15T04:39:00Z

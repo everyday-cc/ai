@@ -53,6 +53,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
+    publishedDateTime: 2022-02-17T02:58:00Z
+    webUrl: "https://menafn.com/1103707586/AI-Computing-Hardware-Market-Insights-By-Growth-Research-Methodology-Emerging-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
+        width: 443
+        height: 250
+        isCached: true
   - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
     excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
     publishedDateTime: 2022-02-16T06:44:00Z
@@ -105,6 +119,6 @@ related:
         height: 337
         isCached: true
 
-secured: "Ru5Iah3SHGlvIYwVrT/zB73MBEw5ENOe13NHHyLJpWAVYcNzg6u0W+vnCpg1lNYDL7fXm9SdViQegV7leus7PUgxiU1LniVUHJywQahv1XTXB+6a3lotjEOfq2OAG7LGvJ1QjMVdhyoxCtV9ek13nSRVj+pfgVq33IDs0zvAkMNR4w2D7UVRmpEyBEWqMWv7n4n7EfLvZ/JA7Uk5lxa4zbde7GgfeBt06dc+7npqRnK/nIM6eJWhWu0LFf+4M4U5grbs9Ud9PPvhLbIGXU9CESQHIqmKWrjQl1tJhA5PqvyafTjPyq7LUzdmqocLOTP2MHN10S4YtE91uMBm9ax+BriSRHooExY6vvmF1qQTZ9o=;T+HAlsxhVf8ksGxrKlTgow=="
+secured: "ztF1M/ZWN3ckLQjCkfK+iVW7dm0L1v5SPSU0GAubnpf/q9u6L9vG2IO065pXzOP15Mw99KYS7otzscHdrVLD6mSZVOAWjgMI5fAvF9Z81WiAfAIyvdCMHO2kOBPe6cajsZz5Nhy+txNaOOtcnDTPwTPk+y8izImm57SMhOPKB9MgxfEpwwN4Torkhww6d8k5DEhiX03h0Bzqg7qpgsATIiIxK3lTYiGbtfKWPGQ1hA0T6iRTH0SeEEjuz4C8d4XOXuzGg6JvopzfUwW/xzlG9z9HPTq8xwE6qVEWfzKFMXtNFYQkAg9CLAWNqo852SgqSYhxNmE+Xu9K8BDMmN+/m7aRC7g8pwJc9wulwS0x23ZqsK68NyAhdo7NOvYKNdf4yk8LWh4zxK5tJkdjju32lQKQEUKISSwrWR3qwPiijMuFhCiTmWn0Yt1uBziusmAjVKsDO8Y8LkLFA+GEM1oR03+XUotxJc/PXtH4SPFJJ9rUrYDyoVK6oNW+1EpQqkgHMlI5n+JywPrJHNSCJMyBEg==;POC0kOoPOIvUiX/LLXynxw=="
 ---
 

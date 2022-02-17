@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
+    excerpt: "DETROIT : Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo ..."
+    publishedDateTime: 2022-02-17T02:07:00Z
+    webUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--cyy0ypgk--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-16t142852z_3_lynxmpei1f0o2_rtroptp_3_autos-tech-nvidia.jpg?itok=f2NfKs_v"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "n222FTD7dH8KjChVyQLMjPwb0atd4ZCCrcFMsOwk/sqk6D53+qseG75IHyT4bgUJ55DIEaPO5L3FUwH7CUqZc4j3GvoE+EUu2PaJrMLCROg5DPM4K2aXNhHl013bBZYrIl4GqTFvPVdUiwOy+Sk4aMeiKy43/LWjP0jUUBcNnWXM3MzqarvDizlQpCjFtmM87vIHKMXjn52fT9i2tBsbllHzOmY9RjNZdIQgiJejNykP3fUww4pRs5hVuyKBoBFhFUEkNMi9ih/EbFpglwMp854WlCjEU8EY4mBWuUfBJU8Kj6sydbf106gYnWWNExb8mkypIJqzN+NEFGnMYag55Ok/qKeyBU3gFNW/vt3HV9MI3K6wL0v8Dtkj6g4tc7AON+WvzlgRWr/JPcuP8X6UtBPnESljegjSyFRMUZLMVC0RpjGfTpVp1kUvdLnWpMUHI3Nm9P18FOlkgHSU2LrtWdfUnzKsXXJKXrmdNZang1p+0rqUpwJwxWC5y1zt1n2pMkz0a+8K5PvgKMl+jeC6FA==;TdsZE3apds+PM8XBNp69CA=="
 ---

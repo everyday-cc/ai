@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T16:01:00Z
 originalUrl: "https://www.businessinsider.com/deepmind-demonstrates-ai-can-regulate-nuclear-fusion-power-plasma-2022-2"
 webUrl: "https://www.businessinsider.com/deepmind-demonstrates-ai-can-regulate-nuclear-fusion-power-plasma-2022-2"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/620c3193da5ac00018fe7bfb?width=1200&format=jpeg"
@@ -193,6 +194,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Jy7MjbzqXKv17hyt8zePYffQNFwbaC97IiK3kH5iRHXmTuvdkDHPzkkRxDm920AROS0DglaQtLXh3XcfQV9pkdFEkMvblM/QEwj5BHh3VdgKkkuNw5/HquN+QM2O6JZMvoyy6q/O2L9Q/GtO4SMiP9O9apnwb7MN7JmM9I1OcnLVnLVNRTdxa9/yLSarhveKSaZpIFeC9Ad+4Nbd6vYeNqLbH6bMoat1P0JHqz1WPfdCI+6tmoBm3wgQ+T8Qa1UK5RAxY474j2PJjUZv1skEjoIpMHK2MeqFlgBp3umnuWRUu0P2ShtMkFNX2fpCn92YvLB+aj4tt2eZRTNjSA2FtfRaOzKCqv3fY5lOg0uoRhY=;mf/2SqTvi5tMQsxz0vQlJQ=="
+secured: "lNEe1lFZ21UhAdf0+OIB1QgZwrM/2N2FuCgz/W73WuCpCAvq+273jb+ICNzqnWFlAFv2XX0K3uEwe6bQ8qNyFXkj8xVHFecYZB9Lb4zFQ+udlY2j/83gMHtKUspmX/U80nslJWjGV69B6TOmYTQ4PV7p10cYERfz1Sn/3konVnwUtYgLbaSF+1fa6j7JKVclDiGcOzgUrE8hQsfqfWN3fHXOCiuG4HNzT5EnWI7YrY64Wtix7x9qpgC73+MmAvEVTEghLNs+DgyiF2mm42L2/7eBO4zXu/unBr+a5xWb/W1UmsDYF3JzpSDMXmcUqG7F9z3nkWrUYehHHycJu9NYoXxKQiD7gtgCVC3jx4SWseVASsPZfAr8bB96RNTPHBoPVfhgfU8j85iDKaYffEUMiBOnXcJL2mJcJ98d4F0O1ZQnPeSfi3iDrFHEXUGL1QSfOn1QF0/ALNdaL3H1IZ8BOShApGuI1+d8K0/kQfsUwet39XcmHKGsTKazhrEUuaeQUSEFqPpqENBjk4K5LSWiFQ==;FRt4w5svY2vmPYVJ6r+gqw=="
 ---
 

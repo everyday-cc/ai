@@ -3,8 +3,8 @@ category: news
 title: "Artificial Neural Network Market to Witness Growth Acceleration | Alphabet Inc., International Business Machines Corporation, Intel Corporation"
 excerpt: "Feb 04, 2022 (Heraldkeepers) -- Artificial neural network refers to a biologically inspired sub-set of artificial intelligence patterned after the human brain. An artificial neural network is the ..."
 publishedDateTime: 2022-02-04T08:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04?mod=search_headline"
-webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04?mod=search_headline"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04"
+webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-to-witness-growth-acceleration-alphabet-inc-international-business-machines-corporation-intel-corporation-2022-02-04"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "OE0PQVNSNSJ2wu67T7wCdT+fYfH7735eWkTKG+yyAehTrnVXCzVUEQdtffLEc+iI9ggrBPnu+XDGtaHTRJIwO84NNaHH9IXZqc65rIWlIIkHeenLNO+3hCDjBzHEvSudb2Yn0xK0Pq2a00nXbqpwl+xXJ6riFw3BLoeLhrRUwCmXaml7eas4kBwa7ee1fbCviHMKfLUlcQ5ioQEC6ShtrVfqm4gO62a9oyYa0ZxulmuIyR27/89wVkkc32gqob80nGO5+dATeQGNOIiJ+59PAwkZh4xPxesv3YXTTc0H3L1yB/UVKSkUWWMxwoy7LYv+InNec1HxiYnwSGutm09z6B8YAWTSLd7UnkudPMXuSvM=;sjucOPw0afW1Q5FMBxA5Hw=="
+secured: "rxTMaQEWSD8Je74DVYSar4hERko88LYqWf1lu6mOM/F876gVw4aRLaD5bEwAESH26wKZX1OlDtFWJk7b+bxDF3meVE4u2GaW8ugmitwd8tdk5QyL8xrrEkeI7sgobMa4iCeUQLbTxlex6sUZ6DqhN+TShywkWZxmZLLydBgGk7wIZ2/U4LEiH8+hI6CRFdWm6CUuaqzkTNiGawwdDTTa5npvCu1zU6h84ylIvkJC0ruWg5RKSQWQiVRbUtsBw1rAaXw2ELwGpDZcAy6IWhIrySY6F4bgCMYclLbYruVb3/OU/RSvKveH/c9eTfhEA4hfFy4VxZ841fqiCGA6yF2wE+wST5eyD2ELoHr09xbTxhM=;Oj4Pc1mIbzZJCX2n2p4pHA=="
 ---
 
