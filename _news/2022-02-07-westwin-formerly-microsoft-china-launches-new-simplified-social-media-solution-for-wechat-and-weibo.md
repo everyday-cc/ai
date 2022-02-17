@@ -2,20 +2,28 @@
 category: news
 title: "Westwin (formerly Microsoft China) launches new simplified Social Media solution for WeChat and Weibo"
 excerpt: "Westwin plans to continue to build out the Wreach platform over time, with a built-in Baidu Paid Search Self-Serve function due to launch this summer."
-publishedDateTime: 2022-02-07T09:52:00Z
-originalUrl: "https://www.wric.com/business/press-releases/cision/20220207CN53690/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo/"
-webUrl: "https://www.wric.com/business/press-releases/cision/20220207CN53690/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo/"
+publishedDateTime: 2022-02-07T09:02:00Z
+originalUrl: "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and"
+webUrl: "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and"
+ampWebUrl: "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and?amp"
 type: article
 
 provider:
-  name: WRIC
-  domain: wric.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
   - Microsoft AI
 
-secured: "/Ud7HVrY47JzZH+LiSI88wh4PKeNZL/V0V3VVrHxfz16usr+Mb7TiiPP+8DDH+s0/GzwPqkLE43eKVphCNDWE2GL2kvlQ+k1mGB2KWryveyX8fflla3BqJUruxbLCWOJXhPiysk5BWHKO+IywjIqYfcR8fv26VSxHj9D9bVInM0Z0FplTDdYtIEXvV2QPD7RBji3VCKFF3PJftUg/cKN3A8f6DgaecPORq5u1+w3OQDMppp9tizf8Oo1bYPwqphlWv/OFenj5kcJ6H59+GIJ4MiLRcBzinw122+Bi7z9rYA4LsUdetDTYwFNBZNQKVpqyNOL4796l0pB3pcGNEYzhHaCHHT2fH3MQCbtiTeDNh0=;yTVDgVvtVnhF5ykJ/guP/g=="
+images:
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
+    isCached: true
+
+secured: "eNh2Q3NhkhI5oQIqaFQiv4h0RRV+3QXEHjvL2VFyznRJvVNE7uPNRNPyVq1UHSvCvHPp1PSn+HwpGFQvpZDpqZc3fiyiVnJlgGrH/W1fHH2CkJJ5YoGRFxSUSYGs9h21VlnYXtTraQ4lNI/TaFx24m66v4AA09mdDdnTqwsD9BRV3LnbGpFYANLgkUmVzl9S2wB8IE+gzDHITwCu4sUfwjNUQQBBizuVBqBxBKbw90vd4o0Bvbo+Zq3Nb85Svce07AwE3Go8Up02UrDwM2QW74CqJ4jXzn9pDrJ46dUw/Ypahnl0kYt14+xOG6olf3EZUuZB6kxnAiskk6OQd5NrqrxfBtxip7WfcGX8BPeyRp0=;qkblhuY+wHwL8Zs+ZdTCoA=="
 ---
 

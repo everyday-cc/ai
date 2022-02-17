@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-10-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
+      "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
+      "excerpt": "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
+      "originalUrl": "https://www.thestar.com/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thestar.com/ad35dWShb618CrELmY2D8mje9ho=/1280x1024/smart/filters:cb(1644443122032)/https://www.thestar.com/content/dam/thestar/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg",
+          "width": 1280,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-expert-believes-machine-learning-can-improve-after-failing-during-covid.md",
       "title": "Expert believes machine learning can improve after failing during Covid",
       "excerpt": "Machine learning and artificial intelligence (AI) systems have long been touted as the future of medicine. A patient can walk into a doctors office, and after a quick scan discover their risk for a variety of diseases, and be given information on how to ...",
@@ -1053,6 +1096,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-09-techscape-surveillance-is-now-just-a-part-of-daily-life-for-us-citizens.md",
+      "title": "TechScape: surveillance is now just a part of daily life for US citizens",
+      "excerpt": "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/da7340c8bd85c3551cfe0eb308af0895429ef458/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=f3d9ac91fde9b8ffbe82321b33b028a3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "publishedDateTime": "2022-02-09T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-published-guidance-nice-advice-and-quality-standards.md",
       "title": "Published guidance, NICE advice and quality standards",
       "excerpt": "for the treatment of Motor Neurone Disease TA20 23 January 2001 23 January 2001 Guidance on the use of inhaler systems (devices) in children under the age of 5 years with chronic asthma TA10 23 August 2000 23 August 2000 Guidance on the Extraction of ...",
@@ -1091,92 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
-      "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
-      "excerpt": "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away",
-      "sourceUrl": null,
-      "webUrl": "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "originalUrl": "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thestar.com/j-LCDvx0Et6fcBec6MzWhz1IcJ0=/1280x1024/smart/filters:cb(1644443122032)/https://www.therecord.com/content/dam/thestar/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waterloo Region Record",
-        "domain": "therecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store.md",
-      "title": "IBM Watson-Powered AI Virtual Assistant Helps Visitors on the TD Precious Metals Digital Store",
-      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

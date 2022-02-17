@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-21-random-noise-generation-in-tff.md",
+      "title": "Random noise generation in TFF",
+      "excerpt": "Run the following \"Hello World\" example to make sure the TFF environment is correctly setup. If it doesn't work, please refer to the Installation guide for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/random_noise_generation?hl=de",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/random_noise_generation?hl=de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=de",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-deepmind-co-founder-leaves-google-after-a-rocky-tenure.md",
       "title": "DeepMind co-founder leaves Google after a rocky tenure.",
       "excerpt": "Mustafa Suleyman, who played a key role in the company’s work on health care technology, is joining Greylock Partners, a Silicon Valley venture capital firm.",
@@ -1471,58 +1523,6 @@
         "name": "Business Insider Australia",
         "domain": "businessinsider.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-the-2021-good-tech-awards.md",
-      "title": "The 2021 Good Tech Awards",
-      "excerpt": "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/27/business/27roose/27roose-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
-      "publishedDateTime": "2021-12-27T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

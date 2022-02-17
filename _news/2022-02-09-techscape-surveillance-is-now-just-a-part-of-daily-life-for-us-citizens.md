@@ -1,10 +1,10 @@
 ---
 category: news
 title: "TechScape: surveillance is now just a part of daily life for US citizens"
-excerpt: "In this week’s newsletter: from seeking out mental health care to filing your taxes, being watched while doing even the most mundane things has become dangerously normalised"
-publishedDateTime: 2022-02-09T10:45:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
-webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
+excerpt: "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ..."
+publishedDateTime: 2022-02-09T12:06:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "J4A8H0tjKkgbj2OOKfqE+odLTcupfT3zDVyw+ALIAYkcr2bqbO++XnKsZAZTv0Vt0tfNJ9+JsBFIaoaoDuLtyuuBcPaPlmMfgYsYNAqLjDfqEgj94UhS57i2axZ5mHrc8411bcNozW77c0SOf4aP1/j6kRzdmLv1cnQMHmeGBkUcHBNQ2wy/WzaH5Qnn7qOU1F7YA5V/8fnNK0xHemqmf1MIogNDIejIHPQyUnpklDbIZ93J2kEz9dZ6rXm923SUz262mog5awgZr2ydZMzUeswAevuwZ356arDju6/4fW/2ZVIYb9JP33fiQrkD4QwlVMjbO0WWi4nIjUraTkpMBoXq45Tk5a/dCf3SLM7h5SA=;MD1i01vJPnvN9KJtGmveVA=="
+secured: "hW8LYmmbDcG96FgTT5WnkxPGjIhXe5ituKR5CpO4GJKxn3fqC1m/Frprxil7+NQGvAXcWfQHymBfvt15b0i+tuBNkQjvR/1m5k9aiLzRuPj1LX3Md6PLm2L1SJUGybXyxxqxgJ4TBslkvJM66rzdpYeb0kN4wNLOdy9+VdtpU3PoG6r3hsyxVocxfD0Cf/GWa0KsV3lu13b7wZG0aegNZ1mGNI0RM0h6rYo6QZ8kFI5YjSVn/RCDcH+BpUaX/8mPiTicbDJqjw1NGktQDAMqbEP+kucWrKd8wmYY3iROQqJkAZTRcmfPhEDelyO2jPi6LXNZdDH7jCvfocJpD0nMeRvevR5WKhZlz6Ch1P8b91w=;NJ32S+5VM+M+L7UEziBmDQ=="
 ---
 
