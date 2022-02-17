@@ -9,7 +9,7 @@ ampWebUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial
 cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-12T15:32:00Z
-    webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 37
-    images:
-      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
-        width: 980
-        height: 654
         isCached: true
   - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
     excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
@@ -101,6 +87,6 @@ related:
         height: 400
         isCached: true
 
-secured: "5peCm3KNh2nGZpnoRVPji9nR5tGD612tRGINWb0KWeRWw38a2Ye1pboZL/Euf95ZASyEXZkpadQiO7xVu+i4oh7mHngcyJdCjKOMNZ6iFvtYBHQEJuNh1QNYGOoFc4Z0RMZAGwRSaouIjnPoozYv+gdvLdefMpuay45xZrJXaqD+re5f3RPMvP9XEvWlDSxHxse0U6KiLQdBHGuWDhdpq3gEuCdTIhRhwqzEvSIYgHLyjPcixOHhl/fmwrDsE7Tof4FdCPUUQVn3c1Twyn/ljYDSPeV3RiQYB5mwU4Z+DmEdZf/Z9fNapyiTJMOiBBtb1hBR1wh/LcmiKE2C550pRFCHCeNE3UrssyuJuDV7+n8=;+bMuKhSsA0/xzPaGmnndOg=="
+secured: "k6KH4odTJi6eOb3HHtLK/rrwty/NKNNXlaHka1f0nnsm1ALpmqvTng5bxX3Ple/diASexEwbAi7z248oLMfFK6jXDsY8Tcqt9Y/cBbnZ4lUinWLz3GAiTe4mjSM1l259QSjDFsxZqGOg6c/O1/mEC2wNpDfpJmcSdIl9k+/B/rEy3/5K+nXd79ZSITrtUaskeLfVBVbbXF/K4iuIMozBXw+vTHi49aEi5rXK3WIgD2EXktIhOXJtGMxKbZAn7z1DWWlje2ksydkA0RcBEzAl447/xpuGqhLcmnIyz3GuncmejQdz3JSob6NVfvfQLLUaVeOA7j8S05k2tEfylv3cDywVdc6M0HoyGpGY/VBKksWFXbEBsjAUy8uQ/nHI2Uf8DOd2qbyf4hAAgaYJ4KG5C+4BcdyKPVBV7AIyPrYx1ROsE8sOYsjIJugsJFBjoV2kKzznsvw4eY1Bpq6aVeizXnYcDYfrCPsPLt4jy9ezMbX4Yv7EHH/36HdbAHjSR1akB7roVzWncQE/wUcRq3ikwQ==;DifLc4/okzck7gdEQjmxMg=="
 ---
 

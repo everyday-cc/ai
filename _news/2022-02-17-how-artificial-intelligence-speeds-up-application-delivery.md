@@ -8,7 +8,7 @@ webUrl: "https://www.itweb.co.za/content/KA3Ww7dDbJY7rydZ"
 ampWebUrl: "https://www.itweb.co.za/amp/content/KA3Ww7dDbJY7rydZ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3Ww7dDbJY7rydZ"
 type: article
-quality: 59
+quality: 63
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Computer Vision
+  - AI in Robotics
 
 images:
   - url: "https://lh3.googleusercontent.com/7GfP63fNeE36LAAfhBRTanQk_eAKZCaAbyraYlUlv4-C1nsFCA7Bz36kHtfPdp851M95yqKkZvjTwTgv4To8ytIj5uzIo5PZzmY=w816-h428"
@@ -44,6 +46,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8AK4igF3HFl6lQdMrErwK5oLMJqcvSa6cN3guj9CeBSaT4/b363whPzhbhU7DjJ8NvI0E6cvXawFWx9iHzW7c6XMHjlix/3KrKEwlSlQ5dEVHDS/8alctMKspsRv8j3zcnj5Q97JdzL0Zsh9Njuhh7K9l29Zzc89VitIpqaCGZ5sn2tbDYy2uwaTDSZTGtHslH7uGleBPJKXPvPC78gBFoxG+QE8wR/nHHtPk3Syr+ZnGl6zUIxrMO7sa01z/LxEfhq8Rl4MneHHhySN/oZzIz17Na0yNmx7DbQyuK9DezWuGP+CI1M8ygzPhrA4klyvdUOkRdFmdpDKh1odGZO5cnYlvQFmDmbF9SJx/6WB7vU=;GyXDf93+kZovo51rtmUnlQ=="
+secured: "TmKEIGTSXWpEIc5LlUyPmZkCQrnCZZNY/YnWxSuyCyowmndTwqP01ydExUW0Q6mfl0S7u80t0Qnn8A0F4Q2NTVGYUso6JhEi9pYHrvavgVaz99j9DxwjhPjFNjdYIlTysxGqxiFE0kTqJi/igHVhuyYpXrnKxENa9bZM4ujhG9c5ZSDye1M+s90bPeAVKyMFrxYcYdYk0zrm/RCGvYPj/H3VRkDdfHr60l+rvmcf1HvUJ8FklYb5+YN3JyaTy7LGdQCrumF5wui4FXsgZVgNMXej36IIauF0Nmx6ucJoaJtWGhCAckZ8Lc6KClXvHjPhWc5Br9ewHtd51D+eeicQtCjODUwksmkWbyIlE3fTuRzKThrSWIpCgWPBSM5IprXCWgIEGfMbc73E4XZowkpjAnGzd+XYjyF6Omek3tMzTEqWp1YELPFHSB1R7JzadyJZPLdE7AzRQZE+MfnSoyXrDAP7eWQtm1MXV0XLdKEfIokyOHbHdMMkEElrW1GhModgBeD/cWodedSEjjX1ERF7hw==;Ojo34jyO7j/VcFl7W11E4A=="
 ---
 

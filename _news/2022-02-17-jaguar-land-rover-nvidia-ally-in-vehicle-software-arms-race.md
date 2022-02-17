@@ -1,32 +1,46 @@
 ---
 category: news
 title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo collaboration ..."
-publishedDateTime: 2022-02-17T04:26:00Z
-originalUrl: "https://www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-11645030466900.html"
-webUrl: "https://www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-11645030466900.html"
-ampWebUrl: "https://www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/amp-11645030466900.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/amp-11645030466900.html"
+excerpt: "DETROIT : Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo ..."
+publishedDateTime: 2022-02-17T02:07:00Z
+originalUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
+webUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2022/02/16/600x338/jlr_1645030513410_1645030513671.jpg"
-    width: 600
-    height: 337
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--cyy0ypgk--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-16t142852z_3_lynxmpei1f0o2_rtroptp_3_autos-tech-nvidia.jpg?itok=f2NfKs_v"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
+  - title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
+    excerpt: "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ..."
+    publishedDateTime: 2022-02-14T23:17:00Z
+    webUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
+    ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all"
+        width: 708
+        height: 472
+        isCached: true
   - title: "Jaguar will use NVIDIA AI for self-driving in future vehicles starting 2025"
     excerpt: "NVIDIA says their Orin chip is capable of level 5 autonomous driving ... positioning themselves as one of the major players in AI and autonomous driving. As cars get more and more defined by ..."
     publishedDateTime: 2022-02-16T14:00:00Z
@@ -59,52 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Jaguar Land Rover Picks Nvidia To Power Future Assisted And Automated Driving"
-    excerpt: "This includes the ability to create the visualizations that Tesla drivers are used to with AutoPilot and full self-driving beta software which display everything detected by the sensors. Unlike Tesla however, Nvidia is not trying to insist that automated ..."
-    publishedDateTime: 2022-02-16T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620bdc033fde221ccd43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "NVIDIA Hopper GPU: insane 140 billion semiconductors on cutting edge AI chip"
-    excerpt: "NVIDIA Hopper GPU ought to uncover its cutting-edge Hopper GPU engineering during its impending GTC (GPU Technology Conference) in only half a month’s time in March 2022. NVIDIA’s new Hopper GPU engineering whether it be in solid or MCM GPU configuration."
-    publishedDateTime: 2022-02-13T07:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/nvidia-hopper-gpu-insane-140-billion-semiconductors-cutting-ziauddin"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 66
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGqVIGtS42zkA/article-cover_image-shrink_600_2000/0/1644738503810?e=1650499200&v=beta&t=fiyewJRBhPd-zVuotXH58qL8OMd-uppUvTubeC_L0Wo"
-        width: 744
-        height: 418
-        isCached: true
-  - title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
-    excerpt: "To make the move, VMWare has partnered with Nvidia, the processor maker with a market share of 80% graphics processing unit (GPU). Nividia has become the most successful chip maker to use AI in silicon, thanks to its long history of making game chips."
-    publishedDateTime: 2022-02-15T12:03:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/VMware_-Nvidia-team-up-on-AI-powered-hybrid-cloud-platform-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
     excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
     publishedDateTime: 2022-02-16T19:28:00Z
@@ -133,20 +101,6 @@ related:
         width: 1920
         height: 1107
         isCached: true
-  - title: "Insuring The Self-Driving Car"
-    excerpt: "The “Full Self Driving” technology that is being implemented in the next generation of vehicles has many challenges for consumers and insurers. I recall in 2018 seeing studies that self-driving cars do not always register two wheeled vehicles ..."
-    publishedDateTime: 2022-02-13T22:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/insuring-self-driving-car-anthony-deguerre"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE2tOgrB3xnjg/article-cover_image-shrink_600_2000/0/1644789421849?e=1650499200&v=beta&t=uwrnBY0wXHqUGYoaePWjqKpKTwVfWWrTKs2BaqPtzHQ"
-        width: 624
-        height: 468
-        isCached: true
   - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
     excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."
     publishedDateTime: 2022-02-16T14:01:00Z
@@ -162,6 +116,6 @@ related:
         height: 630
         isCached: true
 
-secured: "a0B+h3KUDGyD3Lckfp/EXFvH55UER3FUfqUA5/PXCGHomtoBr6VF/8haZmsl3fZKv34WQQPhYuCLzzXjsFi0YO1xmj9Jfgtk3k2RVN1wTW4fS5qGRO7oi82QWECYNX9G57vtawSg3PIsg74dwiGySweVy13M8E1KiaiWwnzQSz8RjYFH3FS98Yt7gNxl3ytiEodgsmnbyqEwN65J3xYgYYnRCmzR90u6Zbg9XggY+ZcSX7i9wKDacBLnSU0AMJ3IQCb4MH6DpUIes1JZIDcHXDCeOBxwGglJHLuRska3m8aa7Be65W8cR28bIua+P2VQcOl8sps0JYKQkj7MM7PWyLi9wQf2OK36HLCNFZ6xmNk=;ID95hk/tYQ9rcl7BIkbrMA=="
+secured: "5/qWW9Z9IAy4I0zklM32gS6+gR+4q8DWLH2YeNGIXCLfSYBaY4IoFx9FWFIawXfHePjb7ua8TU28y6PIW1ivIFQZz0Bw+T92bUmqiWz/wpqf8LR8RXTITA6PpYaUrMnJGw5cIt0onEyvcTj3NDcZ7joV8knwaZMskFjC3EXArrJMaYISkyjMBhmP9/RlMjkWQV0UlMKlaQJvl0eSO6GgpnuK79d20M2Jy4PznqejP5K7ub0CtiI23yAC/Ql71GsoMDJ6nKsVgOtq/jgeATJjyI/rsoIMdZ+SWdNLIwgcP04d3AO3bMAfAO9PzZHuHkk2xW8FK2jXD3xmyahnjZC2xYfgR0HbVGUny6j60YY55RQ=;gqXdUIhBpATt4cSPBvAqHQ=="
 ---
 

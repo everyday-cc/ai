@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc1MjQxMjM1MDk3NzIzOTk5/extra-savings-sh.jpg"
         width: 620
         height: 400
-        isCached: true
-  - title: "Experts Alarmed by Videos of Tesla Full Self-Driving Totally Screwing Up"
-    excerpt: "So much for Tesla having the most advanced self-driving technology in the world. A panel of experts assembled by The Washington Post have reviewed and verified footage of Teslas equipped with the ..."
-    publishedDateTime: 2022-02-12T15:35:00Z
-    webUrl: "https://futurism.com/experts-alarmed-tesla-fsd"
-    ampWebUrl: "https://futurism.com/experts-alarmed-tesla-fsd/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/experts-alarmed-tesla-fsd/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 58
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/experts-alarmed-tesla-fsd-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
     excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."

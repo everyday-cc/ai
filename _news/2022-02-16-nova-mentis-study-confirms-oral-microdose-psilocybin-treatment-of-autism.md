@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20243641.html"
 webUrl: "https://www.lelezard.com/en/news-20243641.html"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Oral Microdose Treatment of Autism"
+    excerpt: "Nova Mentis Life Science Corp. announced that it has successfully completed an oral microdose psilocybin preclinical study, in the laboratory of Dr. Click here if this is your press release! - Travel"
+    publishedDateTime: 2022-02-17T03:59:00Z
+    webUrl: "https://eturbonews.com/3017812/new-oral-microdose-treatment-of-autism/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 24
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/02/A-HOLD-FreeRelease-1.jpg"
+        width: 557
+        height: 386
+        isCached: true
   - title: "Nova Mentis Study Confirms Oral Microdose Psilocybin Treatment of Autism"
     excerpt: "Wild type control and Fmr1 KO animals were treated with 0.1 mg/kg and 0.3 mg/kg oral psilocybin every other day for 6 treatments, over a 2-week period, and on day 18 underwent object recognition testing. We had great results&excl; Both 0.1 and 0.3 mg/kg ..."
     publishedDateTime: 2022-02-16T17:33:00Z

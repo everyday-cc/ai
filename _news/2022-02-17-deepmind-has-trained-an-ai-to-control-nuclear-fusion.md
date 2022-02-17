@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
 type: article
 quality: 106
-heat: 218
+heat: 228
 published: true
 
 provider:
@@ -192,6 +192,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F70eb0f6e-8f6c-11ec-9569-fea923928840.jpg?crop=6048%2C3402%2C0%2C315&resize=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DeepMind’s latest AI to control nuclear fusion"
+    excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
+    publishedDateTime: 2022-02-17T08:01:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-latest-ai-to-control-nuclear-fusion/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/nuclear-fusion.jpeg"
+        width: 1959
+        height: 1029
         isCached: true
 
 secured: "abc/7xrE6iOPHtuaQ6PPGK65dV+tI0sC+SsghfYvIhg9zaXxjmFj7QD+E//zIZAzMwcayqigQzkCUkXtDKMVu+2heXCQvgafCmdAToeOoVyXlwkNdpx7CIsADZAc94NoyXBJYvKQ2H2WXqj2G3UIoWSBnixh2J7CzcpD/WkFyruE9ige33DXE2ql0oXgpwUUIRiG4zrHpXP0QNBUXcZeAdZyXnuO4b/cWhM9u2JUIOoASxHLJE86lzTdReikXlByZFwtZozykBORMVjQO8H45zMmYqdETVVCiKCukeCRkldVc+HozRzlVHtspy6DkZq0+kdKM8S5EgK6JiD4fG1iHVVM3pG/5xtj+JD9FgKZvxNWGuug1ycpyJQ9pCBOgGQrctHWv+xFwAnTfVCiPl4eLBGSrpbTmV4gEHKXnHRLTnFjCAaz1INIGUkD/g7eOXBhz1HB7cEIQA5rowNpycllA/3c99xC5//ZfjgUelT3yiz35yrri44NIz4RJacKAzs4/c7oFpuLuLD4w9A7m6k+GQ==;3uACyL0pIUdNcb2FvZF5yw=="

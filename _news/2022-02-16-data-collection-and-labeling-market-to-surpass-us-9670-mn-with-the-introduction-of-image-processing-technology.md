@@ -57,20 +57,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
-    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
-    publishedDateTime: 2022-02-12T15:32:00Z
-    webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 37
-    images:
-      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
-        width: 980
-        height: 654
-        isCached: true
   - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
     excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
     publishedDateTime: 2022-02-13T14:10:00Z

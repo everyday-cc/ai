@@ -188,6 +188,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind’s latest AI to control nuclear fusion"
+    excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
+    publishedDateTime: 2022-02-17T08:01:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-latest-ai-to-control-nuclear-fusion/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/nuclear-fusion.jpeg"
+        width: 1959
+        height: 1029
+        isCached: true
 
 secured: "E1mp9QokH++WOMc1ItdTGet0ViyN0mouf8WzDDSVbkT0atk2meQscmk+nYoVMZmd2F0NmWi9ySRfpzgr2zFmicOHUjChNg3c3VNsa7DPyzQ+TsDjyXNc6SbwOfmaEpJTIFOENvYx32xl5XDn8HnLHrFpJ/0YOZ/ME0mGLUAVZgykOsUVWHBhUXZoIAX4g9Rmm5ihGBaVd4HKXGxpk2Zdkhb6eD8IifIBkpabnbNqiHePYtEukheL3+NQ16H0HidGAUOeUCH1hVjryAA26krYqT6fMMp+XtkfLj5jQxDnRCgYRojey+wyVQ42VGsNN8p8+JUKQkwuUhdD/JzJexeBM1l5kyi7dPyDt2eFjPw2d5I1awHrfhRR/jm9p6lSMIxr6qvthJwgl0wASn5z0h1lvgm9NpSsxGWsoRUgZiWC65arcZYXko5ti1lo5RnBQUEFs4x4FEGGFvZ0rOWLq2eR/c6Y0QsJeVW4Kxy8pzGsSd96XWAndUPJZc7xPQRwSWZwcjlCQHKysk8riETTxjY1iA==;ie5axV1kyx+RGVlVdVjPNw=="
 ---

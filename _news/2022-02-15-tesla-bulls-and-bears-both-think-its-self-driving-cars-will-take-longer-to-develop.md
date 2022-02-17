@@ -89,22 +89,6 @@ related:
         width: 620
         height: 400
         isCached: true
-  - title: "Experts Alarmed by Videos of Tesla Full Self-Driving Totally Screwing Up"
-    excerpt: "So much for Tesla having the most advanced self-driving technology in the world. A panel of experts assembled by The Washington Post have reviewed and verified footage of Teslas equipped with the ..."
-    publishedDateTime: 2022-02-12T15:35:00Z
-    webUrl: "https://futurism.com/experts-alarmed-tesla-fsd"
-    ampWebUrl: "https://futurism.com/experts-alarmed-tesla-fsd/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/experts-alarmed-tesla-fsd/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 58
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/experts-alarmed-tesla-fsd-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
     excerpt: "Instead, Musk promised something wilder still: vastly improved \"Full Self-Driving\" software by year end that could turn existing Teslas into driverless robotaxis, capable of making money for their owners. The software is in the beta test phase and requires ..."
     publishedDateTime: 2022-02-14T09:00:00Z

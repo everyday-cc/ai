@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-14T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/943536"
 webUrl: "https://www.eurekalert.org/news-releases/943536"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8c57f4ee-0c80-4c29-b6b1-fca04dee9fc0/Rendition/low-res/Content/Public"

@@ -41,7 +41,7 @@ related:
     provider:
       name: ITWeb
       domain: itweb.co.za
-    quality: 59
+    quality: 63
     images:
       - url: "https://lh3.googleusercontent.com/7GfP63fNeE36LAAfhBRTanQk_eAKZCaAbyraYlUlv4-C1nsFCA7Bz36kHtfPdp851M95yqKkZvjTwTgv4To8ytIj5uzIo5PZzmY=w816-h428"
         width: 761
