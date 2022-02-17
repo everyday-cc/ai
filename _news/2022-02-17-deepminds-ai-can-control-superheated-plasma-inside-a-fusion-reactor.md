@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-co
 ampWebUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 174
+heat: 334
+published: true
 
 provider:
   name: MIT Technology Review
@@ -107,6 +107,36 @@ related:
         width: 1107
         height: 622
         isCached: true
+  - title: "Google’s DeepMind AI can now control superheated plasma in a nuclear fusion reactor"
+    excerpt: "Google-owned DeepMind has trained a deep reinforcement learning algorithm to control the burning plasma inside a nuclear fusion reactor."
+    publishedDateTime: 2022-02-17T14:09:00Z
+    webUrl: "https://interestingengineering.com/google-ai-controls-plasma"
+    ampWebUrl: "https://amp.interestingengineering.com/google-ai-controls-plasma"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/google-ai-controls-plasma"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 68
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/yrwQkPpJGN/sizes/deepmind_resize_md.jpeg"
+        width: 744
+        height: 419
+        isCached: true
+  - title: "Latest success from Google’s AI group: Controlling a fusion reactor"
+    excerpt: "Because today, Google's DeepMind AI team is announcing that its software has been successfully trained to control a tokamak. Developing the control software for a tokamak is a complicated process. Based on past experience with similar designs,"
+    publishedDateTime: 2022-02-16T21:54:00Z
+    webUrl: "https://arstechnica.com/science/2022/02/latest-success-from-googles-ai-group-controlling-a-fusion-reactor/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/1108x622-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Google's research lab DeepMind built an AI for nuclear fusion energy research, helping control gas as hot as the sun"
     excerpt: "DeepMind was the first to use this particular type of AI in nuclear fusion research Before we get into what DeepMind actually did, it might be useful to familiarize yourself with the experimental machines being developed to try and produce nuclear fusion ..."
     publishedDateTime: 2022-02-16T16:01:00Z
@@ -202,7 +232,35 @@ related:
         width: 1959
         height: 1029
         isCached: true
+  - title: "Google’s DeepMind AI can now manipulate nuclear fusion"
+    excerpt: "Harnessing energy process that powers stars will be as impactful on human history ‘as the adoption of electricity’"
+    publishedDateTime: 2022-02-17T09:10:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-nuclear-fusion-b2017121.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2022/02/17/09/deepmind%20nuclear%20fusion.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Google's DeepMind trained an AI to control nuclear fusion"
+    excerpt: "Google-backed DeepMind has trained a machine learning algorithm to control the hot plasma inside a tokamak nuclear fusion reactor. It might sound like the start of an '80s blockbuster, but the system could give scientists a better understand of how fusion works,"
+    publishedDateTime: 2022-02-17T11:19:00Z
+    webUrl: "https://www.computing.co.uk/news/4045124/google-deepmind-trained-ai-control-nuclear-fusion"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 54
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/1448ee7/233d55bb-5382-417a-8e42-0789498252a7/7/fusion-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
-secured: "jK/vznTpd0N/+n5UQ69GHK0qCjSxepXD3BLMEhXtCLP5LLEUNKtlPpBL7X3/k5Vao1OCpLTpjtVYLeoHOb5IQ2wB6pV+ifZTfO3eZO3Klg7H2Tg7bZQYJsvniGyTtJcbEK1lr/r5idh+PlJNCEysFEarJH+ecZwwzjZmso7LgafoxvDqMXnjnDCb8U1iwnJR4arzcz0grNW6/hMwYoCM0Fd04mwsxDiAZcbGZTJSS7UanLKgDVgkgofDxb6dagyyItz+9P39b8SjzN/Hgw46BoqdRjeH0O4CEKC9NU7qFv4NUxKO7Mzn7VQHg3IE0W6ajd7YN8j53hgBdx9OD7l153sdUfxD23qneU+W3XCo9e8YVwoHoNRaYiOqE07TArqqnEvlXn9m5YO+Dxyb9Ok/1VhZvVNpmOSQk4WkqoVwD3miyTiByCHUwC6y+/oWb00M3+H9jW7FRkzIofSA1WP77ArmnmZhOIKzNsylC0j2kcn4L7b32UJ8D3xFPTdh5+ryy62mbrYc0MvAY3XYV+tLww==;8pRiwGSMRMce9SGZ/B8tuw=="
+secured: "4FKoHWSoWrNH3HtV5sTlzss2WnlL0tXnK8m/RehmFnhNxOEDCZ2K2D1B2cJUGxq9TqyHEUy8gC8brOX8TarS1qPMgFmOMzNOiyYWSLfcf77OU4NuNQl26cQ9rtTIS4EGL6jEnQm4mAkNl0tHI3Q/sCP0/rn18B2R2C5mQ+wKwTNFDIofHM0G82yOP498aHWFFsFlrNTOeL0zVpbobeXwrlFHjNcGL0tAzCKJB+TtlYcLmELUuwKogFv1Bvj9jgoduYFou42a/zqnMjoem1q9KXw4HC25EbfVAiZ8GqFxIUN9LLwX3yri/rXLeYH6qBYV78gRE5joSIyBxHM9YILLU2zxuMV30Hc7eOUHzWfYNB8cI1Wg6RX0K9r2l74fa/ZGt1Eg9mJuZbqErk8XZOrQJeC1HIGAWcCYR8oAtBlb6EssZGlEJHW5EnmIiiJ2UgbBkfpt/gdpE1rQrCBcHxNvNC4zWQrbpzmZj1OxHsZTbuh6y5w8bZW67OcbFufQtKR3s0CzJQoM6EKEJkelZMDGa7DYj3/MK/B+6eChrKYxE2A=;Yp8Rd9jWRRUYmZMXgrcLmw=="
 ---
 

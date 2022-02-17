@@ -39,6 +39,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "How Doctors Rely on Artificial Intelligence To Overcome the Covid-19 Crisis"
+    excerpt: "Artificial intelligence is revolutionizing the healthcare industry by assisting doctors during surgeries, diagnosis and clinical trials."
+    publishedDateTime: 2022-02-17T14:15:00Z
+    webUrl: "https://www.bbntimes.com/science/how-doctors-rely-on-artificial-intelligence-to-overcome-the-covid-19-crisis"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 37
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Doctors_Will_Soon_Rely_on_Artificial_Intelligence.jpeg"
+        width: 1244
+        height: 530
+        isCached: true
   - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
     excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
     publishedDateTime: 2022-02-13T08:51:00Z

@@ -28,14 +28,14 @@ related:
   - title: "UBTECH Robotics Launches Mobile Disinfectant Robot"
     excerpt: "Chinese robotics startup, UBTECH Robotics (UBTECH) has launched a mobile disinfectant robot called ADIBOT-A to meet the demand for autonomous cleaning regimes."
     publishedDateTime: 2022-02-17T09:31:00Z
-    webUrl: "https://www.power-technology.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
+    webUrl: "https://www.clinicaltrialsarena.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
     type: article
     provider:
-      name: Power Technology
-      domain: power-technology.com
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
     quality: 54
     images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/02/Image-2-3.jpg"
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Image-2-3.jpg"
         width: 640
         height: 426
         isCached: true

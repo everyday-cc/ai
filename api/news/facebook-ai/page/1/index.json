@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-17-deepmind-has-trained-an-ai-to-control-nuclear-fusion.md",
-      "title": "DeepMind Has Trained an AI to Control Nuclear Fusion",
-      "excerpt": "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
-      "originalUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/620cf87dd88b0a9fa5094bd1/master/pass/Science_TCV-purple-plasma-visible-light-cam.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp",
-      "publishedDateTime": "2022-02-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-uk-watchdogs-to-clamp-down-on-banks-using-discriminatory-ai-in-loan-applications.md",
       "title": "UK watchdogs to clamp down on banks using discriminatory AI in loan applications",
       "excerpt": "UK banks that use AI to approve loan applications must be able to prove the tech will not worsen discrimination against minorities. Banks must recognise the inherent flaws in AI, improve transparency, and take responsibility for problems. Insider ...",
@@ -115,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -474,7 +421,8 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -1486,6 +1434,58 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-frightening-reality-of-meta-built-artificial-intelligence-that-can-think-the-way-we-do.md",
+      "title": "Frightening Reality of Meta-Built Artificial Intelligence That Can Think 'the Way We Do'",
+      "excerpt": "In a Facebook post on Thursday ... \"Exciting breakthrough: Meta AI research built a system that learns from speech, vision and text without needing labeled training data,\" Zuckerberg wrote ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805",
+      "originalUrl": "https://www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1973296/mark-zuckerberg-meta-facebook-artificial-intelligence-algorithm.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805?amp=1",
+      "publishedDateTime": "2022-01-21T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

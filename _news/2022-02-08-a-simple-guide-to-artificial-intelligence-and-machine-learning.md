@@ -19,6 +19,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHsBBrN7RjH1A/article-cover_image-shrink_720_1280/0/1644319125783?e=1650499200&v=beta&t=8Os7ITqSx4sx0sTgVqqShaAo_bhOQbbxaituAPq0jRo"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9BjYlWQYuZoLZT8uxegrKtc6XHD9LhJ9Ay0N4uYXi1F9Oa/y3TTlvzKbYj85Ven0yKn+/saS5U5GyO8uW705UPVYjItuKCaqZgtF5SNCXy9VXlnggDkYXDb8Rj/AL110ivnRnvTy6v1MSVGRlrLysN+RNouzL5MvdEHeTgQFTPRUijWPziGnjdKb8fR/B+Q0PviQ5lXqreEz/szhZmm0C7hD/sFMNnm8LhEZAgwN8DFMfk9AQ/LY70dk2nnoSzmWYdYAMl4cNkGTDqdOXjfCCeVFFT0gHfu6cRTiR8EzEU976e91fNiLTkhKa0LYj4E/rCjihnCsvHURb80Ws3PTe7AtmOp8/xgC0ZwgUX1r50Y=;DkEzjw9+mbmhbJQwT9U3jA=="
+secured: "QdwG/9kcNyHnxsugs4aexXuojqo+LhwFKzeAY+PCKEcuiWfNE7fD1cO6lR5cAnx/XESjGUnE2GhAWy4mtiDaP08GTLJY8dgesfZqZxX1u9GlER0U3HBcOIJ0yoQb2DklKjK3kdM0ezP9C8aBuUBIyobsYjtFG9qpxncGQqVQYf4eTK59JOrt3vUjel/B+HTKFAvBMmnOkdZt0DhjR/vl4zf4+mbOrGL0TG4PR2681bfiuY/MwZ3qfsuXHdc4K6q5iefSOLbFJ6HLbcjGP5r6ReieeTWSMjNbVV7hVpx+YYrWGOSXaeEk310DHmTSALW4j+MdsRoOuH1Tl05a7AUuT/WF8M7kv6LWfEnfaWUuyNN+XUjStHQ2Mford3qmHZLhItASFnMNVbaJuySeJWgfzZnUUecfBH2rGKTATn74qoTAOqnYTVYT+5t+gu40zFw2va7tJI71LEXYpXNC83x2ZtfdcbpmWAMnGqWyHnEubw3P++Nvi+Md99ws6P0hE4btc2u+QilLMf0TMisaGKScDQ==;XzbGpSpN4cbKw/S7hCnuvA=="
 ---
 

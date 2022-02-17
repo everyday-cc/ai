@@ -2,23 +2,23 @@
 category: news
 title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
 excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
-publishedDateTime: 2022-02-17T11:35:00Z
-originalUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
-webUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+publishedDateTime: 2022-02-17T11:36:59Z
+originalUrl: "https://www.airforce-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+webUrl: "https://www.airforce-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Just Auto
-  domain: just-auto.com
+  name: Airforce Technology
+  domain: airforce-technology.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-2-4.jpg"
+  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/02/Image-2-4.jpg"
     width: 500
     height: 334
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 589
         isCached: true
 
-secured: "7v5Rvh8Z4pgyoRh19n1MDCldUzHbuS5fCsacnGw4w06AC63Lm4tWFytpa3YlWM+Nl+kksP74WkKtYCXoKN0/Utz8VyYEeT41Q2f/iDSPs3X5hvbx25MWUe9moDasXe+baSqvl/4a8GQSBJYixa4CBOOzB3l99MPgJpjkq4EwyXO5iPyKhPbfcegYRORdUvBdKpWrpw1OqQAEJjNBJHVd2DAOqgpKc9zo0+NV+/gfL7gYgoLbL4Q6VGB3uuAn8l4DAdbZVG6L8rglT63uwXCIxNn+QLlVxRjq6LU5JuD/Qs8I5YLlMxP8/tcusPDmaNKEqSAKhLMPp+pTjTICGDqhsOSWJCKPM2VdQADT0GWPGzM=;xqZFFCVY98xGQHcLBPFBnw=="
+secured: "M/LZ+P2apSYMBF6S+TyNzl/TcEPRd5wy3HrzDk63vxPzhAGHeR5XBI6cOF1+H39setTwxDID8VZSkp3hOLZaoKEuIJKnSMlNjb/osBjtRD/AS/lCjaTB5gMWA6N2tx7/L8Zp4bTRoQrxnWblGeT+9qGadNdyp+jZucu9ARzPFrKuJhV2f2ZrDik+Lr+vSusH71Bmahi0Jwar7mwfm5i1tpC1Yc0SYuD5L/EOA5vZfXZpmW4gOsJtLpGXX96i3/87WyJiUlxsUhe/ddAqBFrUit/12GLdQ3pKyB4jgjRF8cdfoCmjJUmYj+5mprMPoH4nr5OwP1esTv/hzG8/IIi244OPGiMEjSH17FME/71qth8=;c7C6fBfV/IxDSS5mYs6l7A=="
 ---
 

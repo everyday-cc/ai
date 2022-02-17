@@ -24,49 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Language Is The Next Great Frontier In AI"
-    excerpt: "What is behind these astonishing new AI abilities, which just five years ago ... against which newer models are compared. Much subsequent research on transformers—for instance, Facebook’s influential RoBERTa model (2019)—is based on refining BERT."
-    publishedDateTime: 2022-02-13T21:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/"
+  - title: "Are lifelike digital humans the future of customer experience?"
+    excerpt: "Soul Machines, a New Zealand-based company that uses CGI, AI and natural language processing to create lifelike digital people who can interact with humans in real time, has raised $70 million in ..."
+    publishedDateTime: 2022-02-14T17:00:00Z
+    webUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/"
+    ampWebUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 174
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6206e085c5625214fbd9ed04/0x0.jpg?format=jpg&crop=1934,1088,x0,y185,safe&fit=crop"
-        width: 1934
-        height: 1088
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/2_selected_arya_happy1_COMPED_v2-1-copy.png?w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Why better data governance is the key to better AI"
-    excerpt: "“We can use AI to identify unusual patterns of behaviour in a business… or we can see a business changing how it earns money from contracts in real time,” says Franki Hackett, head of audit and ethics at data analytics firm Engine B. “To do ..."
-    publishedDateTime: 2022-02-14T16:17:00Z
-    webUrl: "https://www.raconteur.net/technology/data-governance-ai-machine-learning/"
+  - title: "What does the future of artificial intelligence look like within the life sciences?"
+    excerpt: "Large companies such as Google, Amazon, and Apple have been using artificial intelligence (AI) for years and now the life sciences sector has seen AI become increasingly prominent. How has AI transformed the life sciences sector and how important is it to ..."
+    publishedDateTime: 2022-02-14T11:37:00Z
+    webUrl: "https://www.news-medical.net/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
     type: article
     provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 51
     images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/02/Web-images-Feb-2022-7.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_703595_16439823428418409.jpg"
+        width: 1000
+        height: 473
         isCached: true
-  - title: "2034. Ai's own Universal Language."
-    excerpt: "In November 2016, two months after its Neural Machine Translation (GNMT) system was switched on, Google found that the AI computer had developed its own internal language to represent the concepts it uses to translate between other languages. Google ..."
-    publishedDateTime: 2022-02-16T12:55:00Z
-    webUrl: "https://www.linkedin.com/pulse/2034-ais-own-universal-language-agust%25C3%25ADn-borraz%25C3%25A1s-raffo"
+  - title: "Artificial Intelligence. Human Experience. Five Ways To Strengthen Customer Experience With AI"
+    excerpt: "Winning companies are using artificial intelligence (AI) to boost that experience. 86% of organizations that have fully embraced AI say it has improved customer experience. Let's look at five ways you can use AI to strengthen experience for your customers."
+    publishedDateTime: 2022-02-16T15:23:00Z
+    webUrl: "https://www.fieldtechnologiesonline.com/doc/artificial-intelligence-human-experience-five-ways-to-strengthen-customer-experience-with-ai-0001"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 40
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH3BS7iCG2Nwg/article-cover_image-shrink_600_2000/0/1645015392405?e=1650499200&v=beta&t=lVAtOkzAcSuTaDkdXcsHoXOw-TMKsJkNqsVoEA4FuzM"
-        width: 600
-        height: 600
+      - url: "https://vertassets.blob.core.windows.net/image/fc662665/fc662665-690f-4438-b9ed-93bc255651f7/istock_1145585734.jpg"
+        width: 701
+        height: 467
         isCached: true
 
 secured: "beo2nYVQKbBsLeCRLNTZq0jtnk0vHB9daqc+NCppxq2eqFiKKAR8wDoT+uC6KLhhzYbPKcsCAOCncsewliLg0dgYqv8966sPHAkee+Krh7ijkm2kcjAcv/3vzcy/fAmbDEGdEoM58PNbFMqa6FiZslTHgZj6OL1hKU6fpdUeWECFXhRxwXCnXBgHmamYuHukgtI774dp6DGtpgXELp8Xr0YnzyDteNuOvQel2vH8xV0ZASGSqcTkE5978wFXqXtpMU5ovgWwoSBQIeWmZhWMcm0Xm6GK8p3/MfpLmKM/FR2Uz4fjO0OSA4KFsJcQu0JJdUSocrI6vtj64FVB+5Krp7GhsFDHitZqtBNU7LHo55D0r1eOG0XjxrJWNNp2cpIZDsSovyG9BZO5hVf+bcG5QkBwV3kI2Unzc6HcK3qm26HplHuCItn3l04GHnJpH0UgplTwEeP/tS11Fa0z+CISUQ6afWBYSrzRd1DliYfZW6rbbR1uZGTVrQrMHM8pWtIuK+lbnKFlJtQXE0gPujouIw==;+4eUtc4KP9IKHrPr/YIgmA=="

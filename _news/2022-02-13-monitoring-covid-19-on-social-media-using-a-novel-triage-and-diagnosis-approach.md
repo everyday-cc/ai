@@ -47,6 +47,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "How Doctors Rely on Artificial Intelligence To Overcome the Covid-19 Crisis"
+    excerpt: "Artificial intelligence is revolutionizing the healthcare industry by assisting doctors during surgeries, diagnosis and clinical trials."
+    publishedDateTime: 2022-02-17T14:15:00Z
+    webUrl: "https://www.bbntimes.com/science/how-doctors-rely-on-artificial-intelligence-to-overcome-the-covid-19-crisis"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 37
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Doctors_Will_Soon_Rely_on_Artificial_Intelligence.jpeg"
+        width: 1244
+        height: 530
+        isCached: true
 
 secured: "Okg6iEnivRwt95o66pwCjo9bQggHXo6ZpnJX/qI4b9zSMZNUe0aSFTm0mVTLxDVXApDAK4YvBvAKoKi4ZiyaTNKbgH+M7y6DBbOp2ZcNLyOgFO3i8FVV/XXutOKUZN/7O+l2ANxwuain0uhElAheWaYBQmNjYjKjDlFa09BFSImeiyNPmWYRMBJN7zBHbYAKSeULR7Jk79kPteDb+x+lfNuoqTNsmPdOkNDnBSNxHFPH5JhQujPe3kUn7T+KT0IKfDv8uX/xeT4YNE0M7BoiLwx7VQu5oFAusGrWipdhpeOiSewR+njhPYH1YMi8VVMMN99rNZu66VVQSENx9DXtCri5gKW5VkvkeDTAfZ3qUtE=;WvTTRfN2SKTjtm8IpUY28w=="
 ---

@@ -83,12 +83,12 @@ related:
         isCached: true
   - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
     excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
-    publishedDateTime: 2022-02-17T11:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
+    publishedDateTime: 2022-02-17T13:02:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/17/9547347.htm"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
     quality: 12
   - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
     excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."

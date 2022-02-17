@@ -2,17 +2,17 @@
 category: news
 title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
 excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
-publishedDateTime: 2022-02-17T11:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
+publishedDateTime: 2022-02-17T13:02:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/17/9547347.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/17/9547347.htm"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AI in Robotics
@@ -141,6 +141,6 @@ related:
         height: 337
         isCached: true
 
-secured: "LGkjRGuVjA2b1up02PQjJmq9/K9V17IFqHzqpsRQkv+MPry8xvpWPztXVeIhnWNiJDpfyCIgu4n+8aCBA67WghG7A1CapGmTo4L6+LMYltdjXuHyi7A3m4yGiAL9GhKCdMF0VTDvk6sgKhj1vKcT68lzjqE+fJ/DCO3RDAZ4O2xV56mDBcbdFSrnWKU8RaaLjIg95NJ1mBZMGq96YUpAinD9eQl1l3cwCs2HxBkECHMUR+BRuKM01u0NrPiQzMLz6lk3qgm0ZqaQlQAi+WC2Gj9AG1y9GJ6gZMjYR+R9VCOSJoQNvemhaEHyRwJqFrcWn7kM8XsnCVd9S3OGb/bZYHLTp7XouMWBvw3+E5r4WWs=;9updugJy/pRj9TSXr7Bsuw=="
+secured: "vKOTjJEuIsYnGhDEGCfmaLoyxNZgvCluczKR7A7Nxzt1VvYKlv+Cz5wW58JXfrx9qRS56yevtcYW2coymfWvrEWclUgZuNCVrRStMAxU7aQvAPIoI0ep9/SUvqt4PSakGbSanCjer3Vvotzt3hSmhqsDMWLeGrBaxLmwRBw41ibAYNLvi95dAIBK6vYUBoYPHns+garM+Kml+fWaPWLDcLYCn8snd1C/GXp36eXA5IZ0paRrlRz1EyW93CSq2tqrSql+hMgtVIeH+Pl2b6FBhIoOtGRixJOpNry13wHoI+tRFVIzt7+8ibqMhPC9+L8+II7nDovmqKMyg9CW5NjPQZ8k8vxMtXrwVcNgBytSLXk=;7/9sN+pwA1F+C9KqHbx+FA=="
 ---
 

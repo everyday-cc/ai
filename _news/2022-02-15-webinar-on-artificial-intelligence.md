@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Visual Globe Announces Next Generation of Artificial Intelligence Platform"
-    excerpt: "Today, Visual Globe, a Colorado-based artificial intelligence company ... This end-to-end solution automates the conversion of data into predictive neural networks and then brings those networks into our rule-building platform, all without the need ..."
-    publishedDateTime: 2022-02-15T13:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/visual-globe-announces-next-generation-of-artificial-intelligence-platform"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://cdn.newswire.com/files/x/f0/9b/fae9c711ee5de9d5a0e646383c1d.jpg"
-        width: 512
-        height: 267
-        isCached: true
   - title: "Dahua explains the advantages of integrating AI applications in school for the benefits of students"
     excerpt: "AI is empowering a new generation of advanced, efficient security systems. In the field of education, AI is also facilitating the digital and intelligent upgrading of schools and institutions from K12 to universities. AI applications such as smart ..."
     publishedDateTime: 2022-02-15T12:44:00Z

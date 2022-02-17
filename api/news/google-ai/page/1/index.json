@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-17-deepmind-has-trained-an-ai-to-control-nuclear-fusion.md",
-      "title": "DeepMind Has Trained an AI to Control Nuclear Fusion",
-      "excerpt": "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ...",
+      "path": "_news/2022-02-17-deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor.md",
+      "title": "DeepMind’s AI can control superheated plasma inside a fusion reactor",
+      "excerpt": "The prospect of unlimited clean energy is still a long way off, but this is another example of DeepMind tackling hard real-world problems DeepMind’s streak of applying its world-class AI to hard science problems continues. In collaboration with the Swiss ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
-      "originalUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/",
+      "webUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
+      "originalUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 334,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/620cf87dd88b0a9fa5094bd1/master/pass/Science_TCV-purple-plasma-visible-light-cam.jpg",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/TCV-purple-plasma-visible-light-cam.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +76,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp",
-      "publishedDateTime": "2022-02-16T08:00:00-08:00",
+      "ampWebUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/",
+      "publishedDateTime": "2022-02-16T08:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -102,8 +93,7 @@
       ],
       "topics": [
         "AI",
-        "Google AI",
-        "Facebook AI"
+        "Google AI"
       ]
     },
     {

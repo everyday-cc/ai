@@ -23,6 +23,22 @@ images:
     height: 371
     isCached: true
 
+related:
+  - title: "Israeli startup Verto launches online service for AI-driven 3D product visualization"
+    excerpt: "Verto, the AI-based startup and 3D imaging innovator, announced today the expansion of its AI-driven 3D product visualization solution, making it commercially available to customers across various industries."
+    publishedDateTime: 2022-02-17T13:29:00Z
+    webUrl: "https://www.retailtimes.co.uk/israeli-startup-verto-launches-online-service-for-ai-driven-3d-product-visualization/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 30
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
+
 secured: "GQLhuIyAshHw4z2dHvaZA+Gw1r5ypEPffmO2hZDXuriyQGT38P7zqQoMUN8WXI7904bRQCPy5o1YUYTYqT7G33MfBAIn4s3ZhDiYDUWW/btBRPL+mq1YzYDY5xIwmnJakyxbkYS4jxVjm049FY0rEAHBfkQBuxHQPzz4VlCG8hPyM9bJd3d+yQIjlZIYQ05e88jNPwu+Eji29YPueKp1edrfue6huTEP5H/XVg6lxGltGr/XMVFDSUrAsII4FELFvSbKJa9StgW2ZefaregdkdJaDWJ9DCYbDrMgG54mcTw+3nb3KOJi5HNgczx6qsl9XGxHFRnl+E8ZhRuB5vm9FF+0+ajHc1Q3vxxzSzzL5LE59jNubFX++M7i+Ri6Ls/55TbGHFBoOaGo1IYj4KkMIZCBijC2f3u99D3UJx6zsXlAG0BxPb1lQIpKTD08FwD6NtLB7SRCqnppqyfKW+r/MGX17JPUgGRA0XgR82k2KNL7rBTMkfOSMJJK4a+biSfj6RDfZo552fLtxUgcavr4OQ==;3Lutz90RVHLPDXQJY040EQ=="
 ---
 

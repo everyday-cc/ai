@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-futur
 ampWebUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
 type: article
-quality: 74
-heat: 94
+quality: 174
+heat: 204
 published: true
 
 provider:
@@ -61,7 +61,21 @@ related:
         width: 701
         height: 467
         isCached: true
+  - title: "Customer Experience in the Age of AI"
+    excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
+    publishedDateTime: 2022-02-15T13:00:00Z
+    webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai?tpcc=orgsocial_edit"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/01/R2202H_ROSSI.jpg"
+        width: 2000
+        height: 1124
+        isCached: true
 
-secured: "zT9OfWTzds/gy135IrNEuGcnp0PNcodNZOQk0Y61Jh62UYCRN3Kijr3TW3qUvL5BLnZFvY8pZLlGMjy/kQe8Jh8Cj4zBpxb9TE1ycaGafC7zKVYTRE1GLYWrj0ej9koOk4VZohwfJsNAMDIT54LhF3loBEk+1wE45AWH6nyKa0ZsvvyS6f4s691yhAnTIwB9kcRn6AqggVVSc2tV0ZNygR1ep1lNmg3XPzWMdiGvaJiHeGHJu50StZf8lQNtAnhnIlmTbOabeCqFFdDRYgeN2bi+lqcUc22+TVY2idX4vKM+EJXWqPIuG7/n6WyZ3HJQ4h9aYPVyfYJbUMuozGIFkGa8J3LgPlRMom+o/O32oVGqc4L9WYi8CiyquogFrfgLaypjWINSnz16juvQkZknVEOsBpwGoUuHRcsuUK/nUHSV7e9ExB5iV3LyQN/mYTlUL22eh24TolKj8+u2J6PTX8F0dqZWnEskyFD8BGRvZ3uz19Fwteycy9zieNxej4EIaxvtiwQGPu+qQyTF+vosJA==;rWi+fAB/PvU867fvVlkexw=="
+secured: "HXhoOJWaElRk9dmDHU99H2eAAELSAm2GpkhsU8dDZv60Nzi8Cm4sAnp50e3jjb2G9J/LoVQdM0Rmk5ymoiS4mSHIVQoxXJkYaIn0kASTfoU73+hK7E6PQ5GjXGgqeCRjWQRPKUsHemi4570ksCgp+HtSD4RuEHFHzyQb0gVxY5cawePkw69vl8ivww/Fy9erZq63XB+qkV4RBLezKYHw+hnFRC3La/m0OT/nT2e/dYIFPaLgKLVF8BJ7WKP9YmnFb72QFClHcgZvZ7f+qv+XrzPQeOaAoItlaTGbTdMT1ReacRYteCOYoz9b+6qx1zBe796zqaCf372Id3gcsmfofKy8RppuTJXlT+OUSrShorl+dUzp/GIaYyYr63QiX/bYSl9P91xXwJjd5GHPtFIvdzV9oKSf9PPboAqoeTktTqcLGXXP3edhp9NmcpGQ6qSZnBEL7+RbKZXRefBzDPiGdM+dDFjQTAEaD6CiZSK3HMhrA05EtGlfZzncvLZLZEaQv9bOrSHAsIwdRfIzIwtNw2/qwMzCIqm9tVj87214pZ4=;lP3SgkMvdnzj/3qBA38z/g=="
 ---
 

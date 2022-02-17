@@ -54,6 +54,20 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "MOSTLY AI Rolls Out AI-Generated Smart Synthetic Data Platform for Enterprises"
+    excerpt: "Vienna’s high-tech startup, MOSTLY AI has unveiled an AI-generated smart synthetic data platform to help enterprises to generate data for smart and safe services."
+    publishedDateTime: 2022-02-17T11:28:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/research-reports/mostly-ai-rolls-out-ai-generated-smart-synthetic-data-platform-for-enterprises/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 33
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Image-1-6.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "LB+8s2FaBu7GQLxbVEesdpxvjajmOUj0lhJEOicTu2WcaK9gd41vz2w8kiEwOtCJUmsFxxERB7F5Ci8Obfw7F1AR0uysftvZGCvP6qlbtj0k6CzittXIqQBG+wkvyTAFDg4KqNYWDM+HWaPt5dKeViZXyhxarb+0kN/l5eji1/OFgob1CNGNFmLl3ZY+mYKSbUAXu1HBnvrTFXmLjiBXR2kcrLyYP9DKns0mGRS84VJBLMs1eAXKduLmz+F3HNaIJSDX6BLibzNOrcMrmU+Yex+ddMSCKD04b7OJZix4SRa74jLoiiJSB6vHKVPCYCTAbMk6CmOOfTrj7I1FSSsAfsMbjgCihHy9waD+ENsMLd4=;GgrcMYkdd32C9zcQvJDLmA=="
 ---

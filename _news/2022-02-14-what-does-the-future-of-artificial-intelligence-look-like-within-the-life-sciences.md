@@ -36,7 +36,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/02/2_selected_arya_happy1_COMPED_v2-1-copy.png?w=1024"
         width: 1024
@@ -55,6 +55,20 @@ related:
       - url: "https://vertassets.blob.core.windows.net/image/fc662665/fc662665-690f-4438-b9ed-93bc255651f7/istock_1145585734.jpg"
         width: 701
         height: 467
+        isCached: true
+  - title: "Customer Experience in the Age of AI"
+    excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
+    publishedDateTime: 2022-02-15T13:00:00Z
+    webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai?tpcc=orgsocial_edit"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/01/R2202H_ROSSI.jpg"
+        width: 2000
+        height: 1124
         isCached: true
 
 secured: "Nrm7U27mNLxoRDt0QVysd2JegHzTraUAHg1HBuxbN74MeWLQbFMF/BF+HZC/s6O3zNgRHBZSLcAFBGhx6lRt7YbCTjWr/7rVO1WFt1TqGRIY8ZPkvle/2z9zKbQgKo8H/HnrcA3WJiO2NOViW4F9QsR+vq70aiQCPtJYJINO0jbkF9k7z5bunBTKmvqHVLDVT4Ht3Ro2D6X/fCAU+cWg/h9KF3hla6K8QpfEnfieIuj9OqP3acfO+hpleo8Xt0Tkeg/Tq5A0HeahOXMWfLFSooHIW6ME0IfAMK8xjXUC7tuYS+K1rxNk63a44H+2IaRvMLeCYxQol1YnH3CH44rfqGWTijLKhq1B7qYRJUkeG4VMgX70w4YQq+rU0cGXRPpmCSwvMs0P+QrbUwmHMe8pLfzq6+U/Ydnkv0RAz8Qej/V97ZK5jeGg8Eppm7iiSiwaw+D/+7xdE+fVYt+ELazSud3BmpP0YQYOe3/j12hrvKF0+ml7CTWncYV/+M1DmAytlgzRzS2i8srvQy2XYZXnJA==;dL5XVVqGUzRm5P+t59IEpA=="

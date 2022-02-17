@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/applied-ai-what-really-means-practi
 webUrl: "https://www.linkedin.com/pulse/applied-ai-what-really-means-practice-m-nazri-muhd"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1738
     height: 600
     isCached: true
+
+related:
+  - title: "Artificial intelligence challenges what it means to be creative"
+    excerpt: "Not far behind was the composer David Cope, who coined the phrase “musical intelligence” to describe his experiments with artificial intelligence–powered composition. Cope once told me that as early as the 1960s,"
+    publishedDateTime: 2022-02-17T12:00:00Z
+    webUrl: "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program"
+    ampWebUrl: "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp"
+    cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp"
+    type: article
+    provider:
+      name: Science News
+      domain: sciencenews.org
+    quality: 57
+    images:
+      - url: "https://www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "gJZg8q/1lrz9UV3MQG/oYaTI2DYc0IBcoAoXykNcD4/kXKNP/ZzN1qZZjhCemJ4ts2xWaQBABUTL6rKAMwov4i9OwpZaI2YrzVpKbPhRphaC7m8YX6CnNP6BNUcCCbI9DMA1X90c/tpresC8uAUGQ9ORfDbKWkG7v7Aw3OwNXOGkSxIZGl+QDRFuJI9DO9yZIaW4/cq5SqNaun38dBursOss9o2LpSixG5CMi68Mfz7X455zeAC/YdFlIh3XLmytVxYbq5nJsz3LWDZDaAGzZr6aOrbiXV9AN3BFtDww0VWAyDH3xigJnlBTjRFZS2qxXshmaDW/PDEYWt7BaCiDxtTIQvKjwXNM13xOm3NAMO0=;fFUrlFKrjr83KLOm2yU6PA=="
 ---

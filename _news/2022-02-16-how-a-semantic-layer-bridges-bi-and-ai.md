@@ -32,15 +32,15 @@ images:
 related:
   - title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
     excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
-    publishedDateTime: 2022-02-17T11:35:00Z
-    webUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+    publishedDateTime: 2022-02-17T11:36:59Z
+    webUrl: "https://www.airforce-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: Airforce Technology
+      domain: airforce-technology.com
     quality: 31
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-2-4.jpg"
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/02/Image-2-4.jpg"
         width: 500
         height: 334
         isCached: true

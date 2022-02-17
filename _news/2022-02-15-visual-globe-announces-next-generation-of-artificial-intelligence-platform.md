@@ -25,71 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Second Nature’s AI-based Sales Coaching Integrated with Corporate Visions"
-    excerpt: "Second Nature today announced an agreement to integrate its AI-powered sales conversation simulations into Corporate Visions’ sales messaging certification and fluency coaching programs. The first ever AI implementation at scale by a prominent sales ..."
-    publishedDateTime: 2022-02-15T08:43:00Z
-    webUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/"
-    ampWebUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
+  - title: "Overview, which is developing an AI-powered visual inspection platform, raises $10M"
+    excerpt: "Overview, a company developing an AI-powered visual product inspection platform for manufacturers, has raised $10 million in capital."
+    publishedDateTime: 2022-02-17T14:00:00Z
+    webUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/"
+    ampWebUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 73
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Second-Natures-AI-based-Sales-Coaching-Integrated-with-Corporate-Visions-01.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all"
         width: 1200
-        height: 676
+        height: 599
         isCached: true
-  - title: "Webinar on artificial intelligence"
-    excerpt: "A webinar on “Artificial intelligence-based conversational interfaces” organised by the Computer Science and Engineering Association of the National Institute of Technology Calicut (NITC) will be held at 7.30 p.m. on Wednesday. An alumnus of NITC ..."
-    publishedDateTime: 2022-02-15T13:14:00Z
-    webUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
+  - title: "AI-powered platform improves construction-site accuracy"
+    excerpt: "What’s an earnest contractor to do? Tel Aviv-based startup SiteAware, which just raised a $15 million Series B financing round, offers an AI-powered Digital Construction Verification (DCV) platform that creates a “digital twin” of a building under ..."
+    publishedDateTime: 2022-02-16T07:56:00Z
+    webUrl: "https://www.israel21c.org/ai-powered-platform-improves-construction-site-accuracy/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: Israel21c
+      domain: israel21c.org
     quality: 37
-  - title: "Dahua explains the advantages of integrating AI applications in school for the benefits of students"
-    excerpt: "AI is empowering a new generation of advanced, efficient security systems. In the field of education, AI is also facilitating the digital and intelligent upgrading of schools and institutions from K12 to universities. AI applications such as smart ..."
-    publishedDateTime: 2022-02-15T12:44:00Z
-    webUrl: "https://www.sourcesecurity.com/news/dahua-explains-advantages-integrating-ai-applications-co-4261-ga.1644924164.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-explains-advantages-integrating-ai-applications-co-4261-ga.1644924164.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-explains-advantages-integrating-ai-applications-co-4261-ga.1644924164.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 23
-  - title: "AI-based Location Intelligence Startup Data Sutram Raises $2.07 Mn in Latest Funding Round to Scale Up"
-    excerpt: "The proprietary AI and ML-driven data engine automatically converts raw ... This brings in a growing need for fintech and traditional companies to use alternative intelligence and enhance customer acquisition, credit underwriting, and distribution planning."
-    publishedDateTime: 2022-02-16T04:57:00Z
-    webUrl: "https://www.indianweb2.com/2022/02/ai-based-location-intelligence-startup.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 23
     images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjRATANVzbu85bz6h2E-oP9xZTthcCCLF7VzOaoz_SbfiUgXG-yCGUTg4dbxxbSlHxBQnL1m7oO2m9HqdPw4r0tfbBV98713atMiIz9htaWBQpxuep7VvxngwDxuXBrXyPye9pGFrrAy-EJWIXJFjnV5EgZscyyuaeUDefo7FeKAlvja_9yd0WHkyul=s16000"
-        width: 614
-        height: 350
-        isCached: true
-  - title: "AlphaICs Corporation: AlphaICs Begins Global Sampling of 'Gluon - Deep Learning Co-Processor' for Vision AI With Superior FPS/Watt Performance"
-    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. Gluon provides the best fps/watt performance in the market for classification and ..."
-    publishedDateTime: 2022-02-14T01:13:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55229046-alphaics-corporation-alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-with-superior-fps-watt-performance-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 20
-    images:
-      - url: "https://cdn.newswire.com/files/x/ac/4d/39a63d0e5751aef6c742d69bd82b.jpg"
-        width: 512
-        height: 315
+      - url: "https://www.israel21c.org/wp-content/uploads/2022/01/scott-blake-unsplash.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "fdxvZBaGlk2DmYY4ExdfKIFRIkS5NOm/hYQZMscGAO5yKM/lkj4rdCPrXXUkqz52niKyh4QAW5seGQZ5zQib1+SSlZKFPxsFhEBlYjbQzvbsc9MSz50Gs+9jBvtaAI6f46mOt/s76F9hZn5xK842K+HYhZCOEerzQrpvWUKAh7rPny9gcuXLCkHOeG40gkdfjsHqPEzFraAjeOtDBZ+y1sBTsQEWjNPT+sEmVVa/lGOOkwH0ZYQdkC7RWTkJHcfiEyGdIPJ4Qq/nkDVNZ24b9rXTEQQTA8bYAP9O2GROKOU6iIYa3mkJ3C2puYmCgjp/aNsf0qKp/pwiUb0Blgj1EK3O7URCXM5SYEbp+VYcCekNgK5J7UwVG+90w9Xdj1smYo5H4CZjnxK+d4e+SnvK9ZZsApqEEgkspyp1VMn4TG0nhkVo2T3UfBed9cPDUXBCYLK82ExCQEvY8Q4nFJjAGPH5CikJo3pRfLHIuoZi5E3RKlizXhlOjQKrNjKBKqdUv30fqiDtdeYSLvRFiFfiDA==;cdMK/lU7HhZViIpxTmSkow=="
