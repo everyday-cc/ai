@@ -84,6 +84,20 @@ related:
         width: 794
         height: 924
         isCached: true
+  - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
+    excerpt: "To mark International Women's Day, March 8, Africa.com ( ) is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
+    publishedDateTime: 2022-02-17T00:53:00Z
+    webUrl: "https://menafn.com/1103712373/What-Women-Chief-Executive-Officers-in-Africa-Need-to-Know-about-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?185963"
+        width: 440
+        height: 250
+        isCached: true
 
 secured: "5TV/D0AyRAgNtpvi94VnaHOl0X4B0+rB+IYSDn1qlmgF+Bz/QtICe58dDRGFtrDIA6rqKZ71Ri+QBmOHFMHE/s4WX3mMtIDWfeXwCag/8vQTwQ1V1zo8p8XTkdzB7NWZ3XoTuE328Ivb6zAhkjed4DhC5yqfjGV2nLoxS7vfYAmKh9WN4TOpn69yXoCAgDdX0YSu/5OEM57QqwtP0guyKLJo7tKtm/KHvRuSbBr2H0ZTugCClB+O4WlwZddDwU5A8vZ3z+Wqc+kSdzmVkVSnmtR3knVjRdnkxmzqVVIXyNtMf6vOcAt9lQZ7gFry45x8c1qkEmd+k7QEXqFKvq9Er5lF27VTuLxA01sIvwopFok=;1FRKm2/agjMqU/CZJe5fBg=="
 ---

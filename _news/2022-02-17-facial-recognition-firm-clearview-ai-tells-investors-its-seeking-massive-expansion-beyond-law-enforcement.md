@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T19:47:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
 webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440"
@@ -54,6 +55,6 @@ related:
         height: 960
         isCached: true
 
-secured: "g8V/xhc5+60AUYQvCztWUbIteQ9uhfuK9DPxoRnEtJwyCYesbuEJxRwr+SJ3bTDi6mWvd9DX0nh3zXATfgyg7PsygPb51bIPGzZPO74cz09iLJK3H76Rw1onP3+nEi2RlQw+vQwenkRU7w5F6lijhGdQHQZe+jKC1QoKYjmiFlFESfXeJmco9lMCCGp0b3FhGsCZW0p/n6DCAWwD1a9GF6kR4kDgUYpZByXEtSlRYFgZANvTivDnTMcoyp7MABrzBfbKRgMDphmvpStJC+pr1XYOL9RkLRjHMfEki6CbMYwk6zpVt4iIm9O3XugLqgeTyWGHg2iqqY8L4Cktj3X1AJaXzHMwp41Y07qnSbtO458=;kDWVVqXDmqeKAJJ+gRQyRA=="
+secured: "oEY2H7VfyQ5wmM/vYtb1u7hyMZtwDcNE+5q/qSCD9q8lx2SZkK0n1yJtHhEg/jCzHpuHQ15UXrEHOgBhZ8nonNR7Wg+F+/WNx+mEYzfY2WSsMDjwQE59uPKfzLCAn02HlCFZJ6xFuYe8iDqR2lx7hZDvF2Mo1hh3dXshJYEuk3w7Is6Ni0xfSTG3dp54nCcZiOclp0dDKsEPU5VKCzMzGlA+onWACNzA1EZ+WfW91BGTIrU2vzyj+SZ30gHVX/QSjSTDvVoOsMIR36p5zqtImvV9o3elWHIm0Eg+59sU75swOGKTCVHTYmMVrE782UzYCFbodTdhEQsZ//GUXrbfyvdJsYujsKpV8f2ZmghrmUFfhWvOXMBny0PemRT0/ERgMhlwk8ASf+Ig+lxw8kYalqTICu6toXrKXIrZoCX2oqPqB+gO49XQ3L1L5D7DCpFSM2tl31YE1tHvDaX1+dziPocOdtqxxsP6KXfRYpsgxztWKbO/46i2akAk+WPCGG3TeY59/EI1/+M/1na8D4FfHw==;uo/3Q7NORoHDmpRoOvYMpw=="
 ---
 

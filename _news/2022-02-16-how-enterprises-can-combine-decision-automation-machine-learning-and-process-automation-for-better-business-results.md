@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/amp/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGv7LpBrvTl8A/article-cover_image-shrink_720_1280/0/1644870994584?e=1650499200&v=beta&t=AQE5efw0Se3ZnzbTL9V4XEdLu3rBtUWhX5um-mIECJo"
         width: 849
         height: 720
+        isCached: true
+  - title: "Grupo LAFISE Adopts AWS Cloud to Modernize Applications and Move Forward With Their Digital Transformation Process"
+    excerpt: "and automatization and development of Artificial Intelligence, applied to the institution’s operative processes. “Grupo LAFISE’s decision to sign this new agreement with AWS is based in the positive results of work months and investment time made ..."
+    publishedDateTime: 2022-02-16T23:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/grupo-lafise-adopts-aws-cloud-to-modernize-applications-and-move-forward-with-their-digital-transformation-process"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://cdn.newswire.com/files/x/57/84/c61a134e5f18e58bbb36a7709f61.jpg"
+        width: 512
+        height: 410
         isCached: true
   - title: "Great Learning for Business forays into the GCC Market"
     excerpt: "The Enterprise arm of Great Learning has transformed 35,000+ employees across 120+ organizations in multiple industries in the last 2 years DUBAI, U.A.E, Feb. 14, 2022 /PRNewswire/ -- Great Learning, the leading global edtech company for higher and ..."

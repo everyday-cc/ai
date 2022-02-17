@@ -2,6 +2,259 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-01-31-why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot.md",
+      "title": "Why IBM’s speech recognition breakthrough matters for AI and IoT",
+      "excerpt": "SEE: How we learned to talk to computers, and how they learned to answer back Reaching human-level performance in AI tasks such as speech or object recognition remains a scientific challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/",
+      "originalUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/03/istock-645609770.jpg",
+          "width": 800,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/amp/",
+      "publishedDateTime": "2022-01-30T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup.md",
+      "title": "What 20 years in Silicon Valley’s security sector teaches you about launching a successful startup",
+      "excerpt": "Building a sustainable operation is incredibly difficult, but launching and establishing a successful security startup is possible.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/",
+      "originalUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/",
+      "publishedDateTime": "2022-01-30T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-natural-language-processing-a-cheat-sheet.md",
+      "title": "Natural language processing: A cheat sheet",
+      "excerpt": "Natural language processing: A cheat sheet Your email has been sent Learn the basics about natural language processing, a cross-discipline approach to making computers hear, process, understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2020/07/natural-language-processing-concept-banner-header-vector-id1133656955.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/amp/",
+      "publishedDateTime": "2022-01-30T16:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-amazon-unveils-dozens-of-machine-learning-tools.md",
+      "title": "Amazon unveils dozens of machine learning tools",
+      "excerpt": "Amazon unveils dozens of machine learning tools Your email has been sent At AWS re:Invent, the company announced new capabilities for Amazon SageMaker, the general availability of Amazon Neptune ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2020/12/13016607905898753203226-n.jpg",
+          "width": 1706,
+          "height": 964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/amp/",
+      "publishedDateTime": "2022-01-30T16:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-how-has-artificial-intelligence-affected-business.md",
+      "title": "How Has Artificial Intelligence Affected Business?",
+      "excerpt": "Helping business owners for over 15 years. The common uses of artificial intelligence that are discussed in the business world today include self-driving cars and other autonomous systems, the internet of things (IOT), medical diagnoses, robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ictsd.org/how-has-artificial-intelligence-affected-business/",
+      "originalUrl": "https://www.ictsd.org/how-has-artificial-intelligence-affected-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnictsd.ictsd.org/how-to-become-a-partnership-and-sell-games-.jpg",
+          "width": 626,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-30T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ICTSD",
+        "domain": "ictsd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-global-speech-recognition-market-share-business-size-sales-gross-margin-revenue-demand-competitor-analysis-and-forecast-2026.md",
       "title": "Global Speech Recognition Market Share, Business Size, Sales, Gross Margin, Revenue, Demand, Competitor Analysis and Forecast 2026",
       "excerpt": "Jan 31, 2022 (The Expresswire) -- Global “Speech Recognition Market” Report contain Market analysis and Insights. This report focuses on scope, Market Size, players, stakeholders, and other ...",
@@ -958,259 +1211,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-could-ai-be-used-to-cheat-on-programming-tests.md",
-      "title": "Could AI be used to cheat on programming tests?",
-      "excerpt": "A new study finds that a freely available AI tool could be used to cheat on coding assignments. But how serious is the threat?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/",
-      "originalUrl": "https://venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1147087236.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/amp/",
-      "publishedDateTime": "2022-01-28T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
-      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
-      "excerpt": "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
-      "originalUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
-      "publishedDateTime": "2022-01-28T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
-      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
-      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "publishedDateTime": "2022-01-28T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-building-global-ai-with-local-impact-in-an-ai-economy.md",
-      "title": "Building global AI with local impact in an AI economy",
-      "excerpt": "Thanks to tech advances in the AI economy that enable remote work, orgs developing AI can now collaborate with people from almost anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
-      "originalUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1206094124.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
-      "publishedDateTime": "2022-01-28T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

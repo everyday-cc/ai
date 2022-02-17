@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/government/african-software-develope
 webUrl: "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -89,7 +89,21 @@ related:
         width: 794
         height: 924
         isCached: true
+  - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
+    excerpt: "To mark International Women's Day, March 8, Africa.com ( ) is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
+    publishedDateTime: 2022-02-17T00:53:00Z
+    webUrl: "https://menafn.com/1103712373/What-Women-Chief-Executive-Officers-in-Africa-Need-to-Know-about-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?185963"
+        width: 440
+        height: 250
+        isCached: true
 
-secured: "dv3QFWPPMUSwl5T+eIzScvOTSbpFKZ9Z/Zi7/EkPH6KvX0eD/a9d3eYlVgpVcCVE43dGS9XPsGkCUpPU5ppp4rwUO2bM4H3ZdNIzaGgSGKYaepycdLO2EqyAqj7A5WGLwj2biVLQTkcQnzBBTDfUQa7IEmRTbe28kFfUHS5JnUT6Wv9e9iVyDsj9AtJNWlDqVmIBhj8cTZciOKCTp4Qo32ZcgGz+a0wOgtzD7PWIb5s/wkZxku8NErYXLbxX68RC5OVMKbr130FpxxwbSSBtsk8+qyGzksyTsY9rsBbg6uUp47JyAOXPmdcM2OlZvY9MePy667nM45WSrVJfGH5LQR6ibUBD5/040hizlpWYK80=;+lMbRv7Gy2trSJHChpNCIw=="
+secured: "//DZrtMY6Xcdl4h88RNqWPYgqJbzxAe+3lx3ZWQ86S9D2/841C2GbNUv1s7N6pKeNPHCMjjpc7IeUP5agWiY3J2oBqWFkuYJskNaxz/oe380KIcrfdz+9uUZLq6HwfmSABYZASyci4Ce/UmTNfEZP5Wz0mfB67pCzh89u8UvmU/f2NyVGNfZDkmhgwAuMsKlYse0HfqcdR8FR36VCE7FkO7eEN8Zi4n4rHpLOtYWuIRsBNQKAYfK3Vy5cJQxlRb7ePdTOCcvGYAl+9DFCb5VsJ0f8UbZxAlrcQy4CPHVYy0E2x0JculiRrDumjHZM0ZoDm+FhK2byTmFcQCqeqNQSsVK0Z2b1UxensHanE7tAvsvEoD+oGz0H7IUtC/U5AsveCOd0BxOYliZMp92cv9La9hrB6ZdkD1lZz5LYQiYKGx4yzHp6BCEGBXE22rcskrNG2+x+Nx57yDpykcI+tmK9joayavmXACr1vSJMFTbv1rxx61Ly/FjYSZjYEM/2hZ3KMTuxu3MQqgx/WNI3xrvsw==;c4izBOmx7pirSO3nrBXLBQ=="
 ---
 

@@ -107,6 +107,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Google's research lab DeepMind built an AI for nuclear fusion energy research, helping control gas as hot as the sun"
+    excerpt: "DeepMind was the first to use this particular type of AI in nuclear fusion research Before we get into what DeepMind actually did, it might be useful to familiarize yourself with the experimental machines being developed to try and produce nuclear fusion ..."
+    publishedDateTime: 2022-02-16T16:01:00Z
+    webUrl: "https://www.businessinsider.com/deepmind-demonstrates-ai-can-regulate-nuclear-fusion-power-plasma-2022-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/620c3193da5ac00018fe7bfb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind’s AI Competes with Average Human Coder"
     excerpt: "DeepMind, a Google-owned artificial intelligence startup, has revealed a major breakthrough in competitive computer programming. DeepMind, a U.K.-based AI company, has taught some of its computers to create computer software, and when judged in a ..."
     publishedDateTime: 2022-02-16T12:16:00Z
@@ -160,7 +174,21 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "DeepMind AI trained to control nuclear fusion"
+    excerpt: "For a few brief seconds last spring, a doughnut-shaped ring in Switzerland heated a bubble of plasma to ten million degrees centigrade. The machine, built to progress the development of nuclear fusion, employed electromagnets to squeeze, shape and sculpt ..."
+    publishedDateTime: 2022-02-17T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-ai-trained-control-nuclear-fusion-982nl0qbk"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F70eb0f6e-8f6c-11ec-9569-fea923928840.jpg?crop=6048%2C3402%2C0%2C315&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "CC4xnCPBHD/mOFSIv3Kk2bmXSois4g0NxoKKOsxhNuV1F2yCLo41/9loNmrbyqI5axSMQPOSiz8W3JP/PMw4k9tDvjPjTYdVrDxW98i9KEuM0Y+t/mOey7JmAKF4SzZqOUN9tA0U49MgJWn5ITqdkKtk+mY8Ke6YyEqgH3KMGdSlB57BmnqJcc2CtzYXlGIIv0Cedbzf/8mkpjyQDSZCLX3rCUTzd+6rwHaFDWnw7LPwZjDqkr0Lsx/zak4iyj09fiB5JoRgYP2BOvEqc0Xv/NSZ2XNbPbkDIbeSyeY/t3k91CsQXtGD+g5clBYXQBBIgYd3rd4pNJ38MiohITR6AZlV6lDqkwByyzQ+nnVMk3E=;lGWwD2+8y8+l1RRZwgVnwg=="
+secured: "E1mp9QokH++WOMc1ItdTGet0ViyN0mouf8WzDDSVbkT0atk2meQscmk+nYoVMZmd2F0NmWi9ySRfpzgr2zFmicOHUjChNg3c3VNsa7DPyzQ+TsDjyXNc6SbwOfmaEpJTIFOENvYx32xl5XDn8HnLHrFpJ/0YOZ/ME0mGLUAVZgykOsUVWHBhUXZoIAX4g9Rmm5ihGBaVd4HKXGxpk2Zdkhb6eD8IifIBkpabnbNqiHePYtEukheL3+NQ16H0HidGAUOeUCH1hVjryAA26krYqT6fMMp+XtkfLj5jQxDnRCgYRojey+wyVQ42VGsNN8p8+JUKQkwuUhdD/JzJexeBM1l5kyi7dPyDt2eFjPw2d5I1awHrfhRR/jm9p6lSMIxr6qvthJwgl0wASn5z0h1lvgm9NpSsxGWsoRUgZiWC65arcZYXko5ti1lo5RnBQUEFs4x4FEGGFvZ0rOWLq2eR/c6Y0QsJeVW4Kxy8pzGsSd96XWAndUPJZc7xPQRwSWZwcjlCQHKysk8riETTxjY1iA==;ie5axV1kyx+RGVlVdVjPNw=="
 ---
 

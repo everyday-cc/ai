@@ -107,6 +107,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Google's research lab DeepMind built an AI for nuclear fusion energy research, helping control gas as hot as the sun"
+    excerpt: "DeepMind was the first to use this particular type of AI in nuclear fusion research Before we get into what DeepMind actually did, it might be useful to familiarize yourself with the experimental machines being developed to try and produce nuclear fusion ..."
+    publishedDateTime: 2022-02-16T16:01:00Z
+    webUrl: "https://www.businessinsider.com/deepmind-demonstrates-ai-can-regulate-nuclear-fusion-power-plasma-2022-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/620c3193da5ac00018fe7bfb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind’s AI Competes with Average Human Coder"
     excerpt: "DeepMind, a Google-owned artificial intelligence startup, has revealed a major breakthrough in competitive computer programming. DeepMind, a U.K.-based AI company, has taught some of its computers to create computer software, and when judged in a ..."
     publishedDateTime: 2022-02-16T12:16:00Z
@@ -159,6 +173,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/coding%20programmer.jpg"
         width: 720
         height: 405
+        isCached: true
+  - title: "DeepMind AI trained to control nuclear fusion"
+    excerpt: "For a few brief seconds last spring, a doughnut-shaped ring in Switzerland heated a bubble of plasma to ten million degrees centigrade. The machine, built to progress the development of nuclear fusion, employed electromagnets to squeeze, shape and sculpt ..."
+    publishedDateTime: 2022-02-17T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-ai-trained-control-nuclear-fusion-982nl0qbk"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F70eb0f6e-8f6c-11ec-9569-fea923928840.jpg?crop=6048%2C3402%2C0%2C315&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "jK/vznTpd0N/+n5UQ69GHK0qCjSxepXD3BLMEhXtCLP5LLEUNKtlPpBL7X3/k5Vao1OCpLTpjtVYLeoHOb5IQ2wB6pV+ifZTfO3eZO3Klg7H2Tg7bZQYJsvniGyTtJcbEK1lr/r5idh+PlJNCEysFEarJH+ecZwwzjZmso7LgafoxvDqMXnjnDCb8U1iwnJR4arzcz0grNW6/hMwYoCM0Fd04mwsxDiAZcbGZTJSS7UanLKgDVgkgofDxb6dagyyItz+9P39b8SjzN/Hgw46BoqdRjeH0O4CEKC9NU7qFv4NUxKO7Mzn7VQHg3IE0W6ajd7YN8j53hgBdx9OD7l153sdUfxD23qneU+W3XCo9e8YVwoHoNRaYiOqE07TArqqnEvlXn9m5YO+Dxyb9Ok/1VhZvVNpmOSQk4WkqoVwD3miyTiByCHUwC6y+/oWb00M3+H9jW7FRkzIofSA1WP77ArmnmZhOIKzNsylC0j2kcn4L7b32UJ8D3xFPTdh5+ryy62mbrYc0MvAY3XYV+tLww==;8pRiwGSMRMce9SGZ/B8tuw=="

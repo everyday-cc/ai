@@ -63,6 +63,20 @@ related:
         width: 849
         height: 720
         isCached: true
+  - title: "Grupo LAFISE Adopts AWS Cloud to Modernize Applications and Move Forward With Their Digital Transformation Process"
+    excerpt: "and automatization and development of Artificial Intelligence, applied to the institution’s operative processes. “Grupo LAFISE’s decision to sign this new agreement with AWS is based in the positive results of work months and investment time made ..."
+    publishedDateTime: 2022-02-16T23:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/grupo-lafise-adopts-aws-cloud-to-modernize-applications-and-move-forward-with-their-digital-transformation-process"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://cdn.newswire.com/files/x/57/84/c61a134e5f18e58bbb36a7709f61.jpg"
+        width: 512
+        height: 410
+        isCached: true
 
 secured: "6ZrkTOVnO+vCTrC+SQ5ZpbfWeRl4Ofd4/ZQ5Vn1p6pLtbEqcCtLbDdDhHG/U+LCk7uJbIaygPnFzbv8ICYl0pz/I17oNuZGqZREBuExcTg9TU5cjKX6/6qdBvh8+3OeAgMhzexxTzO+iDOqt0Vb+QJC2DjJBumz8SLg7tocDivuHNvCmOgOTTRweanyNws+yLJCHTX1PwA6ZCYddhIhGbqmjqO515qEL12rljjKFLpnzcf/1G6CsoTJmb3/sSQUAXKSsEQIbdj06ArTPZiYmKf6g/g4gUgm4KCIHIm7qKNHrORmO/71SHGG/uuaCdNtC5s+2pp47J2ve4pAyHxGzPuZCCxj2bR4fucuYl+nWEi2hzdTUkNx7mFqSd6wkQG8dBQAsfwPad9Gosw843Wb0FItFWIG0jqhHdIsRMW+9XuMkzL83GB/ztxqAilClABSYVB1WtNijGnVntgt/OUoyZszAhreZ0r4yvCbfK44u05JNtYPxqhZCJpKvOzRo8a+vBVCMh78gNuVeNgIGumuGew==;sWaef6KlQRq4Uc14YIon9g=="
 ---
