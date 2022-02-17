@@ -27,7 +27,7 @@ related:
     provider:
       name: Daily News
       domain: galvnews.com
-    quality: 21
+    quality: 25
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
         width: 600

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-490245946_edited-e4b00c1efb9503a805928b101c78b499.jpg"

@@ -125,6 +125,20 @@ related:
         width: 292
         height: 256
         isCached: true
+  - title: "After recalls, will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
+    excerpt: "Tesla CEO Elon Musk is again promising big gains in the EV maker's \"self-driving\" software. But regulators also have their eyes on the feature."
+    publishedDateTime: 2022-02-17T13:44:00Z
+    webUrl: "https://www.autonews.com/mobility-report/after-recalls-will-feds-frustrate-elon-musks-plan-make-teslas-self-driving"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1xKxd8sNvPCLZJEYGAAZHrQKQK9Op8sZjtKREjBwIgPn2Y8EAzc9eFuHwne27JMjxtWcGOQtiUUXu4TCH1rWCZE4BUn51AVdPNEuaoFMHWleCgeS95+fHbuaVxirgE2nTputKw7K0s5n0RLbp4bCA56G8VdFnLZXo8PKo0IgxD7FJJdQKP8K+XPNraIpx7IByL2NBvZT1OvOGybWOPVDAcB+8xf9CkE61Jr+cm/6fUvb+NjNK27r3KmO41aFULituqOpTV4XiPrNM1gs+ckjgOBf7JeZkUry+84JHBnppDutSDbYR8y/7pBnDS/PMjqvK89cAFFIz1UKiL0EESMMOsQNx4f0aqsOPUwW1I321irgrzV9+BqhEcu55Aq3fD0VaWADKeZulv6jqqTRmP4sMT4P4zh1iiTsn7hiOTOXaCIb/WQGIRw70tZLpjPagb3yIo6pEEGiCEZDnHeHV1BcDin1nafTp1S40KePZ4EoZeg5OFcUBGisPIXih6/KuoGnk3+rIvLbmh2Fv81iIsOpag==;mPwB3RoEgtoCRce/8XTZSw=="
 ---

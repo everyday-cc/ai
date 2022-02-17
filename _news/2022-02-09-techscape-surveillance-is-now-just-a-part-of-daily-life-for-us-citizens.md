@@ -1,10 +1,10 @@
 ---
 category: news
 title: "TechScape: surveillance is now just a part of daily life for US citizens"
-excerpt: "In this week’s newsletter: from seeking out mental health care to filing your taxes, being watched while doing even the most mundane things has become dangerously normalised"
-publishedDateTime: 2022-02-09T10:45:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
-webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
+excerpt: "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ..."
+publishedDateTime: 2022-02-09T12:06:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "M/C7kWDljKGpviTOTpisVbaQ3JEYhXGecz99qm8vqUFPPrWHZHZgZKTJxq5ebNLsifooVrnFRItPOXSA4MqNijDz+5AXpai5LMtX3eyi726yZWxQKbdI86XiMFa2R4OwxxwYBQfma8umqg9e+hEHqffndOY547SrEYw0z3+jdMJ2W5sq+VjiyR8PPi1xDOLrbzEzQSTBd48H3HrlENypaYpLiApZbzGmeyS53Bc80BO+98NM7UEK2MGUAq71ZmKMvTichGVu2pxbHwff4eVLMmLCBOcFCUqIVgm+65BnPj1qSiU+Omo8HtrclaE6RjeWTbgcQIbeb2S2Je+NFXEx7zQvDincnshj0mQZjcFCgpYwL9BUfp5PqnSavJw89jEGEmmveV4x9F0q3Puo9b+1a6cCBZmCTDoh22yVLJ3etFVsK+byekyi5XDSAsyWpxq0bCjp4Y9M6kROghh7pdvVkCEKG5Z2NsHAuV5ZgYtvtD4PhKQTnlONK4+sUVFkxkETHnIrABJASGmBo5lZum1xgg==;OvDuk/frMEleMIwkK3+D5w=="
+secured: "YmkGEOvcVgsoMU+u9J/BrIwSe4xgJHt7pGs+0dROOsxJbvL4rpcW3PQ4lOKtc+tNDwmL8akeFjWigs4x19iHquAaf0pfDYXaRY3vnlngqyED4XpBSvTBA6fL2f+nGbwf5KNsa9VKaPcbBSyoA7GdUAia7zV8Z1HZ+w4ISj+5uL9rEOzTRhGr6wrbBxZn3qHkOuTR4EYSMNKMWBVRlBPJcLGcSJjplrm+Rm5MJaNhCGCTosFSnwhOzcF/YUB21s2DKg+Cs/Te6ukjuUqK6yIUS1mjJmCamzXz1CCGGcW5katd3tBe01dX/Ap+yToxc7RT1178z9EejKoDIP0Kh3m0tQiwCpDgX+5qyU5l+6GSeFY=;ITEmaQPRmfMOYxs8ooyBHA=="
 ---
 

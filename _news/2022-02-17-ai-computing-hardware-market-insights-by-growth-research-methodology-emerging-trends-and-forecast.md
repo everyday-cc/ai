@@ -141,6 +141,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Dark Analytics Market Size, Share, Industry Analysis, Demand Forecast, Opportunities and Trends | Market to Touch USD 880.50 Million by 2027"
+    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
+    publishedDateTime: 2022-02-17T06:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-industry-analysis-demand-forecast-opportunities-and-trends-market-to-touch-usd-880-50-million-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "O5uUvZezPq5RjLg25a4lExb+OnzEz2Bz8YZ28btXCKVs8qVRep4tYtSY67wwygIHNu80ZOqnL0Ot350WvwvEUm+Rl51DYjREWdinvp2Wh/KU0qeJ/ZLtHNNFKLiN6WVDU4iGgD3aR6ZcO+CblI2JeFCkPE8oy2+8YxppjdiUgmUnwplbL/PT59bG2txMBT8ZS4dnIPIYtup53itPil7XDwsR28MiJ048nxHgjQeI6xwlAxZVYfNQ1e225SvFhmT+Ta+tTrh/JzoXcG2Qln2dmBIM23MMMR7pydURvkpLSTOzjAGuu16+kJXb+8LaccaZwRgAEim4MmDYzOnc6yVTIvZMbO8iefqWGcE2EggI6HA=;6dvsKQ/qEikjSbPloqefmg=="
 ---

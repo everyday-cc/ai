@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-helped-detect-possible-covid-19-spreaders.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,38 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning technique helps diagnose COVID-19"
-    excerpt: "Researchers have devised a machine-learning technique that can detect key signs of COVID-19 infection in chest X-ray images 1. It differentiated between lungs which were affected by COVID-19 and lungs which were not. A chest X-ray shows other organs as ..."
-    publishedDateTime: 2022-02-13T22:04:00Z
-    webUrl: "https://www.nature.com/articles/d44151-022-00016-6"
+  - title: "A Natural Language Processing Pipeline to Identify COVID-19 Outbreaks from Contact Tracing Interview Forms for Public Health Departments."
+    excerpt: "We developed an automated pipeline to ingest the free text into a pre-trained neural language model to identify businesses and facilities as outbreaks. Data on cases of COVID-19 were extracted from the Wisconsin Electronic Disease Surveillance System ..."
+    publishedDateTime: 2022-02-13T07:46:00Z
+    webUrl: "https://europepmc.org/article/MED/35144241"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d44151-022-00016-6/d44151-022-00016-6_20116200.jpg"
-        width: 1024
-        height: 1325
-        isCached: true
-  - title: "How Doctors Rely on Artificial Intelligence To Overcome the Covid-19 Crisis"
-    excerpt: "Artificial intelligence is revolutionizing the healthcare industry by assisting doctors during surgeries, diagnosis and clinical trials."
-    publishedDateTime: 2022-02-17T14:15:00Z
-    webUrl: "https://www.bbntimes.com/science/how-doctors-rely-on-artificial-intelligence-to-overcome-the-covid-19-crisis"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 37
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Doctors_Will_Soon_Rely_on_Artificial_Intelligence.jpeg"
-        width: 1244
-        height: 530
-        isCached: true
-  - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
-    excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
-    publishedDateTime: 2022-02-13T08:51:00Z
-    webUrl: "https://europepmc.org/article/MED/35142636"
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 0
+  - title: "Spatiotemporal sentiment variation analysis of geotagged COVID-19 tweets from India using a hybrid deep learning model."
+    excerpt: "The sentiments were predicted through a proposed hybrid Deep Learning (DL) model which leverages the strengths of BiLSTM and CNN model classes. The model was trained on a freely available Sentiment140 dataset and was tested over manually annotated COVID-19 ..."
+    publishedDateTime: 2022-02-13T13:28:00Z
+    webUrl: "https://europepmc.org/article/MED/35115652"
     type: article
     provider:
       name: Europe PMC

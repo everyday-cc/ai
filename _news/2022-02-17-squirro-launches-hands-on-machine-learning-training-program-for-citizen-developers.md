@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Squirro Launches Hands-On Machine Learning Training Program for Citizen Developers"
-excerpt: "The Squirro Academy announces Digital Discovery Sessions to help non-technical people understand and use No-Code ML - Free training and education program opened to wider audience after success with"
-publishedDateTime: 2022-02-17T08:00:00Z
-originalUrl: "https://pressreleases.responsesource.com/news/102437/squirro-launches-hands-on-machine-learning-training-program-for-citizen-developers/"
-webUrl: "https://pressreleases.responsesource.com/news/102437/squirro-launches-hands-on-machine-learning-training-program-for-citizen-developers/"
+title: "Squirro Launches Hands-on Machine Learning Training Program for Citizen Developers"
+excerpt: "The Squirro Academy announces Digital Discovery Sessions to help non-technical people understand and use No-Code ML ZURICH - February 17, 2022 -"
+publishedDateTime: 2022-02-17T13:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/squirro-launches-hands-on-machine-learning-training-program-for-citizen-developers"
+webUrl: "https://www.digitaljournal.com/pr/squirro-launches-hands-on-machine-learning-training-program-for-citizen-developers"
 type: article
-quality: 30
-heat: 30
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: responsesource.com
-  domain: responsesource.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "5wqz50bAnFop8+4vOkGsN06otDJ3QjQlR8CwG8McVuneg16vkgxxapL/EGhwZItoYBAbkLd516R9QSH+Sb/w3Ig6rhk4Kdz9robpC/h9lteJmcNT8Xkn8608PJ8Y7oN5vPJzAchP1RB7f3NQq0f4SjxXZKO2An8vl+0mMCd/23Wh6sfQGQbyA3pROL4L3LmIz70zt88nAZFYyVtme9LaDA/0sXX3jtqQeJFKHhWUwxD7hH69G7i2AuJGB+6XJ4tNZdPltckIMUe3H81yGohemfXNK1ypHu+ACE6EjZYi+Gmb+lqgbHUTL2dxT7hrlGNYA1Dy0QiWKu/7kyl1jSf7MqxCgYzIYr2X/fHa7Xwig3Y=;cSbOn0FgP0tj6fDASxrA8A=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "+IOnPj3tPocXCjS92VcxFBPSgG1R5q4MfVFUwcNn2mp79gSejYPDQzYGq6oeuVVGdZPHXkluK06vS9AoHq302cZBVqptL5cSwVZmpbRJyoS4QJRSPiKHxRaS1llkoMPNHfsayZfkh4OyTrZeAntBc1QzddoUqec+bzWRqEjt/yzYstACVyYWLhDmbq5Y0sa3LopWJKTHDyTNVXWMxp0f46KC983UDPLIcKkeGCYcPq3CGwYUmETKlZkxAzpuN2h3m+tAIHDUTeMh9bw/4/u/kJ4/vnnRyquj3rSUCoLYTjnoasHKKxIDrSc+1mw9U5cpQZk6uz6t8yNi1fZCp4N3RC4BQYZp/pV28upqgETfzbI=;x68ESMypUdvCjCr0g/V6WA=="
 ---
 

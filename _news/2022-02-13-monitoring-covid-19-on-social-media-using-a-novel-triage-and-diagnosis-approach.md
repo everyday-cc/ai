@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "How Doctors Rely on Artificial Intelligence To Overcome the Covid-19 Crisis"
+    excerpt: "Artificial intelligence is revolutionizing the healthcare industry by assisting doctors during surgeries, diagnosis and clinical trials."
+    publishedDateTime: 2022-02-17T14:15:00Z
+    webUrl: "https://www.bbntimes.com/science/how-doctors-rely-on-artificial-intelligence-to-overcome-the-covid-19-crisis"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 41
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Doctors_Will_Soon_Rely_on_Artificial_Intelligence.jpeg"
+        width: 1244
+        height: 530
+        isCached: true
   - title: "Machine learning technique helps diagnose COVID-19"
     excerpt: "Researchers have devised a machine-learning technique that can detect key signs of COVID-19 infection in chest X-ray images 1. It differentiated between lungs which were affected by COVID-19 and lungs which were not. A chest X-ray shows other organs as ..."
     publishedDateTime: 2022-02-13T22:04:00Z
@@ -33,33 +47,19 @@ related:
         width: 1024
         height: 1325
         isCached: true
-  - title: "Machine learning helped detect possible COVID-19 spreaders"
-    excerpt: "When used for COVID-19 detection and tracing, machine learning models helped predict potentially infectious individuals and helped test them faster than manual tracing, a Feb. 11 study showed. The study, published in Nature, used machine learning models to ..."
-    publishedDateTime: 2022-02-15T17:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-helped-detect-possible-covid-19-spreaders.html"
+  - title: "Aventis Aligns Itself With Advancing AI In Light Of Covid-19"
+    excerpt: "SINGAPORE - Media OutReach - 14 February 2022 - Aventis Graduate School has aligned itself with the advancing Artificial Intelligence (AI) surrounding the thriving age of digitalisation ..."
+    publishedDateTime: 2022-02-14T04:49:00Z
+    webUrl: "https://menafn.com/1103689094/Aventis-Aligns-Itself-With-Advancing-AI-In-Light-Of-Covid-19"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "How Doctors Rely on Artificial Intelligence To Overcome the Covid-19 Crisis"
-    excerpt: "Artificial intelligence is revolutionizing the healthcare industry by assisting doctors during surgeries, diagnosis and clinical trials."
-    publishedDateTime: 2022-02-17T14:15:00Z
-    webUrl: "https://www.bbntimes.com/science/how-doctors-rely-on-artificial-intelligence-to-overcome-the-covid-19-crisis"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Doctors_Will_Soon_Rely_on_Artificial_Intelligence.jpeg"
-        width: 1244
-        height: 530
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?433493"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "Okg6iEnivRwt95o66pwCjo9bQggHXo6ZpnJX/qI4b9zSMZNUe0aSFTm0mVTLxDVXApDAK4YvBvAKoKi4ZiyaTNKbgH+M7y6DBbOp2ZcNLyOgFO3i8FVV/XXutOKUZN/7O+l2ANxwuain0uhElAheWaYBQmNjYjKjDlFa09BFSImeiyNPmWYRMBJN7zBHbYAKSeULR7Jk79kPteDb+x+lfNuoqTNsmPdOkNDnBSNxHFPH5JhQujPe3kUn7T+KT0IKfDv8uX/xeT4YNE0M7BoiLwx7VQu5oFAusGrWipdhpeOiSewR+njhPYH1YMi8VVMMN99rNZu66VVQSENx9DXtCri5gKW5VkvkeDTAfZ3qUtE=;WvTTRfN2SKTjtm8IpUY28w=="

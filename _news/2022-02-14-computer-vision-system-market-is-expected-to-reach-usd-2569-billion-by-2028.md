@@ -35,7 +35,21 @@ related:
     provider:
       name: Inter Press Service
       domain: ipsnews.net
-    quality: 62
+    quality: 64
+  - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029"
+    excerpt: "According to the latest research study, the report predicts the global size & share of Artificial Intelligence in Drug Discovery Market to reach around USD 5,558.0 Million by 2029 from USD 626."
+    publishedDateTime: 2022-02-16T09:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-artificial-intelligence-drug-discovery-market-rise-ketan-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 33
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEfUDwu1XTqrw/article-cover_image-shrink_600_2000/0/1645003619062?e=1650499200&v=beta&t=TWv8vWqQIyBN5ED44mhdu2pbCCr59suNs3kppMmk8QE"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "G9OnpOgYCdzJXqKPTeR5Zz+yL01DgPAg9vAL76nzNo9yfV4sihTafePqb8+wQAcGYo0iGk0vrFr5wHsUNIZcTOLc9dc/2B93mAl9hYS1WGWOxVNond9CpIf6A0hkWk1+HV2k8x9X8EWAufnTY0x9ecdS54lcHq+ohh9NX8rW+zC0ZvRAnpK1QMz0WUn7iDZOVNg2VwSifdIsR9qwT0rCnuOvw8dZkA8+t8tbC8YOGInHZYRBARQbWu+eAoO2PzPpT64aFW/bUpDEtdIW/DRVZDQubEYeeEgsNqtHCk5WQkTCDW7FR2w2qnKk0SwFSOIz9vcHcHQhoAdTW92FrvezGg5krxypTMcBXZlF6CUoU7U=;JuYD3KtqZCeu9CsirMZfFA=="
 ---

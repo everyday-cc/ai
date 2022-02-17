@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,17 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
-    excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
-    publishedDateTime: 2022-02-17T11:36:59Z
-    webUrl: "https://www.airforce-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+  - title: "Scientists combine AI and atomic-scale images in pursuit of better batteries"
+    excerpt: "Today's rechargeable batteries are a wonder, but far from perfect. Eventually, they all wear out, begetting expensive replacements and recycling."
+    publishedDateTime: 2022-02-17T16:00:00Z
+    webUrl: "https://phys.org/news/2022-02-scientists-combine-ai-atomic-scale-images.html"
+    ampWebUrl: "https://phys.org/news/2022-02-scientists-combine-ai-atomic-scale-images.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-scientists-combine-ai-atomic-scale-images.amp"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/stanford-scientists-co.jpg"
+        width: 1000
+        height: 1300
+        isCached: true
+  - title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
+    excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
+    publishedDateTime: 2022-02-17T11:35:00Z
+    webUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
     quality: 31
     images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/02/Image-2-4.jpg"
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-2-4.jpg"
         width: 500
         height: 334
         isCached: true

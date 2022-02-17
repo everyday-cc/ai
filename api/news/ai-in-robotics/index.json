@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-18-amazon-hampton-university-establish-robotics-program.md",
+      "title": "Amazon, Hampton University establish robotics program",
+      "excerpt": "To expand the diversity of talent that will shape the future of robotics, Amazon invested in a new collaboration with Hampton University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "originalUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/02/assets.amazon-1.jpg",
+          "width": 900,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-robot-fry-cook-gets-job-at-100-white-castle-locations.md",
       "title": "Robot fry cook gets job at 100 White Castle locations",
       "excerpt": "White Castle seems to be all-in on its latest employee, a robotic fry cook. Flippy 2, the fast food robot by Miso Robotics, will now be whipping up burgers and other food in 100 standalone locations.",
@@ -95,49 +138,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-hampton-university-amazon-partnering-for-new-robotics-program.md",
-      "title": "Hampton University, Amazon partnering for new robotics program",
-      "excerpt": "Amazon Robotics is paying to establish a new robotics program for students at HU, which will create a new research laboratory, hire a faculty position to teach students about artificial intelligence and encourage other STEM learning opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.13newsnow.com/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
-      "originalUrl": "https://www.13newsnow.com/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.13newsnow.com/assets/WVEC/images/f0e06000-23a1-43d9-abda-568bcc7e145d/f0e06000-23a1-43d9-abda-568bcc7e145d_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.13newsnow.com/amp/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
-      "cdnAmpWebUrl": "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/education/hampton-university-amazon-begin-robotics-program/291-f9ff304e-8649-48a6-98c5-85c5271334c3",
-      "publishedDateTime": "2022-02-16T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WVEC",
-        "domain": "13newsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

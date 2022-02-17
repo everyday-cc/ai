@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion"
+    excerpt: "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,"
+    publishedDateTime: 2022-02-17T15:02:00Z
+    webUrl: "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "DeepMind uses AI to control plasma inside tokamak fusion reactor"
     excerpt: "Fusion reactors promise cheap, abundant and relatively clean energy – if we can get them to work. Now, thanks to artificial intelligence firm DeepMind, fusion researchers are one step closer to extracting power from plasma hotter than the surface of the sun."
     publishedDateTime: 2022-02-16T16:00:00Z
@@ -261,6 +277,6 @@ related:
         height: 900
         isCached: true
 
-secured: "NDwWbWkjTkxrJHwaTxpPOQuFG+o3kzyM0/+eVEerduGfVKsPjGLIDMdvSnomdD2bD5mQXMXS/MSauweUOMDJa2+pPXNoMJiyU9TuiIKSIPE/DZrfMx4x6cy40RNV2bt74pNVZzAM0GWTfrjE/OldDbmqC8LjbZcvwBzN2z0zTUk+VnDapq6QXzjOhVaBxroe3qLgjIJQL7d641Hwam5UrdHfCdALL3rTLAbn678Uz8MG9bXKQkQLL/cLoVPhL10r9Isfa2zmjWBgTPT1GZjPlRGQEi+MhQNYXLMy3EJRIGPM4fLXwAlIfa7/mI44BdZQzq8UkSeQBOwOu/BLoN+CEDVYxyYQraejkwKp0O9fslU=;iQ2RCCPMJh16mvk3B0BEzQ=="
+secured: "hvGy8xVs2j3dJ4Z6IxLK/FQqQTbPrTChqUvXJuDpYzPvr1/ffNCWmBydN2+yUxJhVQINl3uAlAvgtlGDwlaSMoVIdFsj4gNIDfwu/U2ptLIi7lm/iWLhv7bIR0JNrMCtleHBphWUMQRe7D6cO3kZPb7zDU+BnEgwrQFXzXhilQFkTOl0YeISXzPgd1xgIYNDvxJ+Dxs8ylpB9Ap82EzS6c7nyfHG6bCr4QRRklm6wulS8Un3yC5mPRCSr86Co6vZW7skXC1gelWQpMaAZQ2ObaXPlZ/Ee8IU+B5n/9q553+6y/0WkidCeo2AGmTlaUThBAXTcV/Vrz+4dhmCYST7BNSdl8D2itoBm+dlHE8wT6rloaaAxd4IVsvGEv8WijIRu0k1sudrefVIEa2LIycprZmUwdNax9pHTqe3kzhHNvflFPlIl1xpurSpRQ24j5P5c4gMQGZex0ZtJJRSPtV+KG4mnM37ebEEYbSlgmBRW6LXh8YkqZrZ5JLzZvrKERYy4Qtk784rRIcVt1If46GRzg==;w2SKRcoiv+f1FSbnt40Awg=="
 ---
 

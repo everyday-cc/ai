@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-17T14:15:00Z
 originalUrl: "https://www.bbntimes.com/science/how-doctors-rely-on-artificial-intelligence-to-overcome-the-covid-19-crisis"
 webUrl: "https://www.bbntimes.com/science/how-doctors-rely-on-artificial-intelligence-to-overcome-the-covid-19-crisis"
 type: article
-quality: 37
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.bbntimes.com/images/articles/global-economy/Doctors_Will_Soon_Rely_on_Artificial_Intelligence.jpeg"
@@ -39,19 +41,19 @@ related:
         width: 1024
         height: 1325
         isCached: true
-  - title: "Machine learning helped detect possible COVID-19 spreaders"
-    excerpt: "When used for COVID-19 detection and tracing, machine learning models helped predict potentially infectious individuals and helped test them faster than manual tracing, a Feb. 11 study showed. The study, published in Nature, used machine learning models to ..."
-    publishedDateTime: 2022-02-15T17:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-helped-detect-possible-covid-19-spreaders.html"
+  - title: "Aventis Aligns Itself With Advancing AI In Light Of Covid-19"
+    excerpt: "SINGAPORE - Media OutReach - 14 February 2022 - Aventis Graduate School has aligned itself with the advancing Artificial Intelligence (AI) surrounding the thriving age of digitalisation ..."
+    publishedDateTime: 2022-02-14T04:49:00Z
+    webUrl: "https://menafn.com/1103689094/Aventis-Aligns-Itself-With-Advancing-AI-In-Light-Of-Covid-19"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?433493"
+        width: 374
+        height: 250
         isCached: true
   - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
     excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
@@ -63,6 +65,6 @@ related:
       domain: europepmc.org
     quality: 0
 
-secured: "cbm2+FdWmqeBNm3pc0hIDEOY5nDlO78XnVNkkcjufFONS+LGbeTZcTFd1NtefJQ4/XAq+6Lbcuwc4iaJQt73ICX1+SY2ZTTwexl/UDknvceI9+kJt8FziifJGwxDO3gdsrhbZaFZVQrSiudqaSJ60q9k2jAL1c8fm6lmm03BXO9ZLNPtSGnf6E5cROA7gf1IM8NuqoQ31V50vQZFeBMdSM0QkysH7M/bf6K7zcGk1CNgx82Sap/IJshcw/+y1lj6cepnCnDngPB7l2+f+Jf71TvmG3omy308hP4uH0f2jhVPALEvneeEvSnwEZUQpaQQI8aZNlREiCznWARsoGzhd4L1atpaCjg4FsGYKbTskWk=;ZhFaVk7UXOSTMpO9D8isxg=="
+secured: "giicyjFEKJqq1EsHvaliqJlE0zS+H7qhj1fyrMYqT0m4vXx3Iciu+REB7+pMprz+j1k0e+5NVxo+Stl9sBTXyxDmxcGTcgbNIz6RHMekfYDphEJRdRnTsEk82eVhb8GRxuKsAUOCu5KmGEHX6fPpKcyhIJB4aWKfZPRCq5P/wH8vohpkNsC/JsjEqvmHobN7EZvu/q6p0JVUwzFvV4fLhOOiuwLPa0N/AMYPI0//4zizr3eBIyPDxOl040jOCjc8uaplT+qYB3ncKkf3hkadI/Kli0zpcfCwd5CFugg3VSuU1xcWBNWYtG7HiiU/rlh0UU9ghA6iJ1loMBUQpv1GNuKpphOqiX8T34sOASu6nIYDw7Crem45rh+tR86aVShVEQ++cDtU2ve2a0dKJV5Qwu8Xc0mTUHz1odTjo5a0gfP6T+iJwWBlRfxgYcqi3JHDxw09SXCWCQ97hH/lSyTztbyp1lyvWdMFBvcQUh7T8sKt0URi2MwQo3CGn3dOFXT1327K7agpwtXcN4nqLzYthg==;kz9gKyJRLUyhob/u7Pq0NA=="
 ---
 

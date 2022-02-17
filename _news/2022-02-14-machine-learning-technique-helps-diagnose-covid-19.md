@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/d44151-022-00016-6"
 webUrl: "https://www.nature.com/articles/d44151-022-00016-6"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning helped detect possible COVID-19 spreaders"
-    excerpt: "When used for COVID-19 detection and tracing, machine learning models helped predict potentially infectious individuals and helped test them faster than manual tracing, a Feb. 11 study showed. The study, published in Nature, used machine learning models to ..."
-    publishedDateTime: 2022-02-15T17:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-helped-detect-possible-covid-19-spreaders.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "How Doctors Rely on Artificial Intelligence To Overcome the Covid-19 Crisis"
     excerpt: "Artificial intelligence is revolutionizing the healthcare industry by assisting doctors during surgeries, diagnosis and clinical trials."
     publishedDateTime: 2022-02-17T14:15:00Z
@@ -47,11 +33,25 @@ related:
     provider:
       name: bbntimes
       domain: bbntimes.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://www.bbntimes.com/images/articles/global-economy/Doctors_Will_Soon_Rely_on_Artificial_Intelligence.jpeg"
         width: 1244
         height: 530
+        isCached: true
+  - title: "Aventis Aligns Itself With Advancing AI In Light Of Covid-19"
+    excerpt: "SINGAPORE - Media OutReach - 14 February 2022 - Aventis Graduate School has aligned itself with the advancing Artificial Intelligence (AI) surrounding the thriving age of digitalisation ..."
+    publishedDateTime: 2022-02-14T04:49:00Z
+    webUrl: "https://menafn.com/1103689094/Aventis-Aligns-Itself-With-Advancing-AI-In-Light-Of-Covid-19"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?433493"
+        width: 374
+        height: 250
         isCached: true
   - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
     excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."

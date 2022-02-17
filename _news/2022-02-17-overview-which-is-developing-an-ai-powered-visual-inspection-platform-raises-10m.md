@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Visual Globe Announces Next Generation of Artificial Intelligence Platform"
-    excerpt: "Today, Visual Globe, a Colorado-based artificial intelligence company ... This end-to-end solution automates the conversion of data into predictive neural networks and then brings those networks into our rule-building platform, all without the need ..."
-    publishedDateTime: 2022-02-15T13:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/visual-globe-announces-next-generation-of-artificial-intelligence-platform"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://cdn.newswire.com/files/x/f0/9b/fae9c711ee5de9d5a0e646383c1d.jpg"
-        width: 512
-        height: 267
-        isCached: true
   - title: "AI-powered platform improves construction-site accuracy"
     excerpt: "What’s an earnest contractor to do? Tel Aviv-based startup SiteAware, which just raised a $15 million Series B financing round, offers an AI-powered Digital Construction Verification (DCV) platform that creates a “digital twin” of a building under ..."
     publishedDateTime: 2022-02-16T07:56:00Z

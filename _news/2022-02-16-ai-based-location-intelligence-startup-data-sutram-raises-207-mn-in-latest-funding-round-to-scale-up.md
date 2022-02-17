@@ -63,20 +63,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 23
-  - title: "AlphaICs Corporation: AlphaICs Begins Global Sampling of 'Gluon - Deep Learning Co-Processor' for Vision AI With Superior FPS/Watt Performance"
-    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. Gluon provides the best fps/watt performance in the market for classification and ..."
-    publishedDateTime: 2022-02-14T01:13:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55229046-alphaics-corporation-alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-with-superior-fps-watt-performance-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 20
-    images:
-      - url: "https://cdn.newswire.com/files/x/ac/4d/39a63d0e5751aef6c742d69bd82b.jpg"
-        width: 512
-        height: 315
-        isCached: true
 
 secured: "l6jPPlpNfeEiVl/MrS5WFFgNs3dhjBIz1b9JOArXtJQj11t9v2tFiWmO0zZ6JC2w3Mc7KJf12f+08P1fQhLAIBzuIa0dBItt3GHQkXdK45EYtfIvgjplVSTVa/8ziNAJk68BMJKVOck2aDy+9savKQYac5BBs1IxxB1nZC+M1pcexE4Z3EXI1bccqMG7D6RZdavrFdrZfSwVNbZWo+kYYRIdAotRr8Hz/0M7+g0LRSszAhRZjOs63uJvVJ5CCA+yHwGqLa3jaU/K6R051BlAfrkWf0jRcxEhppv/Y+2sOEUYsjgAMp6bAs3AcffiYlWBN7iVyViJG58XFC185t9fTOl4D+DgbD+LiUkCFceGKHA=;gjR6IukMjsy93le60MEDKQ=="
 ---

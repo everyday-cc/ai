@@ -2,23 +2,23 @@
 category: news
 title: "7bridges Launches AI-Powered Logistics Platform to Automate Logistics Supply Chains"
 excerpt: "British startup 7bridges has launched an AI-powered logistics platform to automate the logistics supply chain."
-publishedDateTime: 2022-02-17T11:36:59Z
-originalUrl: "https://www.airforce-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
-webUrl: "https://www.airforce-technology.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+publishedDateTime: 2022-02-17T11:35:00Z
+originalUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
+webUrl: "https://www.just-auto.com/research-reports/7bridges-launches-ai-powered-logistics-platform-to-automate-logistics-supply-chains/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Airforce Technology
-  domain: airforce-technology.com
+  name: Just Auto
+  domain: just-auto.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/02/Image-2-4.jpg"
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-2-4.jpg"
     width: 500
     height: 334
     isCached: true
@@ -40,7 +40,23 @@ related:
         width: 1200
         height: 589
         isCached: true
+  - title: "Scientists combine AI and atomic-scale images in pursuit of better batteries"
+    excerpt: "Today's rechargeable batteries are a wonder, but far from perfect. Eventually, they all wear out, begetting expensive replacements and recycling."
+    publishedDateTime: 2022-02-17T16:00:00Z
+    webUrl: "https://phys.org/news/2022-02-scientists-combine-ai-atomic-scale-images.html"
+    ampWebUrl: "https://phys.org/news/2022-02-scientists-combine-ai-atomic-scale-images.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-scientists-combine-ai-atomic-scale-images.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/stanford-scientists-co.jpg"
+        width: 1000
+        height: 1300
+        isCached: true
 
-secured: "M/LZ+P2apSYMBF6S+TyNzl/TcEPRd5wy3HrzDk63vxPzhAGHeR5XBI6cOF1+H39setTwxDID8VZSkp3hOLZaoKEuIJKnSMlNjb/osBjtRD/AS/lCjaTB5gMWA6N2tx7/L8Zp4bTRoQrxnWblGeT+9qGadNdyp+jZucu9ARzPFrKuJhV2f2ZrDik+Lr+vSusH71Bmahi0Jwar7mwfm5i1tpC1Yc0SYuD5L/EOA5vZfXZpmW4gOsJtLpGXX96i3/87WyJiUlxsUhe/ddAqBFrUit/12GLdQ3pKyB4jgjRF8cdfoCmjJUmYj+5mprMPoH4nr5OwP1esTv/hzG8/IIi244OPGiMEjSH17FME/71qth8=;c7C6fBfV/IxDSS5mYs6l7A=="
+secured: "y80TgMJYMuxKeAOc2AA1sxZKJnFD1ovjNwqjzI7SEC+8y32oYHZ7syeB7bXbHtz6TaaUXDrnrE1lWaFzJq6HRk+yzykCk4LNjh6aANC3U6/m5IfDqhSTbWehrQOKPaMI9IUpU0nq1folubU9OQX7jm2PYiTqH1JgoTXI7V4VXbw4kPftf7de6xSHyrqMwTzD0CLzY4n7J4tPu4KZWoUN/2obvpMHMU2ycHFDcOJ/E+adauuTo6sIx4V4TKPdAgKwyupTpMi2CMVuff7XFrtf3fRQy/yEY8pu9PcdwuL91PLT9WRFDlb8+IcJDMrtPS+gIfLWiAOOJxo/UjGPvWQ6nsmGD7/zzwdA8OFx00GBr5A=;sxgg6nnjnXcS26akajYD/g=="
 ---
 

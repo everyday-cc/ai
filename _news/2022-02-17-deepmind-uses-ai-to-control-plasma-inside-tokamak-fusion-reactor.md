@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion"
+    excerpt: "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,"
+    publishedDateTime: 2022-02-17T15:02:00Z
+    webUrl: "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "DeepMind is a scientific discovery company acquired by Google in 2014 that's committed to \"solving intelligence to advance science and humanity.\" Together, they have developed a new magnetic ..."
     publishedDateTime: 2022-02-16T21:57:00Z

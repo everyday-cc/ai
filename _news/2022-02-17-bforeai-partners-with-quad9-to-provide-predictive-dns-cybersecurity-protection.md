@@ -49,6 +49,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
+  - title: "Arista NDR Named \"Best AI-based Solution for CyberSecurity\" in 2021 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
+    publishedDateTime: 2022-02-17T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arista-ndr-named-best-ai-based-solution-for-cybersecurity-in-2021-artificial-intelligence-breakthrough-awards/article_e8a45d5f-704d-5e06-a2f4-00e4135213e1.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "SL7KAyXX+zRBfmXd5oOK3YjoRTtV29L3vw/zjh5weWRDb6ls0uxXWvBTQ5ztXl618fTaEajh62hGVNlzSqtwt+4Rm/ZRhujLtKmPIAMiWTu6pkJDQPNDU2KwIu2gNLp4onZX7tWIU27kbwf3GsJyAdbIFRi2vNKXhQr55hrPI77kxYBXSzA7pAolGz98toKc1qGPjzFaC3+g9npwX98eH0K3IQKs9IFinaKi7CcQoE0cFinCSK2fb1cIW/EaUIZI7pOTugg6lWC6nBghwUu4wcQWOjyagIH9C/azTyFkoV7dgHujM20K0UJPnwNMW9kh3Aobu2pVyZ1s2kjTupF+8/Jb7DrYLv71rAVAUjO705Git2Uf7kx+Gxu5PHp2twBTv6UbJlBNS3aAq59JeJF3hSEwqLjU13gy9PtRYkep7daR6zEEXBHVe025sWWq2KrFgE1SXQVNLfXmokVfp95bxTttSAwd8EvOmMr/LK/4exVeeGIEmQg8/DAVQOMdYmRZpbxAKprX6hBzPyTYlhXpVw==;I7HjhIRmBOMG5IjjR1tKHA=="
 ---

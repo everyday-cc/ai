@@ -465,6 +465,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-11-dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability.md",
+      "title": "Dynatrace transcends multi-cloud serverless for near-omniscient observability",
+      "excerpt": "but of course it means the application of Artificial Intelligence (AI) to the operations (Ops) functions inside modern cloud-centric IT departments. Why the aye-oop AIOps clarification?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability",
+      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2022/02/Capture-1.jpg",
+          "width": 580,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda.md",
       "title": "Reduce costs and complexity of ML preprocessing with Amazon S3 Object Lambda",
       "excerpt": "Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. Often, customers have objects in S3 buckets that need further processing to be used effectively by consuming applications. Data engineers must",
@@ -669,10 +712,10 @@
     {
       "path": "_news/2022-02-09-techscape-surveillance-is-now-just-a-part-of-daily-life-for-us-citizens.md",
       "title": "TechScape: surveillance is now just a part of daily life for US citizens",
-      "excerpt": "In this week’s newsletter: from seeking out mental health care to filing your taxes, being watched while doing even the most mundane things has become dangerously normalised",
+      "excerpt": "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
-      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -691,7 +734,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
-      "publishedDateTime": "2022-02-09T02:45:00-08:00",
+      "publishedDateTime": "2022-02-09T04:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1421,59 +1464,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-5-ways-aws-robomaker-is-transforming-the-robot-programming-game.md",
-      "title": "5 ways AWS RoboMaker is transforming the robot programming game",
-      "excerpt": "5: Giving educators a machine learning tool Amazon revealed a new hardware product at AWS re:Invent: DeepRacer. It’s a 1:18 scale race car that uses reinforcement learning to teach it to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
-      "originalUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/11/amazon-aws-deepracer.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
-      "publishedDateTime": "2022-01-30T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

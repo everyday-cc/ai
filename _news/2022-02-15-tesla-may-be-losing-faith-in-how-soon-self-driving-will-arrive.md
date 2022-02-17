@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg"
         width: 292
         height: 256
+        isCached: true
+  - title: "After recalls, will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
+    excerpt: "Tesla CEO Elon Musk is again promising big gains in the EV maker's \"self-driving\" software. But regulators also have their eyes on the feature."
+    publishedDateTime: 2022-02-17T13:44:00Z
+    webUrl: "https://www.autonews.com/mobility-report/after-recalls-will-feds-frustrate-elon-musks-plan-make-teslas-self-driving"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
     excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."

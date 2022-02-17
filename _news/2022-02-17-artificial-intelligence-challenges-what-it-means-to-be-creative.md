@@ -8,8 +8,8 @@ webUrl: "https://www.sciencenews.org/article/artificial-intelligence-ai-creativi
 ampWebUrl: "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp"
 cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg"
@@ -41,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "iW0WwiyLoxeR1MI+Z+Thu9wj6IjFWed+fDenINUvi00EEjLixnoULqiQRPKBTfniTJFQjPsNhkQuVPeQWHQqrXQzS1OyJERuwy+K5lpUzydcztovgytK6cdjA8YrgDNC8DJ7aiHSnOrhBqxw4qBSb1FPPfR4LmzJ3Fhh1JrzoIOuIUEXH1v/Sq4zM6lUKO0A9J+zEQuyDxKLAfOfDlzteLxhjWEqZzjSgTR/SMZCk6ux0YRGlU2dpz+7uadlKow/IIYjqmCU3pghbxpoGd75JjWGjGZGNE5bhMuW/nByYHcsYv2wdHfuCJbIxsETlKe5z2IMyYOIHDJ9kvUmytD+wXJa0psoEVgZWaDJUmfoyR8=;nFKkNsHkgakgXGA+3U28AQ=="
+secured: "nMHQXXgnnTAmDjkW3wrVgEcXxEXmPKR6Bpppcv+0YCC20cM/5+L222bzAbYAU6DUYsyy5S7lGtw0FDrpJa7vG/vZnzytf6/SyDNxh78N6TftgFKM1M38+YgmnkSJVWt6K4pfNmv0lfqP3K28VICNDs5jwTeMz2pCkqgkHtA8rVZXQRoZC4K/occdFPAKFzmDttsaheTZY4ZS3/wlztLG8vD8DLVwTIzuCYbR9MCnsq0lBgsaskRIzi7AmivKoW8TAsMxttLc/8GSr33HO/DQnJEfp8hqY0fVtrIyh5IdQzpQxZxfi8a0CkpcTCjRUweEp3Pg5KwuxbCZz0lBaaAiK7tGI9j72H3NLhYwp8olLDQDm0eaJN0RhYKnVkoJFp7VqQH8Cc/aUT8MscNfyW6dygAY81riHkln3LlX7esuKRqfrmV1JBziGff/ceHxlHs2sFDIGDLyeekpZ9YdexGBOgzX8lMnZGgMwUd2mk4t1k0EmrF1U5uOfGsAwG5qoK5Hvco/FcLl9ml+dtRtq9Z5BA==;67SO+CoafTHiM04Q8BM21A=="
 ---
 

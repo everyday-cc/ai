@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Overview, which is developing an AI-powered visual inspection platform, raises $10M"
-    excerpt: "Overview, a company developing an AI-powered visual product inspection platform for manufacturers, has raised $10 million in capital."
-    publishedDateTime: 2022-02-17T14:00:00Z
-    webUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/"
-    ampWebUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
+  - title: "Akkio updates no-code AI platform with Snowflake integration"
+    excerpt: "No-code AI platform Akkio has announced new product features, including integration with major data platforms such as Snowflake."
+    publishedDateTime: 2022-02-17T16:30:00Z
+    webUrl: "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/"
+    ampWebUrl: "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 81
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/machine-learning-programming.jpg?w=1200&strip=all"
+        width: 1065
+        height: 600
         isCached: true
-  - title: "AI-powered platform improves construction-site accuracy"
-    excerpt: "What’s an earnest contractor to do? Tel Aviv-based startup SiteAware, which just raised a $15 million Series B financing round, offers an AI-powered Digital Construction Verification (DCV) platform that creates a “digital twin” of a building under ..."
-    publishedDateTime: 2022-02-16T07:56:00Z
-    webUrl: "https://www.israel21c.org/ai-powered-platform-improves-construction-site-accuracy/"
+  - title: "Startup Sway AI Launches No-Code AI Platform"
+    excerpt: "Venture-backed startup Sway AI has announced the launch of its no-code enterprise AI platform. The company says its platform allows AI solutions to be built and deployed quickly without AI or coding experience. Sway AI’s patent-pending technology allows ..."
+    publishedDateTime: 2022-02-15T23:58:00Z
+    webUrl: "https://www.datanami.com/2022/02/15/startup-sway-ai-launches-no-code-ai-platform/"
     type: article
     provider:
-      name: Israel21c
-      domain: israel21c.org
+      name: datanami.com
+      domain: datanami.com
     quality: 37
     images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2022/01/scott-blake-unsplash.jpg"
-        width: 1600
-        height: 900
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/AI-Agriculture-shutterstock_1134863141.jpg"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "fdxvZBaGlk2DmYY4ExdfKIFRIkS5NOm/hYQZMscGAO5yKM/lkj4rdCPrXXUkqz52niKyh4QAW5seGQZ5zQib1+SSlZKFPxsFhEBlYjbQzvbsc9MSz50Gs+9jBvtaAI6f46mOt/s76F9hZn5xK842K+HYhZCOEerzQrpvWUKAh7rPny9gcuXLCkHOeG40gkdfjsHqPEzFraAjeOtDBZ+y1sBTsQEWjNPT+sEmVVa/lGOOkwH0ZYQdkC7RWTkJHcfiEyGdIPJ4Qq/nkDVNZ24b9rXTEQQTA8bYAP9O2GROKOU6iIYa3mkJ3C2puYmCgjp/aNsf0qKp/pwiUb0Blgj1EK3O7URCXM5SYEbp+VYcCekNgK5J7UwVG+90w9Xdj1smYo5H4CZjnxK+d4e+SnvK9ZZsApqEEgkspyp1VMn4TG0nhkVo2T3UfBed9cPDUXBCYLK82ExCQEvY8Q4nFJjAGPH5CikJo3pRfLHIuoZi5E3RKlizXhlOjQKrNjKBKqdUv30fqiDtdeYSLvRFiFfiDA==;cdMK/lU7HhZViIpxTmSkow=="

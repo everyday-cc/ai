@@ -54,6 +54,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Facial recognition firm Clearview AI says it will soon have 100 BILLION photos in its database to ensure 'almost everyone in the world will be identifiable' and wants to expand ..."
+    excerpt: "A controversial AI company has announced it aims to put almost every human's face in its facial recognition database, making 'almost everyone in the world will be identifiable.'"
+    publishedDateTime: 2022-02-17T15:04:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10523739/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10523739/amp/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10523739/amp/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 21
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/17/15/54320011-0-image-a-6_1645110617174.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "oEY2H7VfyQ5wmM/vYtb1u7hyMZtwDcNE+5q/qSCD9q8lx2SZkK0n1yJtHhEg/jCzHpuHQ15UXrEHOgBhZ8nonNR7Wg+F+/WNx+mEYzfY2WSsMDjwQE59uPKfzLCAn02HlCFZJ6xFuYe8iDqR2lx7hZDvF2Mo1hh3dXshJYEuk3w7Is6Ni0xfSTG3dp54nCcZiOclp0dDKsEPU5VKCzMzGlA+onWACNzA1EZ+WfW91BGTIrU2vzyj+SZ30gHVX/QSjSTDvVoOsMIR36p5zqtImvV9o3elWHIm0Eg+59sU75swOGKTCVHTYmMVrE782UzYCFbodTdhEQsZ//GUXrbfyvdJsYujsKpV8f2ZmghrmUFfhWvOXMBny0PemRT0/ERgMhlwk8ASf+Ig+lxw8kYalqTICu6toXrKXIrZoCX2oqPqB+gO49XQ3L1L5D7DCpFSM2tl31YE1tHvDaX1+dziPocOdtqxxsP6KXfRYpsgxztWKbO/46i2akAk+WPCGG3TeY59/EI1/+M/1na8D4FfHw==;uo/3Q7NORoHDmpRoOvYMpw=="
 ---

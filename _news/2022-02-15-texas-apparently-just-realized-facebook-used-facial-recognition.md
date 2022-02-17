@@ -3,8 +3,8 @@ category: news
 title: "Texas apparently just realized Facebook used facial recognition"
 excerpt: "And now it's suing. Issie Lapowsky ( @issielapowsky) is Protocol's chief correspondent, covering the intersection of technology, politics, and national affairs. She also oversees Protocol's fellowship program. Previously, she was a senior writer at Wired ..."
 publishedDateTime: 2022-02-14T18:05:00Z
-originalUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
-webUrl: "https://www.protocol.com/bulletins/texas-suing-meta"
+originalUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
+webUrl: "https://www.protocol.com/bulletins/texas-suing-meta?share_id=6912318"
 ampWebUrl: "https://www.protocol.com/amp/texas-suing-meta-2656661461"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/texas-suing-meta-2656661461"
 type: article
@@ -525,6 +525,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "uJCX+3XtpBcDgIMUps8cAhOnofScl8p74NVN96wMKfG78mKZ3+qOSranixcQZgqIH+eYYlXxsN7cYm+6gI4nbyq4dLgwzjFyaxC1m8rQdtfieef4NbdXIagb6rAlG2whXk6nqlO+AON8DxVaaHKPft4rPDQoZcZ+SW5bC0Tn+wp8JIpOAfrGe1CtA1UFe5evjnRpUCpBr/xB3S3LAdj53/TW+Aa67k2wW7ecbVIj8xBGp2rWFQzE4yqSrDXoisk0dzXqxMPTxC7ULG24FS1RWf0vGXBYP2u3JZQ/0gpxIqkPUSZR2NZyH2tNTWE3s8lMlopsmUnrWAuPIsL5NXQh5KTR6J71SitG0/ohw2s/IXM=;kRZK5g9NSPOXGuhYBIGQbw=="
+secured: "Y/ex0fYzjZqKV5hkw8RPdFk2mYylu3BOEgfctY9xvqBlMIX/0Kk0pRTqKYb+g9lH7fJS4+HHnMSMsvVT/sB7oW7Bc4IVB8QeUZDEvRLhqAe0g9+Jpx4PUBZxjn/IwQixaTgy4r95gvUiSTDAuQKtmIMUjrffVmYUn2VhGTxDfRfsJaPv6TkUNngB1nRoCj8/UHR+wUl4wOJbz10HuFictRhDUN4JvWGE8fwF1E6tsDtf6JH3MGM3CnW96am+QCECkjXu+iMvKWNqnUenT21XEtX0HyRhfGPZQmvvBFAeRrABKUv1slInHRFCtZV1OfHStOOdT17BoFq2zwDS8GaeJbvWgM91yVbcS2SipoWgfrE=;GzbIH88QHPDCVoX8VEEVIQ=="
 ---
 

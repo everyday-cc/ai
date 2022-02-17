@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/kenrickcai/2022/02/15/uniphore-series
 webUrl: "https://www.forbes.com/sites/kenrickcai/2022/02/15/uniphore-series-e-largest-funding-round-for-call-center-ai/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automation startup Uniphore turns unicorn with $400 million fundraise"
+    excerpt: "Uniphore, a conversational automation startup, has become the eighth unicorn of 2022 after scooping up $400 million in funding at a valuation of $2.5 billion. The startup’s Series E round of funding was led by New Enterprise Associates (NEA),"
+    publishedDateTime: 2022-02-17T16:45:00Z
+    webUrl: "https://techstory.in/uniphore-turns-unicorn-with-400-million-fundraise/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/Uniphore.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Uniphore, which offers AI-powered call center software, scored $400M at a $2.5B valuation"
     excerpt: "New Enterprise Associates led Uniphore's latest round. As part of the investment, NEA partner Hilarie Koplow-McAdams, a former executive at Oracle, Salesforce and New Relic, will join the startup's board. Uniphore's software uses artificial intelligence to ..."
     publishedDateTime: 2022-02-16T14:32:00Z

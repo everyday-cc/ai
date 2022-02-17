@@ -6,9 +6,9 @@ publishedDateTime: 2022-02-14T19:49:00Z
 originalUrl: "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/"
 webUrl: "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: FedScoop
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
 
 images:
   - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2019/08/GettyImages-667849954.jpg?w=1200&h=500&crop=1"

@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-17T09:23:00Z
 originalUrl: "https://www.galvnews.com/news_ap/business/article_a643da2d-5b49-5160-add6-9a6aaf20a8cd.html"
 webUrl: "https://www.galvnews.com/news_ap/business/article_a643da2d-5b49-5160-add6-9a6aaf20a8cd.html"
 type: article
-quality: 21
-heat: 21
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
@@ -35,6 +37,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "k3r39PDKhfM7QaNlRVVqEoqrPlzK88Krhocg/skQHLdhwQuhtTfuv1koa7ofj1hM+Ag/3upb3mfNK8XDKgIg/DlypbIgYLqkPIToGeRcfSny11NLGAec35h44uBTdhlCt+XpoVIDARor0TC8S77GBX0htC8bDK2P739Md/emBmtzqV0sD3qJ7QLjhGWc0QfwiNRVEl0yOWR2rNoSXfGazH+ra7vbTG1uZIgoARC7NeR+hC6bpEg6Vwyiwa/UGwk24RyT75oGGNTVip11A8WMz26K0Wy2Q3/QK9Hz+L69S8ujCEAZTw/PAq2cN7K1WYEakz/8vx02WesMYJ7PvQ/+GGRC2wWpVlnxJGlTVdXDjXY=;5UXW+sGekFDrHel6rjzHeg=="
+secured: "lKoq5+2M68EK0+ETe8MA6o9hNaoQuJ4Z8X2hCH8cXx+1bzgE+2AsoXKyGjm9LZcY64at4N8RIGgyA2aWTOQ+Gr9B4fQhn38NYMMW8ieItMzFVeSZznRYyzL20zY04Mte10FfdwVi7+6Tw884vf0atvuXvEMqgzIJKpzrYFU82FnrTtqT4N49O+Yl41vvFiVZOeqpHgnWyEefxASubOtoYW8N64NQjM1SiC1P06CfvZnDkr14wg/zMFGR6kS8RJexcNT2LgBG/jbN2W+uUY5MWqrlGPvIrVLKrONNPAIifU9sT4pDdQiVfWnY/6RguhMQOFAkYtlNs3GbqfZX9IlZH77llssC4xgLhrq3V5ItKnwKdXK1kxBd854beR8Oab+HZ8h6H7snUO9P/rG/l+LXSXHL6xvLJQQblDn6SAWxip6wqMmHiJ0c5Exbd5QNGQ+r2+B4qF3xTGCsXgFtmBVRjoL4OU/Cbp6ixx6Uv7ibP2VqL/m5iZQdGXxozGiMF4pdrL/FpCivSHPJAPh2hVOeJw==;uIZIOAZIrbfuAlphppZdug=="
 ---
 

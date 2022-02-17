@@ -39,7 +39,7 @@ related:
     provider:
       name: Science News
       domain: sciencenews.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg"
         width: 1440
