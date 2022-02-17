@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "New Yorkers in high stop-and-frisk areas subject to more facial recognition tech"
-    excerpt: "Research also showed that in the Brooklyn, Bronx and Queens boroughs of the city there was a direct correlation between the proportion of non-white residents and the concentration of controversial facial recognition technology. “Our analysis shows that ..."
-    publishedDateTime: 2022-02-15T04:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
+  - title: "Bill seeks to restrict the use of facial recognition technology in Colorado"
+    excerpt: "Colorado lawmakers are seeking to restrict the use of facial recognition technology in the state’s government, law enforcement and schools with the introduction of a new bill."
+    publishedDateTime: 2022-02-16T15:07:00Z
+    webUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.html"
+    ampWebUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
+      name: The Gazette
+      domain: gazette.com
+    quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/ea80a6c087fb01fc7b95dbe9c5c79576ae4595b0/158_0_4682_2810/master/4682.jpg?width=620&quality=85&auto=format&fit=max&s=5e134d9fbff44650d7e377361442b743"
-        width: 620
-        height: 372
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/42/f429b70e-78d0-549d-85d2-6831d5f8bbeb/602c090ca6e96.image.jpg"
+        width: 420
+        height: 241
         isCached: true
   - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
     excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
@@ -57,19 +57,47 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Racial Minorities ‘More At Risk’ Of Being Spied On By New York City’s Massive Facial Recognition Surveillance Machine"
-    excerpt: "there’s a very good chance your face will be captured by surveillance cameras and run through facial recognition software. If you’re in a predominantly Black, Asian or Hispanic community in New York City, that chance is even greater. That’s according ..."
-    publishedDateTime: 2022-02-14T23:00:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/14/new-york-facial-recognition-surveillance-puts-minorities-at-risk-says-amnesty/"
+  - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
+    excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
+    publishedDateTime: 2022-02-13T14:10:00Z
+    webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
+      name: Bar & Bench
+      domain: barandbench.com
+    quality: 26
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620ab71d7ae909a86b686c72/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 483
+        height: 675
+        isCached: true
+  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
+    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
+    publishedDateTime: 2022-02-15T15:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-data-collection-labeling-market-surpass-us-9670-mn-/2022/02/15/9545848.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+    images:
+      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
+    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
+    publishedDateTime: 2022-02-15T20:02:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/02/15/9545848.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+    images:
+      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "was39usPq8OdwuHPukH6/VNfgAEQ6T+/P2uJ0Ew1iNZosjszuYphsP1oZOi+tK/wNEHO/4c/GIpAC6pEcFcGCw0NB2KmJBbPfqX1iQzyBG5+X3iSpYtVefRD5U6r44cKmrBUaO1A2pyctBIIlYQF2GMgL5DXx5veg3wKpXuoSwI82to67zMJd36qBooAjaTaah7zI873NAmBiVsHOuba7M44hOI+htpm2R8q0XsnODYxIFJkhlBurVjK3IpfzC4OhY2SZIAZSTE4xOXw2Um6evX49W7se/V6+AqZf+ko1Gws51DVspcEGCc+Ao7b929EH9wn0PdaKYuHPqJJjPx7DWkLSdTzy+peLSuTQ7wCJ03Jt+cliSSf0PY5sAyd4Yu25LPQz8KJhI4ABpbjs3ZX/dIX8JIKmWQ6sB2JgffwbxCjQVoFdWtXSDvm/HoWxJXDjTLcuWuY1/bI4nhGP1yKZnq16Onqll7T9YH7hWAjrN0TswitdTR6514GG2ttrxdx5FQkYKojh+WcPfVRdHjC/A==;TCBZ6nol6drIpVMoPi2LjQ=="

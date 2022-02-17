@@ -28,34 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 14
-  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
-    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
-    publishedDateTime: 2022-02-15T15:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-data-collection-labeling-market-surpass-us-9670-mn-/2022/02/15/9545848.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
-    images:
-      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
-    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
-    publishedDateTime: 2022-02-15T20:02:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2022/02/15/9545848.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
-    images:
-      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "C9KNWo4YTKk4M2toVn+8i/wYe5QKVLwOILPaPr6y8nbHOzIPPT2Exips1fuwSIeUfb7ue4WNVs+812GRZEicetrx9mvXgrwnGJoA3Q/RuCt7LGWFGV0iHIqhT9NFfalKUrPacv6tVTnNAitEea+VrDRVZ9AM4ki6+XsXcdgIIju+RAOusxqYG8KltY0tLrDO69aDzJQxkaiSXDcoKrRTJp8AuM4Lzh9ZScbxKwWFRFWzE/7RRaEjTQ8VEdf2A9iut8XuKAMqu2SAoAUeISl45rttZUgUTCqNqEapGGGWkn0aJSbCoALmy7DKpFezRnES+NC5HNG3jzjgxU8zKYnM1is8DhK7h0ktoPKXORUri+vBqXMZC6uT2TvV32IYnsRhUcFQpSIm6ckJt8WCARO1vpukGttfS5RKtd0kyesLlttvVfx6RFi9UEH8i9oYb9t5sfGwabR04+yKOivyvt+d1SkOPbnZBDaFHaw8cD4BYZ12gFXJmnddkOwV1wnCh+KNfemWps/VenddvmDWJgsMrA==;4qyfXXmv8PeWCucbQi++WA=="
 ---

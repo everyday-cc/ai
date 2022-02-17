@@ -2,14 +2,16 @@
 category: news
 title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
 excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight ..."
-publishedDateTime: 2022-02-02T17:46:00Z
-originalUrl: "https://www.statesman.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
-webUrl: "https://www.statesman.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+publishedDateTime: 2022-02-02T17:37:00Z
+originalUrl: "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+webUrl: "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+ampWebUrl: "https://amp.azcentral.com/amp/9291341002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9291341002"
 type: article
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI in Autos
@@ -21,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "iYB4dE9WjmSG75O9nCS0OJ3+rOxcMl0O03+IcYoHmo+a4h41Sobc02Al9xSnxBbhhVsGI8Xx2Wd0CL2ZtfVa/zh39pi7wJsc2lRxFNqTFWSPdWuYU8Pfa0IS/FmACRt4P2zd3ZMyWtu/A0fVyHEogRr52y3uUFT9/4WirDOsDt47aGnHM7xc5BSBCA2P98GsZdaPA8LeXMLxYvoL4NDCxrattHEnyJ+rpb37IGMnWzXL8nRebF/pOaE+8wAMc178IBjahrebOOtvgilO2obv+NTXSUQVcqn0F6zMH8c6Ph12uu9ECroob/CFt/4Uln47WiENULLHjvLGhZS/RhESjsOTVsT0/2n5rkmQEjHkA1k=;JKyuRGVcTChZUkAVQLPyvA=="
+secured: "NBcnGOjvhSs8OHjvfoCkc/Cp3x1IN3qSz4T3fNZh/Iw+wlsZ9evByAd59NPdeVUyoDuZpEcLSNrcLDxQMHw16iHEA/yoKyFZxd5KpBv0Ic7GrOWLT/E+ExOUo2C9x9n/5/RoHTB4cKQYtnQLqKnrzEyrN4106aunKgErWR3PbMlsoLVbQDI9PgGVGF8WdS4JBTkTAW5uruS8fLeB7/zvNCc94ofpmP2bF2i98/BIXAkaH3MaNtJ4ZMHFC2in+VPxzshYXWRZ9mtQUVX5MjTh81MeRBsGK8PWq9y8mi0kDAiDgX+dORs13MVNYw2t6N2E7F20FbNV4D7P5iAnj/wbPkGYGhr73Bw8LDBrhQvXCmo=;qcYnnvP0FvLYUgOmzEN8gA=="
 ---
 

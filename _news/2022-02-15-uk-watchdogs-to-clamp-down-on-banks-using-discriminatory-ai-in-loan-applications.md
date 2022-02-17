@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How artificial intelligence speeds up application delivery"
+    excerpt: "As the world continues to grow more dependent on artificial intelligence (AI), it’s no longer a question of whether to adopt AI but rather when."
+    publishedDateTime: 2022-02-17T06:45:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3Ww7dDbJY7rydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3Ww7dDbJY7rydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3Ww7dDbJY7rydZ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/7GfP63fNeE36LAAfhBRTanQk_eAKZCaAbyraYlUlv4-C1nsFCA7Bz36kHtfPdp851M95yqKkZvjTwTgv4To8ytIj5uzIo5PZzmY=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
 
 secured: "3dVI6LWxA2tI3K8R98nrnaiRCUu9D13MKX7RXwAd0YL+LB2WPRsuBwRC7165e/CmRN/OBv/cbeW6exkYXzKVaJpz+DHNCeS3Xte/0diH8K3yJdAOAhDrXoTDlpwX7sCqDwTVlMQIbcCgDOtLki89hZ0aAesXpwNfxyj+nPHiNUfGv7Fv/A70BB99GBIDb+LrOQZ+llmGFTIp2Rjar/x/gsNwyGGMQJMuzZJiQ/g9/AvC2KEuQOweNpbnZrgf41x8KTtG+8gN2H95acvd0fj+7Dr4HJMtoueroHzjTM4ul+kzpXu34XXyd+AthCSg5EFnDhRb0cTNj/JaBH9pWUilAFezSx/xLn1XoNq6kQRTE4ENN0eCxH7eWtIfgXZfmoQF8j0k9b4SpF9AFNoi6nKU/haKfaD7NY49RVQPSSmxTYFXRZ5k5/1Zj0gZ5DzxFaVZmHmND6dCtD43SxNaBCOIEvaiuidZBoqtmPdcmE+94W7nUFxfk330MVj9bPlODNyOCi4UOEMvZx/YsExJdiFO1g==;fmzmWqQG7POTU3PfROXc/A=="
 ---

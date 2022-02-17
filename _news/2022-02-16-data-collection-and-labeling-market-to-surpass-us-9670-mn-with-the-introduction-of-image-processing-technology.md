@@ -25,15 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Carta Healthcare Announces Successful Completion of the SOC 2 Type 1 Examination"
-    excerpt: "Carta Healthcare Inc., provider of solutions for common healthcare data challenges through a combination of people, processes, and artificial intelligence (AI)-powered technology, today announced that it has successfully completed a Type 1 System and ..."
-    publishedDateTime: 2022-02-15T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-carta-healthcare-announces-successful-completion-the-soc-2-/2022/02/15/9545680.htm"
+  - title: "Bill seeks to restrict the use of facial recognition technology in Colorado"
+    excerpt: "Colorado lawmakers are seeking to restrict the use of facial recognition technology in the state’s government, law enforcement and schools with the introduction of a new bill."
+    publishedDateTime: 2022-02-16T15:07:00Z
+    webUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.html"
+    ampWebUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: The Gazette
+      domain: gazette.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/42/f429b70e-78d0-549d-85d2-6831d5f8bbeb/602c090ca6e96.image.jpg"
+        width: 420
+        height: 241
+        isCached: true
+  - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
+    excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
+    publishedDateTime: 2022-02-15T00:03:00Z
+    webUrl: "https://abcnews.go.com/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Virginia lawmakers move to end ban on police facial recognition technology"
+    excerpt: "Virginia lawmakers appear poised to repeal a blanket ban on local police use of facial recognition technology, which was among the most stringent restrictions in the country when it passed last year. The law, which only went into effect on July 1 ..."
+    publishedDateTime: 2022-02-12T15:32:00Z
+    webUrl: "https://www.nbc12.com/2022/02/12/virginia-lawmakers-move-end-ban-police-facial-recognition-technology/"
+    type: article
+    provider:
+      name: WWBT
+      domain: nbc12.com
+    quality: 37
+    images:
+      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/bUDQEnqisCWKMDDQMnSlfv4S_dc=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OMEUUWDHDJA2VKPNJNCARSL2YI.jpg"
+        width: 980
+        height: 654
+        isCached: true
+  - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
+    excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
+    publishedDateTime: 2022-02-13T14:10:00Z
+    webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
+    type: article
+    provider:
+      name: Bar & Bench
+      domain: barandbench.com
+    quality: 26
+    images:
+      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
     excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
     publishedDateTime: 2022-02-15T15:42:00Z
@@ -48,15 +99,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Amperity Announces Strategic Collaboration Agreement with AWS to Deliver Customer-Centric Interactions and Drive Product Innovation"
-    excerpt: "SEATTLE, Feb. 15, 2022 /PRNewswire/ -- Amperity, a leading customer data platform (CDP) for consumer brands, today announced a Strategic Collaboration Agreement with Amazon Web Services, Inc. (AWS) to help support digital transformations for companies ..."
-    publishedDateTime: 2022-02-15T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-amperity-announces-strategic-collaboration-agreement-with-aws-deliver-/2022/02/15/9545582.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "5vjqrOO1TA1wsZN/UiEuoTokqp9tO/IKPJq+4rt8LE1GndOGo7+mikCtyiJ25Hy+muI6Iqex5pXE+gGSTaDvHHKjmoXlR5XQAkyYHRcWAF73z5Bu4pqHtV2HNeU0AsX1ncRG6Zm+h/CekkvYhixz4Ysb6gTEh+je0JuHxo1dWAOXQLKFRsipPOYIGIIY8hFKq+wzrj6kV2DJxSzOe6XrjADC61nSCeYaTqOjGHMEt8CgyyRy6q1z4rJpx9mmg/WwbMsRDkWDj3MRm7Sk5WAXLtiMimkSjXIqbr1dAAE2KqjoZisyc5EPANgJVUNNQagiK5pMvBc2kv8h9RYLa+9Cc4K9Qla11GbAnGXvYbK/bfU=;UtEwCb6GAf+ATjeU+9KlPw=="
 ---

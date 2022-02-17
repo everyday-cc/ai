@@ -59,6 +59,22 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "DeepMind's AI helps confine plasma for nuclear fusion research"
+    excerpt: "Across decades of development, scientists have been pursuing nuclear fusion technology through endless experiments, calculations and simulations, trying to find the optimal mix of conditions for atoms to fuse and continually release huge amounts of energy."
+    publishedDateTime: 2022-02-17T06:22:00Z
+    webUrl: "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/"
+    ampWebUrl: "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 104
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/2582d7a/2147483647/strip/true/crop/1160x773+108+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F21%2Ff1cfe2dc482c922f9c65d5688776%2F1376x774.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DeepMind uses AI to control plasma inside tokamak fusion reactor"
     excerpt: "Fusion reactors promise cheap, abundant and relatively clean energy – if we can get them to work. Now, thanks to artificial intelligence firm DeepMind, fusion researchers are one step closer to extracting power from plasma hotter than the surface of the sun."
     publishedDateTime: 2022-02-16T16:00:00Z
@@ -90,22 +106,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/epfl-and-deepmind-use.jpg"
         width: 1107
         height: 622
-        isCached: true
-  - title: "Deepmind’s New AI Code-Generation System Is Now at Par with an Average Human"
-    excerpt: "“AlphaCode achieved an estimated rank within the top 54 percent of participants in programming competitions by solving new problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding ..."
-    publishedDateTime: 2022-02-12T13:22:00Z
-    webUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/"
-    ampWebUrl: "https://beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/deepmind-new-ai-code-generation-system-at-par-with-average-human/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 71
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2019/06/artificial-intelligence-ai-vision-touch.jpg?w=750&quality=75"
-        width: 750
-        height: 500
         isCached: true
   - title: "Google's research lab DeepMind built an AI for nuclear fusion energy research, helping control gas as hot as the sun"
     excerpt: "DeepMind was the first to use this particular type of AI in nuclear fusion research Before we get into what DeepMind actually did, it might be useful to familiarize yourself with the experimental machines being developed to try and produce nuclear fusion ..."
