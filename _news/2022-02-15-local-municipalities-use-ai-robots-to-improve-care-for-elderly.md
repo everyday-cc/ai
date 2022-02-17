@@ -3,8 +3,8 @@ category: news
 title: "Local municipalities use AI robots to improve care for elderly"
 excerpt: "Among the various AI robots which can be found inside of stuffed toys ... Soon-yi is a wristwatch-type product made by DNX, a startup company in the Yongin City Digital Industry Promotion Agency. After DNX provided the products to 111 elderly people ..."
 publishedDateTime: 2022-02-15T03:52:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/281_323917.html"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/281_323917.html"
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/113_323917.html"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2022/02/113_323917.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 536
         isCached: true
 
-secured: "eBwPGJ8UfOewrEYVJtMUHNiBbyo9MQAmjPmFH8Z4TikFXljR/thFEdWIZAByWE2ME812j6BfINWRdRLIVxEFQBu7JJtzt+RW8WSa+HtUDy7kN/BIvO+KBURmzQEW07KzKXDSDomx7EDHKIuxktTJVJHJIm3Pvflnb8xkJdjhyU52VK6TTgiNI/hA+pKAqIQQruULIxD6Ns6JRJhqOCB312kpAVTjtz32JV1av8zH10LqzRJYq9ZSCovgK5cS/ZoOSfA/VC0gE9Ltuj1UDDZV7dJTtrARxRGJhapDLVIK3qXT3o6pZpEn0rYl6FsstfsqaXyFrXGmVjilj0KUg8k824O64zGWii6dKr20JW0rF6xNzwQavTuRpTFTw4G9XaBN79j/74GdbIc4ZRsxUaPPS/LeM5Bm0pV+FRYqegUF0zoV4WV9uJIYvbCE2qKMYCZfCB10O/p/36FEBdrtSMwT4Zvbb0xh0wxO2eAmIORa6h+PbL6jRSUC0gw8wKVrKVDJNffCIB7GNTqRpglAz4ezNA==;dT5zk320jO8JUf4UfnMQAA=="
+secured: "OmQqm3jFycc1aA+GoeSdD0zAspWzKXO1zBW5josK7yji9JJw2hP7MSM3XIhhWo2g4BAn0oriu3P+igdsRSg6NtOVnw/peDKpcSn+WwMoiYAOogv4fC1vUwegZHIR5HfNCGUAA9QqLs2yO7piLUl7SeKp6ICGsYj426WOYI/TIpa7AES8et3+sqfFxYyPhTCRKSlVwhFVrD1ItoW7V0LbyO7bZrCLUbrr/20u69O0s06ZJHOuEXPnlmZSZC/uKpj+xlLVf+dHucThN8g6QR/68o+kT1X19p4HLD+cxKX7h3spzq1yPCRU1uJq5OGZjuT/NNmKDS1VBQKXZGd/Z7tcs0jN4RJG0lzwBygevuvYecw=;Nq0z75aj7uJun+Bu8KVz7w=="
 ---
 

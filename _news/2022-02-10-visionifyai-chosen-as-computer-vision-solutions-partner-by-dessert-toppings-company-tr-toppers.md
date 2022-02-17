@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Visionify.ai Chosen as Computer Vision Solutions Partner by Dessert Toppings Company TR Toppers"
-excerpt: "DENVER, Feb. 10, 2022 /PRNewswire/ -- Visionify.ai, a Colorado based Computer Vision company that provides turnkey solutions to its customers, today announced it is now a solutions partner for TR ..."
-publishedDateTime: 2022-02-10T14:10:00Z
-originalUrl: "https://www.gjsentinel.com/news/colorado/visionify-ai-chosen-as-computer-vision-solutions-partner-by-dessert-toppings-company-tr-toppers/article_c916bd68-02f7-50ad-88ff-1d084a0bb1a5.html"
-webUrl: "https://www.gjsentinel.com/news/colorado/visionify-ai-chosen-as-computer-vision-solutions-partner-by-dessert-toppings-company-tr-toppers/article_c916bd68-02f7-50ad-88ff-1d084a0bb1a5.html"
-ampWebUrl: "https://www.gjsentinel.com/news/colorado/visionify-ai-chosen-as-computer-vision-solutions-partner-by-dessert-toppings-company-tr-toppers/article_c916bd68-02f7-50ad-88ff-1d084a0bb1a5.amp.html"
-cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/colorado/visionify-ai-chosen-as-computer-vision-solutions-partner-by-dessert-toppings-company-tr-toppers/article_c916bd68-02f7-50ad-88ff-1d084a0bb1a5.amp.html"
+excerpt: "DENVER, Feb. 10, 2022 /PRNewswire/ -- Visionify.ai, a Colorado based Computer Vision company that provides turnkey solutions to its customers, today announced it is now a solutions partner for TR Toppers, Inc. The processor and packager of branded and non ..."
+publishedDateTime: 2022-02-10T13:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-visionifyai-chosen-as-computer-vision-solutions-partner-dessert-/2022/02/10/9543121.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-visionifyai-chosen-as-computer-vision-solutions-partner-dessert-/2022/02/10/9543121.htm"
 type: article
 
 provider:
-  name: The Grand Junction Daily Sentinel
-  domain: gjsentinel.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "TOvxqqHvuERp68hYKfWEVP9J69wqUML+Sk0uVPOyh2vhQifoCZPbbs1uLtm9Lb8UVTwnBoGz/4orKsmxzKWgIWI1O5TXwamNNHaF/2S6AdfXyiIi8GQanqFbSG33JN2RxaQxitjfLMEswm/oQGFyL5aI23jWpBSXCLCBBdSIIPI6j290A1/pfycQQfHl1NawiCDGhZkoNVZ1KH4hr+e9XaF2ECXMBXC9abtFMSbZb5Fajky8HRiuxyzz3qbCGsMKIyzWxxjGys3dGgBKxQGlhQW1HJY7aSApqI7jrOXGVO1iEYNxwUI9hIEuCeWxPRaiWbIQPIGLKpD9fyaHlKCflznxsoPxM24xcT4W84uGSJ8=;EOpaPaeoeW+xJt7L1Bjl2A=="
+secured: "wU0aZaoauj6/HWZwkIiYQ5ByPS5WgNXKpsKVr0qvbKwyxfkdtdfHdCEJQlfU/lsAf0SNSJFIzlvwayDgQylIjZIBAjOjSZQ6S9CbS/eCB3zlT8NPfAXERLIrJhMiS+BgbKvko4/2O//DJyxizyKO50AE5U8bMViznyojQtK09uD/N2FEqdS5l+KmQhJWdZpRlRI8nbIHQs6J5T/yrzhCw+GcWu0B16QWfBjgA35x2hXH/LUkzJ0lzpa6gIprdiskHpvF+EvolCbLxWiUcZuVY11ta/kZZUgOVI3sLhCP9Rt6jwWEWs/5RTVpFsTW46/CMbE+EmV+NW5P3HmkcjbHLuLWzb45DToc77P3ZkI7gAQ=;Ofh2PVsEYvoPumvKCSGIvg=="
 ---
 

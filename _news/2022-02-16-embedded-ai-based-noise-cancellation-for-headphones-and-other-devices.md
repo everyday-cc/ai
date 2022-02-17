@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/em
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/embedded-ai-based-noise-cancellation-for-headphones-and-other-devices/article_faa9bbf3-ee5e-555d-8e9d-0f72ebf0ef74.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Good Old-Fashioned Artificial Intelligence and other weird and wonderful AI trivia"
-    excerpt: "Inarguably, artificial intelligence has become an integral part of our lives ... but also in decision-making and robot-assisted surgeries. For example, at the Stanford University Medical Center, Dr Elsie Gyang Ross and colleagues deployed algorithms ..."
-    publishedDateTime: 2022-02-12T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/good-old-fashioned-artificial-intelligence-and-other-weird-and-wonderful-ai-trivia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 50
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/ai-trivia-v_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "8EoOwM94OrgLD7xXqBgKD7haMtu7SuklQCEILfVWbw+ykSRF1GIeFf1GQ3+mey7aJTxaQu8Xi0phzNfUANCwSuG6OU5qflxmQ6+L7hR358Jg7QSTLANGpTrMayyQV0IqZFG6NOq0eGGuqlE8OlyvB1vN95XsuFwq6hsL4CLdf4SfGs2AptQy7nheLQA7QBMC1pH/p+zCPlBw06K5eJiQgxciEsrVYwWeKE1LKlRQmtRZlwL9ScGjhDLNBQ4I1Zv9ke5L+L5EzqVaZ0Szg1UaaMbOLhjFluwlHBYWBZgpBSMsjheTPnhTen6kBtEQIKca8WH3wHZl3Y6dDgt6lowZGKbNSfdbCVeZ3MQRseotgA97gh6KA9YrDssFfFuiN40yUSaXASf0MXZ4C52pPAq31epuoTZJ7EcSNELpLejWoLI8qUbh2vsoyDQfqzg2hbvt7pQnjp7hC/m2+WiLNwJWpZhGnhW2NDWHnJaZhH65AdojkfLOM2XLt0INXMDySe+WdDwgv68+rv4cAZNv1jlzkg==;r5NL96COGNBuXYvGlVp2BA=="
 ---

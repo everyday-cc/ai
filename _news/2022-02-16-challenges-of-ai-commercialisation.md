@@ -58,14 +58,19 @@ related:
         height: 720
         isCached: true
   - title: "Options Announce 12 Years of AICPA Service Organisation Controls (SOC) Compliance"
-    excerpt: "\"Options is fully committed to investing in new technologies, additional resources, team development, partnerships, and the strategic use of Machine Learning and Artificial Intelligence to ensure our security controls, managed services, and internal audit ..."
-    publishedDateTime: 2022-02-15T18:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-options-announce-12-years-aicpa-service-organisation-controls-/2022/02/15/9546036.htm"
+    excerpt: "“Options is fully committed to investing in new technologies, additional resources, team development, partnerships, and the strategic use of Machine Learning and Artificial Intelligence to ensure our security controls, managed services, and internal ..."
+    publishedDateTime: 2022-02-15T17:27:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=616766"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 34
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "ynjafr26JJs6YcdhxtEBizE2mxIR5slNKbY9Rz7b1Rg2FmwLyaWkAqK+TgEsQGkZZqJzH14dEmXR1k+6MAe1kL2BiySch9BQWa1rVVeEiIiKjLxXOsGUQV87pFoqq0PmhQz2Rgo8fm0pOUzjlINjjvGe8eTVfj74zvndE194RMTMNEoAig7iWW+GWwmSdv9ffBmGgWPKKRyPdM8T+xM8igoMaSQK3eHSrMLYVkmd56VnM03cpDtt9ow1U4zcigvoJoNUFdnqjbefnTCaMyT+WHhVxnwoRGIsGXud1fCTbp6Vk120quTNRp5K6NnIV3+kF4okmjgMDMMnjcpJWE6i9Dt4eA5BYsRftgvyHdNM2EE=;cLZDEHVHAgqwZcYhgvGyaA=="
 ---

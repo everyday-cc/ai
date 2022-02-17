@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-excerpt: "DETROIT : Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo ..."
-publishedDateTime: 2022-02-17T02:07:00Z
-originalUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
-webUrl: "https://www.channelnewsasia.com/business/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2502526"
+excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday ... Jaguar Land Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology. Dossa said the Waymo collaboration ..."
+publishedDateTime: 2022-02-17T04:26:00Z
+originalUrl: "https://www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-11645030466900.html"
+webUrl: "https://www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-11645030466900.html"
+ampWebUrl: "https://www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/amp-11645030466900.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/amp-11645030466900.html"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--cyy0ypgk--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-16t142852z_3_lynxmpei1f0o2_rtroptp_3_autos-tech-nvidia.jpg?itok=f2NfKs_v"
-    width: 1200
-    height: 676
+  - url: "https://images.livemint.com/img/2022/02/16/600x338/jlr_1645030513410_1645030513671.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -116,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nPeNOoGCXMXAH1GSVAsYNTrqkICxVQ7bNR97ArtoMDpYQm1GKNDTGNPqlBNdyfKJuR3Pn2phAHwbmQx8Hqkr0lEmJSEe1rPqm/nqcmDgvHdNn8Grb0M1YMkLlGg4h83zcJDehsAd3bUoVd21nDqpM0K65EIQVqhitCdn6mTmgPduDSSuWpK5gK68maNJFagSH6VO8V660VBhogLXx5wkEMN5c4GDMk0oCfy1fhgVU8vS07uh2iiA9cGRB+/l95iimtXBc3yGupjvItM06iaXO4F+UqFqmRBgDJ/5MixHGG6D5KPMRC2miTXMSeMSYqAQ98PVrmIt34xA6rgbWM9T80PnIXp4kS4Kvkf7990++uM=;aOTrICl4ZUY4Im/o73BdBA=="
+secured: "a0B+h3KUDGyD3Lckfp/EXFvH55UER3FUfqUA5/PXCGHomtoBr6VF/8haZmsl3fZKv34WQQPhYuCLzzXjsFi0YO1xmj9Jfgtk3k2RVN1wTW4fS5qGRO7oi82QWECYNX9G57vtawSg3PIsg74dwiGySweVy13M8E1KiaiWwnzQSz8RjYFH3FS98Yt7gNxl3ytiEodgsmnbyqEwN65J3xYgYYnRCmzR90u6Zbg9XggY+ZcSX7i9wKDacBLnSU0AMJ3IQCb4MH6DpUIes1JZIDcHXDCeOBxwGglJHLuRska3m8aa7Be65W8cR28bIua+P2VQcOl8sps0JYKQkj7MM7PWyLi9wQf2OK36HLCNFZ6xmNk=;ID95hk/tYQ9rcl7BIkbrMA=="
 ---
 

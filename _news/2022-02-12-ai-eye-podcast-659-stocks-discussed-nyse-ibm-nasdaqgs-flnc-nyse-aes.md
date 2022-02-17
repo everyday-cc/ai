@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Eye Podcast 659: Stocks discussed: (NYSE: $IBM) (NasdaqGS: $FLNC) (NYSE: $AES)"
-excerpt: "IBM (NYSE:IBM) has announced the launch, in collaboration with TD Securities, of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions."
-publishedDateTime: 2022-02-11T19:53:00Z
-originalUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp"
-webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp"
+excerpt: "of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions. Daniel ..."
+publishedDateTime: 2022-02-12T04:40:00Z
+originalUrl: "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES"
+webUrl: "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES"
 type: article
 
 provider:
-  name: Investor ideas
-  domain: investorideas.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-    width: 1280
-    height: 1206
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?29574"
+    width: 404
+    height: 250
     isCached: true
 
-secured: "hzvoVT+KoHgATi2/39l11XIN6dlh9olaV/YVHLwpeeJJPJECCPxUJu6YU9HhRCk307i02BXJR4XCH0WQl9x59qiDh7R+el9/xF75o0igEN5MZPljzrf6n7sakdpHyens/5cVRZcB1St0O3QDVZ6RsD2ghJ+RQarJOCWWEdKIkox8MrwI7o4kiCQekRAHaAnnSe5KVSN5UvIM1Qt+zFhG9ORYl8I3vqWGzQZI7boN3P8Cmdn9BPHcDVWOhiZEmJd7R+4sggEDXwaI898ZnHzGAwXhFVjJc91fepGcgHNqn6JTVdAeJvX7KZ32WvSKUYWcAAthX0XyqMgCpKexxd6vH9HuTst9uXI/fIsZ4Gg/5sY=;lUL3KR9awulRha7gLlRN4A=="
+secured: "0lFXbkSV6QuyRftSqrY0JP04fhJ/f/+uxr/C2pZZ3GYybq9ulltDOPG8w1mFMDi3xyPPP6Cpj+Fa9FzbZp2nllfm/eFKdSUdo3uChXMC4fhUlG5v6NivKRwR8zL6W7wun9bTP92mzWwD+rVfPAqgzDt3nYQhBm8Zar0li3jUbwbwnksxHfO/cWLzdihFIxVBT5cNeOlkN7tGQmxOZJzc7bvVZEC9xon7zh9zmvYgtjtXZZKmmo9unE/LrdZKsZW6hT45F+kVTSGTnYM4oa1ac5pQDx0YqtWJcZeQAoR94g+cpS2nJm0LmNgFLej93z5IKGs0TWEOwQ/lFnfTkv1gm1W3SDOrveBCf3EqihLpqEk=;qrXf68k3hH++42NIj+f3Yw=="
 ---
 

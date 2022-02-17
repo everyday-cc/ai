@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Nogin, a Leading Commerce-as-a-Service Platform, to Become Publicly Traded Through Combination with Software Acquisition Group III"
-excerpt: "Stifel Financial ... as a Service to leading brands in the fashion, CPG, beauty, health, and wellness industries. The Company's Intelligent Commerce product is a full-stack eCommerce platform that includes R&D, sales optimization, and machine learning ..."
-publishedDateTime: 2022-02-14T21:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/02/14/9544912.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/02/14/9544912.htm"
+excerpt: "Feb. 14, 2022 (GLOBE NEWSWIRE) -- Nogin, Inc. (“Nogin” or the “Company”), a leading provider of Commerce-as-a-Service technology ... the future of self-learning eCommerce with a large customer data platform and machine-learning models that enhance ..."
+publishedDateTime: 2022-02-14T21:37:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-52cada33d4b8254b2e5f394a739a0899"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-52cada33d4b8254b2e5f394a739a0899"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Nogin, a Leading Commerce-as-a-Service Platform, to Become Publicly Traded Through Combination with Software Acquisition Group III"
@@ -29,6 +35,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "dig9k3nkKwgFZLdraSBG4GdNfJ9MBcYCHsQkcXjxmQ+yl6ydvOBre6E2rU7fp91cv4Wj0HAAfYllToJpBJnwzDNoELa+VHTcNCc3e6ukVH6joGTnVhm3YdrZ4PouOe7/VPTNtm/GbfHnn48uD3L0CR/XONL8O5oIeslnd7tw8imERPhz4teY6ROqCDKlNj1Gf40uBaTksAdMtfCIuaX2xHFoBV4b6MO8cTIRKNw+ZiYfuD4QkYNfhrPn688/ghH5AKGUDnimL+obPPpmos6LkFaN+dt+ieu8g6ORpYY1zrhdHwwuEMpXt6LoBQ0Pba4FWgecaPDZQfqBgjmYt20Z9EOuk7ltqv9HsH3fosB5oas=;VTF0bWhqEyJipreQhYPcKg=="
+secured: "thKXfgMz1wtqiZJYWheC8Ib8DmK7z8fXH26L8CUZWAGvn3GYG+700Nvpu7st1YclR3byFTwBVhE7zmU1Lr+EOB0Ya/7ZKbYDgtmPfyoCHUOqDucuIN/2FfUK/sWj3dNDGB9K5A7U+Cgy0e377tPm1iOgLv3xaOE3baXMdilR71Qz9UnGBaar1MmrfHUSw3gFeA2B1lkgoHlh4XHv7S60mhCR64AFqXkW2xm4w+MQnX2DV0XyoLv5U3GTqhrBnfEBZ8OoJzRpD9udiH4a11wzGqfreVLisJihmzXsjHymv0FajPbyL4/z/azb2aYG5X5GbBj3PIY8BsF4Ky5CyjuQ27pYuh6oSKK1pTWcU5WgyOQ=;1z0RxVMrcvSIyN19/b2ZJA=="
 ---
 
