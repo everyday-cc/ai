@@ -26,6 +26,22 @@ images:
     height: 383
     isCached: true
 
+related:
+  - title: "Top 12 In-Person Fintech Events Taking Place in H1 2022 in London"
+    excerpt: "Topics covered this years at FinovateEurope will include fintech in Asia, financial inclusion, customer experience, financial crime, digital transformation, omnichannel payments, wealthtech, open banking, artificial intelligence (AI) and more. Insurtech ..."
+    publishedDateTime: 2022-02-18T10:40:00Z
+    webUrl: "https://fintechnews.ch/london/top-12-in-person-fintech-events-taking-place-in-h1-2022-in-london/51626/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/02/Top-12-In-Person-Fintech-Events-Taking-Place-in-H1-2022-in-London.png?x30842"
+        width: 2134
+        height: 1182
+        isCached: true
+
 secured: "R7SdDJQrQczumgb0ZaqlEbn55h3qONpOVvuxHD4yzI/fq6Tdgj/X5ijk4LNwwZ5WAcrjHS5EU4O5DzLXzbWgh3p0sB/hGP/GJz1l1ianW+4ZyKO8yZc+Sl9WftSrunzFVMF0QY9eqMlD7llwgknnakyxmPpwh/vHDMIXZIgZB2gnHszSq86cJanitpfFiC2xB4fHg19mKbCMqPaZBnE5/jeJKBi2aEQdIVxnwHQ/Zsy164RsWDkkAQN+/G9zCjz4VgawHDvnf5vg0hY+R4zKNUi/V7KBhBLKMEDIust/uizyF1Wco6UeaiyFKq11lZLF7o2brVxqx7UaBJsJFThot4+VMu9mevUWmjMpMvDqvzzq/CBhmclnoBrrpp8xQdNXMraKWEHTzW18saNFuiV+wfiEyk1jpjpcr5MtblxJAIE1GUNMhtW3bDjoL8yq88L+q3xgf29gsyH4apsYoff8g/wbuXV9W+pWYnKeXT7ENOfSZeMgSs8RFl1KEizmP/tUxC453s8pYk/dqo0eLGWXtA==;QhXXWzQdJDkK3JORbQCxSw=="
 ---
 

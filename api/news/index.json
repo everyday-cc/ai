@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-18-what-the-history-of-ai-tells-us-about-its-future.md",
+      "title": "What the history of AI tells us about its future",
+      "excerpt": "Newsweek called the match “The Brain’s Last Stand”; another headline dubbed Kasparov “the defender of humanity.” If AI could beat the world’s sharpest chess mind, it seemed that computers would soon trounce humans at everything—with IBM leadi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
+      "originalUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_review_Deep-Blue3.png?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
+      "publishedDateTime": "2022-02-18T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry.md",
+      "title": "Hisense Breakthrough in 8K AI Image Quality Chip Technology Empowers the Global Display Industry",
+      "excerpt": "It achieves the leapfrog development from 4K to 8K for the first time and makes great breakthroughs in the core technology of AI image quality algorithm. The Hi-View HV8107 chip not only has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1749697/1.jpg",
+          "width": 303,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report.md",
       "title": "Volkswagen in talks to buy Huawei’s autonomous driving unit: report",
       "excerpt": "Last September, the duo unveiled the first product of their joint effort, a self-driving electric van. The reported acquisition comes at a delicate time for Huawei’s AV team. Su Jing ...",
@@ -667,7 +764,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -754,7 +851,7 @@
       "originalUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1076,102 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-how-does-aiml-bias-come-into-play-in-hrms.md",
-      "title": "How does AI/ML & bias come into play in HRMS?",
-      "excerpt": "HRM solutions have become quite essential in the operations of an organization and with the solutions being integrated with AI/ML ... CHRO & Chief Ethics Officer, Pramerica Life Insurance said.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89630606,imgsize-52818,width-1200,height-628,overlay-etcio/how-does-ai-ml-bias-come-into-play-in-hrms.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "publishedDateTime": "2022-02-16T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-wearable-smart-camera-can-detect-voice-commands-without-a-sound.md",
-      "title": "This Wearable Smart Camera Can Detect Voice Commands Without a Sound",
-      "excerpt": "Here’s to hoping the researchers continue to develop the technology, because with more advanced speech recognition capabilities, the world would be a more peaceful place where no one had to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "originalUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655ba50d6201fb981d11ac499e741434.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "publishedDateTime": "2022-02-16T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

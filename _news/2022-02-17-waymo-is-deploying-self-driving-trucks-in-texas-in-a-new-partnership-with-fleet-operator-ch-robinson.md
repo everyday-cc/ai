@@ -69,6 +69,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Self-Driving Vehicles Are Hitting the Roads All Over Texas, and More Could Show Up in Dallas"
+    excerpt: "C.H. Robinson, the firm, delivers some 20 million shipments every year. Now, they’ll be using Google company Waymo and its self-driving trucks to make some of those deliveries. \"Together, we are going to harness this emerging freight technology and its ..."
+    publishedDateTime: 2022-02-18T09:00:00Z
+    webUrl: "https://www.dallasobserver.com/news/self-driving-vehicles-are-hitting-roads-all-across-texas-13438298"
+    type: article
+    provider:
+      name: Dallas Observer
+      domain: dallasobserver.com
+    quality: 13
+    images:
+      - url: "https://media2.dallasobserver.com/dal/imager/u/slideshow/13438303/moneygeek_analyzed_over_10_000_fatal_texas_crashes_from_2017.jpg"
+        width: 1524
+        height: 1139
+        isCached: true
 
 secured: "C7g3DG9utyaOtn9FVp8unJgiHTMvUZE4k1MRfcxVvCOUJMB+e7kCnHfzcXnoowAgd9/T2X+tYOsrAQ2OfBxQ6v4zs6Y0gMb4KciV4cAn/E7sorvjgymPHCQdD5jjZvDsPoWPtFHCLjerkrIxXGCrmEFim1ktRu2jtTlRVqBXVEub+gQ1noCwOIpBEjOIJqR8fzF02FrS3Da/mtc/Yqixdqsie+DuVDvErDRLd0smHXB2goEEFsGc22v7oioHnYOmRGB4hmPEOaagL0jHUPH2HkaJ16TM3xBOm0ewrK0vslLhbeVJfqiqwPtlb1l4Zehu0sejLXlRGqrSHCPqnn83ffRN7wY5GKCnY8bhCSeLpHGF+Wk5qNTtRa9jwBXzx6YTWAFy7fFadtzxifLAl+wGL61+pu5rOk0praNw/A+eSyced/kq0GL3Wk+LP4UDMttW+cZn8i2tklRgmCqqiXsVi6s/m+9IbGQvFEWRoB2bjI4d0F2zNM93hctVd+5wMfU37d8VrXAMSgHZIyStSVHIsA==;J8qiPYToTnW6gu6PPyoACw=="
 ---

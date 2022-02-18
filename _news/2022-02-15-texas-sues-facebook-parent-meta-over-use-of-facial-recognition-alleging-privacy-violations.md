@@ -539,6 +539,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 37
+  - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
+    excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
+    publishedDateTime: 2022-02-18T09:46:00Z
+    webUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 35
+    images:
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
     excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."
     publishedDateTime: 2022-02-14T12:55:00Z

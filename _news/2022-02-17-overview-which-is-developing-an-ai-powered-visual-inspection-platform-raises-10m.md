@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 92
 published: true
 
 provider:

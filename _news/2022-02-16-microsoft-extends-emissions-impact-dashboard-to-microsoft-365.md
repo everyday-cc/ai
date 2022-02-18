@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "Microsoft Cognitive Services: Leading the AI charge"
+    excerpt: "Microsoft Cognitive Services: Leading the AI charge Your email has been sent Artificial intelligence is about to change the way we interact, transact, and conduct business--again. With Cognitive ..."
+    publishedDateTime: 2022-02-14T18:21:00Z
+    webUrl: "https://www.techrepublic.com/article/build-2017-ai-will-change-everything-and-microsoft-looks-to-lead-the-way/"
+    ampWebUrl: "https://www.techrepublic.com/article/build-2017-ai-will-change-everything-and-microsoft-looks-to-lead-the-way/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-2017-ai-will-change-everything-and-microsoft-looks-to-lead-the-way/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 119
+    images:
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/05/aai-eventsfv04.jpg?x23932"
+        width: 1306
+        height: 734
+        isCached: true
   - title: "IBM acquires Microsoft Azure consultancy firm Neudesic"
     excerpt: "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ..."
     publishedDateTime: 2022-02-16T13:08:00Z

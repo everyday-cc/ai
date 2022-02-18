@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Agot AI Raises $12M in Funding"
-    excerpt: "Led by CEO Evan DeSantola, Agot AI has developed a computer vision product that can accurately confirm order accuracy in real-time and notify employees if an order needs correction. Customers include some of the largest blue chip food service brands in the ..."
-    publishedDateTime: 2022-02-13T17:12:00Z
-    webUrl: "https://www.finsmes.com/2022/02/agot-ai-raises-12m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/02/agot.png"
-        width: 350
-        height: 350
-        isCached: true
   - title: "MOSTLY AI Rolls Out AI-Generated Smart Synthetic Data Platform for Enterprises"
     excerpt: "Vienna’s high-tech startup, MOSTLY AI has unveiled an AI-generated smart synthetic data platform to help enterprises to generate data for smart and safe services."
     publishedDateTime: 2022-02-14T11:23:00Z

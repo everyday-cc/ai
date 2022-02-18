@@ -24,6 +24,22 @@ images:
     height: 209
     isCached: true
 
+related:
+  - title: "AAEON and Hailo Partner to Enable Next-Gen AI Applications at the Edge"
+    excerpt: "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ..."
+    publishedDateTime: 2022-02-17T00:00:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2022/aaeon-ai-chipmaker-hailo-ai-applications-edge? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/dd3af398-3d4a-4d0a-9ece-08526cc0202f/AAEON-news-Feb-17-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+
 secured: "Oxj2OM+Ye0BJ0oXhO3vgzv5y+vt7nSJKFsVO7U1lPbuwYces/KDYcEuSS6mkaJNtoKmGjpy8ok3M4drxbBVdrVRCMg+hmHIe7QdJ9jbQVZ4VVF375LTw1WIsTunO6nZeFvLoT7IKVecDA2K4oXB9bzZ6/u/kgy8/ew04VIx9srApig4CZm/B2wOb3z/7/+MWB7cle6/1EZa9sX9NNNdjZI+0z3iwRov77aymbSgCzKWAhWErH9uUgnDeTc0wH56/0jOTAOO0UBiAU4ZjMmbKH+LU24YT1GdcA1f5F6/skESOhNduX7CR06qZZ1hAmX0IMJ0LWLIqfWToBRiAk1PoPtQR3f0M8W0ffh1GB1ckXwNNHocnhBC1jSZG0lPGgkHY5ss767fX5ivEPuEjhDhjsSnD4YNDPikd0XtcncZlZYzaUpB4VUDsFcIANzHkWXKhDhd9+pLfvpUcm9D5tUIxeOZUmNxo1KYIDua1TRJ12ZR8Al3S+tl8jlaNWOyF1CdPeb0AjGlYveJ50Mxh6dywOA==;nUju4XLAE14wPV8JLBr2zQ=="
 ---
 

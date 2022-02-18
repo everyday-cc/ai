@@ -1,25 +1,25 @@
 ---
 category: news
 title: "UBTECH Robotics Launches Mobile Disinfectant Robot"
-excerpt: "Chinese robotics startup, UBTECH Robotics (UBTECH) has launched a mobile disinfectant robot called ADIBOT-A to meet the demand for autonomous cleaning regimes."
+excerpt: "Concept: Chinese robotics startup, UBTECH Robotics (UBTECH ... and the hardware can create a 3D diagram of the entire cleaning space leveraging AI algorithms. It can either streamline the routine by using a bird’s-eye map of the room on the smartphone ..."
 publishedDateTime: 2022-02-17T09:31:00Z
-originalUrl: "https://www.clinicaltrialsarena.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
-webUrl: "https://www.clinicaltrialsarena.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
+originalUrl: "https://www.just-drinks.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
+webUrl: "https://www.just-drinks.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Clinical Trials Arena
-  domain: clinicaltrialsarena.com
+  name: Drinks
+  domain: just-drinks.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Image-2-3.jpg"
+  - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/Image-2-3.jpg"
     width: 640
     height: 426
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 426
         isCached: true
 
-secured: "fb07gzRXySzOVvzy5DpBPrrjkY64OpBQunuDe6vvQWmTPU6FNtDYD/zHP8QubI3U8rWu9sES85dMCgwjIpnDlKp6XPqyzGLO+u8BilWKgBOYiyKtbWpQs2G93trbOimTlYroGgqRYRyZ364E0xCThXnIStNVG2bmCGgs4YBYmAFVuTXIhFcrUy4VCnDOTP0WcPSrTEOfeLrVvvVLMWPt4tvmOwhub6b5VBMrJYX1Waigv+W39sx2NdY2iLB++ZURSTMK3YhkXyinScQ2BFQ2ZFl2deE4YQudfFeN+KWACbRAB8K3j79AvwzH1SuTEF2vqVZyvPlh/sbL1wW52dZar9njysAtbEoSXlXG0XZhmRu5Q8Q/fcimolwAQLLQrm9nQUvke6XiWQPlaPZgxxTP5TNdF0ot+17BH7iJBN1oJ50h/2Gyv50tMAMTYbkrT6VB0oxklybpw9u9zmuog/4fk0LmDpzMK1sFemTdW/Ukhm9C62ws6BuLW+7x0AN7ncRT/u0iSZbNFuNUfmpQ596MIw==;64m1GGSw/vGymenJZEzaJQ=="
+secured: "a+B7N0h7Ldn7muOH5AjCC8Ot0bXgaRoiNlw/rkRAmRpvpNeU9oDbnYdsY7jV/yXsz4MU2M8DP9/gsX5Znm0NUgLE5qhkp61+JEqcz79s//EEIPnMYD/JZF1Ppp2YQgUXeFZQb/kbTedniHiQgK+ipGFY4CXeWt7kBoEDFJcoHz2pJF+a6i/28CwB3iwuJ6BRWxcjA17vFaXA9749f+H79aPMlFvjKK2y32IVgXwPam34j1ZYkcaWz5HAiGO9l/EBc7mTNrd1oEk3teqviMybW4t2Mgaljxr+ib989V4yc/bLrE/e+QVAD9fUkBVkBn6cygrLbgpy8jjZhlFYaZalY0gxVpM1pasaB0Cv3AJW5zA=;QN/dew7ga4n6m7MiRGaqeQ=="
 ---
 

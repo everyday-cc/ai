@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-16-the-accuracy-limits-of-data-driven-healthcare.md",
+      "title": "The Accuracy Limits Of Data-Driven Healthcare",
+      "excerpt": "This is not a new concept, but as we begin to rely more heavily on data-driven technologies, such as artificial intelligence (AI ... it comes to AI applications in high-stakes industries like healthcare. Outcomes in this field have the ability to prevent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620ad56ed042e09544bf109c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
+      "publishedDateTime": "2022-02-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code.md",
+      "title": "AWS's AI code reviewer now spots Log4Shell-like bugs in Java and Python code",
+      "excerpt": "Amazon Web Services (AWS) has updated the 'detectors' in its CodeGuru Reviewer tool to seek out log injection flaws like the recently disclosed Log4Shell bug in the popular Java logging library Log4J. The critical Log4J bugs, collectively dubbed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "originalUrl": "https://www.zdnet.com/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "publishedDateTime": "2022-02-16T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-ai-for-health-and-hope-how-machine-learning-is-being-used-in-hospitals.md",
       "title": "AI For Health And Hope: How Machine Learning Is Being Used In Hospitals",
       "excerpt": "Luckily, hospitals are beginning to use machine learning solutions to streamline the waiting room process. That’s not all. The healthcare industry is introducing AI to combat many issues in the field. AI in hospitals can not only ease hospital patient ...",
@@ -1108,109 +1213,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-microsoft-azures-first-azure-hpc-ai-day.md",
-      "title": "Microsoft Azure’s first Azure HPC + AI Day",
-      "excerpt": "Welcome to our first Azure HPC + AI Day! We’re excited to host the first event, which will soon become an annual tradition. Join us on February 24 and 25 to hear directly from the Microsoft Azure team and earn points by attending sessions to get one of its kind Azure HPC + AI Day swag.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7417aef1-9bb0-4fae-91e8-da2ab8496dfc.jpg",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T00:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance.md",
-      "title": "Reliance’s Jio Platforms Invests $200 Million In AI-Driven Mobile Startup Glance",
-      "excerpt": "Indian billionaire Mukesh Ambani’s Jio Platforms, the tech arm of Reliance Industries, has invested $200 million in multinational tech company InMobi’s mobile content startup Glance. Glance, backed by the likes of Google and PayPal cofounder Peter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/?sh=3a20b79740a4",
-      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620b3a6c4afff558e3bf109e/0x0.jpg?format=jpg&crop=3296,1854,x0,y0,safe&fit=crop",
-          "width": 3296,
-          "height": 1854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/",
-      "publishedDateTime": "2022-02-14T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-powering-fu
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-powering-future-retail-braiyt-ai"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Thoughtz, an artificial intelligence based app, is the future of thinking"
-    excerpt: "Zurich, Switzerland – Feb 17, 2022 – The Thoughtz app will break ground with an intuitive artificial intelligence engine that connects users based on user-generated thought starters, helping socialize the art of thinking. Thoughtz was developed as a ..."
-    publishedDateTime: 2022-02-17T19:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/thoughtz-an-artificial-intelligence-based-app-is-the-future-of-thinking"
+  - title: "What the history of AI tells us about its future"
+    excerpt: "Newsweek called the match “The Brain’s Last Stand”; another headline dubbed Kasparov “the defender of humanity.” If AI could beat the world’s sharpest chess mind, it seemed that computers would soon trounce humans at everything—with IBM leadi ..."
+    publishedDateTime: 2022-02-18T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/"
+    ampWebUrl: "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/129c9d3527a44bb72394eb2f37ffd03563881116-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_review_Deep-Blue3.png?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
 
 secured: "y9QzB6sh3pN1cRcegGLWqt5c8Pm0oDH/BBC/DcwwC1i/Bxc2a69HyD0GrV+Ajlpf7m9XaXBJOFFFLV5g1r1CR6Vq6PC8ifBCSRUDHqpKVaKDhaScT0NluYm2KF/depTJRbjDQNBofNJ1DDRN+/VjrnUOemQV5tmvm2+j4SLjcnIzXhBQW5v240/bnILfxoM/UoIPSnjH/MqZ3jVJsa/9ZKStFvSC8QthJ+zJYI0qQ4VR/TtDCa6mfAm9OsEjAyWxkdLPpVffDvFdfqNe3pxk56l2MUNF3ntmzPbQOCVSGiDTD2Mwl2AnZG0GGPqEmcOP1LcpwB8OLtFZIJ8XaoaMK7LShwMYD/blsEXelca52f4J4dVxDbVda3W6RI+4rGuNJVd3+/552qZuNSA4pnxDknO8t7t884negf7GvSfIFS3J+icMcRm7DWr2ZoFJFyTuMoFOsqRLE7NaWfBy9HzjxoEMP7c7KOqHQTchloGqaM2xg17YjLBB+0mvqBs70yvDcG0Z155Jz2jy6EDuB9Zobg==;MnWr9aEmVE5iBrPskMJvfQ=="

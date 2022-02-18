@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
         width: 1920
         height: 1107
+        isCached: true
+  - title: "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race"
+    excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology."
+    publishedDateTime: 2022-02-16T14:40:00Z
+    webUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
     excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-17-how-does-aiml-bias-come-into-play-in-hrms.md",
+      "title": "How does AI/ML & bias come into play in HRMS?",
+      "excerpt": "HRM solutions have become quite essential in the operations of an organization and with the solutions being integrated with AI/ML ... CHRO & Chief Ethics Officer, Pramerica Life Insurance said.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89630606,imgsize-52818,width-1200,height-628,overlay-etcio/how-does-ai-ml-bias-come-into-play-in-hrms.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
+      "publishedDateTime": "2022-02-16T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-this-wearable-smart-camera-can-detect-voice-commands-without-a-sound.md",
+      "title": "This Wearable Smart Camera Can Detect Voice Commands Without a Sound",
+      "excerpt": "Here’s to hoping the researchers continue to develop the technology, because with more advanced speech recognition capabilities, the world would be a more peaceful place where no one had to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
+      "originalUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655ba50d6201fb981d11ac499e741434.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
+      "publishedDateTime": "2022-02-16T18:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-how-soul-machines-is-making-new-gen-avatars-life-like.md",
       "title": "How Soul Machines is making new-gen avatars life-like",
       "excerpt": "San Francisco-based Soul Machines, a company that is rooted in both the animation and artificial intelligence (AI) sectors, is jumping at the opportunity to create animated digital avatars to ...",
@@ -469,7 +565,7 @@
       "originalUrl": "https://inc42.com/buzz/actyv-ai-raises-funding-to-help-enterprises-transform-supply-chain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -564,7 +660,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -659,7 +755,7 @@
       "originalUrl": "https://techxplore.com/news/2022-02-ai-generated-trustworthy-real-deep-fakes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1141,111 +1237,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-the-accuracy-limits-of-data-driven-healthcare.md",
-      "title": "The Accuracy Limits Of Data-Driven Healthcare",
-      "excerpt": "This is not a new concept, but as we begin to rely more heavily on data-driven technologies, such as artificial intelligence (AI ... it comes to AI applications in high-stakes industries like healthcare. Outcomes in this field have the ability to prevent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620ad56ed042e09544bf109c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
-      "publishedDateTime": "2022-02-16T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code.md",
-      "title": "AWS's AI code reviewer now spots Log4Shell-like bugs in Java and Python code",
-      "excerpt": "Amazon Web Services (AWS) has updated the 'detectors' in its CodeGuru Reviewer tool to seek out log injection flaws like the recently disclosed Log4Shell bug in the popular Java logging library Log4J. The critical Log4J bugs, collectively dubbed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
-      "originalUrl": "https://www.zdnet.com/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
-      "publishedDateTime": "2022-02-16T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

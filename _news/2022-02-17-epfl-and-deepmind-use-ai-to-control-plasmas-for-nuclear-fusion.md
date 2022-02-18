@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Explained: What is Google's DeepMind and how is it being used in nuclear fusion"
+    excerpt: "In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab DeepMind is the latest contributor In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab ..."
+    publishedDateTime: 2022-02-18T09:30:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/explained-what-is-googles-deepmind-and-how-is-it-being-used-in-nuclear-fusion-10386481.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/explained-what-is-googles-deepmind-and-how-is-it-being-used-in-nuclear-fusion-10386481.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/explained-what-is-googles-deepmind-and-how-is-it-being-used-in-nuclear-fusion-10386481.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 70
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2022/02/Interior-of-JET-with-a-superimposed-plasma11.jpg"
+        width: 640
+        height: 390
+        isCached: true
   - title: "Google’s DeepMind AI can now control superheated plasma in a nuclear fusion reactor"
     excerpt: "Google-owned DeepMind has trained a deep reinforcement learning algorithm to control the burning plasma inside a nuclear fusion reactor."
     publishedDateTime: 2022-02-17T14:09:00Z
@@ -285,6 +301,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Google's DeepMind AI is now able to control a nuclear fusion reactor"
+    excerpt: "A study on the deep learning approach has been published in the journal Nature. DeepMind Technologies, based in Britain, is a subsidiary of Alphabet Inc., which also owns Google. It has recently used its DeepMind artificial intelligence (AI) to control a ..."
+    publishedDateTime: 2022-02-18T10:41:00Z
+    webUrl: "https://www.tweaktown.com/news/84648/googles-deepmind-ai-is-now-able-to-control-nuclear-fusion-reactor/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
 
 secured: "E1mp9QokH++WOMc1ItdTGet0ViyN0mouf8WzDDSVbkT0atk2meQscmk+nYoVMZmd2F0NmWi9ySRfpzgr2zFmicOHUjChNg3c3VNsa7DPyzQ+TsDjyXNc6SbwOfmaEpJTIFOENvYx32xl5XDn8HnLHrFpJ/0YOZ/ME0mGLUAVZgykOsUVWHBhUXZoIAX4g9Rmm5ihGBaVd4HKXGxpk2Zdkhb6eD8IifIBkpabnbNqiHePYtEukheL3+NQ16H0HidGAUOeUCH1hVjryAA26krYqT6fMMp+XtkfLj5jQxDnRCgYRojey+wyVQ42VGsNN8p8+JUKQkwuUhdD/JzJexeBM1l5kyi7dPyDt2eFjPw2d5I1awHrfhRR/jm9p6lSMIxr6qvthJwgl0wASn5z0h1lvgm9NpSsxGWsoRUgZiWC65arcZYXko5ti1lo5RnBQUEFs4x4FEGGFvZ0rOWLq2eR/c6Y0QsJeVW4Kxy8pzGsSd96XWAndUPJZc7xPQRwSWZwcjlCQHKysk8riETTxjY1iA==;ie5axV1kyx+RGVlVdVjPNw=="
 ---

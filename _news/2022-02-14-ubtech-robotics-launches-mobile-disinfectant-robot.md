@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "UBTECH Robotics Launches Mobile Disinfectant Robot"
-    excerpt: "Chinese robotics startup, UBTECH Robotics (UBTECH) has launched a mobile disinfectant robot called ADIBOT-A to meet the demand for autonomous cleaning regimes."
+    excerpt: "Concept: Chinese robotics startup, UBTECH Robotics (UBTECH ... and the hardware can create a 3D diagram of the entire cleaning space leveraging AI algorithms. It can either streamline the routine by using a bird’s-eye map of the room on the smartphone ..."
     publishedDateTime: 2022-02-17T09:31:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
+    webUrl: "https://www.just-drinks.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
     type: article
     provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
+      name: Drinks
+      domain: just-drinks.com
     quality: 54
     images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Image-2-3.jpg"
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/Image-2-3.jpg"
         width: 640
         height: 426
         isCached: true

@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-10-irs-will-transition-away-from-facial-recognition-after-wave-of-criticism.md",
+      "title": "IRS will transition away from facial recognition after wave of criticism",
+      "excerpt": "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "originalUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg",
+          "width": 3800,
+          "height": 2533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "publishedDateTime": "2022-02-09T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-ibm-launches-watson-backed-virtual-assistant-for-td-securities.md",
+      "title": "IBM launches Watson-backed virtual assistant for TD Securities",
+      "excerpt": "IBM unveiled a new AI-based virtual assistant powered by IBM Watson Assistant that is designed to help customers answer crucial questions. The first company to take advantage of the tool is TD Securities, which will use the virtual agent system for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "publishedDateTime": "2022-02-09T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform.md",
       "title": "Scopio secures $50M in series C funding to develop telehematology imaging and AI analysis platform",
       "excerpt": "The very common Peripheral Blood Smear review, used time and again for diagnostics, is typically conducted by a human analyzing the sample on a glass slide under a microscope and checking cell ...",
@@ -1071,93 +1166,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-tesla-cut-a-steering-component-from-some-cars-to-deal-with-chip-shortage-sources-say.md",
-      "title": "Tesla cut a steering component from some cars to deal with chip shortage, sources say",
-      "excerpt": "Tesla omitted one of two electronic control units in the cars' electrical power assisted steering systems. Tens of thousands of cars are affected, sources say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html?utm_term=Autofeed&utm_medium=Social&utm_content=Tech&utm_source=Twitter",
-      "originalUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806379-1607090740945-gettyimages-1229775273-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090829",
-          "width": 4000,
-          "height": 2672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "publishedDateTime": "2022-02-08T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review.md",
-      "title": "Impact of maternal obesity on the cognitive function and mental health of the offspring: a systematic review",
-      "excerpt": "Exposures considered were maternal BMI, height and weight, The outcome was any measure of cognitive function and mental health of the offspring. Quality assessment and risk of bias was assessed using a standardized form consisting of 22 criteria ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
-      "originalUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T14:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-faci
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794"
 type: article
 quality: 174
-heat: 544
+heat: 554
 published: true
 
 provider:
@@ -529,6 +529,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 37
+  - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
+    excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
+    publishedDateTime: 2022-02-18T09:46:00Z
+    webUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 35
+    images:
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Texas sues Facebook parent Meta over use of facial recognition, alleging privacy violations"
     excerpt: "Still, the company said then, it would continue to use facial recognition in some instances, such as when users have been locked out of their accounts. “There are many concerns about the place of facial recognition technology in society, and regulators ..."
     publishedDateTime: 2022-02-15T13:06:00Z
