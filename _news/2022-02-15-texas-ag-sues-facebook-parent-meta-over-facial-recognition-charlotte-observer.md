@@ -552,6 +552,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
+        isCached: true
   - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
     excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
     publishedDateTime: 2022-02-18T09:46:00Z

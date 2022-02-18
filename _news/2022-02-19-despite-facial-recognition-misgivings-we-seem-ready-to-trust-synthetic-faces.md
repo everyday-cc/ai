@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Why you should want the IRS to use facial recognition technology"
-excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
-publishedDateTime: 2022-02-18T14:06:00Z
-originalUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
-webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
-ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+publishedDateTime: 2022-02-18T20:46:00Z
+originalUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
 type: article
-quality: 39
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Reason
-  domain: reason.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+    width: 2048
+    height: 1376
+    isCached: true
 
 related:
   - title: "Texas Sues Meta Over Facebook’s Facial-Recognition Practices"
@@ -526,6 +530,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why you should want the IRS to use facial recognition technology"
+    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
+    publishedDateTime: 2022-02-18T14:06:00Z
+    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
   - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
     excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
     publishedDateTime: 2022-02-16T14:50:00Z
@@ -551,20 +566,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 37
-  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
-    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
-    publishedDateTime: 2022-02-18T20:46:00Z
-    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
-        width: 2048
-        height: 1376
-        isCached: true
   - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
     excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
     publishedDateTime: 2022-02-18T09:46:00Z
@@ -637,6 +638,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "VWirxVt1vP0sG9mflUAq6FcW8+Ni9hUfNSallRuAgdzQNqBQKOswnaWOggg7MCh53X+xVCoq5fQl/x/KtFkldKTXGZAju3RuFobQSBeVIqj4/LVbcD75fHUl78rqLYxzrwBw2rS1RUr0q4bKgI0jypjv2Ilgs5Ayrp7aasjJqMKZlFlPATXFJck+DdCE+kSUMQNRTUQiXqyLfKMbv/ZwpWuNFv2PKi25UwQqI9s179JmboYJ+8mJrx4ZHqLL6EeLTwrRdl+nBENnGF34I78kSNzInK8k9eW1kpNhVuaIjQEIhoUU5+iLY9WkcAsMAGOl78NkaBoqBMid9UDTtiBIbwgZUvgU92+0h11TFLcbi5He6mhilGk6rMGNE78nVT+YymqxbnNWTDf9GTkg2j7JJbSTF+y5wXpgufiC2qMTMA5M98nkxC5X8TIiY/J+T/TNB4Rkqon7jJtuIlvK/1HKNEulxNenIJ3jbKVxuha7No9eE/0O5cMN5SO/HK4qf3s1BYOOvSQnQbRfB+cMtXczSA==;aCJ43IV3qtMtcsNTpSaq5w=="
+secured: "3MvvlxpB8l5I2127ig2ftXpVM5KjRtaW1z0pvLwohA6Ck4jtYB3AGmyeuzGUNqv0goEBpDw/iiRYHgbKpMVTx9Mo+DK2/8dLFX+yDbjNzupGZzAm+gdfUoBk2RxgBzIFhf4ZBxWFEOD0jqr4XM82kor/zHOOtyBRRKw1wROB75tgs8M5mXTlb/mYnyrBXfyNQpUjB9kTEZ9gFJHqgEAMgypZLvTWxlQ2yVq/AakWjoralZb3gzfkIrlDTw1eIQDcEANBFJgJMSBlwFGQi89W23zLZGlPh8XJIgVGvg8nWSBShXI4l1QemnLo18Ry0FSPogMMBWW1giWu8yD/0VkZlEltY2Ng+Qi2eJWxy/OYn4c=;s625OF6y6gsitS/P9Ey9bQ=="
 ---
 

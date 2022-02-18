@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-17-steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool.md",
+      "title": "Steps Enterprises Can Take To Build A Dependable AI Talent Pool",
+      "excerpt": "As AI establishes a strong foothold across industries, demand for AI talent is exponentially rising. However, the growing AI talent gap remains a persistent issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620d627b286ce11f4f02e992/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
+      "publishedDateTime": "2022-02-17T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m.md",
       "title": "Overview, which is developing an AI-powered visual inspection platform, raises $10M",
       "excerpt": "Overview, a company developing an AI-powered visual product inspection platform for manufacturers, has raised $10 million in capital.",
@@ -326,49 +377,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-artificial-intelligence-challenges-what-it-means-to-be-creative.md",
-      "title": "Artificial intelligence challenges what it means to be creative",
-      "excerpt": "Not far behind was the composer David Cope, who coined the phrase “musical intelligence” to describe his experiments with artificial intelligence–powered composition. Cope once told me that as early as the 1960s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program",
-      "originalUrl": "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp",
-      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp",
-      "publishedDateTime": "2022-02-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -770,7 +778,7 @@
       "originalUrl": "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {

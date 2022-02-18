@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-
 ampWebUrl: "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/amp/"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 80
+heat: 90
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +23,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/08/alexander-mils-lCPhGxs7pww-unsplash-e1629134618323.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Eric Schmidt creates $125mn fund for ‘hard problems’ in AI research"
@@ -42,6 +49,6 @@ related:
         height: 281
         isCached: true
 
-secured: "8ai5hXYwHZRfB6o9d+IlHulKrSVHbp7xMjhlzOG+gjgIy+w7sLJUVh1frfDfWDItqTf2AlnY5U5r8Jis9ifoxTbw3R5djWzivsyBQi67OMM4BbeoNV3BMVco+QhgNQ59N5LNqG9UCtR2kT4cleXW3iDXqcZzLk6nX2cbKzx87r2VGQKYqgFXgab88TV3EPEgciceCSM//yrF6komHCnbVHlAtew4I3HZ3HqMdh5ubsbnWzEab68HXk6MHExj1kcYJbq8syx/iCWWjKbOaXveBt1/2dTZ330Fdrzum4ZxvupFUGAJvDi7/7FLwiCSYV23Ywtd/pn2ksIlAvs+JOQGKAL4GKE4WHryUjI48EdbbRPlXmOTas2DFlO+I6NU1ZeHsYbVOIHJe9Tp8DexGD1u7T13BkrYIUABaUkXTmt1pJkwGAOZmM/cDoBSW28KI7VN7IdaTfTFpItQdc334LFyUrtKc0Ajb1vXMVTVPu8NFTnG+5g+dh0Xnyj4oDYHFFeNynLynfU6hoo4uuTMsgfGVQ==;6X2eyzJDbRVAnU4GyATu4w=="
+secured: "mnuUhiJHG0T/cXg6ARStqD0i4V5toATTCP/bvzjiheqml/glThh4nptD1wzqRC/tg1mB6rpLsHlZKtkF5MoVGd1yKpI3cWOJ8o4EFQMqWNZXOpifykKBrzYaiGrwaogw1yitb/t/BfBaQIpoy4r1+NivUb3Q4KUio2iq+jROvuMcmLoy/ChmyGufFIRL2197f8TrgFq1QbEXU9GNt9khiHiH/90grH8mpO13z23u4QXuU1z4nLW2Gdsco4eHPXPQhqQbznBTt95BHmKgsBy9ehw4vFiaU4Z7M254ccp3o6tMlptkWFjpjdEoRd+/HvGUEXI4BJPFoMha0vRyJaUlPxbNQ1bUE6xB3u04rcQR7l0=;jOBC+LFmk+o9oUwOZUDPuA=="
 ---
 

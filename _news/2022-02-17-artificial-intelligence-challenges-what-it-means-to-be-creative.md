@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sciencenews.org/article/artificial-intelligence-ai-creat
 cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Science News
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Applied AI - What It Really Means in Practice"
-    excerpt: "2. Accuracy and Precision: Applied AI bridges the gap between the digital world and the machine world while reducing errors, social ethics, and human bias in the process. 3. Sharp Efficiency: Throughout all the stages of business processes, Applied AI ..."
-    publishedDateTime: 2022-02-14T03:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/applied-ai-what-really-means-practice-m-nazri-muhd"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGpFlRBa-CicQ/article-cover_image-shrink_600_2000/0/1640661577729?e=1650499200&v=beta&t=26fA7-WeZTVmAZHpNEfPSz4l4SfwR5CyYLmWb7ZHpfs"
-        width: 1738
-        height: 600
-        isCached: true
   - title: "Tips to Overcome Challenges in AI Development for Financial Services"
     excerpt: "Nevertheless, the sheer volume of siloed data stored by banks complicates uniformity and usability Fremont, CA: Artificial intelligence and machine learning are making inroads in the financial services industry as companies recognize the benefits of ..."
     publishedDateTime: 2022-02-17T00:00:00Z

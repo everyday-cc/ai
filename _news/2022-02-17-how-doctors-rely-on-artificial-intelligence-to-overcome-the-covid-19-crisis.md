@@ -26,22 +26,6 @@ images:
     height: 530
     isCached: true
 
-related:
-  - title: "Aventis Aligns Itself With Advancing AI In Light Of Covid-19"
-    excerpt: "SINGAPORE - Media OutReach - 14 February 2022 - Aventis Graduate School has aligned itself with the advancing Artificial Intelligence (AI) surrounding the thriving age of digitalisation ..."
-    publishedDateTime: 2022-02-14T04:49:00Z
-    webUrl: "https://menafn.com/1103689094/Aventis-Aligns-Itself-With-Advancing-AI-In-Light-Of-Covid-19"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?433493"
-        width: 374
-        height: 250
-        isCached: true
-
 secured: "giicyjFEKJqq1EsHvaliqJlE0zS+H7qhj1fyrMYqT0m4vXx3Iciu+REB7+pMprz+j1k0e+5NVxo+Stl9sBTXyxDmxcGTcgbNIz6RHMekfYDphEJRdRnTsEk82eVhb8GRxuKsAUOCu5KmGEHX6fPpKcyhIJB4aWKfZPRCq5P/wH8vohpkNsC/JsjEqvmHobN7EZvu/q6p0JVUwzFvV4fLhOOiuwLPa0N/AMYPI0//4zizr3eBIyPDxOl040jOCjc8uaplT+qYB3ncKkf3hkadI/Kli0zpcfCwd5CFugg3VSuU1xcWBNWYtG7HiiU/rlh0UU9ghA6iJ1loMBUQpv1GNuKpphOqiX8T34sOASu6nIYDw7Crem45rh+tR86aVShVEQ++cDtU2ve2a0dKJV5Qwu8Xc0mTUHz1odTjo5a0gfP6T+iJwWBlRfxgYcqi3JHDxw09SXCWCQ97hH/lSyTztbyp1lyvWdMFBvcQUh7T8sKt0URi2MwQo3CGn3dOFXT1327K7agpwtXcN4nqLzYthg==;kz9gKyJRLUyhob/u7Pq0NA=="
 ---
 

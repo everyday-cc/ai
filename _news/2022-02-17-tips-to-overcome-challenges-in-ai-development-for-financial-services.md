@@ -41,20 +41,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Applied AI - What It Really Means in Practice"
-    excerpt: "2. Accuracy and Precision: Applied AI bridges the gap between the digital world and the machine world while reducing errors, social ethics, and human bias in the process. 3. Sharp Efficiency: Throughout all the stages of business processes, Applied AI ..."
-    publishedDateTime: 2022-02-14T03:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/applied-ai-what-really-means-practice-m-nazri-muhd"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGpFlRBa-CicQ/article-cover_image-shrink_600_2000/0/1640661577729?e=1650499200&v=beta&t=26fA7-WeZTVmAZHpNEfPSz4l4SfwR5CyYLmWb7ZHpfs"
-        width: 1738
-        height: 600
-        isCached: true
 
 secured: "ma7fu/XiQVh50iucgBsleG/veqb1MRs9Yboyr9KA2tR1cr70F4nNnFwTQNMrlJFkPk2dZu0MdPxSkXZhs0IlardihsrXtPWXbNivp8FFzKxqXDEqDZ+RWned36O7PCVSJWz0enBA1bVzQ2VBoSCcYiFDBACPtLUObssKcPUNQEUgccbuTnXhZc4mvbbVqpwHTy0rkHmJ6T240PEyqYhMbpdW1rimF41QzphV6+BAlcb7mQ8OTeB72s5kgv/HSg8tKJe59RWP21VIsA1O3nUg6SXcPwMk9eTzvuVSzjQ+gEb5AJ7dt/LZG9aORMmEka7gPw87bgJ74g9x9n0cqrYMNdp5V9gJD4gP0JPsXRA4zqw0/v9RWF9nhrC6ytsKnIxxeOSg8PRSNDkXspq6vpOXGbSK+xLk7oG1uKZ35WG7zA93Ak3rxpIjGhl7Jc6wZmGpzUw44k0kpFC78zIgL+htXUaCxqsK1NAKOOB9Yqi1en0wBSgjwf1n4EOggA2LcGqHcME5wRtPF96Q01KBuN+Urg==;Cb6Xyv1l8ZdJ0USo0moTQQ=="
 ---

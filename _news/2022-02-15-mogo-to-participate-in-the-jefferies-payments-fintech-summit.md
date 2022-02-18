@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "i2c Partners with Qatari Fintech Startup KARTY to Launch Digital Visa Wallet"
-    excerpt: "The company placed first in the Qatar Science Technology Park Accelerator program, and is backed by Qatar Fintech Hub, Qatar Financial Centre ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim ..."
-    publishedDateTime: 2022-02-14T03:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=615471"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 21
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
     excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
     publishedDateTime: 2022-02-18T12:00:00Z

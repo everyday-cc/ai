@@ -74,20 +74,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Thinking fast and slow with AI"
-    excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."
-    publishedDateTime: 2022-02-14T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/thinking-fast-and-slow-with-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "oZfwGePlvAWAs/J4qf+OU5U85XCjBpTLVN5fGMSBrV8QeuqodNFKeoxZ8rYMRv9Gr/2cmLgzbnwjd/r+AUb28dL43lgGadzZBMmmVhd6VnkAw/HpmGOvXZZaOTUhbEpduDzgD2uCP+gWnYuSX3B/WdTi9+kcBTC3pXcROYrZP9qeufXUawJSMJOQVDZImFMSJC21snC2JMdyE4GNFqqxynhgJjnRAMQhy1EcM25oRoAMwgMLWtaaFUjGkJlQrnTNmN3xpQ0LrhNjARvD8ymuJm2eOMZZBF+N1qGGgo2N4Czz0a4mdKf8N25x1BmlRkMR+jdb9IENa8SMIIrDtOzx5aHMLaXBXRhb9VHM/5/gLks=;e9buAQW1/TM6DOTsUTXJSg=="
 ---

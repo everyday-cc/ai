@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-educati
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "Thinking fast and slow with AI"
-    excerpt: "Such a mechanism leads to specialisation among RIMs that improves generalisation. IBM Global AI ethics leader Francesca Rossi said that the division between system 1 and system 2 can be applied to AI systems to increase their flexibility. She said that ..."
-    publishedDateTime: 2022-02-14T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/thinking-fast-and-slow-with-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Thinking_AIM.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "Zu2jr8X8+FeOfwMRcKURdfHly8HuC4G/znWx8IbUyG9aIMzT4g6TIHNW1XcDWzQOKuiFpzMVBBPSd17Ruoe756RE4k/D4P393ct45l2w/fxXAuIno791Ln2n5L24kPjbAzhBgcGngJLkhUn4OfzZTt8YMaIF+30W1fapkOggAlx+ruwGWTqjEnPlwo0s4PVAlkmgkqPjs1VMbtdHiU/aMnbtibNS2FVCDiTv03P79+Tis38ltrNUySC1rhRmL8iTicGyco6mpJQtknvOp4jGVLybz0RjotRVQKVUpOaN2JYQEqimB4Rofo+AGD1xc5UrbwhyAvkgKeia9JZCijbpkWHAanEc2kQIn01i0r+tofpBgVgiroltAN4zuODnURnuZIQUvuWHn3Y6Wix0oqa9KCynfr2jTknzFU0N770ftQTPqCC7KpeEDUIfojEgWVzC1KAmzyTBFDwz68sBSmM+jJpAICytxbjkhRopAiTLNMNPR+DukQUtRffpDWqAiHyszBSuQBR8N8Vpu9KYqwYZQA==;QDO9zZpjDQYSBncZvJZ3nA=="

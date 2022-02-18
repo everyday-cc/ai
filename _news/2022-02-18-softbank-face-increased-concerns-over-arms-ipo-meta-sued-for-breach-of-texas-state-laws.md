@@ -568,6 +568,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 37
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
+        isCached: true
   - title: "Texas sues Facebook parent Meta over use of facial recognition, alleging privacy violations"
     excerpt: "Still, the company said then, it would continue to use facial recognition in some instances, such as when users have been locked out of their accounts. “There are many concerns about the place of facial recognition technology in society, and regulators ..."
     publishedDateTime: 2022-02-15T13:06:00Z

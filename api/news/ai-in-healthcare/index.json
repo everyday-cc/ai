@@ -73,49 +73,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-17-artificial-intelligence-challenges-what-it-means-to-be-creative.md",
-      "title": "Artificial intelligence challenges what it means to be creative",
-      "excerpt": "Not far behind was the composer David Cope, who coined the phrase “musical intelligence” to describe his experiments with artificial intelligence–powered composition. Cope once told me that as early as the 1960s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program",
-      "originalUrl": "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sciencenews.org/wp-content/uploads/2022/02/sn100_computing_spotlight-creativity_feat.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp",
-      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/artificial-intelligence-ai-creativity-art-computer-program/amp",
-      "publishedDateTime": "2022-02-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-02-17-how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery.md",
       "title": "How Digital Therapeutics Platforms Are Revolutionizing Healthcare Delivery",
       "excerpt": "Digital therapeutics companies are expanding their impact across different parts of the patient journey and are redefining healthcare delivery.",
@@ -1348,6 +1305,49 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-ai-collaboration-to-create-personalized-healthcare.md",
+      "title": "AI Collaboration to Create Personalized Healthcare",
+      "excerpt": "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
+      "originalUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 295,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
+      "publishedDateTime": "2022-02-01T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null

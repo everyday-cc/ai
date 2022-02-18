@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-19-ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research.md",
+      "title": "AI Weekly: Eric Schmidt’s new AI fund points to the challenge of financing basic AI research",
+      "excerpt": "like Meta (formerly Facebook), as largely toothless and ineffective. A number of experts, speaking to Wired for a 2020 piece, point out that corporate AI research can lead to an “unscientific ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/",
+      "originalUrl": "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/alexander-mils-lCPhGxs7pww-unsplash-e1629134618323.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/amp/",
+      "publishedDateTime": "2022-02-18T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale.md",
       "title": "Ethics waiver for Biden digital officer scrutinized after stock sale",
       "excerpt": "The Project on Government Oversight is calling on the Biden administration to rescind ethics waivers after a top official ... she sold her interest in an artificial intelligence defense contractor called Rebellion Defense for between $500,000 and $1 ...",
@@ -1393,58 +1446,6 @@
         "name": "softwarecornwall.org",
         "domain": "softwarecornwall.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-the-ethics-of-the-metaverse.md",
-      "title": "The ethics of the metaverse",
-      "excerpt": "Did you miss a session from the Future of Work Summit? Head over to our Future of Work Summit on-demand library to stream. We’re all in a rage about the metaverse, the universe of virtual worlds that are all interconnected,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/ethics-panel.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/",
-      "publishedDateTime": "2022-01-26T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

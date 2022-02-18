@@ -39,20 +39,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "i2c Partners with Qatari Fintech Startup KARTY to Launch Digital Visa Wallet"
-    excerpt: "The company placed first in the Qatar Science Technology Park Accelerator program, and is backed by Qatar Fintech Hub, Qatar Financial Centre ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim ..."
-    publishedDateTime: 2022-02-14T03:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=615471"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 21
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "3xO+sGPMYJHf0qiP3NrfJIhUCCO2s546L7SJVp3jMj2Hs4t9VhsEf38SeTik0vvYzWlRRH0i0lbBtWPsa7Dd+pSfR4SgVx/np14lwUk8uXUm1cTJC26i0oAbhJkhJzh2/BiqPEoPNCSL65LwNkLaE+7W4bGa6B1l4XKiySV8CDFjIzHByTGhdJI33m8caTohlQlcsAzRluEBfd0nSsJIAUVoost/h7rIvHCrqWrR0356x2llu8ZQw538Gs5sMAaG2tU7ZdfFRPFqzvqbKHD+l//0/G6b6gwBcjyuA2B1qWiUlQ7Liw1G3oaIlhujCJ5o9jm459wVB2whljp+tNJGoeKgjTZb6/K+WpzLmM+UH6M=;lycF/Zil/8yD2n4mfcg7Rw=="
 ---
