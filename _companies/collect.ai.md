@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "collectAI"
   url: "https://twitter.com/collectAI"
-  followers: 695
+  followers: 696
 
 size: 11-50 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "nWjzx6ybcwX/TJJd3aqp4L0WgUf6sVL5CQAAq9CBBEuIpWAt+p+q6JyGjEU6JZ9HbLUtYzoCx3qv/dpV1KSTTgvOGlo+fNhB7lAZ1K8Hdn2Qoa6Ydb9rg6n/LgK4XFHU59SFXTel+CuSBV8cYCJJCAJYUG+gjx4/xBD/8neqygMImyNuVdi/FvvLBPQSjwLrLZIEk4UcS9VVFPfTDIIfj2by+4QVPZNvPFNPajG4nmdtCZZjmvsxmHz3PRZ9yzrFGh89xhqVGmbJrc+gBtAbmzKmfudJb4SdBYiddhlDce36Gfoo1pSSYo2xsXeYouYoz1Tcu2pTJwq7Tqohe+ZUm4cALp6qrBUx7tFPi8LmCmHDTEDGg6oKB1Pqn78xhDKkWbAaAs8rK1+DyJZ/lMKF1Q==;BjA+13o/JekbWxOFszhJrw=="
+secured: "SPcb2L1fdRXdM7xb+tEJX5wGWL4v4xtfu/xyKDUSmB/J9iAJh84+sGU1LWoocjZQnkJq5ZMQkr0Z9XMm9Hq2jhnKdwPBRcI3YrmJwMOwQL0fEiwNQWQIbTpJ14ZI8Fc/xnqurfO8Kz9ITJOPMCiZXKSQfv4b+PhEfA0dYOILGiKwNLSeuT4Eg9lnpjm1xaKuH8RwSKsmRcc9xfu/IXdPJC0mlwq2+abDukcDVp2ArVOt3kUgbUsVfVwJd/jeCfdbWHEF1497IguotW2BtoQBsZw0E7OvUmvWi9ZgpXEkUpg0ucqLEIpbziBUshlJUgMoxNZKn95hFslBgLFxH+efkwdq/tVyjGR+5H+uSBvuJQm5ufN7NSbJ52Qn1U0mLCz4hNsb4kXxzBP3t0/90pw91Q==;4FG0vksYUz1oeSMLvcDdwA=="
 ---
 

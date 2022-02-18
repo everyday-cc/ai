@@ -2,7 +2,7 @@
 name: "AMP Robotics"
 overview: "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling."
 type: "profile"
-heat: 155
+heat: 175
 
 website: http://amprobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amprobotics"
   url: "https://twitter.com/amprobotics"
-  followers: 1676
+  followers: 1677
 
 size: 11-50 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
 
-secured: "SGDenGOWVTLcugt7gGwMkcfPO34g9oFjFnuI9P0EasqOgJsTX0xUeWfWkpMHAPyzT6K7Kz+ZbLp3qMpUrdDud3cbH8u3t32c17Ec28I5iKhB1BZ3h05zrD7RoCas9NWGpS+6EvsyElwEJmrFu0LjvlphR/tAQsDFiXT8e2iNdoXmLNVoTP21+RH75dyeeiLxzex1RWxNgBPv3mlWKHLRfcSN0HMddZaUUNSAj1PA+Zh+LK71ixudlYYQs5CAY14dtXTUehSs2HDz6/4+S5aLdlLqaJgmypKkkR6r+AQUXtbnlc612hpggJP+XNcPlUJu7/mW3xG1Fw/W6qcI63GR4MWsFB6tNLGetn/I+aNRLdQjFsGb1LqgiTxUtypd0C3PmZFdvm3h37bIKrldAzsuZmn6NIDzooFeTsMxmJUM3io=;A3Yf+rUjyrV7EnSiUXATpw=="
+secured: "uVwppXpxLrZRQYDXrW0jedY4/4vZ6RAqkq48TOsoUJzctp6CLSNe2icoeflN9QS6Es/xSOmST9WS774olflUG/qNTs9L+U8hvoLmT0BoOHLrrT94WlJWnpZyI3bpTFttJGi4ejX9o7Fu1sBZcpCtV70T3Qo/eDjBGq2G/dA/Jg6VcyrL9wlIcu2sRswJy+yBrfJbrJuQGrIrZjuS+g6g/ftGpn/xb7L+ypiLTs5gMspBZPWcKwh7b6IrbHhNAcVaP/C3cyA2j76R69zZu8iYMh/B334/NFS9NkP6WKhb60q0GYwJ+NvfAkdJDXpIMD+J9OPUg5xXMXznO1oDValvT1IzcWHgVtSxJjKFnX8PlFaSJ48naiEpUgj0nCrZv62iO4ow6JAoDGIsgt51DVEP+BYNii57AR8khkW1kdbkAR0=;GLL2riHEhnJ/BUAcQQ56sQ=="
 ---
 

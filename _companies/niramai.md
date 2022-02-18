@@ -2,7 +2,7 @@
 name: "Niramai Health Analytix"
 overview: "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®"
 type: "profile"
-heat: 50
+heat: 41
 
 website: http://www.niramai.com
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3mx-g-RJoKg"
 
-secured: "/Zke87H3WRZNtV8RcLNqAVEg0PU45h0RrlG7YfCRygbK5vQC8yXSri77wNUEkW1lS2/ToeRR+JSPCfyy85rlu2+KYdG+Y6WYKjsIxRkVtHAguVBM5se9B0PiiYFqPc4Dr10lv+52uRwNO1EB5ZnodSZkb+zHJr38nDRyCCuV9T7yMK/gOPongOVZHnBQ6OUnKZYUCToN/KZFTDNkJX47fudadVKdECoNwyz4Gu/Sg5ec2Vh1yBiEm7zWWDIbHmGTgiv0Bn5wgM2XUXWN34T2UDnC03JnRLFc2RHHWo9eWBoN1x+wnagWr2aenYj0q6nULApOn//EaPYWPpnhwqWIrWTtIxK0txxk9kLm4QTWj/CYgo8MltKLqrqm4S7ffttlgW5iwKAoVtGQvGTkS6V63w==;tLHMyjtcCiaxAOYSDMC9bg=="
+secured: "QJrDM9+Pcm7Ar8byt9pF+7RQRNe7SqNu5WLe8PeIcbLt9EFrXfNmepZuTfFKtjqPaJel2803jU52VljwD1jILi/5HsHN0vTP4epy+6AhR/JN03f2/HEJ2Fyji7DGadKV+nyDUvXCfDqsP+evEdyXAr+Omj24gM30aqlqOVH+GC75Fry6xcEmgw0wQj498FvpcojfE2eLtA/DMRAwDcjIJtolgcNKqVm/s8sVGafHHZGRHzYvGA3BDlVxp2F47xhGLAjK2pnLfcGhB/lCwiBdCIlCM4yjkKyRnNT7kze46rliJS3MARGJxIZOt4i3cNF0cOcbryd//4XP3fVBbHZWg7UOkA2YyTUglq2T8u7IuGivOl7kNZFPydbWlgu91zwqcUjGRcYIdAGJJ3bCzO68BQ==;/kqPJPxtI7oJVGZUvne3uQ=="
 ---
 
