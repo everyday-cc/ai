@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-14-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report.md",
+      "title": "Intel's Mobileye aims for self-driving shuttles in the U.S. by 2024 -- report",
+      "excerpt": "Mobileye, the self-driving technology unit owned by Intel (NASDAQ:INTC), has set a goal of rolling out self-driving electric shuttle vehicles in the United States by 2024 as part of its efforts to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "originalUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/951562278/image_951562278.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "publishedDateTime": "2022-02-14T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-texas-sues-meta-over-facebooks-facial-recognition-practices.md",
       "title": "Texas Sues Meta Over Facebook’s Facial-Recognition Practices",
       "excerpt": "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ...",
@@ -1154,49 +1197,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-worldwide-smart-hospital-industry-to-2026-modernization-of-healthcare-infrastructure-is-driving-growth-researchandmarketscom.md",
-      "title": "Worldwide Smart Hospital Industry to 2026 - Modernization of Healthcare Infrastructure is Driving Growth - ResearchAndMarkets.com",
-      "excerpt": "The “Global Smart Hospital Market (2021-2026) by Components, Services Rendered, Application, Connectivity, Artificial Intelligence ... Factors such as technological advancements, increased healthcare spending, a sedentary lifestyle, more awareness ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-health-artificial-intelligence-0cfa55926bc24e99aafea9847e2b3ded",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-health-artificial-intelligence-0cfa55926bc24e99aafea9847e2b3ded",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

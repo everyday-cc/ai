@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey
 webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028"
 type: article
 quality: 65
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
     quality: 10
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
-    excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
-    publishedDateTime: 2022-02-14T05:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-camera-market-size-share-trends-high-growth-rate-business-opportunities-demand-revenue-impact-of-covid-and-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/2532a3e059750315e745b1ddff96b7a5ea90be9d-600x337.jpg"
         width: 600
         height: 337
         isCached: true

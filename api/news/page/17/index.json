@@ -2,6 +2,48 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-02-03-pecan-ai-nabs-66m-to-simplify-ai-development-in-the-enterprise.md",
+      "title": "Pecan AI nabs $66M to simplify AI development in the enterprise",
+      "excerpt": "Artificial intelligence startup Pecan AI Ltd. today announced that it has closed a $66 million funding round led by Insight Partners. S-Capital, GGV, Dell Technologies Inc.’s venture capital arm ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/02/02/pecan-ai-nabs-66m-simplify-ai-development-enterprise/",
+      "originalUrl": "https://siliconangle.com/2022/02/02/pecan-ai-nabs-66m-simplify-ai-development-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/PecanAI.png",
+          "width": 850,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-driverless-big-rig-truck-company-partners-with-union-pacific-to-haul-freight-from-tucson-to-phoenix.md",
       "title": "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix",
       "excerpt": "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight ...",
@@ -1167,58 +1209,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-competitive-programming-with-alphacode.md",
-      "title": "Competitive programming with AlphaCode",
-      "excerpt": "As part of DeepMinds mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode",
-      "originalUrl": "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

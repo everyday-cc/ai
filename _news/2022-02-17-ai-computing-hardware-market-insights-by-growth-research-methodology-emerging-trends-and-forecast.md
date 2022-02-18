@@ -104,20 +104,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Camera Market Size, Share, Trends, High Growth Rate, Business Opportunities, Demand, Revenue Impact of COVID and Forecast 2027"
-    excerpt: "Market Research Future (MRFR) presumes the global AI camera market to reach USD 21.58 billion at a CAGR of 23.8% from 2019 to 2025 (forecast period). Artificial intelligence (AI) cameras include technologies such as computer vision, image recognition ..."
-    publishedDateTime: 2022-02-14T05:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-camera-market-size-share-trends-high-growth-rate-business-opportunities-demand-revenue-impact-of-covid-and-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/2532a3e059750315e745b1ddff96b7a5ea90be9d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Machine Learning Market Future Trend, Global Demand and Current Scenario by Forecast to 2027"
     excerpt: "Machine Learning is a part of Artificial Intelligence (AI) that grants computers the capability to learn without being detailed programmed. Machine learning market mainly focuses on the improvement of the computers programs that can be switch when reveal ..."
     publishedDateTime: 2022-02-14T13:09:00Z

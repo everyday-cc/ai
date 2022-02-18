@@ -1,13 +1,13 @@
 ---
 category: news
 title: "ODSC Announces Artificial Intelligence Expo is Back In-Person with Focus on MLOPs, AI Safety, and Responsible AI"
-excerpt: "Co-located with ODSC East 2022, this event is solution-focused, allowing decision-makers to learn more about what's trending in data science and artificial intelligence in 2022, AI solutions, and machine learning platforms and services. Attending this ..."
+excerpt: "Focus areas include machine learning, deep learning, NLP ... This year, a few standout companies include Oracle, Microsoft Azure, Z by HP, SAS, Neo4j, iterative, Cloudera, and Iguazio. More than 40 companies will be participating this year."
 publishedDateTime: 2022-02-18T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/odsc-announces-artificial-intelligence-expo-is-back-in-person-with-focus-on-mlops-ai-safety/article_636fc155-83a8-51e2-b9d5-093f9c1998af.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/odsc-announces-artificial-intelligence-expo-is-back-in-person-with-focus-on-mlops-ai-safety/article_636fc155-83a8-51e2-b9d5-093f9c1998af.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/odsc-announces-artificial-intelligence-expo-is-back-in-person-with-focus-on-mlops-ai-safety/article_636fc155-83a8-51e2-b9d5-093f9c1998af.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/odsc-announces-artificial-intelligence-expo-is-back-in-person-with-focus-on-mlops-ai-safety/article_636fc155-83a8-51e2-b9d5-093f9c1998af.html"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: wfmz.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 338
     isCached: true
 
-secured: "+w9PDGMUj3Gs0oCmgbT4eVCDTAhF5oLDOel5a8DgG48vMPjzGtiweD9vLff8lfUVixEZEGUkaR0Uz/ctV0ZUmcBlEAxulI/0iMwysq27KrFsFV+RctJieztkcwsvjoMSt6aBtKl8kajsXdk3P4DYVlZH9eWDX6QXXOrhdsOJXt+8z7ILB465r9yzIhW17xERZ7pOS6Wx0vlmgQc4MkBOShP8d+SQoKpLCW2XsLRJQk9YNKf4W6JW0M4N+7ugQNw4f3j4oOY0fl5TlbhgJeWcZu+tqjoc8oeRLNiTf58uqGkzokF4v1BndFpDZOBcUh0jSfnSC+tVBuQhcGUcP2J9Lo3ypQbG3bPkohDZcKa1ctA=;ydMJITlg1gDAPViAS0I9LQ=="
+secured: "hRpX1imlnfkfxQAxXQSF+aF7LWsWKUuEbGpoej/1u/DGiq8zAb4bcmBLiB3B6gS8H0Q8SCi3f3diwYH6YnbilEms7ZPjqggMhm1ZML6ircU2NBGWzyTQjFJPVUuIgozQldrix11m448q8d3jHMM9Ys5GxyfwF+1++Yh7Se8U3zzwcmLPt4BMjrwEA9sJ0CkAc/7kKNwjnv6+uSNe9+vKNF7Iu8d2SUreC49t5q6Z41LuMJ0kfwVbJmIisIcUONW0iKiTMFvMHuQ419iJtRaAFk8K0vCMjPhgOmji3S7HSU5mSAabgSerRHfuHSRK7yL46P/1bIKbxJ/HVsi11S7OtJgt84fj+UqjHthtntxnhBI=;2ORF1GwCblJCxnE6tja1VA=="
 ---
 
