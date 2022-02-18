@@ -73,6 +73,20 @@ related:
         width: 1724
         height: 1080
         isCached: true
+  - title: "VNG Group pumps $22.5 million into fintech platform"
+    excerpt: "The fintech firm is licensed and registered to operate in four ... or you risk losing a lot of money. Having proven our AI-led credit capabilities in an unprecedented financial crisis, we look to serve SMEs with neo banking and a deeper regional presence ..."
+    publishedDateTime: 2022-02-18T08:43:00Z
+    webUrl: "https://vir.com.vn/vng-group-pumps-225-million-into-fintech-platform-91347.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 24
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/luuhuong/022022/17/17/in_social/2451_funding_societies.jpg?randTime=1645174883"
+        width: 600
+        height: 453
+        isCached: true
 
 secured: "jeR1B90RrKW833rPMh5S9eSHj/QkvBfqKbs5JbpRJ/pJ2b4gS/Beut72tYlHdgMWs5aGJnvgUkrr6Z8Yoli+Kwtt/06i1lrpaaldvu2eAmR0vV2k4ujwtWote0kL8gcb2jYeiGbpARe4mYMNipMmLPFvb6vJuTtoSDZa/7Jfns53opOhwHf3pgsecgdZoBYF6V8yb1/N87WRXcML3Ajbjbrdj5Kzp0qAO9yPVA1QNa2aj9LQFRNOOixJGCCBuS8W2CsHbCEKxg6W1lrHwtHhApDnqJIY0LBp7nblXGcjWUA1/ShGmwxRkNpoECqnYhTJwSNvgaM7eBTOuJoI/yoFt6gYFw8p7eyW8+7CS5pF+ls=;yEmyBcw6rw8PXDCA9YBrAw=="
 ---

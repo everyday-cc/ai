@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Accelerating fusion science through learned plasma control"
-excerpt: ""
+excerpt: "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning."
 publishedDateTime: 2022-02-16T00:00:00Z
 originalUrl: "https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control"
 webUrl: "https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control"

@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Insuring The Self-Driving Car"
+    excerpt: "The “Full Self Driving” technology that is being implemented in the next generation of vehicles has many challenges for consumers and insurers. I recall in 2018 seeing studies that self-driving cars do not always register two wheeled vehicles ..."
+    publishedDateTime: 2022-02-13T22:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/insuring-self-driving-car-anthony-deguerre"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE2tOgrB3xnjg/article-cover_image-shrink_600_2000/0/1644789421849?e=1650499200&v=beta&t=uwrnBY0wXHqUGYoaePWjqKpKTwVfWWrTKs2BaqPtzHQ"
+        width: 624
+        height: 468
+        isCached: true
 
 secured: "1xKxd8sNvPCLZJEYGAAZHrQKQK9Op8sZjtKREjBwIgPn2Y8EAzc9eFuHwne27JMjxtWcGOQtiUUXu4TCH1rWCZE4BUn51AVdPNEuaoFMHWleCgeS95+fHbuaVxirgE2nTputKw7K0s5n0RLbp4bCA56G8VdFnLZXo8PKo0IgxD7FJJdQKP8K+XPNraIpx7IByL2NBvZT1OvOGybWOPVDAcB+8xf9CkE61Jr+cm/6fUvb+NjNK27r3KmO41aFULituqOpTV4XiPrNM1gs+ckjgOBf7JeZkUry+84JHBnppDutSDbYR8y/7pBnDS/PMjqvK89cAFFIz1UKiL0EESMMOsQNx4f0aqsOPUwW1I321irgrzV9+BqhEcu55Aq3fD0VaWADKeZulv6jqqTRmP4sMT4P4zh1iiTsn7hiOTOXaCIb/WQGIRw70tZLpjPagb3yIo6pEEGiCEZDnHeHV1BcDin1nafTp1S40KePZ4EoZeg5OFcUBGisPIXih6/KuoGnk3+rIvLbmh2Fv81iIsOpag==;mPwB3RoEgtoCRce/8XTZSw=="
 ---

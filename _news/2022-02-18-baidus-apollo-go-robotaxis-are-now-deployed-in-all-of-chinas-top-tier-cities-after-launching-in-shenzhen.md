@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "More big cities catching robotaxi fever"
-    excerpt: "Beijing residents use the robotaxi service provided by the technology giant Baidu Inc. [Photo by Jiao Hongtao /for China Daily] Shenzhen, an innovation hub in Guangdong province, began offering self-driving taxi services in downtown areas on Thursday ..."
-    publishedDateTime: 2022-02-18T01:19:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202202/18/WS620ef43aa310cdd39bc876a3.html"
+  - title: "Baidu is bringing its autonomous ride-hailing service to Shenzhen"
+    excerpt: "The Chinese search engine giant is now trialing its self-driving taxi service in seven domestic cities with its testing fleet logging 21 million kilometers (13 million miles) since its inception. [Baidu release] Every Wednesday and Friday, TechNode’s ..."
+    publishedDateTime: 2022-02-18T07:23:00Z
+    webUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
+    ampWebUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
+      name: TechNode
+      domain: technode.com
+    quality: 59
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202202/18/620efa71a310cdd3d82e6968.jpeg"
-        width: 720
-        height: 480
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
   - title: "Baidu Brings Apollo Go Robotaxi Service to Downtown Shenzhen, Expanding Presence to All First-tier Cities in China"
     excerpt: "Baidu Apollo's ride-hailing service platform Apollo Go has launched trial operation in Shenzhen's Nanshan District, providing autonomous robotaxi services to Shenzhen commuters. Shenzhen is the seventh city where Baidu has introduced its robotaxi ride services in China,"

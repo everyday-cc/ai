@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Insuring The Self-Driving Car"
+    excerpt: "The “Full Self Driving” technology that is being implemented in the next generation of vehicles has many challenges for consumers and insurers. I recall in 2018 seeing studies that self-driving cars do not always register two wheeled vehicles ..."
+    publishedDateTime: 2022-02-13T22:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/insuring-self-driving-car-anthony-deguerre"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE2tOgrB3xnjg/article-cover_image-shrink_600_2000/0/1644789421849?e=1650499200&v=beta&t=uwrnBY0wXHqUGYoaePWjqKpKTwVfWWrTKs2BaqPtzHQ"
+        width: 624
+        height: 468
         isCached: true
   - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
     excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
