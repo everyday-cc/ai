@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 88
 published: true
 
 provider:

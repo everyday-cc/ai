@@ -1,29 +1,33 @@
 ---
 category: news
 title: "IBM launches 2-year global pro bono environmental program for non-profits"
-excerpt: "IBM (NYSE: IBM ) today announced the launch of the IBM Sustainability Accelerator, a global pro bono social impact program that applies IBM technologies, such as hybrid cloud and artificial intelligence,"
-publishedDateTime: 2022-02-17T13:22:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10"
-webUrl: "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10"
+excerpt: "IBM (NYSE: IBM) today announced the launch of theIBM Sustainability Accelerator, a global pro bono social impact program that applies IBM technologies, such as hybrid cloud and artificial intelligence,"
+publishedDateTime: 2022-02-17T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits-1031204798"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits-1031204798"
 type: article
-quality: 23
-heat: 23
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
-secured: "1O7G6TjT4F3LUPWtwLbpBqsnylhUQl6p5l3+9fiJbJS/TPMbg/GCZjV967aUspPQRKS8I2EnIieUVB22QrrKKnc40V6yImPyFqvu/JNDRk8q6kR9KaQ81ZK3AxebxIEW/qXzfv6EIQB5EnaW00ewVwIWUh6Ev1sKAaOgnIlD6niSEvid9XTtrj9AU1eNdAhKDL5Yqvn78oRXma1syIUd/jem8uQl2g39csrzTxkxp4hFb7x8lGRAFyHjduUCmf5OFUho9E4lTn4fHXzfgIiDZGgoUfEaJbpf2D1DPfEEmuZt3TfVE4gPBaSJLZTq7wMWlh0T/6y/BUVuawllIX5VFYYe7mWybhHdZsjMax/MJNU=;LQts+c7M6UBbmJhcapJ79Q=="
+secured: "WnrxxjUlimQ833Im07MuufQiWK+QHM8EMnKe54Oblm61XGvzfef9D7JfSIzbxRQWRw8XtvCAzOtO9dLvyvXUfVudXcPx5YP/Qy5OJO49wXzhZGu8CFdO9Ro/fxmb32NNsE29q3QU58ALa7hW28+JolIJ60wLsyqMHzi2EVk+wf+QIRjEmWuKi9jWhQhK0N++DjOf3htij5KJNsH7uvr5YziEdKUZeFizW9CWx6mzQngMwxywSxSHW4RKSW/anv9wYOcstbS5XuaWVomD1WUcyprGzhLxdL9MBomAxQV9R29pXI+dOKq7sInfvVxRf3GOXPazLqYAwFh1oolIY7UQJdvoR66qvXnjwJEgUwbi1Y4=;SVm1GE9EbF9c6sfAD2abAw=="
 ---
 
