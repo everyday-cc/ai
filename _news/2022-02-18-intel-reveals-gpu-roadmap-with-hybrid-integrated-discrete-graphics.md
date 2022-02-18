@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel reveals glimpse at multi-year Xeon roadmap, teases long-awaited GPU tech"
+    excerpt: "Intel has unveiled its latest Xeon CPU roadmap reaching through to 2024, revealing a distinct focus on power efficiency. The new “ultra-efficient” ‘Sierra Forest’ processor family, due for release in 2024 on the Intel 3 process technology, will ..."
+    publishedDateTime: 2022-02-18T12:16:00Z
+    webUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 80
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645183040/itpro/intel_xeon_2024_roadmap.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Intel Falcon Shores Puts A x86 CPU And Xe GPU In A Single Xeon Socket For Supercomputers"
     excerpt: "Falcon Shores will bring x86 and Xe GPU acceleration together into a Xeon ... systems computing large data sets and training gigantic AI models,\" said Raja Koduri, head of Intel's Accelerated ..."
     publishedDateTime: 2022-02-17T20:04:00Z

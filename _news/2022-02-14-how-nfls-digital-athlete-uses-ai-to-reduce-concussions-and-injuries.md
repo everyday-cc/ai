@@ -40,6 +40,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Strategies for insurers to grow AI responsibly"
+    excerpt: "This is necessary in case of an audit. Plus, thorough documentation gives teams a head start on developing new AI. By using their previous work and learnings as a starting point, model developers can save time and create new models without having to start ..."
+    publishedDateTime: 2022-02-18T12:00:00Z
+    webUrl: "https://www.dig-in.com/opinion/strategies-for-insurers-to-grow-ai-responsibly"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/563b163/2147483647/strip/true/crop/6000x3150+0+191/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1f%2Fd2%2F1e68ae05429cba98e65bd393c82c%2F372961209.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "z3xagDFxpAVAUUNMWOt+V9W4qCH/sZkJcLpoAn3GxzCQ/2upDmGPqdt/toSr2GGkamI8y8PCBE3IwXhj6y4ufgVgOytrkV8uJt8ZtiCnrGX7XIAzTAuq98G/eCQnPZakbd0+Us3DS4yjh9DXxq4DqSoVAAJZaJQaMDYmGuIXA/QRow/xUUZ00RiMwFNhQgph3VaQGK9PjcU70J6GlpuXkj44LSiSzkdYQ9Nyd5aqrRP6GTVulDmimIF0JxM9z7PvBTJ1INawa7KOilfAg5Xb08kvUbl4oyZ7Q+S4BB8qLGHA1ZdzrONo6rugjThvWth1KATVP26h4iPi7NA8rpeBp06w0HTeoQC8sbuSLlAntGXCnyYfh1e1EMadUhKaYIG/X396sfyE49gygz3u2o8/cyqqHmg2x8TlIxTU3augeS7SEgSrFj7NApZGFstUxTrj1yv/3GNkpTpgaa/C3TeFItpC+LDj+z94msXcPp6Xf1RiEaqAO+S9WzYKJAMxRdZw916fwKG8ebeQTI0nTEau6w==;/MYbtwXjhMh7HBoy7S2+fQ=="
 ---

@@ -60,6 +60,22 @@ related:
         width: 1920
         height: 1105
         isCached: true
+  - title: "IRS Scraps Plans to Use Facial Recognition Technology After Bipartisan Backlash"
+    excerpt: "Virtually universal condemnation of an Internal Revenue Service (IRS) plan to force all Americans to use facial recognition technology has caused the federal tax collection agency to change direction. The plan would have forced all United States taxpayers ..."
+    publishedDateTime: 2022-02-16T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 55
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/02/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
     excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
     publishedDateTime: 2022-02-15T15:42:00Z

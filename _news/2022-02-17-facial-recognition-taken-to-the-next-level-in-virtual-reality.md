@@ -43,6 +43,22 @@ related:
         width: 420
         height: 241
         isCached: true
+  - title: "IRS Scraps Plans to Use Facial Recognition Technology After Bipartisan Backlash"
+    excerpt: "Virtually universal condemnation of an Internal Revenue Service (IRS) plan to force all Americans to use facial recognition technology has caused the federal tax collection agency to change direction. The plan would have forced all United States taxpayers ..."
+    publishedDateTime: 2022-02-16T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 55
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/02/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
     excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
     publishedDateTime: 2022-02-15T00:03:00Z

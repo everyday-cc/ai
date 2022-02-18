@@ -64,20 +64,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "Intel’s Mobileye with its partners to launch self driving cars in the US by 2024"
-    excerpt: "Intel’s Mobileye announces plans to build and deploy self-driving cars in the US by 2024. The announcement comes in a bid to scale up its automated driving systems beyond the current system of ride-hailing and others. Mobileye and its partners ..."
-    publishedDateTime: 2022-02-15T02:41:00Z
-    webUrl: "https://techstory.in/intels-mobileye-with-its-partners-to-launch-self-cars/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/641220_39429767.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Intel's Mobileye plans self-driving shuttles in U.S. in 2024"
     excerpt: "SAN FRANCISCO -- Intel Corp.'s Mobileye unit plans to build and deploy self-driving electric shuttles with its U.S. partners in 2024, in a bid to scale up its automated driving system beyond taxis and delivery vehicles, executives told Reuters. Mobileye ..."
     publishedDateTime: 2022-02-14T20:04:00Z

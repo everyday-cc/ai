@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel reveals glimpse at multi-year Xeon roadmap, teases long-awaited GPU tech"
+    excerpt: "Intel has unveiled its latest Xeon CPU roadmap reaching through to 2024, revealing a distinct focus on power efficiency. The new “ultra-efficient” ‘Sierra Forest’ processor family, due for release in 2024 on the Intel 3 process technology, will ..."
+    publishedDateTime: 2022-02-18T12:16:00Z
+    webUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 80
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645183040/itpro/intel_xeon_2024_roadmap.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Intel reveals GPU roadmap with hybrid integrated discrete graphics"
     excerpt: "Intel's Arc GPUs will get really interesting starting next year with its GPU code-named Battlemage ... He went on to take a shot at rival Nvidia, which dominates the supercomputing and AI space, and has an early lead in the metaverse opportunity."
     publishedDateTime: 2022-02-17T23:59:00Z

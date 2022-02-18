@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/merck-kgaa-taps-into-quris-s
 webUrl: "https://www.fiercebiotech.com/medtech/merck-kgaa-taps-into-quris-stem-cell-powered-drug-screening-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Merck will assess Quris’ AI ‘patient-on-a-chip’ drug safety"
-    excerpt: "Quris’ BioAI safety prediction platform – which is based on human tissue samples on chips, nanosensors and machine learning – will be compared to traditional in vitro and in vivo ..."
-    publishedDateTime: 2022-02-13T20:22:00Z
-    webUrl: "https://pharmaphorum.com/news/merck-will-assess-quris-ai-patient-on-a-chip-drug-safety/"
+  - title: "Unlearn.AI, Merck KGaA collaborate to expedite immunology trials"
+    excerpt: "Unlearn.AI and Merck KGaA have signed a partnership to expedite late-stage immunology trials using new designs that comprise Digital Twins."
+    publishedDateTime: 2022-02-17T11:44:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/news/unlearn-ai-merck-immunology-trials/"
     type: article
     provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 54
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 39
     images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2022/02/Quris_BioAI_still_image.jpg"
-        width: 640
-        height: 300
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Mkgaa1920x1080-1038x778.jpg"
+        width: 1038
+        height: 778
         isCached: true
 
 secured: "5yXtvviyWvf1dajZCM8Pn3L7olwklMEjmo7q37D8bHxNNIsbkb0gYUuSKfXBW3L6pXU6nFwkf93H3kqav0ZnswHpfoEN/ozlITPA8ZpWLts6wQyjCDvaSzz4/LLLXonrlRnN7iEZSr53st5BfI5dxzMNctFC0SCroEIRXAzJyakXd1Auj77LR0+wRvOBYySHZ/H4r9Vud/mk6gOcR3UxmSya4pNbdEzyUelvxOfqvUFrGBv71yQdzbtyMZj7tzfbrceA9PcQzsb2TuHSrcZOUe0iorhAybcYUcj6teB1+NFdCJhf+uhRMbt+4OHTRvT0TqmFYcUtHFG3rr249SS+ebd93hZZV8t7MrlIj1VMhxCIpKO1nzg/TZiylz+Vhfft1TmORSGPX6M4i0ixKYct/r7rLxTOT3l28rhBSmreDdSBksOsjpE7GLvNKwt2LFt0rkwp0DH9pw0H0pHVdmTL83sQOb3SpN7zKEhGZFvqRqJeBAbTNgHCl61YGNxyxwsH3h4RY9x2cMhBmKXYvs/DyA==;t/C1RqWgTh4h3PyBIepVVg=="

@@ -565,6 +565,20 @@ related:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
     quality: 26
+  - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
+    excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
+    publishedDateTime: 2022-02-16T21:02:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21257061/texas-sues-meta-over-facebooks-dropped-facialrecognition-tech"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/US_NEWS_CPT_FACEBOOK_TEXAS_LAWSUIT_DMT.620d653a2f844.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook owner Meta sued by Texas over facial recognition system"
     excerpt: "The filing alleges that Facebook violated state privacy laws ‘not hundreds, or thousands, or millions of times — but billions of times’ © AFP via Getty Images"
     publishedDateTime: 2022-02-14T18:23:00Z

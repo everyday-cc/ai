@@ -1305,20 +1305,20 @@
     },
     {
       "path": "_news/2022-02-07-aiml-innovations-tech2heal-selected-for-prestigious-health-tech-campus.md",
-      "title": "AI/ML Innovations' Tech2Heal Selected for Prestigious Health Tech Campus",
+      "title": "AI/ML Innovations’ Tech2Heal Selected for Prestigious Health Tech Campus",
       "excerpt": "TORONTO, ON / ACCESSWIRE / February 7, 2022 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-for-Prestigious-Health-Tech-Campus",
-      "originalUrl": "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-for-Prestigious-Health-Tech-Campus",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?786443",
-          "width": 375,
-          "height": 250,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/129c9d3527a44bb72394eb2f37ffd03563881116-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1328,11 +1328,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T06:39:00-08:00",
+      "publishedDateTime": "2022-02-07T05:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1342,6 +1342,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI",
         "Machine Learning"
       ]

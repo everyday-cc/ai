@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Intel’s Mobileye with its partners to launch self driving cars in the US by 2024"
-    excerpt: "Intel’s Mobileye announces plans to build and deploy self-driving cars in the US by 2024. The announcement comes in a bid to scale up its automated driving systems beyond the current system of ride-hailing and others. Mobileye and its partners ..."
-    publishedDateTime: 2022-02-15T02:41:00Z
-    webUrl: "https://techstory.in/intels-mobileye-with-its-partners-to-launch-self-cars/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/641220_39429767.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Intel teams up with Benteler and Beep to develop self-driving shuttles"
     excerpt: "“Working with Beep and Benteler, Mobileye aims to mass-produce first- and last-mile self-driving mobility solutions that will enable the convenient, accessible and safe movement of people across ..."
     publishedDateTime: 2022-02-14T18:22:00Z

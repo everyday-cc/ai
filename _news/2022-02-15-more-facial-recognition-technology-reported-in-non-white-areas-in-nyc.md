@@ -1,23 +1,22 @@
 ---
 category: news
 title: "More facial recognition technology reported in non-white areas in NYC"
-excerpt: "\"The facial recognition tools are not attached to those ... effect on how people engage and how they make use of their free speech rights. It's extremely frightening thinking about how protests ..."
-publishedDateTime: 2022-02-15T05:30:00Z
-originalUrl: "https://abc7chicago.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
-webUrl: "https://abc7chicago.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
+excerpt: "More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non-white residents, according to new research by human ..."
+publishedDateTime: 2022-02-15T00:30:00Z
+originalUrl: "https://abc7.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
+webUrl: "https://abc7.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"
@@ -43,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "JYnuFzk2oKCfeP44DVaBuA/9Km0huLIJjRmkAWPqyc40DJqy+f9rnYUXB3mXTNKtw2Ht3TGvu8sgnST46oC9fWzOZ32jmlmiyhTzcM6SeLw3eYXbOKTr+P8wgCEXB1My0FaSP4FzdwYXMjvzN99npH2NUCaoMFfdVOTSZ6rlL6x+lVn+ub6GlzIshAtg+6qhv03Bt4FatENLeDrtPdIYEireexTnvF4lkgmPyMFMqb844bfRJfi8rQNyZDyS12xgnQKlWrgL92Dd/vDOa5VoOMmgDs93C+JcJre8+BKZg2k2uxO8U6TPA17C1/V9iSfOdDRoZyCkRJHV2+VGNihUWPxb9iYmX5mzmiqKVZyyh+o=;j4AsoHdSzsq3zGBDCaXs1w=="
+secured: "UyKGTTANTWhdldDBw8f1DpFLn3Dovs59N4iRUZdi4uRuHr31rpLIqUn30i5Utr7zmef9DMi9edzVLiAMVxHaazGXUtpgnDU7PmHKgFUL7MmEuZJ3lUQ9t6Wf2A64hDugyIXX3e4xhVO9PSJyOuh9F7zhxzyXHZXaPSPjbzcGKAyTPJK8tzYsYO2z5g/5cJjtnPngvPnblXps0oAIpig0oVbAzVSyiPPwQJ07LP42+h7JQ4prn9HnvEIsLUZcTfm/0xRzpcRhlYk4ttl3UxdPHgKwLmX/sZISF6OJti7TKUY+56bmMa3SUjjG0t2Xd3Z0UxvhyF3oRwz0bWYgftCmqnWyrGe0Be4ocSDizyEq+FI=;nXlYRWE2QLjErBw7+L190w=="
 ---
 
