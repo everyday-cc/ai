@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "More big cities catching robotaxi fever"
+    excerpt: "Beijing residents use the robotaxi service provided by the technology giant Baidu Inc. [Photo by Jiao Hongtao /for China Daily] Shenzhen, an innovation hub in Guangdong province, began offering self-driving taxi services in downtown areas on Thursday ..."
+    publishedDateTime: 2022-02-18T01:19:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202202/18/WS620ef43aa310cdd39bc876a3.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202202/18/620efa71a310cdd3d82e6968.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Baidu's Apollo Go Robotaxis Are Now Deployed in All of China's Top Tier Cities After Launching in Shenzhen"
     excerpt: "In April 2021, global consulting firm Guidehouse named Baidu as one of the \"top ten autonomous driving developers in the world.\" Others include Alphabet Inc's division Waymo, which spun out of Google's self-driving car project, and San Francisco-based ..."
     publishedDateTime: 2022-02-17T23:15:00Z

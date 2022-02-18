@@ -59,7 +59,7 @@ related:
   - title: "Customer Experience in the Age of AI"
     excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
     publishedDateTime: 2022-02-15T13:00:00Z
-    webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai?tpcc=orgsocial_edit"
+    webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai"
     type: article
     provider:
       name: Harvard Business Review

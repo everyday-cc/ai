@@ -39,22 +39,6 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "Indian Engineer Develops AI Model That Instantly Translates American Sign Language To Eng"
-    excerpt: "Priyanjali Gupta, an engineering student from Tamil Nadu's Vellore Institute of Technology (VIT), has created an AI model which can translate American sign language to English in real-time. A third-year computer science student, Priyanjali Gupta is ..."
-    publishedDateTime: 2022-02-15T15:41:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jbxoumigagmwijxk_1644938606.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Africa can benefit much more from artificial intelligence"
     excerpt: "Artificial intelligence (AI) was once something we considered science fiction from movies like The Terminator, Robocop, The Matrix or Star Wars. I lived in this fiction until around 2010 to 2015, where personal assistants like Siri, Google Now, Alex and ..."
     publishedDateTime: 2022-02-16T10:02:00Z

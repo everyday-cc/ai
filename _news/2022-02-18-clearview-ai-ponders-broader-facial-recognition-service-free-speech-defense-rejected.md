@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-17T19:44:00Z
 originalUrl: "https://www.biometricupdate.com/202202/clearview-ai-ponders-broader-facial-recognition-service-free-speech-defense-rejected"
 webUrl: "https://www.biometricupdate.com/202202/clearview-ai-ponders-broader-facial-recognition-service-free-speech-defense-rejected"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"

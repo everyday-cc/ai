@@ -3,8 +3,8 @@ category: news
 title: "Customer Experience in the Age of AI"
 excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
 publishedDateTime: 2022-02-15T13:00:00Z
-originalUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai?tpcc=orgsocial_edit"
-webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai?tpcc=orgsocial_edit"
+originalUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai"
+webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai"
 type: article
 quality: 37
 heat: -1
@@ -71,6 +71,6 @@ related:
         height: 467
         isCached: true
 
-secured: "beo2nYVQKbBsLeCRLNTZq0jtnk0vHB9daqc+NCppxq2eqFiKKAR8wDoT+uC6KLhhzYbPKcsCAOCncsewliLg0dgYqv8966sPHAkee+Krh7ijkm2kcjAcv/3vzcy/fAmbDEGdEoM58PNbFMqa6FiZslTHgZj6OL1hKU6fpdUeWECFXhRxwXCnXBgHmamYuHukgtI774dp6DGtpgXELp8Xr0YnzyDteNuOvQel2vH8xV0ZASGSqcTkE5978wFXqXtpMU5ovgWwoSBQIeWmZhWMcm0Xm6GK8p3/MfpLmKM/FR2Uz4fjO0OSA4KFsJcQu0JJdUSocrI6vtj64FVB+5Krp7GhsFDHitZqtBNU7LHo55D0r1eOG0XjxrJWNNp2cpIZDsSovyG9BZO5hVf+bcG5QkBwV3kI2Unzc6HcK3qm26HplHuCItn3l04GHnJpH0UgplTwEeP/tS11Fa0z+CISUQ6afWBYSrzRd1DliYfZW6rbbR1uZGTVrQrMHM8pWtIuK+lbnKFlJtQXE0gPujouIw==;+4eUtc4KP9IKHrPr/YIgmA=="
+secured: "RHsA9yQxka/4s/Ee9E3kbyyy3H5RTwZZcMbPM8TBZk8mgDNmc3/BUCGujh3ZttpCr3namXMXTTOIwbWrw6U6xmLJFKGCGciYTtUBXmi0RyJ/Q8APz+/oA2ZAeX2iZr7hhJfUA7Awm9ELuMRcFibwFn89zUoWFIPtcQRFUbg5IDf/tfJN2R8+g+lqPuvwOrwxGUOZd8OgmHCTP5aUYI+hCDCbiVsXV0JwEh/WaNyKWfsIov31xIaksewGSvPnlsfJDDxYnnd7qKt/7bSIdWkmsTU0buQiHfSwW3So889Y6q5jBHaClWGAUhZnmgIL012zXF/yEH0zu2ySMD4v608YoUC9+lm0if6C7Vr8z/w34TI=;3fNmBP1kSdZKmpRdSBsyww=="
 ---
 

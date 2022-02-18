@@ -2,44 +2,25 @@
 category: news
 title: "Infrrd Positioned as the Leader in the 2021 SPARK Matrix Analysis for Intelligent Document Processing (IDP) by Quadrant Knowledge Solutions"
 excerpt: "Infrrd's solutions leverage artificial intelligence (AI), natural language processing (NLP), computer vision, deep learning, and machine learning (ML) for intelligent document processing. Driven by the dynamics of the COVID-19 pandemic and its impact on ..."
-publishedDateTime: 2022-02-07T13:32:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/infrrd-positioned-as-the-leader-in-the-2021-spark-matrix-analysis-for-intelligent-document-processing-idp-by-quadrant-knowledge-solutions-811298096.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/infrrd-positioned-as-the-leader-in-the-2021-spark-matrix-analysis-for-intelligent-document-processing-idp-by-quadrant-knowledge-solutions-811298096.html"
+publishedDateTime: 2022-02-07T13:56:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/infrrd-positioned-as-the-leader-in-the-2021-spark-matrix-analysis-for-intelligent-document-processing/article_a4f39342-c4f7-58f1-8820-a78a628e59e5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/infrrd-positioned-as-the-leader-in-the-2021-spark-matrix-analysis-for-intelligent-document-processing/article_a4f39342-c4f7-58f1-8820-a78a628e59e5.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/746706/Quadrant_Knowledge_Solutions_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/17/5176e5a2-6f84-5cef-9a86-bb14fc4711b2/603f8d09cf68e.image.jpg?crop=775%2C407%2C12%2C0&resize=775%2C407&order=crop%2Cresize"
+    width: 775
+    height: 407
     isCached: true
 
-related:
-  - title: "Infrrd Positioned as the Leader in the 2021 SPARK Matrix Analysis for Intelligent Document Processing (IDP) by Quadrant Knowledge Solutions"
-    excerpt: "Infrrd's solutions leverage artificial intelligence (AI), natural language processing (NLP), computer vision, deep learning, and machine learning (ML) for intelligent document processing. Driven by the dynamics of the COVID-19 pandemic and its impact on ..."
-    publishedDateTime: 2022-02-07T16:21:00Z
-    webUrl: "https://next-generation-communications.tmcnet.com/news/2022/02/07/9539969.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/746706/Quadrant_Knowledge_Solutions_Logo.jpg"
-        width: 400
-        height: 204
-        isCached: true
-
-secured: "XESILQWQvBqcPHoinVyiVUerBJm9dmlsDtXRZB0In3QHYmhQIHHZ7yeiBAB3/XGmDnN921q7JVroeIRAJlqUMM7Qp/DMFF/IPkhE/k1Gu9bjhmNuQzD2G3aKq7+NAaubzJwyj2zBX8obRxSLeAtIFyEKDhGvNhqDNrds+6QA8inzZYrwRgDsdiKhIR6P20fsIv/FJtCPFZH+JKmidigFidn9gkSCR81Guk3VpYRCYeiFTpXMUjbXwCUlXNjM7rKf6zn1KBS3XXbVtP0p0vKfhRFr/gYpWk228ZzLiIeP0N71+Ys0VLJChoKaJ1fonjTt1PvOzceUPt9LrnGSNl29DFONtXWW7MhUAcJp83V6R1MvuNwXptwx99B+GL46EvLdI2teTQJrRnRmPZvAuFdbXJbuYAL4ZrnHD9bS3XsqiApc1Uzhv48IhAhDzw7IpDY/jlNWcVwGfP03kti8p5Mh/T6h2H/avrJ4Yuu0pFReTl4hejh9JENa9mXlONhEzl+H2nDoS+sQijKx/sYe+YP5Ow==;aROlibhqUTyzWd0LlJ0dGw=="
+secured: "kS/XqQ9axXNFCLTe9N8Tnnriy7yq0BckBE2zcNBmutxGLcgBktbEE0A3e4QYSRyui8MkpANasudyjrMlQp09XySXt0IlHQNt5FQQLJw/M+i6bCzuuFbW1xOBZ69H56y6PSggAj4r4YkaeEbFz4o2s6n6Y2zk0YTXQWbgOS4pK+6jbGZa/g+skIutiVTD/Mq7s9PjilJdgeQDWTc+qnFMkuZxs91coBzbP2U2IqDrleCX0LNxVTg6yYjm30qC0yfchKAC368bHNQWpTCsk/+rtRMurD509wBwfhrBoFQ7XG+lFF1mDoUSqd2YaPfpmdpFC8qged7Sxonpw/du4jZAuxqfsFb5Z/eqYsnsX09fBRM=;0M+5ladKrfwWq49F+dOz6A=="
 ---
 

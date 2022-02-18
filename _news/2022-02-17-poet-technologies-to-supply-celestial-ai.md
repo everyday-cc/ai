@@ -7,7 +7,7 @@ originalUrl: "https://compoundsemiconductor.net/article/114239/POET_Technologies
 webUrl: "https://compoundsemiconductor.net/article/114239/POET_Technologies_to_Supply_Celestial_AI"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 655
     height: 300
     isCached: true
-
-related:
-  - title: "POET Technologies to supply Celestial AI"
-    excerpt: "Celestial AI’s mission is to fundamentally transform computing efficiency with their Photonic Fabric technology platform, that uses light for data movement both within chip and between chips. “The customized Optical Interposer platform that we have co ..."
-    publishedDateTime: 2022-02-13T12:00:00Z
-    webUrl: "https://www.ept.ca/2022/02/poet-technologies-to-supply-celestial-ai/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2022/02/Screen-Shot-2022-02-10-at-2.27.51-PM.png"
-        width: 411
-        height: 300
-        isCached: true
 
 secured: "xhcGUpM1DcYtidkDBpJoW/xb1FH0C4rchG5uOzUEj0QeoXzHj0ZNpuJ5H1U387lUvP2TiUAycEU5CG3tCwO50Lmb9ntbXqCLosX6eLDAUA61gMIpF+iqSwrjgoyOVbndkdxcEsbZczNPQqyKlsQz9qbYMjYPTLYAJyxe3MctO8sVhU66smWTwpAcGCxzvZ5MROCbi1DZw8yLPLS+x3AVr/vkGeKQikLdms2ap0NoHkoCsIKgKIfZr+1v3WznFVnwPoGvh6077W7v85sDf/fcXqLu3IT4/OubkZak8AvnEFQTO3OH71ZA7mIcCFyKojEGieipqZ+nQMRTLX3VzXJ9Vq0J3KsbfIFbCwFhW2L1OdnZKmU96diU+xmFWGDe+TsZwXocn0B47A1ZRHgP/9y5lSlLpZzlX+FNhy6ZKmkhYxLrxFauCUbN8GjtT17DJdo/TG0xXaYd2VUAilo+IrN/GbN5O1QNgmDP7Fryq6W6gB/pcB2RhQZRZSocSQ1gQk8PYhrcvCVYeicP1mS2qM/AHA==;LD97T/yVrRIKeEBKGwPrbw=="
 ---

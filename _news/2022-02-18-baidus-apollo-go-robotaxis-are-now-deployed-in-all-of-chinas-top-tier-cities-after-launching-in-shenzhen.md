@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/5209/Baidu’s-Apollo-Go-Robotaxis-Are-N
 webUrl: "https://www.futurecar.com/5209/Baidu’s-Apollo-Go-Robotaxis-Are-Now-Deployed-in-All-of-Chinas-Top-Tier-Cities-After-Launching-in-Shenzhen"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "More big cities catching robotaxi fever"
+    excerpt: "Beijing residents use the robotaxi service provided by the technology giant Baidu Inc. [Photo by Jiao Hongtao /for China Daily] Shenzhen, an innovation hub in Guangdong province, began offering self-driving taxi services in downtown areas on Thursday ..."
+    publishedDateTime: 2022-02-18T01:19:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202202/18/WS620ef43aa310cdd39bc876a3.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202202/18/620efa71a310cdd3d82e6968.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Baidu Brings Apollo Go Robotaxi Service to Downtown Shenzhen, Expanding Presence to All First-tier Cities in China"
     excerpt: "Baidu Apollo's ride-hailing service platform Apollo Go has launched trial operation in Shenzhen's Nanshan District, providing autonomous robotaxi services to Shenzhen commuters. Shenzhen is the seventh city where Baidu has introduced its robotaxi ride services in China,"
     publishedDateTime: 2022-02-17T11:00:00Z

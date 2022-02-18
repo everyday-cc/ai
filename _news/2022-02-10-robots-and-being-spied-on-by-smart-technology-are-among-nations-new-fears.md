@@ -2,19 +2,19 @@
 category: news
 title: "Robots and being spied on by smart technology are among nation's new fears"
 excerpt: "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us ... this helps unpack and eliminate them from our mind.” All four episodes of The Fear Index are ..."
-publishedDateTime: 2022-02-10T13:31:00Z
-originalUrl: "https://www.glasgowlive.co.uk/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146"
-webUrl: "https://www.glasgowlive.co.uk/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146"
+publishedDateTime: 2022-02-10T13:33:00Z
+originalUrl: "https://www.dailypost.co.uk/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146"
+webUrl: "https://www.dailypost.co.uk/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146"
 type: article
 
 provider:
-  name: glasgowlive.co.uk
-  domain: glasgowlive.co.uk
+  name: Daily Post Wales
+  domain: dailypost.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "dNG5mE30Iy7pSO9wq4fLY2qlgeVPMT0dzlZKD5lngR4V35dRZMNeR1H6SEAmv8v4GPoQY2gqM/cTU2GN0I6J931x3nJsYlF4bT4+QOrYwMFXWs9Qe5eatake2y1OpzHnH4XEK0hKEKH46mVvRhL4hSn2IIjHM373GrjjjFna0h+xseAnEonhrbn2U/nMNZB8X80A0EAJKTxfPCVoxDuTzooBiTnz5AV24UNZQMdt+NQYl8cghBZPTpBZMXf/13pPY3VfbyGcZsNrEkgO9HZu9Bgn1nDcNlWI6n/HI9QAVWq4BqbXEe31lctz0YIIq0vJSyEkouZnik782JOpyFHoAokB6lROgtZAesR0MwsJhZSMLi6bnbm+BRcNunnEhnUT7+wm2LYTSin7LPH9c19/HADXDYedGOycOV6wwsJZiSzOnYgpEZM68jdW8YxNj1CQKZ8y7Nv4OPYh8qgBbK/YVqws8rrA0+QApW5RY6lc7ZkrTPQMcO6kgMDrcwUau4Wc8wmOnCkh1zFt1iBaG1Uoiw==;M031ajY1sgQm4kzPvZbblQ=="
+secured: "lHJpP7pS+kOvnaEJlJISj/7i6wVyXX7clQDM0oUb/3dcurMBr9WLHZxLUo/uLymao/74S2eKSHhvr+AhapJzHXR2Zl5MGIy2RYzzg1MOa3HD4SXBU6R2ETLSyYMczKaomtqSLTd1w5tDj/08YJHq9QJxvqTLRO7/60OINTuXLEzfywfZkW5SdcighRoskNE3Ap7SXXaIEHhTTr0haPJecY9ktArZBVDWIIdJPlaBUT00nlxVGuQ2c7MHSDSWPArNKYPSY+1HKt0szCL7Z93FWQ/ua4sdWmc+C2ieWwjmIN3bH5hKxfP6gnWuySL6Acip1uMFP4rzAMZzrM4sYuBcvjKsmRZBMeZ2p/sffmH5rwbmxsRqDwBcJR//gQo2bOSKLxZtzEElM9T/HYUwnm2/tn14tArxrK1A1ZubV6aqN6RQuDkOC7DxTOPM9Vi9gSoMkvAoPOkql5x1YuVF4/SBX4j/61RrrLjd/trRoVrCw8ytkpe00SurZSXWqs/pN1d0hUuRn/tD0NvKnDGZl2bDPQ==;WgVTzZcR0GZhXEXMccJ/fw=="
 ---
 

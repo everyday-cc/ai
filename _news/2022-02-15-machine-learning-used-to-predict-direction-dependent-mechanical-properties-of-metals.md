@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-02-machine-direction-dependent-mech
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-machine-direction-dependent-mechanical-properties-metals.amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 2100
     height: 1500
     isCached: true
-
-related:
-  - title: "Deep learning tools are top performers in long non-coding RNA prediction."
-    excerpt: "Most recently, tools implementing deep learning architectures have been developed for this task, with the potential of discovering sequence features and their interactions still not surfaced in current knowledge. We compared the performance of deep ..."
-    publishedDateTime: 2022-02-13T11:36:00Z
-    webUrl: "https://europepmc.org/article/MED/35136929"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 18
 
 secured: "/YJHE5Hv7UzIpRiQUXYUitKkRY1Fdbk2C/YJmKi/83kuURL6YS2oyAFPNzOIYarCbOs4doai5kJqMiMEzvgRkNk48K5CNvNyHZhc+soakqCTG7nw3FiI3frSPj+pOu7pWt6UH5dW9LpqLLxf3susZydKi9j5ogA9Bm1sGInkO4c6HhUGP9siCXV4YXGlB/6UgtrJlAMloXAzQEXr3NXXzoUhCphue7LJibBwc2kAgPeY6J4f+XuCkN6FN5M0RmYdF6IZxJhASfT9oFGXlptLK563FpWwj3fgwnL/ExAN6HgWSY9T7sf6PPK0ab7Ki1graXPOZ/i74ZRUuH7QBCkrNvFEbH9rnROmAhEpuC93atzZaUEuIsdT5itdyrJE0tcjLOHObFDLlN2syAoiGDnssvTa6+w4HuLljXh9LZc0tVYOLxhukWq146tLoxcJnxKfTgSnEC1OV9eecwiV4zxsecTh6faL+LLXYScqDo0t/ohnossLIgMb8TEuyuSzr+p//L1sMztaWQaTsRZ3WsGfjQ==;zgbwsaKUmWxJWUX8G2JQFw=="
 ---
