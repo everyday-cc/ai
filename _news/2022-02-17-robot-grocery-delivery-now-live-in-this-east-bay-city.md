@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mercurynews.com/2022/02/17/robot-grocery-delivery-east-b
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot grocery delivery now available in Pleasanton"
+    excerpt: "The robots are equipped with an array of cameras and sensors, and use “sophisticated machine learning” and artificial intelligence to travel on sidewalks and avoid obstacles. “The robots can cross streets, climb curbs, travel at night and operate in ..."
+    publishedDateTime: 2022-02-18T00:25:00Z
+    webUrl: "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/"
+    ampWebUrl: "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
+    cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
+    type: article
+    provider:
+      name: Vallejo Times Herald
+      domain: timesheraldonline.com
+    quality: 74
+    images:
+      - url: "https://www.timesheraldonline.com/wp-content/uploads/2022/02/SJM-L-ROBOTS-0218-01_94218880.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Save Mart expands pilot of grocery delivery robots"
     excerpt: "According to Starship, the autonomous vehicles move at pedestrian speed and use machine learning, artificial intelligence and sensor technology to travel on sidewalks and navigate around obstacles. The robots can cross streets, climb curbs and operate at ..."
     publishedDateTime: 2022-02-16T20:05:00Z

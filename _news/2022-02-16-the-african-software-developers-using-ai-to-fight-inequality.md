@@ -86,6 +86,20 @@ related:
         height: 924
         isCached: true
   - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
+    excerpt: "To mark International Women’s Day, March 8, Africa.com (www.Africa.Com) is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence ... CEO, CIEL Healthcare. The event is a one-stop, strategic business ..."
+    publishedDateTime: 2022-02-16T15:18:00Z
+    webUrl: "https://www.afrik-news.com/pressrelease-apo46098.html"
+    type: article
+    provider:
+      name: Afrik News
+      domain: afrik-news.com
+    quality: 30
+    images:
+      - url: "https://www.africa-newsroom.com/files/thumb/335fc8b468d03bf/600/418"
+        width: 360
+        height: 418
+        isCached: true
+  - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
     excerpt: "To mark International Women’s Day, March 8, Africa.com ( is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with Harvard Business School Professor Karim Lakhani and Harvard Business School Professor Tsedal Neeley."
     publishedDateTime: 2022-02-17T09:17:00Z
     webUrl: "https://www.zawya.com/uae/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"

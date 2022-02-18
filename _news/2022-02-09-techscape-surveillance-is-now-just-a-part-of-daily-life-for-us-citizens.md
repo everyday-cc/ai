@@ -1,10 +1,10 @@
 ---
 category: news
 title: "TechScape: surveillance is now just a part of daily life for US citizens"
-excerpt: "In this week’s newsletter: from seeking out mental health care to filing your taxes, being watched while doing even the most mundane things has become dangerously normalised"
-publishedDateTime: 2022-02-09T10:45:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
-webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
+excerpt: "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ..."
+publishedDateTime: 2022-02-09T12:06:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "ri1u2ZWAEgc2XCbdjBLmOjNXxUlweCXIjn704V4jfdKpQ9/N96bu+6xL+Qycbq+rsmFF84hS7VRdmzcfAVExTfYQaizKfZPKnGAEkVaimijGpIlBBkblIIqGIHDeuX5hPi5s6CwkQO2rcjCDTrjkMVh7KRfcL8EGw9dlGpciDZ9ompiSGKdyW5abb4Z9NTDqEmjfey/LiSDoFoegDfIs2iPUBrThvXJENmWZuQ9WNrUXdk9ywqVrC1ayKi2kKgkNmEjhX6QbtIgbKvtaXCBsw1LmxYAPNCJBOWvpq0qvaIq2G/9r+W8vBvYFpn7TOVzEKMIOKHHjpTEhawDA17GHBfExROtI4N7sGu4aFS+qUI8=;e14vHuW72uOI+W1pzzMHEg=="
+secured: "p2Nn51x76Wi3zrIVy1h/WZyAfKGNNqfmITaRycOgQYgJVoXQ6TfpaDglkNOR+dn8mLaBNJsbLwF2YGV5o7pdPlLY/EppJpYeG0BtyGLIhFmqDiyEwnTx8LCkyyK8wrRJioJTUAL87tqjXTxtQr4rEhWzxbBFCCjb1bOVDXO1WsB74C9X3WrWBSwCsCHxNEOcLtW39x1ACutkm/gDN/UDEYcWJ5bXjLl/y1OgwbCayZE5tTOBh1Lco+WUQp6azzl6HGdSnSpU3rmHTgisf/zMDwhumS0brVqVvTfo0fq1yREDQyVR5fHRyGUxy4HqQwM1x7xPrV95WFBdCG/LSNwmf7Qoja/32g36Ui9XPmHfvcQ=;A3pi2bXQ3vFufaYtmnqoyw=="
 ---
 

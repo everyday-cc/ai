@@ -60,9 +60,9 @@ related:
         height: 676
         isCached: true
   - title: "Evolution of Fintech to Progress in future"
-    excerpt: "... but the underlying technology that has driven the Fintech 3.5/3.5 era, namely blockchain and open banking, will continue to drive the innovation of the future. Artificial Intelligence(AI) and combined with Machine Learning (ML) have developed a new ..."
+    excerpt: "FINTECH: THE HISTORY AND FUTURE OF FINANCIAL TECHNOLOGY Financial Technology (fintech) perceptibly of emergence was seen widespread to general or common people after banks went partly automated. It has given the rise of a cashless society,"
     publishedDateTime: 2022-02-13T14:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
+    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar/?_l=en_US"
     type: article
     provider:
       name: LinkedIn

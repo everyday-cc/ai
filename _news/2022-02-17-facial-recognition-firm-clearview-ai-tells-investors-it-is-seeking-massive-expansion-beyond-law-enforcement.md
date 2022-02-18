@@ -55,6 +55,20 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "Clearview AI ponders broader facial recognition service, free speech defense rejected"
+    excerpt: "The company’s online principles pledge states that its facial recognition technology will only be sold to government agencies, and Ton-That says the principles will be updated if the use of the technology changes. Clearview expects its revenues from the ..."
+    publishedDateTime: 2022-02-17T19:44:00Z
+    webUrl: "https://www.biometricupdate.com/202202/clearview-ai-ponders-broader-facial-recognition-service-free-speech-defense-rejected"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 47
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
   - title: "Facial recognition firm Clearview AI tells investors it’s seeking massive expansion beyond law enforcement"
     excerpt: "The facial recognition company Clearview AI is telling investors it is on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial presentation ..."
     publishedDateTime: 2022-02-16T19:47:00Z

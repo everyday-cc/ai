@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Evolution of Fintech to Progress in future"
-excerpt: "... but the underlying technology that has driven the Fintech 3.5/3.5 era, namely blockchain and open banking, will continue to drive the innovation of the future. Artificial Intelligence(AI) and combined with Machine Learning (ML) have developed a new ..."
+excerpt: "FINTECH: THE HISTORY AND FUTURE OF FINANCIAL TECHNOLOGY Financial Technology (fintech) perceptibly of emergence was seen widespread to general or common people after banks went partly automated. It has given the rise of a cashless society,"
 publishedDateTime: 2022-02-13T14:52:00Z
-originalUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
-webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar"
+originalUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar/?_l=en_US"
+webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar/?_l=en_US"
 type: article
 quality: 24
 heat: -1
@@ -92,6 +92,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "nSjs+5SrFDM8hmbTr7u8jZTTCELwdRWTQxxc92Q8r2EiSmMFTnPbTw6o5Eqi6lbrglaDxwMX5tqfPRcZselaTdlImSkAoruXyl1cSBp6APnvySEgao/GkpZ5hAkvnUFJ06VCT1YU1PU/2PDtL/aYTdHSscTFb3D7LzHXOa9I16iIEaCublf70mI6xn7ryCPMr/+QRgemtxXzPNCHtVMWHZgHB4Xqra/83hsgYyouM4JxbZ+yia+zrKOsLTQJz8Wb8SEGO0Y+AE4dNDz7l3lTpbtk/1umCsUiKHhiWyuVUKqqTCU6wAO9MSPfram8oRqM6DJ9qKfTMA302OHtfc6znvC+OsN7zR+lJHFmJFSwTNsk/W12NRBCU9D6YwU7KZPsSOSoU3dZiH8pLqrkOyLvOSBsOVBPwtArvYaZK/INeb+hBn2t01Gsqllwo8k8lDUQjCG8o1DHf1ENvURpgSAQ8GTJtPgmFElIbjconEBLxycADpQZB6c8ovpnXIho4azeGKbMIgGNKBy0Wn16sX07Sg==;41993ofnl4O+cLxsZ70Bnw=="
+secured: "HwdJ7wH9RW9neusRkNEN0n9KByBtlChhkk7CgdeLwtRmjyzYJLZSMTBL0IFKR8ovYNiSei1gLk724fiz3TvLr8Y+daswQ/9O5QlvJboOl2zHDblwbvZ2ECXVTVf4BxXSkznS0QsncIuWgIhNOYQJZd87euyQMy4Y2ad+0PsABCJ7BIVTqFQyYG77Qx65RedmcGHLrkai0Mr/AAGRHHeDajKHE/LNvm/yEIya6oNDfLrNT0tolBh79DmlC6l2SHJpSM23DOhPD7NjhWB4WsNU7fcLsYN1eda+xpehEWIQLs4hVbj7klt2SmR+6yv4VO5FDWd60o6WgtcFg+3ddzK62uhy7pw0DGKQhUuzdgnjnaM=;3uWGu+qm4SMcU64UR8/Low=="
 ---
 

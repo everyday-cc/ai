@@ -52,15 +52,6 @@ related:
         width: 1024
         height: 1325
         isCached: true
-  - title: "Monitoring Covid-19 on social media using a novel triage and diagnosis approach."
-    excerpt: "Social media is important in this respect, however, to make sense of the textual information it provides and be able to automate the processing of large amounts of data, natural language processing methods are needed. Social media posts are often noisy ..."
-    publishedDateTime: 2022-02-13T08:51:00Z
-    webUrl: "https://europepmc.org/article/MED/35142636"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 0
 
 secured: "bte6uL9mU73OOGi5PJxwLdQBfLwkDU4AhjV1X8mvaxKYdlAhWVydIBEZni6i4UFEJ/O6zCRoDqq/Fz2Y22NS8hJDd7NjZSCTBEPw2XxJqcesaSMPnGLA0hQzw7yp9/OMUhaNaPGzxq7PzK8NBo5lqmyxntIz3y4LkoxnqvC/XAkcy4QcsF/C0XtU9lYECbYAUpKg7j+LYFui8vjjMRynEDgGAyJdgUbnMfDfdHC800RzfVJf3hHbu9HN1kw4hpgxy6UaueL8uXpp0O4wSKXMrNS5AA25KYj5UhBMMq3F1Tlvr41UHx6f0y9aPtsRd0/q7lnpHXFfY9Az6M7K+BVLDBzk0IEkUYo3tyvyaItPqdM=;te3a0Jhsja2f0EZfGLr7pw=="
 ---

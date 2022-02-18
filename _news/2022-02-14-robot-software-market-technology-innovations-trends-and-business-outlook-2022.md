@@ -28,22 +28,6 @@ images:
     height: 455
     isCached: true
 
-related:
-  - title: "Top tech innovations we may see in 2022"
-    excerpt: "Data science, artificial intelligence and analytics are disrupting the technological ... Autonomous logistics: Companies like Waymo are already providing autonomous ride-hailing services in some world routes. While not completely developed yet, the service ..."
-    publishedDateTime: 2022-02-13T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-tech-innovations-we-may-see-in-2022/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/tech-pp-b_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "wJVOL+M9XuS9l1etzSPM2sieOIdkA9SpPM4dynRBB7e8gmqlwHjA35xpvP5c/8xZkGWyH9+/AfuJ4YjWgJdT2E67whe9Ehjg63OjfvR0ovY23w3KMAn5/ybCljtSp/Q+urfsY0DbenfuMq+/TFlIyn5saphp2Xx4zOue/S6Rr9VwpfcVKLFPdjm7jD/hVLPKhZA2LqxDVwSoBTZyh7eCax5p28cUcOdHISIrCdaRkpQKlg/zseWUuYarPFwe78HUKT5UqPGB/GwoFiPPLvzbHciEjiYBcqyY3Zs8NQWRArW4P5XqKpIbVV6IcZCZPF14yZjAsQGaua0/4dfK8Ng7XT+Q+RE8YbwRReN60TWW24VZy+WV+pNsTR0hsoHr85fZmImYCVXGez1tpimAdej6vkTuRInNt2G9u+xmNKcfd1rrKfsTrgla9rwD5kdXVBqZIfR/vzf3rRagANCUDtj4nOQ+i4oX30JXa/cLjr/GvV3+eIPpNxE6V162+p8PP8b9WtEEoUlNGihTpYjFtAkR5A==;YdtdLUorMQUHsrzKZ/edyw=="
 ---
 

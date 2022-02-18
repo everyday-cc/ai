@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Will AI transform religion?"
+    excerpt: "Experimental developments in technology and how it's changing the way we live. AI is changing how we interact with everything, from food to healthcare, travel and also religion. Experts have been warning for years that it's not a matter of if, but when ..."
+    publishedDateTime: 2022-02-18T00:13:00Z
+    webUrl: "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ychef.files.bbci.co.uk/1376x774/p09z7zzv.jpg"
+        width: 1376
+        height: 774
+        isCached: true
 
 secured: "MHecx+AE4hg7WxpKTL9nRTw0n/H/fnnCJb12TfESIDp6V6XNgrxL1Ap/9bgTB1zIKUobXy2jlB5UX3Wv2zbcAVGTHPMlD8h2/mNZF7pYSZ1YCR7q5ZukTh6gJACJ4z1G+rMXUEUUaWww4ad4pTcsk6eXy3k0A9qKVE2Ko8ekVEZQ2P+/Cf4SeB+LKvyMxKs4hNLZjk0PPt6f5xunSPEjY57Wch6hFfZkT4+A+2EncjFoAbTjVFaQSRY4lXhMuQmYVeVG1UcwkG19wMfBmwdJV6Y1KwyPM5UZPlGk4Zksn0ysda4Xyjb0gKs2knABGmDo8dz79/nO/aOMLWF1yPj8R+BmKabxtWZ2YjYi0Z0x4fCTDISmzI8/7Cj/LJ1vqrsjb+R+XP7uJxiXEVBwqK9/WctoyxZRybZkL2rSADkVnn8e+H1ixOs+6jr+yqrwlUsCTBKJavBCC4m6dfdNtPki+lwlBSKAMoEZwCK3nUWyiAUHCo6zQ28fU23KZ2bF6gr9zoRiS4/FCBoG18jDf1oHwA==;96P7GprVMTKnmrshtAUqjg=="
 ---

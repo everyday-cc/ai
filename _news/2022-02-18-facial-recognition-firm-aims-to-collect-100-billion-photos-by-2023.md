@@ -41,6 +41,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Clearview AI ponders broader facial recognition service, free speech defense rejected"
+    excerpt: "The company’s online principles pledge states that its facial recognition technology will only be sold to government agencies, and Ton-That says the principles will be updated if the use of the technology changes. Clearview expects its revenues from the ..."
+    publishedDateTime: 2022-02-17T19:44:00Z
+    webUrl: "https://www.biometricupdate.com/202202/clearview-ai-ponders-broader-facial-recognition-service-free-speech-defense-rejected"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 47
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
   - title: "Facial recognition firm Clearview AI tells investors it’s seeking massive expansion beyond law enforcement"
     excerpt: "The facial recognition company Clearview AI is telling investors it is on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial presentation ..."
     publishedDateTime: 2022-02-16T19:47:00Z
@@ -86,6 +100,6 @@ related:
         height: 382
         isCached: true
 
-secured: "O6i0GiDI6YoRm+D9l5gBmMJP4fpiGWHWdhQIq1Uwdl3yki4d4XlOoWzeX0iV+HyXEy+mfyQh1yleOQ9C79+YwfHRNdNLFG07hntCMHHYwS+xJkskEK6l9LetV4qAKAplBrlUrb8ILTiEMGI8gr3KHz+sD/1c4ffw46YaGgtEa64qNH19n3zNs18Jdr/SRaXWcL8ebrbdrgrOr0x9A30Y5wErW9qCkr1m8VflPDdHknFPFC10lLwhEH9/7Th6pKa6V3AdLjmXlRSc2Axk5U6fhp6YG6bt3QfZjKG2R8sZ5cJHXxQbOKADj2cRa0LRv3K7iNJs1A5bvE9b+g357fiSKIhgrEqOPUYU9rAH63SyGfc=;B1eJ5WCfa2/aS9iiVGHmhQ=="
+secured: "XrN92b62DIoHwoKRmwxtJgq5Ibek8uMlawX2RPyp6HahWu2nEale2YlmdQ7N59Ql6PGhxsF/nJBnHsNdpojgyBZxOOUwAWVBVs/9kx+qdz85prnr7s7Axf69VXCL8DGbwJkJJMRFNcs75nqRIoFKjaR7O7WEmTKjROHrHej5ispQsW75HiH41fxNP+QmyGO2gFHMqWoqOQVFh3ZWlbLJAzeSZxXfzYo1dwtcurxt5Bg1Je5yCvtYxlyoXFDvFWC3SZgi8oC5OUaOv6rCjveAEZOnJhzSVurIR2uXteUwuOO/7UiOcABOh30ncrNrNv2pGwKQ6vX8TxDlay4eISfScy5Tg4bDSqHnZ4m4wIjXRC2/jGqc+k+BHq2IpywowKwDXGt3Vi/GAkym/7/1gQO3SS87+zqNtbsLQOcNcwhLmGenE0Sum8UWdj3xxxWsY/0sbLc3r9hfGFhdVcVYVDUhNv1URwFfTNEsRqNhISZY11STjpod3LrisBJoifgJCTYKm3iRG+akd0+QXphFM0lnAA==;E7jzacqseNogxb5WTj9d3w=="
 ---
 

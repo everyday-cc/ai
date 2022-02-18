@@ -1138,21 +1138,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-09-published-guidance-nice-advice-and-quality-standards.md",
-      "title": "Published guidance, NICE advice and quality standards",
-      "excerpt": "for the treatment of Motor Neurone Disease TA20 23 January 2001 23 January 2001 Guidance on the use of inhaler systems (devices) in children under the age of 5 years with chronic asthma TA10 23 August 2000 23 August 2000 Guidance on the Extraction of ...",
+      "path": "_news/2022-02-09-techscape-surveillance-is-now-just-a-part-of-daily-life-for-us-citizens.md",
+      "title": "TechScape: surveillance is now just a part of daily life for US citizens",
+      "excerpt": "However, he later back-tracked and said it used Amazon’s facial recognition system, Rekognition, which uses an algorithm to check against an entire database of images. In addition to the privacy ...",
       "sourceUrl": null,
-      "webUrl": "https://www.medicaldevice-network.com/features/heartflow-nhs/",
-      "originalUrl": "https://www.nice.org.uk/guidance/published?ps=9999",
+      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2021/02/Heartflow2-1038x778.jpg",
-          "width": 1038,
-          "height": 778,
+          "url": "https://i.guim.co.uk/img/media/da7340c8bd85c3551cfe0eb308af0895429ef458/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=f3d9ac91fde9b8ffbe82321b33b028a3",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1160,14 +1160,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T04:00:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "publishedDateTime": "2022-02-09T04:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "National Institute for Health and Care Excellence",
-        "domain": "nice.org.uk",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1176,6 +1185,7 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI"
       ]
     }

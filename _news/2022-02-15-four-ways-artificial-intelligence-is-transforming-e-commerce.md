@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Will AI transform religion?"
+    excerpt: "Experimental developments in technology and how it's changing the way we live. AI is changing how we interact with everything, from food to healthcare, travel and also religion. Experts have been warning for years that it's not a matter of if, but when ..."
+    publishedDateTime: 2022-02-18T00:13:00Z
+    webUrl: "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ychef.files.bbci.co.uk/1376x774/p09z7zzv.jpg"
+        width: 1376
+        height: 774
+        isCached: true
   - title: "Device can transform into four components for artificial intelligence systems"
     excerpt: "Plastic fantastic: this perovskite-based device can be reconfigured and could play an important role in artificial intelligence systems. (Courtesy: Purdue University/Rebecca McElhoe) Researchers in the US have developed a perovskite-based device that could ..."
     publishedDateTime: 2022-02-15T17:10:00Z

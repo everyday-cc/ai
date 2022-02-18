@@ -1,15 +1,15 @@
 ---
 category: news
 title: "IBM Watson-Powered AI Virtual Assistant Helps Visitors on the TD Precious Metals Digital Store"
-excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
-publishedDateTime: 2022-02-09T11:39:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store"
+excerpt: "The TD Precious Metals digital store allows customers to buy physical gold, silver and platinum bullion and coins online from the comfort of their home. The new virtual assistant, now available as a feature on the TD Precious Metals digital store,"
+publishedDateTime: 2022-02-09T11:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ibm-watson-powered-ai-virtual-assistant-helps-visitors-/2022/02/09/9541733.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ibm-watson-powered-ai-virtual-assistant-helps-visitors-/2022/02/09/9541733.htm"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 209
     isCached: true
 
-secured: "ENG4rOuViE7LCbIFZDVW/DU20v8Ggv6WW31hOn0rF0Mqw73XMc9AfGQCWTSmIRAgXvdnfBfeBT3RO10PoZwHrXA5gjQLz7gZOZJVDMuBaQTQ2ii5Gq1ALiaUB60QsxTIOH0OwAmLoEHtw9TMiAK9iq+GysA+4l1b4066bmavksdHIw9xmS/qE/adEVgTHYyIju60WzXgbJ2BT/88PH1wXPFbIieui4W1Dyb0rcjXcoOYsXmjVi+zsbZczjn7OiMp02WMBpzt1IOiC0Y3EbSuQwl7cz9fMMHpMM3OY25yBClox5dMtiEx8jYDMlir/oHFy4uYL7/g/750ZIbOQRPKsGVeT5v5jaUaEbI9Ok495HI=;DjQFL+8sjhF6H/saz96M6w=="
+secured: "RqbKdhrI5Bj+rxjEJ6aFs2xMacQioFxkQYg5tndglqHgZHA+Y/S8UeAxe1huBp2JOIgTeneEOwNKUzMdu9NzeEhjYECIELv/S9aWEBYznEbqiRtdaZxTDRpu34FD+l1trHpxT8Q8mCHYRPS/XCOe6N61Co1FmDpDgLIIXbB5uUz3DAzWo5dawM67tAwJN/QMMrpCtT4hP2shHPtz2qzUomvXvqeDIqhf1S1U04N0EMvijnGUUsG5Zy0bY1cI6PRZD174VYg8BWj384QZ3yWps1H2K+IkpfMr83+nq3nuVnoRmpbPqKUDnAM528NXQyxNXnUmmlkzlGREe+fBz899+FP2svhOI6YBN/ofGxDAVDw=;eoY8JtT2tWML++gRF+XYCw=="
 ---
 

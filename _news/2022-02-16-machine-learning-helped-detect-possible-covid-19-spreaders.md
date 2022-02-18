@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Natural Language Processing Pipeline to Identify COVID-19 Outbreaks from Contact Tracing Interview Forms for Public Health Departments."
-    excerpt: "We developed an automated pipeline to ingest the free text into a pre-trained neural language model to identify businesses and facilities as outbreaks. Data on cases of COVID-19 were extracted from the Wisconsin Electronic Disease Surveillance System ..."
-    publishedDateTime: 2022-02-13T07:46:00Z
-    webUrl: "https://europepmc.org/article/MED/35144241"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 0
   - title: "Spatiotemporal sentiment variation analysis of geotagged COVID-19 tweets from India using a hybrid deep learning model."
     excerpt: "The sentiments were predicted through a proposed hybrid Deep Learning (DL) model which leverages the strengths of BiLSTM and CNN model classes. The model was trained on a freely available Sentiment140 dataset and was tested over manually annotated COVID-19 ..."
     publishedDateTime: 2022-02-13T13:28:00Z

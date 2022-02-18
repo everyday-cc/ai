@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-p
 webUrl: "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg"
         width: 530
         height: 300
+        isCached: true
+  - title: "Clearview AI ponders broader facial recognition service, free speech defense rejected"
+    excerpt: "The company’s online principles pledge states that its facial recognition technology will only be sold to government agencies, and Ton-That says the principles will be updated if the use of the technology changes. Clearview expects its revenues from the ..."
+    publishedDateTime: 2022-02-17T19:44:00Z
+    webUrl: "https://www.biometricupdate.com/202202/clearview-ai-ponders-broader-facial-recognition-service-free-speech-defense-rejected"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 47
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
         isCached: true
   - title: "Facial recognition firm Clearview AI tells investors it’s seeking massive expansion beyond law enforcement"
     excerpt: "The facial recognition company Clearview AI is telling investors it is on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial presentation ..."

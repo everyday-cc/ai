@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T17:18:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-its-real-life-practices-kuldeep-saxena"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-its-real-life-practices-kuldeep-saxena"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGEAf8JsGABkQ/article-cover_image-shrink_600_2000/0/1645031715834?e=1650499200&v=beta&t=ekyhXqcxpNJAbNeL0oQ7OYsppvpVoDBaXyB56RoFQ08"
@@ -75,6 +76,6 @@ related:
         height: 334
         isCached: true
 
-secured: "zLbDD/leZPeVCLGJ5NRnE1Oy0NNS83ZPe9E+3KI/ekXD83JXvtSkYoyw0CnTHI4UAxJpjSQAMJlaSiuRmQuwOFoIqPMK1xtgyMdcMW7ukH5mRcKwxRqUFrnJoYv0nKyW5+AGmGrKLFo+IUA84caWecVb7f8S9dPdSRX8P2hRss8Xz07O/Ix2jDalEmoF64GEXLyErB+HQqX4Iapfn8Pw2IOkY9OBz7TEfZ8z1deNYs6Qcu0S2wtDU6FnU0KPOPURshWOdkTqAKB+AZMlvgIA+TYLpYgbBHCZQgBtzpav7lzLvsSo9B0YR7pHcFvhMhB7gyRvm0xOv/yfTnIsVy43egWe0dJAxh7+ioM52aDL+/c=;OnN7iXR43Mxq9l5n+aMTrA=="
+secured: "hnk6caG7d1ZZtaGdMNwYhuJ5VG1qToySKlMiOcfLkZY+5px3pPDpBp4J4YefseSppgLkwme092q3sd2EnkZvFe5HW53XfdQrtO+P+h8wDNVcAbLv7lrQofGUUlD7xvjIekHkKyu6z8zug0O/KPMw0ygsgVhVy0fBXB16R7fAxkiFMQzFKt+cU2nQP12/IJL93yXw7rCC11JXIOxNlYNoJGNqkEy7h6gXKCcA95WIHgknfL2VqJdpCOElZYtj2CTSf8mQ5btb7hvlAxgq3ZekAls/FiWwnloKQUaqL4jWKdDXU0MUMO1u+A8cpaDS9rld+wh3/A5V+/kfG1FfaWKxlTLhVtPQEayyLORwj8LjRs0pSk9iBbn6evl2dbUcx3lkKUKgpFSuEbqFk9xzjcBoJpyRPoBerGzEyrKmr31UgOgHB0gQ9akDQjfHDBCLI8m8RTccS02tI7hcgrmc/WS0huebQ/uKqxTBgE0nN6wR1R+amFB4sQ3fKovfkDBflDTZeIviXV3QYgvM4PJixMCABQ==;Pfe2SnmjNPUci530BECUeg=="
 ---
 

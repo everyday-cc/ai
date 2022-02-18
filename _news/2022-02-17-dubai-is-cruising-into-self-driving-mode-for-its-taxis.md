@@ -9,7 +9,7 @@ ampWebUrl: "https://www.esi-africa.com/industry-sectors/smart-technologies/dubai
 cdnAmpWebUrl: "https://www-esi--africa-com.cdn.ampproject.org/c/s/www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/?amp=1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Dubai announces start of trials for Cruise self-driving taxis"
-    excerpt: "“This initiative enhances Dubai’s pioneering role in self-driving transport. It is an important step towards realising Dubai Smart Self-Driving Transport Strategy aimed to transform 25 per ..."
-    publishedDateTime: 2022-02-13T07:27:00Z
-    webUrl: "https://gulfnews.com/uae/dubai-announces-start-of-trials-for-cruise-self-driving-taxis-1.85673017"
-    ampWebUrl: "https://gulfnews.com/amp/uae/dubai-announces-start-of-trials-for-cruise-self-driving-taxis-1.85673017"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-announces-start-of-trials-for-cruise-self-driving-taxis-1.85673017"
+  - title: "No driver needed: NJ capital city getting self-driving cars for residents"
+    excerpt: "While the vehicles to be put into operation are self-driving, a designated host will always travel in the vehicle for safety reasons. NJDOT Commissioner Diane Gutierrez-Scaccetti said MOVES will ..."
+    publishedDateTime: 2022-02-16T14:11:00Z
+    webUrl: "https://nj1015.com/no-driver-needed-nj-capital-city-getting-self-driving-cars-for-residents/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
+      name: WKXW
+      domain: nj1015.com
+    quality: 23
     images:
-      - url: "https://imagevars.gulfnews.com/2022/02/13/cruise-1644737049029_17ef1f7b1d8_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://townsquare.media/site/385/files/2018/10/AP_16231695123664.jpg?w=630&amp;h=420&amp;zc=1&amp;s=0&amp;a=t&amp;q=89&w=980&q=75"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "aueWGa8gA4AfCD6O/zKKXzX3Ub9XQkXHcb9ekxEPbXQRfLgzPbbkD44v8NjHUvwsYDIl+vjuITII39BjDvM+STZjJt8pVF+fidattgyIHgnA0K/foEEwDiSNvWrCzd6T4w5ajgoIznqZHQC0c3xWXNeikDUWYoYlKbeptRMjWmvg1LHkXG4Ca7v2l1yn9B+euPcaCigx5MV3pz4NUweh8pqfS0Ovq0egLLIMMy+8qiveO4VQQ1yxOq2ekqt69IfpitkMdCfsFMTJA81wYQFQNlqVMoKyeF5arb8/Hs9rUtb+jYT5uPw/ZR62Hj+E7B5zzTuZcXamKgODt7k7fbXZyJPuFh/c0kS/BZVQsYDRMVH3X5+uOWphCCyiBTIYhCxHM0UXsW5WYBgoOgRKgpDc8k8WyFJmpu83PHZ32ajl1iGPByCeGE2WyDuLqFf86WNzJieu3uW+l087xfD4g65VvD9VtwPeI8sBIihS0RZ6Rj+wAWjsiBwp00Mft108zi4OsGu+4EMb9QV5FW68/IEEdg==;Ar8JTPggwLOIqR840C5oNg=="
