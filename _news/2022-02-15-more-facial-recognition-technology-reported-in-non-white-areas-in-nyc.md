@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Algorithmic impact assessments — AI Act enforcement — Facial recognition in NYC"
-    excerpt: "AI: Decoded called Jenny Brennan ... about what facial recognition and surveillance tools the department had acquired. The EU launched its Chips Act industrial plan, a multiyear, large-scale investment plan for its microchips sector, and presented new ..."
-    publishedDateTime: 2022-02-16T10:00:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/"
+  - title: "Facial recognition taken to the next level in virtual reality"
+    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
+    publishedDateTime: 2022-02-17T12:12:00Z
+    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 72
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
-        width: 1600
-        height: 900
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
+        width: 1920
+        height: 1105
+        isCached: true
+  - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
+    excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
+    publishedDateTime: 2022-02-15T00:03:00Z
+    webUrl: "https://abcnews.go.com/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "UyKGTTANTWhdldDBw8f1DpFLn3Dovs59N4iRUZdi4uRuHr31rpLIqUn30i5Utr7zmef9DMi9edzVLiAMVxHaazGXUtpgnDU7PmHKgFUL7MmEuZJ3lUQ9t6Wf2A64hDugyIXX3e4xhVO9PSJyOuh9F7zhxzyXHZXaPSPjbzcGKAyTPJK8tzYsYO2z5g/5cJjtnPngvPnblXps0oAIpig0oVbAzVSyiPPwQJ07LP42+h7JQ4prn9HnvEIsLUZcTfm/0xRzpcRhlYk4ttl3UxdPHgKwLmX/sZISF6OJti7TKUY+56bmMa3SUjjG0t2Xd3Z0UxvhyF3oRwz0bWYgftCmqnWyrGe0Be4ocSDizyEq+FI=;nXlYRWE2QLjErBw7+L190w=="

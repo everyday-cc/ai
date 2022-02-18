@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-hi
 ampWebUrl: "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - IBM AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_review_Deep-Blue3.png?w=3000"

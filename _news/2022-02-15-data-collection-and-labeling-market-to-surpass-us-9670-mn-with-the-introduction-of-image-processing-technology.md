@@ -25,70 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Bill seeks to restrict the use of facial recognition technology in Colorado"
-    excerpt: "Colorado lawmakers are seeking to restrict the use of facial recognition technology in the state’s government, law enforcement and schools with the introduction of a new bill."
-    publishedDateTime: 2022-02-16T15:07:00Z
-    webUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.html"
-    ampWebUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
+  - title: "Carta Healthcare Announces Successful Completion of the SOC 2 Type 1 Examination"
+    excerpt: "Carta Healthcare Inc., provider of solutions for common healthcare data challenges through a combination of people, processes, and artificial intelligence (AI)-powered technology, today announced that it has successfully completed a Type 1 System and ..."
+    publishedDateTime: 2022-02-15T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-carta-healthcare-announces-successful-completion-the-soc-2-/2022/02/15/9545680.htm"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/42/f429b70e-78d0-549d-85d2-6831d5f8bbeb/602c090ca6e96.image.jpg"
-        width: 420
-        height: 241
-        isCached: true
-  - title: "Facial recognition taken to the next level in virtual reality"
-    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
-    publishedDateTime: 2022-02-17T12:12:00Z
-    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
-        width: 1920
-        height: 1105
-        isCached: true
-  - title: "IRS Scraps Plans to Use Facial Recognition Technology After Bipartisan Backlash"
-    excerpt: "Virtually universal condemnation of an Internal Revenue Service (IRS) plan to force all Americans to use facial recognition technology has caused the federal tax collection agency to change direction. The plan would have forced all United States taxpayers ..."
-    publishedDateTime: 2022-02-16T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 55
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/02/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "More facial recognition technology reported in non-white areas of NYC: Amnesty International"
-    excerpt: "Police reform in America and possible paths forward More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non ..."
-    publishedDateTime: 2022-02-15T00:03:00Z
-    webUrl: "https://abcnews.go.com/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
-    ampWebUrl: "https://abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/facial-recognition-technology-reported-white-areas-nyc-amnesty/story?id=82798528"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 50
-    images:
-      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
   - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
     excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
     publishedDateTime: 2022-02-15T20:02:00Z
@@ -103,6 +48,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Amperity Announces Strategic Collaboration Agreement with AWS to Deliver Customer-Centric Interactions and Drive Product Innovation"
+    excerpt: "SEATTLE, Feb. 15, 2022 /PRNewswire/ -- Amperity, a leading customer data platform (CDP) for consumer brands, today announced a Strategic Collaboration Agreement with Amazon Web Services, Inc. (AWS) to help support digital transformations for companies ..."
+    publishedDateTime: 2022-02-15T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-amperity-announces-strategic-collaboration-agreement-with-aws-deliver-/2022/02/15/9545582.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "FnzW4FjOY5XM9ANy0BPB3CmFlrC+zGvxpsodQ6qvrvBB2QfE7zcrvyoMS4cesGj4k2WKq9n2r9Fz/+V7K2K79sA7bzVVzDTMvJB/p3wgQikxKwEshSDYTo11UQL8eQg6OcOKhnkJWINoC3bp5Jkh6PNBeIxyQplXL81ZYY0cv7pW37VWEcQZHAmTmLCKnYiOgS4AE3JGSaGBczMf01lHDXyjVl4ImXliBL6Msj0MH9uddKV337bTbDsIEm4bkqcFbZ0rilqUC2w8D430Xt6Ai5n+FWID2uRX3KB+TY8eWzlSX98ceAPYIbYmQFGfmR61wDYCH/Mh5VO7VPO1/Sq+4W1k5as9ne41iNv2SayvIu8=;HkCXsWZJaK3Cj60am9gRnQ=="
 ---

@@ -6,9 +6,9 @@ publishedDateTime: 2022-02-16T19:47:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
 webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 138
+heat: 218
+published: true
 
 provider:
   name: Washington Post
@@ -56,6 +56,38 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "Algorithmic impact assessments — AI Act enforcement — Facial recognition in NYC"
+    excerpt: "AI: Decoded called Jenny Brennan ... about what facial recognition and surveillance tools the department had acquired. The EU launched its Chips Act industrial plan, a multiyear, large-scale investment plan for its microchips sector, and presented new ..."
+    publishedDateTime: 2022-02-16T10:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 72
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Bill seeks to restrict the use of facial recognition technology in Colorado"
+    excerpt: "Colorado lawmakers are seeking to restrict the use of facial recognition technology in the state’s government, law enforcement and schools with the introduction of a new bill."
+    publishedDateTime: 2022-02-16T15:07:00Z
+    webUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.html"
+    ampWebUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/42/f429b70e-78d0-549d-85d2-6831d5f8bbeb/602c090ca6e96.image.jpg"
+        width: 420
+        height: 241
+        isCached: true
   - title: "Clearview AI ponders broader facial recognition service, free speech defense rejected"
     excerpt: "The company’s online principles pledge states that its facial recognition technology will only be sold to government agencies, and Ton-That says the principles will be updated if the use of the technology changes. Clearview expects its revenues from the ..."
     publishedDateTime: 2022-02-17T19:44:00Z
@@ -84,6 +116,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Clearview Plans Facial Recognition Database That Knows Every Person on Earth"
+    excerpt: "Facial recognition technology is nothing new — there are probably apps on your phone right now with the ability to recognize faces, but you have some modicum of control over that. Clearview AI, on the other hand, aims to build a facial recognition ..."
+    publishedDateTime: 2022-02-18T12:00:00Z
+    webUrl: "https://www.extremetech.com/extreme/331819-clearview-plans-facial-recognition-database-that-knows-every-person-on-earth"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 36
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2012/09/facial-recognition-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
   - title: "Facial recognition firm Clearview AI says it will soon have 100 BILLION photos in its database to ensure 'almost everyone in the world will be identifiable' and wants to expand ..."
     excerpt: "A controversial AI company has announced it aims to put almost every human's face in its facial recognition database, making 'almost everyone in the world will be identifiable.'"
     publishedDateTime: 2022-02-17T15:04:00Z
@@ -101,6 +147,6 @@ related:
         height: 382
         isCached: true
 
-secured: "oEY2H7VfyQ5wmM/vYtb1u7hyMZtwDcNE+5q/qSCD9q8lx2SZkK0n1yJtHhEg/jCzHpuHQ15UXrEHOgBhZ8nonNR7Wg+F+/WNx+mEYzfY2WSsMDjwQE59uPKfzLCAn02HlCFZJ6xFuYe8iDqR2lx7hZDvF2Mo1hh3dXshJYEuk3w7Is6Ni0xfSTG3dp54nCcZiOclp0dDKsEPU5VKCzMzGlA+onWACNzA1EZ+WfW91BGTIrU2vzyj+SZ30gHVX/QSjSTDvVoOsMIR36p5zqtImvV9o3elWHIm0Eg+59sU75swOGKTCVHTYmMVrE782UzYCFbodTdhEQsZ//GUXrbfyvdJsYujsKpV8f2ZmghrmUFfhWvOXMBny0PemRT0/ERgMhlwk8ASf+Ig+lxw8kYalqTICu6toXrKXIrZoCX2oqPqB+gO49XQ3L1L5D7DCpFSM2tl31YE1tHvDaX1+dziPocOdtqxxsP6KXfRYpsgxztWKbO/46i2akAk+WPCGG3TeY59/EI1/+M/1na8D4FfHw==;uo/3Q7NORoHDmpRoOvYMpw=="
+secured: "aadzCtq8Oufg4Is9RGuHwCtApjQ63UGgyqiYmw1E5/lRtM085hF+gG7wm5xRAsD575nvxUZzvx6xJ6gFMkSevzDXj5n46WqW2A4XHTw9X1gvcrHi+VZVlHf7GMKqf5JtuG8UCjNALcd+R+LsDzZdI3I4HpXo6dpZbAMo12CEZ/flrJ4Z/lN0MQCoR7R+LBbWlGh0/YL+8RQ9Wnj9qjhuTrZVVQmNdq6yXlUtUHGG/zCoIB3yV8SVTn/YZbp4ke30XKRTow5++gTSsha2veJpmj1vcEtHUlbq4fTK2u00hHCwYbz2fJ/kQJbKAsTa9h6WKCt06O1uSN847RPeBrCpphovH26+kYZScn8gRIclnXAsCC1sJpqmG18leAblEa1VFOorsMN2Xd/kA6NekFGQ0GSV2RsbxHlAVi7/KAiWucV5YmXM7kA6OJ5oWXqBvTFoU6OThsBon12eJX0e98Fh81g46+OZCC4l4WR4uJwWbIrN1fRCiKajBxB3T19zHv7YPnklruNHF/J+n1kLNMOu5B6OgEebX4W/IFGb7lNyTeI=;KtbcNYAfbPW5JJnSebNrXA=="
 ---
 

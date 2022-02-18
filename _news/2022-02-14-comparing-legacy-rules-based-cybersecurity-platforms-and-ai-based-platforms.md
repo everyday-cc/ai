@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Why AI and machine learning are vital cybersecurity tools for 2022"
+    excerpt: "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ..."
+    publishedDateTime: 2022-02-18T14:35:00Z
+    webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645030838/webroot_carbonite_logos_Numbers_Brain_AI.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Coining The Term AI-SecOps: Why Your Business Should Consider AIOps For Cybersecurity"
     excerpt: "AIOps tools combine artificial intelligence (AI) and machine learning (ML) to create the ultimate defense — cue AI-SecOps, or AIOps for cybersecurity. I’ve spent more than 30 years designing, developing and operating large-scale IT networks and data ..."
     publishedDateTime: 2022-02-16T13:15:00Z

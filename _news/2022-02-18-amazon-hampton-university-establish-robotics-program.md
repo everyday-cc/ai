@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/amazon-robotics-hampton-university-
 webUrl: "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/"
 type: article
 quality: 84
-heat: 95
+heat: 94
 published: true
 
 provider:

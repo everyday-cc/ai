@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/government/african-software-develope
 webUrl: "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/"
 type: article
 quality: 69
-heat: 120
+heat: 119
 published: true
 
 provider:

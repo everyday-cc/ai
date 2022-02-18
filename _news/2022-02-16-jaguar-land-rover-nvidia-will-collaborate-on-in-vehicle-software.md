@@ -73,34 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
-    excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
-    publishedDateTime: 2022-02-16T19:28:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Jaguar Land Rover teams up with Nvidia on AI in cars"
-    excerpt: "Jaguar Land Rover on Wednesday announced it will partner with Nvidia on a range of technology fronts, which customers will start experiencing from 2025 ... including self-driving capability and other AI-enabled services and experiences in the works."
-    publishedDateTime: 2022-02-16T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135085_jaguar-land-rover-teams-up-with-nvidia-on-ai-in-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
-        width: 1920
-        height: 1107
-        isCached: true
   - title: "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race"
     excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology."
     publishedDateTime: 2022-02-16T14:40:00Z

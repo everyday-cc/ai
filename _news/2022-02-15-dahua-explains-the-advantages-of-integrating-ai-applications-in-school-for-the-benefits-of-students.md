@@ -36,17 +36,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Webinar on artificial intelligence"
-    excerpt: "A webinar on “Artificial intelligence-based conversational interfaces” organised by the Computer Science and Engineering Association of the National Institute of Technology Calicut (NITC) will be held at 7.30 p.m. on Wednesday. An alumnus of NITC ..."
-    publishedDateTime: 2022-02-15T13:14:00Z
-    webUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 37
   - title: "AI-based Location Intelligence Startup Data Sutram Raises $2.07 Mn in Latest Funding Round to Scale Up"
     excerpt: "The proprietary AI and ML-driven data engine automatically converts raw ... This brings in a growing need for fintech and traditional companies to use alternative intelligence and enhance customer acquisition, credit underwriting, and distribution planning."
     publishedDateTime: 2022-02-16T04:57:00Z

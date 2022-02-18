@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
 type: article
 quality: 80
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI and machine learning are vital cybersecurity tools for 2022"
+    excerpt: "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ..."
+    publishedDateTime: 2022-02-18T14:35:00Z
+    webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645030838/webroot_carbonite_logos_Numbers_Brain_AI.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Comparing Legacy Rules-Based Cybersecurity Platforms And AI-Based Platforms"
     excerpt: "One solution is to leverage \"third-wave AI,\" which DARPA defines as AI that is based on generative dynamical models of the underlying network and leverages contextual reasoning rather than simple automation. Rule-based and supervised machine learning ..."
     publishedDateTime: 2022-02-14T12:45:00Z

@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intel reveals glimpse at multi-year Xeon roadmap, teases long-awaited GPU tech"
-    excerpt: "Intel has unveiled its latest Xeon CPU roadmap reaching through to 2024, revealing a distinct focus on power efficiency. The new “ultra-efficient” ‘Sierra Forest’ processor family, due for release in 2024 on the Intel 3 process technology, will ..."
-    publishedDateTime: 2022-02-18T12:16:00Z
-    webUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech"
+  - title: "Intel to blend CPU, GPU cores into monster supercomputing chip"
+    excerpt: "Intel has teased new Xeon chips that will collect CPU and GPU hardware into one socket to maximize performance across high performance computing (HPC) use cases. Codenamed Falcon Shores, the new line of processors will combine x86 CPU cores with Xe-HPC GPU cores,"
+    publishedDateTime: 2022-02-18T14:32:00Z
+    webUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 80
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645183040/itpro/intel_xeon_2024_roadmap.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Intel reveals GPU roadmap with hybrid integrated discrete graphics"
-    excerpt: "Intel's Arc GPUs will get really interesting starting next year with its GPU code-named Battlemage ... He went on to take a shot at rival Nvidia, which dominates the supercomputing and AI space, and has an early lead in the metaverse opportunity."
-    publishedDateTime: 2022-02-17T23:59:00Z
-    webUrl: "https://www.theregister.com/2022/02/17/intel_gpu_plans/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/02/17/koduri.jpg"
-        width: 862
-        height: 430
+      - url: "https://cdn.mos.cms.futurecdn.net/PnrNYFJsvBVEdsgUmA2PoE-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "tJuva1Pi4B0uCBrHNdya5PDF0hNp/XCefznMOCu7M8b39s+mJf4RDvaRVNAN8nSzhwL8M5xjPkkUocvGS3AbImwUs582QukkoHoqmPgYgeH04umx5BAe3K2NHhRPplbpjXkeQF/hzXIm9BBDyzwAKWZUtOvSLVa2SgVRdBTRWfTz7FPe5P6XIBFTajNXOwSQfZO3j4TZB+9gedq0dOBqTZqpE/OjKZvR5kaPo6UCYsc9YQg7OWErK15PvP4tpMINx7HibmPYaZLoE4NG66/a7hSHgDFXcN/vUd749sf2rJU0muwrw8YIIlyfKoinpJILRqBCROQn6Pyh7yZiOKTizBwW9C0YTNYmf4ID/LYGYAXTOQaQggdjS4hfscviwHqVK76hXs+uPjQ1nvrTJ3YyP2YAvoEQmfX0p1dLTnWq0G9wALXx9B6/9hrD/rhR/rnBh2qIBqGRC8pXbmeR4fBKsK5eCkq28TzwGR4WfrAE6OaKfajF/0clGjB9fjKVsnHsXxcbjSxUM7oPYG7zZR61uQ==;UI/n8DEFifWdGHGjBN7Exg=="

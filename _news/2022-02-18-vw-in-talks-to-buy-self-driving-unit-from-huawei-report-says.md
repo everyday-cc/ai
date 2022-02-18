@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen in talks with Huawei on autonomous driving unit - Manager Magazin"
+    excerpt: "Germany's Volkswagen is in talks with China's Huawei about acquiring an autonomous driving unit for billions of euros, Manager Magazin reported on Thursday."
+    publishedDateTime: 2022-02-17T16:42:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://www.reuters.com/resizer/wHE_A2ff3igWA_UNoKoWLqAchJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JTUDKQXVCFLFZFJNXZG37U2L6A.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Volkswagen in talks to buy Huawei’s autonomous driving unit: report"
     excerpt: "Last September, the duo unveiled the first product of their joint effort, a self-driving electric van. The reported acquisition comes at a delicate time for Huawei’s AV team. Su Jing ..."
     publishedDateTime: 2022-02-18T08:52:00Z

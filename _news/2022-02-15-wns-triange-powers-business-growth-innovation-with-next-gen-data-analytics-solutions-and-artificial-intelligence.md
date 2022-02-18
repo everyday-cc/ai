@@ -18,45 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Anadolu Efes CIO drives AI-fuelled data, analytics strategy"
-    excerpt: "Murat Ozkan, chief information and digital officer at Anadolu Efes, the Turkey-based international beverages company, chats with CIO Middle East about how a data management strategy comprising AI and analytics ... representatives start taking real-time ..."
-    publishedDateTime: 2022-02-16T21:03:00Z
-    webUrl: "https://www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html"
-    ampWebUrl: "https://www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html/amp"
+  - title: "Predictions: How Data And AI Will Shape Business Growth In 2022"
+    excerpt: "2022 promises to be the year that more companies leverage the power of data and artificial intelligence (AI) technologies to spur business growth. Companies around the globe were put on the defensive when the pandemic rapidly increased the demand for ..."
+    publishedDateTime: 2022-02-18T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/18/predictions-how-data-and-ai-will-shape-business-growth-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/18/predictions-how-data-and-ai-will-shape-business-growth-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/18/predictions-how-data-and-ai-will-shape-business-growth-in-2022/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/02/Murat-Ozkan.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f8489185bcaa29433f8ecbd/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 796
         isCached: true
-  - title: "Big Data Analytics Program Links Physicians With Machine Learning"
-    excerpt: "TAMPA (January 25, 2022) –- More than two dozen front-line practicing physicians spent a year in a business classroom studying how big data analytics and machine learning could help heal the people they see every day, including high-risk heart surgery ..."
-    publishedDateTime: 2022-02-15T14:30:00Z
-    webUrl: "https://www.usf.edu/business/news/articles/220125-florida-blue-big-data.aspx"
+  - title: "Magewell Executive Predictions: 5G, the Cloud, and GPU-Powered AI"
+    excerpt: "As beneficial as 5G can be itself, we believe a combination of 5G, the cloud, and GPU-powered AI will enable revolutionary advances in streaming production. AI-driven algorithms leveraging the computational throughput ?of GPUs will enable higher ..."
+    publishedDateTime: 2022-02-14T16:09:00Z
+    webUrl: "https://www.streamingmedia.com/Articles/Editorial/Spotlights/Magewell-Executive-Predictions-5G-the-Cloud-and-GPU-Powered-AI-151417.aspx"
     type: article
     provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 39
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 54
     images:
-      - url: "https://www.usf.edu/images/business/news/220125-florida-blue-balaji-callout-m.jpg"
-        width: 600
-        height: 400
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/143683-Magewell-Executive-Predictions-2022-ORG.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Report on National Enrollment Trends: Institutions Using Advanced Analytics and AI Fared Nearly Three Times Better Than Most Colleges"
-    excerpt: "\"As institutions confront trends that threaten to undo hard-fought gains in enrollment and student success, this research highlights ... analytics and artificial intelligence solutions for higher ..."
-    publishedDateTime: 2022-02-15T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/report-on-national-enrollment-trends-institutions-using-advanced-analytics-and-ai-fared-nearly-three-times-better-than-most-colleges-1031196251"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
 
 secured: "Ma5wsPx2OGCD4nbwiAqODSdvt3a4ezQvrdCA5Xqn0UOFtc1hn8xN+R6FXKCd+CkIW4ORVddFnwNVokDULLrgeMjNKOE/35dos6BhFZXAMZMjvVxrb/Qc07ofPNLa+AZ1KpqZO+ZPEj77Ylc/srDz/7687PrMJhILK1e3rX0Q499OaiaqVLU/l6/Bk9eHv/mHTRdZzZ8RuieUZq6C7lE9hGujbIFmKk5khjMzM079CVJ1t3IUunnbExswyce1ddpjD31JHXKQIt4uHgDib07natpZ/ECKruVgVF06mC3mnYZ4Sn1UvKb2LsFTustQ3qWJAWeEp4J/FBoeBFgYmvVm+k0kcywGfTNnTMWDDvn7WbA=;BXJXMcLnJCg9Y/MVk5bJkA=="
 ---

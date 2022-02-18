@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-m
 webUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech"
 type: article
 quality: 80
-heat: 100
+heat: 92
 published: true
 
 provider:
@@ -45,23 +45,7 @@ related:
         width: 862
         height: 430
         isCached: true
-  - title: "Intel Falcon Shores Puts A x86 CPU And Xe GPU In A Single Xeon Socket For Supercomputers"
-    excerpt: "Falcon Shores will bring x86 and Xe GPU acceleration together into a Xeon ... systems computing large data sets and training gigantic AI models,\" said Raja Koduri, head of Intel's Accelerated ..."
-    publishedDateTime: 2022-02-17T20:04:00Z
-    webUrl: "https://hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 50
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57729/content/small_intel_falcon_shores_raja_koduri.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
-secured: "fMuydZNhnJqk2p+0PFqVjkkAwcRjn9FLvAjOc2HuPStU8Yj9Jw7QCWallgnBibMtBklQGKhm3IP9BV8NRkbm2IDVF2v2gylC7YpY+tIMp8jYz95N+ryeQClNuYYXKUAhIgSToQFAhy3RLuzlfsrFV32Emk3MVz3YQrnO2jZ8jyeEWkKNTfUKvo5dfk7IioM4lcNHBIiW98vDp8auukQLhoAsggRJ1dNxUoE4HGMTbpvgmjh+y5VyFGWpQ/vYZiIrohXTJJ2cdNhtOP4EYVd9vceJgkcRx0IN3NNUZ6S4SFRRXBFKDk9iemUhjft4qWfwvKfGMbgiGjkVSGyMT+ovtfgL+8JVlsAPSCEcyqSIrjo=;TW6O/jrvc3T/u0xDnWuC7w=="
+secured: "h2dUCuDcURyadIVEOhJW1bbD/qGkLrqLv8NNt8dCI781eXl+vhJVUqH4b60SvcXVwH5ZbGUJXpsSEO24sQvn9C1w9LGcjS2H7L0wJduKATF/hINgEjhZ/2jh6R5JZJsMRvvs+DGpgxJTJfGUErCH8ETqcxLLU2eyppr6/e8Dd1sNJ9bMR3bfh5CPAADmOl4MFiOJzwqA41bwK3hQ6AtgLQvXX+8tFTi+GCU/a8EXRl2ZI2cE+RblU7Pt/WXcdkKA8QFUo5Fv9gZ4efNdvyPhREvjANSXMsbeyqBAJhWCMMjsRQL8sf7gLRll/dQ3oXEffLtMoUE/328Ha3/ajT7YY06Ejp1Vb6rKSa7SLxWTiO8bJAkT+GgELtJN7OSGS/74tyvuvnOjZCdiYijGxJ7WsR11M0bwyP4qmqORUDprDHAbCjCJFlNG9bXCoEc2EMassNvOYSyA8C/5X7OzBG2xNMTwU8ak7ShcUHHZUqkyzMYW3nX6jSx+5atMn93Gd4pZa57Exj1aOgq+AX4N/XW83w==;jGGgitnQEteJos6qDLLFTg=="
 ---
 

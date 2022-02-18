@@ -50,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 18
-  - title: "WNS Triange Powers Business Growth & Innovation with Next-gen Data & Analytics Solutions and Artificial Intelligence"
-    excerpt: "WNS (Holdings) Limited (NYSE: WNS), a leading provider of global Business Process Management (BPM) solutions, today unveiled WNS Triange - the new data, analytics, and Artificial Intelligence (AI) unit of WNS. Driven by a specialized team of over 4,000 ..."
-    publishedDateTime: 2022-02-15T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/02/15/9545259.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "6A/SpOU81I2QT2QozpJZaksswdh5yEuFzXBlylnSVLkSVAZ/T3FvS6D5hgjDuFo7rZujoi5AsovVnat70yJ/E/fum6fvCeRSulCyLm+des4JeWQMuTKbqj0YfNPewbj2ZSQrKDzh61oMB6HAfC67jLgRqM3nsqEdOwQ/yh4ahSH1evavDueB658HYpvzYJFgrBUdv06zoHD9a8nzYqPubbN/TmiGa7E7BWRB9oxHSy9J29k48qob9RZEl8Gu0ydtU2vb9CNThZYXYj/m928lZgL4j6fwY8meNeFhEYUoYzIBAQxeVvicGjrT87SsDVml0+2vys0DwKaIPk5UHjnJ+YgdnZbGRxF9Z+36KxytGc0=;auOnyyIQ8Fubs52whxC6GA=="
 ---

@@ -131,20 +131,6 @@ related:
         width: 292
         height: 256
         isCached: true
-  - title: "Insuring The Self-Driving Car"
-    excerpt: "The “Full Self Driving” technology that is being implemented in the next generation of vehicles has many challenges for consumers and insurers. I recall in 2018 seeing studies that self-driving cars do not always register two wheeled vehicles ..."
-    publishedDateTime: 2022-02-13T22:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/insuring-self-driving-car-anthony-deguerre"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE2tOgrB3xnjg/article-cover_image-shrink_600_2000/0/1644789421849?e=1650499200&v=beta&t=uwrnBY0wXHqUGYoaePWjqKpKTwVfWWrTKs2BaqPtzHQ"
-        width: 624
-        height: 468
-        isCached: true
   - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
     excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
     publishedDateTime: 2022-02-14T12:53:00Z

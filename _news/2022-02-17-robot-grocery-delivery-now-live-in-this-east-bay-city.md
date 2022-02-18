@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Robot grocery delivery now live in this East Bay city"
+    excerpt: "The robots are equipped with an array of cameras and sensors, and use “sophisticated machine learning” and artificial intelligence to travel on sidewalks and avoid obstacles. “The robots can cross streets, climb curbs, travel at night and operate in ..."
+    publishedDateTime: 2022-02-17T21:19:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/02/SJM-L-ROBOTS-0218-01_94218880-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Save Mart expands pilot of grocery delivery robots"
     excerpt: "According to Starship, the autonomous vehicles move at pedestrian speed and use machine learning, artificial intelligence and sensor technology to travel on sidewalks and navigate around obstacles. The robots can cross streets, climb curbs and operate at ..."
     publishedDateTime: 2022-02-16T20:05:00Z

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bill seeks to restrict the use of facial recognition technology in Colorado"
-    excerpt: "Colorado lawmakers are seeking to restrict the use of facial recognition technology in the state’s government, law enforcement and schools with the introduction of a new bill."
-    publishedDateTime: 2022-02-16T15:07:00Z
-    webUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.html"
-    ampWebUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/42/f429b70e-78d0-549d-85d2-6831d5f8bbeb/602c090ca6e96.image.jpg"
-        width: 420
-        height: 241
-        isCached: true
   - title: "Facial recognition taken to the next level in virtual reality"
     excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
     publishedDateTime: 2022-02-17T12:12:00Z
@@ -60,49 +44,19 @@ related:
         width: 1920
         height: 1105
         isCached: true
-  - title: "IRS Scraps Plans to Use Facial Recognition Technology After Bipartisan Backlash"
-    excerpt: "Virtually universal condemnation of an Internal Revenue Service (IRS) plan to force all Americans to use facial recognition technology has caused the federal tax collection agency to change direction. The plan would have forced all United States taxpayers ..."
-    publishedDateTime: 2022-02-16T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
+  - title: "More facial recognition technology reported in non-white areas in NYC"
+    excerpt: "More CCTV cameras with face recognition capabilities were observed in New York City boroughs and neighborhoods with higher concentrations of non-white residents, according to new research by human ..."
+    publishedDateTime: 2022-02-15T00:30:00Z
+    webUrl: "https://abc7.com/more-facial-recognition-technology-reported-in-non-white-areas-in-nyc/11564887/"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 55
+      name: ABC7
+      domain: abc7.com
+    quality: 39
     images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/02/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
-    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
-    publishedDateTime: 2022-02-15T15:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-data-collection-labeling-market-surpass-us-9670-mn-/2022/02/15/9545848.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
-    images:
-      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
-    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
-    publishedDateTime: 2022-02-15T20:02:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2022/02/15/9545848.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
-    images:
-      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
         isCached: true
 
 secured: "X8l9RwUeCDc5obPfNa3cQCTYZLGV+z2exDuzaDS1HqS9MVx3kzvv8z0bSJlMjYM9YO+hfrpG5Fx9U7zxpy3eVcZ84SEVaDOqjUxEsK8L6T0lfU6ULtCmTd7mZKIFuJH3rLOykI57EQWMU0k5MXleiKI26t23CMJB4YgiOCOpUvXEn3aRPW813m7Rg/qEE4Zh3Clp3PuBs7ZlQPd6wR7v/wDWTpPsXZczSCd9C7TM8XB9yDyBcmR4CBTMJYV5hRC3P4EZWpNDqRTzIupjbQ6aEeMQ2GqI1Gy1i/Hk/n9BmOg/rOo5aORNeXF+OwqLc0d8Oe0p+WW4ieZ3frQ4cTWkRIRnTDQGb8hP6hI8eNXU5czKvrfX+9fYaj6h4Ks+RwFZamg7UU9zgpABq4X7qDflcvHIdQM3lBsQEcePZKWFQ5UmKz5LxAgPDI8G/62Bq+XlGJR2pkZ+alEo+KiqGzi/buTtYoKuFsq3e2UMd0EBMlggAVVWIetCmt/NmMZ3eiTAgI/2rOzgRyVXjkKZA5YRig==;VFsWOWZLDVmHhln80SOPfg=="

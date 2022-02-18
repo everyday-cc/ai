@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
+    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
+    publishedDateTime: 2022-02-15T15:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-data-collection-labeling-market-surpass-us-9670-mn-/2022/02/15/9545848.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+    images:
+      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
+    excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
+    publishedDateTime: 2022-02-15T20:02:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/02/15/9545848.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+    images:
+      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Amperity Announces Strategic Collaboration Agreement with AWS to Deliver Customer-Centric Interactions and Drive Product Innovation"
     excerpt: "SEATTLE, Feb. 15, 2022 /PRNewswire/ -- Amperity, a leading customer data platform (CDP) for consumer brands, today announced a Strategic Collaboration Agreement with Amazon Web Services, Inc. (AWS) to help support digital transformations for companies ..."
     publishedDateTime: 2022-02-15T14:06:00Z
