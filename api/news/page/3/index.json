@@ -210,7 +210,7 @@
       "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -713,6 +713,57 @@
       ]
     },
     {
+      "path": "_news/2022-02-16-inside-the-pentagons-ai-epiphany.md",
+      "title": "Inside the Pentagon's AI Epiphany",
+      "excerpt": "Fool contributor Lou Whiteman describes the history of the Pentagon's relationship with AI, and what the future may hold. Lou Whiteman: We're going to start with a wide view of what's going on with the Pentagon and then dig down into a couple of companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
+      "originalUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/666268/gettyimages-investortablet.jpg",
+          "width": 2138,
+          "height": 1402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-accelerating-fusion-science-through-learned-plasma-control.md",
       "title": "Accelerating fusion science through learned plasma control",
       "excerpt": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning.",
@@ -1189,58 +1240,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-baidus-self-driving-vehicles-take-a-turn-with-olympics-showcase.md",
-      "title": "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase",
-      "excerpt": "Stay on top of the electric car revolution by signing up to our Hyperdrive newsletter here. Cities usually have many reasons for bidding to host major sports events like the Olympics, but demonstrating to the world the best the city has to offer is often ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-15/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-15/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHsLHzGeBdPM/v1/1200x776.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

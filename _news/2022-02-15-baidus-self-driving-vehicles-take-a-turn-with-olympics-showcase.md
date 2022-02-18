@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-15/baidu-s-self-dr
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-15/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Bloomberg
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 776
     isCached: true
-
-related:
-  - title: "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase"
-    excerpt: "The 2022 Winter Olympics in Beijing promised another big opportunity for autonomous vehicle testing in a real-world situation, this time in vehicles made by one of China’s biggest technology companies, Baidu ... deployment of self-driving vehicles ..."
-    publishedDateTime: 2022-02-15T20:46:00Z
-    webUrl: "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "p4Yw6C3p0o5YW5GFTCJdgYmbdDCOq9BoGvKojPEQgIMd4yh4WyBZAsUqi2jiTwA3h737g9lL7toCrP42tt14cNzWRW4jBTxtrNK3EDOkPDhQYS3qffHYWs6MgkMIHPdUIVLJ/M29KC4NRC5NfqYyiMPKMML8dE0yhYzDX89/a9EXAYKbeVM67jQeGcXFvY+47/ihipRai1+p7N2UkuFEWw3nPYkaswzrmrpWLpz2Gmw/CBneeuC3Wj0grk6ZG/7HrQ05fpbkZpapC6IQSSvX6Ie4Sh389dSMpCiU21tZYyAv5GaVMnJHKbRblQsLheflih5Uy6IICTsUyKrvh0kx/T87Aq7eXNt5ZIIaBeSdLdJWeisSA/OQ6t2TpHPDiHfEXAct1x8MKsa0T3b52Q9+mzyRyAfW8N0sFssZ3yiSZFaIYN3JGgBF0a52dMYoIBpB97ZN+d6Av6nYdmgcNKnvgXJNgASlLOdqBlWzIDuCEmPS5g7vzbR/m1bvTQX1iI/ElF/FIkJlSgzI3t4gMLnjLA==;QFMH1GeSXqnLVAp8gdaL+g=="
 ---

@@ -1142,21 +1142,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-07-enterprise-ai-and-avoiding-the-valley-of-death.md",
-      "title": "Enterprise AI And Avoiding The 'Valley Of Death'",
-      "excerpt": "I found this article particularly useful in describing the complexity that organizations undertake when they experiment with the different forms of AI (e.g., machine learning and natural language processing). The article correctly calls out the need to ...",
+      "path": "_news/2022-02-08-facial-recognition-technology-falsely-identifies-women-more-than-men-find-out-why.md",
+      "title": "Facial Recognition Technology falsely identifies women more than men, find out why?",
+      "excerpt": "They analyzed two FR software, the first, Amazon Rekognition and the second Dlib. The research found that while Amazon’s software could recognize white men at a 99.06% accuracy, white women at a 92.9% accuracy, while Women of Color (WOC) were recognized ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/",
+      "webUrl": "https://www.linkedin.com/pulse/facial-recognition-technology-falsely-identifies-women-gajjala",
+      "originalUrl": "https://www.linkedin.com/pulse/facial-recognition-technology-falsely-identifies-women-gajjala",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f3fb187b4db966ab7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFrsrOwHTdvxQ/article-cover_image-shrink_600_2000/0/1644250595904?e=1650499200&v=beta&t=ReKSxGMFF90jQ66zuUDk_I6UpXSDihItcJ1_F3DMnao",
+          "width": 587,
+          "height": 358,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1164,16 +1164,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/",
-      "publishedDateTime": "2022-02-07T07:34:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T08:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1189,9 +1189,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AWS AI",
         "AI",
-        "IBM AI"
+        "Computer Vision"
       ]
     }
   ],

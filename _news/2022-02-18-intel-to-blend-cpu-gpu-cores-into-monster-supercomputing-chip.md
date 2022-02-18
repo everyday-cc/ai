@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-int
 webUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Teases Arc Alchemist GPU In A Beast Canyon NUC Running Tomb Raider"
+    excerpt: "Intel XeSS And GPU Driver Support Are Important To Arc XeSS ... Intel's take on the concept is open source and makes use of AI neural network processing on neighboring pixels to reconstruct ..."
+    publishedDateTime: 2022-02-18T14:26:00Z
+    webUrl: "https://hothardware.com/news/intel-arc-alchemist-gpu-beast-canyon-nuc-tomb-raider"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-arc-alchemist-gpu-beast-canyon-nuc-tomb-raider"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-arc-alchemist-gpu-beast-canyon-nuc-tomb-raider"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 73
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57735/content/small_intel_beast_canyon_nuc_arc_tomb_raider_hero.jpg"
+        width: 708
+        height: 475
+        isCached: true
   - title: "Intel Falcon Shores Puts A x86 CPU And Xe GPU In A Single Xeon Socket For Supercomputers"
     excerpt: "Falcon Shores will bring x86 and Xe GPU acceleration together into a Xeon ... systems computing large data sets and training gigantic AI models,\" said Raja Koduri, head of Intel's Accelerated ..."
     publishedDateTime: 2022-02-17T20:04:00Z

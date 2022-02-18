@@ -42,6 +42,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "With Machine Learning, More Business Processes Will be Automated"
+    excerpt: "Machine learning has the potential to automate many more business processes than are currently automated in enterprise software, based on all the previous generations of software development methods. That is a suggestion put forward by Claus Jepsen ..."
+    publishedDateTime: 2022-02-18T16:22:00Z
+    webUrl: "https://internetofbusiness.com/machine-learning-more-business-processes-will-be-automated/"
+    type: article
+    provider:
+      name: Internet of Business
+      domain: internetofbusiness.com
+    quality: 39
+    images:
+      - url: "https://internetofbusiness.com/wp-content/uploads/2022/02/Featured-Image-2-18.jpeg"
+        width: 553
+        height: 311
+        isCached: true
   - title: "The Natural Language Imperative When Automating Business Processes"
     excerpt: "The Natural Language Processing (NLP) Solution As a toddler begins to learn a few words, effective communication leaps exponentially even if the words aren’t completely correct. The ability for the communication process to handle ambiguity in turn ..."
     publishedDateTime: 2022-02-14T20:47:00Z

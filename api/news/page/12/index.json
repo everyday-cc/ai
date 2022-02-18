@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-07-enterprise-ai-and-avoiding-the-valley-of-death.md",
+      "title": "Enterprise AI And Avoiding The 'Valley Of Death'",
+      "excerpt": "I found this article particularly useful in describing the complexity that organizations undertake when they experiment with the different forms of AI (e.g., machine learning and natural language processing). The article correctly calls out the need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f3fb187b4db966ab7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/",
+      "publishedDateTime": "2022-02-07T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-sila-offers-customers-digital-debt-collection-services-through-new-trueaccord-partnership.md",
       "title": "Sila Offers Customers Digital Debt Collection Services Through New TrueAccord Partnership",
       "excerpt": "Sila Inc., a fintech software platform that provides payment infrastructure as a service, today announced that it partnered ... of their overall management of funds. Using a patented machine learning engine and engagement data from millions of customers ...",
@@ -776,22 +829,31 @@
       "title": "Westwin (formerly Microsoft China) launches new simplified Social Media solution for WeChat and Weibo",
       "excerpt": "Westwin plans to continue to build out the Wreach platform over time, with a built-in Baidu Paid Search Self-Serve function due to launch this summer.",
       "sourceUrl": null,
-      "webUrl": "https://www.wric.com/business/press-releases/cision/20220207CN53690/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo/",
-      "originalUrl": "https://www.wric.com/business/press-releases/cision/20220207CN53690/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo/",
+      "webUrl": "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and",
+      "originalUrl": "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T01:52:00-08:00",
+      "ampWebUrl": "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and?amp",
+      "publishedDateTime": "2022-02-07T01:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WRIC",
-        "domain": "wric.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1089,49 +1151,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-difference-between-a-neural-network-and-a-deep-learning-system.md",
-      "title": "Difference between a Neural Network and a Deep Learning System",
-      "excerpt": "Now that we have talked about Neural Networks, let’s talk about Deep Learning. Deep learning, also known as hierarchical learning, is a subset of machine learning in artificial intelligence that can mimic the computing capabilities of the human brain and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/",
-      "originalUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/uploads/nodeNeural.jpg",
-          "width": 441,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/amp/",
-      "publishedDateTime": "2022-02-06T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

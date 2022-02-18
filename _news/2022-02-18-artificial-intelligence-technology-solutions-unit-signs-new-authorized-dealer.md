@@ -8,8 +8,8 @@ webUrl: "https://seekingalpha.com/news/3801945-artificial-intelligence-technolog
 ampWebUrl: "https://seekingalpha.com/amp/news/3801945-artificial-intelligence-technology-solutions-unit-signs-new-authorized-dealer"
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3801945-artificial-intelligence-technology-solutions-unit-signs-new-authorized-dealer"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
