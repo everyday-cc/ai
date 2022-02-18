@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Evolution of Fintech to Progress in future"
-    excerpt: "FINTECH: THE HISTORY AND FUTURE OF FINANCIAL TECHNOLOGY Financial Technology (fintech) perceptibly of emergence was seen widespread to general or common people after banks went partly automated. It has given the rise of a cashless society,"
-    publishedDateTime: 2022-02-13T14:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar/?_l=en_US"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
-        width: 490
-        height: 351
-        isCached: true
 
 secured: "LD+FrLAlkeSPh/eY8erRuCoy7yOgZkZ/OQOVUCYDOmM6aTemNWzM+JK9330KnmDvyrI0vhECf9ukj9JlKhW30nZtDUXo0FKOLGw5jf3sWHlT6qXK1soyX1HkkTP/AHF/HKRAYmWxoU3T56HbeUZnwfE8NLN7O4Y9/qjedzlfDGEET5DGqjqNgbany4JhWtER0HGpTWZZCNRTjbt6gMuUU9DdmgwF9qJytu7dfEFwFvYcLXte5tsonmz0kMRAyPN1ki80OKtJiYbEqcYJnwK3Ny/sZjkeC/sGfTB92uEzBfAnpIR5pCs2ZOfYj3m6iw3qYQTbkv11QbX+Dj2Gin7Tw/rOZCbTGL0TQfjeHHFzoApg3ZEMc1MkA1YFzAysV1dJbhA+tDUkZH2+ufkszzRdRZ0V/lgbWDeOXp0mZy2exOk2P1eaQGbsf4VO+5O/yrvkD1a3Bf1gmVUydZTTGb1XNE9EqDMierOliRYOYA81nQsieaW1lH95pCvh6Nvw1m6aAMtusF58vwE/p70kFtU+VA==;x0aQ2s5TJp87L5F2PJB04w=="
 ---

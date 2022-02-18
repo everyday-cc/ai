@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-01-26-sri-on-the-future-of-robotics.md",
+      "title": "SRI on the future of robotics",
+      "excerpt": "Thomas Low, the director of the robotics laboratory at SRI International, writes about what roles robotics will grow into in coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
+      "originalUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/featured-web-da-vinci.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-what-kai-fu-lee-backed-ainnovation-tells-us-about-chinas-smart-manufacturing.md",
       "title": "What Kai-Fu Lee-backed AInnovation tells us about China’s smart manufacturing",
       "excerpt": "AInnovation, a Chinese computer vision and machine learning startup backed by Kai-Fu Lee’s Sinovation Ventures and SoftBank, is trying to automate China’s massive manufacturing industry.",
@@ -1097,49 +1140,6 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-dataloop-applauded-by-frost-sullivan-for-accelerating-computer-vision-ai-model-production-with-its-data-management-and-annotation-platform.md",
-      "title": "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform",
-      "excerpt": "Based on its recent analysis of the European data management and annotation platform industry, Frost & Sullivan recognizes Dataloop Ltd with the 2021 European Technology Innovation Leadership Award for its advanced data management and annotation platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-dataloop-applauded-frost-sullivan-accelerating-computer-vision-ai-/2022/01/25/9532036.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-dataloop-applauded-frost-sullivan-accelerating-computer-vision-ai-/2022/01/25/9532036.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1730904/Dataloop_Award.jpg",
-          "width": 400,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

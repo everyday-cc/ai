@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-11-toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media.md",
+      "title": "Toronto tech institute tracking long COVID with artificial intelligence, social media",
+      "excerpt": "THE CANADIAN PRESS/AP- NIAID/National Institutes of Health via AP TORONTO — A Toronto tech institute is using artificial intelligence and social media to track and determine which long COVID symptoms are most prevalent. The Vector Institute, an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mountainviewtoday.ca/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "originalUrl": "https://www.mountainviewtoday.ca/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/02/20220208140228-6202c4fe39bd76110c9e347bjpeg.jpg;w=650;h=433;mode=crop",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mountainviewtoday.ca/amp/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "cdnAmpWebUrl": "https://www-mountainviewtoday-ca.cdn.ampproject.org/c/s/www.mountainviewtoday.ca/amp/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "publishedDateTime": "2022-02-11T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mountainviewtoday",
+        "domain": "mountainviewtoday.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-portworx-by-pure-storage-announces-strategic-engagement-with-aws.md",
       "title": "Portworx by Pure Storage Announces Strategic Engagement with AWS",
       "excerpt": "Also Read: Recognizing and Eliminating Bias in Artificial Intelligence As part of its work with AWS, Portworx has also announced an Early Access Programme for Portworx Backup as-a-Service (BaaS) on AWS. Portworx BaaS introduces a modern data protection ...",
@@ -1137,58 +1180,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-maryland-armed-robbery-victim-allegedly-shot-teenage-attacker-in-self-defense-authorities-say.md",
-      "title": "Maryland armed robbery victim allegedly shot teenage attacker in self-defense, authorities say",
-      "excerpt": "The victim discharged his registered weapon in what police believe to be self-defense, striking one 17-year-old robbery ... and apprehended the 16-year-old and other 17-year-old suspects driving the vehicle. The 16-year-old and two 17-year-old suspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense",
-      "originalUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d273baf0-893e-4c61-968f-cb155b30fc76/bd6188a2-b614-44ff-9382-d274216cf78d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp",
-      "publishedDateTime": "2022-02-10T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

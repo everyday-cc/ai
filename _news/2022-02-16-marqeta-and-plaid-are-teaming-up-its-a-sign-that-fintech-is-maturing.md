@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/marqeta-plaid-fintech-payments-ach-2656
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/marqeta-plaid-fintech-payments-ach-2656680316"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/UK-Tops-the-Chart-in-FinTech-investments-01.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Evolution of Fintech to Progress in future"
-    excerpt: "FINTECH: THE HISTORY AND FUTURE OF FINANCIAL TECHNOLOGY Financial Technology (fintech) perceptibly of emergence was seen widespread to general or common people after banks went partly automated. It has given the rise of a cashless society,"
-    publishedDateTime: 2022-02-13T14:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/evolution-fintech-progress-future-ashutosh-kumar/?_l=en_US"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE-7GqkROeaog/article-cover_image-shrink_600_2000/0/1644621761209?e=1650499200&v=beta&t=LR9xgJC4QQq_37dreY2LBzEJ6jjmaDXCNI2_sxHcT2A"
-        width: 490
-        height: 351
         isCached: true
   - title: "Why The Future Of Fintech Depends On Open Data"
     excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."

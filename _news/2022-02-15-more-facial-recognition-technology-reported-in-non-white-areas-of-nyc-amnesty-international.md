@@ -60,20 +60,6 @@ related:
         width: 1920
         height: 1105
         isCached: true
-  - title: "Vidhi Centre for Legal Policy releases paper on Facial Recognition Technology by private players"
-    excerpt: "A new working paper by Vidhi Centre for Legal Policy's Centre for Applied Law & Technology Research (ALTR) has analysed the drawbacks and potential risks that come with the involvement of the private sector in the use of facial recognition technology (FRT ..."
-    publishedDateTime: 2022-02-13T14:10:00Z
-    webUrl: "https://www.barandbench.com/news/law-policy/vidhi-centre-for-legal-policy-releases-paper-on-facial-recognition-technology-by-private-players"
-    type: article
-    provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 26
-    images:
-      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Data Collection and Labeling Market to Surpass US$ 9,670 Mn with the Introduction of Image Processing Technology"
     excerpt: "Hence, implementation of data annotation with functions, such as landmark detection, object recognition, and facial recognition will drive the market. The advent of large-scale cloud-hosted ML and AI platforms provided by tech giants will also increase the ..."
     publishedDateTime: 2022-02-15T15:42:00Z

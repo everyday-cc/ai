@@ -20,6 +20,20 @@ topics:
 
 related:
   - title: "Amii invites the world to AI Week with $100,000 in travel bursaries"
+    excerpt: "I hope you’ll apply and come to AI Week to find your next role, learn more about a dynamic research domain, and find collaborators for startup ventures,” says Cam Linke, CEO of Amii. Global Talent Bursary recipients receive exclusive access to events ..."
+    publishedDateTime: 2022-02-18T04:43:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=618627"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 37
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "Amii invites the world to AI Week with $100,000 in travel bursaries"
     excerpt: "In anticipation of AI Week, May 24 - 27, 2022, the Alberta Machine Intelligence Institute (Amii) announced the first $100,000 in travel bursaries for emerging researchers and applied artificial intelligence (AI) professionals globally."
     publishedDateTime: 2022-02-17T12:11:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-amii-invites-world-ai-week-with-100000-travel-/2022/02/17/9547366.htm"

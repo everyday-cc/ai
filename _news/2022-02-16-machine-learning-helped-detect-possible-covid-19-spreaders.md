@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Spatiotemporal sentiment variation analysis of geotagged COVID-19 tweets from India using a hybrid deep learning model."
-    excerpt: "The sentiments were predicted through a proposed hybrid Deep Learning (DL) model which leverages the strengths of BiLSTM and CNN model classes. The model was trained on a freely available Sentiment140 dataset and was tested over manually annotated COVID-19 ..."
-    publishedDateTime: 2022-02-13T13:28:00Z
-    webUrl: "https://europepmc.org/article/MED/35115652"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 0
-
 secured: "QlwbVvipVC8uW+g/h0JCHuqUWo8OGuE4ey+fy5IaAZqtvM0INACnoigZ5Nz5eWY9xEu6D4Da53TBMz8m9ex4CX/7mIYd9U8R702D0F0bxjZodwH/Mn+ADCAOn+Sm1Uh9QyFKevs1/dzXcAa9ViuJAUl0Xh45jf1iBzebljDa/wgss016k3QtjQeTJMPHDGR/hNXrD4Rn1ePxQ8TeqvywL3IQcARSjQUPAC2PVnQIGXQeSHZr6I5f8Zl8YL9jCrz7bTKIJdBAjWSYEleWxuQbKnFK5uRD6HIK8C/UlHpqwUc07UBKFdhTHjtr4oKtj1EetbsoV9JTVbyquh02EeifuuVu15DraZTvxa8m+HlQneo=;TMs4NHlmNQhDlmyePMiBoA=="
 ---
 
