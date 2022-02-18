@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3622
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362235/new-zealand-ethical-ai-strategy-based-on"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: IT Pro
@@ -27,24 +27,6 @@ images:
     width: 1260
     height: 710
     isCached: true
-
-related:
-  - title: "IT skills and ethical AI among key focus in New Zealand's draft transformation plan"
-    excerpt: "The plan [PDF] also noted the importance of taking a data-driven approach by adopting technologies such as AI that could have flow-on benefits, such as emissions reduction and greater productivity, as well as taking an ethical approach to AI adoption."
-    publishedDateTime: 2022-02-14T01:15:00Z
-    webUrl: "https://www.zdnet.com/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/75a9f5bebe86bd848974df3f81d132836540779e/2021/04/14/fb8b315c-6642-4f75-b1aa-3aa2e5cfc05d/new-zealand-beehive.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 952
-        isCached: true
 
 secured: "zAQadAp/Vgq/vaw7+sTVd1y81qvNHm2FunyqBmoLNhQILKojOuM6odFw6rT3UUsJwJF7tbTRBUwajP8IsgHK1K/6h/SELx9iq4+QY/dZLZ5fyRrNdhoVuUZI7/X2M10Y8d2jL5N6LPtMizz5MxPBKepLG4iU9PA9D1v5LyemeaP/rCqj8PLBw6+/N6G42U6W2PIDW+WDi9q+R/h8yHvf7ChJzNJ1/CCdEqIASkBnxiNqZ2CbMRKQD63wg9xVUGKdN9tN9SgeIP3WuI8ZndAYF9a09Fxo+IhXn+oWedgtZ5z50Sz2jr8rDS9VILG2KKr2UKWswZIgNFpTyb8wGsyTKzQ8Knjuwh+TSB8aBZExxZo=;UL8/V+IniAJ7ytX9mGhr5A=="
 ---

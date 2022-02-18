@@ -50,7 +50,7 @@ related:
     provider:
       name: Internet of Business
       domain: internetofbusiness.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://internetofbusiness.com/wp-content/uploads/2022/02/Featured-Image-2-18.jpeg"
         width: 553

@@ -7,7 +7,7 @@ originalUrl: "https://www.galvnews.com/news_ap/business/article_a643da2d-5b49-51
 webUrl: "https://www.galvnews.com/news_ap/business/article_a643da2d-5b49-5160-add6-9a6aaf20a8cd.html"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -27,28 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "India Private Hospital Sector Report 2021: Breakdown by Self-Pay, Government Payer, Corporate Insurer 2020-2027E - ResearchAndMarkets.com"
-    excerpt: "High disposable income, rise in population, and changes in disease profiles are driving the expansion of the market ... It has three segments - self-pay, government payer, and corporate insurer. Initially at the beginning of 2020, the self-pay segment ..."
-    publishedDateTime: 2022-02-14T14:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-business-health-travel-lifestyle-c7f6abab9f4048868c3cba78d2d5521d"
+  - title: "AI for life sciences research gets boost from the financial markets"
+    excerpt: "The new AI technique captures this but also goes a ... study to affect the same aging processes in cells. VSB got their start in space biosciences in the early 2000s, using language modeling ..."
+    publishedDateTime: 2022-02-18T17:48:00Z
+    webUrl: "https://phys.org/news/2022-02-ai-life-sciences-boost-financial.html"
+    ampWebUrl: "https://phys.org/news/2022-02-ai-life-sciences-boost-financial.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-ai-life-sciences-boost-financial.amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-  - title: "Worldwide Aerostat Systems Industry to 2027 - Featuring Aerostar International, ILC Dover and RosAeroSystems Among Others - ResearchAndMarkets.com"
-    excerpt: "There are numerous organizations which have started employing intelligent video surveillance systems owing to several advantages offered by them, such as object recognition and video analytics. Other than this, the demand for high-quality aerostat systems ..."
-    publishedDateTime: 2022-02-18T14:59:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=618918"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-for-life-sciences-r.jpg"
+        width: 2800
+        height: 1936
         isCached: true
 
 secured: "lKoq5+2M68EK0+ETe8MA6o9hNaoQuJ4Z8X2hCH8cXx+1bzgE+2AsoXKyGjm9LZcY64at4N8RIGgyA2aWTOQ+Gr9B4fQhn38NYMMW8ieItMzFVeSZznRYyzL20zY04Mte10FfdwVi7+6Tw884vf0atvuXvEMqgzIJKpzrYFU82FnrTtqT4N49O+Yl41vvFiVZOeqpHgnWyEefxASubOtoYW8N64NQjM1SiC1P06CfvZnDkr14wg/zMFGR6kS8RJexcNT2LgBG/jbN2W+uUY5MWqrlGPvIrVLKrONNPAIifU9sT4pDdQiVfWnY/6RguhMQOFAkYtlNs3GbqfZX9IlZH77llssC4xgLhrq3V5ItKnwKdXK1kxBd854beR8Oab+HZ8h6H7snUO9P/rG/l+LXSXHL6xvLJQQblDn6SAWxip6wqMmHiJ0c5Exbd5QNGQ+r2+B4qF3xTGCsXgFtmBVRjoL4OU/Cbp6ixx6Uv7ibP2VqL/m5iZQdGXxozGiMF4pdrL/FpCivSHPJAPh2hVOeJw==;uIZIOAZIrbfuAlphppZdug=="

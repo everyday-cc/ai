@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-18T16:22:00Z
 originalUrl: "https://internetofbusiness.com/machine-learning-more-business-processes-will-be-automated/"
 webUrl: "https://internetofbusiness.com/machine-learning-more-business-processes-will-be-automated/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://internetofbusiness.com/wp-content/uploads/2022/02/Featured-Image-2-18.jpeg"
@@ -93,6 +94,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "U8OFIRSW89NflXeGQLi22jg077TFRgnXcV4EeSGxU5/K2Io771d/2BuJiGepODxLG70uxdzPqJ7uqNHE1oJ2h3cH1cuPen6lkSRgOL1QGXYbAPfn4CA/N9oQOqMvW+H2tuNMhnvJUXto1jC2009A8Xyw+Hv5zmkarTrE5vMNL0TnMbdZKnBXjQ3G0s1NQmbQYBnoTfOjEDRWDa2lAZyOX7GBEvLDnOUKJiOI7A7jQ9UR5SeSNt5uC63LaV37cv+xEif1dTD2hwdhK+we4IvVL5tMH+oYcmQCvZidRHZJ6BOBeqOxwjWfROFOxD9ApwcZyPw1WP2SXVNuEtrFf7X3dtLNjOiNzw75xrZsgSwLkf4=;I9n0V9A9KykCHsI5utTLdw=="
+secured: "M5yCxqB2i9QCsF67N2RySdZ+M0iiSLnX5DG5Tpv40nWb4nieQD1Ufa3mMyp0wUOBnOJITMa410lRBHXBhrowH5Y3073ErSZU1Lgy6uhUXRCFQ5R4iLvcDbXlJC02OMgaAtcxJaRg4pFsdRG1O7IYOf4MtDtIuo2lHqzTTiedAhJoOLplWtglK4ejQ2OkDz3YpgD+7Y33GAMFZBJNCqoFVai3KgAzqosv/LYu7Fy/BqVtQAMByThW70Vh3g6mv9sNBxzKcwggqcbgoGc8mt+aAcipJ+EIOSwyaTmvJUnbhIgm/uFJgCNQOdJtiqTDaPfpzilE8Dbh6u479rehWZcAaRSRKbkmz9moen315HDRRkS5HFurhXlD3YUbnWvPnsMwjPOFjOQUOtny1ob5hbozEs9j0F72XfwA3n78kmgbbOhopMpcRpgJRv15jm41qFLIaHCRJ+4yj1k+ObQi358QvmBZS9IfwPgfSNAA16EmXfxK8o7Tuqwa1DDTrzmhFjCq+dKJRcWHnjqFUf7hrgBgZA==;OXiv+j8G4yKN+zbIgKB4Rw=="
 ---
 

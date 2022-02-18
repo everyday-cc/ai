@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-most-important-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

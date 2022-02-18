@@ -69,6 +69,20 @@ related:
         width: 1100
         height: 527
         isCached: true
+  - title: "Africa’s women business leaders to examine the future role of artificial intelligence"
+    excerpt: "Top CEOs will attend special March 8 conference in Johannesburg to discuss how the technology will shape Africa’s key industries CONFERENCE: Africa’s leading businesswomen will meet in Johannesburg to discuss the impact of artificial intelligence SOME ..."
+    publishedDateTime: 2022-02-18T17:18:00Z
+    webUrl: "https://www.voice-online.co.uk/news/world-news/2022/02/18/africas-women-business-leaders-to-examine-the-future-role-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Voice Newspaper
+      domain: voice-online.co.uk
+    quality: 32
+    images:
+      - url: "https://www.voice-online.co.uk/wp-content/uploads/2022/02/WOMEN-IN-BUSINESS2.png"
+        width: 450
+        height: 296
+        isCached: true
   - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
     excerpt: "To mark International Women’s Day, March 8, Africa.com (www.Africa.Com) is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence ... CEO, CIEL Healthcare. The event is a one-stop, strategic business ..."
     publishedDateTime: 2022-02-16T15:18:00Z
