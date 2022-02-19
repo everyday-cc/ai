@@ -7,8 +7,8 @@ originalUrl: "https://www.digitaljournal.com/pr/robotics-market-expected-to-rise
 webUrl: "https://www.digitaljournal.com/pr/robotics-market-expected-to-rise-at-20-6-cagr-during-2021-2026"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Digital Journal
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Trains Market is expected to grow at a CAGR of 13% from 2019 to 2027; COVID-19 Pandemic Set to Drop Sales"
-    excerpt: "As indicated by Andrew Ng, one of the world’s driving figures in Artificial Intelligence (AI ... the whole train will run naturally. Driverless trains were presented various years back and can be found in urban communities including Nuremberg, Singapore ..."
-    publishedDateTime: 2022-02-14T17:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/autonomous-trains-market-is-expected-to-grow-at-a-cagr-of-13-from-2019-to-2027-covid-19-pandemic-set-to-drop-sales-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence In Aviation Market Estimated to grow at a CAGR of 45.3% during 2022-2027"
     excerpt: "Artificial Intelligence in Aviation Market is estimated to witness substantial growth over the forecast period primarily due to cost effectiveness, efficiency of the system as well as more timely management of services are driving the artificial ..."
     publishedDateTime: 2022-02-15T23:00:00Z

@@ -43,6 +43,22 @@ related:
         width: 620
         height: 310
         isCached: true
+  - title: "Student in India develops AI model that turns sign language to English"
+    excerpt: "She invented the AI model using Tensorflow object detection API that ... Pryor and Navid Azodi invented a pair of gloves called 'SignAloud', which could translate sign language into speech or text. They won the Lemelson-MIT competition for their entry ..."
+    publishedDateTime: 2022-02-19T09:47:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/02/19/indian-engineering-student-ai-model-sign-language-english-768x432.jpg"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "lIsLCLas83Kj36frFiEW0uEhC++HzUYJ0Ked6BRZyp7Cahpob8yRXUgfPtVwYhmLn9ENVPjnO8W3uyzmq3AHgKynEbZ/v9ifpXR2V1WXSKGshElkE+IPChdXMcXBZFJB5F2btGvjX+bfrVqLiFTZrMTaKAjaNyc0dOCOoiHiXqnIMuY9zz7lxZmLLGAHOBaBfRB4tPVW/hmNPQZF8UkY+rQUBTA5VxijJgRJ8phsZf6F3PYhEkBSi/2pmH4e0Gp7uLQwV4RJ34SEko04ZKxaruPYDJtNe0wHZmRfbBQ5FDjG3qrVbGi4L0HCa2pOb9koXgmDigSh42t4KeEt7IkdnxpQM2OPle8w/z+14P0J29rATMnOD409dLhWProPiaPBKhj+Ym3UHe3hW1Pj3xi87dL6SZbhVtMCzJlFUXe21we2XL7S8PYIPfjqolKz6zVGIPUxFkZuGmdoYnwfXIHFCvHW+PWd0arSUXALlZ3bmKvKB4rWrgmTlv7/UWVAF3fff9yxzXD4rL0gJVmF8SYZNQ==;umtbTQvb+2RdU+W6BHCYhg=="
 ---

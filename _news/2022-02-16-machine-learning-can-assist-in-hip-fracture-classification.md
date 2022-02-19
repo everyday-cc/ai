@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-can-assist-i
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-can-assist-in-hip-fracture-classification"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Helps Classify Hip Fractures"
-    excerpt: "A novel machine learning method designed by researchers helps identify and classify hip fractures. The machine learning process has shown to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath were able ..."
-    publishedDateTime: 2022-02-14T17:35:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/Osteoporosis-Women.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Machine Tops Human in Hip Fracture Classification"
     excerpt: "A new machine learning process has been shown to outperform clinicians when identifying and classifying hip fractures, raising the possibility of better care and reduced costs. Researchers from Bath’s Centre for Therapeutic Innovation and Institute for ..."
     publishedDateTime: 2022-02-16T19:21:00Z

@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 574
         isCached: true
-  - title: "Microsoft Cognitive Services: Leading the AI charge"
-    excerpt: "Microsoft Cognitive Services: Leading the AI charge Your email has been sent Artificial intelligence is about to change the way we interact, transact, and conduct business--again. With Cognitive ..."
-    publishedDateTime: 2022-02-14T18:21:00Z
-    webUrl: "https://www.techrepublic.com/article/build-2017-ai-will-change-everything-and-microsoft-looks-to-lead-the-way/"
-    ampWebUrl: "https://www.techrepublic.com/article/build-2017-ai-will-change-everything-and-microsoft-looks-to-lead-the-way/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-2017-ai-will-change-everything-and-microsoft-looks-to-lead-the-way/amp/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 119
-    images:
-      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/05/aai-eventsfv04.jpg?x23932"
-        width: 1306
-        height: 734
-        isCached: true
   - title: "Microsoft extends Emissions Impact Dashboard to Microsoft 365"
     excerpt: "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions."
     publishedDateTime: 2022-02-16T00:20:00Z
@@ -128,6 +112,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "MjbKO+WD428m8t7Ym11x/NejCUVklhf6DV3b9xRt9T7QAS6SmjGrwp7ZD1dQZdaC2TtIbKuzO4vQeejsGBjWPmiGL+EPeBkkGog9ARp+0f6wL+SL7hc0DwhEfKlZcjyo4dyOGQjmsftvO3I0HCDvzUhd3D3t9bX4Rv8+NtTxDcODuK3aCKFT97DZQpZSnOjXrfgFPn31tUYw1Z/A6mW+M8WFmTGnTi7qIKu9X/7VJu+/PDWeG7StfTO4OzSHEucH4MrLvTcQjujBkHplA+95CW9832WVDqZ6MwLmvhVhOaS3z7o8zFKRPvX7YA2vio9TrLhkQy/MC/rLrflyPB1dVTvz1Qe7D+w5AmH+e1l2hhE=;12TlNw0I4Ir7uIopGuwLww=="
+secured: "5Ly3h114kw09ldC2vH7w0N6r5STf5AouYFuZjhQD0c/+/edBZqV5IoGj0CLNa6K2B8CG7vwhmLMF/Av6jIBREf19Y+304yOiEOXS3zw0kCRxQ616SRkfhmpWmqnYpsLURe7NuDf7ojgZjlMNzhSQF2ySeQlNc3JTIY1LNKfPvSrMLMObEfnn1/N81C2WCz/STEpEcBjqbjwQzArZ6v51oJQ1DeF8wJtEjgwjxxtu1YiKYGdMt9hJLzi6ogkjB8/kcbXVg9zzh/OB80oBIyiQBVyasK+l7y42WzFgVRZBan9imU9BkeZvwYhCagdl1lysNWjNS4t2Zsykznit6b2UHYvYNVRh1WP3OX/B7vE3Pus=;MoWqgGuXFzBDeNL5NWrVpg=="
 ---
 

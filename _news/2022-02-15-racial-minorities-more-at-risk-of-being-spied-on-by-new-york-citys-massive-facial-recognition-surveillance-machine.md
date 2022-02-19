@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mayor LaToya Cantrell moves to end ban on facial recognition, other crime-fighting surveillance"
-    excerpt: "At the request of Mayor LaToya Cantrell, three New Orleans City Council members introduced an ordinance on Thursday to severely roll back local restrictions on law enforcement surveillance that were put in place only 14 months ago. The proposed ordinance ..."
-    publishedDateTime: 2022-02-18T13:15:00Z
-    webUrl: "https://www.nola.com/news/crime_police/article_9794c87a-903f-11ec-8c73-c329a482bc18.html"
-    ampWebUrl: "https://www.nola.com/news/crime_police/article_9794c87a-903f-11ec-8c73-c329a482bc18.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_9794c87a-903f-11ec-8c73-c329a482bc18.amp.html"
+  - title: "New Yorkers in high stop-and-frisk areas subject to more facial recognition tech"
+    excerpt: "Research also showed that in the Brooklyn, Bronx and Queens boroughs of the city there was a direct correlation between the proportion of non-white residents and the concentration of controversial facial recognition technology. “Our analysis shows that ..."
+    publishedDateTime: 2022-02-15T04:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 49
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/6/c7/6c7cd34c-bf8b-5cbb-9056-d6b9aec9fb26/5d16803c64bdb.image.jpg"
-        width: 600
-        height: 387
+      - url: "https://i.guim.co.uk/img/media/ea80a6c087fb01fc7b95dbe9c5c79576ae4595b0/158_0_4682_2810/master/4682.jpg?width=620&quality=85&auto=format&fit=max&s=5e134d9fbff44650d7e377361442b743"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "hc5pHhMi2MVpbzNydHU6vodlBqkzoriqXdJTDKyD1UGDhe/cp1AnKqu+Mpeo8mn8eYdf/5c4huVQdutYZmM8GjXD++iTdnsdOr44soUQbam6ywx+nu4mqAcE7fsjpXFXnrR1BeCCwE7hHgZA9rXieK5aFGlAlIoZDq9fJ17C/GhfEPVr7bWZWIguOqPPQ4d57+EvYGknVYvueIzlE5sKhUDfMC4Fr7gx91Q2ZK/lCoALSd8LubIoE8MFMLTLITPlc5EfbIPuHwRZAAcUIJ1eVgkUtO9QQEWPLjxKO8xlNbZYbIwpgs+tVo9Eaid5tlrC138npyPcL9WdF3a8+Vc6r++CS1a4wuuDb95vE4jP+scNBDKbB5L5bLmCsQeI+bA2eIMAJ8HnXnszDti4RaZ8Pj+UWGZoeLi0EvAOM8bBPaheIsFt9XnRypw5FkE8jIMTWveqdXgGWi0PV+s9ekAfw4pZTE3UPTbF8DFf2vN3K5khIQSt3uxGaIib7XwlddffGDKdhFpvOPxBYgBM1i/1+A==;871NtAxTm8KP2kpLQTZXmQ=="

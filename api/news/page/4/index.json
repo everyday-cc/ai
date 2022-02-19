@@ -397,49 +397,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-robotics-market-expected-to-rise-at-206-cagr-during-2021-2026.md",
-      "title": "Robotics Market Expected to Rise at 20.6% CAGR during 2021-2026",
-      "excerpt": "It deals with the construction, design, and operation of the robots through the use of various digital technologies, such as cognitive computing, sensors, control system, batteries, virtual reality (VR), artificial intelligence (AI), augmented reality (AR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/robotics-market-expected-to-rise-at-20-6-cagr-during-2021-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/robotics-market-expected-to-rise-at-20-6-cagr-during-2021-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg8BMb302rxxdMNX-7iGhzs9UQFhgmHFtNJ2CrhWBCYaHpTcI2XEGxSpAK0sySIbrCKvscbVb0jh1StHpGjPCX3fwl5iZr47qLZ7Z3M53_HKoYzwZ5__4ESgndsSPw0OOt0F76g9uaLZjSbsMBPTrGf0L7mwOUL9CjRnM1RPWIy9ALlgutswWk9WiU=w416-h238",
-          "width": 416,
-          "height": 238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-second-natures-ai-based-sales-coaching-integrated-with-corporate-visions.md",
       "title": "Second Nature’s AI-based Sales Coaching Integrated with Corporate Visions",
       "excerpt": "Second Nature today announced an agreement to integrate its AI-powered sales conversation simulations into Corporate Visions’ sales messaging certification and fluency coaching programs. The first ever AI implementation at scale by a prominent sales ...",
@@ -534,7 +491,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -954,6 +911,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-texas-sues-metas-facebook-over-facial-recognition-practices.md",
+      "title": "Texas sues Meta’s Facebook over facial-recognition practices",
+      "excerpt": "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna16201",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201",
+      "publishedDateTime": "2022-02-14T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

@@ -527,7 +527,7 @@
       "originalUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -855,6 +855,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-17-can-self-driving-tesla-cars-stay-in-their-lanes.md",
+      "title": "Can Self-Driving Tesla Cars Stay in Their Lanes?",
+      "excerpt": "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
+      "originalUrl": "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUxNDA4NzkzNDEzNTI3/nvidia-chips-are-superior-to-everybody-elses-jim-cramer-says.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
+      "publishedDateTime": "2022-02-16T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.md",
       "title": "Anadolu Efes CIO drives AI-fuelled data, analytics strategy",
       "excerpt": "Murat Ozkan, chief information and digital officer at Anadolu Efes, the Turkey-based international beverages company, chats with CIO Middle East about how a data management strategy comprising AI and analytics ... representatives start taking real-time ...",
@@ -1148,59 +1191,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe.md",
-      "title": "Bongo Learn provides real-time feedback to improve learning outcomes with Amazon Transcribe",
-      "excerpt": "Real-time feedback helps drive learning. This is especially important for designing presentations, learning new languages, and strengthening other essential skills that are critical to succeed in today’s workplace. However, many students and lifelong learners lack access to effective face-to-face instruction",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/16/ML-7981-image001.png",
-          "width": 603,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T11:11:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -27,67 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive"
-    excerpt: "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ..."
-    publishedDateTime: 2022-02-14T18:33:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
+  - title: "The Most Important Self-Driving Cars of 2022"
+    excerpt: "Born and raised in Silicon Valley, he remembers when Apple's headquarters was mostly apricots. This is a key year in the history of self-driving cars, not because full autonomy will arrive but because cars with important and differing versions of partial ..."
+    publishedDateTime: 2022-02-18T12:40:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaKtWWAHaJUI/v0/1200x748.png"
-        width: 1200
-        height: 748
+      - url: "https://www.cnet.com/a/img/resize/33e74eb1e0bb6a3f2b897e7840c54f85fb5ffaa9/2022/02/18/05e34293-a850-4bd2-bc5b-3774823464f7/drive-pilot.png?auto=webp"
+        width: 1826
+        height: 1197
         isCached: true
-  - title: "Can Self-Driving Tesla Cars Stay in Their Lanes?"
-    excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
-    publishedDateTime: 2022-02-16T22:36:00Z
-    webUrl: "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
+  - title: "Apple’s patented sunroof hints self-driving car project still a go"
+    excerpt: "Apple’s intention to enter the automotive market has been floating for several years. The tech company reportedly plans to unveil its self-driving electric car in 2025 but there are no concrete details in regards to its endeavor as of yet. Apple's self ..."
+    publishedDateTime: 2022-02-16T08:04:00Z
+    webUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184"
+    ampWebUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
+      name: Philkotse
+      domain: philkotse.com
+    quality: 44
     images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUxNDA4NzkzNDEzNTI3/nvidia-chips-are-superior-to-everybody-elses-jim-cramer-says.jpg"
-        width: 620
-        height: 400
-        isCached: true
-  - title: "Elon Musk's Promises of Self-Driving Tesla Cars Run into Potholes"
-    excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
-    publishedDateTime: 2022-02-16T20:48:00Z
-    webUrl: "https://www.thestreet.com/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc1MjQxMjM1MDk3NzIzOTk5/extra-savings-sh.jpg"
-        width: 620
-        height: 400
-        isCached: true
-  - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
-    excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
-    publishedDateTime: 2022-02-14T18:01:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-price-self-driving-cars-51644843165"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-price-self-driving-cars-51644843165"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-price-self-driving-cars-51644843165"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 53
-    images:
-      - url: "https://images.barrons.com/im-462998/social"
-        width: 1280
-        height: 640
+      - url: "https://img.philkotse.com/2022/02/16/O3IWXvly/untitled-design-66d0_wm.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Could Tesla Be Cooling On Self-Driving Cars?"
     excerpt: "Would Tesla have achieved its stellar valuations without the promise that self driving was are around the corner? Elon Musk predicts that perfecting self diving technology will lead to one of the biggest asset-value increases in history. However Tesla ha ..."
@@ -103,19 +73,19 @@ related:
         width: 292
         height: 256
         isCached: true
-  - title: "After recalls, will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
-    excerpt: "Tesla CEO Elon Musk is again promising big gains in the EV maker's \"self-driving\" software. But regulators also have their eyes on the feature."
-    publishedDateTime: 2022-02-17T13:44:00Z
-    webUrl: "https://www.autonews.com/mobility-report/after-recalls-will-feds-frustrate-elon-musks-plan-make-teslas-self-driving"
+  - title: "Intel’s Mobileye with its partners to launch self driving cars in the US by 2024"
+    excerpt: "Intel’s Mobileye announces plans to build and deploy self-driving cars in the US by 2024. The announcement comes in a bid to scale up its automated driving systems beyond the current system of ride-hailing and others. Mobileye and its partners ..."
+    publishedDateTime: 2022-02-15T02:41:00Z
+    webUrl: "https://techstory.in/intels-mobileye-with-its-partners-to-launch-self-cars/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: tech
+      domain: techstory.in
     quality: 34
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
-        width: 1200
-        height: 630
+      - url: "https://techstory.in/wp-content/uploads/2022/02/641220_39429767.jpg"
+        width: 752
+        height: 423
         isCached: true
 
 secured: "00xpMHlIXI32SV/Ma92R5Eft5TyC7CJb88d50ijxivaYSLsPtQ3wF4bJEohXGjq6p3M4fCId8pqgf47WEiYHir1WYYKoth9tYlTqFJf7MoHWJDgZ+vWwbIpYJYoz2G2GQ2xusy+nRWr2L5ui2LKIxp7X8HIgzZFaN9IRlQWqwMnhr3CoBl8/qDGZxb6CM3mtjIFbN18RL08Cr64RJEJEiWVnvGIVmStcHKJQID+KQM3wsoDfl2nGcSGqF1fnZ2VnZ2DWJzV7dX1Kuf/H78M+/dH9a0xMvW4olhFGA5cQmVQIXcXUWI78NBbuUz9hjjQcbPtCrQWxrJ9VMFHGnwKPd7yoDDYLmzAJOY92W2qHPdl5JGxPAs3lNEJ+CVb+u1D0UGPJnmDht89i8hygkn7g0+gR1bmzmbkBFN8dw5H/GhTyb6TIn+tQFNc8bD2d68aSq01YBTeodAWGOzcC0trJp6OSuLXznxZTwI2Yh8dbW3SYEDJJhGulPp6vOtNRMEuwo9iCAqx6ZNjR6kiiEiwERw==;5CwS+OOTpOR1yGNLrnTQFw=="

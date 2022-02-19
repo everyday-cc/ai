@@ -27,22 +27,6 @@ images:
     height: 387
     isCached: true
 
-related:
-  - title: "Racial Minorities ‘More At Risk’ Of Being Spied On By New York City’s Massive Facial Recognition Surveillance Machine"
-    excerpt: "there’s a very good chance your face will be captured by surveillance cameras and run through facial recognition software. If you’re in a predominantly Black, Asian or Hispanic community in New York City, that chance is even greater. That’s according ..."
-    publishedDateTime: 2022-02-14T23:00:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/14/new-york-facial-recognition-surveillance-puts-minorities-at-risk-says-amnesty/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620ab71d7ae909a86b686c72/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 483
-        isCached: true
-
 secured: "cXFQxgaq6vbmsfMcNup+u3vwPD6T98Yrpd2WRVN9PtdOWaD+jY6gyk7NSeCKbzPhrU6Rup0zI7dZTSyE2XCOrORcrIRPHjRZ/SKm1rKawK2SkKmd2FxWQfYPsk+bRygiBA33Ndmdjgssr9xPgOcOLw49IKIbNaeZhMqRj83E5CZp/5O4pq+tdZ1OaMhlmGmINTFQIc0FvO1S8fUGV8ScKJzl8+HOcn7GMePbdBMQRwdN9j57jvheZvlzffl7/vWQDfYhAko8jUShjllKlh8y3z0MRlC+d7tpI21mx9ejDjxCL1itvl7aee4An590ZN4MCydVbNXCxJrgegvCwuBuQkmFxK+tUTGPXSd3nugfzQcVNEN9WdghK/AEkm1xE0t1Ea8PGEYl70Dfjxm3rUrrKO47UhN0dXL7MO80ehjcvIQdigPdFf7GSM9NULuMxOOlCwNU1HFjm7iHAztGmf+dH0vLCJRheNapgpM4RxJEh/vU8luVDLLNZd5lf5CcEqtlWYkO3yFLwrXmSXcLi6oZPA==;yJttpvwH5+hE9zlMgrzVrA=="
 ---
 

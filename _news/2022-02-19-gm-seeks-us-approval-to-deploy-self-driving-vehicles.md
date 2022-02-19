@@ -1,10 +1,10 @@
 ---
 category: news
 title: "GM seeks U.S approval to deploy self-driving vehicles"
-excerpt: "FILE PHOTO: The new GM logo is seen on the facade of the General Motors headquarters in Detroit, Michigan, U.S., March 16, 2021. Picture taken March 16, 2021. REUTERS/Rebecca Cook/File Photo NEW YORK (Reuters) -A gauge of global stocks fell and government ..."
+excerpt: "WASHINGTON, Feb 18 (Reuters) - General Motors Co (GM.N) and its self-driving technology unit Cruise have petitioned U.S. regulators for permission to build and deploy a self-driving vehicle without human controls like steering wheels or brake pedals ..."
 publishedDateTime: 2022-02-18T20:56:00Z
-originalUrl: "https://www.reuters.com/news/picture/gm-seeks-us-approval-to-deploy-self-driv-idUSKBN2KN261"
-webUrl: "https://www.reuters.com/news/picture/gm-seeks-us-approval-to-deploy-self-driv-idUSKBN2KN261"
+originalUrl: "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/"
+webUrl: "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/"
 type: article
 quality: 54
 heat: 64
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220218&t=2&i=1591639549&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI1H10H"
-    width: 810
-    height: 550
+  - url: "https://www.reuters.com/resizer/FsE-kcUYSmJ27scAV9t6fzlptcM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G6UH5UE27JISPBGFO6JPAO5XP4.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -46,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Z+TxHXPFUyrBG5/Ze+zDwKgMPyp7DTpF3MRsP7/V/Kt+W33jJowrTunQ4HLHvqrH6kXdN4e0xwZICrjzK3sWZ/v7AByckilkOW1iwUP5gaCk5pc5LR3jZRpk0ZJbhb4ve6l2/qEIR9yiGeE2e7uNTizJW36Gz2dl7Hx6V/jut7MaJ7CEOuFC81RcJ9iG6ewLBZwn+FTPjFgbCXamTtYUa5cbLpMBUh8hy9ac9Xng7mSf57WLN8TW2SelUosiaMahnnZpcQX/LhMyI72yeljQtBwn7u2d5uHbTB0ePWN4NecSHPBvjrWZlJayAMCOkn7Y5ZHXNCy/eyJ8GAlVvZ43J7vRoJ2TLKcv01tPTegE3qDeH0hAEItwO0IWJVVkZWX9/rnMma6kg73UeeEOeJpwlvgI2boUd+GjfCUfpXo3BNQRi941SJjkSrcjYs8l0QeQFFI44p7QEeuLjSzkOBCybfAbvLCMNsZtlbTkeX5CJqq/XSXBP0Aq+29spk1ADJLSLI0ez6DCPA499Z8olyHpUw==;niLtHfZktEy1czd1JMdNIA=="
+secured: "Ki4AERuDCFJIaO6ICJ6FTF494n/x9YLe//yL/U6JIE+iwknAa7GliV58qTDh1b8Spus/1FSK1NbLPMVcHMmex+kHedde6SJmhpWzgP3nEi8OUamyL/LSDVuRGQeeKgiv63DdI3C17RONbuVjULEqLeALNFQgZTZ1r28pdTFQEwzYKQgjMRrhgjzJeKiqYtU9muR4tZTDJVQ3YnaHW8Lkw8+DMeWu7G19ztrROTjbvZadFplaphwcxj6aGGvHGyQlyj9q7AMHcubYFDYdgZb1EvkqaH95kKxw0w/bbem29cLX7tNdlbk48N0KXjUH+LbxgWEwtJjMIo3Dc0U4W6cdoFbycUQpmcENKooqtk6aFgM=;74Qt6RlkTPETTiKYzvzHaw=="
 ---
 
