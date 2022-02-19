@@ -10,7 +10,7 @@
       "originalUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -141,6 +141,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-16-us-senators-urge-ditching-idme-face-recognition-for-unemployment-seekers.md",
+      "title": "U.S. senators urge ditching ID.me, face recognition for unemployment seekers",
+      "excerpt": "But about half of U.S. states still use ID.me, which employs a mix of facial recognition technology and video-chat interviews to confirm the identity of unemployment applicants. Activists have argued that facial recognition remains too faulty for use in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "originalUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/nqvndH2CybKuE2pdSk8JW5SRvKU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3J3TVDV7HZMYZEUT7SJKJQRTNY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems.md",
       "title": "AI can erase tattoos from photos to help face recognition systems",
       "excerpt": "Artificial intelligence can accurately remove tattoos from photos of people’s faces – potentially helping face recognition systems, which can be flummoxed by such tattoos, work accurately. In previous research, Mathias Ibsen at Darmstadt University of ...",
@@ -181,6 +233,58 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-texas-lawsuit-claims-facebooks-facial-recognition-violated-user-privacy-and-broke-the-law.md",
+      "title": "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law",
+      "excerpt": "Texas attorney general Ken Paxton has taken yet another swing at Big Tech, this time suing Meta for allegedly capturing and using facial recognition data on millions of users without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "originalUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/097c4a263d1e62634e634f40e3b2b165.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "publishedDateTime": "2022-02-14T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1325,101 +1429,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028.md",
-      "title": "AI In Computer Vision Market Size, Share, Top Key Players, Industry Growth, Trends and Forecast 2028",
-      "excerpt": "Feb 03, 2022 (Heraldkeepers) -- Global AI In Computer Vision Market report spotlights major statistics of the current industry state and is a beneficial source of developments and opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-game-changing-facial-recognition-technology-is-now-being-used-by-eps.md",
-      "title": "'Game changing' facial recognition technology is now being used by EPS",
-      "excerpt": "Edmonton police say they have already been able to see the benefits of the facial recognition technology they recently began to use.",
-      "sourceUrl": null,
-      "webUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "originalUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "publishedDateTime": "2022-02-01T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

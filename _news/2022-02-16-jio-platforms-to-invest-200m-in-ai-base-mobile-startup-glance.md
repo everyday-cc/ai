@@ -40,22 +40,6 @@ related:
         width: 3296
         height: 1854
         isCached: true
-  - title: "Jio invests $200 million in AI startup that plans to take over smartphone lock screens"
-    excerpt: "Glance was founded in 2019. It is a consumer internet company that has created two digital platforms – Glance and Roposo. These platforms push content on the lock screen. The company claims this will eliminate the need for searching and downloading apps ..."
-    publishedDateTime: 2022-02-14T15:20:00Z
-    webUrl: "https://www.bgr.in/news/reliance-jio-invests-200-million-in-new-ai-startup-to-take-over-smartphone-lock-screens-1229254/"
-    ampWebUrl: "https://www.bgr.in/news/reliance-jio-invests-200-million-in-new-ai-startup-to-take-over-smartphone-lock-screens-1229254/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/reliance-jio-invests-200-million-in-new-ai-startup-to-take-over-smartphone-lock-screens-1229254/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 49
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2022/02/2.jiophone-next-120000-1.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "5Knmz/1x8enVTfEvpYHnGQdsFqaS2C0bzbexQtoc57siQLWUSSsG9qX3rmpmd5N2kVE/BifLdFr8bSQgNrdA/NHhqQo+qavq5W5v3LNz5EvW5IbfhsoprExxbAySfoW/XhFc+GhSZhCuM6sGZksxz0SL1XBa8BQOBKwhsy7q8imZUTwSKQeEgFknZcDU/Oy7grIJAoa0xUXAF3g1cEFYK7UlWggLXUWlYKbuVbzO/DHXKB/0+5xihPVibXwU9DjYWdCqlr07RvlPAYQkuf0xwhkPlPlHd47sM7QBdAZJeLLzExPdjTtDids1o/vnh1VFy70aA2sKXJxqbP6Ik7Whb2uctIHgCHJFVk38jyYqbkkCOPkcq2e0GVGWVhADaN5AHCoY9juJFD0I9kGr7ikvbZrpWa8KDsnVT0LVkfy3LGuvNtYtxFMpyVFDBMH4PeZT3ERps3ET/ZTqM1H4/HjKAfNrBsyRH8lWNW8FLysfWa/b4FH0NpE3rdiWOzI75qnpcCSuSG3/f30sVVFFqFOERA==;hO5YsCIiQWOt8ver8qmt5Q=="
 ---

@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
+      "title": "LivePerson put more personality (and AI) into next-gen bots",
+      "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
+      "originalUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
+      "publishedDateTime": "2022-02-15T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-databricks-launches-lakehouse-for-financial-services-sector.md",
       "title": "Databricks launches lakehouse for financial services sector",
       "excerpt": "“Databricks Lakehouse for Financial Services enables Gemini to bring together data ingestion, machine learning, and analytical engineering onto a single platform,” Sri Rajappa, head of data at ...",
@@ -199,7 +250,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -483,7 +534,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -535,7 +586,7 @@
       "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1055,6 +1106,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-15-texas-lawsuit-claims-facebooks-facial-recognition-violated-user-privacy-and-broke-the-law.md",
+      "title": "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law",
+      "excerpt": "Texas attorney general Ken Paxton has taken yet another swing at Big Tech, this time suing Meta for allegedly capturing and using facial recognition data on millions of users without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "originalUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/097c4a263d1e62634e634f40e3b2b165.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "publishedDateTime": "2022-02-14T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive.md",
       "title": "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive",
       "excerpt": "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ...",
@@ -1103,101 +1206,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-machine-learning-helps-classify-hip-fractures.md",
-      "title": "Machine Learning Helps Classify Hip Fractures",
-      "excerpt": "A novel machine learning method designed by researchers helps identify and classify hip fractures. The machine learning process has shown to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath were able ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/Osteoporosis-Women.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "publishedDateTime": "2022-02-14T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-are-lifelike-digital-humans-the-future-of-customer-experience.md",
-      "title": "Are lifelike digital humans the future of customer experience?",
-      "excerpt": "Soul Machines, a New Zealand-based company that uses CGI, AI and natural language processing to create lifelike digital people who can interact with humans in real time, has raised $70 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/",
-      "originalUrl": "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/2_selected_arya_happy1_COMPED_v2-1-copy.png?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/",
-      "publishedDateTime": "2022-02-14T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-educati
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Customer Experience in the Age of AI"
+    excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
+    publishedDateTime: 2022-02-15T13:00:00Z
+    webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/01/R2202H_ROSSI.jpg"
+        width: 2000
+        height: 1124
         isCached: true
 
 secured: "Zu2jr8X8+FeOfwMRcKURdfHly8HuC4G/znWx8IbUyG9aIMzT4g6TIHNW1XcDWzQOKuiFpzMVBBPSd17Ruoe756RE4k/D4P393ct45l2w/fxXAuIno791Ln2n5L24kPjbAzhBgcGngJLkhUn4OfzZTt8YMaIF+30W1fapkOggAlx+ruwGWTqjEnPlwo0s4PVAlkmgkqPjs1VMbtdHiU/aMnbtibNS2FVCDiTv03P79+Tis38ltrNUySC1rhRmL8iTicGyco6mpJQtknvOp4jGVLybz0RjotRVQKVUpOaN2JYQEqimB4Rofo+AGD1xc5UrbwhyAvkgKeia9JZCijbpkWHAanEc2kQIn01i0r+tofpBgVgiroltAN4zuODnURnuZIQUvuWHn3Y6Wix0oqa9KCynfr2jTknzFU0N770ftQTPqCC7KpeEDUIfojEgWVzC1KAmzyTBFDwz68sBSmM+jJpAICytxbjkhRopAiTLNMNPR+DukQUtRffpDWqAiHyszBSuQBR8N8Vpu9KYqwYZQA==;QDO9zZpjDQYSBncZvJZ3nA=="

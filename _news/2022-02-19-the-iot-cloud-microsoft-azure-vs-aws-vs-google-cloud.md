@@ -1,31 +1,28 @@
 ---
 category: news
-title: "IBM acquires Microsoft Azure consultancy firm Neudesic"
-excerpt: "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ..."
-publishedDateTime: 2022-02-16T13:08:00Z
-originalUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm"
-webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm"
+title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
+excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
+publishedDateTime: 2022-02-19T08:09:00Z
+originalUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
+webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
 type: article
-quality: 84
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: tynmagazine.com
+  domain: tynmagazine.com
 
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1594223123/itpro/IBM_building_shutterstock.jpg"
-    width: 1260
-    height: 710
+  - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
+    width: 602
+    height: 305
     isCached: true
 
 related:
@@ -75,6 +72,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "IBM acquires Microsoft Azure consultancy firm Neudesic"
+    excerpt: "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ..."
+    publishedDateTime: 2022-02-16T13:08:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1594223123/itpro/IBM_building_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "IBM Acquires Neudesic, Leading Microsoft Azure Consultancy"
     excerpt: "IBM continues to invest in its hybrid cloud and AI strategy, expanding its cloud ... 3 \"As one of the leading cloud platforms, Microsoft Azure is key to many of our clients' ability to modernize ..."
     publishedDateTime: 2022-02-15T16:00:00Z
@@ -88,20 +99,6 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
-        isCached: true
-  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
-    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
-    publishedDateTime: 2022-02-19T08:09:00Z
-    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
-    type: article
-    provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 71
-    images:
-      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
-        width: 602
-        height: 305
         isCached: true
   - title: "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
@@ -132,6 +129,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "MiUvSl9BS/fAgrNq3ithLdsrp/ZzQHoH56qNGNvS5GBSjg7P1UqbLZc4Y4pY9SF4DMO4sGMCL3xwq0Xozot/vcuK6BHQ/eH1jVxYK0+cSt3i/ZGYi1bAtBVVwmpFgRn+CRi3n+oKZYKb59nql/VPt/y082MlswDkMl88w+jJcOfbv1f+wC7+TlCxp9ISgQM1EuNLZdP/V1pNknQe8DBOlYj4782J9K6nZHHh90AHFJZLG/5vKD1xcb4PddbRNYUG2HxKe3nWWkK263hBjO8JbXXKJF0HtCtl4fZTi4b9lOgMtiJkLQO/7SW68TUjF3esejje2ZUxtNIBMAbooiVUhiXniAWO5jc6O4Pl+v0RZNfRQ5gjAIXfgPCVT4V4+Ag7cqJfp6PdzKDFrwgUapDWxwlQczQbAJgTo/mMz1PhowpXJq5rZpgelaEKrAdJV0mj9BSlCzaV3x376ydu2+XT4j1zXJlEhJKsH9KcqR5XbsryWIVNI1fd+UrOY1iDHtnzoCupznbkkJp9NCZuMg7+fA==;FucbWOUW9r6ANK6BZGA1uA=="
+secured: "i7PXtcMTe9NSqsbNRkiv7CBZ1G3FsEFFS/baqDT/6vG6LLts/RhkUIq7SJYi7lqRQKSgzDXLQaLicwHGWp0aQivfVBpmUT9R0wFEhhJJauThKdRvSJqxU8lBP3B+hn0S9+o0P3rVfM97sTXp5j79Nnqa5/C+FE8262rvezWgoextV143Iqki0/G9cfbyBtI51HKSgdwhG6N67qlQNv74+G+Hs7jzOSYmBuyJmKtEbBozx85uhBg5DPyCXTDF16kWMah07rAKEq+ZgklKw+Hww0Sdfz5PSo3NmY7daXMCHvuUKIrAD0AIYGjxn+rkoADyBs3VuSTmbe4GN3kPZcKamFsnBxSSzuYeXqNH8RW6F3w=;GQvKaCtjFFvduwd8erU3+w=="
 ---
 

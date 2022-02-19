@@ -89,6 +89,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
+    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
+    publishedDateTime: 2022-02-19T08:09:00Z
+    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
+    type: article
+    provider:
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 71
+    images:
+      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
+        width: 602
+        height: 305
+        isCached: true
   - title: "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
     publishedDateTime: 2022-02-15T12:12:00Z

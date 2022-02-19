@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-08-the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa.md",
+      "title": "The Great Resignation gives birth to digital employees powered by AI, ML, and RPA",
+      "excerpt": "Companies across numerous industries are increasingly relying on digital workers to automate and streamline various tasks — and, in turn, these virtual employees powered by AI, machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
+      "originalUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
+      "publishedDateTime": "2022-02-07T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities.md",
+      "title": "IRS Backs Away From Facial Recognition to Verify Taxpayers’ Identities",
+      "excerpt": "WASHINGTON—The Internal Revenue Service is backing off use of a plan with a private facial-recognition system to authenticate taxpayers’ identities for online accounts, the agency said Monday after criticism from lawmakers in both parties over privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
+      "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 659,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-481379/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
+      "publishedDateTime": "2022-02-07T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints.md",
       "title": "Improve high-value research with Hugging Face and Amazon SageMaker asynchronous inference endpoints",
       "excerpt": "Many of our AWS customers provide research, analytics, and business intelligence as a service. This type of research and business intelligence enables their end customers to stay ahead of markets and competitors, identify growth opportunities, and address issues proactively. For example, some of our",
@@ -1081,93 +1185,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-msi-raider-ge76-shows-off-the-good-and-bad-of-intels-i9-12900hk.md",
-      "title": "MSI Raider GE76 shows off the good (and bad) of Intel’s i9-12900HK",
-      "excerpt": "With the GPU benchmarks specifically ... I benchmarked Civilization VI using the 'AI' test, which is more CPU-focused and measures the time it takes to complete turns with the game's AI. As with the other CPU tests, the GE76 saw performance fall slightly ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobilesyrup.com/2022/02/06/msi-raider-intel-i9-12900hk-hands-on/",
-      "originalUrl": "https://mobilesyrup.com/2022/02/06/msi-raider-intel-i9-12900hk-hands-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mobilesyrup.com/wp-content/uploads/2022/02/msi-raider-ge76-20220205-header-scaled.jpg",
-          "width": 2560,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MobileSyrup",
-        "domain": "mobilesyrup.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-two-members-of-google-ethical-ai-research-group-left-the-company.md",
-      "title": "Two Members Of Google Ethical AI Research Group Left The Company",
-      "excerpt": "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-5.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
-      "publishedDateTime": "2022-02-07T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

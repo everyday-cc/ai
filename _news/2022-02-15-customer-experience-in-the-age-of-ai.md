@@ -24,35 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "Are lifelike digital humans the future of customer experience?"
-    excerpt: "Soul Machines, a New Zealand-based company that uses CGI, AI and natural language processing to create lifelike digital people who can interact with humans in real time, has raised $70 million in ..."
-    publishedDateTime: 2022-02-14T17:00:00Z
-    webUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/"
-    ampWebUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
+  - title: "Cow, Bull, and the Meaning of AI Essays"
+    excerpt: "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ..."
+    publishedDateTime: 2022-02-15T13:00:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-language-education/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-education/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 174
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/2_selected_arya_happy1_COMPED_v2-1-copy.png?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://media.wired.com/photos/620ae1e210a719b317e6acae/master/pass/Cow,%20Bull,%20and%20the%20Meaning%20of%20AI%20Essays%20(0;00;02;02).jpg"
+        width: 2400
+        height: 1350
         isCached: true
-  - title: "Artificial Intelligence. Human Experience. Five Ways To Strengthen Customer Experience With AI"
-    excerpt: "Winning companies are using artificial intelligence (AI) to boost that experience. 86% of organizations that have fully embraced AI say it has improved customer experience. Let's look at five ways you can use AI to strengthen experience for your customers."
-    publishedDateTime: 2022-02-16T15:23:00Z
-    webUrl: "https://www.fieldtechnologiesonline.com/doc/artificial-intelligence-human-experience-five-ways-to-strengthen-customer-experience-with-ai-0001"
+  - title: "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars"
+    excerpt: "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars."
+    publishedDateTime: 2022-02-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/"
     type: article
     provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://vertassets.blob.core.windows.net/image/fc662665/fc662665-690f-4438-b9ed-93bc255651f7/istock_1145585734.jpg"
-        width: 701
-        height: 467
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620c57f8995b45d70b859096/0x0.jpg?format=jpg&crop=2097,982,x0,y31,safe&fit=crop"
+        width: 2097
+        height: 982
+        isCached: true
+  - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
+    excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
+    publishedDateTime: 2022-02-15T04:39:00Z
+    webUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/"
+    ampWebUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
+    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
+    type: article
+    provider:
+      name: KSTP
+      domain: kstp.com
+    quality: 51
+    images:
+      - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "RHsA9yQxka/4s/Ee9E3kbyyy3H5RTwZZcMbPM8TBZk8mgDNmc3/BUCGujh3ZttpCr3namXMXTTOIwbWrw6U6xmLJFKGCGciYTtUBXmi0RyJ/Q8APz+/oA2ZAeX2iZr7hhJfUA7Awm9ELuMRcFibwFn89zUoWFIPtcQRFUbg5IDf/tfJN2R8+g+lqPuvwOrwxGUOZd8OgmHCTP5aUYI+hCDCbiVsXV0JwEh/WaNyKWfsIov31xIaksewGSvPnlsfJDDxYnnd7qKt/7bSIdWkmsTU0buQiHfSwW3So889Y6q5jBHaClWGAUhZnmgIL012zXF/yEH0zu2ySMD4v608YoUC9+lm0if6C7Vr8z/w34TI=;3fNmBP1kSdZKmpRdSBsyww=="

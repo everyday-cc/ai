@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/18/prediction
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/18/predictions-how-data-and-ai-will-shape-business-growth-in-2022/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Magewell Executive Predictions: 5G, the Cloud, and GPU-Powered AI"
-    excerpt: "As beneficial as 5G can be itself, we believe a combination of 5G, the cloud, and GPU-powered AI will enable revolutionary advances in streaming production. AI-driven algorithms leveraging the computational throughput ?of GPUs will enable higher ..."
-    publishedDateTime: 2022-02-14T16:09:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/Editorial/Spotlights/Magewell-Executive-Predictions-5G-the-Cloud-and-GPU-Powered-AI-151417.aspx"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/143683-Magewell-Executive-Predictions-2022-ORG.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "WNS Triange Powers Business Growth & Innovation with Next-gen Data & Analytics Solutions and Artificial Intelligence"
     excerpt: "WNS (Holdings) Limited (NYSE: WNS), a leading provider of global Business Process Management (BPM) solutions, today unveiled WNS Triange - the new data, analytics, and Artificial Intelligence (AI) unit of WNS. Driven by a specialized team of over 4,000 ..."
     publishedDateTime: 2022-02-15T13:10:00Z

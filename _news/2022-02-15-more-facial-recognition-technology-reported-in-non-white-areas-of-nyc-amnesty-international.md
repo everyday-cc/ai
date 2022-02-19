@@ -58,6 +58,31 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "What the Tech? Facial recognition"
+    excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
+    publishedDateTime: 2022-02-16T23:45:00Z
+    webUrl: "https://www.wfmz.com/features/what-the-tech/what-the-tech-facial-recognition/article_8f565ad8-8f5a-11ec-86eb-fbea4dbfdb71.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/cd/ccd9c44a-36a6-565d-964f-53538bd6c56f/620d892de78df.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why you should want the IRS to use facial recognition technology"
+    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
+    publishedDateTime: 2022-02-18T14:06:00Z
+    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
   - title: "The IRS backs down from facial recognition plan to verify identities"
     excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
     publishedDateTime: 2022-02-19T00:18:00Z
@@ -71,6 +96,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
         isCached: true
 
 secured: "X8l9RwUeCDc5obPfNa3cQCTYZLGV+z2exDuzaDS1HqS9MVx3kzvv8z0bSJlMjYM9YO+hfrpG5Fx9U7zxpy3eVcZ84SEVaDOqjUxEsK8L6T0lfU6ULtCmTd7mZKIFuJH3rLOykI57EQWMU0k5MXleiKI26t23CMJB4YgiOCOpUvXEn3aRPW813m7Rg/qEE4Zh3Clp3PuBs7ZlQPd6wR7v/wDWTpPsXZczSCd9C7TM8XB9yDyBcmR4CBTMJYV5hRC3P4EZWpNDqRTzIupjbQ6aEeMQ2GqI1Gy1i/Hk/n9BmOg/rOo5aORNeXF+OwqLc0d8Oe0p+WW4ieZ3frQ4cTWkRIRnTDQGb8hP6hI8eNXU5czKvrfX+9fYaj6h4Ks+RwFZamg7UU9zgpABq4X7qDflcvHIdQM3lBsQEcePZKWFQ5UmKz5LxAgPDI8G/62Bq+XlGJR2pkZ+alEo+KiqGzi/buTtYoKuFsq3e2UMd0EBMlggAVVWIetCmt/NmMZ3eiTAgI/2rOzgRyVXjkKZA5YRig==;VFsWOWZLDVmHhln80SOPfg=="

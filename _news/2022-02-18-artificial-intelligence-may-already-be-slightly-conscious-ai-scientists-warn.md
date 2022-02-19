@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "No, artificial intelligence is not slightly conscious (yet)"
-    excerpt: "Consciousness is a much-debated point in the field of artificial intelligence. Making an AI model reach minimal levels of consciousness would be one of the elements that would signal that we are very close to general artificial intelligence. Many ..."
-    publishedDateTime: 2022-02-14T15:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-slightly-conscious-yet-luca-sambucci"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEu6xNbLnPegA/article-cover_image-shrink_720_1280/0/1644840290062?e=1650499200&v=beta&t=0ZkIO-5VP_36F3EtnZFNyC50NayLVsxSBRgR5BwEYDg"
-        width: 1000
-        height: 661
-        isCached: true
   - title: "Scientist says today’s neural networks may be “slightly conscious”, sparks debate among experts in the field"
     excerpt: "The chief scientist of the research group at artificial intelligence development company OpenAI, Ilya Sustskever, posted on his Twitter account on Thursday that “it may be that today’s large neural networks are slightly conscious”. Sutskever did not ..."
     publishedDateTime: 2022-02-15T03:06:00Z

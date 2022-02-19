@@ -99,6 +99,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
+    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
+    publishedDateTime: 2022-02-19T08:09:00Z
+    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
+    type: article
+    provider:
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 71
+    images:
+      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
+        width: 602
+        height: 305
+        isCached: true
   - title: "Microsoft’s big cloud expansion plans with Azure"
     excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
     publishedDateTime: 2022-02-15T10:30:00Z
@@ -114,6 +128,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "gpHqS40oOkq10yb4OwxIs9KUVJSg7RbL3mLHe9qHbBSnQD/aalewabpxAtVOA3rscB37cXCo1KCjhTv/DP6/PtRb0pYpDegLFm5+5UUIzoxuYBn+hFfCIBv/LgnO3JeSeYehYb+pFY6TtyThe26B+3yO3rtGO95ET8HKjFpFSTG4SU/j2iMW3gMBeU2lap7W6gBPerEmKmiAgA2hMsMmhh3gu3E1ajfw+wcP8BZaUCHUFsnGk/xXTqBK2Xiv+niUFRlFC/ZGkukuHS6D9nkghA28g84uqjtFgVVBEcaAsNIEau//CBho4mGOaSOjyKnUS6p5T5Mrucl+1ZzbnnqUE0E9G421NRpbY8JSqGkmc6A=;rc/E3gNA99FN0qgi4TFNXA=="
+secured: "MjbKO+WD428m8t7Ym11x/NejCUVklhf6DV3b9xRt9T7QAS6SmjGrwp7ZD1dQZdaC2TtIbKuzO4vQeejsGBjWPmiGL+EPeBkkGog9ARp+0f6wL+SL7hc0DwhEfKlZcjyo4dyOGQjmsftvO3I0HCDvzUhd3D3t9bX4Rv8+NtTxDcODuK3aCKFT97DZQpZSnOjXrfgFPn31tUYw1Z/A6mW+M8WFmTGnTi7qIKu9X/7VJu+/PDWeG7StfTO4OzSHEucH4MrLvTcQjujBkHplA+95CW9832WVDqZ6MwLmvhVhOaS3z7o8zFKRPvX7YA2vio9TrLhkQy/MC/rLrflyPB1dVTvz1Qe7D+w5AmH+e1l2hhE=;12TlNw0I4Ir7uIopGuwLww=="
 ---
 

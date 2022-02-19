@@ -7,7 +7,7 @@ originalUrl: "https://www.uwe.ac.uk/research/breaking-research-boundaries/digita
 webUrl: "https://www.uwe.ac.uk/research/breaking-research-boundaries/digital-futures/responsible-robots"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 410
     height: 230
     isCached: true
+
+related:
+  - title: "Meet the Steel Colosseum Robots: Relay"
+    excerpt: "Each robot has a series of Control Cards, Relay's optimise speed and stealth for ... earlier hit from Insectoid’s killer blades had torn away its armour. Indira’s mind races, looking for a gap. Her scuttling nemesis disappears beneath a stack of ..."
+    publishedDateTime: 2022-02-19T08:00:00Z
+    webUrl: "https://www.board-game.co.uk/meet-the-steel-colosseum-robots-relay/"
+    type: article
+    provider:
+      name: board-game.co.uk
+      domain: board-game.co.uk
+    quality: 39
+    images:
+      - url: "https://www.board-game.co.uk/wp-content/uploads/2022/02/Steel_Colosseum_-_Meet_Relay.jpeg"
+        width: 940
+        height: 330
+        isCached: true
 
 secured: "VrpX4I7RAYPRSigKeqlFMLzIe2nlK2HMfKMl7JumMlw4sN9ugxPQ1X1MV9JmSaLqSWH/5VT8JHNlo8xXp9yvZQDtFXr8SSrbfDVLKvaSqQumfOw6+5c3TsFDwgVLXsiBSKYVD+wZBCMz/Ju7Y58umoFkfx5SlOMNELbzv47gT49AzjZT/IBBbiesmvIS9L4RwTVdNLQxHPcPPO3HszaZUrb5rDHWTa3i2lD5j5QpqpAExK4FAiRFse609G+okQbjwgXVR6L/8f3WZUT32D8WY5I3qKKqELGUp7+eyJNrAAYw133GhiKd6RrYFoGIQEN07ml/9rBsC1LjHwO/zfDgtQG3KywcJYXZ16xK2LBdslg=;exJGlXeHF2bhAlQ5EWL45Q=="
 ---

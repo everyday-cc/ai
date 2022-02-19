@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "Magewell Executive Predictions: 5G, the Cloud, and GPU-Powered AI"
-    excerpt: "As beneficial as 5G can be itself, we believe a combination of 5G, the cloud, and GPU-powered AI will enable revolutionary advances in streaming production. AI-driven algorithms leveraging the computational throughput ?of GPUs will enable higher ..."
-    publishedDateTime: 2022-02-14T16:09:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/Editorial/Spotlights/Magewell-Executive-Predictions-5G-the-Cloud-and-GPU-Powered-AI-151417.aspx"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/143683-Magewell-Executive-Predictions-2022-ORG.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ma5wsPx2OGCD4nbwiAqODSdvt3a4ezQvrdCA5Xqn0UOFtc1hn8xN+R6FXKCd+CkIW4ORVddFnwNVokDULLrgeMjNKOE/35dos6BhFZXAMZMjvVxrb/Qc07ofPNLa+AZ1KpqZO+ZPEj77Ylc/srDz/7687PrMJhILK1e3rX0Q499OaiaqVLU/l6/Bk9eHv/mHTRdZzZ8RuieUZq6C7lE9hGujbIFmKk5khjMzM079CVJ1t3IUunnbExswyce1ddpjD31JHXKQIt4uHgDib07natpZ/ECKruVgVF06mC3mnYZ4Sn1UvKb2LsFTustQ3qWJAWeEp4J/FBoeBFgYmvVm+k0kcywGfTNnTMWDDvn7WbA=;BXJXMcLnJCg9Y/MVk5bJkA=="
 ---

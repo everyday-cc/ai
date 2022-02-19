@@ -2,6 +2,111 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-02-03-start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist.md",
+      "title": "Start training for a cloud computing career as a Microsoft Azure specialist",
+      "excerpt": "Analyze Data with Azure Stream Analytics.” You can also learn sophisticated models of machine learning to process real-life datasets in “Machine Learning in the Cloud with Azure Machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/",
+      "originalUrl": "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2013/07/cloud.jpg?x23932",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/amp/",
+      "publishedDateTime": "2022-02-02T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models.md",
+      "title": "Announcing the launch of the model copy feature for Amazon Comprehend custom models",
+      "excerpt": "Technology trends and advancements in digital media in the past decade or so have resulted in the proliferation of text-based data. The potential benefits of mining this text to derive insights, both tactical and strategic, is enormous. This is called natural language processing (NLP). You can use NLP,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T14:34:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-azure-iot-edge-tools-now-support-visual-studio-2022.md",
       "title": "Azure IoT Edge Tools Now Support Visual Studio 2022",
       "excerpt": "\"The fully managed Azure IoT Edge service brings cloud intelligence to edge devices through the use of artificial intelligence (AI), cloud services (including machine learning, stream analytics, SQL Server databases and more) and custom logic local to ...",
@@ -1117,109 +1222,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say.md",
-      "title": "AI Could Cut Hiring Biases as Companies Make Push to Find Workers, Proponents Say",
-      "excerpt": "While the potential for bias in AI has been a concern, some say well-crafted algorithms can help companies be fairer in their hiring decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say-11643804906580.html",
-      "originalUrl": "https://www.wsj.com/articles/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say-11643797804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/02/02/600x338/AI-kkGH--621x414@LiveMint_1643805598327.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say/amp-11643804906580.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say/amp-11643804906580.html",
-      "publishedDateTime": "2022-02-02T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal.md",
-      "title": "Chatbot Startup Gupshup Buys Knowlarity in $100 Million Deal",
-      "excerpt": "Chatbot developer Gupshup Inc. said it is acquiring cloud communications startup Knowlarity Communications Pvt. to bolster its voice messaging and video solutions capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-02/chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-02/chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7D8PmRMUYyk/v0/1200x681.png",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
