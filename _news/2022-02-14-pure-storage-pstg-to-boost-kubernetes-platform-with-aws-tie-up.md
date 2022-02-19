@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernete
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up?amp"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Nasdaq
@@ -19,6 +19,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Close the Kubernetes complexity gap with machine learning optimization at Feb 23 event"
+    excerpt: "That mission soon expanded to machine learning-based cloud-native application performance testing and optimization. And in 2020, after the purchase of performance-testing-as-a-service platform ..."
+    publishedDateTime: 2022-02-18T22:05:00Z
+    webUrl: "https://siliconangle.com/2022/02/18/close-kubernetes-complexity-gap-machine-learning-optimization-feb-23-event-stormforgeseries/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/StormForge-2022.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "BOcgG274eCCaBEyX9NM8HMuwdokkNbnsmqAeYJR1n3/05pxCSXxHFbbm2A+V1HxOmmy0wHYCAr1/ZiU4XuDCsW8a4jGJS+4JNIX3q60zrUYNxwl42ie9UabsWwN28tALovBpcNKK42U9Z021yNMmNErEnJE8wobZ44kGHVoOIxk9qbQltGzLGgpxas1CWilSi4fk3NXZJvUxlaH47AlgP51cYXj72TYvt0lOcqVzlspNMrEaTdJB4tvr6fTxfPA3fezuWbnjsVjZwQOi0ueOgG664eQo1NeO1ioTn9EdzEYl0r4e9K1vFyjrcfP/e6m9eap+C7ozNGPI6oGMctyUQ9KNdO0vjo5rRkYj7ZVX9/Y=;hBvo2TfqYADhfl3KUEjHeg=="
 ---

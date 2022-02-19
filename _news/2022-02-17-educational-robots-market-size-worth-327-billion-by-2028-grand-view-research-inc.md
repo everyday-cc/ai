@@ -89,6 +89,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Image Recognition in Retail Market by Manufacturers, Types, Regions and Application and Forecast 2022 to 2031"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase ..."
+    publishedDateTime: 2022-02-18T23:55:00Z
+    webUrl: "https://menafn.com/1103724928/Image-Recognition-in-Retail-Market-by-Manufacturers-Types-Regions-and-Application-and-Forecast-2022-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40803"
+        width: 443
+        height: 250
+        isCached: true
   - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
     excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
     publishedDateTime: 2022-02-16T06:44:00Z

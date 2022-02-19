@@ -58,6 +58,20 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "The IRS backs down from facial recognition plan to verify identities"
+    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
+    publishedDateTime: 2022-02-19T00:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "X8l9RwUeCDc5obPfNa3cQCTYZLGV+z2exDuzaDS1HqS9MVx3kzvv8z0bSJlMjYM9YO+hfrpG5Fx9U7zxpy3eVcZ84SEVaDOqjUxEsK8L6T0lfU6ULtCmTd7mZKIFuJH3rLOykI57EQWMU0k5MXleiKI26t23CMJB4YgiOCOpUvXEn3aRPW813m7Rg/qEE4Zh3Clp3PuBs7ZlQPd6wR7v/wDWTpPsXZczSCd9C7TM8XB9yDyBcmR4CBTMJYV5hRC3P4EZWpNDqRTzIupjbQ6aEeMQ2GqI1Gy1i/Hk/n9BmOg/rOo5aORNeXF+OwqLc0d8Oe0p+WW4ieZ3frQ4cTWkRIRnTDQGb8hP6hI8eNXU5czKvrfX+9fYaj6h4Ks+RwFZamg7UU9zgpABq4X7qDflcvHIdQM3lBsQEcePZKWFQ5UmKz5LxAgPDI8G/62Bq+XlGJR2pkZ+alEo+KiqGzi/buTtYoKuFsq3e2UMd0EBMlggAVVWIetCmt/NmMZ3eiTAgI/2rOzgRyVXjkKZA5YRig==;VFsWOWZLDVmHhln80SOPfg=="
 ---

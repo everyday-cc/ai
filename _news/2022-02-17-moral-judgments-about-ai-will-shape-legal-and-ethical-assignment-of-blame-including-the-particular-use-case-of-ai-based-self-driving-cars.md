@@ -64,20 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Power of AI and Cloud – Evolution meets Convergence"
-    excerpt: "This may range from the database itself, through to legacy languages, with developers leveraging AI to translate them into modern code thereby expediting the end-to-end development process, improving productivity, and freeing up time for value-added ..."
-    publishedDateTime: 2022-02-14T07:02:00Z
-    webUrl: "https://www.infosys.com/services/cloud-cobalt/insights/evolution-convergence.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 41
-    images:
-      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "EU+t6vgn2USjJ+AMktxohhBU+0iTen6qCJfBg+M1rfFUbGVrngzHq1oSDbqldQ8DfPPVSdwtriZoBh15hOd4yEZsADgdGaHCqeqbkbeO/ZeeWY9iQOtPAPTssxHs9btTxKx8i4ipkjqJ+rfzJEAGLbMgS80miccJkoQXfF6KWfObf2dsqZhrfQ1FaUhtmRl9D4OkDRBG+sRkEy8O68qxzz/jRO6b78T8K8xx41D55TcTo8gidl6C7mhhG3F+BJXhoLrFo/2+Y2i4vr1ySmpiI8LV4qzRgsHO6pbARVMcy5fNPOf9oYd0JfgcOsYxEwmXK8UwKwnC3mUtJGmGB1i+bSvy2AQmGd3tC9apC4/E+vCypXDaseQk3kNaaVGcpmzt6JxB2QjIDUCpuM8gfgOAQFxzvCnBIgQRFQ5uWhMfreSATcmTKTueUyOyO5Di+4/7aLT88FZs5HBqY+2Z1qW0RveMhp5gwXsHOKsglp8NsbECv+3VMIk3dtdMJei7F0LXmWTOaBUoQ9OtqcAjt+y85A==;h0OS80CiutHkWFjW+mDJ0w=="
 ---

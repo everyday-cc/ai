@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://images.barrons.com/im-462998/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
-    excerpt: "Instead, Musk promised something wilder still: vastly improved \"Full Self-Driving\" software by year end that could turn existing Teslas into driverless robotaxis, capable of making money for their owners. The software is in the beta test phase and requires ..."
-    publishedDateTime: 2022-02-14T09:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/will-feds-frustrate-elon-musks-plan-make-teslas-self-driving"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Could Tesla Be Cooling On Self-Driving Cars?"
     excerpt: "Would Tesla have achieved its stellar valuations without the promise that self driving was are around the corner? Elon Musk predicts that perfecting self diving technology will lead to one of the biggest asset-value increases in history. However Tesla ha ..."

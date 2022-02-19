@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reali
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://s.abcnews.com/images/US/camera-5-gty-er-220212_1644677798854_hpMain_2_16x9_608.jpg?w=1600"
         width: 608
         height: 342
+        isCached: true
+  - title: "The IRS backs down from facial recognition plan to verify identities"
+    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
+    publishedDateTime: 2022-02-19T00:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "kyQR68muV+dXkYIaBspyGva3iWZuZ4n27RHdk+vR2NJdLTi0SCIb9LZFBHCOwzpEpb3sQh5OVvEMGaRVIFKBWXEeyLRaD7JpO+lLYereL2sulwS4zmNv1WJjBS69tnjILae1u5jQ8l5JZ8iEbz2+5DsMHPjPgABn2/jVQrzcelGZblyL9Fzz85BVZonCORDvlC6Q5tmt4LUBarDFyAkWDr7uamQyEm3nhE4vYIUGNVSldV7Mgo7SW4mS5hxAz3q1LGjoX+Chw5HpnhuDWL/nvZ2Pq/vqIH0euaR6oqrhzIZZRVREmPJ+GU85lbjtz9rT2UGFX0Fog08rCyNVlwla+ObonBU7GdFU8/St2kAEAn795JyVaJ28gighUfn2rZBglLnUA3iJN/DFShizGh5sRvWj5jQQkbUesQqQtvkrC9m54iKAMg/CT2avPM3BbiiUD55FKvvdctLFS4TVUMIuMZ0tT7t/qm+mo/QmTbUd4shB2XAMZi5lFwRKKQWrgMUd5eBKdrb57grMKDM5ldaabA==;TALUtFCVBnqqGk3VQ1fggw=="

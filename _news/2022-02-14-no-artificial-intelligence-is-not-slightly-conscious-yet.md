@@ -38,7 +38,7 @@ related:
     provider:
       name: The Independent
       domain: independent.co.uk
-    quality: 70
+    quality: 74
     images:
       - url: "https://static.independent.co.uk/2022/02/17/14/artificial%20intelligence%20conscious%20ai.jpg?quality=75&width=1200&auto=webp"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-educati
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The Power of AI and Cloud – Evolution meets Convergence"
-    excerpt: "This may range from the database itself, through to legacy languages, with developers leveraging AI to translate them into modern code thereby expediting the end-to-end development process, improving productivity, and freeing up time for value-added ..."
-    publishedDateTime: 2022-02-14T07:02:00Z
-    webUrl: "https://www.infosys.com/services/cloud-cobalt/insights/evolution-convergence.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 41
-    images:
-      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
-        width: 800
-        height: 500
         isCached: true
 
 secured: "Zu2jr8X8+FeOfwMRcKURdfHly8HuC4G/znWx8IbUyG9aIMzT4g6TIHNW1XcDWzQOKuiFpzMVBBPSd17Ruoe756RE4k/D4P393ct45l2w/fxXAuIno791Ln2n5L24kPjbAzhBgcGngJLkhUn4OfzZTt8YMaIF+30W1fapkOggAlx+ruwGWTqjEnPlwo0s4PVAlkmgkqPjs1VMbtdHiU/aMnbtibNS2FVCDiTv03P79+Tis38ltrNUySC1rhRmL8iTicGyco6mpJQtknvOp4jGVLybz0RjotRVQKVUpOaN2JYQEqimB4Rofo+AGD1xc5UrbwhyAvkgKeia9JZCijbpkWHAanEc2kQIn01i0r+tofpBgVgiroltAN4zuODnURnuZIQUvuWHn3Y6Wix0oqa9KCynfr2jTknzFU0N770ftQTPqCC7KpeEDUIfojEgWVzC1KAmzyTBFDwz68sBSmM+jJpAICytxbjkhRopAiTLNMNPR+DukQUtRffpDWqAiHyszBSuQBR8N8Vpu9KYqwYZQA==;QDO9zZpjDQYSBncZvJZ3nA=="

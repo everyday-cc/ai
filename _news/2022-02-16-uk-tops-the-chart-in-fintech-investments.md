@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Marqeta and Plaid are teaming up. It’s a sign that fintech is maturing."
-    excerpt: "social networking and AI to the impact of the Great Recession and the COVID crisis on Silicon Valley and beyond. He can be reached at bpimentel@protocol.com or via Signal at (510)731-8429. Benjamin Pimentel ( @benpimentel) covers crypto and fintech from ..."
-    publishedDateTime: 2022-02-16T02:10:00Z
-    webUrl: "https://www.protocol.com/fintech/marqeta-plaid-fintech-payments-ach"
-    ampWebUrl: "https://www.protocol.com/amp/marqeta-plaid-fintech-payments-ach-2656680316"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/marqeta-plaid-fintech-payments-ach-2656680316"
+  - title: "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore"
+    excerpt: "“Lending is the center beam of revenue and profits in financial services, and artificial intelligence may be the most transformational ... neither Louis Navellier nor the InvestorPlace Research Staff member primarily responsible for this article held ..."
+    publishedDateTime: 2022-02-18T23:10:00Z
+    webUrl: "https://www.entrepreneur.com/article/419185"
     type: article
     provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-plaid-and-marqeta-both-support-other-fintechs-now-theyre-the-ones-teaming-up-less-than-p-greater-than.png?id=29343652"
-        width: 1920
-        height: 1080
+      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
+        width: 675
+        height: 380
         isCached: true
   - title: "Five trends shaping the future of Fintech"
     excerpt: "With billions of dollars on the line, it&#39;s no surprise that machine learning is becoming more popular in fintech. The strength of this AI subset rests in its capacity to process huge amounts ..."
@@ -59,6 +57,34 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
+    excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
+    publishedDateTime: 2022-02-16T17:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/419011"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 40
+    images:
+      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419011.jpeg"
+        width: 2560
+        height: 2048
+        isCached: true
+  - title: "Mexican Fintech delt.ai Raises US$25 Million in Cryptocurrencies"
+    excerpt: "Don't worry, we speak : Español (Spanish), too! The corporate credit and expense management company delt.ai announced that it raised US$25 million in debt. It did this through TrueFi, which is a DeFi lending platform designed by TrustToken. It is worth ..."
+    publishedDateTime: 2022-02-16T19:13:00Z
+    webUrl: "https://contxto.com/en/mexico/mexican-fintech-delt-ai-raises-us25-million-in-cryptocurrencies/"
+    type: article
+    provider:
+      name: contxto
+      domain: contxto.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/contxto.com/wp-content/uploads/2022/02/deltai-Jose-Alex-YCombinator.jpg?fit=1280%2C858&#038;ssl=1"
+        width: 1280
+        height: 858
+        isCached: true
   - title: "Why The Future Of Fintech Depends On Open Data"
     excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
     publishedDateTime: 2022-02-14T10:32:00Z
@@ -73,20 +99,71 @@ related:
         width: 1724
         height: 1080
         isCached: true
-  - title: "VNG Group pumps $22.5 million into fintech platform"
-    excerpt: "The fintech firm is licensed and registered to operate in four ... or you risk losing a lot of money. Having proven our AI-led credit capabilities in an unprecedented financial crisis, we look to serve SMEs with neo banking and a deeper regional presence ..."
-    publishedDateTime: 2022-02-18T08:43:00Z
-    webUrl: "https://vir.com.vn/vng-group-pumps-225-million-into-fintech-platform-91347.html"
+  - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
+    excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."
+    publishedDateTime: 2022-02-15T08:32:00Z
+    webUrl: "https://fintechnews.sg/59200/security/thales-drives-fintech-development-in-singapore-with-edbs-support/"
     type: article
     provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 24
     images:
-      - url: "https://vir.com.vn/stores/news_dataimages/luuhuong/022022/17/17/in_social/2451_funding_societies.jpg?randTime=1645174883"
-        width: 600
-        height: 453
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/02/Thales-Reinforces-its-Digital-Innovation-Capabilities-in-Singapore-with-EDBs-Support_Mainpic-1024x567_1.png?x82653"
+        width: 2134
+        height: 1182
         isCached: true
+  - title: "18/02 – Weekly Fintech Recap"
+    excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."
+    publishedDateTime: 2022-02-18T14:16:00Z
+    webUrl: "https://financialit.net/news/digital-banking/1802-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_1.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
+    excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
+    publishedDateTime: 2022-02-14T20:40:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=616070"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 23
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
+    excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
+    publishedDateTime: 2022-02-18T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=618778"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 19
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Fintech Is Going To Integrate Hyper-Personalization In the Financial Sector"
+    excerpt: "We can't imagine our financial lives without digital finance, which allows us to do anything from check our bank statements to trade stocks. The revolution in financial technology has democratized areas of wealth management that were previously beyond of  reach to the general public."
+    publishedDateTime: 2022-02-17T13:05:00Z
+    webUrl: "https://www.finextra.com/blogposting/21847/fintech-is-going-to-integrate-hyper-personalization-in-the-financial-sector"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 2
 
 secured: "U+sKHtp/DaVgqX1yukhspT2tp/8+yAEX9S4bYVzIXYceV4Ea8dfA2iGCOHBRfxEZrVGK6HzNloArbyBa7kmTaQbOjrXj2XxJMCZg3j82aJAVQun80VkGDk4IIP1dH45NGcGCawn817oWPYZlM46ZV7ZwO2Qcbv1f8hh+A1+djAPBk6azliumZEiX0nG22L2CT0VhI+pxY5GLYFGwKmLmrx6N4WJcm6LMpT34XphRATQnLb4zLtWJXkYqpS6m/l0RcKUc092ZeHpv3LW9XEqeunvoT7UKHBYPv0ioKwlfhsikOHiHPCZw2jMh94Lr2QFqdpfl8M4t/mkAW0UfTDq0L+VkOd00KvWDpnY336nXnEO5gBw0l+9FEoBOFDNJDnjFoQFt9K6Hg27o0LRvf8UHi/aEUEryHPrGPwjaFJRnn0D3KIeTpUS4C2OvNG36axRQn9p8njM/JRrDfr35FxB/fVCnFYXmjL7SxIidlf/t4772Gfq0VswRgCT9yDVK4tQlf9Y8be5lS0JHgXPrF4q4Zw==;x8nXzlvFKhtapofpUn8hGA=="
 ---

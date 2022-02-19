@@ -87,15 +87,6 @@ related:
         width: 512
         height: 410
         isCached: true
-  - title: "Great Learning for Business forays into the GCC Market"
-    excerpt: "The Enterprise arm of Great Learning has transformed 35,000+ employees across 120+ organizations in multiple industries in the last 2 years DUBAI, U.A.E, Feb. 14, 2022 /PRNewswire/ -- Great Learning, the leading global edtech company for higher and ..."
-    publishedDateTime: 2022-02-14T07:03:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2022/02/14/9544260.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "KXVrDndMBrZ/EpmHnt5rsWD2iDvtNaYRsffCCCe4Z++ytMy3cFNlEsN2ggII9yy+B5tH34cC+4/vOih0+sOHQB6+lJ228TdAHwVou0I32vg3mxSScCvqWwSPwMJ7AF9qTAYt6vXeLqU75jlBoXpvW2TQOPRqZEUXWisPdxceto5+SCZ59BsVGksSFhHrw6B75UqbkSjwlUF3HAeMJ36JtRD251vInnXX5yepGB6DP1yk88s4JCxu4hJC+RYQwYK4zsszQkMZj5Hl4HjBuJVBHS0gTkZVzlKz7THzg34fwcAqspFZ6A6KusctaQSyblsL/v6rqkirrXhgq2uKK3yTGJtB8BsDpbxPDURecmiSbeAIWsMX8WKkJiwQbIJne372/Ie30pPnjMjKc1hf8icF4xLcUg8KQ6APB8ZYDHNeIy9rRf+EDOJ7fosoU/yGleEYFAshVXE8HvbBpHrGfiEIXv1rq2DogM5wph3e8Bts83m6gMydX6GUMkbVBjvE0vfDemfaosBWm3EJoKorYtnieQ==;oGgqAKRNQaRhaiznDM0Ddw=="
 ---

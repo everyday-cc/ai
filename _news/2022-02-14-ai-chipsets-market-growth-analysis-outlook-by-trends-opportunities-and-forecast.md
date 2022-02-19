@@ -80,6 +80,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Image Recognition in Retail Market by Manufacturers, Types, Regions and Application and Forecast 2022 to 2031"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase ..."
+    publishedDateTime: 2022-02-18T23:55:00Z
+    webUrl: "https://menafn.com/1103724928/Image-Recognition-in-Retail-Market-by-Manufacturers-Types-Regions-and-Application-and-Forecast-2022-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40803"
+        width: 443
+        height: 250
+        isCached: true
   - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
     excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
     publishedDateTime: 2022-02-17T11:36:00Z

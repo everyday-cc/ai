@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/amp/"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 512
         height: 410
         isCached: true
-  - title: "Great Learning for Business forays into the GCC Market"
-    excerpt: "The Enterprise arm of Great Learning has transformed 35,000+ employees across 120+ organizations in multiple industries in the last 2 years DUBAI, U.A.E, Feb. 14, 2022 /PRNewswire/ -- Great Learning, the leading global edtech company for higher and ..."
-    publishedDateTime: 2022-02-14T07:03:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2022/02/14/9544260.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "u4P+7X1DDjasu94UacbBivWkkwls8jXICb6WLkalimz4X5k++4tuc4ponOjCQkL2qghF0pUb+YqtJJJSsjoEqTS/m0Br5amk+GMsIPzEYvlStv5+mCKa7hoD9nSly8jeHEbYM/aMTkEx/cevof0MXLduQmyriOQxYuspj1KhSPpMKLqOJ35NMbeu0yOCuM4uG3hSZviFwk1VRkgqCxlfSs1+WmadLkChmeuCeoFstyrSzrxOHRkk+0XQ/CZWTea1ZzAkbKI/+DiPRFQ3D41wzk+ukNlzKWLKjl92GhI+MGI/eYQnsVk6x2twAY0jOdBZGjb+LKTAbeCZSb+d1QHv7p1Ct2LX9IiTVB8Qrx1clYLclvK2aybQnmsaphZusYhPZiYcDUOwWJiXQ29O/mIB70YEjwNgtmckK3/AkAO/baoPD3hDdbpnLTtoKIHeqz/xQJuDOC+voR3anwhNQ6OzgMggiGn+9Q/pTSPxht6QevKIyY3o1ri/2RsFbQz+2kadhbxVHb+M+A9OCR4ysLBCOA==;rS/YzEIRqqszAVyFF0s8jw=="
 ---

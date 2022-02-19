@@ -8,8 +8,8 @@ webUrl: "https://www.independent.co.uk/tech/artificial-intelligence-conciousness
 ampWebUrl: "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp"
 cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp"
 type: article
-quality: 70
-heat: 110
+quality: 74
+heat: 114
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://static.independent.co.uk/2022/02/17/14/artificial%20intelligence%20conscious%20ai.jpg?quality=75&width=1200&auto=webp"
@@ -84,6 +86,6 @@ related:
         height: 535
         isCached: true
 
-secured: "/4K+yLAyhnoSETteU+6QObPOyI2uluA/KZE50u/d9N10MeTDfyPkKFnfWj+W1HXcWo7ImD94CzUqBk6iIG0fQloWTfvRL9RAeTy4XSQCbpgNFUaX0TvbnUBCqTZjesJfrMfyypbJLWuhnIqzonHw7p/g9wGz9rKSIF0uDUjd0LeDO2iztdnswywTgzmphPZxRGlaBgnBD0S6hYM18k9x+HnBLO5DxNy5wXQihaeyizNky9bnIeT18s0e6BHE7s0dOiYVbgH9IoZFm7qt4jyba9I8xb6gsKOlG5Zw1BgYcEo4FpW7lmsr0aspaVBS/tZav2O9/nzl/Fn/iZpgVdJvR3LaJh7qtCl3c25vSGWLREU=;0FSqUGz8YG5EQMl4e3TWDQ=="
+secured: "0YfS9mM7ls2+UR/CZS6HK62JcuqSwkWy56okcZ7BG848X/RUlqEoI/YJ/VrLlq5ko/efx0IU0Jdd9MrUncOiceiEa4isqvwRzYLFIdkepsyplKQGP4Mf80cUPrn5iZnLaUyKmkFZhzThbRicV5mbtRnz+v7MMAxQDgkWWAdCmbLyhdgxJplwhk/6yO+I7HPh6RfeiCVoYE3PD7nRGt8/Hvl9j3yqf6Snqi7iA2O/DCBh27TeCPbKox8PB4irk6/JIzOgYhewqG/cZlRn4OY7km9lXZ0svSFFwqH7D1l1AVg/GW25GvqEFsVCFX4PXcVZa7Md97cC0M0DMAbtmb3pPF6byncHEcB+5nNPC/+Z7KAyIRpfxIEZ+Cq90JvU6t/mu33j2E25gRZzghngwQ/jEDRFA8xotus7w40wHw+XiIQ6Gdz7En7c5113sfz9PrlSbkPnMeSS+dLf/zQWlXu1gL1g4w8muBAIQSlkXcczo3o3l/jTBmwdW2rZd4H1uigBOBdm6IUYDnvxGY0UN2gTAw==;ECYSVBiMqOac9BXyES6tSQ=="
 ---
 

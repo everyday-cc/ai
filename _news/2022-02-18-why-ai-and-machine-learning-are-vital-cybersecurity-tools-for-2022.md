@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-
 webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
 type: article
 quality: 84
-heat: 125
+heat: 124
 published: true
 
 provider:

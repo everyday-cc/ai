@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

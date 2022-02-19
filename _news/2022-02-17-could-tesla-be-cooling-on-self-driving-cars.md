@@ -103,20 +103,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
-    excerpt: "Instead, Musk promised something wilder still: vastly improved \"Full Self-Driving\" software by year end that could turn existing Teslas into driverless robotaxis, capable of making money for their owners. The software is in the beta test phase and requires ..."
-    publishedDateTime: 2022-02-14T09:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/will-feds-frustrate-elon-musks-plan-make-teslas-self-driving"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MODELS-MAIN.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "After recalls, will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
     excerpt: "Tesla CEO Elon Musk is again promising big gains in the EV maker's \"self-driving\" software. But regulators also have their eyes on the feature."
     publishedDateTime: 2022-02-17T13:44:00Z
