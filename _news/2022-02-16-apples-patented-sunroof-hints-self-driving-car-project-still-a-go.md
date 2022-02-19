@@ -59,6 +59,22 @@ related:
         width: 620
         height: 400
         isCached: true
+  - title: "What's the status of self-driving cars? There has been incremental progress, but safety questions remain."
+    excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
+    publishedDateTime: 2022-02-19T17:14:00Z
+    webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 42
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/19/61111ce7-bb40-4305-8a2e-06f8f2429d67/thumbnail/1200x630/0fee59aa87c06d787ded76c0cfacb6aa/0219-cbssatmo-selfdriving-900159-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Could Tesla Be Cooling On Self-Driving Cars?"
     excerpt: "Would Tesla have achieved its stellar valuations without the promise that self driving was are around the corner? Elon Musk predicts that perfecting self diving technology will lead to one of the biggest asset-value increases in history. However Tesla ha ..."
     publishedDateTime: 2022-02-17T01:01:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg"
         width: 292
         height: 256
-        isCached: true
-  - title: "Intel’s Mobileye with its partners to launch self driving cars in the US by 2024"
-    excerpt: "Intel’s Mobileye announces plans to build and deploy self-driving cars in the US by 2024. The announcement comes in a bid to scale up its automated driving systems beyond the current system of ride-hailing and others. Mobileye and its partners ..."
-    publishedDateTime: 2022-02-15T02:41:00Z
-    webUrl: "https://techstory.in/intels-mobileye-with-its-partners-to-launch-self-cars/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/641220_39429767.jpg"
-        width: 752
-        height: 423
         isCached: true
 
 secured: "TXJIwR4LgIOMRD2h+Pzk2bG/3HFofspWzJFZgdS4N9gjlJYGezuwGB1CeI5I1AqfbGSBtWGEWOGteqN2No0fmA81zVMYy4lt8fU/+ZkFA8tv//gtA4BzgQ/4m6BzZpv47U+V07kw4sTrQNMhCsIPK4pXpvZk56NONiMooa9EhcpPEoKpvVv4GBw9PZRxvA/e2i4WpJMt84Nf7xZCABqtg1jO46+J+8DpT9eygGHuKOhkr8V2ZKRuhDh5ytTWQCPVFxvfMOp6EwtYxoCx2+DbuOUIhuJJ0GLG6K0c05QdaOc/Q+4pCH2OceLbeLoLj1MygU/bSKRLLTbp1X6e2WziBkjFbDnv5vntN2FUzcbqz0g=;sx5KLPD3o5UK2Vq6xBM75w=="

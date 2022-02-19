@@ -73,19 +73,21 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Intel’s Mobileye with its partners to launch self driving cars in the US by 2024"
-    excerpt: "Intel’s Mobileye announces plans to build and deploy self-driving cars in the US by 2024. The announcement comes in a bid to scale up its automated driving systems beyond the current system of ride-hailing and others. Mobileye and its partners ..."
-    publishedDateTime: 2022-02-15T02:41:00Z
-    webUrl: "https://techstory.in/intels-mobileye-with-its-partners-to-launch-self-cars/"
+  - title: "What's the status of self-driving cars? There has been incremental progress, but safety questions remain."
+    excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
+    publishedDateTime: 2022-02-19T17:14:00Z
+    webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
+      name: CBS News
+      domain: cbsnews.com
+    quality: 42
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/641220_39429767.jpg"
-        width: 752
-        height: 423
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/19/61111ce7-bb40-4305-8a2e-06f8f2429d67/thumbnail/1200x630/0fee59aa87c06d787ded76c0cfacb6aa/0219-cbssatmo-selfdriving-900159-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MNk0UAhirUefL/+WhMs2sk7IUnevrVLH0EW/8jUCGNAHuHg1zQCnWf3bN0gZDUHDjTah5/8bvcUCXJLnn9AqWAIJ9DMOfSqHjBVjRh8wXYX3qnr7F2R3SxjaZMRnHOkmrKRyZFLjeVb/nSw/sJ9mFIsdjLb7sxlIsfmaRfF1eu94Ztm6BD0zFULGZfj+shPi9UGdWgqQ7gEXk5TqFsMdL/yO5ROmampGSLFpRqQ7wgLu8nGu4o+18c8keQVQOU15tEy2VtzHJx5vf6Xuw0RtTQbvXOv/kAQ2r7ZLu/HZQsboqDVvgVDKEeE0xle/I4dU7kfqMnhuY9TZodmwM/QLW5NpzkZ0tTOhiAkaZK3NGMs=;biXSMsFneNXZnbk0q5Uhnw=="

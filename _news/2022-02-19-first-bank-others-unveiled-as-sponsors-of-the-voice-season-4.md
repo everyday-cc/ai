@@ -40,6 +40,20 @@ related:
         width: 650
         height: 730
         isCached: true
+  - title: "The Voice Nigeria Set To Return With Season 4"
+    excerpt: "World’s most popular international talent show, The Voice Nigeria is set to return ... The Popular show is best known for its recognition and unveiling of singing talents, even as Nigerian ..."
+    publishedDateTime: 2022-02-19T17:59:00Z
+    webUrl: "https://leadership.ng/the-voice-nigeria-set-to-return-with-season-4/"
+    type: article
+    provider:
+      name: LEADERSHIP Newspaper
+      domain: leadership.ng
+    quality: 24
+    images:
+      - url: "https://leadership.ng/wp-content/uploads/2021/07/esther-wins-the-voice-nigeria-season-3.jpg"
+        width: 696
+        height: 634
+        isCached: true
 
 secured: "fI3Cm4jnoIwHnNlL3qcrLUQCdmLkBtsX7kyJkJZ/RVu85ZRWBbfc583MPTQnfFIcAXYesC/SDKZ1L/yDWoZrpXe2a+qb6f0lotS4JtqdGsBHdyCnbYTxD7JzoyHsT+r4vVB7vDcxZBssdqa8FVOgOzaJh8NW+sVPT9ZoeQZVScRtbKfVWiNr+6Z5GrVAEkfn5NpvCpXPbWYmq+bLX+6yWgpG1QuFSPNv/jPod3eAJSxl2tMC2y+7DaiSvbssTCfu+s5k+pxBL14fC/e9qQIXqJVLThl4WCWzL0UXnTFjKWVYR5WZSV+VVvM971CjDTo/mPjz3IjbCNBY810CPD3zFTBqvynhhJtJlvzvRaVPCh7iyfQ34/sPXFhl0yNecQ40xBF7xMQW1jEtZyovkspPWt5wWN7v6khSWBTa2/FMnWv+FZHyx6nCn18FaUYOO6QKFOOCNdAxqQjRgR7Uel+Rq6dwIXbqNBaRDv/9bTY8PYsJ6EnMiZrRvmazz+72FMKWGtUXY2zf375hkuid71OHrw==;PUIcBiLLyPzsi+bcd7A+hw=="
 ---

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-19-ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems.md",
+      "title": "AI’s true purpose is freeing up humans to find the biggest problems",
+      "excerpt": "We start with a reasonable intuition (abduction ... Take chess and go, two board games that have received much attention from the AI community in the past decades. Chess was once called the ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems",
+      "originalUrl": "https://thenextweb.com/news/ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAI-and-humans-solving-problems.jpg&signature=9a82a94a0971430cf989ec3c698bde57",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-this-googler-wants-to-add-every-voice-to-ai.md",
       "title": "This Googler wants to ‘add every voice’ to AI",
       "excerpt": "Early in his career, Laurence Moroney was working on an equation — not something related to his job in tech, but to his bank account. “At one point, I calculated I was about three weeks away from being homeless,” Laurence says. “My motivation was to put a meal on the table and keep a roof over my head.”Today",
@@ -1447,49 +1501,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock.md",
-      "title": "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock",
-      "excerpt": "(Bloomberg) --The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman will be a venture partner at Greylock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
-      "originalUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

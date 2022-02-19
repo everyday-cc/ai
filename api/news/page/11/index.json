@@ -2,6 +2,152 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-02-09-ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store.md",
+      "title": "IBM Watson-Powered AI Virtual Assistant Helps Visitors on the TD Precious Metals Digital Store",
+      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220209ny56306/ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-personalization-and-context-ais-surging-role-in-advertising.md",
+      "title": "Personalization And Context: AI’s Surging Role In Advertising",
+      "excerpt": "The advertising industry is still a long way from perfecting artificial intelligence, but the technology is promising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6202a95d936f0afd86b5c9b8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/",
+      "publishedDateTime": "2022-02-09T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-techscape-surveillance-is-now-just-a-part-of-daily-life-for-us-citizens.md",
+      "title": "TechScape: surveillance is now just a part of daily life for US citizens",
+      "excerpt": "In this week’s newsletter: from seeking out mental health care to filing your taxes, being watched while doing even the most mundane things has become dangerously normalised",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/da7340c8bd85c3551cfe0eb308af0895429ef458/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=f3d9ac91fde9b8ffbe82321b33b028a3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
+      "publishedDateTime": "2022-02-09T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-irs-drops-facial-recognition-program-used-to-verify-identities.md",
       "title": "IRS Drops Facial Recognition Program Used to Verify Identities",
       "excerpt": "Also, Amazon’s Rekognition software has been previously shown to be inaccurate when trying to identify people of color. This led Amazon to announce it would no longer sell its facial recognition software to law enforcement agencies in 2020, as an ...",
@@ -1012,145 +1158,6 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-how-artificial-intelligence-and-big-data-can-help-preserve-wildlife.md",
-      "title": "How artificial intelligence and big data can help preserve wildlife",
-      "excerpt": "The field of animal ecology has entered the era of big data and the Internet of Things. Unprecedented amounts of data are now being collected on wildlife populations, thanks to sophisticated ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.html",
-      "originalUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/animalkingdom.jpg",
-          "width": 1920,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-artificial-intelligence-big-wildlife.amp",
-      "publishedDateTime": "2022-02-08T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group.md",
-      "title": "Troutman Pepper Expands Financial Services Practice with Addition of Nationally Recognized Consumer Financial Services Group",
-      "excerpt": "NEW YORK, Feb. 8, 2022 /PRNewswire/ -- Troutman Pepper announced today that a nationally recognized consumer financial services ... including machine learning marketing, fraud prevention and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group-1031172110",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group-1031172110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-five-ways-to-reduce-your-cloud-security-blast-radius.md",
-      "title": "Five Ways To Reduce Your Cloud Security Blast Radius",
-      "excerpt": "CEO and co-founder of Ermetic, a provider of public cloud security technology for AWS, Azure and Google Cloud infrastructures ... which may rely on artificial intelligence and machine learning, can deliver an immediate alert that lets you stay ahead ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60c2605210f137d4201e38ff/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/amp/",
-      "publishedDateTime": "2022-02-08T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

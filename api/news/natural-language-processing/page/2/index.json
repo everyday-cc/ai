@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-09-shen-speech-receives-large-group-all-state-nominations.md",
+      "title": "Shen speech receives large group All-State nominations",
+      "excerpt": "The Shenandoah speech team has received two All-State Large Group Speech nominations. Shenandoah Speech Coach Amy Toye announced Tuesday two large group events have nominated for All-State Large Group Festival in Ames on February 19th.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmaland.com/news/shen-speech-receives-large-group-all-state-nominations/article_fb25ce72-892b-11ec-acd4-9b6ee27d2091.html",
+      "originalUrl": "https://www.kmaland.com/news/shen-speech-receives-large-group-all-state-nominations/article_fb25ce72-892b-11ec-acd4-9b6ee27d2091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kmaland.com/content/tncms/assets/v3/editorial/5/11/5119c4c8-892c-11ec-ad69-d327ea8f32e3/6202eb6b20e1f.image.jpg?crop=720%2C378%2C0%2C291&resize=720%2C378&order=crop%2Cresize",
+          "width": 720,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T13:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMA Land",
+        "domain": "kmaland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-3m-mmodal-fluency-for-imaging-earns-1-best-in-klas-ranking-for-speech-recognition-front-end-imaging.md",
       "title": "3M M*Modal Fluency for Imaging earns #1 Best in KLAS ranking for Speech Recognition: Front-End, Imaging",
       "excerpt": "M™ M*Modal Fluency for Imaging has been recognized as the Best in KLAS awards 2022 leader in the Speech Recognition Front-End, Imaging category in its annual software and services report. An artificial intelligence (AI)-powered,",
@@ -1394,40 +1437,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-boostai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai-platforms.md",
-      "title": "Boost.ai Recognized in the First Ever 2022 Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms",
-      "excerpt": "Boost.ai, a leading conversational AI platform, today announced it has been positioned as a Niche Player by Gartner in their 2022 Magic",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

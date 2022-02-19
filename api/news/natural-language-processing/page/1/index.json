@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-19-voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors.md",
+      "title": "Voice Nigeria is back for season 4, First Bank, Airtel, others revealed as sponsors",
+      "excerpt": "The Voice Nigeria has been announced for its fourth ... The popular show, best known for its recognition and unveiling of singing talents, even as Nigerian musical talent continues to gain ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/",
+      "originalUrl": "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2022/02/the-voice-nigeria-1.jpg",
+          "width": 650,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-the-best-tools-for-developing-voice-user-interfaces.md",
       "title": "The best tools for developing voice user interfaces",
       "excerpt": "While Annyang only handles the NLP side of the equation, it does so with an open source, MIT-licensed, Javascript speech recognition library that weighs in under two kilobytes and runs entirely client side. This can be quite a boon when you are building an ...",
@@ -1438,49 +1482,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-shen-speech-receives-large-group-all-state-nominations.md",
-      "title": "Shen speech receives large group All-State nominations",
-      "excerpt": "The Shenandoah speech team has received two All-State Large Group Speech nominations. Shenandoah Speech Coach Amy Toye announced Tuesday two large group events have nominated for All-State Large Group Festival in Ames on February 19th.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmaland.com/news/shen-speech-receives-large-group-all-state-nominations/article_fb25ce72-892b-11ec-acd4-9b6ee27d2091.html",
-      "originalUrl": "https://www.kmaland.com/news/shen-speech-receives-large-group-all-state-nominations/article_fb25ce72-892b-11ec-acd4-9b6ee27d2091.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kmaland.com/content/tncms/assets/v3/editorial/5/11/5119c4c8-892c-11ec-ad69-d327ea8f32e3/6202eb6b20e1f.image.jpg?crop=720%2C378%2C0%2C291&resize=720%2C378&order=crop%2Cresize",
-          "width": 720,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMA Land",
-        "domain": "kmaland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

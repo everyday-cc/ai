@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-19-voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors.md",
+      "title": "Voice Nigeria is back for season 4, First Bank, Airtel, others revealed as sponsors",
+      "excerpt": "The Voice Nigeria has been announced for its fourth ... The popular show, best known for its recognition and unveiling of singing talents, even as Nigerian musical talent continues to gain ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/",
+      "originalUrl": "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2022/02/the-voice-nigeria-1.jpg",
+          "width": 650,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-upstart-stock-is-the-ai-powered-fintech-investment-you-cant-ignore.md",
       "title": "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore",
       "excerpt": "“Lending is the center beam of revenue and profits in financial services, and artificial intelligence may be the most transformational ... neither Louis Navellier nor the InvestorPlace Research Staff member primarily responsible for this article held ...",
@@ -1328,59 +1372,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
-      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
-      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/662546/a-person-working-on-a-digital-dashboard-analyzing-data.jpg",
-          "width": 5760,
-          "height": 3240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,91 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-18-idaho-lawmakers-introduce-a-new-bill-that-would-bar-animals-and-ai-from-personhood.md",
+      "title": "Idaho lawmakers introduce a new bill that would bar animals and AI from ‘personhood’",
+      "excerpt": "Idaho ... bill that would prevent animals, natural resources and artificial intelligence from gaining “personhood status” in Idaho, the Idaho State Journal reports. What’s happening: Idaho’s House State Affairs Committee on Tuesday introduced new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
+      "originalUrl": "https://www.msn.com/en-us/news/politics/idaho-lawmakers-introduce-a-new-bill-that-would-bar-animals-and-ai-from-e2-80-98personhood-e2-80-99/ar-AAU0qRB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/HTz6hZFtz94Up4QZx7Gb5gQ-Chw=/0x0:1024x683/1400x1050/filters:focal(431x261:593x423):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70522752/AP22011796683524.0.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deseret.com/platform/amp/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
+      "cdnAmpWebUrl": "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
+      "publishedDateTime": "2022-02-17T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
+        "domain": "deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos.md",
+      "title": "IBM creates free sustainability accelerator for non-profits and NGOs",
+      "excerpt": "IBM has already conducted a pilot of the project with The Nature Conservancy India, Heifer International and Plan21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
+      "publishedDateTime": "2022-02-17T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-ai-in-healthcare-presents-need-for-security-privacy-standards.md",
       "title": "AI in Healthcare Presents Need for Security, Privacy Standards",
       "excerpt": "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare.",
@@ -624,7 +709,7 @@
       "originalUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1093,100 +1178,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-how-soul-machines-is-making-new-gen-avatars-life-like.md",
-      "title": "How Soul Machines is making new-gen avatars life-like",
-      "excerpt": "San Francisco-based Soul Machines, a company that is rooted in both the animation and artificial intelligence (AI) sectors, is jumping at the opportunity to create animated digital avatars to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.soulmachines.com/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/how-soul-machines-is-making-new-gen-avatars-life-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smitpurchase.wpengine.com/wp-content/uploads/Lia-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-can-self-driving-tesla-cars-stay-in-their-lanes.md",
-      "title": "Can Self-Driving Tesla Cars Stay in Their Lanes?",
-      "excerpt": "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
-      "originalUrl": "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUxNDA4NzkzNDEzNTI3/nvidia-chips-are-superior-to-everybody-elses-jim-cramer-says.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes",
-      "publishedDateTime": "2022-02-16T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

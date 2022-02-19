@@ -3,43 +3,24 @@ category: news
 title: "UBTECH Robotics Launches Mobile Disinfectant Robot"
 excerpt: "Chinese robotics startup, UBTECH Robotics (UBTECH) has launched a mobile disinfectant robot called ADIBOT-A to meet the demand for autonomous cleaning regimes."
 publishedDateTime: 2022-02-14T09:28:00Z
-originalUrl: "https://www.airforce-technology.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
-webUrl: "https://www.airforce-technology.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
+originalUrl: "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
+webUrl: "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
-  name: Airforce Technology
-  domain: airforce-technology.com
+  name: Verdict Retail
+  domain: retail-insight-network.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/02/Image-2-3.jpg"
+  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/Image-2-3.jpg"
     width: 640
     height: 426
     isCached: true
 
-related:
-  - title: "UBTECH Robotics Launches Mobile Disinfectant Robot"
-    excerpt: "Concept: Chinese robotics startup, UBTECH Robotics (UBTECH ... and the hardware can create a 3D diagram of the entire cleaning space leveraging AI algorithms. It can either streamline the routine by using a bird’s-eye map of the room on the smartphone ..."
-    publishedDateTime: 2022-02-17T09:31:00Z
-    webUrl: "https://www.just-drinks.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 54
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/Image-2-3.jpg"
-        width: 640
-        height: 426
-        isCached: true
-
-secured: "7I3D+TLPpnfwXBAm3mitZcami/5OdxHyZbjc0owY2P1JJbN4NLIHZxj6jY7UcPAHRqtH926KU0lI9Uwi/6WuUwCrrQfFyC7sHCH0SnnVmTDXlbeB/mew2GBtO/4/ASJInqatvYTzaCrOQOI+WDSboR00XBDOY8GmvG7yfpwxq3DcSO6A+yob3OGpmQOC0fuMG8XRmQMEzotVZlAHPQ+a9LV2JTfRJuQRPbxdfLOPk3kso+4AzL35DUxGogIW9Aqzqm0tQ7H76bqd9XZ3TgyGFnbZ0tQgo4prIJTms4swbsE8zwy1k1/0aS1t1xzNckO4F2zpHYotJkGZtmDIFcoDyg5cm9tQ154HsFsGnWR2Hz4=;moTvqKqoN2X0AYJJIaOCjw=="
+secured: "WELJ3dcOnjYkhCwtVLAiS+wQ5qKIJpXCnDZ3IMlwaa8Z+kclmWm5MYyAx+XcYsdvcTSB0M5oCT7zBRqAfsP1kjR/oE0ho4fwZYeXulakUVVmuJlHpUBhrB8XjRX8PrYM8/VdcCC9w/t4rR9SwfqTskcW0vFY1TBk7+PO/FL8T4N4+NY1n3exCx4vHjad7uSdqi5OIV09mWIlejtv/4I9YocNcdzV+4fyrcDCrZRRFkRq4r2IAy2lAb7VKg3XVM6xqwi+WemsJh/V28Iu27a/V0ksnQQ+HDwIv2OiUBsQ1V38HhWh9s+ndAozWBZ4Q8GPp5Vvhnqp7yWT5TCyuhKXGTxMjz8CxeUpUumKKhsPLe4=;8iaqfjVkgxIWg1OEx61qfg=="
 ---
 
