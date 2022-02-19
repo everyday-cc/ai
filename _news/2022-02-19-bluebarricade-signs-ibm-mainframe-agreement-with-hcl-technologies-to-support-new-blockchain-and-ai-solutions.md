@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103723936/BlueBarricade-signs-IBM-Mainframe-ag
 webUrl: "https://menafn.com/1103723936/BlueBarricade-signs-IBM-Mainframe-agreement-with-HCL-Technologies-to-support-new-blockchain-and-AI-solutions"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "BlueBarricade signs IBM Mainframe agreement with HCL Technologies to support new blockchain and AI solutions"
-    excerpt: "The agreement gives BlueBarricade the processing capacity to start onboarding blockchain and AI customers to its ground-breaking new software product 1400TPS, adding speed and scalability to the other benefits of blockchain technology: security ..."
-    publishedDateTime: 2022-02-18T12:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/bluebarricade-signs-ibm-mainframe-agreement-with-hcl-technologies-to-support-new-blockchain-and-ai-solutions"
+    excerpt: "About BlueBarricade BlueBarricade Blockchain & AI Technology AB, founded in 2018, is an innovative software house within Fintech, blockchain and AI. BlueBarricade’s innovations will be sold to IBM and HCL customers worldwide. With the launch in summer 20 ..."
+    publishedDateTime: 2022-02-18T12:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-blockchain-sweden-70d46c5b5d61725b984eb1c41377a10c"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/129c9d3527a44bb72394eb2f37ffd03563881116-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "u5eMUV5Ao2i4ejZwOt/TVoxIZhijVT8E1FVku3wZVkBLcuZ15AKjxYXr0KrBRKWH1cQfi4iMV9PykrcP8bbq3s3i1QrWv4ESLFWpdnK83dUIWGbAUChTqxNbwSBSow+4Szt4gRdXRr7SdeXPgkP3UCxHUtPdOOoCN0DDdXl0UZFGHJmrnQaiXIgYZ4ZqrJ/FjujOSIPXEyxubuISJcxGNwLAM2zz6LjLwbWsDWzP+vEQhksEv9yJj+oWPjR3lhtO/M95uPczUz9luroCKYjSMXJ9LTwixAVExqodKBTml/4dNhqRtemnIAo6hatx8Wk45xqo25VvDn+LVuUJPGi1mYrOlgHTcOKEIYUyzI/Aex0=;Pp6KKzOEbJvbMbTc9O0bDQ=="

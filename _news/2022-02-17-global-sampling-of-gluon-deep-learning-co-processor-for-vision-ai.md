@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/press-releases/global-sampling-of-gl
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai/amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AlphaICs Begins Global Sampling Of ‘Gluon- Deep Learning Co-Processor’ For Vision AI"
-    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. It provides the best fps/watt performance in the market for classification and ..."
-    publishedDateTime: 2022-02-15T05:56:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 69
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ipufirvuo8ccosrb_1644902773.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "AlphaICs begins global sampling of Gluon deep learning co-processor"
     excerpt: "Gluon, an 8 TOPS Edge AI co-processor, is produced using the 16nm FinFET process at TSMC. This chip accelerates Deep Learning Neural Network models for classification, detection, and segmentation and is focused on vision applications. Gluon incorporates ..."
     publishedDateTime: 2022-02-15T13:22:00Z

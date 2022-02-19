@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202202/1252328.shtml"
 webUrl: "https://www.globaltimes.cn/page/202202/1252328.shtml"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Winter Olympics: Beijing visitors go hi-tech to avoid getting lost in translation"
-    excerpt: "ZHANGJIAKOU, China - Businesses at the Beijing Olympics are getting around the language barrier by using high-tech ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
-    publishedDateTime: 2022-02-15T06:02:00Z
-    webUrl: "https://www.asiaone.com/digital/winter-olympics-beijing-visitors-go-hi-tech-avoid-getting-lost-translation"
-    ampWebUrl: "https://www.asiaone.com/digital/winter-olympics-beijing-visitors-go-hi-tech-avoid-getting-lost-translation?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/winter-olympics-beijing-visitors-go-hi-tech-avoid-getting-lost-translation?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/150222_translationdevicewinterolympics_reuters.jpg?itok=iDWsh78h"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Beijing visitors go hi-tech to avoid getting lost in translation"
     excerpt: "ZHANGJIAKOU, China : Businesses at the Beijing Olympics are getting around the language barrier by using high-tech ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
     publishedDateTime: 2022-02-15T16:06:00Z

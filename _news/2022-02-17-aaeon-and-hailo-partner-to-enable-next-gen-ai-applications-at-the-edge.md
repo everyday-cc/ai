@@ -26,7 +26,7 @@ images:
 
 related:
   - title: "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge"
-    excerpt: "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ..."
+    excerpt: "TEL AVIV, Israel and EINDHOVEN, Netherlands, Feb. 16, 2022 /PRNewswire/ -- UP Bridge the Gap, a brand of AAEON – a leading manufacturer of AI Edge hardware solutions – is pleased to announce a partnership with Hailo, a leading Artificial Intelligence ..."
     publishedDateTime: 2022-02-16T12:07:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm"
     type: article

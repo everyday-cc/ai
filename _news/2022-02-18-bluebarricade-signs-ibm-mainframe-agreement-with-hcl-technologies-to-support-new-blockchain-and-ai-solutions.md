@@ -1,26 +1,27 @@
 ---
 category: news
 title: "BlueBarricade signs IBM Mainframe agreement with HCL Technologies to support new blockchain and AI solutions"
-excerpt: "The agreement gives BlueBarricade the processing capacity to start onboarding blockchain and AI customers to its ground-breaking new software product 1400TPS, adding speed and scalability to the other benefits of blockchain technology: security ..."
-publishedDateTime: 2022-02-18T12:35:00Z
-originalUrl: "https://www.digitaljournal.com/pr/bluebarricade-signs-ibm-mainframe-agreement-with-hcl-technologies-to-support-new-blockchain-and-ai-solutions"
-webUrl: "https://www.digitaljournal.com/pr/bluebarricade-signs-ibm-mainframe-agreement-with-hcl-technologies-to-support-new-blockchain-and-ai-solutions"
+excerpt: "About BlueBarricade BlueBarricade Blockchain & AI Technology AB, founded in 2018, is an innovative software house within Fintech, blockchain and AI. BlueBarricade’s innovations will be sold to IBM and HCL customers worldwide. With the launch in summer 20 ..."
+publishedDateTime: 2022-02-18T12:52:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-blockchain-sweden-70d46c5b5d61725b984eb1c41377a10c"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-blockchain-sweden-70d46c5b5d61725b984eb1c41377a10c"
 type: article
-quality: 18
-heat: -1
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/129c9d3527a44bb72394eb2f37ffd03563881116-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "hzAIvP1AviuQAIoKHhPlcgJqE9Lyl+l9qxznAwvFHk0H17bGoGIQrOMVkg35rOcKJ5AQvuyKOJUg5FT2HZVElj+AH9vPcji+2tzSK2Z8DYPzTkgLnAU3Ij8yIv5w7asYLQYca5GziDTVdA/+7jEznkmJ6WGMVLbKMofsIrF/U+nGONNl0g1LRpww1D+4sPow6p7//GkQGHaTrbn/MOZcD/4bVnmXLeXakKbxu/DmJhkDH9acacZ300M7NczxiUqVC3XoaDuh7ftjAOaMv6J6ZUV6Q+UQXuJM68pb4tGCBRHESe7jYWw3MyvOr+O6NMpf4faqen0HNHjwxXETVXh6euwaOyhjpM4OX62RujLx6zI=;CokKoYEJOCwp88ergmyk2Q=="
+secured: "tHr8stvqCxKOu9ykhTYluAsc3/xSE2YxKspIvWiODJEHR1lNKWdvoLEiWXrKbyWLZqCjrKE9fVAs9V5bH318lBD25XYjtrxAGy9f3gMsB9oIRPUjcRIUWoWKYqIz749+IrtVStrCmt/u1tbqBjIkHJ5kY8/hKINiAr9ETjFVQPweco5YCl2cxCRqGZ94bRAiN3CvPRHIjiTrZuQoLOyABaTbbmGN17ff+yT1Xmeamv3rfLon+1ElC6erNBBw8dFh2kUjNP1iUTST2+jwkV3fK6GAXfhxJy1XqZ0YhVqQ+hwLjkhdMYrpxn4nNUoXrQnR9KN4Dd2HV9TFecmVo1R2eqEpTsn1q2j7ybpcg4mjU/I=;5d82F2oaC6j15Jf1L6bILg=="
 ---
 

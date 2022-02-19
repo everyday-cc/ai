@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 809
         isCached: true
-  - title: "AI Biweekly: The Metaverse"
-    excerpt: "I shared perspectives in my AI biweekly on Quantum Computing (QC ... all companies and teams should start building their own small experimental place in the Metaverse. Joël Hazan, our metaverse pioneer, pushed us at GAMMA to take our first step and ..."
-    publishedDateTime: 2022-02-15T06:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-biweekly-metaverse-sylvain-duranton"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFljuFbK5gErQ/article-cover_image-shrink_600_2000/0/1643905366795?e=1650499200&v=beta&t=4Lu1eM_Lhz-1QaP1ZMLePqLolFJ10DPTjUn7DrC8u1s"
-        width: 1730
-        height: 600
-        isCached: true
 
 secured: "cwIx+FTJSjgHgXYTDl4FIfyHGqGODwZvALbpkr/s2pH65U6m/xTDGGyU5HthhsBzOq6DrM9WEMzWLBBW+0EreTyM54R8tOFabFDHWfaFp1QLFrbwflgGLVj624pD3G/qOPPwMutzMlz+SRFf5aXkqQqqUGo+jOZHxfNo2y8KyxvKhdzezybiCNv3WwJ1RvkhECo80Oo7RetNNZngsHn59vEA6BeTqKY1/j148YZXnv2OK8MPaZ/riSuy1UQoAtY6IsStr0SgvHj03XLCFRK58coN8WtO1qJ7QB069TGt43wjmICOKmvOJgDKdV2JHD7T0PEfrkoiCZZKK6alSqnrWQSpUyB3AyGAXWY5Aq6Qy+im3KoN0YuFeidS5Cbk1MSTd1yjbi6FsLVidi2J3XX9WDxlB5Okxm1L/ofG//n36ROZsYDZnQdtc9we2wTkg6/6UrF2nlRaK/sBNFLK8j4BEuzQbMynn+5r4dm7+p+Y4qNtLBrub8fFIXbEWq1jdpyF5DJ1qadTUfMoCTljCPjI0A==;DMR7NQ9IAiSa4UZoZLAdqw=="
 ---

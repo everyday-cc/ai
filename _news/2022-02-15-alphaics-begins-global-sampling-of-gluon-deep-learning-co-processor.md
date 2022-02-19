@@ -41,22 +41,6 @@ related:
         width: 487
         height: 300
         isCached: true
-  - title: "AlphaICs Begins Global Sampling Of ‘Gluon- Deep Learning Co-Processor’ For Vision AI"
-    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings. It provides the best fps/watt performance in the market for classification and ..."
-    publishedDateTime: 2022-02-15T05:56:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 69
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ipufirvuo8ccosrb_1644902773.jpeg"
-        width: 768
-        height: 438
-        isCached: true
 
 secured: "dT2l9jpB3yadxm1MVbwS1P5OjDwxDz0OdMrF1aLb2ycZW8vyRv00SObaPIS+jIihaDpRvFigkFgFK9tRlfDXvMWOGOkAZKkKUXROtSZnk7C5I+ZoMkL/4gSCeVa9PhAFT5C8MXlOGDKSTdz7Qp4MIg0M4Q6rNZZu7dgqQi2LW2wr3aJhY7tOexlLOQtAmZo/e0qxwBJNeCJNNSTCuYdad5JeW7ideCNVyGrSLFnJhApoWTwpHojF350J5EqHGLU6NTp5VDevemclFBNqqr2zJNtMiW+I4wJBis/iZKbC+Drnfpoio//ok7UnBCGBajJssyoQVt1H3zLCvRv+ASpvEeNjKW5d1Xqopff1eAMYeexcCwdNq4Q/DTJs/+NPzfxWKfMLRll8TPvA/nA51fIzF7XIx6/dtFdJpXFsCvIfxLg/CqczfphoYW7TJTNonXlURgkBiSbx05+KckoQ2cfWxHzkcab673BZS9iiE9obSR+8ctgLGB+8i0RvJ+1MBti297pGXA2P/YN8oMQ6Cj1Rsw==;Nof3ZUFEJyptRsC1EI7Fuw=="
 ---

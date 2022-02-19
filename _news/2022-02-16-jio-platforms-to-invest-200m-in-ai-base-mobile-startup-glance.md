@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Reliance’s Jio Platforms Invests $200 Million In AI-Driven Mobile Startup Glance"
-    excerpt: "Indian billionaire Mukesh Ambani’s Jio Platforms, the tech arm of Reliance Industries, has invested $200 million in multinational tech company InMobi’s mobile content startup Glance. Glance, backed by the likes of Google and PayPal cofounder Peter ..."
-    publishedDateTime: 2022-02-15T06:30:00Z
-    webUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/?sh=3a20b79740a4"
-    ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/"
+  - title: "Israeli Startup WSC Sports Raises $100M In Series D Round"
+    excerpt: "Israeli AI sport-tech media startup, WSC Sports, raised $100 million in a Series D financing round led by Israeli-based investment firm, ION Crossover Partners (ICP), the company announced this week. The company’s past investors, which include Intel ..."
+    publishedDateTime: 2022-02-16T00:52:00Z
+    webUrl: "https://nocamels.com/2022/02/wsc-sports-media-funding/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 182
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620b3a6c4afff558e3bf109e/0x0.jpg?format=jpg&crop=3296,1854,x0,y0,safe&fit=crop"
-        width: 3296
-        height: 1854
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/02/sports.jpg"
+        width: 1200
+        height: 848
         isCached: true
 
 secured: "5Knmz/1x8enVTfEvpYHnGQdsFqaS2C0bzbexQtoc57siQLWUSSsG9qX3rmpmd5N2kVE/BifLdFr8bSQgNrdA/NHhqQo+qavq5W5v3LNz5EvW5IbfhsoprExxbAySfoW/XhFc+GhSZhCuM6sGZksxz0SL1XBa8BQOBKwhsy7q8imZUTwSKQeEgFknZcDU/Oy7grIJAoa0xUXAF3g1cEFYK7UlWggLXUWlYKbuVbzO/DHXKB/0+5xihPVibXwU9DjYWdCqlr07RvlPAYQkuf0xwhkPlPlHd47sM7QBdAZJeLLzExPdjTtDids1o/vnh1VFy70aA2sKXJxqbP6Ik7Whb2uctIHgCHJFVk38jyYqbkkCOPkcq2e0GVGWVhADaN5AHCoY9juJFD0I9kGr7ikvbZrpWa8KDsnVT0LVkfy3LGuvNtYtxFMpyVFDBMH4PeZT3ERps3ET/ZTqM1H4/HjKAfNrBsyRH8lWNW8FLysfWa/b4FH0NpE3rdiWOzI75qnpcCSuSG3/f30sVVFFqFOERA==;hO5YsCIiQWOt8ver8qmt5Q=="
