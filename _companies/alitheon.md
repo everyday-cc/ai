@@ -30,7 +30,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1306793871418908672/aKuqbENk_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg"
     width: 400
     height: 400
     isCached: true
