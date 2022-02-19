@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-
 cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/02/SJM-L-ROBOTS-0218-01_94218880-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Save Mart expands pilot of grocery delivery robots"
-    excerpt: "According to Starship, the autonomous vehicles move at pedestrian speed and use machine learning, artificial intelligence and sensor technology to travel on sidewalks and navigate around obstacles. The robots can cross streets, climb curbs and operate at ..."
-    publishedDateTime: 2022-02-16T20:05:00Z
-    webUrl: "https://www.supermarketnews.com/online-retail/save-mart-expands-pilot-grocery-delivery-robots"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 39
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Lucky_California_Pleasanton-Starship_delivery_robots.png"
-        width: 770
-        height: 400
         isCached: true
 
 secured: "zqfJlf0T5liCBXnY1GJXE8opOKhibAHrx7A2GzR+9gmMOeC31z+M/j9hZDLLG5eWbXfoBkn8qMvqghZrTkmM4xFeuhczJe26UuLj1OYewy3erKlvRcNkroC4ctZSd5wUHSWxAduPtv9Kc1bC8CarFgqWFN2T9oO9PrwrUMLwMG8Wky6V+XJlcCi4102n182xG5Yb8xCxERFXmovFGaQHxBDl2vbaPQuw8BbvCvkbrsmILPDlBs5u9aJG2S5Bh0+pu01cNOt6oQ55jO7QeUEbtSPArmnvy0Fh3d2drQ83GwLgOgs7Y2s91a9VCHWl4hrJFhIZgvWutgLUzMEy81IaLCeFloRDzKbhhzs8R8OnUc9Z/M48CUxBtB7HWl2B2PVat/UUijVWX3aeMXE93+RZNqIVbL5/19oD+Ybyqmis/QgoQ10ZhcFIGHnQZbmRldg6+fn5eogFCMz7zA0qbsvJD3s8s9Kc4tui1kioydfBrntRzQofQGeOi2QH5GRDIBKjvC6uzt7ODVBGZrwNd4FbSQ==;OnkBNEwFzejBkdoaHZZFqA=="

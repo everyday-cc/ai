@@ -131,20 +131,6 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 41
-  - title: "Texas sues Meta over Facebook's past facial recognition practices"
-    excerpt: "Texas's attorney general has filed a lawsuit against Meta that claims Facebook's facial recognition policies resulted in \"tens of millions\" of state privacy violations. The lawsuit, which was ..."
-    publishedDateTime: 2022-02-14T21:24:00Z
-    webUrl: "https://appleinsider.com/articles/22/02/14/texas-sues-meta-over-facebooks-past-facial-recognition-practices"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 39
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/46988-91556-45331-88209-Zuckerberg-Meta-xl-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Texas sues Meta, saying it misused facial recognition data"
     excerpt: "The suit involves Facebook's \"tag suggestions\" feature, which the company ended last year, that used facial recognition to encourage users to link the photo to a friend's profile. Paxton alleged the company collected facial recognition data without their ..."
     publishedDateTime: 2022-02-15T15:52:00Z

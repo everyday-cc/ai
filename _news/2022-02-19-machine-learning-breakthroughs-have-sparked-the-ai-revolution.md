@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-18T17:03:00Z
 originalUrl: "https://www.entrepreneur.com/article/419474"
 webUrl: "https://www.entrepreneur.com/article/419474"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"

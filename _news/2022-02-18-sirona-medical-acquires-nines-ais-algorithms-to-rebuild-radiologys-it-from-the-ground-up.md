@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-alg
 ampWebUrl: "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/"
 type: article
-quality: 77
-heat: 77
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1318819391.jpg?w=1024"

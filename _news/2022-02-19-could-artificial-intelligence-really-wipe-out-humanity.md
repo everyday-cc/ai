@@ -8,8 +8,8 @@ webUrl: "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out
 ampWebUrl: "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/"
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2022/02/LG-AI-COMP2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
@@ -26,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "T6c/HA4/vTwaI7GT9NO+l2SDxoOsREqlq8OR1fw9e/4yhkmjrqvNP9plaqouCu8/KGSdW3WxVZJTt13bdAd8YfZqgTJ8UI9xIYhJhxElQJh+M+yCfhSFXAbyu0kZs6I4vJ9mHmUFg3nv3BA/UUCTtgIt/oDwvKOi9FMT9QieQwTAFB8eEtoLCUijXSmeCSvYsrSTtkKJEKBsDKFgvpa2V6Di6t1no6hw4DZUgWFTSQSwN3TEidfSTeDWCfENYy8PnBG1b2gTd6qQch320fGCfkBIEqbk8JWYzD4ghyoOvv54d0Y/UXZbL9zx2WL84X8GLIPd9syziq7iMreXZo3M9WTTPYwONKTnnTe0OCyzJWI=;EqSsORLnplue0c/3mfF9zw=="
+secured: "lACKsViXIPkPGMEN7KnTPrRxVE4BDw9TyhTu1cOQ1d3J9eubqgcmFNQN0bPtFKVDjgJ0M3krE4oB6IHggx7j6lI9K5XvSAcKsmPxjAsgTqg1wFnt1iR8jhT+pUOGLQcejfSD7pQDb/K1uyQ9F/4S/LJOmDxVJXAVF3BZ+bO6aV0CkqURWT7Uibu4ybz6e6LMPPRP4OZdRVgbssMo2DBbcWpQzukWwanY4PIT5elLfkh2/gcvWNU0c+kOpyYTwjPwz9dhuIzunpPJ0vFJOgWd4uFN3ubYHXzPLLeFcal895WpNOt/IQyLXJNepEdHk9Ehx2o81tOFpOK6Xs5SOadTqGQB41TqXBnKsSJUq6UVkgsICd3FmNxxTxwnsTUyGV5Z893wt4JzGrmWBx42MdW6DdWLUxH94ua7FgsRxZsNeVt6iY31/sbnmzkLcDKvhG/vwCHmnlmyd+U28fVqQDnwdxHFqf8Lh6rTy2mhDTA/5vcXuav3jC5DyMm16IPcA2SeKlqlkc1ONQnQW4oV49b4WA==;tvNGjPQB4pK9wbYwdSO2ZA=="
 ---
 

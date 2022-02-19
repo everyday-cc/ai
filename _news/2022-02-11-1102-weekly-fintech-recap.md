@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21.jpeg"

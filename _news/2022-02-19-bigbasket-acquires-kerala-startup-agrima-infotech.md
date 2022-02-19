@@ -2,25 +2,25 @@
 category: news
 title: "BigBasket acquires Kerala startup Agrima Infotech"
 excerpt: "“It not only reiterates the strength of our startup ecosystem, but shows the great impression ... lot of value to our business”, said BigBasket will use this expertise on AI (artificial intelligence) and ML (machine learning) to enrich and enhance ..."
-publishedDateTime: 2022-02-19T12:35:00Z
-originalUrl: "https://www.uniindia.com/story/BigBasket-acquires-Kerala-startup-Agrima-Infotech"
-webUrl: "https://www.uniindia.com/story/BigBasket-acquires-Kerala-startup-Agrima-Infotech"
+publishedDateTime: 2022-02-19T14:47:00Z
+originalUrl: "https://www.indiablooms.com/finance-details/15495/bigbasket-acquires-kerala-startup-agrima-infotech.html"
+webUrl: "https://www.indiablooms.com/finance-details/15495/bigbasket-acquires-kerala-startup-agrima-infotech.html"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: United News of India
-  domain: uniindia.com
+  name: India Blooms
+  domain: indiablooms.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
-    width: 730
-    height: 400
+  - url: "https://www.indiablooms.com/finance_pic/2022/10bcd5f7397f3cbc212728258252ce69.jpg"
+    width: 800
+    height: 346
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hgDhgpwP0wwYXe85fay8UjGMmr0nQkdvf/9iWqUOdWB6a5uYvekXtReCmVUneVgGVZsn3oyTY640gRjSYuNq5FBRN1LKjWoRx5trG97W99Gnyq53VIeHVfMwc4oDEbcg6wZsIwy5AhU2rHASOYR7LO7luc6yxebXmGktLwKk8jkaKYXa3ix5D2zm/1d9DVm082qwN0E1TDDCSfnl4Vmgoce3Tq0gJnxWwRAYlHfKx4f90E7Nz+ddGurUNeh+QZh10eMt8ioE49heiwglGqp0Zjc5q9578zd4dLCpcWGb0jyvLnUzO/8eSs+eSToTkyGhVBoSCk78aPxG1osv0CjCAG450VtcUe13BYbVwiVoFi8=;LWbpfyw+FdLR6sStSftsmg=="
+secured: "XwFWLyfbUI1f/3LOa/cVLLz7rFKFbntxKS2m1lccqEHYTtih7W5dP1qrkY0cDBssTdn7eiR46suPbPx4Xh4+ly4OJx1bSDn/CB1FgxcolKJO7x0e+AfVNFYlh06jZ7GAXtT45XxOW8ZEcLHpPr6R75giWRWi2Gk9We/Ty9A/wYkEGLM1uT0vzPq5OaqhTDuTkzdsGHvsNgZcMyE82HKWNWUahjclm4OEg5kdUgmiaavg8GH1i1m5shDYGuYhP2X4Yefxq8Ay95E74DuDqUkk3tBfY6bJfLhRvU9cl21k6U5Z+YBVBPa7spL3Q8YQagCtFmOv2eiTE2y81esFywFWzasQ2LmFXfRgi+B7C4XvkJ8=;y9FESdig/2kSvCc+ZTiH9A=="
 ---
 

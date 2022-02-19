@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Save Mart expands pilot of grocery delivery robots"
-    excerpt: "According to Starship, the autonomous vehicles move at pedestrian speed and use machine learning, artificial intelligence and sensor technology to travel on sidewalks and navigate around obstacles. The robots can cross streets, climb curbs and operate at ..."
-    publishedDateTime: 2022-02-16T20:05:00Z
-    webUrl: "https://www.supermarketnews.com/online-retail/save-mart-expands-pilot-grocery-delivery-robots"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 39
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Lucky_California_Pleasanton-Starship_delivery_robots.png"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "qbBBh1gcJHa0E0EyHyo4+LofHwETV298HIYZkJIH95JUEpJiwlGzU3AljNjpC7XW6njnZmiGPmd2Cwe4SSJFSaVK0G2MMscFOBoPmj/IIIKSATx4SfueL39M1Fb9RBjY4H/zevXNuECeABVOjO/3wZ/YdLMkUniUXaBYFzJF+ZbBrV1GaAnL0Nz8FmYrxMClDWdsJIU6ocAFF5TofI47AmjwbES3wbw0i5MOWjBfJoHaaIagMCF9dbq5T9TTvxla0bYh5M2tokSlXT57djDltKzWdfLdNXx7pfRSFHpxnS1cLjcDPT+ArdLgEIyX7Z7hmikzzi5X57BmKmp5nmVJxGwFfVDzuyhhn3qiEa9WkkFJoonfOiRlWrKbzkNtL68uItVwg1hnHEFgXy/PvA7WscMhDEyDTDCLbg6t9t5oLasyLhOZPNJ4h28SfXmJuqw5qrymiJlkBQPt6M2nRoPse62xvwKWh9ABGIZaNxB8o+wg/PEJyNnPXD0gDsqRqNE3hLdqD5sOE3cxl3kdCaFRYg==;ZsXsei3MGtI9F4O3ugeInw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/convnext-return-convolution-network
 webUrl: "https://www.linkedin.com/pulse/convnext-return-convolution-networks-ritesh-kanjee"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 617
     isCached: true
+
+related:
+  - title: "Convolutional Neural Networks for MNIST Data Using PyTorch"
+    excerpt: "James McCaffrey of Microsoft Research details the \"Hello World\" of image ... A different approach is to use pre-built generic models such as those available from Azure Cognitive Services. Imagine that you work for a company that makes passenger elevators ..."
+    publishedDateTime: 2022-02-15T18:55:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2022/02/15/convolutional-neural-networks.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 41
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2016/0116vsm_McCaffreyRLab.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "AWHWJvButTuFLufGZYEtGq+9L0GgreHixBHZ0KKB5q1TaLOpy/qDPP7loau7jb2Gh5z2vs6YUiwOrUlMdXQGYBR1lQJ/UQNwg5Ey9njLXWkoMs+f0yian/br0vLXNXHf7nem7V0wkkLEl2WL19hUyjX6XTd8iDF4xB0xqjyCQFCsiJL8eMk6FZ5Lq6eAMRZOsrpRESnJWnIZt4fsqQL8L6k8mZnq6AiCcdjDW3cMwo3voXnbrNgshWF2LmNIAzzvFIKm+mHzrKEaSZyFqBPSvtt8k0RuVbK/3pmDn8u8ToQvwmvWvyyaQmgz7t5iZKojjzeJK6Ls8I/EudB1ygL316ioQxlbg5Hq2BZ+o1duNwA=;EWRYYCb4g92taym/QlGpRw=="
 ---

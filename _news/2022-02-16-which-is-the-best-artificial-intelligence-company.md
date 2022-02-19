@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-16T06:43:00Z
 originalUrl: "https://www.linkedin.com/pulse/which-best-artificial-intelligence-company-prajith-s"
 webUrl: "https://www.linkedin.com/pulse/which-best-artificial-intelligence-company-prajith-s"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3z1231UpWLw/article-cover_image-shrink_720_1280/0/1644993516123?e=1650499200&v=beta&t=wgBCo8KSUM9xClnSJqUeMQPnykotGLL2nzv32-pvNgo"

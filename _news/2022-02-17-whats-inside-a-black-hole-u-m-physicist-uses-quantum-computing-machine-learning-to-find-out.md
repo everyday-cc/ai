@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/943718"
 webUrl: "https://www.eurekalert.org/news-releases/943718"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "What's inside a black hole? Physicist uses quantum computing, machine learning to find out"
-    excerpt: "In a study published in the journal PRX Quantum, Rinaldi and his co-authors examine how to probe holographic duality using quantum computing and deep learning to find the lowest energy state of ..."
-    publishedDateTime: 2022-02-14T21:22:00Z
-    webUrl: "https://phys.org/news/2022-02-black-hole-physicist-quantum-machine.html"
-    ampWebUrl: "https://phys.org/news/2022-02-black-hole-physicist-quantum-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-black-hole-physicist-quantum-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/whats-inside-a-black-h.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "Y7DGBh57RLIt8aYMajckp16+2l3qlsxJ4z4TcL6yyZIIviKSEWB8Wi/iVMSuMzZmqKir1NgA2Tdgb3/W3dHBy0rRX5MGlw31itLsKbHi1XVPb/Qudf8UybPM8ngJEXs+jsb7kZFxghcedfJ8RJwOryM9R+6//N9d+BgjKOo5OcdtgoforEkDzgsDFfNCtNSjFeuUS+UXmmDKv/uHL09gDoVfa4zskVxUCCcRK9VeaWwkiR4L+476Z5Iz+9b3bWZS5GNyxKdc5KAriuUAB6vIE7Dw7AAXg0Dgr8PuCM7gwT/6q12n/di7/eS+UZz6tQHg5HVlry/2r1qwVMRNwrIodpPFrhcodncerY9r+TF7xK4=;gzsuQktk5BfkDueJcmKLGw=="
 ---

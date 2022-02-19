@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-18-what-the-history-of-ai-tells-us-about-its-future.md",
-      "title": "What the history of AI tells us about its future",
-      "excerpt": "Newsweek called the match “The Brain’s Last Stand”; another headline dubbed Kasparov “the defender of humanity.” If AI could beat the world’s sharpest chess mind, it seemed that computers would soon trounce humans at everything—with IBM leadi ...",
+      "path": "_news/2022-02-19-t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes.md",
+      "title": "T-AIM startup Bariflo Labs uses AI, robotics to rejuvenate lakes",
+      "excerpt": "“We are using robotics and artificial intelligence and the internet of things to solve the problems in the water segment,” he said. Sahu said it has a patented aeration device that diffuses air to the sediment level, where a majority aquatic species shelte",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
-      "originalUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
+      "webUrl": "https://telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes",
+      "originalUrl": "https://telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_review_Deep-Blue3.png?w=3000",
-          "width": 3000,
-          "height": 1687,
+          "url": "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2022/02/bariflo-labs-.jpg",
+          "width": 1200,
+          "height": 650,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
-      "publishedDateTime": "2022-02-18T02:00:00-08:00",
+      "ampWebUrl": "https://telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes/amp",
+      "publishedDateTime": "2022-02-19T05:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,60 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-machine-learning-breakthroughs-have-sparked-the-ai-revolution.md",
+      "title": "Machine Learning Breakthroughs Have Sparked the AI Revolution",
+      "excerpt": "This decades-in-the-making “AI Revolution” is just getting started. That’s because AI is mostly built on what industry insiders call “machine learning” (ML) and “natural language processing” (NLP) models. And these models are informed with data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/419474",
+      "originalUrl": "https://www.entrepreneur.com/article/419474",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI",
-        "IBM AI",
-        "AI Hardware",
         "AI in Robotics"
       ]
     },
@@ -55,7 +106,7 @@
       "originalUrl": "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1312,50 +1363,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-06-humanoid-robot-is-teslas-most-important-product-this-year-musk-says.md",
-      "title": "Humanoid robot is Tesla's 'most important product' this year, Musk says",
-      "excerpt": "Musk wants to build a humanoid robot, like the one you saw in the Will Smith movie. The \"Tesla Bot\" was first teased in August 2020 as part of an announcement of AI Day, a series of ... and we will start delivering after a final certification of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "originalUrl": "https://www.khou.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khou.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "publishedDateTime": "2022-02-05T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

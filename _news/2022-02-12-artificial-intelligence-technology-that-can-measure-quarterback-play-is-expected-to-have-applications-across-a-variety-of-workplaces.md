@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1171431233_494735_vwefar.jpg"

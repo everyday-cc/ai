@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-biweekly-metaverse-sylvain-duran
 webUrl: "https://www.linkedin.com/pulse/ai-biweekly-metaverse-sylvain-duranton"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI avatars: Auckland startup Soul Machines rides metaverse hype with $104m raise"
-    excerpt: "ANZ's virtual assistant named Jamie was developed by Soul Machines. Auckland startup Soul Machines has closed another huge capital raise as Mark Zuckerberg's \"metaverse\" hype and AI boom help to stoke demand for its AI-powered avatars. The firm says a ..."
-    publishedDateTime: 2022-02-15T01:00:00Z
-    webUrl: "https://www.nzherald.co.nz/business/ai-avatars-auckland-startup-soul-machines-rides-metaverse-hype-with-104m-raise/QWP2TMGTZOVMDH4SMYKJX3KEXM/"
+  - title: "Six Unaddressed Legal Concerns For The Metaverse"
+    excerpt: "The metaverse will bring multiple new legal implications, especially in the absence of existing standards and precedence."
+    publishedDateTime: 2022-02-17T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/?sh=ba55d757a941"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/amp/"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 172
     images:
-      - url: "https://www.nzherald.co.nz/resizer/8JJ_cRSu9OJ6oDK-XTr3AKsEBBQ=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/634O74EOHK347OVQWCMMAMQIHQ.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620d4eb6967159ade7f05d4f/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
-        height: 675
+        height: 809
         isCached: true
   - title: "Meta-AI: How to Build True AI for the Metaverse Platforms, or what's wrong with Meta’s Next-Gen AI Supercomputer"
     excerpt: "Meta Platforms (former Facebook) has introduced the AI Research SuperCluster (RSC) as the world’s fastest AI supercomputers to accelerate AI research and help us build for the metaverse. RSC is supposed to help us build new and better AI models that can ..."
