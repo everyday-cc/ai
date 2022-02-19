@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-05-we-need-to-decouple-ai-from-human-brains-and-biases.md",
+      "title": "We need to decouple AI from human brains and biases",
+      "excerpt": "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
+      "originalUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FBrainAi-CALLUM-EDIT.jpg&signature=cd986f4c8514cb750531f05dae512116",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-05T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles.md",
       "title": "Ag Expo rolls out innovations in AI, robotics, electric vehicles",
       "excerpt": "Technology that farmers have only dreamed about will be on full display next week at Tulare's annual World Ag Expo.",
@@ -1317,49 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-what-happens-when-computers-start-programming-us.md",
-      "title": "What Happens When Computers Start Programming Us?",
-      "excerpt": "researchers at the University of Pittsburgh designed a robotic arm that Nathan can control with his mind. Nathan has very little control of his own arms. The remote robotic arm can perform many ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/",
-      "originalUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2022/01/shirk-1-25-2.png",
-          "width": 600,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/amp/",
-      "publishedDateTime": "2022-01-25T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

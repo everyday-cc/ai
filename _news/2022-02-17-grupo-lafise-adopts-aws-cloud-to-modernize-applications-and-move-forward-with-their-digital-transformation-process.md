@@ -69,20 +69,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "The Natural Language Imperative When Automating Business Processes"
-    excerpt: "The Natural Language Processing (NLP) Solution As a toddler begins to learn a few words, effective communication leaps exponentially even if the words aren’t completely correct. The ability for the communication process to handle ambiguity in turn ..."
-    publishedDateTime: 2022-02-14T20:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/natural-language-imperative-when-automating-business-processes"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGv7LpBrvTl8A/article-cover_image-shrink_720_1280/0/1644870994584?e=1650499200&v=beta&t=AQE5efw0Se3ZnzbTL9V4XEdLu3rBtUWhX5um-mIECJo"
-        width: 849
-        height: 720
-        isCached: true
 
 secured: "Hcpv/w2vphWLDW+lZcwZDKXozMk7mxXj01dqcmLrSMiXO9/729QscELuXHPCICYS1pwNIwyx7PhpeGrnTFg/JR1DO+KxT1SS81DroboRRLsFir+mBxNxo4e76CX3HTZcRQrF412FqKR+LqyHTFcxrlvv2NiChqTxMemGB0EqKvrdA065iOAQvbB1tL4r1TgsSKGqGqtFSkRGiuBDeJS/gJ03WWWmbwyBhhqYBkd7UNG8ehUXGw1PoBrnhLYZj+55mR1LngxC2kK83rkP42+5ltZ7ssGNOeYldB0XsmUu6O2iblhWLkyFQzosM33mn1UayyhGGHs7mdAFz1HdXonn6y9rUzSvF5Ub4X5ww84WUrRalgki9ydM6jRtdSxLM419xM03B/kAOV7G/jZn40UZ4NgycDv5its86DYaBi3LbGiRu1AmgH9CChR3rIRZ6az1XjS5+3Zr7BYkmLhJW6cRfWzme687c/7WiOeSmsL6O5KPJDLdkmVTOhSOTeVhsVhfDQbA4zeRsVhCzzqtedaW0Q==;584rdkBGUxmEfQeYy1CuBA=="
 ---

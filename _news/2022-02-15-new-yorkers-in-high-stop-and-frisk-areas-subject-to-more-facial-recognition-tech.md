@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2022/feb/15/new-york-facial-reco
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Racial Minorities ‘More At Risk’ Of Being Spied On By New York City’s Massive Facial Recognition Surveillance Machine"
-    excerpt: "there’s a very good chance your face will be captured by surveillance cameras and run through facial recognition software. If you’re in a predominantly Black, Asian or Hispanic community in New York City, that chance is even greater. That’s according ..."
-    publishedDateTime: 2022-02-14T23:00:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/14/new-york-facial-recognition-surveillance-puts-minorities-at-risk-says-amnesty/"
+  - title: "IRS Scraps Plans to Use Facial Recognition Technology After Bipartisan Backlash"
+    excerpt: "Virtually universal condemnation of an Internal Revenue Service (IRS) plan to force all Americans to use facial recognition technology has caused the federal tax collection agency to change direction. The plan would have forced all United States taxpayers ..."
+    publishedDateTime: 2022-02-16T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 55
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620ab71d7ae909a86b686c72/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 483
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/02/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
 
 secured: "Tu3sSAfE5d/fyjLHkbwGObELVykcRWMuiluuOerRb9HBuMAJY0v1/CmtnCYUUoqFaydW5gIGMy6w7gl/cMWcJK/r/uTuN9K79fVmaSxBYxTZW4Yj+VoVGZ9n1Jv19r6OI2P0A6XS9luv+KIrpcIHyp7sEvIvIUvetapCKT0Yqjzb6WIFdAirHYrYM8iwdNrjDegMk2odCdj5WLvmz25xI4aWWWkve5U87Lv1s+EiwNUnn4+oB1g1fglgDWYVl+Emqm9MpaRHaLAA31Ax3+VIvw8dSC+faJKZ1hBWNBIW4wlTM9zmY7bNh1dgqHy+7jWyHhvEyv1Ur5WyIb/eNEm+VHcBH22t/nZOVyCoI5U9VzebKSvGNH/ydtbSXABa2fjP91pTDM6FWyLjrEuWxPDR4z/azxHK1LcoqLcZiJlfWsqC6g7YapggkBWxmSIRWmEA3hr6uwDElAg7fB0ug72hUTDrSg2h0dijnN3cV2BNXmNwiNLpnhgr4sP+LSSzgclDLV8TSJHr/si/XMFZcFAt4w==;GO05OKwD2DWgRNK9/4+Odw=="

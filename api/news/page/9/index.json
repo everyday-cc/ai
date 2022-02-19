@@ -2,6 +2,151 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-10-government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs.md",
+      "title": "Government injects £23m to boost UK skills and diversity in AI jobs",
+      "excerpt": "The government has pumped £23m into Artificial Intelligence (AI) and data conversion courses for young and underrepresented groups, as the UK aims to be the industry leader. There will be up to two thousand scholarships for masters AI conversion courses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
+      "originalUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/09/679721416.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
+      "publishedDateTime": "2022-02-09T22:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-kobold-metals-raises-1925-million-to-use-ai-to-find-battery-minerals.md",
+      "title": "KoBold Metals Raises $192.5 Million to Use AI to Find Battery Minerals",
+      "excerpt": "ADELAIDE, Australia—KoBold Metals, a startup backed by Bill Gates’s Breakthrough Energy Ventures that aims to use artificial intelligence to find metals needed for the electric-vehicle boom, raised $192.5 million in its latest financing round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "originalUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-483374/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "publishedDateTime": "2022-02-09T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-joint-robotics-autonomous-systems-and-artificial-intelligence-ras-ai-demonstration.md",
+      "title": "Joint Robotics, Autonomous Systems, and Artificial Intelligence (RAS-AI) Demonstration",
+      "excerpt": "‘Robotics, Autonomous Systems and Artificial Intelligence’ was recently added to the Sovereign Industrial Capability Priorities list and the RAS-AI consortium is proud to be a part of the journey to delivering the best capability to our warfighter",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
+      "originalUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGA2w2xa0Dqiw/article-cover_image-shrink_720_1280/0/1644469170228?e=1650499200&v=beta&t=nz5RLteTBzY34hdOOQ7_fWq4IfkBd_47qdvGmr3LuaA",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T22:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-making-collaborative-robots-user-friendly.md",
       "title": "Making Collaborative Robots User Friendly",
       "excerpt": "Collaborative robots are designed to work closely with human co-workers. They can do the mind-numbing repetitive tasks or do tasks like grinding and welding that are dangerous for humans. They can also be used to lift heavy objects. Yet the safety of these ...",
@@ -1029,144 +1174,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms.md",
-      "title": "Palo Alto Networks Adds Deep Learning Algorithms to Security Platforms",
-      "excerpt": "Code-named Nebula, version 10.2 of PAN-OS added deep learning algorithms that Palo Alto Networks can apply to, for example, instantly identifying zero-day threats or malware that is using specific techniques to evade legacy cybersecurity platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
-      "originalUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityboulevard.com/wp-content/uploads/2020/09/securitytraining.jpg",
-          "width": 768,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
-      "publishedDateTime": "2022-02-09T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "securityboulevard.com",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-securethingsai-raises-35-million-in-pre-series-a.md",
-      "title": "SecureThings.ai Raises $3.5 Million In Pre-Series A",
-      "excerpt": "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417696",
-      "originalUrl": "https://www.entrepreneur.com/article/417696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai.md",
-      "title": "TigerGraph launches $1 million challenge to inspire use of graph AI",
-      "excerpt": "With a $250,000 first prize, entrepreneurs, academics, engineers, scientists can create their own problem statement focused on a topic of their choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "originalUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "publishedDateTime": "2022-02-09T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -71,6 +71,31 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "Why you should want the IRS to use facial recognition technology"
+    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
+    publishedDateTime: 2022-02-18T14:06:00Z
+    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
+        isCached: true
 
 secured: "7BzNmMygX8/KraW3TZCI0S+nSPk2uRq+QSAUwqr983dYCUqTN+wrVzuoQiEI8vrtYcOzVwrkmaoTX3YdbTs93eqe8ooC+M7eDW4Mbo1LSwHn+gc/SKsKYxONQ6ZIpXpxmHbxRSOzQP5mG7iLls1vLPAp24QV2pc6ojZ+MyVmAFbvEljn/2h7EZ7tLDSEum1o/4yA9rQ9FHt0KFb8jJRRcBu2Kq/kjhnoHAex8h109HVx0GYth4cFCBFapupHjTRw9FOvTnCkk3iO0/ODTY/1SwaY0ou3QjC4Zv08DU3GkZuF+2Cz2/dk8Ye1K7YQ9VGR7wwnRUCIywrOJ3hyg8LGoWAyILgf4h7hOm8MPreWErQ=;Qq1pafFiQ1mbrUA4FLnlew=="
 ---

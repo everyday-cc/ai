@@ -166,7 +166,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 364,
       "tags": null,
       "images": [
         {
@@ -261,7 +261,7 @@
       "originalUrl": "https://techxplore.com/news/2022-02-ai-generated-trustworthy-real-deep-fakes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -355,7 +355,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -503,7 +503,7 @@
       "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1066,6 +1066,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-16-us-senators-urge-ditching-idme-face-recognition-for-unemployment-seekers.md",
+      "title": "U.S. senators urge ditching ID.me, face recognition for unemployment seekers",
+      "excerpt": "But about half of U.S. states still use ID.me, which employs a mix of facial recognition technology and video-chat interviews to confirm the identity of unemployment applicants. Activists have argued that facial recognition remains too faulty for use in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "originalUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/nqvndH2CybKuE2pdSk8JW5SRvKU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3J3TVDV7HZMYZEUT7SJKJQRTNY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-how-a-semantic-layer-bridges-bi-and-ai.md",
       "title": "How a semantic layer bridges BI and AI",
       "excerpt": "Augmented intelligence (also called augmented analytics or decision intelligence) brings AI-generated insights into traditional business intelligence workflows to improve data-driven decisions.",
@@ -1199,58 +1251,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-uk-watchdogs-to-clamp-down-on-banks-using-discriminatory-ai-in-loan-applications.md",
-      "title": "UK watchdogs to clamp down on banks using discriminatory AI in loan applications",
-      "excerpt": "UK banks that use AI to approve loan applications must be able to prove the tech will not worsen discrimination against minorities. Banks must recognise the inherent flaws in AI, improve transparency, and take responsibility for problems. Insider ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "originalUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/620bccdfb20df7001809f414?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "publishedDateTime": "2022-02-15T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

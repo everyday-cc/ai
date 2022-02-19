@@ -67,20 +67,6 @@ related:
         width: 443
         height: 250
         isCached: true
-  - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
-    excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
-    publishedDateTime: 2022-02-17T17:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-banking-market-demand-business-scenario-share-applications-types-and-forecasts-2020-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
     excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
     publishedDateTime: 2022-02-17T11:36:00Z
@@ -90,20 +76,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
-  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
-    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
-    publishedDateTime: 2022-02-16T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Speech Recognition Market Scenario, Future Scope, Size, Share, Business Analysis, Opportunities, Challenges, Growth Drivers and Impact of COVID"
     excerpt: "Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner exponential traction by 2027, registering a colossal CAGR during the review period (2020-2027). The speech recognition market is proliferating globally."
     publishedDateTime: 2022-02-15T12:59:00Z

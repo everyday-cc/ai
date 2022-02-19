@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-16T17:18:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-its-real-life-practices-kuldeep-saxena"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-its-real-life-practices-kuldeep-saxena"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGEAf8JsGABkQ/article-cover_image-shrink_600_2000/0/1645031715834?e=1650499200&v=beta&t=ekyhXqcxpNJAbNeL0oQ7OYsppvpVoDBaXyB56RoFQ08"

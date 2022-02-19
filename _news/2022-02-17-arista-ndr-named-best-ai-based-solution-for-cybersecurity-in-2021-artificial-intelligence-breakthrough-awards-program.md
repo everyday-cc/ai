@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-17T15:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arista-ndr-named-best-ai-based-solution-for-cybersecurity-in-2021-artificial-intelligence-breakthrough-awards/article_e8a45d5f-704d-5e06-a2f4-00e4135213e1.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arista-ndr-named-best-ai-based-solution-for-cybersecurity-in-2021-artificial-intelligence-breakthrough-awards/article_e8a45d5f-704d-5e06-a2f4-00e4135213e1.html"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
@@ -69,6 +70,6 @@ related:
         height: 338
         isCached: true
 
-secured: "+x3IVGn7dyVkZvuFiwkyGqnTRbiHgHTd7N+5sqQz8/r9CQyCn82Gtnf9+MuQMk7ImpofPUwUCfF0pvbRZIsNG/MWxsb7zoLErE6n5GuN2sOUpZh8X6jPz9/56TWxZQ/9Ra3K8WtcRXjxzIhOFT1LL5MTp3pCm1MxmLCjkvbIm+zHaPnxBABG+KiPM+DwktIBQ8gQ0aGP2hNZE6mJzvtewHHHdqyFjaYw+W9o8I4y24QxIapYf9QA1x5DBS1IjvgUrU4UTFAkk2L2t5/JMdRnvOc2Y4l9zAgPUUhVGdW/e3z+FBwsvGEG7fIMiF1r0FHDkiAF+GQ8h+O1EniPbzdlikEXrj6w49Vmy+l8G4Peelk=;SP3NxQMUjH+PkO0/P1Pq2A=="
+secured: "RFH1OLJErnTJTGjPgZu5lzlBxvtbFrzRM6ZpdZfTn5yyZ86HLPFjzSGkzJCsgteBM9A2nHUFZId8hBatlIQYqxFKNDBDOGGPM8QvyrXYhaXiIjJ8MNy9w0Ndd9FrAmiXyRTXdaTJVFcXJhKmxtPVrf9l1XkKdgVsK4TW4IWjFWvhFGv1U5Xc35Bg6rVhQaC4LgNwpxGEurA4E/BJnT3CX2S1+0Ec10h6JsMFLCpOgC7wancwuKIuSkzTQvqbCJ7JhhVscjvxmcvJ/Mtdqse3XidRLKAGPz8L1GFvvSqxfMR1r57Dj5rsoEDvMY3w71mAd9K+F5YDBH4vf3n5BOcaTGHjdh1DuraXfzQbNnHxqmeV4duviemdDBll5CXXhrzWotc3Jk4KkcDldVam+rgWAln7Q6ThiBIjstWiicdFzA922JblwURQwSezX1gi7xfbAhDyihv/j0rDN/rX1Gl2q1kFfyf/xtNwbkHcz2z8oHVJI1bRqbVdWkyHPZ2wSBAcCU8COqfYdpQBNWY12qAVVg==;9OKw/RQJCRQHxAqS3Ni9NQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
 type: article
 quality: 174
-heat: 374
+heat: 364
 published: true
 
 provider:
@@ -230,20 +230,6 @@ related:
       - url: "https://res.infoq.com/news/2022/02/deepmind-quantum-chemistry/en/headerimage/generatedHeaderImage-1644167237071.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "DeepMind’s new AI can write code"
-    excerpt: "A new programming AI system from Deepmind, Alphabet’s experimental AI research arm, can perform complex coding tasks better than the average programmer and could lead to the AI that can change itself. AlphaCode was trained using open source code from ..."
-    publishedDateTime: 2022-02-14T19:09:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/deepmind-s-new-ai-can-write-code.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 54
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/coding%20programmer.jpg"
-        width: 720
-        height: 405
         isCached: true
   - title: "DeepMind AI trained to control nuclear fusion"
     excerpt: "For a few brief seconds last spring, a doughnut-shaped ring in Switzerland heated a bubble of plasma to ten million degrees centigrade. The machine, built to progress the development of nuclear fusion, employed electromagnets to squeeze, shape and sculpt ..."

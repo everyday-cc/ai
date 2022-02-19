@@ -245,20 +245,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "DeepMind’s new AI can write code"
-    excerpt: "A new programming AI system from Deepmind, Alphabet’s experimental AI research arm, can perform complex coding tasks better than the average programmer and could lead to the AI that can change itself. AlphaCode was trained using open source code from ..."
-    publishedDateTime: 2022-02-14T19:09:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/deepmind-s-new-ai-can-write-code.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 54
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/coding%20programmer.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "DeepMind’s latest AI to control nuclear fusion"
     excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
     publishedDateTime: 2022-02-17T08:01:00Z

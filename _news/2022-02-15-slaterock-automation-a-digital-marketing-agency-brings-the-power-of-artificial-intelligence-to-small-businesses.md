@@ -56,20 +56,6 @@ related:
         width: 553
         height: 311
         isCached: true
-  - title: "The Natural Language Imperative When Automating Business Processes"
-    excerpt: "The Natural Language Processing (NLP) Solution As a toddler begins to learn a few words, effective communication leaps exponentially even if the words aren’t completely correct. The ability for the communication process to handle ambiguity in turn ..."
-    publishedDateTime: 2022-02-14T20:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/natural-language-imperative-when-automating-business-processes"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGv7LpBrvTl8A/article-cover_image-shrink_720_1280/0/1644870994584?e=1650499200&v=beta&t=AQE5efw0Se3ZnzbTL9V4XEdLu3rBtUWhX5um-mIECJo"
-        width: 849
-        height: 720
-        isCached: true
   - title: "Grupo LAFISE Adopts AWS Cloud to Modernize Applications and Move Forward With Their Digital Transformation Process"
     excerpt: "and automatization and development of Artificial Intelligence, applied to the institution’s operative processes. “Grupo LAFISE’s decision to sign this new agreement with AWS is based in the positive results of work months and investment time made ..."
     publishedDateTime: 2022-02-16T23:00:00Z

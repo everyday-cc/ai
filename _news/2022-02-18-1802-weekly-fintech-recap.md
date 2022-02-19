@@ -97,20 +97,6 @@ related:
         width: 2134
         height: 1182
         isCached: true
-  - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
-    excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
-    publishedDateTime: 2022-02-14T20:40:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=616070"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 23
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
     excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
     publishedDateTime: 2022-02-18T12:00:00Z

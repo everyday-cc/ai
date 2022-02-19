@@ -22,54 +22,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Texas sues Meta’s Facebook over facial-recognition practices"
-    excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
-    publishedDateTime: 2022-02-14T20:30:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna16201"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 74
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Texas is suing Meta for violating state privacy laws with its former facial-recognition program"
-    excerpt: "Texas is suing Meta over its facial recognition program, according to the Wall Street Journal. Facebook shut down the facial recognition program in November. Texas AG Ken Paxton plans to seek \"hundreds of billions of dollars,\" in penalties. Meta is facing ..."
-    publishedDateTime: 2022-02-14T19:24:00Z
-    webUrl: "https://www.businessinsider.com/facebooks-facial-recognition-program-is-subject-of-new-texas-lawsuit-2022-2"
-    ampWebUrl: "https://www.businessinsider.com/facebooks-facial-recognition-program-is-subject-of-new-texas-lawsuit-2022-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebooks-facial-recognition-program-is-subject-of-new-texas-lawsuit-2022-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/620aa1f5e2fe3c0019ea774f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Texas AG sues Facebook’s Meta over facial recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-14T20:28:00Z
-    webUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/"
-    ampWebUrl: "https://www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/02/14/texas-ag-sues-facebook-parent-meta-over-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 61
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2022/02/Texas-Meta-Facebook-Lawsuit_69852.jpg?w=1024&h=815"
-        width: 1024
-        height: 814
-        isCached: true
   - title: "Texas sues Facebook parent Meta over facial recognition data"
     excerpt: "The Texas Attorney General is suing Facebook's parent company, saying it collected biometric data on Texans for commercial purposes without their informed consent. Attorney General Ken Paxton filed the lawsuit Monday in a state district court. The suit ..."
     publishedDateTime: 2022-02-15T11:58:00Z
@@ -102,22 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Texas AG sues Facebook parent Meta over facial recognition"
-    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed ..."
-    publishedDateTime: 2022-02-14T19:40:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/texas-ag-sues-facebook-parent-meta-facial-recognition-82883181"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/GMA/220207_gma3_khanna2_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "US state sues Meta over Facebook facial recognition tech"
     excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
     publishedDateTime: 2022-02-18T13:30:00Z
@@ -133,38 +69,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Texas-Attorney-General-Ken-Paxton-sued-Facebook-now-known-as-Meta-for-capturing-and-using-the-biometric-data-of-millions-of-Texans-without-properly-obtaining-their-informed-consent-to-do-so-in-violation-of-state-law-Picture-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1b3a8949-6a1c-5c60-b165-5c53043b8491&operation=CROP&offset=0x91&resize=2008x1130"
         width: 650
         height: 366
-        isCached: true
-  - title: "Texas sues Facebook parent Meta over facial recognition data from users’ posts"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-14T19:08:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2022/02/14/texas-sues-facebook-parent-meta-over-facial-recognition-data-from-users-posts/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2022/02/14/texas-sues-facebook-parent-meta-over-facial-recognition-data-from-users-posts/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2022/02/14/texas-sues-facebook-parent-meta-over-facial-recognition-data-from-users-posts/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 57
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/NWn9P4tIWJqDFk_4YHWOXtcOmD0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/L26Q36CVRHJPBLTXQKFY4QG3TE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IRS Scraps Plans to Use Facial Recognition Technology After Bipartisan Backlash"
-    excerpt: "Virtually universal condemnation of an Internal Revenue Service (IRS) plan to force all Americans to use facial recognition technology has caused the federal tax collection agency to change direction. The plan would have forced all United States taxpayers ..."
-    publishedDateTime: 2022-02-16T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 55
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/02/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash_1500.jpg"
-        width: 1500
-        height: 860
         isCached: true
   - title: "Meta’s Facebook set for another legal showdown over past facial recognition practices"
     excerpt: "Police forces have also been criticized for making use of facial recognition technology, given that there is well documented research that ... Texas' lawsuit argues that Facebook, for over a decade, built an \"Artificial Intelligence empire on the back ..."
@@ -195,36 +99,6 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/620ac4f1e4b085d396fd452f-1644872945737?location=LANDSCAPE"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Inside Facebook’s African Sweatshop"
-    excerpt: "Some said they had done research that showed content moderators ... and no users nor Facebook’s AI systems have flagged specific points in the video. Through its prioritization of speed and ..."
-    publishedDateTime: 2022-02-17T18:04:00Z
-    webUrl: "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 54
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2022/02/TIM220228.Facebook.Cover_.jpg?quality=85&w=1012"
-        width: 1011
-        height: 1349
-        isCached: true
-  - title: "Texas Attorney General Ken Paxton sues Facebook’s parent company over use of facial recognition tech"
-    excerpt: "Texas Attorney General Ken Paxton is suing Facebook’s parent company, Meta Platforms Inc., saying the technology conglomerate infringed on the state’s privacy protections by using facial recognition technology on its users without their consent."
-    publishedDateTime: 2022-02-14T20:33:00Z
-    webUrl: "https://www.chron.com/politics/article/paxton-facebook-privacy-lawsuit-16918192.php"
-    ampWebUrl: "https://www.chron.com/politics/amp/paxton-facebook-privacy-lawsuit-16918192.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/paxton-facebook-privacy-lawsuit-16918192.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/24/12/75/22064977/3/400x0.jpg"
-        width: 400
-        height: 246
         isCached: true
   - title: "Texas sues Meta over Facebook’s facial-recognition practices"
     excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
@@ -312,17 +186,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why you should want the IRS to use facial recognition technology"
-    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
-    publishedDateTime: 2022-02-18T14:06:00Z
-    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
-    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
   - title: "Texas suing Meta over Facebook's use of facial recognition"
     excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
     publishedDateTime: 2022-02-19T03:15:00Z
@@ -336,34 +199,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
-    excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
-    publishedDateTime: 2022-02-16T14:50:00Z
-    webUrl: "https://www.govexec.com/technology/2022/02/agencies-shouldnt-use-facial-recognition-id-verification-groups-say/362054/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 38
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2022/02/16/021522_getty_fcw_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
-    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
-    publishedDateTime: 2022-02-18T20:46:00Z
-    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
-        width: 2048
-        height: 1376
         isCached: true
   - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
     excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
@@ -381,20 +216,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Texas sues Facebook parent Meta over use of facial recognition, alleging privacy violations"
-    excerpt: "Still, the company said then, it would continue to use facial recognition in some instances, such as when users have been locked out of their accounts. “There are many concerns about the place of facial recognition technology in society, and regulators ..."
-    publishedDateTime: 2022-02-15T13:06:00Z
-    webUrl: "https://www.washingtonpost.com/business/2022/02/15/texas-lawsuit-facebook-meta-privacy-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 29
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BXWJTYEIHUI6ZA4PBT67NHGOHQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
     excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
     publishedDateTime: 2022-02-16T21:02:00Z
@@ -409,15 +230,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Texas sues Meta for collecting facial recognition data"
-    excerpt: "(CNN) — Texas is suing Facebook's parent company, Meta (FB), over allegations the social media giant illegally harvested the facial recognition data of tens of millions of state residents for a ..."
-    publishedDateTime: 2022-02-14T20:59:00Z
-    webUrl: "https://cnnphilippines.com/business/2022/2/15/Texas-sues-Meta-facial-recognition-data.html"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 19
 
 secured: "h3PbQOGPl3ySEhpkwI5eKgbxAGb0XuJ/AKJH3eFU9KKSXMj8rJqKEFMLDrcOc9dNDYW0cahIgwkrEx3ZzOXGn7lgAG/4jNcjjeozeBBoznGH19umYm9asH27G+LKauUFkwQFXxa/vehtRz6nJx2G1auMNxoBUKKw7TKXrQrncc4Q0oAkZSgwjNTI4FMoI5opwurDW4uP/kKyN4oDoTuNqrAneGnjNkMmhkAGBLqJ8QnCUyabUdBbvE5JujSdb7nK7d7YPPwhP0Kz3rUPuadBS7ZILD3pfnUB/p2wDM8pZ8Q6yOnBsPrVKFa0LpyaxUC4vQn21W4qNF5qtfByRIazwaYB+IbMngIjBnUpfXw8v8uAZMlPaezfpOA7IPDGkVBdud5badfGwtNrdbQd6TmMC2QKSCGLX35nFmE7mKfB34V3WDmMaekeWpTdm4QzGJBH4kTYv7Kj8DiLxQ0iDw5bhvLBzhGMcGwoQOPYxzbspxC6W63Ej6QCmu+vvNPyekDMyzDIb/M64J2XWfzWl3YgCg==;MkmKqmJbXDWxMoa3u7NibA=="
 ---

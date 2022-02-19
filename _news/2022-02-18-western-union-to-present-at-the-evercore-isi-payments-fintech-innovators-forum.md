@@ -111,20 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Discover Financial Services to Present at KBW Fintech Payments Conference"
-    excerpt: "--(BUSINESS WIRE)--John Greene, executive vice president and chief financial officer at Discover, will present at the KBW Fintech Payments Conference in ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.."
-    publishedDateTime: 2022-02-14T20:40:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=616070"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 23
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Fintech Is Going To Integrate Hyper-Personalization In the Financial Sector"
     excerpt: "We can't imagine our financial lives without digital finance, which allows us to do anything from check our bank statements to trade stocks. The revolution in financial technology has democratized areas of wealth management that were previously beyond of  reach to the general public."
     publishedDateTime: 2022-02-17T13:05:00Z

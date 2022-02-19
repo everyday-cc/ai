@@ -39,7 +39,35 @@ related:
     provider:
       name: Inter Press Service
       domain: ipsnews.net
-    quality: 64
+    quality: 66
+  - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
+    excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
+    publishedDateTime: 2022-02-17T17:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-banking-market-demand-business-scenario-share-applications-types-and-forecasts-2020-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
+    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
+    publishedDateTime: 2022-02-16T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "8qwCqzn70LHrCfzskW+2CNh4HJIvT/4PZYNYtsh7rSPNQUfkYsyafKsT/RHIi/35nU2OAmJDiQeyQWTcDY4j6RK9kUCVw9MP2aue3nKfECe+smSPb1gE1FARj4SZ9vIGNPfv/PDPgU0Whlh/zu+M7chF0jmPrm3Ob/hRUP57PoFbOuec/qS2EXxAWtaSJEMEqjtLIvRD89CBquDOGkvufw9J7kOxMvtfUhks4DkrEfIzf3XHqal/Lj9d1c9yIb12OKVvU8rRjz5k8FzMp5nG9GD/GwRa129P5p8WTd/xgs/8l+xcXCZKWEHBlewPKxHKVxNfgwPA2Na8q6UWp1je612ndh6yolTSAJ2qYIHGM60=;0SnXRMTnTjz9tLNf8eZvtQ=="
 ---

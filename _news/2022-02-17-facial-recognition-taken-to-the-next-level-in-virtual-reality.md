@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reali
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "Why you should want the IRS to use facial recognition technology"
+    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
+    publishedDateTime: 2022-02-18T14:06:00Z
+    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
   - title: "The IRS backs down from facial recognition plan to verify identities"
     excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
     publishedDateTime: 2022-02-19T00:18:00Z
@@ -70,6 +81,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
         isCached: true
 
 secured: "kyQR68muV+dXkYIaBspyGva3iWZuZ4n27RHdk+vR2NJdLTi0SCIb9LZFBHCOwzpEpb3sQh5OVvEMGaRVIFKBWXEeyLRaD7JpO+lLYereL2sulwS4zmNv1WJjBS69tnjILae1u5jQ8l5JZ8iEbz2+5DsMHPjPgABn2/jVQrzcelGZblyL9Fzz85BVZonCORDvlC6Q5tmt4LUBarDFyAkWDr7uamQyEm3nhE4vYIUGNVSldV7Mgo7SW4mS5hxAz3q1LGjoX+Chw5HpnhuDWL/nvZ2Pq/vqIH0euaR6oqrhzIZZRVREmPJ+GU85lbjtz9rT2UGFX0Fog08rCyNVlwla+ObonBU7GdFU8/St2kAEAn795JyVaJ28gighUfn2rZBglLnUA3iJN/DFShizGh5sRvWj5jQQkbUesQqQtvkrC9m54iKAMg/CT2avPM3BbiiUD55FKvvdctLFS4TVUMIuMZ0tT7t/qm+mo/QmTbUd4shB2XAMZi5lFwRKKQWrgMUd5eBKdrb57grMKDM5ldaabA==;TALUtFCVBnqqGk3VQ1fggw=="
