@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Scientist says today’s neural networks may be “slightly conscious”, sparks debate among experts in the field"
-    excerpt: "The chief scientist of the research group at artificial intelligence development company OpenAI, Ilya Sustskever, posted on his Twitter account on Thursday that “it may be that today’s large neural networks are slightly conscious”. Sutskever did not ..."
-    publishedDateTime: 2022-02-15T03:06:00Z
-    webUrl: "https://www.pressenza.com/2022/02/scientist-says-todays-neural-networks-may-be-slightly-conscious-sparks-debate-among-experts-in-the-field/"
-    type: article
-    provider:
-      name: PRESSENZA
-      domain: pressenza.com
-    quality: 20
-    images:
-      - url: "https://cdn77.pressenza.com/wp-content/uploads/2022/02/neuronas.jpeg"
-        width: 950
-        height: 535
-        isCached: true
 
 secured: "rUcn7TjiL4/R7VsR/LVxfL46mAkHUdsSeHPmd1ug6Uxa6ZBovgEPRcIZ5LK/WC7tVKDOjCyqrvAjA2oaH3kOYyESpvZ2gffZho3zh2YslqPsegj7Cac0Lz2FKNSbPd6FUmZfVIyshXwrhWVRjj8WFOFQYJKGVjpCSa/sHA+OV+IuOUoTeFYxSnr9fh6tx+x4whX2aKVEZo1xP1ixjsU83B9v3HMq5SphWN55s/StBYEHWQFSbSJNiU358VhCEctshWMfSEo4TlvFxLk73XqyiWU5mkQjmgKVtMgn3vWswFsbow98JMh+R4waju9m6uwddtDsVGj33cmXHnJFTTbERVH6C8qrqjyKIkCENQe4jvzzEquGl25qCUmDZ4fHrK4GI7y+KHBA+O7M9gHef5uvxRLACLYBVIxVqDX/pF5jLEUhaBUZMQh+IIdY+PkHNerWtuok0oPX3iN4pnQqBo4zGwct5Ao9mlwaqTkoBMUBGsls2KXvNRjl+qLRX+i1bu8ePaTSGPUCXXFIZJrQL7JhSA==;xWNxb9VAwk/L4wTGx6G5ig=="
 ---

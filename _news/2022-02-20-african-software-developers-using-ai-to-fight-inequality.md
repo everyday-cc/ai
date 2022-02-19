@@ -1,24 +1,28 @@
 ---
 category: news
-title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
-excerpt: "To mark International Women’s Day, March 8, Africa.com ( is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with Harvard Business School Professor Karim Lakhani and Harvard Business School Professor Tsedal Neeley."
-publishedDateTime: 2022-02-17T09:17:00Z
-originalUrl: "https://www.zawya.com/uae/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
-webUrl: "https://www.zawya.com/uae/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR160220220673/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR160220220673/"
+title: "African software developers using AI to fight inequality"
+excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+publishedDateTime: 2022-02-19T20:35:00Z
+originalUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
+webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
 type: article
-quality: 30
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
+    width: 620
+    height: 355
+    isCached: true
 
 related:
   - title: "The African software developers using AI to fight inequality"
@@ -93,20 +97,6 @@ related:
         width: 794
         height: 924
         isCached: true
-  - title: "African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-19T20:35:00Z
-    webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
     excerpt: "To mark International Women’s Day on March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
     publishedDateTime: 2022-02-18T20:01:00Z
@@ -149,7 +139,18 @@ related:
         width: 360
         height: 418
         isCached: true
+  - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
+    excerpt: "To mark International Women’s Day, March 8, Africa.com ( is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with Harvard Business School Professor Karim Lakhani and Harvard Business School Professor Tsedal Neeley."
+    publishedDateTime: 2022-02-17T09:17:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR160220220673/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR160220220673/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 30
 
-secured: "QDPHwFiUrbcCt1fOweooqj8E0k2FjVdRSqjcwfqgzUYlwNiC88c6ZXjIJhhqMI8FGDxY0juamHUf69TIAhGHFvzaksL/yNxWsh8K6JkXMbysIM0kTVnnG1UwtXPGVzfexK3OHbPnUQbBxu0P+50kYlAqxon3Yz/5BkmgUkezYhw1ojCy3xQ8zRTTBrPiRbLFaFE8M5eWP5KeeM6YwryzyST5RVoW+ikQpt1e36YmuhPByWzbE2M0PDez7P+0SXBbECLXmIKrDjEZUhcEuEb8sexJd/vvBZUWu8nzpusk4vNbm0PtMsiLragEoRkSkOrXz/VZeIXuHF/a7qkr6OFV+ymz/4Xy/wR68CvqUqJjn7iazMfpSZA6ShCe5hrXryPVQca3Yq/BcHTiDTHvaPN5l3KD3pLlhZED3YbKwoZ35yQ14rV8Bha5PxP16JKGdYBM+JhghjZmZNegpkpHYOqzuz27GxpPOwGYFlpKQbq+PDBd6VF4n98wcRnubZ2No3UP2NJiL3WARLy5oKoEmJ5noQ==;uJoFdy7UkUvX+UfGEwZPTw=="
+secured: "kWizDKONXcKk7qVrHgb7nhtyem1ji1qug55wnsqAf7kivy3mDZ08milt2/eXfnVZASmcqwtpUHLyaW8kXS8bSd0dlAneobqItPuN6Mx4beuuBc8RbsSVvdxmUnrUXVOPrUCkIizUxHDpLz1wXpVA+FJfiKzK1IwiO2o4I+6MUsg7Iu8gQL57ZN0wm9KYnj+ZuGw2gTqPUgjGfEAvIO1mDjdtmKnaEbtkau4Z1zXt8JHj502di5px2VSzZ4EvkS0sOmq1cQ4SGsU7dGo2tHq3lBIJwRXSND4H7so/A7EWD1s3gLn85l1wYVOBxFDiCBoh5jj3u1KB7yvA49zQXCY6WaLZCD760kzAcN/C65Zvj4s=;47jdlWqD6pkgNtK497GPCw=="
 ---
 

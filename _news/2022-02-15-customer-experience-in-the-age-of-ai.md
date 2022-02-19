@@ -40,22 +40,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
-    excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
-    publishedDateTime: 2022-02-15T04:39:00Z
-    webUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/"
-    ampWebUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
-    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 51
-    images:
-      - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "RHsA9yQxka/4s/Ee9E3kbyyy3H5RTwZZcMbPM8TBZk8mgDNmc3/BUCGujh3ZttpCr3namXMXTTOIwbWrw6U6xmLJFKGCGciYTtUBXmi0RyJ/Q8APz+/oA2ZAeX2iZr7hhJfUA7Awm9ELuMRcFibwFn89zUoWFIPtcQRFUbg5IDf/tfJN2R8+g+lqPuvwOrwxGUOZd8OgmHCTP5aUYI+hCDCbiVsXV0JwEh/WaNyKWfsIov31xIaksewGSvPnlsfJDDxYnnd7qKt/7bSIdWkmsTU0buQiHfSwW3So889Y6q5jBHaClWGAUhZnmgIL012zXF/yEH0zu2ySMD4v608YoUC9+lm0if6C7Vr8z/w34TI=;3fNmBP1kSdZKmpRdSBsyww=="
 ---

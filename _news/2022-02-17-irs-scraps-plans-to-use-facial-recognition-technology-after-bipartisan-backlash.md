@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-fac
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/irs-scraps-plans-to-use-facial-recognition-technology-after-bipartisan-backlash/amp/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1500
     height: 860
     isCached: true
-
-related:
-  - title: "New Yorkers in high stop-and-frisk areas subject to more facial recognition tech"
-    excerpt: "Research also showed that in the Brooklyn, Bronx and Queens boroughs of the city there was a direct correlation between the proportion of non-white residents and the concentration of controversial facial recognition technology. “Our analysis shows that ..."
-    publishedDateTime: 2022-02-15T04:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/feb/15/new-york-facial-recognition-stop-and-frisk-nypd"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/ea80a6c087fb01fc7b95dbe9c5c79576ae4595b0/158_0_4682_2810/master/4682.jpg?width=620&quality=85&auto=format&fit=max&s=5e134d9fbff44650d7e377361442b743"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "ldQ51Hbc1CR1DAtanwFRtlQW6MMDWgQbEhJ1fce3+mcmAd52/xMdt1gy2Mg4/pAEZACsePPk+FWmO2zjOrtR/lh/3x/rSviHNvM29uV1nbehPPFXey+5rO3ZjmyI6x1qQt/mJF4qlHpdZc3SJ7Y4avx9mSzUtH4ZHulffUsDt+cF31oSkAmFwRa6Az3SXn2SIJ1rrl/OqPnCyy3lKWcgc84zBkb2GurRbn4x/MZ0N0s2hIM0WtKFH8+SZtmG6NPHwUlVh3CTbQ8xWmyvX4QIdhy9Rngo870sD3FgUQvK9tV7vI4EYf91/puaKdkSlNy42xdktYkGIokQFa0XVWHIr2s3492Kr75p9a/pT+Qkmuo=;gGV2Sbc61ONom3L1+7tULA=="
 ---

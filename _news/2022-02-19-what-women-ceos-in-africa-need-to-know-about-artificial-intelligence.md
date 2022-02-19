@@ -96,6 +96,20 @@ related:
         width: 794
         height: 924
         isCached: true
+  - title: "African software developers using AI to fight inequality"
+    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+    publishedDateTime: 2022-02-19T20:35:00Z
+    webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Africa’s women business leaders to examine the future role of artificial intelligence"
     excerpt: "Top CEOs will attend special March 8 conference in Johannesburg to discuss how the technology will shape Africa’s key industries CONFERENCE: Africa’s leading businesswomen will meet in Johannesburg to discuss the impact of artificial intelligence SOME ..."
     publishedDateTime: 2022-02-18T17:18:00Z

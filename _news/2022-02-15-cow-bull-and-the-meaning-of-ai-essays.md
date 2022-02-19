@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-educati
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
-    excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
-    publishedDateTime: 2022-02-15T04:39:00Z
-    webUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/"
-    ampWebUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
-    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 51
-    images:
-      - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Customer Experience in the Age of AI"
     excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
     publishedDateTime: 2022-02-15T13:00:00Z

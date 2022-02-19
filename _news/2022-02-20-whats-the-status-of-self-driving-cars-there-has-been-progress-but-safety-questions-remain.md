@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Apple’s patented sunroof hints self-driving car project still a go"
-excerpt: "Apple’s intention to enter the automotive market has been floating for several years. The tech company reportedly plans to unveil its self-driving electric car in 2025 but there are no concrete details in regards to its endeavor as of yet. Apple's self ..."
-publishedDateTime: 2022-02-16T08:04:00Z
-originalUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184"
-webUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184"
-ampWebUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
-cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
+title: "What's the status of self-driving cars? There has been progress, but safety questions remain."
+excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
+publishedDateTime: 2022-02-19T17:14:00Z
+originalUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/?intcid=CNI-00-10aaa3b"
+webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/?intcid=CNI-00-10aaa3b"
+ampWebUrl: "https://www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
 type: article
-quality: 44
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Philkotse
-  domain: philkotse.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.philkotse.com/2022/02/16/O3IWXvly/untitled-design-66d0_wm.jpg"
-    width: 900
-    height: 600
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/19/61111ce7-bb40-4305-8a2e-06f8f2429d67/thumbnail/1200x630/0fee59aa87c06d787ded76c0cfacb6aa/0219-cbssatmo-selfdriving-900159-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -59,21 +59,21 @@ related:
         width: 620
         height: 400
         isCached: true
-  - title: "What's the status of self-driving cars? There has been progress, but safety questions remain."
-    excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
-    publishedDateTime: 2022-02-19T17:14:00Z
-    webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/?intcid=CNI-00-10aaa3b"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
+  - title: "Apple’s patented sunroof hints self-driving car project still a go"
+    excerpt: "Apple’s intention to enter the automotive market has been floating for several years. The tech company reportedly plans to unveil its self-driving electric car in 2025 but there are no concrete details in regards to its endeavor as of yet. Apple's self ..."
+    publishedDateTime: 2022-02-16T08:04:00Z
+    webUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184"
+    ampWebUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 48
+      name: Philkotse
+      domain: philkotse.com
+    quality: 44
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/19/61111ce7-bb40-4305-8a2e-06f8f2429d67/thumbnail/1200x630/0fee59aa87c06d787ded76c0cfacb6aa/0219-cbssatmo-selfdriving-900159-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://img.philkotse.com/2022/02/16/O3IWXvly/untitled-design-66d0_wm.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "What's the status of self-driving cars? There has been incremental progress, but safety questions remain."
     excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
@@ -106,6 +106,6 @@ related:
         height: 256
         isCached: true
 
-secured: "TXJIwR4LgIOMRD2h+Pzk2bG/3HFofspWzJFZgdS4N9gjlJYGezuwGB1CeI5I1AqfbGSBtWGEWOGteqN2No0fmA81zVMYy4lt8fU/+ZkFA8tv//gtA4BzgQ/4m6BzZpv47U+V07kw4sTrQNMhCsIPK4pXpvZk56NONiMooa9EhcpPEoKpvVv4GBw9PZRxvA/e2i4WpJMt84Nf7xZCABqtg1jO46+J+8DpT9eygGHuKOhkr8V2ZKRuhDh5ytTWQCPVFxvfMOp6EwtYxoCx2+DbuOUIhuJJ0GLG6K0c05QdaOc/Q+4pCH2OceLbeLoLj1MygU/bSKRLLTbp1X6e2WziBkjFbDnv5vntN2FUzcbqz0g=;sx5KLPD3o5UK2Vq6xBM75w=="
+secured: "2pb3AOH5eVrxtTOoM3KE8LNBVsCSkHX7M9dEzRMR/voTXpOUwnQijAvrHTvqo9DbDmo8A9gX7q+09corJ2ozckofefe32Xlx4wh88tldC/62Iw6CSkzZE5rccbV1b/z0u+N+MvY9mPw6LR8vdcNBjnfTaJ8/D25gyegQMs711kpmYECgzYW7QpMyI/DR7al1rRxJuEwTbSBiWy3HeBid0+OM2PkcyHUunH27VsUnSPxTujV8Y5tkQWPVMMpQVEvq0IvuifDlQLJJxbpLPsLXDybHTI3syywvTuEodPYSH3KdpLwH8n4mfwlDsYU36XlUuPKOONTlAnOBvSFZXx5kpqgUnxDiH2uIqAKS7ClK7rM=;LtGWVx778viVlG+uWtjM5g=="
 ---
 

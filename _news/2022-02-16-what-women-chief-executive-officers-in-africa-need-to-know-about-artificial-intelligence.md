@@ -97,6 +97,20 @@ related:
         width: 794
         height: 924
         isCached: true
+  - title: "African software developers using AI to fight inequality"
+    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
+    publishedDateTime: 2022-02-19T20:35:00Z
+    webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
     excerpt: "To mark International Women’s Day on March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
     publishedDateTime: 2022-02-18T20:01:00Z
@@ -137,6 +151,6 @@ related:
       domain: zawya.com
     quality: 30
 
-secured: "BAiUg1PQRPmXDZV3GG1P3JKZiZCCrhEb2TOlFUc+LneLTM9bhUk2Spuetz6jyC+/hTryxlcbsdCpOVK/t8Fy3tq2oyPkmPpL/JZ1S4Ew4bD/a463TbEKUwkhDuHNDsvd7youskZhvDrWDayPpX/YYyg2kpdcyYiC5RTxbu6Dl70HVg5ZWelRBLPkFqyBUrI+kAG2jYN3z+XgYlCBGJ6ylHSnFTSJ7H5RUDXR+rpnffvKLUEoZybxyj3qMR2IEyBUhZ6L+j/XB5YKYYgk+DYmy3wxf3LnlPvf42zija7zfh6bjnitMoJ7oxBIsxc/AQdzWO6wigbEDUPXU9k4sQJ98klQgOOnOejDz0APTDJNRXQ=;ZdNG4EAjcDKmJH4BFyg48g=="
+secured: "Lr94HoSfeJtU84EoaPBAJIGM0ymbxQAxfa0j7vr0Odn1ClVSz5KhWfabWv+mUYYVFhQLWWzNkjIHPG5keBfhtil6bRBuNyg2Xu2XOpXLNTuISX0t1+ljnV9JznL2oY/Ezcfl51Po4LWO1Q5HlOilH1I/ndgIbrLbfdFUUEfsq7zQlM24i5KppIr3nUmfFfNbX1tm+AAbs5+VWw6nxqALZ0yKxU4USRZ97IoHGq/GJg4Vl38rjP4sKIGGh3ERAZNcfUgye3jSEwPI/78jKS81aEGMz4U4ABZrkoMGB4h2N7t89cUS+SP4PeSH4Upc/UhSQEjcdZRs1A4xm5rpcKrH303cfZUuz97LC8jWdY5WeAXNaJL8QYYLZ2/SmpdO346UjZ3fojspk+qU2gCwbd9Q7KQokxtidqseiA1iQPmL+3sOXsUajkutR6CGZr0Q77RDIc26ve19RsVWj+heZ8NrJ+vzv2EUGxIPUiS5lRsdVTgL1Jsg9S1XOJ0ln83RbAoOgPvZIxkJCI/It43njijuWw==;fXABDdm6D1tvEJ9xRKtbsQ=="
 ---
 

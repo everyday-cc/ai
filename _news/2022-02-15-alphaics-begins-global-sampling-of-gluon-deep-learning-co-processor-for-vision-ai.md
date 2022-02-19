@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AlphaICs gets long-awaited AI Gluon chips fabbed by TSMC"
-    excerpt: "AlphaICs says it has put its first AI chip from design to production on a shoestring budget of $10m in venture-capital funding. The four-year-old startup on Monday announced it was sampling the chip, which is called Gluon, to customers for evaluation."
-    publishedDateTime: 2022-02-15T03:44:00Z
-    webUrl: "https://www.theregister.com/2022/02/15/gluon_chip/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/15/gluon_chip/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/15/gluon_chip/"
+  - title: "Global Sampling of ‘Gluon – Deep Learning Co-Processor’ for Vision AI"
+    excerpt: "AlphaICs, having operations in Bangalore and Milpitas, US, has announced the availability of engineering samples of ‘Gluon’ – an 8 TOPS Edge AI inference co-processor to cus"
+    publishedDateTime: 2022-02-17T15:30:00Z
+    webUrl: "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai"
+    ampWebUrl: "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai/amp"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
+      name: Electronics For You
+      domain: electronicsforu.com
     quality: 76
     images:
-      - url: "https://regmedia.co.uk/2022/02/15/gluon.jpg"
-        width: 1000
-        height: 699
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/02/Left-to-Right-Pradeep-Vajram-and-Prashant-Trivedi-Co-Founder-AlphaICs-e1645111723813.png"
+        width: 487
+        height: 300
         isCached: true
   - title: "AlphaICs begins global sampling of Gluon deep learning co-processor"
     excerpt: "Gluon, an 8 TOPS Edge AI co-processor, is produced using the 16nm FinFET process at TSMC. This chip accelerates Deep Learning Neural Network models for classification, detection, and segmentation and is focused on vision applications. Gluon incorporates ..."

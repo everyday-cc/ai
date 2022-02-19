@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Apps, AI Translator, Marker Pens: At Beijing Olympics, Overcoming The Language Barrier"
-    excerpt: "Businesses at the Beijing Olympics are getting around the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to work perfectly."
-    publishedDateTime: 2022-02-15T04:21:00Z
-    webUrl: "https://www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913"
-    ampWebUrl: "https://www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/apps-ai-translator-marker-pens-at-beijing-olympics-overcoming-the-language-barrier-2768913/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 51
-    images:
-      - url: "https://c.ndtvimg.com/2022-02/55636o4s_beijing-olympics-translation-reuters_625x300_15_February_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Technology the big winner at Winter Olympics"
     excerpt: "ZHANG WEI/CHINA DAILY Earlier this month, a self-driving car carried the Olympic torch for the first time in the Games' history, showcasing China's ambitions and ability to produce such vehicles. Developed by information technology giant Baidu, the car ..."
     publishedDateTime: 2022-02-15T23:25:00Z

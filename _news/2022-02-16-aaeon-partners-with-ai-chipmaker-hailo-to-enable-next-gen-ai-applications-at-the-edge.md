@@ -2,26 +2,26 @@
 category: news
 title: "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge"
 excerpt: "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ..."
-publishedDateTime: 2022-02-16T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
+publishedDateTime: 2022-02-16T12:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/c0/9c084c6d-15a0-5ffc-aaf7-7555392729f0/620ce7e092764.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
-    width: 1196
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1747196/Hailo_AAEON.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 313
         isCached: true
 
-secured: "/6dgM0J3iVRY8RLabe5iwMkNQc96HugCE07AeRF/l3orWMEUUOpoD4fTz6UqOuJqlJ9EyQ6XhlFwWwdaIeCVXe54VzkTsaQ4AF14gPeFIaWLdEGSt/ljIypDznSdfHPbi9bRlXdXJNxcOJUHHmW1OUVDpvp9Ph1z0OAVjCn/R2echY4XYjDCNpOq6V0sqZRKjiEU711E+mDqeVGZXNljc9wwzbQ9yCHPd+NIUJbxAozjaHE4FPQ9V5nD0r5Twn/Du7mKVbvtNBA35s7YU7rkcPls9NvI87G94qSFktUuQIOBCE8xfEiGoHDuN5gWaAL5MPdFG2ro2mSIOpHz44TmnUqZz1lBq4YQ0XimtEPmcEtyENsWfVNcQk+Y9TiNd2H/HZOQrUVJ9wrbV4Ki7v3V1GZBjW0OMsTavqQG12VShoPO1Q+p1MtANyRANzVo5P1PwMlhTD/5vVEKpTqCoS+MT422K6Wa7RW+fJansPglHGzoLZOahw4BdbTYuhzTGb1VBAuvajGxB+naEL4UjeJQtQ==;2BTjAlIfzy8N1CRsS14n5Q=="
+secured: "I/7KWWieBvbuiGPNcFI/QHCLgu52FLzJmuTzSdHduLYR+RN05/u2ns9648Cb996hvu2hVI8RBgBRRUAccoNngKQOlHpiqsVNosTOzMsax06zpim7E8b18EQ3fVvQwLI42GtMjjdZ5LQNhtyXhCqSSVYwzkMlja80k2Z0cAp3SQPP0Ht/dPvVTRuJGiy7IQo1/cICHESVd0iWFsP6xvUsRaUnJSiflWRV+lfIbYYUI9UNmgiMHgvVilivCeaXshVOKmc6myPb3jCWMzwNh7GzQX0qobGOy1Az92ee6nvdG8ktK+dHU/UL5Vu4OBvlpb3sKt3s77Zne3JdexWlAycGla2zFCglXyn/94vnq2oYQ4Y=;m3jpb8JLr/lV0GhTe9+Siw=="
 ---
 
