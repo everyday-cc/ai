@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Artificial Intelligence in Transportation Market Size, Revenue Analysis, Function, production, Industry Outlook, Forecast, 2021-2028"
-    excerpt: "Artificial Intelligence (AI) in transportation is used to gather traffic ... Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology. The partnership is intended to combine the automated driver ..."
-    publishedDateTime: 2022-02-14T13:38:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-transportation-market-size-revenue-analysis-function-production-industry-outlook-forecast-2021-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-
 secured: "xUzN7NKIOLYsTLklZmKLXR65QB0SETVfjSDj64fxwuFI0X2gWKfGiJz+JSq5rV79HZVp7rlVh8F2uOomIcKxSeTWHOl6oaNUUrU0wr3V60yxBPqM7XY58rIObFeSmJ87B3cfMzwxdptuUOXRUB1XCO8Zrz+6aJt52ZMzzH/X4Czk+o1V7meGG1fAlZjDsl0ERq0fG0RQk+ni+6qxW1thC3dzzgq8ElmFBwgVGggk59bCGOuRO3GrILmUCmQqUQkFpvC6ulz5SbYuB47rrIgqJGAIpFIlQB5O5YIqHwrXNS5p7mv5gR8iEELND9tPaXQC9ehEVZlLEY+accu7u2z2C4z9m79zRlRq4vuODxYZGjQ=;XEyOlutqZ1F8KQ/fQM4iIA=="
 ---
 

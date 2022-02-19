@@ -56,15 +56,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Jio Platforms to invest $200 million in artificial intelligence company, Glance"
-    excerpt: "Jio Platforms, on Monday, announced that they would be investing in Bengaluru-based artificial intelligence firm, Glance. The investment is expected to \"expedite Glace's vision of bringing the internet to lock screens, globally,\" said a release. The $200 ..."
-    publishedDateTime: 2022-02-14T13:25:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/telecom/telecom-news/jio-platforms-to-invest-200-million-in-artificial-intelligence-company-glance/articleshow/89570855.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 13
 
 secured: "uEkeZdeIwMPk4l2rfMSiMe3EG/CMrBIaySOr00t49eYfsSBHkUeM06qQi7sLpyBm/w4Er2ravHvRFtqbyBBDiONGpM8/OAOVgw+IDqePzcKEGwXlAqkrNSqOZ7GvfyNwfepJJ7D++nEVmNWQPJYb7ZD9uIXjKrriCqzLUluwqzak9FPmfQn0KGQsnYMwlKrjaqXx5vAi5ZvNbdY+Qp+l5k4kTObO5ehThZyNv70+je1SyF6OIEuM87Pa8fBBxb9/1JyxzZBm6zWYzKdGbprftHAXnKGNoXeYirR6irpkpvItzTPRBCyV42TYwi8Gz61WsSFVzuLyRxSL4ku7thTFOQXqCTVIITBMHNXRJkSmkUUHne1zlnVP0LbHqb5W6dtWfCeYWsRlJa4yNmasMl56yhfTBfcwD+ikSSuOVpuZwKDuwwmDbPv+T3nQDeQKvbYAK+2DRSdRvr4fiKQxaJfhxV3DWZhht7iQN+0bpOPy3pitcSKsnEBkhZOVwwi2eN+lyXDZ6US+ooJW4xMvzLNuqg==;659cQ8P+AQi3ZK7N4DknJQ=="
 ---

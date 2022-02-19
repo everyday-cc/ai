@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/"
 type: article
 quality: 182
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Jio Platforms to invest $200 million in artificial intelligence company, Glance"
-    excerpt: "Jio Platforms, on Monday, announced that they would be investing in Bengaluru-based artificial intelligence firm, Glance. The investment is expected to \"expedite Glace's vision of bringing the internet to lock screens, globally,\" said a release. The $200 ..."
-    publishedDateTime: 2022-02-14T13:25:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/telecom/telecom-news/jio-platforms-to-invest-200-million-in-artificial-intelligence-company-glance/articleshow/89570855.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 13
 
 secured: "nrJiON0QabXiHdYO0WAMql26R9GvLng+a0cZ+nDfHfrJwZjYY2LaEECqVhBgPCkhk9JhU6tSTGgsINTXSVv9F7Oe9zR/2ZiAKad/P64pmz6wObx8BwJXpQYjl1sAIYraDmRmUEGA69s9EOKBeyaEXEyfrTwuunoBpmk/aIIjLGsBO8QCnDzSjw9Hf5ipFDIweprfZf1Fg9cc2pm7FFv4AGxJtm3Yt5ukTWScAxzneYxkhNqjyCAjLpl0LkvY4pmBfb0ncxS9sj44+htWMy/QpkDWcKq73NfbLRwxJRWYZmwYjNLweY9/S/EJrVy/UmEPlVRvUjVnAy1vxOkQwhuOb8Sp6sJUiQ0vR/NoqxoFZax0Ytsgu7jO52aCEcV7y8il4nGUYQVYEgDnvpFRMwAn1pwPHK2kJQFFvWEUyWhpEiwSJy9ju/WkCoL3SugzFrxDPD2Jh6MuJxB2/VEEfZfuas+zpSqwoEYeu6ZEIXuAA2tXhDEKXSjuMXCJQYoBheOgwdvmwMj1QfOWuUuVhV6q2U4E1/tKL5tU5bogxXU2WIk=;mJAoX6g3KBtjremr1A9yog=="
 ---

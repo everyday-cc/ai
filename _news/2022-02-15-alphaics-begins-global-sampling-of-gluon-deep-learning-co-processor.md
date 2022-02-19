@@ -57,24 +57,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "AlphaICs Begins Global Sampling of \"Gluon - Deep Learning Co-Processor\""
-    excerpt: "Our team worked very hard to design this high-performance, industry resonating deep-learning co-processor. Gluon is future-ready and is well-positioned to address the AI vision applications for surveillance, retail, industrial, and smart city markets.”"
-    publishedDateTime: 2022-02-14T13:40:00Z
-    webUrl: "https://www.design-reuse.com/news/51424/alphaics-deep-learning-co-processor.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
-  - title: "AlphaICs begins global sampling of ‘Gluon-Deep Learning Co-Processor’ for Vision AI"
-    excerpt: "The advanced edge inference chip delivers the capability for customers to add AI capability in the current X86 / ARM-based systems, resulting in significant cost savings it said in a press statememt. Gluon provides the best fps/watt performance in the ..."
-    publishedDateTime: 2022-02-14T14:08:00Z
-    webUrl: "https://www.freepressjournal.in/technology/alphaics-begins-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 30
 
 secured: "dT2l9jpB3yadxm1MVbwS1P5OjDwxDz0OdMrF1aLb2ycZW8vyRv00SObaPIS+jIihaDpRvFigkFgFK9tRlfDXvMWOGOkAZKkKUXROtSZnk7C5I+ZoMkL/4gSCeVa9PhAFT5C8MXlOGDKSTdz7Qp4MIg0M4Q6rNZZu7dgqQi2LW2wr3aJhY7tOexlLOQtAmZo/e0qxwBJNeCJNNSTCuYdad5JeW7ideCNVyGrSLFnJhApoWTwpHojF350J5EqHGLU6NTp5VDevemclFBNqqr2zJNtMiW+I4wJBis/iZKbC+Drnfpoio//ok7UnBCGBajJssyoQVt1H3zLCvRv+ASpvEeNjKW5d1Xqopff1eAMYeexcCwdNq4Q/DTJs/+NPzfxWKfMLRll8TPvA/nA51fIzF7XIx6/dtFdJpXFsCvIfxLg/CqczfphoYW7TJTNonXlURgkBiSbx05+KckoQ2cfWxHzkcab673BZS9iiE9obSR+8ctgLGB+8i0RvJ+1MBti297pGXA2P/YN8oMQ6Cj1Rsw==;Nof3ZUFEJyptRsC1EI7Fuw=="
 ---

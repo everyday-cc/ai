@@ -22,7 +22,7 @@ related:
   - title: "Nogin, a Leading Commerce-as-a-Service Platform, to Become Publicly Traded Through Combination with Software Acquisition Group III"
     excerpt: "Feb. 14, 2022 (GLOBE NEWSWIRE) -- Nogin, Inc. (“Nogin” or the “Company”), a leading provider of Commerce-as-a-Service technology ... the future of self-learning eCommerce with a large customer data platform and machine-learning models that enhance ..."
     publishedDateTime: 2022-02-14T21:37:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-52cada33d4b8254b2e5f394a739a0899"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-las-vegas-52cada33d4b8254b2e5f394a739a0899"
     type: article
     provider:
       name: Associated Press
