@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-18T23:10:00Z
 originalUrl: "https://www.entrepreneur.com/article/419185"
 webUrl: "https://www.entrepreneur.com/article/419185"
 type: article
-quality: 69
-heat: 169
+quality: 71
+heat: 151
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
@@ -29,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five trends shaping the future of Fintech"
-    excerpt: "With billions of dollars on the line, it&#39;s no surprise that machine learning is becoming more popular in fintech. The strength of this AI subset rests in its capacity to process huge amounts ..."
-    publishedDateTime: 2022-02-14T10:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "UK Tops the Chart in FinTech investments"
     excerpt: "KPMG’s latest data proves that this trend is set to carry on in 2022, so it’s a fascinating time to be in FinTech right now. In particular, the likes of Buy Now Pay Later, Request to Pay and using emerging technology such as AI are set to define the ..."
     publishedDateTime: 2022-02-16T11:44:00Z
@@ -88,20 +73,6 @@ related:
       - url: "https://i0.wp.com/contxto.com/wp-content/uploads/2022/02/deltai-Jose-Alex-YCombinator.jpg?fit=1280%2C858&#038;ssl=1"
         width: 1280
         height: 858
-        isCached: true
-  - title: "Why The Future Of Fintech Depends On Open Data"
-    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
-    publishedDateTime: 2022-02-14T10:32:00Z
-    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 24
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
-        width: 1724
-        height: 1080
         isCached: true
   - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
     excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."
@@ -169,6 +140,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "vIz36u7tLLqdy6h6l1SjkZpE3V8cTEh+CPBtIrAmVRp8Fj+e0M4pSzKWEZ6I5CrkHDH6l27LhBUIJ2v8Yn6b3C+t10vmdDGDSHSOiA7TqXBQtaBmSkd9vpIEMLj7owO8CqHAu8D1z7SwSIcHSGDYKKLgJre4kDwD8H+bfE+6uJmBnMfrEX0avXCBn5M0IsXVKfh9/QMZ/XW6YvUnCynzNjxB1NW5SvwkIZ5VNFh6u1TpdVl1GIFkGFgzEuToOpSz4Q7Iqrke2uL/hgfCJAx7pw94QRQgdHJBt8DmOA9JSpLCH12McF08+bYR+YNnJbKAZjAKnxqJKIqXL7lxZd8fl5UwypCsBDrCSc3SY7mgZVU=;rpQG/idqLpKID7AkO3UmWg=="
+secured: "/deTJAjn2GfTaFXyrCPtn0123gK2/wdhlJaWuB4Mshw3u7C5JUh6y07LyppdwOliv9QinvGgT5oR7Bg2sMo3tWgD03Bhjuo2vJYOjrsL3POaBkIeHDvK1YQTA7NeN06i0+pIGGftROFOkjUsnYm3jwJJZGsMUUHERCqXRFpvG3Nvqtyfv3MvpFQYJPRqM5OOLE4YHJtVIQNzLIYK/Sox9wUMJwWN5egaWda+jJcLxmnakCQZ5JD34p2CbjO2lHNNgwlGM9smMfafQsHKnWMDiCjg8lZlq4tXGzLtnv3klDuwLAGGZv++YMUvH48dh0jDUopxiuDGjCwqAU+cFTQVybJokYsBkB9HjRszmv3aIPmz+LW4j92/QkX9z2MF098KcRp/Q8iimsDIDWZhrYzCgha2oOtv34OuiXaSGI8VIhdIXVVMiO1Tr46yp60DSiYkO8Lb4cQ9YtoGApk8baUBmYAqVQbOqYJjao2QdyVqiVjmcO5bqDx5xWCxr6ZQbXuFWmKaaFaJlYaPu2qWIIJ0aQ==;geO1vKlVverGjLUi1Rwifg=="
 ---
 

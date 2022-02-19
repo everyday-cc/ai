@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWMDYmj9qbznQ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWMDYmj9qbznQ"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How NFL’s Digital Athlete uses AI to reduce concussions and injuries"
-    excerpt: "The National Football League (NFL) has developed an artificial intelligence tool that uses TV imagery and sensors embedded in helmets, mouth guards and shoulder pads to try and reduce injuries in American football games. The NFL “Digital Athlete ..."
-    publishedDateTime: 2022-02-14T10:17:00Z
-    webUrl: "https://www.newscientist.com/video/2308148-how-nfls-digital-athlete-uses-ai-to-reduce-concussions-and-injuries/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/13071423/nfl_video_thumbv2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Strategies for insurers to grow AI responsibly"
     excerpt: "This is necessary in case of an audit. Plus, thorough documentation gives teams a head start on developing new AI. By using their previous work and learnings as a starting point, model developers can save time and create new models without having to start ..."
     publishedDateTime: 2022-02-18T12:00:00Z

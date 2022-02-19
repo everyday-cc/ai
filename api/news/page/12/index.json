@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-08-vision-fund-discipline-ai-and-european-startups-how-softbank-is-trying-to-steer-out-of-its-share-price-blizzard.md",
+      "title": "Vision Fund discipline, AI, and European startups: How SoftBank is trying to steer out of its share price blizzard",
+      "excerpt": "The Vision Fund is headquartered in London, and Europe's startup sector, not as large as the US or China ... For SoftBank founder Son, the application of AI in every industry has always been the crucial vision at the heart of the company's investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/softbank-earnings-tech-giant-banks-on-ai-europe-startups-2022-1",
+      "originalUrl": "https://www.businessinsider.com/softbank-earnings-tech-giant-banks-on-ai-europe-startups-2022-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61fd658db8178a001866cab7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-alphaic-starts-sampling-gluon-chip-for-edge-ai.md",
       "title": "AlphaIC starts sampling Gluon chip for edge AI",
       "excerpt": "Register here. Start-up AlphaIC yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaIC claims the chip delivers competitive performance ...",
@@ -1108,50 +1159,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo.md",
-      "title": "Westwin (formerly Microsoft China) launches new simplified Social Media solution for WeChat and Weibo",
-      "excerpt": "Westwin plans to continue to build out the Wreach platform over time, with a built-in Baidu Paid Search Self-Serve function due to launch this summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and",
-      "originalUrl": "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-wechat-and?amp",
-      "publishedDateTime": "2022-02-07T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

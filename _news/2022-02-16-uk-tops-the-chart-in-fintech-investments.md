@@ -35,27 +35,11 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
         width: 675
         height: 380
-        isCached: true
-  - title: "Five trends shaping the future of Fintech"
-    excerpt: "With billions of dollars on the line, it&#39;s no surprise that machine learning is becoming more popular in fintech. The strength of this AI subset rests in its capacity to process huge amounts ..."
-    publishedDateTime: 2022-02-14T10:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/five-trends-shaping-the-future-of-fintech/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
         isCached: true
   - title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
     excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
@@ -84,20 +68,6 @@ related:
       - url: "https://i0.wp.com/contxto.com/wp-content/uploads/2022/02/deltai-Jose-Alex-YCombinator.jpg?fit=1280%2C858&#038;ssl=1"
         width: 1280
         height: 858
-        isCached: true
-  - title: "Why The Future Of Fintech Depends On Open Data"
-    excerpt: "Therefore, regardless of the type of business you run, the future of fintech should matter to you. Fintech refers to the use of technologies like AI, RPA and blockchain extensively to digitize and optimize transactions and other financial operations."
-    publishedDateTime: 2022-02-14T10:32:00Z
-    webUrl: "https://www.bbntimes.com/financial/why-the-future-of-fintech-depends-on-open-data"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 24
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_The_Future_Of_Fintech_Depends_On_Open_Data.jpeg"
-        width: 1724
-        height: 1080
         isCached: true
   - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
     excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."

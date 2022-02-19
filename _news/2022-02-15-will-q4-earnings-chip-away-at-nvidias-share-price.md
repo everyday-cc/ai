@@ -7,7 +7,7 @@ originalUrl: "https://www.cmcmarkets.com/en/opto/will-q4-earnings-chip-away-at-n
 webUrl: "https://www.cmcmarkets.com/en/opto/will-q4-earnings-chip-away-at-nvidias-share-price"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 768
     height: 576
     isCached: true
-
-related:
-  - title: "Strong Graphic Chip Demand to Aid NVIDIA's (NVDA) Q4 Earnings"
-    excerpt: "Also, the rising adoption of Natural Language Processing by cloud players is expected to have been an upside during the fiscal fourth quarter. Additionally, NVIDIA’s data center business is likely to have continued the growth momentum during the fourth ..."
-    publishedDateTime: 2022-02-14T10:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/strong-graphic-chip-demand-to-aid-nvidias-nvda-q4-earnings"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
 
 secured: "M1VbAvc6Fo9Xz+7geaeJzQIGeNyahcvUTPvxobqGW7P2cZ/Pg8ahX6+pNU0JZYsxbvE62N/oZ+ynF33YqApZrQBwSKV44bRfMi246/0kc6l9KkCIiCY0OeQ9uyijNyc88UagFMfu03s7jIAPexHSTG/zN3NvHspsBx6Z8XIcJ5IISA0lwrmI4q9kWXi6RNrRNp/esvo+2E5j2CJp1N7k5nIPBFxFFLE6ByJGuZe0GhikU12Q77wCpmRAAjvnYrfGr1k1VQNnLMOunnJnImOBlHu/ALy6YooSV7BOw6eR7BOitXuclGW0wRCPz9XaCth+NoHrzqwOTmr5xTxomKblu+dveLklj+67KtDm7umJQpk=;P1qKZIciF2/3OkKYZUEMkA=="
 ---
