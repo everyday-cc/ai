@@ -527,6 +527,20 @@ related:
       name: Reason
       domain: reason.com
     quality: 39
+  - title: "Texas suing Meta over Facebook's use of facial recognition"
+    excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
+    publishedDateTime: 2022-02-19T03:15:00Z
+    webUrl: "https://www.wpsdlocal6.com/news/texas-suing-meta-over-facebooks-use-of-facial-recognition/article_a2011358-913a-11ec-b440-b7b6239bee50.html"
+    type: article
+    provider:
+      name: WPSD Local 6
+      domain: wpsdlocal6.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
     excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
     publishedDateTime: 2022-02-16T14:50:00Z
@@ -596,15 +610,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "IRS ‘struck a nerve’ with facial recognition, but pieces missing in fight against fraud"
-    excerpt: "The IRS, after more than a week of scrutiny from Congress and the public, is backing away from plans to use facial recognition technology to help taxpayers access information online. But agencies, amid a surge in public demand to use government services ..."
-    publishedDateTime: 2022-02-14T12:55:00Z
-    webUrl: "https://federalnewsnetwork.com/agency-oversight/2022/02/irs-struck-a-nerve-with-facial-recognition-but-pieces-missing-in-fight-against-fraud/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 26
   - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
     excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
     publishedDateTime: 2022-02-16T21:02:00Z

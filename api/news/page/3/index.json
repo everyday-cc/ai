@@ -2,19 +2,19 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-02-17-actyvai-raises-funding-to-help-enterprises-transform-supply-chain.md",
-      "title": "Actyv.ai Raises Funding To Help Enterprises Transform Supply Chain",
-      "excerpt": "Back in 2019, Actyv.ai raised $3 Mn from InnoCells, the Barcelona-based innovation hub and corporate venturing vehicle of Banco Sabadell in a Series A follow-on round. The fintech sector is on a ...",
+      "path": "_news/2022-02-17-europes-bid-for-ai-standard-faces-long-road-eu-lawmakers-say.md",
+      "title": "Europe's bid for AI standard faces long road, EU lawmakers say",
+      "excerpt": "STRASBOURG, Feb 16 (Reuters) - Europe's effort to set a standard for artificial intelligence ... who should enforce the rules, two key lawmakers said on Wednesday. The European Commission last year proposed draft AI rules, seeking to take the lead in ...",
       "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/actyv-ai-raises-funding-to-help-enterprises-transform-supply-chain/",
-      "originalUrl": "https://inc42.com/buzz/actyv-ai-raises-funding-to-help-enterprises-transform-supply-chain/",
+      "webUrl": "https://www.reuters.com/world/europe/europes-bid-ai-standard-faces-long-road-eu-lawmakers-say-2022-02-16/",
+      "originalUrl": "https://www.reuters.com/world/europe/europes-bid-ai-standard-faces-long-road-eu-lawmakers-say-2022-02-16/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://inc42.com/wp-content/uploads/2022/02/actyv.ai-social.png",
+          "url": "https://www.reuters.com/resizer/CsKMTRSbzW4rFJkqtHccMM5Uimw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K6XBNZK6JBLPLBGIKIOQVRE5FQ.jpg",
           "width": 1200,
           "height": 628,
           "title": null,
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/actyv-ai-raises-funding-to-help-enterprises-transform-supply-chain/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/actyv-ai-raises-funding-to-help-enterprises-transform-supply-chain/amp/",
-      "publishedDateTime": "2022-02-16T08:48:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T09:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -200,7 +208,7 @@
       "originalUrl": "https://techxplore.com/news/2022-02-ai-generated-trustworthy-real-deep-fakes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -294,7 +302,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {

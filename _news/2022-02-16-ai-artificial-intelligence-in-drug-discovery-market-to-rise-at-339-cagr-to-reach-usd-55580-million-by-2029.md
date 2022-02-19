@@ -40,20 +40,6 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 64
-  - title: "Computer Vision System Market is Expected to Reach USD 25.69 Billion By 2028"
-    excerpt: "Increased advancements in information and communication technology [ICT], increased demand for vision-guided robotic systems, and continuous R&D in digital technology resulted in boosting Computer Vision System market. Computer Vision System Market Size ..."
-    publishedDateTime: 2022-02-14T11:26:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-is-expected-to-reach-usd-25-69-billion-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "8qwCqzn70LHrCfzskW+2CNh4HJIvT/4PZYNYtsh7rSPNQUfkYsyafKsT/RHIi/35nU2OAmJDiQeyQWTcDY4j6RK9kUCVw9MP2aue3nKfECe+smSPb1gE1FARj4SZ9vIGNPfv/PDPgU0Whlh/zu+M7chF0jmPrm3Ob/hRUP57PoFbOuec/qS2EXxAWtaSJEMEqjtLIvRD89CBquDOGkvufw9J7kOxMvtfUhks4DkrEfIzf3XHqal/Lj9d1c9yIb12OKVvU8rRjz5k8FzMp5nG9GD/GwRa129P5p8WTd/xgs/8l+xcXCZKWEHBlewPKxHKVxNfgwPA2Na8q6UWp1je612ndh6yolTSAJ2qYIHGM60=;0SnXRMTnTjz9tLNf8eZvtQ=="
 ---

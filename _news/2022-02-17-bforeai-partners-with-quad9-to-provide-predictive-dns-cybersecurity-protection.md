@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 661
         isCached: true
-  - title: "Comparing Legacy Rules-Based Cybersecurity Platforms And AI-Based Platforms"
-    excerpt: "One solution is to leverage \"third-wave AI,\" which DARPA defines as AI that is based on generative dynamical models of the underlying network and leverages contextual reasoning rather than simple automation. Rule-based and supervised machine learning ..."
-    publishedDateTime: 2022-02-14T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/14/comparing-legacy-rules-based-cybersecurity-platforms-and-ai-based-platforms/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
   - title: "Arista NDR Named \"Best AI-based Solution for CyberSecurity\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
     publishedDateTime: 2022-02-17T15:00:00Z

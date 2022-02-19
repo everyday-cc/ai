@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2022-02-ai-generated-trustworthy-real-
 webUrl: "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news"
 type: article
 quality: 127
-heat: 157
+heat: 159
 published: true
 
 provider:

@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Chipsets Market Growth Analysis, Outlook by Trends, Opportunities and Forecast"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 14, 2022, 06:37 /Comserve / -- AI Chipsets Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies ..."
-    publishedDateTime: 2022-02-14T12:50:00Z
-    webUrl: "https://menafn.com/1103692353/AI-Chipsets-Market-Growth-Analysis-Outlook-by-Trends-Opportunities-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238941"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Robotics Surgical Simulation Systems Market Recent Trends, Business Scenario, High Demand, Product, Share and Forecasts 2028"
     excerpt: "The global robotics surgical simulation systems market is projected to reach a market size of USD 1.69 Billion by 2028 at a double-digit CAGR over the"
     publishedDateTime: 2022-02-17T12:23:00Z
@@ -138,20 +124,6 @@ related:
     quality: 3
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Search and Rescue Robots Market Future Technology Trend ,Size, Share, Business Growth, Booming With Strong Growth Prospects And Forecast To 2027"
-    excerpt: "In addition, technologies such as thermal imaging, object recognition, and Lidar mapping are used to help find and save individuals. The United States has been providing Ukraine with a steady supply of weapons in the face of the Russian threat - Copyright ..."
-    publishedDateTime: 2022-02-14T12:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/search-and-rescue-robots-market-future-technology-trend-size-share-business-growth-booming-with-strong-growth-prospects-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
         width: 600
         height: 337
         isCached: true

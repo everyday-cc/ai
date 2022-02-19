@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Fintech star Zanbato and innovative broker dealer Rialto Markets announce partnership"
+    excerpt: "Black Box at DCW London 2022: Global End-to-End Services NHS organisation named as best not-for-profit in UK Fintech star Zanbato and innovative ... [General]Global Call Center AI Market Report .. [General]Mexico Buy Now Pay Later (BNPL) Mark.."
+    publishedDateTime: 2022-02-19T04:50:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=619093"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 17
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Payments-as-a-Service Fintech Finexio Announces Partnership With Autonomous Commerce Leader JAGGAER"
     excerpt: "Over $500 billion worth of goods flow frictionlessly through our Enterprise Commerce Network every year. Leveraging AI and machine learning, our intelligent procurement solutions provide enterprise buyers and suppliers smart-match recommendations that ..."
     publishedDateTime: 2022-02-15T19:00:00Z

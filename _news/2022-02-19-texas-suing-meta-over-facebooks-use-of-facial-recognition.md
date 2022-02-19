@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Texas sues Meta’s Facebook over facial-recognition practices"
-excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
-publishedDateTime: 2022-02-14T20:30:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
-webUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna16201"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201"
+title: "Texas suing Meta over Facebook's use of facial recognition"
+excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
+publishedDateTime: 2022-02-19T03:15:00Z
+originalUrl: "https://www.wpsdlocal6.com/news/texas-suing-meta-over-facebooks-use-of-facial-recognition/article_a2011358-913a-11ec-b440-b7b6239bee50.html"
+webUrl: "https://www.wpsdlocal6.com/news/texas-suing-meta-over-facebooks-use-of-facial-recognition/article_a2011358-913a-11ec-b440-b7b6239bee50.html"
 type: article
-quality: 74
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: WPSD Local 6
+  domain: wpsdlocal6.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -138,6 +136,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/620a94c2d4c93a04e1686c72/0x0.jpg?format=jpg&crop=1927,1085,x0,y20,safe&fit=crop"
         width: 1927
         height: 1085
+        isCached: true
+  - title: "Texas sues Meta’s Facebook over facial-recognition practices"
+    excerpt: "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ..."
+    publishedDateTime: 2022-02-14T20:30:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna16201"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 74
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Meta Illegally Collected Facial Recognition Data on Texans, Lawsuit Alleges"
     excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed ..."
@@ -527,20 +541,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 39
-  - title: "Texas suing Meta over Facebook's use of facial recognition"
-    excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
-    publishedDateTime: 2022-02-19T03:15:00Z
-    webUrl: "https://www.wpsdlocal6.com/news/texas-suing-meta-over-facebooks-use-of-facial-recognition/article_a2011358-913a-11ec-b440-b7b6239bee50.html"
-    type: article
-    provider:
-      name: WPSD Local 6
-      domain: wpsdlocal6.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
     excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
     publishedDateTime: 2022-02-16T14:50:00Z
@@ -643,6 +643,6 @@ related:
       domain: cnnphilippines.com
     quality: 19
 
-secured: "hwZEwSUAgum3Kd2qzJ3xfU6RQBlqkAxur2AW0PcA4825vw7pYo6R3WeLk8Vbi+OGfUOFGCennXjZmyqbUDCLhT7FMv5Jjax4ugyIYad8x/EKSCY0YEWsGyOyMZhZmQc2fw9wftYhnJDNqhVC4ubLE/N/xDdPV3Bl5s5XNSb70ou3itAur9D4M8hZ9wg/38+/NfesKP9NWoa0pIqZfRnd62AyZ5C5o6pKSs6uDOJgPokNbOv2lhMiKkO+Dohlj6V19OXEB5w5Cxw92iTnorIeL1glHWYHEvS1dj4vaGwiyLT6/Z1Dt/e9apr5f81FKBZjcPnx0DvPk+vn187PP0/X+bfTtusYt7GbPgLW141dKKLJbHg3QzqwM+4GREMLkrDDjAdXJZD2rkRatdIHy8toshemUWbGy/SixlYXo7evlJ090/SVc4UHsyJLZtquD2+W69NDTuJu5N8/DvajUbbSNk1+zMx0ZOsMbOboG/sdQ+c3RO4JKrNvmoKWKueLRjTDfgJ/PiPtRi//hls5H6oBqg==;s28dgqJNNOsMO0NvHyhHNg=="
+secured: "HYHIpgnk2+lVit9M6WkHLgrQQDJF8aPkEFqb/lNeoc5ptPYQFSku7ZNcHgE9hu3ExK9f6bf4mQqzrFVShf1btqdI5ihm5iPPVo4eAeE2Ejk8lmPVqysLa/Pc6EkOcxRF90CaSe5g3L6J81OkZBmJYdE62Jyxgr5DIh57WGeXRibu2UfYI3A86z+hwe55yIPL+yXCXMigQh0lCyUFr8DLaYmWSTK0ZdVF1PfBG1GSD1XTVyuifSaDJNwSK3swotO6PoaU29iRhOMcYjlEPPfh9UDLq83OmU8C+eKkHkc4mLXuhfwd9zwxvbyLSBRuczOrs60FMpj3DEUpyPrMGqKPrvgXOK6nh0Vr858Nlwfo9D8=;wHDW/Xn4BSCJbitBQBF/Qw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-fu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/"
 type: article
 quality: 174
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What does the future of artificial intelligence look like within the life sciences?"
-    excerpt: "Large companies such as Google, Amazon, and Apple have been using artificial intelligence (AI) for years and now the life sciences sector has seen AI become increasingly prominent. How has AI transformed the life sciences sector and how important is it to ..."
-    publishedDateTime: 2022-02-14T11:37:00Z
-    webUrl: "https://www.news-medical.net/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220214/What-does-the-future-of-artificial-intelligence-look-like-within-the-life-sciences.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 51
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_703595_16439823428418409.jpg"
-        width: 1000
-        height: 473
-        isCached: true
   - title: "Artificial Intelligence. Human Experience. Five Ways To Strengthen Customer Experience With AI"
     excerpt: "Winning companies are using artificial intelligence (AI) to boost that experience. 86% of organizations that have fully embraced AI say it has improved customer experience. Let's look at five ways you can use AI to strengthen experience for your customers."
     publishedDateTime: 2022-02-16T15:23:00Z

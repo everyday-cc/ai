@@ -9,8 +9,8 @@ ampWebUrl: "https://inc42.com/buzz/actyv-ai-raises-funding-to-help-enterprises-t
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/actyv-ai-raises-funding-to-help-enterprises-transform-supply-chain/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: inc42.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MOSTLY AI Rolls Out AI-Generated Smart Synthetic Data Platform for Enterprises"
-    excerpt: "Vienna’s high-tech startup, MOSTLY AI has unveiled an AI-generated smart synthetic data platform to help enterprises to generate data for smart and safe services."
-    publishedDateTime: 2022-02-14T11:23:00Z
-    webUrl: "https://www.just-auto.com/research-reports/mostly-ai-rolls-out-ai-generated-smart-synthetic-data-platform-for-enterprises/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 33
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Image-1-6.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "MOSTLY AI Rolls Out AI-Generated Smart Synthetic Data Platform for Enterprises"
     excerpt: "Vienna’s high-tech startup, MOSTLY AI has unveiled an AI-generated smart synthetic data platform to help enterprises to generate data for smart and safe services."
     publishedDateTime: 2022-02-17T11:28:00Z

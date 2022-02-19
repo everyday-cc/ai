@@ -117,15 +117,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "TANAAKK HITSERIES now available in Microsoft Azure Marketplace"
-    excerpt: "Also Read: How Enterprises Can Identify and Evaluate the Right AI Model Governance Solution HITSERIES offers ... “We are excited to scale HITSERIES through the Microsoft Azure Marketplace. Every cloud-native company inherently has the critical demand ..."
-    publishedDateTime: 2022-02-14T12:56:00Z
-    webUrl: "https://enterprisetalk.com/news/tanaakk-hitseries-now-available-in-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 49
 
 secured: "/RI7hmPnZlNSb2ide7Z4c9Omkm28YsXkcBHDlg9LA/dRtninKvg90pBMtunkye4CmAhBJMfr1DtbAcJvud8UEscNGlSCfi0PFrjJEsIFYyRoSL2y30aXPePeEsH/pWsS0UZ+ZqRyUF1q/9ViUWgwrmDHqPsLVuscCbp/iQuwSwNFrSWDysOHHhJzsEix4N9y3llX+coTKr3fzttcT8c/rpVbmS1d5PfS9ShXo2PXW6gtbujKQxj317wK3n9giL8vc8qwwRx63SNuFDqKfH+yS1IQX9yc6SfHZUkX9rvQy4tMoCHPpydrNt8MTGdYsck5RTBTH3LJZXXzMC3ncqMi9jQih5/e4Cd2NNIcFFC1y8pPv92DY+8l2sEdq+qc6iOMBmc52CST2yTM+r+NiSF4NacjIgU1kArBATfrDBFxUBDj9tz5RJhGkHW5NeeaqsiGWGoG7D2h883PvdW2o28ol1uV6w8ZezqYBv9fg9lx0w2Qf/m/WWMsvhg5o5K4Nri1ldx16WiAT7OxKVqAp8M9nw==;zByRcBxCyBu5/C/6YOrhjg=="
 ---

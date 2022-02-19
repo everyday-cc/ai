@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-
 webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
 type: article
 quality: 84
-heat: 124
+heat: 115
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 661
         isCached: true
-  - title: "Comparing Legacy Rules-Based Cybersecurity Platforms And AI-Based Platforms"
-    excerpt: "One solution is to leverage \"third-wave AI,\" which DARPA defines as AI that is based on generative dynamical models of the underlying network and leverages contextual reasoning rather than simple automation. Rule-based and supervised machine learning ..."
-    publishedDateTime: 2022-02-14T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/14/comparing-legacy-rules-based-cybersecurity-platforms-and-ai-based-platforms/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
   - title: "Bfore.ai Partners With Quad9 To Provide Predictive DNS Cybersecurity Protection"
     excerpt: "The integration of bfore.ai and Quad9 generates hundreds of thousands of new and unique indicators of future cyber threats, enabling their customers to be protected by cyber attacks before they even start. The proof was in the pudding in mid-December 2021 ..."
     publishedDateTime: 2022-02-16T17:00:00Z

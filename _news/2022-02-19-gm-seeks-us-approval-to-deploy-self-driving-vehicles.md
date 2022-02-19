@@ -1,27 +1,31 @@
 ---
 category: news
-title: "GM Seeks U.S Approval To Deploy Self-driving Vehicles"
-excerpt: "General Motors Co and its self-driving technology unit Cruise have petitioned U.S. regulators for permission to build and deploy a self-driving vehicle without human controls like steering wheels or brake pedals, Cruise said Friday. Cruise said in a blog ..."
-publishedDateTime: 2022-02-18T23:21:00Z
-originalUrl: "https://www.ibtimes.com/gm-seeks-us-approval-deploy-self-driving-vehicles-3406013"
-webUrl: "https://www.ibtimes.com/gm-seeks-us-approval-deploy-self-driving-vehicles-3406013"
+title: "GM seeks U.S approval to deploy self-driving vehicles"
+excerpt: "FILE PHOTO: The new GM logo is seen on the facade of the General Motors headquarters in Detroit, Michigan, U.S., March 16, 2021. Picture taken March 16, 2021. REUTERS/Rebecca Cook/File Photo NEW YORK (Reuters) -A gauge of global stocks fell and government ..."
+publishedDateTime: 2022-02-18T20:56:00Z
+originalUrl: "https://www.reuters.com/news/picture/gm-seeks-us-approval-to-deploy-self-driv-idUSKBN2KN261"
+webUrl: "https://www.reuters.com/news/picture/gm-seeks-us-approval-to-deploy-self-driv-idUSKBN2KN261"
 type: article
-quality: 24
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/logo-of-gm-atop-the-company-headquarters.jpg"
-    width: 1200
-    height: 723
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220218&t=2&i=1591639549&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI1H10H"
+    width: 810
+    height: 550
     isCached: true
 
 related:
@@ -42,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "nnBAgdxoLqO5HHnhdOTtMgLYtLnqaAMaTNG8RwoU50qKAkZu8RiJ6APYf7P/cp8Tcoju2phPRDA6epy1TTHv6VlYFQHO90pnCJ7YsK6aZi0dkgChTZD4zVR8MfpnoolHZKrmniTG6grnSF4xHe5IBZR5zg3LxzuoXsnYmANe6FYl/6o2PTIXG2ni8dxECW6Vf5s55Qxp5i3pE6UNXqt4Imkuho8jS+dShsHKivnfUmx1NgPV5JiLHct2PyclGWiAVr89qF4Kyihi0+IzMm8RJEyfCgHVe/owsMCtXtgo5Wwfmm8vDnoEliRjrfwcWYCFoxtZD0TkZ6/qEq59mPVWsZGx/QU1leL3orjYNIN+5Ls=;Vb5os5cVEQlzRD7bApGytA=="
+secured: "7Q0YBoA1YsV6w7DfOWQjSw4TKK2gbtbTuMlSZBx9i304qz0+0fvdY4UJZ6z/ebVLgDQaD6e1gMcrswK6NU71JBvxP3mjYPettpmQtpji1gVia+CmIcC2Hu4XJJOwSFUcR8amFmjDFRzg6nBOusywO0K2HkjVIARFLE72XmGjKhoF6BSeypi61j0jkbW5eHb2WJGGh/6glbybWBnMoSz87tlRldWKO98rzNLW0kWg82hBF1/ze8NJpHLg6dhziAGsNPlnGTTndhH2pQBWcmK7EUk+2a8CtHD/AQALSJ8QCIcQ4hqU775gQYOhh7ka6L19Qzsh9wj1A9pFbnyfFeMqmRFKNhmI7E9EgbB7rWm0xBY=;LdvLOcFlVCUerrgrkdRsQg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-lo
 webUrl: "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Bulls and Bears Both Think Its Self-Driving Cars Will Take Longer to Develop"
-    excerpt: "They seem to agree about one thing, though: It will take a long time to develop truly self-driving calls. Still, bull/bear debates haven’t mattered much to Tesla (ticker: TSLA) stock these days with the market falling because of inflation and ..."
-    publishedDateTime: 2022-02-14T12:53:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-tsla-stock-bulls-bears-self-driving-fsd-51644843165"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 13
 
 secured: "56Ew+pe+kYpIyzSL97A3b0httfK/P479CYQtAHNl0dFMnr6lmW6EEz1KGVdu4xUM6kYf9vREhjMuvxbQ/w9Jt88Hg4NWZc53uzKeZxBxhugBgfE7WQWc8s2kA5AkmMnIw7zLcMpvg1Kua7OkKAjIeRU2sw2kayLyQLDAxXKKN5A5NqL4uhAegQkHQbKj1PDl0S9EfaO/GDDcLAQYO3o6mM2nINjrGUHeVwnsBMktl+wQxBy3yIuvkBBlhwabBm/6OGvE/HVDvZL7IrOhvCbTJUoPmeeeo9KZRjUv26Ke4SbHm5GEHulYLGxy+joGwZkuJ+NcwPOk8Z1f5yrrjOvu12aSCehJZBbjxy0TZrKwLFId5scug9rO6KCssFmprHr4skLQ+sx3/uKuygVPN4xu1bKvC5AndHM2GnMYCcxirut6AdJUMUtx09DNX1LIYfUMFZsvs7Rtjd2QF+dT3O++fwLJY3F1SEMPrR27IDaJ90+8J8XcIh2c4zwPrz8bzTRtYo5HZElyyYdSY1VWUIEnKA==;Lk8zxFqyazABMNj4ZuEOow=="
 ---

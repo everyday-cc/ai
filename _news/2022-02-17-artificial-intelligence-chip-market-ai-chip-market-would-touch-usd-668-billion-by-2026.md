@@ -9,7 +9,7 @@ ampWebUrl: "https://ipsnews.net/business/2022/02/17/artificial-intelligence-chip
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/?amp=1"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Computer Vision System Market is Expected to Reach USD 25.69 Billion By 2028"
-    excerpt: "Increased advancements in information and communication technology [ICT], increased demand for vision-guided robotic systems, and continuous R&D in digital technology resulted in boosting Computer Vision System market. Computer Vision System Market Size ..."
-    publishedDateTime: 2022-02-14T11:26:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-is-expected-to-reach-usd-25-69-billion-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/a944abb1c89e6e8569661f8981a7d0920872808a-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029"
     excerpt: "According to the latest research study, the report predicts the global size & share of Artificial Intelligence in Drug Discovery Market to reach around USD 5,558.0 Million by 2029 from USD 626."
     publishedDateTime: 2022-02-16T09:43:00Z
