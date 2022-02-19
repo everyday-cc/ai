@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/419226"
 webUrl: "https://www.entrepreneur.com/article/419226"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Week’s Awesome Tech Stories From Around the Web (Through February 19)"
+    excerpt: "“DeepMind’s AI was able to autonomously figure out how to create these [plasma] shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to ..."
+    publishedDateTime: 2022-02-19T15:00:00Z
+    webUrl: "https://singularityhub.com/2022/02/19/this-weeks-awesome-tech-stories-from-around-the-web-through-february-19/"
+    ampWebUrl: "https://singularityhub.com/2022/02/19/this-weeks-awesome-tech-stories-from-around-the-web-through-february-19/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/19/this-weeks-awesome-tech-stories-from-around-the-web-through-february-19/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 42
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/02/blue-squares-tiled.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Storage news ticker – 18 February"
     excerpt: "The company, headed up by CEO Ed Walsh, plans to expand its platform’s capabilities with the addition of machine learning, added cloud support for Azure, and growing its talent pool across engineering, marketing, and sales. Dell has published revised 10 ..."
     publishedDateTime: 2022-02-18T16:07:00Z

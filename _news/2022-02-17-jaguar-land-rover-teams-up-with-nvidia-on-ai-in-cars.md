@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
-    excerpt: "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ..."
-    publishedDateTime: 2022-02-14T23:17:00Z
-    webUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
-    ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all"
-        width: 708
-        height: 472
-        isCached: true
   - title: "Jaguar will use NVIDIA AI for self-driving in future vehicles starting 2025"
     excerpt: "NVIDIA says their Orin chip is capable of level 5 autonomous driving ... positioning themselves as one of the major players in AI and autonomous driving. As cars get more and more defined by ..."
     publishedDateTime: 2022-02-16T14:00:00Z
@@ -72,6 +56,38 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/620cf312fa613a2777f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars"
+    excerpt: "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars."
+    publishedDateTime: 2022-02-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620c57f8995b45d70b859096/0x0.jpg?format=jpg&crop=2097,982,x0,y31,safe&fit=crop"
+        width: 2097
+        height: 982
+        isCached: true
+  - title: "Jaguar Land Rover Picks Nvidia To Power Future Assisted And Automated Driving"
+    excerpt: "This includes the ability to create the visualizations that Tesla drivers are used to with AutoPilot and full self-driving beta software which display everything detected by the sensors. Unlike Tesla however, Nvidia is not trying to insist that automated ..."
+    publishedDateTime: 2022-02-16T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620bdc033fde221ccd43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 677
         isCached: true
   - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
     excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
@@ -114,6 +130,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Jaguar_NVIDIA.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nvidia chipping in to help Jaguar make hi-tech cars"
+    excerpt: "Jaguar Land Rover and Nvidia, the Silicon Valley chip maker, have agreed to collaborate to develop the computer brains and nervous systems for vehicles launc"
+    publishedDateTime: 2022-02-17T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/bf183a26-8f63-11ec-9569-fea923928840?shareToken=4391bdd6054f6f21ada013782c1b9c9f"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F874abd12-8f59-11ec-9569-fea923928840.jpg?crop=1364%2C767%2C13%2C64&resize=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
     excerpt: "DETROIT: Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday they will collaborate to develop the computer brains and nervous systems for Jaguars and Land Rovers launching in 2025 and beyond."

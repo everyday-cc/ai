@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recogn
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
 type: article
 quality: 61
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
         width: 1688
         height: 1190
-        isCached: true
-  - title: "Texas sues Facebook over facial-recognition use"
-    excerpt: "Reuters Now Texas sues Facebook over facial-recognition use Posted The Texas attorney general's office sued Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the ..."
-    publishedDateTime: 2022-02-14T23:07:00Z
-    webUrl: "https://www.reuters.com/video/watch/idsYK8?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/620ac4f1e4b085d396fd452f-1644872945737?location=LANDSCAPE"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Texas sues Meta over Facebook’s facial-recognition practices"
     excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."

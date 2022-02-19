@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments"
+    excerpt: "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth."
+    publishedDateTime: 2022-02-19T16:08:00Z
+    webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "DeepMind is a scientific discovery company acquired by Google in 2014 that's committed to \"solving intelligence to advance science and humanity.\" Together, they have developed a new magnetic ..."
     publishedDateTime: 2022-02-16T21:57:00Z

@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Athabasca University partners to launch Canada’s first AI ethics micro-credential"
-excerpt: "have launched Canada’s first micro-credential in AI ethics. Artificial Intelligence Ethics Micro-Credential is a four-course program that provides the base skills required to address the issues around ethical development of AI systems. According to ..."
-publishedDateTime: 2022-02-18T15:16:00Z
-originalUrl: "https://www.itbusiness.ca/news/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/120695"
-webUrl: "https://www.itbusiness.ca/news/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/120695"
-ampWebUrl: "https://www.itbusiness.ca/news/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/120695?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/120695?amp=1"
+excerpt: "have launched Canada’s first micro-credential in AI ethics. Artificial Intelligence Ethics Micro-Credential is a four-course program that provides the base skills required to address the issues around ethical development of AI systems. The on-demand ..."
+publishedDateTime: 2022-02-17T18:51:00Z
+originalUrl: "https://www.itworldcanada.com/article/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/473554"
+webUrl: "https://www.itworldcanada.com/article/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/473554"
+ampWebUrl: "https://www.itworldcanada.com/article/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/473554?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/473554?amp=1"
 type: article
 quality: 69
 heat: 69
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/02/Jessica-Butts-Scott-Picture.jpg"
-    width: 480
-    height: 640
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2020/05/cartoon-education-feature.jpg"
+    width: 2000
+    height: 1334
     isCached: true
 
-secured: "/PzNKVDcEphYijPnBcAUE+p8ptiZmSELeUKSrQ53OQmYuKPBkTNv8zyfcPYFVsQnkT9NuHLBDKX89BNUM0Reo0rbZfqpsMZyxtVSKJomvmzYDJOli8acx2Vkbmy6szJlSlTZ4uVxUoAQzPEPv1OIQB99rPVgj/zOeXvKrruwWH2VqbEeicq4nZ6SMCwQ1qbQHIJB7Lh+MtybAZv/ucZQhe7BT+KGppOkkIkfGDUVNChm2WEnTNOOs1dQ3RWTVLmzDRz9Q2Y5l2eOamCImIbjMe5TGy+/qUU9lDNsuxSTog/0Hze50ovAmuYIeemCSngqsAWNBt/EvxeCi6Lkb/WkTqAxsTol1bIEnrz+fJM4NiJu1jCp5nSdp5jTfq6yoTIVZFJXG/wbNnVO/oFCbokBA2SNfSeQdrX/WFfTOvRHJq8nYUom6kb3QWqwFeN1dKO7p8A1oVYi7O5Jn3zFvN8l3QrKoaltNUa3bHe5ARXyFkD4ydRK3D3tP1M58n8zkmq3ksdVheWQKqbXHhF3Pxsisg==;moMXrm5axxQ8OAhCK4FDnA=="
+secured: "U+4A2Eon+Ne0ql1nkefAvQoyrdQRtSTQcRwfUaSN9V/h5e6ZaG2OuVn3QBd/1tRKNWqsaJnU1iGIE1Q9d96o8Rmtqh3SFUNgvMr9ma+pKPSh8nxa/0bUV3hx4yQ02hvO1VlFVmK2WTabcDYl4EBFG7alwuWrC1gSibTVp90J4VGJt5IeX5RTm6NOZjni6cXKbWQcJrP8vxferVOjAmFr7GJt0bqEmhV9MQQEzcPp2L8P8rc26leoMNSm88THFxBn7XltaEy8+RFNgq2IyeDGnXzQ+OuCJ3q3GBJUoQ0M9F/IYq2IIHvhJ4Pjxri7d1lLbIAABHeWb4I+jM6wb8p2gM9gaY8VxvrDD5ryQn+Wtss=;bZg81g4O6sd6zfKubNbsqg=="
 ---
 

@@ -32,52 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Cow, Bull, and the Meaning of AI Essays"
-    excerpt: "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ..."
-    publishedDateTime: 2022-02-15T13:00:00Z
-    webUrl: "https://www.wired.com/story/artificial-intelligence-language-education/"
-    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-language-education/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp"
+  - title: "Jaguar will use NVIDIA AI for self-driving in future vehicles starting 2025"
+    excerpt: "NVIDIA says their Orin chip is capable of level 5 autonomous driving ... positioning themselves as one of the major players in AI and autonomous driving. As cars get more and more defined by ..."
+    publishedDateTime: 2022-02-16T14:00:00Z
+    webUrl: "https://electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/"
+    ampWebUrl: "https://electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/Jaguar-and-Land-Rover-Fleet-e1644961308490.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Jaguar Land Rover Partners With Nvidia For AI-Powered Vehicles"
+    excerpt: "As a leader in AI and an early entrant into these emerging automotive segments, Nvidia has secured partnerships with several major tier one automotive technology suppliers and OEMs, most notably Audi, Mercedes, Volkswagen, and Volvo. With the announcement ..."
+    publishedDateTime: 2022-02-16T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://media.wired.com/photos/620ae1e210a719b317e6acae/master/pass/Cow,%20Bull,%20and%20the%20Meaning%20of%20AI%20Essays%20(0;00;02;02).jpg"
-        width: 2400
-        height: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620cf312fa613a2777f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Locally developed hearing aid cuts through the noise — and masks — with help of AI"
-    excerpt: "From people being father away from each other because of social distancing, to mask-wearing taking away the ability to read lips, the pandemic has created extra challenges for people who have ..."
-    publishedDateTime: 2022-02-15T04:39:00Z
-    webUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/"
-    ampWebUrl: "https://kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
-    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/top-news/locally-developed-hearing-aid-cuts-through-the-noise-and-masks-with-help-of-ai/?amp"
+  - title: "Jaguar Land Rover Picks Nvidia To Power Future Assisted And Automated Driving"
+    excerpt: "This includes the ability to create the visualizations that Tesla drivers are used to with AutoPilot and full self-driving beta software which display everything detected by the sensors. Unlike Tesla however, Nvidia is not trying to insist that automated ..."
+    publishedDateTime: 2022-02-16T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
     type: article
     provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://kstp.com/wp-content/uploads/2022/02/starkey-evolv-ai-hearing-aids-02.14.22.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620bdc033fde221ccd43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 677
         isCached: true
-  - title: "Customer Experience in the Age of AI"
-    excerpt: "We are now at the point where competitive advantage will be based on the ability to capture, analyze, and utilize personalized customer data at scale and on how a company uses AI to understand ..."
-    publishedDateTime: 2022-02-15T13:00:00Z
-    webUrl: "https://hbr.org/2022/03/customer-experience-in-the-age-of-ai"
+  - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
+    excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
+    publishedDateTime: 2022-02-16T19:28:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/02/jaguar-land-rover-partnering-with-nvidia-for-ai-assist/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/01/R2202H_ROSSI.jpg"
-        width: 2000
-        height: 1124
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/02/JLR-NVIDIA-Rnage-Rover-and-I-Pace.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Jaguar Land Rover teams up with Nvidia on AI in cars"
+    excerpt: "Jaguar Land Rover on Wednesday announced it will partner with Nvidia on a range of technology fronts, which customers will start experiencing from 2025 ... including self-driving capability and other AI-enabled services and experiences in the works."
+    publishedDateTime: 2022-02-16T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135085_jaguar-land-rover-teams-up-with-nvidia-on-ai-in-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-self-driving-prototype_100610999_h.jpg"
+        width: 1920
+        height: 1107
+        isCached: true
+  - title: "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race"
+    excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology."
+    publishedDateTime: 2022-02-16T14:40:00Z
+    webUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software"
+    excerpt: "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ..."
+    publishedDateTime: 2022-02-16T14:01:00Z
+    webUrl: "https://europe.autonews.com/automakers/jaguar-land-rover-nvidia-will-collaborate-vehicle-software"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Jaguar_NVIDIA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia chipping in to help Jaguar make hi-tech cars"
+    excerpt: "Jaguar Land Rover and Nvidia, the Silicon Valley chip maker, have agreed to collaborate to develop the computer brains and nervous systems for vehicles launc"
+    publishedDateTime: 2022-02-17T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/bf183a26-8f63-11ec-9569-fea923928840?shareToken=4391bdd6054f6f21ada013782c1b9c9f"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F874abd12-8f59-11ec-9569-fea923928840.jpg?crop=1364%2C767%2C13%2C64&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
+    excerpt: "DETROIT: Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday they will collaborate to develop the computer brains and nervous systems for Jaguars and Land Rovers launching in 2025 and beyond."
+    publishedDateTime: 2022-02-17T05:23:00Z
+    webUrl: "https://www.carsifu.my/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "EU+t6vgn2USjJ+AMktxohhBU+0iTen6qCJfBg+M1rfFUbGVrngzHq1oSDbqldQ8DfPPVSdwtriZoBh15hOd4yEZsADgdGaHCqeqbkbeO/ZeeWY9iQOtPAPTssxHs9btTxKx8i4ipkjqJ+rfzJEAGLbMgS80miccJkoQXfF6KWfObf2dsqZhrfQ1FaUhtmRl9D4OkDRBG+sRkEy8O68qxzz/jRO6b78T8K8xx41D55TcTo8gidl6C7mhhG3F+BJXhoLrFo/2+Y2i4vr1ySmpiI8LV4qzRgsHO6pbARVMcy5fNPOf9oYd0JfgcOsYxEwmXK8UwKwnC3mUtJGmGB1i+bSvy2AQmGd3tC9apC4/E+vCypXDaseQk3kNaaVGcpmzt6JxB2QjIDUCpuM8gfgOAQFxzvCnBIgQRFQ5uWhMfreSATcmTKTueUyOyO5Di+4/7aLT88FZs5HBqY+2Z1qW0RveMhp5gwXsHOKsglp8NsbECv+3VMIk3dtdMJei7F0LXmWTOaBUoQ9OtqcAjt+y85A==;h0OS80CiutHkWFjW+mDJ0w=="
 ---

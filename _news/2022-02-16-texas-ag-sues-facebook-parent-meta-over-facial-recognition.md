@@ -86,20 +86,6 @@ related:
         width: 1688
         height: 1190
         isCached: true
-  - title: "Texas sues Facebook over facial-recognition use"
-    excerpt: "Reuters Now Texas sues Facebook over facial-recognition use Posted The Texas attorney general's office sued Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the ..."
-    publishedDateTime: 2022-02-14T23:07:00Z
-    webUrl: "https://www.reuters.com/video/watch/idsYK8?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/620ac4f1e4b085d396fd452f-1644872945737?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Texas sues Meta over Facebook’s facial-recognition practices"
     excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
     publishedDateTime: 2022-02-15T07:54:00Z

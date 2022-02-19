@@ -1,32 +1,50 @@
 ---
 category: news
-title: "DeepMind’s AI can control superheated plasma inside a fusion reactor"
-excerpt: "The prospect of unlimited clean energy is still a long way off, but this is another example of DeepMind tackling hard real-world problems DeepMind’s streak of applying its world-class AI to hard science problems continues. In collaboration with the Swiss ..."
-publishedDateTime: 2022-02-16T16:12:00Z
-originalUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/"
-webUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/"
-ampWebUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
+title: "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments"
+excerpt: "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth."
+publishedDateTime: 2022-02-19T16:08:00Z
+originalUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
+webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
 type: article
-quality: 174
-heat: 374
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/TCV-purple-plasma-visible-light-cam.jpeg?w=3000"
-    width: 3000
-    height: 1687
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "DeepMind’s AI can control superheated plasma inside a fusion reactor"
+    excerpt: "The prospect of unlimited clean energy is still a long way off, but this is another example of DeepMind tackling hard real-world problems DeepMind’s streak of applying its world-class AI to hard science problems continues. In collaboration with the Swiss ..."
+    publishedDateTime: 2022-02-16T16:12:00Z
+    webUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/"
+    ampWebUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 174
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/TCV-purple-plasma-visible-light-cam.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "DeepMind Has Trained an AI to Control Nuclear Fusion"
     excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
     publishedDateTime: 2022-02-16T16:00:00Z
@@ -90,20 +108,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 801
-        isCached: true
-  - title: "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments"
-    excerpt: "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth."
-    publishedDateTime: 2022-02-19T16:08:00Z
-    webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "DeepMind uses AI to control plasma inside tokamak fusion reactor"
     excerpt: "Fusion reactors promise cheap, abundant and relatively clean energy – if we can get them to work. Now, thanks to artificial intelligence firm DeepMind, fusion researchers are one step closer to extracting power from plasma hotter than the surface of the sun."
@@ -311,6 +315,6 @@ related:
       domain: tweaktown.com
     quality: 36
 
-secured: "4FKoHWSoWrNH3HtV5sTlzss2WnlL0tXnK8m/RehmFnhNxOEDCZ2K2D1B2cJUGxq9TqyHEUy8gC8brOX8TarS1qPMgFmOMzNOiyYWSLfcf77OU4NuNQl26cQ9rtTIS4EGL6jEnQm4mAkNl0tHI3Q/sCP0/rn18B2R2C5mQ+wKwTNFDIofHM0G82yOP498aHWFFsFlrNTOeL0zVpbobeXwrlFHjNcGL0tAzCKJB+TtlYcLmELUuwKogFv1Bvj9jgoduYFou42a/zqnMjoem1q9KXw4HC25EbfVAiZ8GqFxIUN9LLwX3yri/rXLeYH6qBYV78gRE5joSIyBxHM9YILLU2zxuMV30Hc7eOUHzWfYNB8cI1Wg6RX0K9r2l74fa/ZGt1Eg9mJuZbqErk8XZOrQJeC1HIGAWcCYR8oAtBlb6EssZGlEJHW5EnmIiiJ2UgbBkfpt/gdpE1rQrCBcHxNvNC4zWQrbpzmZj1OxHsZTbuh6y5w8bZW67OcbFufQtKR3s0CzJQoM6EKEJkelZMDGa7DYj3/MK/B+6eChrKYxE2A=;Yp8Rd9jWRRUYmZMXgrcLmw=="
+secured: "ZYNenVJnligaVKE1ZSSGqXGohdHtaZ8G8wj+GvMTqjvam6KIIOsu5pJofjBLCpQM+Lly4jqzq12tWbbXWdl55o/+vbXnXX0YVNeIznnboirKA4MgeM2mdY/y6DY4z+QOey/t6L/aZ0gdwwcYJPA+2WRmdnl5FSpo1uGEjzWy0b29p5Kck7YSVFKBGoaf8TtWrlip55dPedHL43yAKpzpSBCMNwh7GMvFRQ8nchjf78evB0QZQx6P4QIkPUMr46H/kN6UYL3TYnYeCK+4Xqk8em3bu29H56vbHxWrlTpNsqL8dMQqQ4Dqyz3JFRFJGF4nhlVjMsTiOYvhpafpYr/x9z7v8/zr3daLs3Q/ESHP9Ks=;PLvd0mfcre92W0iXSXmsNw=="
 ---
 
