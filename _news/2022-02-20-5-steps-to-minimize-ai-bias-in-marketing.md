@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
         width: 2560
         height: 1570
         isCached: true
+  - title: "The artificial intelligence-enabled nation"
+    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
+    publishedDateTime: 2022-02-20T18:47:00Z
+    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
+    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
     excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
     publishedDateTime: 2022-02-17T02:57:00Z
@@ -71,6 +87,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
         width: 443
         height: 250
+        isCached: true
+  - title: "The Future of Marketing: Can AI and Humans Coexist?"
+    excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."
+    publishedDateTime: 2022-02-20T01:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-marketing-can-ai-humans-coexist-lanell-angerstein"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHAgX4NlzpDgQ/article-cover_image-shrink_720_1280/0/1645211272874?e=1651104000&v=beta&t=7IhefsXimrs6KEHmROIv7hhR2Zmet-nSrMJLVn1EMPo"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Artificial Intelligence in Manufacturing 5.0"
     excerpt: "Research firm, Gartner, says that the COVID-19 pandemic has amplified the need for supply chain organisations to use Artificial Intelligence (AI ... also an example of Manufacturing 5.0. Universal Robots, a manufacturer of AI-powered robots has deployed ..."

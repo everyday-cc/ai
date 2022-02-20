@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Eric Schmidt creates $125mn fund for ‘hard problems’ in AI research"
-    excerpt: "Eric Schmidt said the money would be ringfenced for philanthropic purposes, and would not be awarded to those working for corporations © Lucy Nicholson/Reuters"
-    publishedDateTime: 2022-02-16T05:00:00Z
-    webUrl: "https://www.ft.com/content/68a4ba34-9785-411c-b7f6-3a9ae2f37cd6"
-    ampWebUrl: "https://amp.ft.com/content/68a4ba34-9785-411c-b7f6-3a9ae2f37cd6"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/68a4ba34-9785-411c-b7f6-3a9ae2f37cd6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7293494e-773b-41a8-939d-ad38a317f029.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "ggxjaZ21wjcpsCPKDGgW/qnhJSdMLgsudForRWPI72OVTmDs9+lMong+CWZQ/Ce1iIfTnBsoF0psBbUB6KNY9hlu2DCMbub+KiuCG2TyRBuOLuH5GyWD2QyWXJFxusPuUhuuCQ9lMcE2ghVHRsp2741tnhkMN2FUDhdxdri4KtBnOWIcKDE1AkOOV7BwwXzbQGccAsCNQP2fuzrm7SSC9Kk8T6LSUlHus62pRrgb4AdK4It9NfZEIJkQ1j6EeO0Y+MnBtA4+IHSHqGjun6At7p8aEMzZ0bp9PDsAlYXzsi6gfJQivld5kQwyhalm1gONbJFI1ga8u9tZkpdJAw/YHeXPRWChrcW9/nmmBTBZVswna7+E+M5vled8h+MW8LZrgXetrviOyQM30cgYwPiwgyiiqs0wKgJivtb7mUyEJChnFMr9NUUhtoLEjsLUhj8fNvxv9Zl7i3t2huTvKc/4JvqashtuBjIZgL0Qk3+/z0IwD61AEjW9AhMfTH2nzH/FfURYcYNtEcVBwdnqKvaFnw==;/AcKgDF1x10cGG11tS3CQA=="
 ---

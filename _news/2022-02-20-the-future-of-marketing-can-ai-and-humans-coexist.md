@@ -1,27 +1,31 @@
 ---
 category: news
-title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
-excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
-publishedDateTime: 2022-02-17T02:57:00Z
-originalUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
-webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
+title: "The Future of Marketing: Can AI and Humans Coexist?"
+excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."
+publishedDateTime: 2022-02-20T01:36:00Z
+originalUrl: "https://www.linkedin.com/pulse/future-marketing-can-ai-humans-coexist-lanell-angerstein"
+webUrl: "https://www.linkedin.com/pulse/future-marketing-can-ai-humans-coexist-lanell-angerstein"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Healthcare
+  - AI in Marketing
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
-    width: 443
-    height: 250
+  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHAgX4NlzpDgQ/article-cover_image-shrink_720_1280/0/1645211272874?e=1651104000&v=beta&t=7IhefsXimrs6KEHmROIv7hhR2Zmet-nSrMJLVn1EMPo"
+    width: 1080
+    height: 720
     isCached: true
 
 related:
@@ -84,19 +88,19 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "The Future of Marketing: Can AI and Humans Coexist?"
-    excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."
-    publishedDateTime: 2022-02-20T01:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-marketing-can-ai-humans-coexist-lanell-angerstein"
+  - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
+    excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
+    publishedDateTime: 2022-02-17T02:57:00Z
+    webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHAgX4NlzpDgQ/article-cover_image-shrink_720_1280/0/1645211272874?e=1651104000&v=beta&t=7IhefsXimrs6KEHmROIv7hhR2Zmet-nSrMJLVn1EMPo"
-        width: 1080
-        height: 720
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
+        width: 443
+        height: 250
         isCached: true
   - title: "Artificial Intelligence in Manufacturing 5.0"
     excerpt: "Research firm, Gartner, says that the COVID-19 pandemic has amplified the need for supply chain organisations to use Artificial Intelligence (AI ... also an example of Manufacturing 5.0. Universal Robots, a manufacturer of AI-powered robots has deployed ..."
@@ -108,6 +112,6 @@ related:
       domain: manufacturingtodayindia.com
     quality: 19
 
-secured: "YW6ICRq8lc726eHGkBVZv02zFCYehYBDZ7BjPcu/bkkIDTMUhWy/og/gQlYsekgtV571AA2kdz0ivjflHQM4ia3aeXmTc2DH5AYfn7XUR8/HUaeZ7DTp88QLLcKivNSH4YnlU3CXJZZRD/Yyg1WlXRvvtepKJKADTcZqm9y9dQvN0h0R2GKrcjz9Q1e2rN3rTmUnAd8Dm9uJWBQrWbHQNTv/c9wBo44Pcc0szRVRE1XwdDvdjNZZmAMdxF0bicT50+3KAl5Qgk+bmIMAgcOKK63pIjrv5RVWFR3oDEaAcJ5bstMPPb47gYEGaJwBzDjPGLLLKE/l6dqK9CqpGeqMiOz2IQuDecMAgkk+UQQJDv0=;/UhZBA1dSK7LLYOTg4J0pg=="
+secured: "1BUZyXmU+lYyuJYSHHpy0DcyLAQIKrYzlZlyR/l4ATHqDfwXSMWQEi04tPLXEDpKDZ6NajzeS2RPFvpsilRbBwQ/EiIR6WiLbq7a/8QAas38CWNpWd1+xKvtr0VvRWuUy8sQHHvGGLCAij3ZC+Isi9I2788WaqfYzEJBvd5LYSCz0DfS87DT7lh24t8wwvIhr7nUT2WMWDzJ+8hYgj1RjXnoml299QxqTQnWwYc5p0naTJkh7LqshRnzYa1HLLHtfgmtE1duuQjeexpP84j2Go7GTAeZPjlvqWPQH78FIHcRXXo+2yblnOIXl4wc7sgRt/Y1eZALayquGajtU4Xoowj1fH881zJdHKnWRpz0CwY=;V7JbNnWLXztwQlMMqPkwHQ=="
 ---
 

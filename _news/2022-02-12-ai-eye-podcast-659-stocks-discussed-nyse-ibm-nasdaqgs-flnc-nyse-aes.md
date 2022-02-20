@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?895940"
-    width: 357
-    height: 250
-    isCached: true
-
-secured: "VYksKGBx3YoY/OaOt3MCyTNI8K+I63BulnorGmt9xaojQ0B4V/tV+wrEL5vz1Zd6cv1GSaj/PfXTbWQ8MnfvXLQGO3dLr3QV+dtnFkOOmetFR6mOHqMc74ZNAZ/+6AcDnuH8yZB7eikFDspitmjH3331bg0Xj9VMQuS6zcrtd8JtUU8RF1GdeWYCBw9LfNhnHCSXIKRY8W/CuVt+rA58q8mqvlC3RpglGp3ko+YUBbNM8l4iM51mUfgnjkXvLyga6UeXhuRtTPR43va5/C5xbhSSSRI27M+5gHVoS+/WD3eotkz0hk/86USUCcwhUTMTidld9S3bc3JLc9J57l/C+ztVbAEm30O9Co1PNR03jUw=;H5kMLtleaR07lUc7ClFwdQ=="
+secured: "hfJMKWe2ueP6Q4O3maWOpj1Ep3G8njEgyNeWlj9MLzhdRmUlDnP1Qxu+tthMvxXy0Bf9nlgOZhFkcKbxCRvNTCHixm4E8gnAxS50MFNICrpAfxw1fAlgNjZ7auhV1In+s5aLoPIGpRcPt7D3GM8je+2ZqL0sPfNPH+GamzbYv9ooLM/7cVL5eg0rBMBjfDNB1GScjA3I2z8e2OaS1IjhtFecNAqFx6ryyo35nI9VEAAYP++JC9dsa7c+Knx6eovQVT5mWIoxwL0jjGya4PELOrm/rmFjUB+y+FzQLB+pUSTUKXarOShJ6axokAHAKNWLw6SeiU3hH628i0hkL0elH2eUw8IxqYhzxezr39Pn2QE=;Jl4AX8GTzA769t3DukrLYg=="
 ---
 

@@ -1,27 +1,28 @@
 ---
 category: news
-title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
-excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
-publishedDateTime: 2022-02-17T02:57:00Z
-originalUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
-webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
+title: "The artificial intelligence-enabled nation"
+excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
+publishedDateTime: 2022-02-20T18:47:00Z
+originalUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
+webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
+ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
 type: article
-quality: 54
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
-    width: 443
-    height: 250
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
+    width: 600
+    height: 390
     isCached: true
 
 related:
@@ -68,21 +69,19 @@ related:
         width: 2560
         height: 1570
         isCached: true
-  - title: "The artificial intelligence-enabled nation"
-    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
-    publishedDateTime: 2022-02-20T18:47:00Z
-    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
-    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+  - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
+    excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
+    publishedDateTime: 2022-02-17T02:57:00Z
+    webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
-        width: 600
-        height: 390
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
+        width: 443
+        height: 250
         isCached: true
   - title: "The Future of Marketing: Can AI and Humans Coexist?"
     excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."
@@ -108,6 +107,6 @@ related:
       domain: manufacturingtodayindia.com
     quality: 19
 
-secured: "YW6ICRq8lc726eHGkBVZv02zFCYehYBDZ7BjPcu/bkkIDTMUhWy/og/gQlYsekgtV571AA2kdz0ivjflHQM4ia3aeXmTc2DH5AYfn7XUR8/HUaeZ7DTp88QLLcKivNSH4YnlU3CXJZZRD/Yyg1WlXRvvtepKJKADTcZqm9y9dQvN0h0R2GKrcjz9Q1e2rN3rTmUnAd8Dm9uJWBQrWbHQNTv/c9wBo44Pcc0szRVRE1XwdDvdjNZZmAMdxF0bicT50+3KAl5Qgk+bmIMAgcOKK63pIjrv5RVWFR3oDEaAcJ5bstMPPb47gYEGaJwBzDjPGLLLKE/l6dqK9CqpGeqMiOz2IQuDecMAgkk+UQQJDv0=;/UhZBA1dSK7LLYOTg4J0pg=="
+secured: "ZXGbdigXa4F1SjveyiJEotAniEYvYzVEoTWGmdp1/FvLo9FLCzQResZlUudyn27ChaQadff8PJs9RJN2BeCLi4g1cS7ASTD6YjW7gjlB6RVRPjhd6VrYukp1gPU6nFlqEUDsTr8ypPRsqTipYLPZB78578SuXZ5EO8avbPKnAC+xPcE2LeiklqqywYK7iK/r0rDJAbC5u1MGsHcSs9ScQRoYJXZNxR8e8Xn9cnnZaxpNDfeVL3UK/y1KoqIEV2646DH3bTiGUANlccbkF+YF8ueBpoEwePs4hMpAzLsYXKC0IjSDmQgI+yczKvSrGv9MBnS2wcAuEwAXrygOXAb6fyKa4HvEj1hFytztQpvEKKY=;X6YjZE3E9XAcogAffTfMJA=="
 ---
 
