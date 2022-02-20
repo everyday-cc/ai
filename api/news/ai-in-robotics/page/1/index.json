@@ -934,24 +934,33 @@
     {
       "path": "_news/2022-02-10-robots-and-being-spied-on-by-smart-technology-are-among-nations-new-fears.md",
       "title": "Robots and being spied on by smart technology are among nation's new fears",
-      "excerpt": "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us ... this helps unpack and eliminate them from our mind.” All four episodes of The Fear Index are ...",
+      "excerpt": "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us. The digital age has replaced clowns ...",
       "sourceUrl": null,
-      "webUrl": "https://www.dailypost.co.uk/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
-      "originalUrl": "https://www.dailypost.co.uk/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
+      "webUrl": "https://www.nottinghampost.com/whats-on/whats-on-news/robots-being-spied-smart-technology-6634301",
+      "originalUrl": "https://www.nottinghampost.com/whats-on/whats-on-news/robots-being-spied-smart-technology-6634301",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i2-prod.hulldailymail.co.uk/news/uk-world-news/article6634300.ece/ALTERNATES/s1200/0_pexels-cottonbro-6153354.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T05:33:00-08:00",
+      "publishedDateTime": "2022-02-10T05:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Post Wales",
-        "domain": "dailypost.co.uk",
+        "name": "Nottingham Post",
+        "domain": "nottinghampost.com",
         "images": null,
         "publishers": null,
         "authors": null

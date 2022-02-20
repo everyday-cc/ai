@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
-excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
-publishedDateTime: 2022-02-16T17:02:00Z
-originalUrl: "https://www.entrepreneur.com/article/419011"
-webUrl: "https://www.entrepreneur.com/article/419011"
+title: "How Fintech is revolutionizing the insurance sector"
+excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
+publishedDateTime: 2022-02-19T09:29:00Z
+originalUrl: "https://financialit.net/news/insurance/how-fintech-revolutionizing-insurance-sector"
+webUrl: "https://financialit.net/news/insurance/how-fintech-revolutionizing-insurance-sector"
 type: article
-quality: 40
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419011.jpeg"
-    width: 2560
-    height: 2048
+  - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
+    width: 1280
+    height: 905
     isCached: true
 
 related:
@@ -59,6 +55,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
+    excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
+    publishedDateTime: 2022-02-16T17:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/419011"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 40
+    images:
+      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419011.jpeg"
+        width: 2560
+        height: 2048
+        isCached: true
   - title: "Mexican Fintech delt.ai Raises US$25 Million in Cryptocurrencies"
     excerpt: "Don't worry, we speak : Español (Spanish), too! The corporate credit and expense management company delt.ai announced that it raised US$25 million in debt. It did this through TrueFi, which is a DeFi lending platform designed by TrustToken. It is worth ..."
     publishedDateTime: 2022-02-16T19:13:00Z
@@ -87,20 +97,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Fintech is revolutionizing the insurance sector"
-    excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
-    publishedDateTime: 2022-02-19T09:29:00Z
-    webUrl: "https://financialit.net/news/insurance/how-fintech-revolutionizing-insurance-sector"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
-        width: 1280
-        height: 905
-        isCached: true
   - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
     excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
     publishedDateTime: 2022-02-18T12:00:00Z
@@ -125,6 +121,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "OLU4d9toRno87gIoG99S4MC7/ZkogLiWXUbz3+DNZse/mzhuzvtz5mb1dnwwDwV2F8BuxDTTkb1mYZQwGM8AIFmCqr6AjhRIAU+V1zk8tg65jwZWgclKCkKrfkzUEnuuGCnEwVcKlNArofN3foMOijmNSJY9TsZ6lSVgl7Uds5MxPmjDSAtJqBKqEuMRmt9pURRxVNaF4MdUsCVhFj7qqX0pnwr5PKVWTdpDkMceEiWhNgWeRCdHYrmbd0U0BK0dWVo/prAf0w4T1KA36prCqe1nZOCm0+WmlujyNwRyJKd1GZmKrBsg5lPvej2V2S0BdgRjz+x/EXLhtLvlZ1P0FVZtastP53+1cCVgtvwXrCW6V6bO5+wPJVhs83sIVmu2SB7wRpIBt+KaDO2W1gkwOHbvYE9KJB/UFf3HDZDEpJbzedDnj0Sn2LARVUyxhaCsPkhL9xe4sL/o9Mers9HqvhB1ABVq0e1ysTdFM5QvCrQm1iF5VsmHBqOX3eea3ZXTsXAMlb4xCORGT9gp473lig==;87g/3l3LnPNxtMPBxhXTGQ=="
+secured: "0VDo4dWkC3J37DOFi5UAxUOnkDZkrML6vPbn8BvyEUkhHUglkHejKr1S2fQG0F+XaNG9I4oFfGjfVJhPB/hvUgRm91wQDLj26ovamMOAzminDap3YTGcs7/AzWD61WAjJa6fU/Cif3bq12vf4NRgrRwaMmY2uwBWN7kq3AEmaEtwkf3bfsF2hhAtBYKKptYqW4HmMnxNpnyJ0tpmsVakimVy3dY7FAmVs3/ZTZpVCe307SMv/1tXXHIxvd35S5jQ1+EPoGVm3LJxCMx8DiinINqD0R5TUo2gkJxDJKWgFgDxmCNWx+sMGVlEM+76pNox1j0S4+qekv0Gtgx6zBUp7mfozF+fN+BqdXKAM+kqzVQ=;I6/KFfaqndpmqoPU6EY/hw=="
 ---
 

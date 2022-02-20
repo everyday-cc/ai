@@ -2,6 +2,41 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-02-08-google-subsidiary-deepmind-goes-retro-to-push-ai-forward.md",
+      "title": "Google Subsidiary DeepMind Goes RETRO to Push AI Forward",
+      "excerpt": "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
+      "originalUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
+      "publishedDateTime": "2022-02-07T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-smartphone-reminders-improve-memory.md",
       "title": "Smartphone Reminders Improve Memory",
       "excerpt": "In older adults with dementia or mild cognitive impairment using a personal ... Funding for the study was provided by Microsoft and the National Institute on Aging.",
@@ -1138,40 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-therapeutic-solutions-international-announces-reduction-of-covid-19-associated-cognitive-decline-by-quadramune-nutraceutical-in-animal-model.md",
-      "title": "Therapeutic Solutions International Announces Reduction of COVID-19 Associated Cognitive Decline by QuadraMune® Nutraceutical in Animal Model",
-      "excerpt": "Therapeutic Solutions International announced today filing of a new patent covering data demonstrating QuadraMune administration reduces cognitive decline caused by administration of COVID-19 spike protein in mice. In a series of experiments, mice were ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

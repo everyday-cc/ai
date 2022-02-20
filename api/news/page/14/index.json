@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-02-07-therapeutic-solutions-international-announces-reduction-of-covid-19-associated-cognitive-decline-by-quadramune-nutraceutical-in-animal-model.md",
+      "title": "Therapeutic Solutions International Announces Reduction of COVID-19 Associated Cognitive Decline by QuadraMune® Nutraceutical in Animal Model",
+      "excerpt": "Therapeutic Solutions International announced today filing of a new patent covering data demonstrating QuadraMune administration reduces cognitive decline caused by administration of COVID-19 spike protein in mice. In a series of experiments, mice were ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-regulation-of-facial-recognition-technology-proving-difficult.md",
       "title": "Regulation of facial recognition technology proving difficult",
       "excerpt": "Policymakers in Montana have spent part of the legislative interim working to understand how best to regulate facial recognition technology, a rapidly emerging but poorly understood field with numerous potential government applications and significant ...",
@@ -1098,49 +1132,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-06-researchers-develop-artificial-connections-for-damaged-nervous-systems.md",
-      "title": "Researchers develop artificial connections for damaged nervous systems",
-      "excerpt": "It turned out that the performance of the treated worms surpassed even those of normal healthy worms, due to the redirection of information in the neural network, and from an amplification of weak signals provided by the artificial synapses, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/researchers-develop-artificial-connections-for-damaged-nervous-systems-367592",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/researchers-develop-artificial-connections-for-damaged-nervous-systems-367592",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/2/2022_2$largeimg_1497965594.jpg",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-06T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

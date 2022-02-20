@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Fintech is revolutionizing the insurance sector"
+    excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
+    publishedDateTime: 2022-02-19T09:29:00Z
+    webUrl: "https://financialit.net/news/insurance/how-fintech-revolutionizing-insurance-sector"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
+        width: 1280
+        height: 905
+        isCached: true
   - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
     excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
     publishedDateTime: 2022-02-18T12:00:00Z
