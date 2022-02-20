@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "White Castle brings cooking robot to 100 more restaurants"
-    excerpt: "Miso's systems also use artificial intelligence to refine the robot's performance over time. \"The tasks that Miso's technology can perform are some of the most dangerous tasks in the kitchen, not to mention messy and menial, ultimately improving the ..."
-    publishedDateTime: 2022-02-15T16:01:00Z
-    webUrl: "https://www.restaurantdive.com/news/white-castle-brings-cooking-robot-to-100-more-restaurants/618852/"
-    type: article
-    provider:
-      name: restaurantdive
-      domain: restaurantdive.com
-    quality: 39
-    images:
-      - url: "https://www.restaurantdive.com/user_media/cache/af/a8/afa861936f74f8d039d1183db079972f.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "th77dg6X9qESBNWT4cIL9uRFo3JRBjKNcZ3kFKmPbsUM/fESVFJDyuhN1YGuV1uypCHzLKB4jBO0NVHzgyMI1l1bjq2wc7SwcVqTIjoQ2uPsdssWdXSWgzkMe0P97291L+QcQsTjLFP/jvxAQTYpGKVHXXLptvaYdue9KyBcoIF5tS1qBYMgD3Clp5IMHDWtrPyqCidZDpmt9VYGf7Vz21nKMizAne/Qg3vr9rfEAylIgXLKVzZV/sxmNbuahnjLJ8Xj2uJrtqywkUoKV759ffXmtvOGHO+c339AeuBGSatXHChpsgaa3GNyPTYYY1mSe6nfh/Y3irIRpYnEt2pZxb6XghH8tE55OnVrfX5V2pDqe+LA+psXVa2HmivUmIIMjHpx87q42Gq8xj19YWD99vln0AVDjfm3qZijNMfXoy3dBAoJGp+gO/6Nh2KA4XQqNCLzASii0lXPc1BaJgIXjZMe0fTF+PgLqfSRxpQAHhMVE7DFTWQdufinSmVejfpPRvi4N7jLus4xf0utQg+GLg==;QYayzsQ98N9xz64k0DCHkg=="
 ---

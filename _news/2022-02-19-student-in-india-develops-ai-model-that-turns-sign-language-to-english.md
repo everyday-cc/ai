@@ -43,22 +43,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Indian Engineer Develops AI Model That Instantly Translates American Sign Language To Eng"
-    excerpt: "Priyanjali Gupta, an engineering student from Tamil Nadu's Vellore Institute of Technology (VIT), has created an AI model which can translate American sign language to English in real-time. A third-year computer science student, Priyanjali Gupta is ..."
-    publishedDateTime: 2022-02-15T15:41:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jbxoumigagmwijxk_1644938606.jpeg"
-        width: 768
-        height: 438
-        isCached: true
 
 secured: "ZXiGDUdp85v9Q++uPnO56W8PaxtBVYccLMDwTkXOwvyjHw2IX+y02/NWsEfdwivRgp/C8mOrRw8x3km9Pk/hANXrLycoY0DRxX1qVlIV5iT/orm6IeaPcBJSROtKKob4Rs4QG/r/XzvxPxCOa3MadzJ1HUe/kI8Idc1SsetKosRIvEdeYlJyBJPzfXUu9YoU33XLr2PQLLUEIX/Lbp8m4X3ZVTdoUFUGndHUvaVyQnNNeqpumVuOpjjyCCYsZDGrd/9pFPAqBsftaMCzzzBESeojctCx4y/9LtWWJRxqX+1+ma45UDjRZpvAKsxWbV0/8ji9wAuT8uBRnhFdd7a/7/5vRV3LuGuIoVlq10C8qe4=;noxg0zLbeb+//yqgeiUkBw=="
 ---

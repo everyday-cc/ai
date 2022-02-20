@@ -7,7 +7,7 @@ originalUrl: "https://dailynorthwestern.com/2022/02/15/campus/northwestern-creat
 webUrl: "https://dailynorthwestern.com/2022/02/15/campus/northwestern-creates-new-research-hub-focused-on-artificial-intelligence/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "Underwriters Laboratories and Northwestern University Launch Research Hub Supporting Safety, Equity in Artificial Intelligence"
-    excerpt: "NORTHBROOK, Ill., Feb. 15, 2022 /PRNewswire/ -- From facial recognition to autonomous vehicles, the adoption of artificial intelligence-driven applications has exploded so quickly that it has ..."
-    publishedDateTime: 2022-02-15T16:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/underwriters-laboratories-and-northwestern-university-launch-research-hub-supporting-safety-equity-in-artificial-intelligence-1031196814"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1710520/UL_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "lOVaZpp/zaQdj/WM8ru2Lo2KHGZwL23L09IXFXj3t2QKyiBbeWzy1o4reIX47qK+K007GvOyCpU8sbc8ov6JuFdcNerrX9u3WPq3MMf9VGiPnfqhb9VoNe2XH73uuVreQkJ/82SWW7HME3t5rfEMteNNHXatMzlDS/UJP35wThRMvyORlM9A6vCyU5qcYpN5IeB8JJApJ/Pq/ddsJEYH8hwzVMF6ljUIepV04xwQhZEwv1XxD+ov/kVcuj9EuO/swzRx/WhLtRO2F4NGXx+Rrd+bpE5s7RAJRhwua/fWuJmsSkn4JOyueBDEi/Bf8K1Yy3OCAK612v0ItvVHjvlgt/s4zYRzwDz1/BjjJIvjn+1WgqTjrJ6PFSa8qjjqYCi5v2blctbz0hcgCaVD13XtYeH094xt5p8PbQ1DSrY+hys3r3T6O5PWzN4mp73qZBTvG1i824Z96nFBN+sFkItR3HgSk7cXZFxOIc6M3Iyi0O+nZtb/nm50A9JbXKcL32J4tMLZfzzA5IpkUAdZ/zNgvw==;6Me/CaE8tbytjqFxC7Pnrg=="
 ---

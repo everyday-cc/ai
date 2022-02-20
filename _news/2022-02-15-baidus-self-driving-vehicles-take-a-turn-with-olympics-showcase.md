@@ -6,9 +6,6 @@ publishedDateTime: 2022-02-15T15:31:00Z
 originalUrl: "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
 webUrl: "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: BloombergQuint
@@ -24,93 +21,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "China's Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen"
-    excerpt: "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China."
-    publishedDateTime: 2022-02-18T16:00:00Z
-    webUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493"
-    ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3a3f19bdef62d31e313b4ac74f3f28d7.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Baidu is bringing its autonomous ride-hailing service to Shenzhen"
-    excerpt: "The Chinese search engine giant is now trialing its self-driving taxi service in seven domestic cities with its testing fleet logging 21 million kilometers (13 million miles) since its inception. [Baidu release] Every Wednesday and Friday, TechNode’s ..."
-    publishedDateTime: 2022-02-18T07:23:00Z
-    webUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    ampWebUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase"
-    excerpt: "At the 2018 Winter Olympics in Pyeongchang, Hyundai offered demonstrations of its self-driving functionality ... s biggest technology companies, Baidu. Beijing’s strict COVID-19 protocols ..."
-    publishedDateTime: 2022-02-15T16:44:00Z
-    webUrl: "https://www.ttnews.com/articles/baidus-self-driving-vehicles-take-turn-olympics-showcase"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 39
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/baidu_apollo_s_fully_driverless_robotaxis_motion.jpg?itok=Jsclp4_8"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Dubai is cruising into self-driving mode for its taxis"
-    excerpt: "Dubai to become the first city outside of the US to operate self-driving vehicles for its taxis and provide electronic reservation services."
-    publishedDateTime: 2022-02-17T05:48:00Z
-    webUrl: "https://www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/"
-    ampWebUrl: "https://www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/?amp=1"
-    cdnAmpWebUrl: "https://www-esi--africa-com.cdn.ampproject.org/c/s/www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/?amp=1"
-    type: article
-    provider:
-      name: esi-africa.com
-      domain: esi-africa.com
-    quality: 39
-  - title: "Baidu's Apollo Go Robotaxis Are Now Deployed in All of China's Top Tier Cities After Launching in Shenzhen"
-    excerpt: "In April 2021, global consulting firm Guidehouse named Baidu as one of the \"top ten autonomous driving developers in the world.\" Others include Alphabet Inc's division Waymo, which spun out of Google's self-driving car project, and San Francisco-based ..."
-    publishedDateTime: 2022-02-17T23:15:00Z
-    webUrl: "https://www.futurecar.com/5209/Baidu’s-Apollo-Go-Robotaxis-Are-Now-Deployed-in-All-of-Chinas-Top-Tier-Cities-After-Launching-in-Shenzhen"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 21
-    images:
-      - url: "https://img.futurecar.com/202202/17/l_620ee63021f6d.jpeg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Baidu Brings Apollo Go Robotaxi Service to Downtown Shenzhen, Expanding Presence to All First-tier Cities in China"
-    excerpt: "Baidu Apollo's ride-hailing service platform Apollo Go has launched trial operation in Shenzhen's Nanshan District, providing autonomous robotaxi services to Shenzhen commuters. Shenzhen is the seventh city where Baidu has introduced its robotaxi ride services in China,"
-    publishedDateTime: 2022-02-17T11:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=618013"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-
-secured: "Dq4u0eBkTNqeiDtiHDVl6WoEY6ZmkIZBv6nsY6gAlkAtkU3xRugZtIde5YcEVMxjX5/FpUdzOqr/o9+tgVx/fvKE8QJvRk49kWg7Q2DJG3ydJXTvv59+OHM6ZeBZu5egXvjup8Lu30o06aMClV362KKR1h5kfL+/4f1lOnp+Rhd+zEojw/inz1FTCJ1gpP1K+I71t/UuQO1LtgU56IXvtMRm4DOo0Ed8OYHfXHfvsvnlNfWwHrGv1G1ydZ3BJQO/EEfRQDZ28EvjJqPSY6XmJvdiaQbP31X0U32aYJNnKTHY2lkaQ57GzWEBNY7ghmnL5bdyhBf43AgcRX1U+BWsKJidNRuT3OfW/QdAAXU75hk=;+g/zFiZK0CywkwcwfxG/oQ=="
+secured: "YVA3ztdeCokE9egPDzf8HzF4tkM7gXWG3CSzVDdkXXjIp7aQhpDB+ZIYhX9L9dwONVLIO3z1sCG2BVhrCUzw0q+5spCJKhA3/IPW+r7VMnQzSuQyxJW0+FXtyLWjxEDaTRDl6FaAM7coFrXJeSGXSvhNJt55CK8zeX/5+rl09s8Wo0OE5Ny4McVicnGVG6UM1A8wfDmFjKDdH4KWc1bJStzkVH06yiX904JEHdzE8ZqPqeQgXJ8/0aOmV2EeaMAD6UDFMHwTGIGzCOAEpmsBfh3+HZa7/7WDjfaXyMHeDZHqZ1h9z1a2cyd9UcZTLvpWkAA5kVHLb1dDrkkjwivjg50FqSOiFYGOC7ESYO8Au04=;iGk7ehNMNSRRA2OozWmqUw=="
 ---
 

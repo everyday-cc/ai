@@ -41,20 +41,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Texas AG Sues Facebook Parent Over Facial Recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T15:55:00Z
-    webUrl: "https://www.manufacturing.net/laws-regulations/news/22056255/texas-ag-sues-facebook-parent-over-facial-recognition"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 41
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/02/16x9/AP22045682669852.620bc39d99efc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Texas AG sues Facebook parent Meta over facial recognition"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
     publishedDateTime: 2022-02-15T18:54:00Z
@@ -66,20 +52,6 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 41
-  - title: "Texas sues Meta, saying it misused facial recognition data"
-    excerpt: "The suit involves Facebook's \"tag suggestions\" feature, which the company ended last year, that used facial recognition to encourage users to link the photo to a friend's profile. Paxton alleged the company collected facial recognition data without their ..."
-    publishedDateTime: 2022-02-15T15:52:00Z
-    webUrl: "https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/assets/img/2022/02/15/ap19170571721946_wide-c21e27afb0247a6845bc1612611605f6c2a6b305.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
     excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
     publishedDateTime: 2022-02-18T09:46:00Z

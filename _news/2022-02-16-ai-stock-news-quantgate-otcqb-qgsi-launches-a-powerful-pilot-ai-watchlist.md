@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103703632/AI-Stock-News-QuantGate-OTCQB-QGSI-L
 webUrl: "https://menafn.com/1103703632/AI-Stock-News-QuantGate-OTCQB-QGSI-Launches-a-Powerful-Pilot-AI-Watchlist"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 326
     height: 250
     isCached: true
-
-related:
-  - title: "AI Stock News: QuantGate (OTCQB: QGSI) Launches a Powerful Pilot AI Watchlist"
-    excerpt: "Toronto, Ontario and New York, New York - February 15, 2022 (Newsfile Corp.) (Investorideas.com Newswire) QuantGate Systems Inc. (OTCQB: QGSI) (the \"QuantGate\" or \"Company\"), an Artificial Intelligence (\"AI\"), Machine Learning (\"ML\") SaaS-based Fintech ..."
-    publishedDateTime: 2022-02-15T15:43:00Z
-    webUrl: "https://www.investorideas.com/news/2022/technology/02151OTCQB-QGSI.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 36
-    images:
-      - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "fV5GRsfx+4HAR+xCF865tF4ez/JM9g1PC5XP5tL7RBjLFQ3Zalm5NEPA4XINTbhV2LjJldYhcCfb4yO2wBnR0T2Q1+2am34QK5oG253NkDei5gZb5LzXVQDcf+KGK+6ncKHDijEU8eIF8/qXB21sxPs4aTPWUToisO+vE/YBmNlt9H1gTWiL8fP0XK5AuP3KGkE9krFWUgRYyxHfnbtBF982IcRRpRIbDHULcgbJx6TPqh6vKkhYAeRdldIkGXQMEKOStPSAWIMALuqCYln71LsiJ7FfbsMkkU8biL2O+5D2Ags+J22A6D5Qug0Ascd+0qf08//EFzE83sRm4piv9ZKotUMt6qY1eWFumtc0Yy7Er9pcrH3d62/0+vnttlrKRGEhVBjxpUK7bt7uKRLDMm9vUHPpUhgWLpzpo4ptOyGYmH8k4wFeSC1sVic2eo+YYsspKQ9JcBufBfDpJapRao42DHoXLOLBR0MbA1NMrM7BdoP65InUHbhjeU4XFpNA5cyRYFjcZjzAzV+IBnN8Zg==;tArOaY6cPkfKGKjc9kxvdw=="
 ---

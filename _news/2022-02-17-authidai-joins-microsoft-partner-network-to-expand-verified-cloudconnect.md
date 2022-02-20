@@ -55,20 +55,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "IBM Acquires Neudesic, Leading Microsoft Azure Consultancy"
-    excerpt: "IBM continues to invest in its hybrid cloud and AI strategy, expanding its cloud ... 3 \"As one of the leading cloud platforms, Microsoft Azure is key to many of our clients' ability to modernize ..."
-    publishedDateTime: 2022-02-15T16:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-acquires-neudesic-leading-microsoft-azure-consultancy-1031196632"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "4QfQjngbzB6+rvz1TN18sTmh6tPnWEtN3N8gYwNp7HaZFdCrRr2CYUU2Prt2XydB+JSRKAkSSgwHukltOvQ+vXxSenorq5AeGLmx1wTrvTfaH3ACgLqAiwAuIsMDffUYpXJ+adn6cicwTjBqdslUrl/BhRU2Zg40J/2vuae+uxOyeDokzDovbsxowRUy2UvyaoMarEEfKQtJ0EYs5+NdaPMwnGokAgkhY3jfLyzWnKfq+YAwZwAIrUQceXTklKUZCPQ8knzoDCFvkYChR9VQitNyrCufrg0UOfdVJkH1PM9qD+T+dK8jisBOEJhfJTDpKqgy1S7nw6jmFbV9YGkaHbpWr+B1vr+d4elLgoCRk9we4kqiSjjOUXcnNxTZosRoft/gWBmdHVmDhb1clcTz9mNbnRA01/aAAuUslZCO73a55Idjc2EcIcNYpQ1SAVX4ypOCfXlkOS+BQ3RJtNt0X4AmxdBhtDdeX3OWI0xhQp6D9htHpBwmWq/gu+NLVkroCwMQmacuOIKPW+A0uBEznA==;BdzW+YDGm4mjF/iiceETeQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/technologies-running-machine-learni
 webUrl: "https://www.linkedin.com/pulse/technologies-running-machine-learning-environment-kuldeep-saxena"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "OxDX validating 'deep learning' technology that identifies diseases ‘while you wait’"
-    excerpt: "OxDX uses novel universal labelling technology in combination with machine learning analysis in a neural network to rapidly identify the specific pathogens causing infection. The team said they have already demonstrated the ability of the technology to ..."
-    publishedDateTime: 2022-02-15T16:56:00Z
-    webUrl: "https://www.biopharma-reporter.com/Article/2022/02/15/OxDX-validating-deep-learning-technology-that-identifies-diseases-while-you-wait"
-    type: article
-    provider:
-      name: biopharma-reporter
-      domain: biopharma-reporter.com
-    quality: 47
-    images:
-      - url: "https://www.biopharma-reporter.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/biopharma-reporter.com/article/2022/02/15/oxdx-validating-deep-learning-technology-that-identifies-diseases-while-you-wait/13243897-1-eng-GB/OxDX-validating-deep-learning-technology-that-identifies-diseases-while-you-wait.jpg"
-        width: 787
-        height: 443
-        isCached: true
 
 secured: "6fOWRrMXdKv2DmcsHgHTN3iz03xciPKDcyCsYjgsq3KWXIQL82HY6Ur6h24EhH1IipCkGaMk4rVaUnvAs0kK93PD4/kB8C+ST65os2hme20rFOBtz5DT7GbayDR6TMxuDicr9eD60MOJMJKAN+MUtviDKIP24IJdLL/E3S+1Qnvna12h2KuaY2kBqtMzWqJRPMVrlE/nlYOXzaGpJdk8NcRzs5gE+MiQPm1kBpABaerAJQLb87UqqeIqAcryOW2UBITgTk38X0yIYjvwt2TmjPIhl3WndTtJBheKmwEjeKqCDswno/Z1EO3J9LN90e4utTByO6k7yVltAfmvIAZoECf/HLEZBQKVCxFV3GqdWQY=;4HqQlbT728ydOfoYyl+QLg=="
 ---

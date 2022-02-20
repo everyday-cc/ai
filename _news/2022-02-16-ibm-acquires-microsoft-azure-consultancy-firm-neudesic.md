@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "IBM Acquires Neudesic, Leading Microsoft Azure Consultancy"
-    excerpt: "IBM continues to invest in its hybrid cloud and AI strategy, expanding its cloud ... 3 \"As one of the leading cloud platforms, Microsoft Azure is key to many of our clients' ability to modernize ..."
-    publishedDateTime: 2022-02-15T16:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-acquires-neudesic-leading-microsoft-azure-consultancy-1031196632"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
     excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
     publishedDateTime: 2022-02-17T07:09:00Z

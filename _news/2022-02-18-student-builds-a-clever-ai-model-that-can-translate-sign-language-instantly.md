@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly?amp=1"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Engineer Develops AI Model That Instantly Translates American Sign Language To Eng"
-    excerpt: "Priyanjali Gupta, an engineering student from Tamil Nadu's Vellore Institute of Technology (VIT), has created an AI model which can translate American sign language to English in real-time. A third-year computer science student, Priyanjali Gupta is ..."
-    publishedDateTime: 2022-02-15T15:41:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/indian-engineer-develops-ai-model-that-instantly-translates-american-sign-language-to-eng-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jbxoumigagmwijxk_1644938606.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Student in India develops AI model that turns sign language to English"
     excerpt: "She invented the AI model using Tensorflow object detection API that ... Pryor and Navid Azodi invented a pair of gloves called 'SignAloud', which could translate sign language into speech or text. They won the Lemelson-MIT competition for their entry ..."
     publishedDateTime: 2022-02-19T09:47:00Z
