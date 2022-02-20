@@ -41,17 +41,6 @@ related:
         width: 355
         height: 355
         isCached: true
-  - title: "Webinar on artificial intelligence"
-    excerpt: "A webinar on “Artificial intelligence-based conversational interfaces” organised by the Computer Science and Engineering Association of the National Institute of Technology Calicut (NITC) will be held at 7.30 p.m. on Wednesday. An alumnus of NITC ..."
-    publishedDateTime: 2022-02-15T13:14:00Z
-    webUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 37
 
 secured: "JH95XAYrhZ9P5tWKry0qOIq+CpoXno1SJaxxG/qpLqF4lEEfaBk3rZxPuqd3zpdYJGsYlWvahUSOf9uinZ7DKpUK49s5uvT+XWLllNTUz3fDMr2D6zz7WWUqS6fuCxEGaeMzshnM1JgbZla6SGhWKtV3FIxUxF4QN1acHyqJ0TN07qFR6bHV0f7RqinMNqqxz5IIek1+AEozPNaNo4IUMcecuIeylJtTEgRrgXBmazuCbutpu0qNW9GGjRHUI147+/MZCKlPCasrxg0Poc7dAy58Cr2m3nkeA18kgPru0u4KKgYybrDkWn1GN3DQ+6l9POKApaxD2NQHBOUTJrsS6vsM4iJMLVf+T6ez3BbCAMU=;G/5mnLV46Y9b178UR+xNlw=="
 ---

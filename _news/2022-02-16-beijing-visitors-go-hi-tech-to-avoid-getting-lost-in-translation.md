@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/beijing-visitors-go-hi-te
 webUrl: "https://www.channelnewsasia.com/business/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2498886"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Chinese tech company develops AI coach to help athlete win at Beijing 2022"
-    excerpt: "... translation using sign language for the athletes. Li Di, CEO of Xiaoice, said that the company plans to make more AI beings for the sports industry, including coaches, virtual employees at sports venues, sports anchors and designers for sports brands."
-    publishedDateTime: 2022-02-15T13:25:00Z
-    webUrl: "https://www.globaltimes.cn/page/202202/1252328.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-12-06/43a31db2-3d35-48e7-a030-735187943d97.png"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "33jtuJCDOpNzrRkWdFGHMPd3A2viEX7Yye6RqQ07Q6WP9+mnjTktOHWmNyvqb/HnPlRImHEhkXzDOxjw9RjqcySukR13TC3q0IhqWsjXob/s7Al8Pk1luejp7ayrRxHAil8o6Il7xDijRASfa6U7A2MmnbDoPWq9eVffqJVwMyzDu1LoU/EklWYxWrRhPX+NZTtoIH3j6QcMaoQLFphsrV8d1XiMr7VELMQvmZKFHJTDGjQkGemUsC9B9mT8+VbUb/phYRAQ1k3TFQCiEsdKjZJSdSK66e0/Fyl/gFsJhGxP4czCywMF0WX4jrLxlvkulUuK3ELsi3Q22MXcFIAJVHc7KBQ1mrLyeG6baWXEIE8=;2pCGodmRxAeY/kX2H2kMcA=="
 ---

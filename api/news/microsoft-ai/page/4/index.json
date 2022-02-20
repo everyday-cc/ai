@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-01-15-artificial-intelligence-for-accounting-market-to-witness-growth-acceleration-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market to Witness Growth Acceleration | Microsoft, AWS, Xero",
-      "excerpt": "The increasing automation of accounting processes, to reduce human intervention and consequent errors, is the main factor behind the exceptional rise of global artificial intelligence in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-to-witness-growth-acceleration-microsoft-aws-xero",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-to-witness-growth-acceleration-microsoft-aws-xero",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/01/Artificial-Intelligence-for-Accounting.jpg",
-          "width": 600,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
       "title": "Amazon fixes security flaw in AWS Glue service",
       "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
@@ -1423,6 +1379,49 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-tekion-expands-cloud-hosting-options-with-microsoft-azure.md",
+      "title": "Tekion Expands Cloud Hosting Options with Microsoft Azure",
+      "excerpt": "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

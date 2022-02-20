@@ -39,15 +39,6 @@ related:
         width: 500
         height: 243
         isCached: true
-  - title: "Autonomous Commerce Leader JAGGAER Announces Partnership with Payments-as-a-Service Fintech Finexio"
-    excerpt: "Over $500 billion worth of goods flow frictionlessly through our Enterprise Commerce Network every year. Leveraging AI and machine learning, our intelligent procurement solutions provide enterprise buyers and suppliers smart-match recommendations that ..."
-    publishedDateTime: 2022-02-15T14:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-autonomous-commerce-leader-jaggaer-announces-partnership-with-payments-/2022/02/15/9545689.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "7wlFCXV6AZ410G/I41knrTw3kfTIch8OT+FsCnwsPBDc4yFvpCHLNAX/oC5xuPCI6l8I6JIAQJ7xdTAhu9ZrWCZ/uq5s1aRggL1cPDqgW2nZGNe+8Df8RDl4WIV47urRX7K087eP9uVnResnkEey5fOdCoezcwveLf2hIEnUnFyRE3jBHRaEmzbT+Emx+jJ4Bd/gInfBLl8XV7JEoeXSc3+XCiGLmvDsruxWk/iI3XRwKw27O4Lwa0xNiWz685tXoJPseFPJgTp7/ovsf0kY0ByhWG28us2ZVS93hZnYLKnt9s93ZolFNTHCCER2EWxGyD+hv/t8jKDiN40omsDpatx5WNzXhWIB5koakXoIcfE=;8mTbwZIdAN9viv7U+s707Q=="
 ---

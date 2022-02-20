@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/self-service-technology-market-t
 webUrl: "https://www.digitaljournal.com/pr/self-service-technology-market-trends-growth-opportunity-key-players-and-industry-report-2021-26"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market- emerging trends, opportunities and forecast"
-    excerpt: "Artificial Intelligence (AI) in Drug Discovery Market grew at an average yearly rate of around 35% during the timeframe (2018-2021). The industry market size in 2021 was around $250 million. The role of AI is becoming more significant in the medical ..."
-    publishedDateTime: 2022-02-15T13:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-emerging-trends-opportunities-and-forecast"
+  - title: "Generic Oncology Drugs Market Growth Trends, Key Players, Competitive Strategies and Forecasts to 2028"
+    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer."
+    publishedDateTime: 2022-02-16T06:17:00Z
+    webUrl: "https://www.fmiblog.com/2022/02/16/10543-72/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 40
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "LhP5rMPeA+aofFtoud/o/WqFh5yZhJYvG8+AfgdQ4ANw7LkqX6rl/iUCPNGZwZRSmy5j72kwm9JCpjVGclpoprCgBevRagMoWYPf6NxHNZAJiPtFXpUUM4DapLnrq6XtNrzU7Jw8lzhvQm3+u1AXRv3Blhii/bUe6LPp2slGMxUVoTnu17r4z4Ox+tUVMwonuRxAVWz4fbeKYuiFeyEIG/qsbxy6AS/TrcSXAmioSJwkGpDF7On+/aid5+Q7dXZaiLgZVfCf1jf4igmYOZccJM4QcvvG2htfrGQ186rWbfwneJE6F/FrDdBC9LuPc7Zk3uZo/bf2vytCY7WtZy1n36CfcXhcmLxzys5nfTNLVZA=;F7+7m5UD8cf0LEpc8/vAQQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 599
     isCached: true
-
-related:
-  - title: "LivePerson announces new AI capabilities and integrations to help brands deliver Curiously Human™ digital experiences"
-    excerpt: "LivePerson’s Conversational AI can also now use real time signals like intents ... Brands can also begin selling faster than ever with LivePerson’s new commerce starter pack, a quick start feature triggering highly accurate, automated responses ..."
-    publishedDateTime: 2022-02-15T15:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-1d4d56d0f76b492b1db273074016e67a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "VtpTPWhUJ7abNUQUEGTfpHAw+QoSKoPD7fZSD65JFxwqxyVGrJDFnF4knhTZ8r1Ai0+tbsTolV5XJID9tL5T+ZPRuYOZw3Ip5dPmruzl7dVrjFFTNZh2W/5orB7aTIIbVNjMVS3e+Pibs3imgernf44BpvGytG1HRnTkgLhUS7tVhN0ntAd1wSX0zigfaoDvd6uXnLfXJZMCRk73pmmsFuZ8ZWpIMClCVHhDi2YetJxZAy8l7zN6BkXQ/2CsQZF6biQRAWLBz9HFgvcEm4oEoLDRXJgKyUxbK7YBBybty01Tu0bx/NT2830SyhrhOhplBTktGzUPMOFKa2zhluUsT++/BUlFiqwHsDr3D0d3UMYQ9/aiNezv2ZIRpWGV6Zf/Os6jDPEliA4dpdUidlDxmxLMAKnYNt01QRW67tHkvcvH/kUZEB44TKFfd2FM1z5FKIZtUChp/dkyp/BKhmySXPIxelTUUpOdsNG+y7l3dtjM4BE/Pn0prGqlmsGgWHwVrqQrAJxQFy/WbORF5SS+iw==;u5EjiQdfkwe2jKRCsBi+Rw=="
 ---

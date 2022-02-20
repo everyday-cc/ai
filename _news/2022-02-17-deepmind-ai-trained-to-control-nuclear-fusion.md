@@ -245,20 +245,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 56
-  - title: "DeepMind Open-Sources Quantum Chemistry AI Model DM21"
-    excerpt: "Because manually designing functionals to handle such cases has proved difficult, the DeepMind team approached the problem using machine learning. The researchers used a supervised learning approach to train an MLP neural network. The training dataset ..."
-    publishedDateTime: 2022-02-15T14:31:00Z
-    webUrl: "https://www.infoq.com/news/2022/02/deepmind-quantum-chemistry/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2022/02/deepmind-quantum-chemistry/en/headerimage/generatedHeaderImage-1644167237071.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "DeepMind’s latest AI to control nuclear fusion"
     excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
     publishedDateTime: 2022-02-17T08:01:00Z

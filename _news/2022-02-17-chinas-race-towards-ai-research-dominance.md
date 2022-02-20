@@ -9,7 +9,7 @@ ampWebUrl: "https://www.statista.com/chart/amp/26862/countries-and-regions-with-
 cdnAmpWebUrl: "https://www-statista-com.cdn.ampproject.org/c/s/www.statista.com/chart/amp/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/"
 type: article
 quality: 157
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
         width: 750
         height: 434
         isCached: true
-  - title: "Webinar on artificial intelligence"
-    excerpt: "A webinar on “Artificial intelligence-based conversational interfaces” organised by the Computer Science and Engineering Association of the National Institute of Technology Calicut (NITC) will be held at 7.30 p.m. on Wednesday. An alumnus of NITC ..."
-    publishedDateTime: 2022-02-15T13:14:00Z
-    webUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/webinar-on-artificial-intelligence/article65052660.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 37
 
 secured: "iak27K9qRXCaKrj5dpSry/6EcLy5GZOu8w6aOcLIRy0pd40r3insSLe3msAc9YSIboC4cAztde9FhanORvLB9CEne7O56ir0R0R+nIAX16ASvRbxIpSyfuBDj2b7Y5xqNPfTkazIHqwajC8AJalcbCmTww+Ibe5g5tx4HygMdU3Q+vSkttwqCueAL1P6op3ZAM622ypapWSKPqK+0mrPP7iSbQeVvo5VR/l5QIxo4p7XoMcVHWkdxwROY+rOOlW7XJAcD76pPztWRrlvmyX00of6Mairdn1BbqaYkvP1AapoqE6I9zq1NMlXuFp9Or+9VEiJP4+zP8hxCa1L7L9wgsn3xzkFKbh1qPdQBM2FdUhPY5srv3HNtgRtpTXHoi58nElZFtX4xfm6RfwnXHu2WOwADNRiMIvagUDqtNncGHN7FB6M1aSz8ogeksov4beVUXLm06s/bYB2x4BA83VQL278XZ5EeqpSkbyS5B29sfmgkkJ0wiMoqq38KaZIk0fOK25/pWukLY8FrkQtXGX2z+JVx0CU2/1PNjW9moHA9/c=;2V/N/lS8x/XyPK3AV2/iEA=="
 ---

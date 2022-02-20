@@ -2,48 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2022-02-01-cfpb-warnings-of-bias-in-ai-could-spook-lenders.md",
-      "title": "CFPB warnings of bias in AI could spook lenders",
-      "excerpt": "Rohit Chopra, the director of the Consumer Financial Protection Bureau, has cautioned banks, credit unions and fintechs about fair-lending violations that may stem from reliance on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/creditunions/news/cfpb-warnings-of-bias-in-ai-could-spook-lenders",
-      "originalUrl": "https://www.americanbanker.com/creditunions/news/cfpb-warnings-of-bias-in-ai-could-spook-lenders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/ec56e5a/2147483647/strip/true/crop/3936x2066+0+279/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F7c%2Fb0%2Fdd18a1c44935b3770f8d2716c7ef%2F380308684.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-01-power-bi-and-azure-as-the-future-of-enterprise-analytics.md",
       "title": "Power BI and Azure as the future of enterprise analytics",
       "excerpt": "The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you’re trying to predict and what data you have available, and iterates through ...",
@@ -1136,6 +1094,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-no-code-machine-learning-in-power-bi.md",
+      "title": "No-code machine learning in Power BI",
+      "excerpt": "No-code machine learning in Power BI Your email has been sent Can Microsoft democratise AI? The new code-free Power BI integrations with Azure Cognitive Services and Azure Machine Learning are a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/",
+      "originalUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/01/power-bi-trcdm.png",
+          "width": 770,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/no-code-machine-learning-in-power-bi/amp/",
+      "publishedDateTime": "2022-01-31T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

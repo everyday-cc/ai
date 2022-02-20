@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3"
-    excerpt: "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ..."
-    publishedDateTime: 2022-02-15T14:00:00Z
-    webUrl: "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83"
-    ampWebUrl: "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp"
+  - title: "Hao Xu: Development of intelligent robots for space exploration"
+    excerpt: "Eventually, to ensure the robot achieves the assigned task in a challenging environment, an artificial intelligence-based learning method will be designed and implemented. The goal of this project is to generate the next generation of multi-functional ..."
+    publishedDateTime: 2022-02-19T00:50:00Z
+    webUrl: "https://www.unr.edu/undergradresearch/opportunities/prep/xu-f22"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 51
+      name: unr.edu
+      domain: unr.edu
+    quality: 39
     images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/pr-newswire_500_4_387.jpg?itok=1yPMWIJp"
-        width: 763
-        height: 509
+      - url: "https://www.unr.edu/main/images/divisions/research-innovation/ur/project-mentors/xu.jpg"
+        width: 380
+        height: 285
         isCached: true
-  - title: "Parascript, LLC: Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3"
-    excerpt: "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ..."
-    publishedDateTime: 2022-02-15T14:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-02/55247464-parascript-llc-parascript-goes-a-step-further-in-intelligent-document-processing-with-formxtra-ai-8-3-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 3
 
 secured: "0jia/W/DDW34X5H4Unmbj96Xybki4nM9okdDyK9hyB1I6eK3l4QiFgmCSeF+TYEbQpvn9igmWzetDwj7LhDZg3WOcKCa9jkP1JEDvSnjUw7a1Z66K9+K8mPdLWq4bNVxsws5YVS7pGjyXkWKkzTKsYwtII+FSFl/MbacPnL6H0BeLbLCCcoes5nk+njaph94IZoRIvXsKphK1pH9iZJyumeQGaJ6fwyVMUp4mhCsqgtollZfQrGP4OBcJTcrYbahglU6t4oh/BQDHSS3IsoWAsu9CgreaS6U68KHQ85N56wdElwk2MMAn5Hl1m6Rb2d04YZ7g/b9lUl7u32EKvmkkivSau/AkYX5q8TL0hOd960=;Fh/OoirB+YpPKE2sK+N1CQ=="
 ---

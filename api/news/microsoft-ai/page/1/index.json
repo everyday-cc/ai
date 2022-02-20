@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-17-anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.md",
-      "title": "Anadolu Efes CIO drives AI-fuelled data, analytics strategy",
-      "excerpt": "Murat Ozkan, chief information and digital officer at Anadolu Efes, the Turkey-based international beverages company, chats with CIO Middle East about how a data management strategy comprising AI and analytics ... representatives start taking real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html",
-      "originalUrl": "https://www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/02/Murat-Ozkan.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304979/anadolu-efes-cio-drives-ai-fuelled-data-analytics-strategy.html/amp",
-      "publishedDateTime": "2022-02-16T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-16-microsoft-extends-emissions-impact-dashboard-to-microsoft-365.md",
       "title": "Microsoft extends Emissions Impact Dashboard to Microsoft 365",
       "excerpt": "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions.",
@@ -1379,6 +1335,41 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo.md",
+      "title": "Westwin (formerly Microsoft China) launches new simplified Social Media solution for WeChat and Weibo",
+      "excerpt": "Westwin plans to continue to build out the Wreach platform over time, with a built-in Baidu Paid Search Self-Serve function due to launch this summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wric.com/business/press-releases/cision/20220207CN53690/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo/",
+      "originalUrl": "https://www.wric.com/business/press-releases/cision/20220207CN53690/westwin-formerly-microsoft-china-launches-new-simplified-social-media-solution-for-wechat-and-weibo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRIC",
+        "domain": "wric.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

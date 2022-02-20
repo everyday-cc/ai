@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-02-15-bi-summit-to-delve-into-digital-ethics-and-responsible-ai.md",
-      "title": "BI Summit to delve into digital ethics and responsible AI",
-      "excerpt": "and the data yielded from AI systems has a genuine impact on people’s lives, which raises serious questions around ethics, governance, trust, and legality. And the more business decisions are placed in the hands of AI, the more risks the business need to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/8OKdWMDYmj9qbznQ",
-      "originalUrl": "https://www.itweb.co.za/content/8OKdWMDYmj9qbznQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/ktrOFbgxelMb7IiHFJSNqFjOSCKwx99VybGcu93VHUYIOuJua8rMGA0qjtbgZ1_1-2lEo4uUWt9SI3ZAyWSZzD4=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/8OKdWMDYmj9qbznQ",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWMDYmj9qbznQ",
-      "publishedDateTime": "2022-02-15T00:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-microsoft-azures-first-azure-hpc-ai-day.md",
       "title": "Microsoft Azure’s first Azure HPC + AI Day",
       "excerpt": "Welcome to our first Azure HPC + AI Day! We’re excited to host the first event, which will soon become an annual tradition. Join us on February 24 and 25 to hear directly from the Microsoft Azure team and earn points by attending sessions to get one of its kind Azure HPC + AI Day swag.",
@@ -1200,6 +1157,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up.md",
+      "title": "Pure Storage (PSTG) to Boost Kubernetes Platform With AWS Tie-Up",
+      "excerpt": "As part of this three-year engagement with AWS, both the companies are responsible for offering ... businesses as well as strong prospects in the data-driven markets of Artificial Intelligence, Machine Learning, Internet of Things, Real-time Analytics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up",
+      "originalUrl": "https://www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up?amp",
+      "publishedDateTime": "2022-02-14T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }
