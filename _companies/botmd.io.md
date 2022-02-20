@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "botmdio"
   url: "https://twitter.com/botmdio"
-  followers: 70
+  followers: 71
 
 size: 2-10 employees
 yearFounded: 2018
