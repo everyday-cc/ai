@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-extends-emissions
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft’s big cloud expansion plans with Azure"
-    excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
-    publishedDateTime: 2022-02-15T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsofts-big-cloud-expansion-plans-with-azure/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
     excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"

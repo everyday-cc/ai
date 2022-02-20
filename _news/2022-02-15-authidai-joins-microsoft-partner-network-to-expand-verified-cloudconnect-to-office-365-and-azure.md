@@ -69,20 +69,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Microsoft’s big cloud expansion plans with Azure"
-    excerpt: "Do you have similar functionality with Azure ML, or any such offerings are in the pipeline? Shivir Chordia: Azure Machine Learning Designer released in 2020 already offers the functionality that the recently announced Sagemaker Canvas offers. Azure ML ..."
-    publishedDateTime: 2022-02-15T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsofts-big-cloud-expansion-plans-with-azure/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
     excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
     publishedDateTime: 2022-02-17T07:09:00Z
@@ -98,6 +84,6 @@ related:
         height: 250
         isCached: true
 
-secured: "pU4UeLRJQbjejSZ3BbL91pX5yuuQ7jbfU5Oe4ydioHvRCzq9NYkASJMXNQ4TS0YCqg9UoVhd0xnWuGq0dkuYfiA02rajjRgIO9HD3+sYnOG4m3FthgV2H8bDQlSarZGHb2abTRkOy3jto0bBTkxAng1hjgKbKcMpjgK+GSilAqK1lhvo/sHeRE/rKWGcqOX4Jpe0Y2af2glF0zG3RpOZsazYYF7EJvFHvWPY5evGEtLrwVr0msWm7IfMqeDtSm1ePMHylkRmeosiUDeFNPsy7oZpj5f8C6dwsCAP6xynn43nLMdZpYLQ4u6QrxRdfVodW507ztE0Ukp5lZOO1F27ewPv0Xd1ueDh+bwuJdb80dM=;sYVazJ/n3a2pX+Wl5Os4Ew=="
+secured: "FewMtql8fGlIJfj2MfdX8XnV/9okxPMby6pTkLE0rIo8xSrGZs4X5M6hAOYdcjvuN7wA0WT6qpcltLDW8pKgc73lCT14EudIqnMlG+WYkxB4yJLSDm2PdgilvzFj+ZdTK8LheMTn8uuKAUo31gJqWKoG8V4ZH4A/Zb5/chMp4B021xYC7qGUhLqqiK+LVaGb0+LJGOR/BBWDneLu3VbGuZNPnS8QL1N+qFK218e5P7Ov1vcXmRETEbZ8ZLvKx8wNb77uRGN+UntLVZzro70UzWPLS5+v2nbLFbGUeWe+S/UDMhxsgKG0352FUaUIUKZ+Zv9/1cwEOc7Z/Ybq/aBRawssyI3zeaSTRmLP0kTyToc=;XcmUxyxang9l2ubtai3BoA=="
 ---
 
