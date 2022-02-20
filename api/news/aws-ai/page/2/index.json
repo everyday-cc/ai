@@ -161,6 +161,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-01-amazon-ai-cheat-sheet.md",
+      "title": "Amazon AI: Cheat sheet",
+      "excerpt": "Where Amazon stands out, Gualtieri said, is in pricing. Take Amazon Rekognition, for example. It typically costs $1.00 per 1,000 images analyzed. Once you pass 1,000,000 images the price drops to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazon-ai-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/amazon-ai-the-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/08/amazon-ai.jpg?x23932",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/amazon-ai-the-smart-persons-guide/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-ai-the-smart-persons-guide/amp/",
+      "publishedDateTime": "2022-01-31T20:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
       "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
       "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
@@ -1404,50 +1456,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-artificial-intelligence-for-accounting-market-to-witness-growth-acceleration-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market to Witness Growth Acceleration | Microsoft, AWS, Xero",
-      "excerpt": "The increasing automation of accounting processes, to reduce human intervention and consequent errors, is the main factor behind the exceptional rise of global artificial intelligence in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-to-witness-growth-acceleration-microsoft-aws-xero",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-to-witness-growth-acceleration-microsoft-aws-xero",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/01/Artificial-Intelligence-for-Accounting.jpg",
-          "width": 600,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

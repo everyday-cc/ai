@@ -8,7 +8,7 @@ webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-in
 ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
@@ -107,6 +108,6 @@ related:
       domain: manufacturingtodayindia.com
     quality: 19
 
-secured: "ZXGbdigXa4F1SjveyiJEotAniEYvYzVEoTWGmdp1/FvLo9FLCzQResZlUudyn27ChaQadff8PJs9RJN2BeCLi4g1cS7ASTD6YjW7gjlB6RVRPjhd6VrYukp1gPU6nFlqEUDsTr8ypPRsqTipYLPZB78578SuXZ5EO8avbPKnAC+xPcE2LeiklqqywYK7iK/r0rDJAbC5u1MGsHcSs9ScQRoYJXZNxR8e8Xn9cnnZaxpNDfeVL3UK/y1KoqIEV2646DH3bTiGUANlccbkF+YF8ueBpoEwePs4hMpAzLsYXKC0IjSDmQgI+yczKvSrGv9MBnS2wcAuEwAXrygOXAb6fyKa4HvEj1hFytztQpvEKKY=;X6YjZE3E9XAcogAffTfMJA=="
+secured: "SBNb6bQIu9gGbfrV4VCjGE4k/gS28/WDo6QCENIuFABD350SaTRTwBJD7t5vcAIwZVaKVXATB/nEQdvyqxS8jUl6MzfQt3NzsHyOUT5vOFZWaGx76rnrdse8bhrkGrkLcFsWINAiusH1PGrZfNQpcH5CuCfVzODTzN2ubt9mDQaWxzIuUta3x/LoACbrHQr5cmWG87JSaSpwrMkJBqf8lPxCB0fhnElMYG68B6Zzdec8mrnoCWLOiWhwLjGCowL3dTnT2B6957DWzM6aEkcjjcxOhl8LnrL811aJAS62gkuvYfAF9p4cOFbSdVFiMuIPmDX50kMr61FkIi7GwemuZMpklXm4+cL72CFtkUIFLIZvT4eNgW9+C7EPbg3AeAyYt64zgUcLUPia1g8q2yWtNB9Bloz1zB8e5flp0B9N2+jm5ckg6/22DZy2q7pMmdyFrn93QjsMnp4BbOHRwDr78bq/HVT+6t/5Mrv6XvTSd1Xfzg+W1HycsONnImsLVzqMB6WgslyQsdH+ANhvSS/D+Q==;d+N6X+czVvXTKwkNkELG4g=="
 ---
 

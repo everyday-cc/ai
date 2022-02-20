@@ -43,6 +43,17 @@ related:
         width: 620
         height: 310
         isCached: true
+  - title: "Student in India develops AI model that turns sign language to English"
+    excerpt: "She invented the AI model using Tensorflow object detection ... a pair of gloves called ‘SignAloud’, which could translate sign language into speech or text. They won the Lemelson-MIT ..."
+    publishedDateTime: 2022-02-20T21:45:00Z
+    webUrl: "https://technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english"
+    ampWebUrl: "https://technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
 
 secured: "ZXiGDUdp85v9Q++uPnO56W8PaxtBVYccLMDwTkXOwvyjHw2IX+y02/NWsEfdwivRgp/C8mOrRw8x3km9Pk/hANXrLycoY0DRxX1qVlIV5iT/orm6IeaPcBJSROtKKob4Rs4QG/r/XzvxPxCOa3MadzJ1HUe/kI8Idc1SsetKosRIvEdeYlJyBJPzfXUu9YoU33XLr2PQLLUEIX/Lbp8m4X3ZVTdoUFUGndHUvaVyQnNNeqpumVuOpjjyCCYsZDGrd/9pFPAqBsftaMCzzzBESeojctCx4y/9LtWWJRxqX+1+ma45UDjRZpvAKsxWbV0/8ji9wAuT8uBRnhFdd7a/7/5vRV3LuGuIoVlq10C8qe4=;noxg0zLbeb+//yqgeiUkBw=="
 ---

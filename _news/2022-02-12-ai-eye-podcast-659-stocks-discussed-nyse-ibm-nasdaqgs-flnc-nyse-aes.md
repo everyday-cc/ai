@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI Eye Podcast 659: Stocks discussed: (NYSE: $IBM) (NasdaqGS: $FLNC) (NYSE: $AES)"
-excerpt: "of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions. Daniel ..."
-publishedDateTime: 2022-02-12T04:40:00Z
-originalUrl: "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES"
-webUrl: "https://menafn.com/1103683505/AI-Eye-Podcast-659-Stocks-discussed-NYSE-IBM-NasdaqGS-FLNC-NYSE-AES"
+excerpt: "IBM (NYSE:IBM) has announced the launch, in collaboration with TD Securities, of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions."
+publishedDateTime: 2022-02-11T19:53:00Z
+originalUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp"
+webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/02111IBM-FLNC-AES.asp"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Investor ideas
+  domain: investorideas.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "hfJMKWe2ueP6Q4O3maWOpj1Ep3G8njEgyNeWlj9MLzhdRmUlDnP1Qxu+tthMvxXy0Bf9nlgOZhFkcKbxCRvNTCHixm4E8gnAxS50MFNICrpAfxw1fAlgNjZ7auhV1In+s5aLoPIGpRcPt7D3GM8je+2ZqL0sPfNPH+GamzbYv9ooLM/7cVL5eg0rBMBjfDNB1GScjA3I2z8e2OaS1IjhtFecNAqFx6ryyo35nI9VEAAYP++JC9dsa7c+Knx6eovQVT5mWIoxwL0jjGya4PELOrm/rmFjUB+y+FzQLB+pUSTUKXarOShJ6axokAHAKNWLw6SeiU3hH628i0hkL0elH2eUw8IxqYhzxezr39Pn2QE=;Jl4AX8GTzA769t3DukrLYg=="
+images:
+  - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+    width: 1280
+    height: 1206
+    isCached: true
+
+secured: "gQl1zfTJGF+oe+dw0CP/jVvqlsOLYfn+vr+Qg6GSbYsB2mxP3BAPXLdYWYQSWc3xT4aHfrMG3eMwH6y340CPy7/xW48bmfR+ySr3FQNzorYxVZWdSvIab8jSOoV41xgYlKfjP6hg3wfemcGDavM9FqpHVh4o07e8P0dojYbDs3EYYzYFIwxMD9KpdoBYvtK6tNmjSvtbkzy8tTa71VIf9SKos1aI0ARaSljlP0uuEdNdTFbpt9AszkWu+qjQR4J4dlx43oSGvBkcF0MqnYAfdyYUmIJQN0X6Apiqo6JVbIejbtxU2ZTxfUNAPqRAxvtJNbOXloLT7DGqfs93nVHNzPv+FtuKjvFC95tziT4kDcc=;JMFVe7Eu6CJnVTT6OjPEgg=="
 ---
 

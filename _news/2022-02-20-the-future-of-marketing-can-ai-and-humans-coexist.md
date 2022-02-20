@@ -56,6 +56,22 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 66
+  - title: "The artificial intelligence-enabled nation"
+    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
+    publishedDateTime: 2022-02-20T18:47:00Z
+    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
+    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "How Artificial Intelligence is used in The Crypto Market"
     excerpt: "Overview  If you wonder if there is a relationship between Artificial Intelligence and cryptocurrency, then you must know that the crypto market uses Artificial Intelligence in various ways. Due to the use of AI,"
     publishedDateTime: 2022-02-17T09:39:00Z
@@ -71,22 +87,6 @@ related:
       - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/02/jievani-weerasinghe-NHRM1u4GD_A-unsplash-scaled.jpg"
         width: 2560
         height: 1570
-        isCached: true
-  - title: "The artificial intelligence-enabled nation"
-    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
-    publishedDateTime: 2022-02-20T18:47:00Z
-    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
-    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
     excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
@@ -112,6 +112,6 @@ related:
       domain: manufacturingtodayindia.com
     quality: 19
 
-secured: "1BUZyXmU+lYyuJYSHHpy0DcyLAQIKrYzlZlyR/l4ATHqDfwXSMWQEi04tPLXEDpKDZ6NajzeS2RPFvpsilRbBwQ/EiIR6WiLbq7a/8QAas38CWNpWd1+xKvtr0VvRWuUy8sQHHvGGLCAij3ZC+Isi9I2788WaqfYzEJBvd5LYSCz0DfS87DT7lh24t8wwvIhr7nUT2WMWDzJ+8hYgj1RjXnoml299QxqTQnWwYc5p0naTJkh7LqshRnzYa1HLLHtfgmtE1duuQjeexpP84j2Go7GTAeZPjlvqWPQH78FIHcRXXo+2yblnOIXl4wc7sgRt/Y1eZALayquGajtU4Xoowj1fH881zJdHKnWRpz0CwY=;V7JbNnWLXztwQlMMqPkwHQ=="
+secured: "4GgYLXZmljMDkVNzCNDmf6Aaae2+EZhBYJSmxe0uM+OXRWDa0+cBwNwxccmgb4rN96XRGc6ojr/Zq6bue95LCmiLNcWFbyT/CP17xDCnHNKz8uxmq8wJKh1CxB5/9noHz9GulbwNxgOCtvqGa0nWXy6KgPNlORLLB1WK8y3MMrHFlQF9QLBXThsusoww4+pG8JID22F+SCKLWdarOTnXAo+Aun+17aKUczDQp7GabBjcj/NIFePiRzCK12XZqkfrIatDVrx4azxbQEVWQUld37GiHgQtNdXzdAsDjzbB1cxFvD5f76FZK9WBkGgrC/WVGkPS1w2M6mAgYKM7RzdWwlmUZFWh6XDNEtFogI4R4hbo0JeXihoNAfoN9Q7D15YVNrkU75OUd0k1okB3WlIzSG03l/C/Olq8bbCLBUn65fTqHqF1GrVvenOUEbLgFsLuWaLR0b3bGJntyeGrqhMFmlKfTi5rak6GrmMhpo4X7VwC0LBB2WQKZpDiPCFfOS2IrlsZEvMuFeHYWv2xBpHs2w==;qtaasRdZtmg0L394tebr2Q=="
 ---
 

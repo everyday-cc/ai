@@ -3,8 +3,8 @@ category: news
 title: "Meta-AI: How to Build True AI for the Metaverse Platforms, or what's wrong with Meta’s Next-Gen AI Supercomputer"
 excerpt: "Meta Platforms (former Facebook) has introduced the AI Research SuperCluster (RSC) as the world’s fastest AI supercomputers to accelerate AI research and help us build for the metaverse. RSC is supposed to help us build new and better AI models that can ..."
 publishedDateTime: 2022-02-16T13:14:00Z
-originalUrl: "https://www.linkedin.com/pulse/meta-ai-how-build-true-ai-metaverse-platforms-whats-wrong-abdoullaev"
-webUrl: "https://www.linkedin.com/pulse/meta-ai-how-build-true-ai-metaverse-platforms-whats-wrong-abdoullaev"
+originalUrl: "https://www.linkedin.com/pulse/meta-ai-how-build-true-ai-metaverse-platforms-whats-wrong-abdoullaev/?published=t&trackingId="
+webUrl: "https://www.linkedin.com/pulse/meta-ai-how-build-true-ai-metaverse-platforms-whats-wrong-abdoullaev/?published=t&trackingId="
 type: article
 quality: 18
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHNz1c212OFhQ/article-cover_image-shrink_600_2000/0/1645016282331?e=1650499200&v=beta&t=-G2KHIMZ2vJVyPL7mFAqN0d7kqQttNvMycxvJREkSjI"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHNz1c212OFhQ/article-cover_image-shrink_600_2000/0/1645016282331?e=1651104000&v=beta&t=0gc0KwmhQzq7qfvz93ba9D4JYljUA28KODOSj7FTqOs"
     width: 602
     height: 339
     isCached: true
@@ -46,6 +46,6 @@ related:
         height: 809
         isCached: true
 
-secured: "cwIx+FTJSjgHgXYTDl4FIfyHGqGODwZvALbpkr/s2pH65U6m/xTDGGyU5HthhsBzOq6DrM9WEMzWLBBW+0EreTyM54R8tOFabFDHWfaFp1QLFrbwflgGLVj624pD3G/qOPPwMutzMlz+SRFf5aXkqQqqUGo+jOZHxfNo2y8KyxvKhdzezybiCNv3WwJ1RvkhECo80Oo7RetNNZngsHn59vEA6BeTqKY1/j148YZXnv2OK8MPaZ/riSuy1UQoAtY6IsStr0SgvHj03XLCFRK58coN8WtO1qJ7QB069TGt43wjmICOKmvOJgDKdV2JHD7T0PEfrkoiCZZKK6alSqnrWQSpUyB3AyGAXWY5Aq6Qy+im3KoN0YuFeidS5Cbk1MSTd1yjbi6FsLVidi2J3XX9WDxlB5Okxm1L/ofG//n36ROZsYDZnQdtc9we2wTkg6/6UrF2nlRaK/sBNFLK8j4BEuzQbMynn+5r4dm7+p+Y4qNtLBrub8fFIXbEWq1jdpyF5DJ1qadTUfMoCTljCPjI0A==;DMR7NQ9IAiSa4UZoZLAdqw=="
+secured: "fVrim71toSiTG2MzUN1Vf2q4HQWaADxzQ/6fSFXJDDKcR/IUiNE0RPFe8tfZVpf2EUY/hWogCaTecNMbgHftnYrnPKBP9ktbaGs4aOJQMS4wXaw0tLcGo0TSN2iU8RvUlnrqps3CaOKVvPrKz2cC1j3G8gNExEYIIUezACZ62dQPVHOI7if1znTqIviY5GEZmRT/jKceqRuggzUMePDL4w6KWrsyyngJBmFRrp4aSgqWcGsFysEENV6Yy4lTkXFL5cvhKtJ+DV8Y1S6Vgk1iaVMYa4dEtI31TdQ/I7SwTUEj4LWKMAaopTJXr0ljVS6T9oRy22uP1xLsSz8xHTzsaQPDdHZ442LKtWhTCoAacZQ=;97DhcGO9ENz4jA7GRPgfMA=="
 ---
 

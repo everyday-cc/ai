@@ -52,6 +52,22 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 66
+  - title: "The artificial intelligence-enabled nation"
+    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
+    publishedDateTime: 2022-02-20T18:47:00Z
+    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
+    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "How Artificial Intelligence is used in The Crypto Market"
     excerpt: "Overview  If you wonder if there is a relationship between Artificial Intelligence and cryptocurrency, then you must know that the crypto market uses Artificial Intelligence in various ways. Due to the use of AI,"
     publishedDateTime: 2022-02-17T09:39:00Z
@@ -67,22 +83,6 @@ related:
       - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/02/jievani-weerasinghe-NHRM1u4GD_A-unsplash-scaled.jpg"
         width: 2560
         height: 1570
-        isCached: true
-  - title: "The artificial intelligence-enabled nation"
-    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
-    publishedDateTime: 2022-02-20T18:47:00Z
-    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
-    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "The Future of Marketing: Can AI and Humans Coexist?"
     excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."

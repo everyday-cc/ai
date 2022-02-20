@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-o
 ampWebUrl: "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/"
 type: article
-quality: 89
-heat: 91
+quality: 91
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2012/07/cpu.jpg?w=1200&strip=all"

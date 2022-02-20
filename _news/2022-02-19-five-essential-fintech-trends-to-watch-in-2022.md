@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Mexican Fintech delt.ai Raises US$25 Million in Cryptocurrencies"
-excerpt: "Don't worry, we speak : Español (Spanish), too! The corporate credit and expense management company delt.ai announced that it raised US$25 million in debt. It did this through TrueFi, which is a DeFi lending platform designed by TrustToken. It is worth ..."
-publishedDateTime: 2022-02-16T19:13:00Z
-originalUrl: "https://contxto.com/en/mexico/mexican-fintech-delt-ai-raises-us25-million-in-cryptocurrencies/"
-webUrl: "https://contxto.com/en/mexico/mexican-fintech-delt-ai-raises-us25-million-in-cryptocurrencies/"
+title: "Five Essential FinTech Trends to Watch in 2022"
+excerpt: "Machine Learning is continuously developing, and Fintech will remain just one of the major sectors to gain from the power of AI/ML. 5. The development of Banking-as-a-Services. Over the last few years, Banking-as-a-Service (BaaS) services and platforms ..."
+publishedDateTime: 2022-02-19T05:06:00Z
+originalUrl: "https://www.linkedin.com/pulse/five-essential-fintech-trends-watch-2022-apac-monetary"
+webUrl: "https://www.linkedin.com/pulse/five-essential-fintech-trends-watch-2022-apac-monetary"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: contxto
-  domain: contxto.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://i0.wp.com/contxto.com/wp-content/uploads/2022/02/deltai-Jose-Alex-YCombinator.jpg?fit=1280%2C858&#038;ssl=1"
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQGFf2tmx-5tjg/article-cover_image-shrink_720_1280/0/1645246397557?e=1651104000&v=beta&t=n5lS1bgSzqhA4DDLPqUBm0TZK1BHjOKoK2-MRA-6yUE"
     width: 1280
-    height: 858
+    height: 719
     isCached: true
 
 related:
@@ -85,6 +89,20 @@ related:
         width: 2560
         height: 2048
         isCached: true
+  - title: "Mexican Fintech delt.ai Raises US$25 Million in Cryptocurrencies"
+    excerpt: "Don't worry, we speak : Español (Spanish), too! The corporate credit and expense management company delt.ai announced that it raised US$25 million in debt. It did this through TrueFi, which is a DeFi lending platform designed by TrustToken. It is worth ..."
+    publishedDateTime: 2022-02-16T19:13:00Z
+    webUrl: "https://contxto.com/en/mexico/mexican-fintech-delt-ai-raises-us25-million-in-cryptocurrencies/"
+    type: article
+    provider:
+      name: contxto
+      domain: contxto.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/contxto.com/wp-content/uploads/2022/02/deltai-Jose-Alex-YCombinator.jpg?fit=1280%2C858&#038;ssl=1"
+        width: 1280
+        height: 858
+        isCached: true
   - title: "18/02 – Weekly Fintech Recap"
     excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."
     publishedDateTime: 2022-02-18T14:16:00Z
@@ -98,20 +116,6 @@ related:
       - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_1.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Five Essential FinTech Trends to Watch in 2022"
-    excerpt: "Machine Learning is continuously developing, and Fintech will remain just one of the major sectors to gain from the power of AI/ML. 5. The development of Banking-as-a-Services. Over the last few years, Banking-as-a-Service (BaaS) services and platforms ..."
-    publishedDateTime: 2022-02-19T05:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/five-essential-fintech-trends-watch-2022-apac-monetary"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGFf2tmx-5tjg/article-cover_image-shrink_720_1280/0/1645246397557?e=1651104000&v=beta&t=n5lS1bgSzqhA4DDLPqUBm0TZK1BHjOKoK2-MRA-6yUE"
-        width: 1280
-        height: 719
         isCached: true
   - title: "How Fintech is revolutionizing the insurance sector"
     excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
@@ -151,6 +155,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "GwOIiDMgt364NZ8gjfDFhdIa9390A1NvdoKRQAMFpfN46SAWOj68jvbRMF7cmsSAp5sC9++aF7ZlFw5HsSHIcj9sUUNBKlCkthnlllLyaibrC8paF9ttOoI2d+ykX7wmqoNZWpF8/BppQnDgjuAo+z2qaLI9ij5ZaBMBLxSeX/d0yocRb77Gvh9L5u4hSXN/yRi1I02UdTPMmYPxYUxcf20mjKuOOvSYwZi7rOGdSOa9PsVcp6j5CHmBsesWJo9cUBMf9h2anf+qXKf7EK7zj26mRPAnbAx/lphU6owvuvLIOa3dyHX+UKiugnAXAVonLBVTjJkbpplHzJZKO7lf8dVU8hXpoIW0AARUzcgPvnritIIjQSZ4jk+ZzOYDhKR/eJs+ZaSn5P53khz2JPJNt45Dqfi299agocQ02tS/F4N5E94Sdl5mWF49PFuGOpuSCc2k8BsgGLsz6Uy9l4M1x4whxlTJ+RAVjrHYQYVmpi49xqwMU/tdJI2tyt9U3fix9wLfvD/LeKetzOKb/SYWjg==;6rMzgXIrI00knMiz29wT8Q=="
+secured: "QH5Hn9QLUXXBJbaLkCXlukoqF6vrnXsPbi/Dh2S9Ax+W7EJL28djSvnOBKAPzLC3sJxbl3JdkZlwrDFHTs5YTKlnbLZCf/koePCfDNcRdF4YTfr0wuaNe9lV/L8Rc8fiIA+tP3SyqQGLot5coI0jIzp4gvvnthwn2b2L8jiwvFr0RDvW2KzBY/kr3RQmki0S9f7mRpueSz9cvmWWpquqCVGh+2tWnC8iLVc5ADCEmlLE/PhDi1EGV2ofoA50bdj04QqK8JK+7IuniOM6yKba1lHNp9arTCTtV//h7cRSl9+gXmUlGhHLth6HFzj9cZpFi/zYJBNHKzb2HC9CodLzO7hNwc37ggCRVFuGjib/mlc=;Pc/NHeZYcR1hlpDyIVmx4A=="
 ---
 

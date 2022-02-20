@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Intel's new chip plans could help AMD"
+    excerpt: "Intel, which plans large investments in chip technologies in the next four years, said on Thursday it expects revenue from its segment housing PCs to grow in low to mid single digits, and its datacentre and AI business to grow in high teens from 2023 ..."
+    publishedDateTime: 2022-02-20T21:55:00Z
+    webUrl: "https://www.crn.com.au/news/intels-new-chip-plans-could-help-amd-576300"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/Intel_foundry.jpeg"
+        width: 480
+        height: 320
+        isCached: true
 
 secured: "6ERMkd1pBSTqi9sjpg55pnBuPuKzNrwpvicjRwDPGslinocFNljjEkIZxaClM9tGchpimsg8w6LIIBzBaO0Oe5xXyKM5GNUnsImF11lBDdvxpUioFOgsVGRk8914S7eBPX03hcL+08IIFUUptVX8huV++kZkNB3EiSF0C4x4m5zMBOn0bz9Sj3s5aIPxMBwx3zLV0Pp97ZRdTElFxLGRTR3YCfbYvEfi/Ebed2fmeY61AmKDT/bE8I6DWKb5ztoXZv7p77t26yeel0/0nLSlMmevXckvwLBh7g8NMBrhozwwu4WE6PUrQQPF5EswOi6MKG9FHYdl3LS1Au1YshQc7WCx0HPPeXSYFpHcFrrHJJY=;MlPAj92el2MHVuTRTpwEeQ=="
 ---

@@ -63,7 +63,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
         width: 600
