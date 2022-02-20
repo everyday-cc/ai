@@ -2,7 +2,7 @@
 name: "Buoy Health"
 overview: "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better."
 type: "profile"
-heat: 58
+heat: 42
 
 website: https://www.buoyhealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "buoyhealth"
   url: "https://twitter.com/buoyhealth"
-  followers: 1360
+  followers: 1359
 
 size: 11-50 employees
 yearFounded: 2014
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "wJJ+5PvPEt4C09HWSKQoFt7NcD/iliQ1koqbgoaWYI72bM12zKjeG7/1lmHXvidXwbDmLOOsU6GpkHbwLUM1OYhRxCbl4zUl4U8jBIuQTbGF5ioIIw3U4uK2KR/StON6md0trAlAWKrenOCMEJuFiL2crNKN2ZpCQRsV0NVY1TrN058v9ie67nb7iZryCQN89TBALst15gnlYJTb/V29nPPuvS/P8wk/GZievd0QtzVKEDoCSRspqv9xgISP87itAPfwdvPLwKnv/Oc48o9V8L1O4b6JJ+ZFY+fygz2xU1z/2zNVOjvC2R4RtTng6gUhhNuCU+Jy/4jhX/GZBlN7J/5iv/CwRSjDaAJsOe29XcubedmJra8eqeCxKVplG8+Xc6zneySumW67qBm/1aydmNL7oUOs+sy2I1Y/YAxlR4M=;6+kFdNorQDaQWtyXMqr5EQ=="
+secured: "6nE0gjodZ46pOqgS9OmO/8+zPdAJKo1sJ2rPD4y7VqL0sCV3/M5Itlp4/f0GgkwHVLB35eSZDw1Kx2EInHiygABoJBmBOXXoF/EBpTGTKBy7OGuszwHznsWreF67KL1/keNCSR4mSkvLotp/mDFsyRj4iB1x6Y4IA+zStO/BYIS+o6jUI7u/YH2w2VFeNA33J4nIsvr5Wpqjnt44AikkeboZhaqohckUT/Uj4HL4X6QCaT6138pVLo6pn1OUoHtO5Ad0Xk3qCawVQXwYAGTPlEVNxdM6ta6gkWalGvb3aJg5woBDUw7LSYIWxHPVq3fsz7lThyXBOA8c1JSQGiyOITIheDqfLyK1NEtfrXbQETk38cN2vSkkhJco++fLCY68q73NeebDuoW4Yr5NIP1TMXYI0EGqyyzNU1IGCdlVNN4=;qV3ybvxJ5Zz8zpGq1jpOOg=="
 ---
 
