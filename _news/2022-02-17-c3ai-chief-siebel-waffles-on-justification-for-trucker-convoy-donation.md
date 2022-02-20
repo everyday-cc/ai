@@ -43,6 +43,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The Pentagon is spending millions on AI bias detection tools"
+    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of ..."
+    publishedDateTime: 2022-02-18T16:51:00Z
+    webUrl: "https://www.protocol.com/bulletins/pentagon-ai-bias"
+    ampWebUrl: "https://www.protocol.com/amp/pentagon-ai-bias-2656723227"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/pentagon-ai-bias-2656723227"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-deals-are-part-of-a-usd249-million-blanket-purchase-agreement-less-than-p-greater-than.jpg?id=26386473&width=400&coordinates=0%2C144%2C0%2C145&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "GnWVRmtbYheN/EZBzjDMLAfiJHxyHCLzbJSD5Sw6njfswQ5nDmkEvb2DfhzwvtC2y6fUEZzmVAgL6rEku5pQOSeZLzVgBTEz9IXAXkmyLrgoStlLWWbW0oIzAda+ICVP2N4YAUfqIR58h5L0ZddKK1+N7cJTaV56RN3YUvx2F+NnSO2lZWKW9Ibx9fFdUmRSMJoNj2On4Dx81Y1m3+2Ajs5ju80kgas60u1Ao7ld4dkl1RYW8c/X2GdbywKJjRMet/I/ZzWZtiRvLY7+qFB8SXRZlPE3ArILVJ8eCFpW/1YHNSyWLtCEdg2NJLqKTMXSMcHYo8eMmzslcqBrsNq2UANDq+mOrUJ2euXvtk6vQLv8X9QiE4TIH9JSSJC4A36E1Kl2dVT7fhaqoCF+Zad6vlDpAodLe7v2zg5wcOMtyxIwOzyTxjPPr6oBC3s3Q27gA5mn+xlEDJP/spEkNmiudOMMYoTna16bo4QLlzzYBv+ln64xa2vn6IstOkGFyWmx9fHFuVjdQSOlxLaKsatFmA==;Oazyhj3Nx1IHcg6Um6EsGA=="
 ---

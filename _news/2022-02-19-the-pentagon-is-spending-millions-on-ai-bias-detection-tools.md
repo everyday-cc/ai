@@ -27,19 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Inside the Pentagon's AI Epiphany"
-    excerpt: "Fool contributor Lou Whiteman describes the history of the Pentagon's relationship with AI, and what the future may hold. Lou Whiteman: We're going to start with a wide view of what's going on with the Pentagon and then dig down into a couple of companies ..."
-    publishedDateTime: 2022-02-16T00:06:00Z
-    webUrl: "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/"
+  - title: "C3 AI chief Siebel waffles on justification for trucker convoy donation"
+    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of ..."
+    publishedDateTime: 2022-02-16T19:08:00Z
+    webUrl: "https://www.protocol.com/c3-ai-chief-siebel-waffles-on-justification-for-trucker-convoy-donation"
+    ampWebUrl: "https://www.protocol.com/amp/c3-ai-chief-siebel-waffles-on-justification-for-trucker-convoy-donation-2656690502"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/c3-ai-chief-siebel-waffles-on-justification-for-trucker-convoy-donation-2656690502"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: Protocol
+      domain: protocol.com
+    quality: 59
     images:
-      - url: "https://g.foolcdn.com/editorial/images/666268/gettyimages-investortablet.jpg"
-        width: 2138
-        height: 1402
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-tech-ceo-said-he-has-a-long-history-of-donating-to-causes-to-protect-human-rights-less-than-p-greater-than.jpg?id=29361119&width=400&coordinates=0%2C70%2C0%2C36&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "C3.ai chief Siebel waffles on justification for trucker convoy donation"
+    excerpt: "Thomas Siebel, CEO of data services and tech company C3.ai, has confirmed that he provided a major donation to the truck drivers that have shut down large parts of Canada's capital and a key border crossing to protest pandemic protections."
+    publishedDateTime: 2022-02-16T20:05:00Z
+    webUrl: "https://www.protocol.com/bulletins/c3-ai-siebel-donation"
+    ampWebUrl: "https://www.protocol.com/amp/c3-ai-siebel-donation-2656690502"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/c3-ai-siebel-donation-2656690502"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-tech-ceo-said-he-has-a-long-history-of-donating-to-causes-to-protect-human-rights-less-than-p-greater-than.jpg?id=29361119&width=400&coordinates=0%2C70%2C0%2C36&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "hV0RZCXZaVw5ZSK4f3Wotht/98x0RanPwEScsymEu7dCUdkDhHGulUn2TSakUc5ZWCxWwgTX3zWPK/U1SVeFI4iqAzW+McKFi7UtnqrSrTESb+8DRt2kP4YN+1kZeslL2paqmRIhgST4KbZtIsaghq+S8JF3NDg70ZrnpgMgreC1QK9UrKidsRkimuKiT6znXHGUEg+giUSHNzt7brKBn0t5tUsvBMI5t5OJzyut5O5vOrWA5jpAI+KtD7iBIvdN7aALKlonDZbNQadTXUKqZaRN8Wh8b6/o9UoQv+prPJUwgfgmN8yT/1uaFjM0C28CJrBW62ri6lvHdzBhKFGqMYjpAD0Ozho/BFRGvSQL3XlulBZmgj0B3N6S9dHTQgv21en4Wbo/WYX9fgjpNxw7gH/+iv9sADh8s8n5EzJZrB4pi90iLpdrT57HrtwlkXRNvwnyn6CGkoZTBTt+XIkhdpfcq4nKVU/QT7Uy1ZUn5sgnNTtidceeidmanewNO4j2yHfL2AAYVodM3rzwYuPxNQ==;7Q9TjT8TjNIIJTvOzp3hrQ=="

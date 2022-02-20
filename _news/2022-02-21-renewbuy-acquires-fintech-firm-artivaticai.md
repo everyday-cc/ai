@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Fintech Is Going To Integrate Hyper-Personalization In the Financial Sector"
-excerpt: "We can't imagine our financial lives without digital finance, which allows us to do anything from check our bank statements to trade stocks. The revolution in financial technology has democratized areas of wealth management that were previously beyond of  reach to the general public."
-publishedDateTime: 2022-02-17T13:05:00Z
-originalUrl: "https://www.finextra.com/blogposting/21847/fintech-is-going-to-integrate-hyper-personalization-in-the-financial-sector"
-webUrl: "https://www.finextra.com/blogposting/21847/fintech-is-going-to-integrate-hyper-personalization-in-the-financial-sector"
+title: "RenewBuy acquires fintech firm Artivatic.AI"
+excerpt: "Promoters of the AI-based start-up have received shares of RenewBuy, according to the chief executives of both the firms. The deal was closed in the first week of February. Agencies Last year around June, RenewBuy had raised $45 million from Apis Partners ..."
+publishedDateTime: 2022-02-20T16:45:00Z
+originalUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms"
+webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms"
+ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
 type: article
-quality: 2
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
-  - AI in Finance
   - AI
+
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore"
@@ -32,22 +39,6 @@ related:
       - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
         width: 675
         height: 380
-        isCached: true
-  - title: "RenewBuy acquires fintech firm Artivatic.AI"
-    excerpt: "Promoters of the AI-based start-up have received shares of RenewBuy, according to the chief executives of both the firms. The deal was closed in the first week of February. Agencies Last year around June, RenewBuy had raised $45 million from Apis Partners ..."
-    publishedDateTime: 2022-02-20T16:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "UK Tops the Chart in FinTech investments"
     excerpt: "KPMG’s latest data proves that this trend is set to carry on in 2022, so it’s a fascinating time to be in FinTech right now. In particular, the likes of Buy Now Pay Later, Request to Pay and using emerging technology such as AI are set to define the ..."
@@ -135,7 +126,16 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Fintech Is Going To Integrate Hyper-Personalization In the Financial Sector"
+    excerpt: "We can't imagine our financial lives without digital finance, which allows us to do anything from check our bank statements to trade stocks. The revolution in financial technology has democratized areas of wealth management that were previously beyond of  reach to the general public."
+    publishedDateTime: 2022-02-17T13:05:00Z
+    webUrl: "https://www.finextra.com/blogposting/21847/fintech-is-going-to-integrate-hyper-personalization-in-the-financial-sector"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 2
 
-secured: "y/EEsaNnq5JaMeCYEnTdSQZo6zrM7LR78Zxk+WyEpVlmYoxwKf2NnLffRc0kY5VLRXk/9CkQb2nznCO0Yamgf/tLEKbTOpH8rThZ4FKmuwCtoIrEDwkd5tL7wYR3xiMYrrmS4/DrinT0fpEPqH7YhizYtcOzqQtAyw+rM0c+DFIdA3oo7YTyWslp0QorzcfO9YuSwjLGb7DR2TLj1865gKSnY3zmtjWYpGHz28P9cpa374E2xmy2AVz+933vQ2bh7zL/g3dhwUWSArE5FLJV2uzoaT5i6MRarDEadch+njHV+A9p68zErsnL4PLLBmbLBy2aH+rJuI76HxgWd9kCbjc6lxOrfkXZJbOGqn6hxpc=;Hre/mP3H6lakbm4uqYvEAw=="
+secured: "NnD6W+f1CHF0dQM5UnQdDJ6AzRN5SvTea1LOhlDGPy1SvRmLafuQrd3ymnkv7Zt7/HVxzAL3sECBdC1Cd/KXrqWsZdo3kl7jsEq+ns4j9hW+fj/NMTCk80etE4gUW/fp5QTPr6xvt8yqQ1mtrNbSJiMVhzHwipgw7I03lg4LJPKa2Be8vpKt71NfpStIDAdHVLIzg8PZriQdT5BZhGN3YxLImtn7WQNR6/leDUlX4bu9GP5QTv3aSgxpGkLva9arRsDg26ycCybbxI4lea57BbXVTP9aOfaiADeXHvZhQKNiB22IWZDDEZY2+qNKRuaAfhE4wwgnkKehVLK4zbfFxOr4Plfu42zKpDDN3wRmvfA=;6sI2z91ZFrwUPPWrW+hctg=="
 ---
 

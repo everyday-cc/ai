@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Jensen Huang interview: Nvidia’s post-Arm strategy, Omniverse, and self-driving cars"
+    excerpt: "And Huang said he has high hopes for his three-chip strategy, the Omniverse, the metaverse, and self-driving cars. I had a short time to interview Huang after the company reporting earnings this week."
+    publishedDateTime: 2022-02-20T16:45:00Z
+    webUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jaguar Land Rover teams up with Nvidia on AI in cars"
     excerpt: "Jaguar Land Rover on Wednesday announced it will partner with Nvidia on a range of technology fronts, which customers will start experiencing from 2025 ... including self-driving capability and other AI-enabled services and experiences in the works."
     publishedDateTime: 2022-02-16T18:00:00Z

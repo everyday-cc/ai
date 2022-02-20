@@ -1,29 +1,31 @@
 ---
 category: news
-title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
-excerpt: "DeepMind is a scientific discovery company acquired by Google in 2014 that's committed to \"solving intelligence to advance science and humanity.\" Together, they have developed a new magnetic ..."
-publishedDateTime: 2022-02-16T21:57:00Z
-originalUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.html"
-webUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.html"
-ampWebUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
+title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
+excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
+publishedDateTime: 2022-02-20T16:36:00Z
+originalUrl: "https://www.linkedin.com/pulse/deepmind-uses-ai-control-plasma-nuclear-fusion-reactor-spencer-"
+webUrl: "https://www.linkedin.com/pulse/deepmind-uses-ai-control-plasma-nuclear-fusion-reactor-spencer-"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/epfl-and-deepmind-use.jpg"
-    width: 1107
-    height: 622
+  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFl50Gmy44_dA/article-cover_image-shrink_600_2000/0/1645374436948?e=1651104000&v=beta&t=1J3LeU3dYyjIR1ZVdOziOmSpc-mWFeZ6GYTRiEz2LR4"
+    width: 945
+    height: 390
     isCached: true
 
 related:
@@ -136,6 +138,22 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/02/16111051/PRI_223707137.jpg?width=1200&enable=upscale"
         width: 1200
         height: 800
+        isCached: true
+  - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
+    excerpt: "DeepMind is a scientific discovery company acquired by Google in 2014 that's committed to \"solving intelligence to advance science and humanity.\" Together, they have developed a new magnetic ..."
+    publishedDateTime: 2022-02-16T21:57:00Z
+    webUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.html"
+    ampWebUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/epfl-and-deepmind-use.jpg"
+        width: 1107
+        height: 622
         isCached: true
   - title: "Explained: What is Google's DeepMind and how is it being used in nuclear fusion"
     excerpt: "In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab DeepMind is the latest contributor In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab ..."
@@ -287,20 +305,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
-    excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
-    publishedDateTime: 2022-02-20T16:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/deepmind-uses-ai-control-plasma-nuclear-fusion-reactor-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFl50Gmy44_dA/article-cover_image-shrink_600_2000/0/1645374436948?e=1651104000&v=beta&t=1J3LeU3dYyjIR1ZVdOziOmSpc-mWFeZ6GYTRiEz2LR4"
-        width: 945
-        height: 390
-        isCached: true
   - title: "Google's DeepMind AI is now able to control a nuclear fusion reactor"
     excerpt: "A study on the deep learning approach has been published in the journal Nature. DeepMind Technologies, based in Britain, is a subsidiary of Alphabet Inc., which also owns Google. It has recently used its DeepMind artificial intelligence (AI) to control a ..."
     publishedDateTime: 2022-02-18T10:41:00Z
@@ -311,6 +315,6 @@ related:
       domain: tweaktown.com
     quality: 36
 
-secured: "E1mp9QokH++WOMc1ItdTGet0ViyN0mouf8WzDDSVbkT0atk2meQscmk+nYoVMZmd2F0NmWi9ySRfpzgr2zFmicOHUjChNg3c3VNsa7DPyzQ+TsDjyXNc6SbwOfmaEpJTIFOENvYx32xl5XDn8HnLHrFpJ/0YOZ/ME0mGLUAVZgykOsUVWHBhUXZoIAX4g9Rmm5ihGBaVd4HKXGxpk2Zdkhb6eD8IifIBkpabnbNqiHePYtEukheL3+NQ16H0HidGAUOeUCH1hVjryAA26krYqT6fMMp+XtkfLj5jQxDnRCgYRojey+wyVQ42VGsNN8p8+JUKQkwuUhdD/JzJexeBM1l5kyi7dPyDt2eFjPw2d5I1awHrfhRR/jm9p6lSMIxr6qvthJwgl0wASn5z0h1lvgm9NpSsxGWsoRUgZiWC65arcZYXko5ti1lo5RnBQUEFs4x4FEGGFvZ0rOWLq2eR/c6Y0QsJeVW4Kxy8pzGsSd96XWAndUPJZc7xPQRwSWZwcjlCQHKysk8riETTxjY1iA==;ie5axV1kyx+RGVlVdVjPNw=="
+secured: "4g0UpMfxzIYa4i0TVtIq5smUTx6VPf4dVIUCVRYPvQqD9B9gVmFjsfXi8ye1PynhSODjknG/Rk+geVQx6xEQum0dMf9+3OyEiw1UhKt1nxAh/WBhxqp5nc6qnNV2dCvoA7COql+Mx+dYlGh86sYUjZtKdKZd6eqzr4fVRM4yOVycc7u0kEGZ8TD5CxxedxtYDG7WyliwdQzLowgVf7GHYA5Zqj0A9t4/S7SVZd7H3ebs7FhFiYCwiQlC8cu70ddHKSiCz25rYJ8Yl8iAfbpeJzfVew30H75zdRqfrZ7UUp0Pdg25rAmzFjJcM9xh33i7J3gc0qreDEWwxWP426gfV4+y9OVbsdTZUL7GJwIIIdw=;C3+9CdAwDsy2b6VIQmp+rA=="
 ---
 

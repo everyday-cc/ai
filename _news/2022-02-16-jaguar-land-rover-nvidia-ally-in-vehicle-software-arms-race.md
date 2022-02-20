@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Jensen Huang interview: Nvidia’s post-Arm strategy, Omniverse, and self-driving cars"
+    excerpt: "And Huang said he has high hopes for his three-chip strategy, the Omniverse, the metaverse, and self-driving cars. I had a short time to interview Huang after the company reporting earnings this week."
+    publishedDateTime: 2022-02-20T16:45:00Z
+    webUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
     excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
     publishedDateTime: 2022-02-16T19:28:00Z
@@ -155,6 +171,6 @@ related:
       domain: carsifu.my
     quality: 4
 
-secured: "TZ1wQfENyMUSMk5D9ZJhw5HgTjmjHGWglxCsHOlyZiwUujqeeoroiex9j5h67z55LVALrKynHEO76lI+vY4zj0AMmvea3TxPw7ipgYpx3+zh1r3Vxxcyymns5cVv3bQe7vuulTKvL9t2Hy3RV8+eQKqWn+QsKCCVbibsdA01DRxJcILzVzrZLQROp57sXEirlBtO/l+mrBJmwglk5UopZcmdf86gaxjgXdQh0b9xHE7A7Zj+YKoUG2nTeRe0m1ARPrCiggtlPsq6n8XmXrUiRri9hHKB9IqF3doXOH4NvYIVl+Ojwh6Vab9AfySyCeVTmB6Dr/tUomfS/qoU7o4S1kH6CPexMYATdeRvdjB4+74=;fvO0KVHYwzce0gP8xgXn+A=="
+secured: "BqCviFDI/uW0hUymMWvgXeLYgyn10HRUq0LiT94kUirFIWxgp2Uq9xoUR9NBVSOJlbJYyXnS2yX6cDEzMC/Axy2ywSx1FK35xnxyGH0pOPRXbCyr7nUs5JyQvZONu6CUK2MD2ai9K2Uk2Kt76JpCKV/6Nz2C0FaEJhk1Jx+kXDQnHyQ3AGYKrK+HzaLsLlfaz/HMJ7jLqRwlLON6Rl4RyO8JTpah7+RAJt0xyECjOS45t8+35qjsZ5nXdy1w1EkyLrTfjiXLU9dWhzc2iG3oNFEVbbFSzsXdpins4zkXna7F0iqQErEUFGp8mopSqLa9sfQ5zfhdwJ6oo3Ht/+DqyBjICoh2IV/OxcyylROagSA=;fGQGANLf05Gi9VUc8ghaPQ=="
 ---
 

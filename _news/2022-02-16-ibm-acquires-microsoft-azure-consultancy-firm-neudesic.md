@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions
 webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: IT Pro
@@ -29,35 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft extends Emissions Impact Dashboard to Microsoft 365"
-    excerpt: "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions."
-    publishedDateTime: 2022-02-16T00:20:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
+  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
+    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
+    publishedDateTime: 2022-02-19T08:09:00Z
+    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 71
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4a7df44fb0835e74d125ed7e4365ae7d8ef9e1f9/2022/02/16/d3d7d83c-8620-4899-a8eb-75644c5b689c/eid-m365-image-1-resized-to-1238px.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
-    excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
-    publishedDateTime: 2022-02-17T07:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 53
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
-        width: 300
-        height: 250
+      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
+        width: 602
+        height: 305
         isCached: true
 
 secured: "MiUvSl9BS/fAgrNq3ithLdsrp/ZzQHoH56qNGNvS5GBSjg7P1UqbLZc4Y4pY9SF4DMO4sGMCL3xwq0Xozot/vcuK6BHQ/eH1jVxYK0+cSt3i/ZGYi1bAtBVVwmpFgRn+CRi3n+oKZYKb59nql/VPt/y082MlswDkMl88w+jJcOfbv1f+wC7+TlCxp9ISgQM1EuNLZdP/V1pNknQe8DBOlYj4782J9K6nZHHh90AHFJZLG/5vKD1xcb4PddbRNYUG2HxKe3nWWkK263hBjO8JbXXKJF0HtCtl4fZTi4b9lOgMtiJkLQO/7SW68TUjF3esejje2ZUxtNIBMAbooiVUhiXniAWO5jc6O4Pl+v0RZNfRQ5gjAIXfgPCVT4V4+Ag7cqJfp6PdzKDFrwgUapDWxwlQczQbAJgTo/mMz1PhowpXJq5rZpgelaEKrAdJV0mj9BSlCzaV3x376ydu2+XT4j1zXJlEhJKsH9KcqR5XbsryWIVNI1fd+UrOY1iDHtnzoCupznbkkJp9NCZuMg7+fA==;FucbWOUW9r6ANK6BZGA1uA=="

@@ -1,30 +1,31 @@
 ---
 category: news
-title: "Jaguar Land Rover Partners With Nvidia For AI-Powered Vehicles"
-excerpt: "As a leader in AI and an early entrant into these emerging automotive segments, Nvidia has secured partnerships with several major tier one automotive technology suppliers and OEMs, most notably Audi, Mercedes, Volkswagen, and Volvo. With the announcement ..."
-publishedDateTime: 2022-02-16T13:10:00Z
-originalUrl: "https://www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/"
-webUrl: "https://www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/"
-ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/amp/"
+title: "Jensen Huang interview: Nvidia’s post-Arm strategy, Omniverse, and self-driving cars"
+excerpt: "And Huang said he has high hopes for his three-chip strategy, the Omniverse, the metaverse, and self-driving cars. I had a short time to interview Huang after the company reporting earnings this week."
+publishedDateTime: 2022-02-20T16:45:00Z
+originalUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/"
+webUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/"
+ampWebUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/620cf312fa613a2777f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+  - url: "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all"
     width: 1200
     height: 675
     isCached: true
@@ -45,6 +46,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/Jaguar-and-Land-Rover-Fleet-e1644961308490.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Jaguar Land Rover Partners With Nvidia For AI-Powered Vehicles"
+    excerpt: "As a leader in AI and an early entrant into these emerging automotive segments, Nvidia has secured partnerships with several major tier one automotive technology suppliers and OEMs, most notably Audi, Mercedes, Volkswagen, and Volvo. With the announcement ..."
+    publishedDateTime: 2022-02-16T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/02/16/jaguar-land-rover-partners-with-nvidia-for-ai-powered-vehicles/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620cf312fa613a2777f84d1e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars"
     excerpt: "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars."
@@ -77,22 +94,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/620bdc033fde221ccd43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 677
-        isCached: true
-  - title: "Jensen Huang interview: Nvidia’s post-Arm strategy, Omniverse, and self-driving cars"
-    excerpt: "And Huang said he has high hopes for his three-chip strategy, the Omniverse, the metaverse, and self-driving cars. I had a short time to interview Huang after the company reporting earnings this week."
-    publishedDateTime: 2022-02-20T16:45:00Z
-    webUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/jensen-huang-interview-nvidias-post-arm-strategy-omniverse-and-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
     excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
@@ -174,6 +175,6 @@ related:
       domain: carsifu.my
     quality: 4
 
-secured: "5w2fWTzF3vuvUvqmOpK8eNtqdnlL3ANtUSZbvvjv4vcT8MabftLVJcLn3P37tlvSiRQNfT1RvJRPfyb4HPI9pNwZGH7g8TEj0XbZiEwjdTVB2BK9S7qS6wiOkp4PJVgoXiNoSegkXwodtzlLQd8O7eM1v4zw9tNCTHsqMmD9uR1P72QoDRXY+p6IwgJuTsmrIiFy+rXkbLx2Lxum0xznTaVUzWu296dunjx958lq0ox5feDqIop3q5tEiWJ9GE0TNLchAjCM/7i6ag+IsPuytgtHJ6KJb1YTP1bx0uJYfaq9K4Jcf3LP8OVhL26m9SBgnsZJ0bcSidrbYSM3oobevoJE6hg2F6BZC1RcP3PtjoKoUdXduToLAdo50NHUduNwZbsO+3BDy7q09ibr6FEyH3jnstmKMO31pgMpCxjzus1FxzrRNv3clF91mHHFQDHr6R/OUUE20wKlmIVRz2FvYenwT4FYr7tPPtNtgj9QvkLBGKHWek3rqUSSJZjR58MrCfAKVFDUQSfSZKj9ClMqAw==;eoIDB+xt1HgJ50x25u/RBQ=="
+secured: "J7sNqRKhYVH41G9l7zd8jTIL5LSqBL4tQTFPeoPcK+6KkdbejNG99uyu+2g853eZnwB1UDbOAZyZ56bM2/MMuiTE/JI3BsUEF50h+nT0HPj0as/hfNlpW/M2Vv/G/Qaz/b/78lDX6ThtVn5AaxgpHQoDtBGtmuL7rtJu7Akuxu7TnQSu93B5D9vbPe+kqQhZbHrRW807lxYYGprpWl1OPbUVtwyjKBKVpHTY1j2tAqxTIHNwdA/oPGQS25WSIH6XiUO13l0e9FNNvxV+/2QIfhmTAhsRr6NG+7F1LtN5vTAAa6lISjbQ4K4m93icC87TwcVVNiRrkmkxasoA7+3+kUP/+eecU4WeRT5CfX7Nxbc=;B2BRqzqv7ulzJ+G5+ciD0Q=="
 ---
 

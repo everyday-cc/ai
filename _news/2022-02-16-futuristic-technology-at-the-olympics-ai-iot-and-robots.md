@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-techn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/02/16/futuristic-technology-at-the-olympics-ai-iot-and-robots/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technology the big winner at Winter Olympics"
-    excerpt: "ZHANG WEI/CHINA DAILY Earlier this month, a self-driving car carried the Olympic torch for the first time in the Games' history, showcasing China's ambitions and ability to produce such vehicles. Developed by information technology giant Baidu, the car ..."
-    publishedDateTime: 2022-02-15T23:25:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202202/16/WS620c3686a310cdd39bc86cd3_2.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202202/16/620c77fea310cdd3d82e0209.jpeg"
-        width: 538
-        height: 538
-        isCached: true
   - title: "Beijing Olympics: visitors go hi-tech to overcome language barrier"
     excerpt: "ISLAMABAD, Feb 16 (APP):At Beijing Olympics, tourists overcame the language barrier by using high-tech apps ... an artificial intelligence (AI) smart translator developed in China. That aimed to achieve “barrier-free communication” so that all may ..."
     publishedDateTime: 2022-02-16T12:12:00Z

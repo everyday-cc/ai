@@ -65,20 +65,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "SK hynix Develops PIM, Next-Generation AI Accelerator"
-    excerpt: "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ..."
-    publishedDateTime: 2022-02-15T23:30:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg"
-        width: 400
-        height: 246
-        isCached: true
   - title: "SK hynix’s memory chips 16 times faster, 80% more efficient"
     excerpt: "South Korean chipmaker SK hynix on February 16 introduced a next-generation memory chip that processes data 16 times faster and consumes 80 per cent less electricity."
     publishedDateTime: 2022-02-17T14:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-t
 webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/"
 type: article
 quality: 149
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "A new Telsa rival? Volkswagen looks to buy Huawei's self-driving business"
+    excerpt: "Huawei's self-driving capabilities have significantly improved over the last few years and could soon compete with Tesla's. Despite claims by Tesla's CEO Elon Musk that its technology is crash ..."
+    publishedDateTime: 2022-02-20T15:43:00Z
+    webUrl: "https://interestingengineering.com/volkswagen-huawei-self-driving"
+    ampWebUrl: "https://amp.interestingengineering.com/volkswagen-huawei-self-driving"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/volkswagen-huawei-self-driving"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/MRw4WQyP61/sizes/istock-491488082_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "VW in talks to buy self-driving unit from Huawei, report says"
     excerpt: "Executives have been negotiating the deal, which involves technology systems VW is not yet proficient in, for several months, a German business magazine said."

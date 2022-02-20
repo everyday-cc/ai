@@ -9,8 +9,8 @@ ampWebUrl: "https://www.protocol.com/amp/c3-ai-chief-siebel-waffles-on-justifica
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/c3-ai-chief-siebel-waffles-on-justification-for-trucker-convoy-donation-2656690502"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Protocol
@@ -40,6 +40,22 @@ related:
     quality: 59
     images:
       - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-tech-ceo-said-he-has-a-long-history-of-donating-to-causes-to-protect-human-rights-less-than-p-greater-than.jpg?id=29361119&width=400&coordinates=0%2C70%2C0%2C36&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "The Pentagon is spending millions on AI bias detection tools"
+    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of ..."
+    publishedDateTime: 2022-02-18T16:51:00Z
+    webUrl: "https://www.protocol.com/bulletins/pentagon-ai-bias"
+    ampWebUrl: "https://www.protocol.com/amp/pentagon-ai-bias-2656723227"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/pentagon-ai-bias-2656723227"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-deals-are-part-of-a-usd249-million-blanket-purchase-agreement-less-than-p-greater-than.jpg?id=26386473&width=400&coordinates=0%2C144%2C0%2C145&height=711.4285714285714&quality=80"
         width: 400
         height: 225
         isCached: true

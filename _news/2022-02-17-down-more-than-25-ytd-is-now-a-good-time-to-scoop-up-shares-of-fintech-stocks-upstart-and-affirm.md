@@ -43,6 +43,22 @@ related:
         width: 675
         height: 380
         isCached: true
+  - title: "RenewBuy acquires fintech firm Artivatic.AI"
+    excerpt: "Promoters of the AI-based start-up have received shares of RenewBuy, according to the chief executives of both the firms. The deal was closed in the first week of February. Agencies Last year around June, RenewBuy had raised $45 million from Apis Partners ..."
+    publishedDateTime: 2022-02-20T16:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "UK Tops the Chart in FinTech investments"
     excerpt: "KPMG’s latest data proves that this trend is set to carry on in 2022, so it’s a fascinating time to be in FinTech right now. In particular, the likes of Buy Now Pay Later, Request to Pay and using emerging technology such as AI are set to define the ..."
     publishedDateTime: 2022-02-16T11:44:00Z

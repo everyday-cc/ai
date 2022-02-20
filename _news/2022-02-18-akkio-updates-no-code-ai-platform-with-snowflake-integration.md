@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1065
     height: 600
     isCached: true
-
-related:
-  - title: "Startup Sway AI Launches No-Code AI Platform"
-    excerpt: "Venture-backed startup Sway AI has announced the launch of its no-code enterprise AI platform. The company says its platform allows AI solutions to be built and deployed quickly without AI or coding experience. Sway AI’s patent-pending technology allows ..."
-    publishedDateTime: 2022-02-15T23:58:00Z
-    webUrl: "https://www.datanami.com/2022/02/15/startup-sway-ai-launches-no-code-ai-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/AI-Agriculture-shutterstock_1134863141.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "PfPA3X7yBH3lSQZqn6a8xi24AWNSxMiCb5sFVmjC3eEqfZuSAy9Lzlz64phN13mngTMlDvKFB42PZ6tNnayT8EWS4yqhVk2A0KYHVfD4KGrawkjtjfpi8pLfsObYArkejjJWaUzRnrXoXbOv+gnkuJYnLPivR9cZRV90y8/ODT9tJXppfJtyid9d5pIKJF0bA0g1MqPk6y8VNzak0vS+v58HqeB8bgRvS83F8QQTa0EUyvS7fdbdcoxLH5ztkD4rSxFEmqXuK6h59IF/kdjcFUjNdLn+3dR4ZOkjY0+ggs8I+VShUm91v8XIsi/p29xdeABAFyIGuFwOaYaiKJkamWdyhXj/r1xZsL9ZzMYcAPzhqM6V1iPc6OkeAaWYvZ1NYusBhNreXjaeS0pO/xANNTzIQ8oklns8Uhtag75MomK/KnLKLp9/BPGnXXL/diJkxA6nvu95ZN9yF+tmJb4HQ+i5y2s+D+5gcH6muT+FHLrS5M02zHfwNOwr5qfOIz/cWdMyUKDTUWZa4AfhZJoWqQ==;sbbkq0T3MlNK/lsenzDX+g=="
 ---
