@@ -51,7 +51,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
         width: 600

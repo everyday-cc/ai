@@ -8,7 +8,7 @@ webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/re
 ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
@@ -136,6 +137,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "NnD6W+f1CHF0dQM5UnQdDJ6AzRN5SvTea1LOhlDGPy1SvRmLafuQrd3ymnkv7Zt7/HVxzAL3sECBdC1Cd/KXrqWsZdo3kl7jsEq+ns4j9hW+fj/NMTCk80etE4gUW/fp5QTPr6xvt8yqQ1mtrNbSJiMVhzHwipgw7I03lg4LJPKa2Be8vpKt71NfpStIDAdHVLIzg8PZriQdT5BZhGN3YxLImtn7WQNR6/leDUlX4bu9GP5QTv3aSgxpGkLva9arRsDg26ycCybbxI4lea57BbXVTP9aOfaiADeXHvZhQKNiB22IWZDDEZY2+qNKRuaAfhE4wwgnkKehVLK4zbfFxOr4Plfu42zKpDDN3wRmvfA=;6sI2z91ZFrwUPPWrW+hctg=="
+secured: "AeGuBQkoeohwTgvPnrvCqJRAA6d3am52BxPrBnilHqlGk4+YruttMz4UiPxLEyNBWIAyo1VpAIyjJSXYR8VL7iEN90vPncriiM+LSYvu0VY6ScKkcrqkmmErDKVq/U7jDi2uubkdVEN9ZUty6XoQ7/xKtKxj/QW1+lKaBhBRkEHKm8lMJ0PmboCRQSXgnCNw7fHM/66rimz5XTFg6acMIp+NeegyB9bqFrVh3tWUzK3Fu9Y1dnopV8Dob1WV4ezGHEYIq/mKE/05X0Wg/My1sw/AGtcWIJZtMyYqabM5Hk/sR8i3djECz5QI+U2UsPJggFlWBay0eHFKK8vUgwUgRqmcYF4TRsVLMnIfkWLWWoeExjgbkcg48ybriJm7gE0LCV3SlzeSIhaS5xUKkziIP7TgGZQ6U5eUaU0pgVSy6T2D5b63fi7aoel0ysQ0iFqk6L+l6ZpR7mC1/zesvDPkL7Tf++S04kDta6YlqxTKLkUIr72LEaddThqvKI0nYvr8+kx5AxXz11dTw+9GuCVtvQ==;KedUSw0I8v2I154WZkN7Wg=="
 ---
 

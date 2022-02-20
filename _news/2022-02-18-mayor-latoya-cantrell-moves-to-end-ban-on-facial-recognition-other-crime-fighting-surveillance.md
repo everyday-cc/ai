@@ -27,6 +27,24 @@ images:
     height: 387
     isCached: true
 
+related:
+  - title: "Mayor Cantrell moves to reverse bans on facial recognition, predictive policing and other surveillance tech"
+    excerpt: "That provision could, for the first time, give the city explicit permission to use a whole host of surveillance technology in certain circumstances, including voice recognition, x-ray vans, “through the wall radar,” social media monitoring software ..."
+    publishedDateTime: 2022-02-18T19:46:00Z
+    webUrl: "https://thelensnola.org/2022/02/17/mayor-cantrell-moves-to-reverse-bans-on-facial-recognition-predictive-policing-and-other-surveillance-tech/"
+    ampWebUrl: "https://thelensnola.org/2022/02/17/mayor-cantrell-moves-to-reverse-bans-on-facial-recognition-predictive-policing-and-other-surveillance-tech/"
+    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2022/02/17/mayor-cantrell-moves-to-reverse-bans-on-facial-recognition-predictive-policing-and-other-surveillance-tech/"
+    type: article
+    provider:
+      name: The Lens
+      domain: thelensnola.org
+    quality: 43
+    images:
+      - url: "https://thelensnola.org/wp-content/uploads/2022/02/DSC_5956-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
+
 secured: "cXFQxgaq6vbmsfMcNup+u3vwPD6T98Yrpd2WRVN9PtdOWaD+jY6gyk7NSeCKbzPhrU6Rup0zI7dZTSyE2XCOrORcrIRPHjRZ/SKm1rKawK2SkKmd2FxWQfYPsk+bRygiBA33Ndmdjgssr9xPgOcOLw49IKIbNaeZhMqRj83E5CZp/5O4pq+tdZ1OaMhlmGmINTFQIc0FvO1S8fUGV8ScKJzl8+HOcn7GMePbdBMQRwdN9j57jvheZvlzffl7/vWQDfYhAko8jUShjllKlh8y3z0MRlC+d7tpI21mx9ejDjxCL1itvl7aee4An590ZN4MCydVbNXCxJrgegvCwuBuQkmFxK+tUTGPXSd3nugfzQcVNEN9WdghK/AEkm1xE0t1Ea8PGEYl70Dfjxm3rUrrKO47UhN0dXL7MO80ehjcvIQdigPdFf7GSM9NULuMxOOlCwNU1HFjm7iHAztGmf+dH0vLCJRheNapgpM4RxJEh/vU8luVDLLNZd5lf5CcEqtlWYkO3yFLwrXmSXcLi6oZPA==;yJttpvwH5+hE9zlMgrzVrA=="
 ---
 

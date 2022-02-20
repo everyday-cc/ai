@@ -2,22 +2,22 @@
 category: news
 title: "Twilio Will Utilize LumenVox for Voice-Enabled Customer Experiences"
 excerpt: "LumenVox's software provides organizations with a comprehensive speech experience including speech recognition, voice biometrics and voice detection. Engineered to provide complete flexibility and scalability, LumenVox enables businesses to deliver ..."
-publishedDateTime: 2022-02-16T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-twilio-will-utilize-lumenvox-voice-enabled-customer-experiences-/2022/02/16/9546484.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-twilio-will-utilize-lumenvox-voice-enabled-customer-experiences-/2022/02/16/9546484.htm"
+publishedDateTime: 2022-02-16T14:41:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/16/9546484.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/16/9546484.htm"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "+GhU95Op+0fLEbi+m83S4TAe9R3tAaJAGvv7R/wZzy/NMowsgK1h3og+hwh40EChO/GBVk7ehW6cJm3GQ1mqJFDKRPALfmkAaeCSTCj5F9jnr3mw8sOXLEd7NKYVQFyHTlWgJhJTWeN9GVm8jMx3N7yZDLzEpDATz+YqsuntrTyzv7Rd7yzADzk8NrDdw4/vNpO+Nk80mSm/97Fz3MzQztYTpV9rD2PZqdVxnijU7+EgVBA4kOyZMgz9FZQsgIe628TnV7ACts71i97m9J3QIhdmQJq7p58dvJkaNZ/oJgTsCCwqtR+O+2PDM9k32dLLdpZ4FE7bovPxKMr8JdCzcpzhxUKCdCFxEsb1EbRN7lc=;Gc2wDiTMUJSd9T5dJ4ngQQ=="
+secured: "MGC7FNj4jBnPp0m5pZXrqnqwhzsSRYsCvIZeWWoKb6jVOYBSFpZ2QeABnyaVdWWC9tpoi40BgYxub9XkYZrctBP0F83PLfibAOBm9fvHyaajW2nvnzyfS1nGg2QJd+NM1D9PRE8e05zPpSet+BWjf8qc9QQg/W+ziF9OjqegL5qNz6/ytf/KA2z7zbgjv/E0q44nM0ImJoPVbgYOVLWF6sMF6Ozg7LjualUPt87/OEF/vCb7A3eP9PC5U4606cXFb88obXpsmTc+X65UKRXorkQOfsMWs4259tY9Ia44lmmYyFZTQ2PbvQUY2ZvvpyN46npvc4Pa77IIhjFnXazR4osV93tBqbPuklyW+MkDjfw=;fNoyxQOT8qYUd7X2RD0ixw=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge"
-excerpt: "TEL AVIV, Israel and EINDHOVEN, Netherlands, Feb. 16, 2022 /PRNewswire/ -- UP Bridge the Gap, a brand of AAEON – a leading manufacturer of AI Edge hardware solutions – is pleased to announce a partnership with Hailo, a leading Artificial Intelligence ..."
-publishedDateTime: 2022-02-16T12:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm"
+excerpt: "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ..."
+publishedDateTime: 2022-02-16T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1747196/Hailo_AAEON.jpg"
-    width: 400
-    height: 209
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/c0/9c084c6d-15a0-5ffc-aaf7-7555392729f0/620ce7e092764.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 313
         isCached: true
 
-secured: "cqA5viNTCv0GRAijf46q2xaBr1g+U4AqqrSJoy/5gf1CWH5YNOB/dSP4k0rXJCf+LIMZWmExr0qrkjuEjuioUKZXYmZll+3MgfrYv2+BcC+Zys10spm9Rbxc3vQckt0hKL3vIDsyjdEFW8B1A33SDs09g1XLD1npNXsK0JKCGFNRH+PsqFfZ6P/IVUlYf3/78M6LeCfL2PAKWYKSeKoiIprCJ6caQ9hHJFpnTNOdBhQilNz7clWNQ0lwJ8OwVn8Qa7z0ldEoBh/uZyxb0l8LGTSrnoAl9cosHHXMQ2XDLILkDDiF8zB2GlNYLqNcj59qnmV7tLPOrvT3wxZ04j1SGCYeQMGVePjE9maTBKSkWLQ=;o6qPrAx53kpZYWrYf9bwKw=="
+secured: "7AUPfy3SyZTrP8zEcnL63qlJrb66cnrB8ZIjhuzGcJh3t8r7oThja5kzFK6syJ+Iw+hUjIxQwDGki3+LImXWZxD5B2zvSDu5RnxpGp399oM0w8FjlWGeFXOsqBIknQ78F32zRWnp/+qbmQAvqsVYzM30FQi92lFrB7h8eXYf7Vh4Sh/BmHgmAOb2OTUhBxPgxSEUy5rLkYqEB8+c5uEVCPzGWoAFTyJUK9H3hcpusoB9miniG/Ct0LY5X2qFSEWQFvi4g7X3YivYWSsjeC779BFZC8sf6dV4WKBk2wPZSyYW5Qm2cLGefyRcctx9tiMoQtYRjJQ7Ppv1p3kbDx3UcDcgfaSlnBfldKD8fpPUxNc=;MIcxVm1tHWU3XUkN5vxb6g=="
 ---
 

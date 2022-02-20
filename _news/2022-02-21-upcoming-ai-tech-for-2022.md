@@ -1,32 +1,31 @@
 ---
 category: news
-title: "Coining The Term AI-SecOps: Why Your Business Should Consider AIOps For Cybersecurity"
-excerpt: "AIOps tools combine artificial intelligence (AI) and machine learning (ML) to create the ultimate defense — cue AI-SecOps, or AIOps for cybersecurity. I’ve spent more than 30 years designing, developing and operating large-scale IT networks and data ..."
-publishedDateTime: 2022-02-16T13:15:00Z
-originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/"
-webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/"
-ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
+title: "Upcoming AI Tech for 2022"
+excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
+publishedDateTime: 2022-02-20T17:40:00Z
+originalUrl: "https://www.linkedin.com/pulse/upcoming-ai-tech-2022-pierre-llompart"
+webUrl: "https://www.linkedin.com/pulse/upcoming-ai-tech-2022-pierre-llompart"
 type: article
-quality: 80
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: LinkedIn
+  domain: linkedin.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/620b82cb3747810d1f43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
-    width: 1200
-    height: 661
+  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
+    width: 500
+    height: 281
     isCached: true
 
 related:
@@ -44,19 +43,21 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Upcoming AI Tech for 2022"
-    excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
-    publishedDateTime: 2022-02-20T17:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/upcoming-ai-tech-2022-pierre-llompart"
+  - title: "Coining The Term AI-SecOps: Why Your Business Should Consider AIOps For Cybersecurity"
+    excerpt: "AIOps tools combine artificial intelligence (AI) and machine learning (ML) to create the ultimate defense — cue AI-SecOps, or AIOps for cybersecurity. I’ve spent more than 30 years designing, developing and operating large-scale IT networks and data ..."
+    publishedDateTime: 2022-02-16T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
-        width: 500
-        height: 281
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620b82cb3747810d1f43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 661
         isCached: true
   - title: "Bfore.ai Partners With Quad9 To Provide Predictive DNS Cybersecurity Protection"
     excerpt: "The integration of bfore.ai and Quad9 generates hundreds of thousands of new and unique indicators of future cyber threats, enabling their customers to be protected by cyber attacks before they even start. The proof was in the pudding in mid-December 2021 ..."
@@ -87,6 +88,6 @@ related:
         height: 338
         isCached: true
 
-secured: "s3dZejNJygHdvxBZaoU85mLjfDmxdsmk9zfxzNGXQJ9LCkc/Ga3VYh+mNPwu2p0ef3dA9Thelns9ZsuLBZHKZJhhEVn5KdrM7KO9mcH2o5qpt23PPeUohotcILQbkS/PF5QV1b4WR4GkYErOjgGNXeeWQZZ1Z/VfKODa/NeY+a2EYovE8TSt+vXiEiFdpw1xcUra4lX/eFq3lmIxqlpD1ftoRyHd+yoSUdQLYzjZRbFX0021nYfX7JVLb3BVjB51FVVSDYW7vY6I5zKDiKnRUiUIoDFQnStW7+D8BwEyrtUepQJvgANch3MozuPzJUYIeQFGtnvVbZZFRFAPYYoV5lUMxEME3yeBfzuACwn8abltVVxvHd4Ka/p2TnkL37YK1Ta02ChIAUN2ClVJKeOCWDEi5NOkn4rr5ZHUtp4ohD9bUtENEujvuZIJLg414CSGque7zngew0nJ+wf0c+wclfxcJKitZxuDfZXvGUOTl2p4vxnqMT8lLaWcnnv/wjWcWQza8NG6m6glBZAJ8NYePA==;1ujJl3yVBXS+61YHFFQVzA=="
+secured: "PSgEHayyPi8ILMc16MDu1OYUJXh81XDys5gErFi6//ZTXGtsBfqLrsq2kfsYu3aT+EjTMlho5HRLYQCM33Az01RyDUyjljG/I09wooQryGjiJcIssN0ZIafHCrU5hla0AImpPuW5LZJw3mi54kmsZHfB2Oaog1v8cS55Yd5yjbSXUzBfGXM6hwD83mTeXYQhuFngw45S162DuktQdQsQgqGKwNIoG20kkMz/5N3GZdEfp/uuyoJdG7d4oryUy/qjqtbDWbl9oabhRGfJWSGCqf9xuruFuWn0dyAmo/HrxKGNLYA56hdAV/e2BSH9/fv6dPscdCPdGLIwq8FELAAyVeB1CSGQosFqyFFfPr483jE=;FCD7nLse2oUGD85JS4VQZw=="
 ---
 
