@@ -25,108 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Texas sues Facebook parent Meta over facial recognition data"
-    excerpt: "The Texas Attorney General is suing Facebook's parent company, saying it collected biometric data on Texans for commercial purposes without their informed consent. Attorney General Ken Paxton filed the lawsuit Monday in a state district court. The suit ..."
-    publishedDateTime: 2022-02-15T11:58:00Z
-    webUrl: "https://www.cbsnews.com/news/facebook-meta-lawsuit-facial-recognition-texas/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
+  - title: "Facial recognition taken to the next level in virtual reality"
+    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
+    publishedDateTime: 2022-02-17T12:12:00Z
+    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 61
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/25/e7b38470-1eab-4e44-8a0e-66c594fe2b55/thumbnail/1200x630/d3d5261ec692183c3298778bd9a5a8ec/zuck-gettyimages-1201476983.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Texas attorney general sues Facebook parent Meta over facial recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T12:47:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2022/02/15/texas-lawsuit-meta-facial-recognition/6794970001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6794970001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6794970001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 60
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/02/02/USAT/7783bc44-07e1-4c13-8036-bb6b4fb0062c-AP_Meta-Instagram-State_Investigations.jpg?auto=webp&crop=3741,2105,x0,y93&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "US state sues Meta over Facebook facial recognition tech"
-    excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
-    publishedDateTime: 2022-02-18T13:30:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
+      name: techxplore.com
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Texas-Attorney-General-Ken-Paxton-sued-Facebook-now-known-as-Meta-for-capturing-and-using-the-biometric-data-of-millions-of-Texans-without-properly-obtaining-their-informed-consent-to-do-so-in-violation-of-state-law-Picture-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1b3a8949-6a1c-5c60-b165-5c53043b8491&operation=CROP&offset=0x91&resize=2008x1130"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "Meta’s Facebook set for another legal showdown over past facial recognition practices"
-    excerpt: "Police forces have also been criticized for making use of facial recognition technology, given that there is well documented research that ... Texas' lawsuit argues that Facebook, for over a decade, built an \"Artificial Intelligence empire on the back ..."
-    publishedDateTime: 2022-02-15T12:27:00Z
-    webUrl: "https://diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices"
-    ampWebUrl: "https://diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/metas-facebook-set-another-legal-showdown-over-past-facial-recognition-practices?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 54
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
-        width: 1688
-        height: 1190
-        isCached: true
-  - title: "Texas AG Sues Facebook Parent Over Facial Recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T15:55:00Z
-    webUrl: "https://www.manufacturing.net/laws-regulations/news/22056255/texas-ag-sues-facebook-parent-over-facial-recognition"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 41
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/02/16x9/AP22045682669852.620bc39d99efc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Texas AG sues Facebook parent Meta over facial recognition"
-    excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."
-    publishedDateTime: 2022-02-15T18:54:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article258385193.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article258385193.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article258385193.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 41
-  - title: "Texas sues Meta, saying it misused facial recognition data"
-    excerpt: "The suit involves Facebook's \"tag suggestions\" feature, which the company ended last year, that used facial recognition to encourage users to link the photo to a friend's profile. Paxton alleged the company collected facial recognition data without their ..."
-    publishedDateTime: 2022-02-15T15:52:00Z
-    webUrl: "https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/assets/img/2022/02/15/ap19170571721946_wide-c21e27afb0247a6845bc1612611605f6c2a6b305.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
+        width: 1920
+        height: 1105
         isCached: true
   - title: "What the Tech? Facial recognition"
     excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
@@ -142,49 +55,44 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Texas suing Meta over Facebook's use of facial recognition"
-    excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
-    publishedDateTime: 2022-02-19T03:15:00Z
-    webUrl: "https://www.wpsdlocal6.com/news/texas-suing-meta-over-facebooks-use-of-facial-recognition/article_a2011358-913a-11ec-b440-b7b6239bee50.html"
+  - title: "Why you should want the IRS to use facial recognition technology"
+    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
+    publishedDateTime: 2022-02-18T14:06:00Z
+    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
     type: article
     provider:
-      name: WPSD Local 6
-      domain: wpsdlocal6.com
+      name: Reason
+      domain: reason.com
+    quality: 39
+  - title: "The IRS backs down from facial recognition plan to verify identities"
+    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
+    publishedDateTime: 2022-02-19T00:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
-    excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
-    publishedDateTime: 2022-02-18T09:46:00Z
-    webUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
     type: article
     provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 35
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
-    excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
-    publishedDateTime: 2022-02-16T21:02:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21257061/texas-sues-meta-over-facebooks-dropped-facialrecognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 24
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/US_NEWS_CPT_FACEBOOK_TEXAS_LAWSUIT_DMT.620d653a2f844.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
         isCached: true
 
 secured: "sTCHYRALjeTQU5dPGaXjL5zMo6YDxQ+nDEG28ATXWux1BFCm/2B334nOnv3HyZde4iuQap+fjdI5S+NK7FdfUzC+NXh775pCTlKs9XTa49s8hbuRRbgvEw1ZMeScIDCqew7amAfTyNruNamqptHZxhQ1b47oO8o9knFGydMAp9pxzXYl3mcbbU409ueZReeQZDClymDGN6LWx/Cg7/ys2XadxARof30GRI4YEiVdAep5/99eJWadOXxYYVq80SXGyjn5Rc6ii8BOIjNZfgNM2pwA3vF38SGM+YY00Vx8Mny6Nf+tMlaMZuV7ClFs7fyrjPpyMLciLuR5V3jTIBHHOLKB8/YEACMwtmXiYlf9O3MY1hKVC6jehB4CQfkZH8mrU2f3ExkGOcKkXxmTN/rVPHrAj7yDQmAlWQjNQvC55pORfY7OEpeXiRyz4AGymQnTGeXE2mHastsytUV+QiJ4tJ7z0e1z+k1CS0qANp/9fGtS4rigA95yIiatboTT/E9TB2i2eO/jSrp/+MbyZUKRWA==;fTXoziFVKZRdacr+fU9dsg=="

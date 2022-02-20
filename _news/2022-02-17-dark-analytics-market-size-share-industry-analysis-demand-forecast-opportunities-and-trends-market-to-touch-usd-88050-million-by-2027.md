@@ -90,20 +90,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
-  - title: "Speech Recognition Market Scenario, Future Scope, Size, Share, Business Analysis, Opportunities, Challenges, Growth Drivers and Impact of COVID"
-    excerpt: "Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner exponential traction by 2027, registering a colossal CAGR during the review period (2020-2027). The speech recognition market is proliferating globally."
-    publishedDateTime: 2022-02-15T12:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-scenario-future-scope-size-share-business-analysis-opportunities-challenges-growth-drivers-and-impact-of-covid"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/42e7daefaab29d70a43f4d0c8eace1b08c7c3804-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "taFO622ELlEQ+dqfm5pn5uF+rpLMQfWkCoCyZHxVzeWJvURNzZjVIdZ3ZU9I6R9fuFJi7D2pEwOltJ0QpaOgS+8xU2TVFOSnkyJpCTSBrp4yNgMwhGunjx7NVEnv5svMEeibeKbaoMbZmUtQMxHSHNQV2Lz2ZAthbdfEJDFI8Q1bf7AvF6gvHHLtE44bmFRmCG8DjXixMSWo86HDdkSEy/CGyHV9Ls7sljMRYjashTl4cKEFXZxgtHFqv0FCYzH7CruiOHjxNqYukxqIQeE2Ac7B2NMWZPXA0UjinGX8ONqxvdfe4VwCauY7QXywxZjLXsP8LXEoiIsbOB1usq5eaUdcxxK1+yCVzyIU4UbcSXk=;7Q2NQ2MgrVoGOFMr8T4v7Q=="
 ---

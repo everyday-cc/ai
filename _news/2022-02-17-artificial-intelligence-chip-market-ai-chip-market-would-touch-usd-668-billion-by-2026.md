@@ -9,7 +9,7 @@ ampWebUrl: "https://ipsnews.net/business/2022/02/17/artificial-intelligence-chip
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/?amp=1"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
+    publishedDateTime: 2022-02-18T16:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 62
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029"
     excerpt: "According to the latest research study, the report predicts the global size & share of Artificial Intelligence in Drug Discovery Market to reach around USD 5,558.0 Million by 2029 from USD 626."
     publishedDateTime: 2022-02-16T09:43:00Z

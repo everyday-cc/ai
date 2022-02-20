@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Visual Globe Announces Next Generation of Artificial Intelligence Platform"
-    excerpt: "Today, Visual Globe, a Colorado-based artificial intelligence company ... This end-to-end solution automates the conversion of data into predictive neural networks and then brings those networks into our rule-building platform, all without the need ..."
-    publishedDateTime: 2022-02-15T13:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/visual-globe-announces-next-generation-of-artificial-intelligence-platform"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://cdn.newswire.com/files/x/f0/9b/fae9c711ee5de9d5a0e646383c1d.jpg"
-        width: 512
-        height: 267
-        isCached: true
   - title: "Startup Sway AI Launches No-Code AI Platform"
     excerpt: "Venture-backed startup Sway AI has announced the launch of its no-code enterprise AI platform. The company says its platform allows AI solutions to be built and deployed quickly without AI or coding experience. Sway AI’s patent-pending technology allows ..."
     publishedDateTime: 2022-02-15T23:58:00Z

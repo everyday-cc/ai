@@ -40,6 +40,22 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 66
+  - title: "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
+    publishedDateTime: 2022-02-18T16:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 62
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
     excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
     publishedDateTime: 2022-02-17T17:48:00Z

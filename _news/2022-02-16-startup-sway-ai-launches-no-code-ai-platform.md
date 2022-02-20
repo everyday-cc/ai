@@ -40,20 +40,6 @@ related:
         width: 1065
         height: 600
         isCached: true
-  - title: "Visual Globe Announces Next Generation of Artificial Intelligence Platform"
-    excerpt: "Today, Visual Globe, a Colorado-based artificial intelligence company ... This end-to-end solution automates the conversion of data into predictive neural networks and then brings those networks into our rule-building platform, all without the need ..."
-    publishedDateTime: 2022-02-15T13:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/visual-globe-announces-next-generation-of-artificial-intelligence-platform"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://cdn.newswire.com/files/x/f0/9b/fae9c711ee5de9d5a0e646383c1d.jpg"
-        width: 512
-        height: 267
-        isCached: true
 
 secured: "egC7tfXd+ZN8lSc/60/hFxxWdy39VvWMsLaG6N/li0iNG+WDsdQ3a4PhZih55nljJ4GRsCf9WGTmYBsO8oHh15DsfMstJ28MkNCFdp5QacoXpTlqLJfkeD3/xMuU/CNggtXKspXkDn/jAbs9rYhb9CpOksA5QTRFfRdabBAQA3XDOJRaDRafyGWdRGBS5YF0DFudPiEDXavzgykg87u3VnCzgQ9acGiSsEifyybOfNOfW85XQI7cGKnddDdAruhL/76xqTZfDedtJecM8FDoUEB5G66HdDCn1IvUT1e+6tpp3EqrokpNld98dCkoX58vG+6qpLgWXbTh7Qqp3ZpvkYlEjSZqV+ROMOdUwTCTnE1pmO71GtcHYhAQr95ePdtcomNF+i2dtGn1nJXA/z8rsYxSNp9q7PqIE2rRx+Omp/rLy/SUWi9+aEtcR8/C4oWgVbkZ48vcl4dfw9pyk8ftmhNt4Wjf/cCGjxAy+fLvop1L8/nC/iSzCb8brnz0Hxz4aOMn/7fBsWF5QGf5oSmA9Q==;TNMsJu94lrX1w/d0x0Bv4w=="
 ---

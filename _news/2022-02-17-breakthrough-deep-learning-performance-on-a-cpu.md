@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Breakthrough deep learning performance on a CPU"
-excerpt: "Deci’s proprietary Automated Neural Architecture Construction (AutoNAC) technology automatically generated the new image classification models that improve all published models and deliver more than 2x improvement in runtime,"
-publishedDateTime: 2022-02-17T08:47:00Z
-originalUrl: "https://www.newelectronics.co.uk/content/news/breakthrough-deep-learning-performance-on-a-cpu"
-webUrl: "https://www.newelectronics.co.uk/content/news/breakthrough-deep-learning-performance-on-a-cpu"
+excerpt: "Deci, a deep learning company, has announced a new set of image classification models, dubbed DeciNets, for Intel Cascade Lake CPUs. Deci’s proprietary Automated Neural Architecture Construction (AutoNAC) technology automatically generated the new image ..."
+publishedDateTime: 2022-02-17T08:37:00Z
+originalUrl: "https://www.newelectronics.co.uk/umbraco/surface/redirect/article?slug=breakthrough-deep-learning-performance-on-a-cpu"
+webUrl: "https://www.newelectronics.co.uk/umbraco/surface/redirect/article?slug=breakthrough-deep-learning-performance-on-a-cpu"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "8YtzIBxi/RrJV/RS1PGynQaql4X3TiJfjpkZh4jaJFvN6C6IRPFtAA73KQnXy4f7QbP4YGtJHfNLmVhfuc4J4i/0RO7c3Ryc6fcc0rSxnJZWl0sclxZ6FI/NPWBdkFkXlWCnTsrq3aKIDw0fVvhzZpv0ZHeRirAv6oHAgCeUDR62VkfmrSYO0Bh6p/2F4Tf7DcGhkStKZfbZgR0byv7rbXxplJKa9Rs7E4dBV+1ypJaczRE4YAZcUlp2kzkocY9jxSAdqNb2FspxlCL2z0h2KNLeGriKG6As2HC2l+kXWljhBf26oYEMce3B6BP1Eyd4c7XQHWDh2BLjkFu6cpvhRyGX7KU49a21eYpxy9ce7mGinWpBihZtbBw3AG7E7e7Tbik8zUkPt6w6sOxj4lx9Y7cEvwTDFYn/5JKb/29Sa1crY8fRXYesTwuF3cdCdEIni7xUzCjAumdFA/Y0DwXVsDOR14pgjx9KjaF0xKR8DldsJ3p0MUZxVz8LD7cNmmoxpaIZazjmLwiFGFL0yAwU/g==;bfz3PCXg+iAWJ5XBRCOlqA=="
+secured: "mAIQOx7HQyhIR+sv1l11ByjUdjM2UH8jaoaxO6IF+zyxF/Foykxg90p3DG43Eall0QIdzy0sYSXGL+2g/syoikyLLIX4AAqMda9NXJzEdOGvfgnp7MPhGZbbeztLkXVR1RyqUKuXuyrCBGWTjPGhdnbl/prcATIhUIyBraDdr1oatiUGvDDjeMMyF1qrZjtA7/EswFuOt29w7Z24AA61xzTpJZIQcDzILHzPSlQdi1erD6rNKZgvto+eMORPv9A6HojqN0O+1EgWhxv1cfTiSqP7KPhSZhfZ7/7Ks65aNVLsXKRrKR9kJX4dvANyTzcsrWhB5v+Gl2fCIDne3hI7IHVzxs2k8y9jpvlOVME7mpU=;u6dWfRLfgZmO05jqqBCitQ=="
 ---
 
