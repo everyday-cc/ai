@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-w
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/amp/"
 type: article
 quality: 171
-heat: 191
+heat: 192
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/amp/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://internetofbusiness.com/wp-content/uploads/2022/02/Featured-Image-2-18.jpeg"
         width: 553
         height: 311
-        isCached: true
-  - title: "Slaterock Automation, A Digital Marketing Agency, Brings the Power of Artificial Intelligence to Small Businesses"
-    excerpt: "Using sophisticated artificial intelligence, Slaterock provides small businesses ... Through a customized plan of action, Slaterock has helped restaurant owners, healthcare professionals, police foundations, accountants, architects, and more achieve ..."
-    publishedDateTime: 2022-02-15T08:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/slaterock-automation-a-digital-marketing-agency-brings-the-power-of-artificial-intelligence-to-small-businesses"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.24-7pressrelease.com/attachments/048/press_release_distribution_0488793_175112_2.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Grupo LAFISE Adopts AWS Cloud to Modernize Applications and Move Forward With Their Digital Transformation Process"
     excerpt: "and automatization and development of Artificial Intelligence, applied to the institution’s operative processes. “Grupo LAFISE’s decision to sign this new agreement with AWS is based in the positive results of work months and investment time made ..."

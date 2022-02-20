@@ -55,20 +55,6 @@ related:
         width: 553
         height: 311
         isCached: true
-  - title: "Slaterock Automation, A Digital Marketing Agency, Brings the Power of Artificial Intelligence to Small Businesses"
-    excerpt: "Using sophisticated artificial intelligence, Slaterock provides small businesses ... Through a customized plan of action, Slaterock has helped restaurant owners, healthcare professionals, police foundations, accountants, architects, and more achieve ..."
-    publishedDateTime: 2022-02-15T08:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/slaterock-automation-a-digital-marketing-agency-brings-the-power-of-artificial-intelligence-to-small-businesses"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.24-7pressrelease.com/attachments/048/press_release_distribution_0488793_175112_2.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "Hcpv/w2vphWLDW+lZcwZDKXozMk7mxXj01dqcmLrSMiXO9/729QscELuXHPCICYS1pwNIwyx7PhpeGrnTFg/JR1DO+KxT1SS81DroboRRLsFir+mBxNxo4e76CX3HTZcRQrF412FqKR+LqyHTFcxrlvv2NiChqTxMemGB0EqKvrdA065iOAQvbB1tL4r1TgsSKGqGqtFSkRGiuBDeJS/gJ03WWWmbwyBhhqYBkd7UNG8ehUXGw1PoBrnhLYZj+55mR1LngxC2kK83rkP42+5ltZ7ssGNOeYldB0XsmUu6O2iblhWLkyFQzosM33mn1UayyhGGHs7mdAFz1HdXonn6y9rUzSvF5Ub4X5ww84WUrRalgki9ydM6jRtdSxLM419xM03B/kAOV7G/jZn40UZ4NgycDv5its86DYaBi3LbGiRu1AmgH9CChR3rIRZ6az1XjS5+3Zr7BYkmLhJW6cRfWzme687c/7WiOeSmsL6O5KPJDLdkmVTOhSOTeVhsVhfDQbA4zeRsVhCzzqtedaW0Q==;584rdkBGUxmEfQeYy1CuBA=="
 ---

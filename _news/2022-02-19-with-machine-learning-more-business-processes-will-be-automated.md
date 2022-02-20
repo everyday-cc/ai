@@ -42,20 +42,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Slaterock Automation, A Digital Marketing Agency, Brings the Power of Artificial Intelligence to Small Businesses"
-    excerpt: "Using sophisticated artificial intelligence, Slaterock provides small businesses ... Through a customized plan of action, Slaterock has helped restaurant owners, healthcare professionals, police foundations, accountants, architects, and more achieve ..."
-    publishedDateTime: 2022-02-15T08:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/slaterock-automation-a-digital-marketing-agency-brings-the-power-of-artificial-intelligence-to-small-businesses"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.24-7pressrelease.com/attachments/048/press_release_distribution_0488793_175112_2.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Grupo LAFISE Adopts AWS Cloud to Modernize Applications and Move Forward With Their Digital Transformation Process"
     excerpt: "and automatization and development of Artificial Intelligence, applied to the institution’s operative processes. “Grupo LAFISE’s decision to sign this new agreement with AWS is based in the positive results of work months and investment time made ..."
     publishedDateTime: 2022-02-16T23:00:00Z

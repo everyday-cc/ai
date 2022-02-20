@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/hiddenite-a-new-ai-processor-based-on-a-c
 webUrl: "https://scitechdaily.com/hiddenite-a-new-ai-processor-based-on-a-cutting-edge-neural-network-theory/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

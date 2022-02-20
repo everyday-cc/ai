@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure’s first Azure HPC + AI Day"
-    excerpt: "Welcome to our first Azure HPC + AI Day! We’re excited to host the first event, which will soon become an annual tradition. Join us on February 24 and 25 to hear directly from the Microsoft Azure team and earn points by attending sessions to get one of its kind Azure HPC + AI Day swag."
-    publishedDateTime: 2022-02-15T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7417aef1-9bb0-4fae-91e8-da2ab8496dfc.jpg"
-        width: 1024
-        height: 574
-        isCached: true
   - title: "Microsoft extends Emissions Impact Dashboard to Microsoft 365"
     excerpt: "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions."
     publishedDateTime: 2022-02-16T00:20:00Z
@@ -73,20 +59,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
-    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
-    publishedDateTime: 2022-02-19T08:09:00Z
-    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
-    type: article
-    provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 71
-    images:
-      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
-        width: 602
-        height: 305
-        isCached: true
   - title: "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
     publishedDateTime: 2022-02-15T12:12:00Z
@@ -114,6 +86,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
+    excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
+    publishedDateTime: 2022-02-17T07:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 53
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "/RI7hmPnZlNSb2ide7Z4c9Omkm28YsXkcBHDlg9LA/dRtninKvg90pBMtunkye4CmAhBJMfr1DtbAcJvud8UEscNGlSCfi0PFrjJEsIFYyRoSL2y30aXPePeEsH/pWsS0UZ+ZqRyUF1q/9ViUWgwrmDHqPsLVuscCbp/iQuwSwNFrSWDysOHHhJzsEix4N9y3llX+coTKr3fzttcT8c/rpVbmS1d5PfS9ShXo2PXW6gtbujKQxj317wK3n9giL8vc8qwwRx63SNuFDqKfH+yS1IQX9yc6SfHZUkX9rvQy4tMoCHPpydrNt8MTGdYsck5RTBTH3LJZXXzMC3ncqMi9jQih5/e4Cd2NNIcFFC1y8pPv92DY+8l2sEdq+qc6iOMBmc52CST2yTM+r+NiSF4NacjIgU1kArBATfrDBFxUBDj9tz5RJhGkHW5NeeaqsiGWGoG7D2h883PvdW2o28ol1uV6w8ZezqYBv9fg9lx0w2Qf/m/WWMsvhg5o5K4Nri1ldx16WiAT7OxKVqAp8M9nw==;zByRcBxCyBu5/C/6YOrhjg=="

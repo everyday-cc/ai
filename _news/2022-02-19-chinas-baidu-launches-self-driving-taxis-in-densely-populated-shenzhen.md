@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-dens
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
 type: article
 quality: 89
-heat: 152
+heat: 149
 published: true
 
 provider:

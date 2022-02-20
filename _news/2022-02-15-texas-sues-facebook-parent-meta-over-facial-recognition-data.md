@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recogn
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/"
 type: article
 quality: 61
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
         width: 1688
         height: 1190
-        isCached: true
-  - title: "Texas sues Meta over Facebook’s facial-recognition practices"
-    excerpt: "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ..."
-    publishedDateTime: 2022-02-15T07:54:00Z
-    webUrl: "https://www.foxbusiness.com/economy/texas-meta-over-facebooks-facial-recognition"
-    ampWebUrl: "https://www.foxbusiness.com/economy/texas-meta-over-facebooks-facial-recognition.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/texas-meta-over-facebooks-facial-recognition.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec281133-629e-4f4f-b4ab-695da15975e0/947244e1-da0c-4697-a127-acd79c03af0d/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Texas AG Sues Facebook Parent Over Facial Recognition"
     excerpt: "Attorney General Ken Paxton filed the lawsuit Monday a state district court claiming Meta has been “storing millions of biometric identifiers” — identified as retina or iris scans, voice prints ... down its facial recognition program and deleting ..."

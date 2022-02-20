@@ -69,20 +69,6 @@ related:
         width: 2560
         height: 2048
         isCached: true
-  - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
-    excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."
-    publishedDateTime: 2022-02-15T08:32:00Z
-    webUrl: "https://fintechnews.sg/59200/security/thales-drives-fintech-development-in-singapore-with-edbs-support/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/02/Thales-Reinforces-its-Digital-Innovation-Capabilities-in-Singapore-with-EDBs-Support_Mainpic-1024x567_1.png?x82653"
-        width: 2134
-        height: 1182
-        isCached: true
   - title: "18/02 – Weekly Fintech Recap"
     excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."
     publishedDateTime: 2022-02-18T14:16:00Z

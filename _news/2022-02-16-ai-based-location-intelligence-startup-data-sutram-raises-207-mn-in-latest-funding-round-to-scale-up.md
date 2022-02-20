@@ -25,33 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Second Nature’s AI-based Sales Coaching Integrated with Corporate Visions"
-    excerpt: "Second Nature today announced an agreement to integrate its AI-powered sales conversation simulations into Corporate Visions’ sales messaging certification and fluency coaching programs. The first ever AI implementation at scale by a prominent sales ..."
-    publishedDateTime: 2022-02-15T08:43:00Z
-    webUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/"
-    ampWebUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
+  - title: "AI startup Data Sutram raises $2.07 mn in funding round led by Varanium Capital, Yatra Angel Network"
+    excerpt: "Location intelligence startup DataSutram has announced a $2.07 million in a ... and Ankit Das - to make actionable insights readily available for every address in India. The proprietary AI and ML-driven data engine automatically converts raw unstructured ..."
+    publishedDateTime: 2022-02-16T04:10:00Z
+    webUrl: "https://www.freepressjournal.in/business/ai-startup-data-sutram-raises-207-mn-in-funding-round-led-by-varanium-capital-yatra-angel-network"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/ai-startup-data-sutram-raises-207-mn-in-funding-round-led-by-varanium-capital-yatra-angel-network"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ai-startup-data-sutram-raises-207-mn-in-funding-round-led-by-varanium-capital-yatra-angel-network"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 73
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 44
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Second-Natures-AI-based-Sales-Coaching-Integrated-with-Corporate-Visions-01.jpg"
-        width: 1200
-        height: 676
+      - url: "https://images.assettype.com/freepressjournal/2022-02/8385cf83-b47b-4094-bc81-54097f762722/Data_Sutram_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 684
         isCached: true
-  - title: "Dahua explains the advantages of integrating AI applications in school for the benefits of students"
-    excerpt: "AI is empowering a new generation of advanced, efficient security systems. In the field of education, AI is also facilitating the digital and intelligent upgrading of schools and institutions from K12 to universities. AI applications such as smart ..."
-    publishedDateTime: 2022-02-15T12:44:00Z
-    webUrl: "https://www.sourcesecurity.com/news/dahua-explains-advantages-integrating-ai-applications-co-4261-ga.1644924164.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-explains-advantages-integrating-ai-applications-co-4261-ga.1644924164.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-explains-advantages-integrating-ai-applications-co-4261-ga.1644924164.html"
+  - title: "Location Intelligence Startup DataSutram Secures Funding From Varanium Capital, Yatra Angel Network"
+    excerpt: "The idea was to make insights readily available for every address in India, the startup said. The AI-enabled startup provides sector-focused data packages that help companies acquire customers ..."
+    publishedDateTime: 2022-02-16T08:52:00Z
+    webUrl: "https://inc42.com/buzz/location-intelligence-startup-datasutram-secures-funding-from-varanium-capital-yatra-angel-network/"
+    ampWebUrl: "https://inc42.com/buzz/location-intelligence-startup-datasutram-secures-funding-from-varanium-capital-yatra-angel-network/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/location-intelligence-startup-datasutram-secures-funding-from-varanium-capital-yatra-angel-network/amp/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 23
+      name: inc42.com
+      domain: inc42.com
+    quality: 28
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/02/data-sutram-social.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "l6jPPlpNfeEiVl/MrS5WFFgNs3dhjBIz1b9JOArXtJQj11t9v2tFiWmO0zZ6JC2w3Mc7KJf12f+08P1fQhLAIBzuIa0dBItt3GHQkXdK45EYtfIvgjplVSTVa/8ziNAJk68BMJKVOck2aDy+9savKQYac5BBs1IxxB1nZC+M1pcexE4Z3EXI1bccqMG7D6RZdavrFdrZfSwVNbZWo+kYYRIdAotRr8Hz/0M7+g0LRSszAhRZjOs63uJvVJ5CCA+yHwGqLa3jaU/K6R051BlAfrkWf0jRcxEhppv/Y+2sOEUYsjgAMp6bAs3AcffiYlWBN7iVyViJG58XFC185t9fTOl4D+DgbD+LiUkCFceGKHA=;gjR6IukMjsy93le60MEDKQ=="
 ---

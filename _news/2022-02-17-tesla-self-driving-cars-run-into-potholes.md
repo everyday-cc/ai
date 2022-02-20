@@ -46,7 +46,7 @@ related:
   - title: "What's the status of self-driving cars? There has been progress, but safety questions remain."
     excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
     publishedDateTime: 2022-02-19T17:14:00Z
-    webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/?intcid=CNI-00-10aaa3b"
+    webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/"
     ampWebUrl: "https://www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
     type: article

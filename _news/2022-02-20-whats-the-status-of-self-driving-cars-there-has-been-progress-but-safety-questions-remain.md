@@ -3,8 +3,8 @@ category: news
 title: "What's the status of self-driving cars? There has been progress, but safety questions remain."
 excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
 publishedDateTime: 2022-02-19T17:14:00Z
-originalUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/?intcid=CNI-00-10aaa3b"
-webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/?intcid=CNI-00-10aaa3b"
+originalUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/"
+webUrl: "https://www.cbsnews.com/news/self-driving-cars-status-progress-technology-safety/"
 ampWebUrl: "https://www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/self-driving-cars-status-progress-technology-safety/"
 type: article
@@ -106,6 +106,6 @@ related:
         height: 256
         isCached: true
 
-secured: "DV3Gy16Q7QcDIF9TMRdm+N8aI3umMugYOBEW6Bmn+Yg6flCr4ucJ1HHVA4vEYIbm95cPdThaAxIrPUYA3s1HISebvOxQsXi9HO8hM1+YmkOXwnzedq8QRN4VELQFLDrX6U03bkJYMWqStuevNTHkXRj/JvaeMAFD5RPht3m4LBiKICPt5jPGZnboXX/J/TjO7EBdPi4mw17jjEGgurCLWrVtydui+MBXV0LRu48JACLxaKgfg+hctbzzh0pKXVlnJsHjR4mkIx3k5w+kvw0nrG+H5wgT4BohLGBYH442l9jUv4WjT0KbbcCUjweRzY6s3JPCN87VmnU7NfKyGF82wPO3FAtKzftSSSkeHcOFXLZnACMET/EFhGj2V3HuiwxssXnot5EAaVqZ4Bw2ElJwzxpSgZ3Em9ETg2mDLW9+HQZpnKP32LEgEpA0DdYYB9n49g3ndHzI+m+Vml5ieuJ4shk2sQsng6DIPAvZR+6InBg4/qyHbHfbTq/2X0uL74knJxfy5wEqpOfCqoGlE2E8CQ==;aleT2+hecfL3nF7Ku4ckRQ=="
+secured: "n0lo4Nyd+RwIGreclO+WuUMguyliyLe1/bgVz0JXiympn/lVfOhpW4YsxWj8KuQNdhMphXepdfpnxCDV1wzPVv1MUXx07J29Ry0sKb1p1pvlVa4H8tzucS5zeGP9tCgS+lLAI98AhBqFClQj2or3yfI+dvGThkygfvs/ln+0eB4MFrfIvadtbcBHvp8RL54SPNVxgkrfbjML8IF9cg9o385lECug5YYkcx12GsXBIVoc94ibDjL0XWEP8Zp7v5emMy018jaWrfxmRC1FB7rUBhwT2Yqld6kqJEa/7Y7wn+DWh/dp+peCOrSoDYfGtZyvVmRzg+qR2yUZj7LpdLQB4UWcBXZG2/CnYXa8Vdvf+/A=;9EtJdGwSGMr3nHRR1imA1A=="
 ---
 

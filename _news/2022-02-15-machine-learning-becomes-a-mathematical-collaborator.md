@@ -2,9 +2,9 @@
 category: news
 title: "Machine Learning Becomes a Mathematical Collaborator"
 excerpt: "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ..."
-publishedDateTime: 2022-02-15T15:27:00Z
-originalUrl: "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/"
-webUrl: "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/"
+publishedDateTime: 2022-02-15T14:59:00Z
+originalUrl: "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/"
+webUrl: "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "h7D1fTuMennkf7M/xVUBtVuhopt+KUbkroh4fQlDFXHbgCZbGPHSJ22rcWmjr9VGiWnoW9qjwgIU433iDJACx88UbEmft/6Ya30LTAzC5JoeN/3t0EL8Ro3G/MF5uCFBDIEcDPCiQDM1fjWWH6q7hezxkfCsh+n2oDgk0OFgVFUxMoCp8UgBys1I+jN6VCxayDSt5sejjjrj1sQhFESL4wJoM9enpiUybWRM3nIeMwBXDm8VlnP1dZKPNjO85G9sO6YKrmMr77B2FPtQzBpwkPClBHbLmMy669LjTho5gxKceOqzK9wGXeC32pY35rs7M/+5kxIXUiWZfoFaxPJatlSF6uuR2Z99li37PTSF/tagRZaeDwe1KCnuF+obaxOlb8di6fzB1BHEDMyApM2POhrmoQbl6Z7ddRpJ6jqqD7/m5Z9nmZgVpPrUV1Uy4leDKewqOrdjbCMTVkGf4LACqwYZvC7K+iXHGoyAZoigPng1iYfQ9Geg/a3ZohnmmqX2QywcVqIDSHjmxQBLJCMTIQ==;AtnjTjD85qi2oOsw8WQX5g=="
+secured: "8thKLcgK8ydAim414omlJL/4BnELfUkjitTcJFbYLPEoCQlPAdmqdhBvx6/fc6XMqAuvF2vwHtgrH/xSGamKsckleTu58NtmNYWfij6rwhnk//Nh93ibqBI305u8sUghSM56bZhIRb1CBB3M4mSL5N4H0N4nJXbP1Lhk9PqkwBvRsNEhk1g9zQj/A4f0sJrzn212iu7TK93DR3ifDRGsT/CoZ5Icqsdk/FHqEGeCCm0n7iNXUcm6BZVBHDTWTOEffFGgfB9akAm6Va5FxgphgmtnZq6YhRtdtomKuqrTuNaezbN7qSXZJZ+x0oV7pO+r1esNrXs8bPTq5ZqSCY4DAlBLHx4FwzxEIJXsG0NjU4M=;k8TaVaT7VqgddRQmlrWiOw=="
 ---
 

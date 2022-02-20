@@ -9,7 +9,7 @@ ampWebUrl: "https://www.independent.co.uk/tech/artificial-intelligence-conciousn
 cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

@@ -83,20 +83,6 @@ related:
         width: 1280
         height: 858
         isCached: true
-  - title: "Thales Drives Fintech Development in Singapore With EDB’s Support"
-    excerpt: "Thales will drive local development of digital technologies for the 5G, biometrics and fintech sectors with strong support from ... including embedded AI for enhanced biometric card authentication and using AI algorithms and machine learning for ID fraud ..."
-    publishedDateTime: 2022-02-15T08:32:00Z
-    webUrl: "https://fintechnews.sg/59200/security/thales-drives-fintech-development-in-singapore-with-edbs-support/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/02/Thales-Reinforces-its-Digital-Innovation-Capabilities-in-Singapore-with-EDBs-Support_Mainpic-1024x567_1.png?x82653"
-        width: 2134
-        height: 1182
-        isCached: true
   - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
     excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
     publishedDateTime: 2022-02-18T12:00:00Z

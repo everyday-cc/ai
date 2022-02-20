@@ -24,17 +24,6 @@ images:
     height: 549
     isCached: true
 
-related:
-  - title: "Silicon Catalyst welcomes Imagination Technologies as an In-Kind Partner"
-    excerpt: "By joining as an IKP, Imagination Technologies will enable Silicon Catalyst Portfolio Companies to gain access to high-value PowerVR GPU and AI accelerator design Intellectual Property (IP), by waiving the license fee for their System on Chip prototyping ..."
-    publishedDateTime: 2022-02-15T07:50:00Z
-    webUrl: "https://www.design-reuse.com/news/51432/silicon-catalyst-imagination-technologies-in-kind-partner.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 3
-
 secured: "cKfFjToL+qoREyYzm44CHtg98n5b5FZbQs74gHyY6GaqvoAtgiQUiXVdtgXgHF0Zhizh8MFfUXatI5lv4gYOvYo87uivr+bo0JpbOo1EAb6iKGmS5mBtQa3gp/PLZSxjuFpUhICUy1eEuSc6NAOxE8X7qtziLGlzvvhqpZXryO1jpI1bkVvx6gRR2Tm2WMICSRzZBADcAsETVxEoDo2+8nc5KsgcCZmXS+RbFYuivsEygHznhOvYVgfiv7YW5txKTzVhPxOQKl/QXzNqJiwsGJBDb4xBxqK9/SSjTix1pXggoUoScNp/SToAiIdr533/qUEznCcT0ljCi5rXfrhDqlI8QRVevWHfRz4wrcE1QMk=;bsiqfFPi39Xg1YQpBGE6RQ=="
 ---
 

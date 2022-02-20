@@ -41,20 +41,6 @@ related:
         width: 706
         height: 470
         isCached: true
-  - title: "SK hynix Develops PIM, Next-Generation AI Accelerator"
-    excerpt: "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ..."
-    publishedDateTime: 2022-02-15T23:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg"
-        width: 400
-        height: 246
-        isCached: true
   - title: "SK Hynix Develops AI Accelerating PIM Memory So Our Overlords Don't Forget"
     excerpt: "As such, it is working with SAPEON INc, an AI chip company spun off from SK Telecom, to introduce a new technology that combines GDDR6-AiM with AI chips."
     publishedDateTime: 2022-02-16T15:43:00Z
@@ -84,6 +70,20 @@ related:
       - url: "https://digitimes.com/newsshow/20220216VL203_files/2_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "SK hynix Develops PIM, Next-Generation AI Accelerator"
+    excerpt: "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ..."
+    publishedDateTime: 2022-02-15T23:30:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg"
+        width: 400
+        height: 246
         isCached: true
   - title: "SK hynix GDDR6-AiM: next-gen memory with computing abilities for AI"
     excerpt: "GDDR6-AiM does things differently by adding computational functions to the GDDR6 memory chips, where GDDR6-AiM and a CPU or GPU -- instead of regular DRAM -- will speed up computational speed by up to 16x. SK hynix is aiming its new GDDR6-AiM memory for ..."

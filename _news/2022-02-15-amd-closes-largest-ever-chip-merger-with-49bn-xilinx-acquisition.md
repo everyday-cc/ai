@@ -24,6 +24,17 @@ images:
     height: 229
     isCached: true
 
+related:
+  - title: "AMD completes $35 billion acquisition of chip maker Xilinx"
+    excerpt: "“Xilinx offers industry-leading FPGAs, adaptive SoCs, AI engines and software expertise that enable AMD to offer the strongest portfolio of high-performance and adaptive computing solutions in the industry and capture a larger share of the approximately ..."
+    publishedDateTime: 2022-02-15T14:01:00Z
+    webUrl: "https://www.itp.net/business/amd-completes-35-billion-acquisition-of-chip-maker-xilinx"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
+
 secured: "YsOPeUA0eiAtiZ93bWT+jIBkI2LFNj9E8t4sd3PCN/zl7HgvGICdU1CmfLxY97Cpb1GoiWKbGdbUQi3OxzzuRUGgd3v1c0D7KcUfRmgfdZWjEN8MB/T3UqWPb5wa1Jz5IadGx+52r5Dmw6lXa4nAO3Zn8+rbOmkBO3BkaNrEpniySs8/2XDBcrNtVr39Pxl8a3TOh1mvryjXU/rprEt0BzaBjLQAYt+C6rQAGEf+v673n1WY7hae5y59FCMhukUL6XPIw7qm6e7QZYWbd8GJIDg1nmJdlnwa/qy/E2IsQ0Gcw+u77wH09cH8GZ07NOXvkzTubOqkDp4gjb3PYSACalh2ZuLmEuMvovsjUjc03J8ITv5B6c/QCoHV44dlDNE0zhcjX8Tj+8aZ/AmaIP1uNMqABl8AbziQWHqQcufPr4EOoq9RbKak/mH5vZ+YVckwcjNssKku/V3HuPcwcnXurr3wuQlTZ1VIKTiZzi4PKgLj9CrUTgWv7nmifuXp1kC85rQBypxukkOC8SEOv4bqWg==;S2IhT7xu+BtUiKAiAsXvVg=="
 ---
 

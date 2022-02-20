@@ -20,35 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "Second Nature’s AI-based Sales Coaching Integrated with Corporate Visions"
-    excerpt: "Second Nature today announced an agreement to integrate its AI-powered sales conversation simulations into Corporate Visions’ sales messaging certification and fluency coaching programs. The first ever AI implementation at scale by a prominent sales ..."
-    publishedDateTime: 2022-02-15T08:43:00Z
-    webUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/"
-    ampWebUrl: "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/"
+  - title: "Integrating AI into diversity initiatives poses risks as well as opportunities"
+    excerpt: "As businesses rush to take advantage of artificial intelligence tools, they need to recognise that human intervention may be needed to make sure unreliable data isn’t thwarting attempts to boost inclusion and diversity."
+    publishedDateTime: 2022-02-17T17:34:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/02/integrating-ai-into-diversity-initiatives-poses-risks-as-well-as-opportunities/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 73
+      name: IET
+      domain: theiet.org
+    quality: 35
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Second-Natures-AI-based-Sales-Coaching-Integrated-with-Corporate-Visions-01.jpg"
+      - url: "https://eandt.theiet.org/media/17693/dreamstime_xl_111348386.jpg?crop=0,0.084583333333333344,0,0.4232291666666666&cropmode=percentage&width=1200&height=450&rnd=132895710970000000"
         width: 1200
-        height: 676
-        isCached: true
-  - title: "AI-based Location Intelligence Startup Data Sutram Raises $2.07 Mn in Latest Funding Round to Scale Up"
-    excerpt: "The proprietary AI and ML-driven data engine automatically converts raw ... This brings in a growing need for fintech and traditional companies to use alternative intelligence and enhance customer acquisition, credit underwriting, and distribution planning."
-    publishedDateTime: 2022-02-16T04:57:00Z
-    webUrl: "https://www.indianweb2.com/2022/02/ai-based-location-intelligence-startup.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 23
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjRATANVzbu85bz6h2E-oP9xZTthcCCLF7VzOaoz_SbfiUgXG-yCGUTg4dbxxbSlHxBQnL1m7oO2m9HqdPw4r0tfbBV98713atMiIz9htaWBQpxuep7VvxngwDxuXBrXyPye9pGFrrAy-EJWIXJFjnV5EgZscyyuaeUDefo7FeKAlvja_9yd0WHkyul=s16000"
-        width: 614
-        height: 350
+        height: 450
         isCached: true
 
 secured: "k3untPgyASLPTE2Duw3AxhA10Z6/oVAZ+Qk7pFyjLoBGZIu3fFsTtItQonDIiakYf4bUrpEZU2+tJJ3Zxyll+XW7xAxue2VWhv/kHYMyj1Zwfbn5Cei2D008gfFCSvHGvOgA9GabEBmoOCaPAYP1E3+QCwkjl1wqAk5T5QzhlwN0DkIHfzdB0pMbV1BZR87T+9S3l/lILKn6zVkazYpfdtX49dBCrqHnFLsyp300umU/HT+XTj19FTrBsWPmDqq9kL4FwoFrDmbx/2T6EzI1AbtpJ4Uc6JEs9U7jU3FMlxYHhztnSBIA/VwUDOT9YNIVb4N4WEN0MfPPx+Wq0MRXFmtyCAT+arjsMXpCK5dtfTaaPXoAWmC5nXxOQCO2i4R2nmdfIPRtgHB0KxMsz7+OCqnlm1efU6FfVDxpj9EcDSYnKthUGrZPXrzdYN8c6bAyUcyNJImasouwSVL/msiK1dal2bnliCkN7+p6SoFeIPcZPpMR5wAQBECkk9oDodN9ltPP+gexkRNwxBefYrGUFg==;Bn9sucwNFpawn6SEVGCqUA=="

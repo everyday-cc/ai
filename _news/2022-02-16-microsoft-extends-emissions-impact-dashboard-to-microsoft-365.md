@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-extends-emissions
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: ZDNet
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure’s first Azure HPC + AI Day"
-    excerpt: "Welcome to our first Azure HPC + AI Day! We’re excited to host the first event, which will soon become an annual tradition. Join us on February 24 and 25 to hear directly from the Microsoft Azure team and earn points by attending sessions to get one of its kind Azure HPC + AI Day swag."
-    publishedDateTime: 2022-02-15T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7417aef1-9bb0-4fae-91e8-da2ab8496dfc.jpg"
-        width: 1024
-        height: 574
-        isCached: true
   - title: "IBM acquires Microsoft Azure consultancy firm Neudesic"
     excerpt: "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ..."
     publishedDateTime: 2022-02-16T13:08:00Z
@@ -73,20 +59,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
-    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
-    publishedDateTime: 2022-02-19T08:09:00Z
-    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
-    type: article
-    provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 71
-    images:
-      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
-        width: 602
-        height: 305
-        isCached: true
   - title: "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
     publishedDateTime: 2022-02-15T12:12:00Z
@@ -114,6 +86,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Shivir_AIM.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
+    excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
+    publishedDateTime: 2022-02-17T07:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 53
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "ruw4r+fOariyHzlS2hS0OdNfK/94tV3y9E5dVI6rYDX+Z13u3pyhIw+I/kbPs5X5I3q7XB7KXmP1pNejXeingR6nD1mQBR/V0rNUvaVZ4Xah1POv9EU+0w2LCKq64oOG886R9VTCuTvuPuZ+BjbuRJ+3egIej0ZocFpBEcX4AqqYdTFMIUuu9/XMr/XLF65AD+TZvri2WjQyvYplqeog4FYFRp1/r5y2RwQAQE2Nh46aWeCzcylF3qhEb3KcrnnvBzORahPRCezaDz9becHHlRkDfhmwkwIj1tV6qW7MY/F7BfFmThny2Lt3nCw/0oCC/9eXov6L/UHVsAbeeYY//9aN6ouCpS8wBxn36R1fGm6gpPGQHIHCXYqp1lhVHckIfckmk3oZ4Vl/vldufE8HCdshyG5aKGB9vp9fS3Cnk/AQXh79BsN8UJgte+sBITE+2MHEo+Z0jOdqsQEGEqpvGA2xK/QJDrfE3FkqRvkyygPOq4/3C6lEdPxSXam+MId4nISBrFXtaU4Tizp1iAWobg==;g2QECbZT9JZO/Eoj0AvDcw=="

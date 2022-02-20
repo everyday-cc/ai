@@ -3,20 +3,16 @@ category: news
 title: "SK hynix Develops PIM, Next-Generation AI Accelerator"
 excerpt: "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ..."
 publishedDateTime: 2022-02-15T23:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
-webUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI Hardware
@@ -99,6 +95,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "JKzoz2MUtmuGs7Qh/Lqsp1SQzdg/TPQbRJXoYlD8zsTQwrMofL+oq8V8KrI4eK6hq6jo++r1UKTm2yoavN6OhTsfeUgoW2XvPMauOmze8mikIAawydTF37NR9NEdroqQYwWiGpqlLrFmbTrrlLrUfjsS0qi3Dcmt5HrMxKASltHPiLtCIlzeymG30wl3kvVlrTMhjI4fsOBWLaH/nfbEk9hC1GFrUrJIRPbMxjEiY7+OCZOk2DcynKORgqu583dbIzktfZiVD6MDnchbSVCm93N16QZ+mFiDshZV1QF5Cx6C4ua5G+BdtOIOWLVwKCThNfyw2n+4vl+Cy5DK82i2JSssY+2hcIO0JlmI5EwmjihekRItjC6HbA/zsfgnVrZcPdx3DlPqmRjIpHsAmk8Zeo9tnBNSi1hl2NuZ0LlWh1WFlR5q5H0Qd0IprKTXS6ujDWoV01lrRqw4PpB8f4zDXIYAayOCKoXwEXBZmhsi5TU5UWnj2oDxdtuFt+18qSzvXSVT+O7rVu9NEYUmKBkjAA==;Dj+hDp/ht8UYPXE1FoBFOA=="
+secured: "euqQXbKHYDmDJFty4bbQs7fsjvrYe6ln2YTBcC7CFnZmg8/Th/cc8+axE4BTEEJzXJANkm0WywsiEF0jn/vLoa8H3RCMZdF92Vj9DoWUtzpas9wzy5bgbzZIaq3aFc3JOAuWPzo4gdDp2rVALk8Ke14XXtSrb9wIQi20V8GnU4BJ7Gjcl5FIgj7fBP2IkjUoLc/ppMXctFug7OCTwmVxnbGjoaRD7O1nT0GpgsMRXoNES1ZrNsYuyHakKSbeZk9MSWFlFF8en82IGd+ZBpa9ZO005vxHQuoAmMf0j85OHFsAnXzZfUN2ROqO/PHq/nLy1BRPqjtA/T8LSfd/YzA97hjVIzfmWnVN5hIw1Qu+uh0=;7x54jHqU5TLigbP3gD44PA=="
 ---
 
