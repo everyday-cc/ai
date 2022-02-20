@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Global artificial intelligence spending to reach $434 bn in 2022"
-excerpt: "New Delhi: The global revenues for the artificial intelligence (AI) market, including software, hardware, and services, is forecast to grow 19.6 per cent (on-year) in 2022 to $432.8 billion, according to a new report. The market is expected to break the $ ..."
-publishedDateTime: 2022-02-20T06:09:00Z
-originalUrl: "https://telanganatoday.com/global-artificial-intelligence-spending-to-reach-434-bn-in-2022"
-webUrl: "https://telanganatoday.com/global-artificial-intelligence-spending-to-reach-434-bn-in-2022"
-ampWebUrl: "https://telanganatoday.com/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/amp"
-cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/amp"
+excerpt: "New Delhi, Feb 20 (IANS) The global revenues for the artificial intelligence (AI) market, including software, hardware, and services, is forecast to grow 19.6 per cent (on-year) in 2022 to $432.8 ..."
+publishedDateTime: 2022-02-20T07:53:00Z
+originalUrl: "https://menafn.com/1103729283/Global-artificial-intelligence-spending-to-reach-434-bn-in-2022"
+webUrl: "https://menafn.com/1103729283/Global-artificial-intelligence-spending-to-reach-434-bn-in-2022"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2022/02/2a253c1258143da0dbcb615b6a8.jpg"
-    width: 1200
-    height: 650
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?213362"
+    width: 442
+    height: 250
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 898
         isCached: true
 
-secured: "66P3PMsFZ5Har7WZoX4FT86/oSjU0g85mm4SPYEykIcMio5d/cOhvPTrHoGORRtMbQS9L//1v7vO6QaxNcD+hDSew8JlaVFcCpwhDSqA34MAKZmmLQEPU4XeHq/qSm8kLv9i2Z/2rE9769EABJ4Zy9yfXKbUQhJ62xXFhkoqzR13aUhrSOirneMDJ2H+Ua4T34+bd9XrtnJy66OHN+FaQhPlH7zRZetRmi+uUV78gMaEJF9JjG0klowZGOhNLdatFcGywzSRcHfF81B6HNP+/mxYu0L91qdku1WrxuLjUkOSfO9kSKEM5iHx5LjQJyyaJS/MzjHOvHyMuItE+BdA4DHxzokYxxldgsV2KMpOYsbgwnZVq/ewcZxhmBcD2BSthJ1QlxdLC2mBnOc5Z6bI/q/H/T1Ant00cj9+CUhaXioPkibHUeS5PW5cUGIuWnUL1BqZFq2z6q398mc0A19Gak4UFzon4FRFJfoRGCTlNVkG1V+iYrYxzX8svgUX86Iz1WmY+uvnwzVQEJgGwaec8Q==;AwdzHgi0gkUxaOr3W4st6Q=="
+secured: "92eUILcmHVjwgWFrXW1qoEJmOv6P2SMupVSP41ZgDzqiYrQcs3+c6QzITyx0IGRTC6Y7Yr62LWd5fzMNwMNaEYo4gO8z5yInwKO2g3jJazQ0KRy3/ujrGqfrINyBenLF65deDcmq4+0lrVkTnR2dbmldZrLbSKspIf1N1owXLTxKzVXq3vblyh/eMMD0FXHJkFbvEZ/Q8ES5uVEADvfnc25CtuMe4r+H0dbHXoSJbcBtBXkSG/Xi/zKccfXQwXyEktuvN8y8qXi4XDayCWh+uxfrNkcYyLmy8alnUerBtxmeygi3R397xI3kT9dBAx6wWxBNw2OCP4E9H2Ymz9fF8WCimKZQjiODLXicauGVVEs=;JiAzpdMIJPOeP9/AQ6nf6A=="
 ---
 

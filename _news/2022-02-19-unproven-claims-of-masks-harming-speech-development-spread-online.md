@@ -7,7 +7,7 @@ originalUrl: "https://factcheck.afp.com/doc.afp.com.322K637"
 webUrl: "https://factcheck.afp.com/doc.afp.com.322K637"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "No, Masks Do Not Harm Speech Development As Claimed By Viral Post"
+    excerpt: "He said that the impact of masking is a \"complex issue\" and echoed other scientists' observations that more data is needed on the subject, noting that \"even if we find effects of masking on face recognition or speech and language, those are likely to be ..."
+    publishedDateTime: 2022-02-20T10:19:00Z
+    webUrl: "https://www.boomlive.in/world/face-mask-covid-19-speech-development-fake-news-fact-check-16826"
+    ampWebUrl: "https://www.boomlive.in/amp/world/face-mask-covid-19-speech-development-fake-news-fact-check-16826"
+    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/world/face-mask-covid-19-speech-development-fake-news-fact-check-16826"
+    type: article
+    provider:
+      name: BOOM
+      domain: boomlive.in
+    quality: 59
+    images:
+      - url: "https://www.boomlive.in/h-upload/2021/06/30/951909-passengers-wearing-protective-mask.jpg"
+        width: 1280
+        height: 768
+        isCached: true
 
 secured: "zePcmgjUbyDaXE1UE3QJaBibs2FdUiSEV712T9gFIQoXmKE7KrDdhLABbiqH64eT2Knz8bVG7opwSiz36GaQr1M2qCUcQ/TYMMIBEZ3PwTfNfYJvESa7MQ9xcD5/4qtBbi0ebwW+9Mx+EoOa2rGhb88bevDqE280UmXGzCQ/O0yGTaizf5zh+yf5XgxuyMrbWFZUVkXbayexj1lI4yQwYI1JKdg6Atos8Il3+hPuWpe8cI1UK85UByBI7jIw44Wdewe7XAU3hZNt9bDtlIXH4WhPYZxCG5eWfl+o1pc5bGbbx11UNih+znk9rBg6wZScjNKAw+DtQvlAzVmQPeSFVHE4PzAdPknaomImwFL28EY=;nECh0Pphp7/lzEF2CrCcIQ=="
 ---

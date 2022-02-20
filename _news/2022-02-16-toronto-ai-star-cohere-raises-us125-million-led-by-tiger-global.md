@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/business/article-toronto-ai-star-c
 webUrl: "https://www.theglobeandmail.com/business/article-toronto-ai-star-cohere-lands-tiger-led-125-million-venture-funding/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toronto AI star Cohere lands Tiger-led $125-million venture funding"
-    excerpt: "Cohere, co-founded by protégés of AI luminaries Geoffrey ... AI algorithms to generate language. Mr. Gomez and Cohere co-founder Nick Frosst, another ex-Google researcher who previously worked with Mr. Hinton, wanted to translate gains in NLP from ..."
-    publishedDateTime: 2022-02-15T18:09:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-toronto-ai-star-cohere-lands-tiger-led-125-million-venture-funding/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/u9aGdNp4Q3WDmP2PMFnyueV9oug=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/AKP5PASY3ZDGHEENIHPNKS4SFY.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI language processing startup Cohere raises US$125 million: The Globe and Mail"
     excerpt: "Cohere Inc., an AI startup founded by University of Toronto alumni that uses natural language processing to improve human-machine interactions, has raised US$125 million as it looks to open a new office in Silicon Valley, the Globe and Mail reports."
     publishedDateTime: 2022-02-16T21:36:00Z
