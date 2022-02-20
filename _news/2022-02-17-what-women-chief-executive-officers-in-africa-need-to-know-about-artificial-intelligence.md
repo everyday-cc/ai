@@ -65,20 +65,6 @@ related:
         width: 1011
         height: 1349
         isCached: true
-  - title: "The African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI's use in surveillance and the ... machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-15T22:01:00Z
-    webUrl: "https://news.trust.org/item/20220216102206-e81gv/"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 39
-    images:
-      - url: "https://news.trust.org/contentAsset/image/77d1bae1-ca7c-4e0e-8717-dfa785de5fa1/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 527
-        isCached: true
   - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
     excerpt: "To mark International Women’s Day, March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
     publishedDateTime: 2022-02-16T15:01:00Z

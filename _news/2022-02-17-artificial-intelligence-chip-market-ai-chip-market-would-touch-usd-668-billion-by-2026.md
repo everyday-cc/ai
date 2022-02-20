@@ -9,8 +9,8 @@ ampWebUrl: "https://ipsnews.net/business/2022/02/17/artificial-intelligence-chip
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/?amp=1"
 type: article
 quality: 66
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Inter Press Service
@@ -24,64 +24,61 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
-    publishedDateTime: 2022-02-18T16:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
+  - title: "5 steps to minimize AI bias in marketing"
+    excerpt: "Register here. Today, more and more marketing tools are AI-powered. As that shift has occurred, marketers are grappling with the fact that there will always be some form of unintentional ..."
+    publishedDateTime: 2022-02-20T14:20:00Z
+    webUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/"
+    ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 62
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1145968976.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029"
-    excerpt: "According to the latest research study, the report predicts the global size & share of Artificial Intelligence in Drug Discovery Market to reach around USD 5,558.0 Million by 2029 from USD 626."
-    publishedDateTime: 2022-02-16T09:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-artificial-intelligence-drug-discovery-market-rise-ketan-"
+  - title: "How Artificial Intelligence is used in The Crypto Market"
+    excerpt: "Overview  If you wonder if there is a relationship between Artificial Intelligence and cryptocurrency, then you must know that the crypto market uses Artificial Intelligence in various ways. Due to the use of AI,"
+    publishedDateTime: 2022-02-17T09:39:00Z
+    webUrl: "https://www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/"
+    ampWebUrl: "https://www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/amp/"
+    cdnAmpWebUrl: "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 33
+      name: Deadline News
+      domain: deadlinenews.co.uk
+    quality: 57
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEfUDwu1XTqrw/article-cover_image-shrink_600_2000/0/1645003619062?e=1650499200&v=beta&t=TWv8vWqQIyBN5ED44mhdu2pbCCr59suNs3kppMmk8QE"
-        width: 800
-        height: 560
+      - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/02/jievani-weerasinghe-NHRM1u4GD_A-unsplash-scaled.jpg"
+        width: 2560
+        height: 1570
         isCached: true
-  - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
-    excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
-    publishedDateTime: 2022-02-17T17:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-banking-market-demand-business-scenario-share-applications-types-and-forecasts-2020-2027"
+  - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
+    excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
+    publishedDateTime: 2022-02-17T02:57:00Z
+    webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
+        width: 443
+        height: 250
         isCached: true
-  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
-    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
-    publishedDateTime: 2022-02-16T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
+  - title: "Artificial Intelligence in Manufacturing 5.0"
+    excerpt: "Research firm, Gartner, says that the COVID-19 pandemic has amplified the need for supply chain organisations to use Artificial Intelligence (AI ... also an example of Manufacturing 5.0. Universal Robots, a manufacturer of AI-powered robots has deployed ..."
+    publishedDateTime: 2022-02-19T04:30:00Z
+    webUrl: "https://www.manufacturingtodayindia.com/sectors/artificial-intelligence-in-manufacturing-5-0"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
+      name: manufacturingtodayindia
+      domain: manufacturingtodayindia.com
+    quality: 19
 
 secured: "B6eNVY1zJo96OwWptPmBvgRogr7+yr38inI5UW3xlav3YoeYI9Ue3Aat4iqRfZkoXewKAcnybVv2AiR2JITOt81upmYpdDyDnwiBI15yCsxPoUdfBNGNed+mquxD207ujorMTOIuHU9STjyQNRlXJTWX/A5Td1eKV2XndjjtyFEifD563GTF0921AMBpN7k4ssE7Mz92aGG4OpL+AzgG8o8jtwD/lbYkBUQO4ZUaLbyzsvN/4Yc1frSyrq+kN/rC06r+0Yx/hRvOPUsa+Kmhpqk0gKbdn+fHsHbfNVxjb9J7pZzO7ghlHeFTca//QYgr8D0sXS1BSBfPKTOImOapWu6qNQLZtkhKh1483GYXOp8=;p56+BlK9gHl7EE6Q+4z5xQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-artificial-intelligence-drug-dis
 webUrl: "https://www.linkedin.com/pulse/ai-artificial-intelligence-drug-discovery-market-rise-ketan-"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -29,60 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market (AI Chip Market) would touch USD 66.8 Billion by 2026"
-    excerpt: "Market The Artificial Intelligence (AI) Chipets Market is set for higher growth over the forecast period. In terms of revenue, the global AI Chipets market reached USD 7.9 Billion in 2019 and is projected to touch USD 66."
-    publishedDateTime: 2022-02-17T13:00:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/?amp=1"
+  - title: "Global Data Science Market worth US$ 527.08 Billion 2029 with a CAGR of 33.9%"
+    excerpt: "(MENAFN- Prophecy Market Insights) The report Global Data Science Market, By Types (Solution and Services), By End-User ... In 2016, Microsoft Corporation launched the next generation SQL Server ..."
+    publishedDateTime: 2022-02-19T05:44:00Z
+    webUrl: "https://menafn.com/1103726151/Global-Data-Science-Market-worth-US-52708-Billion-2029-with-a-CAGR-of-339"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 66
-  - title: "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
-    publishedDateTime: 2022-02-18T16:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 62
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
     images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
-    excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
-    publishedDateTime: 2022-02-17T17:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-banking-market-demand-business-scenario-share-applications-types-and-forecasts-2020-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI in Manufacturing Market Growing Rapidly with USD 14.77 billion by 2024 | In-Depth Analysis and Forecast Report on this Market"
-    excerpt: "In terms of the technology segment, the market has included natural language processing, machine learning & deep learning, computer vision, and context-aware computing. In terms of the application segment, the market has included supply chain management ..."
-    publishedDateTime: 2022-02-16T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-growing-rapidly-with-usd-14-77-billion-by-2024-in-depth-analysis-and-forecast-report-on-this-market"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?612054"
+        width: 354
+        height: 250
         isCached: true
 
 secured: "64ou45ovUWyT9L+pODg8tkw0hBNgmaH/zwar5JsSXSPzF/r1zKzj5NIX6TOjPVZ7JHN7dtUEKrST/GC4UlcTw31qDBaM6TDhWzPghg5aw7ElAKGn30IYv2pDICvE67zNMB0cVNjnDCn3HyoFoCGiXgv4mBIflllGL8hLZggN/zcskOL2lnc9hmouyFZu4yfIwLCSv+wyZzROJeimiGWq+jhpaEnNIJx0VpcbzRhKwOhVozQoP5FR/r3VavotcNbgz0s+ZR99jkwvIorINsPH9r9hYDK9q3RsIc837MPLC98tmYcsKaABK48D+m21chzBRfTw9wIt32hO5UqdKG+Uc+Hghvakk4Fmqr8CpVIDGi5Q1ZeyYf9PmXBEWDQXHHfsRkexVxoI/5mvjhz2Qe1IS9PADjFdTvxWTlU1VgolQU9NUYevGA2uhCVhDRGxpNZgD1Lf1JGHtauwifqUCxqR8f+m8pvQQi04HW08x9I+FinNz+quGydGxadfUDWXVyWK+Pxdov6b0bzp1QwB60lW/A==;SRWNyt75Ydqmkf/IQCsuJw=="

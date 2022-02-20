@@ -41,20 +41,6 @@ related:
         width: 706
         height: 470
         isCached: true
-  - title: "SK hynix Develops PIM, Next-Generation AI Accelerator"
-    excerpt: "SK hynix (or \"the Company\",  announced on February 16 that it has developed PIM*, a next-generation memory chip with computing capabilities. *PIM(Processing In Memory): A next-generation technology that provides a solution for data congestion issues for AI and big data by adding computational functions to semiconductor memory It has been generally accepted that memory chips store data and CPU or GPU,"
-    publishedDateTime: 2022-02-15T23:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg"
-        width: 400
-        height: 246
-        isCached: true
   - title: "SK Hynix Develops AI Accelerating PIM Memory So Our Overlords Don't Forget"
     excerpt: "As such, it is working with SAPEON INc, an AI chip company spun off from SK Telecom, to introduce a new technology that combines GDDR6-AiM with AI chips."
     publishedDateTime: 2022-02-16T15:43:00Z
@@ -70,6 +56,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/57711/content/SK_Hynix_GDDR6-AiM_Chips.jpg"
         width: 708
         height: 400
+        isCached: true
+  - title: "SK hynix Develops PIM, Next-Generation AI Accelerator"
+    excerpt: "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ..."
+    publishedDateTime: 2022-02-15T23:30:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg"
+        width: 400
+        height: 246
         isCached: true
   - title: "SK hynix’s memory chips 16 times faster, 80% more efficient"
     excerpt: "South Korean chipmaker SK hynix on February 16 introduced a next-generation memory chip that processes data 16 times faster and consumes 80 per cent less electricity."

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-02-ai-life-sciences-boost-financial.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-ai-life-sciences-boost-financial.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
+    publishedDateTime: 2022-02-18T16:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 62
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Global Market for Artificial Intelligence (AI) 2022 - Featuring Spectrum Labs, 6sense and 7bridges Among Others - ResearchAndMarkets.com"
     excerpt: "The \"The Global Market for Artificial Intelligence (AI) 2022\" report has been added to ResearchAndMarkets.com's offering. The development of artificial intelligence (AI) technologies is growing rapidly and transforming the global economy."
     publishedDateTime: 2022-02-17T09:23:00Z
@@ -39,6 +55,34 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
         width: 600
         height: 338
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market size worth $ 5628.19 Million, Globally, by 2028 at 52.60% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Genomics Market\" By Offering (Software and Services), By Technology (Machine Learning and"
+    publishedDateTime: 2022-02-17T08:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-genomics-market-size-worth-5628-19-million-globally-by-2028-at-52/article_0b86f330-17c9-5156-ab9f-714b962b9bf8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Aerostat Systems Industry to 2027 - Featuring Aerostar International, ILC Dover and RosAeroSystems Among Others - ResearchAndMarkets.com"
+    excerpt: "There are numerous organizations which have started employing intelligent video surveillance systems owing to several advantages offered by them, such as object recognition and video analytics. Other than this, the demand for high-quality aerostat systems ..."
+    publishedDateTime: 2022-02-18T14:59:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=618918"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "dSzdf2vwTL/7gV27rhIqzjm7ipZ5aT44CS5xc/v06s9ZF9bqYz+TS7/XGEbiA2hyqhEXAz3eoSU01vI9QMzCG3X5rTsa7bqLUivXBr7bwaLMceLJPGizfeTExjRm6+b5+xp8SERe2Az/PVbGPjRvKWXRayiuoW6uCiwFcTh5UvsPK3flYNCQ0ou0wO45vJWnghizwYYGCBGAnQ4AS0ZC3u7hUGikoUlwrF+cCrbQRTGiLPU7+brcrJuVNf3ad5E9qOI93k8TgjE/Ntz7nkK7Hb8QdEeZLMpthRO1xy04aqSPUckl86Oco5Q8ozZtENBONJlBTF6ROm+SWQ9ZPpG6JBMoqISY+mTY7ANk2YVyy0dYJKnNSdCiZ11ysMe9sYb2tksdjS5grfRlrUrxSDBWUzXz2+rVBfmipCspwZGe31FMuxbljuq5fZ8bgFWUniat9MDlVP45juOcO6YoAfoSHXtCQaABRx2+D1oMoF7ujRb1T8VPfz4m4w6IGSemBZT/4GLoY2mENfORgAnMpLMWdA==;aZStSex9ifK2ttc5i3Xbeg=="

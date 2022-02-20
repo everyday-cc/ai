@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
-    excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
-    publishedDateTime: 2022-02-17T02:57:00Z
-    webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
-        width: 443
-        height: 250
-        isCached: true
   - title: "How Artificial Intelligence is empowering human-touch in healthcare"
     excerpt: "Historically, artificial intelligence (AI ... has changed over time as AI technological solutions have developed and matured, especially within the healthcare industry. Whilst AI is now matching or outperforming human abilities in key healthcare tasks ..."
     publishedDateTime: 2022-02-18T02:22:00Z

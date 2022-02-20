@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-excerpt: "The collaboration is a high-profile win for Nvidia Corp`s effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence and high ... a previous deal with Alphabet Inc`s Waymo unit to deploy autonomous driving ..."
-publishedDateTime: 2022-02-16T15:06:00Z
-originalUrl: "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034"
-webUrl: "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034"
-ampWebUrl: "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034/amp"
-cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034/amp"
+title: "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race"
+excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology."
+publishedDateTime: 2022-02-16T14:40:00Z
+originalUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
+webUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Zee Business
-  domain: zeebiz.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-    width: 700
-    height: 394
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -157,6 +155,6 @@ related:
       domain: carsifu.my
     quality: 4
 
-secured: "aoTXdZhVL/9QdTzg7GWvzhT2ZBbR1dVc7VQAiKEwQLRKx45Q8D/VB/Qvg9tAeLC3FU+Co3+7BcXjfgiIjaDyGnxFCYY6XbzKm50C2NPGTOWW/xSg7au2Q9HxV9QCoLZ68jr6DHPVWrwh9Lz7qtpxv5p0xtolZLX74Hx2cZrnLiDTCs8kY55zYHa8u9XvU67O0GVRoL0EXFde33WKti8gUt/so8Q7yqzODxIfszakJ4401ABD7a3g5qf+fmQW7/+CcfQyu/DzoQIi1ao5NEL4b6ckvezZJ8oj4vkQlrR5fsU71pxp8sld5JTOogHDh7MuO2dDMXPSFjtL+rczJzTZjh52DRfY04hPrHOKl3mp6do=;W6iQgqQ0/Sg3GQgEWQtKPA=="
+secured: "TZ1wQfENyMUSMk5D9ZJhw5HgTjmjHGWglxCsHOlyZiwUujqeeoroiex9j5h67z55LVALrKynHEO76lI+vY4zj0AMmvea3TxPw7ipgYpx3+zh1r3Vxxcyymns5cVv3bQe7vuulTKvL9t2Hy3RV8+eQKqWn+QsKCCVbibsdA01DRxJcILzVzrZLQROp57sXEirlBtO/l+mrBJmwglk5UopZcmdf86gaxjgXdQh0b9xHE7A7Zj+YKoUG2nTeRe0m1ARPrCiggtlPsq6n8XmXrUiRri9hHKB9IqF3doXOH4NvYIVl+Ojwh6Vab9AfySyCeVTmB6Dr/tUomfS/qoU7o4S1kH6CPexMYATdeRvdjB4+74=;fvO0KVHYwzce0gP8xgXn+A=="
 ---
 
