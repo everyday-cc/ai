@@ -2,11 +2,11 @@
 category: news
 title: "H2O.ai democratizes deep learning with H2O Hydrogen Torch"
 excerpt: "New no-code tool simplifies training and tuning of image, video and natural language processing models H2O.ai, the AI Cloud leader, today announced H2O Hydrogen Torch, a deep learning training engine that makes it easy for companies of any size in any ..."
-publishedDateTime: 2022-02-18T10:58:00Z
-originalUrl: "https://bdaily.co.uk/index.php/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
-webUrl: "https://bdaily.co.uk/index.php/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
+publishedDateTime: 2022-02-18T08:46:00Z
+originalUrl: "https://bdaily.co.uk/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
+webUrl: "https://bdaily.co.uk/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=940&h=430&fm=jpg&fit=crop-47-32&s=f6f9c83298cf3823cf73a84a7026f6bf"
+    width: 940
+    height: 430
+    isCached: true
 
 related:
   - title: "H2O.ai democratizes deep learning for companies of all sizes with Hydrogen Torch"
@@ -59,6 +65,6 @@ related:
       domain: insidebigdata.com
     quality: 36
 
-secured: "h3hk1o/HOhJj5VBl7yWmfs/USoN4tVmP5hom7iPp48OJvdqfc9/yRiuu4grXO6D9ribOFuEAv6LXBl2YPb2ma0l++muAGJ4iZll6p+y/Wlsuw+UktpXtfwUaKZQhw9KnuuRaLtuMXXPWmn3h7qaJlSbPbiFB4jgcqhKRYNWOVpT9p3SZ7FBtvxlwkBqLHaWOWfH9rinJaKZ4lHoJI3GMu2CKyXCgLq++LBmI0MJkc2KkVAtX7wWn9BgT3V1ZIRLILnX1KaiTxBfYe/wHDRVR1epA0mv2HDgxDdGFQMtbQbRfRcVkZ+vDYcKT7Ax93pm1dBInjIWJB4sWG0Gz/hRP1HOUXPJqCsBbHsXiHf40vIk=;3o+8SmsmoBHvAqNxOhHgOw=="
+secured: "MzemKHW4F+oyYaYsjNFs6ECHG9tNuCWpzxdHiY2ygj9aMZo88zsl6VqOfE6mQ2aUxPhj4U03637+GrOPLffnnFe3khLpkcZLrUKy4qv3dEqMWp+5IYS0HzD/4UKPC3+q+MAxgT0vgr/GUvQ1SjsYdmQ1h3RBXOQ4pTUrNfHfyaUyIb3M9brkSfC/xu0/YiJ7cJNDBen8I5yq+WzsgcVjgHBNI6GBRh5wwDprMkxRJ1AY8jrGWyMmtDlkUulKefsupRLpdJPmaUNX/zhkQOTAlkaQvn96EpG4YG+BGKM6WBJSIKDdz+y8iMJWPLZLfSRRli9AcwK8Ylt53bY+KSRoZyl9DEvdwl8+SLqzC0UMB3M=;IsyJ8Y35VD7hIKqglJHxAw=="
 ---
 

@@ -220,20 +220,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind’s AI Competes with Average Human Coder"
-    excerpt: "DeepMind, a Google-owned artificial intelligence startup, has revealed a major breakthrough in competitive computer programming. DeepMind, a U.K.-based AI company, has taught some of its computers to create computer software, and when judged in a ..."
-    publishedDateTime: 2022-02-16T12:16:00Z
-    webUrl: "https://www.linkedin.com/pulse/deepminds-ai-competes-average-human-coder-bis-research"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHGXrEUbpj6yg/article-cover_image-shrink_720_1280/0/1645013612411?e=1650499200&v=beta&t=xwe2zcm7Oogk36t0y2fVkWMk_mvsv9Xoxb2RLDM464g"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "DeepMind Simulates Matter on the Nanoscale With Artificial Intelligence"
     excerpt: "By expressing the functional as a neural network and incorporating exact properties into ... to engineers and ethicists – to pioneer the development of advanced artificial intelligence. The company’s breakthroughs include AlphaGo, AlphaFold, over ..."
     publishedDateTime: 2022-02-16T22:13:00Z

@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-21-stanford-university-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours.md",
+      "title": "Stanford University use AI computing to cut DNA sequencing down to five hours",
+      "excerpt": "A Stanford University-led research team has set a new Guinness World Record for the fastest DNA sequencing technique using AI computing to accelerate workflow speed. The research, led by Dr Euan Ashley, professor of medicine, genetics and biomedical data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
+      "originalUrl": "https://www.zdnet.com/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/074b82c6e2ac31afabaf019d1a4d72e286bea9df/2022/02/21/5b895d9d-2b35-483f-aba1-fc27fbd65ecb/guinness-world-record-group-scaled.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
+      "publishedDateTime": "2022-02-20T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-ethical-ai-the-model-dilemma.md",
+      "title": "Ethical AI: The model dilemma",
+      "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Building AI with ethics is a pertinent ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89714732,imgsize-88468,width-1200,height-628,overlay-etcio/ethical-ai-the-model-dilemma.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732",
+      "publishedDateTime": "2022-02-20T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-global-artificial-intelligence-spending-to-reach-434-bn-in-2022.md",
       "title": "Global artificial intelligence spending to reach $434 bn in 2022",
       "excerpt": "ET CIO privacy and cookie policy has been updated to align with the new data regulations in European Union. Please review and accept these changes below to continue using the website. You can see ...",
@@ -384,6 +478,50 @@
       ]
     },
     {
+      "path": "_news/2022-02-19-could-artificial-intelligence-really-wipe-out-humanity.md",
+      "title": "Could artificial intelligence REALLY wipe out humanity?",
+      "excerpt": "MANY fear that artificial intelligence will be the end of humankind ... When prompted with the question \"Is AI an existential threat to humanity,\" Matthew O'Brien, a robotics engineer from the Georgia Institute of Technology wrote on Metafact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/",
+      "originalUrl": "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/02/LG-AI-COMP2.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/",
+      "publishedDateTime": "2022-02-19T03:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-hiddenite-a-new-ai-processor-based-on-a-cutting-edge-neural-network-theory.md",
       "title": "Hiddenite: A New AI Processor Based on a Cutting-Edge Neural Network Theory",
       "excerpt": "the Hiddenite chip drastically reduces external memory access for enhanced computational efficiency. Deep neural networks (DNNs) are a complex piece of machine learning architecture for AI (artificial learning) that require numerous parameters to learn to ...",
@@ -488,7 +626,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/419185",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -848,7 +986,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1071,153 +1209,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-us-state-sues-meta-over-facebook-facial-recognition-tech.md",
-      "title": "US state sues Meta over Facebook facial recognition tech",
-      "excerpt": "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
-      "originalUrl": "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/Texas-Attorney-General-Ken-Paxton-sued-Facebook-now-known-as-Meta-for-capturing-and-using-the-biometric-data-of-millions-of-Texans-without-properly-obtaining-their-informed-consent-to-do-so-in-violation-of-state-law-Picture-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1b3a8949-6a1c-5c60-b165-5c53043b8491&operation=CROP&offset=0x91&resize=2008x1130",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
-      "publishedDateTime": "2022-02-18T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up.md",
-      "title": "Sirona Medical Acquires Nines AI’s algorithms to rebuild radiology’s IT from the ground up",
-      "excerpt": "This acquisition comes during a somewhat shaky moment in AI-based radiology. But Sirona is betting this move proves out its thesis: to bring AI into the clinical workflow, we need to rebuild ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/",
-      "originalUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1318819391.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/",
-      "publishedDateTime": "2022-02-18T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-the-most-important-self-driving-cars-of-2022.md",
-      "title": "The Most Important Self-Driving Cars of 2022",
-      "excerpt": "Born and raised in Silicon Valley, he remembers when Apple's headquarters was mostly apricots. This is a key year in the history of self-driving cars, not because full autonomy will arrive but because cars with important and differing versions of partial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/33e74eb1e0bb6a3f2b897e7840c54f85fb5ffaa9/2022/02/18/05e34293-a850-4bd2-bc5b-3774823464f7/drive-pilot.png?auto=webp",
-          "width": 1826,
-          "height": 1197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/",
-      "publishedDateTime": "2022-02-18T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

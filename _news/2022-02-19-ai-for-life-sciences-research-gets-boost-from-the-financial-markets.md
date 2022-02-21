@@ -42,6 +42,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Research Report (2021 to 2027) – by Function, Product, End-user and Region"
+    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. The major driving factors of Artificial Intelligence Chipsets Market ..."
+    publishedDateTime: 2022-02-21T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2021-to-2027-by-function-product-end-user-and-region-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Market for Artificial Intelligence (AI) 2022 - Featuring Spectrum Labs, 6sense and 7bridges Among Others - ResearchAndMarkets.com"
     excerpt: "The \"The Global Market for Artificial Intelligence (AI) 2022\" report has been added to ResearchAndMarkets.com's offering. The development of artificial intelligence (AI) technologies is growing rapidly and transforming the global economy."
     publishedDateTime: 2022-02-17T09:23:00Z

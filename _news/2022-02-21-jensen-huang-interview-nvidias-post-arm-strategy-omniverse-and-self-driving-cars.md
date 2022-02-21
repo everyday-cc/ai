@@ -79,22 +79,6 @@ related:
         width: 2097
         height: 982
         isCached: true
-  - title: "Jaguar Land Rover Picks Nvidia To Power Future Assisted And Automated Driving"
-    excerpt: "This includes the ability to create the visualizations that Tesla drivers are used to with AutoPilot and full self-driving beta software which display everything detected by the sensors. Unlike Tesla however, Nvidia is not trying to insist that automated ..."
-    publishedDateTime: 2022-02-16T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620bdc033fde221ccd43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Jaguar Land Rover Partnering With Nvidia for AI Assist"
     excerpt: "Automakers currently partnering with Nvidia for AI solutions includes Audi, Hyundai Motor Group, Mercedes-Benz, Volvo cars and neophyte EV startup Nio, as well as Navistar and Volvo trucks. Even GM’s Cruise subsidiary is partnering with the firm ..."
     publishedDateTime: 2022-02-16T19:28:00Z

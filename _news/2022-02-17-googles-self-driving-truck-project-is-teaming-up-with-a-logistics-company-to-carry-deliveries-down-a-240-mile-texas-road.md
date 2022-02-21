@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eden Prairie's C.H. Robinson entering self-driving truck market with Waymo partnership"
-    excerpt: "Eden Prairie-based C.H. Robinson is pairing with Waymo — formerly the Google self-driving car project — to make autonomous trucks an option for its customers. C.H. Robinson is world's largest third-party logistics company, and its job has become harder ..."
-    publishedDateTime: 2022-02-16T11:18:00Z
-    webUrl: "https://www.startribune.com/eden-prairies-c-h-robinson-entering-self-driving-truck-market-with-waymo-partnership/600147325/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 46
-    images:
-      - url: "https://chorus.stimg.co/23240958/Waymo_Via___C.H._Robinson.png?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "C.H. Robinson to Test Self-Driving Trucks with Waymo"
     excerpt: "Eden Prairie-based transportation firm C.H. Robinson is partnering with Waymo Via on an autonomous trucking project in Texas."
     publishedDateTime: 2022-02-17T17:43:00Z

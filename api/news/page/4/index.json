@@ -2,6 +2,206 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-16-keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now.md",
+      "title": "Keep Your Gear Charged for Less: Save 40% on ESR's Popular Chargers Now",
+      "excerpt": "And that's not the only safety feature in place. Short-circuit protection means your phone is safe from any current with a little too much power, and the foreign object recognition system trips to automatically turn the charger off if a metal object other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Fd1ERiHGfWS0b-W24NAz1IJA4MM=/1200x630/2022/02/16/c08afe44-917a-4580-b071-17a619f920b6/esr-20w-mini-pd-fast-charger-set.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "publishedDateTime": "2022-02-16T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
+      "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
+      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-mendix-embraces-low-code-adds-3-new-products-to-aws-platform.md",
+      "title": "Mendix embraces low-code, adds 3 new products to AWS platform",
+      "excerpt": "and Amazon Rekognition. Customers can also embed AWS Services into their own custom applications. The partnership “brings together market leaders in low code and cloud,” de Vries said ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
+      "publishedDateTime": "2022-02-16T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time.md",
+      "title": "Bringing Deep Learning to your hardware of choice, one DeciNet at a time",
+      "excerpt": "Training deep learning models is costly and hard, but not as much as deploying and running them in production. Deci wants to help address that. Deep Learning is probably the most popular form of machine learning at this time. Although not every problem ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
+      "originalUrl": "https://www.zdnet.com/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6b95809bfb4c1aeed36e5c45f89497c6906da585/2022/02/15/25e5a413-334e-4c28-806d-47103663976e/image001.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
+      "publishedDateTime": "2022-02-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results.md",
       "title": "How Enterprises Can Combine Decision Automation, Machine Learning And Process Automation For Better Business Results",
       "excerpt": "While AI holds the potential to transform all businesses across industries including financial services, insurance ... What is the difference between decision automation, machine learning and digital process automation? How do they all work together?",
@@ -63,7 +263,7 @@
       "originalUrl": "https://electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -313,6 +513,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge.md",
+      "title": "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge",
+      "excerpt": "TEL AVIV, Israel and EINDHOVEN, Netherlands, Feb. 16, 2022 /PRNewswire/ -- UP Bridge the Gap, a brand of AAEON – a leading manufacturer of AI Edge hardware solutions – is pleased to announce a partnership with Hailo, a leading Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1747196/Hailo_AAEON.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1009,246 +1252,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
-      "title": "LivePerson put more personality (and AI) into next-gen bots",
-      "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
-      "originalUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
-      "publishedDateTime": "2022-02-15T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-databricks-launches-lakehouse-for-financial-services-sector.md",
-      "title": "Databricks launches lakehouse for financial services sector",
-      "excerpt": "“Databricks Lakehouse for Financial Services enables Gemini to bring together data ingestion, machine learning, and analytical engineering onto a single platform,” Sri Rajappa, head of data at ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
-      "originalUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/databricks.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
-      "publishedDateTime": "2022-02-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-gtt-group-to-sell-neural-network-ai-machine-learning-portfolio.md",
-      "title": "GTT Group To Sell Neural Network AI Machine Learning Portfolio",
-      "excerpt": "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25639015",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25639015",
-      "publishedDateTime": "2022-02-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
-      "title": "Machine Learning Becomes a Mathematical Collaborator",
-      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "originalUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee.md",
-      "title": "Building an AI flywheel: Grabango's checkout-free tech rolls out in Tennessee",
-      "excerpt": "Five years after launching its first proof-of-concept, the checkout-free technology startup Grabango is rolling out into its ... Thanks to real-world learnings and improvements to its AI, Grabango is gaining real momentum, founder and CEO Will Glaser ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "originalUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ba333dd4285fa180de9fdbb396baddc16f712b33/2022/02/15/aaf6c630-eb78-4bfb-ad41-105772c1b92f/mapco-grabango.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "publishedDateTime": "2022-02-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

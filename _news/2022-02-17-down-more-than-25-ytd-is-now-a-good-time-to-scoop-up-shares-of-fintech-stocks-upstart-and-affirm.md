@@ -59,22 +59,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "UK Tops the Chart in FinTech investments"
-    excerpt: "KPMG’s latest data proves that this trend is set to carry on in 2022, so it’s a fascinating time to be in FinTech right now. In particular, the likes of Buy Now Pay Later, Request to Pay and using emerging technology such as AI are set to define the ..."
-    publishedDateTime: 2022-02-16T11:44:00Z
-    webUrl: "https://enterprisetalk.com/featured/uk-tops-the-chart-in-fintech-investments/"
-    ampWebUrl: "https://enterprisetalk.com/featured/uk-tops-the-chart-in-fintech-investments/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/uk-tops-the-chart-in-fintech-investments/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 44
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/UK-Tops-the-Chart-in-FinTech-investments-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
     excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
     publishedDateTime: 2022-02-20T23:27:00Z

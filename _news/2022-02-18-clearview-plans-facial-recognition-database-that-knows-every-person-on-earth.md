@@ -99,6 +99,17 @@ related:
         width: 2048
         height: 1151
         isCached: true
+  - title: "Advancements in Facial Recognition Technology"
+    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
+    publishedDateTime: 2022-02-21T04:37:00Z
+    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Facial recognition firm Clearview AI tells investors it is seeking massive expansion beyond law enforcement"
     excerpt: "The facial recognition company Clearview AI is telling investors it’s on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial ..."
     publishedDateTime: 2022-02-16T16:47:00Z

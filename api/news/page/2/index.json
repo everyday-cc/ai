@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-18-us-state-sues-meta-over-facebook-facial-recognition-tech.md",
+      "title": "US state sues Meta over Facebook facial recognition tech",
+      "excerpt": "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
+      "originalUrl": "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/650x366/Texas-Attorney-General-Ken-Paxton-sued-Facebook-now-known-as-Meta-for-capturing-and-using-the-biometric-data-of-millions-of-Texans-without-properly-obtaining-their-informed-consent-to-do-so-in-violation-of-state-law-Picture-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1b3a8949-6a1c-5c60-b165-5c53043b8491&operation=CROP&offset=0x91&resize=2008x1130",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af",
+      "publishedDateTime": "2022-02-18T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up.md",
+      "title": "Sirona Medical Acquires Nines AI’s algorithms to rebuild radiology’s IT from the ground up",
+      "excerpt": "This acquisition comes during a somewhat shaky moment in AI-based radiology. But Sirona is betting this move proves out its thesis: to bring AI into the clinical workflow, we need to rebuild ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/",
+      "originalUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1318819391.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/",
+      "publishedDateTime": "2022-02-18T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-the-most-important-self-driving-cars-of-2022.md",
+      "title": "The Most Important Self-Driving Cars of 2022",
+      "excerpt": "Born and raised in Silicon Valley, he remembers when Apple's headquarters was mostly apricots. This is a key year in the history of self-driving cars, not because full autonomy will arrive but because cars with important and differing versions of partial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/33e74eb1e0bb6a3f2b897e7840c54f85fb5ffaa9/2022/02/18/05e34293-a850-4bd2-bc5b-3774823464f7/drive-pilot.png?auto=webp",
+          "width": 1826,
+          "height": 1197,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/",
+      "publishedDateTime": "2022-02-18T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech.md",
       "title": "Intel reveals glimpse at multi-year Xeon roadmap, teases long-awaited GPU tech",
       "excerpt": "Intel has unveiled its latest Xeon CPU roadmap reaching through to 2024, revealing a distinct focus on power efficiency. The new “ultra-efficient” ‘Sierra Forest’ processor family, due for release in 2024 on the Intel 3 process technology, will ...",
@@ -429,6 +576,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-how-to-become-an-ai-engineer.md",
+      "title": "How to become an AI engineer",
+      "excerpt": "They typically use the Python programming language. AI engineers also use platforms ... you may look at projects that specialize in analysis, translation, detection, restoration, and creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/computers-tech/how-to-become-an-ai-engineer/",
+      "originalUrl": "https://www.zdnet.com/education/computers-tech/how-to-become-an-ai-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/be89aae78e1f5f260376d58b9aff0f75aa3f4839/2021/10/29/de4a749d-01fa-4e80-a090-1cd9bc43d406/brian-nichols.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-become-an-ai-engineer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-become-an-ai-engineer/",
+      "publishedDateTime": "2022-02-17T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -983,202 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m.md",
-      "title": "Overview, which is developing an AI-powered visual inspection platform, raises $10M",
-      "excerpt": "Overview, a company developing an AI-powered visual product inspection platform for manufacturers, has raised $10 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/",
-      "originalUrl": "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/",
-      "publishedDateTime": "2022-02-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-artificial-intelligence-in-weather-makes-the-case-for-human-input.md",
-      "title": "Artificial Intelligence In Weather Makes The Case For Human Input",
-      "excerpt": "Due to the multivariate and chaotic nature of weather, for more than half of a century meteorologists have dealt with terabytes of data and modeling variables to produce an accurate forecast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
-      "originalUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d7828b92a80b219dcafb3/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/amp/",
-      "publishedDateTime": "2022-02-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-south-korean-semiconductor-maker-sk-hynix-develops-new-ai-chip.md",
-      "title": "South Korean semiconductor maker SK hynix develops new AI chip",
-      "excerpt": "South Korean semiconductor maker SK hynix said it has developed a smart memory chip with computing capabilities, dubbed processing in memory, or PIM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/1501645105508/2022/1/16451056965772/v1.5/South-Korean-semiconductor-maker-SK-hynix-develops-new-AI-chip.jpg",
-          "width": 706,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "publishedDateTime": "2022-02-17T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m.md",
-      "title": "Exodigo, which maps subterranean spaces with sensors and AI, lands $29M",
-      "excerpt": "Exodigo, a startup developing a platform that leverages AI and sensors to map subsurface areas, has raised $29 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
-      "originalUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/cvpd-drone.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
-      "publishedDateTime": "2022-02-17T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

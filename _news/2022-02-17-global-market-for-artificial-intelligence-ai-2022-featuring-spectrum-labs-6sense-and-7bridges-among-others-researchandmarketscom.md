@@ -59,6 +59,20 @@ related:
         width: 2800
         height: 1936
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Research Report (2021 to 2027) – by Function, Product, End-user and Region"
+    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. The major driving factors of Artificial Intelligence Chipsets Market ..."
+    publishedDateTime: 2022-02-21T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2021-to-2027-by-function-product-end-user-and-region-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Genomics Market size worth $ 5628.19 Million, Globally, by 2028 at 52.60% CAGR: Verified Market Research®"
     excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Genomics Market\" By Offering (Software and Services), By Technology (Machine Learning and"
     publishedDateTime: 2022-02-17T08:30:00Z

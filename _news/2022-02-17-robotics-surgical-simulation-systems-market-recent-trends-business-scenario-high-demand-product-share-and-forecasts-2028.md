@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Genomics Market Research 2021 | Top Key Players, Demand, Revenue, Growth Factors by Types, Trends and Forecast till 2030"
+    excerpt: "Feb 20, 2022 (Heraldkeepers) -- Market Research Engine has published a new report titled as \"Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision), By Application (Genome ..."
+    publishedDateTime: 2022-02-21T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-research-2021-top-key-players-demand-revenue-growth-factors-by-types-trends-and-forecast-till-2030-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
     excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
     publishedDateTime: 2022-02-17T02:58:00Z

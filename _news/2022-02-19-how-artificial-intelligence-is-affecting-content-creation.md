@@ -20,6 +20,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "How AI is transforming public sector customer service"
+    excerpt: "recognise speech and text inputs and translate their meanings across various languages. Online chatbots, for instance, can answer frequently asked questions or provide personalised advice. The other foundational component that’s needed to implement AI ..."
+    publishedDateTime: 2022-02-21T04:45:00Z
+    webUrl: "https://www.themandarin.com.au/181875-how-ai-is-transforming-public-sector-customer-service/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 39
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/02/AI_AdobeStock_272661344.jpeg"
+        width: 1370
+        height: 740
+        isCached: true
+
 secured: "3VnE5wP1PAxQzVuekT9kiQgRLj91ZNyEK9DtM6x3bm95fiEX6G4pAhJlnQJMZWWRI+q3EakHCaRx56UX2lssqyCHtrxQtCS2O2AhxXPVZMmbYX7dHixhNSrScFAfdHGytWai8vBy+9tBAW/k3ZHFZJvRUEW8LnJfu4CmCzv9TMysyc61ymVDdNRjH6OUQ69ulxHbPMQsf7ou4OZkE2vNjFRSPTk3gQkNQ4aZ7C5qeyfg4Cr+O/olM+jxw/dw1Vbz8DrwTmOCdeDp5GZe5Ru4NfTZjWu4rkfj5Pp/prHsNCHgvozYm1c5FDRyB4HjgEHHH1QB7lak+Wqh8oeg3k4M2TqUymHTysSxwmuKZV+J7Ho=;2DFag6B0LupqZT+kuJ8rJg=="
 ---
 

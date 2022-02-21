@@ -73,22 +73,6 @@ related:
         width: 2097
         height: 982
         isCached: true
-  - title: "Jaguar Land Rover Picks Nvidia To Power Future Assisted And Automated Driving"
-    excerpt: "This includes the ability to create the visualizations that Tesla drivers are used to with AutoPilot and full self-driving beta software which display everything detected by the sensors. Unlike Tesla however, Nvidia is not trying to insist that automated ..."
-    publishedDateTime: 2022-02-16T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/02/16/jaguar-land-rover-picks-nvidia-to-power-future-assisted-and-automated-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620bdc033fde221ccd43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Jensen Huang interview: Nvidia’s post-Arm strategy, Omniverse, and self-driving cars"
     excerpt: "And Huang said he has high hopes for his three-chip strategy, the Omniverse, the metaverse, and self-driving cars. I had a short time to interview Huang after the company reporting earnings this week."
     publishedDateTime: 2022-02-20T16:45:00Z
@@ -171,6 +155,6 @@ related:
       domain: carsifu.my
     quality: 4
 
-secured: "22GVbMBVXkQ4+1Vpn8XdcJPTgNPMdPSs4ihADBqrgnmiL6SzNfY1txIuCmDMxdsSbvONPYAeqtGQmTtVm2VaBh4JBhhlp6RdvjOPWsuTg/Q73ooEi5e4Hdp+ZaI4Rl5kRHM4FUYEpvx0cCcLTA4fGdRigraLu878JQxrImJqov+ibpaMaKP/x1d1264kWmbsPE6TZUaNIOrCtYhz9E6lzkucS6ZECjFqrInKVH+9LbGdcVGBVb3LpJX4KWzSt4YyPS2m292KQ/7gLzD0QV8KOWcfmvZQvo+L6FERxCVM1zBhGk70jM6hsu2NaXHxS5IberFJC4LdeBI/G2DbuvteHiCdZpNOWfr6fUy41GLWCMw=;D4ttSyMyJ3ItZ1Os4wsNNg=="
+secured: "yGvQJYjFvuLeO3BbSzefA5dvuU+b1lim/U5Fnky9pHqIZNmwSnxy/W+2sgGhIiskx/u9Bk6VG+DEUxDvVDBr23Mp7/bt0CmWB2FcTLDkOoZWk3UF8ECIdz80s20MqHr5kTwcVjlxIJoTdiu5pxEqDxB3An7+7SH8s27DqExclnBTD4s1NxnXyjCt2HDTsu4dtaYXUZmdtdX8py8ia19i4whR7HoaYmhPR0qGatuOZdc0oEJs0QbEl+/qqEiDHpVgYaUWQPEXfAoFTzNpf98sVKfoOT15YkIS2/7aiPb5m3m4iA79Mkq5vJttb7WsH6sUkOLB9/3MwR0p6XU2mFZFwl/NLgL2s7Q0HHPCATW9BFw=;wl98Uw6THmRA8n1/aD2fLg=="
 ---
 

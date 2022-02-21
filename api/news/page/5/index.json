@@ -2,6 +2,246 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
+      "title": "LivePerson put more personality (and AI) into next-gen bots",
+      "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
+      "originalUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
+      "publishedDateTime": "2022-02-15T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-databricks-launches-lakehouse-for-financial-services-sector.md",
+      "title": "Databricks launches lakehouse for financial services sector",
+      "excerpt": "“Databricks Lakehouse for Financial Services enables Gemini to bring together data ingestion, machine learning, and analytical engineering onto a single platform,” Sri Rajappa, head of data at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
+      "originalUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/databricks.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
+      "publishedDateTime": "2022-02-15T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-gtt-group-to-sell-neural-network-ai-machine-learning-portfolio.md",
+      "title": "GTT Group To Sell Neural Network AI Machine Learning Portfolio",
+      "excerpt": "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25639015",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25639015",
+      "publishedDateTime": "2022-02-15T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
+      "title": "Machine Learning Becomes a Mathematical Collaborator",
+      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "originalUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quanta Magazine",
+        "domain": "quantamagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee.md",
+      "title": "Building an AI flywheel: Grabango's checkout-free tech rolls out in Tennessee",
+      "excerpt": "Five years after launching its first proof-of-concept, the checkout-free technology startup Grabango is rolling out into its ... Thanks to real-world learnings and improvements to its AI, Grabango is gaining real momentum, founder and CEO Will Glaser ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "originalUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ba333dd4285fa180de9fdbb396baddc16f712b33/2022/02/15/aaf6c630-eb78-4bfb-ad41-105772c1b92f/mapco-grabango.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "publishedDateTime": "2022-02-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-parascript-goes-a-step-further-in-intelligent-document-processing-with-formxtraai-83.md",
       "title": "Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3",
       "excerpt": "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ...",
@@ -920,259 +1160,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies.md",
-      "title": "Sales Down 6% Annually Since 2011, IBM Is Full Of Business Line Dinobabies",
-      "excerpt": "IBM launched Watson Health in 2015 aiming to revolutionize medicine through AI, according to MarketWatch. After years of acquisitions — including $4 billion spent on acquisitions aimed at combining “patient records, medical literature, and medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62090afa7934c9f2a277d907/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 869,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2022/02/14/sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies/amp/",
-      "publishedDateTime": "2022-02-14T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-jaic-piloting-artificial-intelligence-education-for-dod.md",
-      "title": "JAIC piloting artificial intelligence education for DOD",
-      "excerpt": "The Department of Defense’s Joint Artificial Intelligence Center recently launched new AI education pilots for thousands of DOD employees that range from executive education for general officers to in-depth coding bootcamps. The most recent cohort of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/",
-      "originalUrl": "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2019/08/GettyImages-667849954.jpg?w=1200&h=500&crop=1",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-ambientais-stephanie-mcreynolds-on-ais-role-in-physical-security.md",
-      "title": "Ambient.ai’s Stephanie McReynolds on AI’s Role in Physical Security",
-      "excerpt": "I spoke with Stephanie McReynolds, Head of Marketing at Ambient.ai, about how AI can provide a network of cameras with predictive, real-time intelligence, and respect privacy at the same time. Among the topics we covered: The use of AI to boost security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
-      "originalUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/02/New-eSPEAKS-thumbnail-6.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-texas-lawsuit-claims-facebooks-facial-recognition-violated-user-privacy-and-broke-the-law.md",
-      "title": "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law",
-      "excerpt": "Texas attorney general Ken Paxton has taken yet another swing at Big Tech, this time suing Meta for allegedly capturing and using facial recognition data on millions of users without their consent.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
-      "originalUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 424,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/097c4a263d1e62634e634f40e3b2b165.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
-      "publishedDateTime": "2022-02-14T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive.md",
-      "title": "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive",
-      "excerpt": "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-14/tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaKtWWAHaJUI/v0/1200x748.png",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
