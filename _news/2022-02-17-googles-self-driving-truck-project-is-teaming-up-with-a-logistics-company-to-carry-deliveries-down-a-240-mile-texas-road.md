@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "C.H. Robinson to Test Self-Driving Trucks with Waymo"
-    excerpt: "Eden Prairie-based transportation firm C.H. Robinson is partnering with Waymo Via on an autonomous trucking project in Texas."
-    publishedDateTime: 2022-02-17T17:43:00Z
-    webUrl: "https://tcbmag.com/c-h-robinson-to-test-self-driving-trucks-with-waymo/"
-    type: article
-    provider:
-      name: Twin Cities Business
-      domain: tcbmag.com
-    quality: 39
-    images:
-      - url: "https://d5c1j5k5drfk7.cloudfront.net/wp-content/uploads/2022/02/Waymo-CH-robinson-self-driving-trucks-pilot.jpeg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Self-Driving Vehicles Are Hitting the Roads All Over Texas, and More Could Show Up in Dallas"
     excerpt: "C.H. Robinson, the firm, delivers some 20 million shipments every year. Now, they’ll be using Google company Waymo and its self-driving trucks to make some of those deliveries. \"Together, we are going to harness this emerging freight technology and its ..."
     publishedDateTime: 2022-02-18T09:00:00Z

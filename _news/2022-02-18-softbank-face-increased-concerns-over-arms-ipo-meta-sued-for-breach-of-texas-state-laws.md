@@ -85,19 +85,19 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
-    excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
-    publishedDateTime: 2022-02-16T21:02:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21257061/texas-sues-meta-over-facebooks-dropped-facialrecognition-tech"
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 24
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/US_NEWS_CPT_FACEBOOK_TEXAS_LAWSUIT_DMT.620d653a2f844.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
         isCached: true
 
 secured: "vesyGHovyPyHvHzhnJyyXmWv1HJPsENiG8KPmHHHUEsPzr+FClu56RI0fNMWLEb0MQfB84pFvaTh9bcYZfe2zB6/5vh+ju5efci497IbC/2TSNbm08kqmrEdLk0eoitH9nl4VHMngmlIDP8isdmIbpO4QTHIRh09fluOx4OLnmj01dCd48dQaI3rxrghfORhbHGVNCAoNWrL1IMo1vbS1QR2tcS/X3jQvKrMzkawtUigXxaaIoefOOqvhzd9ENhb5uPpRuSI2osVtFw3Iq15oQaxvI4ZsjlNzy8Af1OyRcLE+l3g7ORGGKoPSbo38Ql46bTZ7wqKJYznYsv3r8ASUFiUJRCiYwISZ35t3FUVMKY=;+R5ettbC0RIKEmCklLxgtg=="

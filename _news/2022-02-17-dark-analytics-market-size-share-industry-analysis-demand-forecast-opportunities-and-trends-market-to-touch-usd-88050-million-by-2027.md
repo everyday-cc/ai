@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Drug Discovery Market Global Industry Analysis, Trends, Market 2022 Size, and Forecasts up to 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on AI in Drug Discovery Market which emphasizes on th"
+    publishedDateTime: 2022-02-21T14:40:00Z
+    webUrl: "https://menafn.com/1103735412/AI-in-Drug-Discovery-Market-Global-Industry-Analysis-Trends-Market-2022-Size-and-Forecasts-up-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "taFO622ELlEQ+dqfm5pn5uF+rpLMQfWkCoCyZHxVzeWJvURNzZjVIdZ3ZU9I6R9fuFJi7D2pEwOltJ0QpaOgS+8xU2TVFOSnkyJpCTSBrp4yNgMwhGunjx7NVEnv5svMEeibeKbaoMbZmUtQMxHSHNQV2Lz2ZAthbdfEJDFI8Q1bf7AvF6gvHHLtE44bmFRmCG8DjXixMSWo86HDdkSEy/CGyHV9Ls7sljMRYjashTl4cKEFXZxgtHFqv0FCYzH7CruiOHjxNqYukxqIQeE2Ac7B2NMWZPXA0UjinGX8ONqxvdfe4VwCauY7QXywxZjLXsP8LXEoiIsbOB1usq5eaUdcxxK1+yCVzyIU4UbcSXk=;7Q2NQ2MgrVoGOFMr8T4v7Q=="
 ---

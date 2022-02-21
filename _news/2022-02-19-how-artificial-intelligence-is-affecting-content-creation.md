@@ -21,22 +21,45 @@ topics:
   - AI
 
 related:
-  - title: "The Pentagon is spending millions on AI bias detection tools"
-    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of ..."
-    publishedDateTime: 2022-02-18T16:51:00Z
-    webUrl: "https://www.protocol.com/bulletins/pentagon-ai-bias"
-    ampWebUrl: "https://www.protocol.com/amp/pentagon-ai-bias-2656723227"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/pentagon-ai-bias-2656723227"
+  - title: "How AI is changing data Infrastructure"
+    excerpt: "The impact artificial intelligence (AI) is having on enterprise data processes and workloads is well-documented, as is its capability to monitor and manage complex systems. But what is not widely reco"
+    publishedDateTime: 2022-02-21T14:20:00Z
+    webUrl: "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/"
+    ampWebUrl: "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/"
     type: article
     provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-deals-are-part-of-a-usd249-million-blanket-purchase-agreement-less-than-p-greater-than.jpg?id=26386473&width=400&coordinates=0%2C144%2C0%2C145&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/subspace-globe.jpg?w=1200&strip=all"
+        width: 1200
+        height: 686
         isCached: true
+  - title: "How China is using AI for warfare"
+    excerpt: "The actual military expenditure is higher than what was mentioned. The PLA has integrated AI into their mechanisation procedures to develop various forms of electronic warfare systems. Since the launch of the Wing Loong-1 combat UAV in 2009, the PLA has ..."
+    publishedDateTime: 2022-02-21T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-china-is-using-ai-for-warfare/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/China-warfare_11zon.jpg"
+        width: 1873
+        height: 1054
+        isCached: true
+  - title: "How Artificial Intelligence is empowering human-touch in healthcare"
+    excerpt: "Historically, artificial intelligence (AI ... has changed over time as AI technological solutions have developed and matured, especially within the healthcare industry. Whilst AI is now matching or outperforming human abilities in key healthcare tasks ..."
+    publishedDateTime: 2022-02-18T02:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-empowering-human-touch-healthcare-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
 
 secured: "3VnE5wP1PAxQzVuekT9kiQgRLj91ZNyEK9DtM6x3bm95fiEX6G4pAhJlnQJMZWWRI+q3EakHCaRx56UX2lssqyCHtrxQtCS2O2AhxXPVZMmbYX7dHixhNSrScFAfdHGytWai8vBy+9tBAW/k3ZHFZJvRUEW8LnJfu4CmCzv9TMysyc61ymVDdNRjH6OUQ69ulxHbPMQsf7ou4OZkE2vNjFRSPTk3gQkNQ4aZ7C5qeyfg4Cr+O/olM+jxw/dw1Vbz8DrwTmOCdeDp5GZe5Ru4NfTZjWu4rkfj5Pp/prHsNCHgvozYm1c5FDRyB4HjgEHHH1QB7lak+Wqh8oeg3k4M2TqUymHTysSxwmuKZV+J7Ho=;2DFag6B0LupqZT+kuJ8rJg=="
 ---

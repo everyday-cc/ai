@@ -24,17 +24,6 @@ images:
     height: 674
     isCached: true
 
-related:
-  - title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-    excerpt: "DETROIT: Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday they will collaborate to develop the computer brains and nervous systems for Jaguars and Land Rovers launching in 2025 and beyond."
-    publishedDateTime: 2022-02-17T05:23:00Z
-    webUrl: "https://www.carsifu.my/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
-
 secured: "SD7Kf24Jd8lDYLrVWsPdXs7qnaoFvAibOXObwP7t7HEIvi32TlgfgG12OghiZgN/R+6WIDPyYReSDAnj5lb2HC9/vM3jusxf0OkIlQf7AVH2961UrRUC8hmmOuzG3F2jbhihQkHrRf4bB0FDatRuDlh/OkRlDr4Zb0f8cY5XE740OusEeCsmgq3mk50KUxApkmDREq8oiQefEyl6hvbdnUySoWFXIp7ezZy1LdECOqjXZ9PRBi+75ERH4+EEQa3eiDN38qAephOyFH4h/wV2DGGDBtfYSHT9gpgor6QWeqpbm4kUxGSe5QmwMppehZyG8w3VMoLihOg7CoZ1027+bD4fW+ZvZBrHaWHN/j+E0ufFeUA0H2j0vuhZL4V9ydVSukPFCXW7ZhpEwEr2sTH/R/IL9ioKI4jwz+Helz8ozp0wHRoBMsO4OyQEMD1ZquvSOb8jHZz0dSXAveH0mdH96+vGjGhmV844IE+gNv5JlBWvnesBBRc8yMWFwrAMfz1c6kD4ZAIe2FcBM8zI5ncPXQ==;Z02oRGijfvTexOmbVNrHZA=="
 ---
 

@@ -2,6 +2,290 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-18-ai-in-healthcare-presents-need-for-security-privacy-standards.md",
+      "title": "AI in Healthcare Presents Need for Security, Privacy Standards",
+      "excerpt": "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "originalUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "publishedDateTime": "2022-02-17T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-this-googler-wants-to-add-every-voice-to-ai.md",
+      "title": "This Googler wants to ‘add every voice’ to AI",
+      "excerpt": "Early in his career, Laurence Moroney was working on an equation — not something related to his job in tech, but to his bank account. “At one point, I calculated I was about three weeks away from being homeless,” Laurence says. “My motivation was to put a meal on the table and keep a roof over my head.”Today",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
+      "originalUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_2_LZXl4TX.max-1300x1300.png",
+          "width": 1201,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
+      "publishedDateTime": "2022-02-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-singulos-research-unveils-perceptus-ai-for-ar-that-understands-the-real-world.md",
+      "title": "Singulos Research unveils Perceptus AI for AR that understands the real world",
+      "excerpt": "Singulos is taking the wraps off Perceptus, a spatial technology that enables AR experiences with better fidelity in the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/17/singulos-research-unveils-perceptus-for-better-ar-experiences-in-the-real-world/",
+      "originalUrl": "https://venturebeat.com/2022/02/17/singulos-research-unveils-perceptus-for-better-ar-experiences-in-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/perceptus.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/17/singulos-research-unveils-perceptus-for-better-ar-experiences-in-the-real-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/singulos-research-unveils-perceptus-for-better-ar-experiences-in-the-real-world/amp/",
+      "publishedDateTime": "2022-02-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-volkswagen-in-talks-with-huawei-on-autonomous-driving-unit-manager-magazin.md",
+      "title": "Volkswagen in talks with Huawei on autonomous driving unit - Manager Magazin",
+      "excerpt": "Germany's Volkswagen is in talks with China's Huawei about acquiring an autonomous driving unit for billions of euros, Manager Magazin reported on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/wHE_A2ff3igWA_UNoKoWLqAchJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JTUDKQXVCFLFZFJNXZG37U2L6A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-amazon-hampton-university-establish-robotics-program.md",
+      "title": "Amazon, Hampton University establish robotics program",
+      "excerpt": "To expand the diversity of talent that will shape the future of robotics, Amazon invested in a new collaboration with Hampton University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "originalUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/02/assets.amazon-1.jpg",
+          "width": 900,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-akkio-updates-no-code-ai-platform-with-snowflake-integration.md",
+      "title": "Akkio updates no-code AI platform with Snowflake integration",
+      "excerpt": "No-code AI platform Akkio has announced new product features, including integration with major data platforms such as Snowflake.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/",
+      "originalUrl": "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/machine-learning-programming.jpg?w=1200&strip=all",
+          "width": 1065,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/",
+      "publishedDateTime": "2022-02-17T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-5-it-services-stocks-to-buy-in-february.md",
       "title": "5 IT Services Stocks to Buy in February",
       "excerpt": "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)",
@@ -493,49 +777,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-17-facial-recognition-taken-to-the-next-level-in-virtual-reality.md",
-      "title": "Facial recognition taken to the next level in virtual reality",
-      "excerpt": "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html",
-      "originalUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg",
-          "width": 1920,
-          "height": 1105,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp",
-      "publishedDateTime": "2022-02-17T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-17-robot-fry-cook-gets-job-at-100-white-castle-locations.md",
       "title": "Robot fry cook gets job at 100 White Castle locations",
       "excerpt": "White Castle seems to be all-in on its latest employee, a robotic fry cook. Flippy 2, the fast food robot by Miso Robotics, will now be whipping up burgers and other food in 100 standalone locations.",
@@ -699,7 +940,7 @@
       "originalUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -963,258 +1204,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news.md",
-      "title": "AI acquires the power to manipulate fusion, but wait, it’s actually good news",
-      "excerpt": "The project is a collaboration between Google’s DeepMind and l’École Polytechnique Fédérale de Lausanne (EPFL) started years ago when AI researchers from the former and fusion researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
-      "originalUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/tokamak-plasma.jpg?w=1024",
-          "width": 1024,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
-      "publishedDateTime": "2022-02-16T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-how-signal-iduna-operationalizes-machine-learning-projects-on-aws.md",
-      "title": "How SIGNAL IDUNA operationalizes machine learning projects on AWS",
-      "excerpt": "This post is co-authored with Jan Paul Assendorp, Thomas Lietzow, Christopher Masch, Alexander Meinert, Dr. Lars Palzer, Jan Schillemans of SIGNAL IDUNA. At SIGNAL IDUNA, a large German insurer, we are currently reinventing ourselves with our transformation program VISION2023 to become even more customer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-4172-image005-1120x630.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T12:12:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-the-african-software-developers-using-ai-to-fight-inequality.md",
-      "title": "The African software developers using AI to fight inequality",
-      "excerpt": "AI used to tackle poverty, translate languages African data seen vital to fighting racial bias More funding, wider digital access needed, say developers DURBAN, Feb 16 (Thomson Reuters Foundation) - Determined to use her skills to fight inequality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/",
-      "originalUrl": "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aZ4xNu-ln4i_A-3vva2EJWWRkho=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLI26I5ZD5KFNFT24JWJVI75BY.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-facial-recognition-firm-clearview-ai-tells-investors-its-seeking-massive-expansion-beyond-law-enforcement.md",
-      "title": "Facial recognition firm Clearview AI tells investors it’s seeking massive expansion beyond law enforcement",
-      "excerpt": "The facial recognition company Clearview AI is telling investors it is on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial presentation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-ai-technology-lets-you-skip-the-checkout-line.md",
-      "title": "This AI technology lets you skip the checkout line",
-      "excerpt": "Standard Cognition CEO & co-founder Jordan Fisher explains how his company's technology, which allows consumers to pick up products and pay for them without visiting the checkout line, could be a boon for consumers and retailers.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "originalUrl": "https://edition.cnn.com/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181119195120-02-ai-autonomous-checkout-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/02/16/jordan-fisher-standard-cognition-checkout-ai-mn.cnn-business",
-      "publishedDateTime": "2022-02-16T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

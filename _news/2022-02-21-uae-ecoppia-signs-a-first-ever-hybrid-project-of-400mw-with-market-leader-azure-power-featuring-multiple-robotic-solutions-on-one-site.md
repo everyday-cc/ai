@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103735148/UAE-Ecoppia-Signs-a-First-Ever-Hybri
 webUrl: "https://menafn.com/1103735148/UAE-Ecoppia-Signs-a-First-Ever-Hybrid-Project-of-400MW-With-Market-Leader-Azure-Power-Featuring-Multiple-Robotic-Solutions-on-One-Site"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 9
+    quality: 26
     images:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580

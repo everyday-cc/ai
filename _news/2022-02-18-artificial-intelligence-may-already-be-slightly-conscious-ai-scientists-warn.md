@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-18T08:01:00Z
 originalUrl: "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html"
 webUrl: "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://static.independent.co.uk/2022/02/17/14/artificial%20intelligence%20conscious%20ai.jpg?quality=75&width=1200&auto=webp"

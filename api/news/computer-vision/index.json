@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-21-irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback.md",
+      "title": "I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback",
+      "excerpt": "The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/02/21/us/politics/21dc-irs/21dc-irs-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.amp.html",
+      "publishedDateTime": "2022-02-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-global-market-for-ai-in-computer-vision-to-reach-737-billion-by-2027-researchandmarketscom.md",
       "title": "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com",
       "excerpt": "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -88,21 +140,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-17-facial-recognition-taken-to-the-next-level-in-virtual-reality.md",
-      "title": "Facial recognition taken to the next level in virtual reality",
-      "excerpt": "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes.",
+      "path": "_news/2022-02-18-facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023.md",
+      "title": "Facial recognition firm aims to collect 100 billion photos by 2023",
+      "excerpt": "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html",
-      "originalUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html",
+      "webUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023",
+      "originalUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg",
-          "width": 1920,
-          "height": 1105,
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg",
+          "width": 530,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,13 +162,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp",
-      "publishedDateTime": "2022-02-17T04:12:00-08:00",
+      "ampWebUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true",
+      "publishedDateTime": "2022-02-17T10:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1341,58 +1393,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities.md",
-      "title": "IRS Backs Away From Facial Recognition to Verify Taxpayers’ Identities",
-      "excerpt": "WASHINGTON—The Internal Revenue Service is backing off use of a plan with a private facial-recognition system to authenticate taxpayers’ identities for online accounts, the agency said Monday after criticism from lawmakers in both parties over privacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 659,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-481379/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "publishedDateTime": "2022-02-07T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -3,12 +3,9 @@ category: news
 title: "Robots Need Us More Than We Need Them"
 excerpt: "The robots employ an off-the-shelf industrial arm, a suction gripper, and a vision system. Crucially, they are also equipped with AI software from Covariant, a start-up based in California."
 publishedDateTime: 2022-02-15T13:00:00Z
-originalUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them?tpcc=orgsocial_edit"
-webUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them?tpcc=orgsocial_edit"
+originalUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them&tpcc=orgsocial_edit"
+webUrl: "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them&tpcc=orgsocial_edit"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Harvard Business Review
@@ -24,6 +21,6 @@ images:
     height: 1124
     isCached: true
 
-secured: "B11BA9HbR+k1m7OldjdNFixm1N+G+ugDNxpmCk8D1poPzM5cVEz3uH2WYbiKwA0hp1CDinX3FGuNAmZ+j9EnQXU4wGjyXYIsSbp232dRIS4PTnUiKrK7ubTdq19NqBNapNZ8sGyvJ706ykNdpmdpJCeS3z2hZ7x1lpXMqXDVsWWaZ6qhNiK9FwCFfZv4bQIZ1HcvojSwNkTA6ZLkw+OIwfps/TAiAGRXf5mYfbDgk6Lk2SRj3LlCK5E7Di1MliWg2ZDuGu7YMEyDTdICBW8dNQX+2PINmzm4/73p9QJL43lRS0Sh2Sb4d1IDi+1By82v/LKLTeum0bH1o8Q9KorsYWBO+diBQ9SfddchWmvoV0aA6LSYf59uLDTAxe3QhP8fy5HrIB26AnhMOHtMqAbpOPNcCe6LkvZEK/wptj/n7bzvwfbFX0MJkcmBQMt0LcOqo5M+uhP3coEum2Ptqz7HUVSxPGWzVxKLjscXf4qH01Hxp5NR2lcaWGAX09I1RZAhLhlnhQ4qFF8jmXSIM3ct1g==;fWmJtogl4agKPlVRfIa5Dg=="
+secured: "VuHphqmyfTe9tM51Z28UBBX+5rpCNrk/OE5CPLI80+OgWRdri67qUCUJM8fJMkQ/x9g9kJtdwFwbnjUUQ1UFWzzABri/gD/dScYWf+P4PYcp60X5X5P+m7aTI2nR5UwGQU8MckWghz3UR0F+YlJoeWfIjZJo0WQrDVq0ptAFmvC7wkcj+cx7ssC/utPflQupMZmjbyItrCmHAn9oSXlNPyZVitZKP01q3D69D/IEkIb4ibcFAFIm7U5oGf0CIb2OwcgXnpO6fO/KjKQvV76LDhKRmW/9dnBDTJaNDnGr8/Z8hjYVViZYsDtwaxIyjW1UorJ2RPeGxNdA5ee/RY1f9gFHVCkhLLvUjryMzZkAZRM=;eTVDgiA3qW/+FN9PfGIUGw=="
 ---
 

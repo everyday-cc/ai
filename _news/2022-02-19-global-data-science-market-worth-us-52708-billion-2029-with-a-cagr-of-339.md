@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103726151/Global-Data-Science-Market-worth-US-
 webUrl: "https://menafn.com/1103726151/Global-Data-Science-Market-worth-US-52708-Billion-2029-with-a-CAGR-of-339"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 354
     height: 250
     isCached: true
+
+related:
+  - title: "AI In Drug Discovery Market GROW WITH A CAGR 2021-2027"
+    excerpt: "Astute Analytica published a new report on the Global AI in drug discovery Market, this market research report provides detailed analysis of primary and"
+    publishedDateTime: 2022-02-21T13:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow-with-a-cagr-2021-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "8ldieYBWdV0nzWnWT84AQ5kfRtRK+Px22gO0YcB12GTkjDFA3nvZWd5uX6k6m5ch63kXlPu4NF/9LCoD9bGqyjXQowwc8aUJfbR1j1SXWt99tG7BVRonBs9wSSeK3ue9w3DO4dMeWfBUIjo+dsJcX0n24XA6zirnGCoab4H0r77bBxmwKLjWqQfUkHy9WYjAL1uLrhE5BcphVGW0T9fXbuEiBSTK9QoEWWN6gbTQty+qjQF8CPwv8zzfEl1wZW07T8s7hzoUjCeWczy+FT2X+g7SS1gW9bTKeA/wlYmiuSqv6RzvX5Civ7dPqk3eKgyOuSpxYPseidKIfbuhlGfs233XrusZ84bCbMK0yd88kQI=;mtyO3u+28LYVpHZBWph8UA=="
 ---

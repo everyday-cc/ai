@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/after-recalls-will-feds-f
 webUrl: "https://www.autonews.com/mobility-report/after-recalls-will-feds-frustrate-elon-musks-plan-make-teslas-self-driving"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Can Self-Driving Tesla Cars Stay in Their Lanes?"
-    excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
-    publishedDateTime: 2022-02-16T22:36:00Z
-    webUrl: "https://www.thestreet.com/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUxNDA4NzkzNDEzNTI3/nvidia-chips-are-superior-to-everybody-elses-jim-cramer-says.jpg"
-        width: 620
-        height: 400
-        isCached: true
 
 secured: "KQsNWWSuoqIu1YBOkxuVqsLMrtPEHDMk/yHjnN7LdkQevRa8kr4uVbP17RyeoZC5pWCRDTnIZlzdZxITamP1Eje4hLo2iMOTkMWQ0U6My2cWFUPqCcMNtOkL7joT6Q0s+9EyhwG2XbW5Ili8MM5QPysSdEDntrLIrJ9y4zccv63boIU4LljRRp3zqiTr3ifZogNG5IDMmc4poZ+UhCaMxnAPSnCjVvnrT2r7gXlRrw/0El2XjSEntjPbGtIznAM3NolHyIzdk/ZRScRnN2cl+7mHHN2Hz8eMjumSaajWk8ijWdcVGqDSj0/MvGQYVDo5B0VbRHR6f9YquuzJjDv+glTZfhUW/EVFwFSQisJomdUUlxwQ/nmi8Tkm785TTsPQ0oleDSwLjgaKCGfz3eVq4VcOEoVp6VCXWbPF1h0+00uK11pRyAHuXWnI+Y59ma7RswViZJ7QnXN2Uls3V45XaTfQQ1728ORl7FHTJg2hkrartXbKyaeye5twwK7QF3qBFHRViRC+mLZSpNBNLoK8GA==;PnQjDQ2NjO498lb6Zk5IrQ=="
 ---

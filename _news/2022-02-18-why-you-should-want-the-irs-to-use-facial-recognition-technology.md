@@ -9,7 +9,7 @@ ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-
 cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,74 +21,47 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition taken to the next level in virtual reality"
-    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
-    publishedDateTime: 2022-02-17T12:12:00Z
-    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+  - title: "Oregon agency defends use of facial recognition tech but has alternatives"
+    excerpt: "“We are aware of concerns about facial recognition technology and how it may be harder for people of color to use,” Gerstenfeld told reporters in a briefing Wednesday, Feb. 16. “We are also deeply committed to ensuring that the claimant identity ..."
+    publishedDateTime: 2022-02-19T00:25:00Z
+    webUrl: "https://www.gazettetimes.com/news/state-and-regional/govt-and-politics/oregon-agency-defends-use-of-facial-recognition-tech-but-has-alternatives/article_90e9c9e0-ed33-5f35-aeb5-d46f0942887d.html"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Corvallis Gazette-Times
+      domain: gazettetimes.com
+    quality: 38
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
-        width: 1920
-        height: 1105
-        isCached: true
-  - title: "What the Tech? Facial recognition"
-    excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
-    publishedDateTime: 2022-02-16T23:45:00Z
-    webUrl: "https://www.wfmz.com/features/what-the-tech/what-the-tech-facial-recognition/article_8f565ad8-8f5a-11ec-86eb-fbea4dbfdb71.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/cd/ccd9c44a-36a6-565d-964f-53538bd6c56f/620d892de78df.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/gazettetimes.com/content/tncms/assets/v3/editorial/e/09/e0987421-36b4-53f8-a40a-460db13dcfaf/6210373f3ffef.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "The IRS backs down from facial recognition plan to verify identities"
-    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
-    publishedDateTime: 2022-02-19T00:18:00Z
-    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+  - title: "Oregon agency defense use of facial recognition tech but has alternatives"
+    excerpt: "“We are aware of concerns about facial recognition technology and how it may be harder for people of color to use,” Gerstenfeld told reporters in a briefing Wednesday, Feb. 16. “We are also ..."
+    publishedDateTime: 2022-02-19T00:25:00Z
+    webUrl: "https://democratherald.com/news/state-and-regional/govt-and-politics/oregon-agency-defense-use-of-facial-recognition-tech-but-has-alternatives/article_8ac97451-1cdc-50b2-80ed-8400457c7bc8.html"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 39
+      name: Albany Democrat-Herald
+      domain: democratherald.com
+    quality: 38
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
+      - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/8/cc/8cc7af3b-1b93-5474-9c57-2e25dc82f72a/6210373e61ce4.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Advancements in Facial Recognition Technology"
-    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
-    publishedDateTime: 2022-02-21T04:37:00Z
-    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+  - title: "Poll: Irish people split over whether to trust State bodies with facial recognition"
+    excerpt: "YOUNGER PEOPLE IN Ireland are less likely than older age cohorts to trust State bodies and companies to use facial recognition technology responsibly, new polling reveals. The poll, conducted by Ireland Thinks/The Good Information Project, shows that 49% ..."
+    publishedDateTime: 2022-02-19T09:13:00Z
+    webUrl: "https://www.thejournal.ie/poll-facial-recognition-5685562-Feb2022/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
-  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
-    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
-    publishedDateTime: 2022-02-18T20:46:00Z
-    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 33
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
-        width: 2048
-        height: 1376
+      - url: "https://img2.thejournal.ie/article/5685562/river/?height=400&version=5686665"
+        width: 613
+        height: 400
         isCached: true
 
 secured: "VWirxVt1vP0sG9mflUAq6FcW8+Ni9hUfNSallRuAgdzQNqBQKOswnaWOggg7MCh53X+xVCoq5fQl/x/KtFkldKTXGZAju3RuFobQSBeVIqj4/LVbcD75fHUl78rqLYxzrwBw2rS1RUr0q4bKgI0jypjv2Ilgs5Ayrp7aasjJqMKZlFlPATXFJck+DdCE+kSUMQNRTUQiXqyLfKMbv/ZwpWuNFv2PKi25UwQqI9s179JmboYJ+8mJrx4ZHqLL6EeLTwrRdl+nBENnGF34I78kSNzInK8k9eW1kpNhVuaIjQEIhoUU5+iLY9WkcAsMAGOl78NkaBoqBMid9UDTtiBIbwgZUvgU92+0h11TFLcbi5He6mhilGk6rMGNE78nVT+YymqxbnNWTDf9GTkg2j7JJbSTF+y5wXpgufiC2qMTMA5M98nkxC5X8TIiY/J+T/TNB4Rkqon7jJtuIlvK/1HKNEulxNenIJ3jbKVxuha7No9eE/0O5cMN5SO/HK4qf3s1BYOOvSQnQbRfB+cMtXczSA==;aCJ43IV3qtMtcsNTpSaq5w=="

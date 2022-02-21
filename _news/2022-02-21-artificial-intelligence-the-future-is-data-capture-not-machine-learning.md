@@ -8,8 +8,8 @@ webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligenc
 ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-the-future-is-data-capture-not-machine-learning/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-the-future-is-data-capture-not-machine-learning/"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.toiimg.com/photo/75433510.cms"

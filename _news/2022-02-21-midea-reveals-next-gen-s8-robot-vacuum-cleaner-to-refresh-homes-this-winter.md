@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Midea Reveals Next-Gen S8+ Robot Vacuum Cleaner to Refresh Homes this Winter"
-excerpt: "Midea Robozone helps extend Midea Group's leadership in developing smart cleaning solutions and products with world-class cleaning technology. The latest features of Midea S8+ inc"
-publishedDateTime: 2022-02-21T08:00:00Z
-originalUrl: "https://www.kxan.com/business/press-releases/cision/20220221CN67060/midea-reveals-next-gen-s8-robot-vacuum-cleaner-to-refresh-homes-this-winter/"
-webUrl: "https://www.kxan.com/business/press-releases/cision/20220221CN67060/midea-reveals-next-gen-s8-robot-vacuum-cleaner-to-refresh-homes-this-winter/"
+title: "Midea Reveals Next-Gen S8+ Robot Vacuum Cleaner to Refresh Homes this Winter'"
+excerpt: "Midea Robozone Technology has announced the launch of the Midea S8+ intelligent auto-dust-collection robot, which liberates users' hands for up to 30 days with its automatic dust collection station. Midea Robozone Technology is a subsidiary of Midea Group (000333."
+publishedDateTime: 2022-02-21T14:41:00Z
+originalUrl: "https://menafn.com/1103735145/Midea-Reveals-Next-Gen-S8-Robot-Vacuum-Cleaner-to-Refresh-Homes-this-Winter"
+webUrl: "https://menafn.com/1103735145/Midea-Reveals-Next-Gen-S8-Robot-Vacuum-Cleaner-to-Refresh-Homes-this-Winter"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "TosgmjwC4evlXuM9gCk5ipEzjl3NFJQvrsVLdIMABuIIHALaPvYmcr3TJHgrhbkN1YcN4mqobvXrSTUkccor9+FZhr7s9WFZn5c7Aj5ztKqonRa2Qp/KQoD1qNw6wGbjNGjKhWoo75M8cFuqqU4vFVvPHKvQJg6ftJVy0ESemOINPoOX8DUSCtSQmkj8iQJn/I8VKNoW7V1IovtDLU+6JQ4bMeFPTANCINiYwx8dpEPH5qGxAAgISnZVBWjRxvGwxSolxdqL4jynCM6/GdI3X/cytHP9vH50mIqdjTHjw9a9Qj5m8b73ysQPqqI0GxLXM4RbQNNHbt1uB7cPWD9BnKK0nZsaNsgYeYKAUJ4P6aY=;heYIDAdZo7SYffilThayEg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "IAIrJ/x/JSXoNG4cuk78q4UIF27SXwLhI+31N4/qxcf2rCmrm0H4QuhQVHQ+7dARIynpxhm0u8P0ZFVMHfDvN2Q2PH6FfepPpIQiwFjnOJaG1YW7nLBwhmWeBnPVdeMRBSYgdOSy7BwRiJ4wgHbqU//CZ/j5DNSIJAzWyPAt4mRpIIjaHf0I+WTtK391f1gE7WP4lGeZC0HdHI+fK8FFNomVQMj0bzVE+1qSUz2uHyZZzJLlb9in9HHvIVes4kfS2qUooTHjxivwrqv+Dhj2y7hp2cE/cD2oxUIuj/vrEpI0E+Mv1T0hF9mfdbLvsjoY2BLDiTQcCC8blcvvjKKkA65ZFgKZwqPxkmM2+Fq2OFE=;mK5xKdlq3ciLxW5ezd28jw=="
 ---
 

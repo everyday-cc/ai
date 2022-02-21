@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
-    excerpt: "DeepMind is a scientific discovery company acquired by Google in 2014 that's committed to \"solving intelligence to advance science and humanity.\" Together, they have developed a new magnetic ..."
-    publishedDateTime: 2022-02-16T21:57:00Z
-    webUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.html"
-    ampWebUrl: "https://phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-epfl-deepmind-ai-plasmas-nuclear.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/epfl-and-deepmind-use.jpg"
-        width: 1107
-        height: 622
-        isCached: true
   - title: "Explained: What is Google's DeepMind and how is it being used in nuclear fusion"
     excerpt: "In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab DeepMind is the latest contributor In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab ..."
     publishedDateTime: 2022-02-18T09:30:00Z
@@ -132,17 +116,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "DeepMind Simulates Matter on the Nanoscale With Artificial Intelligence"
-    excerpt: "By expressing the functional as a neural network and incorporating exact properties into ... to engineers and ethicists – to pioneer the development of advanced artificial intelligence. The company’s breakthroughs include AlphaGo, AlphaFold, over ..."
-    publishedDateTime: 2022-02-16T22:13:00Z
-    webUrl: "https://scitechdaily.com/deepmind-simulates-matter-on-the-nanoscale-with-artificial-intelligence/"
-    ampWebUrl: "https://scitechdaily.com/deepmind-simulates-matter-on-the-nanoscale-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deepmind-simulates-matter-on-the-nanoscale-with-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 56
   - title: "DeepMind AI trained to control nuclear fusion"
     excerpt: "For a few brief seconds last spring, a doughnut-shaped ring in Switzerland heated a bubble of plasma to ten million degrees centigrade. The machine, built to progress the development of nuclear fusion, employed electromagnets to squeeze, shape and sculpt ..."
     publishedDateTime: 2022-02-17T00:01:00Z
@@ -198,6 +171,20 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/1448ee7/233d55bb-5382-417a-8e42-0789498252a7/7/fusion-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
+    excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. DeepMind’s experts developed an AI algorithm that can create and maintain specific plasma configurations and trained it on the SPC’s simulator."
+    publishedDateTime: 2022-02-21T14:38:00Z
+    webUrl: "https://www.euro-fusion.org/news/february/epfl-and-deepmind-use-ai-to-control-plasmas-for-nuclear-fusion/"
+    type: article
+    provider:
+      name: EUROfusion
+      domain: euro-fusion.org
+    quality: 54
+    images:
+      - url: "https://www.euro-fusion.org/typo3conf/ext/gdtemplate/Resources/Public/Img/de.png"
+        width: 2000
+        height: 1200
         isCached: true
   - title: "Google's DeepMind AI is now able to control a nuclear fusion reactor"
     excerpt: "A study on the deep learning approach has been published in the journal Nature. DeepMind Technologies, based in Britain, is a subsidiary of Alphabet Inc., which also owns Google. It has recently used its DeepMind artificial intelligence (AI) to control a ..."

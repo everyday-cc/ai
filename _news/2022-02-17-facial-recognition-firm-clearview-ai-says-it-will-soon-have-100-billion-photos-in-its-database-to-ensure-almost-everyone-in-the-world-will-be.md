@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI aims to put almost every human in facial recognition database"
-    excerpt: "The controversial facial recognition company Clearview AI reportedly told investors that it aims to collect 100 billion photos—supposedly enough to ensure that almost every human will be in its database."
-    publishedDateTime: 2022-02-16T22:00:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 82
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Facial recognition firm aims to collect 100 billion photos by 2023"
     excerpt: "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020."
     publishedDateTime: 2022-02-17T18:38:00Z
@@ -58,33 +44,46 @@ related:
         width: 530
         height: 300
         isCached: true
-  - title: "Clearview AI ponders broader facial recognition service, free speech defense rejected"
-    excerpt: "The company’s online principles pledge states that its facial recognition technology will only be sold to government agencies, and Ton-That says the principles will be updated if the use of the technology changes. Clearview expects its revenues from the ..."
-    publishedDateTime: 2022-02-17T19:44:00Z
-    webUrl: "https://www.biometricupdate.com/202202/clearview-ai-ponders-broader-facial-recognition-service-free-speech-defense-rejected"
+  - title: "Facial recognition taken to the next level in virtual reality"
+    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
+    publishedDateTime: 2022-02-17T12:12:00Z
+    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 49
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
+        width: 1920
+        height: 1105
         isCached: true
-  - title: "Clearview Plans Facial Recognition Database That Knows Every Person on Earth"
-    excerpt: "Facial recognition technology is nothing new — there are probably apps on your phone right now with the ability to recognize faces, but you have some modicum of control over that. Clearview AI, on the other hand, aims to build a facial recognition ..."
-    publishedDateTime: 2022-02-18T12:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/331819-clearview-plans-facial-recognition-database-that-knows-every-person-on-earth"
+  - title: "Advancements in Facial Recognition Technology"
+    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
+    publishedDateTime: 2022-02-21T04:37:00Z
+    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 36
+      name: Medindia
+      domain: medindia.net
+    quality: 39
+  - title: "Image Recognition in Retail Market by Manufacturers, Types, Regions and Application and Forecast 2022 to 2031"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase ..."
+    publishedDateTime: 2022-02-18T23:55:00Z
+    webUrl: "https://menafn.com/1103724928/Image-Recognition-in-Retail-Market-by-Manufacturers-Types-Regions-and-Application-and-Forecast-2022-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2012/09/facial-recognition-640x353.jpg"
-        width: 640
-        height: 353
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40803"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "XxEh13c4YzZBv/n+OlLoe9yowcexbg2fuuvHJNzUAeByESj9hYIrduDQw2aim+XXuNlY8Xw/5UdMowj61NyQL1v08Blm5/MqB8f0StB0T9zC/CA4lpLy/y7MHBe4444llyaldETDNJhMA9zGocc2absum6r4CQRSJ6iajW2f3D2pKAxLZbCcLc2Tn4kH5W4gdS+XopCy+K5Tq2oj6gMLa3rw7sVbivt21QY+Zh5RxnPU3RHSkcQmPKLRpbR0PM4qSipPxSsLX/Usrq9DYPgreSg2DaAoovE5UrcMbQ4sVDWDu26JLU6ppm1gfMLfL2LOSpJa0r3XRYd4MJ5uSXRt2ynJpg9saIn9bAQQfqr4Fn0=;nz5SHxM32YvTIqyTuqwmkg=="

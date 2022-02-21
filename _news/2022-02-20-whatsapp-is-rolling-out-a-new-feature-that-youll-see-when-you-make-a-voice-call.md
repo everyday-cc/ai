@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bgr.in/apps/this-new-whatsapp-feature-will-change-how-ap
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/this-new-whatsapp-feature-will-change-how-app-looks-when-you-make-a-call-1238526/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "WhatsApp voice calls will soon be more fun, especially in groups; Know why"
+    excerpt: "The instant messaging app is likely to roll out a new voice call interface that will include a new waveform animation."
+    publishedDateTime: 2022-02-21T14:25:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/whatsapp-voice-calls-will-soon-be-more-fun-especially-in-groups-know-why-71645453283757.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/whatsapp-voice-calls-will-soon-be-more-fun-especially-in-groups-know-why-71645453283757.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/whatsapp-voice-calls-will-soon-be-more-fun-especially-in-groups-know-why-71645453283757.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 42
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/02/21/1600x900/FACEBOOK-OUTAGE-17_1634296032018_1645453478885.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ct3CXYOosGI0LciNhwoiPKlH43tEqIj8iC1J/QrNgfP1lQYbXxYEaz0HF6VMVXePIaXwpr6XtpNwSbMNXSbqn7HTPJuZVfT5ny9tkw4P78vlNzI55aVbUJZ+i25bq7IPlkeA/GZQMWNZZfB8q/kXlqYjeIZML1lldtlOzymermnvsS4lXPhtHma9JUbrOl/Hk3GIh1o5g4qATFy8u+3M8iUMAdGDugKVxfCOexiOHoQXt0RHzY34mb/Nip6PNDDOPMkYandM8cwLJESQVEMBzrfgUVRRbn1ciXJEHeTERcPdO6R9ukq3SChh9h+C2+QyTsHKEKw4Bx0WsBJlXr+fpP/v+W1nkyWmGoZ7IwHhcTHI6QQuXG4wR95dBIwRbF6pcTYT0IrBSG4lX9IAnaoYF1dWY5SlGft1F+c3w5GdbgXSo/tnAYKIZ27UjavhjrbMbn0DpHJDW6ereub3iajfwBwxF03Hq9Nc14EtBXeXNq1qZDAmQEC0wMeisEmeLxKc02d+8U/c70R4wvYgVXcTZg==;3jVu5w7wA1K9ti6SaGqL7w=="
 ---

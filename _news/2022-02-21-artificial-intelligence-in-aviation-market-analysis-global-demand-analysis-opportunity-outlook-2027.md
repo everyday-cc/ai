@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027-2022-02-20"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Drug Discovery Market Global Industry Analysis, Trends, Market 2022 Size, and Forecasts up to 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on AI in Drug Discovery Market which emphasizes on th"
+    publishedDateTime: 2022-02-21T14:40:00Z
+    webUrl: "https://menafn.com/1103735412/AI-in-Drug-Discovery-Market-Global-Industry-Analysis-Trends-Market-2022-Size-and-Forecasts-up-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Dark Analytics Market Size, Share, Industry Analysis, Demand Forecast, Opportunities and Trends | Market to Touch USD 880.50 Million by 2027"
     excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
     publishedDateTime: 2022-02-17T06:49:00Z

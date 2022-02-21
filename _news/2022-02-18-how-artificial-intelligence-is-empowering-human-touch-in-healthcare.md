@@ -23,17 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "AI in Healthcare Presents Need for Security, Privacy Standards"
-    excerpt: "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare."
-    publishedDateTime: 2022-02-17T17:22:00Z
-    webUrl: "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards"
-    ampWebUrl: "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards"
+  - title: "How AI is changing data Infrastructure"
+    excerpt: "The impact artificial intelligence (AI) is having on enterprise data processes and workloads is well-documented, as is its capability to monitor and manage complex systems. But what is not widely reco"
+    publishedDateTime: 2022-02-21T14:20:00Z
+    webUrl: "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/"
+    ampWebUrl: "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/"
     type: article
     provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/subspace-globe.jpg?w=1200&strip=all"
+        width: 1200
+        height: 686
+        isCached: true
+  - title: "How Artificial Intelligence is Affecting Content Creation"
+    excerpt: "Artificial intelligence (AI) has pervaded our lives in ways we would ... no matter how advanced our AI algorithms become. Robots can perform a lot of things, but they can’t feel emotions or put themselves in our position to understand what we’re ..."
+    publishedDateTime: 2022-02-19T10:00:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 39
+  - title: "How China is using AI for warfare"
+    excerpt: "The actual military expenditure is higher than what was mentioned. The PLA has integrated AI into their mechanisation procedures to develop various forms of electronic warfare systems. Since the launch of the Wing Loong-1 combat UAV in 2009, the PLA has ..."
+    publishedDateTime: 2022-02-21T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-china-is-using-ai-for-warfare/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/China-warfare_11zon.jpg"
+        width: 1873
+        height: 1054
+        isCached: true
 
 secured: "3GBcdTZBS4rdaSqbfhOoap9uY41uRVCS57MS2r3cgFxHpkXq1foJ+7bBFNFnFGKQpnFgXGoPQXXkhQX1Zepo1QGuFmfznofAfzIx/HrtzvioNoiv4czq7eIPc2rAo0ON6RENQtv//tG1r0RCmAFM42IbxUtT0t/EPMeE4qj9XAA8p+E7+ut5Recf4s1iAFGtXvXPOy2NfFbo5l6//Vcv3JQj4X3unV5lwN/o8PHlx0bK7NfzZhn+CI7brljRgjGiu+Wudy56csghQe8TLg/uxM9C7Z2SHsstI5mwB5yBWNidGLnxriozHZOEs/GD9RtILZMxg0rEur5XxrOQR56uFwaofV0Pyj4aUxKcokTG01Q=;ZzwTfex18ls1NdpWe2u2LA=="
 ---

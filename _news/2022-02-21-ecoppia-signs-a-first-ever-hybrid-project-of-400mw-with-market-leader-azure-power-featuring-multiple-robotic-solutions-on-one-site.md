@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-21T06:00:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=619141"
 webUrl: "https://us.acrofan.com/detail.php?number=619141"
 type: article
-quality: 9
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"

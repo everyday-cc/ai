@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reali
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
 type: article
 quality: 59
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore.com
@@ -27,44 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "What the Tech? Facial recognition"
-    excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
-    publishedDateTime: 2022-02-16T23:45:00Z
-    webUrl: "https://www.wfmz.com/features/what-the-tech/what-the-tech-facial-recognition/article_8f565ad8-8f5a-11ec-86eb-fbea4dbfdb71.html"
+  - title: "Facial recognition firm aims to collect 100 billion photos by 2023"
+    excerpt: "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020."
+    publishedDateTime: 2022-02-17T18:38:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/cd/ccd9c44a-36a6-565d-964f-53538bd6c56f/620d892de78df.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why you should want the IRS to use facial recognition technology"
-    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
-    publishedDateTime: 2022-02-18T14:06:00Z
-    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
-    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
-  - title: "The IRS backs down from facial recognition plan to verify identities"
-    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
-    publishedDateTime: 2022-02-19T00:18:00Z
-    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg"
+        width: 530
+        height: 300
         isCached: true
   - title: "Advancements in Facial Recognition Technology"
     excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
@@ -77,19 +54,35 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
-    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
-    publishedDateTime: 2022-02-18T20:46:00Z
-    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+  - title: "Facial recognition firm Clearview AI says it will soon have 100 BILLION photos in its database to ensure 'almost everyone in the world will be identifiable' and wants to expand ..."
+    excerpt: "A controversial AI company has announced it aims to put almost every human's face in its facial recognition database, making 'almost everyone in the world will be identifiable.'"
+    publishedDateTime: 2022-02-17T15:04:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10523739/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10523739/amp/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10523739/amp/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 21
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
-        width: 2048
-        height: 1376
+      - url: "https://i.dailymail.co.uk/1s/2022/02/17/15/54320011-0-image-a-6_1645110617174.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Image Recognition in Retail Market by Manufacturers, Types, Regions and Application and Forecast 2022 to 2031"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase ..."
+    publishedDateTime: 2022-02-18T23:55:00Z
+    webUrl: "https://menafn.com/1103724928/Image-Recognition-in-Retail-Market-by-Manufacturers-Types-Regions-and-Application-and-Forecast-2022-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40803"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "kyQR68muV+dXkYIaBspyGva3iWZuZ4n27RHdk+vR2NJdLTi0SCIb9LZFBHCOwzpEpb3sQh5OVvEMGaRVIFKBWXEeyLRaD7JpO+lLYereL2sulwS4zmNv1WJjBS69tnjILae1u5jQ8l5JZ8iEbz2+5DsMHPjPgABn2/jVQrzcelGZblyL9Fzz85BVZonCORDvlC6Q5tmt4LUBarDFyAkWDr7uamQyEm3nhE4vYIUGNVSldV7Mgo7SW4mS5hxAz3q1LGjoX+Chw5HpnhuDWL/nvZ2Pq/vqIH0euaR6oqrhzIZZRVREmPJ+GU85lbjtz9rT2UGFX0Fog08rCyNVlwla+ObonBU7GdFU8/St2kAEAn795JyVaJ28gighUfn2rZBglLnUA3iJN/DFShizGh5sRvWj5jQQkbUesQqQtvkrC9m54iKAMg/CT2avPM3BbiiUD55FKvvdctLFS4TVUMIuMZ0tT7t/qm+mo/QmTbUd4shB2XAMZi5lFwRKKQWrgMUd5eBKdrb57grMKDM5ldaabA==;TALUtFCVBnqqGk3VQ1fggw=="

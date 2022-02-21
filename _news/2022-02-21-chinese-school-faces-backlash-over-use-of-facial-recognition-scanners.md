@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
+        isCached: true
   - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
     excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
     publishedDateTime: 2022-02-18T09:46:00Z
@@ -85,21 +99,7 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
-    excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
-    publishedDateTime: 2022-02-16T21:02:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21257061/texas-sues-meta-over-facebooks-dropped-facialrecognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 24
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/US_NEWS_CPT_FACEBOOK_TEXAS_LAWSUIT_DMT.620d653a2f844.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "k+MYoGV/m7D2IY0NxxgCE5HeA0z2hP0/7NLqJrKaDMgAQXFt4XNyViApDZJINlpsWGMg7Hgwr5eO/q9C3x+w21+shldvSM6qL/wGhCcrzoogFamL+wi5Y2XOvwLr7aUreo7pdWN4nV17Q/6eSvxBfclRfo58nNIAbJrHnwdcvbGRzsvUSh84nKXTdJth4C34F7aXCB4rm6RkwpyPWzprcyJ/W9bOQ1T+epL5iBGs6cuJ2PyKCcPD0sjsNt66Sd9HrT/myLXbC/FvIoMb/3dITmV7e7oqxUQH+izIDkGIOkhUTpbb5y2x+UjfagtYxHD3Az3PsTudqcLsrQ1gzNdnVzLRFk1G2mjJBb06LywO9aY=;rOUO8KG2MzlJPp92J+La7Q=="
+secured: "qQUmftxr5TP7OoUiATI1nx/gaVr6rtEiBSCRaieXAxfOvQ2yT0z9fz1/fWvsmyfl5U1HgPGgth+gV6jXautGZH9oZft1vHGDtY+Hq28ZZ1fXWEhc2igvUq39TeL9uriBWENZdfAJnmeI/tJZBIYFu5cRwbbKNXweanVuEl4lbhq8ICETXvkXeBmhmKjQyGqlq89hkLo+hkhuHFgiTa/LSHeFxJeRmZluW7x3oYIoGuQhkdmtv7zqrdsyryeo3N98lOAlodKZtt/SY+asN//SSTJauoM80s7Ir6V6yVsTyMGkfXCbJYj/BVOVvCG6Pqa5hHATDTysHvNtuD092mPdfYQROvow+sZzgHbjOj3mwJSNiYmLTbP5fvxFP1tS4cWGBxz/zkYUuKcJm3zf0T6rHL+QW6yZOj/6aU/RlABBo9SY4+tnlCz3o0+vXxNrSLYHpPVM9HUSnUw3vlQxGPh5RuvffRZ6ykfLEjiH1teNRHw1QY5Pci+zFEDSxD2jQ052dLkWcSHisv/HDyOOExlxqA==;lpcwhp4o17vlBkHvTw9eqg=="
 ---
 

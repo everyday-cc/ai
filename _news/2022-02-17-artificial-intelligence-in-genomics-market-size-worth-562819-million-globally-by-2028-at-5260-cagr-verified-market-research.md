@@ -150,6 +150,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
+  - title: "Iris Recognition Market Insights by Industry Demand, Regional Share Analysis and Forecast 2022-2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Iris Recognition Market which emphasizes on the la"
+    publishedDateTime: 2022-02-21T14:42:00Z
+    webUrl: "https://menafn.com/1103734933/Iris-Recognition-Market-Insights-by-Industry-Demand-Regional-Share-Analysis-and-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 10
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Worldwide Aerostat Systems Industry to 2027 - Featuring Aerostar International, ILC Dover and RosAeroSystems Among Others - ResearchAndMarkets.com"
     excerpt: "There are numerous organizations which have started employing intelligent video surveillance systems owing to several advantages offered by them, such as object recognition and video analytics. Other than this, the demand for high-quality aerostat systems ..."
     publishedDateTime: 2022-02-18T14:59:00Z

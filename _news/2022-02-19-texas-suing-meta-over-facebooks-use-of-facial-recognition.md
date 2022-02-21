@@ -69,6 +69,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
+        isCached: true
   - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
     excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
     publishedDateTime: 2022-02-18T09:46:00Z
@@ -84,20 +98,6 @@ related:
       - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
-    excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
-    publishedDateTime: 2022-02-16T21:02:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21257061/texas-sues-meta-over-facebooks-dropped-facialrecognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 24
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/US_NEWS_CPT_FACEBOOK_TEXAS_LAWSUIT_DMT.620d653a2f844.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "YOg+F4OeNtMkasqvbeyxx7zP6gaNWdtk0J1cywN0VBv8JZ9SMJv6rpGYGJMX/K9bLJO0Ac1sA0OtUw+zz8QOKvK9aoC7+tlil3EC8MAeVHrSSmbk0pd4JYTSEtHQIDdIs9HZS4F7gnida29kAtaf02LPoAPjoKSMi5HPXI1ZvwhADEGcQkjA+UVGShbjE7XPbYgNEWy8lSq8KSYUBMtMEa3hqykA5VLiQSZeRiGhdmvCyW2zevFyitpmw92k0+j2I4bZ5AjO9eQ4Z2SLpSyt2Or75gE8KZxkQRDWXfLXSjiK4JBKY74WPaB25Y+u9i14cRlqPx1zw9T+ZKeA9Oy6hwytYSWWH77ofGn7Q1TmnJ7RNslO81jNfF47BECdxplTAkss4TsXOgFDaZoF0j4D/CDH+r5yEhtA9y1PaaGUF68A7DHevDQwQuXWC9eM42Q00cVtAJkEdeHGhZTxuFOU3BAQItgvCYoHvkPe+HFKH5CiNxqWw2StzEnuDHYLabPYgSBfBfzb+WG0/ZIS5fOkwA==;Niv5Ktzw+S2MzRtFgAxKFA=="

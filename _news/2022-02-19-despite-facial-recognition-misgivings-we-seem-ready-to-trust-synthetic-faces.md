@@ -25,72 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition taken to the next level in virtual reality"
-    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
-    publishedDateTime: 2022-02-17T12:12:00Z
-    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+  - title: "US state sues Meta over Facebook facial recognition tech"
+    excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
+    publishedDateTime: 2022-02-18T13:30:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: IOL News
+      domain: iol.co.za
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
-        width: 1920
-        height: 1105
+      - url: "https://image-prod.iol.co.za/resize/650x366/Texas-Attorney-General-Ken-Paxton-sued-Facebook-now-known-as-Meta-for-capturing-and-using-the-biometric-data-of-millions-of-Texans-without-properly-obtaining-their-informed-consent-to-do-so-in-violation-of-state-law-Picture-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1b3a8949-6a1c-5c60-b165-5c53043b8491&operation=CROP&offset=0x91&resize=2008x1130"
+        width: 650
+        height: 366
         isCached: true
-  - title: "What the Tech? Facial recognition"
-    excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
-    publishedDateTime: 2022-02-16T23:45:00Z
-    webUrl: "https://www.wfmz.com/features/what-the-tech/what-the-tech-facial-recognition/article_8f565ad8-8f5a-11ec-86eb-fbea4dbfdb71.html"
+  - title: "Inside Facebook’s African Sweatshop"
+    excerpt: "Some said they had done research that showed content moderators ... and no users nor Facebook’s AI systems have flagged specific points in the video. Through its prioritization of speed and ..."
+    publishedDateTime: 2022-02-17T18:04:00Z
+    webUrl: "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Time
+      domain: time.com
+    quality: 54
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2022/02/TIM220228.Facebook.Cover_.jpg?quality=85&w=1012"
+        width: 1011
+        height: 1349
+        isCached: true
+  - title: "Texas suing Meta over Facebook's use of facial recognition"
+    excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
+    publishedDateTime: 2022-02-19T03:15:00Z
+    webUrl: "https://www.wpsdlocal6.com/news/texas-suing-meta-over-facebooks-use-of-facial-recognition/article_a2011358-913a-11ec-b440-b7b6239bee50.html"
+    type: article
+    provider:
+      name: WPSD Local 6
+      domain: wpsdlocal6.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/cd/ccd9c44a-36a6-565d-964f-53538bd6c56f/620d892de78df.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "Why you should want the IRS to use facial recognition technology"
-    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
-    publishedDateTime: 2022-02-18T14:06:00Z
-    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
-    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+  - title: "Chinese School Faces Backlash Over Use of Facial Recognition Scanners"
+    excerpt: "A parent has accused the middle school of endangering students’ privacy by forcing them to make purchases using a facial recognition scanner, sparking renewed debate about China’s growing use of the technology."
+    publishedDateTime: 2022-02-21T03:37:00Z
+    webUrl: "https://www.sixthtone.com/news/1009712/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
-  - title: "The IRS backs down from facial recognition plan to verify identities"
-    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
-    publishedDateTime: 2022-02-19T00:18:00Z
-    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Sixth Tone
+      domain: sixthtone.com
     quality: 39
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://image5.sixthtone.com/image/5/50/459.jpg"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "Advancements in Facial Recognition Technology"
-    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
-    publishedDateTime: 2022-02-21T04:37:00Z
-    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+  - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
+    excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
+    publishedDateTime: 2022-02-18T09:46:00Z
+    webUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 35
+    images:
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
 
 secured: "reN34SS2A7ucsugR+Cl2pKgjMtwbfIGkndK6aE06bKPeyL6jsKNjT/wCcrmB0R5sKAcjemqOm4nF9oc70anipvCz+LSaUuPjnTbvk7utYkdUCDnSNkNv1n6tb0aS//6bfVK+B5HGjS/3F+PMjvvA66NjCN6kM2pWU2YsI8/u15ofRx57owoI9RxopCYIzP1vBPsNkP1M9Ldm4CliFsX7kHTHqPQ409XGvsV1mE75lgvZxGNzjxwcnt6posALRiS8tQPJcMrq75yKRBIByoKiWVPoHqJ7K0glNbJQfyPgD6u55Ksp9r6s2a+qlU+3kqtGCN9IuD+BB8Sjlw6LlEpv0jCrYfzbg55mznwgKBdJmmzxgVIIXwIyYZu7iWQb2mOUKBC3zIj/q2aJDbsiCcNuC3425czMga2qk7YaT+aI6Q6sz855jhuqMwW/ACvp+BP2INXhK44cy04MBb/GacufGRlJCWptZ0bYZ+2YnmMOT5HCJ8CtCfm3qk9HSe74RwExNjIhQVF/sw3gTQ6OdCDPhQ==;EgEP67uES63woqi+HeEoMA=="
 ---

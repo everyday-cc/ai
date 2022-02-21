@@ -150,6 +150,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
+  - title: "Iris Recognition Market Insights by Industry Demand, Regional Share Analysis and Forecast 2022-2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Iris Recognition Market which emphasizes on the la"
+    publishedDateTime: 2022-02-21T14:42:00Z
+    webUrl: "https://menafn.com/1103734933/Iris-Recognition-Market-Insights-by-Industry-Demand-Regional-Share-Analysis-and-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 10
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence In Genomics Market size worth $ 5628.19 Million, Globally, by 2028 at 52.60% CAGR: Verified Market Research®"
     excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Genomics Market\" By Offering (Software and Services), By Technology (Machine Learning and"
     publishedDateTime: 2022-02-17T08:30:00Z
