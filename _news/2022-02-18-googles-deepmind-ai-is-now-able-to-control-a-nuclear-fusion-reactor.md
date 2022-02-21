@@ -177,6 +177,22 @@ related:
         width: 2000
         height: 1200
         isCached: true
+  - title: "'Breakthrough in Physics': Artificial Intelligence successfully controls plasma in nuclear fusion experiment"
+    excerpt: "Scientists were successfully able to control plasma in nuclear fusion experiment by using artificial intelligence. Nuclear fusion comes from the fusing of two atoms at very high temperatures, which then release energy."
+    publishedDateTime: 2022-02-21T17:13:00Z
+    webUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165"
+    ampWebUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 38
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/21/242409-untitled-design-19.jpg"
+        width: 918
+        height: 506
+        isCached: true
 
 secured: "wDH0YhYv0iGMw0yH/9oMf23axmNiZsgZ2mSsXKYOWJtpvWWKhRy0tGHrV7n6fE+MDN0GhVaR3V2wjAb37P6V1XJ3Ile0GAZvW5Q1SmrI+HM6Ulz0tnuvrh26i/LmxnLEHoHvSvxHLxtBIeypSW6/s6KoPZye/yWNePcBxWW9HnhIQfF2lQR2O4B9RXDsVAlKGQ0GPHsdc8Awz5FlLn84tHlpYYAMlY1WdbXF4O4LaiKU15I9n/EVhlaDfY/9+QEU+BXFHfFZ5c0Qfq2M9rNUWmLql0HooqmoSTVYwiZkSrMsog7DVxNyOIJltuKUf1GLxtyh77T35rd5JeVEMGbBA4hCGiLEF4sPY+GZ6vzb7no=;D23xL2QqoxS2bS4dujYK7Q=="
 ---

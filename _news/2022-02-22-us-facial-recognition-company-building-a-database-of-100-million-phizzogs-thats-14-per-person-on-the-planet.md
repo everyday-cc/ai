@@ -8,7 +8,7 @@ webUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-
 ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets.telecomtv.com/assets/telecomtv/clearview-ai-13724.jpeg?w=1200"
@@ -91,6 +92,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "IRS announces alternative to facial recognition software"
+    excerpt: "After an initial backlash over its facial recognition feature, the Internal Revenue Service said Monday it started a new option that will allow taxpayers to sign up for online accounts without the feature."
+    publishedDateTime: 2022-02-21T17:35:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3591645466216/2022/1/0891f8f1261eba40ce02aaf909f19044/v1.5/IRS-announces-alternative-to-facial-recognition-software.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z
@@ -142,6 +159,6 @@ related:
       domain: medindia.net
     quality: 39
 
-secured: "/qDZdBV3rQeI3g0aHiFsw61ABAjb3pv1xQ5Xryl+vz+fA5VlHOYHQVvl0OfUSI3dubEpEKSeA11FyuKe/kJEhZzmjEizYIi0/SOVRm1T8Mb7yCRY2n6OK7KnpxTRD8Hp7Ia3uXoKMnp83gYwRRtGpOjigGylrvY8NEFzOIksh1bonvS5y986I72ITbyJSXMxefxZ5/8+gwtb2HkkvL+ZEdu5zTj/cnsO7c0RAc9Jwpg9nl0OO+JGftN7rlsI0eUJWionWcx46b3BBV0sf4xPHb4b1/P72zren8FR7DdRqN3BU7dh7obWiIAwovn/puqI9V2vYoBXmh/C6qko9VMmsuBCAYYKZbERc5B+sGw6aR4=;GP3W2Y4JlVQrKIC+LeOe4Q=="
+secured: "cpn5nxXJ3cMX+xDRx3AkOk4hJKfr8FmGwpftZO+rErfBZ53C+RX5tuoLW43830SqWHaT5rh5lfWa2QKNLfmNQgk4qr5uNZMe1wBXhnV+l4B8/pqTCvDfqWxhMtnOzJvHy4x3S/DZAhhA/VmHElTJd4qPFf6pjnbdbeONtVdZq/l53t5uK/V10WQUAcO4hh2SsbAFduD+9PP1JQhElzTZ28LOqi5lajbzrFK8ZsJD5Ra3nj7P130Od+d9u/KYBZRsIIkHfAcxL4bZ+MPbyNVRQ6zqo7nTK7qTr5UrXF+rut7LP78EAjdiU5+2ADOgRmOZBjhh9bLj2JFtWD8FlkViFJcEWY4ikVoBtS1I7Cd6BkHxHtme+Pvf+X0TicM4VmYBWPFsA1jx/gkoog0tYmOBP8BNUs8Ou1Gr7t93w7+39AtsJ22eupX9FTCkLmQleUxcd2pQ4EfurSrL4OgapP/A6MiuH1xZBuCSNFtIG10gtYRk9NwM7TfumLF9FWmWhVw1kZL7jvBJJutMocCrLggmsQ==;y2PJc25x0HJDuwybVfc2Ww=="
 ---
 

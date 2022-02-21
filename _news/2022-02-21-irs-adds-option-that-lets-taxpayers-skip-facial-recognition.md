@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpa
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "IRS announces alternative to facial recognition software"
+    excerpt: "After an initial backlash over its facial recognition feature, the Internal Revenue Service said Monday it started a new option that will allow taxpayers to sign up for online accounts without the feature."
+    publishedDateTime: 2022-02-21T17:35:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3591645466216/2022/1/0891f8f1261eba40ce02aaf909f19044/v1.5/IRS-announces-alternative-to-facial-recognition-software.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://media.eaglewebservices.com/public/2022/2/1645462219361.png"
         width: 640
         height: 676
+        isCached: true
+  - title: "US facial recognition company building a database of 100 million phizzogs – that’s 14 per person on the planet"
+    excerpt: "Slide deck punting for an additional US$50 in investment million reveals the reach and ambition of Clearview AIA database so huge and intrusive that even"
+    publishedDateTime: 2022-02-21T16:07:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 41
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/clearview-ai-13724.jpeg?w=1200"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Why you should want the IRS to use facial recognition technology"
     excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
@@ -129,23 +161,7 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "US facial recognition company building a database of 100 million phizzogs – that’s 14 per person on the planet"
-    excerpt: "Slide deck punting for an additional US$50 in investment million reveals the reach and ambition of Clearview AIA database so huge and intrusive that even"
-    publishedDateTime: 2022-02-21T16:07:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 39
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/clearview-ai-13724.jpeg?w=1200"
-        width: 1120
-        height: 630
-        isCached: true
 
-secured: "xyxfXRSYUHSZGyuR0e92OMvvcvTYwO5IEBa21CQEhDLXHrjxGZ9p8EOJ0lZsiZFdq39B14rcfM5CjQgEz1gENBWGU9mir7yLBQyXt9smspecz09bLN8l69MLGp0vKMoTMQcROqUZa8y9k5Hn50laGGxCpwSozUJiMyEDlOjkBSditaEgbaT1471aeBPeexHLBUk/prZPFMrnlbA6udutt/S09zuM0O/wQGAq5BI4N4RyAcKAmc3BK8wC6+NhDULyQtE/yKk+DVXK1f4Xl03j6+QXnUoHODws0hRmemnhWTNrsmflBFbbc6WL6VK9824m+XLfsjLdj8nfXzzdMgxS4y2YkE1BGcxfbesjJZyB+u0=;YlGn/eNuAJFVK1vuo3KGCQ=="
+secured: "ekUpIYmdARz+MWWzHEBVX9ZABSSjjgTsshdTB0f/OzKvGNVBxkBcGJRY7tUmEDsuZ/wz92j32R5pwBsndC+IuIHzLYwZ9xxqSjj0t/bXmMZSpZGgUDQPdIVhDmIsaCWGmyMs3hskrI9Ysv/dtGYj28wODyfJkYygfqw65P/ODafP1sQgV9ZRs/qyNbOw2esuDHSfSfYYxOtVKAXoM25SqUJeb44g8DKBPrgvyshppJIfDf752nMlC1MSgeEriUckYUcrPCXagCF4H6g58Pl66saRZnBrM4rRg8QEVUHr8loj6xBPc8+luN8IvdpxO6+E3tLFqtDUe9oDHaok3rHIkDcaZbexRMw1eCK3TRpq9PIsDvMMAllFbbgUws/Ro3NTIPuSpKetNAA+2/EvTxYl/t69lVjY/MJXJDDAtWp4DKpQQe5rdffzPW/LMFEJf3lQY/yhyjHycl1eSYdCM/4rhrzYTAsMfsKBss7lsdsFf3hvJiFsKgajaXaaTBj4uV1eONF3bhGyyezQRSzA5YfAuA==;CGYhoIQkvGvlM1FUKS4AVA=="
 ---
 

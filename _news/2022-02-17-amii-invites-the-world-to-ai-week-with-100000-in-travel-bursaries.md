@@ -50,6 +50,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
+  - title: "Investigation Alert: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm"
+    excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of C3.ai, Inc. (\"C3\" or \"the Company\") (NYSE: AI) for violations of the securities laws."
+    publishedDateTime: 2022-02-21T17:42:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/02/21/investigation-alert-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "4t48Fymvm2itlTXH/lm5dGV7+43hQ23iYoWjDIq6ViOZJYzLXPO2rORioSwKWwM95JgHilNbapwBVO3jgn1nbpvAcbx+Eg6btDDV2YtuY68SKg+cRXxU8O/0cg+LS2buHOZ1cPLK/aT+yUujQ0ywS4ktAfr3/XuLhdCso1clPuaSTvOLwAONLZFjklL6H3Sc5GfqbKEnN9SMo0X0JBGWpklqXIUbpDxlJ+KFIAiJ+h1e6IteZLftmzATD4Y0KlWClHWCmsfk19zsZB9PG2UslVQ0ETgzIc/7yN9jd9w8mVk8SZdMXXytPYXdZac6lF/otgiHjUPQ3kh2okj/NH8WEn/i4gYjEzBBy07b4sk/OE8=;azCSugaw3VpWDz1JhWYOdA=="
 ---

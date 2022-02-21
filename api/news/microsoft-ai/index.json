@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-22-microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service.md",
+      "title": "Microsoft goes public with details on its 'Singularity' AI infrastructure service",
+      "excerpt": "She is the author of 2.'s Azure and Research teams are working together to build a new AI infrastructure service, codenamed \"Singularity.\" The Singularity team is working to build what describes in some of its job postings for the group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dcf3d674c0197c63f668fe41924cf7082da7b01/2022/02/21/9f3ec88d-87db-45bd-b79c-7a1b2522126a/singularityaiservicemicrosoft.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
+      "publishedDateTime": "2022-02-21T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud.md",
       "title": "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud",
       "excerpt": "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ...",
@@ -1334,49 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-procurement-analytics-market-growing-at-a-cagr-253-key-player-oracle-coupa-software-genpact-rosslyn-data-technologies-microsoft.md",
-      "title": "Procurement Analytics Market Growing at a CAGR 25.3% | Key Player Oracle, Coupa Software, Genpact, Rosslyn Data Technologies, Microsoft",
-      "excerpt": "“SAP (Germany), Oracle (US), SAS Institute (US), Coupa Software (US), Genpact (US), Rosslyn Data Technologies (UK), Microsoft (US), IBM ... Cloud & Cognitive Software, Systems, Global Technology Services, Global Business Services, and Global Financing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/procurement-analytics-market-growing-at-a-cagr-25-3-key-player-oracle-coupa-software-genpact-rosslyn-data-technologies-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/procurement-analytics-market-growing-at-a-cagr-25-3-key-player-oracle-coupa-software-genpact-rosslyn-data-technologies-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/01fe6d4aa0839aba65ce133e75a52110b8854c9d-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

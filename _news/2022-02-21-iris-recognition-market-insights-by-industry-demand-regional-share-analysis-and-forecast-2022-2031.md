@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
-    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
-    publishedDateTime: 2022-02-17T02:58:00Z
-    webUrl: "https://menafn.com/1103707586/AI-Computing-Hardware-Market-Insights-By-Growth-Research-Methodology-Emerging-Trends-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Global Market for Artificial Intelligence (AI) 2022 - Featuring Spectrum Labs, 6sense and 7bridges Among Others - ResearchAndMarkets.com"
     excerpt: "The \"The Global Market for Artificial Intelligence (AI) 2022\" report has been added to ResearchAndMarkets.com's offering. The development of artificial intelligence (AI) technologies is growing rapidly and transforming the global economy."
     publishedDateTime: 2022-02-17T09:23:00Z

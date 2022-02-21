@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/attacks-breaches/darktrace-artificial-
 webUrl: "https://www.darkreading.com/attacks-breaches/darktrace-artificial-intelligence-stops-cyberattack-at-italian-electronics-distributor"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Darktrace's Cyber AI Analyst Now Runs Open Investigations"
+    excerpt: "Darktrace, a global leader in cyber security AI, today announced significant enhancements to its flagship Cyber AI Analyst product as it now intelligently groups incidents to encompass the life cycle of complex compromises as they develop and progress across various entities within a business's digital estate."
+    publishedDateTime: 2022-02-21T18:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/darktrace-s-cyber-ai-analyst-now-runs-open-investigations-1031213122"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "DARKTRACE ARTIFICIAL INTELLIGENCE AUTONOMOUSLY STOPS CONSEQUENCES OF FAST MOVING CYBER-ATTACK AT MAJOR ITALIAN ELECTRONICS DISTRIBUTOR"
     excerpt: "Darktrace, a global leader in cyber security AI, today announced that its Autonomous Response technology, Antigena, successfully took action to stop a cyber-attack exploiting a GitLab vulnerability for the purposes of running crypto-mining malware at a major Italian electronics distributor."
     publishedDateTime: 2022-02-17T19:31:00Z

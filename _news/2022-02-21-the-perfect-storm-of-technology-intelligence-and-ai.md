@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-21T14:37:00Z
 originalUrl: "https://www.thecipherbrief.com/column_article/the-perfect-storm-of-technology-intelligence-and-ai"
 webUrl: "https://www.thecipherbrief.com/column_article/the-perfect-storm-of-technology-intelligence-and-ai"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.thecipherbrief.com/wp-content/uploads/2022/02/Cynthia-Strand-310x310.jpg"

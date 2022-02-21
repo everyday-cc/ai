@@ -167,6 +167,22 @@ related:
         width: 2000
         height: 1200
         isCached: true
+  - title: "'Breakthrough in Physics': Artificial Intelligence successfully controls plasma in nuclear fusion experiment"
+    excerpt: "Scientists were successfully able to control plasma in nuclear fusion experiment by using artificial intelligence. Nuclear fusion comes from the fusing of two atoms at very high temperatures, which then release energy."
+    publishedDateTime: 2022-02-21T17:13:00Z
+    webUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165"
+    ampWebUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 38
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/21/242409-untitled-design-19.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "Google's DeepMind AI is now able to control a nuclear fusion reactor"
     excerpt: "A study on the deep learning approach has been published in the journal Nature. DeepMind Technologies, based in Britain, is a subsidiary of Alphabet Inc., which also owns Google. It has recently used its DeepMind artificial intelligence (AI) to control a ..."
     publishedDateTime: 2022-02-18T10:41:00Z

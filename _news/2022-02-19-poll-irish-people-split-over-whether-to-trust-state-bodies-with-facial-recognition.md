@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
-    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
-    publishedDateTime: 2022-02-18T20:46:00Z
-    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
+  - title: "Many Irish skeptical about responsible facial recognition use, poll shows"
+    excerpt: "Irish nationals still entertain serious doubts about the trustworthiness of facial recognition deployments by any public or private entities."
+    publishedDateTime: 2022-02-21T17:08:00Z
+    webUrl: "https://www.biometricupdate.com/202202/many-irish-skeptical-about-responsible-facial-recognition-use-poll-shows"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 36
+    quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
-        width: 2048
-        height: 1376
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
 secured: "9gF0EWoKc8a8JL1FkpQ2MBU0sNmGtzrWZk4Ldj04FzzMCcGorwjbei9/xs7l/ALHz8kRdpMkyFoZ7/KazNRcoJgZPPM+x2KK1NFqXuMeFiIjw233WzfeCTLiYJoGIbM+Pj9TZQr8MYPcCq7GOBTOEtnNfZdwGInu0FMnvU5rFjVqKdaBavlVQunAn6J1JgSkxCYgzWXmd637GWH/cbvzbQIfQrkfr4UGcdIrZi1C5HpKZk0bpercM+5vAHac3jtGKK4q+bNmbnhnXxCFzCm9JbqvSTzCyL3TzPUq1rxzIjFhn0oMCqCYhumf+9avIXn9+Mg1llvlMf1ZIcnHGk2jTRNoxsVnRYE5GCoiHRl1EfY=;x+mq0AGnMraAv+eC1qF2BQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/02/jievani-weerasinghe-NHRM1u4GD_A-unsplash-scaled.jpg"
         width: 2560
         height: 1570
-        isCached: true
-  - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
-    excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
-    publishedDateTime: 2022-02-17T02:57:00Z
-    webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
-        width: 443
-        height: 250
         isCached: true
   - title: "The Future of Marketing: Can AI and Humans Coexist?"
     excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."

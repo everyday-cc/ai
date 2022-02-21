@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 990
         height: 660
         isCached: true
-  - title: "SK hynix GDDR6-AiM: next-gen memory with computing abilities for AI"
-    excerpt: "GDDR6-AiM does things differently by adding computational functions to the GDDR6 memory chips, where GDDR6-AiM and a CPU or GPU -- instead of regular DRAM -- will speed up computational speed by up to 16x. SK hynix is aiming its new GDDR6-AiM memory for ..."
-    publishedDateTime: 2022-02-17T01:14:00Z
-    webUrl: "https://www.tweaktown.com/news/84615/sk-hynix-gddr6-aim-next-gen-memory-with-computing-abilities-for-ai/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "ar4YbVOIW0jCgI8b0rSze6oZb3UVc/XL6uS+r0e8HBCqlIwymF4wzttmEwcfP+2/d9gTQOePBRHjE5h6XGpF6rnShJ8N7AbdLVD25lnVig/gV63ing+QYollrcx802m7uPszOgYB0fxgJ4oVFaUR9QIV/FY0O2Ln4bI42FVseyC0/Wx62bPGwkmoChYVt70YeEG44pR0LrK0jNUKJ+rWMeeN3BeBODFN4Irp2jj3xsdgqWACIs+bf/TNpE4xAcizymFYGthXaecnlDg02lJlSBD/ZcX2ghnLkPY4FDFryW06DtmUbZljui0R4qbbgBMBm8oGYX3bmlfOpgYR7dOqcuLYZ7cWjJGtvq76B+l+cXeIVhBZH+OlNY20MPwFCIlwykj6IrjSGCFIw2jJxHbs2VG0HVn6SLdJHk1aY8nuQTP3XGrv7fkL0U9O5+jU4k41R6DnpxG7mHQA6NGus3nUdVl3Ou+9GXgEo8OkIlrXpeXmexUVF1/Gx1PRAj40VdWS0pZfSodfgsRaQNAA/4GbaA==;axYrzIsZ5iQkiVRljtetaA=="
 ---

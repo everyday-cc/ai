@@ -88,20 +88,6 @@ related:
         width: 2560
         height: 1570
         isCached: true
-  - title: "2022 Insights on the Artificial Intelligence in Healthcare Market"
-    excerpt: "The 'Artificial Intelligence in Healthcare: Intellectual Property Landscape' report has been added to ResearchAndMarkets.com's offering. This report features an extensive study of the historical and current collection of granted patents,"
-    publishedDateTime: 2022-02-17T02:57:00Z
-    webUrl: "https://menafn.com/1103708229/2022-Insights-on-the-Artificial-Intelligence-in-Healthcare-Market"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing 5.0"
     excerpt: "Research firm, Gartner, says that the COVID-19 pandemic has amplified the need for supply chain organisations to use Artificial Intelligence (AI ... also an example of Manufacturing 5.0. Universal Robots, a manufacturer of AI-powered robots has deployed ..."
     publishedDateTime: 2022-02-19T04:30:00Z

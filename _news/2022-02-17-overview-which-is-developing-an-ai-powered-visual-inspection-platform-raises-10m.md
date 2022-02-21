@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,36 @@ images:
     width: 1200
     height: 599
     isCached: true
+
+related:
+  - title: "Skael raises $38M for its AI-powered automation platform"
+    excerpt: "San Francisco-based automation startup Skael Inc. today announced that it has closed a $38 million Series A funding round led by RTP Global. Dell Technologies Inc.’s venture capital arm and Bonfire Ventures,"
+    publishedDateTime: 2022-02-21T18:29:00Z
+    webUrl: "https://siliconangle.com/2022/02/21/skael-raises-38m-ai-powered-automation-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Skael.png"
+        width: 1061
+        height: 580
+        isCached: true
+  - title: "U GRO Capital Goes Live on Scienaptic’s AI-Powered Credit Underwriting Platform"
+    excerpt: "U GRO to leverage platform’s Early Warning Predictions Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that U GRO Capital, an Indian listed MSME lending fintech company,"
+    publishedDateTime: 2022-02-21T17:01:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/u-gro-capital-goes-live-scienaptics-ai-powered-credit-underwriting"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 35
+    images:
+      - url: "https://financialit.net/sites/default/files/scienaptic_13.png"
+        width: 2090
+        height: 732
+        isCached: true
 
 secured: "3BxUIGcEgxNb0gy3NpZyQtUcSlwclsXQyyhluR1Y2Mc9DqMXxfGv4V1YQwDJyNRbn8G60a0HPY8kLdYroop2GAVju3NdvOyBO4b7VPI5lpQhOOugh+1a6hUq2WeYyxYY5aZAmoz1bKfU/va2PGZReGypVOmCD0UwasDUApUod0DXrk05yFo+HdruSP7QQ8HBy9F94ff9+zxvmzmAZgcXw3NC7kDcvpYFkBtuU2YtFu3oxc6OSfVkHMcn0YJ5gIqd2VPtHX2Tc5q0+4DSUdMa7RkcGUDT2z0B/Rwg6iZQcPv5pZJLcPlfHctSpmVVyKHlQfWo8RbroCb2ylEPBZOWHxuUU3iVkBHpH1vNs01FuGUm4aae3JUTsVbdq8okVN7lMgmAHUhjoGH5dZKFwzi4mw/vsXUd+W41Rc7ETbwhm+mFxOoX9qPYw50DDHi/znjBMfId1/YnoOcS1XJxqzN7m+UacMk+wm8eI0ZUC0TZEKN/Wmd/lXgqj+XebRLC1um/aOuxCj3k+rENGsv73ZKoWw==;XQlispnJvlVtrfz23beZyw=="
 ---

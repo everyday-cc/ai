@@ -29,7 +29,7 @@ related:
     provider:
       name: The Cipher Brief
       domain: thecipherbrief.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.thecipherbrief.com/wp-content/uploads/2022/02/Cynthia-Strand-310x310.jpg"
         width: 310
