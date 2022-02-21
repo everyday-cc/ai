@@ -54,6 +54,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "BigBasket Acquires AI Startup Agrima Infotech To Power Self Checkout At Physical Stores"
+    excerpt: "Amazon has already launched its self-checkout Amazon Go stores in the US, and the Tatas seem to be collaborating with an Indian startup to bring the concept to India. BigBasket has acquired Kochi-based startup Agrima Infotech,"
+    publishedDateTime: 2022-02-21T15:57:00Z
+    webUrl: "https://officechai.com/startups/bigbasket-acquires-ai-startup-agrima-infotech-to-power-self-checkout-at-physical-stores/"
+    type: article
+    provider:
+      name: officechai.com
+      domain: officechai.com
+    quality: 29
+    images:
+      - url: "https://officechai.com/wp-content/uploads/2022/02/pjimage-2022-02-21T210811.913.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XwFWLyfbUI1f/3LOa/cVLLz7rFKFbntxKS2m1lccqEHYTtih7W5dP1qrkY0cDBssTdn7eiR46suPbPx4Xh4+ly4OJx1bSDn/CB1FgxcolKJO7x0e+AfVNFYlh06jZ7GAXtT45XxOW8ZEcLHpPr6R75giWRWi2Gk9We/Ty9A/wYkEGLM1uT0vzPq5OaqhTDuTkzdsGHvsNgZcMyE82HKWNWUahjclm4OEg5kdUgmiaavg8GH1i1m5shDYGuYhP2X4Yefxq8Ay95E74DuDqUkk3tBfY6bJfLhRvU9cl21k6U5Z+YBVBPa7spL3Q8YQagCtFmOv2eiTE2y81esFywFWzasQ2LmFXfRgi+B7C4XvkJ8=;y9FESdig/2kSvCc+ZTiH9A=="
 ---

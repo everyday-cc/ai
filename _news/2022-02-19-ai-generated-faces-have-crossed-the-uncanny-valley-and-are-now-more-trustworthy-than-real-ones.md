@@ -41,6 +41,22 @@ related:
         width: 1049
         height: 1280
         isCached: true
+  - title: "Research Study Claims AI-Generated Faces Are More Trustworthy Than Real Humans"
+    excerpt: "New research suggests that not only are AI-generated faces indistinguishable from real ones, but are more trustworthy as well"
+    publishedDateTime: 2022-02-21T15:37:00Z
+    webUrl: "https://hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
+    ampWebUrl: "https://amp.hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 53
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57753/content/deep-fake-ai.jpg"
+        width: 708
+        height: 419
+        isCached: true
 
 secured: "OhxFPIvprQRxd4eLieeJW/E/DRk3Nw9aFbBmFZdaD09HaG1zFuiW7JWiUKO9EQfEAeEHzPmj7Nho2Waxc3GzWiPGkqazkdLW3OJzPqVybcb8MDnLsG47ebLNTk7tCcOTpxp5gAiqQK9pKSDDiK2gGORyBIxShxNAaOK4on9sRpff3/CPI1v+gtuD23Lxak5JNuptC4RG7cMLJ+8Sxg1IvAD+VzPWtBwN/jqDAnybzZFtvN8HQ0+CsizeBDk7IT1u9mfsYnKizrH5ili8zapAk69qc8k8IRXVvEL4czx3cIrkMnftEQ2qRQd9lYYvMvMNUUAW/KfuMVWIF0tYXjyyFCuWygIc5ryCZjwGwIG98KpvHJij0+1qdfetUusX5e/+trPejs1M3/W/ogSBJqqjp/i0wToToO2+KQ3/hcaUWyheb14vf5UAIiDbzZL5BDu8NlPXz6/1DwEpFmIeP8qcnIB/NpBM16nwojMNcagf/rYHodHflbM2B+9ug222eiiTawAHzl1z1Knp0C7zW/OS3Q==;ib0eViKAADRmfTqHjh46Gg=="
 ---

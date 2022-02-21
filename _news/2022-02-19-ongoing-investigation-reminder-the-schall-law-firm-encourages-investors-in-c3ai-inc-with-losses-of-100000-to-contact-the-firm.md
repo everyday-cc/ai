@@ -42,15 +42,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "INVESTIGATION ALERT: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm"
-    excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of C3.ai, Inc. (\"C3\" or \"the Company ... the applicable law and rules of ethics."
-    publishedDateTime: 2022-02-16T23:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-investigation-alert-schall-law-firm-encourages-investors-c3ai-/2022/02/16/9547187.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "INVESTIGATION REMINDER: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm"
     excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;"
     publishedDateTime: 2022-02-17T15:53:00Z

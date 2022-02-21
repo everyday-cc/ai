@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/02/21/ai_created_faces_fool_hum
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/21/ai_created_faces_fool_humans/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: theregister
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Research Study Claims AI-Generated Faces Are More Trustworthy Than Real Humans"
+    excerpt: "New research suggests that not only are AI-generated faces indistinguishable from real ones, but are more trustworthy as well"
+    publishedDateTime: 2022-02-21T15:37:00Z
+    webUrl: "https://hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
+    ampWebUrl: "https://amp.hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 53
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57753/content/deep-fake-ai.jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "AI-generated faces have crossed the uncanny valley and are now more trustworthy than real ones"
     excerpt: "As these technologies continue to improve and change what’s possible to do with AI, Nightingale says researchers and companies will have to think seriously about the ethics involved. “If the risks are greater than the benefits of some new technology ..."
     publishedDateTime: 2022-02-19T12:00:00Z

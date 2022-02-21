@@ -116,20 +116,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "DeepMind AI trained to control nuclear fusion"
-    excerpt: "For a few brief seconds last spring, a doughnut-shaped ring in Switzerland heated a bubble of plasma to ten million degrees centigrade. The machine, built to progress the development of nuclear fusion, employed electromagnets to squeeze, shape and sculpt ..."
-    publishedDateTime: 2022-02-17T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepmind-ai-trained-control-nuclear-fusion-982nl0qbk"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F70eb0f6e-8f6c-11ec-9569-fea923928840.jpg?crop=6048%2C3402%2C0%2C315&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind’s latest AI to control nuclear fusion"
     excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
     publishedDateTime: 2022-02-17T08:01:00Z

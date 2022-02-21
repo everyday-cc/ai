@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Midea Reveals Next-Gen S8+ Robot Vacuum Cleaner to Refresh Homes this Winter'"
-excerpt: "Midea Robozone Technology has announced the launch of the Midea S8+ intelligent auto-dust-collection robot, which liberates users' hands for up to 30 days with its automatic dust collection station. Midea Robozone Technology is a subsidiary of Midea Group (000333."
-publishedDateTime: 2022-02-21T14:41:00Z
-originalUrl: "https://menafn.com/1103735145/Midea-Reveals-Next-Gen-S8-Robot-Vacuum-Cleaner-to-Refresh-Homes-this-Winter"
-webUrl: "https://menafn.com/1103735145/Midea-Reveals-Next-Gen-S8-Robot-Vacuum-Cleaner-to-Refresh-Homes-this-Winter"
+title: "Midea Reveals Next-Gen S8+ Robot Vacuum Cleaner to Refresh Homes this Winter"
+excerpt: "Midea Robozone Technology has announced the launch of the Midea S8+ intelligent auto-dust-collection robot, which liberates"
+publishedDateTime: 2022-02-21T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25734827/midea-reveals-next-gen-s8-robot-vacuum-cleaner-to-refresh-homes-this-winter"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/n25734827/midea-reveals-next-gen-s8-robot-vacuum-cleaner-to-refresh-homes-this-winter"
+ampWebUrl: "https://www.benzinga.com/amp/content/25734827"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25734827"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
-    width: 375
-    height: 250
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "IAIrJ/x/JSXoNG4cuk78q4UIF27SXwLhI+31N4/qxcf2rCmrm0H4QuhQVHQ+7dARIynpxhm0u8P0ZFVMHfDvN2Q2PH6FfepPpIQiwFjnOJaG1YW7nLBwhmWeBnPVdeMRBSYgdOSy7BwRiJ4wgHbqU//CZ/j5DNSIJAzWyPAt4mRpIIjaHf0I+WTtK391f1gE7WP4lGeZC0HdHI+fK8FFNomVQMj0bzVE+1qSUz2uHyZZzJLlb9in9HHvIVes4kfS2qUooTHjxivwrqv+Dhj2y7hp2cE/cD2oxUIuj/vrEpI0E+Mv1T0hF9mfdbLvsjoY2BLDiTQcCC8blcvvjKKkA65ZFgKZwqPxkmM2+Fq2OFE=;mK5xKdlq3ciLxW5ezd28jw=="
+secured: "DIu+DDh1hJ5bxjDKUTbOroDFHVRs7VxWtDEBhVyjyRFiarwYDwbq6nTsSytyVuLs42IMUObF3GRKDOGsyjuS+uE3obhb2SGDgoySvoK5AjTFJsGgWCy2MEFbXE5Vo3SObCvbNjER415Zt9vCOsiUNsXlsBl0xiqyoujYgWK/dBqhtksOoCpz+tTgvS20YsLCtdP6i1//7Wt8Hp/U2VmPedcScUl3k2N3q5cj2JP5c1K8L50JuVdlT1UU7Ts1vHl8mQGCFLs1/1XJ5T5pvcSzpMx8pVtEc8UsgSFb0urg2PlLTsaVZDrzpUbBkLaTtf11RQulX5mVQ6ofyruoaN0TCtn47A28ysltBX1GF4vrdBI=;jQGu89vsPgUgS4BFTDU77g=="
 ---
 
