@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AiDash Acquires Geospatial Firm Neurafarms.ai At An Undisclosed Amount"
+    excerpt: "It has not been easy for students... AiDash on Monday announced the acquisition of geospatial and AI (Artificial Intelligence) powered farming solutions provider Neurafarms.ai. With the acquisition of Neurafarms.ai, AiDash strengthens its product line and ..."
+    publishedDateTime: 2022-02-21T10:00:00Z
+    webUrl: "https://www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353"
+    ampWebUrl: "https://www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645436570.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AiDash Acquires Business and Assets of GeoAI Startup, Neurafarms.ai"
     excerpt: "Bhavesh Patidar, Neurafarms.ai co-founder and leader of the start-up’s data science innovations, will join the AiDash team, with a focus on strengthening AiDash’s Disaster and Disruptions Management System (DDMS), which helps industries better manage ..."
     publishedDateTime: 2022-02-21T05:01:00Z

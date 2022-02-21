@@ -9,7 +9,7 @@ ampWebUrl: "https://www.industryleadersmagazine.com/inside-intels-bold-chip-maki
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -70,6 +70,6 @@ related:
         height: 568
         isCached: true
 
-secured: "MxXPjhdDMK4aDuzct5+FGYh3iaEW44fi25IyoC11bwN0OHMH/lf09hQiXV8NOBa48spTtIdhnGt2iWAk0+INwzQUNtb+hq7a0oJFL21fq/gnZnH+OeRqEop/MDkk9bON/l70Q1IyUMmx9PREkO2TOCBHVKkA1hO+m8k2JJF3JV1YorNzmHYB6G5S/sFqe03j0Db1VNceCUTGmfMQAfvJwi7nevhd14tuhqQNtjHZrie6rq7Y9yt0553wxxIgGEfpfNJMgQ1F98fJogrFkmxBnEvfhZmw5lgpeANOLLhdIgBQ6s42JCWn8ks36SXVN37G2eI/dW/oOF1VBTRHAMJrpPgvKMat2sPHyYGG4+WpTKw=;+RzY+LyO8XyMP+YD2lJ6yA=="
+secured: "wwrVlWdqCiqjsfMt920uWzNHVKefoKK7TSf06ogI8qZV204HrQFaokVWiJemKJuziuPXmO4sRSQnGcIIO3kBKglY4pbx8KGLuVn+6QsEBWmhUZL1xB3M89FSQGiUDaC4QZedEynM/zhmj13uSvcDqvVs8nI2OZq8UR3xB9JA+DIokSVi3KZ5bcYHUJqMiJenZMjjU2SMsJdg+nMWBZRVzhdMH7gRE9KGXJG1RDI2pfUQzPJYJwW+SlE99RJ45cm1suU//X7OFiLtBC42Z+kBfwyvL6BSwtLbjDzUBWZIAaxlahKOFlgxrI/CYW8mobMalRMPOXPOL4fXrqLNj7iHBo7Gju6TcnZMYnSag7iDCRq/jqZwTHb73e4ykdIMqcfMqN8Qtipmln5osASHs1DCFLAkfy6BKihAD746C++Z7smr7Jmic/tp2ZS15EVqWc1W+sgKRk28VGwW9PT6VOhRo8jYnJSkZICoVBVpXwJvO8UnGltk2VwuO08aDaGMlnWddEI0AJ7VERD3LMGVXb3ImA==;j5BrtjOne3iHFbzsVBCqQw=="
 ---
 

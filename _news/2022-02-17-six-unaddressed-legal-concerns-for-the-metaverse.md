@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/amp/"
 type: article
 quality: 172
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 809
     isCached: true
+
+related:
+  - title: "The Metaverse is going to be Built by Meta’s AI Supercomputer to ‘Pave the Way’"
+    excerpt: "Titan social media firm Meta (previously Facebook) has revealed its plans to construct a powerful AI supercomputer, called the AI Research SuperCluster (RSC)"
+    publishedDateTime: 2022-02-21T10:14:00Z
+    webUrl: "https://www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/"
+    ampWebUrl: "https://www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-dmcnews-org.cdn.ampproject.org/c/s/www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/amp/"
+    type: article
+    provider:
+      name: dmcnews
+      domain: dmcnews.org
+    quality: 55
+    images:
+      - url: "https://www.dmcnews.org/wp-content/uploads/2022/02/1643842802_adobestock-ink-drop-1-1.jpg.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QLvGhtIFfU/A6SmYOqosFl8K7cqYTsAiSASPpehTbNPCs2G4T5Y5u6aXaGPNpSVG/gXyH3bkVNj5qusOOVJKVlezGDLSKIWEpaRjdghbygDBTLC2MUV++B/+Fm/CPEcFeO3OrbdNY7r5EpQnYHovn2I73C4Wq3MxTv/OnyUf518QICebm4cCWwzCcgcP/MwUBEYBgYMgIikNm12iVZ/dmuzRZSLjnhNYqPgqvjWNvCxsxIkGdCrsT//91BJY5dDQbLC+oAr7hbqkFtFHRmEyiwwqKHfqCo1XwIkOOX+aRe5QZ/JyfJPOw2FswSFTjPhVLM7ETGd/L2VrpXz24Uu5gEyNo2hQUDiUS965hVWXlUQ=;HSo/gAAxhrsBNGvnqiT2hA=="
 ---

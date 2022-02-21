@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2022/02/aidash-acquires-business-and-as
 webUrl: "https://www.indianweb2.com/2022/02/aidash-acquires-business-and-assets-of.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AiDash Acquires Geospatial Firm Neurafarms.ai At An Undisclosed Amount"
+    excerpt: "It has not been easy for students... AiDash on Monday announced the acquisition of geospatial and AI (Artificial Intelligence) powered farming solutions provider Neurafarms.ai. With the acquisition of Neurafarms.ai, AiDash strengthens its product line and ..."
+    publishedDateTime: 2022-02-21T10:00:00Z
+    webUrl: "https://www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353"
+    ampWebUrl: "https://www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645436570.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AiDash acquires farming solutions company Neurafarms.ai"
     excerpt: "The acquisition will help AiDash strengthen its product line and add valuable talent to its high-performing team."
     publishedDateTime: 2022-02-21T07:18:00Z

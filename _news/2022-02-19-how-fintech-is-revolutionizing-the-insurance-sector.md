@@ -71,20 +71,6 @@ related:
         width: 1280
         height: 1133
         isCached: true
-  - title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
-    excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
-    publishedDateTime: 2022-02-16T17:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/419011"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 40
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419011.jpeg"
-        width: 2560
-        height: 2048
-        isCached: true
   - title: "Mexican Fintech delt.ai Raises US$25 Million in Cryptocurrencies"
     excerpt: "Don't worry, we speak : Español (Spanish), too! The corporate credit and expense management company delt.ai announced that it raised US$25 million in debt. It did this through TrueFi, which is a DeFi lending platform designed by TrustToken. It is worth ..."
     publishedDateTime: 2022-02-16T19:13:00Z
@@ -107,7 +93,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
         width: 2240
@@ -140,6 +126,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGFf2tmx-5tjg/article-cover_image-shrink_720_1280/0/1645246397557?e=1651104000&v=beta&t=n5lS1bgSzqhA4DDLPqUBm0TZK1BHjOKoK2-MRA-6yUE"
         width: 1280
         height: 719
+        isCached: true
+  - title: "4 ways fintech can halt environmental degradation"
+    excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"
+    publishedDateTime: 2022-02-21T09:11:00Z
+    webUrl: "https://www.finextra.com/the-long-read/348/4-ways-fintech-can-halt-environmental-degradation"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/348.png"
+        width: 800
+        height: 449
         isCached: true
   - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
     excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Fujitsu Delivers New Resource Toolkit to Offer Guidance on Ethical Impact of AI Systems"
-excerpt: "Fujitsu Delivers New Resource Toolkit to Offer Guidance on Ethical Impact of AI Systems <br/>   <br/> <br/>TOKYO, Feb 21, 2022 - (JC"
-publishedDateTime: 2022-02-21T08:55:00Z
-originalUrl: "https://menafn.com/1103732567/Fujitsu-Delivers-New-Resource-Toolkit-to-Offer-Guidance-on-Ethical-Impact-of-AI-Systems&source=29"
-webUrl: "https://menafn.com/1103732567/Fujitsu-Delivers-New-Resource-Toolkit-to-Offer-Guidance-on-Ethical-Impact-of-AI-Systems&source=29"
+excerpt: "... toolkit offering developers guidance for evaluating the ethical impact and risks of AI systems based on international AI ethics guidelines. Fujitsu will offer these resources free of charge starting from February 21, 2022 to promote the safe and ..."
+publishedDateTime: 2022-02-21T01:29:00Z
+originalUrl: "https://www.asiaone.com/business/fujitsu-delivers-new-resource-toolkit-offer-guidance-ethical-impact-ai-systems"
+webUrl: "https://www.asiaone.com/business/fujitsu-delivers-new-resource-toolkit-offer-guidance-ethical-impact-ai-systems"
+ampWebUrl: "https://www.asiaone.com/business/fujitsu-delivers-new-resource-toolkit-offer-guidance-ethical-impact-ai-systems?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/fujitsu-delivers-new-resource-toolkit-offer-guidance-ethical-impact-ai-systems?amp"
 type: article
-quality: 46
-heat: 46
+quality: 66
+heat: 66
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-02/20/JN_fbee476d-e_Image_In_Body.jpg"
-    width: 650
-    height: 305
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/asiaone_default.jpg?itok=A5Fa_FlE"
+    width: 763
+    height: 509
     isCached: true
 
-secured: "utZ23/dnNBewFbJEphmARqDpRXbp9prGfxGjQ2A8Rmx/V4Vbpd+o3Un4ZBN4RHDaGqdSjFj1L6Ap8K3mxftOjWFFOp9GpP0l1bcN5uEclwlRpqRq1h1pWbzlK5mkgLwWtyjeGo2+QQtS1RYFk3YoRpDEKsQj45oIo7xbpkpwFth+UkHp7Joxv0hbyYvWNbmT/ND7xeBPKWsnKu8Id+8cEgTpnJoh9TLnmSdfKL2ppmeoEmZ4C/FGJQBF5/1J4RR5D1vqmRqvXtlAoXagQSuKGeYJG1mpCNvSf6Hf96yLqZ6BiiX44tp/oQVwTeP50czPWoad8XA9RymJKBvcfo+8HOwIRsbHcHly1hLuKhlWGiQ=;ngRtPosoOs5Y031gp4ThLQ=="
+secured: "5i+LFm6YywPH2vgpbgPVoH0OT/OmtbRIE84S5HyMOrYMZtqD3pVg9BST9JwyGhCj4vLLs8sbiE/GcAlCDSm24DgOrb5d1E8O76HNzzcoRg9yroEYkYlLNhkiw8YZwbrenXKa+6i+f408+GSeEaA0CAq8ypY4qGnLhaVwZ/j+WxetAH/5LONViif2d+Lblo0OHucSzrViDGbk+NkYmYdjeFtSSdcCL91e2z/baAjpoyYFrTIk5y65+5fBV1JKl26yu2o3KhktJbXza1cBDJKEcblWx7ATFDIQrVAHkHG5fULZTvwf1hx8mWehttM5Kkhy6W6XaWVsEGa2G/Gf4N2ekpIWmOfLulAHH7qAB5nGMp4=;726z7/u6/a9M46aN1QQrqA=="
 ---
 

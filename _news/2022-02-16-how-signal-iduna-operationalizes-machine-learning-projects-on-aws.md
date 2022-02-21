@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-ope
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:

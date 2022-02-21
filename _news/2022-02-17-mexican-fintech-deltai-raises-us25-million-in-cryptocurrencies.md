@@ -71,20 +71,6 @@ related:
         width: 1280
         height: 1133
         isCached: true
-  - title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
-    excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
-    publishedDateTime: 2022-02-16T17:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/419011"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 40
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419011.jpeg"
-        width: 2560
-        height: 2048
-        isCached: true
   - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
     excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
     publishedDateTime: 2022-02-21T07:52:00Z
@@ -93,7 +79,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
         width: 2240
@@ -140,6 +126,20 @@ related:
       - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
         width: 1280
         height: 905
+        isCached: true
+  - title: "4 ways fintech can halt environmental degradation"
+    excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"
+    publishedDateTime: 2022-02-21T09:11:00Z
+    webUrl: "https://www.finextra.com/the-long-read/348/4-ways-fintech-can-halt-environmental-degradation"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/348.png"
+        width: 800
+        height: 449
         isCached: true
   - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
     excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
