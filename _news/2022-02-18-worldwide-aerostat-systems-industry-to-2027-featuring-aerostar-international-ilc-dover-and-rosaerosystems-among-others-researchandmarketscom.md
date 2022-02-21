@@ -164,6 +164,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global and China Automotive Cockpit SoC Industry Report, 2022 - Local Chip Vendors Will Rule the Roost in the 10-Billion-Yuan Market"
+    excerpt: "The \"Global and China Automotive Cockpit SoC Technology and Application Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-02-21T19:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-and-china-automotive-cockpit-soc-industry-report-2022---local-chip-vendors-will/article_57cd093a-6a32-5ff7-a23f-8021b5419421.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "AESZz34jjxiuN8lzNLMCOzGfLpAwZW38AZU8DDPSqzQX/ZPSY8qSdX4L5qaEC5WKCyd3NC08W8zQANdi7dquPaFCl1j9I/NB4Q6x7/YZLCEHeGVCqh3UxdePL/0ugXhxfXA3TwnsM6dhnV3vkzCHH9A/nZg+UnyarRTR6lIUs9FU+zPcTRe4sohjS2nXh3GZn0kAxHbLW28Il+wBkex8wLUdIfsAXqhj9sXHhnH5PPyBJgQ/es0SFvnqQ7ujhQWNHWZII59qUP1A/9ow5Emnyz4j38WrXzlSSq/2a1DvZigYYs4vxE2uLrP5l1aDwPueh5e7hBT4CSNFLwPY7EdomJH6+OSKyqIF5qsH0qcW5UE=;r6FjizdFYFOjMZ77Cmd7TA=="
 ---

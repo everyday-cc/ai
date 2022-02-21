@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "GM seeks U.S approval to deploy self-driving vehicles"
-    excerpt: "FILE PHOTO: The new GM logo is seen on the facade of the General Motors headquarters in Detroit, Michigan, U.S., March 16, 2021. Picture taken March 16, 2021. REUTERS/Rebecca Cook/File Photo NEW YORK (Reuters) -A gauge of global stocks fell and government ..."
+    excerpt: "WASHINGTON, Feb 18 (Reuters) - General Motors Co (GM.N) and its self-driving technology unit Cruise have petitioned U.S. regulators for permission to build and deploy a self-driving vehicle without human controls like steering wheels or brake pedals ..."
     publishedDateTime: 2022-02-18T20:56:00Z
-    webUrl: "https://www.reuters.com/news/picture/gm-seeks-us-approval-to-deploy-self-driv-idUSKBN2KN261"
+    webUrl: "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 54
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220218&t=2&i=1591639549&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI1H10H"
-        width: 810
-        height: 550
+      - url: "https://www.reuters.com/resizer/FsE-kcUYSmJ27scAV9t6fzlptcM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G6UH5UE27JISPBGFO6JPAO5XP4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Cruise, GM seek NHTSA approval for commercial use of self-driving shuttle"
     excerpt: "General Motors Co. and Cruise LLC, the autonomous vehicle company it has a majority stake in, have filed an application with the National Highway Traffic Safety Administration to build and commercially deploy a self-driving shuttle. Rob Grant ..."

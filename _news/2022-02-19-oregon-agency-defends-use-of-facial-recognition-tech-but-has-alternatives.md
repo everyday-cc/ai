@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ITIF, former DHS exec push back on criticisms of facial recognition use by US agency"
+    excerpt: "The IRS should have taken a more measured response to the controversy around its use of identity verification company ID.me, the ITIF suggests."
+    publishedDateTime: 2022-02-21T20:20:00Z
+    webUrl: "https://www.biometricupdate.com/202202/itif-former-dhs-exec-push-back-on-criticisms-of-facial-recognition-use-by-us-agency"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
+        isCached: true
 
 secured: "ontYU2WdYAklWAKLZUu+EG/TnXa7suKsuS1FPtOgeKK5RfepevpSt7aQlNNL2n4RQEufRn7hjy1HOVh9G9pVbjeMApm3DaLW1dwk2uKDT6vr1czNlEICfcMkO/eRA1n85uBCwh00peTXPWpJaZEf+BlViq1Pd3D1i67eWwxByCv5xokHblOTCwM8TCpPkHmticTtOToKCFjXCXOk3byLQLM6iliQmwyI0GyzS89K2WNvrmW/oISNUPgR3yVKWVIZYg7og0JU+Ld+Dh/mpgaRQ7KrLoyQvnM2OToRLcVGyFKfM5qVWzYrAA2KKuLYpr+5TTjoPR0L9fMSE4a8wRfp4ikoTH+EfRgq9B8o6Qy2sTPZuX0zFiexCNYLatoOhJAUlRH65hScEJzHMcu34sHt+ffI6t8K1j1WhrJM3UoihqtYto5TUb/pLH/gBfqQRVzJu2nV/qQo0LJWpbfP667rGq6pvxqZg042zkSiAHwq93xbUgNasdwg0HL+p0qD3vqKuWW7hR5rkA/83HrVrXhhQw==;8NI4Lm1XypUfZnDl3RpqVg=="
 ---

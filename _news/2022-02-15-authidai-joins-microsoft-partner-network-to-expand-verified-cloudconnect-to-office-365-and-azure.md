@@ -1,26 +1,26 @@
 ---
 category: news
-title: "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure"
-excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
-publishedDateTime: 2022-02-15T12:12:00Z
-originalUrl: "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure"
-webUrl: "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure"
+title: "authID.ai Joins Microsoft Partner Network to Expand Verified™ CloudConnect™ to Office 365 and Azure"
+excerpt: "“authID.ai is committed to delivering intuitive ... we are excited that our new biometric integration with the Microsoft Office 365 and Azure platform will protect the data and IP of an even larger cohort of enterprises and professionals across the ..."
+publishedDateTime: 2022-02-15T12:00:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html"
+webUrl: "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "NZsYcO57gnNZPwNL+bnpAX5j/D2cY/VR6OtIZ5vH5yBYbGCDoQw1ZfQKdKFbDU+oE6SsKUSrL2PZDp2lDs9FNoPQCIqu5dQ2l4BMWBOO0HF0YHqyGZIM83ycXvLdP9IVfqRAZE7k+HoxqIL0BZHjhEr/zrwRXNHonujm2bnMmNs+RPhMPU1PP7cjwJ2fgRVj06tEb9EpcQZuRimw8eIPye51wNSLu1pjZUrzHJreQo7ESqW91Gemj/b9eXAG8Q7L+sC5Bfv6vzkKEmhvmWpVW3eyrb4Uxff6ZT7t+rqECZuozGOZOL1Zuw8k4Wm+wYaVnvbmy8KzjbIX+rwBiP+8VDErlzK00aj59X1jSAvCyQw=;lGowMReXxA+WKzLuqweXZQ=="
+secured: "UEi2EQyCY/8ZLXUusU7wgX+0/Zf6hDs+ympudYcmqpKFsnO/vWepw6tN905pjn9zA7uuaCRRAh2br6vz2nHXV+1h6+9wWlfi6RpaQztRKA6mgmhNXLFAgbPgIBUKpRWR8rz52+YFS1wT2adPQlGPIR7WS2Am/v0Qp+0LtPn85GmUgXNU49C3qUe+nmCTI4YjyNWUA2ornaQuJDR9txLNilDgyTIBJViMdJtBKHs4bB6IutKPyz4w7+4+/kfJWnfBDHPvdy4bCYIqOmIGxp/8+niUFtawGyCxhmUShDHTBCE3dUVXg+x4cQ5SkH9GjdZzo/+BLhtar9IG+BtYXUfZ7N16LQkL2fjl1IaogzMG4Q4=;+AUNA3U3RGSnR7JawpAf4A=="
 ---
 

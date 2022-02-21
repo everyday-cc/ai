@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2022/feb/21/ukraine-putin-decide-r
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,52 @@ images:
     height: 372
     isCached: true
 
-secured: "SahAeW23MXEYux/P5SB+xP9jLGmOKhUwot3bH/Abw6FS/UKrSN7bjgaxCUa1rrFhkXihhAu5DY5tDzff6GON0h295roKHL3r/L5nedlq7RuG6vkVro9qG/j7go/gSMeWsdODlVpJKxsE9ryNeOg/uQibiec22szlYtYGsPIAwWgu8l73GIUCQWEZAlqD2JumBU6K9DnX0oh92M+cXxlL5WcxarmD9uZruXogelY3NJEI1+9qaYGoUe56sRy2kb0a90cbpEgkYuOP0qyVwJc2QTqEhlllo2ExD6hD6IuA8pZy7Eqf8jGs+kqV2RztuILVO86YizXgO1iDvG7Mx0hLDrSCGKD+TBjbBCp4H+1UoSo=;DPTatNPyA6YeviNzDjYYkg=="
+related:
+  - title: "Extracts from Putin's speech on Ukraine"
+    excerpt: "ON UKRAINE MEMBERSHIP OF NATO \"If Ukraine was to join NATO it would serve as a direct threat to the security of Russia.\" ON ORIGINS OF MODERN UKRAINE \"Modern Ukraine was entirely"
+    publishedDateTime: 2022-02-21T19:05:00Z
+    webUrl: "https://www.reuters.com/world/europe/extracts-putins-speech-ukraine-2022-02-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/yiwNA1R5hvYrBbD2A09mEoNOOxY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LURFW45LDNJ23DXNHWGN2BCXSQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
+    excerpt: "Ukraine seeks an emergency meeting of the U.N. Security Council. Boris Johnson warns that Russia is planning the biggest war in Europe since 1945. Belarus says Russian troops might not leave unless NATO pulls back from Eastern Europe."
+    publishedDateTime: 2022-02-21T15:04:00Z
+    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-biden01/21ukraine-briefing-biden01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "European leaders condemn Putin’s recognition of Ukraine breakaway regions"
+    excerpt: "Vladimir Putin has recognised two breakaway regions of Ukraine as independent states - laying the groundwork for an invasion."
+    publishedDateTime: 2022-02-21T19:49:00Z
+    webUrl: "https://www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/"
+    ampWebUrl: "https://www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 58
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "D1rFtGClSOeCraPznUIcyxXz06XewcyDlkZ5Txnh4d7UMQn/g37CCZXH2zctrzemavCad4Jnmf8P5ATmBLgqr/lat5xclEYaVaLF7bQAPwI/0Yl5ItFtiQnk1FnZuxJmNCBG/vY5UmxlzpAQyEZuRvfYurpyDVnRyPSsaBMZuCrMSP6qVUi0JS1eHGqGm6jg6ae6LUXUQFDZoonuuXxJgAS77TI0cqy6k0UZ78tdsvDks0+g79RHPEBNeQqYMECSUj/zWcUOCSxKr8/lBDBA7GcuZKlgOvVD5If0P5o1AMiAF+wG4I75Z0shdqBnLWTH88fWOLKVS9SBKzBPItie1QMT9AyKYl7h8HT/2+bKPsxiRrbAMktO/lGuVaCziYveMbXc4Z4TDkH69X0yUgXHlo0sODw1alSFxY0hPTt1tqmn/z2WkAlrmd+OWfxcfj6WpfVKVTzudOUOs3Nai+vX1CAo5YYY3zV6WnGPwYRTqlGSYADGc5TrWAoL4BMQYD8R/STtUTaEJVUnka0RXpXQ0A==;ujKlSSMLHL9W7cRtaMDz3Q=="
 ---
 

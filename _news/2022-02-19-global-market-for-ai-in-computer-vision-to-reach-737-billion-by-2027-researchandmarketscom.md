@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
 type: article
 quality: 62
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global and China Automotive Cockpit SoC Industry Report, 2022 - Local Chip Vendors Will Rule the Roost in the 10-Billion-Yuan Market"
+    excerpt: "The \"Global and China Automotive Cockpit SoC Technology and Application Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-02-21T19:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-and-china-automotive-cockpit-soc-industry-report-2022---local-chip-vendors-will/article_57cd093a-6a32-5ff7-a23f-8021b5419421.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Worldwide Aerostat Systems Industry to 2027 - Featuring Aerostar International, ILC Dover and RosAeroSystems Among Others - ResearchAndMarkets.com"
     excerpt: "There are numerous organizations which have started employing intelligent video surveillance systems owing to several advantages offered by them, such as object recognition and video analytics. Other than this, the demand for high-quality aerostat systems ..."
