@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-most-important-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/19/61111ce7-bb40-4305-8a2e-06f8f2429d67/thumbnail/1200x630/0fee59aa87c06d787ded76c0cfacb6aa/0219-cbssatmo-selfdriving-900159-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Apple’s patented sunroof hints self-driving car project still a go"
-    excerpt: "Apple’s intention to enter the automotive market has been floating for several years. The tech company reportedly plans to unveil its self-driving electric car in 2025 but there are no concrete details in regards to its endeavor as of yet. Apple's self ..."
-    publishedDateTime: 2022-02-16T08:04:00Z
-    webUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184"
-    ampWebUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 44
-    images:
-      - url: "https://img.philkotse.com/2022/02/16/O3IWXvly/untitled-design-66d0_wm.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "What's the status of self-driving cars? There has been incremental progress, but safety questions remain."
     excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."

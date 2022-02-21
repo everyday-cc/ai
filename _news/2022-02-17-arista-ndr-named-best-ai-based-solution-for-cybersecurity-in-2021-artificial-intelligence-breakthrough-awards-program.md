@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 661
         isCached: true
+  - title: "The Key Artificial Intelligence and Machine Learning Trends for 2022"
+    excerpt: "This allows artificial intelligence to complete numerous tasks that would otherwise have been too challenging, giving it new applications in finance, chemistry, and healthcare. Another key AI trend we expect to see is the continued rollout of natural ..."
+    publishedDateTime: 2022-02-21T00:24:00Z
+    webUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/"
+    ampWebUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/Depositphotos_10142532_S.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Upcoming AI Tech for 2022"
     excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
     publishedDateTime: 2022-02-20T17:40:00Z

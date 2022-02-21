@@ -57,20 +57,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "SK Hynix develops PIM, next-gen AI accelerator"
-    excerpt: "SK Hynix has developed processing-in-memory (PIM), a next-generation memory chip with computing capabilities, according to the company. PIM provides a solution for data congestion issues for AI ..."
-    publishedDateTime: 2022-02-16T07:02:00Z
-    webUrl: "https://digitimes.com/news/a20220216VL203.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://digitimes.com/newsshow/20220216VL203_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "SK hynix GDDR6-AiM: next-gen memory with computing abilities for AI"
     excerpt: "GDDR6-AiM does things differently by adding computational functions to the GDDR6 memory chips, where GDDR6-AiM and a CPU or GPU -- instead of regular DRAM -- will speed up computational speed by up to 16x. SK hynix is aiming its new GDDR6-AiM memory for ..."
     publishedDateTime: 2022-02-17T01:14:00Z

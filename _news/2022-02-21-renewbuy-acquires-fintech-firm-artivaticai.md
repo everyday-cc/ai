@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
+    excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
+    publishedDateTime: 2022-02-20T23:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/02/Canada-Flag-Ontario-Toronto.jpg"
+        width: 1280
+        height: 1133
+        isCached: true
   - title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
     excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
     publishedDateTime: 2022-02-16T17:02:00Z

@@ -43,20 +43,6 @@ related:
         width: 706
         height: 470
         isCached: true
-  - title: "SK Hynix develops PIM, next-gen AI accelerator"
-    excerpt: "SK Hynix has developed processing-in-memory (PIM), a next-generation memory chip with computing capabilities, according to the company. PIM provides a solution for data congestion issues for AI ..."
-    publishedDateTime: 2022-02-16T07:02:00Z
-    webUrl: "https://digitimes.com/news/a20220216VL203.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://digitimes.com/newsshow/20220216VL203_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "SK hynix’s memory chips 16 times faster, 80% more efficient"
     excerpt: "South Korean chipmaker SK hynix on February 16 introduced a next-generation memory chip that processes data 16 times faster and consumes 80 per cent less electricity."
     publishedDateTime: 2022-02-17T14:07:00Z

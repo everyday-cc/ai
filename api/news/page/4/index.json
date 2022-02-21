@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-16-app-annie-becomes-dataai-to-be-the-unified-data-standard.md",
+      "title": "App Annie becomes Data.ai to be the ‘unified data standard’",
+      "excerpt": "Register here. Mobile data and analytics platform App Annie has rebranded as Data.ai, as the company repositions itself as the “unified data standard” to capitalize on what it calls a “big ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
+      "originalUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1225870864-e1645017623537.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
+      "publishedDateTime": "2022-02-16T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-ibm-acquires-microsoft-azure-consultancy-firm-neudesic.md",
       "title": "IBM acquires Microsoft Azure consultancy firm Neudesic",
       "excerpt": "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -523,10 +574,10 @@
     {
       "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
       "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
-      "excerpt": "SK hynix (or \"the Company\",  announced on February 16 that it has developed PIM*, a next-generation memory chip with computing capabilities. *PIM(Processing In Memory): A next-generation technology that provides a solution for data congestion issues for AI and big data by adding computational functions to semiconductor memory It has been generally accepted that memory chips store data and CPU or GPU,",
+      "excerpt": "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -548,18 +599,9 @@
       "publishedDateTime": "2022-02-15T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -856,49 +898,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
-      "title": "Machine Learning Becomes a Mathematical Collaborator",
-      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "originalUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
       "title": "LivePerson put more personality (and AI) into next-gen bots",
       "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
@@ -1031,6 +1030,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
+      "title": "Machine Learning Becomes a Mathematical Collaborator",
+      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "originalUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quanta Magazine",
+        "domain": "quantamagazine.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1186,49 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure.md",
-      "title": "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure",
-      "excerpt": "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure",
-      "originalUrl": "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

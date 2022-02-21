@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-m
 webUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech"
 type: article
 quality: 80
-heat: 103
+heat: 100
 published: true
 
 provider:

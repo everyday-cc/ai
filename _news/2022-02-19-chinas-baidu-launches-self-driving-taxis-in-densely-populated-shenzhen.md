@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-dens
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "China’s Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen"
+    excerpt: "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China."
+    publishedDateTime: 2022-02-18T13:31:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/18/3a3f19bdef62d31e313b4ac74f3f28d7.gif?ar=16%3A9&fit=crop&q=65&w=1200&fm=jpg&frame=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Dubai is cruising into self-driving mode for its taxis"
     excerpt: "Dubai to become the first city outside of the US to operate self-driving vehicles for its taxis and provide electronic reservation services."

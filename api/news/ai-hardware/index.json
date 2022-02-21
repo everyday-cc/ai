@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-21-chinas-driverless-dreams-troubled-by-us-chip-dependency.md",
+      "title": "China’s driverless dreams troubled by US chip dependency",
+      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3d7ee15-7663-4701-8bde-d6019e7d4297.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "publishedDateTime": "2022-02-20T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems.md",
       "title": "AI’s true purpose is freeing up humans to find the biggest problems",
       "excerpt": "We start with a reasonable intuition (abduction ... Take chess and go, two board games that have received much attention from the AI community in the past decades. Chess was once called the ...",
@@ -64,7 +108,7 @@
       "originalUrl": "https://scitechdaily.com/hiddenite-a-new-ai-processor-based-on-a-cutting-edge-neural-network-theory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -108,7 +152,7 @@
       "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -153,7 +197,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -206,7 +250,7 @@
       "originalUrl": "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -258,7 +302,7 @@
       "originalUrl": "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -407,7 +451,7 @@
       "originalUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -541,10 +585,10 @@
     {
       "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
       "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
-      "excerpt": "SK hynix (or \"the Company\",  announced on February 16 that it has developed PIM*, a next-generation memory chip with computing capabilities. *PIM(Processing In Memory): A next-generation technology that provides a solution for data congestion issues for AI and big data by adding computational functions to semiconductor memory It has been generally accepted that memory chips store data and CPU or GPU,",
+      "excerpt": "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -566,18 +610,9 @@
       "publishedDateTime": "2022-02-15T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1356,49 +1391,6 @@
       "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
       "publishedDateTime": "2022-02-07T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-alphaics-sampling-gluon-chip-for-edge-ai.md",
-      "title": "AlphaICs sampling Gluon chip for edge AI",
-      "excerpt": "Register here. Start-up AlphaICs yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaICs claims the chip delivers competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "publishedDateTime": "2022-02-07T09:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

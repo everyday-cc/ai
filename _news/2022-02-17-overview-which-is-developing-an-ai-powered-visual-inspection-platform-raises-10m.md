@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 599
     isCached: true
-
-related:
-  - title: "AI-powered platform improves construction-site accuracy"
-    excerpt: "What’s an earnest contractor to do? Tel Aviv-based startup SiteAware, which just raised a $15 million Series B financing round, offers an AI-powered Digital Construction Verification (DCV) platform that creates a “digital twin” of a building under ..."
-    publishedDateTime: 2022-02-16T07:56:00Z
-    webUrl: "https://www.israel21c.org/ai-powered-platform-improves-construction-site-accuracy/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2022/01/scott-blake-unsplash.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "3BxUIGcEgxNb0gy3NpZyQtUcSlwclsXQyyhluR1Y2Mc9DqMXxfGv4V1YQwDJyNRbn8G60a0HPY8kLdYroop2GAVju3NdvOyBO4b7VPI5lpQhOOugh+1a6hUq2WeYyxYY5aZAmoz1bKfU/va2PGZReGypVOmCD0UwasDUApUod0DXrk05yFo+HdruSP7QQ8HBy9F94ff9+zxvmzmAZgcXw3NC7kDcvpYFkBtuU2YtFu3oxc6OSfVkHMcn0YJ5gIqd2VPtHX2Tc5q0+4DSUdMa7RkcGUDT2z0B/Rwg6iZQcPv5pZJLcPlfHctSpmVVyKHlQfWo8RbroCb2ylEPBZOWHxuUU3iVkBHpH1vNs01FuGUm4aae3JUTsVbdq8okVN7lMgmAHUhjoGH5dZKFwzi4mw/vsXUd+W41Rc7ETbwhm+mFxOoX9qPYw50DDHi/znjBMfId1/YnoOcS1XJxqzN7m+UacMk+wm8eI0ZUC0TZEKN/Wmd/lXgqj+XebRLC1um/aOuxCj3k+rENGsv73ZKoWw==;XQlispnJvlVtrfz23beZyw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-int
 webUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:

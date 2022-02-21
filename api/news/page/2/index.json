@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-18-hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry.md",
+      "title": "Hisense Breakthrough in 8K AI Image Quality Chip Technology Empowers the Global Display Industry",
+      "excerpt": "It achieves the leapfrog development from 4K to 8K for the first time and makes great breakthroughs in the core technology of AI image quality algorithm. The Hi-View HV8107 chip not only has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1749697/1.jpg",
+          "width": 303,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-this-aws-database-e-training-bundle-is-just-30-this-week.md",
       "title": "This AWS Database e-training bundle is just $30 this week",
       "excerpt": "Then the 2022 Amazon Web Services Database Bundle has you covered ... and implementation of a database), migrating information to the cloud, the basics of AWS Rekognition in machine learning, and more. And since the courses are brought to us by skilled ...",
@@ -854,7 +907,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -956,7 +1009,7 @@
       "originalUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1050,7 +1103,7 @@
       "originalUrl": "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1133,57 +1186,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-six-unaddressed-legal-concerns-for-the-metaverse.md",
-      "title": "Six Unaddressed Legal Concerns For The Metaverse",
-      "excerpt": "The metaverse will bring multiple new legal implications, especially in the absence of existing standards and precedence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/?sh=ba55d757a941",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d4eb6967159ade7f05d4f/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/amp/",
-      "publishedDateTime": "2022-02-17T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

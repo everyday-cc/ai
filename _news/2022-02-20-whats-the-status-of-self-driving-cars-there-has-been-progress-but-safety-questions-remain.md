@@ -59,22 +59,6 @@ related:
         width: 620
         height: 400
         isCached: true
-  - title: "Apple’s patented sunroof hints self-driving car project still a go"
-    excerpt: "Apple’s intention to enter the automotive market has been floating for several years. The tech company reportedly plans to unveil its self-driving electric car in 2025 but there are no concrete details in regards to its endeavor as of yet. Apple's self ..."
-    publishedDateTime: 2022-02-16T08:04:00Z
-    webUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184"
-    ampWebUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 44
-    images:
-      - url: "https://img.philkotse.com/2022/02/16/O3IWXvly/untitled-design-66d0_wm.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "What's the status of self-driving cars? There has been incremental progress, but safety questions remain."
     excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
     publishedDateTime: 2022-02-19T17:14:00Z

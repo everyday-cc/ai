@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
+    excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
+    publishedDateTime: 2022-02-20T23:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/02/Canada-Flag-Ontario-Toronto.jpg"
+        width: 1280
+        height: 1133
+        isCached: true
   - title: "Down More Than 25% YTD, is Now a Good Time to Scoop Up Shares of Fintech Stocks Upstart and Affirm?"
     excerpt: "Fintech stocks are high-growth stocks ... is a leading artificial intelligence (AI) lending platform that helps access affordable credit while reducing its bank partners' risk and cost of lending. Its platform utilizes advanced machine learning tools ..."
     publishedDateTime: 2022-02-16T17:02:00Z
@@ -155,6 +171,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "QH5Hn9QLUXXBJbaLkCXlukoqF6vrnXsPbi/Dh2S9Ax+W7EJL28djSvnOBKAPzLC3sJxbl3JdkZlwrDFHTs5YTKlnbLZCf/koePCfDNcRdF4YTfr0wuaNe9lV/L8Rc8fiIA+tP3SyqQGLot5coI0jIzp4gvvnthwn2b2L8jiwvFr0RDvW2KzBY/kr3RQmki0S9f7mRpueSz9cvmWWpquqCVGh+2tWnC8iLVc5ADCEmlLE/PhDi1EGV2ofoA50bdj04QqK8JK+7IuniOM6yKba1lHNp9arTCTtV//h7cRSl9+gXmUlGhHLth6HFzj9cZpFi/zYJBNHKzb2HC9CodLzO7hNwc37ggCRVFuGjib/mlc=;Pc/NHeZYcR1hlpDyIVmx4A=="
+secured: "rrDjiKyNIMFkft83nq+9v4BALVcVIUvl5D0z7R1N2NjatgOQX4M61ZZ//Q2wW9TwF1Nn4AKl5vk6WpcaseGf3xpdaoGK87CURLUFI7PQjZ19q61K2Qn1lL0P7y65MNIxYIWfgh1SUU82+BacJINnRz2V6ZY5JpW5i4/Oz7ht2a6ahNHTWIwLK+hdapCnfPyGtNFznG/LsCP2rtelLuP5CXXBCgDugJASwLoTaOnSEDcR9TCtgZa6cEmBs4or9Z1oe572QslWdb4YG4F8L63Da3h2Qvjj66zfeF0+oiKm2KQityYv6Et8RuHlYo/QeJcJM1u4BX5MWM0DWZFS/XEixXUDeOeOmsziLbGvjG6ONt+j3YwOfLp/et83C+y7b9Etw/GH4nIbVSGRZKNmL9hTNV3kMk5PVlyek4+q/G3wvg2i7Cxb5xbgsXyMfzJ10tAzWqChkXGhNevljgTK2KeAHjFsNy+00Va/9IqUvAU3GxWFPMWO7ABGhWsR+2BPHMB6ivch62TXgn4O+y2ImZH19Q==;Rouyzg5HSs8A/1il2SNZHQ=="
 ---
 

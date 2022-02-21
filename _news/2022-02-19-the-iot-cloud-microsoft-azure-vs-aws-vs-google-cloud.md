@@ -40,6 +40,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
+    excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
+    publishedDateTime: 2022-02-20T23:05:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/23120-ibm-acquires-leading-microsoft-azure-consultancy-neudesic"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2fd7a2dea6d47c0405fbba180846ff2c.jpg?t=20220220_221348"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "BPWwMF/xXo+1tpMlKdawRWilvSbwzmdM0ZQIB+MTaZKC7qShS8DQOj15l5u60hzIrGBuyjStgpO2Fn0bD0T+OKkSs0WbY9GF/JmK2Rp0HQlc0kGQDhjyf5ddTVSxr+SGXyzi1uOeGiThX/ecuXDMvq5668m+micvw3uEsIEkp0qRlj962Nppu2Y8cteURApxUM8pSaeH79Q63AOZ1Qwah/R0VkRdSux4hj+gJ5Gt2pHIVyiaMrWoPTNQXo6Eho3R2JciYFz+JvLoaXSh228ksB2MtWXNIFUPZog1FMhIoEV6JetE63UPkiehKjp/zJ4Vl4JQKo0w/txYgJ8o/s/+qrj8EMSmlpmDyP6DJO8ueQkVZzLVqsxS8OrMldfQ7C7eHTRl94SoZMHiYfHGcN1hCR4mnEsodPS7nadIrJkDiafrbwASROhDQxPGayG3oZw417cOuDtFlfB3F4LCZsBsGpDBAPqzE2C5CE0ifuVpw0OwORYgOFebNY+ui9hBP5vngsC53ylo5H9fl6mxSwDYuQ==;eb99A+t8rmJkVzqvSlWZlA=="
 ---

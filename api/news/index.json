@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-21-chinas-driverless-dreams-troubled-by-us-chip-dependency.md",
+      "title": "China’s driverless dreams troubled by US chip dependency",
+      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3d7ee15-7663-4701-8bde-d6019e7d4297.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "publishedDateTime": "2022-02-20T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-20-5-steps-to-minimize-ai-bias-in-marketing.md",
       "title": "5 steps to minimize AI bias in marketing",
       "excerpt": "Register here. Today, more and more marketing tools are AI-powered. As that shift has occurred, marketers are grappling with the fact that there will always be some form of unintentional ...",
@@ -262,7 +306,7 @@
       "originalUrl": "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -306,7 +350,7 @@
       "originalUrl": "https://scitechdaily.com/hiddenite-a-new-ai-processor-based-on-a-cutting-edge-neural-network-theory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -350,7 +394,7 @@
       "originalUrl": "https://www.techrepublic.com/article/the-best-tools-for-developing-voice-user-interfaces/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -402,7 +446,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/419185",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -455,7 +499,7 @@
       "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -500,7 +544,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -753,7 +797,7 @@
       "originalUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -805,7 +849,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -857,7 +901,7 @@
       "originalUrl": "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1100,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1108,7 +1152,7 @@
       "originalUrl": "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1160,7 +1204,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/18/predictions-how-data-and-ai-will-shape-business-growth-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1200,59 +1244,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry.md",
-      "title": "Hisense Breakthrough in 8K AI Image Quality Chip Technology Empowers the Global Display Industry",
-      "excerpt": "It achieves the leapfrog development from 4K to 8K for the first time and makes great breakthroughs in the core technology of AI image quality algorithm. The Hi-View HV8107 chip not only has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1749697/1.jpg",
-          "width": 303,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -64,7 +64,7 @@
       "originalUrl": "https://scitechdaily.com/hiddenite-a-new-ai-processor-based-on-a-cutting-edge-neural-network-theory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -108,7 +108,7 @@
       "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -153,7 +153,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -259,7 +259,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -750,49 +750,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
-      "title": "Machine Learning Becomes a Mathematical Collaborator",
-      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "originalUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-gtt-group-to-sell-neural-network-ai-machine-learning-portfolio.md",
       "title": "GTT Group To Sell Neural Network AI Machine Learning Portfolio",
       "excerpt": "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ...",
@@ -822,6 +779,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
+      "title": "Machine Learning Becomes a Mathematical Collaborator",
+      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "originalUrl": "https://www.quantamagazine.org/machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quanta Magazine",
+        "domain": "quantamagazine.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reali
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
 type: article
 quality: 59
-heat: 109
+heat: 110
 published: true
 
 provider:

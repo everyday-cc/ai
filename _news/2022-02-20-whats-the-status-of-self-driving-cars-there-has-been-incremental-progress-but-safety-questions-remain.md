@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple’s patented sunroof hints self-driving car project still a go"
-    excerpt: "Apple’s intention to enter the automotive market has been floating for several years. The tech company reportedly plans to unveil its self-driving electric car in 2025 but there are no concrete details in regards to its endeavor as of yet. Apple's self ..."
-    publishedDateTime: 2022-02-16T08:04:00Z
-    webUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184"
-    ampWebUrl: "https://philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-patented-sunroof-self-driving-car-12184/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 44
-    images:
-      - url: "https://img.philkotse.com/2022/02/16/O3IWXvly/untitled-design-66d0_wm.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Could Tesla Be Cooling On Self-Driving Cars?"
     excerpt: "Would Tesla have achieved its stellar valuations without the promise that self driving was are around the corner? Elon Musk predicts that perfecting self diving technology will lead to one of the biggest asset-value increases in history. However Tesla ha ..."
     publishedDateTime: 2022-02-17T01:01:00Z

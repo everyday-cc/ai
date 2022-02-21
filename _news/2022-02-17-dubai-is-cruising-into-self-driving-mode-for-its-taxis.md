@@ -53,6 +53,22 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "China’s Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen"
+    excerpt: "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China."
+    publishedDateTime: 2022-02-18T13:31:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/18/3a3f19bdef62d31e313b4ac74f3f28d7.gif?ar=16%3A9&fit=crop&q=65&w=1200&fm=jpg&frame=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Baidu's Apollo Go Robotaxis Are Now Deployed in All of China's Top Tier Cities After Launching in Shenzhen"
     excerpt: "In April 2021, global consulting firm Guidehouse named Baidu as one of the \"top ten autonomous driving developers in the world.\" Others include Alphabet Inc's division Waymo, which spun out of Google's self-driving car project, and San Francisco-based ..."
     publishedDateTime: 2022-02-17T23:15:00Z

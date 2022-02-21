@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-02-08-the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash.md",
+      "title": "The Ethical Debate About Whether AI Ought To Warn You When The Self-Driving Car That You Are Riding In Is About To Crash",
+      "excerpt": "Speaking of cars, the future of cars consists of AI-based true self-driving cars. There isn’t a human driver involved in a true self-driving car. Keep in mind that true self-driving cars are driven via an AI driving system. There isn’t a need for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62009c5c4b81d4dd7837fa84/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/",
+      "publishedDateTime": "2022-02-07T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-facial-recognition-technology-falsely-identifies-women-more-than-men-find-out-why.md",
       "title": "Facial Recognition Technology falsely identifies women more than men, find out why?",
       "excerpt": "They analyzed two FR software, the first, Amazon Rekognition and the second Dlib. The research found that while Amazon’s software could recognize white men at a 99.06% accuracy, white women at a 92.9% accuracy, while Women of Color (WOC) were recognized ...",
@@ -868,6 +921,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-07-1483-billion-automated-machine-learning-automl-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom.md",
+      "title": "$14.83 Billion Automated Machine Learning (AutoML) Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com",
+      "excerpt": "The cloud category dominated the AutoML market, within the deployment type segment, in the past. Moreover, this category is predicted to grow rapidly in the forthcoming years on account of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/14-83-billion-automated-machine-learning-automl-markets---global-industry-analysis-and-growth/article_c69a168e-913e-5bf2-b510-4c1382036da7.html",
+      "originalUrl": "https://www.eagletribune.com/region/14-83-billion-automated-machine-learning-automl-markets---global-industry-analysis-and-growth/article_c69a168e-913e-5bf2-b510-4c1382036da7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-two-members-of-google-ethical-ai-research-group-left-the-company.md",
       "title": "Two Members Of Google Ethical AI Research Group Left The Company",
       "excerpt": "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ...",
@@ -1029,110 +1125,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-rise-of-fintech22-how-india-embraced-digital-payments.md",
-      "title": "Rise of Fintech'22: How India Embraced Digital Payments",
-      "excerpt": "Furthermore, AI needs to be implemented in our digital ecosystem in order ... India has disruptive potential in the finance sector, with more fintech businesses breaking new ground with their strong, cutting-edge technology, resulting in a record-breaking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/rise-fintech22-how-india-embraced-digital-payments-payomatix",
-      "originalUrl": "https://www.linkedin.com/pulse/rise-fintech22-how-india-embraced-digital-payments-payomatix",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGYf0pL-EUrgg/article-cover_image-shrink_720_1280/0/1644219829753?e=1649894400&v=beta&t=FC5rKsNiqbF4Gbw32EmYXz-IhWf4MzxI8lsuDI7PAe0",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-06T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-global-artificial-intelligence-market-opportunity-analysis-by-massive-demand-trends-and-forecast-to-2027.md",
-      "title": "Global Artificial Intelligence Market Opportunity Analysis By Massive Demand, Trends And Forecast To 2027",
-      "excerpt": "Artificial intelligence (AI) is a branch of computer science that ... emerging opportunities & technologies as well as threats to the companies across the Healthcare, Pharmaceuticals, Electronics & Communications, Internet of Things, Food and Beverages ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-opportunity-analysis-by-massive-demand-trends-and-forecast-to-2027-2022-02-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-opportunity-analysis-by-massive-demand-trends-and-forecast-to-2027-2022-02-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-06T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
