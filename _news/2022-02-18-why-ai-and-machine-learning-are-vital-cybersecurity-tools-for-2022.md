@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-
 webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
         width: 500
         height: 281
-        isCached: true
-  - title: "Bfore.ai Partners With Quad9 To Provide Predictive DNS Cybersecurity Protection"
-    excerpt: "The integration of bfore.ai and Quad9 generates hundreds of thousands of new and unique indicators of future cyber threats, enabling their customers to be protected by cyber attacks before they even start. The proof was in the pudding in mid-December 2021 ..."
-    publishedDateTime: 2022-02-16T17:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bfore-ai-partners-with-quad9-to-provide-predictive-dns-cybersecurity-protection/article_af475106-5232-56b2-a9ef-801618094505.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
         isCached: true
   - title: "Arista NDR Named \"Best AI-based Solution for CyberSecurity\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"

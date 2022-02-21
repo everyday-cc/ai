@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/419185"
 webUrl: "https://www.entrepreneur.com/article/419185"
 type: article
 quality: 71
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://i0.wp.com/contxto.com/wp-content/uploads/2022/02/deltai-Jose-Alex-YCombinator.jpg?fit=1280%2C858&#038;ssl=1"
         width: 1280
         height: 858
+        isCached: true
+  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
+    excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
+    publishedDateTime: 2022-02-21T07:52:00Z
+    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "18/02 – Weekly Fintech Recap"
     excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."

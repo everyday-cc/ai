@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1105
         isCached: true
-  - title: "What the Tech: Facebook Facial Recognition"
-    excerpt: "Thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces to be identified in photos and videos using facial recognition. Texas is the latest to file ..."
-    publishedDateTime: 2022-02-16T15:54:00Z
-    webUrl: "https://www.wccbcharlotte.com/2022/02/16/what-the-tech-facebook-facial-recognition/"
-    type: article
-    provider:
-      name: WCCB
-      domain: wccbcharlotte.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2022/02/u/v/19bf3c68273677b74b38da942ca89508140c2d3f.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why you should want the IRS to use facial recognition technology"
     excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
     publishedDateTime: 2022-02-18T14:06:00Z

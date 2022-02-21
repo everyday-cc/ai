@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Waymo is Deploying Self-Driving Trucks in Texas in a New Partnership with Fleet Operator C.H. Robinson"
-    excerpt: "Waymo, the autonomous driving technology division of Alphabet that spun out of Google's self-driving car project, is expanding its deployment of self-driving Class-8 trucks with a new partnership with Texas fleet operator C.H. Robinson Worldwide."
-    publishedDateTime: 2022-02-16T16:30:00Z
-    webUrl: "https://www.futurecar.com/5206/Waymo-is-Deploying-Self-Driving-Trucks-in-Texas-in-a-New-Partnership-with-Fleet-Operator-CH-Robinson"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 23
-    images:
-      - url: "https://img.futurecar.com/202202/16/l_620d3499dc8b2.jpeg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Self-Driving Vehicles Are Hitting the Roads All Over Texas, and More Could Show Up in Dallas"
     excerpt: "C.H. Robinson, the firm, delivers some 20 million shipments every year. Now, they’ll be using Google company Waymo and its self-driving trucks to make some of those deliveries. \"Together, we are going to harness this emerging freight technology and its ..."
     publishedDateTime: 2022-02-18T09:00:00Z

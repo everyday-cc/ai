@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-exp
 webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
 type: article
 quality: 138
-heat: 218
+heat: 198
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
         width: 530
         height: 300
         isCached: true
-  - title: "Bill seeks to restrict the use of facial recognition technology in Colorado"
-    excerpt: "Colorado lawmakers are seeking to restrict the use of facial recognition technology in the state’s government, law enforcement and schools with the introduction of a new bill."
-    publishedDateTime: 2022-02-16T15:07:00Z
-    webUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.html"
-    ampWebUrl: "https://gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/bill-seeks-to-restrict-the-use-of-facial-recognition-technology-in-colorado/article_1308954c-f9f0-5d34-af5d-34d9851ec9d6.amp.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/42/f429b70e-78d0-549d-85d2-6831d5f8bbeb/602c090ca6e96.image.jpg"
-        width: 420
-        height: 241
-        isCached: true
   - title: "Clearview AI ponders broader facial recognition service, free speech defense rejected"
     excerpt: "The company’s online principles pledge states that its facial recognition technology will only be sold to government agencies, and Ton-That says the principles will be updated if the use of the technology changes. Clearview expects its revenues from the ..."
     publishedDateTime: 2022-02-17T19:44:00Z
@@ -97,20 +81,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "Facial recognition firm Clearview AI tells investors it is seeking massive expansion beyond law enforcement"
-    excerpt: "The facial recognition company Clearview AI is telling investors it’s on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial ..."
-    publishedDateTime: 2022-02-16T16:47:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 36
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Clearview Plans Facial Recognition Database That Knows Every Person on Earth"
     excerpt: "Facial recognition technology is nothing new — there are probably apps on your phone right now with the ability to recognize faces, but you have some modicum of control over that. Clearview AI, on the other hand, aims to build a facial recognition ..."
     publishedDateTime: 2022-02-18T12:00:00Z

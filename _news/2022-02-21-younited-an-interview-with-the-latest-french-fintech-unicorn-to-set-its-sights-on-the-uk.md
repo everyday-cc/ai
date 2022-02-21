@@ -99,6 +99,20 @@ related:
         width: 1280
         height: 858
         isCached: true
+  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
+    excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
+    publishedDateTime: 2022-02-21T07:52:00Z
+    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "18/02 – Weekly Fintech Recap"
     excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."
     publishedDateTime: 2022-02-18T14:16:00Z
@@ -165,6 +179,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "a9TI3GpT8Yco7LB7kctIi0o7E7qf04XILAw+z/U4LEtfyMiToe8P7osMcEBU+c19c4sCkzyBqf2ukdHfO7yyZUr7TocY7oGbk1g8PBF11m66t1YNj8DYlFcI3lSMuJpbnNXVqeJVpYBPqq25xDCOvjPsZVURMo2R+nHEKv7EyyMp1cOWfdbQdfI+J9cFC+31f7GqvImh7a38pqdU4yFv3jnQWVNxLa/4G3BNxbxD1ZcuTDkN24rdG2kaIirquL9tDv0MPjVY2JA5oq7oSqSPpgqxpiu6ONiVGxA8wDLpZwtSL5hBFwBWwmeA+aEJ/bQHAvqlOfw6SlfkAoGBktFKwsFRivtcO+jf/eUu/XzuinI=;lJ25azfXO92AI2xuN2UWEQ=="
+secured: "mHu9Y8wboGGRiG9rl8imrcwcfuvkIYmWUxxPa2gx+3g76kRFnTHGKdZ42jGGgZFGEDgmasSjn2i+S2wbvhhw8bb7eEiR8Ak4dB5WeHv2Kk+r5DEi29EYu93tkClco2DrwxZMwr+z+t/fRAm8XhV1XkdnPdqkPwPo6R5/PRZ8c6zQBiyJMVG64yUew2QloWTHju5tkmVvO3o3qKMpW/BQU14a81oNgjwu5G/kPLxjJCjBNN0qnsQNgFCv5lLS6DnirTW8fssRCjACbsCdCfHiUDzCXgCnh6vtuesakQcEH0i4Amcpm+KUr05H2xxLuWXTxVmcWZAW1/vDUAjlya4QVjbn6LDMsC6NXqEsmGaa8iLpNUldf6biL2mxmg/0WAa9wkiSGN3WYjgFCuAX7AnZUepFkS1H3bj8Bx11ZXv/yHF6oRxAPta48YDEBZp7xY8yI/YPX0/Vxs7ic86DIRpbEYaLyek8ZT4Tm+nziKel5zpW+QTc5jl95Tkl/RwGlqtHl4SkawHTItMpmIb/pOxrzg==;Oji13Fz9nNtFu3QwSmAC1g=="
 ---
 

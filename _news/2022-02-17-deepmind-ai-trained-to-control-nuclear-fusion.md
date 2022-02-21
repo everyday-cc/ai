@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s AI can control superheated plasma inside a fusion reactor"
-    excerpt: "The prospect of unlimited clean energy is still a long way off, but this is another example of DeepMind tackling hard real-world problems DeepMind’s streak of applying its world-class AI to hard science problems continues. In collaboration with the Swiss ..."
-    publishedDateTime: 2022-02-16T16:12:00Z
-    webUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/"
-    ampWebUrl: "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 174
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/TCV-purple-plasma-visible-light-cam.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "DeepMind Has Trained an AI to Control Nuclear Fusion"
-    excerpt: "DeepMind’s AI was able to autonomously figure out how to create these shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to validate the ..."
-    publishedDateTime: 2022-02-16T16:00:00Z
-    webUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/"
-    ampWebUrl: "https://www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deepmind-ai-nuclear-fusion/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 106
-    images:
-      - url: "https://media.wired.com/photos/620cf87dd88b0a9fa5094bd1/master/pass/Science_TCV-purple-plasma-visible-light-cam.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "DeepMind applies AI to controlling nuclear fusion reactors"
-    excerpt: "Join today's leading executives online at the Data Summit on March 9th. Register here. DeepMind, the AI lab backed by Google parent company Alphabet, today announced that it used AI to ..."
-    publishedDateTime: 2022-02-16T16:00:00Z
-    webUrl: "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/"
-    ampWebUrl: "https://venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/deepmind-applies-ai-to-controlling-nuclear-fusion-reactors/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
-        width: 1198
-        height: 600
-        isCached: true
   - title: "DeepMind's AI helps confine plasma for nuclear fusion research"
     excerpt: "Across decades of development, scientists have been pursuing nuclear fusion technology through endless experiments, calculations and simulations, trying to find the optimal mix of conditions for atoms to fuse and continually release huge amounts of energy."
     publishedDateTime: 2022-02-17T06:22:00Z
@@ -118,22 +70,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "DeepMind uses AI to control plasma inside tokamak fusion reactor"
-    excerpt: "Fusion reactors promise cheap, abundant and relatively clean energy – if we can get them to work. Now, thanks to artificial intelligence firm DeepMind, fusion researchers are one step closer to extracting power from plasma hotter than the surface of the sun."
-    publishedDateTime: 2022-02-16T16:00:00Z
-    webUrl: "https://www.newscientist.com/article/2308243-deepmind-uses-ai-to-control-plasma-inside-tokamak-fusion-reactor/"
-    ampWebUrl: "https://www.newscientist.com/article/2308243-deepmind-uses-ai-to-control-plasma-inside-tokamak-fusion-reactor/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308243-deepmind-uses-ai-to-control-plasma-inside-tokamak-fusion-reactor/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/16111051/PRI_223707137.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
         isCached: true
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "DeepMind is a scientific discovery company acquired by Google in 2014 that's committed to \"solving intelligence to advance science and humanity.\" Together, they have developed a new magnetic ..."
@@ -183,20 +119,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Latest success from Google’s AI group: Controlling a fusion reactor"
-    excerpt: "Because today, Google's DeepMind AI team is announcing that its software has been successfully trained to control a tokamak. Developing the control software for a tokamak is a complicated process. Based on past experience with similar designs,"
-    publishedDateTime: 2022-02-16T21:54:00Z
-    webUrl: "https://arstechnica.com/science/2022/02/latest-success-from-googles-ai-group-controlling-a-fusion-reactor/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/1108x622-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "New DeepMind Program Shows Major Progress Within AI"
     excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
     publishedDateTime: 2022-02-17T20:22:00Z
@@ -206,20 +128,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Google's research lab DeepMind built an AI for nuclear fusion energy research, helping control gas as hot as the sun"
-    excerpt: "DeepMind was the first to use this particular type of AI in nuclear fusion research Before we get into what DeepMind actually did, it might be useful to familiarize yourself with the experimental machines being developed to try and produce nuclear fusion ..."
-    publishedDateTime: 2022-02-16T16:01:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-demonstrates-ai-can-regulate-nuclear-fusion-power-plasma-2022-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/620c3193da5ac00018fe7bfb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DeepMind Simulates Matter on the Nanoscale With Artificial Intelligence"
     excerpt: "By expressing the functional as a neural network and incorporating exact properties into ... to engineers and ethicists – to pioneer the development of advanced artificial intelligence. The company’s breakthroughs include AlphaGo, AlphaFold, over ..."
     publishedDateTime: 2022-02-16T22:13:00Z
@@ -231,6 +139,20 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 56
+  - title: "Air Force Moves to Drive Computer Vision Research and Development"
+    excerpt: "The Air Force Research Laboratory is deepening its exploration of commercial computer vision, or technology that is essentially training digital systems to “see” the real world. Through a new five-year Cooperative Research and Development Agreement or ..."
+    publishedDateTime: 2022-02-16T19:36:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/02/air-force-moves-drive-computer-vision-research-and-development/362077/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/16/021622visionNG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "DeepMind’s latest AI to control nuclear fusion"
     excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
     publishedDateTime: 2022-02-17T08:01:00Z

@@ -41,22 +41,6 @@ related:
         width: 706
         height: 470
         isCached: true
-  - title: "SK Hynix Develops AI Accelerating PIM Memory So Our Overlords Don't Forget"
-    excerpt: "As such, it is working with SAPEON INc, an AI chip company spun off from SK Telecom, to introduce a new technology that combines GDDR6-AiM with AI chips."
-    publishedDateTime: 2022-02-16T15:43:00Z
-    webUrl: "https://hothardware.com/news/sk-hynix-ai-accelerating-pim-memory"
-    ampWebUrl: "https://amp.hothardware.com/news/sk-hynix-ai-accelerating-pim-memory"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/sk-hynix-ai-accelerating-pim-memory"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 57
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57711/content/SK_Hynix_GDDR6-AiM_Chips.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "SK hynix GDDR6-AiM: next-gen memory with computing abilities for AI"
     excerpt: "GDDR6-AiM does things differently by adding computational functions to the GDDR6 memory chips, where GDDR6-AiM and a CPU or GPU -- instead of regular DRAM -- will speed up computational speed by up to 16x. SK hynix is aiming its new GDDR6-AiM memory for ..."
     publishedDateTime: 2022-02-17T01:14:00Z

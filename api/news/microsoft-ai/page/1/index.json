@@ -297,6 +297,40 @@
       ]
     },
     {
+      "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verifiedtm-cloudconnecttm-to-office-365-and-azure.md",
+      "title": "authID.ai Joins Microsoft Partner Network to Expand Verified(TM) CloudConnect(TM) to Office 365 and Azure",
+      "excerpt": "AUID] (formerly Ipsidy), a leading provider of secure, mobile, privacy preserving, biometric identity authentication solutions, today announced that it has joined the Microsoft Partner Network and expanded Verified CloudConnect™ with the integration of its flagship facial biometrics solution to Microsoft Office 365 and Azure via Active Directory Federation Services (ADFS).",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/15/authid-ai-joins-microsoft-partner-network-to-expand-verified-tm-cloudconnect-tm",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/15/authid-ai-joins-microsoft-partner-network-to-expand-verified-tm-cloudconnect-tm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-what-the-metaverse-means-for-you-and-your-customers.md",
       "title": "What the metaverse means for you and your customers",
       "excerpt": "In CX and product design terms, you could think about this in terms of cognitive load ... Inside Mesh, you'd be able to use Microsoft Teams, Windows, and other services in VR. Decentraland: Decentraland was among the early movers who explicitly mentioned ...",
@@ -1342,40 +1376,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-therapeutic-solutions-international-announces-reduction-of-covid-19-associated-cognitive-decline-by-quadramune-nutraceutical-in-animal-model.md",
-      "title": "Therapeutic Solutions International Announces Reduction of COVID-19 Associated Cognitive Decline by QuadraMune® Nutraceutical in Animal Model",
-      "excerpt": "Therapeutic Solutions International announced today filing of a new patent covering data demonstrating QuadraMune administration reduces cognitive decline caused by administration of COVID-19 spike protein in mice. In a series of experiments, mice were ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://ipsnews.net/business/2022/02/19/how-artificial-intelligence-
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/?amp=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,33 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "How AI is transforming public sector customer service"
-    excerpt: "recognise speech and text inputs and translate their meanings across various languages. Online chatbots, for instance, can answer frequently asked questions or provide personalised advice. The other foundational component that’s needed to implement AI ..."
-    publishedDateTime: 2022-02-21T04:45:00Z
-    webUrl: "https://www.themandarin.com.au/181875-how-ai-is-transforming-public-sector-customer-service/"
+  - title: "Five ways AI is saving wildlife – from counting chimps to locating whales"
+    excerpt: "Artificial intelligence has been identified as one of the top three emerging technologies in conservation, helping protect species around the world"
+    publishedDateTime: 2022-02-21T06:15:00Z
+    webUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
+    ampWebUrl: "https://amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
     type: article
     provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/02/AI_AdobeStock_272661344.jpeg"
-        width: 1370
-        height: 740
-        isCached: true
-  - title: "How China is using AI for warfare"
-    excerpt: "The actual military expenditure is higher than what was mentioned. The PLA has integrated AI into their mechanisation procedures to develop various forms of electronic warfare systems. Since the launch of the Wing Loong-1 combat UAV in 2009, the PLA has ..."
-    publishedDateTime: 2022-02-21T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-china-is-using-ai-for-warfare/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/China-warfare_11zon.jpg"
-        width: 1873
-        height: 1054
+      - url: "https://i.guim.co.uk/img/media/fd792e8670ae68cd20acf9b2ec83a09e0499829f/127_6_1779_1067/master/1779.jpg?width=620&quality=85&auto=format&fit=max&s=82a518718163c7221b731d9c9b6a89f6"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "3VnE5wP1PAxQzVuekT9kiQgRLj91ZNyEK9DtM6x3bm95fiEX6G4pAhJlnQJMZWWRI+q3EakHCaRx56UX2lssqyCHtrxQtCS2O2AhxXPVZMmbYX7dHixhNSrScFAfdHGytWai8vBy+9tBAW/k3ZHFZJvRUEW8LnJfu4CmCzv9TMysyc61ymVDdNRjH6OUQ69ulxHbPMQsf7ou4OZkE2vNjFRSPTk3gQkNQ4aZ7C5qeyfg4Cr+O/olM+jxw/dw1Vbz8DrwTmOCdeDp5GZe5Ru4NfTZjWu4rkfj5Pp/prHsNCHgvozYm1c5FDRyB4HjgEHHH1QB7lak+Wqh8oeg3k4M2TqUymHTysSxwmuKZV+J7Ho=;2DFag6B0LupqZT+kuJ8rJg=="

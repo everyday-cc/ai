@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Affecting Content Creation"
-    excerpt: "Artificial intelligence (AI) has pervaded our lives in ways we would ... no matter how advanced our AI algorithms become. Robots can perform a lot of things, but they can’t feel emotions or put themselves in our position to understand what we’re ..."
-    publishedDateTime: 2022-02-19T10:00:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 39
   - title: "How AI is transforming public sector customer service"
     excerpt: "recognise speech and text inputs and translate their meanings across various languages. Online chatbots, for instance, can answer frequently asked questions or provide personalised advice. The other foundational component that’s needed to implement AI ..."
     publishedDateTime: 2022-02-21T04:45:00Z

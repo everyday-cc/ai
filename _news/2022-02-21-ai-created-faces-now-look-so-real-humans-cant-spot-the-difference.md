@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/02/21/ai_created_faces_fool_hum
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/21/ai_created_faces_fool_humans/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 1280
     isCached: true
 
-secured: "I09EUc7PjGce4uqdTZKGFnErZE0yE2b9rgXp9h4E9PUT+VGdzuwaiyNWQcUdkXoC4Fl0qj11cYE5N3WqGqR6550CKJbflQyn+rnJ/o+Xq2ipL1xrcjtjIcesnvET4SyN6reZjNk9c26aG2CW3ZCd+kWzybSEMVKOfccSlb1w/hS+uxoylGnsrcbQH4kYuo+TroW5I325alTQUDAlD0IDrprhT4wTpHO0t9ThGhlap6a6Ia/ksIwwR8OTwEUUfjnHqgYgd5DgGINt5p4YniwC9WlgmtGiSaI5CUxglNReYfI1xwlSKZYpRZgnrkpZmwIvh8msBi7VkI14sCfExktOrZyQIFYqr/TdD0RFjWl+WQM=;UARnq2n9b0afD+VHmw83zg=="
+related:
+  - title: "AI-generated faces have crossed the uncanny valley and are now more trustworthy than real ones"
+    excerpt: "As these technologies continue to improve and change what’s possible to do with AI, Nightingale says researchers and companies will have to think seriously about the ethics involved. “If the risks are greater than the benefits of some new technology ..."
+    publishedDateTime: 2022-02-19T12:00:00Z
+    webUrl: "https://www.fastcompany.com/90723105/ai-generated-faces-have-crossed-the-uncanny-valley-and-are-now-more-trustworthy-than-real-ones"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 27
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/poster-AI-face-tech.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "+pOktHEAYMWXd5NNo9zRZdd5qsARRSvZoMv68aUwFMJYl4AVNrGJsMYXq6JgBin5Aimo9oytMQWaBHFIEmm28TknlLzaUlmuvAJzIYqj32R0iYf+iaYCrRZBvEorCAEcaIwMAwW4T/5z9545o4OZ10wEXxJE1c6Cz83hEoY/wfM2K4coqOk3f3oDayZxUXrnxvl9uqbcCTkx1S5QUpVfsTPaS6Z3qVmjhIv5X6YxUB+QQuJJ5kdcbGbZDKOrdYc704oAhAHaa/gH/D815vlmUSoZGbmmkZxsOvk98G21Jft0hGYBmClZHvhe0SHeEF0J0vf6hzPPepeLQiJz30RsTsAiNqqho9zVssSBCuQ4ZyB53eGXTEz7txDReHleBZysQtjLwKsnnqNSVSH8nAW1pFEfyN9nvIu6dkZn4jybOKaSRlcXPalpdsm4yV7bEbgem9q1nDSszF7GqtXRKaMCTNh+bZOcPy2ugnDpduNgw3NGKM9IsuaXkz6SwBDLAsROYykrqmKEaqHqp/ydwS48Jg==;5gnFA/1MDhmvTjNxaCYP6Q=="
 ---
 

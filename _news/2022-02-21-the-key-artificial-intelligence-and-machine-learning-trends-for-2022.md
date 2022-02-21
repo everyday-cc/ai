@@ -56,20 +56,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Bfore.ai Partners With Quad9 To Provide Predictive DNS Cybersecurity Protection"
-    excerpt: "The integration of bfore.ai and Quad9 generates hundreds of thousands of new and unique indicators of future cyber threats, enabling their customers to be protected by cyber attacks before they even start. The proof was in the pudding in mid-December 2021 ..."
-    publishedDateTime: 2022-02-16T17:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bfore-ai-partners-with-quad9-to-provide-predictive-dns-cybersecurity-protection/article_af475106-5232-56b2-a9ef-801618094505.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Arista NDR Named \"Best AI-based Solution for CyberSecurity\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
     publishedDateTime: 2022-02-17T15:00:00Z

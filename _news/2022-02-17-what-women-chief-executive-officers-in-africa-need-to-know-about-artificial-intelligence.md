@@ -91,20 +91,6 @@ related:
         width: 450
         height: 296
         isCached: true
-  - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
-    excerpt: "To mark International Women’s Day, March 8, Africa.com (www.Africa.Com) is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence ... CEO, CIEL Healthcare. The event is a one-stop, strategic business ..."
-    publishedDateTime: 2022-02-16T15:18:00Z
-    webUrl: "https://www.afrik-news.com/pressrelease-apo46098.html"
-    type: article
-    provider:
-      name: Afrik News
-      domain: afrik-news.com
-    quality: 30
-    images:
-      - url: "https://www.africa-newsroom.com/files/thumb/335fc8b468d03bf/600/418"
-        width: 360
-        height: 418
-        isCached: true
 
 secured: "QDPHwFiUrbcCt1fOweooqj8E0k2FjVdRSqjcwfqgzUYlwNiC88c6ZXjIJhhqMI8FGDxY0juamHUf69TIAhGHFvzaksL/yNxWsh8K6JkXMbysIM0kTVnnG1UwtXPGVzfexK3OHbPnUQbBxu0P+50kYlAqxon3Yz/5BkmgUkezYhw1ojCy3xQ8zRTTBrPiRbLFaFE8M5eWP5KeeM6YwryzyST5RVoW+ikQpt1e36YmuhPByWzbE2M0PDez7P+0SXBbECLXmIKrDjEZUhcEuEb8sexJd/vvBZUWu8nzpusk4vNbm0PtMsiLragEoRkSkOrXz/VZeIXuHF/a7qkr6OFV+ymz/4Xy/wR68CvqUqJjn7iazMfpSZA6ShCe5hrXryPVQca3Yq/BcHTiDTHvaPN5l3KD3pLlhZED3YbKwoZ35yQ14rV8Bha5PxP16JKGdYBM+JhghjZmZNegpkpHYOqzuz27GxpPOwGYFlpKQbq+PDBd6VF4n98wcRnubZ2No3UP2NJiL3WARLy5oKoEmJ5noQ==;uJoFdy7UkUvX+UfGEwZPTw=="
 ---

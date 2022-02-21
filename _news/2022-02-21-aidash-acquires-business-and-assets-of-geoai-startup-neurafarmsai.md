@@ -23,6 +23,22 @@ images:
     height: 396
     isCached: true
 
+related:
+  - title: "AiDash acquires farming solutions company Neurafarms.ai"
+    excerpt: "The acquisition will help AiDash strengthen its product line and add valuable talent to its high-performing team."
+    publishedDateTime: 2022-02-21T07:18:00Z
+    webUrl: "https://analyticsindiamag.com/aidash-acquires-farming-solutions-company-neurafarms-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/12/satellite-4269348_1920.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "FLSorMtkONcXOfziHo5MLTzV9jFeKmz4Grg4fBPuvp/+WuqGyPjeOEFt5bfFC/CbKFuugPPA6tbbNi7Ir2CtJBygQRCuioGL8umyVeAA3S6e+q+W3diDpfkTzP/ofDJSE8HvnYNmIMkyzlhFO+wIVyWbUBhOjs9BVjnw4AoxajaywKbTd3kYlLgt0VwYDqZL4bbrJiLD8o3jNdJVBdEASMP2QU+39/hbEQA/E+cEJAc0Tf3NLNaDBxduoUc/8hPfAwGm5HKfJV/C2NMt8O5JQPhDcvl8x/KFkDQUAQN6ESN4d3YVkgfE2gIS1SFQ3olPkQ4gQnk6U3iFBaJTSx7Y38OnS7WLrskrfw/WoOsU++U=;sTW4T2MQOOuE+MasSYLRZg=="
 ---
 
