@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-21-inside-intels-bold-chip-making-plans-to-dethrone-amd.md",
+      "title": "Inside Intel’s Bold Chip Making Plans to Dethrone AMD",
+      "excerpt": "Intel will make monumental investments in chip technologies in the next four years. The Santa Clara, Calif.- based company said on Thursday it expects revenue from its segment housing PCs to grow in low to mid-single digits, and its data center and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/",
+      "originalUrl": "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2022/02/chip-making-scaled-e1645422729624.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/",
+      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/",
+      "publishedDateTime": "2022-02-20T21:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leadership",
+        "domain": "industryleadersmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-chinas-driverless-dreams-troubled-by-us-chip-dependency.md",
       "title": "China’s driverless dreams troubled by US chip dependency",
       "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -585,19 +628,19 @@
     {
       "path": "_news/2022-02-16-aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge.md",
       "title": "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge",
-      "excerpt": "TEL AVIV, Israel and EINDHOVEN, Netherlands, Feb. 16, 2022 /PRNewswire/ -- UP Bridge the Gap, a brand of AAEON – a leading manufacturer of AI Edge hardware solutions – is pleased to announce a partnership with Hailo, a leading Artificial Intelligence ...",
+      "excerpt": "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aaeon-partners-with-ai-chipmaker-hailo-enable-next-/2022/02/16/9546351.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1747196/Hailo_AAEON.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/c0/9c084c6d-15a0-5ffc-aaf7-7555392729f0/620ce7e092764.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -607,11 +650,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T04:07:00-08:00",
+      "publishedDateTime": "2022-02-16T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1362,49 +1405,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.md",
-      "title": "Adobe Premiere Pro update adds AI-powered Remix for music and 3x faster Speech to Text",
-      "excerpt": "Remix is powered by Adobe Sensei, Adobe's AI technology. Artificial intelligence is used to ... Hardware acceleration plays a key role by using the GPU to speed up exports. The chart below shows the significant difference between Premiere Pro 22.1.1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text",
-      "originalUrl": "https://www.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3.img-dpreview.com/files/p/E~TS590x0~articles/6096859866/premiere-pro-update-banner.jpeg",
-          "width": 590,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.amp",
-      "publishedDateTime": "2022-02-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

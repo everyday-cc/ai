@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Genomics Market Research 2021 | Top Key Players, Demand, Revenue, Growth Factors by Types, Trends and Forecast till 2030"
+    excerpt: "Feb 20, 2022 (Heraldkeepers) -- Market Research Engine has published a new report titled as \"Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision), By Application (Genome ..."
+    publishedDateTime: 2022-02-21T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-research-2021-top-key-players-demand-revenue-growth-factors-by-types-trends-and-forecast-till-2030-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
+    publishedDateTime: 2022-02-17T02:58:00Z
+    webUrl: "https://menafn.com/1103707586/AI-Computing-Hardware-Market-Insights-By-Growth-Research-Methodology-Emerging-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?517022"
+        width: 443
+        height: 250
+        isCached: true
   - title: "Global Market for Artificial Intelligence (AI) 2022 - Featuring Spectrum Labs, 6sense and 7bridges Among Others - ResearchAndMarkets.com"
     excerpt: "The \"The Global Market for Artificial Intelligence (AI) 2022\" report has been added to ResearchAndMarkets.com's offering. The development of artificial intelligence (AI) technologies is growing rapidly and transforming the global economy."
     publishedDateTime: 2022-02-17T09:23:00Z
@@ -85,6 +113,29 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
+    excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
+    publishedDateTime: 2022-02-17T17:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-banking-market-demand-business-scenario-share-applications-types-and-forecasts-2020-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
+    excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
+    publishedDateTime: 2022-02-17T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
   - title: "Worldwide Aerostat Systems Industry to 2027 - Featuring Aerostar International, ILC Dover and RosAeroSystems Among Others - ResearchAndMarkets.com"
     excerpt: "There are numerous organizations which have started employing intelligent video surveillance systems owing to several advantages offered by them, such as object recognition and video analytics. Other than this, the demand for high-quality aerostat systems ..."
     publishedDateTime: 2022-02-18T14:59:00Z

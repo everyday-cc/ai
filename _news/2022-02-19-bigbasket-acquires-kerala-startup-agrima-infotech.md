@@ -40,6 +40,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "BigBasket acquires Kochi based computer vision startup Agrima Infotech"
+    excerpt: "BigBasket has acquired Kochi-based startup Agrima Infotech. BigBasket has plans to deploy “Psyight’, a computer-vision technology platform built by Agrima Infotech, at the self-checkout counters of its retail stores. “We look forward to working with ..."
+    publishedDateTime: 2022-02-21T06:20:00Z
+    webUrl: "https://analyticsindiamag.com/bigbasket-acquires-kochi-based-computer-vision-startup-agrima-infotech/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/03/Bigbasket.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "XwFWLyfbUI1f/3LOa/cVLLz7rFKFbntxKS2m1lccqEHYTtih7W5dP1qrkY0cDBssTdn7eiR46suPbPx4Xh4+ly4OJx1bSDn/CB1FgxcolKJO7x0e+AfVNFYlh06jZ7GAXtT45XxOW8ZEcLHpPr6R75giWRWi2Gk9We/Ty9A/wYkEGLM1uT0vzPq5OaqhTDuTkzdsGHvsNgZcMyE82HKWNWUahjclm4OEg5kdUgmiaavg8GH1i1m5shDYGuYhP2X4Yefxq8Ay95E74DuDqUkk3tBfY6bJfLhRvU9cl21k6U5Z+YBVBPa7spL3Q8YQagCtFmOv2eiTE2y81esFywFWzasQ2LmFXfRgi+B7C4XvkJ8=;y9FESdig/2kSvCc+ZTiH9A=="
 ---

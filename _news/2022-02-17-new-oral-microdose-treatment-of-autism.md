@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Nova Mentis Study Confirms Oral Microdose Psilocybin Treatment of Autism"
-    excerpt: "Wild type control and Fmr1 KO animals were treated with 0.1 mg/kg and 0.3 mg/kg oral psilocybin every other day for 6 treatments, over a 2-week period, and on day 18 underwent object recognition testing. We had great results! Both 0.1 and 0.3 mg/kg were ..."
-    publishedDateTime: 2022-02-16T13:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-20243641.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 23
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Nova Mentis Study Confirms Oral Microdose Psilocybin Treatment of Autism"
     excerpt: "Wild type control and Fmr1 KO animals were treated with 0.1 mg/kg and 0.3 mg/kg oral psilocybin every other day for 6 treatments, over a 2-week period, and on day 18 underwent object recognition testing. We had great results&excl; Both 0.1 and 0.3 mg/kg ..."
     publishedDateTime: 2022-02-16T17:33:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2022/02/16/nova-mentis-study-confirms-oral-microdose-psilocybin-treatment-of-autism"

@@ -52,20 +52,6 @@ related:
         width: 1011
         height: 1349
         isCached: true
-  - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
-    excerpt: "To mark International Women’s Day, March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
-    publishedDateTime: 2022-02-16T15:01:00Z
-    webUrl: "https://iafrica.com/artificial-intelligence/"
-    type: article
-    provider:
-      name: iafrica.com
-      domain: iafrica.com
-    quality: 39
-    images:
-      - url: "https://iafrica.com/wp-content/uploads/2022/02/face-w-data-points.jpg"
-        width: 794
-        height: 924
-        isCached: true
   - title: "African software developers using AI to fight inequality"
     excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
     publishedDateTime: 2022-02-19T20:35:00Z

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
-    excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
-    publishedDateTime: 2022-02-16T14:50:00Z
-    webUrl: "https://www.govexec.com/technology/2022/02/agencies-shouldnt-use-facial-recognition-id-verification-groups-say/362054/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 38
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2022/02/16/021522_getty_fcw_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
     excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
     publishedDateTime: 2022-02-16T21:02:00Z

@@ -24,17 +24,6 @@ images:
     height: 760
     isCached: true
 
-related:
-  - title: "Cohere Raises $125M Series B to Fuel Rapid Platform Development and Scale International Footprint"
-    excerpt: "TORONTO, Feb. 16, 2022 (GLOBE NEWSWIRE) -- Cohere, the natural language processing (NLP) platform enabling broad access to cutting-edge language generation and understanding technology, announced today that it has raised $125M USD in a Series B round led ..."
-    publishedDateTime: 2022-02-16T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cohere-raises-125m-series-b-fuel-rapid-platform-/2022/02/16/9546615.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-
 secured: "xjfC/MYfLDijH8z+xK2A0vL8JNkKgxdXVVzDChqE9F+UUnI9ExZh9D6UqueHgZQ/LSH6wBrOdE9TZZX3lL/8yV62fM5bepBS4OzS9DDDwkIhQRG8qBMGqilNWEit964wokYU0WOwdo6j4HnElJImgE+0KYzD2ECyd1Qdf3NMYdQYxwH2i0L5vHf1eBN3kEqFKznZqsSq+9zKz4mJgqwnY+ch3+S8PrtTvhONNvpexKUzjY9mYbSLNaPhK7fvsHBuhQW/xVNmeJh7++AMdF1vI2UCpwuKpn91g7zXb0n+ka4wf4/TumIkMrHGuvlv3QIt1Qq78bJmW8Zl4GmqVzqNj0Dz5kKJiNrnUIP21Bc6qb1ixhPif0ejWub90xUB20z8A2xjHd4MAOzMszsWVAP0lujEKkxdA89FQWNBBdvPReyOGX+PqUGMBvhXoxxwI7kuRSsK8C049BvF8jIQ3ZNwDYselM8d4AAwnQnhQHoecxDUW4JK0FzYako6MPJjZuVrGTYZ5jysHzjsGsFKnLp6xA==;8pXX9KzA3uABUkuoPeCb7A=="
 ---
 

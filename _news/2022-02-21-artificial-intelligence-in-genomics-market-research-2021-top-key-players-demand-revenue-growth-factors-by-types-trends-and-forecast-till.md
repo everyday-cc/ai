@@ -28,33 +28,51 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ..."
-    publishedDateTime: 2022-02-16T14:23:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028"
+  - title: "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
+    publishedDateTime: 2022-02-18T16:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 65
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 62
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png"
-        width: 600
-        height: 337
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Robotics Surgical Simulation Systems Market Recent Trends, Business Scenario, High Demand, Product, Share and Forecasts 2028"
-    excerpt: "The global robotics surgical simulation systems market is projected to reach a market size of USD 1.69 Billion by 2028 at a double-digit CAGR over the"
-    publishedDateTime: 2022-02-17T12:23:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robotics-surgical-simulation-systems-market-recent-trends-business-scenario-high-demand-product-share-and-forecasts-2028"
+  - title: "AI for life sciences research gets boost from the financial markets"
+    excerpt: "The new AI technique captures this but also goes a ... study to affect the same aging processes in cells. VSB got their start in space biosciences in the early 2000s, using language modeling ..."
+    publishedDateTime: 2022-02-18T17:48:00Z
+    webUrl: "https://phys.org/news/2022-02-ai-life-sciences-boost-financial.html"
+    ampWebUrl: "https://phys.org/news/2022-02-ai-life-sciences-boost-financial.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-ai-life-sciences-boost-financial.amp"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-for-life-sciences-r.jpg"
+        width: 2800
+        height: 1936
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Research Report (2021 to 2027) – by Function, Product, End-user and Region"
+    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. The major driving factors of Artificial Intelligence Chipsets Market ..."
+    publishedDateTime: 2022-02-21T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2021-to-2027-by-function-product-end-user-and-region-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Computing Hardware Market Insights By Growth, Research Methodology, Emerging Trends and Forecast"
     excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and ..."
@@ -70,6 +88,20 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "Global Market for Artificial Intelligence (AI) 2022 - Featuring Spectrum Labs, 6sense and 7bridges Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"The Global Market for Artificial Intelligence (AI) 2022\" report has been added to ResearchAndMarkets.com's offering. The development of artificial intelligence (AI) technologies is growing rapidly and transforming the global economy."
+    publishedDateTime: 2022-02-17T09:23:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_a643da2d-5b49-5160-add6-9a6aaf20a8cd.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
     excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
     publishedDateTime: 2022-02-17T17:48:00Z
@@ -84,20 +116,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Image Recognition in Retail Market by Manufacturers, Types, Regions and Application and Forecast 2022 to 2031"
-    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase ..."
-    publishedDateTime: 2022-02-18T23:55:00Z
-    webUrl: "https://menafn.com/1103724928/Image-Recognition-in-Retail-Market-by-Manufacturers-Types-Regions-and-Application-and-Forecast-2022-to-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40803"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
     excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
     publishedDateTime: 2022-02-17T11:36:00Z
@@ -107,19 +125,33 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
-  - title: "Dark Analytics Market Size, Share, Industry Analysis, Demand Forecast, Opportunities and Trends | Market to Touch USD 880.50 Million by 2027"
-    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
-    publishedDateTime: 2022-02-17T06:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-industry-analysis-demand-forecast-opportunities-and-trends-market-to-touch-usd-880-50-million-by-2027"
+  - title: "Artificial Intelligence In Genomics Market size worth $ 5628.19 Million, Globally, by 2028 at 52.60% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Genomics Market\" By Offering (Software and Services), By Technology (Machine Learning and"
+    publishedDateTime: 2022-02-17T08:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-genomics-market-size-worth-5628-19-million-globally-by-2028-at-52/article_0b86f330-17c9-5156-ab9f-714b962b9bf8.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Aerostat Systems Industry to 2027 - Featuring Aerostar International, ILC Dover and RosAeroSystems Among Others - ResearchAndMarkets.com"
+    excerpt: "There are numerous organizations which have started employing intelligent video surveillance systems owing to several advantages offered by them, such as object recognition and video analytics. Other than this, the demand for high-quality aerostat systems ..."
+    publishedDateTime: 2022-02-18T14:59:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=618918"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
     quality: 0
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "J+U/H4rYLZHLMhjheUcIQjGzMdefq1u1KEy1qJuxFc0IEuv3+3mM0xTbwGNDnyF2uWe5MVuFC/EGhGXQ0XA/ThJ55rUaYDuOgj5BKUHBHVY8FxPZ7OagdQUwXMHk0SI+rXyP+bmvnbrGGDkYLL2E43gupS78/HuOmeUDZG2KWq+GenobjvFCKfGElMpmT2kW+IuL6lOGq9d9ImyrdX0ZeYurJqBAVI74jpv4R9b5rpfpwKbYGO2pw0jwZCBL6KtDlUUjryJ11WUW8i0ykz8pDRvsH+9liyxueyPZq5BIGNWMwwt7Wyi2JmZbDz3gvg1KbiCYpRn2DRemAH0ByZiCOBuFNnyvXZR8lYc4mz24E/E=;3+YaiVdrgjb3SMdgNfS9oQ=="

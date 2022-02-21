@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Coining The Term AI-SecOps: Why Your Business Should Consider AIOps For Cybersecurity"
-    excerpt: "AIOps tools combine artificial intelligence (AI) and machine learning (ML) to create the ultimate defense — cue AI-SecOps, or AIOps for cybersecurity. I’ve spent more than 30 years designing, developing and operating large-scale IT networks and data ..."
-    publishedDateTime: 2022-02-16T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620b82cb3747810d1f43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 661
-        isCached: true
   - title: "The Key Artificial Intelligence and Machine Learning Trends for 2022"
     excerpt: "This allows artificial intelligence to complete numerous tasks that would otherwise have been too challenging, giving it new applications in finance, chemistry, and healthcare. Another key AI trend we expect to see is the continued rollout of natural ..."
     publishedDateTime: 2022-02-21T00:24:00Z

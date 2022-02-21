@@ -7,8 +7,8 @@ originalUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-go
 webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: tynmagazine.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM acquires Microsoft Azure consultancy firm Neudesic"
-    excerpt: "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ..."
-    publishedDateTime: 2022-02-16T13:08:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1594223123/itpro/IBM_building_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
     excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
     publishedDateTime: 2022-02-20T23:05:00Z
@@ -53,6 +39,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/2fd7a2dea6d47c0405fbba180846ff2c.jpg?t=20220220_221348"
         width: 752
         height: 408
+        isCached: true
+  - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
+    excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
+    publishedDateTime: 2022-02-17T07:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 53
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "BPWwMF/xXo+1tpMlKdawRWilvSbwzmdM0ZQIB+MTaZKC7qShS8DQOj15l5u60hzIrGBuyjStgpO2Fn0bD0T+OKkSs0WbY9GF/JmK2Rp0HQlc0kGQDhjyf5ddTVSxr+SGXyzi1uOeGiThX/ecuXDMvq5668m+micvw3uEsIEkp0qRlj962Nppu2Y8cteURApxUM8pSaeH79Q63AOZ1Qwah/R0VkRdSux4hj+gJ5Gt2pHIVyiaMrWoPTNQXo6Eho3R2JciYFz+JvLoaXSh228ksB2MtWXNIFUPZog1FMhIoEV6JetE63UPkiehKjp/zJ4Vl4JQKo0w/txYgJ8o/s/+qrj8EMSmlpmDyP6DJO8ueQkVZzLVqsxS8OrMldfQ7C7eHTRl94SoZMHiYfHGcN1hCR4mnEsodPS7nadIrJkDiafrbwASROhDQxPGayG3oZw417cOuDtFlfB3F4LCZsBsGpDBAPqzE2C5CE0ifuVpw0OwORYgOFebNY+ui9hBP5vngsC53ylo5H9fl6mxSwDYuQ==;eb99A+t8rmJkVzqvSlWZlA=="

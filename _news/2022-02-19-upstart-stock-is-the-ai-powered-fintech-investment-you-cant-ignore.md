@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/419185"
 webUrl: "https://www.entrepreneur.com/article/419185"
 type: article
 quality: 71
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Younited: An interview with the latest French fintech unicorn to set its sights on the UK"
+    excerpt: "As vice chairman of France FinTech – a non-profit association promoting fintech ... “We have also developed an AI-based personal finance management tool – called Younited Coach – which provides free budget diagnoses for our customers.”"
+    publishedDateTime: 2022-02-21T05:32:00Z
+    webUrl: "https://www.altfi.com/article/8846_younited-an-interview-with-the-latest-french-fintech-unicorn-to-set-its-sights-on-the-uk"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 15
+    images:
+      - url: "https://www.altfi.com/images/featured/younited-an-interview-with-the-latest-french-fintech-unicorn-to-set-its-sights-on-the-uk.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Fintech Is Going To Integrate Hyper-Personalization In the Financial Sector"
     excerpt: "We can't imagine our financial lives without digital finance, which allows us to do anything from check our bank statements to trade stocks. The revolution in financial technology has democratized areas of wealth management that were previously beyond of  reach to the general public."

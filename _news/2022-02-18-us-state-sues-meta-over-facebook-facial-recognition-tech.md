@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/us-state-sues-me
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Agencies shouldn't use facial recognition for ID verification, groups say"
-    excerpt: "A coalition of human rights and tech organizations are calling on government agencies to stop using identity verification vendor ID.me or other identity verification tools that use facial recognition. The Internal Revenue Service announced last week it ..."
-    publishedDateTime: 2022-02-16T14:50:00Z
-    webUrl: "https://www.govexec.com/technology/2022/02/agencies-shouldnt-use-facial-recognition-id-verification-groups-say/362054/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 38
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2022/02/16/021522_getty_fcw_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
     excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."

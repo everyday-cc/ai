@@ -1,0 +1,30 @@
+---
+category: news
+title: "25,000 students fill National Stadium to take Artificial Intelligence test"
+excerpt: "KARACHI: More than 25,000 students from different parts of Sindh participated in the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) grand entrance test 2022 here at the National Stadium Karachi (NSK) on Sunday. The initiative is ..."
+publishedDateTime: 2022-02-21T04:06:00Z
+originalUrl: "https://www.dawn.com/news/1676226/25000-students-fill-national-stadium-to-take-artificial-intelligence-test"
+webUrl: "https://www.dawn.com/news/1676226/25000-students-fill-national-stadium-to-take-artificial-intelligence-test"
+ampWebUrl: "https://www.dawn.com/news/amp/1676226"
+cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1676226"
+type: article
+quality: 55
+heat: 55
+published: false
+
+provider:
+  name: Dawn
+  domain: dawn.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.dawn.com/large/2022/02/6212efb7d131b.jpg"
+    width: 800
+    height: 480
+    isCached: true
+
+secured: "PJpr4PlILBUvSwHrwxZOmSoAA9Xh9PSpxy31vA7jjdlto4vOMREboKtm2vQ16j2tR8mgsV/yQIBySfYq3UrMAzlS1eSkppisL2G8ShEPcZyS0L7sZk/x6sfX3thKbAthCOr+S3430Hok67RzilSPgOz5uakTmCjrBBIUrr1d0cvaMzeY4zHS4kp2et6GH08qoV40y9f6uvbA6u8wsyhrYxL331Qk1argUZHxMZw7E8eEqqV+bZB2hlkjtUV9c03OjgjCUXKMehsd12UxFRaz6n1tvO4wwwfSEAq7LHJDd9d2VSJqF0AKe/iOSqwtmV+2BeIVu9FQJLFxi0scxkFIgUHHeckE+lIenY29yPXmaRw=;iY7dT80LN76sdyur8HS0hg=="
+---
+

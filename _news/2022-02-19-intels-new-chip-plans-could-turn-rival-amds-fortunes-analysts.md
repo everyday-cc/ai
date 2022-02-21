@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/intels-new-chip-plans-cou
 webUrl: "https://www.channelnewsasia.com/business/intels-new-chip-plans-could-turn-rival-amds-fortunes-analysts-2507876"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inside Intel’s Bold Chip Making Plans to Dethrone AMD"
+    excerpt: "Intel will make monumental investments in chip technologies in the next four years. The Santa Clara, Calif.- based company said on Thursday it expects revenue from its segment housing PCs to grow in low to mid-single digits, and its data center and AI ..."
+    publishedDateTime: 2022-02-21T05:53:00Z
+    webUrl: "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 59
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/02/chip-making-scaled-e1645422729624.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Intel's new chip plans could help AMD"
     excerpt: "Intel, which plans large investments in chip technologies in the next four years, said on Thursday it expects revenue from its segment housing PCs to grow in low to mid single digits, and its datacentre and AI business to grow in high teens from 2023 ..."
     publishedDateTime: 2022-02-20T21:55:00Z

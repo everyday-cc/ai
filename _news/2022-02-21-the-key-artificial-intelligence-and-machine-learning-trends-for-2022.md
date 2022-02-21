@@ -42,22 +42,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Coining The Term AI-SecOps: Why Your Business Should Consider AIOps For Cybersecurity"
-    excerpt: "AIOps tools combine artificial intelligence (AI) and machine learning (ML) to create the ultimate defense — cue AI-SecOps, or AIOps for cybersecurity. I’ve spent more than 30 years designing, developing and operating large-scale IT networks and data ..."
-    publishedDateTime: 2022-02-16T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/coining-the-term-ai-secops-why-your-business-should-consider-aiops-for-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620b82cb3747810d1f43f3c8/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 661
-        isCached: true
   - title: "Upcoming AI Tech for 2022"
     excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
     publishedDateTime: 2022-02-20T17:40:00Z

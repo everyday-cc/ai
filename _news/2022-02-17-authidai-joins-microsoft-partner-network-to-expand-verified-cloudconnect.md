@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Microsoft bigwig has a plan to kick-start Australia’s AI sector"
-    excerpt: "She said Australia has the chance to be a world leader in AI fields such as autonomous robotics, combining AI with contextual thinking from humans, and the integration of fundamental human values into AI algorithms. A team made up of members from CSIRO’s ..."
-    publishedDateTime: 2022-02-21T02:00:00Z
-    webUrl: "https://www.afr.com/technology/ex-microsoft-bigwig-has-a-plan-to-kick-start-australia-s-ai-sector-20220209-p59v55"
+  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
+    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
+    publishedDateTime: 2022-02-19T08:09:00Z
+    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 58
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 71
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.4847%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1138%2C$y_362/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/559cca84ba5b4e00028e1a90c63a56ed58054cd9"
-        width: 1200
-        height: 628
+      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
+        width: 602
+        height: 305
+        isCached: true
+  - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
+    excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
+    publishedDateTime: 2022-02-20T23:05:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/23120-ibm-acquires-leading-microsoft-azure-consultancy-neudesic"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2fd7a2dea6d47c0405fbba180846ff2c.jpg?t=20220220_221348"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "4QfQjngbzB6+rvz1TN18sTmh6tPnWEtN3N8gYwNp7HaZFdCrRr2CYUU2Prt2XydB+JSRKAkSSgwHukltOvQ+vXxSenorq5AeGLmx1wTrvTfaH3ACgLqAiwAuIsMDffUYpXJ+adn6cicwTjBqdslUrl/BhRU2Zg40J/2vuae+uxOyeDokzDovbsxowRUy2UvyaoMarEEfKQtJ0EYs5+NdaPMwnGokAgkhY3jfLyzWnKfq+YAwZwAIrUQceXTklKUZCPQ8knzoDCFvkYChR9VQitNyrCufrg0UOfdVJkH1PM9qD+T+dK8jisBOEJhfJTDpKqgy1S7nw6jmFbV9YGkaHbpWr+B1vr+d4elLgoCRk9we4kqiSjjOUXcnNxTZosRoft/gWBmdHVmDhb1clcTz9mNbnRA01/aAAuUslZCO73a55Idjc2EcIcNYpQ1SAVX4ypOCfXlkOS+BQ3RJtNt0X4AmxdBhtDdeX3OWI0xhQp6D9htHpBwmWq/gu+NLVkroCwMQmacuOIKPW+A0uBEznA==;BdzW+YDGm4mjF/iiceETeQ=="

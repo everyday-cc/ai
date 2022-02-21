@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/six-unaddressed-legal-concerns-for-the-metaverse/amp/"
 type: article
 quality: 172
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 809
     isCached: true
-
-related:
-  - title: "Meta-AI: How to Build True AI for the Metaverse Platforms, or what's wrong with Meta’s Next-Gen AI Supercomputer"
-    excerpt: "Meta Platforms (former Facebook) has introduced the AI Research SuperCluster (RSC) as the world’s fastest AI supercomputers to accelerate AI research and help us build for the metaverse. RSC is supposed to help us build new and better AI models that can ..."
-    publishedDateTime: 2022-02-16T13:14:00Z
-    webUrl: "https://www.linkedin.com/pulse/meta-ai-how-build-true-ai-metaverse-platforms-whats-wrong-abdoullaev/?published=t&trackingId="
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 18
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHNz1c212OFhQ/article-cover_image-shrink_600_2000/0/1645016282331?e=1651104000&v=beta&t=0gc0KwmhQzq7qfvz93ba9D4JYljUA28KODOSj7FTqOs"
-        width: 602
-        height: 339
-        isCached: true
 
 secured: "QLvGhtIFfU/A6SmYOqosFl8K7cqYTsAiSASPpehTbNPCs2G4T5Y5u6aXaGPNpSVG/gXyH3bkVNj5qusOOVJKVlezGDLSKIWEpaRjdghbygDBTLC2MUV++B/+Fm/CPEcFeO3OrbdNY7r5EpQnYHovn2I73C4Wq3MxTv/OnyUf518QICebm4cCWwzCcgcP/MwUBEYBgYMgIikNm12iVZ/dmuzRZSLjnhNYqPgqvjWNvCxsxIkGdCrsT//91BJY5dDQbLC+oAr7hbqkFtFHRmEyiwwqKHfqCo1XwIkOOX+aRe5QZ/JyfJPOw2FswSFTjPhVLM7ETGd/L2VrpXz24Uu5gEyNo2hQUDiUS965hVWXlUQ=;HSo/gAAxhrsBNGvnqiT2hA=="
 ---

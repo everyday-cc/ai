@@ -35,6 +35,20 @@ related:
         width: 1370
         height: 740
         isCached: true
+  - title: "How China is using AI for warfare"
+    excerpt: "The actual military expenditure is higher than what was mentioned. The PLA has integrated AI into their mechanisation procedures to develop various forms of electronic warfare systems. Since the launch of the Wing Loong-1 combat UAV in 2009, the PLA has ..."
+    publishedDateTime: 2022-02-21T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-china-is-using-ai-for-warfare/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/China-warfare_11zon.jpg"
+        width: 1873
+        height: 1054
+        isCached: true
 
 secured: "3VnE5wP1PAxQzVuekT9kiQgRLj91ZNyEK9DtM6x3bm95fiEX6G4pAhJlnQJMZWWRI+q3EakHCaRx56UX2lssqyCHtrxQtCS2O2AhxXPVZMmbYX7dHixhNSrScFAfdHGytWai8vBy+9tBAW/k3ZHFZJvRUEW8LnJfu4CmCzv9TMysyc61ymVDdNRjH6OUQ69ulxHbPMQsf7ou4OZkE2vNjFRSPTk3gQkNQ4aZ7C5qeyfg4Cr+O/olM+jxw/dw1Vbz8DrwTmOCdeDp5GZe5Ru4NfTZjWu4rkfj5Pp/prHsNCHgvozYm1c5FDRyB4HjgEHHH1QB7lak+Wqh8oeg3k4M2TqUymHTysSxwmuKZV+J7Ho=;2DFag6B0LupqZT+kuJ8rJg=="
 ---

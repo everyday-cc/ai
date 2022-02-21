@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/video-games-speech-recog
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/video-games-speech-recognition-hold-promise-as-ed-tech?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Smart necklace recognises silent speech"
-    excerpt: "Researchers at the Cornell University have developed a silent-speech recognition (SSR) device that can identify silent commands using images of skin deformation in the neck and face. Movements in the neck and face are captured by a neck-mounted infared ..."
-    publishedDateTime: 2022-02-16T14:24:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/smart-necklace-recognises-silent-speech"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1645021620/widgetdocs/Necklace_topozn.jpg"
-        width: 750
-        height: 405
-        isCached: true
 
 secured: "fslQ3OuEGLQPwXlAAJKekO1KC0Qp8SKMpujfOHS/TRo2hCazu0uyjjjXlNEClJX4srEK+S1jEnyw1m+/7Tprf1lI0Wwgg6tTwUL7oUcf1HOnPI+X8XOL+CIEq7vZQYFHdVOphJgeV7wHCapYE5Fmt2PjuCf+/vs/b0VDNBZcYVNedXPlOUjOQ0lMRuevRo65vqo/vZ9je5ngoDzTNBMH5n24NUMvWYgNSM84IK3z50EJdKbk6SaRjhkXKnM4/01M2AiE9tp/27KoX8lLAIEE2Yd93KhUVBshASXbwCiAOm81dx/tEgnqGbY/i5VtkV4LfQetGPFeVhMfjDAxAQlZ02wFTbs9dRV+E+iFbQ+dwRPoGqfrnPi+IyfdL4s+BYnuhCg9h+tjMoqec43lH6qzVLdATUFz+aOOLzVyrNTrtC58Eqz588VTFN4Hz68Mno0Klg+skGoML2++pAlIpn880eQZzPZEoOWsz1KolvjvUhjrBb9hp/me5ps8dkLD86lHUA3CqAbXx/a2irzdWXkNDw==;tQSOI1ND5KHXGktW0IsQUQ=="
 ---
