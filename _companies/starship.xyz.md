@@ -2,7 +2,7 @@
 name: "Starship Technologies"
 overview: "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry."
 type: "profile"
-heat: 135
+heat: 89
 
 website: https://www.starship.xyz/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarshipRobots"
   url: "https://twitter.com/StarshipRobots"
-  followers: 11718
+  followers: 11717
 
 size: 201-500 employees
 yearFounded: 2014
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tf8Lx0zqw4AfwlumWT9sM+iqz241XNyVYr2+w5s4Iw1lI0b9M+SUW1ZTzjU2ls99MXEtoxD2orDewQGe1folTzKPakDFGS3rjA1+McuFwYJrHDfhDjNQCfWdRVoFev/H9srzf8QYUizEOBNtX0MSEB0lSUrQwCWc5MwnPxrX0CVg5XIcb4xifZteQTNEqfdE2I6BLzT6pm+t2358B78GVxz/EtgAHIItx1M2c58aGb2ZxvcREkWKcljtS7U1NBzxgbMgtO4l0hYKu+rbfykUwAseG87qOCpDETYdX/fucLuNBiyV9bF+VKwtQozV2wY9NeRKB436uwv5UBmqGRBAZstfifhK+NUwNIDIcyVx9yFC/3WhaWsamg4xYQAE48xYyVM2uwDb49JZXUBLpoG7r2P6RhQiO6Erpqo1S9vT+Ik=;DHoq3727icIEr03v1lvN8A=="
+secured: "gE3+gvUW7Tavjsh2BlpqWByE0shxYz9+Ab+HngsjkWCGklZjFPQR3qMYcX8hyYxgS1/Ah6BuEfZboQM+ySuwOi+BITPzMVjw9iRX3XE0maf7ZeLPRQmHoOXO/J6FB/aaePn1HH9smoPRV4V92+xVAolH+D/z7+QcTOKjXndJtaLSk+Nn+qPVF7gfkfxfwAcZICh2H2d1JEbcCf3JPsGU7biskIA2D//6wtpcZA0Yh7Ksqq0E/a6xc8loDpOk17Qehf8HoSOtFgB4teWM0s3cizrL9CViEcAg4vNsWNtaIUJZKeVHBFgf4CE26EHFHVLY0gUxASmL5Sf7b/SWoHHZ2WEedKQb59hW1lj9O5RinrL4NTnjH8mFnucFpRsF7QoZtA5JTedpc5gA0xWOfTMwxEG8Wo1uap+B75KcfzXRQ6c=;hxaowKVlDvqW8lEiF6SVQQ=="
 ---
 

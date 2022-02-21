@@ -2,7 +2,7 @@
 name: "Reflektion"
 overview: "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time."
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://www.reflektion.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ReflektionInc"
   url: "https://twitter.com/ReflektionInc"
-  followers: 1447
+  followers: 1448
 
 locations:
   - San Mateo, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Reflektion"
 
-secured: "E2TdrH6k67wMC8bdhOZdchHiFyAkUvhxDAGv6s5zp+vu5SS0raiR72AidE3cS/sB07H3RvStORqut+b4RJjdo1qdsSgavjlOF5wkmUAquwugeR8hSNsgcCVZc+syoRvQGPvC4jLeL0vfKFGY5mvihKTOnzVKP9/rTrKPfTtTlE4t1W+/7fHKH1ozWG3z1eqva/12i9rmJ7v08DTYwYPotvH1SfupmEAaaIkFoYrd/kT5REzdPsq10Vdv/u6kyDgPo38uwMAqrayvhl3LIGiYjwrue6lUoUCBMkWoVXypOWb3bHbxTbzRMqJD37PrKxMMPIWCLZvhX5jThoqA0K7/TceV2Oo4BQ6pXhVHuetPRveX+uRKrW1nwYRp9o1eovud0ZrLPUaiYk7K3DAdSewA/YnIqUM9TNnXukIP5LxfIiA=;NNEziaEkzY8bUkaz63esEQ=="
+secured: "Vrv49+vU60N2tkzrJa/lO8TEeah8czqlnumiuLR2r7/WTVNJEZM4d6fgpHpKOUnxeNJZtYwdL2zOXC5cONwWmqbnVI0fjEJAzsdfGjg0wpusb72W5fFAWYc5kAn66JSt0QTbPvZcm24feK67HsC4/rtQjPHxPYP6KNrcdy0P7G/j8l7VRY3j2yZIi3n9SBYQJUXJqgRQIdq2GJ9q6+LU0sbju9JzdliDOJVFC9nR0K3ZHZYlEM6HwO6GHE1Kj8A71lU9+sVUO6HnqqececsTeBKyoISXXv7OZs7iqUzZ/ryfMNUmqJCsZU82EVLyJPV6mTcpXCr3iFrZcTcbn0Vfy5vOCA6KTt6PDz70csfA3qgrBCJ2/lAx1AxJYXeClOxZprM3dO0ZM24y14zdtcLifK9JBOPFdy2Ismahx6oLTA8=;P3eilaOlGfXNyuSj+mDKnQ=="
 ---
 
