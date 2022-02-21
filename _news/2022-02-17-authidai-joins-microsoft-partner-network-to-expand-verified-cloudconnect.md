@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-pa
 webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "FacePhi, authID add face biometrics platforms to Oracle, Microsoft cloud services"
-    excerpt: "FacePhi joins Oracle partner network, delivers facial recognition to Cloud Marketplace FacePhi announced it joined a network of Oracle partners and now offers its facial recognition and biometric onboarding service on the Oracle Cloud Marketplace ..."
-    publishedDateTime: 2022-02-18T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202202/facephi-authid-add-face-biometrics-platforms-to-oracle-microsoft-cloud-services"
+  - title: "Ex-Microsoft bigwig has a plan to kick-start Australia’s AI sector"
+    excerpt: "She said Australia has the chance to be a world leader in AI fields such as autonomous robotics, combining AI with contextual thinking from humans, and the integration of fundamental human values into AI algorithms. A team made up of members from CSIRO’s ..."
+    publishedDateTime: 2022-02-21T02:00:00Z
+    webUrl: "https://www.afr.com/technology/ex-microsoft-bigwig-has-a-plan-to-kick-start-australia-s-ai-sector-20220209-p59v55"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 58
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
+      - url: "https://static.ffx.io/images/$zoom_0.4847%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1138%2C$y_362/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/559cca84ba5b4e00028e1a90c63a56ed58054cd9"
         width: 1200
         height: 628
         isCached: true

@@ -55,22 +55,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Algorithmic impact assessments — AI Act enforcement — Facial recognition in NYC"
-    excerpt: "AI: Decoded called Jenny Brennan ... about what facial recognition and surveillance tools the department had acquired. The EU launched its Chips Act industrial plan, a multiyear, large-scale investment plan for its microchips sector, and presented new ..."
-    publishedDateTime: 2022-02-16T10:00:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-impact-assessments-ai-act-enforcement-facial-recognition-in-nyc-2/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 72
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Bill seeks to restrict the use of facial recognition technology in Colorado"
     excerpt: "Colorado lawmakers are seeking to restrict the use of facial recognition technology in the state’s government, law enforcement and schools with the introduction of a new bill."
     publishedDateTime: 2022-02-16T15:07:00Z

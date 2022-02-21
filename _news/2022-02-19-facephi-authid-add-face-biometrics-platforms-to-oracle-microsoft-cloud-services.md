@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202202/facephi-authid-add-face-bio
 webUrl: "https://www.biometricupdate.com/202202/facephi-authid-add-face-biometrics-platforms-to-oracle-microsoft-cloud-services"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
-    excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
-    publishedDateTime: 2022-02-17T07:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 53
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "iUVuX5B9F39IvNa4wkSzy1wivIYHFCFpOpf5z0cWFare3vGxDkMo2PvLlpX6LXxdoXoYBaSUeGimSb6V/E22qHaeOzTiL4M/Ss3Wpfj/WfkLt90pn+wMlUx7k2+45+L5u0QI0HnYik1cGf63lKb98bqlWvc69J/8mGeoYVj8yvdISmjEIhe1N6VJLGG+Mt6WRCq7Y2i0EJbx09MvUQBbNlbUenvTzunVNeYBPEhwLrf017aijeoTXpOegmdueHDlR+Svh8HKJH6/Rs9AbohE6NAYWG9GxEZ5yOGoG3eZwcxbnIgo8YwJ0YqZiZF4thTdkvRxwv/8mub+41MQimwkk+61rjHV5KO6uq/+9RkKkm/o6Na8lz98lyHTwbTCiNzUcRbHhq5LrC1OAiwEdiSbeG0h5X9NO0v8XyTyWCUtKo/e4S/Xe6ZwUCwAJHaybimoTNojSU78MpPXRbbl9ZtP2V7KUdz15XgJowMn7dChU4DWBBqkXmIg/O0DOMm/zaqswUhrMsWnzR6rhuMWAVmA/g==;L/T5vIq8vtDTQ6ETZOaCgw=="
 ---

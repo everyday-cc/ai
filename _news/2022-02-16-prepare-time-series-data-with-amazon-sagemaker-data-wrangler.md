@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-time-series-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-time-series-data-with-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1106
     height: 630
     isCached: true
-
-related:
-  - title: "Focus on “SageMaker Canvas” by Amazon, a “no code” tool for business analysts"
-    excerpt: "At its Re:invent conference, at the end of 2021, Amazon Web Services unveiled a large number of new features for its SageMaker service dedicated to Machine Learning on the Cloud with the main objective of opening up access to ML and AI to as many people as ..."
-    publishedDateTime: 2022-02-16T10:07:00Z
-    webUrl: "https://www.actuia.com/english/focus-on-sagemaker-canvas-by-amazon-a-no-code-tool-for-business-analysts/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 36
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2022/02/Focus-sur-SageMaker-Canvas-par-Amazon-un-outi-no-code-pour-les-analystes-commerciaux.png"
-        width: 3333
-        height: 1667
-        isCached: true
 
 secured: "qb9pVTKeX9wE2euUPKXL+EAiCQ8ka9RZlFvYwy46jMHtR1mo7u+CU8Eu9TDgiVMLfCWX+SRO1Tk6pZBpfG1POqo/BaUJEFtvVSLtsEYVIZIc3GG8pQ8DM2dKe1+ddF6rVfXCtd7P1cE1ahK3lamNuebpX48yPfB+qLEwhl4VOlXCjyzBDNnIqDmvnZ7lw/p4ZriYIfcJgJdPE8VzOWSYqN5hSUoplc4JUS4znEH+u8SMSV9QGVbU71mTIJwm5LbfNljx6jUvbpmHN+7HdWv2g2yPW2kh49L61pMOxx5EOgWWOJWOB1kCKEFPy767iWaoPMe1+S93qr7/eg1h9r8K0OY8rXkGovNbvUpl7xlVYow=;W7ee+tiJKSrEFsWqZC+/Eg=="
 ---

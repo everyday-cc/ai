@@ -52,18 +52,13 @@ related:
         isCached: true
   - title: "H2O.ai democratizes deep learning with H2O Hydrogen Torch"
     excerpt: "New no-code tool simplifies training and tuning of image, video and natural language processing models H2O.ai, the AI Cloud leader, today announced H2O Hydrogen Torch, a deep learning training engine that makes it easy for companies of any size in any ..."
-    publishedDateTime: 2022-02-18T08:43:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
+    publishedDateTime: 2022-02-18T10:58:00Z
+    webUrl: "https://bdaily.co.uk/index.php/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
     type: article
     provider:
       name: Bdaily Business Network
       domain: bdaily.co.uk
-    quality: 54
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=940&h=430&fm=jpg&fit=crop-47-32&s=f6f9c83298cf3823cf73a84a7026f6bf"
-        width: 940
-        height: 430
-        isCached: true
+    quality: 34
 
 secured: "vxrAgUSE9ErHCtOBb8Qq0QBjsxZ7vkAvn2Weup6Rc1YoUGdZYT9JFe8cm8nP4zh8LcbvV9MFNjIAcQ5axUmlGAjwvjJnXQbx68oiqW0ItcTn23lOG7EXmHLMYK4uAi2mtiSc8QUeQs3vjOomMMuq8WFAIUrfNIMMPaDylIxPlRghSVXaE4NOJdOM47Ca2I+854jy7sxStFJTjZMQ6iEEwrF03Y+KEDnRS8yZRm2fC9gM+dFPFM8TyPp4E8RQ98rYl2sXbvy1jl3BY0/KWYb17iQIxuP3XEpodRpuBr7hzp6HjUuPw1QHNXjtOz+O25jEygBN0Zg6SPVJeeJHeeBtARFZ0PiaCTcYok1g2jkYA5q8gAoAgO5U5+fqfLxytHMX0sAeinInp0QFY/rWNGaxjeU96JayWNRZiGzp4Mw9RkDH75zQvYSMmxCC+qM4skg0EvNVFFJS21x2D1qCpoStzb/rWEFSYzy1umzPN+i2q/Ndz76yRSwMYFAoCh1sfq78g0JH9Ur/oukZdJlOnP6IYA==;9Yn2NRA8pss5/XQR03Erfw=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "H2O.ai democratizes deep learning with H2O Hydrogen Torch"
 excerpt: "New no-code tool simplifies training and tuning of image, video and natural language processing models H2O.ai, the AI Cloud leader, today announced H2O Hydrogen Torch, a deep learning training engine that makes it easy for companies of any size in any ..."
-publishedDateTime: 2022-02-18T08:43:00Z
-originalUrl: "https://bdaily.co.uk/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
-webUrl: "https://bdaily.co.uk/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
+publishedDateTime: 2022-02-18T10:58:00Z
+originalUrl: "https://bdaily.co.uk/index.php/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
+webUrl: "https://bdaily.co.uk/index.php/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=940&h=430&fm=jpg&fit=crop-47-32&s=f6f9c83298cf3823cf73a84a7026f6bf"
-    width: 940
-    height: 430
-    isCached: true
 
 related:
   - title: "H2O.ai democratizes deep learning for companies of all sizes with Hydrogen Torch"
@@ -65,6 +59,6 @@ related:
       domain: insidebigdata.com
     quality: 36
 
-secured: "q4Cu95AKHs9QDfJ4hNfApWF7S0HcjlzDavrx5X2NeUoYwqgLXpnn/ssF7jQZVDxExVZ8bCEbbmgYAK9wlCMLVYrM/fUCiJxK/XuaX0cUgQOvzLhflPfe3XXvlv+MnjwVLlmn1I9TCjXsNiI6FkhquH+5D+S7wvHajuJCvvRdNN0zspQ/nOZOqcqfZ05kaJhf/N+vF2sgNfs9ZHe2xOjp66IffVi7GbcP2I7Bd/JbGW3l61E5MuDXy9WULcra+72WEnW9QOj9O6yB5YmkudfBCdDEFF7pvi5QhkHeZsAS0/nm2Sm5QxWaMyIwXC1PpAAhRiIx1FNOQxT/3mz+yMW4rtIDWXASXDSIPlskBaHUDMzgAXTYiNgar3FKHnToZCkBeUhBhrLooz3j5hXqsgpjSiA/70boR63vTIbEqdJLoeZ7eamNsatWgs9s5CE8xWITEwA543PzapGA7+6Fk1Uzrz8gt3zPb7rvrEf2MyEbJivcwL2eDchwPlcyyPjlWPY7zJg8JWpc2SidCsJKnVj9oQ==;SyzI2+uceCqoCxkl8uaTzw=="
+secured: "h3hk1o/HOhJj5VBl7yWmfs/USoN4tVmP5hom7iPp48OJvdqfc9/yRiuu4grXO6D9ribOFuEAv6LXBl2YPb2ma0l++muAGJ4iZll6p+y/Wlsuw+UktpXtfwUaKZQhw9KnuuRaLtuMXXPWmn3h7qaJlSbPbiFB4jgcqhKRYNWOVpT9p3SZ7FBtvxlwkBqLHaWOWfH9rinJaKZ4lHoJI3GMu2CKyXCgLq++LBmI0MJkc2KkVAtX7wWn9BgT3V1ZIRLILnX1KaiTxBfYe/wHDRVR1epA0mv2HDgxDdGFQMtbQbRfRcVkZ+vDYcKT7Ax93pm1dBInjIWJB4sWG0Gz/hRP1HOUXPJqCsBbHsXiHf40vIk=;3o+8SmsmoBHvAqNxOhHgOw=="
 ---
 

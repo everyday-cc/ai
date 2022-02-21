@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Uniphore A Unicorn As Startup Closes Largest Ever Funding Round For Call Center AI"
-    excerpt: "Discussing their visions for AI in the future, “we’d just finish each other’s sentences,” Chambers says. Two years later, with Chambers’ guidance, Sachdev moved the base of operations for his call center-focused AI startup, Uniphore, to the ..."
-    publishedDateTime: 2022-02-16T09:45:00Z
-    webUrl: "https://www.forbes.com/sites/kenrickcai/2022/02/15/uniphore-series-e-largest-funding-round-for-call-center-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620c43ddc348621673f84d1e/0x0.jpg?format=jpg&crop=2880,1920,x0,y0,safe&fit=crop"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Automation startup Uniphore turns unicorn with $400 million fundraise"
     excerpt: "Uniphore, a conversational automation startup, has become the eighth unicorn of 2022 after scooping up $400 million in funding at a valuation of $2.5 billion. The startup’s Series E round of funding was led by New Enterprise Associates (NEA),"
     publishedDateTime: 2022-02-17T16:45:00Z
