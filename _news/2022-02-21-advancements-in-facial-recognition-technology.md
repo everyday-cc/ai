@@ -21,93 +21,74 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition firm Clearview AI tells investors it’s seeking massive expansion beyond law enforcement"
-    excerpt: "The facial recognition company Clearview AI is telling investors it is on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial presentation ..."
-    publishedDateTime: 2022-02-16T19:47:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
+  - title: "Facial recognition taken to the next level in virtual reality"
+    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
+    publishedDateTime: 2022-02-17T12:12:00Z
+    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 138
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
+        width: 1920
+        height: 1105
         isCached: true
-  - title: "Clearview AI aims to put almost every human in facial recognition database"
-    excerpt: "The controversial facial recognition company Clearview AI reportedly told investors that it aims to collect 100 billion photos—supposedly enough to ensure that almost every human will be in its database."
-    publishedDateTime: 2022-02-16T22:00:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/"
+  - title: "What the Tech? Facial recognition"
+    excerpt: "Our names and faces are saved in Facebook's database of nearly 3 billion people. Years ago, Facebook began using facial recognition. If your face is spotted in a photo or video, you'd get a notification in case you want to add it to your profile."
+    publishedDateTime: 2022-02-16T23:45:00Z
+    webUrl: "https://www.wfmz.com/features/what-the-tech/what-the-tech-facial-recognition/article_8f565ad8-8f5a-11ec-86eb-fbea4dbfdb71.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 82
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/cd/ccd9c44a-36a6-565d-964f-53538bd6c56f/620d892de78df.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial recognition firm aims to collect 100 billion photos by 2023"
-    excerpt: "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020."
-    publishedDateTime: 2022-02-17T18:38:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true"
+  - title: "Why you should want the IRS to use facial recognition technology"
+    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
+    publishedDateTime: 2022-02-18T14:06:00Z
+    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 74
+      name: Reason
+      domain: reason.com
+    quality: 39
+  - title: "The IRS backs down from facial recognition plan to verify identities"
+    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
+    publishedDateTime: 2022-02-19T00:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 39
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg"
-        width: 530
-        height: 300
+      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Clearview AI ponders broader facial recognition service, free speech defense rejected"
-    excerpt: "The company’s online principles pledge states that its facial recognition technology will only be sold to government agencies, and Ton-That says the principles will be updated if the use of the technology changes. Clearview expects its revenues from the ..."
-    publishedDateTime: 2022-02-17T19:44:00Z
-    webUrl: "https://www.biometricupdate.com/202202/clearview-ai-ponders-broader-facial-recognition-service-free-speech-defense-rejected"
+  - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
+    excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
+    publishedDateTime: 2022-02-18T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202202/despite-facial-recognition-misgivings-we-seem-ready-to-trust-synthetic-faces"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 49
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
-  - title: "Clearview Plans Facial Recognition Database That Knows Every Person on Earth"
-    excerpt: "Facial recognition technology is nothing new — there are probably apps on your phone right now with the ability to recognize faces, but you have some modicum of control over that. Clearview AI, on the other hand, aims to build a facial recognition ..."
-    publishedDateTime: 2022-02-18T12:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/331819-clearview-plans-facial-recognition-database-that-knows-every-person-on-earth"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
     quality: 36
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2012/09/facial-recognition-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
-  - title: "Facial recognition firm Clearview AI says it will soon have 100 BILLION photos in its database to ensure 'almost everyone in the world will be identifiable' and wants to expand ..."
-    excerpt: "A controversial AI company has announced it aims to put almost every human's face in its facial recognition database, making 'almost everyone in the world will be identifiable.'"
-    publishedDateTime: 2022-02-17T15:04:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10523739/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10523739/amp/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10523739/amp/Clearview-AI-seeking-100-billion-photos-facial-recognition-database.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/02/17/15/54320011-0-image-a-6_1645110617174.jpg"
-        width: 636
-        height: 382
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
         isCached: true
 
 secured: "dCrBSp2gPBSEuQnfrzox6sGxt1bLoh6U5UcMgX8Qfw4kDM34MJRUYiAo07T8I5jhj4QIc1N7DgJwH6ycOwzzxlSBNv/dz9vxWOQ2Y9hl7xtgdac/SZow4oNk8OYXU9WXyQtc2sd+AZpJvgOIIvC0eK2XjpAyZl7xa/6cgye2nKMYQ+RTPC1K06zJwgTyS7j8IdYVJLJBWIU85Waos+8lxWf8DbGXdF3DPryXZt7QTe/CFb9nPRNwPFI/Du2QOL7S4zk7yo2u0F6Ku5p3vGcwE9iNbv9FudZlldBSJL+8HWMap79xPQjoRdX9U04ptJ+B//WIYLxEoogx0Oi7VDIYK06sLugtFWpWQ0lTqjxseA/zu1uzNZDJYM1B3d1rgyHJS1X06f2yZQBycMswUa9TiOJ98E/i5SN/A0OQfE4j6cnrw6AYCinjJDUHPzTHxbXBgnnlqFtCylgBHerKGWoGbCYpaaBe7QLhSEKImvfxdVjSVB9/A0ZuDP68yLrYyS/o4h0B/tJfKVE7EGfSn9gGvg==;76PscftSDsQDwIUrv247jg=="

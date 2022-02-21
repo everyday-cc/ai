@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/can-self-driving-tesla-cars
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/can-self-driving-tesla-cars-stay-in-their-lanes"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TheStreet.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Promises of Self-Driving Tesla Cars Run into Potholes"
-    excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
-    publishedDateTime: 2022-02-16T20:48:00Z
-    webUrl: "https://www.thestreet.com/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc1MjQxMjM1MDk3NzIzOTk5/extra-savings-sh.jpg"
-        width: 620
-        height: 400
-        isCached: true
   - title: "After recalls, will feds frustrate Elon Musk’s plan to make Teslas self-driving?"
     excerpt: "Tesla CEO Elon Musk is again promising big gains in the EV maker's \"self-driving\" software. But regulators also have their eyes on the feature."
     publishedDateTime: 2022-02-17T13:44:00Z

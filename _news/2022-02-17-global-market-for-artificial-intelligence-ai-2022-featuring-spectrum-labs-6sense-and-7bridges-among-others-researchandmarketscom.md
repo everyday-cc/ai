@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "European Warehouse Robot Market to 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"Warehouse Robot Market in Europe to 2028\" report has been added to ResearchAndMarkets.com's offering. The report offers the most up-to-date industry data on the actual market situation, and future outlook of the warehouse robot market in Europe."
+    publishedDateTime: 2022-02-21T11:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=619252"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 39
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Artificial Intelligence in Genomics Market Research 2021 | Top Key Players, Demand, Revenue, Growth Factors by Types, Trends and Forecast till 2030"
     excerpt: "Feb 20, 2022 (Heraldkeepers) -- Market Research Engine has published a new report titled as \"Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision), By Application (Genome ..."
     publishedDateTime: 2022-02-21T02:00:00Z

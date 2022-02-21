@@ -66,6 +66,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Advancements in Facial Recognition Technology"
+    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
+    publishedDateTime: 2022-02-21T04:37:00Z
+    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Despite facial recognition misgivings, we seem ready to trust synthetic faces"
     excerpt: "The European Commission’s effort to create standards for the use of facial recognition is ongoing, but as important as that work is, should politicians be giving more attention to a mirror-image danger? For all the very real concern about how accurately ..."
     publishedDateTime: 2022-02-18T20:46:00Z

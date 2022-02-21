@@ -57,20 +57,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Mexican Fintech delt.ai Raises US$25 Million in Cryptocurrencies"
-    excerpt: "Don't worry, we speak : Español (Spanish), too! The corporate credit and expense management company delt.ai announced that it raised US$25 million in debt. It did this through TrueFi, which is a DeFi lending platform designed by TrustToken. It is worth ..."
-    publishedDateTime: 2022-02-16T19:13:00Z
-    webUrl: "https://contxto.com/en/mexico/mexican-fintech-delt-ai-raises-us25-million-in-cryptocurrencies/"
-    type: article
-    provider:
-      name: contxto
-      domain: contxto.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/contxto.com/wp-content/uploads/2022/02/deltai-Jose-Alex-YCombinator.jpg?fit=1280%2C858&#038;ssl=1"
-        width: 1280
-        height: 858
-        isCached: true
   - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
     excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
     publishedDateTime: 2022-02-21T07:52:00Z

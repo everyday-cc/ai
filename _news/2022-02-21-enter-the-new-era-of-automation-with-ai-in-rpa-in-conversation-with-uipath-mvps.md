@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-21T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/enter-the-new-era-of-automation-with-ai-in-rpa-in-conversation-with-uipath-mvps/"
 webUrl: "https://analyticsindiamag.com/enter-the-new-era-of-automation-with-ai-in-rpa-in-conversation-with-uipath-mvps/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/ui.jpg"
@@ -23,6 +24,6 @@ images:
     height: 976
     isCached: true
 
-secured: "691MMiXr/uzS0g6x22+Rve/q4QH99qiXFVwAebZAVMtrKs1NqXAR16wZf287pfNWvOdtmQprhUBIyD0UnLXSxS9nNIhtrIkBUOz9ixpsJSaTWLSQqbJabxG0RJ+QKTRPHVY/n1G72Gs+6q7fG+MQXETMAomyk2KDupaJDn7vXZctyZ9yYyk9YoVzeAZQZL0YV4TN0Xv6tZhnsO29wOQ3Crx+o5x1xDkTLSuARK/RCv/LORbUaxTqrD7Vyl4p/ZRDWozdKKBLCWGV2tLZqA7eLrKxctQbeOL4D8cF3/1VNIvYuZUeLwD0hm/mAO8xPx+9krKq7KEbdAvO/TGy5r/rxmO0LHGHb/aAR80NbWB3nhI=;1k3EjQuNaGaX0IRELDkpQQ=="
+secured: "sSmZfOShbm+Gi2qVVmvjvAez4JytqP3Ck6RQf0ztW/AuFGk0LNKnJPeiWpHgPALfb4Ge8asqkl0kFzQ2x1IKVklZi3z7xDw3Z0ZVDR6vwCnzK3jjQqNHTniDr77t6d1LRLbgnIf6a4CrJefJXWzkcYTfqnDXQ/DHa1gYfDueP/zoOwfVMBhrR63/FB29LqOof9G1kiR3jS2l3ezzMLVSqqUTLsCAvdN0XQ5KUV2GiUXQ2VPGvLe4Iiobn+xyWviy+2QEM/XvOiJIj38Ptm6jCnhaohNeSGg2kPnBzpfayyymbAfmwBY8ET5qpQrxHYVsl5br/yA1IUEvwJ5qSu2sITUNDtK3ym3FbI8TWZe1JvxBlj9F9FVUZA8ELLaVKSVGlZZ8l8g5B6AVihkqobani0W/VkCOvrrZmNtm6zRnLL0CRfwliwayA2OJqGMv63n10cDK/krpB4T2BUn1rbdFUn7JxCjAJ0lNsVD89MkmFw3sTgJhylw3yEV1+2C65mr6qcreKUSoPcR4snGssxHxYA==;oKlUHmIiEWXvvgdabRnvYA=="
 ---
 

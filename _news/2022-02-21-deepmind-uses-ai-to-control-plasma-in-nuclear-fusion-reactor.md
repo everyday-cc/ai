@@ -143,20 +143,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 56
-  - title: "Air Force Moves to Drive Computer Vision Research and Development"
-    excerpt: "The Air Force Research Laboratory is deepening its exploration of commercial computer vision, or technology that is essentially training digital systems to “see” the real world. Through a new five-year Cooperative Research and Development Agreement or ..."
-    publishedDateTime: 2022-02-16T19:36:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/02/air-force-moves-drive-computer-vision-research-and-development/362077/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/16/021622visionNG/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "DeepMind AI trained to control nuclear fusion"
     excerpt: "For a few brief seconds last spring, a doughnut-shaped ring in Switzerland heated a bubble of plasma to ten million degrees centigrade. The machine, built to progress the development of nuclear fusion, employed electromagnets to squeeze, shape and sculpt ..."
     publishedDateTime: 2022-02-17T00:01:00Z

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Intel’s chip making plans an own goal"
+    excerpt: "Wall Street thinks that AMD will win The cocaine nose jobs of Wall Street think Intel’s chip making plans to meet rising demand will give AMD a greater foothold in the segment. Intel, which plans large investments in chip technologies in the next four years,"
+    publishedDateTime: 2022-02-21T11:25:00Z
+    webUrl: "https://www.fudzilla.com/news/54412-intel-s-chip-making-plans-an-own-goal"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/91ae5319373c72cc0d6019e16b21b029_L.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Intel's new chip plans could turn rival AMD's fortunes"
     excerpt: "Intel, which plans large investments in chip technologies in the next four years, said it expects revenue from its segment housing PCs to grow in low to mid single digits, and its data centre and AI business to grow in high teens from 2023 through 2026."
     publishedDateTime: 2022-02-20T19:46:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-p
 webUrl: "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: Ars Technica
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition firm Clearview AI tells investors it’s seeking massive expansion beyond law enforcement"
-    excerpt: "The facial recognition company Clearview AI is telling investors it is on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial presentation ..."
-    publishedDateTime: 2022-02-16T19:47:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 138
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Facial recognition firm aims to collect 100 billion photos by 2023"
     excerpt: "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020."
     publishedDateTime: 2022-02-17T18:38:00Z
@@ -73,17 +59,6 @@ related:
         width: 2048
         height: 1151
         isCached: true
-  - title: "Advancements in Facial Recognition Technology"
-    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
-    publishedDateTime: 2022-02-21T04:37:00Z
-    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
   - title: "Clearview Plans Facial Recognition Database That Knows Every Person on Earth"
     excerpt: "Facial recognition technology is nothing new — there are probably apps on your phone right now with the ability to recognize faces, but you have some modicum of control over that. Clearview AI, on the other hand, aims to build a facial recognition ..."
     publishedDateTime: 2022-02-18T12:00:00Z

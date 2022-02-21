@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-most-important-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Self-Driving Cars Run into Potholes"
-    excerpt: "The driver, who appears in a CNBC video, is one of thousands of whom Tesla is allowing to try new and unfinished driver assistance features on public roads in the U.S. through a program called Full Self Driving Beta, or FSD Beta. \"I'm getting honked at ..."
-    publishedDateTime: 2022-02-16T20:21:00Z
-    webUrl: "https://www.thestreet.com/investing/tesla-self-driving-cars-run-into-potholes"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/tesla-self-driving-cars-run-into-potholes"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/tesla-self-driving-cars-run-into-potholes"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc1MjQxMjM1MDk3NzIzOTk5/extra-savings-sh.jpg"
-        width: 620
-        height: 400
-        isCached: true
   - title: "What's the status of self-driving cars? There has been progress, but safety questions remain."
     excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."
     publishedDateTime: 2022-02-19T17:14:00Z

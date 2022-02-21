@@ -41,22 +41,6 @@ related:
         width: 620
         height: 400
         isCached: true
-  - title: "Elon Musk's Promises of Self-Driving Tesla Cars Run into Potholes"
-    excerpt: "Elon Musk's promise of a full self-driving car by the end of the year runs into some potholes during street tests. The Tesla comes up to a red light at an intersection in Brooklyn...and keeps going. \"We just went through a red light,\" the exasperated ..."
-    publishedDateTime: 2022-02-16T20:48:00Z
-    webUrl: "https://www.thestreet.com/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/elon-musks-promises-of-self-driving-tesla-cars-run-into-potholes"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc1MjQxMjM1MDk3NzIzOTk5/extra-savings-sh.jpg"
-        width: 620
-        height: 400
-        isCached: true
 
 secured: "KQsNWWSuoqIu1YBOkxuVqsLMrtPEHDMk/yHjnN7LdkQevRa8kr4uVbP17RyeoZC5pWCRDTnIZlzdZxITamP1Eje4hLo2iMOTkMWQ0U6My2cWFUPqCcMNtOkL7joT6Q0s+9EyhwG2XbW5Ili8MM5QPysSdEDntrLIrJ9y4zccv63boIU4LljRRp3zqiTr3ifZogNG5IDMmc4poZ+UhCaMxnAPSnCjVvnrT2r7gXlRrw/0El2XjSEntjPbGtIznAM3NolHyIzdk/ZRScRnN2cl+7mHHN2Hz8eMjumSaajWk8ijWdcVGqDSj0/MvGQYVDo5B0VbRHR6f9YquuzJjDv+glTZfhUW/EVFwFSQisJomdUUlxwQ/nmi8Tkm785TTsPQ0oleDSwLjgaKCGfz3eVq4VcOEoVp6VCXWbPF1h0+00uK11pRyAHuXWnI+Y59ma7RswViZJ7QnXN2Uls3V45XaTfQQ1728ORl7FHTJg2hkrartXbKyaeye5twwK7QF3qBFHRViRC+mLZSpNBNLoK8GA==;PnQjDQ2NjO498lb6Zk5IrQ=="
 ---

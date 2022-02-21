@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AiDash acquires geospatial farming solutions provider Neurafarms.ai"
+    excerpt: "With the addition of Neurafarms.ai’s team and assets, AiDash hopes to build on its vision of becoming a global leader in leveraging satellites and AI to revolutionise operations, maintenance, and sustainability for core industries."
+    publishedDateTime: 2022-02-21T12:55:00Z
+    webUrl: "https://www.businesstoday.in/entrepreneurship/news/story/aidash-acquires-geospatial-farming-solutions-provider-neurafarmsai-323332-2022-02-21"
+    ampWebUrl: "https://www.businesstoday.in/amp/entrepreneurship/news/story/aidash-acquires-geospatial-farming-solutions-provider-neurafarmsai-323332-2022-02-21"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/entrepreneurship/news/story/aidash-acquires-geospatial-farming-solutions-provider-neurafarmsai-323332-2022-02-21"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 57
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/space-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AiDash Acquires Geospatial Firm Neurafarms.ai At An Undisclosed Amount"
     excerpt: "It has not been easy for students... AiDash on Monday announced the acquisition of geospatial and AI (Artificial Intelligence) powered farming solutions provider Neurafarms.ai. With the acquisition of Neurafarms.ai, AiDash strengthens its product line and ..."
     publishedDateTime: 2022-02-21T10:00:00Z

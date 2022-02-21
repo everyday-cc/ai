@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence is Affecting Content Creation"
-    excerpt: "Artificial intelligence (AI) has pervaded our lives in ways we would ... no matter how advanced our AI algorithms become. Robots can perform a lot of things, but they can’t feel emotions or put themselves in our position to understand what we’re ..."
-    publishedDateTime: 2022-02-19T10:00:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/19/how-artificial-intelligence-is-affecting-content-creation/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 39
 
 secured: "mkucxe6whk98B9mR0zk8nUYyXkzkaJKsA0YHKdZVvbhNKEUC3qfxh1qZ7uz9Ysik69weh1kVM/kEGlpjRcSG2xVZiWtfRwE9HYvztoD/5sRZ9RrK9AOHWOiD5qm8WHeq8vYYxzxgIhJ611axxclFRRkyEc7frcun1Ig+FGVCh09dnMnQGOJgj1okXgrfxBTML181t1m+H8s/w4dODAcEWttg5IRZHw57i0t9SzKiTqolamLjGe1Jb6xT1Rcg45s9ExBpCkKHXLB2sWtJxU5h48qNNZcR/48t4fRv7yQCM/zzmhML2FLeMOAcrnubvdQSl04Qn/rwUAT/DSDzs7LSgj2rj/aj2vrTlm5D5xllXpH2R74DgupZLSEfMOkpmNv7Cb2x6fqdC94ILXQEFcqAk8AxNsDSfWUbG5Vqp0/IiUUjys8JiB+EskFEGZseecG4mIvDR0UwBXtef6HQf7TqlJEbY7jtqD44SelJzInwn9KmEEi/vJ14B69zLSvhbGunDxe4OfuxI/vLQjZBos0tRw==;lvUkNBS3l7pzUiHwxTDIMg=="
 ---

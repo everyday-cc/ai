@@ -80,6 +80,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Advancements in Facial Recognition Technology"
+    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
+    publishedDateTime: 2022-02-21T04:37:00Z
+    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "reN34SS2A7ucsugR+Cl2pKgjMtwbfIGkndK6aE06bKPeyL6jsKNjT/wCcrmB0R5sKAcjemqOm4nF9oc70anipvCz+LSaUuPjnTbvk7utYkdUCDnSNkNv1n6tb0aS//6bfVK+B5HGjS/3F+PMjvvA66NjCN6kM2pWU2YsI8/u15ofRx57owoI9RxopCYIzP1vBPsNkP1M9Ldm4CliFsX7kHTHqPQ409XGvsV1mE75lgvZxGNzjxwcnt6posALRiS8tQPJcMrq75yKRBIByoKiWVPoHqJ7K0glNbJQfyPgD6u55Ksp9r6s2a+qlU+3kqtGCN9IuD+BB8Sjlw6LlEpv0jCrYfzbg55mznwgKBdJmmzxgVIIXwIyYZu7iWQb2mOUKBC3zIj/q2aJDbsiCcNuC3425czMga2qk7YaT+aI6Q6sz855jhuqMwW/ACvp+BP2INXhK44cy04MBb/GacufGRlJCWptZ0bYZ+2YnmMOT5HCJ8CtCfm3qk9HSe74RwExNjIhQVF/sw3gTQ6OdCDPhQ==;EgEP67uES63woqi+HeEoMA=="
 ---

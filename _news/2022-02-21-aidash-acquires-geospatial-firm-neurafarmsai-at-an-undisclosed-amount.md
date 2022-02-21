@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/business/aidash-acquires-geospatial-fir
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Outlookindia
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AiDash acquires geospatial farming solutions provider Neurafarms.ai"
+    excerpt: "With the addition of Neurafarms.ai’s team and assets, AiDash hopes to build on its vision of becoming a global leader in leveraging satellites and AI to revolutionise operations, maintenance, and sustainability for core industries."
+    publishedDateTime: 2022-02-21T12:55:00Z
+    webUrl: "https://www.businesstoday.in/entrepreneurship/news/story/aidash-acquires-geospatial-farming-solutions-provider-neurafarmsai-323332-2022-02-21"
+    ampWebUrl: "https://www.businesstoday.in/amp/entrepreneurship/news/story/aidash-acquires-geospatial-farming-solutions-provider-neurafarmsai-323332-2022-02-21"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/entrepreneurship/news/story/aidash-acquires-geospatial-farming-solutions-provider-neurafarmsai-323332-2022-02-21"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 57
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/space-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AiDash Acquires Business and Assets of GeoAI Startup, Neurafarms.ai"
     excerpt: "Bhavesh Patidar, Neurafarms.ai co-founder and leader of the start-up’s data science innovations, will join the AiDash team, with a focus on strengthening AiDash’s Disaster and Disruptions Management System (DDMS), which helps industries better manage ..."
     publishedDateTime: 2022-02-21T05:01:00Z

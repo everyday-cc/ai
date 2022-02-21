@@ -29,73 +29,80 @@ images:
     isCached: true
 
 related:
-  - title: "The African software developers using AI to fight inequality"
-    excerpt: "AI used to tackle poverty, translate languages African data seen vital to fighting racial bias More funding, wider digital access needed, say developers DURBAN, Feb 16 (Thomson Reuters Foundation) - Determined to use her skills to fight inequality ..."
-    publishedDateTime: 2022-02-16T19:51:00Z
-    webUrl: "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/"
+  - title: "US state sues Meta over Facebook facial recognition tech"
+    excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
+    publishedDateTime: 2022-02-18T13:30:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/aZ4xNu-ln4i_A-3vva2EJWWRkho=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLI26I5ZD5KFNFT24JWJVI75BY.jpg"
-        width: 728
-        height: 381
+      - url: "https://image-prod.iol.co.za/resize/650x366/Texas-Attorney-General-Ken-Paxton-sued-Facebook-now-known-as-Meta-for-capturing-and-using-the-biometric-data-of-millions-of-Texans-without-properly-obtaining-their-informed-consent-to-do-so-in-violation-of-state-law-Picture-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1b3a8949-6a1c-5c60-b165-5c53043b8491&operation=CROP&offset=0x91&resize=2008x1130"
+        width: 650
+        height: 366
         isCached: true
-  - title: "African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-19T20:35:00Z
-    webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
+  - title: "Texas suing Meta over Facebook's use of facial recognition"
+    excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
+    publishedDateTime: 2022-02-19T03:15:00Z
+    webUrl: "https://www.wpsdlocal6.com/news/texas-suing-meta-over-facebooks-use-of-facial-recognition/article_a2011358-913a-11ec-b440-b7b6239bee50.html"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
+      name: WPSD Local 6
+      domain: wpsdlocal6.com
     quality: 39
     images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
-        width: 620
-        height: 355
+      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/a/20/a2011358-913a-11ec-b440-b7b6239bee50/621070669a9e8.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
-    excerpt: "To mark International Women’s Day on March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
-    publishedDateTime: 2022-02-18T20:01:00Z
-    webUrl: "https://iafrica.com/what-women-ceos-in-africa-need-to-know-about-artificial-intelligence/"
+  - title: "Chinese School Faces Backlash Over Use of Facial Recognition Scanners"
+    excerpt: "A parent has accused the middle school of endangering students’ privacy by forcing them to make purchases using a facial recognition scanner, sparking renewed debate about China’s growing use of the technology."
+    publishedDateTime: 2022-02-21T03:37:00Z
+    webUrl: "https://www.sixthtone.com/news/1009712/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners"
     type: article
     provider:
-      name: iafrica.com
-      domain: iafrica.com
-    quality: 37
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 39
     images:
-      - url: "https://iafrica.com/wp-content/uploads/2022/02/1-6.jpg"
-        width: 800
-        height: 451
+      - url: "https://image5.sixthtone.com/image/5/50/459.jpg"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "Africa’s women business leaders to examine the future role of artificial intelligence"
-    excerpt: "Top CEOs will attend special March 8 conference in Johannesburg to discuss how the technology will shape Africa’s key industries CONFERENCE: Africa’s leading businesswomen will meet in Johannesburg to discuss the impact of artificial intelligence SOME ..."
-    publishedDateTime: 2022-02-18T17:18:00Z
-    webUrl: "https://www.voice-online.co.uk/news/world-news/2022/02/18/africas-women-business-leaders-to-examine-the-future-role-of-artificial-intelligence/"
+  - title: "Softbank Face Increased Concerns Over Arm’s IPO; Meta Sued For Breach of Texas State Laws"
+    excerpt: "In this edition: SoftBank met with increasing concern over Arm's IPO; Meta face legal action over Facebook's facial recognition system; 17 new firms admitted to China's metaverse group; and Google announce plans to limit data tracking on Android apps."
+    publishedDateTime: 2022-02-18T09:46:00Z
+    webUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/02/18/softbank-face-increased-concerns-over-arms-ipo-meta-sued-for-breach-of-texas-state-laws/?amp"
     type: article
     provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 32
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 35
     images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2022/02/WOMEN-IN-BUSINESS2.png"
-        width: 450
-        height: 296
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "What Women Chief Executive Officers in Africa Need to Know about Artificial Intelligence"
-    excerpt: "To mark International Women’s Day, March 8, Africa.com ( is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with Harvard Business School Professor Karim Lakhani and Harvard Business School Professor Tsedal Neeley."
-    publishedDateTime: 2022-02-17T09:17:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/What_Women_Chief_Executive_Officers_in_Africa_Need_to_Know_about_Artificial_Intelligence-AFPR160220220673/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR160220220673/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR160220220673/"
+  - title: "Texas sues Meta over Facebook's dropped facial-recognition tech"
+    excerpt: "Texas sued Meta Platforms Inc. over claims its Facebook and Instagram platforms are still monetizing people’s faces without their consent. Facebook claims it no longer collects and profits off users’ faces through controversial facial-recognition ..."
+    publishedDateTime: 2022-02-16T21:02:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21257061/texas-sues-meta-over-facebooks-dropped-facialrecognition-tech"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/US_NEWS_CPT_FACEBOOK_TEXAS_LAWSUIT_DMT.620d653a2f844.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6pQb2sq0C+e8Oikh+ys7lK7vPEIllwiXdknndqL+7XtGXYsLEHdz9kOKb0s9gxuqoZ+T3kNl44dSdh5Ak8EOtFrq5AUzBY8ugKI+dvoXrUwACxCkOZGk9x09cvxbVnLN6/HnAqk4E9H2H3K4RxcuXKYOgHVoVwLt7mK8u20CQq2nX3HN9X4X6AGs/w9n7ZQuNSfed8bvh5reEDHUQADAXGOQyEzJz9BMndH4fru55xOGcruR7/fVQBEWx6toyUHbTKLQW3y2njpsI5jBgt2/utYC5o6K1mqnjgBV/dSer7+h2bu/bY2EAqJa4fR+4sB5DnrZMWL6su97Mi/MgQGTZxZxuDn/t4SJuTW2hrom0Wl01BLN8QBHL84XXsKk0GDLWUsc2cowu6nLf8clTmohAlRiZz4Di/XTyq53I3tovx3fYO3EXwAcq4iir14tN3qwEgrwPMUT9Q2ErAmp/+wQwqHvX61M22mVrl2Q2rByB+DDwgTdv9aLbj6aPWviYhwDW671qBeR+TfBdnw/0e8/NQ==;9gDAD2a1TEDXlyXhAx8wHQ=="
 ---
