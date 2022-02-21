@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 214
+published: true
 
 provider:
   name: ZDNet
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's AI helps confine plasma for nuclear fusion research"
-    excerpt: "Across decades of development, scientists have been pursuing nuclear fusion technology through endless experiments, calculations and simulations, trying to find the optimal mix of conditions for atoms to fuse and continually release huge amounts of energy."
-    publishedDateTime: 2022-02-17T06:22:00Z
-    webUrl: "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/"
-    ampWebUrl: "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 104
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/2582d7a/2147483647/strip/true/crop/1160x773+108+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F21%2Ff1cfe2dc482c922f9c65d5688776%2F1376x774.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments"
     excerpt: "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth."
     publishedDateTime: 2022-02-19T16:08:00Z

@@ -59,6 +59,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
+    excerpt: "President Vladimir V. Putin said he would recognize the independence of two Russian-backed territories in eastern Ukraine and warned the government of Ukraine that further bloodshed “will be fully and wholly” on its conscience,"
+    publishedDateTime: 2022-02-21T20:35:00Z
+    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/on-the-ground-a-column-of-russian-vehicles-and-soldiers-without-insignia"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-dispatch-ivan-01/21ukraine-briefing-dispatch-ivan-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "European leaders condemn Putin’s recognition of Ukraine breakaway regions"
     excerpt: "Vladimir Putin has recognised two breakaway regions of Ukraine as independent states - laying the groundwork for an invasion."
     publishedDateTime: 2022-02-21T19:49:00Z
@@ -74,6 +88,34 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces"
+    excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
+    publishedDateTime: 2022-02-21T16:25:00Z
+    webUrl: "https://foreignpolicy.com/2022/02/21/ukraine-russia-recognizes-breakaway-provinces/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 32
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
+        width: 1000
+        height: 612
+        isCached: true
+  - title: "UK says recognition of separatist regions of Ukraine violates UN Charter, flouts peace efforts"
+    excerpt: "Putin announced recognition of the regions in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen ..."
+    publishedDateTime: 2022-02-21T21:52:00Z
+    webUrl: "https://www.aa.com.tr/en/europe/uk-says-recognition-of-separatist-regions-of-ukraine-violates-un-charter-flouts-peace-efforts/2509292"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 27
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_cf1fd787af9dd9caa077ca7a25f284b6.jpg?v=004958"
+        width: 864
+        height: 486
         isCached: true
 
 secured: "D1rFtGClSOeCraPznUIcyxXz06XewcyDlkZ5Txnh4d7UMQn/g37CCZXH2zctrzemavCad4Jnmf8P5ATmBLgqr/lat5xclEYaVaLF7bQAPwI/0Yl5ItFtiQnk1FnZuxJmNCBG/vY5UmxlzpAQyEZuRvfYurpyDVnRyPSsaBMZuCrMSP6qVUi0JS1eHGqGm6jg6ae6LUXUQFDZoonuuXxJgAS77TI0cqy6k0UZ78tdsvDks0+g79RHPEBNeQqYMECSUj/zWcUOCSxKr8/lBDBA7GcuZKlgOvVD5If0P5o1AMiAF+wG4I75Z0shdqBnLWTH88fWOLKVS9SBKzBPItie1QMT9AyKYl7h8HT/2+bKPsxiRrbAMktO/lGuVaCziYveMbXc4Z4TDkH69X0yUgXHlo0sODw1alSFxY0hPTt1tqmn/z2WkAlrmd+OWfxcfj6WpfVKVTzudOUOs3Nai+vX1CAo5YYY3zV6WnGPwYRTqlGSYADGc5TrWAoL4BMQYD8R/STtUTaEJVUnka0RXpXQ0A==;ujKlSSMLHL9W7cRtaMDz3Q=="

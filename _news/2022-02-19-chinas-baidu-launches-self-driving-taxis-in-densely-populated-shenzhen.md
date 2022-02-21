@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-dens
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Dubai is cruising into self-driving mode for its taxis"
-    excerpt: "Dubai to become the first city outside of the US to operate self-driving vehicles for its taxis and provide electronic reservation services."
-    publishedDateTime: 2022-02-17T05:48:00Z
-    webUrl: "https://www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/"
-    ampWebUrl: "https://www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/?amp=1"
-    cdnAmpWebUrl: "https://www-esi--africa-com.cdn.ampproject.org/c/s/www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/?amp=1"
-    type: article
-    provider:
-      name: esi-africa.com
-      domain: esi-africa.com
-    quality: 39
   - title: "Baidu's Apollo Go Robotaxis Are Now Deployed in All of China's Top Tier Cities After Launching in Shenzhen"
     excerpt: "In April 2021, global consulting firm Guidehouse named Baidu as one of the \"top ten autonomous driving developers in the world.\" Others include Alphabet Inc's division Waymo, which spun out of Google's self-driving car project, and San Francisco-based ..."
     publishedDateTime: 2022-02-17T23:15:00Z

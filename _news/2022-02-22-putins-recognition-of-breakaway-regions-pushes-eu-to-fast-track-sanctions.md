@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/europe-s-east/news/putins-recogni
 webUrl: "https://www.euractiv.com/section/europe-s-east/news/putins-recognition-of-breakaway-regions-pushes-eu-to-fast-track-sanctions/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     height: 450
     isCached: true
 
-secured: "y3lbTwWuLu3QuZU1VOcLAfDgbEqr08pnZS+D73rtpapU8LDXrM1wTmVYP5nS/A2XpUPu2lLzudtIbPhnz5CnBsFw76RGEdapBZxbp4x+slWB2S8ysfD1L1I1tEuAy/DrGccD4Na/mtAJAbASRWJkHBzEVa1WXOSm4TDGOntBmfIsepmivU/pgv9dzZ+lSBmGCSaRYUQuDK8VAFMtXz31YHWP08gkjApOkUp9L9n4noRWBhvOz74YWxWJp/6sjdzI7bM1N6xwrN1FHPwlx0OrFVya6FkiY4peiOBBSynMnpsNX07oCMtBZe4pNPU/0KGXBjZ0/XvBDuwiJyDRdrzjdnk23cHG9kEKivymQrDMK/c=;BBGDtoCV84MjuP+UdK/bfQ=="
+related:
+  - title: "US 'strongly' condemns Russian recognition of Ukraine's breakaway regions"
+    excerpt: "Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen dramatically in ..."
+    publishedDateTime: 2022-02-21T22:53:00Z
+    webUrl: "https://www.aa.com.tr/en/americas/us-strongly-condemns-russian-recognition-of-ukraines-breakaway-regions/2509375"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 38
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_fccacec837bc06a71f0a8c3430c57639.jpg?v=015115"
+        width: 864
+        height: 486
+        isCached: true
+  - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
+    excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."
+    publishedDateTime: 2022-02-21T18:47:00Z
+    webUrl: "https://news.err.ee/1608507740/karis-estonia-will-never-accept-russia-s-recognition-of-people-s-republics"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 22
+    images:
+      - url: "https://s.err.ee/photo/crop/2022/02/21/1364765h7198t24.jpg"
+        width: 672
+        height: 420
+        isCached: true
+
+secured: "H9NcjlGP662KJikbxBPuWZZF2aTGnQtcD4hGC8pvFCEo9J4oyhqBPY3Siv1k1mU+3X42N+UFJAB0v0MEitRoAreg0ZrRP1XaCd6eOjw/1fM9CXBcvIJgC4a0mNxB4NU6dJ/k0rnoly7nlhDsMI5E8X39G453Gf7LnXF5F4wbH6EE9E5JRGJEYtkmryF+568W/XqztPN4QGhKQAVVWhFKKGQwXLiPtPLqAI8Q3rPVuuPWued6krMe/R7QLRt1e/MgVX+6f00dCXxOKC+fXKSg+165L+NiE2ftyhKRMySTkKIcCkdGnCWPKbzXv50SkFKWuCKfu228wVJUlVWyAFFryDhhZKFh+faIUyEiIsaMReRbCEvQ6Am/AuqYqgH9FBYXmUQBDQxiMNhFKrAiHARYB32exiOBpdr8OipMfz9y5dg/KW5E17SkgGqAp10Gnsqw2G1bDVAM8jaEkNfVccfy7yNBF19873x11nYu9UxJhVe+N+UrE3IJbtxRuP0JAP7PeKwCn+v4S7Bk1N3qkA2AUQ==;33Jyxiu5DoKvN6KTdiuVqg=="
 ---
 

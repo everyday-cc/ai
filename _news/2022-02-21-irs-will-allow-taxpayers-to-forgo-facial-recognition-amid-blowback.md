@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IRS promises deletion of taxpayer selfies as it drops facial recognition mandate"
+    excerpt: "The IRS' use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
+    publishedDateTime: 2022-02-21T22:04:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-promises-deletion-of-taxpayer-selfies-as-it-drops-facial-recognition-mandate/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-phone-face-scan-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Facial recognition taken to the next level in virtual reality"
     excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
     publishedDateTime: 2022-02-17T12:12:00Z

@@ -55,6 +55,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Inside and outside of Putin's late-night February speech."
+    excerpt: "In the psychology of signing contracts, there is a useful test technique that allows you to make a decision: to sign or not to sign? To do this, you need to carefully look at the reaction of the signa"
+    publishedDateTime: 2022-02-21T21:31:00Z
+    webUrl: "https://www.securitylab.ru/blog/personal/RamilGarifullin/351885.php"
+    type: article
+    provider:
+      name: securitylab
+      domain: securitylab.ru
+    quality: 4
 
 secured: "i9fU8I+QH64ZLLXt90YmGcE+R0H6wAAqdcnvshwlvByRT38UnBy6dv42OHtlmn6A5feMB+Fe2J0FDaiq94x04cVa4oMIbCl7DeZZVIsgPk0kW7QN8be3kUO1j7yIHVbnJGuoYJmLYNc2y0JJwf6QDWhY/2ztBohTVbdy29ZeNC71ABXJQfFQXbViIkyUvw0IIIRkC+heoct+h0zMXb+uqsf9+0C5ikHVeJMyk+evHZCADXCcxa7MINwF09iH19F1r17MzySylXCRNhA+sOZmc45R72iFdmKEEfXMULGvCCYXaE/g6PkRBw5cSefeKrHY6jUKOKjFx0s643c1xpeHkEkTwonDtrJ/oHwSmA4gwXKWRO7YoI4qR3QIiVsGglNITY1484hyCWDr6gJADc6VJyYibdjQ/d7RLaXaA0BFXFgQMdDYCEmXe/ZC2AQptXLQgdpEbnSR2DS3zJ3yvphMIupRFk4by1ng7AlCJAv3l0MpNljeEuSWUpnehzIbcwu3qeYXmTghG4fmz047PIvAzw==;jDjWrmP/vOtNphZZEmrQ4A=="
 ---

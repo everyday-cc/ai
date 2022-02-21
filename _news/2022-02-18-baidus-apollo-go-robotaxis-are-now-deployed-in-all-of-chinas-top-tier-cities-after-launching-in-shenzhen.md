@@ -73,17 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Dubai is cruising into self-driving mode for its taxis"
-    excerpt: "Dubai to become the first city outside of the US to operate self-driving vehicles for its taxis and provide electronic reservation services."
-    publishedDateTime: 2022-02-17T05:48:00Z
-    webUrl: "https://www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/"
-    ampWebUrl: "https://www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/?amp=1"
-    cdnAmpWebUrl: "https://www-esi--africa-com.cdn.ampproject.org/c/s/www.esi-africa.com/industry-sectors/smart-technologies/dubai-is-cruising-into-self-driving-mode-for-its-taxis/?amp=1"
-    type: article
-    provider:
-      name: esi-africa.com
-      domain: esi-africa.com
-    quality: 39
   - title: "Baidu Brings Apollo Go Robotaxi Service to Downtown Shenzhen, Expanding Presence to All First-tier Cities in China"
     excerpt: "Baidu Apollo's ride-hailing service platform Apollo Go has launched trial operation in Shenzhen's Nanshan District, providing autonomous robotaxi services to Shenzhen commuters. Shenzhen is the seventh city where Baidu has introduced its robotaxi ride services in China,"
     publishedDateTime: 2022-02-17T11:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/419226"
 webUrl: "https://www.entrepreneur.com/article/419226"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 648
         height: 348
         isCached: true
+  - title: "Inside and outside of Putin's late-night February speech."
+    excerpt: "In the psychology of signing contracts, there is a useful test technique that allows you to make a decision: to sign or not to sign? To do this, you need to carefully look at the reaction of the signa"
+    publishedDateTime: 2022-02-21T21:31:00Z
+    webUrl: "https://www.securitylab.ru/blog/personal/RamilGarifullin/351885.php"
+    type: article
+    provider:
+      name: securitylab
+      domain: securitylab.ru
+    quality: 4
 
 secured: "ecP6NHSy44UHdF7wTGDB+FOR/cKfTGq7ZXAm905/urAcdJTTzQXzhgTbXvajryYveCWEwCtjDOvgrASk0oNuBa36IlkbQLMdgEMmHOXfJbwiI4SUxi70KF/TH1keQ9rX6Ltct3910Y7RyWKTAoTLQYlqmjADy0KzMo3zm0hRuRkSWz20vpmfH5BRFNCY8/CgShHoqgeVBtKBT1c+gqQCBHL7szookHRMdIOoEhpL8hIKEqjdZESdxXJohynqWIKGVx54l6CcS/9ACDVLtluiTtM1NSdwVEBeZKUPFUvesnrtE6tZSb+VTp7ixXNJtOI1c38rd4u2MJSfOzVqCq/BY6IcY4rVJYCCzH5Zy6qesBI=;Rtx4gCvATv8dQmjwX6MBXA=="
 ---

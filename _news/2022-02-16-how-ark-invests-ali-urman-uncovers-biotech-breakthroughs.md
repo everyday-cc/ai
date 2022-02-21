@@ -3,12 +3,9 @@ category: news
 title: "How ARK Invest’s Ali Urman uncovers biotech breakthroughs"
 excerpt: "Ali Urman, a genomic revolution analyst at ARK Investment Management, explains why the convergence of DNA sequencing, artificial intelligence and gene-editing/gene therapy technologies hold the key to potentially curing disease. The seeds of what Ali Urman ..."
 publishedDateTime: 2022-02-16T12:40:00Z
-originalUrl: "https://www.cmcmarkets.com/en-gb/opto/how-ark-invests-ali-urman-uncovers-biotech-breakthroughs"
-webUrl: "https://www.cmcmarkets.com/en-gb/opto/how-ark-invests-ali-urman-uncovers-biotech-breakthroughs"
+originalUrl: "https://www.cmcmarkets.com/en/opto/how-ark-invests-ali-urman-uncovers-biotech-breakthroughs"
+webUrl: "https://www.cmcmarkets.com/en/opto/how-ark-invests-ali-urman-uncovers-biotech-breakthroughs"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: CMC Markets
@@ -24,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "icrBy3iGMoSexVE+pPLOS+CFLfhymKiNjv+oj+zBu5vnBptK6WrLUs9slVtNQvde3W3PYsxmcqfwLhVqfNClQ8XUnLfV/2FJMhsZE4vHTZxSp8pnYnK3CTOxRK2ekcXtcpxEOlnwO5TRbJCVvOTu2Jbt0tb+5Bkalr1+/nf2FItUzhwciV4ieohimnj1wed6SAz7G+5Zo5hqJeDwMme+gKqP4HSFIyc6J9w+ti5RF4k6P44S4G5JII+PpAN+HKACs7bw5pebSsmnDDgy594CNXeanNODSryqIkRGWKb6exVlA4Yh0eRUGo/L1WNouWLKDggN5p2Et6xr9KdreNVo+OHT9b601YPwJ8WPACBgyLCuXiQBDoHZLrf0Ftaee2daf6f70vYRzhnzXhYPqrUGIGdxw9W5jYVGmd54eiPUT9K6oBGZNTFBqZtKqpp/8lAm6d1TwKEGKOnYKGO9NemMAGnp2xmgXk3hkPiX7KmrwYuLc0AUv6YnvI+deYvx1VjT1hFI09k8aGk9FJUoPXqKMw==;IuO+/AIsWC9eaOYgstFUsg=="
+secured: "wJijoHOd/uIXn6goBko25EbczTP6y1F73h7uxwC9xYn5xkpFusd6UcDxZMzTxEd360FaJMA0QAtiHcDcjD5hCwbMc/B8r0RNaVH8XcM5G2XjhJV13FJR0/LyMqB2/MeTb5Lb3Yly8+cCAhzU38EM0MS/4R4VxCNxlht3U0kTFl494wmLrQaXTDakjdeeTHI2KKpHB+IOyUxew+qoo4QoT2NH35RvVs09El7yYS6GkDACF4QJtNo7Xg16ESc1t+LYY58OCmG9RryiytM0RhDFDJghBmWKYUiWLQOktAglt0znDupicLVbU4xY6ZjQXL40ySUmQbJ2cS3iSIBkehQIw8K2yZndit18nvBPs6lW0ps=;vMTtQajSilAiyhkgbPSxuQ=="
 ---
 
