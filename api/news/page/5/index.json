@@ -2,6 +2,203 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-17-artificial-intelligence-in-weather-makes-the-case-for-human-input.md",
+      "title": "Artificial Intelligence In Weather Makes The Case For Human Input",
+      "excerpt": "Due to the multivariate and chaotic nature of weather, for more than half of a century meteorologists have dealt with terabytes of data and modeling variables to produce an accurate forecast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
+      "originalUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620d7828b92a80b219dcafb3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/amp/",
+      "publishedDateTime": "2022-02-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-south-korean-semiconductor-maker-sk-hynix-develops-new-ai-chip.md",
+      "title": "South Korean semiconductor maker SK hynix develops new AI chip",
+      "excerpt": "South Korean semiconductor maker SK hynix said it has developed a smart memory chip with computing capabilities, dubbed processing in memory, or PIM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/1501645105508/2022/1/16451056965772/v1.5/South-Korean-semiconductor-maker-SK-hynix-develops-new-AI-chip.jpg",
+          "width": 706,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
+      "publishedDateTime": "2022-02-17T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m.md",
+      "title": "Exodigo, which maps subterranean spaces with sensors and AI, lands $29M",
+      "excerpt": "Exodigo, a startup developing a platform that leverages AI and sensors to map subsurface areas, has raised $29 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
+      "originalUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/cvpd-drone.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
+      "publishedDateTime": "2022-02-17T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-robot-fry-cook-gets-job-at-100-white-castle-locations.md",
+      "title": "Robot fry cook gets job at 100 White Castle locations",
+      "excerpt": "White Castle seems to be all-in on its latest employee, a robotic fry cook. Flippy 2, the fast food robot by Miso Robotics, will now be whipping up burgers and other food in 100 standalone locations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robot-fry-cook-gets-job-at-100-white-castle-locations/",
+      "originalUrl": "https://www.zdnet.com/article/robot-fry-cook-gets-job-at-100-white-castle-locations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/886a4f4e76b2a96aee8664ac71fa52e276a72911/2020/10/25/f1144618-4cac-4e9b-9ab3-854312ffe198/white-castle-flippy.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-fry-cook-gets-job-at-100-white-castle-locations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-fry-cook-gets-job-at-100-white-castle-locations/",
+      "publishedDateTime": "2022-02-17T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-atos-announces-new-exascale-class-bullsequana-supercomputer.md",
       "title": "Atos announces new exascale-class BullSequana supercomputer",
       "excerpt": "The machines will be designed and manufactured in Europe at Atos' factory in Angers, France The system will use CPU and GPU processor and accelerator architectures ... experience in high-performance computing, AI, quantum, security and digital ...",
@@ -1018,187 +1215,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ai-generated-faces-found-more-trustworthy-than-real-faces-researchers-warn-of-deep-fakes.md",
-      "title": "AI-generated faces found more trustworthy than real faces: Researchers warn of 'deep fakes'",
-      "excerpt": "AI-synthesized faces are indistinguishable from real faces and more trustworthy, Proceedings of the National Academy of Sciences (2022). DOI: 10.1073/pnas.2120481119 Journal information: Proceedings of the National Academy of Sciences",
-      "sourceUrl": null,
-      "webUrl": "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news",
-      "originalUrl": "https://techxplore.com/news/2022-02-ai-generated-trustworthy-real-deep-fakes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pnas.org/content/119/8/e2120481119/F1.large.jpg",
-          "width": 1049,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now.md",
-      "title": "Keep Your Gear Charged for Less: Save 40% on ESR's Popular Chargers Now",
-      "excerpt": "And that's not the only safety feature in place. Short-circuit protection means your phone is safe from any current with a little too much power, and the foreign object recognition system trips to automatically turn the charger off if a metal object other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/Fd1ERiHGfWS0b-W24NAz1IJA4MM=/1200x630/2022/02/16/c08afe44-917a-4580-b071-17a619f920b6/esr-20w-mini-pd-fast-charger-set.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "publishedDateTime": "2022-02-16T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
-      "title": "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race",
-      "excerpt": "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621",
-      "originalUrl": "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
-      "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

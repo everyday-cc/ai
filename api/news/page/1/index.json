@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-23-tull-family-foundation-gifts-prep-school-20m-for-labs-robotics.md",
+      "title": "Tull Family Foundation Gifts Prep School $20M for Labs, Robotics",
+      "excerpt": "Sewickley Academy in Pittsburgh will use the donation for facilities, scholarships and STEM offerings such as adding cybersecurity, artificial intelligence and advanced robotics to its computer science department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
+      "originalUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5ddf76b/2147483647/strip/true/crop/2048x1068+0+432/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F05%2F86c20d864ffdb8a6a71d21d4bca1%2Fsewickley-academy.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
+      "publishedDateTime": "2022-02-22T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-an-intro-to-ai-made-for-students.md",
+      "title": "An intro to AI, made for students",
+      "excerpt": "Adorable, operatic blobs. A global, online guessing game. Scribbles that transform into works of art. These may not sound like they’re part of a curriculum, but learning the basics of how artificial intelligence (AI) works doesn’t have to be complicated, super-technical or boring.To celebrate Digital",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/",
+      "originalUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StillForKeyword_1.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/",
+      "publishedDateTime": "2022-02-22T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-artificial-intelligence-ai-future-of-neurosurgery.md",
       "title": "Artificial Intelligence (AI) — Future of Neurosurgery?",
       "excerpt": "Technical performance and learning outcomes during simulated brain tumor removal may be enhanced by artificial intelligence (AI) as per a study at the Neurosurgical Simulation and Artificial Intelligence Learning Centre at The Neuro (Montreal Neurological ...",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -145,7 +240,7 @@
       "originalUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -230,6 +325,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.md",
+      "title": "Facial recognition company Clearview AI seeks first big deals, discloses research chief",
+      "excerpt": "Clearview AI, whose search engine for faces has become an unrivaled police tool, this year is aiming to win its first big U.S. government contracts and expand its team by a third even as the startup fights challenges in the courts and Congress, its chief ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
+      "originalUrl": "https://www.cnbc.com/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104409576-GettyImages-522170209.jpg?v=1645552466",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
+      "publishedDateTime": "2022-02-22T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -954,7 +1101,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1089,161 +1236,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-could-ai-help-solve-the-global-chip-shortage.md",
-      "title": "Could AI Help Solve The Global Chip Shortage?",
-      "excerpt": "Today’s chip shortage is holding back global economic growth, fueling inflation and making life difficult for consumers and business alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d50fbb36ef033e8f05d4f/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/",
-      "publishedDateTime": "2022-02-21T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.md",
-      "title": "A Look at What’s Next in AI, Virtual Collaboration, and Beyond",
-      "excerpt": "Choose from 900+ sessions across robotics, speech AI, data science, and more The conference is packed with talks from the brightest minds in the business. With over 900 sessions to choose from, you’ll find the insights needed to accelerate your life’s work: whether you’re fascinated by robotics research;",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "originalUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/02/2158900-gtc22-spring-digital-advertorial-bnr-1200x675-engb-100919670-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "publishedDateTime": "2022-02-21T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-irs-adds-option-that-lets-taxpayers-skip-facial-recognition.md",
-      "title": "IRS Adds Option That Lets Taxpayers Skip Facial Recognition",
-      "excerpt": "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "originalUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "publishedDateTime": "2022-02-21T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

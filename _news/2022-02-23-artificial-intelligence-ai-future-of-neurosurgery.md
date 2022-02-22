@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-future-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 1000
     isCached: true
 
-secured: "99+BtJoavOOIY9mwOlBsfPrqFGDiqpCRZEkzaYGGxjOc2XRcZlG++bWzeTcpMR5C3pNYd/odMikiMy6n+d8JqQU84pts4U7mqBTfYMyMaMHb4HhjwzEZn1tT+rQaqVAReCmESUXc3Hjgvf83y5qBu+5uUjcbm+RFSX84GBMoa6fVJEfDEMPRU9vNtWfLim+vfTmaAAqvfYsNpNR0oY6JkTmApEdoiU0JcI3INPsJcYAYrZ9Jl5wwtk/ZiaH/JY67v47bjh9CiBitU3lUGZ1e6I2YikWC2sZMqEzyCJENSPpKPjM9aLPnupw7Oaexhk5D/iCNkTejn0yVIvkFzscELuLR6qQjxILm6J06q0PaWko=;B1IaiX4nqaW6WwC5kGTYSg=="
+related:
+  - title: "Artificial intelligence tutoring outperforms expert instructors in neurosurgical training"
+    excerpt: "A new study finds that in a remote environment, an artificial intelligence (AI) tutoring system can outperform expert human instructors. The Neurosurgical Simulation and Artificial Intelligence ..."
+    publishedDateTime: 2022-02-22T16:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-outperforms-expert-instructors.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-outperforms-expert-instructors.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-outperforms-expert-instructors.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 63
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-11.jpg"
+        width: 624
+        height: 540
+        isCached: true
+
+secured: "o34u5vWyH0XtBNd7FCxahtnDb3q3TW0TIX8JT4VvhXXXKFyIC0EogiAZ/yiuBTKM0Eu3n+9HhU5D+VRqN5O7KObrMbCMRTGPdPTTUUYDufRgquIUwa+d2+SHUVSmweSNFNil0T+96skWEW70smq5GF4JLogoM5iOQq8maOzqt8BlH+lXMeH1wYCfTvn4T4P1Te5ptiB0c5AStsvy9MPeehXu3RmlPxye6WF/ahsy2THBtrtpn4sUhwYDn2tR08mjNunpZ9NA4FqnlQjAu9tMdbwh+/raZA7ujgM61Y0me31CvtADhwHwZnsoNopS55lS2hK4vYvTaKy7eyBBjxWvs5gmnshcFz06NPgbeRtxmdkCEM/3OOQCxBJ/aNtfomoo4UeDwvKu1FSNb5ypPZ1OUv5K7CNEwIVveGcEjpzzAzsrvWEXHBhz/LQNRKvIO8i1PBNZxUh740/E/ffGSiyIJrpLCk5bhtdnysRzgjK0fVZkZucmPEydfogllcHsWWhl7F3y2vkKOQ4MnSmIlRxR6w==;XdaUzi8iIe6Uz40dzGQrOQ=="
 ---
 

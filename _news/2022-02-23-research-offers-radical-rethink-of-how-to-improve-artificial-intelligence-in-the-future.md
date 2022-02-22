@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-22T18:07:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/944255"
 webUrl: "https://www.eurekalert.org/news-releases/944255"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 related:
   - title: "The Future of Computer Vision and AI in Clinical and Hospital Settings"

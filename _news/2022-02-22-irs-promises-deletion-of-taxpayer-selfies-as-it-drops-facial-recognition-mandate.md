@@ -75,6 +75,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "IRS will let tax payers opt out of facial recognition, but there's a big catch"
+    excerpt: "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID."
+    publishedDateTime: 2022-02-22T20:00:00Z
+    webUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 65
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "IRS will let taxpayers opt out of ID.me facial recognition with a live interview"
     excerpt: "The IRS used facial recognition software from ID.me to analyze the selfies after signing an $86 million contract with the company. Civil rights groups and members of Congress from both parties questioned how the IRS could begin the use of facial ..."
     publishedDateTime: 2022-02-22T00:52:00Z
@@ -241,6 +255,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "The IRS is allowing taxpayers to opt out of facial recognition to verify accounts"
+    excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
+    publishedDateTime: 2022-02-22T19:13:00Z
+    webUrl: "https://www.mtpr.org/2022-02-22/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-accounts"
+    type: article
+    provider:
+      name: MTPR
+      domain: mtpr.org
+    quality: 34
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/cac9e7d/2147483647/strip/true/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F02%2F22%2Fap_22046561103904_wide-a01f1210830e74fe98a3c0596192d29cc57cf046.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IAD5aZituTav4jvI8C3GVMsgntWKSJ76TfmrcHQlCXejSRf8TzMYC9OFxx+B+TlAhCVIcrYkTtF6JII/VBfMLeVOnSt6OxHgtABqXoTAC9sEUiIxq06Ro/ksbE44L9eKuLnFct3AaigpgnJ2cenMF+eHqsGMOKkVaAc+nyu5GmvakPOp4kfhwBcJ1Fg34bPjcrAgQ6bchQNnrRexM37LTVuh3teaxIpw1+CcC24nKpKfl8nLXQAFCwOSIWfa6FzP5X8jQY0JIGk5g89eMOoVMtZUjsl9H42OY5DLNzEU1Lg9tBh5dqsXg/50UXczRb3p8RChCLQZf0TdVsn/HPcD5sp4IAQA/R7TDD/7jimXElN6Q8GOLSyMQgD8zzyNzLb6zPws9xmrItOehuh/YiyYprFsUT7UvGs23dqV/mPgTYn4Sqd5wt8a4oI3+GCxfK9M+is/5r8Rt4XE5aBqcF1rBTHWrobKsqOb3/lmKoedU7uq6gnfffqNpsDp51U88scDTusJeYB6gMlAsHlk7CoM4Q==;UTBOetXWchitadT4ASgl1g=="
 ---

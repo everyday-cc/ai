@@ -9,7 +9,7 @@ ampWebUrl: "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Uk
 cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html"
 type: article
 quality: 59
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Latest: Putin calls for recognition of Crimea as Russia"
+    excerpt: "MOSCOW — Russia says its recognition of independence for areas in eastern Ukraine ... that President Putin already had an agenda – you heard that agenda in his speech last night,'' Wallace said, referring to Putin's decision to recognize two breakaway ..."
+    publishedDateTime: 2022-02-22T15:10:00Z
+    webUrl: "https://www.startribune.com/the-latest-putin-calls-for-recognition-of-crimea-as-russia/600149270/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1645470270"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Putin calls for recognition of Crimea as Russia"
     excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
     publishedDateTime: 2022-02-22T16:49:00Z
@@ -210,6 +224,6 @@ related:
       domain: news.am
     quality: 0
 
-secured: "gBIe59NYbVSp5X7Htvoh87ZRniP74Y1Z7DPvzTx3/O72jqZR61j0bDHxHurKuHtOZtVFGt6xK4yM5wnA5ycXYNcMLZ2MRbhKFF9FkEAmO64Evs73pkOiEe2mzWEtVZzinZBcehq3pGVFjyC2MuS4ecgCrRlTJWpZrTjdNPcCWwG5RHWd4/0DYTHnKjOKCKmFI5qFgoaxyuM0oca5hKrmfWUQrSOX2+7xjeyVkNBXkmUeuF2KFQHTagHoBM2hINKcNjExbQnPjGxtak1WDTn8EsbnSq8EYyhALjQAmlELhb1gpG7AqThJX6z9bmJxBvLMjza7J7xb548CQ5ig5/7/Egehotv/asT3MjlYAq1u8rs=;ud4iVDBWA4Auq8+wMDJgug=="
+secured: "8L+vaMbNRjiRwKLujnuBvl70UTle5fDrF3hSDZc3sC6hv3/QMwrfpuhB7Qrb9tAxuLpcEOs8b5b37bOzSP4GR7rAzK5Z9U0uhjKJROH/H5bBVj/T+eUNjkHgN7MeCuYhQx5hFY7aHVq0OXN3drPNEkD0qTzG8aSyND81KppyBfuUvO5rL3/3il7qPxlbc+oNoIgvXF8/I7n0+sMxZqPgR5yr0PKlSexctlFjfRO7upgKsaWL3azfVbBhMzW+iUWVjRKLPupNvMk6ZU+LxcjM6GzWN9RvLWpOHxN5hHwiz4OS3AbtU9oDkN2qvsZvZOn18OMM6wVN+RgGBua8PW0mTfWawaONQEj0HI1+sO7NJ6TISolefFXi6QzAMP3NcQbEZoc48F2Mt2JejPvRvLXGsq9nVGxS3FNnbnJeegQUZ/TWbfQFs04j9vt0+jUr6APDl5giecx1wOw6JA1MzQ2wXVbqq9nWlSKNy3QXw1VUxqOxwct84WGxccimO3/H1uV2o90+gCNYRmMN1oOQQBd3WQ==;d8CbbakuexDGSWrSMju4ZA=="
 ---
 

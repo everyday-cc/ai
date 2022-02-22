@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-09-dubai-diaries-when-a-robot-delivers-pizza.md",
+      "title": "Dubai Diaries: When a robot delivers pizza",
+      "excerpt": "I knew it was my seven-cheese pizza — so I fished out a Dh5 bill from my wallet for the rider who came all the way to our desert village just to bring me my lunch. But when I opened the door, the pizza box was already at our doorstep and no one was there — except a robot rolling away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza",
+      "originalUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=a94933f3-afe1-5c12-9766-2b1117e73eb2&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza?amp=1",
+      "publishedDateTime": "2022-02-08T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-global-industrial-robotics-market-to-surpass-us-691-mn-by-end-of-2027-says-coherent-market-insights.md",
       "title": "Global Industrial Robotics Market to Surpass US$ 69.1 Mn by end of 2027, Says Coherent Market Insights",
       "excerpt": "According to Coherent Market Insights, The global industrial robotics market was valued at US$ 49.0 Mn in 2019 and is forecast to reach a value of US$ 69.1 Mn by 2027 at a CAGR of 6.4% between 2020 and 2027.",
@@ -1309,50 +1352,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-humanoid-robot-is-teslas-most-important-product-this-year-musk-says.md",
-      "title": "Humanoid robot is Tesla's 'most important product' this year, Musk says",
-      "excerpt": "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "originalUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
-      "publishedDateTime": "2022-01-27T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

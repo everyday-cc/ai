@@ -74,6 +74,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "IRS will let tax payers opt out of facial recognition, but there's a big catch"
+    excerpt: "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID."
+    publishedDateTime: 2022-02-22T20:00:00Z
+    webUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 65
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "IRS promises deletion of taxpayer selfies as it drops facial recognition mandate"
     excerpt: "The IRS' use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
     publishedDateTime: 2022-02-21T22:04:00Z
@@ -238,6 +252,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "The IRS is allowing taxpayers to opt out of facial recognition to verify accounts"
+    excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
+    publishedDateTime: 2022-02-22T19:13:00Z
+    webUrl: "https://www.mtpr.org/2022-02-22/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-accounts"
+    type: article
+    provider:
+      name: MTPR
+      domain: mtpr.org
+    quality: 34
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/cac9e7d/2147483647/strip/true/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F02%2F22%2Fap_22046561103904_wide-a01f1210830e74fe98a3c0596192d29cc57cf046.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cpn5nxXJ3cMX+xDRx3AkOk4hJKfr8FmGwpftZO+rErfBZ53C+RX5tuoLW43830SqWHaT5rh5lfWa2QKNLfmNQgk4qr5uNZMe1wBXhnV+l4B8/pqTCvDfqWxhMtnOzJvHy4x3S/DZAhhA/VmHElTJd4qPFf6pjnbdbeONtVdZq/l53t5uK/V10WQUAcO4hh2SsbAFduD+9PP1JQhElzTZ28LOqi5lajbzrFK8ZsJD5Ra3nj7P130Od+d9u/KYBZRsIIkHfAcxL4bZ+MPbyNVRQ6zqo7nTK7qTr5UrXF+rut7LP78EAjdiU5+2ADOgRmOZBjhh9bLj2JFtWD8FlkViFJcEWY4ikVoBtS1I7Cd6BkHxHtme+Pvf+X0TicM4VmYBWPFsA1jx/gkoog0tYmOBP8BNUs8Ou1Gr7t93w7+39AtsJ22eupX9FTCkLmQleUxcd2pQ4EfurSrL4OgapP/A6MiuH1xZBuCSNFtIG10gtYRk9NwM7TfumLF9FWmWhVw1kZL7jvBJJutMocCrLggmsQ==;y2PJc25x0HJDuwybVfc2Ww=="
 ---

@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Latest: Putin calls for recognition of Crimea as Russia"
+    excerpt: "MOSCOW — Russia says its recognition of independence for areas in eastern Ukraine ... that President Putin already had an agenda – you heard that agenda in his speech last night,'' Wallace said, referring to Putin's decision to recognize two breakaway ..."
+    publishedDateTime: 2022-02-22T15:10:00Z
+    webUrl: "https://www.startribune.com/the-latest-putin-calls-for-recognition-of-crimea-as-russia/600149270/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1645470270"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Putin calls for recognition of Crimea as Russia"
     excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
     publishedDateTime: 2022-02-22T16:49:00Z

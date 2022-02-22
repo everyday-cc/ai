@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Latest: Putin calls for recognition of Crimea as Russia"
+    excerpt: "MOSCOW — Russia says its recognition of independence for areas in eastern Ukraine ... that President Putin already had an agenda – you heard that agenda in his speech last night,'' Wallace said, referring to Putin's decision to recognize two breakaway ..."
+    publishedDateTime: 2022-02-22T15:10:00Z
+    webUrl: "https://www.startribune.com/the-latest-putin-calls-for-recognition-of-crimea-as-russia/600149270/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1645470270"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
     excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."
     publishedDateTime: 2022-02-21T18:47:00Z
@@ -209,6 +223,6 @@ related:
       domain: news.am
     quality: 0
 
-secured: "o3Yu0Ycu+rlczK/N8RCxwUxp/47a0JqqnT8DyzDCAWS1cvQkRuiTmFFeWoJYpt+cvEqXJI2K1uDGdOaHboIcLRV27cJx+PoFmoHdGw0WBBemdxEaDfj+JhblhLmtsuBglXV78AdKLXlaNKndMB3+bSkCOhWWUqxtRkv2tIGQ3Wxs6M8mxaQfcTXx/FQ0VmSkp/FZ0xHhshb3zlw46wujMwDWqQU9nwo4CHf/AIa8FkWk029mAQM8kxFaJhZ28x0UoED7CbGUnh/1sFovye84uP6cCriJoUPS7s63ZDIUYl5Yr9nisfcj07DZ1WzPZy4+0V/jIygeRtG0m7uP4XsMoLRB4CgxdqdZK2w4ThwRQnU=;Gy3X8nvV0rMvpxF1EYp97g=="
+secured: "vqefKRqzHB7rCHVcsB/29dme1NZPnK6uKGcBPhbXP4M/E1CPOtHYOFgG0TQAoWI9+GbLo7YeDs2J5xjnmGTxLit/KtgPR4VJv6aaK0ALu18uavWmYKvgtUu2z+zF5IQqfvz4qvRHjR8vdfBBje76KJTDsBuSmQQtfTqIGOkERF57LBHxL1yoCWxe0CGFCHhTerIoxeMWy762gIyGTUHRAlSVG0DOJJdWpTH+JshkY5BoHCFMcjsAffbOgNxQlTwqn9scf4V59FPZwgXV+LhhR2RmjBIdQPMCddpgRQnwS+wWrJCA1zw/Z5yoQsUKcrwOZqfu8cPOWKOeBLRsUSKJpkpsaJlQX62i4DHIpXHRhF1qu4FIQSzQ+s8VD+RkAKwap8H+PSHvaWLSHpKnQPmnK5Rt0ntEv5wN0ZVc+EifD6R/7hBPhhxL67DedyK2fAg5MwZfrb24Q6e668yB9PgE4ws9ri3DxLbZfmied4G+h4YK9jtJFWmEFpudpwHPSXxwFSK06fjmry624/iGrC2ixg==;U5FTgQSW8ccjC6QrcTxDOw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/now-an-ai-model-that-identifies-wher
 webUrl: "https://analyticsindiamag.com/now-an-ai-model-that-identifies-where-solar-farms-are-located-in-india/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,35 @@ images:
     width: 1370
     height: 771
     isCached: true
+
+related:
+  - title: "Student in India develops AI model that turns sign language to English"
+    excerpt: "She invented the AI model using Tensorflow object detection API that ... Pryor and Navid Azodi invented a pair of gloves called 'SignAloud', which could translate sign language into speech or text. They won the Lemelson-MIT competition for their entry ..."
+    publishedDateTime: 2022-02-19T09:47:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/02/19/indian-engineering-student-ai-model-sign-language-english-768x432.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Student in India develops AI model that turns sign language to English"
+    excerpt: "She invented the AI model using Tensorflow object detection ... a pair of gloves called ‘SignAloud’, which could translate sign language into speech or text. They won the Lemelson-MIT ..."
+    publishedDateTime: 2022-02-20T21:45:00Z
+    webUrl: "https://technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english"
+    ampWebUrl: "https://technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
 
 secured: "gF1UI2XVjdJonAWKizkYZVAeFSg7AmLSLWvc4fWw7IStAOGVxd3U7BQQqejbM0/s+uI0zXbkLfmH4rb+saWwqh7kCpv53/2R1Fpw68Fz7NChvrsd/v6FJx4Xq7SVxM9VAnH7VqCSnADYFgI/fD/Rns84ilnoBmUBwlDosBcEcbDiD8k3QU8qw6jzbfwdVMzsiYL2dLanZhBP5+E5weCKv5fLevz2pkd3CVsVZCeDWKNCU7ugC78B8JXr9VylIaxQy8CHcHlhFI7OjCRT1kf2xobnTp163f0rLyriCUwFg9lVGat7YYLD8cYNcCEcQUsGFEXTgiwtgNU4GnD9VjurjPc9tBGD5isbYlZA7kNYK3A=;OybMqnJ25EMGccGbc1f0eA=="
 ---

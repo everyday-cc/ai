@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Monitoring Arctic permafrost with satellites, supercomputers, and deep learning"
-excerpt: "That's a lot of data — so much that traditional analysis and features extraction methods failed. \"That's where we brought in AI-based deep learning methods to process and analyze this large amount of data,\" Witharana said. One of the most distinctive ..."
-publishedDateTime: 2022-02-22T17:54:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/944296"
-webUrl: "https://www.eurekalert.org/news-releases/944296"
+excerpt: "Permafrost—ground that has been permanently frozen for two or more years—makes up a large part of the Earth, around 15% of the Northern Hemisphere."
+publishedDateTime: 2022-02-22T20:31:00Z
+originalUrl: "https://phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.html"
+webUrl: "https://phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.html"
+ampWebUrl: "https://phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.amp"
 type: article
-quality: 35
-heat: 35
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d0cd89ce-372a-43e9-89ba-744369170087/Rendition/low-res/Content/Public"
-    width: 700
-    height: 455
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/monitoring-arctic-perm.jpg"
+    width: 550
+    height: 202
     isCached: true
 
-secured: "GhessRoHiNnqQCuAwlf+SrCUCt3dM7jYE+CRlbW2GRB3mgwESRHaRabmuqUKieAiZeZv4hqngdtzwyF+WPvQGzjXERJf6KEbMu8+XZZRXA5DSDJf+mfqVR8olFd2/xJExjF+CyiEYXexSeRrLOJhval/qfYEjYnlg2sWlZCdmxxGPf9atZukfuzOujZopmhl/r4mkj88mHls8OY4/Q7/Zwv0LcjvGyYujXkKkrUYr68QHMarm7v0KZKFbpsWysgeuHANMPIiyKND6pvuqmcLXdcMxqjQ3B88OEtsMn/VOhcFNdZtnU6GLlVvtLiN3kHqV04j0esZlf6c/UeTXMHIthJuVF/SV7p4ZNApa5DMFOs=;4y/Y23Nc9rSMQSU4PL5kGA=="
+secured: "8nr8yg7LLcfBngxbn6XsyGUevJLeylXfFHCQ1e4gxFFTgMLLEiUzqGAr1YLtamz7xZVZy2IoFNeUTX4Kg5ndbNfxHwzBc31NvTUPZGrgfSOAKZoi0NT2ohUfIoBEzDFfu7janZUJ1tZiAmu+BRfbFkzkc2u8OPRaflxbhU0acGvL2ExqksfVlYk9aAFm5b6NHnseBQHP8tA7jz72OII33bT+HgqnQxr8CpWzzlDcCkT8YvHYk2CxGxkwk/rK+e2fakKEHKqiMtiedAqh9Oo028uIW8W2fQOe4GD1LZc7kZqTtzF/n6s3M7ZK74GviroqLc71BEX8FNuMzW9pBdAOyVVrL5m2vMRH5hRtotHhouk=;+j7qThtuKPPeNft+3e/yOA=="
 ---
 

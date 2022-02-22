@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/skymount-medical-receives-uk-mhr
 webUrl: "https://www.digitaljournal.com/pr/skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Covid treatment using existing drugs developed by LSU AI gets trial approval in UK"
+    excerpt: "A potential treatment for COVID-19 using existing drugs developed by Skymount Medical using an artificial intelligence platform developed by Louisiana State"
+    publishedDateTime: 2022-02-22T19:29:00Z
+    webUrl: "https://www.brproud.com/news/local-news/covid-treatment-using-existing-drugs-developed-by-lsu-ai-gets-trial-approval-in-uk/"
+    ampWebUrl: "https://www.brproud.com/news/local-news/covid-treatment-using-existing-drugs-developed-by-lsu-ai-gets-trial-approval-in-uk/amp/"
+    cdnAmpWebUrl: "https://www-brproud-com.cdn.ampproject.org/c/s/www.brproud.com/news/local-news/covid-treatment-using-existing-drugs-developed-by-lsu-ai-gets-trial-approval-in-uk/amp/"
+    type: article
+    provider:
+      name: BR Proud
+      domain: brproud.com
+    quality: 53
+    images:
+      - url: "https://www.brproud.com/wp-content/uploads/sites/80/2022/02/GettyImages-1297202819.jpg?w=1280"
+        width: 1280
+        height: 787
+        isCached: true
 
 secured: "vsZCKiHgAERRrYbcOuVSf7Jv7FjnpvfbEi/r0Qif72W8E5SjDuIujhg3lDX2mlHwqwjJbQ7RwdWunuXeyonzvC7extV4TlvVrYQDMQcvEoiwBznmKwuRRhHmQKscS3wwQ4GsGszjZBCLJcGLyrzHxBJPWBOE0LGoDBfXttaLfARqQ9k6Xm20g0iO8lsl9lb78MIFEP+kMFfuUTvGX9WtXvtELRkWJapntGiJdICKMeR9GEXL9aaWGj/zeFPXoMc39egaOwoFkQQVeSmWq2xeMlDzdC1PlTnTrbkjtVyQcrxSnp1Ql+GBVa5jUAJApWefs6lgkApgtrqEE//1oot7eHPNIRyA6yuq0W6ortZpzJs=;o6MFdAXhmsAiCOqjjUpxzA=="
 ---

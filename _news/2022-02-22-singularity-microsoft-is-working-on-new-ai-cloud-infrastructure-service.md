@@ -89,6 +89,34 @@ related:
         width: 1299
         height: 600
         isCached: true
+  - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
+    excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
+    publishedDateTime: 2022-02-22T16:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/introducing-microsoft-singularity-ai-infrastructure-service-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeUHPCl2rWnA/article-cover_image-shrink_720_1280/0/1645547788519?e=1651104000&v=beta&t=NW_SmuhlSnlHfUtKOMd6TYbsvm6-I6XlEUsbTTpWgbw"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft is building an AI group from the ground up to tackle the Singularity"
+    excerpt: "Microsoft is on the hunt for some talented people to help drive its new AI platform codenamed \"Singularity.\" For those of you paying attention, yes, Microsoft has used the codename Singularity before and from those efforts produced the Midori,"
+    publishedDateTime: 2022-02-22T17:27:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-is-building-an-ai-group-from-the-ground-up-to-tackle-the-singularity"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 50
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/02/Singularity22.png"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "n7RkgK6+xhHIzoNoJgMYzjepuuARDqHjL2ZXbEiHiMh2NQtzA/m3xZYPgzPmtJOa3rr9K5nYwhRNQ5bUmLQYF3KtD6uEdptdtoAbS+y5f/0939mYAg16VW0qgGXIP/IUr4RHJYFnC2NW/VOAIiXnmempn0Ykt6S9EhHjHXWVAtfFYw9zxjjhjtfOpWT+bM8gyhOmpngUZ7uIGOC1O/KppdR6yuRC6x9otU7IeumA6aLdmtzkYgp8lntgHhJzRdPH0QKtOmG8VaX/tzy/uLRPYuB7fcKMTqDvwj+3pIE1RHdBX3bxf/Ju3lhe58XYh35YVczC8rysDUhpKl0FClbGIeqArdDI8ppjZY3Na8lkJg4QAIOOM/zzIHlLrfDbO35P0RpYTp2C+e0l3Y+0SdSfiJ8k35UDetJ6PIjIX1U6KBKqXSJqZRWIzlx+NxNhTWvcOF9j2VDU7guTfv+U+LSahGBz1qN2pOyAFwoGXwJwf/zYC7n3IJni5gmCcFY7IugSSonrGNJPCsBv3BfjMmiudg==;eo6n9itMSm0o078oJ4e3Sg=="
 ---

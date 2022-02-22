@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-26-iot-under-fire-defining-ai-metas-new-ai-supercomputer.md",
+      "title": "IoT under fire — Defining AI? — Meta’s new AI supercomputer",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
+      "publishedDateTime": "2022-01-26T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production.md",
       "title": "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production",
       "excerpt": "Facebook, I mean Meta, has always been one of the industry leaders when it comes to AI research and deployment. The company processes hundreds of trillions (yes, trillions with a “T”) of inferences every day,",
@@ -1361,49 +1404,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them.md",
-      "title": "How COVID broke supply chains, and how AI and blockchain could fix them",
-      "excerpt": "When the coronavirus crisis erupted in 2020, it became apparent that the medical emergency was accompanied by severe shortages, especially in some medical devices.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.html",
-      "originalUrl": "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-covid-broke-supply.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp",
-      "publishedDateTime": "2022-01-10T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

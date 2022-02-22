@@ -8,8 +8,8 @@ webUrl: "https://www.speakingtree.in/blog/is-artificial-intelligence-a-boon-or-b
 ampWebUrl: "https://www.speakingtree.in/blog/is-artificial-intelligence-a-boon-or-bane/m-lite"
 cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/is-artificial-intelligence-a-boon-or-bane/m-lite"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.speakingtree.in/b/794204-1350-420-5-1645550552/is-artificial-intelligence-a-boon-or-bane.img"

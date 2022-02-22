@@ -2,6 +2,187 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-16-ai-generated-faces-found-more-trustworthy-than-real-faces-researchers-warn-of-deep-fakes.md",
+      "title": "AI-generated faces found more trustworthy than real faces: Researchers warn of 'deep fakes'",
+      "excerpt": "AI-synthesized faces are indistinguishable from real faces and more trustworthy, Proceedings of the National Academy of Sciences (2022). DOI: 10.1073/pnas.2120481119 Journal information: Proceedings of the National Academy of Sciences",
+      "sourceUrl": null,
+      "webUrl": "https://www.pnas.org/content/119/8/e2120481119?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news",
+      "originalUrl": "https://techxplore.com/news/2022-02-ai-generated-trustworthy-real-deep-fakes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pnas.org/content/119/8/e2120481119/F1.large.jpg",
+          "width": 1049,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now.md",
+      "title": "Keep Your Gear Charged for Less: Save 40% on ESR's Popular Chargers Now",
+      "excerpt": "And that's not the only safety feature in place. Short-circuit protection means your phone is safe from any current with a little too much power, and the foreign object recognition system trips to automatically turn the charger off if a metal object other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Fd1ERiHGfWS0b-W24NAz1IJA4MM=/1200x630/2022/02/16/c08afe44-917a-4580-b071-17a619f920b6/esr-20w-mini-pd-fast-charger-set.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "publishedDateTime": "2022-02-16T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
+      "title": "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race",
+      "excerpt": "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621",
+      "originalUrl": "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
+      "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
+      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-mendix-embraces-low-code-adds-3-new-products-to-aws-platform.md",
       "title": "Mendix embraces low-code, adds 3 new products to AWS platform",
       "excerpt": "and Amazon Rekognition. Customers can also embed AWS Services into their own custom applications. The partnership “brings together market leaders in low code and cloud,” de Vries said ...",
@@ -713,58 +894,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
-      "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
-      "excerpt": "A combination of GDDR6-AiM with CPU or GPU instead of a typical DRAM makes ... It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg",
-          "width": 400,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T20:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-16-microsoft-extends-emissions-impact-dashboard-to-microsoft-365.md",
       "title": "Microsoft extends Emissions Impact Dashboard to Microsoft 365",
       "excerpt": "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions.",
@@ -963,6 +1092,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
+      "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
+      "excerpt": "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg",
+          "width": 400,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-us-senators-urge-ditching-idme-face-recognition-for-unemployment-seekers.md",
       "title": "U.S. senators urge ditching ID.me, face recognition for unemployment seekers",
       "excerpt": "But about half of U.S. states still use ID.me, which employs a mix of facial recognition technology and video-chat interviews to confirm the identity of unemployment applicants. Activists have argued that facial recognition remains too faulty for use in ...",
@@ -1062,186 +1234,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems.md",
-      "title": "AI can erase tattoos from photos to help face recognition systems",
-      "excerpt": "Artificial intelligence can accurately remove tattoos from photos of people’s faces – potentially helping face recognition systems, which can be flummoxed by such tattoos, work accurately. In previous research, Mathias Ibsen at Darmstadt University of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "originalUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/02/15162452/PRI_223719357.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "publishedDateTime": "2022-02-15T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-the-cryptocurrency-industry-is-cozying-up-to-lawmakers-in-washington.md",
-      "title": "The Cryptocurrency Industry Is Cozying Up to Lawmakers in Washington",
-      "excerpt": "(Michael Nagle / Bloomberg via Getty Images) Have you read ... financial disclosure he filed last July. Progressive representative Marie Newman (D-IL) also has ties to the crypto industry, since her husband, Jim Newman, has reportedly traded sixteen times ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "originalUrl": "https://jacobinmag.com/2022/02/cryptocurrency-industry-lawmakers-investment-energy-blockchain-mining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0460153-569b-4a33-8c65-90ab2790bdc5.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "publishedDateTime": "2022-02-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jacobin",
-        "domain": "jacobinmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-uk-watchdogs-to-clamp-down-on-banks-using-discriminatory-ai-in-loan-applications.md",
-      "title": "UK watchdogs to clamp down on banks using discriminatory AI in loan applications",
-      "excerpt": "UK banks that use AI to approve loan applications must be able to prove the tech will not worsen discrimination against minorities. Banks must recognise the inherent flaws in AI, improve transparency, and take responsibility for problems. Insider ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "originalUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/620bccdfb20df7001809f414?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "publishedDateTime": "2022-02-15T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-baidus-self-driving-vehicles-take-a-turn-with-olympics-showcase.md",
-      "title": "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase",
-      "excerpt": "The 2022 Winter Olympics in Beijing promised another big opportunity for autonomous vehicle testing in a real-world situation, this time in vehicles made by one of China’s biggest technology companies, Baidu ... deployment of self-driving vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "originalUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

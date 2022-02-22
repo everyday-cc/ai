@@ -75,6 +75,20 @@ related:
         width: 940
         height: 494
         isCached: true
+  - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
+    excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
+    publishedDateTime: 2022-02-22T16:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/introducing-microsoft-singularity-ai-infrastructure-service-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeUHPCl2rWnA/article-cover_image-shrink_720_1280/0/1645547788519?e=1651104000&v=beta&t=NW_SmuhlSnlHfUtKOMd6TYbsvm6-I6XlEUsbTTpWgbw"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Singularity': Microsoft is Working on New AI Cloud Infrastructure Service"
     excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."
     publishedDateTime: 2022-02-22T05:25:00Z
@@ -88,6 +102,20 @@ related:
       - url: "https://ummid.com/news/2022/february/22.02.2022/microsoft-singularity.jpg"
         width: 790
         height: 530
+        isCached: true
+  - title: "Microsoft is building an AI group from the ground up to tackle the Singularity"
+    excerpt: "Microsoft is on the hunt for some talented people to help drive its new AI platform codenamed \"Singularity.\" For those of you paying attention, yes, Microsoft has used the codename Singularity before and from those efforts produced the Midori,"
+    publishedDateTime: 2022-02-22T17:27:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-is-building-an-ai-group-from-the-ground-up-to-tackle-the-singularity"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 50
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/02/Singularity22.png"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "LC8Y+nRQUjs0FNI13MdQmAv136xcX4bqGwlgvmAIS43WsjtDqX4DO6b1KRCr6tbU8uRCvj07+GRwlFE2dpeXel4kaX+Qb3vFmf33qmF7c0luj7GMoyJ8ZJU04glRB77Vz6RewAoATqv+n+zP5lUHVH4BEX2pMSZhwEw2pXZ9ScrkqMz0TLfKNaRoK/1KdBvcI1C3UaUvSgvHdEplm42zjwDCl2FTWfVLW5NdRtOZgtMLUIIlprI/5OHSqmXBM7UEDuTrcuKPc/77p5PIdIB4ay5B4IuLSDF90ycvjbQJZjwnnr2nZNiXIErjV8YX1hT6iyKmluDdomRtESsb8tsDIyODcVe2Cpu1AmaK18aukMRGQGXCbf3ooQu3gmT9iwFegANmnZpcJEADGoT6NCHut2QZAlVqEpOzdiygYe2qYDGYbFKO0AqBLJEFANk2GT0v7hPMr5Mc9m3vsKYkr3bpSwVWm4+P3RPznFRUgh8McOqA/6eZA+pyRXfQR+jviqu27+38MXvM3GQe1saEZGPEuw==;ZXwjsou1nQKj2dZauBjooQ=="

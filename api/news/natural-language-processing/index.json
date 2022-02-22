@@ -10,7 +10,7 @@
       "originalUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -349,6 +349,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-student-in-india-develops-ai-model-that-turns-sign-language-to-english.md",
+      "title": "Student in India develops AI model that turns sign language to English",
+      "excerpt": "She invented the AI model using Tensorflow object detection API that ... Pryor and Navid Azodi invented a pair of gloves called 'SignAloud', which could translate sign language into speech or text. They won the Lemelson-MIT competition for their entry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/02/19/indian-engineering-student-ai-model-sign-language-english-768x432.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp",
+      "publishedDateTime": "2022-02-19T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1439,59 +1482,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-could-expiration-dates-for-ai-systems-help-prevent-bias.md",
-      "title": "Could ‘expiration dates’ for AI systems help prevent bias?",
-      "excerpt": "Sainbayar Sukhbaatar, a research scientist at Meta (formerly Facebook), explored a data-focused “expiration” approach with a system that “deletes” stale data in an AI architecture called ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/",
-      "originalUrl": "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/gender-e1628617989130.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/amp/",
-      "publishedDateTime": "2022-02-11T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
