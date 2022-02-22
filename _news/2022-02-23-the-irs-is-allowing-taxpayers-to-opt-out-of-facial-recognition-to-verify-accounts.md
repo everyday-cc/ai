@@ -1,25 +1,25 @@
 ---
 category: news
-title: "The IRS is allowing taxpayers to opt out of facial recognition to verify accounts"
+title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
 excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
-publishedDateTime: 2022-02-22T19:13:00Z
-originalUrl: "https://www.mtpr.org/2022-02-22/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-accounts"
-webUrl: "https://www.mtpr.org/2022-02-22/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-accounts"
+publishedDateTime: 2022-02-22T22:57:00Z
+originalUrl: "https://laist.com/news/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-accounts"
+webUrl: "https://laist.com/news/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-accounts"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: MTPR
-  domain: mtpr.org
+  name: LAist
+  domain: laist.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/cac9e7d/2147483647/strip/true/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F02%2F22%2Fap_22046561103904_wide-a01f1210830e74fe98a3c0596192d29cc57cf046.jpg"
+  - url: "https://scpr.brightspotcdn.com/dims4/default/0b307da/2147483647/strip/true/crop/4928x2587+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F9d%2F9e%2F40b1cd2643cb9e7b09af4627b020%2Fgettyimages-470401587.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -56,6 +56,22 @@ related:
       - url: "https://static01.nyt.com/images/2022/02/21/us/politics/21dc-irs/21dc-irs-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Facial recognition technology faces mounting legal, ethical questions"
+    excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
+    publishedDateTime: 2022-02-22T21:46:00Z
+    webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    type: article
+    provider:
+      name: Fox 4
+      domain: fox4now.com
+    quality: 76
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "IRS says you can now create account without submitting to facial recognition"
     excerpt: "The IRS's use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
@@ -265,7 +281,21 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IRS offers alternative to facial recognition"
+    excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
+    publishedDateTime: 2022-02-22T22:17:00Z
+    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+    type: article
+    provider:
+      name: JournalofAccountancy
+      domain: journalofaccountancy.com
+    quality: 39
+    images:
+      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
+        width: 640
+        height: 388
+        isCached: true
 
-secured: "+w34LSQmyD03cIhPtSPq+lA7CV8py2+u57o4++3DorIUusubyEzMY23dHifXGEf/OOfaiCNvj4vP6oN2ErcWZpFlYnPQQkJpdFWFk3onF0KP4oQjG9UeeeqZtaBA8UwG06zuu8QY1D6dbUKs+qe3caKfaqN047divoMHGPrab+/gz6pdjdUH/bOklBKen+WiLhDH5W/9I1CxP7OXB65SSUxaJD5hLaaj4g9ntkrc5+DWiOL3dQsMhoogcFAJLBtu/HtfxLR3dSjy/yg9cDIRUweQ8rwWdVoD1kq/IoEs2jrJUl/RWNOlSpvXsjtWhT0zlpyWnybUmBZ2r6208L9DiPyPDaFeEquseeLYzRWpcxQ=;RuyL5RqTinPjuJPtkOWtJw=="
+secured: "qGijhhzJ9wtcNPX79QLsDzbpHXFfA7vdLd4I2K1qAgQYIskfj5n5GAfUu5Rjy/ykOs7/WX3Qvlidvtr0N/k98AUO5hm1X90NGjBigrtMtORn/G421Gplqn48BjnVPxp2Wq3ty9CufkCHVvhXwrYiiwvkm8Cqxn+EDuZc9ZynFb4sckmCkO9TXQ28clbmcSWFgy56gcpGUckvEv/pk1HI8pyb9svjszXaaxpupg2hidt+vUMhJG60VAWSMEHvnYKpMaT0PqT2dAdusXaeETk6ktI2MLGbuYfQggkKRP5AdEOPvmbjwkC1KaewCfICV5ScWi8RQ4PlCRCLZLCkwbz1TeZOBrsKTegyLkyhcMzD6cI=;WPDZ+JN5r1YkgF1JgKRPAA=="
 ---
 

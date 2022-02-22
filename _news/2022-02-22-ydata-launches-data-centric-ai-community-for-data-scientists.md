@@ -46,17 +46,17 @@ related:
         isCached: true
   - title: "‘Data-Centric AI Community’ to Foster Community-Driven and Expert-Guided Transformations for Better AI"
     excerpt: "The new paradigm shift in approach to AI development, from model-centric to data-centric, YData, a tech-startup, created the Data-Centric AI Community to facilitate community-driven and expert-guided transformations for better AI development. The Data ..."
-    publishedDateTime: 2022-02-22T15:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/data-centric-ai-community-to-foster-community-driven-and-expert-guided-transformations-for-better-ai"
+    publishedDateTime: 2022-02-22T15:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-science-business-data-privacy-abe8601a4c6b9645b1640323e4ef9573"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: Associated Press
+      domain: apnews.com
     quality: 21
     images:
-      - url: "https://cdn.newswire.com/files/x/42/cd/e84d63ca07e09254f94a32b51e81.jpg"
-        width: 512
-        height: 288
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "H4w7OAOXPQlNVCnV5u5PYMYUkncCFufJnblgHMmzB2Olw9wrCRHL4lG7kPztzO/VkdDvLw0ntlbhh5Dw4qf92LzE9nWVBLIbiIxTBSy8UN3WuNVEwm3fzweKfQeFzWsL04eMOP/roFluwubtcLH2x1MP0voT/0xrZKJTKwHdAShQlWWFZFXnP11pVLuH017LE1ma/IoWuohYCKaibCwoO+BIOsiy1izZBVGtrwnQoSLoxDBXnu4DwrZmqH9FtqZPG07faCoTLW97ws+zomv5EZrJncw/F/Q8SYJUGEr0MdAWzxNw+uDxVsXkVw98YHp5JPnPGQ8ZbSDb9qdNZMmRLQA+ihMGvXUkZi6f/tnPDJkZ1MvANXG2MsY9ATUtA79pSuCwh8qMhBOLCPScrnPMkcw5QFJn/EGbfqsHftL/mxrM8FMIPkXE/cgvyTWdScm+YNvuCi7iMaBv+/BotHeE04qTWsb5+m9spvaMus+Dy7vbGtepoauQ3DzNLJda854OCCqO07LHdDaTOCZj+EluzA==;XcULF6tczGsaibpQuTxOMg=="

@@ -40,6 +40,20 @@ related:
         width: 749
         height: 499
         isCached: true
+  - title: "Kraft Heinz Not Company Out to Upend Industry with AI-Driven, Plant-Based Food Innovation"
+    excerpt: "Today, the Kraft Heinz Company and leading plant-based food tech startup TheNotCompany launched a joint venture ... With its proprietary technology (an AI algorithm with the ability to find infinite combinations of plants to replicate animal products ..."
+    publishedDateTime: 2022-02-22T22:11:00Z
+    webUrl: "https://sustainablebrands.com/var/www/prod/shared/public/index.php/read/product-service-design-innovation/kraft-heinz-not-company-out-to-upend-industry-with-ai-driven-plant-based-food-innovation"
+    type: article
+    provider:
+      name: Sustainable Brands
+      domain: sustainablebrands.com
+    quality: 28
+    images:
+      - url: "https://sustainablebrands.com/eddy/mag/story/keyart/15260/conversions/keyart-fbimg.jpg"
+        width: 1798
+        height: 1000
+        isCached: true
 
 secured: "qr72SbDpvvFrCzktJUsuU3NXbpY8xJZlSIRrZ1GPzDU7+RclZkwWsA4l6yWutDvNrMmsujyMDqamIT1gdVFjY6jXRfAVFGDctPvNLcpw89+ZxznJBDQc9ck6wZcclVOSsZhQMaBNM4rLiwE2Aqxg6FKNKTZ0HZkTjtTox6IWnh9S4oFi0LWUs+V80+hXWCupoeX1BYf/6crvX6vLmn61DErbURs9MnQPwlGde3uTJZjVrAvbAWOT7A4uh/PGcaAOLdC4TYXbzymPIyroI09B4RkT/GY/MQUUWQ5WBrechYPztH/TVobdRuBhlU0Q+nLdeUOveO7dI7AoPn24jazcNFCZb8Nqjn95JJMbEuYER6QZk6XwQJbAt1P/IUYTesW8pbUMT+2yYdFW7heRiUj6CSmQTbHxfywtm7+xR/Xoo2T3dajRR3V8D6vYlL1eRQiCWhz4c/ZX6aG9RVIpY5dw7c5iNHS/f7Sp0nDjVbjlJO5reJn/oTpP+uyfAUXlJJAfO9P7zk8+Shq4f1vYmo4HdQ==;SVKIvX6o1tTauk4ZRqC8Kw=="
 ---

@@ -2,25 +2,25 @@
 category: news
 title: "‘Data-Centric AI Community’ to Foster Community-Driven and Expert-Guided Transformations for Better AI"
 excerpt: "The new paradigm shift in approach to AI development, from model-centric to data-centric, YData, a tech-startup, created the Data-Centric AI Community to facilitate community-driven and expert-guided transformations for better AI development. The Data ..."
-publishedDateTime: 2022-02-22T15:01:00Z
-originalUrl: "https://www.digitaljournal.com/pr/data-centric-ai-community-to-foster-community-driven-and-expert-guided-transformations-for-better-ai"
-webUrl: "https://www.digitaljournal.com/pr/data-centric-ai-community-to-foster-community-driven-and-expert-guided-transformations-for-better-ai"
+publishedDateTime: 2022-02-22T15:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-science-business-data-privacy-abe8601a4c6b9645b1640323e4ef9573"
+webUrl: "https://apnews.com/press-release/newswire/technology-science-business-data-privacy-abe8601a4c6b9645b1640323e4ef9573"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.newswire.com/files/x/42/cd/e84d63ca07e09254f94a32b51e81.jpg"
-    width: 512
-    height: 288
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Mn1YYoJl2gOX/oRAyUFR8X9/w2HuGx7SdOpYEIK6iy4rFeYQh6KAkK67xc+nhXQdafpqfJqEEqwmMjAgNZWHuO5ui8+YJIt/L4NVqJeQ+sZQimLw+9cwXCDxBfAT49CnZ7CovwVM/rBzwacF2MVFrgKQEi44DbxRogKHZPma3/5g/DePpGWIxIAUvTiJozRF1Ajskn6juJCKCuzWfUTdphss/YiwClkmMExvdmZ1IZxku8RE6rMLbPNKVotM3KyDLVIcXjgOftnEotrcNfASyX/3kg6pM2H+gdzxIrWf8a1Y8PMUDX7UUsSnqG6Oc1SM4R0+iqpC6fw5yK1RcmDH//EhN/Y1nKTwiwXyaZ+PM1RI7wPz4tEdmAGiT863ggXYZyve3BQJEG45JebVTbxQiBoC6bK7LTGgwcvPslSfvgRV8AtiWATRb3CjznYQbRFM/hfDp2FggeevOEjlNqNd/HlMOOgntylRb/rdYXfUVZuQuuwSdkvV3RVLCpT+qoNivSJMaARHZbSgwCreN/BRwA==;nrIm8dejEirYfFcApcpeUA=="
+secured: "4GqMl7f0GRVd8JZQjxiRI9dBLFYzZDRKUTy6IuYDyIfXAF6QztmPKyMQ/E7trSWEkFJlFlYLFlsn4frDhaKSZfx3I3spJWZWH0A67tDlsC+t9zxWcedwbZ76qY+c4LfLuWJ4Yi6pl+J5wl6L5jhDKIvQY0IvYzsQ4qMyfv8ftdA+cxTLyzjF7DLwvDJ0x/CG+ULXx8MlnLOnYsj7qW7rqF3yNoQ6pt/EKjp9VgaKREXUCVwq/z6gUVoNsehA00MwwVBYR20y4uCplR669KjzASg15CkkZ4heFD7xXmRI60ZdfRsgVaGJHtE75g8OhH0VGYsr0xoc4H+ahpHDqnJzuXHvs4iaWMRXq+t0HHXG3zI=;CRkPCv1b2C4+ODPzx7Cs9Q=="
 ---
 
