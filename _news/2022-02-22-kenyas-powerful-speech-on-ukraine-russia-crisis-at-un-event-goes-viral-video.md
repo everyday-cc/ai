@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerfu
 cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 700
     height: 350
     isCached: true
+
+related:
+  - title: "Martin Kimani: Kenyan Ambassador to Ukraine UNSC Speech against Russia Receives International Acclaim"
+    excerpt: "Martin Kimani has been acclaimed the world over following his powerful speech criticising the attempts by Moscow ... But they cannot justify the recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks ..."
+    publishedDateTime: 2022-02-22T14:28:00Z
+    webUrl: "https://www.tuko.co.ke/world/444229-martin-kimani-kenyan-ambassador-ukraine-unsc-speech-russia-receives-international-acclaim/"
+    type: article
+    provider:
+      name: Tuko
+      domain: tuko.co.ke
+    quality: 24
+    images:
+      - url: "https://netstorage-tuko.akamaized.net/images/870ed59de11c38d4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "w24fn4MB757uLO+AkkN3RnfqhWjFzXv03U1owimJf1+MrWO1s1jqAznAUjTmy2A12xV1c8W6i3B7hcwVUoxxzdUDWFwYnKhROhokjDgHPOWpxfJP7oY8b4PHaV5J7yH5my7BBYTZfp9ubJMN0WBVIVLvgq4CvOqPBzyWcaMmDZlfFKhz0ND7x5bzxYRcI+Fq8KthP2oEpcOQDfT4MLSiBNmvXAGK+2puMQpR3rUR7zBjHo6ykvGTk4VdVRI9KCNmR4Nm6VOy31WpVxhA4YRhXcgvLG1kPAz4Ao+KiqD4lztX/09PImOO39C96V9ntQavv7jZQta95RlHCRv70hdQz5fSMyc9pmVxJbIAI373mg8=;a5PHZhruYsHY74oVL+xJ9w=="
 ---

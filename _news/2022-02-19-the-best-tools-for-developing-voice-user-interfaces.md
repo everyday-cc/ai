@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/the-best-tools-for-developing-v
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/the-best-tools-for-developing-voice-user-interfaces/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 78
 published: true
 
 provider:

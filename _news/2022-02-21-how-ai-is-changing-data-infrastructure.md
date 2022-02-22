@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastru
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 110
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1873
         height: 1054
         isCached: true
-  - title: "How Artificial Intelligence is empowering human-touch in healthcare"
-    excerpt: "Historically, artificial intelligence (AI ... has changed over time as AI technological solutions have developed and matured, especially within the healthcare industry. Whilst AI is now matching or outperforming human abilities in key healthcare tasks ..."
-    publishedDateTime: 2022-02-18T02:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-empowering-human-touch-healthcare-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
 
 secured: "43HlPo9WAZE/npQa+41YnJw0VejL4gci6XBMrPcCA0hRD11XKTLW1/TRhwVKE6XmEa/zi15+e6x+wlNmuT0vozp0amTwZx/sTyhMsGeEV+Jo3EHlTNLi2oAl5nOie2sLlAYPCZmCnn8HF+eH6PGBWkC5BeXwh7bMTy1vYOx0a2T0cmHQCxPsCCw79v2lb2uo2SU4ed8iBz6mbjKCyvG2MZenUa68GRVJD/i6ub8Uw1ZUsl8E4XCdZy29wl24YNzJ/HW1dV1Wfi6nR+FgIonQWOIoW/X0IfyMe66Iy6R02a/0ZSNvpZDjL0iAXaF097+nm2F8Y3DX0eLeRg5JMb0SFaDS2rFI2iVBODGNNHFvcfE1z4o1KX/z6C51aw2mQTfktOkYeyoBmMVsctXxtFzY4X7uLxQu7WxlC6NRLN7saiNee15k/YIOxZN2KnAbFV5RISaMOSYQOF6n4N4nKg315odlgrYxdehLKUKB8H4Zzszqhh0hFUIkAWBXTeSduWwAefxO2ELh6uuKWcXwryQCiA==;gFrPcB+1pWAaBiJCvFL+/A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/skael-raises-funds-for-ai-pow
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/skael-raises-funds-for-ai-powered-automation-platform/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: enterprisetalk
@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facilio raises $35million in Series B from Dragoneer and Brookfield to transform real estate operations with AI"
-    excerpt: "Facilio offers a unified software platform that leverages an AI-led predictive engine Facilio, the property operations software platform leader, announced it has raised $35 million in Series B ..."
-    publishedDateTime: 2022-02-22T10:46:00Z
-    webUrl: "https://gulfnews.com/business/corporate-news/facilio-raises-35million-in-series-b-from-dragoneer-and-brookfield-to-transform-real-estate-operations-with-ai-1.1645526602926"
-    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/facilio-raises-35million-in-series-b-from-dragoneer-and-brookfield-to-transform-real-estate-operations-with-ai-1.1645526602926"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/facilio-raises-35million-in-series-b-from-dragoneer-and-brookfield-to-transform-real-estate-operations-with-ai-1.1645526602926"
+  - title: "No-code automation platform Skael raises $38M to streamline enterprise processes"
+    excerpt: "Skael, a technology vendor developing no-code automation technologies for the enterprise, has raised $38 million in capital."
+    publishedDateTime: 2022-02-21T20:00:00Z
+    webUrl: "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/"
+    ampWebUrl: "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 182
     images:
-      - url: "https://imagevars.gulfnews.com/2022/02/22/Facilio_17f21094bc4_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all"
+        width: 1200
+        height: 605
+        isCached: true
+  - title: "SKAEL Raises $38 Million Series A Round to Help Companies Hyperautomate with Next-Gen AI"
+    excerpt: "SKAEL, the leading automation platform for creating and deploying Digital Employees, today announced it has secured $38 million in Series A funding, led by RTP Global. Additional investors in the round include Bonfire Ventures,"
+    publishedDateTime: 2022-02-21T14:56:00Z
+    webUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 48
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/SKAEL-Raises-_38-Million-Series-A-Round-to-01-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
   - title: "Skael raises $38M for its AI-powered automation platform"
     excerpt: "San Francisco-based automation startup Skael Inc. today announced that it has closed a $38 million Series A funding round led by RTP Global. Dell Technologies Inc.’s venture capital arm and Bonfire Ventures,"
@@ -56,21 +72,7 @@ related:
         width: 1061
         height: 580
         isCached: true
-  - title: "U GRO Capital goes live on Scienaptic’s AI-powered credit underwriting platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI  announced today that U GRO Capital, an Indian listed MSME lending fintech company, is now live on its platform. This collaboration will facilitate better early warning signal mechanism for credit underwriting and enhance loan decisioning for the MSME sector in India."
-    publishedDateTime: 2022-02-21T22:35:00Z
-    webUrl: "https://www.cuinsight.com/press-release/u-gro-capital-goes-live-on-scienaptics-ai-powered-credit-underwriting-platform"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 35
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
 
-secured: "8uZ7CQQ4lHO+3i+eduSYjxLHUXYq6CyGdl/op6ks97JUZA6b33xCl6n1Xvds2VaGgSjhSq5RPE02QhTtjJ47Q3wyFhja/wVWWIpEXAvB9acOEB7qH02Imw5iUXilb+6lDwiIIJMmben7dnWlzOYUWe+RS4N/0qhJp03VypnKAZECUdCGw+TRE6dRnPW/BxqNNZDWmoiYeTY5McmzbHVXEg01WkaXcVvDIuFQOLyYAaSD9uqyQWrPDQ8sFPsL7Pso9S7hpEvaI6caEdTmq44KBWhNApRCU9ZAS/VK3K9jcoo9KkpQEZjeJDLZFREq8a3xvl5EQaCSpmdnQoybYVM/gY8oFXWHe+Iosl9PIOIl1Tg=;NCf6h8sfMfqBdYN/ULXSMw=="
+secured: "EZEIP6AVF+9Y/cRXz3HVrmQWjhnFJou8TZxdlRIGpB/Yw7oFnWcAeJu5j76jDD7qM2gp5hS61BQ8TgEqqmsEfW6wxCEaESZlOvqoQSmBgHzhhELijtuBus38j9U9kR2EAqO9oSaQ7vA+xSBEjzRByCsl7wDFoUlNkCIusMdEnVYQNyetdOv5u9Y8007JHIGSmMRDB/XNJdjBctUQakZhOCYS+TWcxilCDFryhvXgH07prhrnQwc1qbr06qeUNRcVrZZ8KeGa8HA05gcx2cAEoAA+NJcpdMZI63rzYlSeVNpRprJ7ikLaTebokMgjzqTdnc4/pppDzIZf9OE0akIxTZ1MnLlCqXFRLxdljPIi7Z2KON4xmPbCsNTbau1gVoW60ZJjVMA2wvAFFdLPqWxkFZldpOZPr9NRN3diE2MWq6nU4XFknQvX/As1FrPK3nRWS3RpbS6VzJ8i59Mnm/rVBepiGpcF5hTsCzFfo9e9B2f86kiWgO1GkOreV0bDXiZJXKazzhTYBY1Wn6hi/oSl4g==;RdKuELtkw54slO610gcsTg=="
 ---
 

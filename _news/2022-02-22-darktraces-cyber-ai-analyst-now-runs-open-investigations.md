@@ -22,22 +22,6 @@ topics:
   - Facebook AI
   - AI
 
-related:
-  - title: "Darktrace Artificial Intelligence Stops Cyberattack at Italian Electronics Distributor"
-    excerpt: "CAMBRIDGE, England, Feb. 17, 2022 /PRNewswire/ -- Darktrace, a global leader in cyber security AI, today announced that its Autonomous Response technology, Antigena, successfully took action to stop a cyber-attack exploiting a GitLab vulnerability for the ..."
-    publishedDateTime: 2022-02-17T22:00:00Z
-    webUrl: "https://www.darkreading.com/attacks-breaches/darktrace-artificial-intelligence-stops-cyberattack-at-italian-electronics-distributor"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 29
-    images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
-        isCached: true
-
 secured: "FsSMpc6DB6N24/49cMxdkoaBXaCydP8dzECV0D2Y+4NvkfdiJxyFEUl/DD8NB6QrSiCZjK28aILt6zWLmNbWmXjxh81bW+43ecxexsn6KJeC9yxADX/tZtaPhmdho+q057XsgVzAgExXHag6oW4Aep8uLE3TCXZpGeEkpvTGdp3Maxmp9FmU3mPnqTGIfECqauBj3QkHvD2jgMBU7LYAXXlnnfNmRcUDntJbKr5cBdy3GnPNL9Jt8rD1uTpxiMM+fDSuNKAEyP9MjwTDOiqdOqR4/7vhUV8h66EqmOddtwoJz3pt4RA3xEJfp6T3S/k9cR1G54g+5zEM1uBQOgoOU/czdQu2HlDS+to7yJYJCu0=;jOX3aZAzB7+NBS3iueWZeQ=="
 ---
 

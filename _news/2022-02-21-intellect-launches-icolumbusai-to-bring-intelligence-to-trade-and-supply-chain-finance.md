@@ -20,22 +20,6 @@ topics:
   - AI
   - AI in Finance
 
-related:
-  - title: "The Perfect Storm of Technology, Intelligence and AI"
-    excerpt: "The quick pace of technology requires a faster pace of adoption by government, writes former CIA Deputy Asst. Director Cynthia Strand."
-    publishedDateTime: 2022-02-21T14:37:00Z
-    webUrl: "https://www.thecipherbrief.com/column_article/the-perfect-storm-of-technology-intelligence-and-ai"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 39
-    images:
-      - url: "https://www.thecipherbrief.com/wp-content/uploads/2022/02/Cynthia-Strand-310x310.jpg"
-        width: 310
-        height: 310
-        isCached: true
-
 secured: "LCSBHksclmInq7VPziaoMiaCNx3m67enFJUBGQXF/26+icezbjINfg3uoAuM9+0vnHp4zu+jecS8XCu8cLEX47AO681mU0yt3N3HKkOytwsRgBrF2DBUL+8xq9vtdAMknPaN+HVyC0CWrUGHhJs517zH9kQnRshPSLk9X10OrB+D2a105GcchWU9f9dgowTVLAUEK6oCKjhupgJfInIx4QU8Z11NVkKvfkgtRQ1PjF93YoAWgfMGE2+5gpxrJlEUDyqbQdDs+xXiToz7jLKOcDH9RQl4+3qsg1E24ZSEGfcFAEnvwonrYTrWNl7xUybuk1AkBj2PY3RwO/n2hansNQB/yp0s/jADSAbZbml9djHPtXmua5E7pc4b18tXg9uQIKAxscYpD7KLt6TwFtn7iXaNKc+JI50FvVMZ7ZLWMd0Cja+WRlPGGpsVsfzyqp4UVIQo7XPsckBmY4PAm5uZ8NF5SKcH2tJoscELXTjvzqPBBAszcPKgQX7nIhVHm1hJmrT7sDzNFichqTh0G7mqOA==;cVK4Hn1gskM3j4N4ny1aDA=="
 ---
 

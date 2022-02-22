@@ -51,15 +51,6 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 39
-  - title: "How Artificial Intelligence is empowering human-touch in healthcare"
-    excerpt: "Historically, artificial intelligence (AI ... has changed over time as AI technological solutions have developed and matured, especially within the healthcare industry. Whilst AI is now matching or outperforming human abilities in key healthcare tasks ..."
-    publishedDateTime: 2022-02-18T02:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-empowering-human-touch-healthcare-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
 
 secured: "riW5LVeoYnP9yqAdfM587FIHLLup2K33JE+PR3exA/mycVogd77IK+vGjSSDfWK+69e4CWdt11JdXTXCJlXGQpM7dn1U7nCbT0UvQ4x1nW2uJGpueWD0F5juNYh3PyqeXVimtYvZiaX81HT/RZDouae7Tq8vPYmZZCEnPRgE0nSWVqMmkwJ+Pm6q/EI34gkQeX3WN48gAmr9OLr6L6GKAWNKtTKF6CVGXAo7pHpbZsYT+kazEhcHy4TC4KDrNjwc3Kg76LJL7AyQxtqMx19awGUXGO55az9ofL1ow38S1SdLdqbsAi3aT8cEKyNKWjKjsjZyfCAmGx6e4VL31M/r7ZWJNAQNdfk10yKcwj4nlZw=;KCiNHUGERluTkWU7zB0vkw=="
 ---

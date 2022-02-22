@@ -24,33 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "H20.ai introduces deep learning platform"
-    excerpt: "H2O.ai, an AI Cloud leader, is releasing H2O Hydrogen Torch, a deep learning training engine that makes it easy for companies of any size in any industry to make state-of-the-art image, video, and natural language processing (NLP) models without coding."
-    publishedDateTime: 2022-02-18T14:43:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=151507"
+  - title: "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers"
+    excerpt: "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI."
+    publishedDateTime: 2022-02-22T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
+      - url: "https://imageio.forbes.com/specials-images/imageserve/620a7008f65109a2886f0b25/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 848
         isCached: true
-  - title: "H2O.ai democratizes deep learning with H2O Hydrogen Torch"
-    excerpt: "New no-code tool simplifies training and tuning of image, video and natural language processing models H2O.ai, the AI Cloud leader, today announced H2O Hydrogen Torch, a deep learning training engine that makes it easy for companies of any size in any ..."
-    publishedDateTime: 2022-02-18T08:46:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/02/18/h2oai-democratizes-deep-learning-with-h2o-hydrogen-torch"
+  - title: "Researchers use artificial intelligence to find better tasting fruits and vegetables"
+    excerpt: "The content of this article 'UF/IFAS researchers creating an ‘Artificial Intelligence Connoisseur’' was prepared by Brad Buck for the University of Florida Institute of Food and Agricultural Sciences and has been revised and republished by ..."
+    publishedDateTime: 2022-02-22T06:00:00Z
+    webUrl: "https://www.freshfruitportal.com/news/2022/02/22/researchers-use-artificial-intelligence-to-find-better-tasting-fruits-and-vegetables/"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 54
+      name: Fresh Fruit Portal
+      domain: freshfruitportal.com
+    quality: 30
     images:
-      - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=940&h=430&fm=jpg&fit=crop-47-32&s=f6f9c83298cf3823cf73a84a7026f6bf"
-        width: 940
-        height: 430
+      - url: "https://cdn.freshfruitportal.com/2022/02/Untitled-design-2022-02-21T145252.004.png"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "aKl9xabLJu/dGKNB4AITZ4KS6TAl7cMT6N63qeHSE7OCllIZS8tLM0je+E6yxaSEzZk8tunYDfgQhbQPqFusdf056QhrRmTEd/nPioYNHXDPTmvUc1d08SninmMMFqDfapxCDxfXfwO0sSAaHWjznTuuLsjy/Zw2rqoZ9/ECmchQzBwiVG9OKWEkoIuas5kznrZytW5HFq/ANItX5YzOdNeO4dERTNE/LbPWqcseb7NZRrPTIbkt7oXUDvUvTrt2mfxKcn7pQc2/leDiusQE7b3Q9/CQtoblAEqWT7K1z4ymY2zQ2qmqzS49z80v91S9LS2EoGcPeaId7ZH84ZaDlIdc+48+mjLBYc658NB7TrJ5wUHtzFjTOBmwh0r/fjN/B5HWEqNM8woR8x9QwToNeaqoa9fISOk0ZIDsJMB3RdF/yOk33Yg0nWG8SvcCoT1tO/0kcarqvLQJ0H/CFYGJkp02t+j70cr+vOjE0EcCTSObaJ3eZN1iEK5bkMnMujLlrYIKJ5gZ7ZQnA0aaTI+mHg==;BFCV8XtFijwaT5CUhxoOfQ=="

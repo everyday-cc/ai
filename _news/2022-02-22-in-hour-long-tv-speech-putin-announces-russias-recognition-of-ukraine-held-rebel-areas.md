@@ -217,6 +217,20 @@ related:
         width: 1000
         height: 612
         isCached: true
+  - title: "EU lays out sanctions package over Russian recognition of Ukraine’s separatist regions"
+    excerpt: "Russian President Vladimir Putin announced Moscow’s recognition of the regions in a speech on Monday in which he also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s ..."
+    publishedDateTime: 2022-02-22T14:55:00Z
+    webUrl: "https://www.yenisafak.com/en/world/eu-lays-out-sanctions-package-over-russian-recognition-of-ukraines-separatist-regions-3589938"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 31
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/a50d2007-05u074fq8at8anusl18sj8h.jpeg"
+        width: 600
+        height: 336
+        isCached: true
   - title: "UK says recognition of separatist regions of Ukraine violates UN Charter, flouts peace efforts"
     excerpt: "Rising tensions Putin announced recognition of the regions in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have ..."
     publishedDateTime: 2022-02-22T08:16:00Z
@@ -274,6 +288,6 @@ related:
         height: 450
         isCached: true
 
-secured: "kapHuNLcoUl9MDARI6+W3VQPb9Q9T7i84ZWl7GqGoW4YrFZPujxSGE42SmydWcv5O2/D5YS1ko67Lx+RwKhM39g0WoZP4RsQJVPfQ2qlIDXcygHC04xaiwv9A5zOsovXiSyaFEsT6/633AsL9MNEBKwQW8Ot3anuWXKD6BBYKKqUgd/GG4DHuBxFHwp326DuD5gFmbbWyyBs0uGD3g8xn3ibqJm/xwENSiksA7MP2VGzytbi3WDr7gmZkm9ayEWnnhi7GrTb7RO2zIvP3jpaiTip2opAYeZhYQsf0yysVaSR2icmr8fOo5NDEuUbtrQyk7lNteVD3DvmbNVlLikvcjkmBtxqxx1X6GlCQayQlLA=;UvkcePqHrqx9Ky7rsgXOrA=="
+secured: "xWPHq4g5U5FdBXGYD95MSZQzdBk/rdbLgHyPaYz803M++g0/DiGR1A2EJLjrl9+9zb+rQYO/L/OkMcKl+UWAWHEj2DTEcWJxCdaS3UroXpmV94ZtygAFZB0W9i89NRbm6x55CVsBDltVcyTjca8nAKdirJI7+2oGres96fQiu+KmLRPjfhfHBkoQr+iLsBPqpFN4kLOzltCLvWlAazPENVGcKs6ku6hMSxSClA5Pi0GePbH9Up/y5GFXt/UxLFFp03eYf7dPZB1RsO6KZl66fg+6SaFbtHoR3dJL5JBGuseuQTkDV8uoRvWKELtyfFOn3V5UhwnA+UQdbWarRFv1lVGbs1X2wQA2+OV6SQ/rZhIja1+oTS/+IGTadfEwmWjcHh/9FLseleedqx0ghHWuztShKaw4lv7qNlxzvNMNeoM4oaEhL8lt4WcoMTcuGMtDKQSaoGxq+kYsQ47Zlej97BrjhllDIUR3iykEXZ2+Q7mZiuduEOv7azXo0slcejNQnEgGVdDWGXHtRHaJcqVBoA==;JnSSr3rRcsXyFUkhRfYi9w=="
 ---
 

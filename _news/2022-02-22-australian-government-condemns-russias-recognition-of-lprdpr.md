@@ -41,6 +41,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "UK sanctions 5 Russian banks over Moscow’s recognition of Ukrainian separatist regions"
+    excerpt: "Britain on Tuesday sanctioned five Russian banks and three individuals in response to Russia’s recognition of Ukraine’s separatist ... \"In a single inflammatory speech, he (Russian president) denied that Ukraine had any ‘tradition of genuine ..."
+    publishedDateTime: 2022-02-22T13:41:00Z
+    webUrl: "https://www.aa.com.tr/en/world/uk-sanctions-5-russian-banks-over-moscow-s-recognition-of-ukrainian-separatist-regions/2510151"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 31
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_13a05570b4df99613e13751a31eb74b5.jpg?v=163445"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Canada preparing sanctions over Russia’s recognition of 'LPR/DPR’"
     excerpt: "“Canada strongly condemns President Putin’s recognition of the non-government controlled areas ... to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
     publishedDateTime: 2022-02-22T06:39:00Z

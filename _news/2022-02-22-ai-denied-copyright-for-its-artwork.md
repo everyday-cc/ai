@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/ai-denied-copyright-for-its-artwork/
 webUrl: "https://analyticsindiamag.com/ai-denied-copyright-for-its-artwork/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Can’t Own Rights to Its Art, Says US Copyright Office"
+    excerpt: "In a significant ruling on 14 February, the United States (US) Copyright Office rejected a request to let an artificial intelligence (AI) algorithm called 'Creativity Machine' copyright a piece of art it created. A three-person board at the US Copyright ..."
+    publishedDateTime: 2022-02-22T13:51:00Z
+    webUrl: "https://www.thequint.com/tech-and-auto/tech-news/artificial-intelligence-cant-own-rights-to-its-art-says-us-copyright-office"
+    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/tech-news/artificial-intelligence-cant-own-rights-to-its-art-says-us-copyright-office"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/tech-news/artificial-intelligence-cant-own-rights-to-its-art-says-us-copyright-office"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 54
+    images:
+      - url: "https://images.thequint.com/thequint%2F2022-02%2F8f7464c2-490e-4195-b30b-155c00643e54%2FScreenshot_2022_02_22_at_18_32_23_Microsoft_Word___2022_02_14_SIGNED_Paradise__AI__Draft_Review_Boar.png"
+        width: 789
+        height: 444
+        isCached: true
   - title: "Artificial Intelligence can't own artwork: US Copyright Office"
     excerpt: "San Francisco, Feb 22 (IANS): In a significant ruling, the US Copyright Office has rejected a request to let an artificial intelligence (AI) system called 'Creativity Machine' copyright a piece of art it created. Creativity Machine's artwork is titled \"A ..."
     publishedDateTime: 2022-02-22T05:17:00Z

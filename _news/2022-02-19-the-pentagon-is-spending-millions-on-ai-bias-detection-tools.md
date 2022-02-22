@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/pentagon-ai-bias-2656723227"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/pentagon-ai-bias-2656723227"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Patriot One Technologies Awarded Contract to Create Artificial Intelligence-Powered Full Motion Video Detection Application"
-    excerpt: "“This advanced object recognition technology can be applied in countless ways, from providing a higher level of safety to people on the streets through video camera systems in specific locations around the world, to integrating it with drone cameras to ..."
-    publishedDateTime: 2022-02-22T12:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/patriot-one-technologies-awarded-contract-to-create-artificial-intelligence-powered-full-motion-video-detection-application"
+  - title: "Study says companies will increase spending on AI solutions by 19.6% this year"
+    excerpt: "Advancements in language, voice and vision technologies, and multi-modal AI solutions are revolutionizing human efficiencies,” says Ritu Jyoti, group vice president, Worldwide Artificial Intelligence (AI) and Automation Research at IDC. “Overall ..."
+    publishedDateTime: 2022-02-19T11:48:00Z
+    webUrl: "https://www.cxotoday.com/ai/companies-to-increase-spends-on-ai-solutions-this-year-says-idc/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
+      name: MacTech
+      domain: mactech.com
+    quality: 133
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
+      - url: "https://www.cxotoday.com/ashojoac/2021/08/ai-game.jpg"
         width: 600
-        height: 337
+        height: 450
         isCached: true
 
 secured: "hV0RZCXZaVw5ZSK4f3Wotht/98x0RanPwEScsymEu7dCUdkDhHGulUn2TSakUc5ZWCxWwgTX3zWPK/U1SVeFI4iqAzW+McKFi7UtnqrSrTESb+8DRt2kP4YN+1kZeslL2paqmRIhgST4KbZtIsaghq+S8JF3NDg70ZrnpgMgreC1QK9UrKidsRkimuKiT6znXHGUEg+giUSHNzt7brKBn0t5tUsvBMI5t5OJzyut5O5vOrWA5jpAI+KtD7iBIvdN7aALKlonDZbNQadTXUKqZaRN8Wh8b6/o9UoQv+prPJUwgfgmN8yT/1uaFjM0C28CJrBW62ri6lvHdzBhKFGqMYjpAD0Ozho/BFRGvSQL3XlulBZmgj0B3N6S9dHTQgv21en4Wbo/WYX9fgjpNxw7gH/+iv9sADh8s8n5EzJZrB4pi90iLpdrT57HrtwlkXRNvwnyn6CGkoZTBTt+XIkhdpfcq4nKVU/QT7Uy1ZUn5sgnNTtidceeidmanewNO4j2yHfL2AAYVodM3rzwYuPxNQ==;7Q9TjT8TjNIIJTvOzp3hrQ=="

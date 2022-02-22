@@ -231,6 +231,20 @@ related:
         width: 1000
         height: 612
         isCached: true
+  - title: "EU lays out sanctions package over Russian recognition of Ukraine’s separatist regions"
+    excerpt: "Russian President Vladimir Putin announced Moscow’s recognition of the regions in a speech on Monday in which he also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s ..."
+    publishedDateTime: 2022-02-22T14:55:00Z
+    webUrl: "https://www.yenisafak.com/en/world/eu-lays-out-sanctions-package-over-russian-recognition-of-ukraines-separatist-regions-3589938"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 31
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/a50d2007-05u074fq8at8anusl18sj8h.jpeg"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Putin signs immediate recognition of Donbass regions"
     excerpt: "The decision comes amid fears of a worsening conflict in Ukraines war-torn east Russian President Vladimir Putin has announced that Mosco"
     publishedDateTime: 2022-02-21T20:55:00Z

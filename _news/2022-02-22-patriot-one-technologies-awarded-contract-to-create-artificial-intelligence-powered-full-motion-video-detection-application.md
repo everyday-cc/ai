@@ -25,23 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Pentagon is spending millions on AI bias detection tools"
-    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of ..."
-    publishedDateTime: 2022-02-18T16:51:00Z
-    webUrl: "https://www.protocol.com/bulletins/pentagon-ai-bias"
-    ampWebUrl: "https://www.protocol.com/amp/pentagon-ai-bias-2656723227"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/pentagon-ai-bias-2656723227"
+  - title: "Image Recognition in Retail Market by Manufacturers, Types, Regions and Application and Forecast 2022 to 2031"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase ..."
+    publishedDateTime: 2022-02-18T23:55:00Z
+    webUrl: "https://menafn.com/1103724928/Image-Recognition-in-Retail-Market-by-Manufacturers-Types-Regions-and-Application-and-Forecast-2022-to-2031"
     type: article
     provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
     images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-deals-are-part-of-a-usd249-million-blanket-purchase-agreement-less-than-p-greater-than.jpg?id=26386473&width=400&coordinates=0%2C144%2C0%2C145&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40803"
+        width: 443
+        height: 250
         isCached: true
 
-secured: "+Wymqzl6Ls083yxzBIhF9O+Amj9Q1pHP8eULYFVSIRtqZXzpJDL/nuJV8sN5qjsXucVmwM5lQRdd0JQbuYvRi0NtFrqPire1qwNYACF1OPMGIjCqplm0Bzzm9RpoBsN68u/GeztWRXygLC5kpEYeQctf3J5dew779nphF0wDyBhBu2rXbFcZCWb5Wwzv5LvLD67udh0DPzHowRqckjolcwiAYkd0pXcpwX5wZrrI+nvpvJoodKRuBuriQoqoopdNzAt6pL/zyMLc0kuKX2F6UGUKMK578HeGpICqNZUyDlgVhavDvgXPfROV7qxwsRH5FudfNcSE0REfR+CeAJDRIq3Yi1Xd90nl4ji1z6G4C7Q=;jhdNanKLm85e/Lrjf0VTLw=="
+secured: "E5QtMxH3jXP9GLWluE0d5BZvbANLCvERLrQE8Mt0s91AakmTGxmAFno3hBtcQy1UxBFR5ax7KEAlTv7lQHHaFTuVHEiDZRaRi3mm/JNWVye+akLAGkNdIm449JvE0LeSyhgSXhmLYjWCmpVFwz1+JpvpTj+45F/hudZteWl96xv8Z94uaJY1r/IzGLRkvXuuF9DLiCjP3a35LWb2eP4GSruIH1v9A6RIH1skt2SmPFJPbE13hxXD69nzVZ7iGpPJGuBMX4uzwUL3yOxJv1H88MsHTHsjxaLKzJW8O2B3h0fm/nBokzlzpSiCusaudB7Ezzp0T624Kyi34k01jwLBKCbK9xI0C2FOur6kRBEEXUPagXZOVqjHgtqZprWZhdJYKyolQtAIexNs9sF3CuFW9xqv1AaR9BdC6W1xhc0KsOKxwdMmoECWwcKC/MXOjx4j2o4w9YNAUxh0b6HzyZKELX5gZBlaJWNvEVZBMsZbsqCraf1OKFefFoxWBlAQLNunqHe4X0mTcA9bXpMnTT4GGQ==;Z5MvGE0hoahEkF5Pus8h7Q=="
 ---
 

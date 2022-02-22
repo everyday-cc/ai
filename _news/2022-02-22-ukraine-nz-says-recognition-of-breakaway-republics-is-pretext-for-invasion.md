@@ -39,6 +39,20 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkiye's president"
+    excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
+    publishedDateTime: 2022-02-22T13:53:00Z
+    webUrl: "https://www.aa.com.tr/en/politics/russia-s-recognition-of-ukraine-s-breakaway-regions-unacceptable-turkiyes-president/2509987"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 31
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_27a88d0c1b03a8a195cf1b18a7292313.jpg?v=142428"
+        width: 864
+        height: 486
+        isCached: true
 
 secured: "/bqYdZ19BSHpHVWCnPBWOSOcEVVzdzgCSgbB+n7Yz4CoEbpFMib+jMtSGdPX04j3NEAq5L+hqzA5s8tgAtTeKCSotZ2BwIrojFJ2VzLS/5KWfnkNbRWYM8yNA070UysLFxIcqeUI4ZTBQ/lBHf34LkqPt4zRkPJFTHyWdFF5RevVsKxNJITDsbVW+Cg+GRnhyVde/Qj81hlmExJvIFopnbo8kqskwLgnpAhfGmjorJpr/4EpRuRYhvzEtoolpFFkdXxghCSFmi+KsmYzEkUsh1iv1ETkfV6MHi3f8Z2pS90fsq9wqcdpqgP2xxfw5qLeTJy7b9WUq/o6nTb42L0ao/1UH0plKsEcbwr/AmyMSb8=;B4uMuSqwkHI6DBaWTvdEeA=="
 ---

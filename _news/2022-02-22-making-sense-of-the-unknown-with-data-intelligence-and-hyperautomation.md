@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 539
         isCached: true
-  - title: "SKAEL Raises $38 Million Series A Round to Help Companies Hyperautomate with Next-Gen AI"
-    excerpt: "SKAEL, the leading automation platform for creating and deploying Digital Employees, today announced it has secured $38 million in Series A funding, led by RTP Global. Additional investors in the round include Bonfire Ventures,"
-    publishedDateTime: 2022-02-21T14:56:00Z
-    webUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 48
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/SKAEL-Raises-_38-Million-Series-A-Round-to-01-1024x577.jpg"
-        width: 1024
-        height: 577
-        isCached: true
 
 secured: "6lejZNRQ+GTa5LKHY0oTn2+HlObXyzdWqKTxPlpqd1gWBXyzyHz3PYzF0lh5pefyLgT4yFgteqw31YiY8/fVzURXqRZjZcbotBGHWu9Guxi7HpiHF0DK484/zdfjL1XUqDk2n+A7Upr3NemClL9A8j/z3KokKJtjF7ahi7Xhpspso1m22kancYMiPo2L2IZfpTqyoj1mDj0nP6JFM2m5kWsUM6GozQzbMGww5ffGJtqBeh5ShIo/VWor86L8R6EYi103KJCB0K0Wo3+b+Dzco1tpqVVMIdcR2yP+d40kp2Oek7kN1A9tFkbeZOpVNC/iELiZiuE9XeGGw+4+axAcyMFlJXTana+x3pgCSmPj2ag=;HIgPlPiWQB/tlbAmWYeZIg=="
 ---

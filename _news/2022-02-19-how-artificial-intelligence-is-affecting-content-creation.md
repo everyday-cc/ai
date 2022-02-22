@@ -51,15 +51,6 @@ related:
         width: 1873
         height: 1054
         isCached: true
-  - title: "How Artificial Intelligence is empowering human-touch in healthcare"
-    excerpt: "Historically, artificial intelligence (AI ... has changed over time as AI technological solutions have developed and matured, especially within the healthcare industry. Whilst AI is now matching or outperforming human abilities in key healthcare tasks ..."
-    publishedDateTime: 2022-02-18T02:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-empowering-human-touch-healthcare-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
 
 secured: "3VnE5wP1PAxQzVuekT9kiQgRLj91ZNyEK9DtM6x3bm95fiEX6G4pAhJlnQJMZWWRI+q3EakHCaRx56UX2lssqyCHtrxQtCS2O2AhxXPVZMmbYX7dHixhNSrScFAfdHGytWai8vBy+9tBAW/k3ZHFZJvRUEW8LnJfu4CmCzv9TMysyc61ymVDdNRjH6OUQ69ulxHbPMQsf7ou4OZkE2vNjFRSPTk3gQkNQ4aZ7C5qeyfg4Cr+O/olM+jxw/dw1Vbz8DrwTmOCdeDp5GZe5Ru4NfTZjWu4rkfj5Pp/prHsNCHgvozYm1c5FDRyB4HjgEHHH1QB7lak+Wqh8oeg3k4M2TqUymHTysSxwmuKZV+J7Ho=;2DFag6B0LupqZT+kuJ8rJg=="
 ---

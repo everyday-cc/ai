@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin
 webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit"
 type: article
 quality: 67
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
       - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
         width: 1000
         height: 612
+        isCached: true
+  - title: "EU lays out sanctions package over Russian recognition of Ukraine’s separatist regions"
+    excerpt: "Russian President Vladimir Putin announced Moscow’s recognition of the regions in a speech on Monday in which he also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s ..."
+    publishedDateTime: 2022-02-22T14:55:00Z
+    webUrl: "https://www.yenisafak.com/en/world/eu-lays-out-sanctions-package-over-russian-recognition-of-ukraines-separatist-regions-3589938"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 31
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/a50d2007-05u074fq8at8anusl18sj8h.jpeg"
+        width: 600
+        height: 336
         isCached: true
   - title: "UK says recognition of separatist regions of Ukraine violates UN Charter, flouts peace efforts"
     excerpt: "Rising tensions Putin announced recognition of the regions in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have ..."

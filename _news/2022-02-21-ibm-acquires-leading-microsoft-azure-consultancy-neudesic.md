@@ -39,6 +39,15 @@ related:
         width: 602
         height: 305
         isCached: true
+  - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
+    excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.&CloseCurlyDoubleQuote; \"More than ever ..."
+    publishedDateTime: 2022-02-22T14:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/02/22/u-s-bank-partners-with-microsoft-to-accelerate-the-future-of-banking-with-cloud"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 26
 
 secured: "T5kQThERxx8iLBEgMffC0wUYOeyxn/kR1FTVhIcQGlRbFNnd3Ywc+dnHhslTlY2qQW9tdsRJ9YtEkWmAXVDFdZeULvFGHF6X5hjSBYxh9lLT6R/W93Nz1NDq8eJqeIp/vpXyapVNTW8rmcQvVbQqBX3E9Iu0Pgwdi7xfSUa5EfSwoOpOxJzeP6hT5YlNQHLmaRDCh+3D4XBTOBdtc1BN02C4lQSl/siUBBY+uNOFwScykfuJ1k9wqtBXKEY0jQ+YO9EvijflJoqodVsqE8DLqrqTAtrCMs0s674GhyiyFIBQy+3SbFs3SaIbQhbdQZT7/4vKzIaMeoAWnW45DZXXnsngiIRVVgWefXx21Fb+ScEMTg8qR59a9zgST3ypJC6ayZIyKu7lvjsCT/aSuCWihBiNfXOoHbJVSV7qOsecZ4JG70UMnZ7ZdModNgZvIRJzGBw4PWByQYLLJdTPt5I4A7h5H+XIgZ8bFrf5Feu7M7n4TZq0lvBBSVT+lkFwCFdUgy61BVpi8I+VVx5Bp1q8Sg==;nBJb43HdIhrhMVa8p0gKYA=="
 ---

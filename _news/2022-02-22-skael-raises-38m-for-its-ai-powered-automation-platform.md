@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "No-code automation platform Skael raises $38M to streamline enterprise processes"
+    excerpt: "Skael, a technology vendor developing no-code automation technologies for the enterprise, has raised $38 million in capital."
+    publishedDateTime: 2022-02-21T20:00:00Z
+    webUrl: "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/"
+    ampWebUrl: "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 182
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all"
+        width: 1200
+        height: 605
+        isCached: true
   - title: "Skael raises funds for AI-powered automation platform"
     excerpt: "San Francisco-based automated start up Skael Inc. today announced the closure of the $ 38 million Series A funding cycle led by RTP Global. Skael is the latest in a series of flexible software providers to increase support recently amid growing demand from ..."
     publishedDateTime: 2022-02-22T12:23:00Z
@@ -40,35 +56,21 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Facilio raises $35million in Series B from Dragoneer and Brookfield to transform real estate operations with AI"
-    excerpt: "Facilio offers a unified software platform that leverages an AI-led predictive engine Facilio, the property operations software platform leader, announced it has raised $35 million in Series B ..."
-    publishedDateTime: 2022-02-22T10:46:00Z
-    webUrl: "https://gulfnews.com/business/corporate-news/facilio-raises-35million-in-series-b-from-dragoneer-and-brookfield-to-transform-real-estate-operations-with-ai-1.1645526602926"
-    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/facilio-raises-35million-in-series-b-from-dragoneer-and-brookfield-to-transform-real-estate-operations-with-ai-1.1645526602926"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/facilio-raises-35million-in-series-b-from-dragoneer-and-brookfield-to-transform-real-estate-operations-with-ai-1.1645526602926"
+  - title: "SKAEL Raises $38 Million Series A Round to Help Companies Hyperautomate with Next-Gen AI"
+    excerpt: "SKAEL, the leading automation platform for creating and deploying Digital Employees, today announced it has secured $38 million in Series A funding, led by RTP Global. Additional investors in the round include Bonfire Ventures,"
+    publishedDateTime: 2022-02-21T14:56:00Z
+    webUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 37
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 48
     images:
-      - url: "https://imagevars.gulfnews.com/2022/02/22/Facilio_17f21094bc4_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "U GRO Capital goes live on Scienaptic’s AI-powered credit underwriting platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI  announced today that U GRO Capital, an Indian listed MSME lending fintech company, is now live on its platform. This collaboration will facilitate better early warning signal mechanism for credit underwriting and enhance loan decisioning for the MSME sector in India."
-    publishedDateTime: 2022-02-21T22:35:00Z
-    webUrl: "https://www.cuinsight.com/press-release/u-gro-capital-goes-live-on-scienaptics-ai-powered-credit-underwriting-platform"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 35
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/SKAEL-Raises-_38-Million-Series-A-Round-to-01-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
 
 secured: "y/7zCRcLJHjPcWngpUKMfq13SJeccvc6xF7WVHCKNUi4vs5/gCmtDcP9O7Cue1fcYly5biqjSXQUW1c81teSsCsPOCrvHggvSR/QKIZMH/3fNRcX8B+Sofw8tPPNAKTPmhal73+wJF0rwNKC39traVquINX9MpSyA0vwmdeDDk8BPNkoVHy9DBKVV22WAarJ98l/GLVhcwY6ug53Wl6u/PfWJ8RAlXrqGqrdZ2P7UfY1aofzSfc03uYk9UMf64i3b5Pzp7r/kFrLB2LmG90uoL1GPvi0nN8n25g/3arqjGtmWYif7Hpv2YKvAUTsWQu0wjW58Y7RIBWp7en3GLHYFJqvIvyuGEIhtnl2pWZW+UuxCkokTCJur0g8PZ/dr+Lxm/lGCa7ha15MlORkIlDe8Zmpb612/SbK0LXU5TbClfrVwELn37g3Vp6OHk7wI+DkwqxTiZMeirt81TvRYtJwjvu7zjvDQNP1ihl5toxXnK0Cnwlw2kSIISoth0wIwAo4dkPZLa6ALZ63+gZBmeBkbg==;HolCCAYibp814yZyuZRIJg=="
