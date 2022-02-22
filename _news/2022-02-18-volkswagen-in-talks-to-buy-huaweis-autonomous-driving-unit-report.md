@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: TechCrunch
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen in talks with Huawei on autonomous driving unit - Manager Magazin"
-    excerpt: "Germany's Volkswagen is in talks with China's Huawei about acquiring an autonomous driving unit for billions of euros, Manager Magazin reported on Thursday."
-    publishedDateTime: 2022-02-17T16:42:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 149
-    images:
-      - url: "https://www.reuters.com/resizer/wHE_A2ff3igWA_UNoKoWLqAchJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JTUDKQXVCFLFZFJNXZG37U2L6A.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Volkswagen discussing deal for Huawei’s self-driving unit: report"
     excerpt: "Volkswagen is holding discussions with Huawei about buying the Chinese tech giant’s autonomous driving unit for “billions of euros,” Reuters reported on Feb. 17, citing Manager Magazin, which in turn cited sources familiar with the matter. A ..."
     publishedDateTime: 2022-02-18T08:38:00Z
@@ -76,20 +62,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/MRw4WQyP61/sizes/istock-491488082_resize_md.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "VW in talks to buy self-driving unit from Huawei, report says"
-    excerpt: "Executives have been negotiating the deal, which involves technology systems VW is not yet proficient in, for several months, a German business magazine said."
-    publishedDateTime: 2022-02-17T16:49:00Z
-    webUrl: "https://www.autonews.com/mobility-report/vw-talks-buy-self-driving-unit-huawei-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Autonomous%20driving%20VW%20web_0.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "qaVD2OBOEswfvFHN19Jk+flRUrCdBZH5npjTHeOPx5OnmfydEWOzTxA5VhPAMaXmaRx868MrUHcwzndMwZLoeAxEYT43nlJZqSoHMi2U4XbwkUrGZFpXPwGI+hmuDB9CeSj2PIE+c3g1OdPd+nX99PGoxd8Pie5HlzVW+0gPqJL97g/rLkCg3489dJTRc8Bp80V3M4eAR9Y4E70By7O4UyIm3XYdPScaFGg3aRY19bnf+UxNhLU7e6SznOVM6g5Xsefvl2H2jD1WW0aCVjfB0tf6oWWDm6frYnHtxGu/piRt1KMoj7llc/x2wXaIH4D0auSZed8STgpimXcvPGUHWRVJyBkQz+HJ0D+urNT5hns=;l1+dHUDu0u27EhyRK2j0gw=="

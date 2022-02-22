@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen in talks with Huawei on autonomous driving unit - Manager Magazin"
-    excerpt: "Germany's Volkswagen is in talks with China's Huawei about acquiring an autonomous driving unit for billions of euros, Manager Magazin reported on Thursday."
-    publishedDateTime: 2022-02-17T16:42:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 149
-    images:
-      - url: "https://www.reuters.com/resizer/wHE_A2ff3igWA_UNoKoWLqAchJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JTUDKQXVCFLFZFJNXZG37U2L6A.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Volkswagen in talks to buy Huawei’s autonomous driving unit: report"
     excerpt: "Last September, the duo unveiled the first product of their joint effort, a self-driving electric van. The reported acquisition comes at a delicate time for Huawei’s AV team. Su Jing ..."
     publishedDateTime: 2022-02-18T08:52:00Z
@@ -72,20 +58,6 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
-        isCached: true
-  - title: "VW in talks to buy self-driving unit from Huawei, report says"
-    excerpt: "Executives have been negotiating the deal, which involves technology systems VW is not yet proficient in, for several months, a German business magazine said."
-    publishedDateTime: 2022-02-17T16:49:00Z
-    webUrl: "https://www.autonews.com/mobility-report/vw-talks-buy-self-driving-unit-huawei-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Autonomous%20driving%20VW%20web_0.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "eMO/o/lw/1YA6GpWoY59MsvEFlBZH4OCBYqsWuVpIc+6/0XFb+T3s0wnx4kHBrrgraKhR/cM6KOn/uVaREag8xTvw6AbZXMlOCMxYYB/BgCu9wmZLr6F8sYVLADiczAbkOU1wv7VicLBsKIWkUwJwGHM5DlpWOfEIgnWd6OOM2JLLBf/Clz1heZfusFD1qYSfJTvVOcEirew/4TEhYgBx1UxWmxyDa0rxwF+A7P2vGjtlmfKMoHwKl5iP6PKoIkPG3D8ZrQXf+QzdLbxMgsnSvOIHlIIkcKoJBTPAcMjo7TuaNPnOjmi7MebkxTYUcizRBO8S81IHxPiw6Ra6t7+0hv87uf933edbBsjH16nKXYKrO3y6i9t814W/Z+zzAYX16UmI1yvvz6HIMDN5eZURsengPT8xA+PJHw/77v6NMaiSRrvQTvyQEKk7nP3qzHO5utsKSCelsj94nXRyM7aFI/aTyEtXAzVPPSjTAwu8dj271xO3dzLiSZLTp+81pGFbc6/IMosGRtxuuM2ifGKTQ==;6mDPusUbj1PZztCAGpKmhA=="

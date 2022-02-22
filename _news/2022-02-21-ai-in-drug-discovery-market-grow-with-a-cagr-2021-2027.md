@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow
 webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow-with-a-cagr-2021-2027"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Manufacturing Market Size Will Reach USD 44690 Million In 2028, Growing at a CAGR Of 51.1% Over Analysis Period"
-    excerpt: "The Global “Artificial Intelligence in Manufacturing Market” size is segmented into types, applications, CAGR,"
-    publishedDateTime: 2022-02-20T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-size-will-reach-usd-44690-million-in-2028-growing-at-a-cagr-of-511-over-analysis-period-2022-02-20"
+  - title: "Artificial Intelligence (AI) in Food and Beverage Industry Set to Witness Explosive Growth by 2028"
+    excerpt: "The Global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62.83 Billion at a steady CAGR of 44.4% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed ..."
+    publishedDateTime: 2022-02-22T07:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-and-beverage-industry-set-to-witness-explosive-growth-by-2028"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Data Science Market worth US$ 527.08 Billion 2029 with a CAGR of 33.9%"
-    excerpt: "(MENAFN- Prophecy Market Insights) The report Global Data Science Market, By Types (Solution and Services), By End-User ... In 2016, Microsoft Corporation launched the next generation SQL Server ..."
-    publishedDateTime: 2022-02-19T05:44:00Z
-    webUrl: "https://menafn.com/1103726151/Global-Data-Science-Market-worth-US-52708-Billion-2029-with-a-CAGR-of-339"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?612054"
-        width: 354
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "igZtHFK5KerStRu1whv0cd5dqLwbscN8UUmRiWd/1u740z5vz1TOmTomur3PWbwFGgX4Pd1Nar64je1Hxjxc2/hsPO9KVus+TeMQhSB8wJvIDPJ/enzgFfz8nLMsH5mhefyvtV86H9N8KPyz5CbBpKVwOqdRgB65fl7Jkk/81jZRzIeTvnuxlRmP6XQFrQBniuiA9AfDCN4Ik5gkCmqyL/ChSttSaj3QTf8gdt++37I8rHLAzOgFQHvnqpI6NGUgrZeahh1Rw4qLpQ7+4DHtfQjdFeItkm9EbLKgsJ9mvQXosBvhb3uctOzGLmF1JIsJnKcrV/GbrBeL+8ER0PUKwOlZ4iTV7lKGXlO3ksWHFQf5x2rv1PemTqq7JPu1F2NZwHABYXKhHavPKwaRUxNJiJbiONmqdsnXPeyDF/5z9h8u8f9SydtmXCYrg3AHUFJUuHfMXzblvWWVWvJ2H2YvrB/B2TdNmoW1fMTng+VTcIMJ/BBs3+nf1lcsV0GOPPmz7AbDkgGNqQKi00Q8p6bxcw==;7woxycm19RCPyztD9h7TgA=="

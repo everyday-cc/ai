@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/02/19/this-weeks-awesome-tech-storie
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/19/this-weeks-awesome-tech-stories-from-around-the-web-through-february-19/?amp=1"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 IT Services Stocks to Buy in February"
-    excerpt: "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)"
-    publishedDateTime: 2022-02-17T16:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/419226"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419226.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Storage news ticker – 18 February"
     excerpt: "The company, headed up by CEO Ed Walsh, plans to expand its platform’s capabilities with the addition of machine learning, added cloud support for Azure, and growing its talent pool across engineering, marketing, and sales. Dell has published revised 10 ..."
     publishedDateTime: 2022-02-18T16:07:00Z
@@ -55,15 +41,6 @@ related:
         width: 648
         height: 348
         isCached: true
-  - title: "Inside and outside of Putin's late-night February speech."
-    excerpt: "In the psychology of signing contracts, there is a useful test technique that allows you to make a decision: to sign or not to sign? To do this, you need to carefully look at the reaction of the signa"
-    publishedDateTime: 2022-02-21T21:31:00Z
-    webUrl: "https://www.securitylab.ru/blog/personal/RamilGarifullin/351885.php"
-    type: article
-    provider:
-      name: securitylab
-      domain: securitylab.ru
-    quality: 4
 
 secured: "epSwzBsrZVGc7Ue8Uv3zNjO1Y91WaZETl/kG3SZh8nN8AOOSYEeTp4kVMVMGX+8zCfdTCinhZSHSLJMEJeNWn8eXBHyS+iSh65f2bazp8Ua8+qOIVIJqy+8tEie78Iszq4pbA1GrJxfgdwULsP0iFxwByj4VtmOLVBJ/Fw6CKsz3oXjT1Bw1SWCzsE8ftfZlGIaVp3zW06kjUBdJ/Pxr/GfBbxq7X9zAQ7GSGsTE0/AiY7gHS0sq/EiwWJutiqQozcPcZI3DZqT4z2Aw0GzTZkNY//Ief79ZEpPcQXzU0PjqKjqTyfDEcO4E1WvG7Iz66otEI5PjaTeIpEO8vylDUk8vQ2chjWchfOJyWO7heBFh3zH/XU7ICUMSItbgvf52/NaPp8F9CGTZrnf+qNQhSAevl9VnShTdJNO6bqBTbUsDGB5ExlUQ8gy2xFa4gKOST0SSlbQPhSvrqI29qrRf2WJRtf6h6dwwTQWBVK7ULKHfnQi2ED6gEYseZnT1fJE4RxpwAXAvfagXAOcEJHgoxA==;wcYa6b718wfFZsOlZJrq4A=="
 ---

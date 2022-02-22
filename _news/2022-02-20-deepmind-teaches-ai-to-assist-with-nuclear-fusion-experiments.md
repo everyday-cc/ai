@@ -7,8 +7,8 @@ originalUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-wit
 webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: PC Magazine
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion"
-    excerpt: "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,"
-    publishedDateTime: 2022-02-17T15:02:00Z
-    webUrl: "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Explained: What is Google's DeepMind and how is it being used in nuclear fusion"
     excerpt: "In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab DeepMind is the latest contributor In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab ..."
     publishedDateTime: 2022-02-18T09:30:00Z
@@ -112,22 +96,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "'Breakthrough in Physics': Artificial Intelligence successfully controls plasma in nuclear fusion experiment"
-    excerpt: "Scientists were successfully able to control plasma in nuclear fusion experiment by using artificial intelligence. Nuclear fusion comes from the fusing of two atoms at very high temperatures, which then release energy."
-    publishedDateTime: 2022-02-21T17:13:00Z
-    webUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165"
-    ampWebUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 38
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/21/242409-untitled-design-19.jpg"
-        width: 918
-        height: 506
-        isCached: true
   - title: "Google's DeepMind AI is now able to control a nuclear fusion reactor"
     excerpt: "A study on the deep learning approach has been published in the journal Nature. DeepMind Technologies, based in Britain, is a subsidiary of Alphabet Inc., which also owns Google. It has recently used its DeepMind artificial intelligence (AI) to control a ..."
     publishedDateTime: 2022-02-18T10:41:00Z
@@ -137,6 +105,20 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 36
+  - title: "AI Medicine Software Market Is Thriving Worldwide with Recursion Pharmaceuticals, Atomwise, DeepMind, Babylon Health, Flatiron Health"
+    excerpt: "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 02/21/2022 -- The Latest Released AI Medicine Software market study has"
+    publishedDateTime: 2022-02-21T20:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-thriving-worldwide-with-recursion-pharmaceuticals-atomwise-deepmind-babylon-health-flatiron-health"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "F2/ww35a+IIOCULHPlj+AaI4A8wf0lfau4xWvPDQjKL+OK9T3ARwNRPiQ5o96sFYq+ysqZpscwRf+wxiWb3lalL/dour8bP1+3voqRIA4x9tdJ/qrmfRc/MoxQ62LQWtp/wURM7BmDVKc/bnxhFYsIQRYmCDHhb1pZeR7+Hp9k6G6xK4qhdo/OfRsUWCXJUQm/ohCDHjDOBmCqrxhGZ+9fEUxK/GUG6x8zbSC1r8lPzRwoTQYjReGAYoDxwgy7W6ly9kU/j+FBHjJaBE7NySTKPnrW/UW8ENySWJovVWi9igDs21NzDMiGWaU+QomKTu/FHPTJubfwm3ZAUMfJ1tJJ8YT2hNLNkWp9JJTJZQHUOZLfXLvcydjzV85PubknSyAJOktolLj9jsHi425ySfCmgbqKedwVHGWY+Cq/Vf4zc8O8e/K1PZB9q2oFtGSxvf16RxPE3TDAkLS22vxCeaF6BiE5dIGtV0vgEkkEPqrnPDyIt+qH2rsIyIFSr8KVOdp6Ri8TqMirD4f3mZGSzQRA==;AU5HxBV127AxpIzOl9OK7w=="
 ---

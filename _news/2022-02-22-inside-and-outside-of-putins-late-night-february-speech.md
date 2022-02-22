@@ -7,7 +7,7 @@ originalUrl: "https://www.securitylab.ru/blog/personal/RamilGarifullin/351885.ph
 webUrl: "https://www.securitylab.ru/blog/personal/RamilGarifullin/351885.php"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,52 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "5 IT Services Stocks to Buy in February"
-    excerpt: "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)"
-    publishedDateTime: 2022-02-17T16:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/419226"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419226.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "This Week’s Awesome Tech Stories From Around the Web (Through February 19)"
-    excerpt: "“DeepMind’s AI was able to autonomously figure out how to create these [plasma] shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to ..."
-    publishedDateTime: 2022-02-19T15:00:00Z
-    webUrl: "https://singularityhub.com/2022/02/19/this-weeks-awesome-tech-stories-from-around-the-web-through-february-19/"
-    ampWebUrl: "https://singularityhub.com/2022/02/19/this-weeks-awesome-tech-stories-from-around-the-web-through-february-19/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/19/this-weeks-awesome-tech-stories-from-around-the-web-through-february-19/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 42
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/02/blue-squares-tiled.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "Storage news ticker – 18 February"
-    excerpt: "The company, headed up by CEO Ed Walsh, plans to expand its platform’s capabilities with the addition of machine learning, added cloud support for Azure, and growing its talent pool across engineering, marketing, and sales. Dell has published revised 10 ..."
-    publishedDateTime: 2022-02-18T16:07:00Z
-    webUrl: "https://blocksandfiles.com/2022/02/18/storage-news-ticker-tape-18-february-2022/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 24
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2022/02/woman-megaphone.jpeg"
-        width: 648
-        height: 348
-        isCached: true
 
 secured: "FuEhwemt7edtAEFuz/V9wmVieZxjMk6iuZnJC3C7mM62tfzHHvB9H4yIAu7JitMkPbWzlNLmeAXU5Gmo23dLnfBPnGOFpChcNYijqtw1Be0mF7miZ2QHG72/VY5ku7ZmIpLj9B3eSwBDpjyX9u8n4GPqE9N9s6u2vNr9tLcEs+pf+8kuCdNOy9QXlciuBNMrcuH7456qxUabx3UNhUIgJ7KHBjx++6IbTnV8A+VsLehNBlfAfYP+Rkzoj/7HbGVagBjH6ijlhAQYpxgCN2CHJRoGCOju/UIXFpc8n+maBrg6xN+/AIagRp8z6zfINycWTIzd5ywM5nF5HcjMlqXrRCrSR2+xGDEqhrbw7cJnYa0=;fDwd2dau4DX+L1CgqGtqXg=="
 ---

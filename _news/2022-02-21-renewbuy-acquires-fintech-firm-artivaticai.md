@@ -71,6 +71,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic AI"
+    excerpt: "Gurgaon-based insurance technology company RenewBuy has acquired Bengaluru-based fintech startup Artivatic. AI in a combination of share-swap deals and cash. The deal was finalised in the first week of February. RenewBuy is a platform for comparing and ..."
+    publishedDateTime: 2022-02-22T07:47:00Z
+    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "18/02 – Weekly Fintech Recap"
     excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."
     publishedDateTime: 2022-02-18T14:16:00Z

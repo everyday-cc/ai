@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gm-seeks-us-
 webUrl: "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/02/cruise_2.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "General Motors' Autonomous Driving Unit Cruise is Seeking NHTSA Approval to Deploy Vehicles Without Steering Wheels or Brake Pedals"
+    excerpt: "General Motors' autonomous driving unit Cruise has petitioned the U.S. National Highway Traffic Safety Administration (NHTSA) for permission to deploy its driverless shuttles ... autonomous technology, artificial intelligence, supporting the American ..."
+    publishedDateTime: 2022-02-21T21:10:00Z
+    webUrl: "https://www.futurecar.com/5217/General-Motors’-Autonomous-Driving-Unit-Cruise-is-Seeking-NHTSA-Approval-to-Deploy-Vehicles-Without-Steering-Wheels-or-Brake-Pedals"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 0
+    images:
+      - url: "https://img.futurecar.com/202202/21/l_62140c95c23f7.jpeg"
+        width: 800
+        height: 449
         isCached: true
 
 secured: "Abo3ptw8w1uqp5OMc2+3ofoEIqmrbqCdmdsk4tK2SSUMXD9nYQRM6ZSTszR+JObvK5y6/D521y0xMC6KYOUusrO97SHsgz8kJiRGJpQkFc6W1aaegRl2hHn/ELo8KQDA91Ee42MHJunragRwhwYGS3WdXpk+t7ro482lGtHzRy8DIcrlqkyKBeeP0fkM4kFn7QBrM3W20rBX3uD/kfYgaaPCVwi8jb4K5pycgvkIwdpHbKDpDu3snerIfQahiV0uLpO5mxtSOskGFwN8Po/lgVHjy+RbXXzBxtOcuK5+h/oRk7Mim1blWjW4E1AAQ/m9rHxVSWn8Gw3TCBb9kX8Joe3seRDS63Nr3QwR5zGm0NG6gj74RuJzw2SWeURfdyGkpxo8IwS9LkXjo7YfXBpUXlqZ5/C7aRLvzl4/iITnNXrTYycIXu7MVJ6qygSwHGWRn64E+rVoFOaFnI+Qkuqc00lxuQfm5TLbSwIQakhgxQWF6ro0WIQ5RHy2y6s/oIap2xHt8M2ssnpfj6zMa5uVpw==;8DaHbExrGeb86BXaPEDAhQ=="

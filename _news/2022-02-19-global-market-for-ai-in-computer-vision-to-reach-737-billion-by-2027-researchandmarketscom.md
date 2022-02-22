@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
 type: article
 quality: 62
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Market Size Will Reach USD 36600 Million In 2028, Growing at a CAGR Of 28.7% Over Analysis Period"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (The Expresswire) -- The Global “Artificial Intelligence (AI) in Medical Market” size is segmented into types, applications, CAGR, end-use industry and region."
+    publishedDateTime: 2022-02-20T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-size-will-reach-usd-36600-million-in-2028-growing-at-a-cagr-of-287-over-analysis-period-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

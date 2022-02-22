@@ -26,112 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion"
-    excerpt: "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,"
-    publishedDateTime: 2022-02-17T15:02:00Z
-    webUrl: "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
+  - title: "Artificial Intelligence-controlled plasma in nuclear fusion experiment is hailed as ‘breakthrough in Physics’"
+    excerpt: "In the study published in Nature journal scientists have recreated these extreme conditions is by using a doughnut shaped vacuum surrounded by magnetic coils called tokamak that is used to contain a p"
+    publishedDateTime: 2022-02-21T18:19:00Z
+    webUrl: "https://english.jagran.com/technology/artificial-intelligencecontrolled-plasma-in-nuclear-fusion-experiment-is-hailed-as-breakthrough-in-physics-10039784"
+    ampWebUrl: "https://english.jagran.com/lite/technology/artificial-intelligencecontrolled-plasma-in-nuclear-fusion-experiment-is-hailed-as-breakthrough-in-physics-10039784"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/technology/artificial-intelligencecontrolled-plasma-in-nuclear-fusion-experiment-is-hailed-as-breakthrough-in-physics-10039784"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: Jagran
+      domain: jagran.com
+    quality: 53
     images:
-      - url: "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 801
+      - url: "https://imgeng.jagran.com/images/2022/feb/fractal-1147253_12801645468199695.jpg"
+        width: 1280
+        height: 1189
         isCached: true
-  - title: "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments"
-    excerpt: "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth."
-    publishedDateTime: 2022-02-19T16:08:00Z
-    webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Explained: What is Google's DeepMind and how is it being used in nuclear fusion"
-    excerpt: "In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab DeepMind is the latest contributor In the race to create and contain carbon-free nuclear fusion energy, Alphabet’s artificial intelligence lab ..."
-    publishedDateTime: 2022-02-18T09:30:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/explained-what-is-googles-deepmind-and-how-is-it-being-used-in-nuclear-fusion-10386481.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/explained-what-is-googles-deepmind-and-how-is-it-being-used-in-nuclear-fusion-10386481.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/explained-what-is-googles-deepmind-and-how-is-it-being-used-in-nuclear-fusion-10386481.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 70
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/02/Interior-of-JET-with-a-superimposed-plasma11.jpg"
-        width: 640
-        height: 390
-        isCached: true
-  - title: "New DeepMind Program Shows Major Progress Within AI"
-    excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
-    publishedDateTime: 2022-02-17T20:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
-    excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
-    publishedDateTime: 2022-02-20T16:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/deepmind-uses-ai-control-plasma-nuclear-fusion-reactor-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFl50Gmy44_dA/article-cover_image-shrink_600_2000/0/1645374436948?e=1651104000&v=beta&t=1J3LeU3dYyjIR1ZVdOziOmSpc-mWFeZ6GYTRiEz2LR4"
-        width: 945
-        height: 390
-        isCached: true
-  - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
-    excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. DeepMind’s experts developed an AI algorithm that can create and maintain specific plasma configurations and trained it on the SPC’s simulator."
-    publishedDateTime: 2022-02-21T14:38:00Z
-    webUrl: "https://www.euro-fusion.org/news/february/epfl-and-deepmind-use-ai-to-control-plasmas-for-nuclear-fusion/"
-    type: article
-    provider:
-      name: EUROfusion
-      domain: euro-fusion.org
-    quality: 54
-    images:
-      - url: "https://www.euro-fusion.org/typo3conf/ext/gdtemplate/Resources/Public/Img/de.png"
-        width: 2000
-        height: 1200
-        isCached: true
-  - title: "DeepMind open-sources DM21, an AI model for quantum chemistry"
-    excerpt: "Researchers at DeepMind have open-sourced DM21, a neural network model for mapping electron density to chemical interaction energy, a critical component of quantum mechanical modelling. DM21 outperforms standard models on various benchmarks, and it’s ..."
-    publishedDateTime: 2022-02-22T03:45:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-dm21-an-ai-model-for-quantum-chemistry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Google's DeepMind AI is now able to control a nuclear fusion reactor"
-    excerpt: "A study on the deep learning approach has been published in the journal Nature. DeepMind Technologies, based in Britain, is a subsidiary of Alphabet Inc., which also owns Google. It has recently used its DeepMind artificial intelligence (AI) to control a ..."
-    publishedDateTime: 2022-02-18T10:41:00Z
-    webUrl: "https://www.tweaktown.com/news/84648/googles-deepmind-ai-is-now-able-to-control-nuclear-fusion-reactor/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
 
 secured: "6IuInY/CLIi/UdObcR/4GrsLDXpvhi/qTAk0ktHI0PCQXoG3hkAsb325U2o62jC6rBuERYkXtKGjG/SrAK7/3G+a4YKXv8C2OwIvyGKKP8eTXzDV2ocV6RTg+b6VWptKwCLWBMS6tITyjnY6Fk4uVx2lgWxY4Kt7M4IwGLqv9Ocmbfz98CRfJK682gTIdQ6GiS4coYZZjcjXr09LiFZSQ8vEgZOZS/BkDKUSs+jW3dBifDxXZJ/fIZpV0g+hkpU6i6WXOW1X6QF/8ZLUoaFy2WuJ0mhNqhYnJ4z1yGjG3JMnZFL7tcJ0kZQ9qofGTjeX0sHRd1VM4s4tm7mCYtdY+PkzjaI33yufkAgy93COBO4=;dbWVmGCt1decYPOJxaxZcA=="
 ---

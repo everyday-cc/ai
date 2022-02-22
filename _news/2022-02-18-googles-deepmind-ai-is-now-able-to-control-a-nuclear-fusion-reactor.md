@@ -20,22 +20,6 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion"
-    excerpt: "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,"
-    publishedDateTime: 2022-02-17T15:02:00Z
-    webUrl: "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments"
     excerpt: "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth."
     publishedDateTime: 2022-02-19T16:08:00Z
@@ -117,21 +101,19 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "'Breakthrough in Physics': Artificial Intelligence successfully controls plasma in nuclear fusion experiment"
-    excerpt: "Scientists were successfully able to control plasma in nuclear fusion experiment by using artificial intelligence. Nuclear fusion comes from the fusing of two atoms at very high temperatures, which then release energy."
-    publishedDateTime: 2022-02-21T17:13:00Z
-    webUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165"
-    ampWebUrl: "https://www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/breakthrough-in-physics-artificial-intelligence-successfully-controls-plasma-in-nuclear-fusion-experiment-455165/amp"
+  - title: "AI Medicine Software Market Is Thriving Worldwide with Recursion Pharmaceuticals, Atomwise, DeepMind, Babylon Health, Flatiron Health"
+    excerpt: "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 02/21/2022 -- The Latest Released AI Medicine Software market study has"
+    publishedDateTime: 2022-02-21T20:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-thriving-worldwide-with-recursion-pharmaceuticals-atomwise-deepmind-babylon-health-flatiron-health"
     type: article
     provider:
-      name: WION
-      domain: wionews.com
-    quality: 38
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
     images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/21/242409-untitled-design-19.jpg"
-        width: 918
-        height: 506
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "wDH0YhYv0iGMw0yH/9oMf23axmNiZsgZ2mSsXKYOWJtpvWWKhRy0tGHrV7n6fE+MDN0GhVaR3V2wjAb37P6V1XJ3Ile0GAZvW5Q1SmrI+HM6Ulz0tnuvrh26i/LmxnLEHoHvSvxHLxtBIeypSW6/s6KoPZye/yWNePcBxWW9HnhIQfF2lQR2O4B9RXDsVAlKGQ0GPHsdc8Awz5FlLn84tHlpYYAMlY1WdbXF4O4LaiKU15I9n/EVhlaDfY/9+QEU+BXFHfFZ5c0Qfq2M9rNUWmLql0HooqmoSTVYwiZkSrMsog7DVxNyOIJltuKUf1GLxtyh77T35rd5JeVEMGbBA4hCGiLEF4sPY+GZ6vzb7no=;D23xL2QqoxS2bS4dujYK7Q=="

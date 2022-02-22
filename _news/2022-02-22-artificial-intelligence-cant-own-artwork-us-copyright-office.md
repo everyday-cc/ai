@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence can't own artwork: US Copyright Office"
-excerpt: "San Francisco, In a significant ruling, the US Copyright Office has rejected a request to let an artificial intelligence (AI) system called 'Creativity Machine' copyright a piece of art it created."
-publishedDateTime: 2022-02-22T06:29:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/artificial-intelligence-cant-own-artwork-us-copyright-office/89742335"
-webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/artificial-intelligence-cant-own-artwork-us-copyright-office/89742335"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/government-policy/artificial-intelligence-cant-own-artwork-us-copyright-office/89742335"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/artificial-intelligence-cant-own-artwork-us-copyright-office/89742335"
+excerpt: "San Francisco, Feb 22 (IANS): In a significant ruling, the US Copyright Office has rejected a request to let an artificial intelligence (AI) system called 'Creativity Machine' copyright a piece of art it created. Creativity Machine's artwork is titled \"A ..."
+publishedDateTime: 2022-02-22T05:17:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=929183"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=929183"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-89742335,imgsize-21424,width-1200,height-628,overlay-etcio/artificial-intelligence-can-t-own-artwork-us-copyright-office.jpg"
-    width: 1200
-    height: 628
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Mak_feb_sq_1.jpg"
+    width: 280
+    height: 254
     isCached: true
 
-secured: "9sGENVA8/29Z7W3seDWFlMAnAytA7K9RMdlyb2fQ41rFYpSKjy+oWT3HafSWlWMfe+2yhzPKiaI9dBtvRa6bSkwby+TkSFUEFNvrbvxYo38g0OzDdwAceAaGN9E8FDWFM72OTyYQXtJUgeKRKHulgaiqRTJwx7DhkPxvBTFMD07wrRfJOwFpLL6I1ye4kBfF4YUOAPhCRROOEPQKbPbCkLXnF3JADcSGRyzeO5Mf53wSbo2nyW4e6fU0B7Cfe4uN0Awuqpjc9EypalwYEbVAWtcc1Tg6+KEAHkdbkVSB3SeyCXjEGvrCM6AD00bgWDf/3EiXrCocAwLG5Tp5A1255/ZQB2FomVqzTfsW/XBytdk=;XRErihWE5PSeaU5H7jHXgA=="
+secured: "SQdA05NolyJ9z5P+JhO6RbYOTAfsc6ZiwUYdYquV8CDEx30bY+eZFgazjQ8y4xgsleS85oTKQMfLuWUyQXN5l3Y1h9PEYjlIj4cGdK+X7wIf9nepa25z3Pj3WBeiKzff6OKtjK4HsdnbKnR6wm/57qJkmI2eiU+h6ZMMAFsi6QXmfCGPzsvcbcpCwsHyY+z617M+W4SJIr3r60MVfDfesl9nkaxXB/ZmS7sS3+Ga4O4N2SfiSm3Hoos6E6D8QHJZl4DnwMeJxaoWOct4xB3uoWbswnFyp3ljRC01iiJFhKX2rbdvHDik3/nRdy6cIerGbY7FBsZs5BCcsCVG7fhAZ9CE5c2r9RMesCXeVQMcM9s=;wuTkoEoAckEi0yCSptjAxQ=="
 ---
 

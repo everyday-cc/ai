@@ -61,6 +61,20 @@ related:
         width: 2800
         height: 1936
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Market Size Will Reach USD 36600 Million In 2028, Growing at a CAGR Of 28.7% Over Analysis Period"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (The Expresswire) -- The Global “Artificial Intelligence (AI) in Medical Market” size is segmented into types, applications, CAGR, end-use industry and region."
+    publishedDateTime: 2022-02-20T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-size-will-reach-usd-36600-million-in-2028-growing-at-a-cagr-of-287-over-analysis-period-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "European Warehouse Robot Market to 2028 - ResearchAndMarkets.com"
     excerpt: "The \"Warehouse Robot Market in Europe to 2028\" report has been added to ResearchAndMarkets.com's offering. The report offers the most up-to-date industry data on the actual market situation, and future outlook of the warehouse robot market in Europe."
     publishedDateTime: 2022-02-21T11:11:00Z

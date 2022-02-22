@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "General Motors' Autonomous Driving Unit Cruise is Seeking NHTSA Approval to Deploy Vehicles Without Steering Wheels or Brake Pedals"
+    excerpt: "General Motors' autonomous driving unit Cruise has petitioned the U.S. National Highway Traffic Safety Administration (NHTSA) for permission to deploy its driverless shuttles ... autonomous technology, artificial intelligence, supporting the American ..."
+    publishedDateTime: 2022-02-21T21:10:00Z
+    webUrl: "https://www.futurecar.com/5217/General-Motors’-Autonomous-Driving-Unit-Cruise-is-Seeking-NHTSA-Approval-to-Deploy-Vehicles-Without-Steering-Wheels-or-Brake-Pedals"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 0
+    images:
+      - url: "https://img.futurecar.com/202202/21/l_62140c95c23f7.jpeg"
+        width: 800
+        height: 449
+        isCached: true
 
 secured: "7sf5ZiNQg6gkWPRYbmcnhHBHhbPHhK4ntM9fNHnZWFMs2S42VY9AvtwJk1fWb2dHNmEWsrn+9+ILUNdkueybLb+wE3YP7FfNDLK2EJ8u/g0EwRXVbz4DxBh1VHdmhpsSRSEw1p3pHQ2whHwYTJlX7p2HPxiXMRi5Tw1wrPIIAvesIeq5EOt0Yt6wvh38xqfbXR4D5Ojhkc+j0VQL8Jd+LDmM/JXw2Ni/SUHDrpxmCLo8en3PW6pFNlpVPoHU9wq4zbe1CKFPWK7cnzBOaw7i4bkFtGd231cu/7R5Bp+0DhamrYeQ1NI1d6VqjyKoxRgeudKI865sJ1FUSXmJoOu8XpilF+zPyBQID8V1MhooDLOrhHMXamUZhTkiXZ3Lit6ac7OFEuFU/uvr0Og2BQ7yl22cXgPQSglZLOsi6SiofEcY1kSRVsl3K/3sQHTAJgWy4dEy7tg/WWq9jP1sOaWkjRy/rMZP/Il13bPKjbNV6i7vP2opbAZaeOc6g2Y7v2GzUjj8A7vyC/kBIIW8O1wrmA==;t4wmsNTg19Msoxr4Zu82uw=="
 ---

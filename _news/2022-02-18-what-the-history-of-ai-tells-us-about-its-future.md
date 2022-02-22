@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MIT Technology Review
@@ -27,6 +27,22 @@ images:
     width: 3000
     height: 1687
     isCached: true
+
+related:
+  - title: "The Age of AI and Our Human Future"
+    excerpt: "Three leading public thinkers deliver a bracing introduction to the promise and peril of artificial intelligence (AI). Machine learning has already begun to change human society, for good and ill. Computers that can perform tasks that require human-level ..."
+    publishedDateTime: 2022-02-22T05:04:00Z
+    webUrl: "https://www.foreignaffairs.com/reviews/capsule-review/2022-02-22/age-ai-and-our-human-future"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2022/02/17/31XnCvrGC2L._SX320_BO1%2C204%2C203%2C200_.jpg?itok=lDjNfrRO"
+        width: 486
+        height: 694
+        isCached: true
 
 secured: "9IUf0mpLDMjkPbwsWn3FKnPnW4aSE2O1gaCLK8t/TLid3LbNxghoflxVPxoWZkhiPwiK1Gefpl/JK2s5k81I5AJJ9S+d5X52TLT9PPjM8gfHa5L3HBLXa0QFXI8Bwsx4PxE/WRvEyo/o1bfwIT3YC0bLhkgvpilIC8Ga3TQql/VI3qiF9RhgT0Eud7a8vBwY3LicGqUjBAA1J82jarpsBslXrdUvePGxCYT8ot8LVwkay6icKxc1aWGE+T0fj3xOWw/YGU65gzN6eF9f4hz0w8ffeNjoDExqQCPS1tqiWG1bRjB2bB8n7s6wDsYrPWXGeSI2XMBn7B8L2rDVCRhEFNLc0XolPrKREZb3SfqfXWHMJGfN0IT2sPyBRvYbQoGW8RmLIYEoJuE+eA0VOupN0Bpf+zSRpWVbIF4XywiysXhIz4ZlL82e30bdVBtb1Qy0CcehUynPAh6PGt/rJGPP8ld8j08oWwb/hYvhN0KyjnDLVb+RLKLzTBoDzco2GvtOh/bNwuI95XloYfqqoj1ngQ==;FuulCgllgl+VgGn7c1Bp7A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-become-an-ai-enginee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-become-an-ai-engineer/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 1104
     isCached: true
+
+related:
+  - title: "How to design an omnichannel AI ecosystem for optimum customer engagement"
+    excerpt: "Even with modest upstream data, omnichannel AI can start to generate impactful next-best-action recommendations and insights, growing smarter and more powerful as organizations layer in richer ..."
+    publishedDateTime: 2022-02-22T08:01:00Z
+    webUrl: "https://medcitynews.com/2022/02/how-to-design-an-omnichannel-ai-ecosystem-for-optimum-customer-engagement/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 36
+    images:
+      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-870897898.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "9aiPFRjZ3dgrJKYPFuq0oAMIPO2ZwRJIIEEdMupDZjNyNYcYqnzANV6LT7hX4ozLdTMNng0xmGJtDbDoXhYqUJM0OIkfLFhnERJjRFXQmHUblk4OFzsTg/oz+GtrhHrod7t6Vi3IRoUSEEJAiQPrRC+WjVytIm4vD9WttT01WPAiLBfAOaWE/BrByu7HNt0NpfpPCGtLfNpMf+uizNJoFGJnjYELCxP4hCyYYQgN6cOetfoHm/Jqv0WdFmZC1JB5+s1nzAuh1dpEAsCUXhLeNjaoV8xwsUVKGfWdU8cYEfXz4iI7HNaVF79dTFZmWorc35md1rO8O5hY5iukdlqQjLE8q4J3sx8jevmhbq2whMU=;Juc7rbdwLqZxyi7TyvLdvg=="
 ---

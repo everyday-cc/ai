@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 IT Services Stocks to Buy in February"
-    excerpt: "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)"
-    publishedDateTime: 2022-02-17T16:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/419226"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419226.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "This Week’s Awesome Tech Stories From Around the Web (Through February 19)"
     excerpt: "“DeepMind’s AI was able to autonomously figure out how to create these [plasma] shapes by manipulating the magnetic coils in the right way—both in the simulation and when the scientists ran the same experiments for real inside the TCV tokamak to ..."
     publishedDateTime: 2022-02-19T15:00:00Z
@@ -55,15 +41,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Inside and outside of Putin's late-night February speech."
-    excerpt: "In the psychology of signing contracts, there is a useful test technique that allows you to make a decision: to sign or not to sign? To do this, you need to carefully look at the reaction of the signa"
-    publishedDateTime: 2022-02-21T21:31:00Z
-    webUrl: "https://www.securitylab.ru/blog/personal/RamilGarifullin/351885.php"
-    type: article
-    provider:
-      name: securitylab
-      domain: securitylab.ru
-    quality: 4
 
 secured: "i9fU8I+QH64ZLLXt90YmGcE+R0H6wAAqdcnvshwlvByRT38UnBy6dv42OHtlmn6A5feMB+Fe2J0FDaiq94x04cVa4oMIbCl7DeZZVIsgPk0kW7QN8be3kUO1j7yIHVbnJGuoYJmLYNc2y0JJwf6QDWhY/2ztBohTVbdy29ZeNC71ABXJQfFQXbViIkyUvw0IIIRkC+heoct+h0zMXb+uqsf9+0C5ikHVeJMyk+evHZCADXCcxa7MINwF09iH19F1r17MzySylXCRNhA+sOZmc45R72iFdmKEEfXMULGvCCYXaE/g6PkRBw5cSefeKrHY6jUKOKjFx0s643c1xpeHkEkTwonDtrJ/oHwSmA4gwXKWRO7YoI4qR3QIiVsGglNITY1484hyCWDr6gJADc6VJyYibdjQ/d7RLaXaA0BFXFgQMdDYCEmXe/ZC2AQptXLQgdpEbnSR2DS3zJ3yvphMIupRFk4by1ng7AlCJAv3l0MpNljeEuSWUpnehzIbcwu3qeYXmTghG4fmz047PIvAzw==;jDjWrmP/vOtNphZZEmrQ4A=="
 ---

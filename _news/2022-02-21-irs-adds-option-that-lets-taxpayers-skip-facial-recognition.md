@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpa
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://static01.nyt.com/images/2022/02/21/us/politics/21dc-irs/21dc-irs-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "IRS says you can now create account without submitting to facial recognition"
+    excerpt: "The IRS's use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
+    publishedDateTime: 2022-02-21T21:59:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-promises-deletion-of-taxpayer-selfies-as-it-drops-facial-recognition-mandate/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-phone-face-scan-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "IRS promises deletion of taxpayer selfies as it drops facial recognition mandate"
     excerpt: "The IRS' use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."

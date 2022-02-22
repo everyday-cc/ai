@@ -1,30 +1,31 @@
 ---
 category: news
-title: "RenewBuy acquires AI solutions based InsurTech start-up, Artivatic.AI"
-excerpt: "Based in Bengaluru, Artivatic.AI has been delivering underwriting and claim solutions to multiple life and non-life insurers. The acquisition will allow RenewBuy to extend its tech solutions across the value chain,"
-publishedDateTime: 2022-02-21T17:46:00Z
-originalUrl: "https://www.cnbctv18.com/startup/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-12577172.htm"
-webUrl: "https://www.cnbctv18.com/startup/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-12577172.htm"
-ampWebUrl: "https://www.cnbctv18.com/startup/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-12577172.htm/amp"
-cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-12577172.htm/amp"
+title: "RenewBuy acquires AI solutions-based insurtech start-up Artivatic.AI"
+excerpt: "Artivatic.AI’s 6+ patents in the fintech space will substantially enhance RenewBuy’s current policy delivery and servicing capabilities, the company said. Balachander Sekhar, CEO, RenewBuy said, “We pioneered the digital agent distribution model ..."
+publishedDateTime: 2022-02-22T04:43:00Z
+originalUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-11645503822626.html"
+webUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-11645503822626.html"
+ampWebUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: cnbctv18
-  domain: cnbctv18.com
+  name: Mint
+  domain: livemint.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://images.cnbctv18.com/wp-content/uploads/2022/02/RenewBuy-1019x573.jpeg"
-    width: 1019
-    height: 573
+  - url: "https://images.livemint.com/img/2022/02/22/600x338/iStock-1127497866_1603325813158_1603325819158_1645504894690.jpg"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "zkb59d2ERRYlVlqD8mZ+6JTy7QYss7mUENL6YV5luhp1vzP2X18UduSQsdWN2BcwjmaV3LEgAaOgdAjCmJTOz35BKKngAsEOpq3yu+i2/9HqihN+1BGJvraBgbivEXi3O/Vg3tKNV8udiAEzavWC/qlzkOP95rRmewn/AtDQpDjO0z6XzTn1nWIYZrqu85uNteo/gW5fcu0n82DDLfmB9u69V9fTBUxyeLWDKc/EyUyF1N8lQFQ+YXAsEXtKEo0U/iy9wiH9SS2DQ/x6eaHskzTEwT4hW4T4dEFqjBfSYdlmGDP3IbsSAemWiEceUPrTLykhU2QsruxwweULSaJdX1aGjnMPey9ydi6W3RsypaI=;OF/kG4EqoZ+yupUt/8qZOQ=="
+secured: "cai83u+0XpE8hvf0UKhlLJRiLWAfEKftl56kc9GH0K5I3HeR+OUG+RIRO22/9T9rRMOUG2DT4Tb09r+XVQc+FKdED/hiwIsC50jkeLdi/+cS65Ckar1iqWtUY0lC2QL2d9M+GoOltdPxk/98da4AoYQzJ4WTbll/sUXykg4t7QwTwkADtFJ4Lq7YXGPtndktSugbcDo0Naf8f8I7VfrbgEBjMVO2/52CZG5uaeNu54n6H0RvUQ/WHl7pHBo/7jjobwsjmVHkTxl6F2qtjSTe5FpP/IAH+p+0XkSBCtgahG/Et2kcUTk0p6BxwbOiNbhakctB0Cxy99zfhP1d0/xPJqg63OgHVqDnDrmUiVOrTUM=;oKd9DkQkjjRSfoTx5NjZ6w=="
 ---
 

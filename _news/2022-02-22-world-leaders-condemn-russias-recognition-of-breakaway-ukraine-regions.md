@@ -55,6 +55,34 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "Australian government condemns Russia’s recognition of ‘LPR/DPR’"
+    excerpt: "The Australian government condemns the recognition by Russian President Vladimir Putin ... “everything to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
+    publishedDateTime: 2022-02-22T07:53:00Z
+    webUrl: "https://www.ukrinform.net/rubric-polytics/3409143-australian-government-condemns-russias-recognition-of-lprdpr.html"
+    type: article
+    provider:
+      name: Ukrinform
+      domain: ukrinform.net
+    quality: 24
+    images:
+      - url: "https://static.ukrinform.com/photos/2022_02/thumb_files/630_360_1645519629-967.jpg"
+        width: 630
+        height: 360
+        isCached: true
+  - title: "Canada preparing sanctions over Russia’s recognition of 'LPR/DPR’"
+    excerpt: "“Canada strongly condemns President Putin’s recognition of the non-government controlled areas ... to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
+    publishedDateTime: 2022-02-22T06:39:00Z
+    webUrl: "https://www.ukrinform.net/rubric-polytics/3409078-canada-preparing-sanctions-over-russias-recognition-of-lprdpr.html"
+    type: article
+    provider:
+      name: Ukrinform
+      domain: ukrinform.net
+    quality: 24
+    images:
+      - url: "https://static.ukrinform.com/photos/2021_11/thumb_files/630_360_1637158724-963.jpg"
+        width: 630
+        height: 360
+        isCached: true
   - title: "Following ‘recognition’, first Russian tanks roll into Donetsk"
     excerpt: "The lengthy televised speech of Russian President Vladimir Putin on Monday ... including a promise that Ukraine will never join NATO. Recognition of the separatist-held areas will narrow the diplomatic options to avoid war, since it is an explicit ..."
     publishedDateTime: 2022-02-22T06:34:00Z
@@ -68,6 +96,34 @@ related:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/Russian-tank-Donetsk-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "France responds to Russia's Donbass recognition"
+    excerpt: "In his speech on Monday evening, Putin said his decision to recognize ... A White House readout of the call said the trio \"strongly condemned\" the Russian recognition of \"the so-called DNR and LNR regions of Ukraine\" and will \"continue to coordinate ..."
+    publishedDateTime: 2022-02-22T08:14:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272322305/france-responds-to-russias-donbass-recognition"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/rtc1645488780.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "EU calls Russia's recognition of separatist regions of Ukraine 'blatant violation of international law'"
+    excerpt: "Rising tensions Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Earlier Monday, after a meeting of EU foreign ministers, Borrell ..."
+    publishedDateTime: 2022-02-22T07:25:00Z
+    webUrl: "https://www.yenisafak.com/en/world/eu-calls-russias-recognition-of-separatist-regions-of-ukraine-blatant-violation-of-international-law-3589873"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 23
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/f207f654-22qoxwpzkzhypvucgemt9.jpeg"
+        width: 600
+        height: 336
         isCached: true
   - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
     excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."

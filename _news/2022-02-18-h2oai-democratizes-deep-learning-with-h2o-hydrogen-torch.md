@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "H2O.ai democratizes deep learning for companies of all sizes with Hydrogen Torch"
-    excerpt: "Mountain View, California-based H2O.ai today unveiled a key new addition to its open-source-based platform: H2O Hydrogen Torch.  This feature is a deep-learning training engine that it claims smooths the way for companies of any size in any industry to make state-of-the-art image,"
-    publishedDateTime: 2022-02-17T15:33:00Z
-    webUrl: "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/"
-    ampWebUrl: "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "H20.ai introduces deep learning platform"
     excerpt: "H2O.ai, an AI Cloud leader, is releasing H2O Hydrogen Torch, a deep learning training engine that makes it easy for companies of any size in any industry to make state-of-the-art image, video, and natural language processing (NLP) models without coding."
     publishedDateTime: 2022-02-18T14:43:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
         width: 772
         height: 594
+        isCached: true
+  - title: "Strategies for insurers to grow AI responsibly"
+    excerpt: "This is necessary in case of an audit. Plus, thorough documentation gives teams a head start on developing new AI. By using their previous work and learnings as a starting point, model developers can save time and create new models without having to start ..."
+    publishedDateTime: 2022-02-18T12:00:00Z
+    webUrl: "https://www.dig-in.com/opinion/strategies-for-insurers-to-grow-ai-responsibly"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/563b163/2147483647/strip/true/crop/6000x3150+0+191/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1f%2Fd2%2F1e68ae05429cba98e65bd393c82c%2F372961209.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "X9kXKwGmOtkmRnt3EdNzAgJTPL8EW02TxXaXfH9eQBb5lVkIfUvGvHimC3ajgUnJhSnjqn5simbh2ONGpubMKz1gyCF6X4H2unhpSAKqZOQQAlLzH9dRkhkRPwAHF/H7fbU/ySU55od8pDzrM+8zOaSrzpGN7WnWK64AI6rCwwSUlz9vKtAlHVq82MbhLTLS3cFuHgTfHyDJuPdDpUflmoa6seiDvojXgwUZtcNpIoKee111KxQatfIn3JSSQ2KpoHNmIcJPzwRu0gTbmQBcZ3lmui1le79bkOLXMUmczpZrEkI7Qcz8yK5KG+0RrD9vx4hD1E5UIVraacGNPgYmOyK6hxSGZqX2ZPCS2GJlLzo=;28HVd/r2QExmQcH/5dVa0g=="
