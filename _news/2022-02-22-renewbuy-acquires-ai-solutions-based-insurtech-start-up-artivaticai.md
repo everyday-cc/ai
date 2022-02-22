@@ -8,8 +8,8 @@ webUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solut
 ampWebUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.livemint.com/img/2022/02/22/600x338/iStock-1127497866_1603325813158_1603325819158_1645504894690.jpg"

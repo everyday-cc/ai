@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-m
 webUrl: "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel reveals GPU roadmap with hybrid integrated discrete graphics"
-    excerpt: "Intel's Arc GPUs will get really interesting starting next year with its GPU code-named Battlemage ... He went on to take a shot at rival Nvidia, which dominates the supercomputing and AI space, and has an early lead in the metaverse opportunity."
-    publishedDateTime: 2022-02-17T23:59:00Z
-    webUrl: "https://www.theregister.com/2022/02/17/intel_gpu_plans/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/02/17/koduri.jpg"
-        width: 862
-        height: 430
-        isCached: true
   - title: "Intel gives glimpse of multi-year Xeon roadmap, teases long-awaited GPU tech"
     excerpt: "“Today we’re giving the world a clear view of our industry-leading Xeon roadmap, which will fuel our growth and leadership through 2024 and beyond,” said Sandra Rivera, executive vice president and general manager of the Datacenter and AI Group at Intel."
     publishedDateTime: 2022-02-18T16:47:00Z

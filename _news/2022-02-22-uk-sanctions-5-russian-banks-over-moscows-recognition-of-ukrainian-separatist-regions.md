@@ -41,6 +41,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Putin calls for recognition of Crimea as Russia"
+    excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
+    publishedDateTime: 2022-02-22T16:51:00Z
+    webUrl: "https://www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/"
+    ampWebUrl: "https://www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/amp/"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/amp/"
+    type: article
+    provider:
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 44
+    images:
+      - url: "https://www.pottsmerc.com/wp-content/uploads/2022/02/APTOPIX_Ukraine_Tensions_65925-2.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Australian government condemns Russia’s recognition of ‘LPR/DPR’"
     excerpt: "The Australian government condemns the recognition by Russian President Vladimir Putin ... “everything to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
     publishedDateTime: 2022-02-22T07:53:00Z

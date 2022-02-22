@@ -50,6 +50,22 @@ related:
         width: 640
         height: 390
         isCached: true
+  - title: "DeepMind Trains Agents to Control Computers as Humans Do to Solve Everyday Tasks"
+    excerpt: "That’s the premise of the new DeepMind paper A Data-driven Approach for Learning To Control Computers, which proposes agents that can operate our digital devices via keyboard and mouse with goals specified in natural language. The study builds on recent ..."
+    publishedDateTime: 2022-02-22T15:28:00Z
+    webUrl: "https://syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/"
+    ampWebUrl: "https://syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/02/image-80.png?fit=950%2C534&ssl=1"
+        width: 949
+        height: 534
+        isCached: true
   - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
     excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
     publishedDateTime: 2022-02-20T16:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-go
 webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 26
+  - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
+    excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.\" \"More than ever, every financial servces ..."
+    publishedDateTime: 2022-02-22T16:25:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/22/9549654.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
     quality: 26
 
 secured: "BPWwMF/xXo+1tpMlKdawRWilvSbwzmdM0ZQIB+MTaZKC7qShS8DQOj15l5u60hzIrGBuyjStgpO2Fn0bD0T+OKkSs0WbY9GF/JmK2Rp0HQlc0kGQDhjyf5ddTVSxr+SGXyzi1uOeGiThX/ecuXDMvq5668m+micvw3uEsIEkp0qRlj962Nppu2Y8cteURApxUM8pSaeH79Q63AOZ1Qwah/R0VkRdSux4hj+gJ5Gt2pHIVyiaMrWoPTNQXo6Eho3R2JciYFz+JvLoaXSh228ksB2MtWXNIFUPZog1FMhIoEV6JetE63UPkiehKjp/zJ4Vl4JQKo0w/txYgJ8o/s/+qrj8EMSmlpmDyP6DJO8ueQkVZzLVqsxS8OrMldfQ7C7eHTRl94SoZMHiYfHGcN1hCR4mnEsodPS7nadIrJkDiafrbwASROhDQxPGayG3oZw417cOuDtFlfB3F4LCZsBsGpDBAPqzE2C5CE0ifuVpw0OwORYgOFebNY+ui9hBP5vngsC53ylo5H9fl6mxSwDYuQ==;eb99A+t8rmJkVzqvSlWZlA=="

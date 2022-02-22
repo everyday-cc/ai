@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft working on 'Singularity' AI Cloud infrastructure service"
+    excerpt: "... service codenamed 'Singularity' that will provide data scientists and AI researchers a way to build, scale, experiment and iterate on their models on a Microsoft Azure Cloud service built specifically for AI. A group of researchers, mostly of Indian ..."
+    publishedDateTime: 2022-02-22T15:00:00Z
+    webUrl: "https://www.nationalheraldindia.com/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
+    type: article
+    provider:
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 74
+    images:
+      - url: "https://gumlet.assettype.com/nationalherald%2F2021-04%2F8750b88e-9054-464a-9257-a0bd5475e437%2F57069775_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 940
+        height: 494
+        isCached: true
   - title: "Microsoft details 'planet-scale' AI infrastructure packing 100,000-plus GPUs"
     excerpt: "Microsoft has revealed it operates a planet-scale distributed scheduling service for AI workloads that it has modestly dubbed \"Singularity\". Described in a pre-press paper [PDF] co-authored by 26 Microsoft employees, Singularity's aim is described as ..."
     publishedDateTime: 2022-02-22T03:58:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://regmedia.co.uk/2022/02/22/shutterstock_singularity.jpg"
         width: 1299
         height: 600
-        isCached: true
-  - title: "Microsoft working on 'Singularity' AI Cloud infrastructure service"
-    excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."
-    publishedDateTime: 2022-02-22T06:22:00Z
-    webUrl: "https://menafn.com/1103739416/Microsoft-working-on-Singularity-AI-Cloud-infrastructure-service&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/22/I_7b5bcimage_story.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "'Singularity': Microsoft is Working on New AI Cloud Infrastructure Service"
     excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."

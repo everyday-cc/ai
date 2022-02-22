@@ -200,6 +200,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "IRS lets taxpayers opt out of facial recognition"
+    excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."
+    publishedDateTime: 2022-02-22T15:09:00Z
+    webUrl: "https://www.accountingtoday.com/news/irs-lets-taxpayers-opt-out-of-facial-recognition"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/5a0c99f/2147483647/strip/true/crop/2000x1050+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F40%2F53%2F33ce128f42678722f258b8c322cc%2Firs-building-blurry-passerby.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IRS Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
     excerpt: "WASHINGTON — The Internal Revenue Service said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift to an entirely different identity verification system next year ..."
     publishedDateTime: 2022-02-22T03:12:00Z

@@ -59,20 +59,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Baidu's Apollo Go Robotaxis Are Now Deployed in All of China's Top Tier Cities After Launching in Shenzhen"
-    excerpt: "In April 2021, global consulting firm Guidehouse named Baidu as one of the \"top ten autonomous driving developers in the world.\" Others include Alphabet Inc's division Waymo, which spun out of Google's self-driving car project, and San Francisco-based ..."
-    publishedDateTime: 2022-02-17T23:15:00Z
-    webUrl: "https://www.futurecar.com/5209/Baidu’s-Apollo-Go-Robotaxis-Are-Now-Deployed-in-All-of-Chinas-Top-Tier-Cities-After-Launching-in-Shenzhen"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 21
-    images:
-      - url: "https://img.futurecar.com/202202/17/l_620ee63021f6d.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "6X1J7nzn9ETtq4772O2qBEUg2YPM/y0vOVIrGOAJMPbZVuZdxKEGT5Y0NzizgMbyw/B2htjHjKq6OyJdinwZtWm6LRQ1j9zUK5WBT8xuofMH9OHSMIlbLxEqLK4SBrUnt/JLCVS4q6rqhxCbPhelsSM4qIO13bquXcwkByVBRxPWw+9QDjckzuBQ50/5Q1P/xWuQpW/63qH8JOeGDTRXpYZzSmBxloDNF0yPs3dlXm9kI4+eAVkHn1C012HFAuQL2GyTsu0Mzesft5aX1ftwT9kFT2/ic0Q0sXgtw+dbfGe520SQtcnIEaRn3BTzHTUqZEM87jFGc6Af8Z+sQsV/LO0ZUCqQcLMV3/KWL1t2n8A=;z/YyCp5kWy24gdbGC1aLLQ=="
 ---

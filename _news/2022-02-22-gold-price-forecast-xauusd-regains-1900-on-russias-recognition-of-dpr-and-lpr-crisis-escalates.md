@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Putin calls for recognition of Crimea as Russia"
+    excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
+    publishedDateTime: 2022-02-22T16:51:00Z
+    webUrl: "https://www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/"
+    ampWebUrl: "https://www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/amp/"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/amp/"
+    type: article
+    provider:
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 44
+    images:
+      - url: "https://www.pottsmerc.com/wp-content/uploads/2022/02/APTOPIX_Ukraine_Tensions_65925-2.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "UK sanctions 5 Russian banks over Moscow’s recognition of Ukrainian separatist regions"
     excerpt: "Britain on Tuesday sanctioned five Russian banks and three individuals in response to Russia’s recognition of Ukraine’s separatist ... \"In a single inflammatory speech, he (Russian president) denied that Ukraine had any ‘tradition of genuine ..."
     publishedDateTime: 2022-02-22T13:41:00Z

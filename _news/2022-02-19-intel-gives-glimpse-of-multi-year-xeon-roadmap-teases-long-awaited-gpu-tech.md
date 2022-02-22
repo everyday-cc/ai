@@ -39,22 +39,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Intel reveals GPU roadmap with hybrid integrated discrete graphics"
-    excerpt: "Intel's Arc GPUs will get really interesting starting next year with its GPU code-named Battlemage ... He went on to take a shot at rival Nvidia, which dominates the supercomputing and AI space, and has an early lead in the metaverse opportunity."
-    publishedDateTime: 2022-02-17T23:59:00Z
-    webUrl: "https://www.theregister.com/2022/02/17/intel_gpu_plans/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/17/intel_gpu_plans/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/02/17/koduri.jpg"
-        width: 862
-        height: 430
-        isCached: true
 
 secured: "GBQCkCLOGZFXBd8mSwumzSwunGAIe2ffUmzS4Q+pxR0+czEgE0VA2zmDaxa+c4pfAPCVBFcYXtD8mDkzNrQN+ykq0Q4141DoUvbo/Zk9Pfk8m5v1pKYx2x3JmlOGHnox49HQoi8XKYecPIMzOYD+QILIPFqQeFY8+H1HubL7bHX8sbPCuw9IKzlTz2cqL2yQn9DMQhpPkCxNFGCisyYROO1vUw3YyJ0JP7Vxf7RzkP7bkKRORTKShgiQDU4PPqdCsb7AgvJsBmkOrI+1sWBMQZA2X1Cp4Qfv5DeIfBKM/+Eu1hWmX7GpIkYc1eaGyxTuV8m5mcQVSM/y6osvWk4xRsM+nKkr0N9t53J4yTkvVjNVZYzLTamBeQ5lffBmKSovFqK0sCpqyG5xBq9XNx9XBAkkGqnKWNIJ2/8pw3clHoDHJs65Mb0HBvIhrPvZNGs+H4EDrtOwVGgxwLEIw/b8ze6oYuJFJ0ywNDmPDCR/sGriZmk7du4V0T3C64S8zcFOkqTu0/27R6Wwy5e4Iu7MKg==;w7qyFI1aLfoGEomGJOtMjA=="
 ---

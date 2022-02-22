@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Microsoft working on 'Singularity' AI Cloud infrastructure service"
-excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."
-publishedDateTime: 2022-02-22T06:22:00Z
-originalUrl: "https://menafn.com/1103739416/Microsoft-working-on-Singularity-AI-Cloud-infrastructure-service&source=30"
-webUrl: "https://menafn.com/1103739416/Microsoft-working-on-Singularity-AI-Cloud-infrastructure-service&source=30"
+excerpt: "... service codenamed 'Singularity' that will provide data scientists and AI researchers a way to build, scale, experiment and iterate on their models on a Microsoft Azure Cloud service built specifically for AI. A group of researchers, mostly of Indian ..."
+publishedDateTime: 2022-02-22T15:00:00Z
+originalUrl: "https://www.nationalheraldindia.com/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
+webUrl: "https://www.nationalheraldindia.com/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
+ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
+cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: National Herald
+  domain: nationalheraldindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-02/22/I_7b5bcimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://gumlet.assettype.com/nationalherald%2F2021-04%2F8750b88e-9054-464a-9257-a0bd5475e437%2F57069775_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 940
+    height: 494
     isCached: true
 
 related:
@@ -88,6 +90,6 @@ related:
         height: 530
         isCached: true
 
-secured: "pJ8caTKweGWUSHvCl6m2XPh+sN7H9p75Yqztb8nNTYUYZgIPd7qrgFfb5zFa2pGrEnuT89gntHj0JIZvPamPfzr+W3TirRZT72TuK6THx9G7glx7FQj0Z++qlKyOT4hsl7yNKiXZ0Gaw9+AKYeoD5rDBNvndiRs+5rvJx3lvDKoepDAf/Q6gjdZp4s8CWuND6edwpsH7yCbburFburyNX96X+H1TojTKyWvHFs6q3CSG14SnamSZx6Dw4QNkahsfeKTuhpNxzN67dnuEmLeljdYJJJQdTwJV5/nUlCBvqZf2VoaGDvn6w8iesCXDjIMxjUIeKGKWevCXkenHq//mK801bYn0LZ6smp4qm9Y/nE8pBZAvpFXdC8ANc863v8hOG7D4ggSfd/ytagqCst+ry0O4s3zP1I2irSjs1LuJaD1ZydG5kgTKR22p7Jao4dScm1aiLouzIU70HHvycFwixnpc5GDeQ3cQUS9sXccmLw+ZQPnJVqHOqAlJnG6kBkXMD+Um2pTS1KhwpUqCObdDEA==;1xvjZXgGQ+ViQRhV8ZU1Qw=="
+secured: "4uWnj7Yvlp/f6h4hr9t9YAXqgEngTw07zUM4w2eaF3dEUmaBcfdWtBOmYw9PsFzL5RUg41x+y+C0Ci3cngELuwz47HOa358hJoVGfQsSyvOYzM69QL5MudlbRjiY/OPYJgEJGPY6Av72kZbDpmtMOCBrC6OIiPpz+CM3vrSbEFaYdkH60cPWt/X00K5j6HKhJrZDsAuoINwfvKB9Du9FbxmBOBW0v+m2lkgNEWcE/HCSLDT4WCUJgNqkEwgMEJfExTybJjdiuC5bq+PtzK6TapJvDi/Ad9hvzlwsRJ5w41kv2D6hWTVmFBqhlAsGHS90B5hkYppx6cmfVUDsznzWJxoYTqE4MmXXgy65Mf5+oBY=;E2e1oHkYTqWYc/J8hF7lNA=="
 ---
 

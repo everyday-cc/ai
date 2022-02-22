@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Call for Proposals Opens for Pulitzer Center’s AI Accountability Network"
-    excerpt: "The Pulitzer Center, a nonprofit organization that supports independent, global journalism, is now accepting applications for its new Artificial Intelligence Accountability Network.  Governments and corporations increasingly use AI and predictive technologies to make life-changing decisions in policing,"
-    publishedDateTime: 2022-02-21T20:30:00Z
-    webUrl: "https://pulitzercenter.org/blog/call-proposals-opens-pulitzer-centers-ai-accountability-network"
-    type: article
-    provider:
-      name: Pulitzer Center
-      domain: pulitzercenter.org
-    quality: 38
-    images:
-      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-02/AI%20call%20for%20proposals.png?h=21cd0a81&itok=hGbJfqOZ"
-        width: 768
-        height: 600
-        isCached: true
-
 secured: "ITfHmU4dzfmOP99XzkQC4tJkYTyU+HWUXDowm5w5iPXcEC7bscEC8Q48d+QWN0A4CPA6CpeKXPbtvnafAN6trrpOvtOjIO3gTmOBAC14p3cvvb44QQJ6b73Fo3SAOva2iX4w5FAaw/k2igjqGOac9klXITB3ZeZx27evgJUvpA0/qafbZP6NEkOBpuMgLZHGyLYYsRcsD3DZnqv2/f6ojNQZyo5NBJcTlm5Oo4527vJL6VvGZ3U/nFgW8P1Ue/8FPdgSxbtb+nwy6GpTDjayKUHhHdOUTeCTQdfIEtcUSMy9730/b3fLokP9np+IJOtphvfQS2rbCxj9UChtRDMnBZ2TqpAowVTkYVeqgwVXLL4=;VIitBL37aaCqDLroKZLeqA=="
 ---
 

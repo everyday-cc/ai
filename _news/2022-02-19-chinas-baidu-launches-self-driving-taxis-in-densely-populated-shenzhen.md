@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-dens
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/18/3a3f19bdef62d31e313b4ac74f3f28d7.gif?ar=16%3A9&fit=crop&q=65&w=1200&fm=jpg&frame=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Baidu's Apollo Go Robotaxis Are Now Deployed in All of China's Top Tier Cities After Launching in Shenzhen"
-    excerpt: "In April 2021, global consulting firm Guidehouse named Baidu as one of the \"top ten autonomous driving developers in the world.\" Others include Alphabet Inc's division Waymo, which spun out of Google's self-driving car project, and San Francisco-based ..."
-    publishedDateTime: 2022-02-17T23:15:00Z
-    webUrl: "https://www.futurecar.com/5209/Baidu’s-Apollo-Go-Robotaxis-Are-Now-Deployed-in-All-of-Chinas-Top-Tier-Cities-After-Launching-in-Shenzhen"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 21
-    images:
-      - url: "https://img.futurecar.com/202202/17/l_620ee63021f6d.jpeg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "D4VpElVJAF4zD3FHyVqWy+ap5l5oBj378DXc8Qp+ZjOkhBxvmpg8zoqXESdQOYCClANdpEhqJnwT5f8noiErm50iPekikQBCbNqXIHeRhDs65fNgJBJnStapmIrXLPfAGOvVPR46oGrGY3CPzbg7CiBD4kmM8D+iTY8UZDR8cggt19f3g3ttTigyBgJvFTADVS/y4LnJAY+pLG2ODzOzFallYyP0rKuZUgzkYy6GhKss61+JBcN3kgxUnwHHF1rir5aLAeyConAco7bqHJn1/k3axpZegqhXhYvzGteHBW6foiCueUIJgHawkn/lShkKpNo9Nt0kJC0TcnWQVcGqk4362aRe4x0hLjLTsaMJQQr020MkT0KIAYD2blfK7sfgSx+r1mbM+7G+jJLmxjJysuDc6eLbsnVdmQCLhTaqlPIoKetEPPZsmBCKwuHIbdepvH8XS+Ta7bdeisI6wRYyyujmxbSFN57Zqra9xFPpQZKhMKvgmaQLqQnpHCFjc0XKu1/KRH9LGb3MrpLNcPYuDQ==;EyvN5rpo7sS8ZfJW9QdVsg=="

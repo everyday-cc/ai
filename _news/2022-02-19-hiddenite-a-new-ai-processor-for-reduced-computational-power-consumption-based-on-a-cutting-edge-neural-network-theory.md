@@ -42,15 +42,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Hiddenite: a new AI processor for reduced computational power consumption based on a cutting-edge neural network theory"
-    excerpt: "Deep neural networks (DNNs) are a complex piece of machine learning architecture for AI (artificial learning) that require numerous parameters to learn to predict outputs. DNNs can, however, be “pruned,” thereby reducing the computational burden and ..."
-    publishedDateTime: 2022-02-18T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/943868"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 10
 
 secured: "W36Xu3p3Dy2oT+vJ4HpQF9L3HY6Lnu27E+LQLk56czujHlKhUrZxWTKeTOegYd1J9/NaCJMpm2wfi0Ob5469BDsP/EYfX4V9bW6g4xFWgqRr8DfVvSGxW+ZXzigQC5E7ycEq2yPT/K8wIEcIi/Ew6HYd1w5ikcEcSZtGvuWQ7+PS4zLuMmJFGcm05iNIXl1eqhfTYIbOYSlR/KGQYEIKWfTyhgQ+fnc7pWRF74bskmnch7I+DSQoOvCKDWIfsL0guePjdyG48kcUffhpWrARPhboixFLYoQCCKAepe1NQRbDbKVhPeYJBRDef3ps/QCNj4z+eoF7UMMZDaJZ3b9dI4t2lI3hd3ibwRjgK4xt7LQ0tl76LjRIzm/F0LDz5kzaF2B+6Tb3ZLq26+syEao0ox/Y3nGrIbYLHPB64qMm9awohYPeqYotlP2Dv2KFpAOB6gxpdOj0oggw7elOJX8hUJJPOy8i/3GNHS9YVVROwm0vjiLW6EqntiQPl09P4B97QBRpgZAL8+TNnwa051FG5w==;S1G7seB+UaLZhUd3B/sbnw=="
 ---

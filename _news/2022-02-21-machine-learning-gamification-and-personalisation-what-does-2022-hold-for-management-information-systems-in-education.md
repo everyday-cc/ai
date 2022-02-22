@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Technology in Education: 5 Use Cases for K-12 Schools"
-    excerpt: "Let’s take a look at some of the most promising ones. Speech recognition technology and artificial intelligence have been around since the 1950s. Yet, attempts to create voice-enabled literacy programs for kids would fail — repeatedly and as recently ..."
-    publishedDateTime: 2022-02-18T15:05:00Z
-    webUrl: "https://www.linkedin.com/pulse/voice-technology-education-5-use-cases-k-12-schools-soapbox-labs"
+  - title: "What's at stake in banking industry's AI transformation? $1 trillion a year"
+    excerpt: "You can start getting the answers by joining this webinar – Accelerated AI Value Creation for Financial Services – on February 24 at 8am PT/11am ET/4pm GMT, courtesy of SambaNova Systems, which has developed new technology to harness the power of AI ..."
+    publishedDateTime: 2022-02-22T13:35:00Z
+    webUrl: "https://www.theregister.com/2022/02/22/sambanova_ai_financial_services_webinar/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/22/sambanova_ai_financial_services_webinar/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/22/sambanova_ai_financial_services_webinar/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 55
+    images:
+      - url: "https://regmedia.co.uk/2017/08/23/university-money.jpg"
+        width: 648
+        height: 348
+        isCached: true
+  - title: "Three steps to digital/AI transformation"
+    excerpt: "organizational innovation readiness and digital/AI transformation. Once these attitudes are in place, then focus on building your entrepreneurial knowledge, skills, behaviors and competencies. Take a financial inventory. Start accumulating the physical ..."
+    publishedDateTime: 2022-02-20T20:09:00Z
+    webUrl: "https://www.linkedin.com/pulse/three-steps-digitalai-transformation-arlen-meyers-md-mba"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHbW17gAWQ20A/article-cover_image-shrink_720_1280/0/1645194830772?e=1650499200&v=beta&t=IBjf7L4moJSdiXZr-xkQkljIh224SiCsn0z0r1RXeBE"
-        width: 1280
-        height: 720
-        isCached: true
+    quality: 17
 
 secured: "NUiDftg7S1bTNS9QdQJeWj8le0BXq/2Ofr4EqYcqJu65A8sZmqtk2nA2EiYvEjEhg+2eR6hJj8dm3iyi+j/scy6A3EedXLu7O7o8gD9e5W4SuJHZNi/C5odacMFLkDqstCJrEJj7CniM90BD//ht4k5AvvUGnOHSgvqB5u3fyTM/VALkYO5XI1wFhlHUteZ7pHZ3aOV42VX9S8RJ80mkoJPewl0vw3wHibDxqz3dUJNq3fF1oxUd4dhjcWrfcvhvQ2YWl3pAiioKvnim/9xNxN7ov+oVGTnKk1Zyg6bU7bP6BNnffmWpth5xaiBc+POA2UJmpgPcOXAjvP/Uac6UBVdmEHqCr8XEbvX3oA++q9s=;klfU9YiGYqqlx7UXTmkzDw=="
 ---
