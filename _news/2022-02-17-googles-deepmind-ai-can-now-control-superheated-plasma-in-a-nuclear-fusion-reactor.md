@@ -82,20 +82,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Google’s DeepMind AI can now manipulate nuclear fusion"
-    excerpt: "Harnessing energy process that powers stars will be as impactful on human history ‘as the adoption of electricity’"
-    publishedDateTime: 2022-02-17T09:10:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-nuclear-fusion-b2017121.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 54
-    images:
-      - url: "https://static.independent.co.uk/2022/02/17/09/deepmind%20nuclear%20fusion.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Google's DeepMind trained an AI to control nuclear fusion"
     excerpt: "Google-backed DeepMind has trained a machine learning algorithm to control the hot plasma inside a tokamak nuclear fusion reactor. It might sound like the start of an '80s blockbuster, but the system could give scientists a better understand of how fusion works,"
     publishedDateTime: 2022-02-17T11:19:00Z

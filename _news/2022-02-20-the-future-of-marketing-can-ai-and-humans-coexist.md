@@ -72,22 +72,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "How Artificial Intelligence is used in The Crypto Market"
-    excerpt: "Overview  If you wonder if there is a relationship between Artificial Intelligence and cryptocurrency, then you must know that the crypto market uses Artificial Intelligence in various ways. Due to the use of AI,"
-    publishedDateTime: 2022-02-17T09:39:00Z
-    webUrl: "https://www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/"
-    ampWebUrl: "https://www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/amp/"
-    cdnAmpWebUrl: "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/amp/"
-    type: article
-    provider:
-      name: Deadline News
-      domain: deadlinenews.co.uk
-    quality: 57
-    images:
-      - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/02/jievani-weerasinghe-NHRM1u4GD_A-unsplash-scaled.jpg"
-        width: 2560
-        height: 1570
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing 5.0"
     excerpt: "Research firm, Gartner, says that the COVID-19 pandemic has amplified the need for supply chain organisations to use Artificial Intelligence (AI ... also an example of Manufacturing 5.0. Universal Robots, a manufacturer of AI-powered robots has deployed ..."
     publishedDateTime: 2022-02-19T04:30:00Z

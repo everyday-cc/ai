@@ -115,6 +115,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Ukraine: how the world reacted to Vladimir Putin's speech"
+    excerpt: "Mr Putin's speech, in which he recognised as independent two Ukrainian ... to impose a limited set of sanctions \"targeting those who are responsible\" for Russia's recognition of the rebel regions."
+    publishedDateTime: 2022-02-22T01:50:00Z
+    webUrl: "https://www.telegraph.co.uk/world-news/2022/02/22/ukraine-world-reacted-vladimir-putins-speech/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 39
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/02/21/TELEMMGLPICT000286933373_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwZ-noePaJta23NuHfKFFEj8.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "UK says recognition of separatist regions of Ukraine violates UN Charter, flouts peace efforts"
     excerpt: "Putin announced recognition of the regions in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen ..."
     publishedDateTime: 2022-02-21T21:52:00Z

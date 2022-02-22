@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence in Manufacturing Market Size Will Reach USD 44690 Million In 2028, Growing at a CAGR Of 51.1% Over Analysis Period"
+    excerpt: "The Global “Artificial Intelligence in Manufacturing Market” size is segmented into types, applications, CAGR,"
+    publishedDateTime: 2022-02-20T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-size-will-reach-usd-44690-million-in-2028-growing-at-a-cagr-of-511-over-analysis-period-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Data Science Market worth US$ 527.08 Billion 2029 with a CAGR of 33.9%"
     excerpt: "(MENAFN- Prophecy Market Insights) The report Global Data Science Market, By Types (Solution and Services), By End-User ... In 2016, Microsoft Corporation launched the next generation SQL Server ..."
     publishedDateTime: 2022-02-19T05:44:00Z

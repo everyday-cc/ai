@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-dens
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://img.futurecar.com/202202/17/l_620ee63021f6d.jpeg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Baidu Brings Apollo Go Robotaxi Service to Downtown Shenzhen, Expanding Presence to All First-tier Cities in China"
-    excerpt: "Baidu Apollo's ride-hailing service platform Apollo Go has launched trial operation in Shenzhen's Nanshan District, providing autonomous robotaxi services to Shenzhen commuters. Shenzhen is the seventh city where Baidu has introduced its robotaxi ride services in China,"
-    publishedDateTime: 2022-02-17T11:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=618013"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
         isCached: true
 
 secured: "D4VpElVJAF4zD3FHyVqWy+ap5l5oBj378DXc8Qp+ZjOkhBxvmpg8zoqXESdQOYCClANdpEhqJnwT5f8noiErm50iPekikQBCbNqXIHeRhDs65fNgJBJnStapmIrXLPfAGOvVPR46oGrGY3CPzbg7CiBD4kmM8D+iTY8UZDR8cggt19f3g3ttTigyBgJvFTADVS/y4LnJAY+pLG2ODzOzFallYyP0rKuZUgzkYy6GhKss61+JBcN3kgxUnwHHF1rir5aLAeyConAco7bqHJn1/k3axpZegqhXhYvzGteHBW6foiCueUIJgHawkn/lShkKpNo9Nt0kJC0TcnWQVcGqk4362aRe4x0hLjLTsaMJQQr020MkT0KIAYD2blfK7sfgSx+r1mbM+7G+jJLmxjJysuDc6eLbsnVdmQCLhTaqlPIoKetEPPZsmBCKwuHIbdepvH8XS+Ta7bdeisI6wRYyyujmxbSFN57Zqra9xFPpQZKhMKvgmaQLqQnpHCFjc0XKu1/KRH9LGb3MrpLNcPYuDQ==;EyvN5rpo7sS8ZfJW9QdVsg=="

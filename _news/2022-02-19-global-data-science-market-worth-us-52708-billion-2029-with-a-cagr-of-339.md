@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Artificial Intelligence in Manufacturing Market Size Will Reach USD 44690 Million In 2028, Growing at a CAGR Of 51.1% Over Analysis Period"
+    excerpt: "The Global “Artificial Intelligence in Manufacturing Market” size is segmented into types, applications, CAGR,"
+    publishedDateTime: 2022-02-20T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-size-will-reach-usd-44690-million-in-2028-growing-at-a-cagr-of-511-over-analysis-period-2022-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8ldieYBWdV0nzWnWT84AQ5kfRtRK+Px22gO0YcB12GTkjDFA3nvZWd5uX6k6m5ch63kXlPu4NF/9LCoD9bGqyjXQowwc8aUJfbR1j1SXWt99tG7BVRonBs9wSSeK3ue9w3DO4dMeWfBUIjo+dsJcX0n24XA6zirnGCoab4H0r77bBxmwKLjWqQfUkHy9WYjAL1uLrhE5BcphVGW0T9fXbuEiBSTK9QoEWWN6gbTQty+qjQF8CPwv8zzfEl1wZW07T8s7hzoUjCeWczy+FT2X+g7SS1gW9bTKeA/wlYmiuSqv6RzvX5Civ7dPqk3eKgyOuSpxYPseidKIfbuhlGfs233XrusZ84bCbMK0yd88kQI=;mtyO3u+28LYVpHZBWph8UA=="
 ---

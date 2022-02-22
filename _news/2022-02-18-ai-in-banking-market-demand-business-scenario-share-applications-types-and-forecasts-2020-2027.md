@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Market for Artificial Intelligence (AI) 2022 - Featuring Spectrum Labs, 6sense and 7bridges Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"The Global Market for Artificial Intelligence (AI) 2022\" report has been added to ResearchAndMarkets.com's offering. The development of artificial intelligence (AI) technologies is growing rapidly and transforming the global economy."
-    publishedDateTime: 2022-02-17T09:23:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_a643da2d-5b49-5160-add6-9a6aaf20a8cd.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
     excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
     publishedDateTime: 2022-02-17T11:36:00Z

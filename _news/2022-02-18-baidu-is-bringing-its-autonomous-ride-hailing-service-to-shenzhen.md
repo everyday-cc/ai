@@ -73,20 +73,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Baidu Brings Apollo Go Robotaxi Service to Downtown Shenzhen, Expanding Presence to All First-tier Cities in China"
-    excerpt: "Baidu Apollo's ride-hailing service platform Apollo Go has launched trial operation in Shenzhen's Nanshan District, providing autonomous robotaxi services to Shenzhen commuters. Shenzhen is the seventh city where Baidu has introduced its robotaxi ride services in China,"
-    publishedDateTime: 2022-02-17T11:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=618013"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
 
 secured: "d1w9Eas8+Hp7pvtNe+2JPQf90yporDLi7M8hD11xYNVKfeafLarMbKyYB3LBrM9w9MQfy0ZnuQsKCh4fyUDvxt523XBwnIdm+7ZpT7EsmEz6dBHuCNuyjm2fOyBbrieKockqBOF6+SWqPffyAHRs+2WQds7S0vUBNM/h0yA1x2HQMZDerW3uyV+Zkk7EzmL/3ozKyAh6MP4LRjAJluldayh4REdVpzfyjUYIjAEYdas+zo57kWzxp1EawfRdpCIHib+TiX1Cb6sG/LYi9mi+QTvb0Vx7dNumsD8BdXLTlsKZyBaNqUksf3ex8J3+9sDoWNbTeJtCusU8F9RiJ+et028zmqcuS3l9dI7oSLGbiDfCq2lhpKo8QQtOVjxY/K3r/ZopjVVVpTJYNu6X52uanZ8bVamnajdECjdQBZMXFiJi6Av+Km4etc8+snFoc6KwenCuwt8HA7DzHhd3lRszIqRQOnyTv+BmlyukDNkBV/hopdnJk6dgOxYbuk24rdwtscmoEduelGo/Um2oed322w==;jusab5ww7C/7YcRmwzVuog=="
 ---

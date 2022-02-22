@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "How Artificial Intelligence is used in The Crypto Market"
-    excerpt: "Overview  If you wonder if there is a relationship between Artificial Intelligence and cryptocurrency, then you must know that the crypto market uses Artificial Intelligence in various ways. Due to the use of AI,"
-    publishedDateTime: 2022-02-17T09:39:00Z
-    webUrl: "https://www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/"
-    ampWebUrl: "https://www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/amp/"
-    cdnAmpWebUrl: "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2022/02/17/how-artificial-intelligence-is-used-in-the-crypto-market/amp/"
-    type: article
-    provider:
-      name: Deadline News
-      domain: deadlinenews.co.uk
-    quality: 57
-    images:
-      - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/02/jievani-weerasinghe-NHRM1u4GD_A-unsplash-scaled.jpg"
-        width: 2560
-        height: 1570
         isCached: true
   - title: "The Future of Marketing: Can AI and Humans Coexist?"
     excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."
