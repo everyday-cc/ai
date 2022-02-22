@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/02/21/skael-raises-38m-ai-powered-au
 webUrl: "https://siliconangle.com/2022/02/21/skael-raises-38m-ai-powered-automation-platform/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Overview, which is developing an AI-powered visual inspection platform, raises $10M"
-    excerpt: "Overview, a company developing an AI-powered visual product inspection platform for manufacturers, has raised $10 million in capital."
-    publishedDateTime: 2022-02-17T14:00:00Z
-    webUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/"
-    ampWebUrl: "https://venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/overview-which-is-developing-an-ai-powered-visual-inspection-platform-raises-10m/amp/"
+  - title: "U GRO Capital goes live on Scienaptic’s AI-powered credit underwriting platform"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI  announced today that U GRO Capital, an Indian listed MSME lending fintech company, is now live on its platform. This collaboration will facilitate better early warning signal mechanism for credit underwriting and enhance loan decisioning for the MSME sector in India."
+    publishedDateTime: 2022-02-21T22:35:00Z
+    webUrl: "https://www.cuinsight.com/press-release/u-gro-capital-goes-live-on-scienaptics-ai-powered-credit-underwriting-platform"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 35
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
         isCached: true
 
 secured: "y/7zCRcLJHjPcWngpUKMfq13SJeccvc6xF7WVHCKNUi4vs5/gCmtDcP9O7Cue1fcYly5biqjSXQUW1c81teSsCsPOCrvHggvSR/QKIZMH/3fNRcX8B+Sofw8tPPNAKTPmhal73+wJF0rwNKC39traVquINX9MpSyA0vwmdeDDk8BPNkoVHy9DBKVV22WAarJ98l/GLVhcwY6ug53Wl6u/PfWJ8RAlXrqGqrdZ2P7UfY1aofzSfc03uYk9UMf64i3b5Pzp7r/kFrLB2LmG90uoL1GPvi0nN8n25g/3arqjGtmWYif7Hpv2YKvAUTsWQu0wjW58Y7RIBWp7en3GLHYFJqvIvyuGEIhtnl2pWZW+UuxCkokTCJur0g8PZ/dr+Lxm/lGCa7ha15MlORkIlDe8Zmpb612/SbK0LXU5TbClfrVwELn37g3Vp6OHk7wI+DkwqxTiZMeirt81TvRYtJwjvu7zjvDQNP1ihl5toxXnK0Cnwlw2kSIISoth0wIwAo4dkPZLa6ALZ63+gZBmeBkbg==;HolCCAYibp814yZyuZRIJg=="

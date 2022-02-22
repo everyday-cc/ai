@@ -69,6 +69,20 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "Following ‘recognition’, first Russian tanks roll into Donetsk"
+    excerpt: "The lengthy televised speech of Russian President Vladimir Putin on Monday ... including a promise that Ukraine will never join NATO. Recognition of the separatist-held areas will narrow the diplomatic options to avoid war, since it is an explicit ..."
+    publishedDateTime: 2022-02-22T06:34:00Z
+    webUrl: "https://www.euractiv.com/section/global-europe/news/following-recognition-first-russian-tanks-roll-into-donetsk/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 24
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/Russian-tank-Donetsk-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Putin’s recognition of breakaway regions pushes EU to fast-track sanctions"
     excerpt: "Russian President Vladimir Putin's recognition of the self-proclaimed Donetsk and Luhansk People's Republics in eastern Ukraine on Monday (21 February) will force the EU to fast-track a decision on whether to impose massive sanctions on Moscow."
     publishedDateTime: 2022-02-21T20:33:00Z

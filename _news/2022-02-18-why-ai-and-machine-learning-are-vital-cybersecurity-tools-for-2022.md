@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-
 webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
         width: 500
         height: 281
-        isCached: true
-  - title: "Arista NDR Named \"Best AI-based Solution for CyberSecurity\" in 2021 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
-    publishedDateTime: 2022-02-17T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arista-ndr-named-best-ai-based-solution-for-cybersecurity-in-2021-artificial-intelligence-breakthrough-awards/article_e8a45d5f-704d-5e06-a2f4-00e4135213e1.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "xy42V1LKmhsteqP15BzmjzPzUxt9VQy1hcgW2udq8FOHfPmV3eBJKS3Aur+NL+b6MEk7yJXZ7i8bHWE2f0aURccht6qZhyZqtDKrOlsrwfUMz6vIrufAE65zaTp6QkAw/LO+maU2bU3+6CElfRyu/Ltw9yLo3alJ22Bt3Kv1OfmR6SwnNJtzbWgBAZMq7MA13I0GCE7wGFI5biYW+KoXz9kpm2UJvxdcc9LAlDwHDHgIow4uZyyEzFnIPN/YxsGNiUxk2CMzaVtCLwNmTiGeuLVwCum4ub4h4F1g9I4YUuAAWUBUBHYMfkPHerwIs+PwBH21Vvxvn1pFxaTibHIe0PpDk1oOCKQ+Gax9EUPksFfaWDh/wUwbcp+ytM47bCFMgMCyyvK+kMxOTc4PQWOwmC/NaIz5Wem2odu+X8dslhSHRXzc1cOop0N5iuF1YpiD5aD9VtGaG87TNc8MvhG4dNXsv9Lw9Go8104LhMIPZ3T8BTTFdIMP8IWTYJRB4CtcWVnOH53jDluvXy/TvPUY5Q==;ja4nYm4G7/hIJ7XfbDwGgw=="

@@ -33,6 +33,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "AI Tool More Accurately Predicts Long-Term Outcomes in Prostate Cancer"
+    excerpt: "Click here to read more of Cancer Therapy Advisor’s conference coverage. An artificial intelligence (AI) tool is more effective than clinical prognostic markers for predicting long-term outcomes in patients with prostate cancer, according to a study ..."
+    publishedDateTime: 2022-02-17T23:00:00Z
+    webUrl: "https://www.cancertherapyadvisor.com/home/news/conference-coverage/american-society-of-clinical-oncology-genitourinary-asco-gu/asco-gu-2022/prostate-cancer-ai-tool-more-accurate-predicts-long-term-outcomes/"
+    type: article
+    provider:
+      name: Cancer Therapy Advisor
+      domain: cancertherapyadvisor.com
+    quality: 19
 
 secured: "JjyK202nGBYE0kHeMcBizZA55rArjzmjgCdNigjV9TLJyZTC5JZM0lvPQ+TRCPPmbq+7d9B7/PdzCqZhmm3Ny6lCHftdCvYApYcjtFWJpAMnTIqbT5pTULoAmmZrgUCTYKuXQNjDvDAUEikjfFI3Q3HlCoaRAFfEw7vpTwC098wUMW6u7icY0G/lYWsWAp5uRWJL/1Ttrs8s2dxZ1/3Bmrch2zT2JbQf/F/fAiHwsQn1XT9LwV69M570L4rNKkEsTBa8o5mysvGDyty0HO8HLCwJjvGowmhjkM0nRDTjzy0F+hdtWSicjPANUBxo7oh+nk8vU58c2uf5gOX8bxfN83YCz2GCcz5lbsOtH48G6LPpi1ywUG06T7gapEISUEBAratWr0XThmvNS7UmqOSOkZ4MQtECkrMx1mPdra2GFcYCK1k6gds+sfe9ax5UfYsOkYjMfv0odxGS6vlMoVQy/13OlFSfroSmHTwkK+8uyUNigF6BlxI+uag99MSu9zgQD0nIw8jRm+RhdZdwh2B99g==;vyFLMQpORLcXNblotC4m1Q=="
 ---

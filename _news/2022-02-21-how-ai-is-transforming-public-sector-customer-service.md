@@ -24,6 +24,22 @@ images:
     height: 740
     isCached: true
 
+related:
+  - title: "How is AI transforming radiology?"
+    excerpt: "For example, developers need to address issues concerning governance, medico-legal responsibility, and ethics. On the radiologist side, education and training will play a crucial role in integrating AI in their practice effectively. Practitioners and ..."
+    publishedDateTime: 2022-02-22T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-is-ai-transforming-radiology%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/How-is-AI-transforming-radiology.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "BlqaIVPzVnxukRZp1tHBQU6nu+gnle105sZ9D+JHW/MxaIW4yIMGU1uWJ/7455mhmboCJ/bkW3iPw+Y650nAnn97tykNYW4jizsVQ+zrLK56v95dD0zzqFr6UIqBT+L1rcPmDsAuZ94LswEoo8/148qOaTJ8BQmbuCorUBoNtXGF6OdZQmoRpXJ+xODyBQ7BVfCSUQDeeoTP6szVgxz0cpGjVEek3yT5wZfXHBwPh7x/NSm0VKbjmEFbgnaUQsnSftPRxpxiCCwKAO1eO8gArdP0UyOfaqA3RMr7QFgH8iysX/ezUpKSBqnDryOTUKgd+X00/3rcgrPEEp+G1o+k8KLujI+lEd7YGn7UWFYDMdbxTV+pMnhSWWi1mznoG3WooagD7hPC+c44hMtsOkPJH3WPeiRU8iXFseyLsVqB+1D+IYy52BYQwYL/NkhD2KOkgOaXcwGbXOoU8i8PrrQQ6MVTD50FkO/5HZWTV4MIkIb5Tyl4ZAnzT+I6XX2nePvUrqGWhCvooXlVq3hsd2GbAQ==;7Y9nOTnF2i/9jZB8Q1p3TA=="
 ---
 

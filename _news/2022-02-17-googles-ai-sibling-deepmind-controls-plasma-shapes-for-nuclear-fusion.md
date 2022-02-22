@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2022/02/Interior-of-JET-with-a-superimposed-plasma11.jpg"
         width: 640
         height: 390
-        isCached: true
-  - title: "Google’s DeepMind AI can now control superheated plasma in a nuclear fusion reactor"
-    excerpt: "Google-owned DeepMind has trained a deep reinforcement learning algorithm to control the burning plasma inside a nuclear fusion reactor."
-    publishedDateTime: 2022-02-17T14:09:00Z
-    webUrl: "https://interestingengineering.com/google-ai-controls-plasma"
-    ampWebUrl: "https://amp.interestingengineering.com/google-ai-controls-plasma"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/google-ai-controls-plasma"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 68
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/yrwQkPpJGN/sizes/deepmind_resize_md.jpeg"
-        width: 744
-        height: 419
         isCached: true
   - title: "New DeepMind Program Shows Major Progress Within AI"
     excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."

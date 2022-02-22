@@ -55,6 +55,20 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "Following ‘recognition’, first Russian tanks roll into Donetsk"
+    excerpt: "The lengthy televised speech of Russian President Vladimir Putin on Monday ... including a promise that Ukraine will never join NATO. Recognition of the separatist-held areas will narrow the diplomatic options to avoid war, since it is an explicit ..."
+    publishedDateTime: 2022-02-22T06:34:00Z
+    webUrl: "https://www.euractiv.com/section/global-europe/news/following-recognition-first-russian-tanks-roll-into-donetsk/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 24
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/Russian-tank-Donetsk-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
     excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."
     publishedDateTime: 2022-02-21T18:47:00Z

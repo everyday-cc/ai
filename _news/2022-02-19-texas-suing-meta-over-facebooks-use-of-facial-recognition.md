@@ -47,7 +47,7 @@ related:
     provider:
       name: AllAfrica.com
       domain: allafrica.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
         width: 664

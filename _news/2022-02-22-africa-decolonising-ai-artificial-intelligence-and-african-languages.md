@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-22T04:40:00Z
 originalUrl: "https://allafrica.com/stories/202202220011.html"
 webUrl: "https://allafrica.com/stories/202202220011.html"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"

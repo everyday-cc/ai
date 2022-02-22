@@ -56,20 +56,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Arista NDR Named \"Best AI-based Solution for CyberSecurity\" in 2021 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
-    publishedDateTime: 2022-02-17T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arista-ndr-named-best-ai-based-solution-for-cybersecurity-in-2021-artificial-intelligence-breakthrough-awards/article_e8a45d5f-704d-5e06-a2f4-00e4135213e1.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "0HSO4khvgGD8TEn2KDNPUfIR5TPKEl+e3BlcG5SSq9O7vWkkFXBmtmBabHpHEtjKDl78dWRExohgsLsCotXzvRMg+5jQ71t5+CEzgoMv++2YgW0At2HTe8sTmzJKSIVA+/urwtYYigovAbGXxTY4M/CI7li/nXhcRCG+r4M4wShK5Qqj7Ln8cJAYFo6nvwBJzXjdDRqyPZvIk6j0fXob7Brx50gox7qrhuEh+uMoPDdHqV2tYzkzyYUPAomVheVEjr3Lg/GwHFjjel/+EZtK79SF6z1acKVTdMOEB/HbbkRrBNsBVmYrBgG3cl2jQmC2i+duKP420qM/vpjqOmkDpS1Y9gX84KqS7fTnLBknMEJAvGp+1cmUeRNhppbv02cfcD+PFyeC2QIzFtzaXtjFn0zdZPBpERDXrQZ1wHz0haYKR44RiJkb8oc1k+CgsxpzN7e9iheB4wgYyPrJS7bcEFY8YGZ7aOVlXuBkdncHOgcn75PEUfGiUS8Y3yUY3oHGIqLb0UZlIbPPiw/vSVZJcA==;J/s0bXm6rGJIHMywkoNKpQ=="
 ---

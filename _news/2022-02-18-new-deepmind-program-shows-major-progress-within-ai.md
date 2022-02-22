@@ -65,22 +65,6 @@ related:
         width: 640
         height: 390
         isCached: true
-  - title: "Google’s DeepMind AI can now control superheated plasma in a nuclear fusion reactor"
-    excerpt: "Google-owned DeepMind has trained a deep reinforcement learning algorithm to control the burning plasma inside a nuclear fusion reactor."
-    publishedDateTime: 2022-02-17T14:09:00Z
-    webUrl: "https://interestingengineering.com/google-ai-controls-plasma"
-    ampWebUrl: "https://amp.interestingengineering.com/google-ai-controls-plasma"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/google-ai-controls-plasma"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 68
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/yrwQkPpJGN/sizes/deepmind_resize_md.jpeg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
     excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
     publishedDateTime: 2022-02-20T16:36:00Z

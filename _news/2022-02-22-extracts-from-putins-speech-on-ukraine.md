@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/europe/extracts-putins-speech-ukrain
 webUrl: "https://www.reuters.com/world/europe/extracts-putins-speech-ukraine-2022-02-21/"
 type: article
 quality: 69
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -105,6 +105,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Kenya's Powerful Speech on Ukraine-Russia Crisis at UN Event Goes Viral [VIDEO]"
+    excerpt: "In his speech, the Ambassador raised grave concerns over Russia ... But they cannot justify today's recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks available and underway that had the ability to ..."
+    publishedDateTime: 2022-02-22T06:21:00Z
+    webUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video"
+    ampWebUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
+    cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
+    type: article
+    provider:
+      name: Kenyans.co.ke
+      domain: kenyans.co.ke
+    quality: 55
+    images:
+      - url: "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/Ambassador.jpg?itok=Z6nhHyzT"
+        width: 700
+        height: 350
+        isCached: true
   - title: "Ukraine: how the world reacted to Vladimir Putin's speech"
     excerpt: "Mr Putin's speech, in which he recognised as independent two Ukrainian ... to impose a limited set of sanctions \"targeting those who are responsible\" for Russia's recognition of the rebel regions."
     publishedDateTime: 2022-02-22T01:50:00Z
@@ -146,6 +162,20 @@ related:
       - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_cf1fd787af9dd9caa077ca7a25f284b6.jpg?v=004958"
         width: 864
         height: 486
+        isCached: true
+  - title: "Putin’s world: Selected quotes from a disturbing speech"
+    excerpt: "A woman watches TV with Russian President Putin speaking during a broadcast of a meeting of the National Security Council on the recognition of the self-proclaimed Donetsk People's Republic (DPR) and the Luhansk People's Republic (LPR), in St. Petersburg ..."
+    publishedDateTime: 2022-02-22T06:26:00Z
+    webUrl: "https://www.euractiv.com/section/global-europe/news/putins-world-selected-quotes-from-a-disturbing-speech/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 24
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/A-woman-watches-Putin-on-TV-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "9yb17k8yJrzLrIyIUBRtMYCsvLJRkQIe8Lm4sOuuQYz+roA9a124qSuTU0cc6qdz0gEKFUJPRseY2/22iswqBSCXxGjuEZXO5wr2cOSInXFyIIYQdYF7NOJqvXOPgtGlx7ZZ1zsifc9NmkRLb3QCnfeLiEnoR3+E7EgileEgZba67pqUi1JUDg+H1Fjs3cTCxFXYDuhr8y819OuolHnWakD/HAPW7DlFhGNHfjLYjecJCB/ToUkq+bFs5rx3EH6bFB9IyAH7u0rKPDYiPeghnLWtHtUrz4bHHUjUElrwvsV2eONjQvWLWjjyCLP9v0anJjxZvfRS5DK8p++CuKhfm9La85R6KKkIU+tmoT2Skrwtuloy+hkT2oXmRnybuCYm7USoN8W3TwRXoaIzPTCupi3KhP2Ku/zelW08Gy1c/q+vebjndT4MV4TfNOdIjEjG2KlP2txmeGm5SqQ9Z/cqbZYw9XGtQbfuJ89/H3ybeEsJpG/RRCncnp1VYx1sYQFUKtH7CrNE55Xv5IxQk74zaA==;+4Ro5rrogcyIRV1xfcb+sw=="

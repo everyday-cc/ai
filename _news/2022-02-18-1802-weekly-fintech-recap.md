@@ -155,15 +155,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Fintech Is Going To Integrate Hyper-Personalization In the Financial Sector"
-    excerpt: "We can't imagine our financial lives without digital finance, which allows us to do anything from check our bank statements to trade stocks. The revolution in financial technology has democratized areas of wealth management that were previously beyond of  reach to the general public."
-    publishedDateTime: 2022-02-17T13:05:00Z
-    webUrl: "https://www.finextra.com/blogposting/21847/fintech-is-going-to-integrate-hyper-personalization-in-the-financial-sector"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
 
 secured: "F8lxmtjnwzd2kffKkm+hgmEc6vxgCyYMCEZbl2LVFC2Ta5JCh+vgoH6WVIabaw+PLac2XQBn94ywiA8ilamqEIgVE/J13M2Ic8WJHHS8PMSQcGzCDkmZHXCHxw1MAZRGx4fJ06DaKRSBkM/Mb2n2DG9YDPntTiv/R1l/+1xn5i2vQmxYPnyuiCZZEtB+pfj/HCIGzhhweOHKaBgmeRV9vKVnexNxoApMpVWmazBkCt3LGpqeOf6Tg/6XN63QA/DKT2NABj6jegpNfx4ruJZ12xG7tn7ENoKxNWsetvOHXMaeEUF4ulDw9KLyWeJZTbJBv7LStmZf0TkPjjJs4ocjJ/voXYLnqxT9V2QLov7Hdjk=;G8XFI7TebF6O/gbFMXSibQ=="
 ---

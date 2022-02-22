@@ -71,22 +71,6 @@ related:
         width: 640
         height: 390
         isCached: true
-  - title: "Google’s DeepMind AI can now control superheated plasma in a nuclear fusion reactor"
-    excerpt: "Google-owned DeepMind has trained a deep reinforcement learning algorithm to control the burning plasma inside a nuclear fusion reactor."
-    publishedDateTime: 2022-02-17T14:09:00Z
-    webUrl: "https://interestingengineering.com/google-ai-controls-plasma"
-    ampWebUrl: "https://amp.interestingengineering.com/google-ai-controls-plasma"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/google-ai-controls-plasma"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 68
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/yrwQkPpJGN/sizes/deepmind_resize_md.jpeg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "New DeepMind Program Shows Major Progress Within AI"
     excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
     publishedDateTime: 2022-02-17T20:22:00Z
@@ -150,6 +134,6 @@ related:
       domain: tweaktown.com
     quality: 36
 
-secured: "+v1Izd3J2vnyrBW7CNPwLUDqrXjq0aa3CJz0uFnZOYtpKi367NFZJx6TdEIXbh8udJB9u2bsw6U1hv6P7Z9+eYlC485EArLFBDboP9LW8MFzJO469Jak2foi0MxuMiHsyCkdkGF5Z/ShjptudCnaOgw04o9LeEcc9KoLG4tHHjDaGvIXQrARSFdcOvLbjQYfQma7bk9azjkY5m7ojh5qwfMkYbz/KHmDoWwQWvoCpiL1RIgskbqCSFd93VKNhLQCr+V8rPY8vmY+R+Y9hOKjoXDZRB6jg/3wwAQi3BDkpt0rcMNa6NM5bj912YjxzfKrU6urdtmI5D428n3frboNauPlj7tfufFMvBUsP97mhog=;8dPDBwzy1QuF5I8zVFlraA=="
+secured: "s5z3N8oGEDq5X0Vixe4td2lt/RRlz4qeuEXvxLYvcCHNCfh7Bnd9+CZH9xPjHw9GnC4Tm6ALgtS382hHLOxReDYTLxuiI6LiAKbu7+/7uWlaJ5IvVnItFxsspKJSp2ODVx9kAOc6pO9wmiJ4j/CIxqorh92jE7r5JxIABLDVRpdIbCctpdafTSaZ+Pta3cw1AL++RN8ccE6W+opE3Fk2yPMi0dlDV/67R7KsOmS/S9TKv4rKmKjXPUky6ayb2mBUtHn5XsV1b9L9j0GYiQoU5wBYzZvoPB3ofDaUcTVngqdP4gVyJ/toDL5BsPGzzP1bYsxgL7dZ3/P6g5RYqXaLxHjSnEgEWIzNXo06Pp6hybw3pzDWuhSmt12vG+AEdcV98nMywTM0IeoqVOMn6dQ1d4X4gsynUizHBT2i5nWW2nALkF/caMne1N2ZQ3feuh95joNVpRXh4e/wOtZSjqwtR82pEbiH6OZox4FpXBhkkxhwFM01phkwmPyNu2N7vk0sd4FDYTh96FPdL8iABUjwRA==;7iRE/LM8DEnwZH0WX/uAQw=="
 ---
 

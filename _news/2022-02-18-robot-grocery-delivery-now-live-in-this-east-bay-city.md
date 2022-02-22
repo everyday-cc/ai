@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Robot grocery delivery now live in this East Bay city"
-    excerpt: "Grocery delivery via robot is now available from the Lucky California supermarket in Pleasanton to about 1,500 homes nearby, after the grocer announced a partnership Wednesday with San Francisco-based company Starship Technologies."
-    publishedDateTime: 2022-02-17T14:19:00Z
-    webUrl: "https://www.mercurynews.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/"
-    ampWebUrl: "https://www.mercurynews.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 59
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2022/02/SJM-L-ROBOTS-0218-01_94218880.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "JQZfRtEaB7Y8JyIqq8T7EI94vJjhfGmeTtDOucHfFfxb1IXrm84EnyEDhm7KPDCZL2dnCGCVBlnEK7WpUyMtHrafRyQNPcVnEsXlb0200FKGiMDZDeD4d1jXKEz9AHReA5SIcZ5H5/eWXSe2SLyglbJsoAq7JUpMocqBA9G+pzMSsIpEM+sM4B7dvZr0DuxsNH1btQ/5iqG9zW4QseUY1vktYnIske2emmhmN2nUZQ5WzKQLo0mQUQ/4XU/2BbJ9SyrdVvJtIFjnNbd6gNIz/KuvnJsqPOaJ6JgO7a5BU6RyrjUCg7Z0NTqaivSMCFmxUsHcnDBOrldavgzav8AvLVQw2rOV2PNlhiLN1G9DmHNyFDe91zTFtUzsQusgE6PYorFHYOLOUtaK/GihPCG8JknDV7lMo9WzoynaUddNtunyIiO5+j4HcB8FcysAEqq4R3DKZMoEC+MdChZP28cP88ivzpXF1YQBNCdfy8cONluzBAjIxOcwLsbpd34MYfFcp5eupRBEjNlwt2jwzGSdog==;XqhG/mE5RlTQIYEI6UNVig=="
 ---

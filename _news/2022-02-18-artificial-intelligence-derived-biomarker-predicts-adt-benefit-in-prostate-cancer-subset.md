@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Tool More Accurately Predicts Long-Term Outcomes in Prostate Cancer"
+    excerpt: "Click here to read more of Cancer Therapy Advisor’s conference coverage. An artificial intelligence (AI) tool is more effective than clinical prognostic markers for predicting long-term outcomes in patients with prostate cancer, according to a study ..."
+    publishedDateTime: 2022-02-17T23:00:00Z
+    webUrl: "https://www.cancertherapyadvisor.com/home/news/conference-coverage/american-society-of-clinical-oncology-genitourinary-asco-gu/asco-gu-2022/prostate-cancer-ai-tool-more-accurate-predicts-long-term-outcomes/"
+    type: article
+    provider:
+      name: Cancer Therapy Advisor
+      domain: cancertherapyadvisor.com
+    quality: 19
   - title: "First Predictive Biomarker for ADT Use in Prostate Cancer Validated"
     excerpt: "Click here to read more of Cancer Therapy Advisor’s conference coverage. A novel digital pathology-based biomarker developed using artificial intelligence (AI) can successfully guide the use of androgen deprivation therapy (ADT) in men with intermediate ..."
     publishedDateTime: 2022-02-17T23:00:00Z
