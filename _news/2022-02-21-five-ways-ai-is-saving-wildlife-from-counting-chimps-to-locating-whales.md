@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Five ways AI is saving wildlife – from counting chimps to locating whales"
-excerpt: "Artificial intelligence has been identified as one of the top three emerging technologies in conservation, helping protect species around the world"
-publishedDateTime: 2022-02-21T06:15:00Z
-originalUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
-webUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
+excerpt: "A family of chimpanzees photographed in the Congo basin. An AI algorithm enables analysis of up to 3,000 camera trap images an hour. Photograph: ANPN-Panthera Artificial intelligence has been identified as one of the top three emerging technologies in ..."
+publishedDateTime: 2022-02-21T15:50:00Z
+originalUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe?share=email"
+webUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe?share=email"
 ampWebUrl: "https://amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "mkucxe6whk98B9mR0zk8nUYyXkzkaJKsA0YHKdZVvbhNKEUC3qfxh1qZ7uz9Ysik69weh1kVM/kEGlpjRcSG2xVZiWtfRwE9HYvztoD/5sRZ9RrK9AOHWOiD5qm8WHeq8vYYxzxgIhJ611axxclFRRkyEc7frcun1Ig+FGVCh09dnMnQGOJgj1okXgrfxBTML181t1m+H8s/w4dODAcEWttg5IRZHw57i0t9SzKiTqolamLjGe1Jb6xT1Rcg45s9ExBpCkKHXLB2sWtJxU5h48qNNZcR/48t4fRv7yQCM/zzmhML2FLeMOAcrnubvdQSl04Qn/rwUAT/DSDzs7LSgj2rj/aj2vrTlm5D5xllXpH2R74DgupZLSEfMOkpmNv7Cb2x6fqdC94ILXQEFcqAk8AxNsDSfWUbG5Vqp0/IiUUjys8JiB+EskFEGZseecG4mIvDR0UwBXtef6HQf7TqlJEbY7jtqD44SelJzInwn9KmEEi/vJ14B69zLSvhbGunDxe4OfuxI/vLQjZBos0tRw==;lvUkNBS3l7pzUiHwxTDIMg=="
+secured: "DTIlYeyroj8VR/r4afR8aRHu3gyzDn5bkGNQgGC1d/fwiWCrZBpKEcpbBvBo3CmDV0NzxsRPqrMScwBWI/mT8ROirr+dkJLsjCM3A9gkygICYQIDa/+D+zoUoXV4wugY2V57oCuM3Nf5LP/qyql2JzM+keW4+6NmFCYDeZCzHNsWC4C7rj57c+ELKwlQl3VbXe03TMBovX/P6p+Mq2etwHiiqjEr+WXMOKy4e2Xe12CeUDZqla6WJss7wQ/UIuPS9pAlbHKaCx4LubF/4US80xkPyzXAGYcRSvJni+Oeg+YTmEmV/MeBlxq6ER4MPCiSjZbqsSEZ5LV4R9fLFAtngcvAnxPkfMemJfYvsDexhxo=;iCVyNkIWoKDvX16z6lFs7Q=="
 ---
 

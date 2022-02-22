@@ -7,8 +7,8 @@ originalUrl: "https://time.com/magazine/europe/6149051/february-28th-2022-vol-19
 webUrl: "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Time
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Africa: Decolonising AI - Artificial Intelligence and African Languages"
+    excerpt: "Should we bridge local understanding of Artificial intelligence by creating technological terms that make current scientific developments accessible, or do we teach and help computers understand ..."
+    publishedDateTime: 2022-02-22T04:40:00Z
+    webUrl: "https://allafrica.com/stories/202202220011.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 52
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
   - title: "Texas suing Meta over Facebook's use of facial recognition"
     excerpt: "Have you ever had trouble placing a name with a face? Facebook has never had that problem, thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces ..."
     publishedDateTime: 2022-02-19T03:15:00Z

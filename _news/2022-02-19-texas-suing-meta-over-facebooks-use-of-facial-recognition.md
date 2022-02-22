@@ -39,6 +39,20 @@ related:
         width: 1011
         height: 1349
         isCached: true
+  - title: "Africa: Decolonising AI - Artificial Intelligence and African Languages"
+    excerpt: "Should we bridge local understanding of Artificial intelligence by creating technological terms that make current scientific developments accessible, or do we teach and help computers understand ..."
+    publishedDateTime: 2022-02-22T04:40:00Z
+    webUrl: "https://allafrica.com/stories/202202220011.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 52
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
 
 secured: "YOg+F4OeNtMkasqvbeyxx7zP6gaNWdtk0J1cywN0VBv8JZ9SMJv6rpGYGJMX/K9bLJO0Ac1sA0OtUw+zz8QOKvK9aoC7+tlil3EC8MAeVHrSSmbk0pd4JYTSEtHQIDdIs9HZS4F7gnida29kAtaf02LPoAPjoKSMi5HPXI1ZvwhADEGcQkjA+UVGShbjE7XPbYgNEWy8lSq8KSYUBMtMEa3hqykA5VLiQSZeRiGhdmvCyW2zevFyitpmw92k0+j2I4bZ5AjO9eQ4Z2SLpSyt2Or75gE8KZxkQRDWXfLXSjiK4JBKY74WPaB25Y+u9i14cRlqPx1zw9T+ZKeA9Oy6hwytYSWWH77ofGn7Q1TmnJ7RNslO81jNfF47BECdxplTAkss4TsXOgFDaZoF0j4D/CDH+r5yEhtA9y1PaaGUF68A7DHevDQwQuXWC9eM42Q00cVtAJkEdeHGhZTxuFOU3BAQItgvCYoHvkPe+HFKH5CiNxqWw2StzEnuDHYLabPYgSBfBfzb+WG0/ZIS5fOkwA==;Niv5Ktzw+S2MzRtFgAxKFA=="
 ---

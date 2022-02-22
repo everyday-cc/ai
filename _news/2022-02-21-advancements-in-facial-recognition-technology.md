@@ -78,22 +78,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Facial recognition taken to the next level in virtual reality"
-    excerpt: "Faces can unlock smartphones, provide access to a secure building, and speed up passport control at airports, verifying identities for numerous purposes."
-    publishedDateTime: 2022-02-17T12:12:00Z
-    webUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-facial-recognition-virtual-reality.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/virtual-reality.jpg"
-        width: 1920
-        height: 1105
-        isCached: true
   - title: "US state sues Meta over Facebook facial recognition tech"
     excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
     publishedDateTime: 2022-02-18T13:30:00Z
@@ -181,6 +165,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IRS Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
+    excerpt: "WASHINGTON — The Internal Revenue Service said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift to an entirely different identity verification system next year ..."
+    publishedDateTime: 2022-02-22T03:12:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "dCrBSp2gPBSEuQnfrzox6sGxt1bLoh6U5UcMgX8Qfw4kDM34MJRUYiAo07T8I5jhj4QIc1N7DgJwH6ycOwzzxlSBNv/dz9vxWOQ2Y9hl7xtgdac/SZow4oNk8OYXU9WXyQtc2sd+AZpJvgOIIvC0eK2XjpAyZl7xa/6cgye2nKMYQ+RTPC1K06zJwgTyS7j8IdYVJLJBWIU85Waos+8lxWf8DbGXdF3DPryXZt7QTe/CFb9nPRNwPFI/Du2QOL7S4zk7yo2u0F6Ku5p3vGcwE9iNbv9FudZlldBSJL+8HWMap79xPQjoRdX9U04ptJ+B//WIYLxEoogx0Oi7VDIYK06sLugtFWpWQ0lTqjxseA/zu1uzNZDJYM1B3d1rgyHJS1X06f2yZQBycMswUa9TiOJ98E/i5SN/A0OQfE4j6cnrw6AYCinjJDUHPzTHxbXBgnnlqFtCylgBHerKGWoGbCYpaaBe7QLhSEKImvfxdVjSVB9/A0ZuDP68yLrYyS/o4h0B/tJfKVE7EGfSn9gGvg==;76PscftSDsQDwIUrv247jg=="
 ---

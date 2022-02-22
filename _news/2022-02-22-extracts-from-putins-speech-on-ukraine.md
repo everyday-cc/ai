@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/europe/extracts-putins-speech-ukrain
 webUrl: "https://www.reuters.com/world/europe/extracts-putins-speech-ukraine-2022-02-21/"
 type: article
 quality: 69
-heat: 149
+heat: 150
 published: true
 
 provider:

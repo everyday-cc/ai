@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 1254
     isCached: true
+
+related:
+  - title: "Microsoft details 'planet-scale' AI infrastructure packing 100,000-plus GPUs"
+    excerpt: "Microsoft has revealed it operates a planet-scale distributed scheduling service for AI workloads that it has modestly dubbed \"Singularity\". Described in a pre-press paper [PDF] co-authored by 26 Microsoft employees, Singularity's aim is described as ..."
+    publishedDateTime: 2022-02-22T03:58:00Z
+    webUrl: "https://www.theregister.com/2022/02/22/microsoft_singularity_ai_infrastructure/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/22/microsoft_singularity_ai_infrastructure/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/22/microsoft_singularity_ai_infrastructure/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 71
+    images:
+      - url: "https://regmedia.co.uk/2022/02/22/shutterstock_singularity.jpg"
+        width: 1299
+        height: 600
+        isCached: true
 
 secured: "idzx0b3P9pY3ksZ0EmEjcM+vUFmJ8gor+Q8zBXHlkOoOGbsxqcyVR+a7xKK2LXD6L46LnT/+t+P6FiZ8oV5Gug37pwCvNUTFGvGWPDTGS93Lurn+rEPhK+MFdaiK8zheQR7ddrekQoihUPDpYVnmQKa4AP3gMRnkso1VliHhGZbOKDzhYwlzfMWwxTIFa9QViJhE/xHHOWlqDYiQgkXcqqwTMTQoTa0aed0phpVmO4OOTTLJLF2rBtgTfMZRWxLtgUkS2D2ZPRl3YMvq5/1FWEUg1haU/zx7Jb9YN3MEoUYhOyFTr3EWAWxTNNaMkb3G+nrybhj5J0Dqw+jx2HAOs6qrFkXZJ83fKyf0HfHr08T21iOh0S8s+KIGFtC1Ncd+iREa4iohEpvwg2i6cr4b/WQLF84x47dbkuIwcwfCNac8jTSEZIRAuLmeEu2LlPoyx0ckU/4RbASRiFb7kXFMB1KfkqMuKJfBGeq4JWsTnEMSDc4hzZcE4THm1kJMglOyWp00Ol2sINX6lWq+FL5HFg==;+qipvIH31fjhVjhZdoH6Tg=="
 ---

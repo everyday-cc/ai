@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/ibm-launches-2-year-glo
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 917
     isCached: true
-
-related:
-  - title: "IBM launches 2-year global pro bono environmental program for non-profits"
-    excerpt: "IBM (NYSE: IBM) today announced the launch of theIBM Sustainability Accelerator, a global pro bono social impact program that applies IBM technologies, such as hybrid cloud and artificial intelligence,"
-    publishedDateTime: 2022-02-17T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits-1031204798"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "MtF+VhpL/tyGUr6TlY7SdNh7tQx0AnR1tKOJmSh3u2UIajuOHB17YvtrivHBp4ZAjoN4qGdpdPfQvgq+lwhN6hC1/JDJ4P+mK7pH6pIk0kIffuxK7yD4nBLm8/DeOGZcY27ZsaiWGWL0+XB9APH64zdF6Ndrhg0lKuf8Pl7FYo3LJaPbqLzk9AMJK9kX1eIzyWcarzoZPQBPq6pAQWO9t+x2tUdvbR1dijAAALA2san8iaGaRm5woXihdaW1opLBKKd47LavceboHeRTor/8wjirddHM2+hjZQtAwxuAQx5uxqyFMLiQRUdsA03Lfn+NOBXaFRnD0834MiejhLzhb+bWsEeTanqo7M9Ju1KZkgj7n0PN+Ut0dOCwcwfTjm2FOhc7f8bkpnkbk61EEldhETT92ZuULj55IBCTFV47P2E+zxTGtMWzwydOxNBmfzdOUfBF0GTUzQJwvsc8EsIiwAFn0sL6BIJwv7wUkdhIxZp/VNRW7sPnb7+sOFf43vfF9TAkvVBjZlnJfQIvkDy4Ag==;a78g72X59oWm+a6KDYjelw=="
 ---

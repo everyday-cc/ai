@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

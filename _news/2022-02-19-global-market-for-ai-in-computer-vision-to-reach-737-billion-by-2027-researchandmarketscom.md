@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
 type: article
 quality: 62
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Educational Robots Market Size Worth $3.27 Billion by 2028: Grand View Research, Inc."
-    excerpt: "The global educational robots market size is anticipated to reach USD 3.27 billion by 2028, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 19.8% from 2021 to 2028."
-    publishedDateTime: 2022-02-17T11:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-educational-robots-market-size-worth-327-billion-2028-/2022/02/17/9547347.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
   - title: "Iris Recognition Market Insights by Industry Demand, Regional Share Analysis and Forecast 2022-2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Iris Recognition Market which emphasizes on the la"
     publishedDateTime: 2022-02-21T14:42:00Z

@@ -1,24 +1,20 @@
 ---
 category: news
-title: "IRS will let taxpayers opt out of ID.me facial recognition with a live interview"
-excerpt: "The IRS used facial recognition software from ID.me to analyze the selfies after signing an $86 million contract with the company. Civil rights groups and members of Congress from both parties questioned how the IRS could begin the use of facial ..."
-publishedDateTime: 2022-02-22T00:52:00Z
-originalUrl: "https://www.zdnet.com/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-webUrl: "https://www.zdnet.com/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
+title: "IRS Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
+excerpt: "WASHINGTON — The Internal Revenue Service said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift to an entirely different identity verification system next year ..."
+publishedDateTime: 2022-02-22T03:12:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
 type: article
-quality: 64
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
@@ -71,6 +67,17 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "IRS will let taxpayers opt out of ID.me facial recognition with a live interview"
+    excerpt: "The IRS used facial recognition software from ID.me to analyze the selfies after signing an $86 million contract with the company. Civil rights groups and members of Congress from both parties questioned how the IRS could begin the use of facial ..."
+    publishedDateTime: 2022-02-22T00:52:00Z
+    webUrl: "https://www.zdnet.com/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "US state sues Meta over Facebook facial recognition tech"
     excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
     publishedDateTime: 2022-02-18T13:30:00Z
@@ -169,18 +176,7 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "IRS Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
-    excerpt: "WASHINGTON — The Internal Revenue Service said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift to an entirely different identity verification system next year ..."
-    publishedDateTime: 2022-02-22T03:12:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
-secured: "eMhXAUhljanPkBJXI/bdKw1t5LKLdw9lJ4Qi9JdyQdWL0UNxKmsMSTMXIwbf2T5Q7M6xeiIqSVyHt8Tl3eZVACh99BWpCqrb4R+py4yesE7fL4efSfGQwNOZf6C6p1a+b+07A707qXpfAOrDAq9ejc7KORSwMRjiISfR/txwYOm8lwdCe23z3ByUnvnAPbuG56aTyZZr01POVbGR3FlmRHRDjrcp0//23vEQY1Ti9IjOHWsJJMIPBBgn3W5vreQ9FZoedVQJEi5iP/OgVsyolOBWP6VWMnyGvL2AwoIr8Qk2TLOnw6PJVL2x5naRTZ5XTXCFrfpPa43fIJH1zfTfxizgaOQ/PdPvXb0TMV/EfEPHUBsHyLHKhbd5A7HJpdsbnAanicLpnARd6L4ur+Huz4htGCpzPl6nuZss5jCTWLn2jBtGmPZcIW09DHimMdLI3VcYPBUsNalCNzpTybXm1GbQEWnipzwiPHGKQ+12Qak6TOuTp79f2lD4kx+ypwoiU4QvdZRyxnWdUY1/ColFTQ==;5mwPAWi2B9Nve0QyqrmZ+g=="
+secured: "hhjEtJUFJf7o+Xq/Kskt30/JJebt2KEmwYNOL+3pAMCVDJ7yMZmt4KelDYHylfJOKzFoTDIbpxN2v/JH2gNOM4AiqAWntgpUnMX1ID2FPUOAUc0HPp0J520hQbIQDDgcWvhpb1LnxvhQco8mniTs03arQZAK0jOQdB3HWTlJAiylawO8LhWbtoY9QczVCCSPJYN7QeCeFyXV+7+xcOIFg/L+6WwS1ZuM3TEvn5LF4iQEGMDYqRpdoUfLodRwBo2yGfyXY9qz9fnJ+cV6Gj0BHyW2shPFavCkmg1AUqnfR87urEjvg/U/cnbBnozzST3HAzgpad+kP+T8djx0bBYLbeAjqklRvefu2hOeYnf39S47yB6e1uqLw41tsT33FXV6A7lRPePTFz7I6bfnyQ78eshi7hlW7lGwvU9LmUkLJZXxahR1aCwF2HxX7gWdr0fe3CEvGlCS7HWRZ+u+Gz/xNoVfnyB4oGsQGBlym01kB+is5/S/vHKZUoje/369tGYMrXwhkZrhwae54XhC+nYELw==;6UMN0yt2tIA2x7Q3VbEfDA=="
 ---
 

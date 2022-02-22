@@ -33,15 +33,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "Amii invites the world to AI Week with $100,000 in travel bursaries"
-    excerpt: "In anticipation of AI Week, May 24 - 27, 2022, the Alberta Machine Intelligence Institute (Amii) announced the first $100,000 in travel bursaries for emerging researchers and applied artificial intelligence (AI) professionals globally."
-    publishedDateTime: 2022-02-17T12:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-amii-invites-world-ai-week-with-100000-travel-/2022/02/17/9547366.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Ongoing Investigation Reminder: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm"
     excerpt: "Los Angeles, California--(Newsfile Corp. - February 18, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of C3.ai ... law and rules of ethics."
     publishedDateTime: 2022-02-18T17:06:00Z

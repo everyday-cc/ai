@@ -1,22 +1,28 @@
 ---
 category: news
-title: "New DeepMind Program Shows Major Progress Within AI"
-excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
-publishedDateTime: 2022-02-17T20:22:00Z
-originalUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
-webUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
+title: "DeepMind open-sources DM21, an AI model for quantum chemistry"
+excerpt: "Researchers at DeepMind have open-sourced DM21, a neural network model for mapping electron density to chemical interaction energy, a critical component of quantum mechanical modelling. DM21 outperforms standard models on various benchmarks, and it’s ..."
+publishedDateTime: 2022-02-22T03:45:00Z
+originalUrl: "https://analyticsindiamag.com/deepmind-open-sources-dm21-an-ai-model-for-quantum-chemistry/"
+webUrl: "https://analyticsindiamag.com/deepmind-open-sources-dm21-an-ai-model-for-quantum-chemistry/"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
+    width: 1366
+    height: 768
+    isCached: true
 
 related:
   - title: "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion"
@@ -81,6 +87,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "New DeepMind Program Shows Major Progress Within AI"
+    excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
+    publishedDateTime: 2022-02-17T20:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
     excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
     publishedDateTime: 2022-02-20T16:36:00Z
@@ -109,20 +124,6 @@ related:
         width: 2000
         height: 1200
         isCached: true
-  - title: "DeepMind open-sources DM21, an AI model for quantum chemistry"
-    excerpt: "Researchers at DeepMind have open-sourced DM21, a neural network model for mapping electron density to chemical interaction energy, a critical component of quantum mechanical modelling. DM21 outperforms standard models on various benchmarks, and it’s ..."
-    publishedDateTime: 2022-02-22T03:45:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-dm21-an-ai-model-for-quantum-chemistry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "'Breakthrough in Physics': Artificial Intelligence successfully controls plasma in nuclear fusion experiment"
     excerpt: "Scientists were successfully able to control plasma in nuclear fusion experiment by using artificial intelligence. Nuclear fusion comes from the fusing of two atoms at very high temperatures, which then release energy."
     publishedDateTime: 2022-02-21T17:13:00Z
@@ -149,6 +150,6 @@ related:
       domain: tweaktown.com
     quality: 36
 
-secured: "MwSS3HTPFBrAlyStq7sXex/rivUwwYkM6JkjAEjGBU2RZll09gdv50hkNRqA8V7MzHYA+bZsvZp3Cyj7EgTj43jIIZM6bcu49jA/hVldaQRL7XeJGIvC009pL1a3qXW7fmzw3Epu+rQVmex10NXzWb57kdqHQM368ROVxEuR6yr/DucL1hGH7js3tMUHTJCCzjzjL3JMHAn0CbEyak9KkVcNejKKyx5EaLcvdECcsyJIeEun+nsMUcDbrxSIPHqw22xFviZ28oSWxgpc86yD8OMwKkH9mKDZ+KctjEBn7UKg9IuRaXJHGAXB9vpPimy2VeCqXeT0QBRoBCgQjU2+kcBngc0dVLGZNZYoWUu8zOlD0m+0Zzx1piC7jDlSB4S1bLI9gGZARqQfaU8P9txr6/hkNTATGO2Tfp0E8jo3OI2cQHSxfV6i89qHUj7tFMeilYS0fTzynboHh4+CpvyZpDfTbczYmONSlPvMQk9UbxDYO4ccMMKN/kxLwdjYJy7w+48b3KLc+Yw5y4+M1QX4QQ==;T9Z4Qb5QFMQdke0cszxifg=="
+secured: "+v1Izd3J2vnyrBW7CNPwLUDqrXjq0aa3CJz0uFnZOYtpKi367NFZJx6TdEIXbh8udJB9u2bsw6U1hv6P7Z9+eYlC485EArLFBDboP9LW8MFzJO469Jak2foi0MxuMiHsyCkdkGF5Z/ShjptudCnaOgw04o9LeEcc9KoLG4tHHjDaGvIXQrARSFdcOvLbjQYfQma7bk9azjkY5m7ojh5qwfMkYbz/KHmDoWwQWvoCpiL1RIgskbqCSFd93VKNhLQCr+V8rPY8vmY+R+Y9hOKjoXDZRB6jg/3wwAQi3BDkpt0rcMNa6NM5bj912YjxzfKrU6urdtmI5D428n3frboNauPlj7tfufFMvBUsP97mhog=;8dPDBwzy1QuF5I8zVFlraA=="
 ---
 

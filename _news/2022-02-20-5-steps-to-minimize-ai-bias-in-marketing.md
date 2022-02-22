@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market (AI Chip Market) would touch USD 66.8 Billion by 2026"
-    excerpt: "Market The Artificial Intelligence (AI) Chipets Market is set for higher growth over the forecast period. In terms of revenue, the global AI Chipets market reached USD 7.9 Billion in 2019 and is projected to touch USD 66."
-    publishedDateTime: 2022-02-17T13:00:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/17/artificial-intelligence-chip-market-ai-chip-market-would-touch-usd-66-8-billion-by-2026/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 66
   - title: "The artificial intelligence-enabled nation"
     excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
     publishedDateTime: 2022-02-20T18:47:00Z

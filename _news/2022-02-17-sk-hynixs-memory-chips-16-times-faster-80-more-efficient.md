@@ -7,7 +7,7 @@ originalUrl: "https://www.phnompenhpost.com/business/sk-hynixs-memory-chips-16-t
 webUrl: "https://www.phnompenhpost.com/business/sk-hynixs-memory-chips-16-times-faster-80-more-efficient"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 990
     height: 660
     isCached: true
-
-related:
-  - title: "South Korean semiconductor maker SK hynix develops new AI chip"
-    excerpt: "South Korean semiconductor maker SK hynix said it has developed a smart memory chip with computing capabilities, dubbed processing in memory, or PIM."
-    publishedDateTime: 2022-02-17T12:49:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 74
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/1501645105508/2022/1/16451056965772/v1.5/South-Korean-semiconductor-maker-SK-hynix-develops-new-AI-chip.jpg"
-        width: 706
-        height: 470
-        isCached: true
 
 secured: "zbX2hYcyDXs2i6ecONbzzqDbWknhArLMj+H4xDvCOTMiKTK5GTH2uaQod9dXQCxVHfxhVYFSAUBQ2NonRHfZv7FZwWi2jH4u0POjr+J9TG+MPKC0DCwiJ9T4gcu/9+wyBzqNh+EDirpWiF35D1tvHPJH3IRH/6QH/5RY4AUIbh4QBr2fWjcWDWNh0zxgHBjFLlj0PKgI027jMCvbLgV4wZSz+hAbeMIFcWu5R6UxUKSJCu8QQIx8xQYct8osqfQEnLESgY+LxyA4y4qksqN1SPCxaEMwVeoXZ30n3lhnYodL+d+kuqSLWPoYlnM/mlqQRSy6U/ySEoWDhMK/gYEG4/TyKmdswzG+1dnhRb+VUDU=;ywZLX1iJf+GvUWk5MLNkcw=="
 ---

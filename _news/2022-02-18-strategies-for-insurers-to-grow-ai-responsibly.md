@@ -7,7 +7,7 @@ originalUrl: "https://www.dig-in.com/opinion/strategies-for-insurers-to-grow-ai-
 webUrl: "https://www.dig-in.com/opinion/strategies-for-insurers-to-grow-ai-responsibly"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "WHO proposes strategies to prevent ageism in artificial intelligence"
-    excerpt: "Ageism is age discrimination affecting young (especially in Europe) and aging people. The WHO, after publishing the “Global Report on Ageism”, in which it proposes strategies to prevent and counter ageism,"
-    publishedDateTime: 2022-02-17T11:03:00Z
-    webUrl: "https://www.actuia.com/english/who-proposes-strategies-to-prevent-ageism-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 41
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2022/02/OMS-strategies-prevenir-agisme-intelligence-artificielle-1200x600.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "aKl9xabLJu/dGKNB4AITZ4KS6TAl7cMT6N63qeHSE7OCllIZS8tLM0je+E6yxaSEzZk8tunYDfgQhbQPqFusdf056QhrRmTEd/nPioYNHXDPTmvUc1d08SninmMMFqDfapxCDxfXfwO0sSAaHWjznTuuLsjy/Zw2rqoZ9/ECmchQzBwiVG9OKWEkoIuas5kznrZytW5HFq/ANItX5YzOdNeO4dERTNE/LbPWqcseb7NZRrPTIbkt7oXUDvUvTrt2mfxKcn7pQc2/leDiusQE7b3Q9/CQtoblAEqWT7K1z4ymY2zQ2qmqzS49z80v91S9LS2EoGcPeaId7ZH84ZaDlIdc+48+mjLBYc658NB7TrJ5wUHtzFjTOBmwh0r/fjN/B5HWEqNM8woR8x9QwToNeaqoa9fISOk0ZIDsJMB3RdF/yOk33Yg0nWG8SvcCoT1tO/0kcarqvLQJ0H/CFYGJkp02t+j70cr+vOjE0EcCTSObaJ3eZN1iEK5bkMnMujLlrYIKJ5gZ7ZQnA0aaTI+mHg==;BFCV8XtFijwaT5CUhxoOfQ=="
 ---

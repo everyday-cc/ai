@@ -100,20 +100,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Google's DeepMind trained an AI to control nuclear fusion"
-    excerpt: "Google-backed DeepMind has trained a machine learning algorithm to control the hot plasma inside a tokamak nuclear fusion reactor. It might sound like the start of an '80s blockbuster, but the system could give scientists a better understand of how fusion works,"
-    publishedDateTime: 2022-02-17T11:19:00Z
-    webUrl: "https://www.computing.co.uk/news/4045124/google-deepmind-trained-ai-control-nuclear-fusion"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 54
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/1448ee7/233d55bb-5382-417a-8e42-0789498252a7/7/fusion-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. DeepMind’s experts developed an AI algorithm that can create and maintain specific plasma configurations and trained it on the SPC’s simulator."
     publishedDateTime: 2022-02-21T14:38:00Z
@@ -127,6 +113,20 @@ related:
       - url: "https://www.euro-fusion.org/typo3conf/ext/gdtemplate/Resources/Public/Img/de.png"
         width: 2000
         height: 1200
+        isCached: true
+  - title: "DeepMind open-sources DM21, an AI model for quantum chemistry"
+    excerpt: "Researchers at DeepMind have open-sourced DM21, a neural network model for mapping electron density to chemical interaction energy, a critical component of quantum mechanical modelling. DM21 outperforms standard models on various benchmarks, and it’s ..."
+    publishedDateTime: 2022-02-22T03:45:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-dm21-an-ai-model-for-quantum-chemistry/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "'Breakthrough in Physics': Artificial Intelligence successfully controls plasma in nuclear fusion experiment"
     excerpt: "Scientists were successfully able to control plasma in nuclear fusion experiment by using artificial intelligence. Nuclear fusion comes from the fusing of two atoms at very high temperatures, which then release energy."
