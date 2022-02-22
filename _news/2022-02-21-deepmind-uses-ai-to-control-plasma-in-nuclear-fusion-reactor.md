@@ -59,15 +59,6 @@ related:
         width: 640
         height: 390
         isCached: true
-  - title: "New DeepMind Program Shows Major Progress Within AI"
-    excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
-    publishedDateTime: 2022-02-17T20:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. DeepMind’s experts developed an AI algorithm that can create and maintain specific plasma configurations and trained it on the SPC’s simulator."
     publishedDateTime: 2022-02-21T14:38:00Z

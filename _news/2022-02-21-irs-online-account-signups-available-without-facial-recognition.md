@@ -128,6 +128,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Tech Bytes: New Macs, IRS facial recognition, Insta time limits"
+    excerpt: "The IRS is now allowing taxpayers to opt-out of using its facial recognition technology. People who want to access their online accounts can choose to verify their identity with a live, virtual interview. The IRS recently announced it would “transition ..."
+    publishedDateTime: 2022-02-22T11:32:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
+        width: 1001
+        height: 563
+        isCached: true
   - title: "US facial recognition company building a database of 100 million phizzogs – that’s 14 per person on the planet"
     excerpt: "Slide deck punting for an additional US$50 in investment million reveals the reach and ambition of Clearview AIA database so huge and intrusive that even"
     publishedDateTime: 2022-02-21T16:07:00Z

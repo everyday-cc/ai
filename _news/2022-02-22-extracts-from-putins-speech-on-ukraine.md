@@ -101,6 +101,36 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "In Hour-Long TV Speech, Putin Announces Russia’s Recognition of Ukraine-Held Rebel Areas"
+    excerpt: "Moscow: Russia announced on Tuesday that its recognition of independence for areas in eastern ... Putin announced the move in an hour-long televised speech, blaming the US and its allies for the current crisis and describing Ukraine's bid to join NATO ..."
+    publishedDateTime: 2022-02-22T12:33:00Z
+    webUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas"
+    ampWebUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
+    cdnAmpWebUrl: "https://www-newsclick-in.cdn.ampproject.org/c/s/www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 50
+    images:
+      - url: "https://www.newsclick.in/sites/default/files/2018-12/Putin_0.jpg"
+        width: 600
+        height: 340
+        isCached: true
+  - title: "Putin Orders Russian Troops Into Ukraine’s Breakaway Provinces"
+    excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
+    publishedDateTime: 2022-02-21T16:25:00Z
+    webUrl: "https://foreignpolicy.com/2022/02/21/ukraine-russia-recognizes-breakaway-provinces/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 39
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
+        width: 1000
+        height: 612
+        isCached: true
   - title: "Putin's angry speech rewriting Ukraine's history"
     excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."
     publishedDateTime: 2022-02-22T07:57:00Z

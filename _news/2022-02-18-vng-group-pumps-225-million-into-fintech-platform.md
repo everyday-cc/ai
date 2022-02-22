@@ -7,7 +7,7 @@ originalUrl: "https://vir.com.vn/vng-group-pumps-225-million-into-fintech-platfo
 webUrl: "https://vir.com.vn/vng-group-pumps-225-million-into-fintech-platform-91347.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top 12 In-Person Fintech Events Taking Place in H1 2022 in London"
-    excerpt: "Topics covered this years at FinovateEurope will include fintech in Asia, financial inclusion, customer experience, financial crime, digital transformation, omnichannel payments, wealthtech, open banking, artificial intelligence (AI) and more. Insurtech ..."
-    publishedDateTime: 2022-02-18T10:40:00Z
-    webUrl: "https://fintechnews.ch/london/top-12-in-person-fintech-events-taking-place-in-h1-2022-in-london/51626/"
+  - title: "Leading cross-border fintech startup Dowsure raised $20 million to fuel the growth of millions of cross-border e-commerce sellers in China"
+    excerpt: "Dowsure Technologies, has attracted the attention of global strategic investors, fueling the growth of millions of e-commerce sellers from China on marketplaces like Amazon, eBay, Shopee and more, unleashing the potential lending size of more than CNY 150 billion annually."
+    publishedDateTime: 2022-02-21T11:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=619249"
     type: article
     provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 5
     images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/02/Top-12-In-Person-Fintech-Events-Taking-Place-in-H1-2022-in-London.png?x30842"
-        width: 2134
-        height: 1182
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "6XxleiaHt/e7D3aTbDqQYiij5MJBt4VMu2d7Bw+00k4xs4Y73+be6j0VwTYXdfvof4EphIjJNEVh/ieqto4vkodADC8qOcHRQBK5HMlmzrCj4Cyy99P0xQ8U5HEK5Iaxg62VrD8BkGmeU35RT0bxnAcpVJH+L7Inwyd12rhjc29EZ/DpRxC/C+Rz42WpL4dtCoeGzzpPl0q/e8XaIE7iXwwrwaIMoYp4alC8x2onPcKIYqHBfxz1w1SpWJzc3i7v3wNY50HqBKLbQmRmaOgKrfOtYNylUpbvZjSBMGT7vV8ITVblJj5BuvctGn3Xbnm5bIdpHXdpJbjyqhr8hGraV2iGCapcG7OxCW1RP1H2Uqu9mVnWucrccjIDL17sg/u8ddEKRtZArk2xNY0ySkz7kAIKBMx6VMTSTlsH9+x303CqWseebT6PYw7P8iKQubpogqeEPYXhTQWF6LbwlFIqVe5b2v6rR6cw6wScTU4YhRP7vWyKMVavPFIhmMCXLcsdof2izNhV96SIq2w9YRMw3Q==;Sg0IILvQyGejct4Eko23Dg=="

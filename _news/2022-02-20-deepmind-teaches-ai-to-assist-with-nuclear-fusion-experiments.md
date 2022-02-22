@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-wit
 webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 640
         height: 390
         isCached: true
-  - title: "New DeepMind Program Shows Major Progress Within AI"
-    excerpt: "Google (GOOGL) subsidiary DeepMind recently released a new artificial intelligence program that has shown signs of significant progress in the critical thinking necessary for software engineering tasks. Released less than a year after OpenAI launched ..."
-    publishedDateTime: 2022-02-17T20:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/new-deepmind-program-shows-major-progress-within-ai"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
     excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
     publishedDateTime: 2022-02-20T16:36:00Z

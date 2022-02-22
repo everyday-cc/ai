@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 1254
         isCached: true
+  - title: "Microsoft reveals ‘Singularity’ AI infrastructure service"
+    excerpt: "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ..."
+    publishedDateTime: 2022-02-22T12:22:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft working on 'Singularity' AI Cloud infrastructure service"
     excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."
     publishedDateTime: 2022-02-22T06:22:00Z

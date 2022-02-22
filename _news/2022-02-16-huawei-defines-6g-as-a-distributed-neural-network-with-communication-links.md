@@ -3,10 +3,10 @@ category: news
 title: "Huawei defines 6G as a distributed neural network with communication links"
 excerpt: "According to Peiying Zhu , Senior Vice President of Wireless Research at Huawei, 6G looks more like a 'distributed neural network with communication ... robotics and smart healthcare, and artificial intelligence as a service,” Zhu explained."
 publishedDateTime: 2022-02-15T23:52:00Z
-originalUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=1228&template=MobileArticle"
-webUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=1228&template=MobileArticle"
-ampWebUrl: "https://amp.jamaicaobserver.com/apps/pbcs.dll/article?AID=/20220215/ARTICLE/220219698&Show=0"
-cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/apps/pbcs.dll/article?AID=/20220215/ARTICLE/220219698&Show=0"
+originalUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
+webUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
+ampWebUrl: "https://amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
+cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 332
     isCached: true
 
-secured: "e31okPwPEiePNpDK4YcxIGv/d3ZOdCR1DXJI6FsZNDUJ0AA5nrBpV8vAibmB7Pw6W4KFpnk4f3aUOce0ds2H3EKNNq8oCIYo2iOddtzaw96WASgOC5kgfuCa7317T12IjIpxzdv6fizYsEa0WBoIRxErONf8Ix3QM4ecbWxFhPy9lS9rkrSlChl6yF66o60wWQ15dyR2a8rkv/Q51kT3d7HbpoXjKeBvt/bhCk5HQE7OF7MFtIFGcMwxYpBSriWx1O4h5+JSNutXt95aVRjD8ZF/2H8kYeHxKqNVH9OZSMW4hp7FkxdZCO2nKmsMr6Oh0WxKAfmcjKrf4fGw0V9Sh1ll/tC+m8Kv1jv1+ijT9TU=;B3HUlM2DIJ8Zfu9eNGBb4g=="
+secured: "ivPO5GSfS5v9ZlLBwZZyD2Z/muwk3/WNJBD9wQtxNHlioTl4tEXWolJvqd2EWOluD6QcwgBSFR8PYtJOnvdJNBL7DqVDWAl9qdowG+xK0zw6CWpXcGO8zJauGKCVb/CpkK/hOwAJkkik1JfRg057VkDEk/9UKwjmWORmUVrDVdoW9xj6Es0sL2kNntZgM1ydinSlM4uvVgw1PIf90Lu5qRqTVNAoOAF49g8dQaVCeus8R5mS3/uhhkMB8v49d/DZYK2iHiW259sN6IbY2akbf47yFVQLHyIe7Iyd6QGEE10Y0dHgpgsRg3vYe7fe1abDSQTVXlbiPGIPqi3VcQkWdgmsBQdivM7pi5KM76/YJK0=;w7jwvZ9fwy5ia6HgG9MHPg=="
 ---
 

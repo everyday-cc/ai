@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-tor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/"
 type: article
 quality: 108
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     width: 1200
     height: 455
     isCached: true
+
+related:
+  - title: "H2O unveils AI grandmaster-powered NLP"
+    excerpt: "H2O.ai, an AI Cloud company that raised $ 100 million in the Series E round in the end of 2021, and now worth $ 1.6 billion, has hired 10% of the world’s AI grandmasters. The company recently announced the H2O Hydrogen Torch, a product that aims to bring ..."
+    publishedDateTime: 2022-02-22T12:21:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/h2o-unveils-ai-grandmaster-powered-nlp/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/h2o-unveils-ai-grandmaster-powered-nlp/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/h2o-unveils-ai-grandmaster-powered-nlp/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/H2O-unveils-AI-grandmaster-powered-NLP-01-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
 
 secured: "NflntuIAD+OZl+kMbmi1wLLe+E7MCJOSM6fCGRTym40UHGdylR2F9GygFfSY2CXrkQ7/rIQeWIjvRarmZRep+TIlZed85lrqhheel54qM2TJFbEdJ2fYz3MZgKivN/0oPqsLqZu69NYuQpzygFQWVk4Es+Xffgu7Sz4HmbDnLQe28J7JXr1hrMZ8kr8mTa7lyW1u8E2UN5BgblV5Yftsx6rP3JAuBUBNlR27/6/k2PEIfCQXv95mMG2niQ7fL0aSXICHUEBD1fxLFxfQd+zeZF2lHI1Ngrb5AAq0WsTdlxeZxWEI0d8Es20lFaEoCEL7ALRbKa0f+rb6rxuEwEWtNSM6S/XIjjr0kZbjdXrlToS7rKrg/m68pE8wHD1yxHiK1DhNR69ngwmaFMQMjS8dDs0C5jJepZyK3zgVOPdO/1Pn3MTCepFN9XpMagrToNBUpp5Q6R1/rfILNrGQXCre666Ml9W2WKdVmE9GDzeFP/6Y7vfXetP7YIUUzbJK0cnvvCRln9p3hfV/VBkCnhpi8g==;/hR39gb4soBc6ZDo6kpw8Q=="
 ---

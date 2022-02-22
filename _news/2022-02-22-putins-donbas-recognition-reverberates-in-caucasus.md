@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-22T10:42:00Z
 originalUrl: "https://eurasianet.org/putins-donbas-recognition-reverberates-in-caucasus"
 webUrl: "https://eurasianet.org/putins-donbas-recognition-reverberates-in-caucasus"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://eurasianet.org/sites/default/files/styles/article/public/2022-02/103196.jpg?itok=LV-gTpW9"
@@ -42,6 +43,6 @@ related:
         height: 700
         isCached: true
 
-secured: "ZVdxr3lm9x1bVZJ77Ft9va4qfqA+DkGE68ATf4rBdyVbDmJh3PrG/lbSL0h+26wRnAA4Gia3s+AKtcSh96T0yAdB02Cw+PkRRZvzyIABjZqXdMixBOE3M+W5FAvkL0yaZwKSQOOLOXktIAvcrYYbZDsR5n0s44VxUBDD7WuTswrhIJcC1BjgjKBSK/dAqarBb4Wi3tdRgnW72y4alYZJ3c3HCfGz1joXGG0SswNYQD3TbpEV8gQPhgTn7uyDUwClH6OJBe2eU08rBAIdDIIPwIDVtgVwpfVK52dq4g5wrZBU9jDqhOZA/JYUYSzwbdFWgxGXVGSd7Sueefp5nc4XKFaG31CxySXcBcn/YXIzWZc=;y3G3FuPY7pcXg2GwLz/tog=="
+secured: "iIRhnoEfx4PyPZ1WVSitAGG0U/7v8vZbNFY7YtnZxtUv0nRcy+iKfAYYEAq7gZ0JeqdbsT87eHt36RQK3PszM7ct22eJdssHQLa/svYmCqKEZZPjZCSYc+yod4LXjrZtuIbjFztNBOTNDzijsWcb06XCOu4HR7rxIVXy1c3tQJ5gv5f1WXBC1m/Y3vmO+dhDK7Sd5MPmKtP4c1d0c4vw6iLxC9tuPXo9BYA5gRTDl4pbGIoUD1T6sC8pNl0WnFoJbW4+4Bkt0SdX4mY1qSSaZFAKLKIdVELIzn4K8ClC3KPA6OgfqOCMo+9BmZhk6S3BomPwJqx+40MEPnTKcdpzaaeA0wRC3tVIF+7rOIuqICu6EzAm51TYuon9tvkhsGFjxuxPI1w1appCcpv3wQGIhRO8bJYo+Kj7NCQ80qIsKJpM7P6jSQzZoEHEB+Ii7g1G92LMhStObfRl7dAOkknhUjA3r5Vi2YdvH+cafMSyyRzqNWFBCGReQbdjqTsccoAy9He+sMsj0jnyI8naU+Os+Q==;1DuK8pYU57INLdCkt8VV/g=="
 ---
 

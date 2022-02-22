@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-int
 webUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/57735/content/small_intel_beast_canyon_nuc_arc_tomb_raider_hero.jpg"
         width: 708
         height: 475
-        isCached: true
-  - title: "Intel Falcon Shores Puts A x86 CPU And Xe GPU In A Single Xeon Socket For Supercomputers"
-    excerpt: "Falcon Shores will bring x86 and Xe GPU acceleration together into a Xeon ... systems computing large data sets and training gigantic AI models,\" said Raja Koduri, head of Intel's Accelerated ..."
-    publishedDateTime: 2022-02-17T20:04:00Z
-    webUrl: "https://hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 50
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57729/content/small_intel_falcon_shores_raja_koduri.jpg"
-        width: 708
-        height: 398
         isCached: true
 
 secured: "T9e10wer8XUmTBwohO7vqFIwPsb0QsKhvuoZCeD4Kmr+KsVMLnbQDpF5JxWsW7gh1y6h4Ch0g1Uu3CZlaiMDyHwjqMSVvsu0oRkWt5YLULxO7RzCnzIBmjxXm7w8wIzc+SBamk5DiSu70IrAq3XfseU5yXwt5NoAXiaXZjhJZFEf+/gBvj3kXIaO8SgFKRtRkRk8S/qgCCTUa8IGXrXP30WPzoVPRXAvgy9vmEjUx6FMBPIq5PVHnzYYvUq1zd4XBsFE7tR+6b6bc2QoCyBfBCDl46hn006oUsUDdOIh2Pn1+Um2xXWX6U12jaDfG0oM45mcAnhAveEegQxnofxg4WIfUoFQwpnfm6MZqjAM4K0=;iottCQxkOcf2NX3IMnlfnA=="

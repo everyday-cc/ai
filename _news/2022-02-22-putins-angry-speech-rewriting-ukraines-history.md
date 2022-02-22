@@ -101,6 +101,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "In Hour-Long TV Speech, Putin Announces Russia’s Recognition of Ukraine-Held Rebel Areas"
+    excerpt: "Moscow: Russia announced on Tuesday that its recognition of independence for areas in eastern ... Putin announced the move in an hour-long televised speech, blaming the US and its allies for the current crisis and describing Ukraine's bid to join NATO ..."
+    publishedDateTime: 2022-02-22T12:33:00Z
+    webUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas"
+    ampWebUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
+    cdnAmpWebUrl: "https://www-newsclick-in.cdn.ampproject.org/c/s/www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 50
+    images:
+      - url: "https://www.newsclick.in/sites/default/files/2018-12/Putin_0.jpg"
+        width: 600
+        height: 340
+        isCached: true
   - title: "Extracts from Putin’s speech on Ukraine"
     excerpt: "Following are extracts from a televised speech by Russian President Vladimir Putin on Ukraine. ON RECOGNITION OF PRO-RUSSIAN SEPARATISTS \"I deem it necessary to make a decision that should have been made a long time ago - to"
     publishedDateTime: 2022-02-21T18:35:00Z
@@ -114,6 +130,20 @@ related:
       - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/21/2022-02-21T193510Z_1_LYNXMPEI1K0TT_RTROPTP_3_UKRAINE-CRISIS-RECOGNITION-PUTIN-ADDRESS.JPG"
         width: 800
         height: 439
+        isCached: true
+  - title: "Putin Orders Russian Troops Into Ukraine’s Breakaway Provinces"
+    excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
+    publishedDateTime: 2022-02-21T16:25:00Z
+    webUrl: "https://foreignpolicy.com/2022/02/21/ukraine-russia-recognizes-breakaway-provinces/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 39
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
+        width: 1000
+        height: 612
         isCached: true
   - title: "Ukraine: how the world reacted to Vladimir Putin's speech"
     excerpt: "Mr Putin's speech, in which he recognised as independent two Ukrainian ... to impose a limited set of sanctions \"targeting those who are responsible\" for Russia's recognition of the rebel regions."

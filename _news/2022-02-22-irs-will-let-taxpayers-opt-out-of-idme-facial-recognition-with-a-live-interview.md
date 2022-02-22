@@ -117,6 +117,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Tech Bytes: New Macs, IRS facial recognition, Insta time limits"
+    excerpt: "The IRS is now allowing taxpayers to opt-out of using its facial recognition technology. People who want to access their online accounts can choose to verify their identity with a live, virtual interview. The IRS recently announced it would “transition ..."
+    publishedDateTime: 2022-02-22T11:32:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
+        width: 1001
+        height: 563
+        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z

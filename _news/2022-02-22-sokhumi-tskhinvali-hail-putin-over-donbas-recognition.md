@@ -35,7 +35,7 @@ related:
     provider:
       name: Eurasianet
       domain: eurasianet.org
-    quality: 24
+    quality: 26
     images:
       - url: "https://eurasianet.org/sites/default/files/styles/article/public/2022-02/103196.jpg?itok=LV-gTpW9"
         width: 1024

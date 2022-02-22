@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft reveals ‘Singularity’ AI infrastructure service"
+    excerpt: "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ..."
+    publishedDateTime: 2022-02-22T12:22:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft details 'planet-scale' AI infrastructure packing 100,000-plus GPUs"
     excerpt: "Microsoft has revealed it operates a planet-scale distributed scheduling service for AI workloads that it has modestly dubbed \"Singularity\". Described in a pre-press paper [PDF] co-authored by 26 Microsoft employees, Singularity's aim is described as ..."
     publishedDateTime: 2022-02-22T03:58:00Z

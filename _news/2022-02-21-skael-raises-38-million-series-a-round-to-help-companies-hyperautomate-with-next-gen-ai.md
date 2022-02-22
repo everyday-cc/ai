@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 539
         isCached: true
+  - title: "Making Sense Of The 'Unknown' With Data Intelligence And Hyperautomation"
+    excerpt: "Analysts like Gartner propose that robotic process automation (RPA), low-code application platforms, integration platform as a service (iPaaS), artificial intelligence (AI), intelligent document processing and other streamlining hyperautomation ..."
+    publishedDateTime: 2022-02-22T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f5a781e94c16200363132d/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 646
+        isCached: true
 
 secured: "vR1QkgGlLC8OCP8rw1f3TXYTDSYz66eqtuRvazA6d8yox8upS2zjkHr/ETkEZO/BEe75IohBBPYA/yolT0tMyJP0D1jlRTNv8UvSwvD+94lmUYZ2r+oXO83GUyYy6Cb0drL7l4x7wcMnlZPI15DA8yhIFXq/7wchbO88AUV+zR/caPhDQe1naPcIpOuoqP/dkojDbRKGjVVM9hFGB9fsd0KSW3Ij+c4z7RpQR59SEVCjWTyb7tN0yWS22UHx5/pvAmCaxnjQl5l8g57yAY6soY/KHFe1qmSaxrR+QtKC+mLC2FLkos3I3tFHtTaOrivA49FQO+8/nZuRpb7zFM1XIAyNWzND7m9V+MtuL2MhCgM=;XaC0wi7hVeOVG6D+UEsx+w=="
 ---
