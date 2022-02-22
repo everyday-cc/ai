@@ -41,34 +41,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "World leaders condemn Russia's recognition of breakaway Ukraine regions"
-    excerpt: "Germany, France and the United States have agreed to respond to the Russian move. . Read more at straitstimes.com."
-    publishedDateTime: 2022-02-21T23:51:00Z
-    webUrl: "https://www.straitstimes.com/world/europe/world-leaders-condemn-russian-decision-on-ukraine"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/22/md_protestukraine_22022022.jpg?VersionId=NvQ9yU0rzGuR4B.NXWF3c9yMAX9ABn58"
-        width: 780
-        height: 520
-        isCached: true
-  - title: "US 'strongly' condemns Russian recognition of Ukraine's breakaway regions"
-    excerpt: "Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen dramatically in ..."
-    publishedDateTime: 2022-02-21T22:53:00Z
-    webUrl: "https://www.aa.com.tr/en/americas/us-strongly-condemns-russian-recognition-of-ukraines-breakaway-regions/2509375"
-    type: article
-    provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 38
-    images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_fccacec837bc06a71f0a8c3430c57639.jpg?v=015115"
-        width: 864
-        height: 486
-        isCached: true
   - title: "Australian government condemns Russia’s recognition of ‘LPR/DPR’"
     excerpt: "The Australian government condemns the recognition by Russian President Vladimir Putin ... “everything to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
     publishedDateTime: 2022-02-22T07:53:00Z
@@ -125,34 +97,15 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "EU calls Russia's recognition of separatist regions of Ukraine 'blatant violation of international law'"
-    excerpt: "Rising tensions Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Earlier Monday, after a meeting of EU foreign ministers, Borrell ..."
-    publishedDateTime: 2022-02-22T07:25:00Z
-    webUrl: "https://www.yenisafak.com/en/world/eu-calls-russias-recognition-of-separatist-regions-of-ukraine-blatant-violation-of-international-law-3589873"
+  - title: "Nicaragua President support Russia's recognition of Donetsk and Luhansk regions"
+    excerpt: "What Russia is asking for is security, Ortega said during a speech in Managua. According to him, existing agreements could also provide security in eastern Ukraine, but they were not implemented. \"I condemn Russia’s decision to extend recognition to the ..."
+    publishedDateTime: 2022-02-22T08:22:00Z
+    webUrl: "https://news.am/eng/news/687985.html"
     type: article
     provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 23
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/f207f654-22qoxwpzkzhypvucgemt9.jpeg"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Putin’s recognition of breakaway regions pushes EU to fast-track sanctions"
-    excerpt: "Russian President Vladimir Putin's recognition of the self-proclaimed Donetsk and Luhansk People's Republics in eastern Ukraine on Monday (21 February) will force the EU to fast-track a decision on whether to impose massive sanctions on Moscow."
-    publishedDateTime: 2022-02-21T20:33:00Z
-    webUrl: "https://www.euractiv.com/section/europe-s-east/news/putins-recognition-of-breakaway-regions-pushes-eu-to-fast-track-sanctions/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 22
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/94a66be7-8f79-4900-9880-725c40e3b8ca-1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: News
+      domain: news.am
+    quality: 0
 
 secured: "MY96vV/mTZ6oCTIK8XfmXntTMl0hokVEsPdl6fdLLGv+xSZ3/XqvgyW8Qg/Gj5iGF/I2DT7pdSOzX0ZHvHRMiteIBz2fzw6cz3oyQP1UuP+pLP9coDfmrJCt5CLUzBNzBarDXgQ3X4ApTj5uXRz+GeyFXgDgt1D/8ME8kG2Fya+D3EAnGd38GY/OyrSbtvKSwXDIekXQLhlYZt7hQSceeSvkMYVakLCR+L8onPBcLOUn36wE5ZNIpqC+CusnK5Ihq09XiLIEBaXusZcdP9tqxjsZq/ixKoNtnoaNsZwlRbwM5Jg4L9mpL8FpIAp2WgColiJEi84Dehl9t0yBDGZkp4SSDi7SQSaKhUdjXRJbrKo=;d5GDP7z2QGmOCdlMxxVt/w=="
 ---

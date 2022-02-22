@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Extracts from Putin's speech on Ukraine"
-    excerpt: "ON UKRAINE MEMBERSHIP OF NATO \"If Ukraine was to join NATO it would serve as a direct threat to the security of Russia.\" ON ORIGINS OF MODERN UKRAINE \"Modern Ukraine was entirely"
-    publishedDateTime: 2022-02-21T19:05:00Z
-    webUrl: "https://www.reuters.com/world/europe/extracts-putins-speech-ukraine-2022-02-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/yiwNA1R5hvYrBbD2A09mEoNOOxY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LURFW45LDNJ23DXNHWGN2BCXSQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Putin's angry speech rewriting Ukraine's history"
-    excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."
-    publishedDateTime: 2022-02-22T07:57:00Z
-    webUrl: "https://www.bbc.com/news/world-europe-60458300"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5DE2/production/_123343042_7dac87ab-0ed6-4159-aece-6523b1ca9f7d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
     excerpt: "Ukraine seeks an emergency meeting of the U.N. Security Council. Boris Johnson warns that Russia is planning the biggest war in Europe since 1945. Belarus says Russian troops might not leave unless NATO pulls back from Eastern Europe."
     publishedDateTime: 2022-02-21T15:04:00Z
@@ -129,21 +101,33 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Kenya's Powerful Speech on Ukraine-Russia Crisis at UN Event Goes Viral [VIDEO]"
-    excerpt: "In his speech, the Ambassador raised grave concerns over Russia ... But they cannot justify today's recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks available and underway that had the ability to ..."
-    publishedDateTime: 2022-02-22T06:21:00Z
-    webUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video"
-    ampWebUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
-    cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
+  - title: "Extracts from Putin’s speech on Ukraine"
+    excerpt: "Following are extracts from a televised speech by Russian President Vladimir Putin on Ukraine. ON RECOGNITION OF PRO-RUSSIAN SEPARATISTS \"I deem it necessary to make a decision that should have been made a long time ago - to"
+    publishedDateTime: 2022-02-21T18:35:00Z
+    webUrl: "https://kfgo.com/2022/02/21/extracts-from-putins-speech-on-ukraine/"
     type: article
     provider:
-      name: Kenyans.co.ke
-      domain: kenyans.co.ke
-    quality: 55
+      name: KFGO
+      domain: kfgo.com
+    quality: 39
     images:
-      - url: "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/Ambassador.jpg?itok=Z6nhHyzT"
-        width: 700
-        height: 350
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/21/2022-02-21T193510Z_1_LYNXMPEI1K0TT_RTROPTP_3_UKRAINE-CRISIS-RECOGNITION-PUTIN-ADDRESS.JPG"
+        width: 800
+        height: 439
+        isCached: true
+  - title: "Putin's angry speech rewriting Ukraine's history"
+    excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."
+    publishedDateTime: 2022-02-22T07:57:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-europe-60458300?at_medium=RSS&at_campaign=KARANGA"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5DE2/production/_123343042_7dac87ab-0ed6-4159-aece-6523b1ca9f7d.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Ukraine: how the world reacted to Vladimir Putin's speech"
     excerpt: "Mr Putin's speech, in which he recognised as independent two Ukrainian ... to impose a limited set of sanctions \"targeting those who are responsible\" for Russia's recognition of the rebel regions."
@@ -158,6 +142,34 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/02/21/TELEMMGLPICT000286933373_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwZ-noePaJta23NuHfKFFEj8.jpeg?impolicy=logo-overlay"
         width: 1024
         height: 536
+        isCached: true
+  - title: "World leaders condemn Russia's recognition of breakaway Ukraine regions"
+    excerpt: "Germany, France and the United States have agreed to respond to the Russian move. . Read more at straitstimes.com."
+    publishedDateTime: 2022-02-21T23:51:00Z
+    webUrl: "https://www.straitstimes.com/world/europe/world-leaders-condemn-russian-decision-on-ukraine"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/22/md_protestukraine_22022022.jpg?VersionId=NvQ9yU0rzGuR4B.NXWF3c9yMAX9ABn58"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "US 'strongly' condemns Russian recognition of Ukraine's breakaway regions"
+    excerpt: "Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen dramatically in ..."
+    publishedDateTime: 2022-02-21T22:53:00Z
+    webUrl: "https://www.aa.com.tr/en/americas/us-strongly-condemns-russian-recognition-of-ukraines-breakaway-regions/2509375"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 38
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_fccacec837bc06a71f0a8c3430c57639.jpg?v=015115"
+        width: 864
+        height: 486
         isCached: true
   - title: "In stunning speech, Russian President Putin spelled out his vision of history, laid groundwork for war with Ukraine"
     excerpt: "The recognition of the two breakaway regions by Putin ... power and influence. In his speech to the Russian public on Monday night, a sometimes sullen, sometimes angry-sounding Putin was dismissive of modern-day Ukraine, arguing that its creation as ..."
@@ -189,17 +201,45 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Putin’s world: Selected quotes from a disturbing speech"
-    excerpt: "A woman watches TV with Russian President Putin speaking during a broadcast of a meeting of the National Security Council on the recognition of the self-proclaimed Donetsk People's Republic (DPR) and the Luhansk People's Republic (LPR), in St. Petersburg ..."
-    publishedDateTime: 2022-02-22T06:26:00Z
-    webUrl: "https://www.euractiv.com/section/global-europe/news/putins-world-selected-quotes-from-a-disturbing-speech/"
+  - title: "Putin signs immediate recognition of Donbass regions"
+    excerpt: "The decision comes amid fears of a worsening conflict in Ukraines war-torn east Russian President Vladimir Putin has announced that Mosco"
+    publishedDateTime: 2022-02-21T20:55:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272321803/putin-signs-immediate-recognition-of-donbass-regions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/rtc1645474334.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "EU calls Russia's recognition of separatist regions of Ukraine 'blatant violation of international law'"
+    excerpt: "Rising tensions Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Earlier Monday, after a meeting of EU foreign ministers, Borrell ..."
+    publishedDateTime: 2022-02-22T07:25:00Z
+    webUrl: "https://www.yenisafak.com/en/world/eu-calls-russias-recognition-of-separatist-regions-of-ukraine-blatant-violation-of-international-law-3589873"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 23
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/f207f654-22qoxwpzkzhypvucgemt9.jpeg"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Putin’s recognition of breakaway regions pushes EU to fast-track sanctions"
+    excerpt: "Russian President Vladimir Putin's recognition of the self-proclaimed Donetsk and Luhansk People's Republics in eastern Ukraine on Monday (21 February) will force the EU to fast-track a decision on whether to impose massive sanctions on Moscow."
+    publishedDateTime: 2022-02-21T20:33:00Z
+    webUrl: "https://www.euractiv.com/section/europe-s-east/news/putins-recognition-of-breakaway-regions-pushes-eu-to-fast-track-sanctions/"
     type: article
     provider:
       name: EURACTIV
       domain: euractiv.com
-    quality: 24
+    quality: 22
     images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/A-woman-watches-Putin-on-TV-800x450.jpg"
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/94a66be7-8f79-4900-9880-725c40e3b8ca-1-800x450.jpg"
         width: 800
         height: 450
         isCached: true

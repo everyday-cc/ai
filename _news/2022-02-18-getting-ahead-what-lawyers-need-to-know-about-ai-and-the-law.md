@@ -38,6 +38,20 @@ related:
         width: 670
         height: 375
         isCached: true
+  - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
+    excerpt: "To mark International Women’s Day on March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
+    publishedDateTime: 2022-02-18T20:01:00Z
+    webUrl: "https://iafrica.com/what-women-ceos-in-africa-need-to-know-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: iafrica.com
+      domain: iafrica.com
+    quality: 37
+    images:
+      - url: "https://iafrica.com/wp-content/uploads/2022/02/1-6.jpg"
+        width: 800
+        height: 451
+        isCached: true
 
 secured: "vPLP+hcxMKk281MIH9qtjz/K9EhW6ge0Fwa7pcwnamvnnv05xu1q+vDNk65Vp8fNji5RfivDrxGDPoTRL6lL67HLpxHakklGxwbje5UFth4miXK4P6P4nhH6vUHTcMkROHaxS36NxOY7j4RgyPUV8+dWZQ0mh28XEe/X3i/K6b0Wl4hdfZAnWBftYPr2lXf55MUCn9C+vqk/QBa6H/QV/51P4H99Ztx7z2ICuzPk8Zn6RH83TSqBHd1pSmRYUsRxejH6xWayjGNUpn5/II5ux5hPJiUnZJYvc6LMFkYYj5v+mox1SBPTr7JvNz86su0xq8u7oicBs5VYk2Z2gx725ArPH4tjWHuFJ1oCXfBGm8M=;+nNmhY6rtZSbNGmfP/zNsw=="
 ---

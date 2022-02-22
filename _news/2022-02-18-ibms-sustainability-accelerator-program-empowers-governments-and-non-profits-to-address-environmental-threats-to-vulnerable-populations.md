@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/02/18/ibms-sustai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2022/02/18/ibms-sustainability-accelerator-program-empowers-governments-and-non-profits-to-address-environmental-threats-to-vulnerable-populations/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -31,17 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "IBM creates free sustainability accelerator for non-profits and NGOs"
-    excerpt: "IBM has already conducted a pilot of the project with The Nature Conservancy India, Heifer International and Plan21."
-    publishedDateTime: 2022-02-17T17:41:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/"
+  - title: "IBM launches 2-year Global Pro Bono Environmental program for non-profits"
+    excerpt: "Some of the technologies that will be applied will include IBM Watson, IBM Cloud, or the Environmental Intelligence ... Carolina Milanesi, Founder, Heart of Tech said, \"Cloud, AI, 5G, quantum computing can all be put to work to drive a positive impact ..."
+    publishedDateTime: 2022-02-18T06:12:00Z
+    webUrl: "https://www.freepressjournal.in/business/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 43
+    images:
+      - url: "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 917
+        isCached: true
 
 secured: "xwjP4fS9GBS/n9Wz5t49q/IfInZz9XYgY4ttjsZnRQpR2EK4K+AcwJ+5jvI2XY+8QXeuadSk87SwYpBlDIkOE0avUQtuKR4Q9JkWGcdDZII6gI2VDlt5LXvKL2I8fNiXHF5DbjJ3wSGT3z0vY1tZNIPmZG9539IyjFWpHY6pjdjPg9nrEKO6aEFuKthhalIvDDODx4OmfCBxFRIp8f0mmXFjqY6s5o87p6I8I7N4suclWRK7LpiKw9x36GsGYnuetvKebxKYQgD4b94P4DeDDfEZIIfOebiClm/TvWXO2IVPHe2itUUgO0MtSbZq7z1juria7Z53J5GtDOt2h0Nq27Nkey8SraOj3wW2KHeVRGWKG8R4gcyKtb6Gvm4JBw9houL8mM7Iq4Y2nhnLFpvcnlkfuGSQHo74iLGcHsOvI3uq4eighbSwDO/Y5EsMb1x6qF4fdUzU0bedKdNDr7y+sMTnUo+7Q7rVsR83DeldmxFKStc55xzA+gB0yaWAxytp+U74kVvDu/dlcq+x3xD9uw==;i7SLiN/+cjZQ1M+Zym3RXQ=="
 ---

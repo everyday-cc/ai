@@ -7,7 +7,7 @@ originalUrl: "https://www.voice-online.co.uk/news/world-news/2022/02/18/africas-
 webUrl: "https://www.voice-online.co.uk/news/world-news/2022/02/18/africas-women-business-leaders-to-examine-the-future-role-of-artificial-intelligence/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 450
     height: 296
     isCached: true
-
-related:
-  - title: "African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-19T20:35:00Z
-    webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
-        width: 620
-        height: 355
-        isCached: true
-  - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
-    excerpt: "To mark International Women’s Day on March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
-    publishedDateTime: 2022-02-18T20:01:00Z
-    webUrl: "https://iafrica.com/what-women-ceos-in-africa-need-to-know-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: iafrica.com
-      domain: iafrica.com
-    quality: 37
-    images:
-      - url: "https://iafrica.com/wp-content/uploads/2022/02/1-6.jpg"
-        width: 800
-        height: 451
-        isCached: true
 
 secured: "89s2XoBLqPH0oRy0CZF3xD116mPlPK21dTkVU9LFzh8JHGYVI5gzbTQQmALh809OUEzMoWmpeZvToynigxSWIBdOVc+FeNHVznzFfrGNmCbqsr988S+MtkyE9mK8YcBhQoATht8VPc8weQt8PYV0n6CDKVGGpozgH8vRF/wYVqDK7x6NvJyFcNMVBPLZfkJD6VgATCAEwJ8XJd/y3Ww8jEDofqm4DtY8mR5PzOel9+i2IIPXUHwqUfjVYaiN6KUMq9UefwDygIH4aCPLXsPx/n7nJzWLUClubThW5tF3D/J5tlNbJOckxzPVA2B0+y6XrkdV/cAkK5wosECVWETfD9uNCbVhMGuY2+tiVOFgrzAiJPIPaCPC9iIpvo869ZFkMe81laHdKmXTVG1grLEGET6uzLeyVrbUWDSbLHqJsIMw83qN25JY92iSGhx6GCSvIUHvIKPznDbRWxklmRE6ND+74xLApmleSJGoXeRkoamNMbCS4OqrMuSENLhxE6VBhex+gmQ+18ESZNLh1fkPGA==;ZCWt/4fxNNDjZmJ3bdG7HQ=="
 ---

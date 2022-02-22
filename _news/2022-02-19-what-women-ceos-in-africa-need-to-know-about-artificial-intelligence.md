@@ -24,33 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-19T20:35:00Z
-    webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
+  - title: "Getting ahead: what lawyers need to know about AI and the law"
+    excerpt: "The company opts to make the online system ‘smarter’ by adding advanced AI that it is licensing from a startup vendor. Then it turns out that this algorithmic decision-making (ADM) veers toward approving loans for some based on their race or gender ..."
+    publishedDateTime: 2022-02-18T14:49:00Z
+    webUrl: "https://www.globallegalpost.com/news/getting-ahead-what-lawyers-need-to-know-about-ai-and-the-law-613300202"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
+      name: The Global Legal Post
+      domain: globallegalpost.com
+    quality: 37
     images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
-        width: 620
-        height: 355
+      - url: "https://www-globallegalpost-static.s3.eu-west-2.amazonaws.com/images/2022FebFrishutterstock_1582386880.jpg"
+        width: 670
+        height: 375
         isCached: true
-  - title: "Africa’s women business leaders to examine the future role of artificial intelligence"
-    excerpt: "Top CEOs will attend special March 8 conference in Johannesburg to discuss how the technology will shape Africa’s key industries CONFERENCE: Africa’s leading businesswomen will meet in Johannesburg to discuss the impact of artificial intelligence SOME ..."
-    publishedDateTime: 2022-02-18T17:18:00Z
-    webUrl: "https://www.voice-online.co.uk/news/world-news/2022/02/18/africas-women-business-leaders-to-examine-the-future-role-of-artificial-intelligence/"
+  - title: "Getting ahead: what lawyers needs to know about AI and the law"
+    excerpt: "The company opts to make the online system ‘smarter’ by adding advanced AI that it is licensing from a startup vendor. Then it turns out that this algorithmic decision-making (ADM) veers toward approving loans for some based on their race or gender ..."
+    publishedDateTime: 2022-02-18T12:49:00Z
+    webUrl: "https://www.globallegalpost.com/news/getting-ahead-what-lawyers-needs-to-know-about-ai-and-the-law-613300202"
     type: article
     provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 32
+      name: The Global Legal Post
+      domain: globallegalpost.com
+    quality: 37
     images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2022/02/WOMEN-IN-BUSINESS2.png"
-        width: 450
-        height: 296
+      - url: "https://www-globallegalpost-static.s3.eu-west-2.amazonaws.com/images/2022FebFrishutterstock_1582386880.jpg"
+        width: 670
+        height: 375
         isCached: true
 
 secured: "KfWAjCXBLVoV6W0y02JTgjXD0T2LC2LmS3EnNCjmvxy0SvZzHM4FPrnFSjeGnSUGsbMOPdbAUiX+nNMGB7MnY1SUaRDbmCHPhXoQOFC8VjxkAgVZ+hstFH3KkfSIyzQyAD/L20bFTCXTYH4PJCrNf8BjxeF4WCLU1zlJMhpRFaVbR26BJoj7B80LbrzVUalHGRGJ7v4iYhkMvTIOKmukL9PTef+q+WtHsYAJpxIoE4FhIHYBlgi/wbiSgBM1qN20o6fflYRGyEeQRN0bvwsxDSqn/AlUbYRNA/TVODle86iK3ov88ds8SttlzixhdHsnWhiFuMn0LUX1GTDyBCdsXbQhL1AgHs/ueQNy0REXQBI=;5i0mhylN5aAEc9ci5iZFrw=="

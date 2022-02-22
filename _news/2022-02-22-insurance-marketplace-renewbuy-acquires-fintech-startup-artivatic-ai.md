@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-22T07:47:00Z
 originalUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai/"
 webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
@@ -169,6 +170,6 @@ related:
         height: 720
         isCached: true
 
-secured: "rBb4yWc+a2pm7jUEBgHXfsYf4z5acfs687vd457uzwIHM/0TO0QcTFFpjELLhNWw2VDuXxO9W+d6jfB/fKHhXaRHhrqxJ+Csrxu5fVJJY1zEpgZJ1o/AzO1domXkPs0dc0u+438kbuG/T8sfCuk1qMeQYbyrbZqjoS16ngv7DTx6hHMx+UP5L4HvtiNHv/3149RD4C4QAhtQsy1mFrMe9DY1DraAPuIDKSpV6HUM9CGaRDrs3SntZIKyZRPdT6KNbPMa2d0xRBgpNJO2cKRGViQMVYQFn6dJaFcnjtM/7PWq8OzUgToywkNhmwmU2cqt0wU7ID5mRaFvyfv5Q3i4o+cdRB22ere8s7plTAbVn/4=;gxln5pJ1/YuQw6duSAXJ7w=="
+secured: "nEAyZ43KYiYfaxHETWaHqUTFqnV4vc3bfNWtzcd9MG3qU1x4zE1Eb7pGZ95ITbdoxbShSQ2oTh8KRuSt6Bw/TrNH+h85CMlQU1wdV16Wvl3KeWo5ND4o20JthrdRcoqSWibc7rOM9IppNcFy5EaerQNUwku4Box25NPVB0jDSehkeAQV7I7SHlVqLpiF+PNB/55ZeZ0W5Yd2b1Fqvyyz2hEyZWA10OB6MvGD2F4VbpQWHE9famIFZqYmte0k6Y5RfvhJYa68W9mPtLoINq9jPnFe2zOU0Q/0Nf/UQdwFXRnUoyr+4YufPXdwG/QcANMj4D1s5SymfTsRqFH71eMck6+VJQj3l2Af3q9hDjp17MyODCsw/ydmbGCQhsdaUD2ZngJu8FVHtDyek3PWM6Qr5iA5FoB04tHs18Sd5wiKtHvnUbLz8JdHguOGsk4ZdioCbM19FRfqdCORDoJuXlrQHRJPpLw1NNlMHCTSDAR1Fp6O/yCScfeFcBiTvSWY1tYURcMrkhTsMMHzDpBGVHFefA==;0vHwDX+q7FoE+ADGkS52Ew=="
 ---
 

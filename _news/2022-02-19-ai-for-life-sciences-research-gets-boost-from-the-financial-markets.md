@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Banking Market Demand, Business Scenario, Share, Applications, Types and Forecasts 2020 – 2027"
-    excerpt: "The global artificial intelligence (AI) in Banking market is expected to reach a market size of USD 130.00 Billion by 2027 and register a high revenue"
-    publishedDateTime: 2022-02-17T17:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-banking-market-demand-business-scenario-share-applications-types-and-forecasts-2020-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/024940d0032aeb490650a8b252e5510a98085f88-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Iris Recognition Market Insights by Industry Demand, Regional Share Analysis and Forecast 2022-2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Iris Recognition Market which emphasizes on the la"
     publishedDateTime: 2022-02-21T14:42:00Z
