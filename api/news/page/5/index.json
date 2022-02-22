@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
+      "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
+      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-mendix-embraces-low-code-adds-3-new-products-to-aws-platform.md",
+      "title": "Mendix embraces low-code, adds 3 new products to AWS platform",
+      "excerpt": "and Amazon Rekognition. Customers can also embed AWS Services into their own custom applications. The partnership “brings together market leaders in low code and cloud,” de Vries said ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
+      "publishedDateTime": "2022-02-16T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time.md",
       "title": "Bringing Deep Learning to your hardware of choice, one DeciNet at a time",
       "excerpt": "Training deep learning models is costly and hard, but not as much as deploying and running them in production. Deci wants to help address that. Deep Learning is probably the most popular form of machine learning at this time. Although not every problem ...",
@@ -861,10 +957,10 @@
     {
       "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
       "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
-      "excerpt": "SK hynix (or \"the Company\",  announced on February 16 that it has developed PIM*, a next-generation memory chip with computing capabilities. *PIM(Processing In Memory): A next-generation technology that provides a solution for data congestion issues for AI and big data by adding computational functions to semiconductor memory It has been generally accepted that memory chips store data and CPU or GPU,",
+      "excerpt": "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -886,18 +982,9 @@
       "publishedDateTime": "2022-02-15T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1148,92 +1235,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-baidus-self-driving-vehicles-take-a-turn-with-olympics-showcase.md",
-      "title": "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase",
-      "excerpt": "The 2022 Winter Olympics in Beijing promised another big opportunity for autonomous vehicle testing in a real-world situation, this time in vehicles made by one of China’s biggest technology companies, Baidu ... deployment of self-driving vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "originalUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
-      "title": "Machine Learning Becomes a Mathematical Collaborator",
-      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "originalUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

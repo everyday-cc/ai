@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/18/prediction
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/18/predictions-how-data-and-ai-will-shape-business-growth-in-2022/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

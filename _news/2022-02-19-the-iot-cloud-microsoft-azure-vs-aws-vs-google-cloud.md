@@ -7,7 +7,7 @@ originalUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-go
 webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/2fd7a2dea6d47c0405fbba180846ff2c.jpg?t=20220220_221348"
         width: 752
         height: 408
-        isCached: true
-  - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
-    excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
-    publishedDateTime: 2022-02-17T07:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 53
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "BPWwMF/xXo+1tpMlKdawRWilvSbwzmdM0ZQIB+MTaZKC7qShS8DQOj15l5u60hzIrGBuyjStgpO2Fn0bD0T+OKkSs0WbY9GF/JmK2Rp0HQlc0kGQDhjyf5ddTVSxr+SGXyzi1uOeGiThX/ecuXDMvq5668m+micvw3uEsIEkp0qRlj962Nppu2Y8cteURApxUM8pSaeH79Q63AOZ1Qwah/R0VkRdSux4hj+gJ5Gt2pHIVyiaMrWoPTNQXo6Eho3R2JciYFz+JvLoaXSh228ksB2MtWXNIFUPZog1FMhIoEV6JetE63UPkiehKjp/zJ4Vl4JQKo0w/txYgJ8o/s/+qrj8EMSmlpmDyP6DJO8ueQkVZzLVqsxS8OrMldfQ7C7eHTRl94SoZMHiYfHGcN1hCR4mnEsodPS7nadIrJkDiafrbwASROhDQxPGayG3oZw417cOuDtFlfB3F4LCZsBsGpDBAPqzE2C5CE0ifuVpw0OwORYgOFebNY+ui9hBP5vngsC53ylo5H9fl6mxSwDYuQ==;eb99A+t8rmJkVzqvSlWZlA=="

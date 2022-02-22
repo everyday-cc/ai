@@ -96,20 +96,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "DeepMind’s latest AI to control nuclear fusion"
-    excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
-    publishedDateTime: 2022-02-17T08:01:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-latest-ai-to-control-nuclear-fusion/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/nuclear-fusion.jpeg"
-        width: 1959
-        height: 1029
-        isCached: true
   - title: "Google's DeepMind trained an AI to control nuclear fusion"
     excerpt: "Google-backed DeepMind has trained a machine learning algorithm to control the hot plasma inside a tokamak nuclear fusion reactor. It might sound like the start of an '80s blockbuster, but the system could give scientists a better understand of how fusion works,"
     publishedDateTime: 2022-02-17T11:19:00Z

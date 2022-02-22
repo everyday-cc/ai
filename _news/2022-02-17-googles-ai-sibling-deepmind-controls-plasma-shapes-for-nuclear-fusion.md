@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "DeepMind’s latest AI to control nuclear fusion"
-    excerpt: "The main challenge of the application was to maintain the high temperature of the plasma within the tokamak vessel."
-    publishedDateTime: 2022-02-17T08:01:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-latest-ai-to-control-nuclear-fusion/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/nuclear-fusion.jpeg"
-        width: 1959
-        height: 1029
-        isCached: true
   - title: "Google’s DeepMind AI can now manipulate nuclear fusion"
     excerpt: "Harnessing energy process that powers stars will be as impactful on human history ‘as the adoption of electricity’"
     publishedDateTime: 2022-02-17T09:10:00Z

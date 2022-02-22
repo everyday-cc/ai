@@ -1,19 +1,15 @@
 ---
 category: news
 title: "SK hynix Develops PIM, Next-Generation AI Accelerator"
-excerpt: "SK hynix (or \"the Company\",  announced on February 16 that it has developed PIM*, a next-generation memory chip with computing capabilities. *PIM(Processing In Memory): A next-generation technology that provides a solution for data congestion issues for AI and big data by adding computational functions to semiconductor memory It has been generally accepted that memory chips store data and CPU or GPU,"
+excerpt: "It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than the existing product's operating voltage of 1.35V. In addition, the PIM reduces ..."
 publishedDateTime: 2022-02-15T23:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
-webUrl: "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719"
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220215CN62598/sk-hynix-develops-pim-next-generation-ai-accelerator/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI Hardware
@@ -25,6 +21,6 @@ images:
     height: 246
     isCached: true
 
-secured: "JCI07rZrgfBoGYINst3FI+w5jHCoMbam4HQY0kMaLrJR5UjssGbmQDfIEKuLF5xjoCDZXwArPMNFfHCV9pJXelGsY98qOpCK97scovihMwelUhhv3TLH7JfKsmYNAnYd6w3wgj3AEtV8sKQl4UK25rC9TLdpJwzcqyLSJ8n+tYnjwH+He9Ojh1VOL6PsP//FivQXiVqlcmu+xd8B3zO+a+0Y0uEjOgy1cLWo1BQyQw/cN8WY3IZ2aH0AHIq7fjeTDx5waV8i2pp/TZpUjFWomnGAEU1DrZ6ehlIcf/FOgnuRp6ZxSG/L5nbfmLmuA0Q2VtPhdFLoX1GzXTlYDAHKm4/F9blEt2anTkLKQEu8KFFSAbIXkFDKEnsqp6FqQ+FnCvIuMdV9GMk5Pgr9gwLsM0KJMSbAvEYXh+ga50ySGtrtznQLqutBPZ6fueccfqO69uSdEAuYRqYGC4LgNHszDl7qW8/8kZfQXQ54FVuVCGYUQLBCg4H6I2+NA8R4bqc+DiC0W+dWYFMETHkk0DJN/Q==;2my1gzi7wtpsTmy8H9R3lw=="
+secured: "BQjCoXsHR6i9zy13Wzuy+oIm8ONLb1CqNqrK6T+R0Y1lB9Hp+ByIG3wQwl0TH5gAehpjiWLjdbQIPQoqWHF54R+qG04dgnc7ZBtIcC9hZoxPfUJDJ1biFwwldw1g9fGkeE3cPHTuAdKVXLeVqixLOkk+faKIcN7zj1SX40VzzFPOdkVaRqdep9PySRUZqlazieD5tZG3EPz8mXtdWpEM7KqnKk1DG8kMaOafasWFkz2CsL3nghF3bu+Ih87UKjzK6v2WN+czrLFMUxe9QT3UhUx2DPGbx4HmnuqPzGAMBSSxkq4+jkMMlwDXNGwqmRuA9pzOEgxVouKchQoXHO/+971QERf3XRidtXETJJYRsAQ=;uGUUGl38fEWG9RWaG1mi3Q=="
 ---
 

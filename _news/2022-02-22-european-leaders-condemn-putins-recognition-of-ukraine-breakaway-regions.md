@@ -85,6 +85,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "US to impose sanctions on breakaway Ukraine regions after Putin recognition"
+    excerpt: "Biden summons top national security officials as European leaders condemn Russia’s move"
+    publishedDateTime: 2022-02-21T21:36:00Z
+    webUrl: "https://www.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/229a239d4c60de9e183dab34a3392c1eeb7503be/0_110_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=83dafbca43466ad127ce528aaa2e5a14"
+        width: 620
+        height: 372
+        isCached: true
   - title: "In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces"
     excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
     publishedDateTime: 2022-02-21T16:25:00Z

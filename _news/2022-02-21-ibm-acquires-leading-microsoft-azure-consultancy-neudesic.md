@@ -39,20 +39,6 @@ related:
         width: 602
         height: 305
         isCached: true
-  - title: "authID.ai joins Microsoft Partner Network to expand Verified CloudConnect"
-    excerpt: "ID.ai (formerly Ipsidy), a leading provider of secure, mobile, privacy-preserving, biometric identity authentication solutions, recently"
-    publishedDateTime: 2022-02-17T07:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 53
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "T5kQThERxx8iLBEgMffC0wUYOeyxn/kR1FTVhIcQGlRbFNnd3Ywc+dnHhslTlY2qQW9tdsRJ9YtEkWmAXVDFdZeULvFGHF6X5hjSBYxh9lLT6R/W93Nz1NDq8eJqeIp/vpXyapVNTW8rmcQvVbQqBX3E9Iu0Pgwdi7xfSUa5EfSwoOpOxJzeP6hT5YlNQHLmaRDCh+3D4XBTOBdtc1BN02C4lQSl/siUBBY+uNOFwScykfuJ1k9wqtBXKEY0jQ+YO9EvijflJoqodVsqE8DLqrqTAtrCMs0s674GhyiyFIBQy+3SbFs3SaIbQhbdQZT7/4vKzIaMeoAWnW45DZXXnsngiIRVVgWefXx21Fb+ScEMTg8qR59a9zgST3ypJC6ayZIyKu7lvjsCT/aSuCWihBiNfXOoHbJVSV7qOsecZ4JG70UMnZ7ZdModNgZvIRJzGBw4PWByQYLLJdTPt5I4A7h5H+XIgZ8bFrf5Feu7M7n4TZq0lvBBSVT+lkFwCFdUgy61BVpi8I+VVx5Bp1q8Sg==;nBJb43HdIhrhMVa8p0gKYA=="
 ---

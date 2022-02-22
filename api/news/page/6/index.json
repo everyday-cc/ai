@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-15-baidus-self-driving-vehicles-take-a-turn-with-olympics-showcase.md",
+      "title": "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase",
+      "excerpt": "The 2022 Winter Olympics in Beijing promised another big opportunity for autonomous vehicle testing in a real-world situation, this time in vehicles made by one of China’s biggest technology companies, Baidu ... deployment of self-driving vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
+      "originalUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
+      "title": "Machine Learning Becomes a Mathematical Collaborator",
+      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "originalUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quanta Magazine",
+        "domain": "quantamagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
       "title": "LivePerson put more personality (and AI) into next-gen bots",
       "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
@@ -337,20 +423,20 @@
     },
     {
       "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure.md",
-      "title": "authID.ai Joins Microsoft Partner Network to Expand Verified™ CloudConnect™ to Office 365 and Azure",
-      "excerpt": "“authID.ai is committed to delivering intuitive ... we are excited that our new biometric integration with the Microsoft Office 365 and Azure platform will protect the data and IP of an even larger cohort of enterprises and professionals across the ...",
+      "title": "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure",
+      "excerpt": "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html",
+      "webUrl": "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure",
+      "originalUrl": "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -360,11 +446,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T04:00:00-08:00",
+      "publishedDateTime": "2022-02-15T04:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1058,100 +1144,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-nvidias-ai-innovation-should-push-stock-higher-analysts.md",
-      "title": "Nvidia’s AI Innovation Should Push Stock Higher: Analysts",
-      "excerpt": "Nvidia has invested heavily in artificial intelligence—in cash and culture—and those expenditures should drive up the stock price, Truist analysts argue ... to $244.80. The S&P 500 was down 0.4% and the Dow Jones Industrial Average was off 0.8%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271?tesla=y",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-485592/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "publishedDateTime": "2022-02-14T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-report-29-of-execs-have-observed-ai-bias-in-voice-technologies.md",
-      "title": "Report: 29% of execs have observed AI bias in voice technologies",
-      "excerpt": "What’s more, nearly a third of respondents have experienced AI bias, or imbalances in the types of voices that are understood by speech recognition. There are significant enhancements to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "originalUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1303435789-e1644856780654.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "publishedDateTime": "2022-02-14T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

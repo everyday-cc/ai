@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US to impose sanctions on breakaway Ukraine regions after Putin recognition"
+    excerpt: "Biden summons top national security officials as European leaders condemn Russia’s move"
+    publishedDateTime: 2022-02-21T21:36:00Z
+    webUrl: "https://www.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/229a239d4c60de9e183dab34a3392c1eeb7503be/0_110_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=83dafbca43466ad127ce528aaa2e5a14"
+        width: 620
+        height: 372
+        isCached: true
   - title: "UK says recognition of separatist regions of Ukraine violates UN Charter, flouts peace efforts"
     excerpt: "Putin announced recognition of the regions in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen ..."
     publishedDateTime: 2022-02-21T21:52:00Z
@@ -114,6 +130,6 @@ related:
         height: 486
         isCached: true
 
-secured: "WSv0m3PXYkIj0jZLlnNOrkDKIV5oK8OTuEiBUSGIuMdH8hd02ymPxmxZ5IS3BJbdFbnqkqEAUvspylID5dtpZecj+R1EPHKGPpgPSYEZfJbjTZYVN4Tv8r6WdATnM66fY4izRWTVBUdKYvwhoebR7363BfuGbthsEBjNtVc9LOa4LI2GmPWpDzAUQK0Ptb9RIb1UOs3v4OAbloWu4StIckfFBXfk5By9aILpFlZcdhnYbtbylkNZmqlvjDdD9G0ZwWk3dkRI3Zp9sDw2y8lV03+MS+dwoH7q5UG3Jn1RozXBFqbrF+Yqwzkrztp7arTmKDTQ78S/mRYqYjD29u/UtulxrOYG2ziYhh3J/VTt54Y=;QIJQ7IBv6LR/or7Pr+jSxg=="
+secured: "Zw6VofLOUdN/5/w0fWPsD5HTygC7fw1J229BI0oOb3irfRiHU7XuFMacXPnbCYbgFw2Z7JSEQlFX18uf29CZ/vn2Damxm+jaWKnPB2JtgDB3kAcQqIt3Y9xZLjkiTt+kOiQkocVZErUqNQGIg3nIL2VQuIfYHfZ1OdpimDSRVVr8lhDl/j01eUT2THm02yvnPzX/ihpt/lhHNSAFhDeLUzJnW4hORGHTcogIBZgSn3x9TEP+PH2noYPIId0MoOHIgERcne12gO037kjlE4gy1b7xGyE6nVw6nhMj4I8CEd17ssumOt17X3dkGwcOm4DvHitN8YeJN6fR43pmc8pRjB6uKrZytkymHeN2ed1C0JbmHOU8l943v0l+KBvY2q9iWRru4eRzJMgiX/iEQFA1s101bkb8Yu+3Sb4SiayLsdnr3PKcwYi1RD6y906AvUI3qY+JmtHdp0e8ISopL9feskE8QE3zsfaFetb432qq8B5Yu29LG/1+xL538rBMh69PWieMChd0PBe7hvJUxMNTSA==;jCPE+Eml+8vcRtdmvm8eYA=="
 ---
 

@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-19-ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems.md",
+      "title": "AI’s true purpose is freeing up humans to find the biggest problems",
+      "excerpt": "We start with a reasonable intuition (abduction ... Take chess and go, two board games that have received much attention from the AI community in the past decades. Chess was once called the ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems",
+      "originalUrl": "https://thenextweb.com/news/ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAI-and-humans-solving-problems.jpg&signature=9a82a94a0971430cf989ec3c698bde57",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology.md",
       "title": "D-Link Eagle Pro AI Mesh System Blankets Homes With The Latest Wi-Fi Technology",
       "excerpt": "A couple of months ago, I reviewed the new Eagle Pro R15 router from D-Link. This Wi-Fi 6 router can handle speeds up to 1,500Mbps and is keenly priced. It can be used to upgrade any home’s wireless network to the latest Wi-Fi 6 standard with AX1500 speeds.",
@@ -104,7 +158,7 @@
       "originalUrl": "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -192,7 +246,7 @@
       "originalUrl": "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -535,7 +589,7 @@
       "originalUrl": "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -692,7 +746,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1099,7 +1153,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/18/predictions-how-data-and-ai-will-shape-business-growth-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1192,58 +1246,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-this-aws-database-e-training-bundle-is-just-30-this-week.md",
-      "title": "This AWS Database e-training bundle is just $30 this week",
-      "excerpt": "Then the 2022 Amazon Web Services Database Bundle has you covered ... and implementation of a database), migrating information to the cloud, the basics of AWS Rekognition in machine learning, and more. And since the courses are brought to us by skilled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
-      "originalUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/02/sale_310962_article_image.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
-      "publishedDateTime": "2022-02-17T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

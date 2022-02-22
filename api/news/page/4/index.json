@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-17-exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m.md",
+      "title": "Exodigo, which maps subterranean spaces with sensors and AI, lands $29M",
+      "excerpt": "Exodigo, a startup developing a platform that leverages AI and sensors to map subsurface areas, has raised $29 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
+      "originalUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/cvpd-drone.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
+      "publishedDateTime": "2022-02-17T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-robot-fry-cook-gets-job-at-100-white-castle-locations.md",
       "title": "Robot fry cook gets job at 100 White Castle locations",
       "excerpt": "White Castle seems to be all-in on its latest employee, a robotic fry cook. Flippy 2, the fast food robot by Miso Robotics, will now be whipping up burgers and other food in 100 standalone locations.",
@@ -352,6 +403,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1120,102 +1214,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
-      "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-mendix-embraces-low-code-adds-3-new-products-to-aws-platform.md",
-      "title": "Mendix embraces low-code, adds 3 new products to AWS platform",
-      "excerpt": "and Amazon Rekognition. Customers can also embed AWS Services into their own custom applications. The partnership “brings together market leaders in low code and cloud,” de Vries said ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
-      "publishedDateTime": "2022-02-16T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

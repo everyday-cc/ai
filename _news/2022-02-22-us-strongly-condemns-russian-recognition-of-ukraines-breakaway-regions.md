@@ -7,7 +7,7 @@ originalUrl: "https://www.aa.com.tr/en/americas/us-strongly-condemns-russian-rec
 webUrl: "https://www.aa.com.tr/en/americas/us-strongly-condemns-russian-recognition-of-ukraines-breakaway-regions/2509375"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Gold Price Forecast: XAU/USD regains $1900 on Russia’s recognition of DPR and LPR, crisis escalates"
+    excerpt: "On Monday during the North American session, the two separatist leaders sought recognition by Russia, which they got after a “long” speech of Russian President Vladimir Putin, who put in perspective the history of Ukraine and Russia. That said ..."
+    publishedDateTime: 2022-02-21T23:37:00Z
+    webUrl: "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-regains-1900-on-russias-recognition-of-dpr-and-lpr-crisis-escalates-202202212337"
+    ampWebUrl: "https://www.fxstreet.com/amp/news/gold-price-forecast-xau-usd-regains-1900-on-russias-recognition-of-dpr-and-lpr-crisis-escalates-202202212337"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/gold-price-forecast-xau-usd-regains-1900-on-russias-recognition-of-dpr-and-lpr-crisis-escalates-202202212337"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 45
+    images:
+      - url: "https://editorial.fxstreet.com/images/Markets/Currencies/Crosses/XAUUSD/banknote-and-a-gold-bullion-53019984_Small.jpg"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "World leaders condemn Russia's recognition of breakaway Ukraine regions"
+    excerpt: "Germany, France and the United States have agreed to respond to the Russian move. . Read more at straitstimes.com."
+    publishedDateTime: 2022-02-21T23:51:00Z
+    webUrl: "https://www.straitstimes.com/world/europe/world-leaders-condemn-russian-decision-on-ukraine"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/22/md_protestukraine_22022022.jpg?VersionId=NvQ9yU0rzGuR4B.NXWF3c9yMAX9ABn58"
+        width: 780
+        height: 520
+        isCached: true
   - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
     excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."
     publishedDateTime: 2022-02-21T18:47:00Z
@@ -54,6 +84,6 @@ related:
         height: 450
         isCached: true
 
-secured: "lmH4Aw5stUMfeXNsc5rSGZ9Z++2c1E9aDEAU1zJJtZpeEHX8cykAz8AVQcaDF0yxZwfH5JfidNdStRpmpTg2poaP/UTkKqSmYkhM4zhfxncNphkCSELqhcMEv+M5ZxqAHAiIDBe38FLMuTkGC9SEmSM7uuqijU46OIBwAVRwENVMQ3J2gP79sjCSfNIQ5KjuEJJ19lHsW2HT7rfOgDj0NBvrmxLeT9uvIuf4sxtH4n6/nuVhP+pph6pXByo+2MFkzRiJ2apdblkBJbUCrcmypjZce0E7cgRSRJW7TsSfHUEAvaRw6RnvbT2kH7EvfMtjNxjhfCX6YCuLBI0VSmu804RucweB6V4VqFb8mV+QUm8=;7sbGj/9Jw+CV9IkyV3PkiQ=="
+secured: "VUqhPJDlDub/Bq8eevgbn4B0TxtkCXngNvfkbjoY7W26KQ4csclVLA/TYPMnUnMxM3GSFGmYxKohRPGBho3smRvPiK9sLZ48k86Xk1InDIbToIMiBPLDk9503RkpfbwoXuesBvdDd/KuNepoU1iUdJzzYB99q5b4mZYp6qpns4/uIMnXG9fUMsegzN3x7lQB5b0jzXS7jkm9XJpA4Qaj8vRTSFs05rmMYi9gFrGp3dxEnkprJRRbFLwJcCfisstPA4TlyJAGhcQRUgxl0jND+TMTNHyu6JiRCxqOrF9du+XJ1XT3K1W4odWRM3EOK45zppufCH1BGU7vwdGsSX9v945wiiiZ0Q9DPdRxQIrDj07oyCrIHKEZN7PhipYWcC/ND25svFnPfBWShIA63bOX5ARfviN3EMJ98UAv4o8PgSdPyLRt6vvGo0d0hQpmXJrJv/A4jDmnaoolBJJhXAlylIyZgcHbKW3KsSLzjL7xNtopbsvL6N2oiVa83dayJNYsQqEBj1kOlwCypHEESm2OZQ==;otdjNeuu2FXRdP3uCZEzKA=="
 ---
 

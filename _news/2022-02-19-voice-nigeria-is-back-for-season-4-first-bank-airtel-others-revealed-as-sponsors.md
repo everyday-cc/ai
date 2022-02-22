@@ -7,7 +7,7 @@ originalUrl: "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-fir
 webUrl: "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/"
 type: article
 quality: 50
-heat: 71
+heat: 70
 published: true
 
 provider:
