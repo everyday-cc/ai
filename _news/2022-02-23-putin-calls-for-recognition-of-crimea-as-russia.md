@@ -2,31 +2,61 @@
 category: news
 title: "Putin calls for recognition of Crimea as Russia"
 excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
-publishedDateTime: 2022-02-22T16:51:00Z
-originalUrl: "https://www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/"
-webUrl: "https://www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/"
-ampWebUrl: "https://www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/amp/"
-cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/amp/"
+publishedDateTime: 2022-02-22T16:49:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/putin-calls-for-recognition-of-crimea-as-russia/article_5b7a4ef5-0579-52ca-8b7b-33b92673213f.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/putin-calls-for-recognition-of-crimea-as-russia/article_5b7a4ef5-0579-52ca-8b7b-33b92673213f.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Mercury
-  domain: pottsmerc.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.pottsmerc.com/wp-content/uploads/2022/02/APTOPIX_Ukraine_Tensions_65925-2.jpg?w=1024&h=682"
-    width: 1024
-    height: 682
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/83/38393493-3dc9-51df-8841-7b8e181662cd/6214a08b2c7f0.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Russia’s Recognition Of Ukrainian Republics Reverberates Around The Region"
+    excerpt: "Russia’s formal recognition of eastern Ukraine’s two ... using their Russian acronyms) in a late-night speech at the Kremlin on February 21. The news reverberated heavily in the Caucasus ..."
+    publishedDateTime: 2022-02-22T17:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-02-22_ymgmas9jlg.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "Kenya's Powerful Speech on Ukraine-Russia Crisis at UN Event Goes Viral [VIDEO]"
+    excerpt: "In his speech, the Ambassador raised grave concerns over Russia ... But they cannot justify today's recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks available and underway that had the ability to ..."
+    publishedDateTime: 2022-02-22T06:21:00Z
+    webUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video"
+    ampWebUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
+    cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
+    type: article
+    provider:
+      name: Kenyans.co.ke
+      domain: kenyans.co.ke
+    quality: 55
+    images:
+      - url: "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/Ambassador.jpg?itok=Z6nhHyzT"
+        width: 700
+        height: 350
+        isCached: true
   - title: "Gold Price Forecast: XAU/USD regains $1900 on Russia’s recognition of DPR and LPR, crisis escalates"
     excerpt: "On Monday during the North American session, the two separatist leaders sought recognition by Russia, which they got after a “long” speech of Russian President Vladimir Putin, who put in perspective the history of Ukraine and Russia. That said ..."
     publishedDateTime: 2022-02-21T23:37:00Z
@@ -42,6 +72,48 @@ related:
       - url: "https://editorial.fxstreet.com/images/Markets/Currencies/Crosses/XAUUSD/banknote-and-a-gold-bullion-53019984_Small.jpg"
         width: 320
         height: 213
+        isCached: true
+  - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
+    excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."
+    publishedDateTime: 2022-02-22T05:06:00Z
+    webUrl: "https://www.stuff.co.nz/national/politics/300523317/ukraine-nz-says-recognition-of-breakaway-republics-is-pretext-for-invasion"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 36
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/z/4/r/image.related.StuffLandscapeSixteenByNine.1420x800.4yx99x.png/1645507296741.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkish president"
+    excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
+    publishedDateTime: 2022-02-22T11:31:00Z
+    webUrl: "https://www.aa.com.tr/en/politics/russia-s-recognition-of-ukraine-s-breakaway-regions-unacceptable-turkish-president/2509987"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 32
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_27a88d0c1b03a8a195cf1b18a7292313.jpg?v=142428"
+        width: 864
+        height: 486
+        isCached: true
+  - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkiye's president"
+    excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
+    publishedDateTime: 2022-02-22T13:53:00Z
+    webUrl: "https://www.aa.com.tr/en/politics/russia-s-recognition-of-ukraine-s-breakaway-regions-unacceptable-turkiyes-president/2509987"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 31
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_27a88d0c1b03a8a195cf1b18a7292313.jpg?v=142428"
+        width: 864
+        height: 486
         isCached: true
   - title: "UK sanctions 5 Russian banks over Moscow’s recognition of Ukrainian separatist regions"
     excerpt: "Britain on Tuesday sanctioned five Russian banks and three individuals in response to Russia’s recognition of Ukraine’s separatist ... \"In a single inflammatory speech, he (Russian president) denied that Ukraine had any ‘tradition of genuine ..."
@@ -85,20 +157,6 @@ related:
         width: 630
         height: 360
         isCached: true
-  - title: "Following ‘recognition’, first Russian tanks roll into Donetsk"
-    excerpt: "The lengthy televised speech of Russian President Vladimir Putin on Monday ... including a promise that Ukraine will never join NATO. Recognition of the separatist-held areas will narrow the diplomatic options to avoid war, since it is an explicit ..."
-    publishedDateTime: 2022-02-22T06:34:00Z
-    webUrl: "https://www.euractiv.com/section/global-europe/news/following-recognition-first-russian-tanks-roll-into-donetsk/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 24
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/Russian-tank-Donetsk-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "France responds to Russia's Donbass recognition"
     excerpt: "In his speech on Monday evening, Putin said his decision to recognize ... A White House readout of the call said the trio \"strongly condemned\" the Russian recognition of \"the so-called DNR and LNR regions of Ukraine\" and will \"continue to coordinate ..."
     publishedDateTime: 2022-02-22T08:14:00Z
@@ -112,6 +170,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/rtc1645488780.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Martin Kimani: Kenyan Ambassador to Ukraine UNSC Speech against Russia Receives International Acclaim"
+    excerpt: "Martin Kimani has been acclaimed the world over following his powerful speech criticising the attempts by Moscow ... But they cannot justify the recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks ..."
+    publishedDateTime: 2022-02-22T14:28:00Z
+    webUrl: "https://www.tuko.co.ke/world/444229-martin-kimani-kenyan-ambassador-ukraine-unsc-speech-russia-receives-international-acclaim/"
+    type: article
+    provider:
+      name: Tuko
+      domain: tuko.co.ke
+    quality: 24
+    images:
+      - url: "https://netstorage-tuko.akamaized.net/images/870ed59de11c38d4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
     excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."
@@ -137,6 +209,6 @@ related:
       domain: news.am
     quality: 0
 
-secured: "3X84ryVCiEO52SFDfNOB26vvCAM3mCRZWHZWTxzvLs9FPs7VWDjVEUf+3HrpFaMmcZsIHx4LKgsSWd7T3IdPaWjpVdqS9YIoU2XmtKapE0yKUHe1scluZfCRWuJMIKvCLk/iRMnXIpkqhexzux+ineJaZcNU700c+5xaoYBcgZv58aq/PIWGOmWGJVF5DegGox3uopAJ26ZD/yqpfwNRmlC0ViSZHcLDja6YW/9papwTR2H+0FFlYEEynxMd1UugkAY3u3CKx6QdUEW5hyD0XIz+E+xhqPo84f7gYU9AhBg+D4cJJIA36GN0DQGCsQ7/SccoglqMMX2T5zcninefj7OJfAK+kEOiMshq2dm++w8=;MVoGyEfT2gMJpHVbXPzQLw=="
+secured: "o3Yu0Ycu+rlczK/N8RCxwUxp/47a0JqqnT8DyzDCAWS1cvQkRuiTmFFeWoJYpt+cvEqXJI2K1uDGdOaHboIcLRV27cJx+PoFmoHdGw0WBBemdxEaDfj+JhblhLmtsuBglXV78AdKLXlaNKndMB3+bSkCOhWWUqxtRkv2tIGQ3Wxs6M8mxaQfcTXx/FQ0VmSkp/FZ0xHhshb3zlw46wujMwDWqQU9nwo4CHf/AIa8FkWk029mAQM8kxFaJhZ28x0UoED7CbGUnh/1sFovye84uP6cCriJoUPS7s63ZDIUYl5Yr9nisfcj07DZ1WzPZy4+0V/jIygeRtG0m7uP4XsMoLRB4CgxdqdZK2w4ThwRQnU=;Gy3X8nvV0rMvpxF1EYp97g=="
 ---
 

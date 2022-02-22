@@ -144,6 +144,22 @@ related:
         width: 1001
         height: 563
         isCached: true
+  - title: "IRS allowing people to opt-out of facial recognition"
+    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
+    publishedDateTime: 2022-02-22T18:36:00Z
+    webUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html"
+    ampWebUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
+        width: 3736
+        height: 2421
+        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z
@@ -222,6 +238,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "Ao+DL+LsWAvfFujQan92GIHFjuT7rd9qqhBlZ0xt0Z+1edqc73V9KFQL/QZy+QAMVuuJjboicN/VkpdIn+XlR0rPCdK5avr/qyTymCGZpgOPCjxXpDsLiRm0cYot3Ya/aYz+i3t0DTRBj5KmYzug1c+UzrcTrMdnZJ55d8ko6smRLlkNIOcEQG4qMFiWEe2ky+rHLBePSgkuOOs1AxgZ3oWpuUu/s/i5qKeltJNiebem7tcvK/CBeOk+iQBbb8pqC0riKnqEReiln7w14xkU7x4YkFmQW7Zu2yHzcV9PeCGFrBntck0FzULcq7vTdRieYqZ6yLGSjm8Ew6e1/sZGFx10dD3dwD8pxMYTWClSFic=;4mPghNjVbIsEHqduVDN3Kg=="
+secured: "EU7ltZao220HIVEZL9J8mt+T2VNZnv/n03RD5hxI9BVeg6IaJCf+dwlA7qxOR3sZHOjaUsTUSED7B7yweV3QRPyRqmNSHw0QA5Ys4GHwAW0b+fAX0WanhmuVWmjnw+TBK92uc6xLZoR2KIfgtgN/bc8/Sk0XjUWN8jwZ5ep6/tFKJ6zxQYUHVFzUCW91qZj4EbudWeqJ7I+XTFu+3iFP7ecYQzaZoyV9rSmXZeBc3Pdr2HxlHSYKPS8cwR4Y4NXjPU0s2yAn7mzsVt6qhC0RElHVnd9C8a038weqNwZhN5+zZ1xefMGuKOPe5G9H1XJiM9FUsVtq018X7y2Zxph8usKnmRuJm8DSIkjaZ7WBtqyHYTe75JnXx/hem5bToU/OIdZJlM8sgO/S4NC+Xk0u1l4b+ff6GoePI7UaU1hHBDeAxkVWesd6YzOlSERf2PIkiqpAyUcpolPRgpsmQW4Z0emTxcslq3RSnRKC76a8nPdtmE/2g9eL9NHxGhLTHlkafxaKkZbUTrhukAwZA/BK1Q==;FaDvCM2Lr1+QWxDvjr4/fA=="
 ---
 

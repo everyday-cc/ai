@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chinese school faces backlash over use of facial recognition scanners: Report"
+    excerpt: "Beijing [China], February 22 (ANI): Chinese schools that have been rolling out facial recognition systems since 2019 as part of a government \"smart campus\" campaign, are facing a backlash as some parents argued that the technology is endangering their ..."
+    publishedDateTime: 2022-02-22T18:56:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272325059/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners-report"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1645555427.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "ITIF, former DHS exec push back on criticisms of facial recognition use by US agency"
     excerpt: "The IRS should have taken a more measured response to the controversy around its use of identity verification company ID.me, the ITIF suggests."
     publishedDateTime: 2022-02-21T20:20:00Z

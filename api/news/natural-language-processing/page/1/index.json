@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-23-russias-recognition-of-ukrainian-republics-reverberates-around-the-region.md",
+      "title": "Russia’s Recognition Of Ukrainian Republics Reverberates Around The Region",
+      "excerpt": "Russia’s formal recognition of eastern Ukraine’s two ... using their Russian acronyms) in a late-night speech at the Kremlin on February 21. The news reverberated heavily in the Caucasus ...",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-02-22_ymgmas9jlg.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html",
+      "publishedDateTime": "2022-02-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-how-neuralspace-is-driving-low-resource-language-processing.md",
       "title": "How NeuralSpace is driving low-resource language processing",
       "excerpt": "“In India, Reverie Language Technologies and Skit AI are competitors but they mainly focus on Machine Translation and Speech Recognition, respectively. NeuralSpace offers the first platform that ...",
@@ -1448,49 +1492,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-monash-university-to-develop-ai-translation-app-for-diplomatic-talks.md",
-      "title": "Monash University to develop AI translation app for diplomatic talks",
-      "excerpt": "Monash University researchers are leading a $ 5 million project, sponsored by the US Department of Defense Advanced Research Projects Agency",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/monash-university-to-develop-ai-translation-app-for-diplomatic-talks/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/monash-university-to-develop-ai-translation-app-for-diplomatic-talks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Monash-Uni-to-develop-AI-translation-app-for-diplomatic-talks-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/monash-university-to-develop-ai-translation-app-for-diplomatic-talks/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/monash-university-to-develop-ai-translation-app-for-diplomatic-talks/amp/",
-      "publishedDateTime": "2022-02-11T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

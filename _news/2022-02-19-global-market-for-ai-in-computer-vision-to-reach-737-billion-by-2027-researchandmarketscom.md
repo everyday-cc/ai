@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25717133"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133"
 type: article
 quality: 62
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -84,6 +84,22 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Global Self-driving Cars Market Forecast to Reach 62.4 Million Units by 2030, at a CAGR of 13.3%."
+    excerpt: "Dublin, Feb. 22, 2022 (GLOBE NEWSWIRE) -- The \"Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle, Level of Autonomy, Mobility Type, EV and Region - Global Forecast to 2030\" report has been added to ResearchAndMarkets ..."
+    publishedDateTime: 2022-02-22T08:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/g25743315/global-self-driving-cars-market-forecast-to-reach-62-4-million-units-by-2030-at-a-cagr-of-13-3"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25743315"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25743315"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Artificial Intelligence in Genomics Market Research 2021 | Top Key Players, Demand, Revenue, Growth Factors by Types, Trends and Forecast till 2030"
     excerpt: "Feb 20, 2022 (Heraldkeepers) -- Market Research Engine has published a new report titled as \"Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision), By Application (Genome ..."

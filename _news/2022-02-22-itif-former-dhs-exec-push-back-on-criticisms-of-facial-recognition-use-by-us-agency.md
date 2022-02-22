@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chinese school faces backlash over use of facial recognition scanners: Report"
+    excerpt: "Beijing [China], February 22 (ANI): Chinese schools that have been rolling out facial recognition systems since 2019 as part of a government \"smart campus\" campaign, are facing a backlash as some parents argued that the technology is endangering their ..."
+    publishedDateTime: 2022-02-22T18:56:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272325059/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners-report"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1645555427.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "UvMBF0ayX2oE+NfsvP9jRe1a5o4fmCj/ayDo6zFUiynuNAxIWBnybUuPRULUTqDor9aTsX28Cl+0tHP4D98zKCXRlFDA4fnTbrzzxzdMgXszChyLqZJ2cDfqHuRDW+d7qxtq1erv8C9/KTIwH2fxI7IMxIyZfMpqLNG47JBy8v892EtYi+V+LVDHnqjBDx0nwF2zaP0TBHTmoeRW68RdJKI05oebBZibFzmbYdFJeZZDR/DYK630sO3RCApWNrZH9dCFPCIs+oU0vVJ4qqk/frjSoMcNpnO1cBCQzQmxB6gIjXQaRvHVsgVM271U6jJlVXIDrR+ANdiwKMux0qYu47np1Xu7YSyPOAc2zYqwV/Q/Svzfj2HcXGh6X729nm2dUyjrhTElCTZ900uj6hoTtW2Z+I6wg1z3kS7oaLNCelQXW7Kuqv0XxlX9EeyKifwc3HkTZTAKWfs9wUn12A1MmREmGy4ZQ8MLkwkttyTKSv3+nhtf0N4YwIXaTOaoy4xMXsKk4SZJaei1+9eZEMU+sw==;0g/86bwELJlEBl/PEyRqIA=="
 ---

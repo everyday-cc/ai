@@ -133,6 +133,22 @@ related:
         width: 1001
         height: 563
         isCached: true
+  - title: "IRS allowing people to opt-out of facial recognition"
+    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
+    publishedDateTime: 2022-02-22T18:36:00Z
+    webUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html"
+    ampWebUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
+        width: 3736
+        height: 2421
+        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z

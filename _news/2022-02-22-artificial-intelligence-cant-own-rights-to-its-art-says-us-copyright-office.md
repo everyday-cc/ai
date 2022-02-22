@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/tech-news/artificia
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/tech-news/artificial-intelligence-cant-own-rights-to-its-art-says-us-copyright-office"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Quint
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence can't own artwork: US Copyright Office"
+    excerpt: "In a significant ruling, the US Copyright Office has rejected a request to let an artificial intelligence (AI) system called 'Creativity Machine' copyright a piece of art it created. Creativity Machine's artwork is titled \"A Recent Entrance to Paradise.\""
+    publishedDateTime: 2022-02-22T17:30:00Z
+    webUrl: "https://www.nationalheraldindia.com/science-and-tech/artificial-intelligence-cant-own-artwork-us-copyright-office"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/artificial-intelligence-cant-own-artwork-us-copyright-office"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/artificial-intelligence-cant-own-artwork-us-copyright-office"
+    type: article
+    provider:
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/nationalherald%2F2022-02%2Fd0a0f15c-b80f-41ee-bd16-c76ed1367aea%2FArtificial_Intelligence_can_t_own_artwork_US_Copyright_Office.jpg?rect=0%2C18%2C1200%2C630&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI denied copyright for its artwork"
     excerpt: "The US Copyright Office has denied a request to let an AI system, dubbed ‘Creativity Machine’, copyright a piece of artwork titled ‘ A Recent Entrance to Paradise.’ The board reviewed a 2019 ruling against Steven Thaler, the developer of the ..."
     publishedDateTime: 2022-02-22T10:33:00Z

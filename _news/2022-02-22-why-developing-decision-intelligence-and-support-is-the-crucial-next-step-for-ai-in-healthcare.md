@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-develo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/"
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 310
         height: 310
         isCached: true
-  - title: "How Artificial Intelligence is empowering human-touch in healthcare"
-    excerpt: "Historically, artificial intelligence (AI ... has changed over time as AI technological solutions have developed and matured, especially within the healthcare industry. Whilst AI is now matching or outperforming human abilities in key healthcare tasks ..."
-    publishedDateTime: 2022-02-18T02:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-empowering-human-touch-healthcare-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
 
 secured: "AQNo7/s+KF5f4AsfV50OlsHTwsDKOjdoZqeH2zUVfZ4kF3xG/TRspnxcVUfgVUKdutfKmQ4Z6VqwtCscwk+tsohtLSIjg9prz30EG7yWB+CEy8iA0+hxhFDiOXvbfaGA93veYdCC9g9KmGTEeIK/tVWNznS84kEIYnupszezpWfch0nCoh1nnutrelGdFghsqYeW5uIySTIjjQR5CxMux9iYf7r7RoqOTedS2Yn71N7JEnTf0EPg2FSctGZlUQyiZX6pa415n3KMAs8CNhTpmhVe7BeEegB3+qg1+qv7DGm2cPMftkxncfFYv7Gryzy27gFs9x5MjMBJLGfDmJp+e1nKdNG5VuHKUN5gqRmFlkv6FjnXSU1Nr0utmtebsyF3zYWGZZtMGDMoVa3DbFbjtKHra05i+ZtdjCdP/nwX7OXZOFridFwAMG8WAnSg0a1yLELiy6QiQz+EVIg6WQqtKVgr5x2hm69a203RgqBnmrpbbrhVDZtFWB3u41WHd/gX6fo6oXNuWPx2drDi5jouyA==;J8yXn0hgqadXBGwmUqdC4w=="
 ---

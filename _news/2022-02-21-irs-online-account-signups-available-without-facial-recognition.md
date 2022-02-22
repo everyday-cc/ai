@@ -144,6 +144,22 @@ related:
         width: 1001
         height: 563
         isCached: true
+  - title: "IRS allowing people to opt-out of facial recognition"
+    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
+    publishedDateTime: 2022-02-22T18:36:00Z
+    webUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html"
+    ampWebUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
+        width: 3736
+        height: 2421
+        isCached: true
   - title: "US facial recognition company building a database of 100 million phizzogs – that’s 14 per person on the planet"
     excerpt: "Slide deck punting for an additional US$50 in investment million reveals the reach and ambition of Clearview AIA database so huge and intrusive that even"
     publishedDateTime: 2022-02-21T16:07:00Z

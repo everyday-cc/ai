@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Go-to-market cybersecurity startup Cheq raises $150M in funding"
+    excerpt: "Startup Cheq AI Technologies Ltd., which helps companies block malicious online traffic, today announced that it has raised $150 million in new funding. The Series C funding round was led by ..."
+    publishedDateTime: 2022-02-22T18:02:00Z
+    webUrl: "https://siliconangle.com/2022/02/22/go-market-cybersecurity-startup-cheq-raises-150m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Cheq.png"
+        width: 800
+        height: 438
+        isCached: true
 
 secured: "PSgEHayyPi8ILMc16MDu1OYUJXh81XDys5gErFi6//ZTXGtsBfqLrsq2kfsYu3aT+EjTMlho5HRLYQCM33Az01RyDUyjljG/I09wooQryGjiJcIssN0ZIafHCrU5hla0AImpPuW5LZJw3mi54kmsZHfB2Oaog1v8cS55Yd5yjbSXUzBfGXM6hwD83mTeXYQhuFngw45S162DuktQdQsQgqGKwNIoG20kkMz/5N3GZdEfp/uuyoJdG7d4oryUy/qjqtbDWbl9oabhRGfJWSGCqf9xuruFuWn0dyAmo/HrxKGNLYA56hdAV/e2BSH9/fv6dPscdCPdGLIwq8FELAAyVeB1CSGQosFqyFFfPr483jE=;FCD7nLse2oUGD85JS4VQZw=="
 ---

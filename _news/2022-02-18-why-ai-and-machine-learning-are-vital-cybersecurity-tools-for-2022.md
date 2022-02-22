@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-
 webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
         width: 500
         height: 281
+        isCached: true
+  - title: "Go-to-market cybersecurity startup Cheq raises $150M in funding"
+    excerpt: "Startup Cheq AI Technologies Ltd., which helps companies block malicious online traffic, today announced that it has raised $150 million in new funding. The Series C funding round was led by ..."
+    publishedDateTime: 2022-02-22T18:02:00Z
+    webUrl: "https://siliconangle.com/2022/02/22/go-market-cybersecurity-startup-cheq-raises-150m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Cheq.png"
+        width: 800
+        height: 438
         isCached: true
 
 secured: "xy42V1LKmhsteqP15BzmjzPzUxt9VQy1hcgW2udq8FOHfPmV3eBJKS3Aur+NL+b6MEk7yJXZ7i8bHWE2f0aURccht6qZhyZqtDKrOlsrwfUMz6vIrufAE65zaTp6QkAw/LO+maU2bU3+6CElfRyu/Ltw9yLo3alJ22Bt3Kv1OfmR6SwnNJtzbWgBAZMq7MA13I0GCE7wGFI5biYW+KoXz9kpm2UJvxdcc9LAlDwHDHgIow4uZyyEzFnIPN/YxsGNiUxk2CMzaVtCLwNmTiGeuLVwCum4ub4h4F1g9I4YUuAAWUBUBHYMfkPHerwIs+PwBH21Vvxvn1pFxaTibHIe0PpDk1oOCKQ+Gax9EUPksFfaWDh/wUwbcp+ytM47bCFMgMCyyvK+kMxOTc4PQWOwmC/NaIz5Wem2odu+X8dslhSHRXzc1cOop0N5iuF1YpiD5aD9VtGaG87TNc8MvhG4dNXsv9Lw9Go8104LhMIPZ3T8BTTFdIMP8IWTYJRB4CtcWVnOH53jDluvXy/TvPUY5Q==;ja4nYm4G7/hIJ7XfbDwGgw=="
