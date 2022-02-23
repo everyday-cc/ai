@@ -52,6 +52,20 @@ related:
         width: 354
         height: 250
         isCached: true
+  - title: "Intelligent Drug Discovery Market to Reach a Valuation of USD 3,711.8 Million by 2027 Growing at a CAGR of 39.4% | Emergen Research"
+    excerpt: "Intelligent Drug Discovery Market is forecasted to be worth USD 3,711.8 Million by 2027, according to a current analysis by Emergen Research. The"
+    publishedDateTime: 2022-02-23T06:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/intelligent-drug-discovery-market-to-reach-a-valuation-of-usd-3711-8-million-by-2027-growing-at-a-cagr-of-39-4-emergen-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/3c552455d6c335565b744ff1f43b3c00e26f2f07-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "AdN06J01YAi1ASOmY7CYG8TN6HmQQc9gGTHv/bcj1wSXXr8rebbJeWBJ2FBZEVvDYjBp31d9QTT3hln/zpBhga4QuiENVKFjZ0Fu9rUgdHKmHFrVoCqPvfDWloLqbLfzHsqMzJlWoHudiLs/urR810LN9mn24ixFU4LBEasANSLc9CqdhMKX3Cr/kPnP2tx9zdz0nLQw+E8zrezralfub2J2ZDNJ1D5AD3j5DHZQuEX5b5PbC+sgiBx60/c/HRmxO2rQV3lIWUHbuVBvogk2lGBdNFHLYl3dhSES+xXyPOcE06KwaK0+hOqhQJOC0KcXyZPZhZDmUEcVAxBQ+vv/4TRQ5E7Hvb2vsi62jGWFDYigDqnQ2X0jdVSXBUrPO44zZ0L13yJbxmAxkf+8mWyBCTAMGFdtFAA/rer8UbV1CJpFcsfS5Clx4h66LhpoREqmcIVpSUNmvJvjjpToz02fDRVSGLfnfxUfFAEhEl39ecmJ+6tuICZxj5dCVXbPpEv9VRudKIIitWG9s5/PwjCqGQ==;XpFq5xIAqcOxgStGoiadBw=="
 ---

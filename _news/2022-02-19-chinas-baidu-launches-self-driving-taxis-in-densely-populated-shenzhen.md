@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-dens
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "China’s Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen"
-    excerpt: "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China."
-    publishedDateTime: 2022-02-18T13:31:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/02/chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 59
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/18/3a3f19bdef62d31e313b4ac74f3f28d7.gif?ar=16%3A9&fit=crop&q=65&w=1200&fm=jpg&frame=1"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "D4VpElVJAF4zD3FHyVqWy+ap5l5oBj378DXc8Qp+ZjOkhBxvmpg8zoqXESdQOYCClANdpEhqJnwT5f8noiErm50iPekikQBCbNqXIHeRhDs65fNgJBJnStapmIrXLPfAGOvVPR46oGrGY3CPzbg7CiBD4kmM8D+iTY8UZDR8cggt19f3g3ttTigyBgJvFTADVS/y4LnJAY+pLG2ODzOzFallYyP0rKuZUgzkYy6GhKss61+JBcN3kgxUnwHHF1rir5aLAeyConAco7bqHJn1/k3axpZegqhXhYvzGteHBW6foiCueUIJgHawkn/lShkKpNo9Nt0kJC0TcnWQVcGqk4362aRe4x0hLjLTsaMJQQr020MkT0KIAYD2blfK7sfgSx+r1mbM+7G+jJLmxjJysuDc6eLbsnVdmQCLhTaqlPIoKetEPPZsmBCKwuHIbdepvH8XS+Ta7bdeisI6wRYyyujmxbSFN57Zqra9xFPpQZKhMKvgmaQLqQnpHCFjc0XKu1/KRH9LGb3MrpLNcPYuDQ==;EyvN5rpo7sS8ZfJW9QdVsg=="
 ---

@@ -119,20 +119,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "18/02 – Weekly Fintech Recap"
-    excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."
-    publishedDateTime: 2022-02-18T14:16:00Z
-    webUrl: "https://financialit.net/news/digital-banking/1802-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_1.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Fintech is revolutionizing the insurance sector"
     excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
     publishedDateTime: 2022-02-19T09:29:00Z

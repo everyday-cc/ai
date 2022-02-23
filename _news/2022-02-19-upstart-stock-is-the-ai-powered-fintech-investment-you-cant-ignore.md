@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/419185"
 webUrl: "https://www.entrepreneur.com/article/419185"
 type: article
 quality: 71
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "18/02 – Weekly Fintech Recap"
-    excerpt: "Databricks launches Lakehouse for financial serves to accelerate data-driven innovation across the industry Databricks, the Data and AI company and pioneer of the ... in Latin America Transact365, a UK-based fintech, has launched its global payments ..."
-    publishedDateTime: 2022-02-18T14:16:00Z
-    webUrl: "https://financialit.net/news/digital-banking/1802-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_1.jpeg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Five Essential FinTech Trends to Watch in 2022"
     excerpt: "Machine Learning is continuously developing, and Fintech will remain just one of the major sectors to gain from the power of AI/ML. 5. The development of Banking-as-a-Services. Over the last few years, Banking-as-a-Service (BaaS) services and platforms ..."

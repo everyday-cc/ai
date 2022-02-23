@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Paving the way for AI and Machine Learning success"
-    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
-    publishedDateTime: 2022-02-22T15:15:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 56
-    images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "Demand for Deep Learning Growing due to Rising Adoption of Cloud Computing"
     excerpt: "Owing to this, the use of deep learning technology has also increased significantly. The architecture of cloud computing supports scalability and virtualization, along with offering storage for a ..."
     publishedDateTime: 2022-02-21T21:54:00Z

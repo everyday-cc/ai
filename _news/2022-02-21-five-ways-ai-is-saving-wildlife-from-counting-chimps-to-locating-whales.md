@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paving the way for AI and Machine Learning success"
-    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
-    publishedDateTime: 2022-02-22T15:15:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 56
-    images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "How AI is being used to stop poaching in Africa"
     excerpt: "Scientists have developed Artificial Intelligence systems that are being used to reduce poaching in Africa. These systems use and learn from information on where the poaching is taking place to help protect the animals. According to a recent report ..."
     publishedDateTime: 2022-02-22T11:34:00Z

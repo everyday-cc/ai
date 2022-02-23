@@ -160,20 +160,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Worldwide Aerostat Systems Industry to 2027 - Featuring Aerostar International, ILC Dover and RosAeroSystems Among Others - ResearchAndMarkets.com"
-    excerpt: "There are numerous organizations which have started employing intelligent video surveillance systems owing to several advantages offered by them, such as object recognition and video analytics. Other than this, the demand for high-quality aerostat systems ..."
-    publishedDateTime: 2022-02-18T14:59:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=618918"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "J+U/H4rYLZHLMhjheUcIQjGzMdefq1u1KEy1qJuxFc0IEuv3+3mM0xTbwGNDnyF2uWe5MVuFC/EGhGXQ0XA/ThJ55rUaYDuOgj5BKUHBHVY8FxPZ7OagdQUwXMHk0SI+rXyP+bmvnbrGGDkYLL2E43gupS78/HuOmeUDZG2KWq+GenobjvFCKfGElMpmT2kW+IuL6lOGq9d9ImyrdX0ZeYurJqBAVI74jpv4R9b5rpfpwKbYGO2pw0jwZCBL6KtDlUUjryJ11WUW8i0ykz8pDRvsH+9liyxueyPZq5BIGNWMwwt7Wyi2JmZbDz3gvg1KbiCYpRn2DRemAH0ByZiCOBuFNnyvXZR8lYc4mz24E/E=;3+YaiVdrgjb3SMdgNfS9oQ=="
 ---

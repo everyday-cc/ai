@@ -414,6 +414,57 @@
       ]
     },
     {
+      "path": "_news/2022-02-23-darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding.md",
+      "title": "Darkweb And Cybercrime Monitoring Startup Cyble Announces US $10 Million in Series A Funding",
+      "excerpt": "AI-powered cyber intelligence company Cyble announced ... Cyble has also been recognised by Forbes as one of the top 20 Best Cybersecurity Start-ups, along with several other industry recognitions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/22/darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding/",
+      "originalUrl": "https://venturebeat.com/2022/02/22/darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20220215006151/en/1359306/4/Cyble_Co-founders.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/22/darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding/amp/",
+      "publishedDateTime": "2022-02-22T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-ai-lifecycle-management-startup-cnvrgio-launches-ready-made-ml-pipelines.md",
       "title": "AI lifecycle management startup Cnvrg.io launches ready-made ML pipelines",
       "excerpt": "Register here. Cnvrg.io, the Intel-owned startup that offers a full-stack platform to help enterprises manage AI models and build auto-adaptive machine learning pipelines, has announced an open ...",
@@ -1159,57 +1210,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-a-call-to-bring-more-human-centered-design-to-artificial-intelligence.md",
-      "title": "A call to bring more human-centered design to artificial intelligence",
-      "excerpt": "Many AI systems are developed under the assumption that 'whatever we want from AI, we're going to press the button, and as if if by magic, it's going to deliver the result to us.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a110448f6fc5f86778ca95ef106d3f8d8140ac6d/2022/02/21/3ce069ce-c48e-4564-9d58-fe286fb6a2d0/rainbow-hand-cropped-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "publishedDateTime": "2022-02-21T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -75,6 +75,22 @@ related:
         width: 940
         height: 494
         isCached: true
+  - title: "Microsoft’s New ‘Singularity’ AI System Might Have 100,000+ GPUs"
+    excerpt: "Microsoft's research teams are working on Singularity, a new infrastructre to manage AI and deep learning workloads."
+    publishedDateTime: 2022-02-23T05:44:00Z
+    webUrl: "https://fossbytes.com/microsoft-singularity-ai-gpu/"
+    ampWebUrl: "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 74
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
     excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
     publishedDateTime: 2022-02-22T16:40:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeUHPCl2rWnA/article-cover_image-shrink_720_1280/0/1645547788519?e=1651104000&v=beta&t=NW_SmuhlSnlHfUtKOMd6TYbsvm6-I6XlEUsbTTpWgbw"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft to introduce a new AI platform called ‘Singularity’"
+    excerpt: "Singularity is also enabled to jump back in when a job is cut off unlike many other systems that restart from the beginning after failure."
+    publishedDateTime: 2022-02-23T05:19:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-to-introduce-a-new-ai-platform-called-singularity/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Copy-of-Unnamed-Design-1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "U.S. Bank links up with Microsoft's cloud services to power its applications"
     excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications over to the cloud. The nation's fifth-largest bank, based in Minneapolis, announced Tuesday that it will migrate that infrastructure to Microsoft Azure,"

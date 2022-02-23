@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Impacts
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI and machine learning are vital cybersecurity tools for 2022"
-    excerpt: "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ..."
-    publishedDateTime: 2022-02-18T14:35:00Z
-    webUrl: "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022"
+  - title: "Paving the way for AI and Machine Learning success"
+    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
+    publishedDateTime: 2022-02-22T15:15:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 56
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645030838/webroot_carbonite_logos_Numbers_Brain_AI.jpg"
-        width: 1260
-        height: 710
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
+        width: 1000
+        height: 450
         isCached: true
   - title: "Upcoming AI Tech for 2022"
     excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
@@ -56,19 +56,33 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Go-to-market cybersecurity startup Cheq raises $150M in funding"
-    excerpt: "Startup Cheq AI Technologies Ltd., which helps companies block malicious online traffic, today announced that it has raised $150 million in new funding. The Series C funding round was led by ..."
-    publishedDateTime: 2022-02-22T18:02:00Z
-    webUrl: "https://siliconangle.com/2022/02/22/go-market-cybersecurity-startup-cheq-raises-150m-funding/"
+  - title: "The Age of AI and Our Human Future"
+    excerpt: "Three leading public thinkers deliver a bracing introduction to the promise and peril of artificial intelligence (AI). Machine learning has already begun to change human society, for good and ill. Computers that can perform tasks that require human-level ..."
+    publishedDateTime: 2022-02-22T05:04:00Z
+    webUrl: "https://www.foreignaffairs.com/reviews/capsule-review/2022-02-22/age-ai-and-our-human-future"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Foreign Affairs
+      domain: foreignaffairs.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Cheq.png"
-        width: 800
-        height: 438
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2022/02/17/31XnCvrGC2L._SX320_BO1%2C204%2C203%2C200_.jpg?itok=lDjNfrRO"
+        width: 486
+        height: 694
+        isCached: true
+  - title: "AI in Drug Discovery Market Global Industry Analysis, Trends, Market 2022 Size, and Forecasts up to 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on AI in Drug Discovery Market which emphasizes on th"
+    publishedDateTime: 2022-02-21T14:40:00Z
+    webUrl: "https://menafn.com/1103735412/AI-in-Drug-Discovery-Market-Global-Industry-Analysis-Trends-Market-2022-Size-and-Forecasts-up-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "0HSO4khvgGD8TEn2KDNPUfIR5TPKEl+e3BlcG5SSq9O7vWkkFXBmtmBabHpHEtjKDl78dWRExohgsLsCotXzvRMg+5jQ71t5+CEzgoMv++2YgW0At2HTe8sTmzJKSIVA+/urwtYYigovAbGXxTY4M/CI7li/nXhcRCG+r4M4wShK5Qqj7Ln8cJAYFo6nvwBJzXjdDRqyPZvIk6j0fXob7Brx50gox7qrhuEh+uMoPDdHqV2tYzkzyYUPAomVheVEjr3Lg/GwHFjjel/+EZtK79SF6z1acKVTdMOEB/HbbkRrBNsBVmYrBgG3cl2jQmC2i+duKP420qM/vpjqOmkDpS1Y9gX84KqS7fTnLBknMEJAvGp+1cmUeRNhppbv02cfcD+PFyeC2QIzFtzaXtjFn0zdZPBpERDXrQZ1wHz0haYKR44RiJkb8oc1k+CgsxpzN7e9iheB4wgYyPrJS7bcEFY8YGZ7aOVlXuBkdncHOgcn75PEUfGiUS8Y3yUY3oHGIqLb0UZlIbPPiw/vSVZJcA==;J/s0bXm6rGJIHMywkoNKpQ=="

@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-22T23:02:00Z
-originalUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-23T00:02:00Z
+originalUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: NBC26
-  domain: nbc26.com
+  name: Fox 4
+  domain: fox4now.com
 
 topics:
   - Computer Vision
@@ -113,38 +113,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "IRS Lets Taxpayers Opt Out Of Facial Recognition After Backlash"
-    excerpt: "The Internal Revenue Service will continue using controversial facial recognition software for the ... including commercial voice over, podcast recording, music recording, stereo mixing, 5.1 ..."
-    publishedDateTime: 2022-02-23T03:50:00Z
-    webUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/"
-    ampWebUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
-    type: article
-    provider:
-      name: CBS Detroit
-      domain: cbslocal.com
-    quality: 61
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/3C7/C3B/3C7C3BBE335360BFDF0EA3631BED3563.jpg?Expires=1740182400&KeyName=mcpkey1&Signature=Vj52MQ9fDe0LUedsgdduVg0kGh4"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "US state sues Meta over Facebook facial recognition tech"
-    excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
-    publishedDateTime: 2022-02-18T13:30:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/us-state-sues-meta-over-facebook-facial-recognition-tech-1ce63eda-c01c-4870-ab72-cfd7150594af"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 59
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Texas-Attorney-General-Ken-Paxton-sued-Facebook-now-known-as-Meta-for-capturing-and-using-the-biometric-data-of-millions-of-Texans-without-properly-obtaining-their-informed-consent-to-do-so-in-violation-of-state-law-Picture-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1b3a8949-6a1c-5c60-b165-5c53043b8491&operation=CROP&offset=0x91&resize=2008x1130"
-        width: 650
-        height: 366
-        isCached: true
   - title: "IRS announces alternative to facial recognition software"
     excerpt: "After an initial backlash over its facial recognition feature, the Internal Revenue Service said Monday it started a new option that will allow taxpayers to sign up for online accounts without the feature."
     publishedDateTime: 2022-02-21T17:35:00Z
@@ -239,17 +207,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Why you should want the IRS to use facial recognition technology"
-    excerpt: "Here are excerpts from my ope-ed in today's Washington Post on the controversy over IRS use of face recognition: Cowed by the accusations of bias and privacy, the IRS announced that it will ..."
-    publishedDateTime: 2022-02-18T14:06:00Z
-    webUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/"
-    ampWebUrl: "https://reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2022/02/18/why-you-should-want-the-irs-to-use-facial-recognition-technology/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
   - title: "The IRS backs down from facial recognition plan to verify identities"
     excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
     publishedDateTime: 2022-02-19T00:18:00Z
@@ -300,6 +257,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "IRS Lets Taxpayers Opt Out Of Facial Recognition After Backlash"
+    excerpt: "The Internal Revenue Service will continue using controversial facial recognition software for the rest of the current tax-filing season to verify taxpayers' identities before they can log on to its website."
+    publishedDateTime: 2022-02-22T22:27:00Z
+    webUrl: "https://detroit.cbslocal.com/2022/02/22/irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/"
+    ampWebUrl: "https://detroit.cbslocal.com/2022/02/22/irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2022/02/22/irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "IRS offers alternative to facial recognition"
     excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
     publishedDateTime: 2022-02-22T22:21:00Z
@@ -340,6 +308,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PK09wbfJEEN47ONJKzQlCTtcxWQkrhU4JxiXaghj+wJYkXHja90fcr6AdaFxckNm1o1EinoyxPENZ3PLKFrhwdsRWe4u1xUN5W1L3PDrnjHLm0GzxsN3uFWatyCs/7B+/dEBnXt5pd2vJvyWhqOFR9lj440C/GtRmrWxXEOGDPTnamj118ntncgwC4V64xzdLoPP1G/nUMhoN6sZXaV8pCDguD9GLfiMAVUYuyDIcVzY3dwd+S//2DjZCmQiczUSEXFoUVk45nwa95G4CIlgN1Yn3lNPomdMA/L4Y32EQ11UrLzAoy9mTt3YbXLB4jk3RMuhTl/u0/vSQfismb11yCTaue2NaO83YVEVfxwf9NI=;ahxovwTKZY1Nm5sPZUKT+w=="
+secured: "Dji1C0yNxf3E9/dP1V1ZkE1Xpe13+nrRuJqqnvAoO3Q7FgJPYgBdaViAGC+HO2jbfVkF3N4Z9gAJclFmL0D9fo0L6xdJT6gKnIr/VMvc0uHjEQasu4vMdAKzM6o/qQfSu8+Rl2YuJVGjqM385yzj/GUzJLXiwgS5yuXHyZVwc8hMF9Piw0oaeE96SPy2Bf6U72WDJm3eRdM2qsuTPtNJh/ipz0mZ2RcLrHA7YT53v0wQsBr/mUzhpAFCACP1W9Oddgn8t1a5qBrNeZmA+u6YuHo4HVeOpNiB3/ynxaW0Z+ZmeK5wIg2IN/humjNSxp58JhzyIrOfbAD/qCxpJHc7H6DUvYZPBF9Bdg92kfXmpi0=;MLYQnLD9xFetKCCJgh1Iiw=="
 ---
 

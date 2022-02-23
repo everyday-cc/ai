@@ -24,37 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Could artificial intelligence REALLY wipe out humanity?"
-    excerpt: "MANY fear that artificial intelligence will be the end of humankind ... When prompted with the question \"Is AI an existential threat to humanity,\" Matthew O'Brien, a robotics engineer from the Georgia Institute of Technology wrote on Metafact ..."
-    publishedDateTime: 2022-02-19T11:22:00Z
-    webUrl: "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/"
+  - title: "The Key Artificial Intelligence and Machine Learning Trends for 2022"
+    excerpt: "This allows artificial intelligence to complete numerous tasks that would otherwise have been too challenging, giving it new applications in finance, chemistry, and healthcare. Another key AI trend we expect to see is the continued rollout of natural ..."
+    publishedDateTime: 2022-02-21T00:24:00Z
+    webUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/"
+    ampWebUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 61
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/02/LG-AI-COMP2.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/Depositphotos_10142532_S.jpg"
+        width: 1000
+        height: 750
         isCached: true
-  - title: "After humans, AI struggles with morality"
-    excerpt: "However, as artificial intelligence continues to mature and gains complexity, the same principles can be argued against AI as well. AI systems are often labeled as biased and unethical."
-    publishedDateTime: 2022-02-21T03:46:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/after-humans-ai-struggles-with-morality/89714834"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/after-humans-ai-struggles-with-morality/89714834"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/after-humans-ai-struggles-with-morality/89714834"
+  - title: "Paving the way for AI and Machine Learning success"
+    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
+    publishedDateTime: 2022-02-22T15:15:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 56
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89714834,imgsize-26638,width-1200,height-628,overlay-etcio/after-humans-ai-struggles-with-morality.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
+        width: 1000
+        height: 450
+        isCached: true
+  - title: "Upcoming AI Tech for 2022"
+    excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
+    publishedDateTime: 2022-02-20T17:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/upcoming-ai-tech-2022-pierre-llompart"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "AI in Drug Discovery Market Global Industry Analysis, Trends, Market 2022 Size, and Forecasts up to 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on AI in Drug Discovery Market which emphasizes on th"
+    publishedDateTime: 2022-02-21T14:40:00Z
+    webUrl: "https://menafn.com/1103735412/AI-in-Drug-Discovery-Market-Global-Industry-Analysis-Trends-Market-2022-Size-and-Forecasts-up-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "VG9oNqL+fDXcXzkPdpU5pMYSwGNrvdG91wueej4gnMpXdlIrKwPkjrgGVSfaEPELx5TLmiWYmYcjyxaFx5ThI6F8IoMZv9xJvsqlmiLpCh4YR0rY9DpObaRAhcXGJxsEMZu2XD/igBd56eLyYjV372hp/xpTs2nn0h05hvtTRsJi9LJ6i6f7fNOQEvsBe809WWMQuUm/JO3wnLqTH+xKeTm9+HfXirb2TSWA8hSorEts9vl67Is+vJffCSe3vKD4xA5O7P+h97qmY/vVTct26Qe0YMpOFoOjE6NcANcMA4FfUiBbA/4++5IaEjoT+O0+xzfJKu03hE8QP871cDzTUlmXmGJU2D6o8R8htwUtlvX91wFJc3ZUFImVne/19ARDywn1GXpfTQ2nXxu8xsoMoiIuKzkyxNiGWqW/nh9qMfcfRc+fpo8cWlEUeSyqLr+PP8hdS2L4EPwNbT7l9P8/vrOwZxVJ79Wbq+x1Y8dIE76ttu9EhcWtFjEDReV8xv94EbdBfA76mc61eZho/wuFdQ==;5bLNQ7S71MPnb4r6oRBsqg=="

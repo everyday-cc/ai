@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Deep 6 and Carle Partner to Deploy Artificial Intelligence in Clinical Trials"
-excerpt: "Clinical trials play an important role in offering patients early access to cutting-edge care opportunities before they"
-publishedDateTime: 2022-02-22T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25763381/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials"
-webUrl: "https://www.benzinga.com/pressreleases/22/02/n25763381/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials"
-ampWebUrl: "https://www.benzinga.com/amp/content/25763381"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25763381"
+excerpt: "and accelerates the pace of innovation in healthcare.\" About Deep 6 AI Deep 6 AI software accelerates research to the power of AI. The company uses artificial intelligence (AI) and natural language processing (NLP) on structured and unstructured data ..."
+publishedDateTime: 2022-02-23T05:16:00Z
+originalUrl: "https://www.medindia.net/health-press-release/Deep-6-and-Carle-Partner-to-Deploy-Artificial-Intelligence-in-Clinical-Trials-570973-1.htm"
+webUrl: "https://www.medindia.net/health-press-release/Deep-6-and-Carle-Partner-to-Deploy-Artificial-Intelligence-in-Clinical-Trials-570973-1.htm"
 type: article
-quality: 56
-heat: 56
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.benzinga.com/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "cdIX/RVAjR8fFMQSUGhtnZIZniPvWLkgLvHpkv26udxxjAYZ3bZmH7hxiqYG6bP6NRr3H3Py2sIi1sICA5Z1Hmpr+r+vSgM2NLGw4ufZdpi3b5oiro3EJHeF4vrd8Hxpg29OFmc/Pb3X1G6/9UuaC1BeN7BXUck+e/eamJfVpsGGNPhIqsLjkiLh8jUwyx94LfIpxTqqQkSOeqGaJ2Q0lB9JYxobN8ywjpXPiAUbX9UkUgCsaiMntlg1J5PfGZiqRgedGspwP8dPPJ2NvfbApYUWj0fro6xysZEi9pSr+Mc74YosZkhhZNDuqB09LXKhTOlMI1sjMMYrOmhnJCBocGBTSAv9DRmjqyAczdPSgAE=;AUJR3QBADLWS7+lOy/LASQ=="
+secured: "Y1E/bJxiAkjoP5RplEj1Yp8u6IWknD81luxJQiVeZUnY8d3cJvfyTRinCRNE1EVx8KkSFLsEQWwsXuOqIKatNSe1DyNtoZPPFfm+5L+swHzI2tjJLrGJ7fCttuFj64jz4yAttTutrjGhk6F2lAgX+0BgZRac9vjhm2jPBUBmYPVyVH15ZWq/ZxYDsDwjE502Py7IJrAauSGr+AJ53/+di+b6panzGpu8JGQi8NfpAyYTHKCw7C6XhL9zYEj5vcZLTnFCr4FAkQ915RvNuKOca7bL4FsrO2jJ9pJHd1NeQ648sbSXty33p6PyY3E3y/JwXOSHgMBe2tC7bDdJe79KIN5xDvHw/yFCnQmZC9xrFD4=;POUb5g3Du2vyn0c+kSTjig=="
 ---
 
