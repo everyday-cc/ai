@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple adds Dutch voice recognition for Siri on HomePod with version 15.4 beta 4"
+    excerpt: "Siri and the latest HomePod 15.4 beta 4 as Apple is also adding Dutch voice recognition for the personal assistant on its smart speaker."
+    publishedDateTime: 2022-02-23T13:19:00Z
+    webUrl: "https://9to5mac.com/2022/02/23/apple-adds-dutch-voice-recognition-for-siri-on-homepod-with-version-15-4-beta-4/"
+    ampWebUrl: "https://9to5mac.com/2022/02/23/apple-adds-dutch-voice-recognition-for-siri-on-homepod-with-version-15-4-beta-4/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/02/23/apple-adds-dutch-voice-recognition-for-siri-on-homepod-with-version-15-4-beta-4/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 40
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/HomePod-mini-all-colors-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "HomePod 15.4 Beta Adds Dutch Siri Voice Recognition Support"
     excerpt: "Apple has added Dutch language voice recognition support for Siri in the latest HomePod 15.4 beta, further preparing the HomePod mini for release"
     publishedDateTime: 2022-02-23T10:38:00Z
@@ -42,6 +58,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "fc6StOHmU8qq6oOWfU1xzC+x8tdEEkNUTlNurX3HCvlozayYGw4DINCGdrOXniWBV1UEOMl+iuEDQMF025uZuqNfF3CeS75TnqGlzDo9GuykPwf6kPmAu0E9W5Yh7QsINkWFiCYHX8f38Lulw+e9dBbWH2fN0RaFlDftj2LsI8CkhnbHsn1ugtYBd2gV+VbnoX1Gba2SGuDvYP2H29GK9gS5vlH1z1ZZqg2dsXNqtOzDjL1eKiKTdwEZ0mqwevZg4uf2733qZN8reQhDWIJkoavHi5MLfft9YSpYQqP7mRhKzZUCER32ZhGd7RjjHWZsb4QIkbyCETg5ei7Lo6m2CPzC0ws8xj75Dtf/lXywMc4=;j7Gqc/7aOwJvM90ZbmOAqw=="
+secured: "3BU4+nbaNk502iKYBt4Twb71iEmn5uyzhrQDg2ogRILSzXqMg3c/i8W5pOkoNVmVRgpGS+6O1Rr+E6z20Wpfff/JAso1tXN2om+FgapNr2wVhQU8/CMdZf5Dz2NuiQ+mVNyJIvMBs++mwNzbI3gF1vijUAJ8Gx0/XFO4dVmVg26b87NwmYK2q8LEcSdI620lzGO5zWcNODSg3xg2AhCjI9eL6siFNdFTkxXSPOCx6TlFc4WipMQ2kw2gzD8twPh1uMMYQ9owyTjJGE8/nLbZkRGljTTQf93cOkI60ggOLPaXUHgy9IX9dsI8qbHNMmvNO9uvUf8v4cbRwataeK7Bv8uUdbkWXVAmgqbU7EcB9wAL/uiQSvVzQ+UYVCO3yU4Ys1EqA71uG1PKipYqC8KXuawsEKenfacoZzTt36PRc2OsUrrOwtchYMQWrGkqzhK0T6Fez8pfIRi+mIlE7NXyVASe1QYNbJA1KM1Zm9snpMb102c0xv3sr7ZSs2FJu/InOLNbg4Erxq8gtVSUEXThsQ==;tRIV+X1iNQks7stN4UklRw=="
 ---
 

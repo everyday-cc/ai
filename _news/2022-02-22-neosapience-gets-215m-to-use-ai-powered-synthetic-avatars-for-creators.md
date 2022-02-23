@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-po
 ampWebUrl: "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/"
 type: article
-quality: 86
-heat: 106
+quality: 186
+heat: 216
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Synthetic data for AI"
+    excerpt: "The benefits of AI are concentrated in areas where data is available.Synthetic data promises to fill the gaps."
+    publishedDateTime: 2022-02-23T09:55:00Z
+    webUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/"
+    ampWebUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/tr10-synthetic-data-16x9-1.png?w=2256"
+        width: 2256
+        height: 1270
+        isCached: true
   - title: "Neosapience Secures $21.5 Million Series B to Bring AI-Powered Virtual Actors to Content Creators Everywhere"
     excerpt: "SEOUL, Korea, Feb. 22, 2022 /PRNewswire-PRWeb/ -- Neosapience, a startup that operates AI-powered virtual actor service Typecast, which uses AI to create synthetic voices and videos, today announced it has received $21.5 million in Series B funding."
     publishedDateTime: 2022-02-22T13:00:00Z
@@ -59,6 +75,6 @@ related:
         height: 338
         isCached: true
 
-secured: "FHGFKtW49GGMj7euNaQDd+RBXGJGs9Y8EPckrhrIOQPBh/GyT0IWs/UIbeP46v4DML+jbxWx+XQOVDl+jNc25lrViUxkV1WBsBQH3b2ubhPZ50ZAbh2XtQNrUWOZB3NgdxZylurrlmld9r2VG/49iWm2jzILStQsXnmYhdubc/7CYFwiWtb8QLOWbLZA+zIPeqTJd4/LH7f9mnQoSUOzNAvd8k+V9LBvxskdcLGqSiJ3aTlbuyn0TEIHOZESyPOEcIzVaGJn0sCrqebmdHkg35zItY4F1sbIjgBGCHQjpi8UKrzpiDPW110HoOKGReHVDP+D2lrPjl4RlGRTdpPZeZ6nFpG4m5jM+FsMmRJ+Og+G7cjmJc1JeSpW1Qzv4tkWz1L/HDXbTvgH2kdRs1YMmqmrlHkqKmSZcyVFZDSUyTIQoGLB4Up+0Sw1PysId+G+QfWKsE8VMveTN3CV6THOOdCqlC3r8f1Zs1NMumQ/tDuDQmA/95ZOUad2rjcMrRUWq4lAxrWa2pjYBXKo0s/Smg==;5652Ct3dHOsMr3KipA1JAw=="
+secured: "dW+1waW+dhKI9DZyTXKBLMw4z/1+97Oyw0j4BxxsrkRGMCr31D6vDFeWVroIv7WoEqm+Tfm9w1wt87G7cmM+M4xyrdNwX2iBauiD1udjcCG4XTEdTZ30mtPnP0jLwsWccC158IsYot7Pb9LQG1UQf8zNGHdnb6uc6BoCen+Cc72J3oTXNW4tjSzcOruJez1VKEaALIQ9L3KBg4qCEBbFV09g2C9OYEMPx5kmgyW3mRzT8/IVgtsK4geMo3mlFL3sNObrL+EB3a3TM5RUjb0ALjzHtrulqdkS3LMY7yvkG/08e89sRlwPrQUaLWthcrGhdv6N+ZBEEqzRCkuhf5jrbAJIe3X7wnicRJ8SaYv75525AOD9/cHkw/ILAZ3f/jawwhvJkk3WwsVJZTCDg1KEI+27muldJTYPnC5H08JP2KW8E4OB2+XkcjKjJevAOZHpTmRNUtLO+G7OyU7UeQqGaxz1EHmyZLczTDG/iG9vI0Wppn/xCihZXy9pz76er+hXMKa7qauE5kQHqkVQHsJg8gQuUz2zbQjcRYrg2EMJVZ0=;VXXJlNsqfJ196fswkQoaTg=="
 ---
 

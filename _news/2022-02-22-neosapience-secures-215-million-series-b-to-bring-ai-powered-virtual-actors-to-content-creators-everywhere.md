@@ -34,11 +34,27 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 86
+    quality: 186
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-21-at-11.10.27-AM.png?w=1024"
         width: 1024
         height: 852
+        isCached: true
+  - title: "Synthetic data for AI"
+    excerpt: "The benefits of AI are concentrated in areas where data is available.Synthetic data promises to fill the gaps."
+    publishedDateTime: 2022-02-23T09:55:00Z
+    webUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/"
+    ampWebUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/tr10-synthetic-data-16x9-1.png?w=2256"
+        width: 2256
+        height: 1270
         isCached: true
   - title: "Neosapience's Typecast Service Breaks New Ground With the First Commercially Available AI-Powered Voices That Rap and Sing Even Better Than Humans"
     excerpt: "SEOUL, Korea, Feb. 22, 2022 /PRNewswire-PRWeb/ -- Neosapience, a startup that operates AI-powered virtual actor service Typecast, which uses AI to create synthetic voices and videos, today announced two new offerings that will advance the world of content ..."

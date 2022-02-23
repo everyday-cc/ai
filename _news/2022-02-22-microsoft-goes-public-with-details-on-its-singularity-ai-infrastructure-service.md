@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://regmedia.co.uk/2022/02/22/shutterstock_singularity.jpg"
         width: 1299
         height: 600
+        isCached: true
+  - title: "Microsoft Paper Details Its ‘Singularity’ Artificial Intelligence Infrastructure Service"
+    excerpt: "Software Company, Microsoft has shown how it operates ‘Singularity”, its planet-scale distributed scheduling services for Artificial Intelligence workloads presented by"
+    publishedDateTime: 2022-02-23T14:04:00Z
+    webUrl: "https://techbooky.com/microsoft-paper-details-its-singularity-artificial-intelligence-infrastructure-service/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 60
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/singulairty-ai-ms.jpg?fit=940%2C529&ssl=1"
+        width: 940
+        height: 529
         isCached: true
   - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
     excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."

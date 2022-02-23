@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/global-europe/news/following-reco
 webUrl: "https://www.euractiv.com/section/global-europe/news/following-recognition-first-russian-tanks-roll-into-donetsk/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Some Russians voice support for recognition of Luhansk and Donetsk"
-    excerpt: "Some Russians are showing support for the recognition of Luhansk and Donetsk, while others worry that further sanctions may affect daily life, as the crisis between Russia and Ukraine worsens."
-    publishedDateTime: 2022-02-22T09:44:00Z
-    webUrl: "https://news.cgtn.com/news/2022-02-22/Some-Russians-voice-support-for-recognition-of-Luhansk-and-Donetsk-17Rqu7bGwHm/index.html"
+  - title: "Russian Lawmakers Lavish Putin With Praise After Rebel Recognition"
+    excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was \"entirely created by Russia\" and questioned Kyiv's right to ..."
+    publishedDateTime: 2022-02-22T14:54:00Z
+    webUrl: "https://www.ibtimes.com/russian-lawmakers-lavish-putin-praise-after-rebel-recognition-3409250"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/members-of-the-duma-russias-lower-house-of.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "How Far Do Putin’s Recognition Orders Extend?"
+    excerpt: "After the speech, Putin signed orders recognizing the two breakaway territories as independent and pledging Russian defense assistance. The particulars of that order, which aren’t yet known, matter a lot."
+    publishedDateTime: 2022-02-21T20:37:00Z
+    webUrl: "https://www.nationalreview.com/corner/how-far-do-putins-recognition-orders-extend/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
     quality: 24
     images:
-      - url: "https://video.cgtn.com/news/2022-02-22/Some-Russians-voice-support-for-recognition-of-Luhansk-and-Donetsk-17Rqu7bGwHm/video/f817b49f259c4e2996bcc09c34f8bb1a/f817b49f259c4e2996bcc09c34f8bb1a-1280.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.nationalreview.com/wp-content/uploads/2022/02/vald.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
         isCached: true
 
 secured: "0xxOhY/dZQn5sfR7u5/WYHuYV3i9TIb99OrY4Wvc45Gfec5h/GK71li9sC1oBEntZ3b/BqZXTX60kVHIi7nOKqdWdY7mSQ7nT14XVHs4Pxj9W+9pa/ds9vKTowolXlE99ByiTn07LaSKrfhcb0GvQjHYeMlU/68UTv8tkM6Sm3hjfFfveDcUN2ju4zHa46Fe5nOXgz6+UJDuS/wBNKRBKbYkhYtQNF+Epbd1kL90Wotmk66wPc51XpMRhY9Oul/sWzb9ocWK0FVXzcq1ZCxryWxiklOkl6Rax+DUdN45f1ZMMzZpXbtb2IVT+Pj3+bjdnAzlHTv7DxOvNg2zVusjqdw74ph/Nxk+9UhNfJg+Hjw2OUIG+3snLSoGq+41id4sYgqxYsNEAsjvLqYSsqPfMNWgnb8rIhuHpTFU2UaFkYeQ/iYXEwlb2E8P0f81XLnUYqdPD3XwJawJYVzPdOPc2MaHvRj5CB8A5WgCdFaC2CVmL93gkUGdQR0cD/S+x1SmGadO1LSrPwVBGOaeMR4dUQ==;6scw8coNL6PYatCcReeJWw=="

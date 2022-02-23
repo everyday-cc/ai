@@ -27,37 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "An intro to AI, made for students"
-    excerpt: "Adorable, operatic blobs. A global, online guessing game. Scribbles that transform into works of art. These may not sound like they’re part of a curriculum, but learning the basics of how artificial intelligence (AI) works doesn’t have to be complicated, super-technical or boring.To celebrate Digital"
-    publishedDateTime: 2022-02-22T19:00:00Z
-    webUrl: "https://blog.google/technology/ai/discover-ai-in-daily-life/"
-    ampWebUrl: "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/"
+  - title: "Neosapience gets $21.5M to use AI-powered synthetic avatars for creators"
+    excerpt: "Korean startup called Neosapience has developed a ... It will not only allow content with less effort but also execute on our vision of AI-powered virtual actors being accessible to everyone ..."
+    publishedDateTime: 2022-02-22T14:00:00Z
+    webUrl: "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/"
+    ampWebUrl: "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 186
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StillForKeyword_1.max-1300x1300.png"
-        width: 1300
-        height: 731
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-21-at-11.10.27-AM.png?w=1024"
+        width: 1024
+        height: 852
         isCached: true
-  - title: "25,000 students fill National Stadium to take Artificial Intelligence test"
-    excerpt: "KARACHI: More than 25,000 students from different parts of Sindh participated in the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) grand entrance test 2022 here at the National Stadium Karachi (NSK) on Sunday. The initiative is ..."
-    publishedDateTime: 2022-02-21T04:06:00Z
-    webUrl: "https://www.dawn.com/news/1676226/25000-students-fill-national-stadium-to-take-artificial-intelligence-test"
-    ampWebUrl: "https://www.dawn.com/news/amp/1676226"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1676226"
+  - title: "Neosapience Secures $21.5 Million Series B to Bring AI-Powered Virtual Actors to Content Creators Everywhere"
+    excerpt: "SEOUL, Korea, Feb. 22, 2022 /PRNewswire-PRWeb/ -- Neosapience, a startup that operates AI-powered virtual actor service Typecast, which uses AI to create synthetic voices and videos, today announced it has received $21.5 million in Series B funding."
+    publishedDateTime: 2022-02-22T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neosapience-secures-21-5-million-series-b-to-bring-ai-powered-virtual-actors-to-content/article_77f3aefb-d048-5d9a-8db4-174d9dc4d9a7.html"
     type: article
     provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 55
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
     images:
-      - url: "https://i.dawn.com/large/2022/02/6212efb7d131b.jpg"
-        width: 800
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Neosapience's Typecast Service Breaks New Ground With the First Commercially Available AI-Powered Voices That Rap and Sing Even Better Than Humans"
+    excerpt: "SEOUL, Korea, Feb. 22, 2022 /PRNewswire-PRWeb/ -- Neosapience, a startup that operates AI-powered virtual actor service Typecast, which uses AI to create synthetic voices and videos, today announced two new offerings that will advance the world of content ..."
+    publishedDateTime: 2022-02-22T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neosapiences-typecast-service-breaks-new-ground-with-the-first-commercially-available-ai-powered-voices-that/article_6095b874-7564-5f09-99a1-bfc4a9b1fa87.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "Tv4EV0jeCoOr7pV43cPKhBf1R4SmjD1gojSd7d4qgg093zwplWtzBhdpVPIFpXfOBcd5EtUt280YgwjFC+g/+GHZDGCRq1/u0k8twLw6xzfxIihre03K6z9SVDrsnZ9/38LzHgYoarLWK/okeoW3HBIoLvr+elgoZeHPzlKJmTh9/BLxCzzUYtJ3t6Wj2NoUKr5613wqtwBQKup6lSyKkxnjNCKyFBAaO8QhHkCh3NNRveetKfCUROobx7ynaeMvAFENhcfWxB0eaPqSungFubBX4Piyv7pQJUrJ2KXQfaJh1Ytl9clFKMZGpxnMpsozQTgjY3fS9pupJCYB8dbWIyB9CNrPbQOcXz0EjcujtfWADy0CZiZRhGZkftgAjZ4vtZ+FLsJPTvuAZrRb1cYn5KGaYtyJUBJgHYlayZORI3iBic4Fun+/oXACEYxk7nE3IcrHHCDGVSd+IsyxMD4W5l4G5PcRWJJY+SPRPF0V52ftN+yPkWFm7tv3ubadRPyaxL12ZJqyMXzDwdA3tJyjIA==;zJ70FZ2NRNE1IhxP83sfUw=="

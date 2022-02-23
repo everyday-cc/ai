@@ -41,7 +41,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple adds Dutch voice recognition for Siri on HomePod with version 15.4 beta 4"
+    excerpt: "Siri and the latest HomePod 15.4 beta 4 as Apple is also adding Dutch voice recognition for the personal assistant on its smart speaker."
+    publishedDateTime: 2022-02-23T13:19:00Z
+    webUrl: "https://9to5mac.com/2022/02/23/apple-adds-dutch-voice-recognition-for-siri-on-homepod-with-version-15-4-beta-4/"
+    ampWebUrl: "https://9to5mac.com/2022/02/23/apple-adds-dutch-voice-recognition-for-siri-on-homepod-with-version-15-4-beta-4/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/02/23/apple-adds-dutch-voice-recognition-for-siri-on-homepod-with-version-15-4-beta-4/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 40
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/HomePod-mini-all-colors-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "6owx5gdPfl4A//Fcaz2CV/yeCH3rGh4t7blWX9nkrbTESjundm6W1tRDBJYAEfvBjXn9dNP2RWacOxNVEHn+8R7BooZC64rsHvYI0US6aeI+/BqmFT+1Gqy7HXLZVFt6z8snE+ubE7XkN+ZUVeJ9ZeQ1WT8QHKYYqR+4dgp3w1sI1VyT3o2q2BNilmXha9X+9SNPx3v8g6ICMKx2/jC2BRKtMw0tUEHD0B30RNrJdm9dMF1HXwxAWDNEHIQsenQhHpYqPLesjPaeyHRIy09J7iRl5UYe7b5ARaLj235u09CNlEhQJ2M1K87gB1/TnmrDdjr8dSzqeU47r4CrSdOPooaCKOazVrnp0ScwG3ffqHw=;JvwXawIrEGkmD6A9g5c1SA=="
+secured: "0nAw6mrg9LDy8bboP0LBlL6GWURm0wkxCwMkjTobStpTI0hgP9VhjCb7jwzD6VQSJlstJ+YjSA8PNVH/m0y318x131HzMx/7PraGGBDdxq1iZZZ6tBReg4QnTl8mFVtfsivod6xStKCGeg1hBNTcP1gCrLg21JezqWvMvt6CN5J5FoRCZa6uekJ/xVCqnas/jSBi+9vLdfkZGD2tsMm3hAfiRvblNAReWE6VvQLXmyvF3rb3yEMQnjBqMPOnZECzPuq75jOkQXd8L2Qi5sSfHGJU1hz3suqCWOUAaO0WGfAzpSaVoF/MtySnhkYIhi/HmDe3lSMyE4AkRvAEW2/7JoCal9XHQI33p0iP4onxIB450rVUTQVWb5V4/I67JFG71dw2fhGb8dwTYx8/bLa4EXUbK1yp/sJT/rt/PTY+gPZ/igkHhN3BTvWFVy4MeTG1YVo1c4/3kBTPm/dKhDP7xtZfx+T2icSf4NRG64AQZNPk1W/nzOraVYtRg4Th7pQdwF4E49mvwME+uynJIrD5Bg==;MHhUljy5lGYQfzVlVFwcTA=="
 ---
 

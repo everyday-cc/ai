@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Demand for Deep Learning Growing due to Rising Adoption of Cloud Computing"
-    excerpt: "Owing to this, the use of deep learning technology has also increased significantly. The architecture of cloud computing supports scalability and virtualization, along with offering storage for a ..."
-    publishedDateTime: 2022-02-21T21:54:00Z
-    webUrl: "https://menafn.com/1103735988/Demand-for-Deep-Learning-Growing-due-to-Rising-Adoption-of-Cloud-Computing"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/21/pr_11875_005bf647_image_story.jpg"
-        width: 900
-        height: 522
-        isCached: true
   - title: "Five Ways to Shift to AI-First"
     excerpt: "Many companies are aiming for an AI-first strategy where machine learning, in addition to optimizing business processes, is now also being used to rethink business strategies. An AI-first approach strategy makes AI the core of the company used to ..."
     publishedDateTime: 2022-02-22T13:00:00Z

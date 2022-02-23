@@ -23,6 +23,22 @@ images:
     height: 778
     isCached: true
 
+related:
+  - title: "Artificial intelligence hiring levels in the mining industry rose in January 2022"
+    excerpt: "The proportion of mining industry operations and technologies companies hiring for artificial intelligence related positions rose in January 2022 compared with the equivalent month last year."
+    publishedDateTime: 2022-02-23T13:00:00Z
+    webUrl: "https://www.mining-technology.com/features/artificial-intelligence-hiring-levels-in-the-mining-industry-rose-in-january-2022/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 32
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningAI2102-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+
 secured: "S/D2HFDPW4nFYSmhvSMmnLK3smp+c1aM43fCJ4ftUUIEdYoSBF8Xb+60HwPujlbwehhKOG7HTyOO5T/6oPAXZ6t3AEc7eBsZg3eCW+WmlCmzGqP/LB5s8l3UmwscaOI8gz6a5rQquczujlR2hJc/xOBse4jpNMXpHi6u78nItFg3H2DvQXvPB/iG8diiOJFvqghNzmnUXktXySFHuDG13zbzNBomvxwGdewuy3EOvw6O4OTURK8eaMX96x2IoNeeAiG8zrEc8GJSeM247sS9dSJZpah2YQXvf6oOb5N/sxAWJIZysWWZM/TFMk47jcIBc54bdmA2jzRXcvHZBeKuKCv5YnfwR6QrqUEv6Ddt0Q4+zkBUCe/bMhfS9UssCjkYI7Wsqaqq4FsBakBRMuEd1nhWx4CwhSQUWGAdvtMS6JNzmxnL3DGuQlV4/aggtxj7BU+vG/8hto8KUVjdWTL7zdjdUUwOooUL45qXZtgG1XEPvgbGPl0oj3a/zml6fo89T3Y7gogDhqcwLyVM9lqXuQ==;StbFAcVUmOSRzj4YJy7kVg=="
 ---
 

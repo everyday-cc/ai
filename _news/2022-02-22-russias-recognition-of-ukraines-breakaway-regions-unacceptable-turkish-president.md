@@ -25,6 +25,68 @@ images:
     isCached: true
 
 related:
+  - title: "Syria Supports Russia’s Recognition of Breakaway Ukraine Regions"
+    excerpt: "Syria supports Russia’s recognition of the independence of two breakaway regions ... will help increase this cooperation,” Foreign Minister Fayssal Mikdad said in a speech carried by Syrian state media. Russia is the Syrian regime's most powerful ..."
+    publishedDateTime: 2022-02-23T14:02:00Z
+    webUrl: "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-490969/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Ukraine: Putin to decide on recognition of breakaway states today"
+    excerpt: "Broadcast of Russian security council meeting about Donetsk and Luhansk seems to set stage for unexpected and potentially inflammatory move"
+    publishedDateTime: 2022-02-21T17:42:00Z
+    webUrl: "https://www.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/2c24ae76c4d604b698c0355b9a4da1b111815f02/0_16_1880_1128/master/1880.jpg?width=620&quality=85&auto=format&fit=max&s=3c803be2283e5ce3aa866d59786e0fea"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "European leaders condemn Putin’s recognition of Ukraine breakaway regions"
+    excerpt: "Vladimir Putin has recognised two breakaway regions of Ukraine as independent states - laying the groundwork for an invasion."
+    publishedDateTime: 2022-02-21T19:49:00Z
+    webUrl: "https://www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/"
+    ampWebUrl: "https://www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 58
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US to impose sanctions on breakaway Ukraine regions after Putin recognition"
+    excerpt: "Biden summons top national security officials as European leaders condemn Russia’s move"
+    publishedDateTime: 2022-02-21T21:36:00Z
+    webUrl: "https://www.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/229a239d4c60de9e183dab34a3392c1eeb7503be/0_110_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=83dafbca43466ad127ce528aaa2e5a14"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Russia’s Recognition Of Ukrainian Republics Reverberates Around The Region"
     excerpt: "Russia’s formal recognition of eastern Ukraine’s two ... using their Russian acronyms) in a late-night speech at the Kremlin on February 21. The news reverberated heavily in the Caucasus ..."
     publishedDateTime: 2022-02-22T17:00:00Z
@@ -57,6 +119,22 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "In Hour-Long TV Speech, Putin Announces Russia’s Recognition of Ukraine-Held Rebel Areas"
+    excerpt: "Moscow: Russia announced on Tuesday that its recognition of independence for areas in eastern ... Putin announced the move in an hour-long televised speech, blaming the US and its allies for the current crisis and describing Ukraine's bid to join NATO ..."
+    publishedDateTime: 2022-02-22T12:33:00Z
+    webUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas"
+    ampWebUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
+    cdnAmpWebUrl: "https://www-newsclick-in.cdn.ampproject.org/c/s/www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 50
+    images:
+      - url: "https://www.newsclick.in/sites/default/files/2018-12/Putin_0.jpg"
+        width: 600
+        height: 340
+        isCached: true
   - title: "Gold Price Forecast: XAU/USD regains $1900 on Russia’s recognition of DPR and LPR, crisis escalates"
     excerpt: "On Monday during the North American session, the two separatist leaders sought recognition by Russia, which they got after a “long” speech of Russian President Vladimir Putin, who put in perspective the history of Ukraine and Russia. That said ..."
     publishedDateTime: 2022-02-21T23:37:00Z
@@ -73,19 +151,79 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Russian Lawmakers Lavish Putin With Praise After Rebel Recognition"
-    excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was \"entirely created by Russia\" and questioned Kyiv's right to ..."
-    publishedDateTime: 2022-02-22T14:54:00Z
-    webUrl: "https://www.ibtimes.com/russian-lawmakers-lavish-putin-praise-after-rebel-recognition-3409250"
+  - title: "Putin calls for recognition of Crimea as Russia"
+    excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
+    publishedDateTime: 2022-02-22T15:51:00Z
+    webUrl: "https://www.thereporteronline.com/2022/02/22/putin-calls-for-recognition-of-crimea-as-russia/"
+    ampWebUrl: "https://www.thereporteronline.com/2022/02/22/biden-putin-signal-bigger-confrontation-ahead-over-ukraine/amp/"
+    cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/2022/02/22/biden-putin-signal-bigger-confrontation-ahead-over-ukraine/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: The Reporter
+      domain: thereporteronline.com
+    quality: 44
+    images:
+      - url: "https://www.thereporteronline.com/wp-content/uploads/2022/02/Russia_Ukraine_Tensions_72618-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Putin Orders Russian Troops Into Ukraine’s Breakaway Provinces"
+    excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
+    publishedDateTime: 2022-02-21T16:25:00Z
+    webUrl: "https://foreignpolicy.com/2022/02/21/ukraine-russia-recognizes-breakaway-provinces/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
     quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/members-of-the-duma-russias-lower-house-of.jpg"
-        width: 768
-        height: 512
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
+        width: 1000
+        height: 612
+        isCached: true
+  - title: "World leaders condemn Russia's recognition of breakaway Ukraine regions"
+    excerpt: "Germany, France and the United States have agreed to respond to the Russian move. . Read more at straitstimes.com."
+    publishedDateTime: 2022-02-21T23:51:00Z
+    webUrl: "https://www.straitstimes.com/world/europe/world-leaders-condemn-russian-decision-on-ukraine"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/22/md_protestukraine_22022022.jpg?VersionId=NvQ9yU0rzGuR4B.NXWF3c9yMAX9ABn58"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "US 'strongly' condemns Russian recognition of Ukraine's breakaway regions"
+    excerpt: "Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen dramatically in ..."
+    publishedDateTime: 2022-02-21T22:53:00Z
+    webUrl: "https://www.aa.com.tr/en/americas/us-strongly-condemns-russian-recognition-of-ukraines-breakaway-regions/2509375"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 38
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_fccacec837bc06a71f0a8c3430c57639.jpg?v=015115"
+        width: 864
+        height: 486
+        isCached: true
+  - title: "In stunning speech, Russian President Putin spelled out his vision of history, laid groundwork for war with Ukraine"
+    excerpt: "The recognition of the two breakaway regions by Putin ... power and influence. In his speech to the Russian public on Monday night, a sometimes sullen, sometimes angry-sounding Putin was dismissive of modern-day Ukraine, arguing that its creation as ..."
+    publishedDateTime: 2022-02-22T08:00:00Z
+    webUrl: "https://www.freepressjournal.in/world/in-stunning-speech-russian-president-putin-spelled-out-his-vision-of-history-laid-groundwork-for-war-with-ukraine"
+    ampWebUrl: "https://www.freepressjournal.in/amp/world/in-stunning-speech-russian-president-putin-spelled-out-his-vision-of-history-laid-groundwork-for-war-with-ukraine"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/world/in-stunning-speech-russian-president-putin-spelled-out-his-vision-of-history-laid-groundwork-for-war-with-ukraine"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 37
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2022-02/63206b69-3d23-4d6a-a698-c1824d3125ec/putin_history_ukr.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 830
         isCached: true
   - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
     excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."
@@ -100,6 +238,34 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/z/4/r/image.related.StuffLandscapeSixteenByNine.1420x800.4yx99x.png/1645507296741.jpg"
         width: 1420
         height: 798
+        isCached: true
+  - title: "In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces"
+    excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
+    publishedDateTime: 2022-02-21T16:25:00Z
+    webUrl: "https://foreignpolicy.com/2022/02/21/ukraine-russia-recognizes-breakaway-provinces/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 32
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
+        width: 1000
+        height: 612
+        isCached: true
+  - title: "EU lays out sanctions package over Russian recognition of Ukraine’s separatist regions"
+    excerpt: "Russian President Vladimir Putin announced Moscow’s recognition of the regions in a speech on Monday in which he also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s ..."
+    publishedDateTime: 2022-02-22T14:55:00Z
+    webUrl: "https://www.yenisafak.com/en/world/eu-lays-out-sanctions-package-over-russian-recognition-of-ukraines-separatist-regions-3589938"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 31
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/a50d2007-05u074fq8at8anusl18sj8h.jpeg"
+        width: 600
+        height: 336
         isCached: true
   - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkiye's president"
     excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
@@ -128,6 +294,20 @@ related:
       - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_13a05570b4df99613e13751a31eb74b5.jpg?v=163445"
         width: 864
         height: 486
+        isCached: true
+  - title: "UK says recognition of separatist regions of Ukraine violates UN Charter, flouts peace efforts"
+    excerpt: "Rising tensions Putin announced recognition of the regions in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have ..."
+    publishedDateTime: 2022-02-22T08:16:00Z
+    webUrl: "https://www.yenisafak.com/en/world/uk-says-recognition-of-separatist-regions-of-ukraine-violates-un-charter-flouts-peace-efforts-3589876"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 27
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/4ac0495a-8awqols0m7fblymr8txl.jpeg"
+        width: 600
+        height: 336
         isCached: true
   - title: "Australian government condemns Russia’s recognition of ‘LPR/DPR’"
     excerpt: "The Australian government condemns the recognition by Russian President Vladimir Putin ... “everything to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
@@ -213,6 +393,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EU calls Russia's recognition of separatist regions of Ukraine 'blatant violation of international law'"
+    excerpt: "Rising tensions Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Earlier Monday, after a meeting of EU foreign ministers, Borrell ..."
+    publishedDateTime: 2022-02-22T07:25:00Z
+    webUrl: "https://www.yenisafak.com/en/world/eu-calls-russias-recognition-of-separatist-regions-of-ukraine-blatant-violation-of-international-law-3589873"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 23
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/f207f654-22qoxwpzkzhypvucgemt9.jpeg"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
     excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."
     publishedDateTime: 2022-02-21T18:47:00Z
@@ -227,6 +421,20 @@ related:
         width: 672
         height: 420
         isCached: true
+  - title: "Putin’s recognition of breakaway regions pushes EU to fast-track sanctions"
+    excerpt: "Russian President Vladimir Putin's recognition of the self-proclaimed Donetsk and Luhansk People's Republics in eastern Ukraine on Monday (21 February) will force the EU to fast-track a decision on whether to impose massive sanctions on Moscow."
+    publishedDateTime: 2022-02-21T20:33:00Z
+    webUrl: "https://www.euractiv.com/section/europe-s-east/news/putins-recognition-of-breakaway-regions-pushes-eu-to-fast-track-sanctions/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 22
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/94a66be7-8f79-4900-9880-725c40e3b8ca-1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Nicaragua President support Russia's recognition of Donetsk and Luhansk regions"
     excerpt: "What Russia is asking for is security, Ortega said during a speech in Managua. According to him, existing agreements could also provide security in eastern Ukraine, but they were not implemented. \"I condemn Russia’s decision to extend recognition to the ..."
     publishedDateTime: 2022-02-22T08:22:00Z
@@ -235,15 +443,6 @@ related:
     provider:
       name: News
       domain: news.am
-    quality: 0
-  - title: "Russia’s Federation Council votes for recognition of pseudo-republics \"DPR\", \"LPR\""
-    excerpt: "The upper house of the Russian parliament, the Federation Council, unanimously ratified treaties of friendship and mutual assistance, including military assistance, with the pseudo-republics of \"DPR\" and \"LPR\"."
-    publishedDateTime: 2022-02-23T09:23:00Z
-    webUrl: "https://www.ukrinform.net/rubric-polytics/3409477-russias-federation-council-votes-for-recognition-of-pseudorepublics-dpr-lpr.html"
-    type: article
-    provider:
-      name: Ukrinform
-      domain: ukrinform.net
     quality: 0
 
 secured: "jxRVPdn2A4SQxlC54sL/R8e/MkmbpS9zVtlJwbTG+gz0kZk0nyVdVGFXFy8UNcYwnd9Ht0zPfWDF+/Jgg22VRzL56Wr8EHxD6h4w7zRrElUlNJodq1lbwcbfXUMAgTjrQLQ2Q5aJQNj+5+BXXLZpJb/M9M6cH1UTq8z6EI532jERClEFiL0ojm3DwH38XizYsR8ApDYdSonl7n1o0TRm89bMAXQ5W29z69NbxT1QL0Ov6acj3Zd6WIPD1Bs85gx1X2o6TVq4KqurbntRiZbwwYOnAwhPd+tXnCjQoqB7/hR82wG64ZfPXXNBz2i6G7GOHKLm8/TgOd0Kt67rT8jEnFeMqcU21HkU1UghPhYp8W8=;c5n0E8MkRKymDVfHST3hsg=="

@@ -109,6 +109,20 @@ related:
         width: 1299
         height: 600
         isCached: true
+  - title: "Microsoft Paper Details Its ‘Singularity’ Artificial Intelligence Infrastructure Service"
+    excerpt: "Software Company, Microsoft has shown how it operates ‘Singularity”, its planet-scale distributed scheduling services for Artificial Intelligence workloads presented by"
+    publishedDateTime: 2022-02-23T14:04:00Z
+    webUrl: "https://techbooky.com/microsoft-paper-details-its-singularity-artificial-intelligence-infrastructure-service/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 60
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/singulairty-ai-ms.jpg?fit=940%2C529&ssl=1"
+        width: 940
+        height: 529
+        isCached: true
   - title: "Microsoft to introduce a new AI platform called ‘Singularity’"
     excerpt: "Singularity is also enabled to jump back in when a job is cut off unlike many other systems that restart from the beginning after failure."
     publishedDateTime: 2022-02-23T05:19:00Z

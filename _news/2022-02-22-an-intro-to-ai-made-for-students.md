@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synthetic data for AI"
-    excerpt: "The benefits of AI are concentrated in areas where data is available.Synthetic data promises to fill the gaps."
-    publishedDateTime: 2022-02-23T09:55:00Z
-    webUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/"
-    ampWebUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/tr10-synthetic-data-16x9-1.png?w=2256"
-        width: 2256
-        height: 1270
-        isCached: true
   - title: "25,000 students fill National Stadium to take Artificial Intelligence test"
     excerpt: "KARACHI: More than 25,000 students from different parts of Sindh participated in the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) grand entrance test 2022 here at the National Stadium Karachi (NSK) on Sunday. The initiative is ..."
     publishedDateTime: 2022-02-21T04:06:00Z

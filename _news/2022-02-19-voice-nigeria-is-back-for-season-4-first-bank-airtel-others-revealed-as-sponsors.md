@@ -7,8 +7,8 @@ originalUrl: "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-fir
 webUrl: "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Nigerian Tribune
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "First Bank, others unveiled as sponsors of The Voice Season 4"
-    excerpt: "... the voice website www.thevoicenigeria.com for more information or social media platforms of The Voice Nigeria. The show is best known for its recognition and unveiling of singing talents, even as Nigerian musical talent continues to gain international ..."
-    publishedDateTime: 2022-02-18T21:41:00Z
-    webUrl: "https://pmnewsnigeria.com/2022/02/18/first-bank-others-unveiled-as-sponsors-of-the-voice-season-4/"
-    type: article
-    provider:
-      name: PM NEWS Nigeria
-      domain: pmnewsnigeria.com
-    quality: 41
-    images:
-      - url: "https://cdn.pmnewsnigeria.com/wp-content/uploads/2022/02/The-Voice-Nigeria-Season-4-e1645220266456-636x412.jpeg"
-        width: 636
-        height: 412
-        isCached: true
   - title: "The Voice Nigeria Set To Return With Season 4"
     excerpt: "World’s most popular international talent show, The Voice Nigeria is set to return ... The Popular show is best known for its recognition and unveiling of singing talents, even as Nigerian ..."
     publishedDateTime: 2022-02-19T17:59:00Z
