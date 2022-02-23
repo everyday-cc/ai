@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/in/news/apple-looks-to-korean-company-fo
 webUrl: "https://www.techradar.com/in/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/Apple-Car-autopilot-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "GM applies for approval to deploy self-driving cars without human controls"
+    excerpt: "General Motors and its self-driving unit Cruise petitioned the US regulators to build and deploy its self-driving cars on roads without any human controls. Self-driving units have barely received permission to deploy their vehicles without a safety driver ..."
+    publishedDateTime: 2022-02-21T02:26:00Z
+    webUrl: "https://techstory.in/gm-applies-for-approval-to-deploy-self-driving-cars-without-human-controls/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 22
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/cruise_2.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mM+NSoYKP/U/Jl/nuQvzrz/OKORRLVkX7CFnZIwhFYruxuU4TnotbCXmEKdvKOMn9XwxckDuOW3j1n3P67nis2CEgWir15pHlgorjupsvP5T2QxvfgT5PdsWO5C5evVlzxs9v8E6Oq/zOo7nQYJR3jMlb2SmulYpO3TiAra53+IRmpHHai/980dl2NYkVpdMJq4lzphrqLiSmoiN7RueoUprpMiKWKct+K0te3bDoSY0RsjUXSNamtNPeG7/JDEMlptelYqiveDx8T9WiKBntTxQ4KxDhxiLGgLhpwHbxhjyb8caOuLbuf213Myvt4+anat3YKNRQi6jMSJ6Bg+HJX76+9+Tv+rUDKvw6+mxgvI=;eliwOexOUtfk1ERushOo0g=="

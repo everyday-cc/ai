@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/using-machine-learning-artificial-i
 webUrl: "https://www.linkedin.com/pulse/using-machine-learning-artificial-intelligence-"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 533
     isCached: true
 
-secured: "yhvhtKu/hEWULw1V/27WFykD9Ou/FXmq4xA5XH6d49rU/IGu6NQ1/8i27NX3CCkAsbxCoa+Ub9f5DwZ/yhRxK9MN3oiqTxHqE7wJIn3DKpaG7lC0fqzNOlzaic5COLSG4eBJ4qTN5k8ZACXy8jlLTzT1RKD+gWLfqx+HIUZ5UPRGpm6YBN4oOhJKuFDT3axVOBkT2eV7wWaTbPdxyQNVFrLKk76i7DfojrSes0ynpMs4XdaZ5YkLwe+xkyPRMmOnU2M9xCb1ojyO13KHzhn/Rlosm7wmGIdrEtllnn0dsk/qpt6mfY8C2y/0eD6S0K3kQI7UJo2Nl2yOexhTA2abR96X7Va7VHiZ44Tz5BdHaUw=;Qq5Mgf5lMLMiO2r7BSUhOQ=="
+related:
+  - title: "London startup using AI to fight financial crime in the UK by gathering publicly available data scoops up £150K"
+    excerpt: "London-based financial crime intelligence startup Schwarzthal Tech has raised £150,000 in a pre-seed funding. The round was led by the U.K.’s most active seed-stage investor SFC Capital. The startup will use the funds to further develop the platform,"
+    publishedDateTime: 2022-02-23T10:26:00Z
+    webUrl: "https://tech.eu/2022/02/23/london-startup-using-ai-to-fight-financial-crime-in-the-uk-by-gathering-publicly-available-data-scoops-up-ps150k"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 17
+    images:
+      - url: "https://cdn.tech.eu/uploads/2022/02/untitled-design-48-487.png"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "r9mXDi+Ag5o6Gkxw5oAnhflj19IlsOEKJvUcPstnJG4HJL2cImI6XDl5hUmPRNMRDb8L3+LiKXgKAQp8imSxfaD1VELy5vkb94T2hPb9wfd7mPpjeU5PF4q3ju2WE0D5dRrEF70AVbvRnTVokvBXfyRZwKU/iKlZmctZs8ulKe8x6Q+tFLBp6TYcc3is3qHBNb449l6bhOR9NoazzAeGGFS7PUYGoKrQfJQ7KrMFHbS4oQo5BKxyESvNgVT6qtmLmSv45V0QxVnvaD0DUPsyIr+YijpQMbLQa81+3ZHJ2Eo2y4/IvEIkpO5Kblym7o+BvApu6I5zcYpU0Mw7iJpMbLgHnUOk5csU/lAO4hLlrbUnZm800a4ck9bpS/fNOCseEParN7toxkCbSLTIJ6DplNnu50RXNBpRzXt3jlca2Z+Dh/i8HzqVyaLhUvFlyIaneTkY36DdKMfecjWtbmP0lv44T+mtTFtHh/ZtGLO3lnkVBe7UVZh4lbEuIGq5tIXL/IIt0dRrcgb0NgYFNtU24w==;AbJWes2GqP9MKZes8W+PCA=="
 ---
 

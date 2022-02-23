@@ -9,8 +9,8 @@ ampWebUrl: "https://www.brproud.com/news/local-news/covid-treatment-using-existi
 cdnAmpWebUrl: "https://www-brproud-com.cdn.ampproject.org/c/s/www.brproud.com/news/local-news/covid-treatment-using-existing-drugs-developed-by-lsu-ai-gets-trial-approval-in-uk/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: BR Proud
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Skymount garners UK MHRA trial approval for AI-discovered Covid-19 therapeutics"
+    excerpt: "The UK MHRA has granted approval to commence a clinical trial of Skymount Medical’s new oral treatments for mild to moderate Covid-19."
+    publishedDateTime: 2022-02-23T12:10:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/news/mhra-approval-skymount-trial/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 37
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2021/02/Freelance-Clinical-Research-Consultants.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Skymount Medical Receives UK MHRA Approval to Test New Treatment in Patients with Mild to Moderate COVID-19"
     excerpt: "Feb. 22, 2022 (GLOBE NEWSWIRE) — Skymount Medical, a drug discovery company using an artificial intelligence (AI ... we are pleased to expand the reach of this combination therapy internationally.” “Receiving MHRA approval for UK clinical trials ..."
     publishedDateTime: 2022-02-22T13:02:00Z

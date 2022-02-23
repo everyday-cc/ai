@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-21-global-artificial-intelligence-spending-to-reach-434-bn-in-2022.md",
+      "title": "Global artificial intelligence spending to reach $434 bn in 2022",
+      "excerpt": "ET CIO privacy and cookie policy has been updated to align with the new data regulations in European Union. Please review and accept these changes below to continue using the website. You can see ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89713908,imgsize-734064,width-1200,height-628,overlay-etcio/global-artificial-intelligence-spending-to-reach-434-bn-in-2022.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
+      "publishedDateTime": "2022-02-20T18:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027.md",
+      "title": "Artificial Intelligence in Aviation Market Analysis | Global Demand Analysis & Opportunity Outlook 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (Heraldkeepers) -- Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027-2022-02-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027-2022-02-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-20T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-the-key-artificial-intelligence-and-machine-learning-trends-for-2022.md",
       "title": "The Key Artificial Intelligence and Machine Learning Trends for 2022",
       "excerpt": "This allows artificial intelligence to complete numerous tasks that would otherwise have been too challenging, giving it new applications in finance, chemistry, and healthcare. Another key AI trend we expect to see is the continued rollout of natural ...",
@@ -1103,110 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen.md",
-      "title": "China's Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen",
-      "excerpt": "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
-      "originalUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3a3f19bdef62d31e313b4ac74f3f28d7.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
-      "publishedDateTime": "2022-02-18T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip.md",
-      "title": "Intel to blend CPU, GPU cores into monster supercomputing chip",
-      "excerpt": "“Falcon Shores will bring x86 and Xe GPU acceleration into a Xeon socket ... systems computing large data sets and training gigantic AI models”, he says. Specifically, Intel expects Falcon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
-      "originalUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/PnrNYFJsvBVEdsgUmA2PoE-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

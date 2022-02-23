@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 787
         isCached: true
+  - title: "Skymount garners UK MHRA trial approval for AI-discovered Covid-19 therapeutics"
+    excerpt: "The UK MHRA has granted approval to commence a clinical trial of Skymount Medical’s new oral treatments for mild to moderate Covid-19."
+    publishedDateTime: 2022-02-23T12:10:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/news/mhra-approval-skymount-trial/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 37
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2021/02/Freelance-Clinical-Research-Consultants.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "vsZCKiHgAERRrYbcOuVSf7Jv7FjnpvfbEi/r0Qif72W8E5SjDuIujhg3lDX2mlHwqwjJbQ7RwdWunuXeyonzvC7extV4TlvVrYQDMQcvEoiwBznmKwuRRhHmQKscS3wwQ4GsGszjZBCLJcGLyrzHxBJPWBOE0LGoDBfXttaLfARqQ9k6Xm20g0iO8lsl9lb78MIFEP+kMFfuUTvGX9WtXvtELRkWJapntGiJdICKMeR9GEXL9aaWGj/zeFPXoMc39egaOwoFkQQVeSmWq2xeMlDzdC1PlTnTrbkjtVyQcrxSnp1Ql+GBVa5jUAJApWefs6lgkApgtrqEE//1oot7eHPNIRyA6yuq0W6ortZpzJs=;o6MFdAXhmsAiCOqjjUpxzA=="
 ---

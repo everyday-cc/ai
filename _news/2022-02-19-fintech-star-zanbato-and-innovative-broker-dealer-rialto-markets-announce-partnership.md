@@ -55,6 +55,20 @@ related:
         width: 600
         height: 513
         isCached: true
+  - title: "Fintech in the Metaverse"
+    excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
+    publishedDateTime: 2022-02-23T11:55:00Z
+    webUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/img_7407.jpeg"
+        width: 3024
+        height: 3236
+        isCached: true
   - title: "Younited: An interview with the latest French fintech unicorn to set its sights on the UK"
     excerpt: "As vice chairman of France FinTech – a non-profit association promoting fintech ... “We have also developed an AI-based personal finance management tool – called Younited Coach – which provides free budget diagnoses for our customers.”"
     publishedDateTime: 2022-02-21T05:32:00Z

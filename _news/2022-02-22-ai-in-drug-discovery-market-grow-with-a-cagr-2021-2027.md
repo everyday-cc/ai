@@ -52,6 +52,20 @@ related:
         width: 354
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Size Worth US$ 1,798.22 Mn By 2030 | CAGR 49.4%: Absolute Markets Insights"
+    excerpt: "Siemens Healthcare GmbH, and Welltok Get a PDF Sample Copy of this Report at: https://www.absolutemarketsinsights.com/request_sample.php?id=513 This Artificial Intelligence in Medicine market research report is wide-ranging and encompasses various ..."
+    publishedDateTime: 2022-02-23T12:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-size-worth-us-1798-22-mn-by-2030-cagr-49-4-absolute-markets-insights"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Kamel-Ghribi-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Intelligent Drug Discovery Market to Reach a Valuation of USD 3,711.8 Million by 2027 Growing at a CAGR of 39.4% | Emergen Research"
     excerpt: "Intelligent Drug Discovery Market is forecasted to be worth USD 3,711.8 Million by 2027, according to a current analysis by Emergen Research. The"
     publishedDateTime: 2022-02-23T06:13:00Z
