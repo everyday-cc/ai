@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Avanse Financial Services Goes Live With Scienaptic’s AI-Powered Credit Decisioning Platform"
+title: "Avanse Financial Services Goes Live With Scienaptic's AI-Powered Credit Decisioning Platform"
 excerpt: "Over 150 years of credit experience is embedded in Scienaptic's AI native credit decision platform. Our clients across banks, credit unions, fintech, and other lenders use the platform to constantly improve the quality of underwriting decisions."
-publishedDateTime: 2022-02-22T15:02:00Z
-originalUrl: "https://www.cuinsight.com/press-release/avanse-financial-services-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform"
-webUrl: "https://www.cuinsight.com/press-release/avanse-financial-services-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform"
+publishedDateTime: 2022-02-22T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-avanse-financial-services-goes-live-with-scienaptics-ai-/2022/02/22/9549391.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-avanse-financial-services-goes-live-with-scienaptics-ai-/2022/02/22/9549391.htm"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Credit Union Insight
-  domain: cuinsight.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-    width: 792
-    height: 266
-    isCached: true
 
 related:
   - title: "U GRO Capital goes live on Scienaptic’s AI-powered credit underwriting platform"
@@ -40,6 +34,6 @@ related:
         height: 266
         isCached: true
 
-secured: "MiR+l5EbVTW9eAS9Ddl4xGJwfXzy54myzWrAC/rjHWqjMWqBAMorN75sS4BfZuH3LeOTMzQmMUobaFcWUZ8bdfIMnDaS92XFaT2b9l56WUWdhGyTj8HlfpL9mhHmDeOlsdHR7arhmo33pwcRTBwAihG0Hic6XXwVwGoYHaa0E4o2kNxGDlSNZ1e/MlFWrPcfi1jhb+pmNxqX6UNjueKKhr4HI88J01wXsCrTvqDkst+Oh00TnHsGk+D4CuvtOrM0ki0UhJeaQ2bPJOWm5hEwlBFw9BrDOweGG2WOEaKeX5VyGH/gvU0RKzwLxn0KRKlbsaVg3xhL7G5aCcBcZj6R/PvGZ0omLXsruEKbWXxTn+8=;nccq29qYuLiRNefxgpdYwg=="
+secured: "iI+DMBzVUC/uJnQRW8WTg15PqNrGcxjpIXM/eXX0DUNmR6NvPw5N2AzVyweLhlCKHFItX90TTRAPhxH67qofykcCjPbxwJz/YvreCixczbanincSAoLfqw5gXaBkPVzGijrNVmEklR7TTMowjmsV7OXRucgk11HbYnvLOdp5szH80w0J1LeMDpdUmMQMvx7MWSpDh/lfWphGjT5xbfeNshp3GSQamTF7SAcNk4vj488gUycKyIpVWuVNG3lYk7xRcp5S/4VL9seR5k3rDUoTuuvmbcmPZwGb16hWy25Sb3JgUaEuHgVxvE/0D9YBQMNzM7mn+RP/QUVf7zm7vZW22LTr/tbvHgO12W5UWV6jz5o=;fIr6nKvYPanAVHzz5fV58w=="
 ---
 

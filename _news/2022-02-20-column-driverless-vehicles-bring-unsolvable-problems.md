@@ -41,6 +41,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Google May Beat Competitors in Mapping Again, This Time for Driverless Cars"
+    excerpt: "Making a driverless map, like making a driverless ... Thanks to its years of effort and artificial intelligence arsenal, Waymo is considered the leader in HD maps. But to date, the company ..."
+    publishedDateTime: 2022-02-21T00:00:00Z
+    webUrl: "https://skift.com/2018/02/21/google-may-beat-competitors-in-mapping-again-this-time-for-driverless-cars/"
+    ampWebUrl: "https://skift.com/2018/02/21/google-may-beat-competitors-in-mapping-again-this-time-for-driverless-cars/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2018/02/21/google-may-beat-competitors-in-mapping-again-this-time-for-driverless-cars/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 72
+    images:
+      - url: "https://skift.com/wp-content/uploads/2018/02/thumbnail-ac395be8e89eb8e6e008fc9458a94989-e1519233472828.jpeg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "jAc/GncufivKfDCDAJWRSuzt6qkSrb2PFQis0ObtR6VJclqJMg9fl8ydhpx4gYFY/n8WWRn8n2GhgWynMq2KvPxNwTQzHJV+kzaBTRIRXGOWIrJCJbyYWYbVz5AI5Mnpn42wr30JbZASov/8u+QPbvKGlx14YUiuWrEB3WtGXg9F2ktRJ1vW6HMsolcHIhGQkFN9pcbuvxxnnbNAnpYNNe+btzl1cNNcYE0KVL691hxek3ZixOqxCHprLaT9cfdntnkcFSCOPOKTVJ6CjZBjTCA1Emp4nz59kJQpY0eo1ZEaXy4No61T0y7/4PFwxNSNp1lPyjXpyytSsvZc1LVFbBCiMVcipvvFIKTNG8Hjkp2laouOfqeInvTbOjRsKJjU+7AJ11whd57qyKZbV4rmo1MRzQ82U0pL3YJlXPl/fes7GvpHrUKt/pz9w8HdfY58pA7fauoftBOTJGdnqUQkbNmDicwt2cE3qd0kgfHS58VlfkoH9hDoKCa8SxzrzRpe3jIBFDk3whOgWc5P6ZG49w==;wx0uMlGt4rm0B5cH6UADbA=="
 ---

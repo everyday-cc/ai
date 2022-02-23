@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google May Beat Competitors in Mapping Again, This Time for Driverless Cars"
+    excerpt: "Making a driverless map, like making a driverless ... Thanks to its years of effort and artificial intelligence arsenal, Waymo is considered the leader in HD maps. But to date, the company ..."
+    publishedDateTime: 2022-02-21T00:00:00Z
+    webUrl: "https://skift.com/2018/02/21/google-may-beat-competitors-in-mapping-again-this-time-for-driverless-cars/"
+    ampWebUrl: "https://skift.com/2018/02/21/google-may-beat-competitors-in-mapping-again-this-time-for-driverless-cars/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2018/02/21/google-may-beat-competitors-in-mapping-again-this-time-for-driverless-cars/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 72
+    images:
+      - url: "https://skift.com/wp-content/uploads/2018/02/thumbnail-ac395be8e89eb8e6e008fc9458a94989-e1519233472828.jpeg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Column: \"Driverless\" vehicles bring unsolvable problems"
     excerpt: "Despite all the hype, driverless vehicles have some big problems that definitely will not be solved anytime soon. As someone that studies computer science and artificial intelligence, it is quite perplexing to me how legislators have made it possible for ..."
     publishedDateTime: 2022-02-20T04:02:00Z

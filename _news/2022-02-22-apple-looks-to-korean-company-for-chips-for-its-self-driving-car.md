@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/in/news/apple-looks-to-korean-company-fo
 webUrl: "https://www.techradar.com/in/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: TechRadar
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple looks to Korean company for chips for its self-driving car"
+    excerpt: "Apple's much written about autonomous car project cannot seem to let go off its Korean connection. It was initially rumoured that the project was to be handled by Hyundai and Kia. But they pulled out eventually. Yet, Apple continued to be in talks with ..."
+    publishedDateTime: 2022-02-23T00:27:00Z
+    webUrl: "https://www.techradar.com/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/zpTknw8wuFKPVDf9pdG3Re-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple Car autopilot chip a step closer as Apple places test order with Korean company"
     excerpt: "Such chips, which oversee AI computations, usually integrate a neural processing unit, CPU, GPU, memory as well as camera interface among other functions. Sources said Tesla, when developing its ..."
     publishedDateTime: 2022-02-22T13:03:00Z

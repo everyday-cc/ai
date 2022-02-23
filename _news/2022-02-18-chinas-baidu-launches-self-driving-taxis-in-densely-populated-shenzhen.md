@@ -43,22 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Baidu is bringing its autonomous ride-hailing service to Shenzhen"
-    excerpt: "The Chinese search engine giant is now trialing its self-driving taxi service in seven domestic cities with its testing fleet logging 21 million kilometers (13 million miles) since its inception. [Baidu release] Every Wednesday and Friday, TechNode’s ..."
-    publishedDateTime: 2022-02-18T07:23:00Z
-    webUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    ampWebUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
 
 secured: "6X1J7nzn9ETtq4772O2qBEUg2YPM/y0vOVIrGOAJMPbZVuZdxKEGT5Y0NzizgMbyw/B2htjHjKq6OyJdinwZtWm6LRQ1j9zUK5WBT8xuofMH9OHSMIlbLxEqLK4SBrUnt/JLCVS4q6rqhxCbPhelsSM4qIO13bquXcwkByVBRxPWw+9QDjckzuBQ50/5Q1P/xWuQpW/63qH8JOeGDTRXpYZzSmBxloDNF0yPs3dlXm9kI4+eAVkHn1C012HFAuQL2GyTsu0Mzesft5aX1ftwT9kFT2/ic0Q0sXgtw+dbfGe520SQtcnIEaRn3BTzHTUqZEM87jFGc6Af8Z+sQsV/LO0ZUCqQcLMV3/KWL1t2n8A=;z/YyCp5kWy24gdbGC1aLLQ=="
 ---

@@ -62,14 +62,14 @@ related:
         isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
     excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-    publishedDateTime: 2022-02-22T21:46:00Z
-    webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    publishedDateTime: 2022-02-23T00:02:00Z
+    webUrl: "https://www.thedenverchannel.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.thedenverchannel.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
     type: article
     provider:
-      name: Fox 4
-      domain: fox4now.com
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
     quality: 76
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
@@ -270,18 +270,29 @@ related:
     quality: 39
   - title: "IRS offers alternative to facial recognition"
     excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:17:00Z
-    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+    publishedDateTime: 2022-02-22T22:21:00Z
+    webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
     type: article
     provider:
-      name: JournalofAccountancy
-      domain: journalofaccountancy.com
+      name: The Tax Adviser
+      domain: thetaxadviser.com
     quality: 39
     images:
-      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
-        width: 640
-        height: 388
+      - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
+        width: 255
+        height: 335
         isCached: true
+  - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
+    excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
+    publishedDateTime: 2022-02-22T23:44:00Z
+    webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
+    ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
   - title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
     excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
     publishedDateTime: 2022-02-22T22:57:00Z

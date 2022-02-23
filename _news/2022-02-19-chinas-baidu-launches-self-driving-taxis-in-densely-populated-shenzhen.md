@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-dens
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu is bringing its autonomous ride-hailing service to Shenzhen"
-    excerpt: "The Chinese search engine giant is now trialing its self-driving taxi service in seven domestic cities with its testing fleet logging 21 million kilometers (13 million miles) since its inception. [Baidu release] Every Wednesday and Friday, TechNode’s ..."
-    publishedDateTime: 2022-02-18T07:23:00Z
-    webUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    ampWebUrl: "https://technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/02/18/baidu-is-bringing-its-autonomous-ride-hailing-service-to-shenzhen/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "China’s Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen"
     excerpt: "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China."
     publishedDateTime: 2022-02-18T13:31:00Z

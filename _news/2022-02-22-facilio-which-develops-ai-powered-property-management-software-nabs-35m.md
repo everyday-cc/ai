@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:

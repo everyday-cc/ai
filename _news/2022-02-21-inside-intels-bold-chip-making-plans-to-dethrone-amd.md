@@ -9,7 +9,7 @@ ampWebUrl: "https://www.industryleadersmagazine.com/inside-intels-bold-chip-maki
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/"
 type: article
 quality: 59
-heat: 101
+heat: 99
 published: true
 
 provider:

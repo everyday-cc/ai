@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/volkswagen-huawei-self-drivin
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/volkswagen-huawei-self-driving"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 744
     height: 419
     isCached: true
-
-related:
-  - title: "Volkswagen in talks to buy Huawei’s autonomous driving unit: report"
-    excerpt: "Last September, the duo unveiled the first product of their joint effort, a self-driving electric van. The reported acquisition comes at a delicate time for Huawei’s AV team. Su Jing ..."
-    publishedDateTime: 2022-02-18T08:52:00Z
-    webUrl: "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/"
-    ampWebUrl: "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/arcfox-huawei.jpeg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Volkswagen discussing deal for Huawei’s self-driving unit: report"
-    excerpt: "Volkswagen is holding discussions with Huawei about buying the Chinese tech giant’s autonomous driving unit for “billions of euros,” Reuters reported on Feb. 17, citing Manager Magazin, which in turn cited sources familiar with the matter. A ..."
-    publishedDateTime: 2022-02-18T08:38:00Z
-    webUrl: "https://technode.com/2022/02/18/volkswagen-discussing-deal-for-huaweis-self-driving-unit-report/"
-    ampWebUrl: "https://technode.com/2022/02/18/volkswagen-discussing-deal-for-huaweis-self-driving-unit-report/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/02/18/volkswagen-discussing-deal-for-huaweis-self-driving-unit-report/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
 
 secured: "eMO/o/lw/1YA6GpWoY59MsvEFlBZH4OCBYqsWuVpIc+6/0XFb+T3s0wnx4kHBrrgraKhR/cM6KOn/uVaREag8xTvw6AbZXMlOCMxYYB/BgCu9wmZLr6F8sYVLADiczAbkOU1wv7VicLBsKIWkUwJwGHM5DlpWOfEIgnWd6OOM2JLLBf/Clz1heZfusFD1qYSfJTvVOcEirew/4TEhYgBx1UxWmxyDa0rxwF+A7P2vGjtlmfKMoHwKl5iP6PKoIkPG3D8ZrQXf+QzdLbxMgsnSvOIHlIIkcKoJBTPAcMjo7TuaNPnOjmi7MebkxTYUcizRBO8S81IHxPiw6Ra6t7+0hv87uf933edbBsjH16nKXYKrO3y6i9t814W/Z+zzAYX16UmI1yvvz6HIMDN5eZURsengPT8xA+PJHw/77v6NMaiSRrvQTvyQEKk7nP3qzHO5utsKSCelsj94nXRyM7aFI/aTyEtXAzVPPSjTAwu8dj271xO3dzLiSZLTp+81pGFbc6/IMosGRtxuuM2ifGKTQ==;6mDPusUbj1PZztCAGpKmhA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeUHPCl2rWnA/article-cover_image-shrink_720_1280/0/1645547788519?e=1651104000&v=beta&t=NW_SmuhlSnlHfUtKOMd6TYbsvm6-I6XlEUsbTTpWgbw"
         width: 1280
         height: 720
+        isCached: true
+  - title: "U.S. Bank links up with Microsoft's cloud services to power its applications"
+    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications over to the cloud. The nation's fifth-largest bank, based in Minneapolis, announced Tuesday that it will migrate that infrastructure to Microsoft Azure,"
+    publishedDateTime: 2022-02-22T21:00:00Z
+    webUrl: "https://www.startribune.com/u-s-bank-links-up-with-microsofts-cloud-services-to-power-its-applications/600149477/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 53
+    images:
+      - url: "https://chorus.stimg.co/22761934/merlin_63268050.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'Singularity': Microsoft is Working on New AI Cloud Infrastructure Service"
     excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."

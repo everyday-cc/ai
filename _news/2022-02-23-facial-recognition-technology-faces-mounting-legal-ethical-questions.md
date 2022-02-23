@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-22T21:46:00Z
-originalUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-23T00:02:00Z
+originalUrl: "https://www.thedenverchannel.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.thedenverchannel.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Fox 4
-  domain: fox4now.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
   - Computer Vision
@@ -270,18 +270,29 @@ related:
     quality: 39
   - title: "IRS offers alternative to facial recognition"
     excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:17:00Z
-    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+    publishedDateTime: 2022-02-22T22:21:00Z
+    webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
     type: article
     provider:
-      name: JournalofAccountancy
-      domain: journalofaccountancy.com
+      name: The Tax Adviser
+      domain: thetaxadviser.com
     quality: 39
     images:
-      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
-        width: 640
-        height: 388
+      - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
+        width: 255
+        height: 335
         isCached: true
+  - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
+    excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
+    publishedDateTime: 2022-02-22T23:44:00Z
+    webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
+    ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
   - title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
     excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
     publishedDateTime: 2022-02-22T22:57:00Z
@@ -297,6 +308,6 @@ related:
         height: 630
         isCached: true
 
-secured: "k4P1pjX8QrHYP0MRZ7bcQHlJv5mAzd6x6k1215qNsS3tOqBDayOwSjPTs1TyZ7iR869oELuwYnFVff9vOLoCcoQdBBPe8oIxB9iL6CB7Ik324DePJwdaOSH5pGFDIjCjksiWQckwNyrPaNpKfOaMb8tp+wBi+ETGk5yv+RK8nxoYu6aLomlCBBsp5x3O9GmfrJj3OqnY6K+tJxqe5y6Enh9vxZ7WiqIjo/70VajPOZ2GAzcnZBmb8iynTSemushN+pT1JNPZgDvVUovVV8prtqegRW8Ecv7k9dp1fBBefNA5QGkaypOJboyzhIjT6rvI0/mgdZxqATLmKrKMsazjuCfWy75VFV6z7WrbzHPHx3M=;Ib/bskodLmhamVZpevUouw=="
+secured: "voIFyWEtl4CCOymAX9Clufj1nIMBKz/CQUWQIY3LyuZWa4uynTdhv+/ddqNf/dfZWVSBkxP8XEnx733r40UtD3xb16NsxAxInorbjCcHuM/u1TMgX5X5OSsiiPuXjQbwalcFQ4WCbZWr9et9CHRCTJq/ykYNk3xioVVPtMD4ayiy3mKWO/bwJDLOo6T+5xa8UU3QfpFIcSaNSOZRShqt6htrvqdPxZgpqPwXC7hV4X5DazHH8jIVZsrlNF7cd1k6Xx5oCRZAzoqg9e1Da0OEI8SCnghJ8pOL+w2zKdTq46RVsnQoa7pC0vP1lAeSmTNL9YCllJ19e7Qhhfw1b+hlgLDQZk+lNWHW9selZuCNzFo=;KNdNNJXa9rqT1R8uFPMGOw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-23-russias-recognition-of-ukrainian-republics-reverberates-around-the-region.md",
+      "title": "Russia’s Recognition Of Ukrainian Republics Reverberates Around The Region",
+      "excerpt": "Russia’s formal recognition of eastern Ukraine’s two ... using their Russian acronyms) in a late-night speech at the Kremlin on February 21. The news reverberated heavily in the Caucasus ...",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-02-22_ymgmas9jlg.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html",
+      "publishedDateTime": "2022-02-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-how-neuralspace-is-driving-low-resource-language-processing.md",
       "title": "How NeuralSpace is driving low-resource language processing",
       "excerpt": "“In India, Reverie Language Technologies and Skit AI are competitors but they mainly focus on Machine Translation and Speech Recognition, respectively. NeuralSpace offers the first platform that ...",
@@ -41,49 +84,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-kenyas-powerful-speech-on-ukraine-russia-crisis-at-un-event-goes-viral-video.md",
-      "title": "Kenya's Powerful Speech on Ukraine-Russia Crisis at UN Event Goes Viral [VIDEO]",
-      "excerpt": "In his speech, the Ambassador raised grave concerns over Russia ... But they cannot justify today's recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks available and underway that had the ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video",
-      "originalUrl": "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/Ambassador.jpg?itok=Z6nhHyzT",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp",
-      "cdnAmpWebUrl": "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp",
-      "publishedDateTime": "2022-02-21T22:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kenyans.co.ke",
-        "domain": "kenyans.co.ke",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -402,7 +402,7 @@
       "originalUrl": "https://www.techrepublic.com/article/the-best-tools-for-developing-voice-user-interfaces/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 74,
       "tags": null,
       "images": [
         {

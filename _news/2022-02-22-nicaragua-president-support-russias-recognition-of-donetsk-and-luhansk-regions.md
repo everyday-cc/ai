@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "Russia’s Recognition Of Ukrainian Republics Reverberates Around The Region"
+    excerpt: "Russia’s formal recognition of eastern Ukraine’s two ... using their Russian acronyms) in a late-night speech at the Kremlin on February 21. The news reverberated heavily in the Caucasus ..."
+    publishedDateTime: 2022-02-22T17:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 57
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-02-22_ymgmas9jlg.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "Kenya's Powerful Speech on Ukraine-Russia Crisis at UN Event Goes Viral [VIDEO]"
+    excerpt: "In his speech, the Ambassador raised grave concerns over Russia ... But they cannot justify today's recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks available and underway that had the ability to ..."
+    publishedDateTime: 2022-02-22T06:21:00Z
+    webUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video"
+    ampWebUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
+    cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
+    type: article
+    provider:
+      name: Kenyans.co.ke
+      domain: kenyans.co.ke
+    quality: 55
+    images:
+      - url: "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/Ambassador.jpg?itok=Z6nhHyzT"
+        width: 700
+        height: 350
+        isCached: true
   - title: "Gold Price Forecast: XAU/USD regains $1900 on Russia’s recognition of DPR and LPR, crisis escalates"
     excerpt: "On Monday during the North American session, the two separatist leaders sought recognition by Russia, which they got after a “long” speech of Russian President Vladimir Putin, who put in perspective the history of Ukraine and Russia. That said ..."
     publishedDateTime: 2022-02-21T23:37:00Z
@@ -34,6 +66,48 @@ related:
       - url: "https://editorial.fxstreet.com/images/Markets/Currencies/Crosses/XAUUSD/banknote-and-a-gold-bullion-53019984_Small.jpg"
         width: 320
         height: 213
+        isCached: true
+  - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
+    excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."
+    publishedDateTime: 2022-02-22T05:06:00Z
+    webUrl: "https://www.stuff.co.nz/national/politics/300523317/ukraine-nz-says-recognition-of-breakaway-republics-is-pretext-for-invasion"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 36
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/z/4/r/image.related.StuffLandscapeSixteenByNine.1420x800.4yx99x.png/1645507296741.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkish president"
+    excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
+    publishedDateTime: 2022-02-22T11:31:00Z
+    webUrl: "https://www.aa.com.tr/en/politics/russia-s-recognition-of-ukraine-s-breakaway-regions-unacceptable-turkish-president/2509987"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 32
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_27a88d0c1b03a8a195cf1b18a7292313.jpg?v=142428"
+        width: 864
+        height: 486
+        isCached: true
+  - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkiye's president"
+    excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
+    publishedDateTime: 2022-02-22T13:53:00Z
+    webUrl: "https://www.aa.com.tr/en/politics/russia-s-recognition-of-ukraine-s-breakaway-regions-unacceptable-turkiyes-president/2509987"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 31
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_27a88d0c1b03a8a195cf1b18a7292313.jpg?v=142428"
+        width: 864
+        height: 486
         isCached: true
   - title: "UK sanctions 5 Russian banks over Moscow’s recognition of Ukrainian separatist regions"
     excerpt: "Britain on Tuesday sanctioned five Russian banks and three individuals in response to Russia’s recognition of Ukraine’s separatist ... \"In a single inflammatory speech, he (Russian president) denied that Ukraine had any ‘tradition of genuine ..."
@@ -77,20 +151,6 @@ related:
         width: 630
         height: 360
         isCached: true
-  - title: "Following ‘recognition’, first Russian tanks roll into Donetsk"
-    excerpt: "The lengthy televised speech of Russian President Vladimir Putin on Monday ... including a promise that Ukraine will never join NATO. Recognition of the separatist-held areas will narrow the diplomatic options to avoid war, since it is an explicit ..."
-    publishedDateTime: 2022-02-22T06:34:00Z
-    webUrl: "https://www.euractiv.com/section/global-europe/news/following-recognition-first-russian-tanks-roll-into-donetsk/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 24
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/Russian-tank-Donetsk-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "France responds to Russia's Donbass recognition"
     excerpt: "In his speech on Monday evening, Putin said his decision to recognize ... A White House readout of the call said the trio \"strongly condemned\" the Russian recognition of \"the so-called DNR and LNR regions of Ukraine\" and will \"continue to coordinate ..."
     publishedDateTime: 2022-02-22T08:14:00Z
@@ -104,6 +164,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/rtc1645488780.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Martin Kimani: Kenyan Ambassador to Ukraine UNSC Speech against Russia Receives International Acclaim"
+    excerpt: "Martin Kimani has been acclaimed the world over following his powerful speech criticising the attempts by Moscow ... But they cannot justify the recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks ..."
+    publishedDateTime: 2022-02-22T14:28:00Z
+    webUrl: "https://www.tuko.co.ke/world/444229-martin-kimani-kenyan-ambassador-ukraine-unsc-speech-russia-receives-international-acclaim/"
+    type: article
+    provider:
+      name: Tuko
+      domain: tuko.co.ke
+    quality: 24
+    images:
+      - url: "https://netstorage-tuko.akamaized.net/images/870ed59de11c38d4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Latest: Putin calls for recognition of Crimea as Russia"
     excerpt: "MOSCOW — Russia says its recognition of independence for areas in eastern Ukraine ... that President Putin already had an agenda – you heard that agenda in his speech last night,'' Wallace said, referring to Putin's decision to recognize two breakaway ..."

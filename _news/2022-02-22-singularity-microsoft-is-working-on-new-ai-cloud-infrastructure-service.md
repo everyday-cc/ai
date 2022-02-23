@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "U.S. Bank links up with Microsoft's cloud services to power its applications"
+    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications over to the cloud. The nation's fifth-largest bank, based in Minneapolis, announced Tuesday that it will migrate that infrastructure to Microsoft Azure,"
+    publishedDateTime: 2022-02-22T21:00:00Z
+    webUrl: "https://www.startribune.com/u-s-bank-links-up-with-microsofts-cloud-services-to-power-its-applications/600149477/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 53
+    images:
+      - url: "https://chorus.stimg.co/22761934/merlin_63268050.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft is building an AI group from the ground up to tackle the Singularity"
     excerpt: "Microsoft is on the hunt for some talented people to help drive its new AI platform codenamed \"Singularity.\" For those of you paying attention, yes, Microsoft has used the codename Singularity before and from those efforts produced the Midori,"
     publishedDateTime: 2022-02-22T17:27:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Spiking_Net_1200_Social.jpg"

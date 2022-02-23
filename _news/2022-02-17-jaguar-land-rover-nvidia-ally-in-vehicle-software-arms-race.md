@@ -1,39 +1,30 @@
 ---
 category: news
 title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-excerpt: "DETROIT: Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday they will collaborate to develop the computer brains and nervous systems for Jaguars and Land Rovers launching in 2025 and beyond."
-publishedDateTime: 2022-02-17T05:23:00Z
-originalUrl: "https://www.carsifu.my/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/"
-webUrl: "https://www.carsifu.my/news/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race/"
+excerpt: "DETROIT, Feb 16 (Reuters) - Luxury automaker Jaguar Land Rover (TAMOJL.UL) and Silicon Valley artificial intelligence company ... with Alphabet Inc's (GOOGL.O) Waymo unit to deploy autonomous ..."
+publishedDateTime: 2022-02-16T16:24:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/"
+webUrl: "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
-  name: CarSifu
-  domain: carsifu.my
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "A fiber-optic startup could become Nvidia’s most formidable challenger"
-    excerpt: "Earlier this month, a little-known startup based in Israel, CogniFiber, closed a $6 million round A of funding with the lofty goal of reimagining “how modern computing is processed”; nothing more, nothing less."
-    publishedDateTime: 2022-02-21T14:46:00Z
-    webUrl: "https://www.techradar.com/news/a-fiber-optic-startup-could-become-nvidias-most-formidable-challenger"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 52
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QnKQATT9pQtq9NFyVakn4J-1200-80.jpg"
-        width: 915
-        height: 516
-        isCached: true
+images:
+  - url: "https://www.reuters.com/resizer/lDKr2wQMMv6csePVXeGKl7gImc4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4I3LW5Z4NK5XD3QVCGL5T6TCU.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
-secured: "QP5uICjGDhwhKH/n1rK+4WYpZH5NUfDkLsDmhQubn4mhUzQifnZFiQqxGYMF8HAOA464G0sU5ZcQOL3/MNMGsXr7lY+1XDJ9iOfBtC+3VUnMDS1L+EJyi/UAp3X64Fn+OoYMnenR8Oc4AWW2eiI2H4HvAEa+JDQpGmbGsbZkmm4d9dsWfdkfbQLC22T/4rVUBlVvcdSCuHQi4wh/20V87UB7wW9kC8OH1HjZ7ELVt8uqZ2E/NvFX8/vlbAXOCTjpJIQ9zAqNM1HfANS4h7zUh4xD4pLZlC5tqaF80cqbA/tv66hAPyPiQB76ZcxnJW6R1ESRJsrLwP93Slfn+u1yHFveGWeQvPTXtTJt32ItmNol+AERxsNYePYZYvOvM6lM0kdx/VMTgVwRmbaG22TMB23vGyBlX68VEFCi0eRmwCcBj1SPExL85T7UAVQLpVqjnKZZBixDviC4eVOTmbA+G6OKE003sbMGv6xdb6GsGRDLYt6HhSpP8DcJcEsz2h/LkFstD5oO0IGm7NwHS0ujhw==;jAALjdy/FbwZ6be7y0+7hA=="
+secured: "YhlJmkI234/rw9K6Rb64oZCEWJ3k5kURrRC1TBKFjxrEAZJ1Jo2Dq3gloZbps1hbcsYTJ/oROy0DwOEEIQXx7qN1NckHtcFgnVS+xSk9Ft9QqRX8XUfCTJos5txgDq7p+vN9ktt3cxkhtkFrNSDGgqkX6aIkLx9Z+xDbg3x3I6ZqUMt//os2kK7out5ZqPOpEUYi2HZR93pvEgxks6EHrM+Ed8WQAs1HMMhgmDJgFBId8TYoouR9La4Q6YY3Vq0WikV/7SCRaRENFCFUYdk7McYHMocOyv92tpwyATR6w9eqiSNyamZDBoWd94JqWCNNRxxv7oOtt3TYHWnY/3LYlSNKDiinoBkPibGK95xH+9k=;dfooyrZtrB+DuWaynHhfTw=="
 ---
 

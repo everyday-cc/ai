@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel to blend CPU, GPU cores into monster supercomputing chip"
-excerpt: "Intel has teased new Xeon chips that will collect CPU and GPU hardware into one socket to maximize performance across high performance computing (HPC) use cases. Codenamed Falcon Shores, the new line of processors will combine x86 CPU cores with Xe-HPC GPU cores,"
-publishedDateTime: 2022-02-18T14:32:00Z
-originalUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
-webUrl: "https://www.techradar.com/sg/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
+excerpt: "“Falcon Shores will bring x86 and Xe GPU acceleration into a Xeon socket ... systems computing large data sets and training gigantic AI models”, he says. Specifically, Intel expects Falcon ..."
+publishedDateTime: 2022-02-18T14:43:00Z
+originalUrl: "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
+webUrl: "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
 type: article
 quality: 84
 heat: 94
@@ -46,6 +46,6 @@ related:
         height: 475
         isCached: true
 
-secured: "T9e10wer8XUmTBwohO7vqFIwPsb0QsKhvuoZCeD4Kmr+KsVMLnbQDpF5JxWsW7gh1y6h4Ch0g1Uu3CZlaiMDyHwjqMSVvsu0oRkWt5YLULxO7RzCnzIBmjxXm7w8wIzc+SBamk5DiSu70IrAq3XfseU5yXwt5NoAXiaXZjhJZFEf+/gBvj3kXIaO8SgFKRtRkRk8S/qgCCTUa8IGXrXP30WPzoVPRXAvgy9vmEjUx6FMBPIq5PVHnzYYvUq1zd4XBsFE7tR+6b6bc2QoCyBfBCDl46hn006oUsUDdOIh2Pn1+Um2xXWX6U12jaDfG0oM45mcAnhAveEegQxnofxg4WIfUoFQwpnfm6MZqjAM4K0=;iottCQxkOcf2NX3IMnlfnA=="
+secured: "zaXmyq6cucoUXrF2DxfzZVVo37Rk+k9zIlroLQR2hsjpAS7wGNZvvfTEI3A9WSahJT+6kNX5b8VixSfVNvz/Zh/RP8OkWeltCE1BjaNjDJx90E7Zfag7Vh7lYX1tOytjoazg2A56pXKhtPeVtEPIKwrIWjhOR0T5LH+qjvMjMRLlqn3GJ6pLwOszI9u4MTl9Yx4vkjAgO0kMZRPj6GYLoodgyrSmi7AiEOuwEEVka1bwLjTzks0rLWVm9A6VEk2LEXxyen3GImY1yXZvwN1hN0uApJPXWbOpUdL4HILZ2uFC+Ax7iU7swe3P+mKdJUAEoTY80E6fKLta/k1zPMe3cPnc1F1AjZyuPuOxF8O6Zl4=;XwSvtlDB1uKrJFewaJqpCA=="
 ---
 

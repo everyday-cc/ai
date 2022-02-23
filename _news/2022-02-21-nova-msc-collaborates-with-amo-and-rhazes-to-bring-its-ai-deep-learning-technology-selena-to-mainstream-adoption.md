@@ -24,6 +24,22 @@ images:
     height: 680
     isCached: true
 
+related:
+  - title: "UAE - Nova MSC Collaborates with AMO and RHAZES to Bring its AI Deep Learning Technology, SELENA+ to Mainstream Adoption"
+    excerpt: "Under the collaboration, EyRIS' AI deep learning technology, SELENA+, will be deployed to AMO's more than 1,000 members across Malaysia via RHAZES Telehealth. RHAZES Telehealth is Malaysia's first ..."
+    publishedDateTime: 2022-02-21T10:19:00Z
+    webUrl: "https://menafn.com/1103735192/UAE-Nova-MSC-Collaborates-with-AMO-and-RHAZES-to-Bring-its-AI-Deep-Learning-Technology-SELENA-to-Mainstream-Adoption"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?494677"
+        width: 443
+        height: 250
+        isCached: true
+
 secured: "Xh+3sB1E3klcznWpBjul4F9ycyrJYG87N9KMo3J3/d8Eot51UsMCX/zq8Ui/Si8iUYL7KGOIXlePDfqIWh3ZKWYcH01y4gzDKuKUDoAqi/WimlPSnSZyrRDYy9AA9uE36bB2d2vRaG3KLdTxe7ooYyBBh4ZQZAze5gjGxhJxNoyhUYXqrkoPr+KCXr7WcgDsimnA+usp5blb91NAeonaD99YWH0mPKb7YVch0JQd44lU4ZzUTmGmKN6WLdQVlnN3y4fBUwIA2A8uw439Nk3UvhpuxMqz1AIMIR6LTYWPiSM41NNHzEo4H/APkpIR/+Kg1slaF5ZqzR/Z50Mnv1N2WwbfxiRNLp4klWrjXMYkYHvrOAiHudIXeQTnLf/5smSjrbmbTFvVNAOBx/3soL+v9jQkVL3gPIel52UON1hM3nOYtJZUz/Ta/9wW2LmD+X5mcQnivYwFBKRMMNudmt2Nnih4C77KAPTAuM2T3MKGWvAjPtQRV7Q8IRml6I7e53ezhkz+S67KCt4+kfGQFc/XmQ==;hHO8WMWlOCdSRZhPRVTIKA=="
 ---
 
