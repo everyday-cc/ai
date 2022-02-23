@@ -59,6 +59,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Russian lawmakers lavish Putin with praise after rebel recognition"
+    excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was “entirely created by Russia” and questioned Kyiv’s ..."
+    publishedDateTime: 2022-02-22T15:56:00Z
+    webUrl: "https://www.digitaljournal.com/world/russian-lawmakers-lavish-putin-with-praise-after-rebel-recognition/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/975c8f9b83362db371574bc82218551d92fa7cab.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
     excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."
     publishedDateTime: 2022-02-22T05:06:00Z

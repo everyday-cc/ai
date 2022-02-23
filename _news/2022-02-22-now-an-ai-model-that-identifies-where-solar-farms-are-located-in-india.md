@@ -40,6 +40,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Katonic.ai strengthens its ranks in India by appointing Vice President, AI Solutions"
+    excerpt: "Harpreet joins the Katonic executive team to help organisations to harness the power of AI to transform their operations, accelerate growth opportunit.."
+    publishedDateTime: 2022-02-23T02:46:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89762234,imgsize-22264,width-1200,height-628,overlay-etcio/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Student in India develops AI model that turns sign language to English"
     excerpt: "She invented the AI model using Tensorflow object detection ... a pair of gloves called ‘SignAloud’, which could translate sign language into speech or text. They won the Lemelson-MIT ..."
     publishedDateTime: 2022-02-20T21:45:00Z

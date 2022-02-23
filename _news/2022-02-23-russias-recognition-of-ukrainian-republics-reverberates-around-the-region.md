@@ -9,7 +9,7 @@ ampWebUrl: "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Uk
 cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html"
 type: article
 quality: 57
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://editorial.fxstreet.com/images/Markets/Currencies/Crosses/XAUUSD/banknote-and-a-gold-bullion-53019984_Small.jpg"
         width: 320
         height: 213
+        isCached: true
+  - title: "Russian lawmakers lavish Putin with praise after rebel recognition"
+    excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was “entirely created by Russia” and questioned Kyiv’s ..."
+    publishedDateTime: 2022-02-22T15:56:00Z
+    webUrl: "https://www.digitaljournal.com/world/russian-lawmakers-lavish-putin-with-praise-after-rebel-recognition/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/975c8f9b83362db371574bc82218551d92fa7cab.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
     excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."
@@ -223,6 +237,6 @@ related:
       domain: news.am
     quality: 0
 
-secured: "N/qb63e/y7XOo4VX/ix+uVUpPnRFYFBWdN82gURyAu8qdFcEKxSXQ1R4ajbkYlGI0+NuS0DkRb05mYNfMg7EGzf0SeQAD7+xEncrYUIgVjGPWiD3egMYJejysOfm/PkiarH5g4fJ3vd1UixzUMF08rAqBG7wnPMiUbvF1fZft0sGG/pNEahVsusxH3RflLS+sfXGKz2FGaUxerWorzXEOEQsRM2/wddw9GPvRwyRzj/6AyeU5AYpcDqdAH128+By9XT1KBjcQLQprVr2cUGZw0Nn+N/DvO0HX6FZyIM08YJVrCuLOWZusgjZQteKPEQuwZcINvpXKa6TsG6zeg3BjI1iZS+n0QCv5a2YHAscFjI=;MK3jGeRNBufAU87VVfX99g=="
+secured: "aOneMKrVNbkNgv9fyovmOL/S8gThfF4cONkZ4HRRTBQ3izQWqDvTfvev3t6DH7oXxTZX+Fy53wfzHHshJv2amLJuoXDWdcCLaEW5cS+46MuwcDb9YD8b8SGFLSnU2qTLvVgaTOhCjo5vy2EvbaIUWnAQ2eJCx/7smO1TWeg/N+RGTwL1hG6ZCOx0q1tzxRx8AO50OSv0yMWQepCVloORx6G5pmBphxh5t7yetjbVbUkln3tPNMumcZe641IGWrFadUFxnBUIbqJ9wn0uTX6iDAjDpg+K9tPGwiIUjY6BClYTQmqzl/wJa2baeEBa6GVF6tgYWEPa7j+gyDxt/urgmeZRaVqaURdG9l27jTdTtLlEBnXQQSn1sLcr5KRPNzQvp+y+kOjhOfKezB5L3GTTB04rJDQauuYgtLeaoNzVr2J0AzXHz50fGqzivaHbjtfgJ0B+L5QLXibDN4SeMAHx6a+8CHRM9JncWqPO8w7ixV4pPOWVPX1tuj12umTkhu5VmrE/jnpwFsMFdTuJs397ew==;azBnzSQC6bFDU9zu6zUP5g=="
 ---
 

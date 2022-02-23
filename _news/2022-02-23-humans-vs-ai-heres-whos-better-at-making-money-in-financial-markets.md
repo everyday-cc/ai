@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-22T23:00:00Z
 originalUrl: "https://www.brinknews.com/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets/"
 webUrl: "https://www.brinknews.com/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.brinknews.com/wp-content/uploads/2022/02/40512430803_1184c39c4d_k-1024x576.jpg"

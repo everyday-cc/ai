@@ -36,6 +36,17 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 39
+  - title: "How long COVID exhausts the body"
+    excerpt: "Millions of people continue to suffer from exhaustion, cognitive problems and other long-lasting symptoms after a coronavirus infection. The exact causes of the illness, known as long COVID ..."
+    publishedDateTime: 2022-02-20T03:29:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "s0JNqSW7IVJ/ZHIru6/W7FS1PSkLx8vT/G/mP+x55m9QCA6dMQy5ni1glXIsM7katR/Q7LhZm8VCt8slh0bBo/UoojEa/mPf3gEwGx7/Gd52CIk8JD3YgrGKNYD2VXiHQkF96NYqHWts26yzLc60PnVHzwttdsDUgTjuY8DVohB5dPNa3muQ7aJ0WqX5rALJDOb1xv3ZVV1OfYOTst4Ya7OASyL44p4+eGZQJ+4XkdK/5HjaN1foKDxM2pgYVuJTzSm5k3eh5e2J3Hso1SOu74LHgYfSzahf902FShiTib9MfHZ0TqLqesHyJrS4iYxfxw67xZrnB1nn23AbEYdnNhAcd6Hvdr823UQ7T0jIKUM=;phafl33Jq16p2xdTup2ZzA=="
 ---

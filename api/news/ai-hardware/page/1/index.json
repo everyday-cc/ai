@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-23-semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict.md",
+      "title": "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict",
+      "excerpt": "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "originalUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzkyMTc5NTIzODIyOTI1/stock-trader-distressed.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "publishedDateTime": "2022-02-22T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-could-ai-help-solve-the-global-chip-shortage.md",
       "title": "Could AI Help Solve The Global Chip Shortage?",
       "excerpt": "Today’s chip shortage is holding back global economic growth, fueling inflation and making life difficult for consumers and business alike.",
@@ -297,8 +340,8 @@
       "title": "Intel to blend CPU, GPU cores into monster supercomputing chip",
       "excerpt": "“Falcon Shores will bring x86 and Xe GPU acceleration into a Xeon socket ... systems computing large data sets and training gigantic AI models”, he says. Specifically, Intel expects Falcon ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
-      "originalUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
+      "webUrl": "https://www.techradar.com/uk/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
+      "originalUrl": "https://www.techradar.com/uk/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -317,7 +360,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T06:43:00-08:00",
+      "publishedDateTime": "2022-02-18T06:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1340,40 +1383,6 @@
       "provider": {
         "name": "Daily News",
         "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-amd-infinity-hub-channeling-the-power-of-amd-accelerators-for-faster-time-to-science.md",
-      "title": "AMD Infinity Hub: Channeling the Power of AMD Accelerators for Faster Time-to-Science",
-      "excerpt": "[Sponsored Content] GPUs have revolutionized HPC and AI, carrying advanced performance forward where Moore’s Law dropped off. The result: exploding global demand for the chips. The GPU market reached $87 billion for 2021 with a projected CAGR of 33 ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/tag/amd-infinity-hub/",
-      "originalUrl": "https://insidehpc.com/tag/amd-infinity-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
         "images": null,
         "publishers": null,
         "authors": null

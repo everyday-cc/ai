@@ -41,20 +41,6 @@ related:
         width: 600
         height: 513
         isCached: true
-  - title: "Top 12 In-Person Fintech Events Taking Place in H1 2022 in London"
-    excerpt: "Topics covered this years at FinovateEurope will include fintech in Asia, financial inclusion, customer experience, financial crime, digital transformation, omnichannel payments, wealthtech, open banking, artificial intelligence (AI) and more. Insurtech ..."
-    publishedDateTime: 2022-02-18T10:40:00Z
-    webUrl: "https://fintechnews.ch/london/top-12-in-person-fintech-events-taking-place-in-h1-2022-in-london/51626/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/02/Top-12-In-Person-Fintech-Events-Taking-Place-in-H1-2022-in-London.png?x30842"
-        width: 2134
-        height: 1182
-        isCached: true
   - title: "Fintech star Zanbato and innovative broker dealer Rialto Markets announce partnership"
     excerpt: "Black Box at DCW London 2022: Global End-to-End Services NHS organisation named as best not-for-profit in UK Fintech star Zanbato and innovative ... [General]Global Call Center AI Market Report .. [General]Mexico Buy Now Pay Later (BNPL) Mark.."
     publishedDateTime: 2022-02-19T04:50:00Z

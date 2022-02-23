@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89714834,imgsize-26638,width-1200,height-628,overlay-etcio/after-humans-ai-struggles-with-morality.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "The Age of AI and Our Human Future"
+    excerpt: "Three leading public thinkers deliver a bracing introduction to the promise and peril of artificial intelligence (AI). Machine learning has already begun to change human society, for good and ill. Computers that can perform tasks that require human-level ..."
+    publishedDateTime: 2022-02-22T05:04:00Z
+    webUrl: "https://www.foreignaffairs.com/reviews/capsule-review/2022-02-22/age-ai-and-our-human-future"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2022/02/17/31XnCvrGC2L._SX320_BO1%2C204%2C203%2C200_.jpg?itok=lDjNfrRO"
+        width: 486
+        height: 694
         isCached: true
 
 secured: "lACKsViXIPkPGMEN7KnTPrRxVE4BDw9TyhTu1cOQ1d3J9eubqgcmFNQN0bPtFKVDjgJ0M3krE4oB6IHggx7j6lI9K5XvSAcKsmPxjAsgTqg1wFnt1iR8jhT+pUOGLQcejfSD7pQDb/K1uyQ9F/4S/LJOmDxVJXAVF3BZ+bO6aV0CkqURWT7Uibu4ybz6e6LMPPRP4OZdRVgbssMo2DBbcWpQzukWwanY4PIT5elLfkh2/gcvWNU0c+kOpyYTwjPwz9dhuIzunpPJ0vFJOgWd4uFN3ubYHXzPLLeFcal895WpNOt/IQyLXJNepEdHk9Ehx2o81tOFpOK6Xs5SOadTqGQB41TqXBnKsSJUq6UVkgsICd3FmNxxTxwnsTUyGV5Z893wt4JzGrmWBx42MdW6DdWLUxH94ua7FgsRxZsNeVt6iY31/sbnmzkLcDKvhG/vwCHmnlmyd+U28fVqQDnwdxHFqf8Lh6rTy2mhDTA/5vcXuav3jC5DyMm16IPcA2SeKlqlkc1ONQnQW4oV49b4WA==;tvNGjPQB4pK9wbYwdSO2ZA=="

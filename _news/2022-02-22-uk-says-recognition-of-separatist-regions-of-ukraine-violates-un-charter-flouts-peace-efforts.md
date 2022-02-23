@@ -117,20 +117,6 @@ related:
         width: 600
         height: 340
         isCached: true
-  - title: "Extracts from Putin’s speech on Ukraine"
-    excerpt: "Following are extracts from a televised speech by Russian President Vladimir Putin on Ukraine. ON RECOGNITION OF PRO-RUSSIAN SEPARATISTS \"I deem it necessary to make a decision that should have been made a long time ago - to"
-    publishedDateTime: 2022-02-21T18:35:00Z
-    webUrl: "https://kfgo.com/2022/02/21/extracts-from-putins-speech-on-ukraine/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/21/2022-02-21T193510Z_1_LYNXMPEI1K0TT_RTROPTP_3_UKRAINE-CRISIS-RECOGNITION-PUTIN-ADDRESS.JPG"
-        width: 800
-        height: 439
-        isCached: true
   - title: "Putin Orders Russian Troops Into Ukraine’s Breakaway Provinces"
     excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
     publishedDateTime: 2022-02-21T16:25:00Z
@@ -144,20 +130,6 @@ related:
       - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
         width: 1000
         height: 612
-        isCached: true
-  - title: "Putin's angry speech rewriting Ukraine's history"
-    excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."
-    publishedDateTime: 2022-02-22T07:57:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-60458300?at_medium=RSS&at_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5DE2/production/_123343042_7dac87ab-0ed6-4159-aece-6523b1ca9f7d.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Ukraine: how the world reacted to Vladimir Putin's speech"
     excerpt: "Mr Putin's speech, in which he recognised as independent two Ukrainian ... to impose a limited set of sanctions \"targeting those who are responsible\" for Russia's recognition of the rebel regions."

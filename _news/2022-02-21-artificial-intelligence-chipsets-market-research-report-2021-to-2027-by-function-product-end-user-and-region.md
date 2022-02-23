@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 - Global Forecast till 2027"
+    excerpt: "AM 'The global artificial intelligence systems spending market is estimated to be valued at US$ 11.7 Bn in the year 2017 and"
+    publishedDateTime: 2022-02-23T02:49:00Z
+    webUrl: "https://menafn.com/1103747459/Artificial-Intelligence-Systems-Spending-Market-Research-Report-2022-Global-Forecast-till-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?972797"
+        width: 443
+        height: 250
+        isCached: true
   - title: "Iris Recognition Market Insights by Industry Demand, Regional Share Analysis and Forecast 2022-2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Iris Recognition Market which emphasizes on the la"
     publishedDateTime: 2022-02-21T14:42:00Z

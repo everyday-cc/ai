@@ -114,7 +114,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -649,6 +649,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-13-computer-vision-system-market-scope-and-overview-to-develop-with-increased-global-emphasis-on-industrialization-2029-cognex-basler-omron.md",
+      "title": "Computer Vision System Market Scope and overview, To Develop with Increased Global Emphasis on Industrialization 2029 | Cognex, Basler, Omron",
+      "excerpt": "Feb 13, 2022 (Heraldkeepers) -- Computer Vision System Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-scope-and-overview-to-develop-with-increased-global-emphasis-on-industrialization-2029-cognex-basler-omron-2022-02-13?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-scope-and-overview-to-develop-with-increased-global-emphasis-on-industrialization-2029-cognex-basler-omron-2022-02-13?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-12T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1348,49 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-video-analytics-market-clear-understanding-of-the-competitive-landscape-and-key-product-segments-2015-2023.md",
-      "title": "Video Analytics Market Clear Understanding of The Competitive Landscape and Key Product Segments 2015 – 2023",
-      "excerpt": "The products in the video analytics market are used in object recognition, post-event analysis, people recognition, wide spectrum imagery, video indexing, and safety alerts. The others include ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/video-analytics-market-clear-understanding-of-the-competitive-landscape-and-key-product-segments-2015-2023",
-      "originalUrl": "https://www.digitaljournal.com/pr/video-analytics-market-clear-understanding-of-the-competitive-landscape-and-key-product-segments-2015-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

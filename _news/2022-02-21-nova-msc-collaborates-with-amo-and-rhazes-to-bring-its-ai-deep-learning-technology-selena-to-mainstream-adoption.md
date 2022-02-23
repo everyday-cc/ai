@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Nova MSC Collaborates with AMO and RHAZES to Bring its AI Deep Learning Technology, SELENA+ to Mainstream Adoption"
-excerpt: "Under the collaboration, EyRIS’ AI deep learning technology, SELENA+, will be deployed to AMO’s more than 1,000 members across Malaysia via RHAZES Telehealth. RHAZES Telehealth is Malaysia’s first knowledge-based telehealth service provider through ..."
-publishedDateTime: 2022-02-21T06:02:00Z
-originalUrl: "https://www.macaubusiness.com/nova-msc-collaborates-with-amo-and-rhazes-to-bring-its-ai-deep-learning-technology-selena-to-mainstream-adoption/"
-webUrl: "https://www.macaubusiness.com/nova-msc-collaborates-with-amo-and-rhazes-to-bring-its-ai-deep-learning-technology-selena-to-mainstream-adoption/"
+excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 21 February 2022 - Nova MSC Berhad (\"Nova MSC\" or \"the Company\"), which is the exclusive distributor of EyRIS Pte Ltd's (\"EyRIS\") products, has signed ..."
+publishedDateTime: 2022-02-21T07:02:00Z
+originalUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena"
+webUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena"
+ampWebUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena?amp"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 62
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/02/nova-2-t4EfbE.jpeg"
-    width: 1210
-    height: 680
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/nova-2-.jpg?itok=u3QmHiBO"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Xh+3sB1E3klcznWpBjul4F9ycyrJYG87N9KMo3J3/d8Eot51UsMCX/zq8Ui/Si8iUYL7KGOIXlePDfqIWh3ZKWYcH01y4gzDKuKUDoAqi/WimlPSnSZyrRDYy9AA9uE36bB2d2vRaG3KLdTxe7ooYyBBh4ZQZAze5gjGxhJxNoyhUYXqrkoPr+KCXr7WcgDsimnA+usp5blb91NAeonaD99YWH0mPKb7YVch0JQd44lU4ZzUTmGmKN6WLdQVlnN3y4fBUwIA2A8uw439Nk3UvhpuxMqz1AIMIR6LTYWPiSM41NNHzEo4H/APkpIR/+Kg1slaF5ZqzR/Z50Mnv1N2WwbfxiRNLp4klWrjXMYkYHvrOAiHudIXeQTnLf/5smSjrbmbTFvVNAOBx/3soL+v9jQkVL3gPIel52UON1hM3nOYtJZUz/Ta/9wW2LmD+X5mcQnivYwFBKRMMNudmt2Nnih4C77KAPTAuM2T3MKGWvAjPtQRV7Q8IRml6I7e53ezhkz+S67KCt4+kfGQFc/XmQ==;hHO8WMWlOCdSRZhPRVTIKA=="
+secured: "37hcirejnoJGcfnYHHbgftmnSofbr5LGC/6V44z3H/5drIM9qZMWuF3LDd/qhWFQUbiso9yLKQsIN+Wzr3ShwTZVgf/qe6q8bbQowXg9smnc5SpE6AcmzvjYGX+3zOTnsiY/9gsjNIWECRXvmvXxXDIyl3ECCpPkE22+BeDywNYupb5Elwdt9OwkwzO28JBTaxwmy1K16rP4LvLOBAkgJayFifnzOXZL10C2cR2eLXCzpudOvIVppukC9gGzsAxMNF/ktsh491Vz6t9xIUX0BqaZSeVCDlfnuKfO1kSO5TQdd6RkB0T9c9ajcLfP2IvS4gu1aZCEvs4J4EVzue8DdbqhSrAo/C6Xm3aM2jZ75YE=;DIyXRbMOoXkAPtU2yPibZQ=="
 ---
 

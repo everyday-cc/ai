@@ -73,6 +73,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Russian lawmakers lavish Putin with praise after rebel recognition"
+    excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was “entirely created by Russia” and questioned Kyiv’s ..."
+    publishedDateTime: 2022-02-22T15:56:00Z
+    webUrl: "https://www.digitaljournal.com/world/russian-lawmakers-lavish-putin-with-praise-after-rebel-recognition/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/975c8f9b83362db371574bc82218551d92fa7cab.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkish president"
     excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
     publishedDateTime: 2022-02-22T11:31:00Z

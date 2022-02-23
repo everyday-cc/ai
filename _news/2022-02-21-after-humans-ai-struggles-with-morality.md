@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Age of AI and Our Human Future"
+    excerpt: "Three leading public thinkers deliver a bracing introduction to the promise and peril of artificial intelligence (AI). Machine learning has already begun to change human society, for good and ill. Computers that can perform tasks that require human-level ..."
+    publishedDateTime: 2022-02-22T05:04:00Z
+    webUrl: "https://www.foreignaffairs.com/reviews/capsule-review/2022-02-22/age-ai-and-our-human-future"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2022/02/17/31XnCvrGC2L._SX320_BO1%2C204%2C203%2C200_.jpg?itok=lDjNfrRO"
+        width: 486
+        height: 694
+        isCached: true
 
 secured: "7SyKc4gzq1jSddqZI8PxxvL/F2pihYeutpOzdyhzmySW41lfV5XG50d8zBAAQCFWxbEoYxCJ9xZh1D+DTe3DhgboMGO0Iwgt5+UCpX1TFGox9U0soAwRVBid9vaR3QMMzN+o/7G4Pc5tVB0AVqSNkl4LSboBh1nAyUhBpu0275DAHOwIiouEhnIBH7ZDWyp5hojFjAD4yaE2ObzVMii0SBmyEsyRHMLCNoUMwN8XS8J60az1gqBQEhLkU5mFM7NvwP2m6GOqkjGVC/Ik1FrfW1J4MTVWcfxUG8c0rzOJe/HkhSDkC9t/ecgWnAb2jRTNMOMUsuxTlddh5ndkZ6KqKb/xeSqcxF4HoIjxRt1ECbA=;XTv25O3N8eQszZX3VDFQPQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-23T00:05:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272325848/artificial-intelligence-of-things-aiot-market-is-going-to-boom--ibm-twilio-aispeech"
 webUrl: "https://www.bignewsnetwork.com/news/272325848/artificial-intelligence-of-things-aiot-market-is-going-to-boom--ibm-twilio-aispeech"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.bignewsnetwork.com/cus1645462421326.jpg"

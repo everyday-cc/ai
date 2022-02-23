@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "Nova MSC Collaborates with AMO and RHAZES to Bring its AI Deep Learning Technology, SELENA+ to Mainstream Adoption"
-    excerpt: "Under the collaboration, EyRIS’ AI deep learning technology, SELENA+, will be deployed to AMO’s more than 1,000 members across Malaysia via RHAZES Telehealth. RHAZES Telehealth is Malaysia’s first knowledge-based telehealth service provider through ..."
-    publishedDateTime: 2022-02-21T06:02:00Z
-    webUrl: "https://www.macaubusiness.com/nova-msc-collaborates-with-amo-and-rhazes-to-bring-its-ai-deep-learning-technology-selena-to-mainstream-adoption/"
+    excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 21 February 2022 - Nova MSC Berhad (\"Nova MSC\" or \"the Company\"), which is the exclusive distributor of EyRIS Pte Ltd's (\"EyRIS\") products, has signed ..."
+    publishedDateTime: 2022-02-21T07:02:00Z
+    webUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena"
+    ampWebUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena?amp"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 32
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/02/nova-2-t4EfbE.jpeg"
-        width: 1210
-        height: 680
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/nova-2-.jpg?itok=u3QmHiBO"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "LbffsYDsdFKQFV36MpYaJSrA2r4ffra5PpAh3iHab/OtkrBm8OUYiVoGo2Aym/eYSDAybOVTdgWIsebFHo0y8ugg5Q2MB4KQT/0ifWUFSILBNEbOSS/jU3XtUVQQbDFCLT/msBsEP7jPBs3WWKp8TLZkxrW3vncdckgElOJyazdXrBeuMhCQtDBUlRlNkgTGz2oBqYnZubVGj565aHot0wmI9FYPlBsbZerstucZBATtLPRiOJAhTZe88nztwtfVY4lmGjc4WQbad27vzF0GhuUiK9rnGTvWBvwkZNnUzHuQlRwdAWPNnAP6Kw0L/3r/c6eaMTgUvKagGrMBLA9aC1ruId0zD9UR7gcc06BrX4Q=;UjoR2+1XiXxxi3yj7/QHsw=="

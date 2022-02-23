@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/419185"
 webUrl: "https://www.entrepreneur.com/article/419185"
 type: article
 quality: 71
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Insurtech RenewBuy, a Digital Insurance Marketplace, Acquires Fintech Artivatic.AI"
+    excerpt: "India's digital insurance marketplace RenewBuy has reportedly acquired Bengaluru-headquartered Fintech firm Artivatic.AI."
+    publishedDateTime: 2022-02-23T01:43:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/alex-knight-Insurtech.jpg"
+        width: 1800
+        height: 1362
         isCached: true
   - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
     excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."

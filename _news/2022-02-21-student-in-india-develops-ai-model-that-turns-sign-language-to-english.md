@@ -37,6 +37,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Katonic.ai strengthens its ranks in India by appointing Vice President, AI Solutions"
+    excerpt: "Harpreet joins the Katonic executive team to help organisations to harness the power of AI to transform their operations, accelerate growth opportunit.."
+    publishedDateTime: 2022-02-23T02:46:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89762234,imgsize-22264,width-1200,height-628,overlay-etcio/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Now an AI model that identifies where solar farms are located in India"
     excerpt: "As of July 2019, India’s solar power capacity stood at 30 GW from 2.6 GW in March 2014. Recently, researchers from Microsoft AI for Good Research Lab, and The Nature of Conservancy have built an AI Dataset for Solar Energy locations in India with up-to ..."
     publishedDateTime: 2022-02-22T08:30:00Z

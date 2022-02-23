@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.getaway.co.za/wp-content/uploads/2019/04/Approaching-Storm-Elephants-by-Mark-Dumbleton-637x768.jpg"
         width: 610
         height: 319
+        isCached: true
+  - title: "Demand for Deep Learning Growing due to Rising Adoption of Cloud Computing"
+    excerpt: "Owing to this, the use of deep learning technology has also increased significantly. The architecture of cloud computing supports scalability and virtualization, along with offering storage for a ..."
+    publishedDateTime: 2022-02-21T21:54:00Z
+    webUrl: "https://menafn.com/1103735988/Demand-for-Deep-Learning-Growing-due-to-Rising-Adoption-of-Cloud-Computing"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/21/pr_11875_005bf647_image_story.jpg"
+        width: 900
+        height: 522
         isCached: true
   - title: "Five Ways to Shift to AI-First"
     excerpt: "Many companies are aiming for an AI-first strategy where machine learning, in addition to optimizing business processes, is now also being used to rethink business strategies. An AI-first approach strategy makes AI the core of the company used to ..."
