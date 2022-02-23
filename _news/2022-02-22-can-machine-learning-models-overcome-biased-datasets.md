@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Can machine-learning models overcome biased datasets?"
-excerpt: "Artificial intelligence systems may be able to complete tasks quickly, but that doesn't mean they always do so fairly. If the datasets used to train machine-learning models contain biased data, it is likely the system could exhibit that same bias when it makes decisions in practice."
-publishedDateTime: 2022-02-21T16:00:00Z
-originalUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
-webUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
-ampWebUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
+excerpt: "Aug. 29, 2019 — In a key step toward making large-scale optical neural networks practical, researchers have demonstrated a first-of-its-kind multilayer all-optical artificial neural network ..."
+publishedDateTime: 2022-02-21T18:27:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/02/220221115403.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/02/220221115403.htm"
 type: article
-quality: 44
-heat: 44
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
-
-secured: "kDk2IVquag7QlI4qNE5/dXxcsW+VMbcJLik7zhslwPWC8IEamqKiannG9vMSAqwTCZ/2vWohlr8YyhTtuKoMtm0VqviX7YdgUkSRSEn8e55kpF65MWkZo2Dy03AZ+jj9whikH6e+1SDpAc+YtJOJZ02851Gj8SErGOjD/PrTJHJlz3g/FXio+AUztnaHAJIVyECH8RXW9J73/j64HTwfHI6M/2ExeJ99pkQgy15jhNob0A0zaMbVP/cVoz2Dl6hudnIKLQ1a0a2D/ZGrBC21k8bRUoK8mKySWWeuo7DcW9AjEUhXQw7Kqu9ed6dtq7JcHFRA/SIrKFcUuEmrOvUY/IlowB0ma68lw1wNknRpdLM=;nIvIuhSZxqCjYpd4gWoVmw=="
+secured: "5oP0zG2LzcOB2x62MqNvIoWa6R84v3p0q6yUydF8KHQ6QeyVCB0q4nYKfN59XVv+OQoYgq2eFGyp1crG2R+05I69gKAteryIzXVubq0dNk729/T8tpiDZaAaelngBBRderQjtHUjGwrXdIH16idy3VzHL18dsaWKSyeQJxzkOUZacJfZkmmd9dZY8OnXqH83HZu/DC6QWZz25h+T6NL5qiIZ/7MEM+JITHpxgChnEz46E5p6jiQIftUq9UI5vxGGSPFEr+eSmqmANegCy875vyQAgB06o7YcpBvZB7i1pb5SNa/8y7hQtPfn92l0+65EPSqcx0CZ9gncSZtwQjSIBciWPCyBoESGs3VE/fMlxx8=;LoUJ/9SCzhc04fr0BhKdbg=="
 ---
 

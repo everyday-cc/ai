@@ -24,33 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Food and Beverage Industry Set to Witness Explosive Growth by 2028"
-    excerpt: "The Global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62.83 Billion at a steady CAGR of 44.4% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed ..."
-    publishedDateTime: 2022-02-22T07:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-and-beverage-industry-set-to-witness-explosive-growth-by-2028"
+  - title: "Artificial Intelligence Software Market Size 2022 drivers, challenges, and their impact on growth and demand forecasts in 2026"
+    excerpt: "By Application ( Voice Processing, Text Processing, Image Processing) Geography (North America (United States, Canada and Mexico), South America (China, Japan, Korea, India and Southeast Asia), Europe (Germany,"
+    publishedDateTime: 2022-02-23T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2022-drivers-challenges-and-their-impact-on-growth-and-demand-forecasts-in-2026-2022-02-23"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI In Drug Discovery Market GROW WITH A CAGR 2021-2027"
-    excerpt: "Astute Analytica published a new report on the Global AI in drug discovery Market, this market research report provides detailed analysis of primary and"
-    publishedDateTime: 2022-02-21T13:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow-with-a-cagr-2021-2027"
+  - title: "Artificial Intelligence in Genomics Market Research 2021 | Top Key Players, Demand, Revenue, Growth Factors by Types, Trends and Forecast till 2030"
+    excerpt: "Feb 20, 2022 (Heraldkeepers) -- Market Research Engine has published a new report titled as \"Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision), By Application (Genome ..."
+    publishedDateTime: 2022-02-21T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-research-2021-top-key-players-demand-revenue-growth-factors-by-types-trends-and-forecast-till-2030-2022-02-20"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QONE0STFTD0J0LxoXV+3zLJbb9hnHtOkJMq8btDAYi0pVoj41mstSBOcc9Z/Vy6VqYO3nXC3LxoXV5Ed4BWpeoGSRkKHKflRH8P7cO82CIBEAMKBBGAvDMIef1pZgsedPBGcxVDAritacx5ij8aQgc31G7F7Gwa0sHedv5eWKDWva1fJms5n6lPeHAXRMZWWTP06OkJWQlZv6NYhpGUWqg7nRXV/mMd+4Tu7K6FeTJh7YdvUJ7/Lcms9+/PRGyuLVryoDA4oInnGsAAbwO+1tw5IyY4N9QFoLwb1L/9LQiFKlB6kEciWBh9+Q3F40QMR5knzDGMieMWFTyI9VEWb5Q5E8gEzpgr37X7omaRw2KY=;NvKP+svY+LAo7KcKWjJYXw=="

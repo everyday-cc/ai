@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition in Retail Market by Manufacturers, Types, Regions and Application and Forecast 2022 to 2031"
-    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase ..."
-    publishedDateTime: 2022-02-18T23:55:00Z
-    webUrl: "https://menafn.com/1103724928/Image-Recognition-in-Retail-Market-by-Manufacturers-Types-Regions-and-Application-and-Forecast-2022-to-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40803"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "1bb6C1HDnJeGKTbUmRCrzf1V6ivooDRpY9yHYW8tnYNjAyLB4dDGK4bDpm+RlICnuIXYhJYGa2VxQiiKjPghZvcNkPY2YRAB7QzoUpkbhqsErExlNaJ7fsBTG/M6TPnNcxtADt3k8yCTCuQCXomu7G8BYPaHjNFnMRkfGJ0uHb85srIT9StAUyahnzEllRuPX2HAQNwuOB1SDrHWIDIjIdVSm79185ahv9Nh78gkcJPJBNTnkNTio+DpMTJNNqP++YSxi/M6AwfWZiq8RR4KNwevCZomySeU+6iQlr26MP/tq8rkrpZvxGJsXsYnL+5DHo5LaHpfdxGhA+jSp/D74Z0Bah3Z9g6mI/FGLNjhZbk=;0L6erWcAsrUMimMqsHRvmA=="
 ---

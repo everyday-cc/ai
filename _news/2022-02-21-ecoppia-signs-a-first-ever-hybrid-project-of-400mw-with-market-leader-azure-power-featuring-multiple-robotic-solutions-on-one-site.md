@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Ecoppia Signs a First Ever Hybrid Project of 400MW With Market Leader Azure Power, Featuring Multiple Robotic Solutions on One Site"
-excerpt: "Ecoppia (TASE: ECPA), world’s leader in robotic cleaning solutions for photovoltaic solar, announced today another significant milestone with first ever hybrid project of 400MW with renowned energy player,"
-publishedDateTime: 2022-02-21T11:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-israel-robotics-a3190bab7d684cc1aba95490876832a2"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-israel-robotics-a3190bab7d684cc1aba95490876832a2"
+excerpt: "Ecoppia’s versatile portfolio answers the growing needs of large IPP’s such as Azure Power, providing a holistic solution for even the most challenging solar sitesTEL AVIV, Israel--(BUSINESS WIRE)--#Ecoppia--Ecoppia (TASE: ECPA),"
+publishedDateTime: 2022-02-21T06:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=619141"
+webUrl: "https://us.acrofan.com/detail.php?number=619141"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Robotics
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 282
         isCached: true
 
-secured: "9C2Bh8jYJKXSsygkB/tVPhOQxS9DKDNmS6LmWavvvQsf6/x5EAIMgUAFjTVA068s9+r/s6doGpZbZOosPxhkLrPHmcK+eYf7/NILKuV0HTtXlGUpmh9aev6uDlBkn/BuxU4uwPpmyX9X+j+QFymz6KFApiq+T+SoHtxlb8ttQTzI96JV3WDCtJu9HAXNFkmTgjbjb8ewq+8qAB+zW4jW4cKtGr0LSZ2ASFxEnhfsUwpJNHeIoXq/65Zem5xLL4JWZPVVSEibmPgiPxDLP/DOBz7DR32T1iR/zNWEEy9NCd2bcg3jZgPvipngD02JM88VUVaiLEKtw4NuhEfM8YIE5ot/tidee7SbjtifE28RK/w=;t1qsjf5LDj0C3RU7VoFtFg=="
+secured: "qR1X8YNoBklYlf7uVUCxjhl6fyFCOQTJPtcP3MIl1exiceDq+gV7mwakeSizlWp1yoLH5fs7IKfqb6ZLFgNbiWF8sJzhqvsFjVQHHAyFNZFnwnvUxbup3VSllj+SH+w65gRZDxSnDPysuD5IvwJbbhJb7lsU1DV/blj10qVlEmT01d6xeBWIv4sNA3rmvX9dTY6x0UGQynOfzkVwFKYnO6YrB5Uq7Yjdn5HI16GyGYaxtc6U0ayd0iyAZzbWnmvDhSqRIVP/DERb4B5fktSWpPWlUxt91gd96Pilvr/c2DgQDN+vr+ofKyNPQkxtihEGOK10gxjoPBDdjFIyuwF8x4P6arO3k/AZ9L8+mI577SE=;yuEh+4s4FgnFE1gwjAjqDg=="
 ---
 

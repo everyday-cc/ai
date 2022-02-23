@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Vimaan Taps Computer Vision for Drone-Based Warehouse Management"
-excerpt: "Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses."
+excerpt: "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ..."
 publishedDateTime: 2022-02-22T16:18:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
-webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
+originalUrl: "https://www.airforce-technology.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
+webUrl: "https://www.airforce-technology.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Airforce Technology
+  domain: airforce-technology.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/shutterstock_1518283382.jpg"
+  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/02/shutterstock_1518283382.jpg"
     width: 500
     height: 333
     isCached: true
 
-secured: "/RMF5JKsNX+F/UaYR+Ig1jm/NfvgaYFmV6ySvsQEB9uR/c5fnpAqYCBzwG3pkQDR9i0ylxt7YWZXH+JmZbdNEUjYZRUajpPZ1HZWVCx7k8SxG95MeTHdZQIeETEewST/PLlDnfVA3tzrqqYsRYkZGQlOlJw2BFT2+R8HGqHHTozXWxeULjpMy15AkEkhOx91ECj9tE4ZUwKgPvia2d4YV6voYA4T6w4+ate6/upMfqY+Ig1uf5bSaCmQOv4YsLSCVj5RdZ6HEPMRFTxF0yuGe0vlZdDGVFzpUdd3Sb2TgkWOrr4hMW/Sdt1WEkOX20EjPIkojfY+x5Ylk5HFNq2a2gzXOQZ/n2YXa5AGNFvJxt8=;sVrOqMEk7TbtfXVV9goXig=="
+secured: "SzLJpIM0qY0oTIsnP7/rzYFOs2dIqapotG26GEDcTtHh0vn9oy5BUIlENFB17G2m1d8N141bq+Zr+KRlciurKkdboHNS0D9zJ1gld8VRrpexOqCWG08WHL3+R6P2hyFit1MCotSdce66BLiDyhtnNbcSeDzVCgE0tJW0KISaaJYRvbE3/fTzheewX4B6LyPLV91YHQC7YF7ReJX18xedLl19pbMCJY1Ta+HJGStTchh5t3y37/X8GvHvW1rtlwxtq2otLeHhTh4piNmBPfJIq0Mavbx1UANJj9mx6jLgK3+y3cgYKVt8s3mcR+Io9SiV74ZWSD6wTxxcL4lTLlNwqnbwcUZyK8A+/5nd2UxxkR4=;hicQvTYcCQ2M2fkJaKfAGw=="
 ---
 

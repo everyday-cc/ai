@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103751875/Vicai-Raises-the-Bar-in-Artificial-I
 webUrl: "https://menafn.com/1103751875/Vicai-Raises-the-Bar-in-Artificial-Intelligence-for-Enterprise-Finance-and-Accounting-with-Up-to-99-Accuracy"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 398
     height: 250
     isCached: true
+
+related:
+  - title: "Vic.ai Raises the Bar in Artificial Intelligence for Enterprise Finance and Accounting with Up ..."
+    excerpt: "Vic.ai today announced that its pioneering artificial intelligence platform for real-time, autonomous accounting and financial intelligence has grown to 97-99% accuracy, from"
+    publishedDateTime: 2022-02-23T12:30:00Z
+    webUrl: "https://www.kulr8.com/news/money/vic-ai-raises-the-bar-in-artificial-intelligence-for-enterprise-finance-and-accounting-with-up/article_7aee48c3-0aae-5097-bb9a-fcf97b0cde07.html"
+    type: article
+    provider:
+      name: KULR 8
+      domain: kulr8.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/custom/image/48a16c4c-47ac-11ea-bc4e-9faae589508d.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "xqHH8GJaXwFsQo5AC5fU+byHTKs03NLgU0hRLvz6XX2rsoC+5LXhwJ4r+cjrXXcAJhGvs162ULXTVPkfadLn3hK+R4WqeeFyH4LVKm19WLcT5qDY6vfvR181/58qy4rw5pKLg4WXD3nhkGxPoN7kw2wN5R/AmoBKbfMh/wv8Pq53iQSBusWH6E0Npb44amfQUcTwbBEi91CZilJe4g8C/z5Q5/zR6sxBE7PC5v5QEwLa2bbszRaEdJm3267EoCfdxdMxjqieNR24VF5EiS8iD0SZfHZdPl6zCpRShyWkhfZQuF1sd5Qz6qaisX1GyH4bOpjxYugDndXoBUMHg42T0CEq21P549BNS07lsgzio78=;Ls6fTNzBeZGmEYtYipLB9w=="
 ---

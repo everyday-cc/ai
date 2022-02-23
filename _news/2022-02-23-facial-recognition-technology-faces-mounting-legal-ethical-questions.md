@@ -177,6 +177,22 @@ related:
         width: 1000
         height: 527
         isCached: true
+  - title: "IRS now allowing people to opt-out of facial recognition"
+    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology."
+    publishedDateTime: 2022-02-23T14:50:00Z
+    webUrl: "https://www.yorkdispatch.com/story/news/2022/02/23/irs-now-allowing-people-opt-out-facial-recognition/6908725001/"
+    ampWebUrl: "https://amp.yorkdispatch.com/amp/6908725001"
+    cdnAmpWebUrl: "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/6908725001"
+    type: article
+    provider:
+      name: The York Dispatch
+      domain: yorkdispatch.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b1393f02a9b4a58fa9b1ae694f334aec229664a9/c=0-36-4569-2606/local/-/media/2020/01/08/YorkDispatch/B99852487Z.1_20200108171744_000_GS12NQ6TO.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z
@@ -206,20 +222,6 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/clearview-ai-13724.jpeg?w=1200"
         width: 1120
         height: 630
-        isCached: true
-  - title: "The IRS backs down from facial recognition plan to verify identities"
-    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
-    publishedDateTime: 2022-02-19T00:18:00Z
-    webUrl: "https://www.palmbeachpost.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Advancements in Facial Recognition Technology"
     excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."

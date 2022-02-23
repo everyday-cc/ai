@@ -28,29 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robot Market Growth, Emerging Trends and Competitive Landscape Forecast to 2027"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-02-23T06:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-growth-emerging-trends-and-competitive-landscape-forecast-to-2027"
+  - title: "Artificial Intelligence Software Market Size 2022 drivers, challenges, and their impact on growth and demand forecasts in 2026"
+    excerpt: "By Application ( Voice Processing, Text Processing, Image Processing) Geography (North America (United States, Canada and Mexico), South America (China, Japan, Korea, India and Southeast Asia), Europe (Germany,"
+    publishedDateTime: 2022-02-23T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2022-drivers-challenges-and-their-impact-on-growth-and-demand-forecasts-in-2026-2022-02-23"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Kamel-Ghribi-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Cognitive Media Market Analysis Focus on Leading Key Players and Revenue Growth Analysis by Forecast To 2028"
-    excerpt: "Key Companies Covered in the Cognitive Media Market Research Report Are  Microsoft (US), Google (US), AWS (US), Adobe (US), IBM (US), nVID"
-    publishedDateTime: 2022-02-22T07:05:00Z
-    webUrl: "https://menafn.com/1103741812/Cognitive-Media-Market-Analysis-Focus-on-Leading-Key-Players-and-Revenue-Growth-Analysis-by-Forecast-To-2028"
+  - title: "Artificial Intelligence (AI) In Supply Chain Market Future Demand and Growth Analysis with forecast 2028"
+    excerpt: "Key Companies Covered in the Artificial Intelligence (AI) In Supply Chain Market Research Report Intel Corporation, Amazon.com, Inc., Google LLC, Micro"
+    publishedDateTime: 2022-02-23T08:50:00Z
+    webUrl: "https://menafn.com/1103749144/Artificial-Intelligence-AI-In-Supply-Chain-Market-Future-Demand-and-Growth-Analysis-with-forecast-2028"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 5
+    quality: 35
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?80343"
         width: 333

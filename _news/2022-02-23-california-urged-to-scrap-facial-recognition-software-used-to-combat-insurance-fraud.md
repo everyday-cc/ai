@@ -36,6 +36,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 27
+  - title: "Anti-unemployment fraud measures in California face scrutiny"
+    excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits."
+    publishedDateTime: 2022-02-23T16:47:00Z
+    webUrl: "https://www.kpbs.org/news/local/2022/02/23/anti-unemployment-fraud-measures-california-face-scrutiny"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 24
+    images:
+      - url: "https://cdn.kpbs.org/dims4/default/e198a98/2147483647/strip/true/crop/4077x2140+0+473/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2F49%2F79%2Fc626163d43f7abaa90205150a391%2Fap22054033698763.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "o/PItyNNo9rgRPxlT3HxlQXBGt5KBtWq1/sxc6yfElAQe6/EjgcKhvWTc4Ub8BTm8k317yER83ToJS/+IMJa/gS1yqH726FPX1weV/oeN4EKdsySH+W6bdSYL5FVLvfKSwZtzguEY4JqYMeYZujwXJzTR9H7tZJxbD5P1lJLICGD++5Y21okOAyIotNmROZbjGydOmWasdzzdXK46ygQl0ZLKfWuOPDa286tMjIRUitIFtqkC7YnG8+akcS51CTnUYoJhfx0oK9HfMWPe8H5w1u91WC0KWtCsmezNuuS+27YK9I15WawkoQqzlCgNUfpOD41cfYQAsllD3qNOQbqy5UG1++tp8n0zxIrg49+pKh64PTZnidEQl8TfHzUo07itMVLKBfoBJy2BGgaRgAmpxu1z5e71/HMhJS+ZydWGqlN/RXl+5PLz+9L07Ps1E90JD+tC+huudZIQHSpLrtB4OlBCdYlWmLAz/bwjid7e7aUOwLgHePB1egwmFOmcs+ktlujrg0MVufM3kPE/xh9TQ==;uQc/3IdMu9Vq1Vr4yt0Xjg=="
 ---

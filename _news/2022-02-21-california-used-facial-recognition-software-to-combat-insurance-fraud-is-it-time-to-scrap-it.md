@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Anti-unemployment fraud measures in California face scrutiny"
+    excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits."
+    publishedDateTime: 2022-02-23T16:47:00Z
+    webUrl: "https://www.kpbs.org/news/local/2022/02/23/anti-unemployment-fraud-measures-california-face-scrutiny"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 24
+    images:
+      - url: "https://cdn.kpbs.org/dims4/default/e198a98/2147483647/strip/true/crop/4077x2140+0+473/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2F49%2F79%2Fc626163d43f7abaa90205150a391%2Fap22054033698763.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "y2z+qZYi4iYondlO2gC8Iu3pIA7HEpc+Lcomyvt71Its+ucPKdUdCh32Pz/xj2LK4RHOsjiDzC+hym4CUzxsDmBZRHliBfIqFGY9MUpnnoLuHUhhg4Cc1OAhZsvzwCs5I4h+df9Lh1ayC8zvXQG9IQsPoC2RoHqhSIV7I7Y7aEyxdHsEKIfOvNjSts1uAAOeBNCEQkn5QVn7p4rR59f7eEtZY1ils/7wENmTaZaovGvQUl3hTPdU+2TuKQl57NINWDP2nhQsdRQCASj1Q3OGUI+ed5yO/5CAWLX7J7Pp93k44LhdJvSdj4Yfl4Zx06NcLRNLs/R64E6/0hSgDOYOCvm+7UzCsmAldFee4YqLpMg=;vAYJYGxMlpj72S2amA5Wpw=="
 ---

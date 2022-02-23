@@ -43,20 +43,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore"
-    excerpt: "“Lending is the center beam of revenue and profits in financial services, and artificial intelligence may be the most transformational ... neither Louis Navellier nor the InvestorPlace Research Staff member primarily responsible for this article held ..."
-    publishedDateTime: 2022-02-18T23:10:00Z
-    webUrl: "https://www.entrepreneur.com/article/419185"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 71
-    images:
-      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
-        width: 675
-        height: 380
-        isCached: true
   - title: "Insurtech RenewBuy, a Digital Insurance Marketplace, Acquires Fintech Artivatic.AI"
     excerpt: "India's digital insurance marketplace RenewBuy has reportedly acquired Bengaluru-headquartered Fintech firm Artivatic.AI."
     publishedDateTime: 2022-02-23T01:43:00Z
