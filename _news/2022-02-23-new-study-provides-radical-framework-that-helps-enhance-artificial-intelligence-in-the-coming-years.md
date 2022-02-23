@@ -8,8 +8,8 @@ webUrl: "https://www.azorobotics.com/News.aspx?newsID=12765"
 ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12765"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12765"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12765_16456288318134661.jpg"

@@ -41,34 +41,6 @@ related:
         width: 600
         height: 513
         isCached: true
-  - title: "Fintech in the Metaverse"
-    excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
-    publishedDateTime: 2022-02-23T11:55:00Z
-    webUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/img_7407.jpeg"
-        width: 3024
-        height: 3236
-        isCached: true
-  - title: "Fintech star Zanbato and innovative broker dealer Rialto Markets announce partnership"
-    excerpt: "Black Box at DCW London 2022: Global End-to-End Services NHS organisation named as best not-for-profit in UK Fintech star Zanbato and innovative ... [General]Global Call Center AI Market Report .. [General]Mexico Buy Now Pay Later (BNPL) Mark.."
-    publishedDateTime: 2022-02-19T04:50:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=619093"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
 
 secured: "VZv5dfDWa4nRg/6sVup16CQEhc9Xnmn1uwCIkPly1SV/scvpc0lYpaou+JGp8TWHsIOX1NCbQyOfevuGQsA7wxKfYKbe1eUb81dC53wPJ6WKb7GIik/97/xpn6eavUhW6A6GS+VvcjYF4+MpoAxkYqfnKuR5OfQsuvT+RMVC/TGxhPhDzFtgiX3qkIrhoVfhanWjDrdyCvdMVCM091H80VGXGEOR630pU3rRmlYcgNfmpM2xZNDmWbnEQXTOidj9mBYdsUhcvgGcgcWtoD3n/QFL5mKwxVOoCMcoPEKB00tS9AaFtppAtkB8TbJLQdkEmOZlf4Mx1ooak/LDizUTsr0y5fqwXmuu1c8bTmC41NIbl73cjk5jI0D4lp1n/WalJdHvgJjofn2xlDrMs7BcCqdKWWIFgQo5L2WFOE3lmteRit9Ei26ITAJZw9iNMSpufV6J3xORyI4/aj49pV0b/N1/mEnH2z6UvgPioOEMzR/KHTavhEwhLl7b1SEWeNvvjW/Bn8qjeaLiFPJjXZiSSw==;M9UNJNI2QRbQoIyJdRdtyA=="
 ---

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
+title: "Meta's Zuckerberg Unveils AI Projects Aimed At Building Metaverse Future"
 excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-publishedDateTime: 2022-02-23T18:52:00Z
-originalUrl: "https://www.channelnewsasia.com/business/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-2515616"
-webUrl: "https://www.channelnewsasia.com/business/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-2515616"
+publishedDateTime: 2022-02-23T18:10:00Z
+originalUrl: "https://www.ibtimes.com/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-3411002"
+webUrl: "https://www.ibtimes.com/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-3411002"
 type: article
-quality: 40
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Natural Language Processing
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
     width: 1200
-    height: 676
+    height: 775
     isCached: true
 
 related:
@@ -43,6 +42,6 @@ related:
         height: 711
         isCached: true
 
-secured: "cdQ7rHb0VHzk8F/B6SKLZXwLLdUZSqePGqxA7Jk5lGYs0KXsPJfyJrujNLOaJwNjjTrPGGjE1wHN470ecUwCBUgIoftFBwJZKavGZykbCEPR/Eq0NMuYR5aBCfSHt88GTsMBzsZl+5bAvZpgQqWLkXoPWEDpBKju8Z/jhAnY4rIjqLVXwkkuT/zEUa4o9Ngcur/9poote3sMJOmC14pv8KsYe2UzAU5QCAUxjswIfsR7/UICERj1qp+ay7GCKDYPSzJ4Icf7XfX/RdVRx9AYORM7LwLIIU4yd0wpJck/UdUN2/STlESwS+dqF8xSnlzl5QcrdhPUNu3x4SoNJ/zLxwpMOAb55UzGvJ0wFuNmr58=;4LQKTMOgW/G4hTFKsIxxxw=="
+secured: "LyFCgQQM7brIwd+RtwLlr/hvka8VjTx0DA0WBtCi1ie+OiPj7IRX44qTOcYIpjhstx8Enk5s1wd34fCzfbdLZP+Awwnk26WdzWjWlWzVRPJI+N75iFBBr5UQzdni6x+WRwZOkasVU8zps6s91VXb9O7tvG3OAZFFG/RIBVt3hSKMG6IwZlsVfzTsp8q6NwPdsFd2ScQLNMopWC3hsFzdvTYV6gLhAoDgx8Bas3LGp3FBwS61KL1/J/lbSyXxmZNoyAKivku+KmNxdYRhQHJRInGL/wp7F9mSdNMo4AGNuGiwGDE5NWnsA3sRuqiqCzkSP850dgj2dPjuVMwmSTtE1IJJU3p3f1TLV5lGbMCW9HY=;omNeI22OQewkRx+tpOlSqg=="
 ---
 

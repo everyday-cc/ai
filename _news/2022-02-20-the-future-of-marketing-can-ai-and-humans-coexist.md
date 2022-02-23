@@ -61,15 +61,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing 5.0"
-    excerpt: "Research firm, Gartner, says that the COVID-19 pandemic has amplified the need for supply chain organisations to use Artificial Intelligence (AI ... also an example of Manufacturing 5.0. Universal Robots, a manufacturer of AI-powered robots has deployed ..."
-    publishedDateTime: 2022-02-19T04:30:00Z
-    webUrl: "https://www.manufacturingtodayindia.com/sectors/artificial-intelligence-in-manufacturing-5-0"
-    type: article
-    provider:
-      name: manufacturingtodayindia
-      domain: manufacturingtodayindia.com
-    quality: 19
 
 secured: "4GgYLXZmljMDkVNzCNDmf6Aaae2+EZhBYJSmxe0uM+OXRWDa0+cBwNwxccmgb4rN96XRGc6ojr/Zq6bue95LCmiLNcWFbyT/CP17xDCnHNKz8uxmq8wJKh1CxB5/9noHz9GulbwNxgOCtvqGa0nWXy6KgPNlORLLB1WK8y3MMrHFlQF9QLBXThsusoww4+pG8JID22F+SCKLWdarOTnXAo+Aun+17aKUczDQp7GabBjcj/NIFePiRzCK12XZqkfrIatDVrx4azxbQEVWQUld37GiHgQtNdXzdAsDjzbB1cxFvD5f76FZK9WBkGgrC/WVGkPS1w2M6mAgYKM7RzdWwlmUZFWh6XDNEtFogI4R4hbo0JeXihoNAfoN9Q7D15YVNrkU75OUd0k1okB3WlIzSG03l/C/Olq8bbCLBUn65fTqHqF1GrVvenOUEbLgFsLuWaLR0b3bGJntyeGrqhMFmlKfTi5rak6GrmMhpo4X7VwC0LBB2WQKZpDiPCFfOS2IrlsZEvMuFeHYWv2xBpHs2w==;qtaasRdZtmg0L394tebr2Q=="
 ---

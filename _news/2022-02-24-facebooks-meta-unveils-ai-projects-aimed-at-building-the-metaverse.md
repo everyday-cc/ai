@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-23T18:09:00Z
 originalUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
 webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
@@ -86,6 +87,6 @@ related:
         height: 960
         isCached: true
 
-secured: "9p9h2KyVkuYHCfwitxA4kG1tiOqtnX1jdO9c4sWyFTb7EgrAoZDT+CWO1rYL0Hle5MeeTrV5zuFCJBlF+EMPVVuGKqr2GM+jTbrtp9lbw0zrpiegRa08qk25RK3xC4wNDxnY+Q3dVGasaeWJxeLmeCmhHlIB6qDfsI8poPotN5f5z1J8OB9eu+oRU3BSbLnMI20aw7RCuiJ9u/W5BS1WdtbGqAUb9juVROIV3ADmHpJ8Te4u7ariKUso5+Of1iHv37x9k7sCB/3jD3UBMxGgdLVJ7Fq2UwgdOigyIYPxhF4KIe7G44MEVTHXBV+2ehk4iu3qxrEcqoRd1A8P2YrHpKpp1I7/b7KO7g4LXjY/+2I=;n07cpCMJPlPtlVER4NX1CQ=="
+secured: "uIc2gxz3mMZV0ATkEtEBk6bahM/aYXORaFpy2BrPsP7WVLci+YghSWMfpKmSkfRTVJhyKzywZW6OQFUvDXsMenjhcUDrimBrQj86r3l8qUtl0Dpcl4Iqs69pfBsGHv8sQbbsQWPpff5xMfDJX6d+LdNnVlm6hEdGozk0yNZC0xai27JMigqg3agnVwbSSwkLTISE91JkMzVMLnvfQFwOThga79KdspovkPp6hY8LK4PBGg7VE64WUg0mpRi9dWLdVvumCTb7gCyKk9e3ITVJHioNVpHSgCqTgJgiHQI+VrwB5DguurOJRyGRNE5tXLcDSjMnLcakgiuEuKhorWU3Gv6b6v0kqfIcGilS/w23/sUYpCYvkbv/CmLCuTuyVU0/rkp78za/cQiR9u5lAR/yJSmsL2Ms6opInXxFGXXrKv/ApzxsqnAHySQKcj30dWwkAJZKm9kAiGYryewZxBffksxtcJWmb422c97LKNJ0I1/qawTiysJJcvba7FZN36VWkaW1eiOvyDAAbfXZulqiIw==;iRuhgQ7YpWK6wxcQj1Sgbg=="
 ---
 

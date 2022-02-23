@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
+  - title: "Meta's Zuckerberg Unveils AI Projects Aimed At Building Metaverse Future"
     excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T18:52:00Z
-    webUrl: "https://www.channelnewsasia.com/business/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-2515616"
+    publishedDateTime: 2022-02-23T18:10:00Z
+    webUrl: "https://www.ibtimes.com/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-3411002"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 40
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 38
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
         width: 1200
-        height: 676
+        height: 775
         isCached: true
 
-secured: "VHCuX5Tgz4poPPyie1UP9HyzN6DppGVOGEze4pEIc8hVD4N0+1NOTF4/aC2nTMTYKLy/a0O6ieef+F8x8zCbJqcRUeXOXcDGs7sR2HmgxRd34i3p2iFCrQfezsxavZ/DK2Wabu+B6+Ua2NK3glAeUmuAFuH+uyBZHPZuuaV2RYOWv8UFTJrH/vS/j00sQa2CFMVC9b5u5sxtZst61EAO+pXzdjVLv7O2N5gmO9N9fuD8kSqKhDPm4UXfcsSLmVvgAjOkLh86Y972oqLmcgHTS+9Bsf2GcTECarsRgRNKEv/+thYXIJo36OXf5yJm6POMZqjQunA7nhuWwuOxgvHHN0koXwwvaFOCQ8VrXaREJl8=;057/ePwA0ZcnpbN9rmSeEA=="
+secured: "uWfKhsGy3wfF5ePMfJHdWlC1YhliFXhw2F4ZeXcSdjvcKZeeoJJVYs6gLP8Cdu6kgPBY6cci1aMBAccYrLnpvn4TmEDmGktYlAHfhBss0f0472UtFCF+YuCeGBXnoHOrdDt3RrlJg7RP/uPHSZ3w6GgJpqQVoR0+zg8+e89oayqF4DlztOp6HLvlLzecv9cUkKBlTGsAY1bsL+dUX/k7VK61W+v9drn2gbHkTsINyM4SNNVp/R4s8zgLZrc7/udgqjopoEGOdc5zKhH00cwYhU7tHW05xpx5AGDyPHizxwzHYc4tmjuMLRt4k2itz1UGkE4Vt1S98aVwHJXgYMVh8ITjBFQQXKKxX05NvKimJBR6jQmJGPP0w70QMO/SzkGUBwDI9uUnuBlJwgeYVqK91TO2wTn41eQuePaGlWs3s5UztIinHSfnCYkSrfIESNybb8EmEl6TRc4jl+q+eAXyXu/oJUzLxymiZR8gL1wUozWunuofR12cP5YJk2va8yyB5Z4c7vm+2iSyxUY2qbWD8w==;Q5PBx9L0xQe/1hZih9/0ig=="
 ---
 

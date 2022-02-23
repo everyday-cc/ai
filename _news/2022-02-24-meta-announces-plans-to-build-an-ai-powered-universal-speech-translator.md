@@ -61,6 +61,20 @@ related:
         width: 4000
         height: 2515
         isCached: true
+  - title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
+    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
+    publishedDateTime: 2022-02-23T18:09:00Z
+    webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 41
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Zuckerberg's Meta plans AI translation tools"
     excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants"
     publishedDateTime: 2022-02-23T18:50:00Z
@@ -75,21 +89,7 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T18:09:00Z
-    webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
-        width: 1200
-        height: 676
-        isCached: true
 
-secured: "bU0F9H4GxKIjGhph0bpYnMwj42aZNQ+QUWJNk26WAJrMagIt7nZdu4KQUHjOf/4V3ObMZNnOpKThagot9ccXvPKDC16pdaKaY5+S31bJyB3pzyPL7hEni9MrZHC1zkt3geLnGnaMTJPz4HS2NlhK3juB2TI1NNduR5ePQOCxIZY0n5b7OF8KE4A/5kROhaKoOj4oOBQrZpBgnvS8gxgUVjAvOD8QenR7ISAtZoSqPGt2bpi2GLYVRkhrjI/9nf1Lq1bXotK1PJK52Mlc8kZMC3BbnVc9Fe1VoI14+FFp37Do/rHp7wJ5qSE27aRGSMUBK6TYnpY96QsKFQgCHpQ0FiLSSyj/PXN/31yjN8TDEnc=;axHnRz2muFgGlDhV3m79Cg=="
+secured: "ZeVPv2NQDdcIRTEfpZtg57W7tbg92kgft46FT/kYb45nZTpnwD885rdGs4pXRjF66s9sh0B1fiP6uplW3iaZ5g89b1Oa0I6b6qQZu1rewWR8GT2HiI+Cbxfcgc389lPZ3XYOBshLrQRyWq6Rt2jWwCArlRGIy/4mY9WEyVKhjtcP6U1a83wO18VjjVSM9REqiTIb2w2IpxLUf7ZP5TDtq7GAa8cmjM7e3JtbWVo+ZSIFGj+D2qXQPon/wl0G6aXK252c1prGpKhyMBx5PPkxBSOZGv1AEEqv4eu3PT3+UKGwboeRiyO3cUsCGJ84tP4fP6YLZL5Ys9tF2RrAamgdPJ1Da9E5NoVPejLXmNNM7nQCoVU0EaI0I8987nJCuesqW7iXrC1f1wdCLaPsUCQzYxbqw9Ch3G0OJ3oa8+PvY92rtFdiiBbuyxNEkhzrhb3fRZyNBzqXjvS/kHJsVuAl/L+bUCykRhTRHYMl66ZVghYdddKIOtZ8gwnWLG3JTwzec9P4oTyCvN1rnoLTrl9KTQ==;Bj+8EvdD7BTHNdL3cm4Ewg=="
 ---
 

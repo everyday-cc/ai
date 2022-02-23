@@ -39,6 +39,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Kenyan U.N. Ambassador Calls Out Putin’s Recognition Of Ukrainian Regions’ Independence With African Colonialism Comparison [Watch]"
+    excerpt: "Kenyan ambassador to the U.N. Martin Kimani gave a speech to the U.N. Security Council on Monday that has since made headlines around the world."
+    publishedDateTime: 2022-02-23T19:18:00Z
+    webUrl: "https://www.ibtimes.com/kenyan-un-ambassador-calls-out-putins-recognition-ukrainian-regions-independence-3411026"
+    ampWebUrl: "https://www.ibtimes.com/kenyan-un-ambassador-calls-out-putins-recognition-ukrainian-regions-independence-3411026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kenyan-un-ambassador-calls-out-putins-recognition-ukrainian-regions-independence-3411026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 29
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/23/meeting-of-the-u-n-general-assembly-in.jpg"
+        width: 1200
+        height: 875
+        isCached: true
   - title: "How Far Do Putin’s Recognition Orders Extend?"
     excerpt: "After the speech, Putin signed orders recognizing the two breakaway territories as independent and pledging Russian defense assistance. The particulars of that order, which aren’t yet known, matter a lot."
     publishedDateTime: 2022-02-21T20:37:00Z

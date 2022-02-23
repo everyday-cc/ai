@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/social-messaging-chatbots-market
 webUrl: "https://www.digitaljournal.com/pr/social-messaging-chatbots-market-next-big-thing-major-giants-chatfuel-floatbot-botsify-chatteron"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Why the true test for today’s conversational AI chatbots is time"
+    excerpt: "If we want to improve conversational AI bots, we can’t keep adding complexity without considering the latency of the whole system."
+    publishedDateTime: 2022-02-23T19:17:00Z
+    webUrl: "https://venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/"
+    ampWebUrl: "https://venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all"
+        width: 1200
+        height: 617
+        isCached: true
 
 secured: "K0LCsQH7ey8ncCdAQ7rge+8Her7TzM5aHYV/lLjhHm1VB2Gt7ZnxQXh2X4NHdIgfnh3TWqktD4r4xjzB91G08PQs3D3VivmHbYLiX3b1zDt6YR7ya1oWcQpuZ7oqQUTkTTTHguwpvfEEHQjBcE9d2z95sqZ8zgn/BnSnLSaXVNhqcUkZ6E9I1ZWzM+q9qoU92kaUWbV6mu0WgbFQ414zH68wDoZIcCyRbM1kNJgE/7AeP5e0pj2xRG9GhFFWNp/sxFbeiaagNZgRzmC9IVOrP2F+NFC2IhhyGpqJ8DvKzT1dXNP5TW9M4PFrgynXjnNpzrh2Yvux3qQD0hMM9JsSqGufpxwSrnx3IM2QkMOsKsw=;mHSRG28eSotxfI4W/42LhQ=="
 ---

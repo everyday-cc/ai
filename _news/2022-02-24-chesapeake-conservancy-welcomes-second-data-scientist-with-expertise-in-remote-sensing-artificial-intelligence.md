@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Chesapeake Conservancy Welcomes Second Data Scientist with Expertise in Remote Sensing & Artificial Intelligence"
-excerpt: "Chesapeake Conservancy announced the addition of a data scientist with expertise in remote sensing and artificial intelligence to the organization’s Conservation Innovation Center (CIC). Senior Data Scientist Michael Evans,"
-publishedDateTime: 2022-02-23T16:39:00Z
-originalUrl: "https://www.directionsmag.com/pressrelease/11375"
-webUrl: "https://www.directionsmag.com/pressrelease/11375"
+excerpt: "Michael Evans, Ph.D., Joins Kumar Mainali, Ph.D., at Conservation Innovation Center Annapolis, Md – Today, Chesapeake Conservancy announced the addition of a data scientist with expertise in remote sensing and artificial intelligence to the organization’s Conservation Innovation Center (CIC)."
+publishedDateTime: 2022-02-23T18:21:00Z
+originalUrl: "https://gisuser.com/2022/02/chesapeake-conservancy-welcomes-second-data-scientist-with-expertise-in-remote-sensing-artificial-intelligence/"
+webUrl: "https://gisuser.com/2022/02/chesapeake-conservancy-welcomes-second-data-scientist-with-expertise-in-remote-sensing-artificial-intelligence/"
+ampWebUrl: "https://gisuser.com/2022/02/chesapeake-conservancy-welcomes-second-data-scientist-with-expertise-in-remote-sensing-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/02/chesapeake-conservancy-welcomes-second-data-scientist-with-expertise-in-remote-sensing-artificial-intelligence/amp/"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Directions Magazine
-  domain: directionsmag.com
+  name: gisuser.com
+  domain: gisuser.com
 
 topics:
   - AI
 
-images:
-  - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2022/February/23/7/952d5ff8-84c8-444a-ae7c-cdbd9ee8dcf2-sized"
-    width: 800
-    height: 533
-    isCached: true
-
-secured: "5aLXZWbYQISAv75agh6qN+T5lyte5pBfQ2gUnvOso3AfsCVzrF8w9cKLO4HkeWqcsapzKVEDaoVggwLQl9WeWTYARLvHDqk2lHNj5G7joLU+8A4HigMqN/pJaA9DRr5SK9bJQkkEuu+VvgcXui3DFEtFttWvk0La+KHEib1Y7oHTcdllVN7NqWd7QplIZMs9Hvir6Caw6C2OHqjUubL7A51iuSE6Spiskex28paMbmoqJT99BdqCFYf4PdxV+72d75otY453Ceg829jeNWgIZMXhS9HTdByIp2TNEA0xL6cKIJUndqzhSvLtXiIUKon63Ku8ijXpskqY0T9PbUAbm8EjZqmjBgcWK9wXcAI9fQ0=;B5gmE2SEnO/yqBordPId1Q=="
+secured: "R+EoFZ4CidCFE9j+21MNcfqvQtxoSgnJllhcIGhxdBwKgzgf9mjfMZ8v85lqem8vVxHbDlzLe2aH1O839RQR3QR4An1EdHkSzjtsOFSxx5c+rxcB07xVgcFJhLBkWiGa0/+eVob5W/J5ipxGFS/nIPezqNlrq7gy2JHIkG2KfC/vaC0yRnofKiF2MPQxgvmK7zAsvZycUz0pZX9RM+VBkpkZ2e1PKvqSbdEgkTMak6fGwg/QZeikaHXoVusOZx3ADw/gOoeSx3fwxceErMRajAR0MoZyUu1OTQCW3jCY7OSNrBv6cVIZhGllKg6IiTTuPs1r4t7EGVuyvTl2NVv1mIteiBEccWN10bueQoOu1TjVYa/8BU7oXdcU4FUE+DIkU5DqNttN1avZG9wFSJCq0kLosxHVCTy2AljJZCaNaM8zx+Xle5m4T3VgmqYQScVnc8AYh40ja6IrHm/iGoyEkfep0UtO4uJTF5F1Nhh7yy2khu6drktsm5RjQhjTvXeNzG8vkha/2CHZjTEfv7zHYg==;ZxM7nQt9AKWX7yw1Ct+EGQ=="
 ---
 

@@ -55,6 +55,15 @@ related:
         width: 400
         height: 391
         isCached: true
+  - title: "Exponentia.ai raises additional funding from Amit Midha and Technog Solutions"
+    excerpt: "Exponentia.ai has announced that it has raised funding from Investors - Amit Midha, President - Dell Technologies and Technog Solutions. The funds will be used to strengthen Exponentia's offerings in the AI space and expand to new geographies."
+    publishedDateTime: 2022-02-23T19:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220223/3910611.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "R08kb5y1vtiX7kJ3vq+0T1NkmmoSV0G6UYzGYQh8vdSpJryLenBpdaNQbcpnb1X3keh5xShHaPc0uVmgJjXxtwOSggLLsTVNk3tim3ouudydcozY1mdy/hQYlvWVMJ+NDu0ZfGtp90UDv4j9FUBKuk6p5e50psqG79zJunea2BRb7YqstmUm24fsmCYQBE/7ixthE93IdFjMqOvQ/5acx4ECBeBjRmy43pjOAKqYYpBh1Ie3aWhsVpaxbns9N9ZmLnkT4PGve44BsDAqWoYbnMHM3L6OYydABt/boHZh03llAtkiWQmJjbLQ9kK7FgVOhW4G26Dffpfr4G1Gynh9S+A5FLIZ18T+lzDKZnGcqP4=;683jEWr6Uj5L8AVtVg8Wdg=="
 ---

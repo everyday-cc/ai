@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing 5.0"
-    excerpt: "Research firm, Gartner, says that the COVID-19 pandemic has amplified the need for supply chain organisations to use Artificial Intelligence (AI ... also an example of Manufacturing 5.0. Universal Robots, a manufacturer of AI-powered robots has deployed ..."
-    publishedDateTime: 2022-02-19T04:30:00Z
-    webUrl: "https://www.manufacturingtodayindia.com/sectors/artificial-intelligence-in-manufacturing-5-0"
-    type: article
-    provider:
-      name: manufacturingtodayindia
-      domain: manufacturingtodayindia.com
-    quality: 19
 
 secured: "QRcgqefR5hE04PVjduqWEDbPodraRnXKT4ow1a0sJ8BABHLZZbdZTN6Lr6fA4l6FJWleWv7LCSqIUJIymi7yG6aHiSDYBsUmbUhJCaqLgREo5M63yziXuSGaK/8ZlUfsMdQ7Jdvq8kbTaxORyAdqzi0xeu9KzuNgaIDc+vthF9y2Ad4jDbuDQwqxmWs1dN3ux8Zuhd6FbvW9JyTQAjGUoSJ468z7Pt5FcbI5e7fRZ9ggHze3JmNun/6eL9T7pCdi2JlgDBF/SA/LDu+P8VE7B4lHKlW5oHLPO2BiXae34n40BqVs9wG1xoa5e5viKdQOFYX4fKZq8qkCkMpk1mR8u7o5HxFPKxliRbkdXqO8W9REldbu0mSOxrhpO19Iuzf3TtJEaWSqjgHZJ9u92ebJCOB4GY6kezqSl/0dB3Pver419tD7qK4p9FtBWzvb/AXHdFMghk1pyP2Xo2FX9etDtMaMM3yOeK+ynaIPDy+wStUGVyL6JGwuz+XdncXDOPSs6c8yKUHNLe95SaiNCBeqWg==;6fNgMAop7sSpjTz6r1Auzg=="
 ---

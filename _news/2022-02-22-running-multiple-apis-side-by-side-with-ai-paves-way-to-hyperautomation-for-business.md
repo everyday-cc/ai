@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-sid
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/amp/"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

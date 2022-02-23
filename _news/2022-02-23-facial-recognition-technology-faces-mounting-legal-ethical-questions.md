@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-22T23:02:00Z
-originalUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-23T00:02:00Z
+originalUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: NBC26
-  domain: nbc26.com
+  name: Fox 4
+  domain: fox4now.com
 
 topics:
   - Computer Vision
@@ -193,6 +193,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
+    excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
+    publishedDateTime: 2022-02-23T20:28:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
+        width: 3736
+        height: 2421
+        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z
@@ -324,6 +340,6 @@ related:
         height: 810
         isCached: true
 
-secured: "EJ5kT6ZQxBWqLm4yX2E5sEothk6PdGSHfmiN/iz5Ajq9VEpqh2hwC/SELFMy0nFluZvOjXnKFa2a60iaN/yGMWPYd1fXrgG+dTDeXRkugA7rxKOQDbYpEEamo4xyUTwcrP3FIgpsElFiNc5sXp2rL1HB3cEObcH2Fjc0bhuKmkwCaKOIQ2HM5USL5y9lMlnImodZWM4kKm+ReKR5Zelgx8wvwsDK84ZFPT1I4SU0yqSXx6F1QIl+V227lU6T4Mo9KlPVmYZGhzABttzTW9e4q3qufXd/xGumBgHg1Mzk8j7KWIkHj39m2At6TMwS+7yHdEWnunGi0qqSDW70Br3kEQMIZbTJd7avVvWIALGrOgo=;yXuaQFcT5vZKQ5xbO9l2Bw=="
+secured: "dK92lhCeIqxKa2XVW1oQoVSkhMS3uaVQZ9N1zPyZxuqd0NWRo4HLpNSjTs+H9rBUfNNXgCuckd1/D7ne/NP37U9b9r4/1kOwbLV2A+lpuIl5pQb4CJ3zoodRNQuZqPgIlMN8J6uF+1bLLhRhWF9lvwL8/1AwE3wqzxN/oazFy8BhKKhTKNlWI91wXtch2kv4G5YG+dAUF1rxaOa1qBVOLioCVJvEbr/LYCLtkG5swy3rBFftiWsUewghQkdQq9baaW2EUS9r8eKQ7ENqno6Oo7vc9Kr8IcFsM5YfqqTpQW2MM0tuuBFJuVda/COzVCN1D7FnnYL24lbZwKdYV0zSP7VGQRgvehzTed6g/1UfNhE=;z/KgQDRLoqZJ3y+yOfUq1w=="
 ---
 

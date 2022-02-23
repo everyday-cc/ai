@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence tutoring outperforms expert instructors in neurosurgical training"
-excerpt: "A new study finds that in a remote environment, an artificial intelligence (AI) tutoring system can outperform expert human instructors. The Neurosurgical Simulation and Artificial Intelligence ..."
-publishedDateTime: 2022-02-22T16:00:00Z
-originalUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-outperforms-expert-instructors.html"
-webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-outperforms-expert-instructors.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-outperforms-expert-instructors.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-outperforms-expert-instructors.amp"
+excerpt: "Remote learning technology has become increasingly important in several fields. A new study finds that in a remote environment, an artificial intelligence (AI) tutoring system can outperform expert human instructors. The Neurosurgical Simulation and ..."
+publishedDateTime: 2022-02-22T16:07:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944023"
+webUrl: "https://www.eurekalert.org/news-releases/944023"
 type: article
-quality: 63
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-11.jpg"
-    width: 624
-    height: 540
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2c3213ec-a9eb-4e12-b0a7-28d19cb1f4aa/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 260
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "CiZJBNlQSwmJSY1ECOiwZrZfLin0ZkgVOuweJmcIm0er8/Te3BwV2UQbn+pXj49jp1oOzVwZx3EuNAcWV88UoWcrIL0CNywApV4vnkKtR0xx/AHRdn7djuRWKzjXkS3UYDUoWFU4IRCDvrcO9GPVmQu5t8iBEHppIHxd6XxLgXwg8t0LNymGYhJhD4Zu4sly7+BrJ0PxPzJ9vsrJZ4kUQEUofqNkIoDr1N08wLKuQQbKFT1vQBd1xbXUsnNd0QtnzLohJcCViLT8wvRl0owe/GXSJYnX0gKsttlIJXHaKv1mn+3VyT9r6If35PieAUHEum2i0oTktDsSBsgEbiW8ZtBSnDzUx7LW2DLj2BdE14o=;2Ugx6pI/eVGP0eQMX5Zt8g=="
+secured: "NOkj3ipHjl0iK0Z1rF9e5HSFF6MKUqwk5KLx3tOufTl+3HAE7zo8vE5iIbOz2ZdOFtQqOu2nIw6DZrEz0z+SQFebtJodrBZfDVAa1C82iAwoWV2R5Sd4EsPs8mN1N2EO+/rNAxeVNpcNll1bok5A6deI+N+pqpA/TTm1RHHcnmJM29gYGa2y9Y2EE1teMOCCrf+9nC+rDY551g6/0yYwfe95pRtYSHeO5oH7Wt8VGM50uaefzxUy8VuxSYNFFvOyg8v3l8rfUgOerCZ4kLxVnXmGqTNa1Yy1WfC9RJpasW3HNgaUjn8k8A/34mdoNKGtQOFZZALFCDp9IiOe/U9sjFTOcnKJVBZPh+Yt3oAbEow=;QiNbt/52ccIb+zxkQe7lEw=="
 ---
 

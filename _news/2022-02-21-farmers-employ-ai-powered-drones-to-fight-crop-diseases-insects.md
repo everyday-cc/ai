@@ -27,14 +27,21 @@ images:
 
 related:
   - title: "New artificial intelligence tool detects often overlooked heart diseases"
-    excerpt: "Physician-scientists in the Smidt Heart Institute at Cedars-Sinai have created an artificial intelligence (AI) tool that can effectively identify and distinguish between two life-threatening heart conditions that are often easy to miss: hypertrophic cardiomyopathy and cardiac amyloidosis."
-    publishedDateTime: 2022-02-23T17:26:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944472"
+    excerpt: "Physician-scientists in the Smidt Heart Institute at Cedars-Sinai have created an artificial intelligence (AI) tool that can effectively identify and distinguish between two life-threatening heart ..."
+    publishedDateTime: 2022-02-23T18:11:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg"
+        width: 1920
+        height: 1289
+        isCached: true
 
 secured: "ljK4poOjHnJDKtdEn28sPxBBs/7G0h6NAf2OXqwyCVywfR5CCJ7QyzlKGusnNVA8t71VIVH3kxAtpMR+H72RcYSlQDcPMuI57Y1q9hM8O+hOtPS+/3HeKS2FuArdP1QROz0Bag+byvDbAvjxTsnjDt0qVQjGmJnnVzk7Pk6hWaxpepOjcmFjdRNH+FiFF1Qao1LFtceZHh6X20hk977Xp0eLj0Bq/eGiOyQHHDHh32QwL6Lgok3Iz5/hN13vUPLwllPGzGZWKhljdZ045b8OUeZ2Nan1W1jHcMQKzmRsuT8pUvyPGsojQoHGm1JRsEsyzjJ7Qw0jlEug6Anv7UGJP6iLT/ZzWOIDd3+f0Z85KXM=;EceF5/ywXcxfMCLv3/0ZKA=="
 ---

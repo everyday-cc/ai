@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "At metaverse event, Meta's Zuckerberg unveils work to improve how humans chat to AI"
+    excerpt: "Facebook-owner Meta is working on AI research to allow people to have more natural conversations with voice assistants, CEO Mark Zuckerberg said on Wednesday, a step towards how people will communicate with AI in the metaverse."
+    publishedDateTime: 2022-02-23T16:15:00Z
+    webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 61
+    images:
+      - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI translation key to communication in metaverse: Flitto CEO"
     excerpt: "The role of artificial intelligence (AI) in translation is becoming more important in the metaverse where people across the world can join and communicate, says Simon Lee, CEO of translation service provider,"
     publishedDateTime: 2022-02-23T08:16:00Z
@@ -42,6 +56,20 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/fb79c546b9064119b67d3fae8fff3e39.jpg"
         width: 980
         height: 653
+        isCached: true
+  - title: "Fintech in the Metaverse"
+    excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
+    publishedDateTime: 2022-02-23T11:55:00Z
+    webUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/img_7407.jpeg"
+        width: 3024
+        height: 3236
         isCached: true
 
 secured: "2Ne0a2QuH+OL/SIobUW9LTTlO44TZpVdhW3uJ9/Od2m7ypSDzYrk2dYv8ilxyQo/b+f8UBIMZuNAZb3R9i6ykddOWAcT8Jf9+mAkRmAEdOXUgyTClfMoo4eSD6+SGEF7sEXxtun6NMtoOBoIyq/1FN+/tQpuT73jKzBc0sLmsWAncjy10V6KHVQqHFakFRlTEI6QWYswnDrQtvlU2AlYq3VgO0iDdj7Ydbc33ujKs/IUJOLEpjjWIZ/BndaAwFlTnhhrxGEaUkFgM5mtjNshlDfwqDLCTFlvrjrLof+1+fiO/EgMiGBaLYeZF3wn9VjAe0W6BIeaG90IJSy2M6mv58jIARdPl3/1iyDgH8d6US8ESGHNlfL9+C6YaBWdqtSZqSGlnhOpVjCheT8BQ+h65TNN2NtAxJK0pvDwitTRj5tk4/3ZgYU0ueEgPrlOpCcTZIYa0jgpiAY5b7bjM5FnnFgE/H5OHoTokq/RAPunkOhxvWb5oU5Xy+deDS3Xlu1WFeubccx/e1M7Zd3laDf7JA==;XajdTPbo5o3t02bltbnpBA=="

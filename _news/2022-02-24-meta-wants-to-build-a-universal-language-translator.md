@@ -61,6 +61,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
+    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
+    publishedDateTime: 2022-02-23T18:09:00Z
+    webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 41
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Zuckerberg's Meta plans AI translation tools"
     excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants"
     publishedDateTime: 2022-02-23T18:50:00Z
@@ -74,20 +88,6 @@ related:
       - url: "https://newsstatic.rthk.hk/images/mfile_1635517_1_L_20220224023730.jpg"
         width: 1280
         height: 960
-        isCached: true
-  - title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T18:09:00Z
-    webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "t7IGKy2Da1uL1ynEXZKL3y5p9Eb2A8xyGleqrhjkRFYePYAaDyxvM51zpTKckk6UB55m5klZZgrnh5OH6F7bRIOau6iYvoQsCNmozE/gLDaoj6aoFjuUgs3C1ifNCHt99ikaoANvBc2evTmDYYm+hD4kx+CJk8JfUhm13CO+/kBLYS8c8cPCFEnj+pvk88pciZRWzq1c21rPIlU+UV8MtpwedFunhv9Tls2frxa5C2OX1IDv7p3yDEtehEdOLSTOdv8BLkFMQVcl2/OZVilBZAzrBG3Vs73PYxEtTvfo8teQ4PwSY4pjakXSgrEpueX+jZqVr/Ro1dcrpjwdJjp/zjA7vzJ3Lf18U3Jh1jkxbBM=;jdHRvICrdQgOJU2zGJxJsg=="

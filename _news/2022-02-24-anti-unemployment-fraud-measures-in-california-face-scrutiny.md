@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "California EDD looks at ending facial recognition technology in unemployment verification"
+    excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
+    publishedDateTime: 2022-02-23T17:20:00Z
+    webUrl: "https://www.mercedsunstar.com/news/california/article258661808.html"
+    ampWebUrl: "https://amp.mercedsunstar.com/news/california/article258661808.html"
+    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/california/article258661808.html"
+    type: article
+    provider:
+      name: Merced Sun-Star
+      domain: mercedsunstar.com
+    quality: 30
   - title: "California used facial recognition software to combat insurance fraud. Is it time to scrap it?"
     excerpt: "Gavin Newsom as a crucial tool in combating unemployment insurance fraud, and the system was credited with being a huge help in doing just that. But now, California’s nonpartisan Legislative Analyst’s Office is urging lawmakers to take another look at ID."
     publishedDateTime: 2022-02-21T11:00:00Z
