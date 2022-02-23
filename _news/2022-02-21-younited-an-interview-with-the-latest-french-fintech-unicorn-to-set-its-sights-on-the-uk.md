@@ -25,137 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore"
-    excerpt: "“Lending is the center beam of revenue and profits in financial services, and artificial intelligence may be the most transformational ... neither Louis Navellier nor the InvestorPlace Research Staff member primarily responsible for this article held ..."
-    publishedDateTime: 2022-02-18T23:10:00Z
-    webUrl: "https://www.entrepreneur.com/article/419185"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 71
-    images:
-      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
-        width: 675
-        height: 380
-        isCached: true
-  - title: "RenewBuy acquires fintech firm Artivatic.AI"
-    excerpt: "Promoters of the AI-based start-up have received shares of RenewBuy, according to the chief executives of both the firms. The deal was closed in the first week of February. Agencies Last year around June, RenewBuy had raised $45 million from Apis Partners ..."
-    publishedDateTime: 2022-02-20T16:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Insurtech RenewBuy, a Digital Insurance Marketplace, Acquires Fintech Artivatic.AI"
-    excerpt: "India's digital insurance marketplace RenewBuy has reportedly acquired Bengaluru-headquartered Fintech firm Artivatic.AI."
-    publishedDateTime: 2022-02-23T01:43:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/alex-knight-Insurtech.jpg"
-        width: 1800
-        height: 1362
-        isCached: true
-  - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
-    excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
-    publishedDateTime: 2022-02-20T23:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/02/Canada-Flag-Ontario-Toronto.jpg"
-        width: 1280
-        height: 1133
-        isCached: true
-  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
-    excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
-    publishedDateTime: 2022-02-21T07:52:00Z
-    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic AI"
-    excerpt: "Gurgaon-based insurance technology company RenewBuy has acquired Bengaluru-based fintech startup Artivatic. AI in a combination of share-swap deals and cash. The deal was finalised in the first week of February. RenewBuy is a platform for comparing and ..."
-    publishedDateTime: 2022-02-22T07:47:00Z
-    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "Five Essential FinTech Trends to Watch in 2022"
-    excerpt: "Machine Learning is continuously developing, and Fintech will remain just one of the major sectors to gain from the power of AI/ML. 5. The development of Banking-as-a-Services. Over the last few years, Banking-as-a-Service (BaaS) services and platforms ..."
-    publishedDateTime: 2022-02-19T05:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/five-essential-fintech-trends-watch-2022-apac-monetary"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGFf2tmx-5tjg/article-cover_image-shrink_720_1280/0/1645246397557?e=1651104000&v=beta&t=n5lS1bgSzqhA4DDLPqUBm0TZK1BHjOKoK2-MRA-6yUE"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "How Fintech is revolutionizing the insurance sector"
-    excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
-    publishedDateTime: 2022-02-19T09:29:00Z
-    webUrl: "https://financialit.net/news/insurance/how-fintech-revolutionizing-insurance-sector"
+  - title: "Open Letter from FinTech CEOs and Founders from Innovate Finance’s Membership Community"
+    excerpt: "In the Budget the Chancellor also confirmed that R&D tax credits for innovation will be extended to data and cloud computing (boosting investment in FinTech such as AI, open banking and SaaS) and allocated £160 million for the British Business Bank to co ..."
+    publishedDateTime: 2022-02-22T11:14:00Z
+    webUrl: "https://financialit.net/news/it-innovations/open-letter-fintech-ceos-and-founders-innovate-finances-membership-community"
     type: article
     provider:
       name: Financial IT
       domain: financialit.net
-    quality: 24
+    quality: 31
     images:
-      - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
-        width: 1280
-        height: 905
+      - url: "https://financialit.net/sites/default/files/featured-image.png"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "4 ways fintech can halt environmental degradation"
-    excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"
-    publishedDateTime: 2022-02-21T09:11:00Z
-    webUrl: "https://www.finextra.com/the-long-read/348/4-ways-fintech-can-halt-environmental-degradation"
+  - title: "UK Fintech Leaders Publish Open Letter Calling for More Innovation Support on Anniversary of Kalifa Review"
+    excerpt: "UK Fintech Leaders Publish Open Letter Calling for More Innovation Support on Anniversary of Kalifa Review. | Crowdfund Insider: Global Fintech News,"
+    publishedDateTime: 2022-02-21T19:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187307-uk-fintech-leaders-publish-open-letter-calling-for-more-innovation-support-on-anniversary-of-kalifa-review/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187307-uk-fintech-leaders-publish-open-letter-calling-for-more-innovation-support-on-anniversary-of-kalifa-review/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187307-uk-fintech-leaders-publish-open-letter-calling-for-more-innovation-support-on-anniversary-of-kalifa-review/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 26
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/348.png"
-        width: 800
-        height: 449
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/10/Cavalary-of-the-Empire-Statue-Park-London-UK-600x513.jpeg"
+        width: 600
+        height: 513
+        isCached: true
+  - title: "Fintech star Zanbato and innovative broker dealer Rialto Markets announce partnership"
+    excerpt: "Black Box at DCW London 2022: Global End-to-End Services NHS organisation named as best not-for-profit in UK Fintech star Zanbato and innovative ... [General]Global Call Center AI Market Report .. [General]Mexico Buy Now Pay Later (BNPL) Mark.."
+    publishedDateTime: 2022-02-19T04:50:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=619093"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 17
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "mHu9Y8wboGGRiG9rl8imrcwcfuvkIYmWUxxPa2gx+3g76kRFnTHGKdZ42jGGgZFGEDgmasSjn2i+S2wbvhhw8bb7eEiR8Ak4dB5WeHv2Kk+r5DEi29EYu93tkClco2DrwxZMwr+z+t/fRAm8XhV1XkdnPdqkPwPo6R5/PRZ8c6zQBiyJMVG64yUew2QloWTHju5tkmVvO3o3qKMpW/BQU14a81oNgjwu5G/kPLxjJCjBNN0qnsQNgFCv5lLS6DnirTW8fssRCjACbsCdCfHiUDzCXgCnh6vtuesakQcEH0i4Amcpm+KUr05H2xxLuWXTxVmcWZAW1/vDUAjlya4QVjbn6LDMsC6NXqEsmGaa8iLpNUldf6biL2mxmg/0WAa9wkiSGN3WYjgFCuAX7AnZUepFkS1H3bj8Bx11ZXv/yHF6oRxAPta48YDEBZp7xY8yI/YPX0/Vxs7ic86DIRpbEYaLyek8ZT4Tm+nziKel5zpW+QTc5jl95Tkl/RwGlqtHl4SkawHTItMpmIb/pOxrzg==;Oji13Fz9nNtFu3QwSmAC1g=="

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Twins: AI & ML Transforming the Fintech Landscape"
+    excerpt: "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases"
+    publishedDateTime: 2022-02-23T09:15:00Z
+    webUrl: "https://www.entrepreneur.com/article/420077"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore"
     excerpt: "“Lending is the center beam of revenue and profits in financial services, and artificial intelligence may be the most transformational ... neither Louis Navellier nor the InvestorPlace Research Staff member primarily responsible for this article held ..."
     publishedDateTime: 2022-02-18T23:10:00Z
@@ -38,22 +52,6 @@ related:
       - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
         width: 675
         height: 380
-        isCached: true
-  - title: "RenewBuy acquires fintech firm Artivatic.AI"
-    excerpt: "Promoters of the AI-based start-up have received shares of RenewBuy, according to the chief executives of both the firms. The deal was closed in the first week of February. Agencies Last year around June, RenewBuy had raised $45 million from Apis Partners ..."
-    publishedDateTime: 2022-02-20T16:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Insurtech RenewBuy, a Digital Insurance Marketplace, Acquires Fintech Artivatic.AI"
     excerpt: "India's digital insurance marketplace RenewBuy has reportedly acquired Bengaluru-headquartered Fintech firm Artivatic.AI."
@@ -70,50 +68,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/alex-knight-Insurtech.jpg"
         width: 1800
         height: 1362
-        isCached: true
-  - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
-    excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
-    publishedDateTime: 2022-02-20T23:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/02/Canada-Flag-Ontario-Toronto.jpg"
-        width: 1280
-        height: 1133
-        isCached: true
-  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
-    excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
-    publishedDateTime: 2022-02-21T07:52:00Z
-    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic AI"
-    excerpt: "Gurgaon-based insurance technology company RenewBuy has acquired Bengaluru-based fintech startup Artivatic. AI in a combination of share-swap deals and cash. The deal was finalised in the first week of February. RenewBuy is a platform for comparing and ..."
-    publishedDateTime: 2022-02-22T07:47:00Z
-    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
-        width: 2240
-        height: 1260
         isCached: true
   - title: "Five Essential FinTech Trends to Watch in 2022"
     excerpt: "Machine Learning is continuously developing, and Fintech will remain just one of the major sectors to gain from the power of AI/ML. 5. The development of Banking-as-a-Services. Over the last few years, Banking-as-a-Service (BaaS) services and platforms ..."
@@ -142,20 +96,6 @@ related:
       - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
         width: 1280
         height: 905
-        isCached: true
-  - title: "Younited: An interview with the latest French fintech unicorn to set its sights on the UK"
-    excerpt: "As vice chairman of France FinTech – a non-profit association promoting fintech ... “We have also developed an AI-based personal finance management tool – called Younited Coach – which provides free budget diagnoses for our customers.”"
-    publishedDateTime: 2022-02-21T05:32:00Z
-    webUrl: "https://www.altfi.com/article/8846_younited-an-interview-with-the-latest-french-fintech-unicorn-to-set-its-sights-on-the-uk"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 15
-    images:
-      - url: "https://www.altfi.com/images/featured/younited-an-interview-with-the-latest-french-fintech-unicorn-to-set-its-sights-on-the-uk.jpg"
-        width: 1200
-        height: 720
         isCached: true
 
 secured: "f2bxG8fVmwFtcHMn+PdWuX+DH0rSR1y1GN59H/owRRbqCdFmsDJVztQ5oYlLwdU0VwSACY3cgVBTMMTeOqZXU1FD/N635Fj2wB5DhBFEWSusgeWfzMZVyZocGUN+sSye3S2r/+U65LTiecFxrtKDazcS2stYpc7wNggz4unUblm74tJAEp0N4UfXamb2mCEtUZrRsGQOE3od2G2323JT9i1A1FE8mgE9hTTJuAGtdUwMg+iDtQX/izjzDwHO12EVcnSN7XokGC1t4a4gxojP3sKjwoAr4Yb9bn4tj3liEpqB9t5uMa+vAhdPA/9Sa8p0ADUAWN+vHKkXSo9PUVmsQYUbOIsWfiv7+gvGiYd+AU4=;wu9Is49G8jFXauq1ZwXs0Q=="

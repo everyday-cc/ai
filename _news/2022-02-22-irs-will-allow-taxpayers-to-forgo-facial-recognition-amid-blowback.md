@@ -55,14 +55,14 @@ related:
         isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
     excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-    publishedDateTime: 2022-02-22T23:02:00Z
-    webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    publishedDateTime: 2022-02-23T00:02:00Z
+    webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
     type: article
     provider:
-      name: NBC26
-      domain: nbc26.com
+      name: Fox 4
+      domain: fox4now.com
     quality: 76
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
@@ -304,6 +304,20 @@ related:
       - url: "https://scpr.brightspotcdn.com/dims4/default/0b307da/2147483647/strip/true/crop/4928x2587+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F9d%2F9e%2F40b1cd2643cb9e7b09af4627b020%2Fgettyimages-470401587.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
+    excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
+    publishedDateTime: 2022-02-23T10:28:00Z
+    webUrl: "https://www.itsnicethat.com/news/superposition-inside-the-nypds-surveillance-machine-digital-230222"
+    type: article
+    provider:
+      name: It’s Nice That
+      domain: itsnicethat.com
+    quality: 12
+    images:
+      - url: "https://admin.itsnicethat.com/images/_XN1leAQVOU29GQeCz0-jqNXk7Q=/222145/width-1440/superposition-inside-the-nypds-surveillance-machine-digital-itsnicethat-02.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "hhjEtJUFJf7o+Xq/Kskt30/JJebt2KEmwYNOL+3pAMCVDJ7yMZmt4KelDYHylfJOKzFoTDIbpxN2v/JH2gNOM4AiqAWntgpUnMX1ID2FPUOAUc0HPp0J520hQbIQDDgcWvhpb1LnxvhQco8mniTs03arQZAK0jOQdB3HWTlJAiylawO8LhWbtoY9QczVCCSPJYN7QeCeFyXV+7+xcOIFg/L+6WwS1ZuM3TEvn5LF4iQEGMDYqRpdoUfLodRwBo2yGfyXY9qz9fnJ+cV6Gj0BHyW2shPFavCkmg1AUqnfR87urEjvg/U/cnbBnozzST3HAzgpad+kP+T8djx0bBYLbeAjqklRvefu2hOeYnf39S47yB6e1uqLw41tsT33FXV6A7lRPePTFz7I6bfnyQ78eshi7hlW7lGwvU9LmUkLJZXxahR1aCwF2HxX7gWdr0fe3CEvGlCS7HWRZ+u+Gz/xNoVfnyB4oGsQGBlym01kB+is5/S/vHKZUoje/369tGYMrXwhkZrhwae54XhC+nYELw==;6UMN0yt2tIA2x7Q3VbEfDA=="

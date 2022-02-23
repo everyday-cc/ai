@@ -9,7 +9,7 @@ ampWebUrl: "https://oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Uk
 cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Russias-Recognition-Of-Ukrainian-Republics-Reverberates-Around-The-Region.amp.html"
 type: article
 quality: 57
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -235,6 +235,15 @@ related:
     provider:
       name: News
       domain: news.am
+    quality: 0
+  - title: "Russia’s Federation Council votes for recognition of pseudo-republics \"DPR\", \"LPR\""
+    excerpt: "The upper house of the Russian parliament, the Federation Council, unanimously ratified treaties of friendship and mutual assistance, including military assistance, with the pseudo-republics of \"DPR\" and \"LPR\"."
+    publishedDateTime: 2022-02-23T09:23:00Z
+    webUrl: "https://www.ukrinform.net/rubric-polytics/3409477-russias-federation-council-votes-for-recognition-of-pseudorepublics-dpr-lpr.html"
+    type: article
+    provider:
+      name: Ukrinform
+      domain: ukrinform.net
     quality: 0
 
 secured: "aOneMKrVNbkNgv9fyovmOL/S8gThfF4cONkZ4HRRTBQ3izQWqDvTfvev3t6DH7oXxTZX+Fy53wfzHHshJv2amLJuoXDWdcCLaEW5cS+46MuwcDb9YD8b8SGFLSnU2qTLvVgaTOhCjo5vy2EvbaIUWnAQ2eJCx/7smO1TWeg/N+RGTwL1hG6ZCOx0q1tzxRx8AO50OSv0yMWQepCVloORx6G5pmBphxh5t7yetjbVbUkln3tPNMumcZe641IGWrFadUFxnBUIbqJ9wn0uTX6iDAjDpg+K9tPGwiIUjY6BClYTQmqzl/wJa2baeEBa6GVF6tgYWEPa7j+gyDxt/urgmeZRaVqaURdG9l27jTdTtLlEBnXQQSn1sLcr5KRPNzQvp+y+kOjhOfKezB5L3GTTB04rJDQauuYgtLeaoNzVr2J0AzXHz50fGqzivaHbjtfgJ0B+L5QLXibDN4SeMAHx6a+8CHRM9JncWqPO8w7ixV4pPOWVPX1tuj12umTkhu5VmrE/jnpwFsMFdTuJs397ew==;azBnzSQC6bFDU9zu6zUP5g=="

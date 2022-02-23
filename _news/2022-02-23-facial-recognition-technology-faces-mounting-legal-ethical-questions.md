@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-22T23:02:00Z
-originalUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-23T00:02:00Z
+originalUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: NBC26
-  domain: nbc26.com
+  name: Fox 4
+  domain: fox4now.com
 
 topics:
   - Computer Vision
@@ -307,7 +307,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
+    excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
+    publishedDateTime: 2022-02-23T10:28:00Z
+    webUrl: "https://www.itsnicethat.com/news/superposition-inside-the-nypds-surveillance-machine-digital-230222"
+    type: article
+    provider:
+      name: It’s Nice That
+      domain: itsnicethat.com
+    quality: 12
+    images:
+      - url: "https://admin.itsnicethat.com/images/_XN1leAQVOU29GQeCz0-jqNXk7Q=/222145/width-1440/superposition-inside-the-nypds-surveillance-machine-digital-itsnicethat-02.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
-secured: "llMO2RE4Prv56BYTrPdZUNqXrJ6rWn+vx3ccPc0trqBz9qBuYr00FwsZtADPs/Grh2Mo9qvFjXtOkOikFtdqPfwliDRZGb6syUiY+pseRGmjNXmRnmJiN32exXiw8e4Z19xB7TC2B0thSchBAcYEeY3D/Z3kf+0fnHaEvf+6iJC49i1eXn8nB0a9hskh7W3dQOIZutQWJ+00v1jS37Z79wzm/jxGOvWa2fHVoikDX5v6AA/sQu/P+Yj1yrThrqEnHpBRK+o0vkWb5e4Zd0ig4KuNV7GX5EcCA2I+d37eZ7l1KgJkqWryfXx0ui+GBrGnS063XLmBCbQkkHOw6osLbOd7tXW4x8XjAq389r/flBE=;f3uOq7j+jAhiXX9BYdF3Ww=="
+secured: "JuxQqHRfj60VfFvEP1Ic9W8ItQ/6R2PrDzAwC+DNkVU6iTpBr1TIIhfMLJ1RXKOaOu4kRniPQPDG86JJduMWpGtsKi+foti6MkViuYMOuc7ixkvETQmp1OFcwXKZifrnzP2NUwDB18P2RXwGjWGIuN9370f2lVL/75YBMV5qjRlAKmzB26da72R34a+X/eid1v51RvZSclB+hNRcG8Gq0fHGIbT4FBHCyPJFdmpBIkvta/ExLo0MKjSzZochHlQGLSO4rWiUJG4HzHusExuotWUeBZYAjjfwarIVdiURdCsV4evl2G/uThn2WFDZ45c68ywwoyBsP+1IhpCsfBsdUN4D5BSN+1JBRs5DDk4dZOs=;dPLdwNerb/YnayUfETSGKA=="
 ---
 

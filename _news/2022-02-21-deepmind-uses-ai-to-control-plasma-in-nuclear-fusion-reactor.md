@@ -59,6 +59,22 @@ related:
         width: 949
         height: 534
         isCached: true
+  - title: "AI: Decoded: Putin’s high-tech war — Making sense of AI systems — Deepmind controls nuclear fusion reactor"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2022-02-23T10:05:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 58
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. DeepMind’s experts developed an AI algorithm that can create and maintain specific plasma configurations and trained it on the SPC’s simulator."
     publishedDateTime: 2022-02-21T14:38:00Z

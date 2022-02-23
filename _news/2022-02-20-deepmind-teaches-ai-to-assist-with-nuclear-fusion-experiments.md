@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-wit
 webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/02/image-80.png?fit=950%2C534&ssl=1"
         width: 949
         height: 534
+        isCached: true
+  - title: "AI: Decoded: Putin’s high-tech war — Making sense of AI systems — Deepmind controls nuclear fusion reactor"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2022-02-23T10:05:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 58
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
     excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."

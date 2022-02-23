@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Ongoing Investigation Reminder: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm"
-    excerpt: "Los Angeles, California--(Newsfile Corp. - February 18, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of C3.ai ... law and rules of ethics."
-    publishedDateTime: 2022-02-18T17:06:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/02/18/ongoing-investigation-reminder-the-schall-law-firm-encourages-investors-in-c3-ai"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
-
 secured: "L8Brr8LDbmVa0xxAX4vXEmqSjyKqCGuVPIsHQrX2SIeS0yz1edx7/6UulRK5tdMLg4dUp2PMVcdoyKGS+sM8400hv1efedgRcB7JG/67Tm/cldn2C4IGNjr9guMKJC++Z+Zcu2C4ff2Zx9f/d4fVCgHvpHevddPNqO4FHhr+sPljw+BTmxyvQyV2Sv1a8E2zO2gbmjZrTdQd6gOFMVzUaLM4Yxo381IWtDslLQpbJ86GZZItBueGo/bdirO9YV7ZN5ndzZsuOTkfcfoeC8nDSCDdkwCQRzKiwljPXf6eqN3/BpejltvDbTneUEtlXrRrzxxBYhyaoQx/oPJ1mvNNSatBlFuezfPjFKYL89XGfsQ=;b6nTDyny4IGcbAfSjAKJLg=="
 ---
 

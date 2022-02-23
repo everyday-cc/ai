@@ -236,6 +236,15 @@ related:
       name: News
       domain: news.am
     quality: 0
+  - title: "Russia’s Federation Council votes for recognition of pseudo-republics \"DPR\", \"LPR\""
+    excerpt: "The upper house of the Russian parliament, the Federation Council, unanimously ratified treaties of friendship and mutual assistance, including military assistance, with the pseudo-republics of \"DPR\" and \"LPR\"."
+    publishedDateTime: 2022-02-23T09:23:00Z
+    webUrl: "https://www.ukrinform.net/rubric-polytics/3409477-russias-federation-council-votes-for-recognition-of-pseudorepublics-dpr-lpr.html"
+    type: article
+    provider:
+      name: Ukrinform
+      domain: ukrinform.net
+    quality: 0
 
 secured: "vqefKRqzHB7rCHVcsB/29dme1NZPnK6uKGcBPhbXP4M/E1CPOtHYOFgG0TQAoWI9+GbLo7YeDs2J5xjnmGTxLit/KtgPR4VJv6aaK0ALu18uavWmYKvgtUu2z+zF5IQqfvz4qvRHjR8vdfBBje76KJTDsBuSmQQtfTqIGOkERF57LBHxL1yoCWxe0CGFCHhTerIoxeMWy762gIyGTUHRAlSVG0DOJJdWpTH+JshkY5BoHCFMcjsAffbOgNxQlTwqn9scf4V59FPZwgXV+LhhR2RmjBIdQPMCddpgRQnwS+wWrJCA1zw/Z5yoQsUKcrwOZqfu8cPOWKOeBLRsUSKJpkpsaJlQX62i4DHIpXHRhF1qu4FIQSzQ+s8VD+RkAKwap8H+PSHvaWLSHpKnQPmnK5Rt0ntEv5wN0ZVc+EifD6R/7hBPhhxL67DedyK2fAg5MwZfrb24Q6e668yB9PgE4ws9ri3DxLbZfmied4G+h4YK9jtJFWmEFpudpwHPSXxwFSK06fjmry624/iGrC2ixg==;U5FTgQSW8ccjC6QrcTxDOw=="
 ---
