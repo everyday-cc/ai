@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 400
     height: 391
     isCached: true
+
+related:
+  - title: "Exponentia.ai raises additional funding from Amit Midha and Technog Solutions"
+    excerpt: "Exponentia.ai has announced that it has raised funding from Investors - Amit Midha, President - Dell Technologies and Technog Solutions."
+    publishedDateTime: 2022-02-23T08:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 56
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/23/full/20220223124931.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "xTs/o7NobnqnGkoROnsrrtZn8LAIq/dc5rbfBuZwtpTbCWMHCMu7tbZ8o7rqcUgQercqL1l8dP1qsmiQjE3ADtXZz3Jm8oukn4Y1SwffMjtR5lIueB9+DhsYgyQJAvIIZnGoJB6o1uv3dtlKu4bVb/qMjPscR+5wrKRtJ6M7pwLaEWbPN1p7/WpxlPDEzhCq6uv9LzmwDhmxL0Oo3SAAT3y0pCoVGBEY9Nqzoh5iCuLiWhceubbiQwZH+hKtvFzKw+A9sr5YajxU4ybYp4jFxN9iI9Izl6H+hDUpzC6saxn9dwHj8kAuLv5DexpB6psDKaHnURC0SdTvIFN/8qeK/tQT6WFo1eEWprREkhAEae0=;inubTWD9htDg7pFp+vnaJg=="
 ---

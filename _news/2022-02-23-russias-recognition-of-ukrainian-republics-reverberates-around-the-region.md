@@ -59,17 +59,17 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Russian lawmakers lavish Putin with praise after rebel recognition"
-    excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was “entirely created by Russia” and questioned Kyiv’s ..."
-    publishedDateTime: 2022-02-22T15:56:00Z
-    webUrl: "https://www.digitaljournal.com/world/russian-lawmakers-lavish-putin-with-praise-after-rebel-recognition/article"
+  - title: "Russian Lawmakers Lavish Putin With Praise After Rebel Recognition"
+    excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was \"entirely created by Russia\" and questioned Kyiv's right to ..."
+    publishedDateTime: 2022-02-22T14:54:00Z
+    webUrl: "https://www.ibtimes.com/russian-lawmakers-lavish-putin-praise-after-rebel-recognition-3409250"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/975c8f9b83362db371574bc82218551d92fa7cab.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/members-of-the-duma-russias-lower-house-of.jpg"
         width: 768
         height: 512
         isCached: true

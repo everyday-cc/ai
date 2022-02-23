@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race"
-excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology."
-publishedDateTime: 2022-02-16T14:40:00Z
-originalUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
-webUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
+title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
+excerpt: "The collaboration is a high-profile win for Nvidia Corp`s effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence and high ... a previous deal with Alphabet Inc`s Waymo unit to deploy autonomous driving ..."
+publishedDateTime: 2022-02-16T15:06:00Z
+originalUrl: "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034"
+webUrl: "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034"
+ampWebUrl: "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034/amp"
+cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034/amp"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Zee Business
+  domain: zeebiz.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg"
-    width: 1200
-    height: 800
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+    width: 700
+    height: 394
     isCached: true
 
-secured: "VWkAxem/dVoFR5cqf7FrOAlfVLwogCsWJWcM8EOQMCfdqBkwEC2oPJoa3ZwqFBAU4MB4wjVLqAUTPLBWUpk8OBfG/ksw0o02zHuaOx8EkiDFCYjD8dkO+G3+Jk2pOTxJ2dVYRh6Gc7HcIkNdsXkHosqewd9FmK5a9O8nmj1V1xR/uIw9CNrTO/rhBl+1bpCeAZoEcx/FP3/FrHfcXpUrzDX6NF6AHZbibJHwgl7WmA6+aqWtjN2eOQfupJp4z1gZtpYQREXG2KuqhujLcBpD0hUyVMtEeZ73D+P97nWNz1/skxEH2Mk6mLvJH/T8+rKDkkZrEv+HGvW1E8LECcULRSrEcL82Vm72Ms+kD8JzIsM=;RaBTQOW60Kbt/pyubEBRKA=="
+secured: "/nwqDJ71AVeP69zdzgQj1Nr3xtG4aWOnpWUYbqvhgUz4reb5AVsgYaQBdpFgzgr9yYR8FQLEEZn6H6wMSMVyUtOYtX16tbnyaccpoh4C5nFUbRgahVq6hZ8/5y51gCOfxkYjC1GF5Tv4CfOZaZxl29RNRnr6HIREoC6GR+SXpuSgNen1kxBn0Qe1YKlcgyDg05E+wvxl8YLwpZiuUTyMukNa95gIGYI9ya4AJe0HasjaMmDSRygGxWYF5Joz/j3w/+wBXFP5JeryiR2XF5qlijihRvX4cT+cR5KZTGxujvS2b1hdWi+ghQ9HZCbFCiRoWERlXK5bIpcZGO6CMg34rG6O/pjjJx98UUGFVlbdaMk=;+mS4P45AR39hZ1Oh9nh8ng=="
 ---
 

@@ -55,14 +55,14 @@ related:
         isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
     excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-    publishedDateTime: 2022-02-23T00:02:00Z
-    webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    publishedDateTime: 2022-02-22T23:02:00Z
+    webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
     type: article
     provider:
-      name: Fox 4
-      domain: fox4now.com
+      name: NBC26
+      domain: nbc26.com
     quality: 76
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
@@ -306,6 +306,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pZ04H71d6sPEFKfRMW5VJDigIn1p8yaYTINkKz91KEZtYq/OnB4Z8kBdNvmcu5WsgQ1TOU/nDWfRF4PLPOc3tS7yMmcOA8pjAuQ5B5bBmQd7PGRibjoQad85cyDl69yVsogOb/rOgLfRKZMDR6Ruh7mDuEKhUX86nL/xr1WU140HJL0nwegrd03YnmExYLw5zaPBOP5FmGbOpKu1dwW/IVsg29KceSm3CZY3yoYnIiWV0jvdeZbwHsfooMOOzAyeM3KMQVbe/3ywqq1iuhaHocYcoiVt/1mAMCJ77fvw8Bv/NRXTorpvBGSWmSppnrcsWgyiIiNvRS4T1vw45uPw1OXZQdwJHWIqikksvyrpuT8=;0SPX/JAhq4LXHYI3oQTeQw=="
+secured: "UG5Y1uooXi2VSZKdyP9DIy9uF2iRFII8IbPKTzeVZ4UQs5VB8hmNXqfA7AGyVqAkHTz7UsUBY+HoX+oa5nKDjlGu8UxWgVKviOHN7SvEhj6FAfbPh7SLTe76WHE9BshkowEiOoMq10kyzpVHxx59Qfjz+SM4FjI5/Rm+uWj4hKsYQ3nZMfT5cuN/0TrBieelEuNThijm2bZo4cWFdDS7o4XQdTaXcNP6jvHQAeOA1jHxk2ugnSL7CfI6fV4/ix2o5qaGC6o/v4AjM3ohUcs4wPaKWTMpAXqBfQ7cjeY9rLAMmm47JsqXTCcZ1mdbeB8+Zvh/2F2yND3l3VqqDd69n5HUVMMQknSvKH71WxIMxkg=;iIe5Zl4qqPG7PtK/amS1Vg=="
 ---
 

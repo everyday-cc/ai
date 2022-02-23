@@ -24,6 +24,24 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Global Self-driving Cars Market Forecast to Reach 62.4 Million Units by 2030, at a CAGR of 13.3%."
+    excerpt: "Dublin, Feb. 22, 2022 (GLOBE NEWSWIRE) -- The \"Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle, Level of Autonomy, Mobility Type, EV and Region - Global Forecast to 2030\" report has been added to ResearchAndMarkets ..."
+    publishedDateTime: 2022-02-22T08:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/g25743315/global-self-driving-cars-market-forecast-to-reach-62-4-million-units-by-2030-at-a-cagr-of-13-3"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25743315"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25743315"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
 secured: "GnXkLxObm/Qt7k8CJ4nvyrDIHY9widPuFeKGPXujLyZpEmv6G9zCNAaAqCAFg/9vsInL3HLD3MIeptsDbT1MjaiZkIIj/exifm2Pdzbhmi+TM+dWsYoVdXbKrVimGZmRZnNaCHMZXfoy5z40lEi46C4LJtBmFbGJLMT9ST/V3IAg1qtRI0FHcJ4xsDd3oj3Ia5e8fTyJnZynrCylek7bZnARzQUR5sB9yp5IHHTxDNyYJ3DWap5px1rX2VdHrRYGuQA6BAgotdJWDIwhdwI/zJ1N2v0kOxhI+WLux51PQqwdcX9YmHBdE0PeHprOCO6LdmISO6K8A4Co4gp46bnGIJaiTDAU7KVW9P2Fo8eA3KjLewQ6yQaXxGesEHf1Ars21BlP+WnA9TD/tmIw6Cj3yI+BHXuwbiMGt62bmmB8Kh+m+0+1VwAlD81oi+3Rr8T75FhWIlKoklzZWbS8hTJrEokKRe6uj3IwCI1EItE31NPnOqirEt6LkoPTl1YWc4GZ5qaXv9+cU3+Lhg+Ue3Z7Sg==;A7UctSVDhVxxOIEV6jBrqQ=="
 ---
 

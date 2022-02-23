@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Russian lawmakers lavish Putin with praise after rebel recognition"
-excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was “entirely created by Russia” and questioned Kyiv’s ..."
-publishedDateTime: 2022-02-22T15:56:00Z
-originalUrl: "https://www.digitaljournal.com/world/russian-lawmakers-lavish-putin-with-praise-after-rebel-recognition/article"
-webUrl: "https://www.digitaljournal.com/world/russian-lawmakers-lavish-putin-with-praise-after-rebel-recognition/article"
+title: "Russian Lawmakers Lavish Putin With Praise After Rebel Recognition"
+excerpt: "A day earlier, Putin announced he was recognising the rebel republics. The longtime leader did so at the end of an hour-long speech heavy in murky historical references. He claimed Ukraine was \"entirely created by Russia\" and questioned Kyiv's right to ..."
+publishedDateTime: 2022-02-22T14:54:00Z
+originalUrl: "https://www.ibtimes.com/russian-lawmakers-lavish-putin-praise-after-rebel-recognition-3409250"
+webUrl: "https://www.ibtimes.com/russian-lawmakers-lavish-putin-praise-after-rebel-recognition-3409250"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/975c8f9b83362db371574bc82218551d92fa7cab.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/members-of-the-duma-russias-lower-house-of.jpg"
     width: 768
     height: 512
     isCached: true
@@ -237,6 +237,6 @@ related:
       domain: news.am
     quality: 0
 
-secured: "hTwO5O6OMAHXFuzoLet2fXJi//QWGtePVYL+SXU7NVyMM/qg+V+2JgDcPZAPL6VpgarrqO1QiZ+yBp7ZeEb6Wku/UwmPNMeTpjSYovvGx+IEGux4I6bXnkQGPz6pvl5pCuzhQciPrAIVMCKYIzYteB45twNlkjEs/zhvaC48C0nfqY0DiDsHnugSFlyQRAF2MmDba1B58BFNdwenbuUeT33z9KLbRiGZ/s8VCp1s2aScESamKCqbYEaU7Zt54e6UV2JSNMXSl6KW+Q/26i/lCv2dNEk2zUaaE8FFRBkG9y7+XdOsx+vXniTDlpoD5n5Fx/jTHIwugV0IKfduk9xb/GwDF4ElM8l8gf/qWsVWp3s=;4tcvE4r7PepA5trxDxvLrg=="
+secured: "eR7YxHifw2EgAbhsFvpGIxecjw2Z9avfKvSIMi8Y4AFgX3qbPZMMJeMVGs8kBeWLQWy6YnjjIwjbvKV2O31ItU7Cj/GLIcgxe9A0sOtUccS+il9aOBXxulsSTF+2FsDTTk/G5IhxwbrxvwaFL0x4cpiPEpJ2wve3lb+m+sxuPdy/JKppw9q1jVQlIHYXsFzFrM3CBkte0/taYi0GhBFE5EdiLw8CXSRvvK9bvVEfcR3PiWdzKMPut3mMDWiJmngEMFXuv/CaSguu4AJrGD2hd8FeDg+qhCRmCD/ZDYlI1k+pPqGWyJ5UfAg996osATa8/yoKvfNPh2aAN7RNmKNXXnl0UkIFvxYkZyQtHilgS48=;dFwFSXuWM7QNTj0NiEY64g=="
 ---
 
