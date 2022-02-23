@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global $3,945.43 Million Packaging Robots Market to 2028: Intelligent Modernization and Adoption of Vision Sensor Technology - ResearchAndMarkets.com"
+    excerpt: "The “Packaging Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis” report has been added to ResearchAndMarkets.com’s offering. The global packaging robots market is expected to grow from US$ 3,"
+    publishedDateTime: 2022-02-23T17:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-middle-east-1c0b28373fc842b1b1462c72cced3c1a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "1bb6C1HDnJeGKTbUmRCrzf1V6ivooDRpY9yHYW8tnYNjAyLB4dDGK4bDpm+RlICnuIXYhJYGa2VxQiiKjPghZvcNkPY2YRAB7QzoUpkbhqsErExlNaJ7fsBTG/M6TPnNcxtADt3k8yCTCuQCXomu7G8BYPaHjNFnMRkfGJ0uHb85srIT9StAUyahnzEllRuPX2HAQNwuOB1SDrHWIDIjIdVSm79185ahv9Nh78gkcJPJBNTnkNTio+DpMTJNNqP++YSxi/M6AwfWZiq8RR4KNwevCZomySeU+6iQlr26MP/tq8rkrpZvxGJsXsYnL+5DHo5LaHpfdxGhA+jSp/D74Z0Bah3Z9g6mI/FGLNjhZbk=;0L6erWcAsrUMimMqsHRvmA=="
 ---

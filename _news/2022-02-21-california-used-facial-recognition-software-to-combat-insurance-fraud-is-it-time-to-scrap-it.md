@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Anti-unemployment fraud measures in California face scrutiny"
+    excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits. But the nonpartisan Legislative Analyst's Office says state lawmakers should reject Newsom's proposal."
+    publishedDateTime: 2022-02-23T18:39:00Z
+    webUrl: "https://abc7news.com/california-unemployment-edd-ca/11592855/"
+    ampWebUrl: "https://abc7news.com/amp/california-unemployment-edd-ca/11592855/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/california-unemployment-edd-ca/11592855/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10917585_7OYS-BROKE-1280x720.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "California urged to scrap facial recognition software used to combat insurance fraud"
     excerpt: "And ID.me, under pressure from Washington lawmakers and others, is saying it will offer alternatives to the controversial facial recognition system. ID.me was touted by Gov. Gavin Newsom as a crucial tool in combating unemployment insurance fraud ..."
     publishedDateTime: 2022-02-22T18:15:00Z
@@ -32,20 +48,6 @@ related:
     quality: 32
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/bigstock_facial_recognition.621525bc61315.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Anti-unemployment fraud measures in California face scrutiny"
-    excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits."
-    publishedDateTime: 2022-02-23T16:47:00Z
-    webUrl: "https://www.kpbs.org/news/local/2022/02/23/anti-unemployment-fraud-measures-california-face-scrutiny"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 24
-    images:
-      - url: "https://cdn.kpbs.org/dims4/default/e198a98/2147483647/strip/true/crop/4077x2140+0+473/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2F49%2F79%2Fc626163d43f7abaa90205150a391%2Fap22054033698763.jpg"
         width: 1200
         height: 630
         isCached: true

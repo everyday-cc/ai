@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Anti-unemployment fraud measures in California face scrutiny"
-excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits."
-publishedDateTime: 2022-02-23T16:47:00Z
-originalUrl: "https://www.kpbs.org/news/local/2022/02/23/anti-unemployment-fraud-measures-california-face-scrutiny"
-webUrl: "https://www.kpbs.org/news/local/2022/02/23/anti-unemployment-fraud-measures-california-face-scrutiny"
+excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits. But the nonpartisan Legislative Analyst's Office says state lawmakers should reject Newsom's proposal."
+publishedDateTime: 2022-02-23T18:39:00Z
+originalUrl: "https://abc7news.com/california-unemployment-edd-ca/11592855/"
+webUrl: "https://abc7news.com/california-unemployment-edd-ca/11592855/"
+ampWebUrl: "https://abc7news.com/amp/california-unemployment-edd-ca/11592855/"
+cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/california-unemployment-edd-ca/11592855/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: KPBS
-  domain: kpbs.org
+  name: ABC7 San Francisco
+  domain: abc7news.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.kpbs.org/dims4/default/e198a98/2147483647/strip/true/crop/4077x2140+0+473/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2F49%2F79%2Fc626163d43f7abaa90205150a391%2Fap22054033698763.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.abcotvs.com/dip/images/10917585_7OYS-BROKE-1280x720.png"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -51,6 +53,6 @@ related:
       domain: sacbee.com
     quality: 27
 
-secured: "M6TyFjfYdbn+5VtUXhysLdzVr2wiVDTKraVrRUem+ABAUM7JcsD6rs9o+jURi/sqKV7JDoKBb5nbPxbq9xxuO+7xw2/nOdmZfy7gYNvZXqN87zsmYhvTpmpmSEiRbHA4YAzv0FWv8Ku7HDEdLqrq+8N8QZNddceV2aNb7RdW1FIgbiXe1NiPdaGo77RI59H5DQdpjwyzLgkEkAzJq4pYpk1OXE8g2iP0MMUlbcRtfwqJ+h5UvttFNcpjAwWKKO3dm/Cg95LWYgZ62Urdx/j0mXmakczDSMQRO7t5635YafJAM5S6/dlqgnhvFWt/DT9XpeEfWeTydCceyeGFSoStvcL14ulQqgMHqLdj8JtF1vg=;SdnITTRjn0kcAj4oD/1eTQ=="
+secured: "2zw26/FP7kv2sLiZtBrmQiZtJf/70e7qolJjQ6UeuEEM6nzAKLUO6XkOnv3il4xha3fbmqbsp46Jgx2dh/5dHYF5MgF+N/NcfaVY2faB4zs/Ejtr/QtYXHvMuHy7g8D2NCxDFQKXAtbvLOcqiC+/sljtuBOmNj2t+vrNVsMGj6WwEO16b58ivYMwltDW5IXWLzF3zLrVGFcjytetXlKnV1CkVgHJ6GL9TmYkdW0ucKUsYVp0MeNYsAoWC9gGaw84wSmMyvnpQT2wj6hV+R1LxF5TPWPTU6Vp/EJAVy0D8n94z4YoRWmx9JbNlOTfkNdE69Yxo1i0ZznXhFCDWJTCzPbUJCWIPVM3RkKnkzXQfjU=;PsDR1+vltNRQ+sN33DynbA=="
 ---
 

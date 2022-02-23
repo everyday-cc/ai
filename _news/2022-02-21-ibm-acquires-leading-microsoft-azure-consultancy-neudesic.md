@@ -69,6 +69,31 @@ related:
         width: 602
         height: 305
         isCached: true
+  - title: "100 days after IBM split, Kyndryl signs strategic cloud pact with AWS"
+    excerpt: "Kyndryl announced a new partnership with Amazon Web Services (AWS) on Wednesday centered on expanding its enterprise offerings and building out its internal infrastructure in the cloud. Terms of the deal were not disclosed but the companies said Kyndryl will establish an AWS Cloud Center of Excellence (CCOE) to \"offer state-of-the-art customer solutions and services for supporting mission critical infrastructure,"
+    publishedDateTime: 2022-02-23T17:13:00Z
+    webUrl: "https://www.zdnet.com/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Microsoft now delivers comprehensive protection with new multi-cloud capabilities"
+    excerpt: "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers."
+    publishedDateTime: 2022-02-23T17:32:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 64
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "NICE Alliance Provides Total Solutions to Accelerate Expansion of Ecosystem With Launch of Platform as a Service (PaaS) Powered by Microsoft Azure"
     excerpt: "Scenera's managed PaaS relies on Azure infrastructure and help its customers to maximize the edge AI computing capabilities.\" said David Lee, CEO of Scenera inc. Acceleration of Time-to-Market and Quality Improvement: Utilizing the solutions allows NICE ..."
     publishedDateTime: 2022-02-21T23:00:00Z

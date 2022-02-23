@@ -71,6 +71,31 @@ related:
         width: 602
         height: 305
         isCached: true
+  - title: "100 days after IBM split, Kyndryl signs strategic cloud pact with AWS"
+    excerpt: "Kyndryl announced a new partnership with Amazon Web Services (AWS) on Wednesday centered on expanding its enterprise offerings and building out its internal infrastructure in the cloud. Terms of the deal were not disclosed but the companies said Kyndryl will establish an AWS Cloud Center of Excellence (CCOE) to \"offer state-of-the-art customer solutions and services for supporting mission critical infrastructure,"
+    publishedDateTime: 2022-02-23T17:13:00Z
+    webUrl: "https://www.zdnet.com/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Microsoft now delivers comprehensive protection with new multi-cloud capabilities"
+    excerpt: "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers."
+    publishedDateTime: 2022-02-23T17:32:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 64
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
     excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
     publishedDateTime: 2022-02-20T23:05:00Z
