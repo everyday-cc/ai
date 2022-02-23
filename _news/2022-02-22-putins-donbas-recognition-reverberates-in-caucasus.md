@@ -42,6 +42,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Putin signs immediate recognition of Donbass regions"
+    excerpt: "The decision comes amid fears of a worsening conflict in Ukraines war-torn east Russian President Vladimir Putin has announced that Mosco"
+    publishedDateTime: 2022-02-21T20:55:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272321803/putin-signs-immediate-recognition-of-donbass-regions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/rtc1645474334.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "iIRhnoEfx4PyPZ1WVSitAGG0U/7v8vZbNFY7YtnZxtUv0nRcy+iKfAYYEAq7gZ0JeqdbsT87eHt36RQK3PszM7ct22eJdssHQLa/svYmCqKEZZPjZCSYc+yod4LXjrZtuIbjFztNBOTNDzijsWcb06XCOu4HR7rxIVXy1c3tQJ5gv5f1WXBC1m/Y3vmO+dhDK7Sd5MPmKtP4c1d0c4vw6iLxC9tuPXo9BYA5gRTDl4pbGIoUD1T6sC8pNl0WnFoJbW4+4Bkt0SdX4mY1qSSaZFAKLKIdVELIzn4K8ClC3KPA6OgfqOCMo+9BmZhk6S3BomPwJqx+40MEPnTKcdpzaaeA0wRC3tVIF+7rOIuqICu6EzAm51TYuon9tvkhsGFjxuxPI1w1appCcpv3wQGIhRO8bJYo+Kj7NCQ80qIsKJpM7P6jSQzZoEHEB+Ii7g1G92LMhStObfRl7dAOkknhUjA3r5Vi2YdvH+cafMSyyRzqNWFBCGReQbdjqTsccoAy9He+sMsj0jnyI8naU+Os+Q==;1DuK8pYU57INLdCkt8VV/g=="
 ---

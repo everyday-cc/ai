@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-sol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 671
     isCached: true
+
+related:
+  - title: "Can Artificial Intelligence Help With 911 Staff Shortages?"
+    excerpt: "As government call centers grapple with the nationwide staffing shortage and an influx in demand, some are implementing artificial intelligence tools to improve wait times and accessibility for callers."
+    publishedDateTime: 2022-02-23T22:31:00Z
+    webUrl: "https://www.govtech.com/gov-experience/can-artificial-intelligence-help-with-911-staff-shortages"
+    ampWebUrl: "https://www.govtech.com/gov-experience/can-artificial-intelligence-help-with-911-staff-shortages?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/can-artificial-intelligence-help-with-911-staff-shortages?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b50a7b2/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd3%2Fca%2Fbb56bffc29ca615bbb2330a88b5c%2Fshutterstock-call-center-header.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "WOa2wEzZ/ByX4drQPF7QrX6bGrWRRczPI9cD4KZV5u705ZcbjZTsqS5y5tTA8VbRrRV9yElJb+nnQtAZT4qiUc1SrggfJLSp2W0TXEMwvusEQDSD5uWuaHi5VbmAxTVp5tZybg99kvsQj4CWi8xHWjopDhknXKe6S2L4fGpY4oL3TxcZTW7kQrWLMgLGUv3TEFagGXVMTNAGOvjEnerCBE7al1P+57Ze73uku/CijtoNkSs0CVfJhxD7DYTgYIrYWU74dMRIUdwSBbmOHaUykUaU4k2Bo4HituAz45oag82ANXescq6izGrFokBSG4moNafPqzUJaNPEj/OIROdqCK0M04rM3t8mpGUZ2PRSw2HFej9utsdQxA7V3iyYB1NqXJ2eaZtQQr3NyVTLRFarLYnKjSTHLWRATzBX8ZfcNAvRmxp9neyzbuLMoDN8xsKc40rjmHtt5LNBaxj+O1XSj9T+PJBE4FlgqUB+GQFZhjwU0WjhhyePJo8Q+q6SEvY6tdJBcWtiJ4V1U2sIt240mA==;27Z43E/3bx9RJLuajxMUGA=="
 ---

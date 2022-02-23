@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "After Series A Funding Speech Graphics Announces Expansion and Introduction of New Brand, Rapport"
-    excerpt: "Speech Graphics, a pioneer of audio-driven facial animation technology, has expanded in response to increased demand for relatable virtual assistants that can offer a consistent, humanized experience at scale."
-    publishedDateTime: 2022-02-23T14:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-animation-technology-693165161164622b0200052618474b9c"
+    excerpt: "Speech Graphics, a pioneer of audio-driven facial animation technology, has expanded in response to increased demand for relatable virtual assistants that can offer"
+    publishedDateTime: 2022-02-23T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/after-series-a-funding-speech-graphics-announces-expansion-and-introduction-of-new-brand-rapport/article_f77d561f-23a6-5397-a74e-6597268081d3.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 11
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/fc/1fc90bf3-3e39-5048-a8e8-7305d6a9fbc0/62163f0b7b68d.image.jpg?resize=500%2C500"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "sJKl84z1jdbtjGBmxd8G8SPIqjjmV/UwRfZrFZ2YqfCbea5fvyDu9sDQH3YpjEgVR1u3fMCuuWsSN/8OX1zK48DkvQfFSTz2c+oS2F+78b/zDrYYu4ENS1rS1bPFfJqmye7CsnI0DRW8YQbLELSZFEIjkpeXVC1+VKQAE/pK2ysL64obb5iCGRjuLFIneTn2qtMCZRSxk5d+MT+DEwjMKyuru034Tb3V/vfOBCE3mo6vSyGsRYFoXzElsFE5TEXHN57V+6CTCe8sG1lK7BISaFfIpQtgo+l1ScDDOrfVJF99AiRUcJ3PlEPu+KPB9s2hZVas8TVApkHcng1Aq7OzLHoqlU3V4Gx0HHjUj1CGWC+BirbZEkSBJRkRQla2F21k2DM5vv4lWgeKWNrCjWb+k6pAedhZNRCgmp+PEvKcKGc39yxCYvf7escJNnykS1tf/iTVsHqX+lZsDRonZxscashMnEemkzqRq+eVI0hp1EH8JmXNx3ntbAKuHxzOlfATlDeUxH3uZGf6d8uxCiWFeA==;EQRhx4d9gcHEBT1+5OV5ag=="

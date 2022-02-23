@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict"
-    excerpt: "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,"
-    publishedDateTime: 2022-02-23T02:05:00Z
-    webUrl: "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict"
+  - title: "Word by Word and Between the Lines: A Close Look at Putin’s Speech"
+    excerpt: "In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean."
+    publishedDateTime: 2022-02-23T15:13:00Z
+    webUrl: "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html"
+    ampWebUrl: "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 72
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
     images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzkyMTc5NTIzODIyOTI1/stock-trader-distressed.jpg"
-        width: 620
-        height: 400
+      - url: "https://static01.nyt.com/images/2022/02/22/world/22putin-speech-1/22putin-speech-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
+    excerpt: "Ukraine seeks an emergency meeting of the U.N. Security Council. Boris Johnson warns that Russia is planning the biggest war in Europe since 1945. Belarus says Russian troops might not leave unless NATO pulls back from Eastern Europe."
+    publishedDateTime: 2022-02-21T15:04:00Z
+    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-biden01/21ukraine-briefing-biden01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
+    excerpt: "Why it matters that Russia just recognized Donetsk and Luhansk. In Photos: Eastern Ukraine on Monday. U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit. Highlights from Putin’s address on breakaway regions in Ukraine."
+    publishedDateTime: 2022-02-21T19:18:00Z
+    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/boris-johnson-warns-that-russia-is-planning-the-biggest-war-in-europe-since-1945"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-johnson2/merlin_202534344_84900b07-78b2-4bbd-af3b-5c5826015950-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Putin's angry speech rewriting Ukraine's history"
     excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."

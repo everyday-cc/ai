@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Data Science Market worth US$ 527.08 Billion 2029 with a CAGR of 33.9%"
-    excerpt: "(MENAFN- Prophecy Market Insights) The report Global Data Science Market, By Types (Solution and Services), By End-User ... In 2016, Microsoft Corporation launched the next generation SQL Server ..."
-    publishedDateTime: 2022-02-19T05:44:00Z
-    webUrl: "https://menafn.com/1103726151/Global-Data-Science-Market-worth-US-52708-Billion-2029-with-a-CAGR-of-339"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?612054"
-        width: 354
-        height: 250
-        isCached: true
   - title: "Intelligent Drug Discovery Market to Reach a Valuation of USD 3,711.8 Million by 2027 Growing at a CAGR of 39.4% | Emergen Research"
     excerpt: "Intelligent Drug Discovery Market is forecasted to be worth USD 3,711.8 Million by 2027, according to a current analysis by Emergen Research. The"
     publishedDateTime: 2022-02-23T06:13:00Z

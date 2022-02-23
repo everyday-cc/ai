@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Meta Wants to Bring AI Assistants and Universal Translation to the Metaverse... One Day... In the Future!"
+    excerpt: "Zuckerberg's company showcased a variety of long-term AI projects it believes will work hand in glove with future online worlds."
+    publishedDateTime: 2022-02-23T22:25:00Z
+    webUrl: "https://gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856"
+    ampWebUrl: "https://gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 70
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bd258d292cbfd33bf97a14a0933cc100.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Meta wants to build a universal language translator"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
     publishedDateTime: 2022-02-23T18:36:00Z
@@ -57,20 +73,6 @@ related:
         width: 4000
         height: 2515
         isCached: true
-  - title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T18:09:00Z
-    webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 41
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Zuckerberg's Meta plans AI translation tools"
     excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants"
     publishedDateTime: 2022-02-23T18:50:00Z
@@ -84,6 +86,20 @@ related:
       - url: "https://newsstatic.rthk.hk/images/mfile_1635517_1_L_20220224023730.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Facebook's Meta Unveils AI Projects Aimed At Building The Metaverse"
+    excerpt: "The company also said it was working to make a single AI system capable of translating between all written languages. Zuckerberg also announced that Meta was working on a universal speech translator, aiming to provide instant speech-to-speech translation ..."
+    publishedDateTime: 2022-02-23T18:23:00Z
+    webUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-3410906"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
+        width: 1200
+        height: 775
         isCached: true
 
 secured: "3divf1pkWqTxKNea+HZnYodH8bVlaFajNH8rsILXoP5ZS9GKMfRDytozgPBfogpmgaLYXJ5l9AvCAuwAsYdTWRd7n4SNYJYF8JCaie4WAmkZSI6T+uNuxtAsMDx0guPUsupDCBwjrDgtnTMFeMDWHYS2M830b8aeyuh9xxfWG8YHstBNlkcJ2mdPFTrOgiWoyg4OPTgZeUGEFwxNOYCXZesOCQfzlhb0ZkZPQV3SXSyAYZWZGA++pjid9A1LYU0MCANB7mEnVaTCqxWYAII0Jm+6aNpYPbUEtBpRyyjnMRpPV6XIGI3Ih6JNJf9b0FkNgGS9xu8lQG8Xm2bD9nbF5pJOJ+xjYvlqbpypZtLWLgpTBP6POPSCqQgTjj1h82GlROUux9uMmekLel3JbMYngyTv1A6D10WQ8pV37RNE09u8FzwpWXzquHuMQaYTH2mt5ScG1IzXmx9W2FWKWc10F2/A0iuYl1NArKdsIvIebXQSAt6zx6lKQjV53Y9CKcKm4mkP+2s1cQjBy5FNkLZFDw==;eKXtKqDDNXQIT/ONlqUwYg=="

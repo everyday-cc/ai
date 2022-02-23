@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/s
 webUrl: "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD"
 type: article
 quality: 69
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -438,6 +438,20 @@ related:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/94a66be7-8f79-4900-9880-725c40e3b8ca-1-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Why Armenians Should Not Support Russia’s Recognition of Donetsk and Luhansk"
+    excerpt: "On Tuesday, Russia took the step to recognize the Donetsk People’s Republic (DPR) and the Luhansk People’s Republic (LPR), regarded by the West as a major provocation and triggering sanctions from the United States,"
+    publishedDateTime: 2022-02-23T22:43:00Z
+    webUrl: "https://asbarez.com/why-armenians-should-not-support-russias-recognition-of-donetsk-and-luhansk/"
+    type: article
+    provider:
+      name: Asbarez
+      domain: asbarez.com
+    quality: 21
+    images:
+      - url: "https://media.asbarez.com/wp-content/uploads/2022/02/23144011/gettyimages-1238271142_custom-503191367ed0b82caf83e2e5ee87ff28bfef61fa-s1100-c50-576x375.jpeg"
+        width: 576
+        height: 375
         isCached: true
   - title: "Nicaragua President support Russia's recognition of Donetsk and Luhansk regions"
     excerpt: "What Russia is asking for is security, Ortega said during a speech in Managua. According to him, existing agreements could also provide security in eastern Ukraine, but they were not implemented. \"I condemn Russia’s decision to extend recognition to the ..."

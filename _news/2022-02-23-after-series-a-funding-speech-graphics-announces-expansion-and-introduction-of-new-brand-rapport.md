@@ -1,27 +1,27 @@
 ---
 category: news
 title: "After Series A Funding Speech Graphics Announces Expansion and Introduction of New Brand, Rapport"
-excerpt: "Speech Graphics, a pioneer of audio-driven facial animation technology, has expanded in response to increased demand for relatable virtual assistants that can offer a consistent, humanized experience at scale."
-publishedDateTime: 2022-02-23T14:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-animation-technology-693165161164622b0200052618474b9c"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-animation-technology-693165161164622b0200052618474b9c"
+excerpt: "Speech Graphics, a pioneer of audio-driven facial animation technology, has expanded in response to increased demand for relatable virtual assistants that can offer"
+publishedDateTime: 2022-02-23T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/after-series-a-funding-speech-graphics-announces-expansion-and-introduction-of-new-brand-rapport/article_f77d561f-23a6-5397-a74e-6597268081d3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/after-series-a-funding-speech-graphics-announces-expansion-and-introduction-of-new-brand-rapport/article_f77d561f-23a6-5397-a74e-6597268081d3.html"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/fc/1fc90bf3-3e39-5048-a8e8-7305d6a9fbc0/62163f0b7b68d.image.jpg?resize=500%2C500"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 652
         isCached: true
 
-secured: "XiOgj5R1Srz3wdtcX+8ipB5o2BOhx4jIynt6P4Wv6oD6hjIicdc5mt2mxzauRhkUKNUkYGaxKK4mXUIaqANTnluJMTu8NCc4BMTLAL13edtO5l428u7rfzugUyoFwnBpBZS77SZH9c0NGkRubhHw7IfWL3yWeEPh1zxIq0IQLA4CQW9xNjquSpQL3vV9uEiqBwbNcntpkaLhEZDplEw/Gr4MVMKm2gCGsT2zemuTaYQxqgVRoQQABiIIETD2TpwbfAB5rMFfW88CXl+TnU7an8Hs7JtI1Irws7Lu0OIl03F58bStouvVb3KrsfXH8r/nCDpkvWsbwGat6BpXtBMjBg2ynE1cqDn9KKUi+tJhCkU=;zi3t56YyYF7ClMPVcjuvWA=="
+secured: "0Cb8oR9GFt5NOdkIWD3V82CdBnVHq/5aqxxFPpRCa4IgWeYJODtER8kxKZ3BtmB3zBDcaUd9N9L44dC9tQWXEVZUCt8w6YX2Oal8uIMI95j/Ek3GUC6Y68pqbk0cEXrOUFshkXPWl21n55XbIab229Y48KTFbbxevCy7mHcXJWURx0ZO5rDcdXNAgPCnDOeJRDyQVjJu4SFYCfunMQflp9DYYoqLXzAiCtWosLI7ebWg4MwuRlQuSofebREDbSlUtXqxZCO6P0UfC9T74gALw+5+L/MnkVLbheDarHXqqHiJeUmFbKAKpZbJllodq6pr1a52uj/bM0B2pfiDhc3H1rEgiMaoE1JJ/JqgZh2T55A=;MO4G+zQ3SyCioSeup8t0nQ=="
 ---
 

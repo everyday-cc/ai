@@ -96,6 +96,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft updates security applications for multicloud environments"
+    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
+    publishedDateTime: 2022-02-23T22:46:00Z
+    webUrl: "https://www.arnnet.com.au/article/695602/microsoft-updates-security-applications-multicloud-environments/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
     excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
     publishedDateTime: 2022-02-20T23:05:00Z
@@ -109,6 +123,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/2fd7a2dea6d47c0405fbba180846ff2c.jpg?t=20220220_221348"
         width: 752
         height: 408
+        isCached: true
+  - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
+    excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."
+    publishedDateTime: 2022-02-23T21:50:00Z
+    webUrl: "https://redmondmag.com/articles/2022/02/23/microsoft-defender-for-cloud-adds-google-cloud-protection.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/CloudSecurity1.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
     excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.&CloseCurlyDoubleQuote; \"More than ever ..."

@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Deep 6 and Carle Partner to Deploy Artificial Intelligence in Clinical Trials"
-excerpt: "and accelerates the pace of innovation in healthcare.\" About Deep 6 AI Deep 6 AI software accelerates research to the power of AI. The company uses artificial intelligence (AI) and natural language processing (NLP) on structured and unstructured data ..."
-publishedDateTime: 2022-02-23T05:16:00Z
-originalUrl: "https://www.medindia.net/health-press-release/Deep-6-and-Carle-Partner-to-Deploy-Artificial-Intelligence-in-Clinical-Trials-570973-1.htm"
-webUrl: "https://www.medindia.net/health-press-release/Deep-6-and-Carle-Partner-to-Deploy-Artificial-Intelligence-in-Clinical-Trials-570973-1.htm"
+excerpt: "Clinical trials play an important role in offering patients early access to cutting-edge care opportunities before they"
+publishedDateTime: 2022-02-22T19:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25763381/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/n25763381/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials"
+ampWebUrl: "https://www.benzinga.com/amp/content/25763381"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25763381"
 type: article
-quality: 16
-heat: 16
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Medindia
-  domain: medindia.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "pLVofLJ5N89dA5849Sf2MyieELcZ8Y7gRdurwcxgigjXUilQjEiaK62Wf2uYVsznhEtsIGLa/prx3kEpzezIPNnkXjX+cUBrsGqldCjCQRhQHPwfAkwiH29d4wVyp5DqlRXipCKmuftb9ZeLgCGItpoUu+Keiu1GRVRt6oRlMLddkjFlo9NXhHgaHfbX6ezwuO4OtpVW95NgSFYq7uOTU0+gzY5IO/YsDt2x7aH2vPVGiLrEi7fz6aUqCBwSFm1+IyXHJhj1myQhrmYg/2eG+v7vvdB0BpOBTUwuo1EPrMRYsrVfju44wAS3l8p6HxAQh1vHQ43KTfwd86QBHMsnEng4LnoihC2gNKAbvj5KG1A=;xHLjMveeupOphoPjDKr2bA=="
+images:
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "FFrnB+b2Cn5yLGlRLKJSDHttmtD/vN5UQu9e1juJ0lj16KGXMMzvPQ3Eu3A97gbu5Y58MwTXVhEUdgOXqHoc3Pru8HVYEqBs1uJ4krrH7hmRXzJthGW/VOIaqagOSuD9CX8FpSH9VHxOe/rERgC2//L0SEsPsiwGhzbbCHG/NQQgu64AwUKyCOi3QiPDjyBzj4zCoBO/zC1Mf/rq/kBFLCH1r6X1HsQvujvJhgwoRsFCBwF5lSNPYB8O5+KjtB781gka5jj8aQ/oei1m8LkE1Q95r6H/BERrKHTyuV0kHU+uzutCNMpph36Vo0EsFnHu2qYqPeh9PsK7VA8ofPHN/qO28DcXyAcHMq4/cBRq+lE=;6qfZ6agX2bPdGHVMTFYVBg=="
 ---
 

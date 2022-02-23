@@ -443,6 +443,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Why Armenians Should Not Support Russia’s Recognition of Donetsk and Luhansk"
+    excerpt: "On Tuesday, Russia took the step to recognize the Donetsk People’s Republic (DPR) and the Luhansk People’s Republic (LPR), regarded by the West as a major provocation and triggering sanctions from the United States,"
+    publishedDateTime: 2022-02-23T22:43:00Z
+    webUrl: "https://asbarez.com/why-armenians-should-not-support-russias-recognition-of-donetsk-and-luhansk/"
+    type: article
+    provider:
+      name: Asbarez
+      domain: asbarez.com
+    quality: 21
+    images:
+      - url: "https://media.asbarez.com/wp-content/uploads/2022/02/23144011/gettyimages-1238271142_custom-503191367ed0b82caf83e2e5ee87ff28bfef61fa-s1100-c50-576x375.jpeg"
+        width: 576
+        height: 375
+        isCached: true
 
 secured: "HHkWWDoKmv8eCSQWurfCfrlo1ve8G1ov7iQV9HtOeksilnvaNdCAdrLnPvpl8qhttwAOTJdwo5ZMAkEMJOiklkoONgLNEtCT00vs5L8kgbxGOJ3Ia6RydN94EdbtX4XcsbQBY+0fWMkvhdVq4kB9UOtoKDHSb8dvrEMJRPEFi7N+glOqqkR9V8FuSN4O2XLFG5R9fTWnsiCZO2BXRoguaEbzgAyEyHc8SJ5U1LVY+mTBvoq0Dzo/h3eGeRhlNoeQPd1hYQScyHL7bJ1qI2LD4hssL9EN5HEMKZaO6XEAtcAMjgLw5JtTELPmEgcqn31FeAnF8lTgE36qfHqJMTStedhoWb+c/jq/9fHJYOuitBXoVr+HBqh8n6XGj0s9cVy60NL9bYnXW5fcoAbP2CNkJKuCq8Cz/QIq3cuwYTsqC+C8KM9Jq22RbuvUuvy8IpN2MVsrVkLjCVHmIXxGEv3LwIdDStXJOX9c2C6R6O7XtLnrEFmVB98AqvyHAxRqLcQAGrVzquLj8YBizBWJ+OGJlw==;wNKRHn9fPJmFLnsf/sZlig=="
 ---

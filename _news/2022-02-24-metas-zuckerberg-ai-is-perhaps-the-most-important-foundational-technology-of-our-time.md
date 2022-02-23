@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perh
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -32,19 +32,30 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's Zuckerberg Unveils AI Projects Aimed At Building Metaverse Future"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T18:10:00Z
-    webUrl: "https://www.ibtimes.com/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-3411002"
+  - title: "Meta’s Zuckerberg unveils AI projects aimed at building metaverse future"
+    excerpt: "aiming to provide instant speech-to-speech translation across all languages. The company previously set a goal for its AI system to translate all written languages. The social media company, which recently lost a third of its market value after a dismal ..."
+    publishedDateTime: 2022-02-23T22:23:00Z
+    webUrl: "https://www.fxempire.com/news/article/at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai-909235"
+    ampWebUrl: "https://amp.fxempire.com/en/at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai/909235"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai/909235"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 38
+  - title: "Zuckerberg unveils Meta’s AI innovations designed to build the metaverse"
+    excerpt: "To drive innovations in AI, Meta announced Project CAIRaoke ... templates rapidly from a few spoken words. It’s a good start for users taking their first steps into virtual worlds."
+    publishedDateTime: 2022-02-23T22:44:00Z
+    webUrl: "https://siliconangle.com/2022/02/23/zuckerberg-unveils-ai-innovations-designed-build-metaverse/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 38
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
-        width: 1200
-        height: 775
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/ITL-system-cards-1440x1080.png"
+        width: 1440
+        height: 1080
         isCached: true
 
 secured: "uWfKhsGy3wfF5ePMfJHdWlC1YhliFXhw2F4ZeXcSdjvcKZeeoJJVYs6gLP8Cdu6kgPBY6cci1aMBAccYrLnpvn4TmEDmGktYlAHfhBss0f0472UtFCF+YuCeGBXnoHOrdDt3RrlJg7RP/uPHSZ3w6GgJpqQVoR0+zg8+e89oayqF4DlztOp6HLvlLzecv9cUkKBlTGsAY1bsL+dUX/k7VK61W+v9drn2gbHkTsINyM4SNNVp/R4s8zgLZrc7/udgqjopoEGOdc5zKhH00cwYhU7tHW05xpx5AGDyPHizxwzHYc4tmjuMLRt4k2itz1UGkE4Vt1S98aVwHJXgYMVh8ITjBFQQXKKxX05NvKimJBR6jQmJGPP0w70QMO/SzkGUBwDI9uUnuBlJwgeYVqK91TO2wTn41eQuePaGlWs3s5UztIinHSfnCYkSrfIESNybb8EmEl6TRc4jl+q+eAXyXu/oJUzLxymiZR8gL1wUozWunuofR12cP5YJk2va8yyB5Z4c7vm+2iSyxUY2qbWD8w==;Q5PBx9L0xQe/1hZih9/0ig=="

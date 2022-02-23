@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Meta's Zuckerberg Unveils AI Projects Aimed At Building Metaverse Future"
-excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-publishedDateTime: 2022-02-23T18:10:00Z
-originalUrl: "https://www.ibtimes.com/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-3411002"
-webUrl: "https://www.ibtimes.com/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-3411002"
+title: "Meta’s Zuckerberg unveils AI projects aimed at building metaverse future"
+excerpt: "aiming to provide instant speech-to-speech translation across all languages. The company previously set a goal for its AI system to translate all written languages. The social media company, which recently lost a third of its market value after a dismal ..."
+publishedDateTime: 2022-02-23T22:23:00Z
+originalUrl: "https://www.fxempire.com/news/article/at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai-909235"
+webUrl: "https://www.fxempire.com/news/article/at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai-909235"
+ampWebUrl: "https://amp.fxempire.com/en/at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai/909235"
+cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai/909235"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: FXEmpire.com
+  domain: fxempire.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
-    width: 1200
-    height: 775
-    isCached: true
 
 related:
   - title: "Meta's Zuckerberg: 'AI is perhaps the most important foundational technology of our time'"
@@ -41,7 +37,21 @@ related:
         width: 1200
         height: 711
         isCached: true
+  - title: "Zuckerberg unveils Meta’s AI innovations designed to build the metaverse"
+    excerpt: "To drive innovations in AI, Meta announced Project CAIRaoke ... templates rapidly from a few spoken words. It’s a good start for users taking their first steps into virtual worlds."
+    publishedDateTime: 2022-02-23T22:44:00Z
+    webUrl: "https://siliconangle.com/2022/02/23/zuckerberg-unveils-ai-innovations-designed-build-metaverse/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/ITL-system-cards-1440x1080.png"
+        width: 1440
+        height: 1080
+        isCached: true
 
-secured: "LyFCgQQM7brIwd+RtwLlr/hvka8VjTx0DA0WBtCi1ie+OiPj7IRX44qTOcYIpjhstx8Enk5s1wd34fCzfbdLZP+Awwnk26WdzWjWlWzVRPJI+N75iFBBr5UQzdni6x+WRwZOkasVU8zps6s91VXb9O7tvG3OAZFFG/RIBVt3hSKMG6IwZlsVfzTsp8q6NwPdsFd2ScQLNMopWC3hsFzdvTYV6gLhAoDgx8Bas3LGp3FBwS61KL1/J/lbSyXxmZNoyAKivku+KmNxdYRhQHJRInGL/wp7F9mSdNMo4AGNuGiwGDE5NWnsA3sRuqiqCzkSP850dgj2dPjuVMwmSTtE1IJJU3p3f1TLV5lGbMCW9HY=;omNeI22OQewkRx+tpOlSqg=="
+secured: "L13vIBUoVxcmTXQvdiPNuoT5eSzElUvB23ABPXeOfQmFFY/PeLX3WYuIfuPFDnBhWN5GY8CyU56tiNfhw0SsnY5Aw23ROWSFFMYQdLfyQ+9CaXTIXFhDTW3wdAz0yHXF1driBn1NscPwDY0HXBAMwYFaOMyZfTUqNzLWiZk/CimWNXWZriS1pFs1VjA2+g3M3wQu5jYgqO1cKo1Iq9mI5om04qZo6KGHUxf1D/4hW0tJNgyf2SIYkxe19pwxWM/MbSNaJ+G426L63BCk4uIy32g/vVlQp5EKSUwtnEno3rO1/yQ93LWHvseXPc6WRG2b9WprkYRecWpL1miqA1/2tbb+lf9c/8XrH2Cm+eDZ7j4hZYWHDUMADErTIbjnwByOyH3Gl9wNGJAPYfaq2cgir/ptrl8/SALvc996QMh/GNWbn9b7X/dn9oj9uW0/579OqS2HNfKR2KybhO/JR4Twcf+SnVFUPixyBGYLbq58e26xxYDlutXew5SE6jSGVixG6jefyeU5QjktYPllGpi+3A==;ViesMybj+5fqt8HB9tlZLA=="
 ---
 

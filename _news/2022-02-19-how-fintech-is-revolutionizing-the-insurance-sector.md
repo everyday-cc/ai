@@ -55,20 +55,6 @@ related:
         width: 1800
         height: 1362
         isCached: true
-  - title: "Five Essential FinTech Trends to Watch in 2022"
-    excerpt: "Machine Learning is continuously developing, and Fintech will remain just one of the major sectors to gain from the power of AI/ML. 5. The development of Banking-as-a-Services. Over the last few years, Banking-as-a-Service (BaaS) services and platforms ..."
-    publishedDateTime: 2022-02-19T05:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/five-essential-fintech-trends-watch-2022-apac-monetary"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGFf2tmx-5tjg/article-cover_image-shrink_720_1280/0/1645246397557?e=1651104000&v=beta&t=n5lS1bgSzqhA4DDLPqUBm0TZK1BHjOKoK2-MRA-6yUE"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "4 ways fintech can halt environmental degradation"
     excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"
     publishedDateTime: 2022-02-21T09:11:00Z

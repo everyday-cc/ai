@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Intel's new chip plans could turn rival AMD's fortunes - analysts"
-    excerpt: "Intel, which plans large investments in chip technologies in the next four years, said on Thursday it expects revenue from its segment housing PCs to grow in low to mid single digits, and its datacenter and AI business to grow in high teens from 2023 ..."
-    publishedDateTime: 2022-02-19T06:17:00Z
-    webUrl: "https://www.channelnewsasia.com/business/intels-new-chip-plans-could-turn-rival-amds-fortunes-analysts-2507876"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--z2mSvhwZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-18t204659z_2_lynxmpei1h0yu_rtroptp_3_intel-investor-day.jpg?itok=K7drKbhc"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Intel’s chip making plans an own goal"
     excerpt: "Wall Street thinks that AMD will win The cocaine nose jobs of Wall Street think Intel’s chip making plans to meet rising demand will give AMD a greater foothold in the segment. Intel, which plans large investments in chip technologies in the next four years,"
     publishedDateTime: 2022-02-21T11:25:00Z

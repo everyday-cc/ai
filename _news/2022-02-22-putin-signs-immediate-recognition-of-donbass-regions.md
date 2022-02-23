@@ -25,47 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
-    excerpt: "Ukraine seeks an emergency meeting of the U.N. Security Council. Boris Johnson warns that Russia is planning the biggest war in Europe since 1945. Belarus says Russian troops might not leave unless NATO pulls back from Eastern Europe."
-    publishedDateTime: 2022-02-21T15:04:00Z
-    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit"
+  - title: "Sokhumi, Tskhinvali Hail Putin Over Donbas Recognition"
+    excerpt: "Kremlin-backed leaders of occupied Abkhazia and Tskhinvali Region/South Ossetia, Aslan Bzhania and Anatoly Bibilov, respectively, have promptly welcomed Vladimir Putin’s decision to"
+    publishedDateTime: 2022-02-21T20:21:00Z
+    webUrl: "https://civil.ge/archives/474175"
+    ampWebUrl: "https://civil.ge/archives/474175/amp"
+    cdnAmpWebUrl: "https://civil-ge.cdn.ampproject.org/c/s/civil.ge/archives/474175/amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
+      name: Civil
+      domain: civil.ge
+    quality: 59
     images:
-      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-biden01/21ukraine-briefing-biden01-facebookJumbo.jpg"
+      - url: "https://civil.ge/wp-content/uploads/2020/09/Kremlin.jpg"
         width: 1050
-        height: 550
+        height: 700
         isCached: true
-  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
-    excerpt: "Why it matters that Russia just recognized Donetsk and Luhansk. In Photos: Eastern Ukraine on Monday. U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit. Highlights from Putin’s address on breakaway regions in Ukraine."
-    publishedDateTime: 2022-02-21T19:18:00Z
-    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/boris-johnson-warns-that-russia-is-planning-the-biggest-war-in-europe-since-1945"
+  - title: "Putin’s Donbas recognition reverberates in Caucasus"
+    excerpt: "“The establishment of an independent state and its international recognition becomes an imperative especially in the face of existential dangers, as it is the most effective and civilized means of preventing bloodshed and humanitarian disaster,” he ..."
+    publishedDateTime: 2022-02-22T10:42:00Z
+    webUrl: "https://eurasianet.org/putins-donbas-recognition-reverberates-in-caucasus"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
+      name: Eurasianet
+      domain: eurasianet.org
+    quality: 26
     images:
-      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-johnson2/merlin_202534344_84900b07-78b2-4bbd-af3b-5c5826015950-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Ukraine: how the world reacted to Vladimir Putin's speech"
-    excerpt: "Mr Putin's speech, in which he recognised as independent two Ukrainian ... to impose a limited set of sanctions \"targeting those who are responsible\" for Russia's recognition of the rebel regions."
-    publishedDateTime: 2022-02-22T01:50:00Z
-    webUrl: "https://www.telegraph.co.uk/world-news/2022/02/22/ukraine-world-reacted-vladimir-putins-speech/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 39
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/02/21/TELEMMGLPICT000286933373_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwZ-noePaJta23NuHfKFFEj8.jpeg?impolicy=logo-overlay"
+      - url: "https://eurasianet.org/sites/default/files/styles/article/public/2022-02/103196.jpg?itok=LV-gTpW9"
         width: 1024
-        height: 536
+        height: 683
         isCached: true
 
 secured: "k5PCzNDXCQDd8cDYy7JfcWfh0feqJQwAlxEjay7KwXtsC+aCsBTi+gvvnu/US9jHTFrnltmocJMGybiZizVNs5zOhwLnCz3eHWzSj450uvYa6krzfNsGG/Kyuaghn0WR/eRtAJNPOO9cmQZ9d00Gl8KwtA4ns97K//lzdDg2vg60B3KVoxTY20t35iu9I/sgrLCvgbJ/UhQ6otJgUellEoiBAuIZSf+NXOCHiAcsQ3tieaxCpNtC+y7d9ZxV6lidoTnXYFdYyKUJSX3ZQ+kuW7+p5AdUaQA76Up9mMcgOGWqRmeSo47IrgaCjul2xuu/7/twfkC2xl3KNgwJNwKWBKk2VDOWxpClAXMZDuhm6eU=;3I9wl/pGdcmOkZ4rlwMZsw=="
