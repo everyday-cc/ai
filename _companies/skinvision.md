@@ -2,7 +2,7 @@
 name: "SkinVision"
 overview: "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO"
 type: "profile"
-heat: 31
+heat: 50
 
 website: https://www.skinvision.com
 
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=eAcjCkwsIy0"
 
-secured: "ymxJT5hw0F0L7o5RrGPoCiUDlPZAFC9W/NKCrn7+Zxdf+OPLs5bReSFjaWTXT4ZQ3rWuzC0J9R9kPk5xxIBODGXsdEj6/SCqcE9IvyjwUF5oevZ4dD/veUR5jvpUbM7CWpDIYoll4nreRrdTT8OWr6R3YhBQE2+EqH99jGJlQJvU/iqwNcZ+kCGkVXAQsbRB/5p4kjMvXysDkWB+NDioLEoOppH0lG6k+DQg9EFQAFVYw2/F2GBRgBnu6P+wCB3tGhLKCGEdis1Y1JkeslSwanNdDk+ecLUWq7J0ZyahQ+opxvSMlSDGrPcL14iI28CEj9D0HDHD4eovlk9vF5qbPbNRxIBhF4irkmTQsx/1ZsTcYqB70k5luGu2phVTrqVGtcCYudYs+lf/I1X7I1HUBv1vMnkOZWXUzcgcSzkOwzo=;1Qg42oCTM+PLjpvMFZpdLA=="
+secured: "ieqRpQVVAiwTR6SFVA4PWKK51XKmxak3u5LujEEf/YwDg9f/R7NZ5HaXj+iYSVNZoJPX0GXfan1jOhi83F4J6WG77z+6HjKLCX5xAxCYvOo2mpFvvMNw39Qn5RNHrbWvzRd0nCNQxEMo4dme9Hkq02WBsD+j4fXc92WSAVhg1Z4jDrLbt/g40ZSlWfh25bxJAlyWL4hfHDi19XAPj3tc46VLVFtww3brjwCN1n5+tUxa/J6otGf4vY929iD78t7pk5ISeqZBDfcozgfmKwjMlIAC0V7t9WHXyTdfI0u1hLLg5BdtYCmwMjIX2dFjNdzZfk5ipOQIj15mYSuSwiJ5ACcMEFxitQlwXxBy+meKuMT1rqxSq9EJAzjwYedpVWRg9bnb8+YidvjLo8K1DPTbQ+enwFDzWmGpcY2WWn3tUOs=;yCB0ShGq7xyIrKCX5HYb2w=="
 ---
 
