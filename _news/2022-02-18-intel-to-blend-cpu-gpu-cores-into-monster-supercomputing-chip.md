@@ -2,9 +2,9 @@
 category: news
 title: "Intel to blend CPU, GPU cores into monster supercomputing chip"
 excerpt: "“Falcon Shores will bring x86 and Xe GPU acceleration into a Xeon socket ... systems computing large data sets and training gigantic AI models”, he says. Specifically, Intel expects Falcon ..."
-publishedDateTime: 2022-02-18T14:40:00Z
-originalUrl: "https://www.techradar.com/uk/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
-webUrl: "https://www.techradar.com/uk/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
+publishedDateTime: 2022-02-18T14:43:00Z
+originalUrl: "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
+webUrl: "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip"
 type: article
 quality: 84
 heat: 94
@@ -46,6 +46,6 @@ related:
         height: 475
         isCached: true
 
-secured: "2EC9lsMmxHLMbBwSxezY8U7Iu7JR2HWZXFCCx/HO9g9NMYl+HRNaxTfFbUf5Yuv5fN9rgc7JjEm5XIyTvg7J0Xw3zOQx3rVt5TrbustTlOSeRkJ7xiLJq/VBbJvfNITBDVIstdZFTbctGhznuemDhB+8ltxY3iZeU4Xt3aXjbBTa+5fwKGS14KvjsdsggiP3dI9ZXjENES7ZXncXUSawbwljufJdUqqLK9bfkeBZLW1GJrzPHbxUH+zyaJjWTgHA16AirgIYL7nbUSRo+K3vmDk83Ii/D8qog0cpT1ZZwSqWuhGzMJBpAHwDCgkQ77kYdrBvbiWgzmUOfafDasO+mRLEWqj5oWr4FSQW5tqyeVY=;6vKR04Ehlf4LWGm8K+pJbw=="
+secured: "daREdJMyGaqLwWOdKl0vCORTcv1iMtywxwdbMbMCNvznmJ5dDWDPgmpV8JAnGkYthp4QEuMTu5+US5438OJYMBt05BrDp4SY9wov9DYT+VUQ0hU+fnPrtN0YaNkO3X0l7p69QZSKsjpdEnd+4ty4ghq8l5fN17jqVcoC88SJeJxyp6HasjDnmp2XYUQJddeZ6KlcHaO5Kwopow1XMpR6OYMCz3gsg0SGqE812mLN18OdqLh0wPVlycUQJ7oKag6Kk/kEcF933V7C2rzMkoFFLglVidpAsl+ljx0dza0Ge9JpH5/D6hLesO0v5BHKCWBCyoofDnQg1sA8zniA7yjXVYztgsK0yi8yTafcnwPB8CY=;sVdFLPhy+iNAQzM27GBicg=="
 ---
 

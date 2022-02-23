@@ -26,6 +26,22 @@ images:
     height: 1250
     isCached: true
 
+related:
+  - title: "U GRO Capital Goes Live on Scienaptic’s AI-Powered Credit Underwriting Platform"
+    excerpt: "U GRO to leverage platform’s Early Warning Predictions Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that U GRO Capital, an Indian listed MSME lending fintech company,"
+    publishedDateTime: 2022-02-21T17:01:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/u-gro-capital-goes-live-scienaptics-ai-powered-credit-underwriting"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 35
+    images:
+      - url: "https://financialit.net/sites/default/files/scienaptic_13.png"
+        width: 2090
+        height: 732
+        isCached: true
+
 secured: "P+np+Ywo/biFFcMHztkkQPwmgimuuXVj6yjS3CkSqRh/pKJeq+W1XQaR1ssblRQEkRaOVeZKOVsTWFx+lkQDO+zvIjgjpwgKN+zi1zuGZHRg7nGy6YfkX7NbFm3PZU/RHI5Hl80hNsTC/PXqgC8WLVNjSPPwSLvCQWQheiiYUViUB1yesJx/OHFrJYAyV0d6wCoqpS+9Q1oU2ywDiQjCmN890B9WlG+tKvJzqMDP7rDhavPpyfCuUPY9t8+xfq7J71yzQNok5H9WB8j7vKearGsziaLcuwRRwBGOJD2uv28tovpYSmFbxWmrbzd9hvUkM25CXJ/Ygir8lEQd5iqKGUe4gu3I6QflFO3UvSaVQ4Jn6vkdkP9Rp8U6fEo2mdldAoKqY1GjXCsgVxCklz7CjZOm9+MXyduFugvBDOHFfZzpTCKIhH8bn5sUudLF/q8qYUSbR50pldpzrdtiFsoel4+2eNr/K1uBoej4iY0Le0Yao1CTaybP7WG9WTri8MdhE/+MYRYxd/mdZC5zpGYh7w==;EWZLqnie/eoBRuJNM5PvqQ=="
 ---
 

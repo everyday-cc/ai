@@ -1,24 +1,31 @@
 ---
 category: news
-title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
-excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
-publishedDateTime: 2022-02-22T23:44:00Z
-originalUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
-webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
-ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+title: "IRS Lets Taxpayers Opt Out Of Facial Recognition After Backlash"
+excerpt: "The Internal Revenue Service will continue using controversial facial recognition software for the ... including commercial voice over, podcast recording, music recording, stereo mixing, 5.1 ..."
+publishedDateTime: 2022-02-23T03:50:00Z
+originalUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/"
+webUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/"
+ampWebUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
+cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
 type: article
-quality: 39
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: California Techwire
-  domain: techwire.net
+  name: CBS Detroit
+  domain: cbslocal.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/3C7/C3B/3C7C3BBE335360BFDF0EA3631BED3563.jpg?Expires=1740182400&KeyName=mcpkey1&Signature=Vj52MQ9fDe0LUedsgdduVg0kGh4"
+    width: 512
+    height: 288
+    isCached: true
 
 related:
   - title: "IRS Adds Option That Lets Taxpayers Skip Facial Recognition"
@@ -122,22 +129,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "IRS Lets Taxpayers Opt Out Of Facial Recognition After Backlash"
-    excerpt: "The Internal Revenue Service will continue using controversial facial recognition software for the ... including commercial voice over, podcast recording, music recording, stereo mixing, 5.1 ..."
-    publishedDateTime: 2022-02-23T03:50:00Z
-    webUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/"
-    ampWebUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
-    type: article
-    provider:
-      name: CBS Detroit
-      domain: cbslocal.com
-    quality: 61
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/3C7/C3B/3C7C3BBE335360BFDF0EA3631BED3563.jpg?Expires=1740182400&KeyName=mcpkey1&Signature=Vj52MQ9fDe0LUedsgdduVg0kGh4"
-        width: 512
-        height: 288
-        isCached: true
   - title: "US state sues Meta over Facebook facial recognition tech"
     excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
     publishedDateTime: 2022-02-18T13:30:00Z
@@ -323,6 +314,17 @@ related:
         width: 255
         height: 335
         isCached: true
+  - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
+    excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
+    publishedDateTime: 2022-02-22T23:44:00Z
+    webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
+    ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
   - title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
     excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
     publishedDateTime: 2022-02-22T22:57:00Z
@@ -338,6 +340,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9p9D/qW/KMneo1+E5cEWiX80WcAC835LXKi5DKfFXz10d1IiFimgutORA5U2xobqCaSGypYWkEEjOIC+NMSLmQoXv99GHoO++obD6BeHAYisjtW1wRovjW4w0KhYFVisHQ0D7C7YnRIcADc83rzGuq6esEK3qm4sRq9ladGv4PJyLw02FZ/v3cNJo32wN5ge5Z7glCTR/RPdY/Qi/N7LjVusf6PCk+ZjEsixf927p8CZ3vjpCVKmjInI80+u56xCYswUPW48VRQ8Ow3XbksmxKNrTso5e9VlSsZlqUcdHcy+bpIs4QI95Dgyp3Qqxp8BQRYUA1vPafXi0FfkEEe4bkQTttOMhTYIG9OSi0Y177k=;cLQYApKns5Rq/iKRk8Fo+g=="
+secured: "zYu4qG3v1K8pMIhNxH3yInL3bHQanRBB5j0LivPd4msdvAYU8mxPQ+9k7OrQKOaz4lf3RgOUgbNFd0iz3j6KE3p5ogunrIfIWHIr/mZ+DVQoL+MQ0pqpSuhaDvntRg5og5PUvfwU5TwuapxFFPOeRQVPjQvvvy3j+/cZ/Z6ajaMajosYM8vAvg9DNJWqJsopD6fOv6/aqPnoxjq+Z9HXMAlGXynpwEjWQX0yNo6cksGK71ZSnD66OBGqxuYS6GGOL15lBbA2B1tkiyCEUJj57YbFEb/hwyT9whEOnS9rCG8HqSoqUDIQexmWCUkadzetLCh8QXe+r0bg7PLvHk5IFuKIkfxNo69EeLdiQks943M=;DfXzlKL4k0obd1y7s725Jw=="
 ---
 

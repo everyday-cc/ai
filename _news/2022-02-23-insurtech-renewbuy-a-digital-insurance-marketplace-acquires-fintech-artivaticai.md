@@ -157,20 +157,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
-    excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
-    publishedDateTime: 2022-02-18T12:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=618778"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 19
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Younited: An interview with the latest French fintech unicorn to set its sights on the UK"
     excerpt: "As vice chairman of France FinTech – a non-profit association promoting fintech ... “We have also developed an AI-based personal finance management tool – called Younited Coach – which provides free budget diagnoses for our customers.”"
     publishedDateTime: 2022-02-21T05:32:00Z
@@ -186,6 +172,6 @@ related:
         height: 720
         isCached: true
 
-secured: "xXE6Jf83dD+rah/rA9TM2qaz7fGxujxwBgg8z46qhHppWSoGaFWjRj5SvKWedPsJGQ2qPdrfIaAUFqMn7/IKwCZQ9UEXWaaR72qhbEAXURXsRZdXWcRC8ub6fIXnZElmQSJ5BgiOOHnBCd7c9DVg+gpCRvfQZhEtJBGmMHgpAJZca/NbiJBCjfVZRlZA6xlN1w8x9+ZWyDzzafoq6ZP05O2cGEWocSLaTN+73BSJCsAtA4D3TgqoB7vKf+weAUKz3PJ7Bz3fqVkS8hkH54US167pVDrXKTz9pXQQK3L6OzcPCiVeQkA5fljxFl4sZ1+q+UVR+XZyODvEBEgR8/o+SzdOE+nr44cZ6wcvbld1daM=;GDQuikIS02AxHPznYsJSOA=="
+secured: "zD/7kwm3eQyBjzm8nWGlYuCcV4u4TBpIV56dSXRLIxMIVEOmD5LRfui+rQsDDgXO3UFu4wumRKKXgChRAKnw7JwvcgL3a0pogMkZSyYrdyntAyA3FeG4YgojAigor6NSHOmMFqDpByiA6oWna3G9ou7gw2mL3772IyKZP5BvLreBIwHolCvshj65JV4IOGyAuI0ZDpD6MglQ8ujld9Hy/J10iYiUV+LWTwdsxoStRUEf6FXxcxzJQ7Q+oCCoOfkEqXcATv92D7DdedqqdFkWMAXDE96i6hq/w58P9Y0P3ACV9v5t1J1PnnNA99CMkvrf7LDVrfsV3jYozIOnBNUiYrnJj/rzBolqrI4IKCJptxdjR1kRWx5a6RKEnEBpfT27PrGUTQ1lBM4ETO2GxxuPzxB1f4f13lE12eatFgxVIEURGwcFjPN3FSh/ywNa8ZYRLI/p6ytHdmrCQpjYSxepmYj4wwEdaYqmd+/B3dDGp/EpHJiysS0ujh2OAAitvDM0v5T94YuEAo3b+fPbVNJ7Sg==;6MXuNJO5ni+4UJPh3npvUA=="
 ---
 

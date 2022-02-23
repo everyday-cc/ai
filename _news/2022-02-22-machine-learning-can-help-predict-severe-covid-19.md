@@ -46,6 +46,15 @@ related:
         width: 600
         height: 472
         isCached: true
+  - title: "POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection"
+    excerpt: "A critical step in the fight against COVID-19, which continues to have a catastrophic impact on peoples lives, is the effective screening of patients presented in the clinics with severe COVID-19 symptoms."
+    publishedDateTime: 2022-02-23T03:24:00Z
+    webUrl: "https://europepmc.org/article/PPR/PPR454542"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 10
 
 secured: "Cjjn68TaCocA9ED87a2BQSVkaXhe0JusCazC4diBZhsi+K9zHzLU3900kOPwLKor2IAReJOawQtJRosTsHRWU5LN2MtsnPJeN2PGiaYq1aNpL2eEjDeQWM5xLmz4Jcgmrrl0AnPx1vrmO1GbKPC+rb4CZrBfzu9iNygS4sB0n3hAo2CQIOFXV2TfEupm8z9+qaUQwSX7WgzjNpPce/qYziTC2+6CmWLOFmsONlFzBu9Ro4pXXuUNFdW8887UMTzaNYHfJvVgrn3ddQDUp35I7mdiBrKLq6ma5eQNYgFH0nBO42Kh0KAacgaKWkUezqW8QqUfGNNcQInJ5wfjIxZhgzp4mkpWftYNu3fG4f6Mcz/8yEoAUK00D/XsnkIEskxirx1armDTUthB4sbBHW/7GT4jN7bGUY17PAZ67IziTj7G3Oa2BxLCjEr9pdJSIb1bi2x21X2+6DsIX2QdvDVODwNLErY3AmFWbUAAkHBP7X5gvdvBbpRFZSBNUAt8598bdEWDaPb9/QamxgaeRXJH5w==;bNtEOy+w49Pv2Gmp17I4IA=="
 ---

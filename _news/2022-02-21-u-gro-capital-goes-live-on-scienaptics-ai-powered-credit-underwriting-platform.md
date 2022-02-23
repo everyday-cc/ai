@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U GRO Capital goes live on Scienaptic’s AI-powered credit underwriting platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI  announced today that U GRO Capital, an Indian listed MSME lending fintech company, is now live on its platform. This collaboration will facilitate better early warning signal mechanism for credit underwriting and enhance loan decisioning for the MSME sector in India."
-    publishedDateTime: 2022-02-21T22:35:00Z
-    webUrl: "https://www.cuinsight.com/press-release/u-gro-capital-goes-live-on-scienaptics-ai-powered-credit-underwriting-platform"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 35
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
   - title: "Avanse Financial Services Goes Live With Scienaptic’s AI-Powered Credit Decisioning Platform"
     excerpt: "Over 150 years of credit experience is embedded in Scienaptic's AI native credit decision platform. Our clients across banks, credit unions, fintech, and other lenders use the platform to constantly improve the quality of underwriting decisions."
     publishedDateTime: 2022-02-22T15:02:00Z

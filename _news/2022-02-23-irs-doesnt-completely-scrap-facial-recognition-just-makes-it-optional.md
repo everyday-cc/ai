@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
-excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
-publishedDateTime: 2022-02-22T23:44:00Z
-originalUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
-webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
-ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+title: "IRS doesn't completely scrap facial recognition, just makes it optional"
+excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
+publishedDateTime: 2022-02-23T04:19:00Z
+originalUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
+webUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: California Techwire
-  domain: techwire.net
+  name: theregister
+  domain: theregister.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
+    width: 1000
+    height: 527
+    isCached: true
 
 related:
   - title: "IRS Adds Option That Lets Taxpayers Skip Facial Recognition"
@@ -202,22 +208,6 @@ related:
         width: 3736
         height: 2421
         isCached: true
-  - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
-    excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
-    publishedDateTime: 2022-02-23T04:19:00Z
-    webUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
-        width: 1000
-        height: 527
-        isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
     publishedDateTime: 2022-02-21T10:48:00Z
@@ -323,6 +313,17 @@ related:
         width: 255
         height: 335
         isCached: true
+  - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
+    excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
+    publishedDateTime: 2022-02-22T23:44:00Z
+    webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
+    ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
   - title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
     excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
     publishedDateTime: 2022-02-22T22:57:00Z
@@ -338,6 +339,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9p9D/qW/KMneo1+E5cEWiX80WcAC835LXKi5DKfFXz10d1IiFimgutORA5U2xobqCaSGypYWkEEjOIC+NMSLmQoXv99GHoO++obD6BeHAYisjtW1wRovjW4w0KhYFVisHQ0D7C7YnRIcADc83rzGuq6esEK3qm4sRq9ladGv4PJyLw02FZ/v3cNJo32wN5ge5Z7glCTR/RPdY/Qi/N7LjVusf6PCk+ZjEsixf927p8CZ3vjpCVKmjInI80+u56xCYswUPW48VRQ8Ow3XbksmxKNrTso5e9VlSsZlqUcdHcy+bpIs4QI95Dgyp3Qqxp8BQRYUA1vPafXi0FfkEEe4bkQTttOMhTYIG9OSi0Y177k=;cLQYApKns5Rq/iKRk8Fo+g=="
+secured: "Z2DsXcxeR4/FdvCwDn2J6+dyvI0lcnpEwElDWC4hFrEqF5GXynJxKyslaP/zMwC6otQJD/SN6hjY+8Ag2x6+ewu9THiSh9fSc/QeclnhOfTOvTIYuqSqYmh1x5/bzPu4Y96e5Kxu9X5LOa6oHMH3JQw3eqob5LinaTqplCrQxAHaqD96zzUCbID/ka18jvMiFnw+HPnVWL7unkeawNNrqbU7pr8YrOMJoaaTtXGrz1M/nTIKm04U41m2ZOBZUtorjgBy8YmLFA81soOtbI25+gfkkjCiG7THrkS+QSDRVvJ4iXO09by7un3CTM9wQMt2UxyMUJHWG0U1USIOig7qlA9j8e6Ja05visFRjqCDtLA=;rj+i9FF7gUpIeXKToMhL8Q=="
 ---
 

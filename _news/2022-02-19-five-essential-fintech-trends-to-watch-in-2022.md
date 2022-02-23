@@ -161,20 +161,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Western Union to Present at the Evercore ISI Payments & Fintech Innovators Forum"
-    excerpt: "DENVER--(BUSINESS WIRE)--The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the 6 th Annual Evercore ISI Payments & Fintech Innovators Forum on ..."
-    publishedDateTime: 2022-02-18T12:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=618778"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 19
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Younited: An interview with the latest French fintech unicorn to set its sights on the UK"
     excerpt: "As vice chairman of France FinTech – a non-profit association promoting fintech ... “We have also developed an AI-based personal finance management tool – called Younited Coach – which provides free budget diagnoses for our customers.”"
     publishedDateTime: 2022-02-21T05:32:00Z

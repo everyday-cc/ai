@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-sma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Strategies for insurers to grow AI responsibly"
-    excerpt: "This is necessary in case of an audit. Plus, thorough documentation gives teams a head start on developing new AI. By using their previous work and learnings as a starting point, model developers can save time and create new models without having to start ..."
-    publishedDateTime: 2022-02-18T12:00:00Z
-    webUrl: "https://www.dig-in.com/opinion/strategies-for-insurers-to-grow-ai-responsibly"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/563b163/2147483647/strip/true/crop/6000x3150+0+191/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1f%2Fd2%2F1e68ae05429cba98e65bd393c82c%2F372961209.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Researchers use artificial intelligence to find better tasting fruits and vegetables"
     excerpt: "The content of this article 'UF/IFAS researchers creating an ‘Artificial Intelligence Connoisseur’' was prepared by Brad Buck for the University of Florida Institute of Food and Agricultural Sciences and has been revised and republished by ..."
     publishedDateTime: 2022-02-22T06:00:00Z

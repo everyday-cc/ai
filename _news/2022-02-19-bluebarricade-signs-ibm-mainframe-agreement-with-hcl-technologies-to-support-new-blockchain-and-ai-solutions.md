@@ -41,20 +41,6 @@ related:
         width: 1400
         height: 1400
         isCached: true
-  - title: "BlueBarricade signs IBM Mainframe agreement with HCL Technologies to support new blockchain and AI solutions"
-    excerpt: "About BlueBarricade BlueBarricade Blockchain & AI Technology AB, founded in 2018, is an innovative software house within Fintech, blockchain and AI. BlueBarricade’s innovations will be sold to IBM and HCL customers worldwide. With the launch in summer 20 ..."
-    publishedDateTime: 2022-02-18T12:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-blockchain-sweden-70d46c5b5d61725b984eb1c41377a10c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "u5eMUV5Ao2i4ejZwOt/TVoxIZhijVT8E1FVku3wZVkBLcuZ15AKjxYXr0KrBRKWH1cQfi4iMV9PykrcP8bbq3s3i1QrWv4ESLFWpdnK83dUIWGbAUChTqxNbwSBSow+4Szt4gRdXRr7SdeXPgkP3UCxHUtPdOOoCN0DDdXl0UZFGHJmrnQaiXIgYZ4ZqrJ/FjujOSIPXEyxubuISJcxGNwLAM2zz6LjLwbWsDWzP+vEQhksEv9yJj+oWPjR3lhtO/M95uPczUz9luroCKYjSMXJ9LTwixAVExqodKBTml/4dNhqRtemnIAo6hatx8Wk45xqo25VvDn+LVuUJPGi1mYrOlgHTcOKEIYUyzI/Aex0=;Pp6KKzOEbJvbMbTc9O0bDQ=="
 ---

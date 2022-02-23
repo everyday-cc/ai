@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Most Important Self-Driving Cars of 2022"
-    excerpt: "Born and raised in Silicon Valley, he remembers when Apple's headquarters was mostly apricots. This is a key year in the history of self-driving cars, not because full autonomy will arrive but because cars with important and differing versions of partial ..."
-    publishedDateTime: 2022-02-18T12:40:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/"
+  - title: "Self-Driving Cars: An Epidemic Of Questionable Assertions"
+    excerpt: "Self-driving vehicles require relentless scrutiny. However, some fundamental misunderstandings cause industry observers to make broad definitive statements with very little to back up their conclusions. To respond each time would be one long game of Whack ..."
+    publishedDateTime: 2022-02-21T23:20:00Z
+    webUrl: "https://www.forbes.com/sites/richardbishop1/2022/02/21/self-driving-cars-an-epidemic-of-questionable-assertions/"
+    ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2022/02/21/self-driving-cars-an-epidemic-of-questionable-assertions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2022/02/21/self-driving-cars-an-epidemic-of-questionable-assertions/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://www.cnet.com/a/img/resize/33e74eb1e0bb6a3f2b897e7840c54f85fb5ffaa9/2022/02/18/05e34293-a850-4bd2-bc5b-3774823464f7/drive-pilot.png?auto=webp"
-        width: 1826
-        height: 1197
+      - url: "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604028248716bfd54e0df5bf%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080"
+        width: 400
+        height: 400
         isCached: true
   - title: "What's the status of self-driving cars? There has been incremental progress, but safety questions remain."
     excerpt: "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ..."

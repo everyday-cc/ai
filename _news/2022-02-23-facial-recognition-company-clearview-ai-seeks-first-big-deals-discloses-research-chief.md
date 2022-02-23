@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/02/22/facial-recognition-company-clear
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html"
 type: article
 quality: 96
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Clearview Plans Facial Recognition Database That Knows Every Person on Earth"
-    excerpt: "Facial recognition technology is nothing new — there are probably apps on your phone right now with the ability to recognize faces, but you have some modicum of control over that. Clearview AI, on the other hand, aims to build a facial recognition ..."
-    publishedDateTime: 2022-02-18T12:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/331819-clearview-plans-facial-recognition-database-that-knows-every-person-on-earth"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 36
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2012/09/facial-recognition-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
 
 secured: "D1D+M8WWuI8Y68Cu43bCXQHjH1k5pNStttJKCH0k090WTVH/JXl1yzpZANH/31YvsyM/d/cPsiC77DaKcu88C8PqkeR8oJ9ZA7ZT15wYr4JCczCDVB9CiO+8uqQ5nZWUfailiqTkD8u1SBAcp540FxuiF5HjFrpo2sVBFDmb/0MRIUZempEtnmJpahHV3CsaGpZCRwheya5sswb1nGB7gvfJ8yotwNK0UCge0NIpDBRMUZ7cTZpXd3TTa2pKaMbeew2HdRC6+FaGtD3ymIa8VIlx1KVRS3UIVkHRrUADX9z1DOHze/fHZOxbso092oJorhT1FpdhxhDr0G+9U+zfIYfcqKpqKCoWarNxoFiYwUL5wbs3CeDKMccHMVMp13a3BqcTRbydARtJZa6uwRkEfb4ezkmd2RJhVnLeep9iMcrYgOvihlfmWD/Yc5ICr0DgMHW7Pwu3WuyGapJUkiOd9/LFF8swr2b/ln8p2S7hBhQt/UF1QNEUC2JXJA3CCpaEoGFfYjPeRXZnq+fL5yjAWg==;vg4wIEnDfJOAQBWwM8CzyA=="
 ---

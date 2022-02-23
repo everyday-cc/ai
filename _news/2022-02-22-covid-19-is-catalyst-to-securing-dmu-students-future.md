@@ -47,6 +47,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection"
+    excerpt: "A critical step in the fight against COVID-19, which continues to have a catastrophic impact on peoples lives, is the effective screening of patients presented in the clinics with severe COVID-19 symptoms."
+    publishedDateTime: 2022-02-23T03:24:00Z
+    webUrl: "https://europepmc.org/article/PPR/PPR454542"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 10
 
 secured: "s0JNqSW7IVJ/ZHIru6/W7FS1PSkLx8vT/G/mP+x55m9QCA6dMQy5ni1glXIsM7katR/Q7LhZm8VCt8slh0bBo/UoojEa/mPf3gEwGx7/Gd52CIk8JD3YgrGKNYD2VXiHQkF96NYqHWts26yzLc60PnVHzwttdsDUgTjuY8DVohB5dPNa3muQ7aJ0WqX5rALJDOb1xv3ZVV1OfYOTst4Ya7OASyL44p4+eGZQJ+4XkdK/5HjaN1foKDxM2pgYVuJTzSm5k3eh5e2J3Hso1SOu74LHgYfSzahf902FShiTib9MfHZ0TqLqesHyJrS4iYxfxw67xZrnB1nn23AbEYdnNhAcd6Hvdr823UQ7T0jIKUM=;phafl33Jq16p2xdTup2ZzA=="
 ---

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Getting ahead: what lawyers needs to know about AI and the law"
-    excerpt: "The company opts to make the online system ‘smarter’ by adding advanced AI that it is licensing from a startup vendor. Then it turns out that this algorithmic decision-making (ADM) veers toward approving loans for some based on their race or gender ..."
-    publishedDateTime: 2022-02-18T12:49:00Z
-    webUrl: "https://www.globallegalpost.com/news/getting-ahead-what-lawyers-needs-to-know-about-ai-and-the-law-613300202"
-    type: article
-    provider:
-      name: The Global Legal Post
-      domain: globallegalpost.com
-    quality: 37
-    images:
-      - url: "https://www-globallegalpost-static.s3.eu-west-2.amazonaws.com/images/2022FebFrishutterstock_1582386880.jpg"
-        width: 670
-        height: 375
-        isCached: true
   - title: "What Women CEOs in Africa Need to Know about Artificial Intelligence"
     excerpt: "To mark International Women’s Day on March 8, Africa.com is hosting an unprecedented virtual event, What Women CEOs in Africa Need to Know about Artificial Intelligence, in collaboration with ..."
     publishedDateTime: 2022-02-18T20:01:00Z

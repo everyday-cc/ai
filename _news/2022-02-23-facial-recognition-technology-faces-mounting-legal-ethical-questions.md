@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-23T00:02:00Z
-originalUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-22T23:02:00Z
+originalUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Fox 4
-  domain: fox4now.com
+  name: NBC26
+  domain: nbc26.com
 
 topics:
   - Computer Vision
@@ -113,6 +113,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "IRS Lets Taxpayers Opt Out Of Facial Recognition After Backlash"
+    excerpt: "The Internal Revenue Service will continue using controversial facial recognition software for the ... including commercial voice over, podcast recording, music recording, stereo mixing, 5.1 ..."
+    publishedDateTime: 2022-02-23T03:50:00Z
+    webUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/"
+    ampWebUrl: "https://detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6203790-irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 61
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/3C7/C3B/3C7C3BBE335360BFDF0EA3631BED3563.jpg?Expires=1740182400&KeyName=mcpkey1&Signature=Vj52MQ9fDe0LUedsgdduVg0kGh4"
+        width: 512
+        height: 288
+        isCached: true
   - title: "US state sues Meta over Facebook facial recognition tech"
     excerpt: "The US state of Texas has sued Facebook (now known as Meta) for using its facial recognition technology without users' consent, and is seeking financial damages. Attorney General Ken Paxton sued Facebook for capturing and using the biometric data of ..."
     publishedDateTime: 2022-02-18T13:30:00Z
@@ -176,6 +192,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
         width: 3736
         height: 2421
+        isCached: true
+  - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
+    excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
+    publishedDateTime: 2022-02-23T04:19:00Z
+    webUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
+        width: 1000
+        height: 527
         isCached: true
   - title: "IRS: Online account signups available without facial recognition"
     excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
@@ -308,6 +340,6 @@ related:
         height: 630
         isCached: true
 
-secured: "O2gkU8EHmt/xuvY5LRJ2oUDdDrdbo+MEfJehwub3FTJsKtGfveuenMxERcWmnyXl8VxARMN14rmUZ2z4G1PhrfJzIigt5YVgFw0CoP0n+ru63BmscvUUgVrb28qfWOUu/TNpdF/tDya7jYDdVnoLGjddzUeW5bf+68ovpOsoGXQjk+/fOD86Wn2Pcbef7TLmev+9fqvBVBLIo0hQ4NJ70LZEG40EdXDS7Trh1VmeqrcMHEb7pv9GlPNgo8FA85fQ+34y/ZPjt+SqgyqUc0bTxOrr4nnR5AAtX4MX/oaJg+nFhVePf7oAvVBn5rmazcbEo5L/KCf5iSpQoqwnoxw2HEqfKhkpwRhP4k4TsJSTuHk=;4yrbqcGc+s/7sLDR/098Pg=="
+secured: "PK09wbfJEEN47ONJKzQlCTtcxWQkrhU4JxiXaghj+wJYkXHja90fcr6AdaFxckNm1o1EinoyxPENZ3PLKFrhwdsRWe4u1xUN5W1L3PDrnjHLm0GzxsN3uFWatyCs/7B+/dEBnXt5pd2vJvyWhqOFR9lj440C/GtRmrWxXEOGDPTnamj118ntncgwC4V64xzdLoPP1G/nUMhoN6sZXaV8pCDguD9GLfiMAVUYuyDIcVzY3dwd+S//2DjZCmQiczUSEXFoUVk45nwa95G4CIlgN1Yn3lNPomdMA/L4Y32EQ11UrLzAoy9mTt3YbXLB4jk3RMuhTl/u0/vSQfismb11yCTaue2NaO83YVEVfxwf9NI=;ahxovwTKZY1Nm5sPZUKT+w=="
 ---
 

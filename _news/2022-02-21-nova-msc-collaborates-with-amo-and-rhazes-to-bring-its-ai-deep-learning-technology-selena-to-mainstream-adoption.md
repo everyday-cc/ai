@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Nova MSC Collaborates with AMO and RHAZES to Bring its AI Deep Learning Technology, SELENA+ to Mainstream Adoption"
-excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 21 February 2022 - Nova MSC Berhad (\"Nova MSC\" or \"the Company\"), which is the exclusive distributor of EyRIS Pte Ltd's (\"EyRIS\") products, has signed ..."
-publishedDateTime: 2022-02-21T07:02:00Z
-originalUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena"
-webUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena"
-ampWebUrl: "https://www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/nova-msc-collaborates-amo-and-rhazes-bring-its-ai-deep-learning-technology-selena?amp"
+excerpt: "Under the collaboration, EyRIS’ AI deep learning technology, SELENA+, will be deployed to AMO’s more than 1,000 members across Malaysia via RHAZES Telehealth. RHAZES Telehealth is Malaysia’s first knowledge-based telehealth service provider through ..."
+publishedDateTime: 2022-02-21T06:02:00Z
+originalUrl: "https://www.macaubusiness.com/nova-msc-collaborates-with-amo-and-rhazes-to-bring-its-ai-deep-learning-technology-selena-to-mainstream-adoption/"
+webUrl: "https://www.macaubusiness.com/nova-msc-collaborates-with-amo-and-rhazes-to-bring-its-ai-deep-learning-technology-selena-to-mainstream-adoption/"
 type: article
-quality: 52
-heat: 62
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/nova-2-.jpg?itok=u3QmHiBO"
-    width: 763
-    height: 509
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/02/nova-2-t4EfbE.jpeg"
+    width: 1210
+    height: 680
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "37hcirejnoJGcfnYHHbgftmnSofbr5LGC/6V44z3H/5drIM9qZMWuF3LDd/qhWFQUbiso9yLKQsIN+Wzr3ShwTZVgf/qe6q8bbQowXg9smnc5SpE6AcmzvjYGX+3zOTnsiY/9gsjNIWECRXvmvXxXDIyl3ECCpPkE22+BeDywNYupb5Elwdt9OwkwzO28JBTaxwmy1K16rP4LvLOBAkgJayFifnzOXZL10C2cR2eLXCzpudOvIVppukC9gGzsAxMNF/ktsh491Vz6t9xIUX0BqaZSeVCDlfnuKfO1kSO5TQdd6RkB0T9c9ajcLfP2IvS4gu1aZCEvs4J4EVzue8DdbqhSrAo/C6Xm3aM2jZ75YE=;DIyXRbMOoXkAPtU2yPibZQ=="
+secured: "IJoNkjv30cuFtgEuboCi8K6xRRLO/J/O1i0CwbJ/7xQh1CTzRuRYHqOlzcfxMkAHY2wXIvlPbaEGMbo16QbMVZbRXU4C2MiN38cT7GHJHWo5SP9MA3h5w9kLraoiOnxfX3Plz/qCBDgSe5NDZMJIlhwpouC5w51CKi1yOp85F8BUEV34f3SozrO67ug+3cwn801t6dHdKON15AAKlhQcq6UxwE+Jy+/npvLv+oDQSF9lAuGPM5CKb6uqeWP51X39/ykeJb45iCo313Q/c1IrytW4w16ViYo8eP7KlMKOhR/VtdFriWukgqTn+F2FaQjoxilOCDQkCWj1+Eo6bQGGROQgDPQDU8Ili69Wzg5E7WA=;xMSmAacfPhi474dGlq1Wtg=="
 ---
 
