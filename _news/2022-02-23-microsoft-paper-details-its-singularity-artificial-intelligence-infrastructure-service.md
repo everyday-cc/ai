@@ -105,6 +105,20 @@ related:
         width: 1299
         height: 600
         isCached: true
+  - title: "US Bank picks Microsoft Azure for cloud migration"
+    excerpt: "US Bank says it is making a \"substantial\" investment in modernising its technology foundation by choosing Microsoft Azure as its primary cloud provider for its applications."
+    publishedDateTime: 2022-02-24T00:34:00Z
+    webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration/cloud"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 71
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aryan-singh-vtbqlytx6sq-unsplash1.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
     excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
     publishedDateTime: 2022-02-22T16:40:00Z

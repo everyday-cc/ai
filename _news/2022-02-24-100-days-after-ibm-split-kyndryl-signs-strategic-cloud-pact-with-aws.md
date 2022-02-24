@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
-    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
-    publishedDateTime: 2022-02-19T08:09:00Z
-    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
-    type: article
-    provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 71
-    images:
-      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
-        width: 602
-        height: 305
-        isCached: true
   - title: "Microsoft now delivers comprehensive protection with new multi-cloud capabilities"
     excerpt: "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers."
     publishedDateTime: 2022-02-23T17:32:00Z

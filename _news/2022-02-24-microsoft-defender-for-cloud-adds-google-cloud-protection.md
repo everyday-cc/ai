@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The IoT cloud: Microsoft Azure vs. AWS vs. Google Cloud"
-    excerpt: "... IoT and edge computing (e.g., through Azure Sphere certified chips and operating systems or through its Azure Percept edge AI platform). “From smart factories to smart buildings to smart cities, we are helping organizations use the combination of ..."
-    publishedDateTime: 2022-02-19T08:09:00Z
-    webUrl: "https://tynmagazine.com/the-iot-cloud-microsoft-azure-vs-aws-vs-google-cloud/"
-    type: article
-    provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 71
-    images:
-      - url: "https://ci3.googleusercontent.com/proxy/ohNd3b_PsRf68dpInqLV596nOpFWhye-Oj872Ai5s24XQls4VjrfGYasYiiglxRivo6U16_1ZZBJJJKUrWSWbPfDxTXNwfVTjsIf6qf_nThyZJFQo9oobSWA7zQGTW9BNmoaQwzAun_rQiQ1_y0T1kVnH9B97w=s0-d-e1-ft#https://mcusercontent.com/6f358cab8e663d3e9894239c6/images/4c5e5c0a-b2b0-4996-7225-fddca555553a.jpg"
-        width: 602
-        height: 305
-        isCached: true
   - title: "100 days after IBM split, Kyndryl signs strategic cloud pact with AWS"
     excerpt: "Kyndryl announced a new partnership with Amazon Web Services (AWS) on Wednesday centered on expanding its enterprise offerings and building out its internal infrastructure in the cloud. Terms of the deal were not disclosed but the companies said Kyndryl will establish an AWS Cloud Center of Excellence (CCOE) to \"offer state-of-the-art customer solutions and services for supporting mission critical infrastructure,"
     publishedDateTime: 2022-02-23T17:13:00Z
@@ -157,6 +143,6 @@ related:
       domain: mobilitytechzone.com
     quality: 26
 
-secured: "ngLWx12/CeprI/wT8Ey/W9Mdkt5ygSIUXPTRgVfP7z89MGGl5PjmAyi8+8mFnrNsNGepFl2euq0RZQB9R5YVjQAPDqd9RAFeRC2/bEvyHRApOK3hyLgk6mUpGo/e4k+fM9wHioXxOj6ziiZ2HJEdBfimHHaDez0MGTUyBNfP8Al5COfi82r4wIWDTgnPw2pG9oRq/8vdt8okvFMmd7f3Cha1/3mqXHIb7yTVfdzxmv32lt4XqmZHOROCvh2GPQMIjIB6fjK8lftSY9Geu+8OdZBGFfSSnwqzBDNjxRIwP2MF2qrrK+DVpevE9bEvSRiddr9JyXkGZXuBuaU6ZPPUItWQ2Xe14nJDM147f9cuLEE=;uk627Gb/tdgbSoWuyblAEw=="
+secured: "bgBZN+H8z/vHx/CylPAiT0vD6om+8NOBfnYNNnAE9WWQDgbPn//LN7h+3lua4Gzh76EFt86p6y/qFOmNl+RY7Sza4ONHm8KIMQc3DFxjEXsvZDj69tR0q+ewZOoQHaArv2xitmPDi23naILwOuMZmCgru0Vsjj639ewUTWM87q19ooZn9S8CEtY5KBK7ywTDyzdoRpm0lEvaFE5YmW78hiK17TXoPDpyMkoY1ZoDqrDn6kMVF6CcYiXwvuEEVyS8Ep2Ys03dK+hnhsZHje+WVSHJwKWLPsEjYkpL5veetPTrsPhYGFnJUgrLVPIQi5BvuuJ2msx6WflDlsbSh19M6uD0kLNAwZk+Jm9me5/f4KMks/fnDO6wOww9hVejPw77nhIHVm6Mi+z5CcimBbNcJ0s8JeLzSmCofNuRGhmHlc9+UXaHjVe4vftmk2Y3enkS7BwFKqZvaEXhOG94XlckIXUpNMSdfvEPwrGpv+DBlQ9DlnxWj42LdGZv4NrZ5+Ri3/EH662xuGLnYvV/lYM/2Q==;SjtwO3ZgPf43FfcC1U1zNg=="
 ---
 

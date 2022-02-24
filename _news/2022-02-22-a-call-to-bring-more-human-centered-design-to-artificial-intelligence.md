@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-call-to-bring-human-cente
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

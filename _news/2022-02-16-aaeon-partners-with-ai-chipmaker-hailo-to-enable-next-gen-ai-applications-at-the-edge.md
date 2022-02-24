@@ -2,9 +2,9 @@
 category: news
 title: "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge"
 excerpt: "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ..."
-publishedDateTime: 2022-02-16T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
+publishedDateTime: 2022-02-16T13:53:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 628
     isCached: true
 
-secured: "IDvvBcSYs2lZwdewEZhN9a2mMRTkxsa9onElUIQZSfWDwOzbbDH+Y44fWLCUXSsFy3/wVJpRFBmVSvl88Wpcx7U+c8N1jg2SdcaH8iiKwaAqdycZEcDf+XCgDbHYkcygzRq4sj01AhwsE/GThTE1nP01bJaElsI39IGQd2cXv1p08Pz3FSnqbgaTasyNalsq+nm2chBog7iI49pEVnxfJv5C/W4jUqXFJ4g3zCQXzaaeF/Sn+USPw4K5C8Nd48+G4O3IyNzAjJRhk3k2IrIqEeb6ajG/qMXjVmNfPEgtjaMdfr+6J8wHLsacjWM9nITRM9efx9zpW3py8jxa36upOqmNO0wBaOafVl+i18UA6Ok1zprGZPooGlQa4aF/FWaBMfe3b+H3Fg+E4WsdAtkp28qFbsCqhijAXHYOqCiF8xSrSFdeexCAB6xNNyga8hL5NrUXkCTuOe6ns1Fyy5XbB+Ii5a31mKwnm5pIn4MjC/3fbzcQVdot0LadBIAVUh/6gCGYXHjsya0KA4eyEAiRGA==;mNvsPB/Dp21OMT30I3/LBw=="
+secured: "+nwjE/2W+2t/gLDKw3zqpgX3KbTWzs7/gMjkcMgvyfEY5S42z2Zi6Bx+qlQlEu/a0HqDI/7S6Skxtntq7tJLUuL2O+TvGy/MdrIyuAsUlzRSF8swgm3Mm8jHLnjkTvPmEKxfnXKA7Ae2xt15j1nxkYtlhlR3KGv3udphkWQaKEdMpfaLkxfSiAvZ+4BuNGxKKahgWbAAIljr5b2YbaLzYmHr+ocasI7iQoT8td7VdeTcMo7MfPj1R3gn2CaMnBA/IgjyyW3399lo8dFuNvoT5EMsq188xziGhbdHftfR5w7FYd5QFLxiTyqd7qB2vmY8Svk0MBO/ahMo+cJFk2o2tK40++z3MCWYB7SLYA+HVqQ=;sEWOYWIKSYaFP+KAuSemyg=="
 ---
 

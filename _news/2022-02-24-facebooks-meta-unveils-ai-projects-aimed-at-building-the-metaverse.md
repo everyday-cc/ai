@@ -67,7 +67,7 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bd258d292cbfd33bf97a14a0933cc100.png"
         width: 800
@@ -102,6 +102,6 @@ related:
         height: 960
         isCached: true
 
-secured: "iPuRi+ogq/XrLWVX5BYdaq50HCzBWUPh2+fVjz7AkMeQmMPYpkdMOOXSqZM7Lmq5Jl3lqX/iNsRfcQqsp0gWjayg1/5dBeB6jkMjeFBsX9Tt1RFzVBZZ5tREp1lSC8WwwRHeXdxHf4INE4COR0v1kvXcs7DePX22HJzwzn6Z2VM0l9wkSlq875kLmBsdRVxgGf3r5JJtW4q4T0MPDHzS5eCbAh0vbINAsHeWI+6fJlHz2PBUeV3HD9SgQXxghocDW9qnDtROPlr3UjHg4Wwv3/tJkMlO2Vwo5dDVkNdPujampXayGIU5i1H5gcGLlzL8p7iV9j91KjTFk392kYx6aUUSRWj6I7A/4gXGqs7MUmg=;reh+PU7pdnoTfSjCyti9AQ=="
+secured: "7wNvKoFkq3c1zqftlYz83n9Ri2ixUzrG9LjlB9IX4/j9gCky/YNqsfySYyw8/My4u7h9aiIVPRhsRHFCpHxyv6cdpZvM6E5w/BSeNhNrB8gsiqnkEuY7BSItF/CZmRX8kVMyll97nWg5o05p8iG/yEFQkG6tj8bfpZBrXwyUxMBoDT2ztm0G5o63s2hFEnFvdLKh5Xai17eBUSkFVrDOyALqzcAyGupJ10oLJO4eDc/Q3HRw/6hcLLMUTK2njpbMW7oxz3Hrxy0Mbwc2mBLXlrGfo1wob1LRm39RzYdVidHvsoci1mNv6PXFA2VeOmGKtcwShtWVk+A5nPbwc7rIQDHCyFMHLzRgDq9DXS2Ln318IcKwiktj+61V42qZvP03c+ik90bexTIruvR/N6XA9Ych2LOhHxXds/qU3xvnky8heLp2dtaSXprC34V+5q4PawksCW77Qn+c1wBbpd5d1mt1sIalzeX5ZnL5WTHrn4gOiwHlb5gYB0zny15BoOxtFGb9RS0Bvumbt8S3vPbArw==;13LxLQAVJVUmz8j1D/7QPg=="
 ---
 

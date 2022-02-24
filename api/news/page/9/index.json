@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-15-cow-bull-and-the-meaning-of-ai-essays.md",
+      "title": "Cow, Bull, and the Meaning of AI Essays",
+      "excerpt": "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/620ae1e210a719b317e6acae/master/pass/Cow,%20Bull,%20and%20the%20Meaning%20of%20AI%20Essays%20(0;00;02;02).jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-language-education/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp",
+      "publishedDateTime": "2022-02-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-robots-need-us-more-than-we-need-them.md",
+      "title": "Robots Need Us More Than We Need Them",
+      "excerpt": "The robots employ an off-the-shelf industrial arm, a suction gripper, and a vision system. Crucially, they are also equipped with AI software from Covariant, a start-up based in California.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them&tpcc=orgsocial_edit",
+      "originalUrl": "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them&tpcc=orgsocial_edit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/01/R2202E_TUERLINCKX.jpg",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-making-machine-learning-useful-for-your-business-part-two.md",
       "title": "Making Machine Learning Useful for Your Business, Part Two",
       "excerpt": "In Part One of this article, I explained why business leaders should get excited about machine learning and how it can help improve their operations and decision-making. In this article, I will discus",
@@ -1054,102 +1148,6 @@
         "IBM AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-jaic-piloting-artificial-intelligence-education-for-dod.md",
-      "title": "JAIC piloting artificial intelligence education for DOD",
-      "excerpt": "The Department of Defense’s Joint Artificial Intelligence Center recently launched new AI education pilots for thousands of DOD employees that range from executive education for general officers to in-depth coding bootcamps. The most recent cohort of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/",
-      "originalUrl": "https://www.fedscoop.com/jaic-piloting-artificial-intelligence-education-for-dod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2019/08/GettyImages-667849954.jpg?w=1200&h=500&crop=1",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-ambientais-stephanie-mcreynolds-on-ais-role-in-physical-security.md",
-      "title": "Ambient.ai’s Stephanie McReynolds on AI’s Role in Physical Security",
-      "excerpt": "I spoke with Stephanie McReynolds, Head of Marketing at Ambient.ai, about how AI can provide a network of cameras with predictive, real-time intelligence, and respect privacy at the same time. Among the topics we covered: The use of AI to boost security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
-      "originalUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/02/New-eSPEAKS-thumbnail-6.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

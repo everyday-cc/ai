@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-01-here-come-the-underdogs-of-the-robot-olympics.md",
+      "title": "Here Come the Underdogs of the Robot Olympics",
+      "excerpt": "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
+      "originalUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61f853d9a098d1434bc85a47/master/pass/2022_01_17_WIRED_DARPA_SubT_ROBOTS_206_FNL-FA.jpg",
+          "width": 2400,
+          "height": 1647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
+      "publishedDateTime": "2022-02-01T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber.md",
       "title": "Human Borgs: How Artificial Intelligence Can Kill Creativity And Make Us Dumber",
       "excerpt": "New experimental research shows that artificial intelligence should be used with caution as a decision support tool for human decision making.",
@@ -1351,41 +1403,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport.md",
-      "title": "Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport",
-      "excerpt": "Artificial Intelligence Technology Solutions (OTCPK:AITX) announced that a major U.S. regional airport is poised to deploy 2 SCOT security devices from its wholly-owned subsidiary Robotic Assistance Devices.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "originalUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "publishedDateTime": "2022-01-21T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -8,7 +8,7 @@ webUrl: "https://gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to
 ampWebUrl: "https://gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856/amp"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bd258d292cbfd33bf97a14a0933cc100.png"
@@ -105,6 +106,6 @@ related:
         height: 775
         isCached: true
 
-secured: "LsxepiKNWnhqqkpuFlgVJN2RsVt+IkD49mR5uX004n1ibXEH1eT4CIRNi9hJXRtoo82cQzeQOWOJhrqJY8/14QaqGAR9cSCKTRQPDyuxwPPRuwcf5zjobs1L/1D4RVkhenJTYvavEW8ulUU72y/nWuIr09cC17FdxqOg9s2tRTEYiUGfmGOmx8z+itPuZviKFCdvb4aESh3ALGX4kyzL09jrnn5XAeJ1XhH61FYz3gXrkDmtLRFhYmppxfSN/N+Kc/PGkew7ijEf7xTDVurzfvCplzHk7TH8pC4uqQE/v0yRk3GDMhT6vGvUqTagcO66EHZjYD6sSKesXAnM++/27dnI17vQxmxYvKG5aIr4XkM=;RzWtY+dvU1y61Lp9/VGjMw=="
+secured: "S+KkSAXcb8uVC8hjxv75ah/iHi3G4xGe0RlyM/GnnNV2absiO0nkndG25Z5JGX8T24USK240rruUoziRcNmFFIU1WeZajZR4sU67/tn7ygEYhVqtzCK1zKSUsGEKyfGTEMxtaxIQsQ/1HKpXZXs5cJuEqKDknsRBb5o288gaeagUrygmGkvDN6VJnfcyY8bgU52Q+1f7sy1IJS+9hBaxr7i3DHJyoR1Iz1GLzw046VH9fnJUopbeaIZesj0QYCYJpNoGcPy47AU0VJtDRXenWV6ywDuAfRX+S/yqjecxx3HJb1wKcE/1pymLhCqN6Si6COvJu3qM9g1eL+/toeilWP4H1v/WK0A9wq0aRt4VJhi4m5JBa4hKlk6SyDv31LdoLZIOUjTYQ8LlH8OUxNuro4wPOHFHg2Gyyy+yhcDhGLjwcUrCII3czMWW0NtuRQb0o1xdoKNa8uHr4opGV9RXgpu3skX1K4XPXWEJQlZTHYEp/wGhv+2lWGAAmX4AnXOHJb8hmBivE74KvJhalIldNQ==;6XYVzH9ksSygpJWWbteYeA=="
 ---
 

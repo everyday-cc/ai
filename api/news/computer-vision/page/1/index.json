@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-24-what-to-do-if-a-cop-tries-to-scan-your-face-during-a-traffic-stop.md",
+      "title": "What to Do If a Cop Tries to Scan Your Face During a Traffic Stop",
+      "excerpt": "Law enforcement’s use of facial recognition technology during investigations has blossomed in recent years thanks in no small part to a booming surveillance industry built on the back of an ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
+      "originalUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3c60689fceb2dd3474c8a28d9a9f3217.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
+      "publishedDateTime": "2022-02-23T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-cipia-brings-ai-and-computer-vision-monitoring-systems-to-eliminate-the-dangers-of-distracted-driving.md",
       "title": "Cipia brings AI and computer vision monitoring systems to eliminate the dangers of distracted driving",
       "excerpt": "The Driver Sense software-based driver monitoring system monitors the driver's state in real-time. It uses AI and computer vision, to monitor factors including gaze vector, blink rate, and eye openness for signs of drowsiness and distraction. It will ...",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -1331,58 +1383,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-irs-will-transition-away-from-facial-recognition-after-wave-of-criticism.md",
-      "title": "IRS will transition away from facial recognition after wave of criticism",
-      "excerpt": "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "originalUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg",
-          "width": 3800,
-          "height": 2533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "publishedDateTime": "2022-02-09T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-5
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-51645623611"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Arcimoto Stock Gives Back Gains. The EV Maker Has a New Factory and a Self-Driving Plan."
+    excerpt: "The company has delivered roughly 500 of its electric three-wheelers. Its new factory is meant to reach its full capacity of 50,000 units a year in 2025."
+    publishedDateTime: 2022-02-24T00:53:00Z
+    webUrl: "https://www.barrons.com/articles/arcimoto-stock-fuv-ev-factory-51645623611"
+    ampWebUrl: "https://www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-51645623611"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-51645623611"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 50
+    images:
+      - url: "https://images.barrons.com/im-353231/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "D0fiieXSUaUswE5yFUb9p+AKwQ5XmaavJuEVYDtPwZ4MmTtP99il8wpgffphZAd0ZAQ/yYG8v0CAligNtHCHfPo9dekLlenPJpSr2xf2g03prcSNAPD384ABNW2xh4qhcVcDq2Al16GuUESY7EJ9mvUXGoT3/CCo78mjI7G+CsHBt75/rk7EW+nUj5wN+Yg7mXBe8UAWZglcvBoAe2j/t4ToAdwpv42pjEVYB70uttYza3rxdxlL8UA2VgnGLgN5gNzqVoQRK/Toq+xmpPCiCWy0LS5ZfN+Zjp9DbH9QUB0vY63DRqVpOlWvlAEkONhJ+z1emnXKW2qcqptkbeOts0jM2TDVO01BT0oEhfE+NCbEdonECFQL9vMDcuY33ktIMML7Ji7GpNY59ytl395WcM0Ei2uyooXc86QAVCzdU+ZEuHJewj8n2w0Ht5/o9caEKswoKCOt5D8ddjX3125MAx7f9ACfQeMMWSJqQ42SKeGZTw5Q8YF2GLloqJEJpaCOnuHqzW7zWMJZPjFnZQO8XA==;KWqXRFFSaYd0Gh+VOG3zcA=="
 ---

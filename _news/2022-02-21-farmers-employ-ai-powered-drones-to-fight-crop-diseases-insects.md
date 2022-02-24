@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/farmers-employ-ai-powe
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/farmers-employ-ai-powered-drones-to-fight-crop-diseases-insects/amp-11645383053749.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg"
         width: 1920

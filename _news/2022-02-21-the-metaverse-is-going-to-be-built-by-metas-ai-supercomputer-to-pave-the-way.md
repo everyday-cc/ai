@@ -57,6 +57,22 @@ related:
         width: 980
         height: 653
         isCached: true
+  - title: "Facebook Wants to Finish Your Sentences in The Metaverse"
+    excerpt: "This is the tech giant's latest effort to build its conversational AI capabilities to deliver better dialogue in the so-called metaverse or the immersive internet. The Facebook parent wants to create nuanced virtual worlds using voice."
+    publishedDateTime: 2022-02-23T23:38:00Z
+    webUrl: "https://www.thestreet.com/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTg1NTE3NDI4MzQyNTMxMTU0/market-capitalization-top-image.png"
+        width: 620
+        height: 400
+        isCached: true
   - title: "Fintech in the Metaverse"
     excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
     publishedDateTime: 2022-02-23T11:55:00Z

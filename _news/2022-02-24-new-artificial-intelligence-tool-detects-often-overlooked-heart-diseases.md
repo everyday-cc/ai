@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-tool-ove
 ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.amp"
 type: article
-quality: 56
-heat: -1
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg"
@@ -43,6 +44,6 @@ related:
         height: 337
         isCached: true
 
-secured: "1ULYaWBGP2bYwjrJ9Z+otFoCKaRUgawGhoMTtIrBxH766tdyRNjnqRljrewBMv6cfQwQDzz1yLmx049uPTSEg9rkCmy1g2/rc0ccLMx/SzV+sa2mqgU5kJLLy1rAvzNhBeQJxB7IEjDC8nvrF2cl60iTP4YzcyIbqRfdogTsk7k6fLNTVQyDIAdLVqF1Uidh2amgJQkfV3aXknIXGJtMjRJw/rMEzXPFAaMC1tvhu91+jYU6wNo37JcY6v1IxcwJlqDzA5ue8Oa/eTsuF9TaGBpcIt/L+jUTwpd3BEUZmqUBVcPo0o9MbCO4wOxu9C7OwndKxxOPyrwwSsn23CcMqKfA1sx5aOxuXmPKq3Tv9Ww=;Nvt1M2rE761qwJCt4Vp0dw=="
+secured: "+Ps+MRVBehfASYTTTxISUeoINowXrFoGQr3IN1htuohrCrTev1fb5MG9yUHTBNCqCdbAC3HUdTe8plFTNm/z3R6TBLiJQSJb1BA5b8jYYKwRMpnWDo7vBH7KJq0UGJ99MABOAfkDmt6TMmFoSKd/9xpiCf0wB+alJE6o1Gkoh6o5238QCPDLtF1lxYGLwwyzerMVS4HevvZ37lIiBYLK6LDTkQo460pGEFEiKvvHEC8XJiafk1P/o/+5Oa3pPd15iF280L03NxmlbWpTWyY0uleT3r/liW4uiHePeAg9QVp1bFXwPee5RCgp88ap3jOe6tKZgV3MowiaDThxQU1z1jcbophJd/tXWRsjPgFpoSMFe3IoQe78UYOb+dYyRF9Hcf/rf0jEMsnnqUeY5be0kq9Lk9KWgFYPSkfTOep8QPP7zHSUJzSdijJriX31cy/qed2W5HD/i+XQlCUHRkhtg5zXoDQlayL2/COjFWkmBHTycJ/405Jv8qbLWdMYRegTbdKR6m6i+fkn6d25j0lI6Q==;iXaDs1PC+spHu8d0LlBV6g=="
 ---
 

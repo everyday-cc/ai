@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastru
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/"
 type: article
 quality: 87
-heat: 110
+heat: 107
 published: true
 
 provider:

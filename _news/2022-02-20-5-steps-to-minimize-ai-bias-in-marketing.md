@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Two top jobs in the booming AI industry"
+    excerpt: "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field."
+    publishedDateTime: 2022-02-23T23:12:00Z
+    webUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/"
+    ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The artificial intelligence-enabled nation"
     excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
     publishedDateTime: 2022-02-20T18:47:00Z

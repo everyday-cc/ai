@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerber
 webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://www.dmcnews.org/wp-content/uploads/2022/02/1643842802_adobestock-ink-drop-1-1.jpg.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facebook Wants to Finish Your Sentences in The Metaverse"
+    excerpt: "This is the tech giant's latest effort to build its conversational AI capabilities to deliver better dialogue in the so-called metaverse or the immersive internet. The Facebook parent wants to create nuanced virtual worlds using voice."
+    publishedDateTime: 2022-02-23T23:38:00Z
+    webUrl: "https://www.thestreet.com/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTg1NTE3NDI4MzQyNTMxMTU0/market-capitalization-top-image.png"
+        width: 620
+        height: 400
         isCached: true
   - title: "Fintech in the Metaverse"
     excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"

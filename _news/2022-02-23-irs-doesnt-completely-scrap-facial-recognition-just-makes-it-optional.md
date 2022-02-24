@@ -61,14 +61,14 @@ related:
         isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
     excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-    publishedDateTime: 2022-02-22T23:02:00Z
-    webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    publishedDateTime: 2022-02-23T00:02:00Z
+    webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
     type: article
     provider:
-      name: NBC26
-      domain: nbc26.com
+      name: Fox 4
+      domain: fox4now.com
     quality: 76
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
@@ -323,6 +323,20 @@ related:
       - url: "https://scpr.brightspotcdn.com/dims4/default/0b307da/2147483647/strip/true/crop/4928x2587+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F9d%2F9e%2F40b1cd2643cb9e7b09af4627b020%2Fgettyimages-470401587.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "School Board Recognition Week honors board members"
+    excerpt: "School Board Recognition Week. In a news release Monday, Feb. 21, Brainerd Public Schools Superintendent Laine Larson recognized the district’s board members. “I would like to thank all of our dedicated board members for making a difference in the lives of the children while making decisions based on what you believe is best for the school district,"
+    publishedDateTime: 2022-02-24T00:13:00Z
+    webUrl: "https://www.brainerddispatch.com/news/local/school-board-recognition-week-honors-board-members"
+    type: article
+    provider:
+      name: Brainerd Dispatch
+      domain: brainerddispatch.com
+    quality: 24
+    images:
+      - url: "https://cdn.forumcomm.com/dims4/default/ed9340c/2147483647/strip/true/crop/3674x1786+0+361/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F77%2Ff8%2Fe7d0f9494a51999b2187bf9fc880%2F20220119-122125.jpg"
+        width: 1440
+        height: 700
         isCached: true
   - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
     excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."

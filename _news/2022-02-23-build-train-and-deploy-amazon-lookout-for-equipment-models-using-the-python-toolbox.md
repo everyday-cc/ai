@@ -43,6 +43,20 @@ related:
         width: 1310
         height: 1076
         isCached: true
+  - title: "How Kustomer utilizes custom Docker images & Amazon SageMaker to build a text classification pipeline"
+    excerpt: "This is a guest post by Kustomer’s Senior Software &amp; Machine Learning Engineer, Ian Lantzy, and AWS team Umesh Kalaspurkar, Prasad Shetty, and Jonathan Greifenberger. In Kustomer’s own words, “Kustomer is the omnichannel SaaS CRM platform reimagining enterprise customer service to deliver standout"
+    publishedDateTime: 2022-02-23T23:02:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-kustomer-utilizes-custom-docker-images-amazon-sagemaker-to-build-a-text-classification-pipeline/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/15/ML-5601-image002-cropped_whitebackground.png"
+        width: 1252
+        height: 432
+        isCached: true
 
 secured: "9gi/vx0UaBfV54TabNTJE/53n5zwPmzGOxbltm4M0uR30EJ/crDGZ1VA87jlhLZltFomM5+cNjY5zqLBBz1QRjUJYyBuJpo9DRIm8IhEMSQB445PfRzh8TMxvbkPHSWDlH4hPgSH+0W9xFiJy39VZiittoTvvXmkUV4y3qwgAxD0irq2tknsa/6GFaBUFLPnXc3ArhNFjW7bdg4+n1jrXwI9d4suS8XC/ADoupE+z955gDc9R7KXSymoijBBtND++A3jy1MsIRPKswVCXg5WgdHGA9U9oRK7//tvDIXuD82O/ajuTlluQmCLj9R7gHnrQwnrWndfxIcue9zBnFkfAvb8119hQLSi6sI/UxQNobM=;yMrvWmFJbSWRx/L6lRAyNw=="
 ---

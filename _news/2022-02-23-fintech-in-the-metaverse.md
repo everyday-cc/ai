@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook Wants to Finish Your Sentences in The Metaverse"
+    excerpt: "This is the tech giant's latest effort to build its conversational AI capabilities to deliver better dialogue in the so-called metaverse or the immersive internet. The Facebook parent wants to create nuanced virtual worlds using voice."
+    publishedDateTime: 2022-02-23T23:38:00Z
+    webUrl: "https://www.thestreet.com/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTg1NTE3NDI4MzQyNTMxMTU0/market-capitalization-top-image.png"
+        width: 620
+        height: 400
+        isCached: true
 
 secured: "5BJrCv0XMRv/KzeOloA6Yo3BP2mZbZzjvHh2puPgr1YAKzWB3HQy6Wh0al+Is+j8uzsJH+uw75cVm9VTxX/K1xXZ8Vi21V5TWCN5g2agg2yw9wrJFuNfbRcgqDqh+U4HEE7BG5vJe7Wtrp4wo7koNXbMvayanW9+OeNLfnIZgczyfACKhBDC1MrslMXRP7UWVwlMlxnWF1aesVbTH8L4RX3nrfe4rLEbQyXZQbdM1aEDk91YKujYJ04XLE04GxGGnw2ipWLmra9qo9oX5dx3etvmO//0aUlmtt2K4y/ecFysoJ9EA3Eoi7x4aiit5dY0axWMkybIPbdVlhUegwesfMDHXEa2vZGGF7pnI+cCV4M=;OKusY5n1Yg1r3MPSeTd87w=="
 ---

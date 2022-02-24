@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-22T23:02:00Z
-originalUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-23T00:02:00Z
+originalUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: NBC26
-  domain: nbc26.com
+  name: Fox 4
+  domain: fox4now.com
 
 topics:
   - Computer Vision
@@ -325,6 +325,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "School Board Recognition Week honors board members"
+    excerpt: "School Board Recognition Week. In a news release Monday, Feb. 21, Brainerd Public Schools Superintendent Laine Larson recognized the district’s board members. “I would like to thank all of our dedicated board members for making a difference in the lives of the children while making decisions based on what you believe is best for the school district,"
+    publishedDateTime: 2022-02-24T00:13:00Z
+    webUrl: "https://www.brainerddispatch.com/news/local/school-board-recognition-week-honors-board-members"
+    type: article
+    provider:
+      name: Brainerd Dispatch
+      domain: brainerddispatch.com
+    quality: 24
+    images:
+      - url: "https://cdn.forumcomm.com/dims4/default/ed9340c/2147483647/strip/true/crop/3674x1786+0+361/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F77%2Ff8%2Fe7d0f9494a51999b2187bf9fc880%2F20220119-122125.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
     excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
     publishedDateTime: 2022-02-23T10:28:00Z
@@ -340,6 +354,6 @@ related:
         height: 810
         isCached: true
 
-secured: "010YitmXgPlnrVWvxEQpapWHwAzMQxg+UCawcWHwRGC2MK3ElW/g6WdfM4fE9SKBFPJsihKgwRpVuN4T1lfw1twy3tf5Z4VNCFv6kB8pguLzqJzVZOkNva+c0+61Q8QoU2okKmfeMnHp0QXzarXovGNhbI9DlYTU0SZdRLACmkBgIG56df6+lFACIyQ5woUeg9mhBhRAa+8daR1blZCaSvO0NJY9V8/hLEwnbdKfGGelq8aI/IVYZMK24lIexPtmAXc1rj5gXDXtbnDYAJHnH/SH8x0Mhm58b3WJLaq06nSnHlmQUrsssn/pth8jV83dtuH5412ZV7Rwgjs3sgzeavttGNqwmE/i7bAVcMqZOcY=;ZP5GTxVQpXb/paN4SWN4jA=="
+secured: "bPxJ14mNMFGoq1rRhO+XcLiAo4Xbpm8EP7YP8HVlTwEEE1kBDhRXvXuWKRdMh7R+MaBL0tZ0SnRco3zJh1DJ56UKPPF3PUEWrQHz/YuUIWWu34Cw8s8ohLv/WfG098KrQ4U9cZ1ORSZq4CrKEtnsL8znCDVod4Ef6Jo4RNnjpnbNfTRpXRlM7qtrugmdG+mt0SLxWZcv8BTbrIkwSGVndD69a7wdrQ6DeZeEtuJARNq3jdJoYy52f3XUdsHUh0+ux11BVBXwfF5b2v9kgAfTcGt/vFbgrWYF+oyOlxXbQr42q3hWyooB9LlqAJbGRpEgA7Jlric6tUeITLeBzPOHk0Jjt7SKz25aPcYGyAQGxCA=;4rX+m32QiXTQI5hkEESrHA=="
 ---
 

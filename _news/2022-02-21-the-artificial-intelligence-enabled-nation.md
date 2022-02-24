@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Two top jobs in the booming AI industry"
+    excerpt: "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field."
+    publishedDateTime: 2022-02-23T23:12:00Z
+    webUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/"
+    ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The Future of Marketing: Can AI and Humans Coexist?"
     excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."
     publishedDateTime: 2022-02-20T01:36:00Z
