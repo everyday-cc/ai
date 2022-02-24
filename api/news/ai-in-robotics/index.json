@@ -2,15 +2,58 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-24-google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems.md",
-      "title": "Google-Berkeley robot navigation could chart a new-course for self-driving systems",
-      "excerpt": "An approach that uses hours of video and elements of reinforcement learning can guide a robot vehicle almost two miles without a full map of the surroundings.",
+      "path": "_news/2022-02-24-accelerator-startupbay-invests-usd-12-mn-in-pune-based-robotics-firm-rocket-ai.md",
+      "title": "Accelerator StartupBay invests USD 1.2 Mn in Pune-based robotics firm Rocket AI",
+      "excerpt": "Accelerator StartupBay has invested USD 1.2 million in the seed round of Pune-based robotics firm Rocket AI’s seed funding round in return for a 10 percent stake. Rocket AI combines low-code no-code,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "originalUrl": "https://www.zdnet.com/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "webUrl": "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1-2-mn-in-pune-based-robotics-firm-rocket-ai/",
+      "originalUrl": "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1-2-mn-in-pune-based-robotics-firm-rocket-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-2.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems.md",
+      "title": "UC Berkeley robot navigation could chart a new-course for self-driving systems",
+      "excerpt": "An approach that uses hours of video and elements of reinforcement learning can guide a robot vehicle almost two miles without a full map of the surroundings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "originalUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -24,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "publishedDateTime": "2022-02-23T18:19:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "publishedDateTime": "2022-02-23T21:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -49,9 +92,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI",
-        "AI in Robotics"
+        "AI in Autos"
       ]
     },
     {
@@ -1325,58 +1368,6 @@
         "name": "enterprisetalk",
         "domain": "enterprisetalk.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-micropsi-raises-34m-to-retrain-industrial-robots-using-human-demonstrations.md",
-      "title": "Micropsi raises $34M to retrain industrial robots using human demonstrations",
-      "excerpt": "“We and everybody around us — that’s us, who provide the AI, but also the makers of robots ... “Most customers will start with a single system and then add more as they validate its ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
-      "originalUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1316352689-e1635532855453.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
-      "publishedDateTime": "2022-02-10T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

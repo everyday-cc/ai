@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-22-whats-at-stake-in-banking-industrys-ai-transformation-1-trillion-a-year.md",
+      "title": "What's at stake in banking industry's AI transformation? $1 trillion a year",
+      "excerpt": "You can start getting the answers by joining this webinar – Accelerated AI Value Creation for Financial Services – on February 24 at 8am PT/11am ET/4pm GMT, courtesy of SambaNova Systems, which has developed new technology to harness the power of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/02/22/sambanova_ai_financial_services_webinar/",
+      "originalUrl": "https://www.theregister.com/2022/02/22/sambanova_ai_financial_services_webinar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2017/08/23/university-money.jpg",
+          "width": 648,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/22/sambanova_ai_financial_services_webinar/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/22/sambanova_ai_financial_services_webinar/",
+      "publishedDateTime": "2022-02-22T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare.md",
+      "title": "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare",
+      "excerpt": "To be clear, much of what is commonly dubbed \"artificial intelligence\" today doesn't really live up to the definition. In healthcare, particularly, plenty of purportedly AI-powered solutions merely represent long-overdue IT automation implementations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6205174d5de155a4329ea195/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers.md",
+      "title": "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers",
+      "excerpt": "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a7008f65109a2886f0b25/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "publishedDateTime": "2022-02-22T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-facilio-which-develops-ai-powered-property-management-software-nabs-35m.md",
       "title": "Facilio, which develops AI-powered property management software, nabs $35M",
       "excerpt": "GE Digital’s Predix and startup Petasense offer similar Wi-Fi-enabled, cloud- and AI-driven monitoring sensors. And Sidewalk Labs and Carbon Relay boast products that leverage sensor data to ...",
@@ -459,7 +604,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1076,142 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-leveraging-ai-to-decrease-potential-logistics-costs.md",
-      "title": "Leveraging AI to decrease potential logistics costs",
-      "excerpt": "Artificial intelligence (AI) has now become an all-pervasive technology that is being increasingly seen as the panacea for almost all the challenges in different business verticals. From customer support to analysing diagnostic reports,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "publishedDateTime": "2022-02-21T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-inside-intels-bold-chip-making-plans-to-dethrone-amd.md",
-      "title": "Inside Intel’s Bold Chip Making Plans to Dethrone AMD",
-      "excerpt": "Intel will make monumental investments in chip technologies in the next four years. The Santa Clara, Calif.- based company said on Thursday it expects revenue from its segment housing PCs to grow in low to mid-single digits, and its data center and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/",
-      "originalUrl": "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2022/02/chip-making-scaled-e1645422729624.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/",
-      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/",
-      "publishedDateTime": "2022-02-20T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leadership",
-        "domain": "industryleadersmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-stanford-university-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours.md",
-      "title": "Stanford University use AI computing to cut DNA sequencing down to five hours",
-      "excerpt": "A Stanford University-led research team has set a new Guinness World Record for the fastest DNA sequencing technique using AI computing to accelerate workflow speed. The research, led by Dr Euan Ashley, professor of medicine, genetics and biomedical data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "originalUrl": "https://www.zdnet.com/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/074b82c6e2ac31afabaf019d1a4d72e286bea9df/2022/02/21/5b895d9d-2b35-483f-aba1-fc27fbd65ecb/guinness-world-record-group-scaled.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "publishedDateTime": "2022-02-20T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -73,6 +73,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta to break language barriers with AI, builds universal speech translator"
+    excerpt: "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme"
+    publishedDateTime: 2022-02-24T08:09:00Z
+    webUrl: "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/03/full/1643876854-9687.jpg?im=Resize,width=1200"
+        width: 1200
+        height: 898
+        isCached: true
   - title: "Facebook's parent Meta unveils AI projects aimed at building metaverse future"
     excerpt: "By Elizabeth Culliford - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between ..."
     publishedDateTime: 2022-02-24T05:14:00Z
@@ -131,6 +147,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Metaverse: Universal language translator coming soon? Here's all you need to know"
+    excerpt: "The Meta CEO also revealed that the company aims to build an AI-powered “universal speech translator” for metaverse that works for everyone in the world. Meta is working on a two-fold project. The first part is No Language Left Behind and the second is ..."
+    publishedDateTime: 2022-02-24T07:53:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 39
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
     publishedDateTime: 2022-02-24T03:46:00Z
@@ -147,7 +179,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta Plans to Build a Universal Speech Translator"
+    excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
+    publishedDateTime: 2022-02-24T08:14:00Z
+    webUrl: "https://hypebeast.com/2022/2/meta-universal-language-translator-plans-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Fmeta-universal-language-translator-plans-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
-secured: "tHTRrXtnQI+JBNjCjtYLGA+bub2sz6xaKP/J31Ki+c3y1XrX90UhUBta7xyw5EtLN+BvxrCQ10WeWdyb/cjcV+cqfQCCC7frzGR6uYLROwf/xrVMe8QXXKk/y7B/fJgpQz6kxVyZFTg7g2H3wLuhvV7IDsNXkAHgXw1byFBbDYHtluFD7pghLAuLTTB+o7KsuJfyy7q6jMzjPh7fUvp63OevePALRl05Ms8j30hrmR8oFBfJuy0jGF65LTIirLp52EQI7INHWmbye4RWy6/FAK4lazrEoOemW3ezP6CnBngHuDB+3+3yMq17OhpzSceMqwvhUQMngXcfiQf6XZsv2INQpTlQcZx6aBc2sN/nehc=;ISa5cS7BKYPMtL5fYTt25A=="
+secured: "Dq4KCpfQXUJVA5xV2zNm55tULvgEVY7CCjHPGlV5sg8tU863mOMjYFheEVVOLzwYTCFubuJULI0KmSvaN0ROQghZi6Lx90OSI/7Ghro1A33I8tku5YriCFbXHKn+I0jZUYg+cR91++abWu99i6j7y35nPOjt88ZZ9w/se1dr3eo20PF8AS+NqYG2Id6xFry8sWFZZDFj/Ogi98KOpt8YC1dyb25ts9XTaGnTtL05wX6NO3ABlv34JhkDEayxBulXytqI5WAVYPuvrD2p+AGBwwA8z3MKduMdqPZeqU0GmyQ8S7xX483FslQSIW9TTJgjFA+hoJ9TzLXi+s1CJlKOvi/QM/wU04F9GjCVqeT2HCDNEd3+qvZhJk4TUpq7Nck2jPym4fkn/gh/mcEVcLP3PHxDo6MF75g7JYWv3iGu2D4Ng6RILpLjNzKhntz2rMMumft8sjk2wEBXGL/XEB3l7JAipXw5PktSnTCHKJFUKoGjvxD+4fEyegx6oiLqEcbgESFABajsXP6M8ln0RX+ouA==;6igA6ePcdoRBJdY8vub9HQ=="
 ---
 

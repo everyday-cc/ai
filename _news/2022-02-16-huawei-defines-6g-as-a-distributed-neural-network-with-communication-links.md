@@ -3,10 +3,10 @@ category: news
 title: "Huawei defines 6G as a distributed neural network with communication links"
 excerpt: "According to Peiying Zhu , Senior Vice President of Wireless Research at Huawei, 6G looks more like a 'distributed neural network with communication ... robotics and smart healthcare, and artificial intelligence as a service,” Zhu explained."
 publishedDateTime: 2022-02-15T23:52:00Z
-originalUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
-webUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
-ampWebUrl: "https://amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
-cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links"
+originalUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=1325&template=MobileArticle"
+webUrl: "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=1325&template=MobileArticle"
+ampWebUrl: "https://amp.jamaicaobserver.com/apps/pbcs.dll/article?AID=/20220215/ARTICLE/220219698"
+cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/apps/pbcs.dll/article?AID=/20220215/ARTICLE/220219698"
 type: article
 
 provider:
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20220215/ARTICLE/220219698/AR/0/AR-220219698.jpg"
+  - url: "http://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20220215/ARTICLE/220219698/AR/0/AR-220219698.jpg"
     width: 498
     height: 332
     isCached: true
 
-secured: "G/hHpqx6A7MO7dp7OKlIZKxQqVNeSJFRjUv9xWpUJD11uGH6setkc9AK3sgLSXflTurQqDfpZZ3q1f2IKQZL8YRz+k9RE5xESRERO1TFS9ieZiN3hiAXWJjRmkKfyOxQi8HG7L0tkEA9nNrkBqxg8Si300lXJW1wOHM985LnIbxf67Iz8kDHeJFxkpJwDYmwhGROyTgu/pl2xf8YG5Fu8vECGumkp+P80Fd8zlGUFphTam27217ghrFsGGljUo9gnA3iQK2W4aG++FBFRsunwvuHT+YSu1HtA+ObRbpFg63QV4tjLQGlpZJ4VMJDCiMZf+O0fpjj5K8zV0oNXQxvJHFqsH73pA0NhLV60sMXBqGuwybF4uwjQCYgK4cpDPVPsRHcl1ws89nsYVh7GnPzRN3ZukZyv/aoXlh+RqiKsAilIGZ4SjDcOOVveyZB3sUZ/EZE1zqUQWeBSj9vo/kdId57OQuWazmFU5Ihdrp1lCx2NX/VEWDYm0yCAaWV0zOUUt6q8TK97JDAXXhJ80ekBQ==;twOJiACTdmRzuJT89f8MWA=="
+secured: "ID2feeddA5+d63ho5SuL9ZhXku+lv+3sJ4S8iz5KIpt0TK+zG2C368DcxTVDbSGqqewp6EphU/hvKUrpL7epRbjy4W7/lTo+ZCtniYBoAQMgDnQ2xxJmWgzCsYQPgq+7laKwoUf3CC5pYyFuWZUuKAZFmahG/xUUwSe8p5WeUJwRl9SbLFjlPlnxX1THFkXY1gDEIuviS97yKm6L55Y99RlSZ4dxBzykl46DVDStcB1dcBWeFITEfdWnbCyD00alJF7mQrLZN9c4jiOsavQoNA5BkA7+tH5OSJQHkM7KB9LAOcMSokskpDYGwzQ1pF/cp/RHCj/NzA+Ydp+N/7DNRK44ffODLHD0wUPLfoJYgME=;gJg1xyKriaR8KjBfIGHuxQ=="
 ---
 

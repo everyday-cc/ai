@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments"
-    excerpt: "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth."
-    publishedDateTime: 2022-02-19T16:08:00Z
-    webUrl: "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind Trains Agents to Control Computers as Humans Do to Solve Everyday Tasks"
     excerpt: "That’s the premise of the new DeepMind paper A Data-driven Approach for Learning To Control Computers, which proposes agents that can operate our digital devices via keyboard and mouse with goals specified in natural language. The study builds on recent ..."
     publishedDateTime: 2022-02-22T15:28:00Z
@@ -59,22 +45,6 @@ related:
         width: 949
         height: 534
         isCached: true
-  - title: "AI: Decoded: Putin’s high-tech war — Making sense of AI systems — Deepmind controls nuclear fusion reactor"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2022-02-23T10:05:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/putins-high-tech-war-making-sense-of-ai-systems-deepmind-controls-nuclear-fusion-reactor-2/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 58
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. DeepMind’s experts developed an AI algorithm that can create and maintain specific plasma configurations and trained it on the SPC’s simulator."
     publishedDateTime: 2022-02-21T14:38:00Z
@@ -88,34 +58,6 @@ related:
       - url: "https://www.euro-fusion.org/typo3conf/ext/gdtemplate/Resources/Public/Img/de.png"
         width: 2000
         height: 1200
-        isCached: true
-  - title: "DeepMind open-sources DM21, an AI model for quantum chemistry"
-    excerpt: "Researchers at DeepMind have open-sourced DM21, a neural network model for mapping electron density to chemical interaction energy, a critical component of quantum mechanical modelling. DM21 outperforms standard models on various benchmarks, and it’s ..."
-    publishedDateTime: 2022-02-22T03:45:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-dm21-an-ai-model-for-quantum-chemistry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "AI Medicine Software Market Is Thriving Worldwide with Recursion Pharmaceuticals, Atomwise, DeepMind, Babylon Health, Flatiron Health"
-    excerpt: "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 02/21/2022 -- The Latest Released AI Medicine Software market study has"
-    publishedDateTime: 2022-02-21T20:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-thriving-worldwide-with-recursion-pharmaceuticals-atomwise-deepmind-babylon-health-flatiron-health"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "8KVjNjJ/1IGEta1rtaX+7x1Vcp2XP57Z/DX8rcF2jf2rWMMfXmhGHM2ArXzQQ4Tx3Q/obF9c4+dG5FHza5mTI1P2uGMkoRpQO2Su+NTo1Wqt1wExAWH7YQ0oO2GXEQX1+7+IGnMLV4sF6ERHQN55ZsLVfnTkHq0fCmejIIS46xBqw7pf6P1pQICn8MHUi2VKSzu9gaihbSefy2YH7T7BSwsI1wgYryvw73+SbXGuwkjvXBlYV0qcehikPiTIlH6XagODS/ejZ/zE49rpic+6ZXAKf/CA6Sc4yolmVZMlq3AptLirGf59Nv5nR4XitanAxZYhB6LM3MDWmZd7DLYaUdO4YjnRku0BgqxB/EHXFj1iCnmvpebGfI2GZtKW1igoR6y9WBfmvchAHVwbqwZdSWYSI+/imKVencFtiVDn7+s4BxTeQBwCb3jOl7ub+zvkoyWq6FJxpFTtEj+OMerGzm/JqqXtHnba+4rCl6UNMAym9h2g9VTPdex+WL91i2N0YJHIXfMNd0eW0zbDn01DUQ==;LUrWZRxvvAoEIQFpq/HktQ=="

@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-23-how-a-financial-planner-went-from-broke-to-generating-85-million.md",
+      "title": "How A Financial Planner Went From Broke To Generating $8.5 Million",
+      "excerpt": "Failure is a great teacher. When a financial manager went into debt, she took her own advice to manage her business, wealth and investments better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62159857d3e152c3f3c0952c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "publishedDateTime": "2022-02-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-digital-twins-ai-ml-transforming-the-fintech-landscape.md",
+      "title": "Digital Twins: AI & ML Transforming the Fintech Landscape",
+      "excerpt": "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/420077",
+      "originalUrl": "https://www.entrepreneur.com/article/420077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-amit-midha-and-technog-solutions.md",
       "title": "Exponentia.ai raises additional funding from Amit Midha and Technog Solutions",
       "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Amit Midha, President - Dell Technologies and Technog Solutions.",
@@ -782,6 +887,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-22-deepmind-trains-agents-to-control-computers-as-humans-do-to-solve-everyday-tasks.md",
+      "title": "DeepMind Trains Agents to Control Computers as Humans Do to Solve Everyday Tasks",
+      "excerpt": "That’s the premise of the new DeepMind paper A Data-driven Approach for Learning To Control Computers, which proposes agents that can operate our digital devices via keyboard and mouse with goals specified in natural language. The study builds on recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/",
+      "originalUrl": "https://syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/02/image-80.png?fit=950%2C534&ssl=1",
+          "width": 949,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/amp/",
+      "publishedDateTime": "2022-02-22T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-how-neuralspace-is-driving-low-resource-language-processing.md",
       "title": "How NeuralSpace is driving low-resource language processing",
       "excerpt": "“In India, Reverie Language Technologies and Skit AI are competitors but they mainly focus on Machine Translation and Speech Recognition, respectively. NeuralSpace offers the first platform that ...",
@@ -1021,151 +1169,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-whats-at-stake-in-banking-industrys-ai-transformation-1-trillion-a-year.md",
-      "title": "What's at stake in banking industry's AI transformation? $1 trillion a year",
-      "excerpt": "You can start getting the answers by joining this webinar – Accelerated AI Value Creation for Financial Services – on February 24 at 8am PT/11am ET/4pm GMT, courtesy of SambaNova Systems, which has developed new technology to harness the power of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/02/22/sambanova_ai_financial_services_webinar/",
-      "originalUrl": "https://www.theregister.com/2022/02/22/sambanova_ai_financial_services_webinar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2017/08/23/university-money.jpg",
-          "width": 648,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/22/sambanova_ai_financial_services_webinar/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/22/sambanova_ai_financial_services_webinar/",
-      "publishedDateTime": "2022-02-22T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare.md",
-      "title": "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare",
-      "excerpt": "To be clear, much of what is commonly dubbed \"artificial intelligence\" today doesn't really live up to the definition. In healthcare, particularly, plenty of purportedly AI-powered solutions merely represent long-overdue IT automation implementations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6205174d5de155a4329ea195/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-02-22T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers.md",
-      "title": "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers",
-      "excerpt": "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620a7008f65109a2886f0b25/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
-      "publishedDateTime": "2022-02-22T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

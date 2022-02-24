@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/choose-the-best-data
 webUrl: "https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:

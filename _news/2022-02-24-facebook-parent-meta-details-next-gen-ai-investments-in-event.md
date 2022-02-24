@@ -8,8 +8,8 @@ webUrl: "https://seekingalpha.com/news/3804794-facebook-parent-meta-details-next
 ampWebUrl: "https://seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event"
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350448399/image_1350448399.jpg?io=getty-c-w750"

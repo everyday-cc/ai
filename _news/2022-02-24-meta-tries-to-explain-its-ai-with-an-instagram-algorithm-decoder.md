@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Meta tries to explain its AI with an Instagram algorithm decoder"
-excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.” Kate Kaye is an award-winning multimedia reporter digging deep and telling print,"
+excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.”"
 publishedDateTime: 2022-02-23T20:09:00Z
-originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
-webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
+originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
+webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
 ampWebUrl: "https://www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.protocol.com/media-library/adam-mosseri-head-of-instagram.jpg?id=28187664&width=400&coordinates=0%2C112%2C0%2C112&height=711.4285714285714&quality=80"
@@ -26,6 +27,6 @@ images:
     height: 225
     isCached: true
 
-secured: "bUZwtgbBAjpE3r7z0DodarUjaoo3uLl4LsE4AItF+WzW/tDAX9EUdZAJeHoWUASajpAXpMTvqeoAZTpSsAYd2AWrwotDLrxWLr1SvbXJ8qKlYws7ikDittceW1CmCRsGOCfOCrqlm6VZX6q+VtJTvlNODUKyW3Hx/zhvdqPLecVXhPk+zqF6o03lHMLbynntEr/i5bSWA/gi0OLXCfKcSeQRF5ZSk4pKYNGiW5bneBX9+eFMOQfbL804ZzEes4f+aNQjASdfvRDoFyCfB3d9JirQKD2wtT+8pwHEEE8C+vXufGQMd8ekt/WeabKiYTqquDp9EFjK8WZaUdUMdKN2dNo8MqSaBTH8e1j9k7GjWVXmX9n90RJYxvu2M9cw1y05OC2t+XY+8oheMhnVNT4/REc+jApiF247fs1SoXMMnEq32TmkSu8v8TOJFumxOQcr/oKl2MbHfXiPHSkErT6X5PzMxJ0f9JI+Zvec8tmAJsQ2g2rv1OkA6cjSCtFohRwKFF+udC9kGGTrktvAGRuahw==;hioRUDPQgMYDwzKBN4hVNA=="
+secured: "nxClDiO+VuD1RHsRQEyw756I2fDaCwP3YJULgNmNoeuENxYHjcSsZatOKX5Jk0EL95JQX+kHg5fvwuBfINPBNUZx9clCAR1M3XKI4QZ+J6BrE93x0OD//JviOs5mJIYM4S48FeIpiRuENEvL9IookGw0DnWreXHY9XkER650/kK0MU6T7PmGwi21vc8ckfflliul70SVxXznnCBJy2cc5wfej3htPi94pWytkF0Cy+hWZIGlNZaV6bexdoDKHE5GpyjhFCKv1ylNMIzxmmRuMVrQW6KP5xxalfX6QvM7YD2YRE9cCL5AsTLsQb1ldFpLq8zqcjz1T7MIWeW59s7gfjA3Hyi3+3AU9UnGU32eubw=;mTFhQ0+JT/ET/Y8RG7tGmw=="
 ---
 

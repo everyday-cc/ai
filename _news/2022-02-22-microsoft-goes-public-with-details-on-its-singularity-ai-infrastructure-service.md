@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -192,6 +192,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2022/02/Singularity22.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market Will Hit Big Revenues In Future | Oracle, Microsoft, Alice Technologies"
+    excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence in Construction Market Insights, to 2027” with 232 pages"
+    publishedDateTime: 2022-02-24T08:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-construction-market-will-hit-big-revenues-in-future-oracle-microsoft-alice-technologies"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/e72cee448241867e871ce5514b7cd8b2781040ce-1-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "idzx0b3P9pY3ksZ0EmEjcM+vUFmJ8gor+Q8zBXHlkOoOGbsxqcyVR+a7xKK2LXD6L46LnT/+t+P6FiZ8oV5Gug37pwCvNUTFGvGWPDTGS93Lurn+rEPhK+MFdaiK8zheQR7ddrekQoihUPDpYVnmQKa4AP3gMRnkso1VliHhGZbOKDzhYwlzfMWwxTIFa9QViJhE/xHHOWlqDYiQgkXcqqwTMTQoTa0aed0phpVmO4OOTTLJLF2rBtgTfMZRWxLtgUkS2D2ZPRl3YMvq5/1FWEUg1haU/zx7Jb9YN3MEoUYhOyFTr3EWAWxTNNaMkb3G+nrybhj5J0Dqw+jx2HAOs6qrFkXZJ83fKyf0HfHr08T21iOh0S8s+KIGFtC1Ncd+iREa4iohEpvwg2i6cr4b/WQLF84x47dbkuIwcwfCNac8jTSEZIRAuLmeEu2LlPoyx0ckU/4RbASRiFb7kXFMB1KfkqMuKJfBGeq4JWsTnEMSDc4hzZcE4THm1kJMglOyWp00Ol2sINX6lWq+FL5HFg==;+qipvIH31fjhVjhZdoH6Tg=="

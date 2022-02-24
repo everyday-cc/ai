@@ -75,6 +75,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta to break language barriers with AI, builds universal speech translator"
+    excerpt: "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme"
+    publishedDateTime: 2022-02-24T08:09:00Z
+    webUrl: "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/03/full/1643876854-9687.jpg?im=Resize,width=1200"
+        width: 1200
+        height: 898
+        isCached: true
   - title: "Meta wants to build a universal language translator"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
     publishedDateTime: 2022-02-23T18:36:00Z
@@ -131,6 +147,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Metaverse: Universal language translator coming soon? Here's all you need to know"
+    excerpt: "The Meta CEO also revealed that the company aims to build an AI-powered “universal speech translator” for metaverse that works for everyone in the world. Meta is working on a two-fold project. The first part is No Language Left Behind and the second is ..."
+    publishedDateTime: 2022-02-24T07:53:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 39
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
     publishedDateTime: 2022-02-24T03:46:00Z
@@ -146,6 +178,20 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Meta Plans to Build a Universal Speech Translator"
+    excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
+    publishedDateTime: 2022-02-24T08:14:00Z
+    webUrl: "https://hypebeast.com/2022/2/meta-universal-language-translator-plans-news"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Fmeta-universal-language-translator-plans-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "0CxPz4h4rYjzbb+jDAnZfu3KsUMEYMicWXng4ex22FwMxn1AQLe3EKR92GK+DpmCw7mhV4AeCMjC21KJ6+6EmXgF4J49FaxL1y5U8Lss7zXS5nuioAQ6btaU+7UR/df3Sw8pVpmDA102QqRg+rgi2sa4e6NOCNXMmBS0gxIwzXjsJUTSfhYZcjgrZroSTLSROID6k2RCp8THlh+Enu8zysmcajFfpNOUoKuNtD4xD+fDCWDBheulSeUbXjeZWL/VUHJIgwLqranHFNNyt5bka0Qmp3DK4DiBzy4TR0lFPK0RBDCUn6vZILpNy1PsEpxQCQGtajKJP7OhxNvWiw2qePTig9YD0iK/k9+5T0HbIDs=;Lf2t64oSAwZgfhtlFh/aYA=="

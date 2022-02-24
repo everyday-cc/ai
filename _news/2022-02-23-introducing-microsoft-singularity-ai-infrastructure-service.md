@@ -193,6 +193,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial Intelligence in Construction Market Will Hit Big Revenues In Future | Oracle, Microsoft, Alice Technologies"
+    excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence in Construction Market Insights, to 2027” with 232 pages"
+    publishedDateTime: 2022-02-24T08:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-construction-market-will-hit-big-revenues-in-future-oracle-microsoft-alice-technologies"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/e72cee448241867e871ce5514b7cd8b2781040ce-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "98LFkFnCNldPTPbdmV01ZE5KBy8yP7S9x3amwM5Od4IKdu2LmgcqDtx+iz7pZNk4fJ6vAb/ShEAA3zYpEYVjczRnSDc8bSo0GvAwsGj1x297G4jqwnvHTYU/SErF8ywXvOh7/xdZ8ENmoH8nJ07eCT8KzMFAa+ZDJ7A4Q8poDMsUqVR9MwLxXBRFNyS5a7T9HU16T9g0r0TgB6Y0JVLu6SUQMWQYkLv4cmrRvs2YM4WZY7NilLaN4Nbyg43TPulpX2vBk6tNh/vMCa8aFEhMeZMNLr8DGkUw+o4/NOibGjcLkcISHGlFhu6lbVKP29eHB9Glr9KuxIuxS0LqBuI9fsv5efRVlkruNW94UtviVTD/z2TJB2/CJpOUlZfvQprjrJ7FziYUimeHtJUT735s0qKodNeD/z19nx16/hocg49QDkn51T1iu6rbRYCWqC4V5dO1l6kSBwUX+8MQz/fzm/kFUARNu6SZV2Lw65v0ClFvwZ6IOnYAen3hoASU0PFxq+oYuh3bYjhYWErUMW8HFQ==;hSWIeBIG0+m8qfGCXeYRlQ=="
 ---

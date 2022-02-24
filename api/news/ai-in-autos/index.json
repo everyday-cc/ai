@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-24-google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems.md",
-      "title": "Google-Berkeley robot navigation could chart a new-course for self-driving systems",
+      "path": "_news/2022-02-24-uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems.md",
+      "title": "UC Berkeley robot navigation could chart a new-course for self-driving systems",
       "excerpt": "An approach that uses hours of video and elements of reinforcement learning can guide a robot vehicle almost two miles without a full map of the surroundings.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "originalUrl": "https://www.zdnet.com/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "webUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "originalUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "publishedDateTime": "2022-02-23T18:19:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "publishedDateTime": "2022-02-23T21:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -49,9 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI",
-        "AI in Robotics"
+        "AI in Autos"
       ]
     },
     {

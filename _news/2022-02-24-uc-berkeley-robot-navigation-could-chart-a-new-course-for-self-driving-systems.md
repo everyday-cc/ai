@@ -8,9 +8,9 @@ webUrl: "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/94fe2957ac206bbd2cf1bb49da44fb770d24fc61/2022/02/23/1f831631-725b-4e2f-b0cf-82318abd4921/levine-clearpath-uvg-navigates-to-destination.png?width=1200&fit=bounds&format=pjpg&auto=webp"

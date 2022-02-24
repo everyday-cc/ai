@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-24-facebooks-hyped-new-ai-concept-looks-busted-as-hell.md",
+      "title": "Facebook's hyped new 'AI concept' looks busted as hell",
+      "excerpt": "The biggest stories of the day delivered to your inbox.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
+      "originalUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/00WJ1YKZuWlWoFBX77qQhh3/hero-image.fill.size_1200x675.v1645662499.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-meta-ai-builder-bot?amp",
+      "publishedDateTime": "2022-02-23T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-meta-announces-plans-to-build-an-ai-powered-universal-speech-translator.md",
       "title": "Meta announces plans to build an AI-powered ‘universal speech translator’",
       "excerpt": "Meta, the owner of Facebook, Instagram, and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” The project was announced as part of an event focusing on the broad range of ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -1465,40 +1508,6 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest.md",
-      "title": "Facebook parent Meta says its new AI supercomputer will be world's fastest",
-      "excerpt": "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest",
-      "originalUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp",
-      "publishedDateTime": "2022-01-24T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

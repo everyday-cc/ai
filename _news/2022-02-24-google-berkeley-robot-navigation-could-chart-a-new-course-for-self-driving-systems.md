@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-berkeley-robot-navig
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/"
 type: article
 quality: 85
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -42,7 +42,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://www.zdnet.com/a/img/resize/94fe2957ac206bbd2cf1bb49da44fb770d24fc61/2022/02/23/1f831631-725b-4e2f-b0cf-82318abd4921/levine-clearpath-uvg-navigates-to-destination.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200
