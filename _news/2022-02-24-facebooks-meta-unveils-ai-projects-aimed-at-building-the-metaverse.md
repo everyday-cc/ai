@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
-excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-publishedDateTime: 2022-02-24T05:13:00Z
-originalUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
-webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
+title: "Facebook's Meta Unveils AI Projects Aimed At Building The Metaverse"
+excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out key steps to ..."
+publishedDateTime: 2022-02-23T18:23:00Z
+originalUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-3410906"
+webUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-3410906"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
     width: 1200
-    height: 676
+    height: 775
     isCached: true
 
 related:
@@ -165,8 +165,8 @@ related:
         isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-    publishedDateTime: 2022-02-24T03:46:00Z
-    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
+    publishedDateTime: 2022-02-24T04:00:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
     ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     type: article
@@ -194,6 +194,6 @@ related:
         height: 480
         isCached: true
 
-secured: "2isPGFaI1evqXtomldRvO21SX8A2J9YYNoegSHMgcV1ainsC3DsTlixQwQroWkmoktFlKOxatdtMOZqZoxAFihgT9Naz5Wv0jhiyRHvZPoz41UhDO778qVR+xoH1UbkUAItopW6huOGxsZ4GVBiLIvczwQHYMiVv8JHhiC4bKa4fSvdMuYJWk3aBeg1MycS0MQ1vIWZCHGl2G+YwkJM3hRTxLGzQyq7ybW9Cxi+ODEP/R9bKPYpW4SGb3ZZ/l/wL33Xu3LkP+g9tgFL4QCLpc4o0y1306WinDCaAQNYGXuGYM0mQhzNAGlkRi7KLoY68vI9juawOsoOpyY/Fiv99DM/CHhxdwGHIoVvD2lK4TU2EL2fHb8e0/GZZ1l3MGo799z8vhFYuL4JIjI6jUF/x7Doa9kM0IN+7EY37IMnLsAKqKmTV0EHlpVW7YJhBa2TlN16TAUHHEGNq8mhpfIok1lyf1fJ/zXlzKdfUWzIq9V1lEQpXV+ocUTMFTrCMHoohpqcu5uX2o5aKE3XTmsUMsA==;IgO4ZyX788ayrXkDNr7ViA=="
+secured: "Up1uJOsgcuiiq+QG3b+DUIzeJkAWcIBJvluTxWUHYSEkxBntpLwkXlnncWeSC4vrC6+V+LilVjPoMR7RTi7Pf3DPC5wrtwQ2KAAux2c4WexNJ1O7wy0ea3slZXKyvUVnf1M4gryO8Ql/C0mQPOc9Mxxd48VBsmBmLObnyKz6lgyam+KhnhnyIY02IluOCkL3AM3MKs55IC/4V0syaYEV1bZRp4glhiAIxirdr7XDkjLpxffcOujkgDGYq4Mde7z+b4Fw78JseDzFgEzccPgn+QWeWepA70f7A5hVH7WnXFnzSTfxEmROZrK/oH1P/XLlw4wVxwLGVO/tEOGV9uXrLxP/lksgBsz1s4d8QFCGfBA=;aX5kTp4fDwwcsINCyNbm4w=="
 ---
 

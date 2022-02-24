@@ -149,24 +149,24 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-24T05:13:00Z
-    webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
+  - title: "Facebook's Meta Unveils AI Projects Aimed At Building The Metaverse"
+    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out key steps to ..."
+    publishedDateTime: 2022-02-23T18:23:00Z
+    webUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-3410906"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 39
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
         width: 1200
-        height: 676
+        height: 775
         isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-    publishedDateTime: 2022-02-24T03:46:00Z
-    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
+    publishedDateTime: 2022-02-24T04:00:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
     ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     type: article
@@ -194,6 +194,6 @@ related:
         height: 480
         isCached: true
 
-secured: "VoJIU3wFE8CoTsDNYMfmRTCe/w8j0pOBtjqXur2tcuaBubGWug5RL4Jeb74sZUXboBOYJFcVgLZzTwOInVNyJ/leVXZuWCp+aWw27QD/B8nUCcPRkIRCfu86lGm58vmgIABtmxogyr3NJ8i2no4tjEE/OBdUTGLmooL3jLlVngPLaToW6EUmNER1f3eoZjm84LlBmOnqug8jlkXdIzfS+1wgl3VTFRAC63jxNlgpdctfargeQZWzzupHgI0Imbb5FrXKLTEDICGBrQCS4JM3KytsLGvbUyAvtFLmL6p0E5YNCwe507p7uAoIA5zyIahngeCYHkGIHq672PjHfuL1s8UTO+XVAZZFjkjOLMP3XQg=;izlrPe7sJ7Xiq6805PONqQ=="
+secured: "V1QD7R0FTJDHcAQv4SAx+fJJ9AFv92HXB+PCjucgL6eUHknWfirdk36Bo9euq55xJkF4ZDijhfB0qOYI3uCxvDRoK9CmjGZnGK5VeoZwLsObawAGQHG8viFplDuyOaOwcBV2Ut1hgS56FdayRvB9SlnQZLBCWLCUslmyB/3vszmbjwiZtmKwNOJfyJwAjB/8YcNdCKMzHU2ZL3jih1JAQUqaUUgwu/GKKxc/CXG2bTwa8tq8lykfXiynZ2PobV5UL5DWgj5SlHqnP0RHutZXvmmo7pbMs2YzO3O4XOUK9KN+JjSad2KFbFfPk9Ab64N4TsZ0imM7CRP77rXRCaCg4er8wCD1VeJLfMwx1ctR7gyEJsPglTvr2RVU9CdlEoIb5k3F++GX07j9Kfu7zsJ4nM00PQrd27IwHeN0c6qCoQjb8v1dTWihP6a5mMywfcVg8qpkJw2IiOc3PyDmwLGWuiAZBmNO+ssHQc8lWZ7pqaPxVlST1pBQJSCpM1NoJ2rNLa0/mG0MAA/zGpiDmVOJIg==;ysgExIjiB+gwp1dFdbqpng=="
 ---
 

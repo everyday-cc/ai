@@ -26,6 +26,22 @@ images:
     height: 948
     isCached: true
 
+related:
+  - title: "Artificial electronic retina recognises handwritten numbers"
+    excerpt: "Researchers in Saudi Arabia have developed an artificial electronic retina that can ‘see’ and recognise handwritten numbers"
+    publishedDateTime: 2022-02-24T09:10:00Z
+    webUrl: "https://www.theengineer.co.uk/artificial-electronic-retina-recognises-handwritten-numbers/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 24
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2022/02/KAUST_alamaiomimetic_eye2ain.jpg"
+        width: 940
+        height: 456
+        isCached: true
+
 secured: "nzsXmCKIECnK/8pEkEgtbKNbJIXiz6exYbsLLygexSyFzIxshPkCUcKQcgwv3oB+FYg7f+2xFzHevJHWbLi2VKKsFopkMFuslieHjHHeqFYvNzZo86ME2KVf8OlXP4JW8QdiemKl/z/Qb4Gkdz2/X5d1At+UCPgFcihHETtrSjGqdXuUPFN1FmSDwAKwQ7muz8c/TFrJZIxWa8EGZE8QC7EXaPanBRKentlkfdGiht/jRmmE6iMpvC2/Em2DGbYWZlwjipXz7QnbJFTYrib7Q1e0OXqzOiUU1EzG6ZvmCIcVdrpkkrg704dAvvw78UCjEXRW2Y37j2irMI5HUFb8uf7STsvrFlz/3b3Mn2qgM8DNNQolRhFojANPq8phvzfFoflMKJgcRnDenr9Y8Y38gUqNP9a7mIIDEtKDreqXzvL3vmGf9fizNkZOm1JgaPJUK6l0f8EFc/iEKXcQ4o3wGX1o4WzSaR7fX2E84pMw4ITDRS72ITDg+rhnDSdsgXaYnfuTCPma/5Rd6zotxWMgRQ==;hF9B+QKXGbLv5l+tLv2o6Q=="
 ---
 

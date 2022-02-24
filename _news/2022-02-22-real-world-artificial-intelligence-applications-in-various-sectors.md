@@ -28,6 +28,19 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Patriot One Technologies secures contract to create AI-powered full motion video detection application"
+    excerpt: "Patriot One Technologies has announced it was awarded a contract worth nearly US$ 1 million CAD with Canada’s Department of National Defence (DND), to further develop an artificial"
+    publishedDateTime: 2022-02-24T09:47:00Z
+    webUrl: "https://www.sourcesecurity.com/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 23
+
 secured: "ez54Ciu97AbGKcJu0KKn3h/YHTUZCMHp6006uCwgRL+SdI7V4A8l80cL9elqOIdmrPbESlrspJbQMDk34VUwdIRR4Rf5sMJ361B4uoNh7eEVqjdtvmHdTihwGhnvWDtw949lviG7ANtpzWaJkMFa4jYnW8+sKw/3FXsdznVPmfSltuzIR+7riDE/W5QdmQFGVW7Gyo3F5EwggZX1a6vsGC0LyZ0/F0angvlk0AHRD58sxKW2NWO/lZreSQOyC7VhUhYofNkcMUvozy9BzaIO/iuYNRREQgLbfdSIP/DQOSJzX/OHBk1chGtEikMBRY3rsxnbIaWkbMwAbHoj3YR1zymzOyL7g9rZio86N2AS9J4=;YXefsMUAIoIXhrQoSSlgDw=="
 ---
 

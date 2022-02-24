@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "5G in Healthcare Market 2022 Supply-Demand, Industry Research and End User Analysis, Outlook 2027"
+    excerpt: "Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. Market"
+    publishedDateTime: 2022-02-24T10:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-2022-supply-demand-industry-research-and-end-user-analysis-outlook-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/e72cee448241867e871ce5514b7cd8b2781040ce-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Digital Genome Market – Technological Advancement Opportunities [Global Industry Analysis]"
     excerpt: "The artificial intelligence in digital genome market has been projected to experience noticeable growth avenues in the following years. The growth in the global market has been possible with the growing rate of investments in artificial intelligence in ..."
     publishedDateTime: 2022-02-23T08:39:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/420077"
 webUrl: "https://www.entrepreneur.com/article/420077"
 type: article
 quality: 86
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/348.png"
         width: 800
         height: 449
+        isCached: true
+  - title: "Top Trends to Witness in the Fintech Sector in 2022"
+    excerpt: "AI increases employee productivity by 59% in the banking sector. It has reduced loan defaults and has made transactions safer, all for a better customer experience. By 2030, banks will be able to reduce costs by 22% saving nearly 1 trillion. Many fintech ..."
+    publishedDateTime: 2022-02-24T09:54:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/top-trends-to-witness-in-the-fintech-sector-in-2022/2443648/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 24
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/fintech-sector.jpg"
+        width: 1200
+        height: 667
         isCached: true
 
 secured: "7ehGgL90UYCKPyL1cs4mEqMblwBMlPq/DV501UNkSi7XdRApi9mkPkteZs3ghIhEXUZoNtFsEONFvG7RetOq+lKsfdskpFISljLZ6PXzIfMSIQkvLPh/tqijPysclw1xtEmS1+ct1kV83Dr/3lQNRq0ggfUW4JN9eQPrZ7GiVKAGuTZHAIHja50E2uRiFjAJAdfqGMkjCtp8HwS+PwCH6je5BxXWcqtf3ZaJFkVvIFAow0HRLKmpghwEY6Fhx7360fhVkRMA5k9CPKHq+srQhX7V5CVlMiEfU3+rpU4aagS5hg+YO+UlRcYo8iWDL14u1jr3dpIuOVhj9hfy/WfPOTwYnOnqLVG2B79Ua7lbXeDUZYqd5jTKRwVFX4o8YXKybs7hXMVn2IOHULtC6H5G/8qPMUvjxqTg6ZKO+BBumsu7EwdKomGni+oPlJbSpiSKBnq7OBl6kkf1mEp4xmKe3Ob7RX9iNUquEgLpefX3Y6jva4RCwt6STtg9NMSDLMpdLvvXcbEQSEmsUs1909yNzg==;DUuE0zV2MCb2hkqoN4CqBQ=="

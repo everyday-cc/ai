@@ -55,6 +55,20 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Top Trends to Witness in the Fintech Sector in 2022"
+    excerpt: "AI increases employee productivity by 59% in the banking sector. It has reduced loan defaults and has made transactions safer, all for a better customer experience. By 2030, banks will be able to reduce costs by 22% saving nearly 1 trillion. Many fintech ..."
+    publishedDateTime: 2022-02-24T09:54:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/top-trends-to-witness-in-the-fintech-sector-in-2022/2443648/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 24
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/fintech-sector.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "zD/7kwm3eQyBjzm8nWGlYuCcV4u4TBpIV56dSXRLIxMIVEOmD5LRfui+rQsDDgXO3UFu4wumRKKXgChRAKnw7JwvcgL3a0pogMkZSyYrdyntAyA3FeG4YgojAigor6NSHOmMFqDpByiA6oWna3G9ou7gw2mL3772IyKZP5BvLreBIwHolCvshj65JV4IOGyAuI0ZDpD6MglQ8ujld9Hy/J10iYiUV+LWTwdsxoStRUEf6FXxcxzJQ7Q+oCCoOfkEqXcATv92D7DdedqqdFkWMAXDE96i6hq/w58P9Y0P3ACV9v5t1J1PnnNA99CMkvrf7LDVrfsV3jYozIOnBNUiYrnJj/rzBolqrI4IKCJptxdjR1kRWx5a6RKEnEBpfT27PrGUTQ1lBM4ETO2GxxuPzxB1f4f13lE12eatFgxVIEURGwcFjPN3FSh/ywNa8ZYRLI/p6ytHdmrCQpjYSxepmYj4wwEdaYqmd+/B3dDGp/EpHJiysS0ujh2OAAitvDM0v5T94YuEAo3b+fPbVNJ7Sg==;6MXuNJO5ni+4UJPh3npvUA=="
 ---
