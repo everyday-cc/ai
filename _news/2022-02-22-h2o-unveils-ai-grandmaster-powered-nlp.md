@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 455
         isCached: true
+  - title: "Natural Language Processing: The Next Frontier in AI for the Enterprise"
+    excerpt: "The power and practicality of artificial intelligence is largely undisputed. However, one of its longest-standing difficulties continues to be human"
+    publishedDateTime: 2022-02-23T13:00:00Z
+    webUrl: "https://www.datanami.com/2022/02/23/natural-language-processing-the-next-frontier-in-ai-for-the-enterprise/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/shutterstock_nlp.jpg"
+        width: 1000
+        height: 533
+        isCached: true
 
 secured: "yvJqP3Hry8Sj1SshEBht9NLsNJULoxIkDinCFSgdGnMe0tlu7s9QumuIlq1rq7KI1EcNQFdCWFSL86u89kYgOeYQG0RTw0KgSVEVa7WLUhsG54T5zvDfRjGpuf9/DQOG9xgEWDiFNH1abIGaZ5gskc6zRBS5GkOGIl3H1XJAaf67nLSRx2PkPzYvRCOzxcpFmXNL3IGEOIrY0FcBxMz2EXGX4GRQ280/yNy3MpEjhuvfKP4JVlIRxvUjcBSrpatdq0cvE3CxqoJ6WUbA5A8N4HdEHI2XHB2yaNgyd+kq+q+hxJshLOpvPh+7yWrPA4+YpAZ+BvL29hsY112zRtSmD+9RW6F4bXvsVpVv1Uo9ywM=;UFwJfpumWZ5PxAfFrGgYcw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cha
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/chandigarh-based-startup-uses-ai-to-automate-the-milk-supply-chain-122022301382_1.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Chandigarh-based startup uses AI to automate the milk supply chain"
+    excerpt: "Marking a paradigm shift in delivering milk to end consumers in a contactless way, Chandigarh-based startup DairtyTech.ai has introduced an Artificial Intelligence (AI) enabled application that will help dairy distributors and retailers carry out their businesses seamlessly even in pandemic times."
+    publishedDateTime: 2022-02-24T02:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220223/3910793.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "itteMkm+U6/QcbF5cddpIkxoz5Cn4NQ0Ay5boWHMwls+VMMIz11KfjWO9qQJS6An8MXBiTOvZpRp5EhvvnT5FNbnKrFi/UXPMBiqg4OEJ6N6/cWIWoZPWlWtTZRlvfZDwwfIjV5ZUGJ8H8HUa01E99+SVCmv4ipE3wIyFitaRGrOowf1znrrd2gimgV8uyD5PprEMaE4Ye5xTRu3BVSikZB+jMs+z7XpoSakYCZ86s+4iHoqeSNg+WiAPS5bVZH7gygvmqz05aqOqJhYHaJzdjSl1E9cCQHGNFZQF8nGNgk+22srqK8w/SyiRfokeW34EYzhOp99RSPhqcaeu7oXXNTaCQsDNV8bBQ7PoiyMgIQ=;mSaP8Z40LpHuiFAhDecfkQ=="
 ---

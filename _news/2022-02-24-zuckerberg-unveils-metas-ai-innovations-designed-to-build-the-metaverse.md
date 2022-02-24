@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 711
         isCached: true
-  - title: "Meta's Zuckerberg Unveils AI Projects Aimed At Building Metaverse Future"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T18:10:00Z
-    webUrl: "https://www.ibtimes.com/metas-zuckerberg-unveils-ai-projects-aimed-building-metaverse-future-3411002"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 38
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
-        width: 1200
-        height: 775
-        isCached: true
 
 secured: "+Lctol+NaAWN6UNCalu43zCk6gaqavLNQ6Kd0IsIkqJpSD3S3qgsS8epuQU0ajJ7BHX23Fu5ZnGCMuEeccMVnIahHs9FpB4h1JyVtPJsORJAif/7AiaELUDlc2FJPWQ1xKA1vc2Ox94Vvkd37uTJvfMz/nv1vss2hB0EKkhXoyhvhWvixQlwiK2SYCEP3sNPQbItQ1n84i+3BQlkgKAE5DfjQ0Ni3UdGF8Q2qpeTpV3WTHbjwZTmb7DoUPEncDNhrx1a/+3g91nbxacmSFzHlVVRzl50fdrIaQ6nCG4D9mRGYNtu3EbWp1Fz7oQPUZJi3h/Il2uFwjeGkcXEmm4tcwvUsz/RyHe9GJmWd6q6pNRBlDsv9em9ZyQmjWZnbfmu4V4KWctzdXsHhadjtZN5g/d2OLEUwWhdb0/8/O/X+s9wYL7QO7RTPhThQNYa0IQIxm/B1rZn4qyQgTuqtYEo9PaqiQwWmj1SJ0Q3/8/FXKW9N4+1dfRZ9B9ZjzRj9W48oiL2fsdOYaq7bqQDkzm60g==;ODnnk4Q8m97UjxGCm87UnQ=="
 ---

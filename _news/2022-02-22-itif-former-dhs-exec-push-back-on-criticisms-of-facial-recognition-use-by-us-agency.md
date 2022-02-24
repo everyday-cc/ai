@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese School Faces Backlash Over Use of Facial Recognition Scanners"
-    excerpt: "A parent has accused the middle school of endangering students’ privacy by forcing them to make purchases using a facial recognition scanner, sparking renewed debate about China’s growing use of the technology."
-    publishedDateTime: 2022-02-21T03:37:00Z
-    webUrl: "https://www.sixthtone.com/news/1009712/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners"
+  - title: "Proposed bill aims to put some guardrails around the use of facial recognition technology"
+    excerpt: "Senate Bill 22-113 calls for the creation of the Task Force for the Consideration of Artificial Intelligence, which would take a closer look at the use of the technology by public agencies and offer recommendations for how it should be regulated."
+    publishedDateTime: 2022-02-23T23:38:00Z
+    webUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
     type: article
     provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 39
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 65
     images:
-      - url: "https://image5.sixthtone.com/image/5/50/459.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "Chinese school faces backlash over use of facial recognition scanners: Report"
-    excerpt: "Beijing [China], February 22 (ANI): Chinese schools that have been rolling out facial recognition systems since 2019 as part of a government \"smart campus\" campaign, are facing a backlash as some parents argued that the technology is endangering their ..."
-    publishedDateTime: 2022-02-22T18:56:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272325059/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners-report"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1645555427.jpg"
-        width: 630
-        height: 420
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e88/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/e8865faa51de4d56b42b661a81c13955/poster_2a0312f7745940f1a0f35318c9329aee.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "UvMBF0ayX2oE+NfsvP9jRe1a5o4fmCj/ayDo6zFUiynuNAxIWBnybUuPRULUTqDor9aTsX28Cl+0tHP4D98zKCXRlFDA4fnTbrzzxzdMgXszChyLqZJ2cDfqHuRDW+d7qxtq1erv8C9/KTIwH2fxI7IMxIyZfMpqLNG47JBy8v892EtYi+V+LVDHnqjBDx0nwF2zaP0TBHTmoeRW68RdJKI05oebBZibFzmbYdFJeZZDR/DYK630sO3RCApWNrZH9dCFPCIs+oU0vVJ4qqk/frjSoMcNpnO1cBCQzQmxB6gIjXQaRvHVsgVM271U6jJlVXIDrR+ANdiwKMux0qYu47np1Xu7YSyPOAc2zYqwV/Q/Svzfj2HcXGh6X729nm2dUyjrhTElCTZ900uj6hoTtW2Z+I6wg1z3kS7oaLNCelQXW7Kuqv0XxlX9EeyKifwc3HkTZTAKWfs9wUn12A1MmREmGy4ZQ8MLkwkttyTKSv3+nhtf0N4YwIXaTOaoy4xMXsKk4SZJaei1+9eZEMU+sw==;0g/86bwELJlEBl/PEyRqIA=="

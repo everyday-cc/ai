@@ -2,21 +2,27 @@
 category: news
 title: "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care"
 excerpt: "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,"
-publishedDateTime: 2022-02-23T14:19:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-american-oncology-network-aon-viecure-announce-strategic-collaboration-/2022/02/23/9550827.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-american-oncology-network-aon-viecure-announce-strategic-collaboration-/2022/02/23/9550827.htm"
+publishedDateTime: 2022-02-23T13:02:00Z
+originalUrl: "https://www.eagletribune.com/region/american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology/article_cacbaf16-e1c9-5299-bf3b-e1ea5d061213.html"
+webUrl: "https://www.eagletribune.com/region/american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology/article_cacbaf16-e1c9-5299-bf3b-e1ea5d061213.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/9/48/948d91f9-6c34-5d31-9865-9886df847d05/62164282b2dca.image.jpg?crop=1859%2C976%2C34%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration"
@@ -29,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "UXU9HERh3uQZD6TUFDX+29PIXHPn/5cdtaxhZxmcWP2X+eF2LGz9/zP/oB7az7BWoNKPgCj+1Ct6hmpfBl/hAds/6GpXeZUbov7IdjnTs9GtBYRr647TFK9H2QutVImJ/hWQ39uWpOEoiEsrmVRXtvZ3de7Vdu4daY1W666T61IaAPBxjkOhaBL7Kstwn19Z+z8adkBKoasfadZzaS6qE/0YFSJrLaJJp40HM3UkmbwFgMER+7w7+BpGleKArH2Vs1gRpW6gvy9G1N9M30enK8on2l3x60dzalKA7PjjH+OUpppc20nNnZvY0a80MVDhv0H0GIdwipJxMVTGP1/rDdRnbkJxVbLnhjACu3UdvCA=;8uBofRdfmnMRcZnI2oqQzw=="
+secured: "w0DHclylXOXI6A3V8Xky6Ty9/EjAiyAmwWjTxgfie4PAqzfr6Zl82jeqR2jeVxITUb1Hx2YK6P7imWZU2Yk/o3gsOy1VBW73VpX9T9KpPwkW+mdMV1Qq6/UUU01qmeD5amV3GwbeqjeJfuYR5QnKNBRaftaaqufv/dxTdK/jn5d/QvG21ck4PHa61fde++5lqiIqIIkT0B46SDzCN+ztG2dNdlu75rbbKLgxY5yvuD7xqwy9haRcyPCHfki4nVcUtYujnBzhbipESass+4njpbgg748pnWWMZIsqN2rj0XfOHT/8nJjHoDdWaNXmbZ0BX8WDjyjU0V6CExyjftfW4pgssSFKTcYI7KMm5GLn/Uc=;gy2GPAyI0/ji70rM7csLvA=="
 ---
 

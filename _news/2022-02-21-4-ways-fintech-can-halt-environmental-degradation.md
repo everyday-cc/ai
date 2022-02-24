@@ -55,20 +55,6 @@ related:
         width: 1800
         height: 1362
         isCached: true
-  - title: "How Fintech is revolutionizing the insurance sector"
-    excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
-    publishedDateTime: 2022-02-19T09:29:00Z
-    webUrl: "https://financialit.net/news/insurance/how-fintech-revolutionizing-insurance-sector"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
-        width: 1280
-        height: 905
-        isCached: true
 
 secured: "f2bxG8fVmwFtcHMn+PdWuX+DH0rSR1y1GN59H/owRRbqCdFmsDJVztQ5oYlLwdU0VwSACY3cgVBTMMTeOqZXU1FD/N635Fj2wB5DhBFEWSusgeWfzMZVyZocGUN+sSye3S2r/+U65LTiecFxrtKDazcS2stYpc7wNggz4unUblm74tJAEp0N4UfXamb2mCEtUZrRsGQOE3od2G2323JT9i1A1FE8mgE9hTTJuAGtdUwMg+iDtQX/izjzDwHO12EVcnSN7XokGC1t4a4gxojP3sKjwoAr4Yb9bn4tj3liEpqB9t5uMa+vAhdPA/9Sa8p0ADUAWN+vHKkXSo9PUVmsQYUbOIsWfiv7+gvGiYd+AU4=;wu9Is49G8jFXauq1ZwXs0Q=="
 ---

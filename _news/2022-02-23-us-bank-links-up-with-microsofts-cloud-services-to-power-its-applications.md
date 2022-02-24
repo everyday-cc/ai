@@ -107,9 +107,9 @@ related:
         height: 600
         isCached: true
   - title: "US Bank picks Microsoft Azure for cloud migration"
-    excerpt: "US Bank says it is making a \"substantial\" investment in modernising its technology foundation by choosing Microsoft Azure as its primary cloud provider for its applications."
-    publishedDateTime: 2022-02-24T00:34:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration/cloud"
+    excerpt: "AI and machine learning will \"transform applications and infrastructure ... \"As US Bank's primary cloud provider, we will apply the power of Azure to help the company adapt and build new, secure experiences for customers and employees in the era ahead.\""
+    publishedDateTime: 2022-02-24T00:02:00Z
+    webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration"
     type: article
     provider:
       name: Finextra

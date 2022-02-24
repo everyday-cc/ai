@@ -73,6 +73,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Yes, Mark Zuckerberg is still pushing metaverse. Next step, language translation"
+    excerpt: "When it revealed its audience growth was at a standstill and it had already sunk more than $10bn into metaverse technologies, its share price plummeted 27 per cent. More than $230bn of Meta's market cap evaporated."
+    publishedDateTime: 2022-02-24T01:17:00Z
+    webUrl: "https://www.theregister.com/2022/02/24/ai_metaverse_language/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/24/ai_metaverse_language/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/24/ai_metaverse_language/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 39
+    images:
+      - url: "https://regmedia.co.uk/2022/02/23/metaverse_shutterstock.jpg"
+        width: 1000
+        height: 665
+        isCached: true
+  - title: "Meta’s Zuckerberg unveils AI projects aimed at building metaverse future"
+    excerpt: "The key to unlocking a lot of these advances is AI,' Meta CEO Mark Zuckerberg says, speaking at the company's livestreamed 'Inside the Lab' event"
+    publishedDateTime: 2022-02-24T01:48:00Z
+    webUrl: "https://www.rappler.com/technology/meta-mark-zuckerberg-unveils-artificial-intelligence-projects-building-metaverse/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 38
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/01/meta-facebook-november-2-2021-reuters.jpg"
+        width: 999
+        height: 651
+        isCached: true
   - title: "Fintech in the Metaverse"
     excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
     publishedDateTime: 2022-02-23T11:55:00Z

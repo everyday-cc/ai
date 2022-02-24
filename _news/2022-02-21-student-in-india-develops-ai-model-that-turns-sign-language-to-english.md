@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Student in India develops AI model that turns sign language to English"
-    excerpt: "She invented the AI model using Tensorflow object detection API that ... Pryor and Navid Azodi invented a pair of gloves called 'SignAloud', which could translate sign language into speech or text. They won the Lemelson-MIT competition for their entry ..."
-    publishedDateTime: 2022-02-19T09:47:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/02/19/indian-engineering-student-ai-model-sign-language-english-768x432.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Katonic.ai strengthens its ranks in India by appointing Vice President, AI Solutions"
     excerpt: "Harpreet joins the Katonic executive team to help organisations to harness the power of AI to transform their operations, accelerate growth opportunit.."
     publishedDateTime: 2022-02-23T02:46:00Z

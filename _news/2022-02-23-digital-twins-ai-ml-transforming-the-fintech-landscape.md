@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/420077"
 webUrl: "https://www.entrepreneur.com/article/420077"
 type: article
 quality: 86
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/alex-knight-Insurtech.jpg"
         width: 1800
         height: 1362
-        isCached: true
-  - title: "How Fintech is revolutionizing the insurance sector"
-    excerpt: "Fintech is making an impact on all financial sectors throughout ... It is becoming more common for all business transactions to be carried out on online platforms that are assisted by AI units. This may sound a lot like science fiction, but like it or ..."
-    publishedDateTime: 2022-02-19T09:29:00Z
-    webUrl: "https://financialit.net/news/insurance/how-fintech-revolutionizing-insurance-sector"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/entrepreneur-1340649_1280_1_0.jpg"
-        width: 1280
-        height: 905
         isCached: true
   - title: "4 ways fintech can halt environmental degradation"
     excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"

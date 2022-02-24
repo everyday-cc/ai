@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US Bank picks Microsoft Azure for cloud migration"
-excerpt: "US Bank says it is making a \"substantial\" investment in modernising its technology foundation by choosing Microsoft Azure as its primary cloud provider for its applications."
-publishedDateTime: 2022-02-24T00:34:00Z
-originalUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration/cloud"
-webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration/cloud"
+excerpt: "AI and machine learning will \"transform applications and infrastructure ... \"As US Bank's primary cloud provider, we will apply the power of Azure to help the company adapt and build new, secure experiences for customers and employees in the era ahead.\""
+publishedDateTime: 2022-02-24T00:02:00Z
+originalUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration"
+webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration"
 type: article
 quality: 71
 heat: -1
@@ -191,6 +191,6 @@ related:
         height: 768
         isCached: true
 
-secured: "UcU/y0sbU8F+WyUKY5jihZNB/YO91oy6dEqwKoYaO7ngpJHobZBssjZW2hklcfZJyCoePjjlwOfl+S/us5JO7AtiQOTKaIrzPCI23/R8Ot1PTtbloRVT6PD/FWsNWllz6GVw3+drX/TTfJ4ij5l2lIe3SihSSeSJpqSJ3v8KD132094n3SsN4sIjBnMTTqnJuI6tIKwyyq0xvfGlSBNekMCD5C8OJVhLsh9GMtQ5PyAiAxJPparIbfJx+kRVfjmzEDgIPUfdhvhN9xJ3hysC9J7Qmn9TRIAabEu30hrqWMXdZr+KpQRsFyaRAHVSepPNmnRuIQPlRcvwZQxhc0d63PQAB28P4RnKPqSI1FW+lEE=;390n8se+4RgYx7dQBNgZfA=="
+secured: "fg8yzZmwLLHD9YQHSGkL5OkHfK2ai3SW0ctSxelbk92sUKmtIYXSXsK5/k6ocALxNHvDmGi1nQEDxK5Z1c0JS5l3ZeQMZUXBXGM+77z84CHB14PfjVd9wuixQW3i5vfXVSBccVUfGmO2PZpgcbmlAI8fdBQVZbFB0Y7yLbRjORJ6EnJUvwZhgodbaY5GpHoXkgWdCUDp2tkgOUqTFbnBVNhT83RFGDoyLCVWX+ss5MHmEQVJe3a/sEBJUGR8Q8bmO8R3eupWTiu8iEc5i05hbd52NgxemvbKV4xuyC8f2EmmMhDjjasHnXIxojxsNIR4KyHeSzlQLTWeH0IF7yiHPQFhTHxFFPsfs1jXO5HlwsE=;cwBrDjsSwHyc5v0lJd/HVA=="
 ---
 
