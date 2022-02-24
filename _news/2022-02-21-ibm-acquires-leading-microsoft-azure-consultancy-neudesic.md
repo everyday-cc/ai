@@ -110,6 +110,20 @@ related:
         width: 473
         height: 315
         isCached: true
+  - title: "Microsoft Announces New Security Capabilities for the Multicloud World"
+    excerpt: "Native capabilities of Microsoft Defender for Cloud now extended to the Google Cloud Platform (GCP), in addition to Microsoft Azure and Amazon Web Services (AWS) CloudKnox Permissions Management now in public preview to permission management of any identity across any cloud New capabilities on Microsoft Sentinel for security teams to analyze security data and threat hunt more efficiently and."
+    publishedDateTime: 2022-02-24T16:54:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=621336"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 56
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
     excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."
     publishedDateTime: 2022-02-23T21:50:00Z

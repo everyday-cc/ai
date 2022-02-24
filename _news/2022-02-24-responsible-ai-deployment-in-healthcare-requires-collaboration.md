@@ -8,7 +8,7 @@ webUrl: "https://healthitanalytics.com/features/responsible-ai-deployment-in-hea
 ampWebUrl: "https://healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://healthitanalytics.com/images/sized/2020-06-12_gears_collaboration_yellow-67199ff8dd2aaa686fbbb8d60359499a.png"
+    width: 600
+    height: 347
+    isCached: true
 
 related:
   - title: "A Look at What’s Next in AI, Virtual Collaboration, and Beyond"
@@ -39,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "1Bc61NLPXupAnaQeyjBNodoPAh6uVlGVLbl3ZGIwt7BWvZcQ7BDOiapbLtzGnB1O8dGmkIxGJnr5+1S4rBeMExP/esGW5tIOLWh4Zp8oRKoq1owGeuceoSZjd7rpW63sZIftQJBS7jlwCEA3g+K1RCCJubEc1cuzP/A3iagi2RsbLhM3vA3KsK9onLKKaJay2TCJDhCrr4Knn4j9m+htMgeQDevONGlFRdwmyJ2LGTk0ZSvdHx7VuIxeUbch9MSdbwxkuYZxZHpzLHXp610pFa0BchKLPuQokBHwr0HUBGIStDPjJpKyKZmhuPVe2/yM0GnAt8rurPCPbrDO9pqRlkVEwg+UOI2Vq5iNlryopDw=;77mi+uTBjBlpGI7htYUkUw=="
+secured: "UkkQfFBkL/4Dzj8oKqqx/szT34AGdgmXxZJT8xZScqxHSS/Hlhcw4G70HeYrqsMg0J0NHVsg9p6u/umEvKmqhh23bMwPp/kpV/vDu751MZftZUbotE0YD8n2KFWhb/cW9pLKpPOQS72kIg+bV/L+vuYvDdNeqvTrMem6VSC/hkh0khU2u0HQbOTfLd0FwQgCu3s94BgJeMqjZhlaSFdw7WKwZUdFitLgLT/GDZsrMhwLH2tyRSw20TkBzSIaKQPS8t6xf7npVpY4MxUA15Gad5EKkiqheVls7DPpAMKOTnsFSi8MXmOqRKq7J/MXPUBbvFm+I9y0H1fbw9579yMzZydqbLqvetjNaX2BVtj63SA=;6uRDaczsIU5HO5+dbGSLZw=="
 ---
 

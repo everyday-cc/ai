@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-
 cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "New ACM TechBrief Spotlights Privacy, Ethics Problems with Facial Recognition Technology"
+    excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+    publishedDateTime: 2022-02-24T16:58:00Z
+    webUrl: "https://menafn.com/1103758873/New-ACM-TechBrief-Spotlights-Privacy-Ethics-Problems-with-Facial-Recognition-Technology"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?970859"
+        width: 375
+        height: 250
+        isCached: true
   - title: "ITIF, former DHS exec push back on criticisms of facial recognition use by US agency"
     excerpt: "The IRS should have taken a more measured response to the controversy around its use of identity verification company ID.me, the ITIF suggests."
     publishedDateTime: 2022-02-21T20:20:00Z

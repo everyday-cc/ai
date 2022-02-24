@@ -99,6 +99,20 @@ related:
         width: 473
         height: 315
         isCached: true
+  - title: "Microsoft Announces New Security Capabilities for the Multicloud World"
+    excerpt: "Native capabilities of Microsoft Defender for Cloud now extended to the Google Cloud Platform (GCP), in addition to Microsoft Azure and Amazon Web Services (AWS) CloudKnox Permissions Management now in public preview to permission management of any identity across any cloud New capabilities on Microsoft Sentinel for security teams to analyze security data and threat hunt more efficiently and."
+    publishedDateTime: 2022-02-24T16:54:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=621336"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 56
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
     excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
     publishedDateTime: 2022-02-20T23:05:00Z

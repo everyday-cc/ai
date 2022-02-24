@@ -39,6 +39,22 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "Meta is working on a universal language translator"
+    excerpt: "As part of a recent live streamed event on Wednesday, Meta's CEO Mark Zuckerberg announced that the company is working on a new universal speech translation system, which will use an AI to translate 100s of spoken and written languages in real time."
+    publishedDateTime: 2022-02-24T16:47:00Z
+    webUrl: "https://www.gamereactor.eu/meta-is-working-on-a-universal-language-translator/"
+    ampWebUrl: "https://www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    cdnAmpWebUrl: "https://www-gamereactor-eu.cdn.ampproject.org/c/s/www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 44
+    images:
+      - url: "https://www.gamereactor.eu/media/99/facebookhasnow_3629973_650x.jpg"
+        width: 650
+        height: 366
+        isCached: true
 
 secured: "uACfm/2S7+i6dP2R97mUUBdu1dC7ZydBezfVUvIj72uK01KUyZIhTS31b3SvewKh6Yr2qoMwrW2sI6Dr776pp37qhGvnl4OeB5vGu+DkNC3LHXEzSWWLo8flSIg636pQLlwVH1tDqA/xf18HEwamocIOI4tUVbbH1r8OPc3np0Rj2387exbdSUCI0KhbgtjwwidaEPRKuMYeQvC1Ok+GRbZ+d0I2ZC0cyHPByY4Yzr+CjMQ0+dgN3B3gbFTIzru3clF94NC2csHE1o/NSkNeSXt48Qfqu7EoHXQxMFjhxtPrv2buUAQ1fwMEaNveIisDAqaJjp5f5bEIBh44QwHxyBLE+k740EzyPzAk7Ygpecc=;teAWIN3bfa8JX0Vm4/gQlA=="
 ---

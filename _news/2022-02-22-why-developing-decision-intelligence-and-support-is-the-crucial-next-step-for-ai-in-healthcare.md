@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-develo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/"
 type: article
 quality: 92
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Intel expands AI developer toolkit to bring more intelligence to the edge"
+    excerpt: "The significant update to the OpenVINO toolkit is one of a series of announcements Intel is making ahead of Mobile World Congress related to software-defined networking and edge computing."
+    publishedDateTime: 2022-02-24T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Looking into the use of artificial intelligence in healthcare"
     excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
     publishedDateTime: 2022-02-24T09:00:00Z
@@ -59,6 +70,15 @@ related:
         width: 310
         height: 310
         isCached: true
+  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
+    excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
+    publishedDateTime: 2022-02-24T16:36:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "AQNo7/s+KF5f4AsfV50OlsHTwsDKOjdoZqeH2zUVfZ4kF3xG/TRspnxcVUfgVUKdutfKmQ4Z6VqwtCscwk+tsohtLSIjg9prz30EG7yWB+CEy8iA0+hxhFDiOXvbfaGA93veYdCC9g9KmGTEeIK/tVWNznS84kEIYnupszezpWfch0nCoh1nnutrelGdFghsqYeW5uIySTIjjQR5CxMux9iYf7r7RoqOTedS2Yn71N7JEnTf0EPg2FSctGZlUQyiZX6pa415n3KMAs8CNhTpmhVe7BeEegB3+qg1+qv7DGm2cPMftkxncfFYv7Gryzy27gFs9x5MjMBJLGfDmJp+e1nKdNG5VuHKUN5gqRmFlkv6FjnXSU1Nr0utmtebsyF3zYWGZZtMGDMoVa3DbFbjtKHra05i+ZtdjCdP/nwX7OXZOFridFwAMG8WAnSg0a1yLELiy6QiQz+EVIg6WQqtKVgr5x2hm69a203RgqBnmrpbbrhVDZtFWB3u41WHd/gX6fo6oXNuWPx2drDi5jouyA==;J8yXn0hgqadXBGwmUqdC4w=="
 ---

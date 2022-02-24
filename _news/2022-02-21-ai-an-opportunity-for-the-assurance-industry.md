@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "A call to advance adoption of artificial intelligence across the global finance industry"
+    excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
+    publishedDateTime: 2022-02-24T15:59:00Z
+    webUrl: "https://www.arabianbusiness.com/spotlight/a-call-to-advance-adoption-of-artificial-intelligence-across-the-global-finance-industry"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 25
   - title: "Flexible assembly in space and industry: transfer project strengthens robot autonomy and teamwork with humans"
     excerpt: "Autonomous mobile robots that work safely and intuitively with humans are not only an important building block of Industry 4.0. In future space missions, they are expected to support infrastructure construction on foreign planets."
     publishedDateTime: 2022-02-24T11:13:00Z

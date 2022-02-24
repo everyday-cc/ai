@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatme
 webUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatment-market-to-grow-at-6-5-during-2021-2029"
 type: article
 quality: 51
-heat: 71
+heat: 73
 published: true
 
 provider:

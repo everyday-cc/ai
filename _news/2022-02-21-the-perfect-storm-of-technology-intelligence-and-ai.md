@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intel expands AI developer toolkit to bring more intelligence to the edge"
+    excerpt: "The significant update to the OpenVINO toolkit is one of a series of announcements Intel is making ahead of Mobile World Congress related to software-defined networking and edge computing."
+    publishedDateTime: 2022-02-24T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Looking into the use of artificial intelligence in healthcare"
     excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
     publishedDateTime: 2022-02-24T09:00:00Z
@@ -55,6 +66,15 @@ related:
         width: 555
         height: 330
         isCached: true
+  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
+    excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
+    publishedDateTime: 2022-02-24T16:36:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "S1+Gsco6//XPe0upDMzyACTBMnsRR7sl5H8R7UjziVV6BOrwgmolKun7MHs83ZaoCvZouojufBKWAUBLDFmWfs5K9iIhbzWRi2fD76tb1K6JzR0+pW6P1S0pXzJnH4it/fgVSl3ZoX8k/Glccbs56x1VTlG5tdPjzf6y6WGIru8ub7JgDVZ/vA1ZOZtnUoFGlO9cl+CS7NAm6XCmCxDKmM+JGFdSiyFXklkDi2B7rNxuPzYhiGHT532a2/u978cZ0S6ZjeGu7J7L7c3KtIE2TFWMH0Xc4MKuxQFWdoArBxdt82UTX5LCWvsEgbA+FLqks9Y7CcMeotZJzWdNwBRWnCUznT/fskfHTiMgnNoJJR8=;UdZg9CSRyG0QpJKpEvPlpw=="
 ---

@@ -40,7 +40,12 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 56
+    quality: 76
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-06-12_gears_collaboration_yellow-67199ff8dd2aaa686fbbb8d60359499a.png"
+        width: 600
+        height: 347
+        isCached: true
 
 secured: "zv00jeiMkfQ7KJNPvqhdQkizvwYbQHhMW4MEpmrDD5be0L9SGyy4uSO6XwUYScDnvBFcqm7FLc2mzdUJbtZwDw08zvxA6nbGPEgXx5/utXK1YGD80+2cinlm52CP25wyFVW+Vms945XHz3fJ7pRBOR1R3hy8DP0yH2kge8EX9pF7k00oGFFiFuhEPmjT2qh5y11Fa/5VGOtGDpDjjTw+J8HVQmlO68KydM2VzFIjMEMDNVsqBsgUHIzCTU6mho3ZV/CHMZsw04DPdn6CL48QvDLKET4goRL0hU9YZDTVmEN3r0Vbc54HxjaBtFDoDanMK6XZVUTTiFICyqGpl/HgSganEVYvYICNWaCv+ofrOAEzqRilUlCXs12tBNwlGBtAcFrYfpfLoMeee+9sfP+gqwvBFWBlFxIBoi415m/XF4HmTKtT4nbfP/ea/MIJjpj/gtqyAQ2mduoHbURgr8iDrCg26vu2Go0OGM4D/9GC0yXKf/QW//1CH/oteqgsxifWsg9j1RE3M0mYukY419GhmA==;xqduRevm9ix95VOvf0/CBQ=="
 ---

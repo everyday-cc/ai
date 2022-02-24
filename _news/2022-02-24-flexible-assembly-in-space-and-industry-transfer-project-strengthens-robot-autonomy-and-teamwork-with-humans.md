@@ -40,6 +40,15 @@ related:
         width: 1206
         height: 720
         isCached: true
+  - title: "A call to advance adoption of artificial intelligence across the global finance industry"
+    excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
+    publishedDateTime: 2022-02-24T15:59:00Z
+    webUrl: "https://www.arabianbusiness.com/spotlight/a-call-to-advance-adoption-of-artificial-intelligence-across-the-global-finance-industry"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 25
 
 secured: "4bYZUPyDcfdWnbzLOp5z0VWD/C42Ovq4RHyWx07YjF7Vi2u9HMlpH1svQ6ssTv2XlUFEf2lN0Tj7eA3viotMbIjhtTE7KNCoFiCNORQ4vck4cdr9wCL+4bMuOtfu3yvSKf0wZ0vRYnWjZVOekr9u/fZFEbByYwZV8jiXDdui6iz7yHVxauLLzDekjhwDi42E+jcOC1fkmIdxZKb8UrCmDfAoQ070Sk3GUPEn8mxQMjFmlni9a0hJ0RRaYR4sKcLfv2ubygfwPZlUijqdrURflHe+7J1DHvCLzjSUtNiRJP+sWe4whxCn0z0MyVqHc1X0hc6uINQy8DpSaJSDbhhf17tAXOsbe4gMR8UAKLcaWYQ=;5fS66zA6+hjJhDQuG272Ow=="
 ---

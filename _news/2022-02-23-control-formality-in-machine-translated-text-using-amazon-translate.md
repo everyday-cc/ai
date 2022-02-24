@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/control-formality-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/"
 type: article
 quality: 106
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2022/02/image-1.png"
         width: 675
         height: 340
+        isCached: true
+  - title: "Meta is working on a universal language translator"
+    excerpt: "As part of a recent live streamed event on Wednesday, Meta's CEO Mark Zuckerberg announced that the company is working on a new universal speech translation system, which will use an AI to translate 100s of spoken and written languages in real time."
+    publishedDateTime: 2022-02-24T16:47:00Z
+    webUrl: "https://www.gamereactor.eu/meta-is-working-on-a-universal-language-translator/"
+    ampWebUrl: "https://www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    cdnAmpWebUrl: "https://www-gamereactor-eu.cdn.ampproject.org/c/s/www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 44
+    images:
+      - url: "https://www.gamereactor.eu/media/99/facebookhasnow_3629973_650x.jpg"
+        width: 650
+        height: 366
         isCached: true
 
 secured: "lnATP1mBeO/iem8GSW9q1cswIzNUOSPvfhUS5//uOaGLb/LPl52D0jRnQvF9HfRZKUuXTkNpKPwx8V7hAhk4q8lYpTi+XYR8hQcWKRuhwfoUfQt1T4meqWCkogB9gGLspimQw1TevcB+1B7KzZemPUSMGhKAM9qwBM0+9/93fJHcu/rq8gHy/eMUBipI2e1Iq9kjP/B/nxeWedus19nFO5xoAvAcDrX2drzT2i0jlpmLpkeo/km6Pa0LSfU2nGz3/jNkSZiyYol3ELe7/8oEmUXY/3p2/5UhcjuFDV45v5yRBHuUKX3XjRnRvrZb0eRXr+zicHVKv2gDFth2j6sQeMWd3vIALarYfp1PaPYY9MM=;p9J/2Zf+tRf/BYah0Fn56A=="

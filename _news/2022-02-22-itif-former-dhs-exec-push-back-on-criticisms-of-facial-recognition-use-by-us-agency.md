@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New ACM TechBrief Spotlights Privacy, Ethics Problems with Facial Recognition Technology"
+    excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+    publishedDateTime: 2022-02-24T16:58:00Z
+    webUrl: "https://menafn.com/1103758873/New-ACM-TechBrief-Spotlights-Privacy-Ethics-Problems-with-Facial-Recognition-Technology"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?970859"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "UvMBF0ayX2oE+NfsvP9jRe1a5o4fmCj/ayDo6zFUiynuNAxIWBnybUuPRULUTqDor9aTsX28Cl+0tHP4D98zKCXRlFDA4fnTbrzzxzdMgXszChyLqZJ2cDfqHuRDW+d7qxtq1erv8C9/KTIwH2fxI7IMxIyZfMpqLNG47JBy8v892EtYi+V+LVDHnqjBDx0nwF2zaP0TBHTmoeRW68RdJKI05oebBZibFzmbYdFJeZZDR/DYK630sO3RCApWNrZH9dCFPCIs+oU0vVJ4qqk/frjSoMcNpnO1cBCQzQmxB6gIjXQaRvHVsgVM271U6jJlVXIDrR+ANdiwKMux0qYu47np1Xu7YSyPOAc2zYqwV/Q/Svzfj2HcXGh6X729nm2dUyjrhTElCTZ900uj6hoTtW2Z+I6wg1z3kS7oaLNCelQXW7Kuqv0XxlX9EeyKifwc3HkTZTAKWfs9wUn12A1MmREmGy4ZQ8MLkwkttyTKSv3+nhtf0N4YwIXaTOaoy4xMXsKk4SZJaei1+9eZEMU+sw==;0g/86bwELJlEBl/PEyRqIA=="
 ---

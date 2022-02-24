@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intel expands AI developer toolkit to bring more intelligence to the edge"
+    excerpt: "The significant update to the OpenVINO toolkit is one of a series of announcements Intel is making ahead of Mobile World Congress related to software-defined networking and edge computing."
+    publishedDateTime: 2022-02-24T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "The Perfect Storm of Technology, Intelligence and AI"
     excerpt: "The quick pace of technology requires a faster pace of adoption by government, writes former CIA Deputy Asst. Director Cynthia Strand."
     publishedDateTime: 2022-02-21T14:37:00Z
@@ -57,6 +68,15 @@ related:
         width: 310
         height: 310
         isCached: true
+  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
+    excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
+    publishedDateTime: 2022-02-24T16:36:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "5oV+56nGsK9+Jrh7H9rOTW7/RSDLmlCmXZkf+pyeenx6LFkT0knzYK+IcWkLVmb+IHRW2EDaC1Qok1yejXBkF2IUlyQ0S9kMwohXLdkcamN9GY6P4JHsCj990OSVxCGrjz/mxTfw0PIypolxKXZjlq6QWpokjlcYNXKXQxavpKCvG2Mq5gl7DPawtowU71zWxaon+4IWCVb55uLLHEMTSeYLzW9lvyF4rDbRT59HJhVT9bVR1bBC+gF0aX45PcdS/R39zoFwngSbU0bx2+bNUgBSEd9VSI/PZyO1jFv82Q5b+dnS2YWba1rwXgKqKw6tmmE+ySXos0LfTHM8dskl7OdjsmbSfzFNIH3ijOJAXDo=;cOLsJQILNN1hPmXMDwlhmA=="
 ---

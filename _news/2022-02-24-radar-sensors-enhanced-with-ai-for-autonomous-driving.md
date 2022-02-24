@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azosensors.com/amp/news.aspx?newsID=14934"
 cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/news.aspx?newsID=14934"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Shield AI to work on swarming drones, autonomous rotorcraft for Air Force"
-    excerpt: "According to Shield AI founder Brandon Tseng, the Air Force could be able to operate swarms of autonomous V-Bat drones as early as 2023."
-    publishedDateTime: 2022-02-21T14:59:00Z
-    webUrl: "https://breakingdefense.com/2022/02/shield-ai-to-work-on-swarming-drones-autonomous-rotorcraft-for-air-force/"
-    ampWebUrl: "https://breakingdefense.com/2022/02/shield-ai-to-work-on-swarming-drones-autonomous-rotorcraft-for-air-force/amp/"
-    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/02/shield-ai-to-work-on-swarming-drones-autonomous-rotorcraft-for-air-force/amp/"
+  - title: "AI Ethics Grapples With Societal AI Wish Fulfillment, Including The Dreamy Case Of Those Idolized AI-Based Self-Driving Cars"
+    excerpt: "AI ethics examines the impact of societal AI wish-fulfillment when it comes to underplaying AI risks and downsides, which arises in many AI arenas including the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-02-24T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
     type: article
     provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://sites.breakingmedia.com/uploads/sites/3/2022/02/V-BAT-11-MEU-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6213fd49c1dc8fd430c0952c/0x0.jpg?format=jpg&crop=3860,2172,x0,y102,safe&fit=crop"
+        width: 3860
+        height: 2172
+        isCached: true
+  - title: "Video Game-Playing AI Could Improve Self-Driving Cars"
+    excerpt: "Jamie Wynder /Flickr (CC BY-NC 2.0). An artificial intelligence system, designed by a team including University of Texas at Austin professor Peter Stone, made history recently by beating a human world champion in Sony's popular video racing game,"
+    publishedDateTime: 2022-02-23T23:44:00Z
+    webUrl: "https://cns.utexas.edu/news/video-game-playing-ai-could-improve-self-driving-cars"
+    type: article
+    provider:
+      name: The University of Texas at Austin
+      domain: utexas.edu
+    quality: 39
+    images:
+      - url: "https://cns.utexas.edu/images/easyblog_shared/2022/b2ap3_large_gran_turismo1400.jpg"
+        width: 1280
+        height: 768
         isCached: true
 
 secured: "AJWZET/8lEBzlAosnGDHeGrpXDSzH1Z65XxOFYTmxX0NjcmkSvVLGYqEBMPlCVHs1rfS6H3X8fEy0AOg7owM4Hb7N5HeuJk0dd1W00Lt/CmSUTyMsSP9qVgEimfsZ2qBomtOfFBRKCnT+e9thhzHkIcizL4jttkQ2C3STWXV/XPpJbVP9uVbcgx/NkqwWRaj+Sn6CkU5D3nVfI73otpahq3Ra1zooQXzfWLl5t2ayC18Lclql28qhvdT3EyoHn65Xc4326VLrWOXd20Kvc3bWKHv88OZwR5MLRJs8je7e4Wpd5jl/oMiI/zn7Ok8bPA+js3s7WjphmjlbGPZheJ+3DQ9ydNA5hIZLXfTurUfJjs=;IhrfuUo4p25B9Rw7ueiOQg=="

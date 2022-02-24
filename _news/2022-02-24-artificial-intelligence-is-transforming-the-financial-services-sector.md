@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-24T12:16:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - IBM AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"

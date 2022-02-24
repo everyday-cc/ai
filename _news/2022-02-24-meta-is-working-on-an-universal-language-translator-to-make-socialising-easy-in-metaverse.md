@@ -2,9 +2,9 @@
 category: news
 title: "Meta is working on an universal language translator to make socialising easy in metaverse"
 excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-publishedDateTime: 2022-02-24T04:00:00Z
-originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+publishedDateTime: 2022-02-24T03:46:00Z
+originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
+webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
 ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
 type: article
@@ -121,6 +121,20 @@ related:
         width: 4000
         height: 2515
         isCached: true
+  - title: "Meta announces plans for AI powered ‘universal speech translator’"
+    excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
+    publishedDateTime: 2022-02-24T14:26:00Z
+    webUrl: "https://techstory.in/meta-announces-plans-for-ai-powered-universal-speech-translator/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 41
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/feat.img55.jpeg"
+        width: 1199
+        height: 600
+        isCached: true
   - title: "Zuckerberg's Meta plans AI translation tools"
     excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants"
     publishedDateTime: 2022-02-23T18:50:00Z
@@ -134,6 +148,20 @@ related:
       - url: "https://newsstatic.rthk.hk/images/mfile_1635517_1_L_20220224023730.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Meta announces plans to build a universal voice translator using AI"
+    excerpt: "Meta, the owner of Facebook, Instagram and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” Meta CEO Mark Zuckerberg in an online presentation said that the ability to communicate with anyone in any language is a superpower that is dreamt of forever."
+    publishedDateTime: 2022-02-24T16:32:00Z
+    webUrl: "https://www.radio.gov.pk/24-02-2022/meta-announces-plans-to-build-a-universal-voice-translator-using-ai"
+    type: article
+    provider:
+      name: Radio Pakistan
+      domain: radio.gov.pk
+    quality: 41
+    images:
+      - url: "https://newsimage.radio.gov.pk/20220224/1645719685.jpg"
+        width: 850
+        height: 478
         isCached: true
   - title: "Facebook's Meta Unveils AI Projects Aimed At Building Metaverse Future"
     excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
@@ -162,20 +190,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
         width: 1200
         height: 775
-        isCached: true
-  - title: "Meta announces plans for AI powered ‘universal speech translator’"
-    excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
-    publishedDateTime: 2022-02-24T14:26:00Z
-    webUrl: "https://techstory.in/meta-announces-plans-for-ai-powered-universal-speech-translator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/feat.img55.jpeg"
-        width: 1199
-        height: 600
         isCached: true
   - title: "Meta is building a new AI-powered speech translator"
     excerpt: "Meta has announced that is building a new AI-powered speech translator, the software will apparently work for 'everyone in the world'. This is part of"
@@ -222,6 +236,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ljU6BcZ/h87HLbSlUapU1rTm/UfLezRjZn2ljT/c/IxHDH31YV9O2QDsS0X7uyA6q4swIUYQKrzQXVSmfZrmF2qyaSP640ziHz6JROwfCJLJoNCjL581+MVTlDBU5jpaOiTmF2IqWOH8PZT17DAA6hpjSO2tEbiPxCXlk2lGnwNku5eHFIdWPbsNKoc1gloVZRdAHh50/hD/VKRpq6DpoLRDTY/k4oc1bhWjEC1vBN64fEKoXuqX/mT+P9k2jc4lXc1V9R0gdK7iDBqGclkK8bbD/XDjYVPHa7AKvqaZMrbyTZqoGtqA7F2QbfRNQYv5N/qI/+c59APKqn98ZF7BAIOix+tO/3iCM82f8cBzK1YgMH7tyAqwobCVNaY10pH5K0Y62qqBxD8Wxz9Wo0sDvAYQ3iDswvM5kWPni5de2sEMYiAns/N8Nbw7mbgdTwcqCiF4JaeFynO5W3uxly1Hv4iPA7Te6XnN8fdOy8iFFB6bcVGGZxIejRcenm02tp76Y3+XSpgeQSqvHOsElhjcxA==;NUhs4sj/Cf3spFOmcvI5cg=="
+secured: "/ntR1qtEIy7liCziVRr1OOPvX64VCuwtUmi3/hLhL4xpse/1YrSvpQ3GPQ/Bj4lSyqm+t8ZB6ZXDOzrZD5pvJFyxAor4m5DAraZBu4uho+iY5mEKPQAAKv6uKuq2KiBSHiQ7eWbtIjYMQJL3LNhvAqVW4bKrL6EvjRzqhsCCymdlaZdaS5VATbcEOT+4OKLIQdBRvhJlzWGrEHofnMIovq45L/2HH1d4rIk5C5NHZi3aiICEPOhZj+QYLfQgEvcaEPkqZ3E4NT0NwKIwyNd1HlNnaadZE3a0sK9Ow6Z6x4zLuhofs+SyBShJiOmA/tSrTRmMa6HgPOWr1iTtKLyipTOCv4LvfONCsoD4qA7uzh8=;wrCg4PzOH+6CBq8SKC22Vw=="
 ---
 
