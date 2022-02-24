@@ -8,9 +8,6 @@ webUrl: "https://investorplace.com/2022/02/palantir-stock-is-not-a-buy-yet/"
 ampWebUrl: "https://investorplace.com/2022/02/palantir-stock-is-not-a-buy-yet/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/palantir-stock-is-not-a-buy-yet/amp/"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: InvestorPlace
@@ -26,6 +23,6 @@ images:
     height: 900
     isCached: true
 
-secured: "MgZvL1ahXtgsZDYac5Al2Re+sSVKBfpso0zWXhiHoAY8ZlHGtqEKKDZ9UrO0/XYqVvMpcik8S0gjOCPBFtXMweOwMyr3y9i23VVYsxb+fZRyVk3mkC9Km7c5yXJo4QOcdKK1Yqt+VIvAppACfYxT2Mw5pqWr9/rytpzC5R88iB7pRHNLORskPS8s7G3PRdfeEuMziFsRZKJHPgsP4+dozszbWBZabm+XtYWRRJWAeXfH1ZlNag0pWLkUsvH8Ap1ZVCilqbQIhoA3Rsp7o3bzJH21nvv7e9EsvitoW8F3XONM08XA5BnYxmZc6QUgMGGGJskObuWSdW1lLOjsgrSrahztCrer66OnuSM5uQo7dNc=;xvPTyHLq67qUTwXAH5/X6Q=="
+secured: "sVrv5cbSnJDvYW5Qz+S10zRXvp6MtXiOeIMXUfyILOpMajYnfwG8KJB9D5kS4PaqKVWZZUJSzKsPOxuWZdiMTYVFRgfYY0v6/5VNb0gD+SS2keH1QHWRuyAQc1H5N2sthiIxBl32x8sfOjAs6+elSrmpJwllgMwluut0jlktNrjg6XgaWtOmcAFiat203y7Ce0HBLlw1ChugI4DLhfY2B6J4/2tV30fMee8IbhKnGOl0B3vxHvaumTapIqsUiIVXOu/ceF05X6isH9ktFpAGpxVKxXIUDaVxiNDnQf3RcBkvDzEG0WpgcMdd6UPI8M31q+0cnAkvN8DZ4TAhn95UXP+y01GFfLpZoEYxTO9KIwk=;39Qn/P0HZiV1Z9MZlVsDgw=="
 ---
 

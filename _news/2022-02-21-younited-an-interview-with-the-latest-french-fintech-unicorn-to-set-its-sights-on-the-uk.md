@@ -39,6 +39,20 @@ related:
         width: 818
         height: 398
         isCached: true
+  - title: "Western Union to Present at the Wolfe FinTech Forum"
+    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe FinTech Forum on Thursday,"
+    publishedDateTime: 2022-02-24T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=621710"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "mHu9Y8wboGGRiG9rl8imrcwcfuvkIYmWUxxPa2gx+3g76kRFnTHGKdZ42jGGgZFGEDgmasSjn2i+S2wbvhhw8bb7eEiR8Ak4dB5WeHv2Kk+r5DEi29EYu93tkClco2DrwxZMwr+z+t/fRAm8XhV1XkdnPdqkPwPo6R5/PRZ8c6zQBiyJMVG64yUew2QloWTHju5tkmVvO3o3qKMpW/BQU14a81oNgjwu5G/kPLxjJCjBNN0qnsQNgFCv5lLS6DnirTW8fssRCjACbsCdCfHiUDzCXgCnh6vtuesakQcEH0i4Amcpm+KUr05H2xxLuWXTxVmcWZAW1/vDUAjlya4QVjbn6LDMsC6NXqEsmGaa8iLpNUldf6biL2mxmg/0WAa9wkiSGN3WYjgFCuAX7AnZUepFkS1H3bj8Bx11ZXv/yHF6oRxAPta48YDEBZp7xY8yI/YPX0/Vxs7ic86DIRpbEYaLyek8ZT4Tm+nziKel5zpW+QTc5jl95Tkl/RwGlqtHl4SkawHTItMpmIb/pOxrzg==;Oji13Fz9nNtFu3QwSmAC1g=="
 ---

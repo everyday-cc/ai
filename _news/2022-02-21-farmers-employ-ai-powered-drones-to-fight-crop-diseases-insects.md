@@ -51,6 +51,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 48
+  - title: "Novel Artificial Intelligence Tool Identifies Hard-to-Miss Heart Conditions"
+    excerpt: "Scientists from the Smidt Heart Institute at Cedars-Sinai have developed an artificial intelligence (AI) tool that can identify and distinguish between two life-threatening heart conditions that are often easy to miss—hypertrophic cardiomyopathy and cardiac amyloidosis."
+    publishedDateTime: 2022-02-24T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/novel-artificial-intelligence-tool-identifies-hard-to-miss-heart-conditions/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 37
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/09/Getty_1126117009_Heart_sml-e1645654463359.jpg"
+        width: 1400
+        height: 934
+        isCached: true
 
 secured: "ljK4poOjHnJDKtdEn28sPxBBs/7G0h6NAf2OXqwyCVywfR5CCJ7QyzlKGusnNVA8t71VIVH3kxAtpMR+H72RcYSlQDcPMuI57Y1q9hM8O+hOtPS+/3HeKS2FuArdP1QROz0Bag+byvDbAvjxTsnjDt0qVQjGmJnnVzk7Pk6hWaxpepOjcmFjdRNH+FiFF1Qao1LFtceZHh6X20hk977Xp0eLj0Bq/eGiOyQHHDHh32QwL6Lgok3Iz5/hN13vUPLwllPGzGZWKhljdZ045b8OUeZ2Nan1W1jHcMQKzmRsuT8pUvyPGsojQoHGm1JRsEsyzjJ7Qw0jlEug6Anv7UGJP6iLT/ZzWOIDd3+f0Z85KXM=;EceF5/ywXcxfMCLv3/0ZKA=="
 ---

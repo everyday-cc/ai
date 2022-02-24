@@ -81,6 +81,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "AWS and Maple Leaf announce cloud innovation deal"
+    excerpt: "AWS and MLSE have announced a new deal that will see AWS provide cloud services to key Canadian sports franchises"
+    publishedDateTime: 2022-02-24T14:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/AWS-and-Maple-Leaf-announce-cloud-innovation-deal-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
     excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
     publishedDateTime: 2022-02-20T23:05:00Z

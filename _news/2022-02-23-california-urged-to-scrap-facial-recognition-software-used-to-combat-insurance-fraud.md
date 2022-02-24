@@ -42,15 +42,15 @@ related:
         height: 720
         isCached: true
   - title: "California EDD looks at ending facial recognition technology in unemployment verification"
-    excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-    publishedDateTime: 2022-02-23T17:21:00Z
-    webUrl: "https://www.sanluisobispo.com/news/california/article258661808.html"
-    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article258661808.html"
-    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article258661808.html"
+    excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
+    publishedDateTime: 2022-02-23T20:20:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
     type: article
     provider:
-      name: SanLuisObispo
-      domain: sanluisobispo.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 30
   - title: "California used facial recognition software to combat insurance fraud. Is it time to scrap it?"
     excerpt: "Gavin Newsom as a crucial tool in combating unemployment insurance fraud, and the system was credited with being a huge help in doing just that. But now, California’s nonpartisan Legislative Analyst’s Office is urging lawmakers to take another look at ID."

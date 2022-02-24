@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 - Global Forecast till 2027"
-    excerpt: "AM 'The global artificial intelligence systems spending market is estimated to be valued at US$ 11.7 Bn in the year 2017 and"
-    publishedDateTime: 2022-02-23T02:49:00Z
-    webUrl: "https://menafn.com/1103747459/Artificial-Intelligence-Systems-Spending-Market-Research-Report-2022-Global-Forecast-till-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?972797"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Global $3,945.43 Million Packaging Robots Market to 2028: Intelligent Modernization and Adoption of Vision Sensor Technology - ResearchAndMarkets.com"
     excerpt: "The “Packaging Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis” report has been added to ResearchAndMarkets.com’s offering. The global packaging robots market is expected to grow from US$ 3,"
     publishedDateTime: 2022-02-23T17:51:00Z

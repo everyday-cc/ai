@@ -69,6 +69,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Artificial Intelligence is Transforming the Financial Services Sector"
+    excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
+    publishedDateTime: 2022-02-24T12:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
+        width: 990
+        height: 400
+        isCached: true
   - title: "4 ways fintech can halt environmental degradation"
     excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"
     publishedDateTime: 2022-02-21T09:11:00Z
@@ -84,6 +98,6 @@ related:
         height: 449
         isCached: true
 
-secured: "kIf0wKVT+KZSeL2Wh6Nzmlpx/x4zBGJLTL66j1lnVhvTwGKFcDN7sMe0NbBIlF+P5jzDiIfMmaaFS6ZCXCpS+w2EHvsnLQU+/GphhcKNHcz95/K/fx71G4dVCBZtQCAtWL01ILlW0mITnX0Pspkv+sTfprPk/mQ0wveyzudDohpOjNH4vzjFSNkIJM0w0GrAdgB0qxxUSwTzYsXKHhVseGnBYnEUHaC/YSg/JNT6pz0yIzd+X43V3udhSEXQkoSIzA5Fy5ySJRtUsZKnTMMrbGtVgLoEqhwGgDrM4/sURXLP99oUh5j7kx+5lCjCROGwa7Ic1cTJJ/eQ08zoK+HRGy02Yc55AZ8iBtkGPT5+XT4=;33tXTHIviQjgssqZkIKaJA=="
+secured: "cp9ilHPQFS2/QKmqyPQOH4OeiAWjRjArgTz6KqNErYyZKvd/ggaugZyboNd4gexRYmwYqJvYo1DtHlN1GIIrQQimfSUjeIuVfJgfvsTrJas4UVQv6eSygkn/pKExng8QK3OU2jV8yN8RXHlGU6ibppCtZLnogxi+HZcHbbhfinAExiT/0lK3W+mLuEfpfNYjVt0PoQMSyGGyDUQe8i7G6g7QJxA8iL6Fo7PoP4sr+3rTkqMusZWAU0hvGky6HpSQ7aLE6fnCxM/mYdKjPw4Yv+qDZQY9YsVc2Gj6ovLWKNMaumV0APNy/KysD/7jy+IwKBTRgyPSVBefaWubv86Hmui70Enq5s43GrWIFKdkIK1YCvql8G1oxS1VdmjLq3b3uL8m5u5id4E4X/VoaBVPz13le2/IHXa7jmRW7nDB4mDqzvEtCyeLVAGxvyv5Xfq5/IpNghasJXg7+oBpaaOllVLNQACdg/hKE0DOrPZQGqe/3h/2Fz38zkkwZrzVHOxTgII4B/OTY/zYnB2hfvCOSg==;MjilyiunR4W1me9Q2rqPmg=="
 ---
 

@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Research Report (2021 to 2027) – by Function, Product, End-user and Region"
-    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. The major driving factors of Artificial Intelligence Chipsets Market ..."
-    publishedDateTime: 2022-02-21T02:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2021-to-2027-by-function-product-end-user-and-region-2022-02-20"
+  - title: "Global AI Robot in Heart Treatment Market to Grow at 6.5% during 2021 – 2029"
+    excerpt: "Medical practitioners are now diagnosing, treating, and intervening with greater efficiency than ever before with the help of AI robots. Artificial intelligence (AI) is becoming increasingly important in surgical decision-making to help surgeons and ..."
+    publishedDateTime: 2022-02-24T13:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatment-market-to-grow-at-6-5-during-2021-2029"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 51
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/93847317295f74a28d47ea3752bfcb5d0643ae3a-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Global $3,945.43 Million Packaging Robots Market to 2028: Intelligent Modernization and Adoption of Vision Sensor Technology - ResearchAndMarkets.com"
-    excerpt: "The “Packaging Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis” report has been added to ResearchAndMarkets.com’s offering. The global packaging robots market is expected to grow from US$ 3,"
-    publishedDateTime: 2022-02-23T17:51:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-middle-east-1c0b28373fc842b1b1462c72cced3c1a"
+  - title: "Microsurgery Robot Market Growth to Remain Stable during the Projection Period 2018 – 2026"
+    excerpt: "Moreover, they are also collaborating with regional distributors to strengthen their position in the global microsurgery robot market. There are numerous new entrants in the market focusing on enhancing the microsurgery robots using artificial intelligence."
+    publishedDateTime: 2022-02-22T12:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/microsurgery-robot-market-growth-to-remain-stable-during-the-projection-period-2018-2026"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "1bb6C1HDnJeGKTbUmRCrzf1V6ivooDRpY9yHYW8tnYNjAyLB4dDGK4bDpm+RlICnuIXYhJYGa2VxQiiKjPghZvcNkPY2YRAB7QzoUpkbhqsErExlNaJ7fsBTG/M6TPnNcxtADt3k8yCTCuQCXomu7G8BYPaHjNFnMRkfGJ0uHb85srIT9StAUyahnzEllRuPX2HAQNwuOB1SDrHWIDIjIdVSm79185ahv9Nh78gkcJPJBNTnkNTio+DpMTJNNqP++YSxi/M6AwfWZiq8RR4KNwevCZomySeU+6iQlr26MP/tq8rkrpZvxGJsXsYnL+5DHo5LaHpfdxGhA+jSp/D74Z0Bah3Z9g6mI/FGLNjhZbk=;0L6erWcAsrUMimMqsHRvmA=="

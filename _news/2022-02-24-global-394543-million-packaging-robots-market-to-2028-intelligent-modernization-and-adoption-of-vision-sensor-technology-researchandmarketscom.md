@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 - Global Forecast till 2027"
-    excerpt: "AM 'The global artificial intelligence systems spending market is estimated to be valued at US$ 11.7 Bn in the year 2017 and"
-    publishedDateTime: 2022-02-23T02:49:00Z
-    webUrl: "https://menafn.com/1103747459/Artificial-Intelligence-Systems-Spending-Market-Research-Report-2022-Global-Forecast-till-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?972797"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "JIAaJaNvHpaTDq0P3/mkRNFut6Rm2HEGHz1EhN2tC6TWcIlXNcWQtZSW1fQgt0eFK+41xOcBevDe1oC8jiTwFBpIP5fvxN0zAVeB3FZ0TqMQp/6eKGCBI5CrAjDFrr6/1PopNNyVeyeSbBkf98KYF4nKQCp2Lhkzx3XZO7llyQkCG2T+nul8vkKwqvnLhHUYdRtTYjxDKTHMC3BXxf76JQ5cldoN9CdD6kvjYqF50ntdKJIzm03WRWCx2rUo3WbGkyVggIs3/inAXx5256rNcum+kQE3/MayMN+WGrd8BzgLR1QGhPMtWXwbWhyNQJ1zvvwjc1z43MA+cua0x+M/1NipppmvStWej0GN8kKIkuo=;Grr7joe39kdQV2OjoUiYmQ=="
 ---

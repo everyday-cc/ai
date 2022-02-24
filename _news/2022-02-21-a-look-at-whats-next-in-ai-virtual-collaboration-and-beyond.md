@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Responsible AI Deployment in Healthcare Requires Collaboration"
+    excerpt: "Leaders from Mayo Clinic, Duke, and DLA Piper discuss the need for cross-disciplinary collaboration and industry standards to enable responsible AI deployment in healthcare."
+    publishedDateTime: 2022-02-24T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/responsible-ai-deployment-in-healthcare-requires-collaboration"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
 
 secured: "zv00jeiMkfQ7KJNPvqhdQkizvwYbQHhMW4MEpmrDD5be0L9SGyy4uSO6XwUYScDnvBFcqm7FLc2mzdUJbtZwDw08zvxA6nbGPEgXx5/utXK1YGD80+2cinlm52CP25wyFVW+Vms945XHz3fJ7pRBOR1R3hy8DP0yH2kge8EX9pF7k00oGFFiFuhEPmjT2qh5y11Fa/5VGOtGDpDjjTw+J8HVQmlO68KydM2VzFIjMEMDNVsqBsgUHIzCTU6mho3ZV/CHMZsw04DPdn6CL48QvDLKET4goRL0hU9YZDTVmEN3r0Vbc54HxjaBtFDoDanMK6XZVUTTiFICyqGpl/HgSganEVYvYICNWaCv+ofrOAEzqRilUlCXs12tBNwlGBtAcFrYfpfLoMeee+9sfP+gqwvBFWBlFxIBoi415m/XF4HmTKtT4nbfP/ea/MIJjpj/gtqyAQ2mduoHbURgr8iDrCg26vu2Go0OGM4D/9GC0yXKf/QW//1CH/oteqgsxifWsg9j1RE3M0mYukY419GhmA==;xqduRevm9ix95VOvf0/CBQ=="
 ---

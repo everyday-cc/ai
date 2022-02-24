@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/in/news/microsoft-defender-now-offers-pr
 webUrl: "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud"
 type: article
 quality: 99
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "AWS and Maple Leaf announce cloud innovation deal"
+    excerpt: "AWS and MLSE have announced a new deal that will see AWS provide cloud services to key Canadian sports franchises"
+    publishedDateTime: 2022-02-24T14:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/AWS-and-Maple-Leaf-announce-cloud-innovation-deal-01.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Microsoft updates security applications for multicloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."

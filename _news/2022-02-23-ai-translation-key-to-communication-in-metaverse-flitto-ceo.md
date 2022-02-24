@@ -35,7 +35,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 61
+    quality: 65
     images:
       - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
         width: 1200
@@ -72,6 +72,20 @@ related:
       - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTg1NTE3NDI4MzQyNTMxMTU0/market-capitalization-top-image.png"
         width: 620
         height: 400
+        isCached: true
+  - title: "Meta makes a big noise about AI and, of course, the metaverse"
+    excerpt: "US Internet giant Meta/Facebook has launched a barrage of information ... piling a huge amount of resources into what appear to be essentially research projects around all sorts of AI and metaverse type areas, and it wants you to know it."
+    publishedDateTime: 2022-02-24T13:25:00Z
+    webUrl: "https://telecoms.com/513626/meta-makes-a-big-noise-about-ai-and-of-course-the-metaverse/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 39
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/02/Meta-metaverse.jpg"
+        width: 1894
+        height: 832
         isCached: true
   - title: "Yes, Mark Zuckerberg is still pushing metaverse. Next step, language translation"
     excerpt: "When it revealed its audience growth was at a standstill and it had already sunk more than $10bn into metaverse technologies, its share price plummeted 27 per cent. More than $230bn of Meta's market cap evaporated."

@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-24-report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade.md",
+      "title": "Report: A majority of consumers believe AI will have a positive impact in the next decade",
+      "excerpt": "While consumers have become more comfortable with giving up data to reap the benefits of AI, communication and transparency are still key.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
+      "originalUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1208151395-e1645639894269.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
+      "publishedDateTime": "2022-02-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022.md",
+      "title": "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022",
+      "excerpt": "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6216521a02453bb63285909a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
+      "publishedDateTime": "2022-02-24T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-global-ai-robot-in-heart-treatment-market-to-grow-at-65-during-2021-2029.md",
+      "title": "Global AI Robot in Heart Treatment Market to Grow at 6.5% during 2021 – 2029",
+      "excerpt": "Medical practitioners are now diagnosing, treating, and intervening with greater efficiency than ever before with the help of AI robots. Artificial intelligence (AI) is becoming increasingly important in surgical decision-making to help surgeons and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatment-market-to-grow-at-6-5-during-2021-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatment-market-to-grow-at-6-5-during-2021-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/93847317295f74a28d47ea3752bfcb5d0643ae3a-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-healthcare-triangle-eyes-top-10-position-with-successful-launch-of-healthcare-data-analytics-and-ai-software-platforms.md",
       "title": "Healthcare Triangle Eyes Top 10 Position With Successful Launch Of Healthcare Data Analytics And AI Software Platforms",
       "excerpt": "a medical documentation automation software that allows healthcare providers to capture and process paperwork digitally and with the help of artificial intelligence (AI). As medical document management remains one of the key challenges healthcare faces and ...",
@@ -622,7 +767,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -707,7 +852,7 @@
       "originalUrl": "https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -812,7 +957,7 @@
       "originalUrl": "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -851,7 +996,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -958,7 +1105,7 @@
       "originalUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1052,162 +1199,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-syria-supports-russias-recognition-of-breakaway-ukraine-regions.md",
-      "title": "Syria Supports Russia’s Recognition of Breakaway Ukraine Regions",
-      "excerpt": "Syria supports Russia’s recognition of the independence of two breakaway regions ... will help increase this cooperation,” Foreign Minister Fayssal Mikdad said in a speech carried by Syrian state media. Russia is the Syrian regime's most powerful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD",
-      "originalUrl": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 369,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-490969/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-aporia-takes-aim-at-ml-observability-responsible-ai-and-more.md",
-      "title": "Aporia takes aim at ML observability, responsible AI and more",
-      "excerpt": "After launching its platform in 2021, and seeing good traction, Aporia today announced a $25 million Series A funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/amp/",
-      "publishedDateTime": "2022-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-cipia-brings-ai-and-computer-vision-monitoring-systems-to-eliminate-the-dangers-of-distracted-driving.md",
-      "title": "Cipia brings AI and computer vision monitoring systems to eliminate the dangers of distracted driving",
-      "excerpt": "The Driver Sense software-based driver monitoring system monitors the driver's state in real-time. It uses AI and computer vision, to monitor factors including gaze vector, blink rate, and eye openness for signs of drowsiness and distraction. It will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "originalUrl": "https://www.zdnet.com/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2c6201f42be83570fc0d45e5eb6e179c778baab4/2022/02/23/4f698728-050e-48e3-a92e-88edac184e64/cipia-driver-monitoring-system.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "publishedDateTime": "2022-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

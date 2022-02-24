@@ -2,26 +2,26 @@
 category: news
 title: "IRS offers alternative to facial recognition"
 excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-publishedDateTime: 2022-02-22T22:21:00Z
-originalUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
-webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+publishedDateTime: 2022-02-22T22:17:00Z
+originalUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Tax Adviser
-  domain: thetaxadviser.com
+  name: JournalofAccountancy
+  domain: journalofaccountancy.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
-    width: 255
-    height: 335
+  - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
+    width: 640
+    height: 388
     isCached: true
 
 related:
@@ -59,14 +59,14 @@ related:
         isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
     excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-    publishedDateTime: 2022-02-23T00:02:00Z
-    webUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    publishedDateTime: 2022-02-22T23:02:00Z
+    webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
     type: article
     provider:
-      name: FOX 17
-      domain: fox17online.com
+      name: NBC26
+      domain: nbc26.com
     quality: 76
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
@@ -353,6 +353,6 @@ related:
         height: 810
         isCached: true
 
-secured: "KZQ/AAn5INwKl/JygP5QMxfcUkYWy9JOUjtUYKXvOb7zVTHxqrDyilCJ4DlhFe9tQ1+mXisahDRBfcm3ei2B9nBSbQTkMyu6Tq/XDZxeS8JS6ZB23zbxlCR4rMkOzSc6i+/TAY+cmKuXMWDVmCIOEVcIginNVjzK7Z5q7VHE5tErW6lM+Yy9xNdeOj+jXBOgcce8MkkA05E2PuDvzokRwYK8R1jEZfWMsdEPr4k9UW7LS+VosbIznsXbZF+kqVafga9dBrs1oKvXDybfZJ7ofYjBFrgLkOgKxF+94PP9UCNnOTaqqwcPEFZAgnnF+fhwi/PwfE7rD+Di2S6cHU1YbieMn263YBQuFDaKXV2Uz1s=;ypTgG22mORUerB/eHLUVVg=="
+secured: "sB4hvmmo3QbfFveh0+Hg0YCeIrw7hwrIsbvTaZJRlj9RycPfm9WhBjBi/7eaWtbxgqzcHX/qYncPE93WEkOQlDwFn0fZBCnRu918piLVibPQRNk1lXL9Cq9A8pCr5uxc9jEwWaLiqz4D0NQ87B0pmIvO22S/nJw7n7ZQElbanNZVhFq0FcVTmORWXxsKb710VphfoGS19KNPaULhXndSA02ftwqoaClPS+qi+FnXS85Z7tgXbH02JgHHXa+ILwxlakJy6jzvjANi0z2kINTQWDNW297E6P3XRQydpjQzJ72BVbd+vDLD+qJ3Z+LUaVjUsSqITgdqcEPxHWW5y15m2JJO0yAkC3FH7cNoLl0/cmk=;9o8nErePSaMA55c+0b0+Pw=="
 ---
 

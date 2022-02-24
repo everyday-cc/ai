@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/5220/China’s-XPeng-Sets-Up-a-New-Auton
 webUrl: "https://www.futurecar.com/5220/China’s-XPeng-Sets-Up-a-New-Autonomous-Driving-Company-for-Robotaxis"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "A view of Waymo's self-driving present, from the rear seat of a robotaxi"
-    excerpt: "But this was no aircraft. It was a Chrysler Pacifica equipped with a self-driving system made by Waymo, the Google subsidiary that started commercializing this groundbreaking technology more than three years ago within a 50-square-mile swath of suburban ..."
-    publishedDateTime: 2022-02-21T09:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/view-waymos-self-driving-present-rear-seat-robotaxi"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 38
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/1200x630/public/WAYMO-MAIN_i_3.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4KWEMExLSj5dHK8bBprwFS7fvvpGmUHVcd72ThohcvEw5fq+skFPS1GeSYXr1ZiRX9QC64w3V0Hvg1AhLdI1g50rZQ0uWARpU7HG7+T2ZTyOnymiS3CLBncESbOvqFAQtQwru3sUPbUFcVzwK1N1Jw5tKgdmbDnr9qWmh6LK09djXR9ZvyyK6Vfw2G0dk3dbdACf5xhnYoFpcebBHZD3Tw8scqlgfLXX6ok3X2EMtGF856aUwmadspZXqV8dh+MHSo91Spc2eSNgn3tv2s0lUPFrUwZWbzuNuxtGyX1YskxWPKaqGibdFgzCDasoQya4f8XeqQyH5T81GwUGxnI9tgGsfRUSdCxDvs2L+yViOO/dkesLYfZ2AJaWfqLK4sY3HE7TyMmh940WdM/NHnkqjT3iVuoVcXzebnxdMw01Or55fK7+D3saDG6LE0baf9yB4jMF8GW4WAFog1C1yI8JKN0UMh3/s+UEFb/aGM4VWbCezakBsY3VwywEeFNsrHNkPVQ59dhDPbWqulHSJuwoLw==;5WOj04IUecMg8YCPu9wKZQ=="
 ---

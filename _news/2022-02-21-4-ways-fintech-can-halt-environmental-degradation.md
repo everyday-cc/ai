@@ -69,6 +69,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Artificial Intelligence is Transforming the Financial Services Sector"
+    excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
+    publishedDateTime: 2022-02-24T12:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
+        width: 990
+        height: 400
+        isCached: true
   - title: "Top Trends to Witness in the Fintech Sector in 2022"
     excerpt: "AI increases employee productivity by 59% in the banking sector. It has reduced loan defaults and has made transactions safer, all for a better customer experience. By 2030, banks will be able to reduce costs by 22% saving nearly 1 trillion. Many fintech ..."
     publishedDateTime: 2022-02-24T09:54:00Z

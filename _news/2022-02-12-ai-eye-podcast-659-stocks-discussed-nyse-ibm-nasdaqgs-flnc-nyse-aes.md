@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?412299"
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?970859"
     width: 375
     height: 250
     isCached: true
 
-secured: "ncrAVrk/aUokFetNRGwnuvtd5aQ4DMGITaKzIF4/6nlb1RKPUxe/rW4vy1ZRYB7nvvWIcNwca88lcyb5vX2OsCnYwXkFv1mzn4QYDKYbjJHDljcn/QVMlyAOTqrWoS3PYx7z8voz9ZdqP/wK6PDKRAEuX62ARSKZKsgyAGDxyEBniIZs2mp/N5hcC73SFUcw2/TjCcLnpYLqHWG7DWzrFImWiT9kehCkWg7nkJsEAqEB4cnEDfRQODY5bCopd2qC1Te1NJg5VF0IkTxJG0YLyrLJ5lFVQzJREylG6wL5gY0/6/XeYCyq4akWY7FDmxOS1MCtd1HhsTm2fYSBUNU0EPKYvo8xOKhayCwu0fc1U1s=;hAEXl4NH4vOha2XWBBfBxA=="
+secured: "gUs90huzVVTqMHGr704nfyzwqolgRGZQc2ci2yj++nSsQqcch02mm8NhFTQ7dy8dP1QFYHVoafgPNNObr73O6271P9xG5TBHbVLWMfEdwSmntTIF3uXBXAJnIyYrsMTsELqLO9AFgsmpqkgnXePVSSZ/kYv8mhw5ZIcSa+rcXU817bzJyjIxZVzsePjb7r5S+4L1xSwzATU7qWB8HWmrGPw8028q38CkeA38aFlOEWnK4FN5zCLH4ILIYZUtNE4Mv6oIH1bW+Yk3nr0sK7KGXH/TRV9xVlxpW6ZDwOkmHAFFlFGLBBVlbJE7Jl5M3dghvDSLiOGRnhmtY8W527PdAqn5w6njRllklLHPxxpppHg=;63BYB4iZElEonzgst8u0jg=="
 ---
 

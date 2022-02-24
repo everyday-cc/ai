@@ -163,6 +163,34 @@ related:
         width: 1200
         height: 775
         isCached: true
+  - title: "Meta announces plans for AI powered ‘universal speech translator’"
+    excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
+    publishedDateTime: 2022-02-24T14:26:00Z
+    webUrl: "https://techstory.in/meta-announces-plans-for-ai-powered-universal-speech-translator/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/feat.img55.jpeg"
+        width: 1199
+        height: 600
+        isCached: true
+  - title: "Meta is building a new AI-powered speech translator"
+    excerpt: "Meta has announced that is building a new AI-powered speech translator, the software will apparently work for 'everyone in the world'. This is part of"
+    publishedDateTime: 2022-02-24T14:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/meta-is-building-a-new-ai-powered-speech-translator-24-02-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/02/meta-AI-powered-speech-translator.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
     publishedDateTime: 2022-02-24T04:00:00Z

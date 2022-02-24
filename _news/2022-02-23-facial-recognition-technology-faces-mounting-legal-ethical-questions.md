@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-23T00:02:00Z
-originalUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-22T23:02:00Z
+originalUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-nbc26-com.cdn.ampproject.org/c/s/www.nbc26.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: FOX 17
-  domain: fox17online.com
+  name: NBC26
+  domain: nbc26.com
 
 topics:
   - Computer Vision
@@ -288,17 +288,17 @@ related:
     quality: 39
   - title: "IRS offers alternative to facial recognition"
     excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:21:00Z
-    webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+    publishedDateTime: 2022-02-22T22:17:00Z
+    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
     type: article
     provider:
-      name: The Tax Adviser
-      domain: thetaxadviser.com
+      name: JournalofAccountancy
+      domain: journalofaccountancy.com
     quality: 39
     images:
-      - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
-        width: 255
-        height: 335
+      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
+        width: 640
+        height: 388
         isCached: true
   - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
     excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
@@ -354,6 +354,6 @@ related:
         height: 810
         isCached: true
 
-secured: "KIQgpAs4MtE71jWIjJRZ/kcyexsX5nS/jEQACzyJ3Ub2FiM2jnlZe/bptT60GtvS92tcZBMR9mBxsqtsPgJp1lpFQ7ih5kI8A17sneBDx1JuhNGF3sjSVnCiE1nSEbKWk/pAePVqjq1n9cajH+EXsoGrHn61vIOiRHKDObNRWMn24lR3i7SouFcvNTWWbeF5C2dumKyW8n3vRQndDHnB1TFlTJz/27vmgXLXdb6C1ake7nuNrfNGibkUG5RFrUPCGj96mp6+U3MTJjdO4Zlw7xe4oKQr2HQsuPP+NqiH/JxgJ3pV3N+hNCd0dZmHm1rVYeLNCKQ424U2WU6AzEftdZ++prFPct3ll8P7XYR7pew=;ZrGFDCMEb/N6YVPCUOpqUA=="
+secured: "Kg5HbRUsAb9APjBisFAMB6DrN4M1EfK12hDARq5+JlKddgWPoNEjnYbYLNFs3/AwEti2NJWsnvUhMwZm8TZFSAYlxQSw7InS0mFudKIcvuojhwy99MKIS7G1tWm+nHvmnd+CDd35DsnDWpmuCcbV8iNaA5U75p8UJUbGJjeUh5jYpaFq3pBEW83bkQfD2RK+NgzBUadvjzTK4PxvmmKfJ4c8uEp2/DE4xe7PEdP2EHaiQPPD1b6ExH4RujzmOgmXGv76OCBD2jjeAxffI3j76q9GcjidYHV+c9SnkKoAhwOpYJ0ra1PTGkjYQ7yqtku2MmAis+Zy88bRY+tdBSJ1hhf4Ua9XiaoRezwZ6zwNZ/U=;XhrwhemY8r+IBjD6W2oFvw=="
 ---
 

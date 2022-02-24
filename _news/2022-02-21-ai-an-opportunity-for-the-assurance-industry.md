@@ -28,6 +28,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Flexible assembly in space and industry: transfer project strengthens robot autonomy and teamwork with humans"
+    excerpt: "Autonomous mobile robots that work safely and intuitively with humans are not only an important building block of Industry 4.0. In future space missions, they are expected to support infrastructure construction on foreign planets."
+    publishedDateTime: 2022-02-24T11:13:00Z
+    webUrl: "https://idw-online.de/en/news789064"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 22
+    images:
+      - url: "http://www.idw-online.de/en/institutionlogo27132"
+        width: 500
+        height: 206
+        isCached: true
+
 secured: "ygGbc92tUvzV7+M3NNjpe2BSBgONlWRGZQUSZlY4VLg7EBSjj/LdZ7foIphKUFkRjG6jJrsvbavSTrbdjMclvewbyAeYPuRvhV1xj+juJJzOvxq/9gxxQopNKNHvfymmPPVa4sCXO+ILxo2HJmTrGuomIcBoC/L1Gc4oU7JYr9Uc5jjltGd1c3ED0LsIeXj6UeiRt0/mTnT3a7QULewVMJE0oA9VDZxVI0InS3txFCxQ3tWhfVsa032Wt+zPpUtqzbNQo/vUacTX7WknWYVO1qGpUXh+B1FH46pc5EzGrZR7J9XxLp5RjY9DpGfND1wo5I4JhztfiLiuSO/dGLWm060NQdS/bmM/Xn9ftLJaizo=;EaWmc11S/uyS0pFTbEH6MQ=="
 ---
 

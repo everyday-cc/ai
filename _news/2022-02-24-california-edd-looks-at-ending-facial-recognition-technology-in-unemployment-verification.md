@@ -1,20 +1,20 @@
 ---
 category: news
 title: "California EDD looks at ending facial recognition technology in unemployment verification"
-excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-publishedDateTime: 2022-02-23T17:21:00Z
-originalUrl: "https://www.sanluisobispo.com/news/california/article258661808.html"
-webUrl: "https://www.sanluisobispo.com/news/california/article258661808.html"
-ampWebUrl: "https://amp.sanluisobispo.com/news/california/article258661808.html"
-cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article258661808.html"
+excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
+publishedDateTime: 2022-02-23T20:20:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: SanLuisObispo
-  domain: sanluisobispo.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Computer Vision
@@ -63,6 +63,6 @@ related:
       domain: sacbee.com
     quality: 27
 
-secured: "c+QcHOmIRNrjJcsUA96pG67R9WaZgRHTHyLQe71RzzmOFpa+5DVPJjw6DfRhvo6BOF8zD52etSx7RlheMQcCdLJMVmurPKwj/YaXoySv1/aaJrM7Q/NSRnLSMFCSNYP7kNs+layWJXUNeEhq6FVFKqUjWaqPYoPL6s5JM2ra24wu6c7E0uoqHRaY+bsHJ5eKRdN2nXvNGiTqKr3PlyadA9kxNf4BbiACnyVAii8fw4F7jXsv9hdNfbD+FuJZSMvTH2xJy9/OkhxbcyaktkoYdS0qfYq3pGcURa6/EI8c7RQpLlNFQFnOQu83ZnODJ7IcdNQLGAfQq0mYGQrUksNqJqd1vdm7yGA3HXRSadRRa9s=;vANb9/F/KTcr5c4HFWNu4A=="
+secured: "skecaA2Ry9XGFZpS0xguURtnLtNuWofW6L7fo/my2X7X9trPkSLN08rBgset7m/EFgb05a8CwCCWs4fZQUAGYQuAlEXJ+0fGh9zStgl1rAMjJPsNKGaJOdG5tgbUeYQzFlJTp6SJNAFqUBGajhqx3xpMTOr5bGm7158cnP8OEDGdJv4FilUFSl6rNEdfJpGlrwpoSpL6NWUY6SHj5KRZGIBHuAnZfXxh4p3gxG+E22g/TepO4H4fMZkHhSMd87DPHoEX46RLOLSgYK0r95M1wemW6XAelrlSSppcV8PeIzCmbGudP4K2md8rUMJ4yA6KSb010c8/217Q/ZORHM2zXe/TXMlT83dsKz8XfEDgkLbe1A4YrDqM9aeDS1fCw1qahkeyknj5Y0BmLZv5dLp73DS5Q0Hp+gC3OLLqPmTSEEcyx9bADrEiJJDyTRNzZp3Wzn2ZERzBPH16LdjMdvHSTOOX0XcvIzmebTwhvF4Mjwn4xSqd+0e21buMrXj0nt4hEsGb/4VVIQX7GdnZMHO8GA==;33FS418/DMkOQUaWTqLdvA=="
 ---
 

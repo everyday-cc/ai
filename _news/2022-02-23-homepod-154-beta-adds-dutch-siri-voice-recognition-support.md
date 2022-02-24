@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple Adds Voice Recognition To Dutch Siri With iOS 15.4 Beta Ahead Of Likely HomePod mini Launch"
+    excerpt: "Apple has added voice recognition to Dutch Siri with iOS 15.4 beta ahead of a likely HomePod mini launch. Here are all the details on this."
+    publishedDateTime: 2022-02-23T21:00:00Z
+    webUrl: "https://www.redmondpie.com/apple-adds-voice-recognition-to-dutch-siri-with-ios-15.4-beta-ahead-of-likely-homepod-mini-launch/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 11
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/10/homepod-mini-colors.jpg"
+        width: 1200
+        height: 640
+        isCached: true
 
 secured: "0nAw6mrg9LDy8bboP0LBlL6GWURm0wkxCwMkjTobStpTI0hgP9VhjCb7jwzD6VQSJlstJ+YjSA8PNVH/m0y318x131HzMx/7PraGGBDdxq1iZZZ6tBReg4QnTl8mFVtfsivod6xStKCGeg1hBNTcP1gCrLg21JezqWvMvt6CN5J5FoRCZa6uekJ/xVCqnas/jSBi+9vLdfkZGD2tsMm3hAfiRvblNAReWE6VvQLXmyvF3rb3yEMQnjBqMPOnZECzPuq75jOkQXd8L2Qi5sSfHGJU1hz3suqCWOUAaO0WGfAzpSaVoF/MtySnhkYIhi/HmDe3lSMyE4AkRvAEW2/7JoCal9XHQI33p0iP4onxIB450rVUTQVWb5V4/I67JFG71dw2fhGb8dwTYx8/bLa4EXUbK1yp/sJT/rt/PTY+gPZ/igkHhN3BTvWFVy4MeTG1YVo1c4/3kBTPm/dKhDP7xtZfx+T2icSf4NRG64AQZNPk1W/nzOraVYtRg4Th7pQdwF4E49mvwME+uynJIrD5Bg==;MHhUljy5lGYQfzVlVFwcTA=="
 ---
