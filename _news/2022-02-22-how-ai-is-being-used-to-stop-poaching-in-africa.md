@@ -39,20 +39,6 @@ related:
         width: 664
         height: 664
         isCached: true
-  - title: "African software developers using AI to fight inequality"
-    excerpt: "Digital rights groups warn about AI’s use in surveillance and the risk of discrimination ... an organisation that uses open-source, machine learning to translate African languages not typically found in online programmes such as Google Translate."
-    publishedDateTime: 2022-02-19T20:35:00Z
-    webUrl: "https://www.gulf-times.com/story/710186/African-software-developers-using-AI-to-fight-ineq"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/220221923357276737328.jpg"
-        width: 620
-        height: 355
-        isCached: true
 
 secured: "ND2ckDf2K4HjUZxlqq5orn4hNxY4LAdfXpr8+86q1C2yFh998nXJNpXApa48qLV9IjC+JlpdZM6ZeGkX4YVJOUqFPyZ0OlZ3zrJqM4K4NJm0iSeCRkv+cK7fZT3uEpUAzJQ1xKMIv1Sf9MOgeL7A5XS3zhFI861brAEbZBWNf8ySVrczPnii85Zbzt3ua5Py50Lt0swouA/qvcGI+k5d0FUSIDwkHL9oR4Eg+MciOFD9xpX7d+kwcrxl5MrsNWZ5p8ar3M68GPsJLWh++pegRMTHvIaOdY2MWjDCebaSpF+b+mmmyP5MrxbGdAhuTLOtjKtqokGgPwpyAFcXQkH6FXEYn9Lfp7bv9J1aXxoNgKQ=;vH0/wm8aWO5f94ttTKFRzQ=="
 ---

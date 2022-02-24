@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Column: \"Driverless\" vehicles bring unsolvable problems"
-excerpt: "Despite all the hype, driverless vehicles have some big problems that definitely will not be solved anytime soon. As someone that studies computer science and artificial intelligence, it is quite perplexing to me how legislators have made it possible for ..."
-publishedDateTime: 2022-02-20T04:02:00Z
-originalUrl: "https://www.texarkanagazette.com/news/2022/feb/19/column-driverless-vehicles-bring-unsolvable/"
-webUrl: "https://www.texarkanagazette.com/news/2022/feb/19/column-driverless-vehicles-bring-unsolvable/"
+title: "Driverless Car Market 2021 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2028"
+excerpt: "Ranging from artificial intelligence (AI), augmented reality ... is anticipated to contribute to the growth of the global Driverless Car market. Based on the increasing number of internet users ..."
+publishedDateTime: 2022-02-24T12:40:00Z
+originalUrl: "https://menafn.com/1103757543/Driverless-Car-Market-2021-Industry-Challenges-Top-Manufacturers-Key-Countries-with-Forecast-to-2028"
+webUrl: "https://menafn.com/1103757543/Driverless-Car-Market-2021-Industry-Challenges-Top-Manufacturers-Key-Countries-with-Forecast-to-2028"
 type: article
-quality: 39
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Texarkana Gazette
-  domain: texarkanagazette.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200678424_Pelosi-CMYK_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-    width: 340
-    height: 518
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?412299"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Driverless Car Market 2021 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2028"
-    excerpt: "Ranging from artificial intelligence (AI), augmented reality ... is anticipated to contribute to the growth of the global Driverless Car market. Based on the increasing number of internet users ..."
-    publishedDateTime: 2022-02-24T12:40:00Z
-    webUrl: "https://menafn.com/1103757543/Driverless-Car-Market-2021-Industry-Challenges-Top-Manufacturers-Key-Countries-with-Forecast-to-2028"
+  - title: "Column: \"Driverless\" vehicles bring unsolvable problems"
+    excerpt: "Despite all the hype, driverless vehicles have some big problems that definitely will not be solved anytime soon. As someone that studies computer science and artificial intelligence, it is quite perplexing to me how legislators have made it possible for ..."
+    publishedDateTime: 2022-02-20T04:02:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2022/feb/19/column-driverless-vehicles-bring-unsolvable/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?412299"
-        width: 375
-        height: 250
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200678424_Pelosi-CMYK_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 340
+        height: 518
         isCached: true
 
-secured: "jAc/GncufivKfDCDAJWRSuzt6qkSrb2PFQis0ObtR6VJclqJMg9fl8ydhpx4gYFY/n8WWRn8n2GhgWynMq2KvPxNwTQzHJV+kzaBTRIRXGOWIrJCJbyYWYbVz5AI5Mnpn42wr30JbZASov/8u+QPbvKGlx14YUiuWrEB3WtGXg9F2ktRJ1vW6HMsolcHIhGQkFN9pcbuvxxnnbNAnpYNNe+btzl1cNNcYE0KVL691hxek3ZixOqxCHprLaT9cfdntnkcFSCOPOKTVJ6CjZBjTCA1Emp4nz59kJQpY0eo1ZEaXy4No61T0y7/4PFwxNSNp1lPyjXpyytSsvZc1LVFbBCiMVcipvvFIKTNG8Hjkp2laouOfqeInvTbOjRsKJjU+7AJ11whd57qyKZbV4rmo1MRzQ82U0pL3YJlXPl/fes7GvpHrUKt/pz9w8HdfY58pA7fauoftBOTJGdnqUQkbNmDicwt2cE3qd0kgfHS58VlfkoH9hDoKCa8SxzrzRpe3jIBFDk3whOgWc5P6ZG49w==;wx0uMlGt4rm0B5cH6UADbA=="
+secured: "CoK5Qo6QdvwOIsLcf/O0OvJERsD5GufZ4T7o5G7vqAqBUg70j6szopxh4htg6dQplDfnqpYsPtbMfdjNY5IUT8oCn2UjLsVOv6S3OpL+76Uz3noX1O6aq7ADWa8fv9kufljFxEvyvy+jAQITyKGIMyLfirSYCuQORzwZ+YRqwRHoG83EWi+r4wbe5KQsMB+XHDfD34LdZu4C4Tl1jssFF1DrNvu/F5itLJ9wmW7PD7L9fCDP2Q2B9o2HrC7VttMJS4flRmD7gI6o2pwWhKwzOxDVYhzt2G7dRRv1NdGIzl8bJq5hbuvx5r/lS7BpVUT/f11ZhfUMhp0Jz2xuEDlVn3XnDu84w5Kuxv4saAwjSsg=;27uloNCV5OdCvgIgsoUK5g=="
 ---
 

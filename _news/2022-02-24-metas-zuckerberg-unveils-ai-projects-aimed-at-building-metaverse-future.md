@@ -1,32 +1,29 @@
 ---
 category: news
 title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
-excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-publishedDateTime: 2022-02-23T21:20:00Z
-originalUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
-webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
+excerpt: "Feb 23 (Reuters) - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out ..."
+publishedDateTime: 2022-02-24T12:39:00Z
+originalUrl: "https://www.iol.co.za/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
+webUrl: "https://www.iol.co.za/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
+ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
+cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
 type: article
-quality: 70
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: IOL News
+  domain: iol.co.za
 
 topics:
-  - AI
-  - Natural Language Processing
   - Facebook AI
+  - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
-    width: 1200
-    height: 628
+  - url: "https://image-prod.iol.co.za/resize/650x366/Image-Meta?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/32185dd1-ac1d-5a7b-a004-d431e08d4804&operation=CROP&offset=127x16&resize=1804x1015"
+    width: 650
+    height: 366
     isCached: true
 
 related:
@@ -61,6 +58,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "zq11zYfMEUYyt5hpIaUHEoIU3PX5X2odqyp/8Oi9uoH6/8Y7aNaLPRWkwnmkRyJnuBzZ5wo127yHns5M/32pcnQM/zZSylLGdsBsJNya47lp2I8PlGfOxg1ztBJOwBs74YV6RFhCG6uCTS/6/vxHM2v4n8dDXm/s/1QVPccEaGaOMR17dSTO+qc37Nhj5Ym8vvdgB8XNWv2sm+E/hKirAPYVqQfMCfE1uhAT79LdykQ16Ju1rqeQyfHXIa9ke9+7pVQ0r+n5qbiOwRL26mvaKaURzNbdl3hmKQy4TWHOb6rhc5pzqTIvCXB0fxHf6IAAG7S/LUQf6BTXKSwljYRK2AOMbnuhQ0CoGbUyz2C+8t9V9ywVxfthyNuJ1TUsxws8O4lzOja5MbJc45Fot0FYSjD5dkrMFAeWHSGdaxk9+0pcoUm6iWlMG1DuFIXPlNO6jbUFyTMU+Qf7xASiSolqO9QwLL/e4RELF1GnAe/B+AR29gyRtlbSokRCqS5oUJMsEauR421WudkNs2HTTfNkCA==;C4wVS/f9a/rC85yK8AuYaw=="
+secured: "Jlz/pCWMg0PyXhbEgmtmpdhJGMSd9fGmdnFyOjkMAw91U0Z1CkGUwvJ0AiBE5Sf4nXHBAZid58B03DYdwlDys3i95i00v3aEcBJHgzPi5ML39KmxVSoaClhVIKIVRCCXgDCzzVy8mFKkkMCTs/K8B2aS8sbqcaVLWyNYQWUzGDAr/3MhNK+4RM8/KbqB7kWq87kiorlL8HIUPERtSFPRcorcqvSw3/Wt2DdsQko2R96nzmuA8tbWCJoi/sHhdlIVpAnRBj1ezETJQAXoNUV78kLlaEIpny9fVLtPdE1rGIOCr75Y/x0zdJZrzCGQA8UE8udJ3IVdTR6HLfFhngu+14L2J7Iw/CUktUeYOkc32cg=;mxmHhXASLVsjtZg0T/YDtQ=="
 ---
 

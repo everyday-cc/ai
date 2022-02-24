@@ -3,8 +3,8 @@ category: news
 title: "Five ways AI is saving wildlife – from counting chimps to locating whales"
 excerpt: "A family of chimpanzees photographed in the Congo basin. An AI algorithm enables analysis of up to 3,000 camera trap images an hour. Photograph: ANPN-Panthera Artificial intelligence has been identified as one of the top three emerging technologies in ..."
 publishedDateTime: 2022-02-21T15:50:00Z
-originalUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe?share=email"
-webUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe?share=email"
+originalUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe?share=twitter"
+webUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe?share=twitter"
 ampWebUrl: "https://amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
 type: article
@@ -40,13 +40,13 @@ related:
     provider:
       name: Metro
       domain: metro.co.uk
-    quality: 45
+    quality: 47
     images:
       - url: "https://metro.co.uk/wp-content/uploads/2022/02/SEI_89793529.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600
         height: 400
         isCached: true
 
-secured: "Xet49TUnZPCWwDFANInrdkLv+BgNkROls8SgD5x4lGFRj65Oti9pd/WM4ufXxl8YNQy9pM2554DgLpchxyluutNIxD9lbXIsRkJBeT9rdjk8YfcmL67GYlzSSK4n/y9nHmf+31KpdcqyUn4N2i7nEH93OxFnNSmZHHEVub/8kUxV2uxzp+3CjnTsz8T7q0TpedK59eFUim3+5PEH4XQ2Qf8oaqunu8Wzy+8T9/gvoqyihf+vJhFrURGdK3s1QLj7xWnaPCpuF+WWAxRDea3+oycQWHQFNltwxTT9AtzkbK3qJ9g9N3SurYspdpsHgWomn5UCddqctVOHN2f8uGvi7heKr1FXSLdkYvQGYIyjpLidxHpniIKvi5eH3ISqouOZ6n1Qn0cTpW9arn2LHb2aYRAwBOeZd76cgYHl3YdOaU6oO5tcj7fQrG5S7RkL1Mt/yG4ObwFaD8fm+8fQ3Oj8uLz7+VwaBQEsgisgRwsp7rgt71bI/bpUj04KkgSSS2Mp9YTXWPlJWeHlqCc5qxG1Pw==;b7KW6Kxbcqmg3DuXRy9wDA=="
+secured: "M6I813LuyNEHtYCWYXIiJl+QZTqyCUNtuwuD22vxV2Crfhf1DtJxZ/LDYc4tqcvnis4l3ixROlaD8ps+HXYGDJaaGot1TKHXLKnB9z/0WjyYOEDzglneYT049lvW5eO3Cvk3UBWaq4OkWefn/eGXBb/Bcj9KMHttxdusSt0oQYf4HhWcqGf3GiscBrO8VXtwUd6w1cnDL0KvS9tFz9dkK8uyFE33IpunR87fgBQRSbG6EC/GZZ/yX/pXXqI0XLK/qoVOYYifByxYNHb3mRxcmBI9FBp7759RGt4E4PIYrrJBXDETEAGSbdF8BVD6NC78Vpj+f6nFbgWmpGaEBfzp1Xxe1Tja8t652PG6rJalpgM=;+fDkjGi7XZ4WLfzMWG/9oA=="
 ---
 

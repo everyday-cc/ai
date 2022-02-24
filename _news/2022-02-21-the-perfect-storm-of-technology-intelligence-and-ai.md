@@ -49,7 +49,7 @@ related:
     provider:
       name: Digital Health
       domain: digitalhealth.net
-    quality: 56
+    quality: 58
     images:
       - url: "https://cdn.digitalhealth.net/wp-content/uploads/2019/10/healthy-brain-mind-mental-health.jpg"
         width: 555

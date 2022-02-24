@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/420077"
 webUrl: "https://www.entrepreneur.com/article/420077"
 type: article
 quality: 86
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/alex-knight-Insurtech.jpg"
         width: 1800
         height: 1362
+        isCached: true
+  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
+    excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."
+    publishedDateTime: 2022-02-24T11:36:00Z
+    webUrl: "https://menafn.com/1103756980/AI-in-Fintech-Market-is-Expected-to-Reach-USD-4933-Billion-By-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/24/EP_1f207image_story.jpeg"
+        width: 300
+        height: 300
         isCached: true
   - title: "4 ways fintech can halt environmental degradation"
     excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"

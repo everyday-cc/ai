@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200678424_Pelosi-CMYK_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 340
         height: 518
+        isCached: true
+  - title: "Driverless Car Market 2021 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2028"
+    excerpt: "Ranging from artificial intelligence (AI), augmented reality ... is anticipated to contribute to the growth of the global Driverless Car market. Based on the increasing number of internet users ..."
+    publishedDateTime: 2022-02-24T12:40:00Z
+    webUrl: "https://menafn.com/1103757543/Driverless-Car-Market-2021-Industry-Challenges-Top-Manufacturers-Key-Countries-with-Forecast-to-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?412299"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "sd8D+7a4G94urONFBZkB4pYW8B78OCA0ZcxXDiiC3ZXktMMwGLBkYKids4T/qNDM7V5UVaRLoocCYFfyQARDumInUkw8edW9gIXinN7eNmLcud80ujz+sXHEBeKM/0iNN9y4Qnk2ol0i6MNR2xEFxvsxS/JQUU5U7T+EtwNmGOOCNrouMUvebBN1ECIk4rI6kBa6S0bPcr1KhekVqpHAsSyo7v86w3KXp8XGZcerFiMoXrqhEFtJRFDtoLVDM4Znsehhkv4vyzaRMIkeYHuCeRW3iMA9rzmVNm27CQ6qluWhIvt6Rt6WQf5OmWhL4i8q/dKq4aVe3d+QPwsw4cW1n5TdisghPRdgYMzfEtR9ctuP0Xde/t4v5a2zCHdZP6BzcyHLUFwmUE71Vu9djiYxgljleukROXVpAMSUf4a6i+lMdhSC9c8Znbm0JlpPE0akxZHzX6dKkQ/HMDFFJWe2GjspF7/qASneTruI1QCs0q9c36I40BuxgL2pPqSey+0Oq253joucdFl7KnJeQMdwBA==;aWWPSiZAPo2B5k5dI+3+ww=="

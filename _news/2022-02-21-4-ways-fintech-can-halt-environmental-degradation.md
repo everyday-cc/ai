@@ -55,6 +55,20 @@ related:
         width: 1800
         height: 1362
         isCached: true
+  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
+    excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."
+    publishedDateTime: 2022-02-24T11:36:00Z
+    webUrl: "https://menafn.com/1103756980/AI-in-Fintech-Market-is-Expected-to-Reach-USD-4933-Billion-By-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/24/EP_1f207image_story.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Top Trends to Witness in the Fintech Sector in 2022"
     excerpt: "AI increases employee productivity by 59% in the banking sector. It has reduced loan defaults and has made transactions safer, all for a better customer experience. By 2030, banks will be able to reduce costs by 22% saving nearly 1 trillion. Many fintech ..."
     publishedDateTime: 2022-02-24T09:54:00Z

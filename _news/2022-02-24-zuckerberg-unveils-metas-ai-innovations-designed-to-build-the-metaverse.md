@@ -42,18 +42,20 @@ related:
         height: 711
         isCached: true
   - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T21:20:00Z
-    webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
+    excerpt: "Feb 23 (Reuters) - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out ..."
+    publishedDateTime: 2022-02-24T12:39:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 70
+      name: IOL News
+      domain: iol.co.za
+    quality: 58
     images:
-      - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
-        width: 1200
-        height: 628
+      - url: "https://image-prod.iol.co.za/resize/650x366/Image-Meta?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/32185dd1-ac1d-5a7b-a004-d431e08d4804&operation=CROP&offset=127x16&resize=1804x1015"
+        width: 650
+        height: 366
         isCached: true
 
 secured: "+Lctol+NaAWN6UNCalu43zCk6gaqavLNQ6Kd0IsIkqJpSD3S3qgsS8epuQU0ajJ7BHX23Fu5ZnGCMuEeccMVnIahHs9FpB4h1JyVtPJsORJAif/7AiaELUDlc2FJPWQ1xKA1vc2Ox94Vvkd37uTJvfMz/nv1vss2hB0EKkhXoyhvhWvixQlwiK2SYCEP3sNPQbItQ1n84i+3BQlkgKAE5DfjQ0Ni3UdGF8Q2qpeTpV3WTHbjwZTmb7DoUPEncDNhrx1a/+3g91nbxacmSFzHlVVRzl50fdrIaQ6nCG4D9mRGYNtu3EbWp1Fz7oQPUZJi3h/Il2uFwjeGkcXEmm4tcwvUsz/RyHe9GJmWd6q6pNRBlDsv9em9ZyQmjWZnbfmu4V4KWctzdXsHhadjtZN5g/d2OLEUwWhdb0/8/O/X+s9wYL7QO7RTPhThQNYa0IQIxm/B1rZn4qyQgTuqtYEo9PaqiQwWmj1SJ0Q3/8/FXKW9N4+1dfRZ9B9ZjzRj9W48oiL2fsdOYaq7bqQDkzm60g==;ODnnk4Q8m97UjxGCm87UnQ=="
