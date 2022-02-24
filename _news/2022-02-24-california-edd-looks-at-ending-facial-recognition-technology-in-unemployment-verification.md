@@ -2,19 +2,19 @@
 category: news
 title: "California EDD looks at ending facial recognition technology in unemployment verification"
 excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-publishedDateTime: 2022-02-23T17:20:00Z
-originalUrl: "https://www.mercedsunstar.com/news/california/article258661808.html"
-webUrl: "https://www.mercedsunstar.com/news/california/article258661808.html"
-ampWebUrl: "https://amp.mercedsunstar.com/news/california/article258661808.html"
-cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/california/article258661808.html"
+publishedDateTime: 2022-02-23T17:21:00Z
+originalUrl: "https://www.sanluisobispo.com/news/california/article258661808.html"
+webUrl: "https://www.sanluisobispo.com/news/california/article258661808.html"
+ampWebUrl: "https://amp.sanluisobispo.com/news/california/article258661808.html"
+cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article258661808.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Merced Sun-Star
-  domain: mercedsunstar.com
+  name: SanLuisObispo
+  domain: sanluisobispo.com
 
 topics:
   - Computer Vision
@@ -63,6 +63,6 @@ related:
       domain: sacbee.com
     quality: 27
 
-secured: "cUm0yvVHeOMCiSCQMmbjVWjTAhoGpiZzTDxrvqqA74S/mcpWS1rKsC1d24vpn2Gqy/lg4sD4Z6tw4025x2+/Hj92gKGIJt5uhDIReC9pY65Sxyd+XkRjp0jj7LlWPmBJxgU+A3ArbQKr/lTIxMbd1DvaKfoZCITvNfa84Efkr+YwhVjCXahiEqud9TG2+YIYFBOl/F/oNzw6polde53Q1dvxaZc8YMW5YE1X1Ub50gkNbmxzQc5t2cTYRTohvC03OBFIqFgstqBEeYd7wg37SQikvllBN8h4/LBoXCpBuULtJPKXq4Ws/CprOHRGzwccZrOBP4miZgxE4d8J1gl8Is6Y4iHhlIYODJaerSzx38I=;cSbdf90Q7LU6zyH+YD6Ftg=="
+secured: "c+QcHOmIRNrjJcsUA96pG67R9WaZgRHTHyLQe71RzzmOFpa+5DVPJjw6DfRhvo6BOF8zD52etSx7RlheMQcCdLJMVmurPKwj/YaXoySv1/aaJrM7Q/NSRnLSMFCSNYP7kNs+layWJXUNeEhq6FVFKqUjWaqPYoPL6s5JM2ra24wu6c7E0uoqHRaY+bsHJ5eKRdN2nXvNGiTqKr3PlyadA9kxNf4BbiACnyVAii8fw4F7jXsv9hdNfbD+FuJZSMvTH2xJy9/OkhxbcyaktkoYdS0qfYq3pGcURa6/EI8c7RQpLlNFQFnOQu83ZnODJ7IcdNQLGAfQq0mYGQrUksNqJqd1vdm7yGA3HXRSadRRa9s=;vANb9/F/KTcr5c4HFWNu4A=="
 ---
 

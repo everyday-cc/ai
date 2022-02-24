@@ -7,8 +7,8 @@ originalUrl: "https://marketscale.com/industries/podcast-network/health-and-life
 webUrl: "https://marketscale.com/industries/podcast-network/health-and-life-sciences-at-the-edge/the-future-of-computer-vision-and-ai-in-clinical-and-hospital-settings/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: marketscale
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Council Post: Individual artificial intelligence is the future of AI"
+    excerpt: "In the future, scientists could build a highly unique AI that directly connects the neurons in the human brain to a computer."
+    publishedDateTime: 2022-02-24T05:34:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-individual-artificial-intelligence-is-the-future-of-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Ind-art-b_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Research offers radical rethink of how to improve artificial intelligence in the future"
     excerpt: "This could be translated to improvements in everything from driverless cars and smartphones having a better understanding of voice commands, to improved automatic medical diagnoses and drug discovery. “Artificial intelligence research ultimately has the ..."
     publishedDateTime: 2022-02-22T18:07:00Z

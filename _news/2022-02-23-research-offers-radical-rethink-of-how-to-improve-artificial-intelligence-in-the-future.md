@@ -34,6 +34,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Council Post: Individual artificial intelligence is the future of AI"
+    excerpt: "In the future, scientists could build a highly unique AI that directly connects the neurons in the human brain to a computer."
+    publishedDateTime: 2022-02-24T05:34:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-individual-artificial-intelligence-is-the-future-of-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Ind-art-b_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "C5Fg32LE7xvcpsQfGNEkFtfbYPCeeKfxdV3VQlAccLsvhvJoSS/nln3sPJzm14sF+bPMk/gBJ+Ballmlc/2oOn7KNTTMMREaNM0jHJA9/KrM/m7NL11BTu8W1mIZaM6osSZ4Ie3wDFsAKoMOSGcVY9W/bg31TXmBubmsqTHllX3l3Tk3unmBQYYdN2fC0zcq+58ogRnpiM2+0+r+2HPLJmJQnuVLpwZoGPgqXUK58I+m5zAhm0mweDDAPU4oQ0f6adbjkVS+28JXVoLFvvz0XtgE6IpOAt7dYiH8Ef+3qkTcFiddEYqIPhxW25bB2Pyg61ZGgWQN098MIEtz8x4u0o2m083gfWVW1Allj5mnIdk=;JkUsJiLPnUtmO5C28cmkWw=="
 ---

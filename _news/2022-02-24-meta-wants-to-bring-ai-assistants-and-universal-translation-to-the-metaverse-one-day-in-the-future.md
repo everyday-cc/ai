@@ -63,6 +63,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Facebook's parent Meta unveils AI projects aimed at building metaverse future"
+    excerpt: "By Elizabeth Culliford - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between ..."
+    publishedDateTime: 2022-02-24T05:14:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89789686,imgsize-959460,width-1200,height-628,overlay-etbrandequity/facebook-s-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meta wants to build a universal language translator"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
     publishedDateTime: 2022-02-23T18:36:00Z
@@ -91,10 +107,10 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Facebook's Meta Unveils AI Projects Aimed At Building The Metaverse"
-    excerpt: "The company also said it was working to make a single AI system capable of translating between all written languages. Zuckerberg also announced that Meta was working on a universal speech translator, aiming to provide instant speech-to-speech translation ..."
-    publishedDateTime: 2022-02-23T18:23:00Z
-    webUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-3410906"
+  - title: "Facebook's Meta Unveils AI Projects Aimed At Building Metaverse Future"
+    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
+    publishedDateTime: 2022-02-23T17:30:00Z
+    webUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-3410943"
     type: article
     provider:
       name: International Business Times
@@ -105,10 +121,24 @@ related:
         width: 1200
         height: 775
         isCached: true
+  - title: "Facebook's Meta unveils AI projects aimed at building the metaverse"
+    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
+    publishedDateTime: 2022-02-24T05:13:00Z
+    webUrl: "https://www.channelnewsasia.com/business/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-2515616"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--8qWTZelO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-23t173736z_3_lynxmpei1m0uf_rtroptp_3_meta-platforms-ai.jpg?itok=_Dyem4vl"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-    publishedDateTime: 2022-02-24T03:48:00Z
-    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+    publishedDateTime: 2022-02-24T03:46:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
     ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     type: article

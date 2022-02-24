@@ -38,20 +38,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "BigBasket acquires Kerala startup Agrima Infotech"
-    excerpt: "“It not only reiterates the strength of our startup ecosystem, but shows the great impression ... lot of value to our business”, said BigBasket will use this expertise on AI (artificial intelligence) and ML (machine learning) to enrich and enhance ..."
-    publishedDateTime: 2022-02-19T14:47:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/15495/bigbasket-acquires-kerala-startup-agrima-infotech.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 22
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2022/10bcd5f7397f3cbc212728258252ce69.jpg"
-        width: 800
-        height: 346
-        isCached: true
 
 secured: "bfVsA3N34O7+4VKJqe+b7sm3JsD5oUmmCS8WWOK5RHgpV3WactK6rbUEdRLtbATHW/+Y4r4izQFb8grQmDpAszDAneiFd9j7q46UJTgrv2o+146ZBMQdmuLmuM8RV5ibE+QynotNK4VSjdqsaaaybTK/N+LeIacRIHh14SRIMCplOqVyuyqQrDQIrF9oSZGbT8SGo38vix5oFB8s3S/mnWrlld0QsNtGZNYTKxQBxEzqcYnys4eaVoPidgBGdFzUVZGgHpoIq9DORReXd2WXjabeuN2euhxviq/yRfGlHbRKjwv2lsZQ9DOuS/mcNBiVnHTxI0mq0slHajtRmAlpInJ54htOqPaMatZYNGxjaJAkZcT291JAjVcmVyUQ8MNpit0qpRwaEV71XLwY18grVI7G1FWVJTbGCB2K+/3BxSXZ68kZWKoi2LBwqAr+c3paOFFVHW+fAH2oShDaJQZyYg845WC3MFtSFoX3LhP3BQ8/xMYzbU+hCV7irp8L+m2jYOxk6SbLDg5ESA9nrUs+RQ==;uBDyWzYNOj4RHxuOUSIdfA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/02/23/1045016/ai-deepmind-demi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/23/1045016/ai-deepmind-demis-hassabis-alphafold/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1500
     height: 2000
     isCached: true
+
+related:
+  - title: "Is DeepMind’s MuZero ready for the real world?"
+    excerpt: "Since launching to production on a portion of YouTube’s live traffic, we’ve demonstrated an average 4% bitrate reduction across a large, diverse set of videos."
+    publishedDateTime: 2022-02-24T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/is-deepminds-muzero-ready-for-the-real-world/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Dm-b_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "DjedEzmYABWObiDgDCVfh0BvAy2QBaSk+49Odg1XeGkZ2e/bozFRhvaEFIyyHpzk4yUPjAiSLPaTs2BUT2opodRxzw1E9m8U6qOUJRqmv98kP13QYknZ0/WpDtyxvJwnWJ8w2oIJ3TXwaSCXiWnxuV8oSEXcTqhV7uKX70wYWsLF9uEHHa3t2pnXmS45zwpTSOwusVsU1+1K8EOfT2AOx7tR15U3Ayq0xDpKa3MYs5GF683JQ2wXeEMhJEv0Ht2F1x7qX/lhPfjN80SKiALcfA0V5w82g8kvseAcYYoyRWEBiHKREQmRw5jhdjkMP5tEzAX2OOEkqlK+iH6eEbCU0pw6wkkaFHMGhidnArq59fPK9ozsgpRW952UWjH0EtOuC8VsNrQfWVyl4SYvWJbZ7rvEJg+AOoOK42TsYW3/b3JrgA3FFLGSu2S2dLYdGsg5l6R+UnEYJWZPsCKRwhMTdlHBemcsCv7R5Yn3rBOCjMQzAfnyk/6CaghWY4VhNJbck390i1FBAvbioqgb0uFo/A==;zk1HdpLrASisxzDxFyfgsg=="
 ---

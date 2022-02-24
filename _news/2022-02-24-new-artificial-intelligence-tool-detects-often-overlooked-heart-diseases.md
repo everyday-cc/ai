@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Medical Xpress
@@ -43,6 +43,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "New artificial intelligence tool detects often overlooked heart diseases"
+    excerpt: "Physician-scientists have created an artificial intelligence (AI) tool that can effectively identify and distinguish between two life-threatening heart conditions that are often easy to miss: hypertrophic cardiomyopathy and cardiac amyloidosis."
+    publishedDateTime: 2022-02-23T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220223133501.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 48
 
 secured: "+Ps+MRVBehfASYTTTxISUeoINowXrFoGQr3IN1htuohrCrTev1fb5MG9yUHTBNCqCdbAC3HUdTe8plFTNm/z3R6TBLiJQSJb1BA5b8jYYKwRMpnWDo7vBH7KJq0UGJ99MABOAfkDmt6TMmFoSKd/9xpiCf0wB+alJE6o1Gkoh6o5238QCPDLtF1lxYGLwwyzerMVS4HevvZ37lIiBYLK6LDTkQo460pGEFEiKvvHEC8XJiafk1P/o/+5Oa3pPd15iF280L03NxmlbWpTWyY0uleT3r/liW4uiHePeAg9QVp1bFXwPee5RCgp88ap3jOe6tKZgV3MowiaDThxQU1z1jcbophJd/tXWRsjPgFpoSMFe3IoQe78UYOb+dYyRF9Hcf/rf0jEMsnnqUeY5be0kq9Lk9KWgFYPSkfTOep8QPP7zHSUJzSdijJriX31cy/qed2W5HD/i+XQlCUHRkhtg5zXoDQlayL2/COjFWkmBHTycJ/405Jv8qbLWdMYRegTbdKR6m6i+fkn6d25j0lI6Q==;iXaDs1PC+spHu8d0LlBV6g=="
 ---
