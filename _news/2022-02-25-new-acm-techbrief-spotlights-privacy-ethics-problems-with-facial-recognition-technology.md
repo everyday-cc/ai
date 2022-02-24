@@ -1,28 +1,30 @@
 ---
 category: news
-title: "New ACM TechBrief Spotlights Privacy, Ethics Problems with Facial Recognition Technology"
-excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-publishedDateTime: 2022-02-24T16:58:00Z
-originalUrl: "https://menafn.com/1103758873/New-ACM-TechBrief-Spotlights-Privacy-Ethics-Problems-with-Facial-Recognition-Technology"
-webUrl: "https://menafn.com/1103758873/New-ACM-TechBrief-Spotlights-Privacy-Ethics-Problems-with-Facial-Recognition-Technology"
+title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
+excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+publishedDateTime: 2022-02-24T17:45:00Z
+originalUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
+webUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
+ampWebUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Ethics
+  - AI
+  - Computer Vision
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?970859"
-    width: 375
-    height: 250
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+    width: 1920
+    height: 982
     isCached: true
 
 related:
@@ -42,21 +44,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ITIF, former DHS exec push back on criticisms of facial recognition use by US agency"
-    excerpt: "The IRS should have taken a more measured response to the controversy around its use of identity verification company ID.me, the ITIF suggests."
-    publishedDateTime: 2022-02-21T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202202/itif-former-dhs-exec-push-back-on-criticisms-of-facial-recognition-use-by-us-agency"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
-        width: 864
-        height: 554
-        isCached: true
 
-secured: "W/FUKOAUF7tY9oPjGGmRsl+8r9vCMBXdqYPcT9nT5jif4//+WQ6oVNxyRh6QcYQPeGwdlQdymi57NKttDqFJem363uklqEYf7ibLqMMKqH6ek+UubNpbngqlhBoPMrgmDBPoyfUXmh9b49vqMylCxHoeNuo4CZtpA4EziAd4e0uCCtCeptpNB5oq05CLTFKxZVCQAsyndjj00RI/IX/5B0OU1K2M29CNTrGsBdFSuI/NxRKDNVj9CiGTKzn8sPhppi0/LaofkBl11b4kdOHf8Or5nV95ZD1pFykk+1TllRTGEGX7G215RxzpPleOjm6cxTCMJ2FEvDb8GmvdO939/oddgEeZDMJc6+qHoJdAh4k=;DSe+iiMd7jdG+DGqtoSNRg=="
+secured: "Hb2o9s6VGZJgwthJozVQtvrrxt4Liad39ONhkX5JAIX9mQ1o1KHROzWov29Bob3/l/cIfPuHb0oBJ2e+D6VELM7NY5ROpSBScEtVbUqfmqOPOyBSMI5CxGSZCifE8WPlC7jOZeIRegrx02XuxGF4d8xat6Y5QaZJrMxKWIYuG7hQ8Tf9AjeWkvpmxNBivEMmziRQvycxFeocfCzy+OobhzPcHoRY/rS/Ra0JoHDkp/Mz9ERlJinNYThf0F4JvpqkMOyEMk8DWJd9L3CMnTADfj1R4gJ8sCSQCUditmJsRTJtdo8pHX7StKYZsY7ZcjfFMS30Qd2ygOcga5dkM1BVB5yrx5X0Jf2EOMAfAsDOqVM=;JH9+asXTb/T5htWpkCgncg=="
 ---
 

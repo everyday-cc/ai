@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US Bank links up with Microsoft's cloud services to power its applications"
+    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications to the cloud."
+    publishedDateTime: 2022-02-24T17:50:00Z
+    webUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoftword.jpg"
+        width: 1920
+        height: 1358
+        isCached: true
   - title: "US Bank picks Microsoft Azure for cloud migration"
     excerpt: "AI and machine learning will \"transform applications and infrastructure ... \"As US Bank's primary cloud provider, we will apply the power of Azure to help the company adapt and build new, secure experiences for customers and employees in the era ahead.\""
     publishedDateTime: 2022-02-24T00:02:00Z

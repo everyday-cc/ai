@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "US Bank links up with Microsoft's cloud services to power its applications"
+    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications to the cloud."
+    publishedDateTime: 2022-02-24T17:50:00Z
+    webUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoftword.jpg"
+        width: 1920
+        height: 1358
         isCached: true
   - title: "Microsoft details 'planet-scale' AI infrastructure packing 100,000-plus GPUs"
     excerpt: "Microsoft has revealed it operates a planet-scale distributed scheduling service for AI workloads that it has modestly dubbed \"Singularity\". Described in a pre-press paper [PDF] co-authored by 26 Microsoft employees, Singularity's aim is described as ..."

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-beco
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 secured: "yMGaIJkuQYQtxly1lzcbJOr6hyupTocaqQXSvXENSXR3Qvr2uk9xKfOeMogNMZeQijPComMTSwZrfQOBS821O+k5xbImY8cxc17Wr+hKVBrGaaDsuLJde+m8ZI2IwLf28JOY0MR+aECaJgBr7pK1m6j/M+L7Vd9fVrSz5qTPf75C1e8CI1ksHicTZW9nLc7yWso9hDB89FhQfZJ1xww1mXgLEmsPqcs7eszA+5w9KmAsHWxRZjrAEFIWY4bSBrVerIVkAp2vqdcFlTeEwWDU60AYbDOGJ00Ta6InZYCvIQBVpF0jdnyqMfKPGttXeyH8nMhv/jK/NDb3j9HUKJsjTFQ3EN4Oi3DlMlI3b5hVk9Q=;32pGqeHytH+oOpZ0C2mNlg=="
 ---

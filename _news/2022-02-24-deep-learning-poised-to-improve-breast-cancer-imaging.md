@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-ima
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 675
     isCached: true
 
-secured: "VYsKdM3duN1aVn0nbDIK+3hYBDzI6LZYUNYTvHYsECcOz4z24FiBSzh++MgXK6lHsZ6BtmHC+Q1MqI9HBTGhQ7UvxyQ5TyI2PX5VHRW8PoJFcz4ZyEYoPOi6uHRk7vFRwVHl0/dc2TxHGb3G8+15zrwA4TWtqCaL0LXbvVkNKy2R3oUj/nKXh58ZNN6rlxyQlcQZgRWSJ2okIeIxKf2JICntCD7xofnyCyaqj3XfrOPuDxWY8NvU7qYbhD2Ag4jT4O/k0e8JdNmWghEFtOy2/bjTsKutjj2Vb1OD+WlaepWYGrl9QtwFDTxF4icswilv+EfbrgXOV404xGzb993deeUNvjbtRTFiDTdnZ7WFiFk=;K/jCWde0encmhsAG+Pzgwg=="
+related:
+  - title: "Deep Learning Fosters Better Breast Cancer Treatment"
+    excerpt: "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time."
+    publishedDateTime: 2022-02-24T18:29:00Z
+    webUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/protein-inhibitors-against-triple-negative-breast-cancer.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+
+secured: "A9XcOp9J4GnnOhH7/OYjDPFOzsvO9rJI7btO3sZ644EULezQWq9O/q4gCT7toSqoRCzknPYOaZK7i4zs2x9EFTUxKiGMqr4fffUUBTuONEpaevUHx++uCJKlNJJXl7NNRlEoD6UX3Kp+LUXwxsoJY7mHjaMLq9DKktRdmwS+Z261f4kjUM00dZ6gqdIshfSyhicCUtBQacqRSJO33AhHxrtfkxdWJfYh3ZCICotdA0gjSSwQG6PcUJwqiGtwdVNlK7RTzbb/MUyHsiFgcQ+gbisd3mDPlPnwvL0S4TcxEHb23rv/p7Y5m+BALd5ESvUedkrxFp0+MQwAOvLID2sB9Pj9jcYZvzvSXPcC9ulU5wfhfdq24gv2sOW5RlBHcYiEaP/qv8c42QDGoWx0R3J3b79BNid1xqrTfisnSmIXHk+V20qSvyi1sdX/uonLffJgv+PbFZnggWpVx8ynDi+O3H+xQNQXblFJZ8TiTci7LNORjUVM7NTttEYX60SWc81kEua+SKgMkMtHCEjvy5wUwA==;emOQfq1g7dz1cZ5z7VB4yw=="
 ---
 

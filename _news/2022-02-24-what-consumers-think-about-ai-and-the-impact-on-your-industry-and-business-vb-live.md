@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 81
 published: true
 
 provider:

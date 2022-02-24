@@ -24,6 +24,17 @@ images:
     height: 353
     isCached: true
 
+related:
+  - title: "Robot Fry Cook Gets Job at 100 White Castle Locations"
+    excerpt: "Flippy 2 robot fry cook will be deployed in 100 White Castle fast food restaurants, as part of a movement toward automation in the quick-serve industry. Factors behind the movement include demand for contactless service,"
+    publishedDateTime: 2022-02-24T18:36:00Z
+    webUrl: "https://cacm.acm.org/news/258949-robot-fry-cook-gets-job-at-100-white-castle-locations/"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+
 secured: "wGdo9/xiHhcp5s7Yyk1OWgRdYTIQakdRmFNHOyvcLqByTn+VXQfpqHIZnC7pHPjCxDUszJmT4a13T0lns7YYoUWM4/KelqS/7jGGlugVV6cT7obF5xJ5atqEY/5iIXldTsmCQlFLa0wnq+HCrR5+wr4FuOR036DIlgxnBrbE0XlUSRyJ8+EeW9SuokqJrMVET6YuXqxHhLGJqiW04EV2U/eGUpc20z1un9vdZoOq04sIA8ev5WDcA46iyFSTrWZ5sWykLU3heV5Wb5yzqer4MT8wI55LYOI4HqFL4cHRrFHstAB8RadP4yhiwwX3RhjdSZ+XhNE8M7ci/j2/Xf+DL9P1f3G4g7Q5VoZEcJ+SLQeRzCKMsAcCPgl+t8WHD2UlDbFME2LHwowTm+T0iTwo3toRPvMuz82YKi+t6BdWLPIzGrANrud+2QCLVq19Yc/cdICXUKl/Ld1bpqEWhgKYvESwHVsNKjOlPkHZBHW13SXCxliRaAB1DJDcQgXrhncMEsifdBu5lg3zd2Gx/qn6Bg==;3UMttNLq0UrBy3zFVXfJeQ=="
 ---
 

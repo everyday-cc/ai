@@ -235,6 +235,20 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Meta is working on a universal translator"
+    excerpt: "Meta is working on a universal language translator for real-time communications. The translating AI is another piece of the puzzle for Meta’s vision of the metaverse. Yes, that means Meta (formerly Facebook) is working on an AI version of the Babel fish from Hitchhiker’s Guide to the Galaxy."
+    publishedDateTime: 2022-02-24T17:28:00Z
+    webUrl: "https://knowtechie.com/meta-is-working-on-a-universal-translator/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/10/meta-facebook-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "Dq4KCpfQXUJVA5xV2zNm55tULvgEVY7CCjHPGlV5sg8tU863mOMjYFheEVVOLzwYTCFubuJULI0KmSvaN0ROQghZi6Lx90OSI/7Ghro1A33I8tku5YriCFbXHKn+I0jZUYg+cR91++abWu99i6j7y35nPOjt88ZZ9w/se1dr3eo20PF8AS+NqYG2Id6xFry8sWFZZDFj/Ogi98KOpt8YC1dyb25ts9XTaGnTtL05wX6NO3ABlv34JhkDEayxBulXytqI5WAVYPuvrD2p+AGBwwA8z3MKduMdqPZeqU0GmyQ8S7xX483FslQSIW9TTJgjFA+hoJ9TzLXi+s1CJlKOvi/QM/wU04F9GjCVqeT2HCDNEd3+qvZhJk4TUpq7Nck2jPym4fkn/gh/mcEVcLP3PHxDo6MF75g7JYWv3iGu2D4Ng6RILpLjNzKhntz2rMMumft8sjk2wEBXGL/XEB3l7JAipXw5PktSnTCHKJFUKoGjvxD+4fEyegx6oiLqEcbgESFABajsXP6M8ln0RX+ouA==;6igA6ePcdoRBJdY8vub9HQ=="
 ---

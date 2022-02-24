@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US Bank links up with Microsoft's cloud services to power its applications"
+    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications to the cloud."
+    publishedDateTime: 2022-02-24T17:50:00Z
+    webUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoftword.jpg"
+        width: 1920
+        height: 1358
+        isCached: true
   - title: "Microsoft details 'planet-scale' AI infrastructure packing 100,000-plus GPUs"
     excerpt: "Microsoft has revealed it operates a planet-scale distributed scheduling service for AI workloads that it has modestly dubbed \"Singularity\". Described in a pre-press paper [PDF] co-authored by 26 Microsoft employees, Singularity's aim is described as ..."
     publishedDateTime: 2022-02-22T03:58:00Z
@@ -205,6 +221,6 @@ related:
         height: 337
         isCached: true
 
-secured: "bqLTzfBIDCaudNei5MRcKCQkyzpAcIrhtkMxGpwjGom7vum8p1e6U2iGf4g//b1fGyPfg22c22gm/u0EHU2gjdUMc3uP4u0+vo5OXr9AAUsJoYPIe8BVIddz4VmY6nJlWVud0B6lpWa9wd7EGUBQXZIXNjS/yt5JCgFFoGYm6E05Z4X5ytP8dz7Dh/mvLOUfow1jxcDCHNV2DEqM4g4RYnaQoa9oqZRyk2fjgO8m9eEA6iyThE4qy1N/Gl4asbaJtMRKPn4Y0f9FgYFHIIC/7YzbczJOu60wD7VuFtSMwZs3C8XREClNXRauKMaIGotdwWtsqe2XHLZ3/EyvbrCfZyFVjWSmoy6gcCoeUWWaObsWi86RoIuisuD5NrTgf5KLWV7fPB2jE+k6DCjGww/LPN9FEia+O+I9dBVsnXBgNuN3a0H1nyW9IxOjOFl1EwgxB+scpYfvRPHT/ZS5bLw2jF1ZI61iTLtel3m6beqvrRX+tE6chF7++jLBYvyrto5k2JPIwLkXBJ4yO1aa9iPa/g==;pTfagle1d3XMOx4lr5yZbA=="
+secured: "0qFXCfJC3GLQvFN31YY2LAmxNXk2VkIt2sCm1DBnt5ZADn8qW/UtvnFyxJrPXBUl/CvhqZpSMfPBwv61/9nOX4GBLhmuyldFpcOJuv6by+fousx9qECTjBqydYHzyFsyGkB5/HDaKtlCw+0mJwIpib63hx+9KG7O3qERtuI0i67CoBM7Gd3J6srfp3wd1osCDLd11rb4QTRPE/QjDRw+6DLhHDaS9I1bI5v0DGaUspvBPl16MyXa8oZu3TOHEEp0Xswbe6aqFdU2Ibcd4bvJ6jvin45HsJhMGeBgksN0aqxIQSAOp4CSIgkeUXYBpyV2AjDOc0mwpNkx/ja/aNxpGkZ4KuY1FiHdN6KpXjLyVMk=;rwxlOVk0P1KTZge/+4l/cA=="
 ---
 

@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Deep 6 and Carle Partner to Deploy Artificial Intelligence in Clinical Trials"
-excerpt: "Clinical trials play an important role in offering patients early access to cutting-edge care opportunities before they"
+excerpt: "Clinical trials play an important role in offering patients early access to cutting-edge care opportunities before they are widely available. Deep 6 AI's"
 publishedDateTime: 2022-02-22T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25763381/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials"
-webUrl: "https://www.benzinga.com/pressreleases/22/02/n25763381/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials"
-ampWebUrl: "https://www.benzinga.com/amp/content/25763381"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25763381"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials/article_c1a164d2-4467-5575-a86a-29fce04b3b62.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/deep-6-and-carle-partner-to-deploy-artificial-intelligence-in-clinical-trials/article_c1a164d2-4467-5575-a86a-29fce04b3b62.html"
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.benzinga.com/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "FFrnB+b2Cn5yLGlRLKJSDHttmtD/vN5UQu9e1juJ0lj16KGXMMzvPQ3Eu3A97gbu5Y58MwTXVhEUdgOXqHoc3Pru8HVYEqBs1uJ4krrH7hmRXzJthGW/VOIaqagOSuD9CX8FpSH9VHxOe/rERgC2//L0SEsPsiwGhzbbCHG/NQQgu64AwUKyCOi3QiPDjyBzj4zCoBO/zC1Mf/rq/kBFLCH1r6X1HsQvujvJhgwoRsFCBwF5lSNPYB8O5+KjtB781gka5jj8aQ/oei1m8LkE1Q95r6H/BERrKHTyuV0kHU+uzutCNMpph36Vo0EsFnHu2qYqPeh9PsK7VA8ofPHN/qO28DcXyAcHMq4/cBRq+lE=;6qfZ6agX2bPdGHVMTFYVBg=="
+secured: "9L3TZRGjXnZlzTcNnsprvb0bdKRggmlX5pKJMP8acz1B2qbLt000XehFjSTgf4vTztZfBZG+ML2QFxuwVj9rq4MHSL74wTilXcP9dqoIS3IcH7mnMDc7u3Bu6SKDOomX93q/0zrJXi2/lfZse7szzenRXGUYVF4LeD8lPnMKxRz+cgm/pYJ/rB73HdcZk0MxTqF1aJi2c9imvlwoRTQIxF0mgt8Za47Hm/FRXOzdX7pLVvQCHHjvSs6Qi8sF+W1CK9eSlGPulMXEA8sfQa689RRVWAkqqLK1mZ+QUlvS8KCpLORU6zsxYF8qdmVoMpd7Uf3YxAotNIFsI/3XBrCX7f1ICqPLmviRUm1y4bbYBgM=;a8p/cCuI9CgY6TyQVb3S2A=="
 ---
 

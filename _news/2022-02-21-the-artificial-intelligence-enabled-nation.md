@@ -59,20 +59,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "The Future of Marketing: Can AI and Humans Coexist?"
-    excerpt: "With more than 2 billion people on Facebook, Twitter, Instagram, and so much of our internet traffic being created by bots in 2020—you have to wonder if Digital Marketing will be human or AI-driven in the future? Digital Marketing is transitioning from a ..."
-    publishedDateTime: 2022-02-20T01:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-marketing-can-ai-humans-coexist-lanell-angerstein"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHAgX4NlzpDgQ/article-cover_image-shrink_720_1280/0/1645211272874?e=1651104000&v=beta&t=7IhefsXimrs6KEHmROIv7hhR2Zmet-nSrMJLVn1EMPo"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "SBNb6bQIu9gGbfrV4VCjGE4k/gS28/WDo6QCENIuFABD350SaTRTwBJD7t5vcAIwZVaKVXATB/nEQdvyqxS8jUl6MzfQt3NzsHyOUT5vOFZWaGx76rnrdse8bhrkGrkLcFsWINAiusH1PGrZfNQpcH5CuCfVzODTzN2ubt9mDQaWxzIuUta3x/LoACbrHQr5cmWG87JSaSpwrMkJBqf8lPxCB0fhnElMYG68B6Zzdec8mrnoCWLOiWhwLjGCowL3dTnT2B6957DWzM6aEkcjjcxOhl8LnrL811aJAS62gkuvYfAF9p4cOFbSdVFiMuIPmDX50kMr61FkIi7GwemuZMpklXm4+cL72CFtkUIFLIZvT4eNgW9+C7EPbg3AeAyYt64zgUcLUPia1g8q2yWtNB9Bloz1zB8e5flp0B9N2+jm5ckg6/22DZy2q7pMmdyFrn93QjsMnp4BbOHRwDr78bq/HVT+6t/5Mrv6XvTSd1Xfzg+W1HycsONnImsLVzqMB6WgslyQsdH+ANhvSS/D+Q==;d+N6X+czVvXTKwkNkELG4g=="
 ---

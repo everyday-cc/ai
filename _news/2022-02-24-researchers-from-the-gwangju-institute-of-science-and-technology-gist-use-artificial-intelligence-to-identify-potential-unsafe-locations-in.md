@@ -15,7 +15,6 @@ provider:
   domain: wfmz.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "SW/Izxx55laLIA01jrNHxWnDPUCfR2nhvdffdEDsqNe5newLYLOJV8j2OFFNZTiI4AsgL73tg4duuFrrycRBJjuTSrC+3V5mxdzki2e25O4C2Va0I2QRMtgvFHgUIqAubfZlaVmeQfWdWCkIHGzNGisyg1nzWwofuuXHG0rHTOE1Ao2dpuSeenXW1RtUrbQY/BDKDJXCBTCDMrQWGzpXKRYD/z1r7icKypkmrVW8mjuJjmi5sDaxKP7bS9pA8KTY/mf0Eu9WHw0S+2adv6K5PBlgdIcQMFfGOGzU2cL1z2sZhUFtB6H7rJaGvdoS0shv8x+R48ujR8wjZ5qFC+JjWZyUzJzA3mp8c2+jbYHszyI=;aVyetnJnkc81Oas++rCdMg=="
+secured: "c+pM1q38WEhDCAc4dG4A8WSuBml9o9luVqTg5iGeYHnXboOB210s0UVsQVifGhEc4fLk36GEqdZQ/7N4KB/w8lf3ajvGNLl/YWdXhDVs2sPuPgfrg/JzEb9fCP8F/ssg/iLO9nOiKzoyfB8yGBdCy1LQZVTlh3BDoQTslIcoewancD/ZZezFGfb4ipqVNvzshCcTSUf9xCnRpq27FE9x9ZEwHt3yvNjLFkz8tZm80iUo6EYdEv+jrhUly50dgRHkEz6zcKWbfoe05aV4YyZqgONjWpypCGY6fDuvFwOXku54lq/BzXVxR1paV+vaZnzzxiPps7w8UKJnr5Ga5rI6b6MUvkh6k86wZn7MrApENXI=;ZD7Ids2oJCg94OjVBiXRgw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project"
 type: article
 quality: 88
-heat: 228
+heat: 238
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Fmeta-universal-language-translator-plans-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "Meta is working on a universal translator"
+    excerpt: "Meta is working on a universal language translator for real-time communications. The translating AI is another piece of the puzzle for Meta’s vision of the metaverse. Yes, that means Meta (formerly Facebook) is working on an AI version of the Babel fish from Hitchhiker’s Guide to the Galaxy."
+    publishedDateTime: 2022-02-24T17:28:00Z
+    webUrl: "https://knowtechie.com/meta-is-working-on-a-universal-translator/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/10/meta-facebook-1-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "ZeVPv2NQDdcIRTEfpZtg57W7tbg92kgft46FT/kYb45nZTpnwD885rdGs4pXRjF66s9sh0B1fiP6uplW3iaZ5g89b1Oa0I6b6qQZu1rewWR8GT2HiI+Cbxfcgc389lPZ3XYOBshLrQRyWq6Rt2jWwCArlRGIy/4mY9WEyVKhjtcP6U1a83wO18VjjVSM9REqiTIb2w2IpxLUf7ZP5TDtq7GAa8cmjM7e3JtbWVo+ZSIFGj+D2qXQPon/wl0G6aXK252c1prGpKhyMBx5PPkxBSOZGv1AEEqv4eu3PT3+UKGwboeRiyO3cUsCGJ84tP4fP6YLZL5Ys9tF2RrAamgdPJ1Da9E5NoVPejLXmNNM7nQCoVU0EaI0I8987nJCuesqW7iXrC1f1wdCLaPsUCQzYxbqw9Ch3G0OJ3oa8+PvY92rtFdiiBbuyxNEkhzrhb3fRZyNBzqXjvS/kHJsVuAl/L+bUCykRhTRHYMl66ZVghYdddKIOtZ8gwnWLG3JTwzec9P4oTyCvN1rnoLTrl9KTQ==;Bj+8EvdD7BTHNdL3cm4Ewg=="
