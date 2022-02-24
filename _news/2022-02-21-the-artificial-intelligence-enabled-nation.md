@@ -59,6 +59,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+    excerpt: "Identifying a malfunction in the nation's power grid can be like trying to find a needle in an enormous haystack. Hundreds of thousands of interrelated sensors spread across the U.S. capture data on electric current,"
+    publishedDateTime: 2022-02-24T21:38:00Z
+    webUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "SBNb6bQIu9gGbfrV4VCjGE4k/gS28/WDo6QCENIuFABD350SaTRTwBJD7t5vcAIwZVaKVXATB/nEQdvyqxS8jUl6MzfQt3NzsHyOUT5vOFZWaGx76rnrdse8bhrkGrkLcFsWINAiusH1PGrZfNQpcH5CuCfVzODTzN2ubt9mDQaWxzIuUta3x/LoACbrHQr5cmWG87JSaSpwrMkJBqf8lPxCB0fhnElMYG68B6Zzdec8mrnoCWLOiWhwLjGCowL3dTnT2B6957DWzM6aEkcjjcxOhl8LnrL811aJAS62gkuvYfAF9p4cOFbSdVFiMuIPmDX50kMr61FkIi7GwemuZMpklXm4+cL72CFtkUIFLIZvT4eNgW9+C7EPbg3AeAyYt64zgUcLUPia1g8q2yWtNB9Bloz1zB8e5flp0B9N2+jm5ckg6/22DZy2q7pMmdyFrn93QjsMnp4BbOHRwDr78bq/HVT+6t/5Mrv6XvTSd1Xfzg+W1HycsONnImsLVzqMB6WgslyQsdH+ANhvSS/D+Q==;d+N6X+czVvXTKwkNkELG4g=="
 ---

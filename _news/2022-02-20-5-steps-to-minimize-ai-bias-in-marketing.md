@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+    excerpt: "Identifying a malfunction in the nation's power grid can be like trying to find a needle in an enormous haystack. Hundreds of thousands of interrelated sensors spread across the U.S. capture data on electric current,"
+    publishedDateTime: 2022-02-24T21:38:00Z
+    webUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "QRcgqefR5hE04PVjduqWEDbPodraRnXKT4ow1a0sJ8BABHLZZbdZTN6Lr6fA4l6FJWleWv7LCSqIUJIymi7yG6aHiSDYBsUmbUhJCaqLgREo5M63yziXuSGaK/8ZlUfsMdQ7Jdvq8kbTaxORyAdqzi0xeu9KzuNgaIDc+vthF9y2Ad4jDbuDQwqxmWs1dN3ux8Zuhd6FbvW9JyTQAjGUoSJ468z7Pt5FcbI5e7fRZ9ggHze3JmNun/6eL9T7pCdi2JlgDBF/SA/LDu+P8VE7B4lHKlW5oHLPO2BiXae34n40BqVs9wG1xoa5e5viKdQOFYX4fKZq8qkCkMpk1mR8u7o5HxFPKxliRbkdXqO8W9REldbu0mSOxrhpO19Iuzf3TtJEaWSqjgHZJ9u92ebJCOB4GY6kezqSl/0dB3Pver419tD7qK4p9FtBWzvb/AXHdFMghk1pyP2Xo2FX9etDtMaMM3yOeK+ynaIPDy+wStUGVyL6JGwuz+XdncXDOPSs6c8yKUHNLe95SaiNCBeqWg==;6fNgMAop7sSpjTz6r1Auzg=="

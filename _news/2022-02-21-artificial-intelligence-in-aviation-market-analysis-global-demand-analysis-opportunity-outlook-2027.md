@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027-2022-02-20"
 type: article
 quality: 51
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Medical Market Size Will Reach USD 36600 Million In 2028, Growing at a CAGR Of 28.7% Over Analysis Period"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (The Expresswire) -- The Global “Artificial Intelligence (AI) in Medical Market” size is segmented into types, applications, CAGR, end-use industry and region."
-    publishedDateTime: 2022-02-20T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-size-will-reach-usd-36600-million-in-2028-growing-at-a-cagr-of-287-over-analysis-period-2022-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "5G in Healthcare Market 2022 Supply-Demand, Industry Research and End User Analysis, Outlook 2027"
     excerpt: "Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. Market"
     publishedDateTime: 2022-02-24T10:39:00Z

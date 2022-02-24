@@ -53,7 +53,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 108
     images:
       - url: "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200

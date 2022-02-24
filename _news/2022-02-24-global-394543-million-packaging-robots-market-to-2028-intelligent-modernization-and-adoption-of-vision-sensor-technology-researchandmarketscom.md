@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Research Report (2021 to 2027) – by Function, Product, End-user and Region"
-    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. The major driving factors of Artificial Intelligence Chipsets Market ..."
-    publishedDateTime: 2022-02-21T02:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2021-to-2027-by-function-product-end-user-and-region-2022-02-20"
+  - title: "Educational Robotics Market to Reach $4 Billion by 2028"
+    excerpt: "The need for robotics in education will help drive double-digit annual growth worldwide through 2028, according to a forecast from Emergen Research."
+    publishedDateTime: 2022-02-24T21:21:00Z
+    webUrl: "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Intelligent Drug Discovery Market to Reach a Valuation of USD 3,711.8 Million by 2027 Growing at a CAGR of 39.4% | Emergen Research"
+    excerpt: "Intelligent Drug Discovery Market is forecasted to be worth USD 3,711.8 Million by 2027, according to a current analysis by Emergen Research. The"
+    publishedDateTime: 2022-02-23T06:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/intelligent-drug-discovery-market-to-reach-a-valuation-of-usd-3711-8-million-by-2027-growing-at-a-cagr-of-39-4-emergen-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/3c552455d6c335565b744ff1f43b3c00e26f2f07-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "JIAaJaNvHpaTDq0P3/mkRNFut6Rm2HEGHz1EhN2tC6TWcIlXNcWQtZSW1fQgt0eFK+41xOcBevDe1oC8jiTwFBpIP5fvxN0zAVeB3FZ0TqMQp/6eKGCBI5CrAjDFrr6/1PopNNyVeyeSbBkf98KYF4nKQCp2Lhkzx3XZO7llyQkCG2T+nul8vkKwqvnLhHUYdRtTYjxDKTHMC3BXxf76JQ5cldoN9CdD6kvjYqF50ntdKJIzm03WRWCx2rUo3WbGkyVggIs3/inAXx5256rNcum+kQE3/MayMN+WGrd8BzgLR1QGhPMtWXwbWhyNQJ1zvvwjc1z43MA+cua0x+M/1NipppmvStWej0GN8kKIkuo=;Grr7joe39kdQV2OjoUiYmQ=="

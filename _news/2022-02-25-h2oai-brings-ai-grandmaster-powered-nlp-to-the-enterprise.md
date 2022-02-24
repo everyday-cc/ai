@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-th
 ampWebUrl: "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/"
 type: article
-quality: 104
+quality: 108
 heat: -1
 published: false
 
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp"
@@ -78,6 +80,6 @@ related:
         height: 533
         isCached: true
 
-secured: "16fs7HZ7A1uJQjknyk8o77HpUQphRzZrGn14x9eD58eLELkXYviIh0GbzPjOsb59I3V+KWmQUlZgJhAY9MUlbfB/KFSvJcrlOobQtG+ABU+QAfaqB8mnOTz9jjn3hynjNIHfeqQoRO+7bG0zDxyzBk/28CQpDBb5Sk3koJ/b28CTynCSUZimEb9WAUMWQ7SMaOHhkS2ucnD7irTXuZwv7eqEiUtsr2plZwc/mjcWpfvNjNnbxQxdCuQvkULrKF3JwR8ojzBtnQvv6+QPnPn47TLUGTigZBVK3NV4e0vtESpelMKUCKfAkNlW9s57c0vtzUix9znlgXE7fItN5tPXkZq0aRicTfy+awENrAXufFg=;kN/JCXwIl3LYrtLgLPifXw=="
+secured: "Tc5wo7AHhWkUhKGWFgd4c8+Kv9EZ2gjh8+tlWa0SOX5GIEtfeLYj3N5PdkdqY8u+k5trxjkuwVG35Z2n/WWkdJK1Dw4PJ4InVaNjlSHKsnLG0eoIwMxZSD82m7lzEYXhPXm930na78PGdecq2QmxdknmtiJzajd1KDIBZRAibk1oeNDVNEYEOFbXkTrRh18DMEWBk/CXiYH3NuB2jPfTGnaisclcqtFRMdWZP8OlwkirYrIV97NV0WpOP+fj2hQymA/hR25acQai4qMKRy5poQBQODoDtSKnrGHRtGtHlDAIo0AJ75kpHVdFGuO3xabdHvJTv/OVfiFbiAkjmd/U0K9/l3EMTE9BtDPounb+LwZ00bSqZjlspp7X8x8g7urrmS/DGxekmszvKo1noFL8o60BPE3HOEmNecUOJUy0EMqOtU8JJqFDHXdruXIZEnCki6n/bWgNwwcVZUbt3Xgkbay5Qe7Dtv+X10pKu+VaKvfoYlcQ0WZb6Uz5ZyjAxF1qC7MjOFl7L0Vlnulx+iDi6Q==;LS8xhv0FikNva7TzUzKguQ=="
 ---
 

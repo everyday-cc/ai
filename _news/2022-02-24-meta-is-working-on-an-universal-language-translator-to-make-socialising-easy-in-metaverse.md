@@ -2,9 +2,9 @@
 category: news
 title: "Meta is working on an universal language translator to make socialising easy in metaverse"
 excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-publishedDateTime: 2022-02-24T04:00:00Z
-originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+publishedDateTime: 2022-02-24T03:46:00Z
+originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
+webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
 ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
 type: article
@@ -221,6 +221,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
+    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
+    publishedDateTime: 2022-02-24T21:36:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 37
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Meta Plans to Build a Universal Speech Translator"
     excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
     publishedDateTime: 2022-02-24T08:14:00Z
@@ -250,6 +264,6 @@ related:
         height: 600
         isCached: true
 
-secured: "wJNq0GG2LyPl9ZIjXhv7h44nxOMij4SPBJOmKWDzvwJ66ih/w6XoAt4LTU1xOT/7Gn1hgU70MLujrDsDth/qz0ZZESH9Z54v/cYiDTPItilIMQzSFHYPLYc5+qrxykZSD/na6rzk6QxQcKdu0Xq0vh9EoDf4Au1RuoNwbgIDxh5gpNaQnpnu+kbdFIloJKYI68xbUsAe5inargCJgfF6za1HIDeDeCI7Xb4pSaVFq52erNLdIyc+v8vHHn819Gfc6XxWWmtyrTLmgiqJVteMRLSm/oIzT1fXTQKMXZC+CDH6cjHvj/0GdcdC5AngQ1sP7PcgrzS3yBgkmkGo4BLUYcsRmFqbW1aozagti8eJQtM=;KnxqJV7pLzRtkPlVQtefuA=="
+secured: "YQEqDI+5SzM2ZS/JL8OfB+p1+gOWznLAa5BpKJeHimjE/h3IUZHM1cIvAd5Y9aLCJoiZ+OsS9C1CN+EK4Me9FTxqZm/cRkkBaaA+Sw5Tkk5uA63ENbvmBCfiHwf2S6FYqq5uVe9cqKC9fADQCNYjIM6xUAA/JjFQg7N0Zon4HrMbAjyDLgMuPds2teadEVGY+xQZ6AnGiHvZAJM37FWBLKGMym857Mf/7929R0XKdl/IastRK8jeWIuAur891LzsN7WB5EZCX5csizOPp4bpoLLiIPEde03jnPnJjl2gXrMy9ZBJViFYdDOySgXjA4hmpeb7YmDyDht9tnP14hrEM8xYGjtUvSGGX7FSGmlMQxw=;YUEiKaczzU0WzyMyZlPEbw=="
 ---
 

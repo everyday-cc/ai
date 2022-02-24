@@ -90,6 +90,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
+    excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots ..."
+    publishedDateTime: 2022-02-24T21:20:00Z
+    webUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/?ico=related-posts"
+    ampWebUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 45
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/02/SEI_89793529.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Upcoming AI Tech for 2022"
     excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
     publishedDateTime: 2022-02-20T17:40:00Z

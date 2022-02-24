@@ -205,10 +205,24 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
+    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
+    publishedDateTime: 2022-02-24T21:36:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 37
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-    publishedDateTime: 2022-02-24T04:00:00Z
-    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+    publishedDateTime: 2022-02-24T03:46:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
     ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
     type: article

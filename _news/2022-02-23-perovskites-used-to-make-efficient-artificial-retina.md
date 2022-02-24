@@ -2,28 +2,26 @@
 category: news
 title: "Perovskites used to make efficient artificial retina"
 excerpt: "An artificial electronic retina that can \"see\" in a similar way to the human vision system and can recognize handwritten digits has been built by KAUST researchers as they seek to develop better options for computer vision applications."
-publishedDateTime: 2022-02-23T14:54:00Z
-originalUrl: "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.html"
-webUrl: "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.html"
-ampWebUrl: "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp"
+publishedDateTime: 2022-02-23T15:46:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944427"
+webUrl: "https://www.eurekalert.org/news-releases/944427"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/perovskites-used-to-ma.jpg"
-    width: 1847
-    height: 948
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b72c5c08-d58d-4dc4-87ca-a1d35732a894/Rendition/low-res/Content/Public"
+    width: 700
+    height: 340
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 456
         isCached: true
 
-secured: "nzsXmCKIECnK/8pEkEgtbKNbJIXiz6exYbsLLygexSyFzIxshPkCUcKQcgwv3oB+FYg7f+2xFzHevJHWbLi2VKKsFopkMFuslieHjHHeqFYvNzZo86ME2KVf8OlXP4JW8QdiemKl/z/Qb4Gkdz2/X5d1At+UCPgFcihHETtrSjGqdXuUPFN1FmSDwAKwQ7muz8c/TFrJZIxWa8EGZE8QC7EXaPanBRKentlkfdGiht/jRmmE6iMpvC2/Em2DGbYWZlwjipXz7QnbJFTYrib7Q1e0OXqzOiUU1EzG6ZvmCIcVdrpkkrg704dAvvw78UCjEXRW2Y37j2irMI5HUFb8uf7STsvrFlz/3b3Mn2qgM8DNNQolRhFojANPq8phvzfFoflMKJgcRnDenr9Y8Y38gUqNP9a7mIIDEtKDreqXzvL3vmGf9fizNkZOm1JgaPJUK6l0f8EFc/iEKXcQ4o3wGX1o4WzSaR7fX2E84pMw4ITDRS72ITDg+rhnDSdsgXaYnfuTCPma/5Rd6zotxWMgRQ==;hF9B+QKXGbLv5l+tLv2o6Q=="
+secured: "V4hO31nxzC3NMBWMdOC04aRhqbIpfaJjy4yWc8wsaEua1fd2edfNSchacBbEvuOne9kOHY9ZY86Ct3cC1p2sKFYt5WztY79tSpPEr212AXLbe1MMJxoD21D4OAukhUKaTwGr6pZaF5Bm5eiiJhJM06wc0VJTweZzFRQVD/ehVOzNP6s5B2HESmBqDdI3VyCRn8fwP3HtZXmlOVw2Ae8lLg7Dd3o/Ql0CEzJKmU9ge2uK0gk1cV14g4PgFkpN2ZdHd9840bU8Doar2kYO7ftdgfgUU8+eHoU8BdWAM/V661L91Dqig9lMz2uuQBSwlvjjnE0C4Vwk3m6tzz8z4qyF3l9z/itLtSDzuM8J9wnPCgg=;6DuaS0Wn3tDFkxsNixjBgA=="
 ---
 

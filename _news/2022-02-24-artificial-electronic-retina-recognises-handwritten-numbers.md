@@ -27,19 +27,17 @@ images:
 related:
   - title: "Perovskites used to make efficient artificial retina"
     excerpt: "An artificial electronic retina that can \"see\" in a similar way to the human vision system and can recognize handwritten digits has been built by KAUST researchers as they seek to develop better options for computer vision applications."
-    publishedDateTime: 2022-02-23T14:54:00Z
-    webUrl: "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp"
+    publishedDateTime: 2022-02-23T15:46:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944427"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/perovskites-used-to-ma.jpg"
-        width: 1847
-        height: 948
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b72c5c08-d58d-4dc4-87ca-a1d35732a894/Rendition/low-res/Content/Public"
+        width: 700
+        height: 340
         isCached: true
 
 secured: "pQR2JPAuz4aiETlHqDZ0kSxiJCoJgfmvl69HPY3xjkl8rgqUOLpGSA1UU7/CsLZV1+9fWQXMHQoAeG3B/UYqe+pbu3thEg7YIpbIbQJpneP1bkVyAu3WMIDL/vDy8pKcWYPFXqIvlvBKWcfVl6OevSyc/1d0LaD15vXBEnxnklNgzJz06tqRgnDuUh6AjJUwlbiiX/gT1NyDLri7K9Dx+/rUmQb/q3eFnQ1bpZ/xWvKLxrr3MGInpsP/BOHygKttKt2kAH6mrrEUI5dQwa1QNmvK4hEvAol9f7Z2A9pCAx0lLs5vrG9x40v0qx3b4FxARyMFNPrZ7kTKhf2ixStyIgfjZaJQO8Sd0xHas2OkeonCTj6V9fQnJleOzsk/1PVde4kvKkvN8ZOy3vpsQUxDsF28I+/RMKKFbQz+TCO7rPb/5n7Dw0cZsWow5gCYuhYNEjH8S3/OKfIPIa8b8tMFdfwQ2sEpK4qDm+DjSgMqKFOZ83MlMZ15fgxrL5TDCXKzCr+PIV3uWLhA7pIv+5UP/A==;Cw6VeqeULJwDSAES8ZAe/A=="

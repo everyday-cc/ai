@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpa
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
 type: article
 quality: 89
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -343,6 +343,20 @@ related:
       - url: "https://scpr.brightspotcdn.com/dims4/default/0b307da/2147483647/strip/true/crop/4928x2587+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F9d%2F9e%2F40b1cd2643cb9e7b09af4627b020%2Fgettyimages-470401587.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
+    excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
+    publishedDateTime: 2022-02-24T21:36:00Z
+    webUrl: "https://executivegov.com/2022/02/irs-ends-use-of-facial-recognition-software-for-online-account-registration/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 31
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/24/02/43/a0/38/e2/d0/89/54/00P4y000011p6OsEAI-1.png"
+        width: 272
+        height: 270
         isCached: true
   - title: "School Board Recognition Week honors board members"
     excerpt: "School Board Recognition Week. In a news release Monday, Feb. 21, Brainerd Public Schools Superintendent Laine Larson recognized the district’s board members. “I would like to thank all of our dedicated board members for making a difference in the lives of the children while making decisions based on what you believe is best for the school district,"

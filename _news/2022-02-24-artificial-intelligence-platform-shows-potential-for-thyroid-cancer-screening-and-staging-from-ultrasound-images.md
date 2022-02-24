@@ -2,29 +2,22 @@
 category: news
 title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
 excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
-publishedDateTime: 2022-02-24T15:51:00Z
-originalUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.html"
-webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
+publishedDateTime: 2022-02-24T15:24:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944395"
+webUrl: "https://www.eurekalert.org/news-releases/944395"
 type: article
-quality: 36
-heat: 36
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/thyroid-1.jpg"
-    width: 1920
-    height: 1920
-    isCached: true
-
-secured: "cRHH58kcaidBO2+Jw4AmIKxAhBdP565QUHHK3AFcgmZQ7X+xXfVwuW1AtB2c79DNcGW9/s0GXKLh2TW/GsyLsX2DCImXtz98T3LhjrchQPg3OUrLfRu/F3UuKg4SV/J4U3DRaW+2KhSnovBJss8029FE8SxEcObaaTzdjsWqUekBslZVHevbTCjV4YAL950vs5iFh/DOqJyFLJ5hKKPxvZB2tSxadu1mq3IZT93iXfmUhO/WsFxDkWuSXPAFlAd2sUJCEWzLMO9i37kJ/aL0jBRgtoSHlWid/bpNadzE/lUtPBlfhzAF5dTDcPObdjVea9ZLeDzp2KLJGpKQd4vuNtK4FzR+antcIZBHPnXJ0Gk=;QIsY3ww9c3jq/XBu7FwN3g=="
+secured: "Qh3tVgHHDiR5ZErr5/1VpcDkfD7tpMxunkX4qVSl4+JVeeH5ZkZ6pkD2Xaa6hdCNVX5nJrRqtxHK67rQ73EFKS3+YLgZ2SomgdQzkZA7sfDSS854kX+hLPNiiClg7+dtzydHxDlGYOIBzKsboGj2bGRipYHuwUNevWwCYH+vg1PSl8JFDXhsM/N8n9uMVQ/7kYdo+2obpTB0d/HJYpXIEYSJBy+Hee9itxTPKhFwBdH72Bzx2sRPaqjHCU1IK771DE1wt2HRoM7Nyj9vW8YpV4GzA3Jq/ix0bi5UCA4jGsywtpKEYaSsf48Fwoxd5Mx0/LKKLOpDyuttAuVr+NFSOe1dGDggQZDXOHB5XDFn2rE=;5qszEUg4Skk2qSiJ+mLhnQ=="
 ---
 

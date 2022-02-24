@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meta tries to explain its AI with an Instagram algorithm decoder"
-excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.”"
+excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.” Kate Kaye is an award-winning multimedia reporter digging deep and telling print,"
 publishedDateTime: 2022-02-23T20:09:00Z
-originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
-webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
+originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
+webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
 ampWebUrl: "https://www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 225
     isCached: true
 
-secured: "1tuYWNf/T5ofyPyr8Nn6Vru4qdrMdB6J5GB5QgdQdPcnmCbPXWeYRAhKlzNn19oiyhlAPErpHiNMz6tUp1O7UH7tilSVV2WaHfLmCrFeHtFW2DqpHnC62IwDYEN3WyF0FjN+p+vySq8TzTBxTh8GLGUWuKDgl4sceygwpEnyuP1kZU06qUNt7Su5zrpMy83VW+HacvOeWDaByLt0pTZBlxufIX7oIrSc0A/S8PZ3FWU7Y8kjH71CD7h09RlY8N7A9qKGgKwvO9wHouLxfNXwx37S5RKrVKEWyy/WvU1odolKkmGH2cTwLN1xqoMrzG75FgvO+fPSs7FpXLZrRxQ71GvCfszfvETt7dywTax1xws=;PZg/g3byhqIgE2m8zw0Y4Q=="
+secured: "LEqm2UOqKLHeYoaV9Y/mtizyX1675sYpWE7J9nzzRUMn4dvFt0RDpa8vuAZQ+kq3Btt+VWT7/dwAlpEKOLA5dGCN7xRUZfzYXUUzzE8/RqnR7Y8z/ihxl9S1uxzjYoS3EyhcFQI0XWprVy1gJYF/UtYEz/NFAHOeW9RnKyTM4gA2RFBISfF2awZhqMeXarYE9ORSuHcCtkwII6jSf5Y44m4w0PlmdwV5AB6N1MFc8U1DDaHbBZUHDsgvGMVNYlm7EQvkir5SX3d70ufBWdhXfovq0OoilGtY7jjmln0yrwLzUuUyEhmq2VuoPrp0rxI3eM4LOS6F8UtBX5Y919+AhPUmM4327AJ13ini9STCsbw=;jd0p9SI/isHSTt0LBr7e1w=="
 ---
 

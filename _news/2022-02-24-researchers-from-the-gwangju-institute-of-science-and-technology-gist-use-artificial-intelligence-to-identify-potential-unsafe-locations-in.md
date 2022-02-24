@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/0b/10b92349-3d3e-50c1-940d-db731cd54d33/62178cb945075.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "JZ6hxdS9Zhc6Y3BGkf/NwEzmHpFBm7T7DbgWduF8/dacqYLSTPWwarFbt1Y5y0NTe3e7GiLY0vWYrfWln2RTX+TKYn5o+uX3q2TZjRwfGxEAdZAFGc/Q7t9XXJtp8L1Bsy4S4C0Ghnm24MF4pNeW+VGYNRzgT+vH39uQPiPBZx2T1M4xCtybYaiTs3DaORgxc9EPGs2c3DBTKLJ2hsgwz6sWVSdWQsrICGDCpnwVcSL7Ujf9YSGZdAaD3fo3B9EOL2pB57IKH0IsxxW7nfRoOO37QZI7Y+zVzL+aRDWWj140Bw1/Cou+oxYgYQOxTv8RHX6QVAL3RzuHxo9Z0ZEf/EYQXNaPvUvYNUxdEKMMUA0=;3UZwSPc9KXfhv2KJcQkQRg=="
+secured: "8RDu6sPG8Tj6PUX3+lPkTwff//RbaExSBJH6/GFseYNcxiv/c4uQz+ir7t3sls5Z2qCYe/joSS3akQG/CLUivOefMbQMtAvdhX3S924iRssAOf+iCx6EXnCgUc7vWpWlkwwftAWiPpJuSUBeDBtxImeOX9w6NS2T4OG6JX6ojPTX1hXgoAX5zCzwTESupYzIxNkh6bZBHobguTiMhvUxk3Ph/sG36nFZOiFMQTTJLLBQ/ABwbp1PFDXFfNxmbHsDzcaiNCmarsXxo8NkFWvd50xdxWs1P4LTZVPrX1if/mSLr7TWJ1NLETvQudk9Ezca0O5fc5ajwzQT8u34Gc63PmNxItmDWu6CCaQG6sYt0VTd2dVYx1JrI2cJAxe7X8J++Oslt3hZnOFA8cJi5AlFypwUzUBYqazkuYuTXsbgGVUO7JGCZx3lIbAfir7Eth4mcqqzDO2ytpdon1A415szLA0QKKk62+3pDDslpBYm9CfhjMJrWhmjONVdCTy31rIk3bi3bvCLmWjp5jFqKXXxCA==;+a/4eQaod9hKA+7KxVbXRg=="
 ---
 
