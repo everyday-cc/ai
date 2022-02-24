@@ -103,20 +103,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "Meta’s Zuckerberg unveils AI projects aimed at building metaverse future"
-    excerpt: "The key to unlocking a lot of these advances is AI,' Meta CEO Mark Zuckerberg says, speaking at the company's livestreamed 'Inside the Lab' event"
-    publishedDateTime: 2022-02-24T01:48:00Z
-    webUrl: "https://www.rappler.com/technology/meta-mark-zuckerberg-unveils-artificial-intelligence-projects-building-metaverse/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 38
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/01/meta-facebook-november-2-2021-reuters.jpg"
-        width: 999
-        height: 651
-        isCached: true
 
 secured: "5BJrCv0XMRv/KzeOloA6Yo3BP2mZbZzjvHh2puPgr1YAKzWB3HQy6Wh0al+Is+j8uzsJH+uw75cVm9VTxX/K1xXZ8Vi21V5TWCN5g2agg2yw9wrJFuNfbRcgqDqh+U4HEE7BG5vJe7Wtrp4wo7koNXbMvayanW9+OeNLfnIZgczyfACKhBDC1MrslMXRP7UWVwlMlxnWF1aesVbTH8L4RX3nrfe4rLEbQyXZQbdM1aEDk91YKujYJ04XLE04GxGGnw2ipWLmra9qo9oX5dx3etvmO//0aUlmtt2K4y/ecFysoJ9EA3Eoi7x4aiit5dY0axWMkybIPbdVlhUegwesfMDHXEa2vZGGF7pnI+cCV4M=;OKusY5n1Yg1r3MPSeTd87w=="
 ---

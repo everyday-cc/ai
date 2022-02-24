@@ -1,27 +1,28 @@
 ---
 category: news
 title: "New Business Guide Explores Importance of Understanding Key Benefits, Risks Associated with Implementing Artificial Intelligence (AI) Solutions"
-excerpt: "CompTIA, the nonprofit association for the global information technology (IT) industry, today announced the publication of \"AI Best Practices for Business Decision Makers and Practitioners.\" The guide,"
-publishedDateTime: 2022-02-23T15:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-business-guide-explores-importance-of-understanding-key-benefits-risks-associated-with-implementing-artificial-intelligence-ai-solutions-1031222077"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-business-guide-explores-importance-of-understanding-key-benefits-risks-associated-with-implementing-artificial-intelligence-ai-solutions-1031222077"
+excerpt: "The new guide is organized into best practices for two types of professionals who are frequently involved in the adoption and integration of AI technologies: decision makers and p"
+publishedDateTime: 2022-02-23T15:58:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-002736df6acfb2c2e1c80cea44135c46"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-002736df6acfb2c2e1c80cea44135c46"
 type: article
-quality: 28
-heat: 28
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "+N/CIiXZblObDylM2gIId1XQVP1tEga3TJ91IEIHxhtgaOclDRxVtBrmc8LM0Ny3YRQAUpsuHNcR0Bu/ZK3dcU3H+kFZ7a3zeCpaQRNuJJHExtTkswY0IERBNwkWRtZe4ZNEbu5qJJEzsuc8ukeRnMQkNePCAx642uRR2TCqAKyHa+LmTjPKu6MzCqTl1yC3TfmRbjvzgaV8DksCk2B8Fddv5Cm/T8mByfHZwRVfw0jfoTll8ysYLRndz2vzN58itbQSscwp98bvDq5BN/kHvIrhGA9KW+V0Uvqp1fmb1hkhK79Kk93hAD2Jbp1kVv8BGMgqlg5J4Tu2kwDU/1i03NlJoFr9AWHO/ijuUsifcVI=;UTExF+xx1tSodLEwKXN7zw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "mrzEZIn3AuqA8hjpWFGoJSLgg3KWRI+9N65hjbr0wYyGHonzIRvKlxZmPahQ1ZAYuePhUjvADM+Stw45F3wYUWK+hvz5e5y9G7fwy7Jd+CemvmbBqdWKFli2PpPQkZxsc38ylRJSyXJalFhK1zyhk0OIP4Bt2QDXfArwEAxh34798Gv7+Xme7jVWCNx67QeZN32mQoQeZ2GdlsQi84Zoqm1LuO8Wp1I4h4ybRw+Oc8dLx0JdNrcZ+JHXL6IVDjhuLx/x8mkE4jSCn8MfoR3FhhUyU3960d1FEgijK91ayJctcpKjEKkvpgISvWCqiZwbQ7A85WXysrBJNL/hiRW+zbCJIP28hwgMj+rA33nUoKk=;IpODH/v5Vhx0QBx8NUpC4Q=="
 ---
 

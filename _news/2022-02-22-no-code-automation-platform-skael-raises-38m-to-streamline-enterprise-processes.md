@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/"
 type: article
 quality: 182
-heat: 212
+heat: 213
 published: true
 
 provider:

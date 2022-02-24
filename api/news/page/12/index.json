@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
+      "publishedDateTime": "2022-02-11T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers.md",
       "title": "Darktrace on where security AI goes next: ‘Turning the tables’ on attackers",
       "excerpt": "Register here. The next phase of security AI will bring a greater focus on preventing attacker movement — making cyber attacks much more difficult and far less likely to succeed — through ...",
@@ -1124,57 +1167,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-ai-engine-exposes-online-fraud.md",
-      "title": "AI engine exposes online fraud",
-      "excerpt": "“Allure Security’s AI-based approach to targeting the scam source destroys criminals’ business models — something traditional approaches fail at.” Allure’s AI-powered engine is ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1333578770-e1644515132390.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "publishedDateTime": "2022-02-10T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

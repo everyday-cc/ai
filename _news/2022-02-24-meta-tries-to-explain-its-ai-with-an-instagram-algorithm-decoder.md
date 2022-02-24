@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meta tries to explain its AI with an Instagram algorithm decoder"
-excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.”"
+excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.” Kate Kaye is an award-winning multimedia reporter digging deep and telling print,"
 publishedDateTime: 2022-02-23T20:09:00Z
-originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
-webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
+originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
+webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
 ampWebUrl: "https://www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 225
     isCached: true
 
-secured: "vGhx6142oKME+TnFUyZRBxwsO9oR8uQBzLsJP3Wlp0VA8bF+YPWnZMAt9wIYxDeF2qSGC6PIuZEWkIoDPOBVlTAiAiRNZIrPN55YPIu3XJ+nizM/bu8gxR7aLxW3uJC69VocMKwFevsBoiyFY7v4eQOiuZltC8O3OasyPeAHhFvJ9o4Z8vSu73kNCA7w1sXMynuWsmrGINCJIdVsTwjAV18GzXERXINmrtFJMo4ib2wA+ByGnmcCARUJ7DfeVNTqsvuvhN8BchxFCm96LxCdjwfh+X5aQi9bWR3YQqQJqbbM18OpaDVpr93elYZ3R3nJk5eThBDZaY1EJb2cA0r2cFRmv8P6NsPxeFrTlrdGXpNyLe19tilidf8s8ndz6tJOZBAA9iIC11+94DCDnzuNFX32VVpx+5GIg62Xw9YHeKE2unvknEPCL9QVj3DzTjxq0IQCSs1nZXpRZaS6ZBiEBSi9djYH4FLHnc6Af4IHBzY/j5MoQdde70mCc3yH2TM1u2qivs3zO8kBga9tCmNaLA==;+mxk4UFyotvmYiYEz4AjDg=="
+secured: "EHLROgWAwZwNMu/7oD/Aao3PAKNTTr8yWlFaXV2DSLQ+9y0UpbP/VGiWcf9v1S52LYu0EPb1kM7RC6GMhhoDXcZEkmdsAQevEq4wEttiXUSF5zp0FUtamPlw5e0q5ELuGvZufq7HselUiArdhqTurMVlAhvzIrGlEIpxEyaSc1ebP7rFwDsH4MPOmJnlUqQvfmdtvdcyBJkWkG8yDtR8+bcijpOF4IFBY2pqqf99pPU+Q7k2w2Ell50eefF41saUkowkq0RdJDW995adHBPH05uO2cz3zWhyInWQhsl66CY8EUq8aQZxiaOR38gIA3vuYtbrSWwUhbviqLLN1QQRHxMocPxdtNKZs1FbwQ7Ofjw=;pPNtZBj8l0FnoDWqPhuLDw=="
 ---
 

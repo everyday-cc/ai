@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality"
-excerpt: "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard."
-publishedDateTime: 2022-02-23T05:00:00Z
-originalUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/"
-webUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/"
+title: "Artificial intelligence and robotics could be 'growth area' for Bradford - but there are still gaps in tech inequality"
+excerpt: "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard. And during the same discussion it was argued that access to WiFi needs to be as easy as access to water to reduce inequality in the District."
+publishedDateTime: 2022-02-23T16:05:00Z
+originalUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.amp/"
+webUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.amp/"
 ampWebUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.amp/"
 cdnAmpWebUrl: "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/"
 type: article
-quality: 66
-heat: 86
-published: true
+quality: 65
+heat: -1
+published: false
 
 provider:
   name: Telegraph & Argus
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality"
+    excerpt: "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard."
+    publishedDateTime: 2022-02-23T05:00:00Z
+    webUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/"
+    ampWebUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.amp/"
+    cdnAmpWebUrl: "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/"
+    type: article
+    provider:
+      name: Telegraph & Argus
+      domain: thetelegraphandargus.co.uk
+    quality: 66
+    images:
+      - url: "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Artificial intelligence and robotics could be 'growth area' for Bradford - but there are still gaps in tech inequality"
     excerpt: "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard."
     publishedDateTime: 2022-02-23T13:57:00Z
@@ -43,23 +59,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Artificial intelligence and robotics could be 'growth area' for Bradford - but there are still gaps in tech inequality"
-    excerpt: "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard. And during the same discussion it was argued that access to WiFi needs to be as easy as access to water to reduce inequality in the District."
-    publishedDateTime: 2022-02-23T16:05:00Z
-    webUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.amp/"
-    ampWebUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.amp/"
-    cdnAmpWebUrl: "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/"
-    type: article
-    provider:
-      name: Telegraph & Argus
-      domain: thetelegraphandargus.co.uk
-    quality: 65
-    images:
-      - url: "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery"
-        width: 650
-        height: 433
-        isCached: true
 
-secured: "PI81ks/PYKUadx4HEXHEmhb/Iukcl1fTPVY/zyatfWbef9aMtcs03y4SLjp3imGEvprI656xoJPXYvLEznnR8/N4HkjXAPAo5XVlT1PUQfSa4j7raqXN8ony9dM1BOReBrZZhkLUgBg8flJ1QZoI4C3YrLiK5oswZ2fWwZvdeDIqRDqflpVL2AEcX8ljTzzg+nhqKqr9sfz9YZdaEQfrXm9weO+gfl3JIE9o3avR00I5nEdMCn496xIgG7gGxKcTSOmp/lmR9DC0Zy4OTPecsbQqhb2PoeiGHXqiJLx/7cBEuZo4eo1LpaDG55POVhzmSspkWBFmWSr/XDKtb9qkW0SbH8fklHoC25D1Bs51XoQ=;fn1uoExSCLzjF+J5lLM0Iw=="
+secured: "L4nIDYcVBBsiTUEc+YwSDG5HWCAHBKYr3EscspmrnYqGRhUiuDSjrZRh293jjlpjBmrNEjrPWodNv5D+6bUtvzwglEKpXE7pfxRq/BBMU+dD4FkEGXpxGXmcx6ymDsLJ3qwZq8/XnjV/CUfldvoo+wuXxSBgdD86mH2WYFoL+T7wI1m1NoxR/SXvp2ORJhSgtEnh2b8JA8EaCVJZ6YwsSJNNtu5imdm9Lihzt41p7Smxv45mZ+j4bltvJXpOvhOCiLIpRIHOPzEcy3lOeeLHrHa2wJuDo0rljv4ubIHrxt5jb+/h71JFF8Q5eSKscfUe6Ucazbi1tq/tG42wZHN+eaqxHOGEYfa6e0B+zeg/fm0=;3uZgzMySKdVrzhINJanGOg=="
 ---
 

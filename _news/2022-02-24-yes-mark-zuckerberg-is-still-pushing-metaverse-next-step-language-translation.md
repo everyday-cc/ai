@@ -89,20 +89,6 @@ related:
         width: 620
         height: 400
         isCached: true
-  - title: "Meta’s Zuckerberg unveils AI projects aimed at building metaverse future"
-    excerpt: "The key to unlocking a lot of these advances is AI,' Meta CEO Mark Zuckerberg says, speaking at the company's livestreamed 'Inside the Lab' event"
-    publishedDateTime: 2022-02-24T01:48:00Z
-    webUrl: "https://www.rappler.com/technology/meta-mark-zuckerberg-unveils-artificial-intelligence-projects-building-metaverse/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 38
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/01/meta-facebook-november-2-2021-reuters.jpg"
-        width: 999
-        height: 651
-        isCached: true
   - title: "Fintech in the Metaverse"
     excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
     publishedDateTime: 2022-02-23T11:55:00Z
@@ -118,6 +104,6 @@ related:
         height: 3236
         isCached: true
 
-secured: "ofFdne/1wzqaKr/uPrF654xYiN8h5vXcgLVJbJxvQkyCrEbmnqS3g7qCJLxQ2BWP6W0GqCiPSUqhK7YqnNTD/vqwkIrHdg8JIGq8k/6YIyi671k5q/SLS6NpPBnspkgrn4AWJlzG+6uSXwTYPd34b7AeXxq2gRQhZQb+JBg48eC34BUJdWdIXG2K8hIiRZJ0IGeDf3VrBnX6gvFquOQ48ILnaPJbXCHR8UHOkkTRvN09GhD6IAbDIVAvXLCkbWogxdqJr9CHI6WnYcv0TjRg9TWKK3ukIoKYvQ+3AbMFJcIDCDCBip9in/UmEOXi+5zqWMVpoH0XGCa6ArP/faGjk9GuX+jLdYBx+AjJnz+Vewc=;jNU+mpUg/0fgXAfoHaQyJQ=="
+secured: "jVncijWmCMtiZJ42AMeaAtByyzCWtnQJiP5NdId25qdDK54X8kCJ7h1rGfU9/Gu3zvp1JhHvB5JTluBmRgv9sCM8sEUjZvjP6lGHPMZPzAo5JgmqFesZ8lq93pb2TpL84ym9WFBrJBGbaQFU3DvjlHhoGR3wJpX+XMrqDVAp6Fush7naqfKklO66eL6ZI+myZXu0bs0QmwH93xSxQ/xKE730+7lMlDXwfC125iPHiR9zRwL1SljfMTdSQ2ozj8gxcHpHHBaqkBuRjw7dpTyMSodXolQcpFcqZPzu+ZD/1eAonergHBHz1LCBhfuX9SEbkB440V2UoA75acearcjgU/G0PlRbqFFvV4m52pKdxeLN6dP8yOWSVZ/TzYFkuNC2hSbsem7fu5EQbSFzjletZAyAsCnT2nkP/isvGn8vUxRFJ8cFHdVnCd+aHxvQXKTmYnji5hVj7g7Xqe5Lvj/jqg++e+QUQS3F0ZJJ8wsY86w/yroiIziwNDUoSJHOmeA/v3etNetP2M47lCKg3Hy/SA==;r8/2KnqEsv/8Hu0ADtcPNg=="
 ---
 

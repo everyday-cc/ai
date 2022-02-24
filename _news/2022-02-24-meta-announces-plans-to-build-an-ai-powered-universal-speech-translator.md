@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
         width: 1200
         height: 775
+        isCached: true
+  - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
+    excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
+    publishedDateTime: 2022-02-24T03:48:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+    ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 35
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ZeVPv2NQDdcIRTEfpZtg57W7tbg92kgft46FT/kYb45nZTpnwD885rdGs4pXRjF66s9sh0B1fiP6uplW3iaZ5g89b1Oa0I6b6qQZu1rewWR8GT2HiI+Cbxfcgc389lPZ3XYOBshLrQRyWq6Rt2jWwCArlRGIy/4mY9WEyVKhjtcP6U1a83wO18VjjVSM9REqiTIb2w2IpxLUf7ZP5TDtq7GAa8cmjM7e3JtbWVo+ZSIFGj+D2qXQPon/wl0G6aXK252c1prGpKhyMBx5PPkxBSOZGv1AEEqv4eu3PT3+UKGwboeRiyO3cUsCGJ84tP4fP6YLZL5Ys9tF2RrAamgdPJ1Da9E5NoVPejLXmNNM7nQCoVU0EaI0I8987nJCuesqW7iXrC1f1wdCLaPsUCQzYxbqw9Ch3G0OJ3oa8+PvY92rtFdiiBbuyxNEkhzrhb3fRZyNBzqXjvS/kHJsVuAl/L+bUCykRhTRHYMl66ZVghYdddKIOtZ8gwnWLG3JTwzec9P4oTyCvN1rnoLTrl9KTQ==;Bj+8EvdD7BTHNdL3cm4Ewg=="

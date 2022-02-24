@@ -7,7 +7,7 @@ originalUrl: "https://leadership.ng/the-voice-nigeria-set-to-return-with-season-
 webUrl: "https://leadership.ng/the-voice-nigeria-set-to-return-with-season-4/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 696
     height: 634
     isCached: true
-
-related:
-  - title: "Voice Nigeria is back for season 4, First Bank, Airtel, others revealed as sponsors"
-    excerpt: "The Voice Nigeria has been announced for its fourth ... The popular show, best known for its recognition and unveiling of singing talents, even as Nigerian musical talent continues to gain ..."
-    publishedDateTime: 2022-02-19T11:29:00Z
-    webUrl: "https://tribuneonlineng.com/voice-nigeria-is-back-for-season-4-first-bank-airtel-others-revealed-as-sponsors/"
-    type: article
-    provider:
-      name: Nigerian Tribune
-      domain: tribuneonlineng.com
-    quality: 50
-    images:
-      - url: "https://tribuneonlineng.com/wp-content/uploads/2022/02/the-voice-nigeria-1.jpg"
-        width: 650
-        height: 730
-        isCached: true
 
 secured: "UNsPl50Ga5IzYl1ScmqTqV1W4TUNmxZ7gbE4l+DRFG6eaEw71VlYrTzDVkcs1vNRojrHcbiCJmIIHoCHdcODpi3Yb/NXbgVOQZ94Js2nmRVJrZ5A5zDw42m4IhFreC7dRn3Hf+ltXazVQv+FTfCN9BYvVC/7/6r5AoFeEDBhhxK1wP+enbcB/ebiQf+GuNNnoHjtwdHX7n8ivKvDYMUnpHicR28M/1GxYnXBS7Psh+4h9Mg10mUPnNCxm1IsTpiwLsYAoLHZRgn8UXLBfdsPtUMmk5DlQRPcOgJqFC0tdS0UeMiC+VTCaxcmn0tq3qyIUFKO5xlLzCK59ul87NEm6vYm8xRT2V6U1MqjOaAHmJEzYCJGxdGExrwbzj/uuVi+Ip2midA1ammSPeynrZ7NGalhqIEMKDaHDT0SbOA9DG15y1w/POByREwznW//wtLZGKIMWi4OItFLibYQgOWbn5DeEXlInWprFw784cTVIqnDQv3z44a3ouiT5Des2s09ynITo0io3pv5FUjUiUnIyw==;F7aUP9LOfG1Nm8yavy/zTg=="
 ---

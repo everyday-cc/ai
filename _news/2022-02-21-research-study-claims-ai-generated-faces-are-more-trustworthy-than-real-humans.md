@@ -42,20 +42,6 @@ related:
         width: 1049
         height: 1280
         isCached: true
-  - title: "AI-generated faces have crossed the uncanny valley and are now more trustworthy than real ones"
-    excerpt: "As these technologies continue to improve and change what’s possible to do with AI, Nightingale says researchers and companies will have to think seriously about the ethics involved. “If the risks are greater than the benefits of some new technology ..."
-    publishedDateTime: 2022-02-19T12:00:00Z
-    webUrl: "https://www.fastcompany.com/90723105/ai-generated-faces-have-crossed-the-uncanny-valley-and-are-now-more-trustworthy-than-real-ones"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 27
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/poster-AI-face-tech.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "CnroI7KkTSwXf4tI04ik6q81zI3juncn0uXNpmYgW8gYG+o4X1cV0w1U59XlxcgvLDZQ7AkHG/rT4ZyV3EipollPWT+Oeh//WFw28OP39g0va7V+pXyaWwgnIFfDafWFbuJPlZayPqlDxTe8/gCHf8orWzJdcwutvQHw65EJTtFU6m3alKMgT1fSRXZyrhWFD4/k7D1Y1uQP8U8pSTdFRaJfmlEfpWj/qa7nnkWS4VwWUDnwYp3VX/o7CFVK/mLmhxgiIYzaB8U4w8sUNkbT0LeZgnLpHQsuCtHKydUeccfDWR7+RUrxoymi4ftofPlzV3Eb3j+ogXwdHzgMjmj+u2E9thaDGw4RanVklefeObE=;T5TR+v7Lb6EVj/k7wH9kog=="
 ---

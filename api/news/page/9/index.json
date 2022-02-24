@@ -139,6 +139,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-15-facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027.md",
+      "title": "Facial Recognition Market Report Trends, Competitive Landscape and Opportunities latest report values till 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2022 (Market Insight Reports) -- The Global Facial Recognition market study focuses major leading industry players with information such as company profiles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027-2022-02-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027-2022-02-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-cow-bull-and-the-meaning-of-ai-essays.md",
       "title": "Cow, Bull, and the Meaning of AI Essays",
       "excerpt": "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ...",
@@ -287,20 +339,20 @@
     },
     {
       "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure.md",
-      "title": "authID.ai Joins Microsoft Partner Network To Expand Verified CloudConnect To Office 365 And Azure",
-      "excerpt": "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ...",
+      "title": "authID.ai Joins Microsoft Partner Network to Expand Verified™ CloudConnect™ to Office 365 and Azure",
+      "excerpt": "“authID.ai is committed to delivering intuitive ... we are excited that our new biometric integration with the Microsoft Office 365 and Azure platform will protect the data and IP of an even larger cohort of enterprises and professionals across the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure",
-      "originalUrl": "https://www.benzinga.com/news/22/02/25632124/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure",
+      "webUrl": "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/authid-ai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure/article_141c4428-2e24-5c84-ab75-1db2004fa7f6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -310,11 +362,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T04:12:00-08:00",
+      "publishedDateTime": "2022-02-15T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1094,48 +1146,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-nvidias-ai-innovation-should-push-stock-higher-analysts.md",
-      "title": "Nvidia’s AI Innovation Should Push Stock Higher: Analysts",
-      "excerpt": "Nvidia has invested heavily in artificial intelligence—in cash and culture—and those expenditures should drive up the stock price, Truist analysts argue ... to $244.80. The S&P 500 was down 0.4% and the Dow Jones Industrial Average was off 0.8%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271?tesla=y",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-485592/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "publishedDateTime": "2022-02-14T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

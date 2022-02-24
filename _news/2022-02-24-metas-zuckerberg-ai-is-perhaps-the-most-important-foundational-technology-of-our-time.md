@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perh
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
+    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
+    publishedDateTime: 2022-02-23T21:20:00Z
+    webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Zuckerberg unveils Meta’s AI innovations designed to build the metaverse"
     excerpt: "To drive innovations in AI, Meta announced Project CAIRaoke ... templates rapidly from a few spoken words. It’s a good start for users taking their first steps into virtual worlds."
     publishedDateTime: 2022-02-23T22:44:00Z

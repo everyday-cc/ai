@@ -2,48 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-02-21-global-artificial-intelligence-spending-to-reach-434-bn-in-2022.md",
-      "title": "Global artificial intelligence spending to reach $434 bn in 2022",
-      "excerpt": "ET CIO privacy and cookie policy has been updated to align with the new data regulations in European Union. Please review and accept these changes below to continue using the website. You can see ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89713908,imgsize-734064,width-1200,height-628,overlay-etcio/global-artificial-intelligence-spending-to-reach-434-bn-in-2022.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "publishedDateTime": "2022-02-20T18:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-21-artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027.md",
       "title": "Artificial Intelligence in Aviation Market Analysis | Global Demand Analysis & Opportunity Outlook 2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (Heraldkeepers) -- Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results.",
@@ -1212,6 +1170,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022.md",
+      "title": "Why AI and machine learning are vital cybersecurity tools for 2022",
+      "excerpt": "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
+      "originalUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645030838/webroot_carbonite_logos_Numbers_Brain_AI.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

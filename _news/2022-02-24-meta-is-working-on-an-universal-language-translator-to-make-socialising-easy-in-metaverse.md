@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Meta wants to build a universal language translator"
-excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
-publishedDateTime: 2022-02-23T18:36:00Z
-originalUrl: "https://www.engadget.com/meta-wants-to-build-a-universal-language-translator-182519805.html"
-webUrl: "https://www.engadget.com/meta-wants-to-build-a-universal-language-translator-182519805.html"
+title: "Meta is working on an universal language translator to make socialising easy in metaverse"
+excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
+publishedDateTime: 2022-02-24T03:48:00Z
+originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
 type: article
-quality: 54
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BGR
+  domain: www.bgr.in
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-02/82fe4f50-8e5d-11ec-bbac-3ec8c9620e85"
-    width: 4000
-    height: 2515
+  - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -77,6 +75,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta wants to build a universal language translator"
+    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
+    publishedDateTime: 2022-02-23T18:36:00Z
+    webUrl: "https://www.engadget.com/meta-wants-to-build-a-universal-language-translator-182519805.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-02/82fe4f50-8e5d-11ec-bbac-3ec8c9620e85"
+        width: 4000
+        height: 2515
+        isCached: true
   - title: "Zuckerberg's Meta plans AI translation tools"
     excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants"
     publishedDateTime: 2022-02-23T18:50:00Z
@@ -105,23 +117,7 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
-    excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-    publishedDateTime: 2022-02-24T03:48:00Z
-    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-    ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 35
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "t7IGKy2Da1uL1ynEXZKL3y5p9Eb2A8xyGleqrhjkRFYePYAaDyxvM51zpTKckk6UB55m5klZZgrnh5OH6F7bRIOau6iYvoQsCNmozE/gLDaoj6aoFjuUgs3C1ifNCHt99ikaoANvBc2evTmDYYm+hD4kx+CJk8JfUhm13CO+/kBLYS8c8cPCFEnj+pvk88pciZRWzq1c21rPIlU+UV8MtpwedFunhv9Tls2frxa5C2OX1IDv7p3yDEtehEdOLSTOdv8BLkFMQVcl2/OZVilBZAzrBG3Vs73PYxEtTvfo8teQ4PwSY4pjakXSgrEpueX+jZqVr/Ro1dcrpjwdJjp/zjA7vzJ3Lf18U3Jh1jkxbBM=;jdHRvICrdQgOJU2zGJxJsg=="
+secured: "Tkr0WKdLxuqQK3PMy0x31go8I2NdOTd8lpSPbO9+DmIJi1zYXDQCBksgr03gUMWBm81uzpwEharblVD9eDUh2YcM7S7P0u2kYpaeIECK6RdhJAyu/iinvgVIm0z9pXDD4cVsqkRilOD5w8TdrGlbQF86GcY1VN+xiCrFAslZ4OnMocGb6czJfpz7IyB6punX2t/IERaeuL+0qjXfkjpUX8aFpyIY7YXnXh3W7iUn0q4gRYhRn4mWTwkja5OSIbFxRgjPGo8yB37TBaFuM1okUj+LrZ5UxfSK64xTzGddb01WdNwCW1Ivd0AkSezyFoHbhdtZNLthWn6c7rI+G+eSqdYddg1aAHWu4REtGPec2dM=;uFe9y2A1rH3HTzK9MjgsVA=="
 ---
 

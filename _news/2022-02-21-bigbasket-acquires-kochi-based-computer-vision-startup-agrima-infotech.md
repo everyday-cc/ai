@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/bigbasket-acquires-kochi-based-compu
 webUrl: "https://analyticsindiamag.com/bigbasket-acquires-kochi-based-computer-vision-startup-agrima-infotech/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BigBasket acquires Kerala-based startup Agrima Infotech"
-    excerpt: "Agrima Infotech cofounder and CEO Balakrishnan said his startup joining hands with BigBasket will redefine the offline shopping experience in the country. “BigBasket will use this expertise on AI (artificial intelligence) and ML (machine learning ..."
-    publishedDateTime: 2022-02-19T12:41:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/bigbasket-acquires-kerala-based-startup-agrima-infotech/articleshow/89688169.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/bigbasket-acquires-kerala-based-startup-agrima-infotech/amp_articleshow/89688169.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/bigbasket-acquires-kerala-based-startup-agrima-infotech/amp_articleshow/89688169.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-100282,msid-89688170/agrima-infotech.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "BigBasket Acquires AI Startup Agrima Infotech To Power Self Checkout At Physical Stores"
     excerpt: "Amazon has already launched its self-checkout Amazon Go stores in the US, and the Tatas seem to be collaborating with an Indian startup to bring the concept to India. BigBasket has acquired Kochi-based startup Agrima Infotech,"
     publishedDateTime: 2022-02-21T15:57:00Z

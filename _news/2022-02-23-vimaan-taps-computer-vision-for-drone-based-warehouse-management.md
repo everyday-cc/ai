@@ -2,28 +2,28 @@
 category: news
 title: "Vimaan Taps Computer Vision for Drone-Based Warehouse Management"
 excerpt: "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ..."
-publishedDateTime: 2022-02-22T16:23:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
-webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
+publishedDateTime: 2022-02-22T16:18:00Z
+originalUrl: "https://www.airforce-technology.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
+webUrl: "https://www.airforce-technology.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Airforce Technology
+  domain: airforce-technology.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/shutterstock_1518283382.jpg"
+  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/02/shutterstock_1518283382.jpg"
     width: 500
     height: 333
     isCached: true
 
-secured: "kLPK9s4yKnsO1HpKMHcKl0RHPWiMIDDfDW2lZaBJqFZCjqcYZNvFmilpScn/7fOnDCv+aTkHWrtdlbg5AGToe4LyEurBLfWlbFQ7mxnfAnU74GmSM3hATyAwOdD2PbNaXq4eUEaEo+BPo7nw8+LHgRWANCppQBzaJwsOnBgc6xtiE1HJI7//78jYkrKPU4UcMOpc+PLkFwAHHmPEh/lQGXODuR8bpXAGxc/cKdrE2LYZpNDVytwTLNwvhoX4WW/fqEL4WOedZdMzB4PUtkLYNFumKGneRG4ULv2ognndnemu6xNl1UlLpl2JchE9pXNxFzebgmADm4OR88c9TVQWBlTfIYw/Mp4TREIM4irzjj4=;mJxwTeNXFtFEBjryGZxQjA=="
+secured: "diFikyZTBg3Bl759luwugmf50RMhua2mfO8R4tooriEu8MclVNxP+nXqsM+5GQNHKf+kmsepPTdAcZF5868Ta5+QiWV15JLdodmIn7ZjdnPSl/2Cl5NdLTI0JgkobxJmJbEUM52a8vcWoHNxaCiF9xRz6EM7Oziob1ywY5E9r5lmu1ZXkZ8yM8T2dHOM1D9aKUjIDnO927JVL+5yw6scj+PD+wXrtZOcbW42I54tJgOZAkoxGptvDIfkwASub074cchZjvhHTx7sXTqSAE1cWfU3AQDoN8PmjtMy01LoRztEwHCtoX0hJ1n36NodCzTsqE0AnCIOKrX7isgMLKDtpxV2mqkXwTArFJCJpwgxO6E=;2h7jL3AZ/tXBcqnmwGLxUQ=="
 ---
 
