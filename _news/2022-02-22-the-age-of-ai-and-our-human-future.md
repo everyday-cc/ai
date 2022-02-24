@@ -24,80 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "The Key Artificial Intelligence and Machine Learning Trends for 2022"
-    excerpt: "This allows artificial intelligence to complete numerous tasks that would otherwise have been too challenging, giving it new applications in finance, chemistry, and healthcare. Another key AI trend we expect to see is the continued rollout of natural ..."
-    publishedDateTime: 2022-02-21T00:24:00Z
-    webUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/"
-    ampWebUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
+  - title: "The Future of Computer Vision and AI in Clinical and Hospital Settings"
+    excerpt: "Over the last decade, AI-driven computer vision (CV) and machine learning (ML) have become ubiquitous. However, the major trends in both industries began more than two decades ago and continue to shape advances in technology and regulatory changes today."
+    publishedDateTime: 2022-02-22T17:25:00Z
+    webUrl: "https://marketscale.com/industries/podcast-network/health-and-life-sciences-at-the-edge/the-future-of-computer-vision-and-ai-in-clinical-and-hospital-settings/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
+      name: marketscale
+      domain: marketscale.com
+    quality: 54
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/Depositphotos_10142532_S.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "AI for protein folding"
-    excerpt: "DeepMind has opened new paths for drug discovery and design by solving a 50-year-old problem in biology. DeepMind, Isomorphic Labs, Baker Lab Now By the end of 2020, DeepMind, the UK-based artificial-intelligence lab, had already produced many impressive a ..."
-    publishedDateTime: 2022-02-23T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/02/23/1044957/ai-protein-folding-deepmind/"
-    ampWebUrl: "https://www.technologyreview.com/2022/02/23/1044957/ai-protein-folding-deepmind/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/23/1044957/ai-protein-folding-deepmind/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/tr10-ai-protein-folding-16x9-1.png?w=2256"
-        width: 2256
-        height: 1270
-        isCached: true
-  - title: "Paving the way for AI and Machine Learning success"
-    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
-    publishedDateTime: 2022-02-22T15:15:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 56
-    images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
-        width: 1000
+      - url: "https://marketscale.com/wp-content/uploads/2022/02/PodcastGraphic_OnePerson-2-800x450.jpg"
+        width: 800
         height: 450
         isCached: true
-  - title: "Upcoming AI Tech for 2022"
-    excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
-    publishedDateTime: 2022-02-20T17:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/upcoming-ai-tech-2022-pierre-llompart"
+  - title: "Council Post: Individual artificial intelligence is the future of AI"
+    excerpt: "In the future, scientists could build a highly unique AI that directly connects the neurons in the human brain to a computer."
+    publishedDateTime: 2022-02-24T05:34:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-individual-artificial-intelligence-is-the-future-of-ai/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
-        width: 500
-        height: 281
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Ind-art-b_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AI in Drug Discovery Market Global Industry Analysis, Trends, Market 2022 Size, and Forecasts up to 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on AI in Drug Discovery Market which emphasizes on th"
-    publishedDateTime: 2022-02-21T14:40:00Z
-    webUrl: "https://menafn.com/1103735412/AI-in-Drug-Discovery-Market-Global-Industry-Analysis-Trends-Market-2022-Size-and-Forecasts-up-to-2031"
+  - title: "Research offers radical rethink of how to improve artificial intelligence in the future"
+    excerpt: "This could be translated to improvements in everything from driverless cars and smartphones having a better understanding of voice commands, to improved automatic medical diagnoses and drug discovery. “Artificial intelligence research ultimately has the ..."
+    publishedDateTime: 2022-02-22T18:07:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944255"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
-        width: 375
-        height: 250
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
 
 secured: "VG9oNqL+fDXcXzkPdpU5pMYSwGNrvdG91wueej4gnMpXdlIrKwPkjrgGVSfaEPELx5TLmiWYmYcjyxaFx5ThI6F8IoMZv9xJvsqlmiLpCh4YR0rY9DpObaRAhcXGJxsEMZu2XD/igBd56eLyYjV372hp/xpTs2nn0h05hvtTRsJi9LJ6i6f7fNOQEvsBe809WWMQuUm/JO3wnLqTH+xKeTm9+HfXirb2TSWA8hSorEts9vl67Is+vJffCSe3vKD4xA5O7P+h97qmY/vVTct26Qe0YMpOFoOjE6NcANcMA4FfUiBbA/4++5IaEjoT+O0+xzfJKu03hE8QP871cDzTUlmXmGJU2D6o8R8htwUtlvX91wFJc3ZUFImVne/19ARDywn1GXpfTQ2nXxu8xsoMoiIuKzkyxNiGWqW/nh9qMfcfRc+fpo8cWlEUeSyqLr+PP8hdS2L4EPwNbT7l9P8/vrOwZxVJ79Wbq+x1Y8dIE76ttu9EhcWtFjEDReV8xv94EbdBfA76mc61eZho/wuFdQ==;5bLNQ7S71MPnb4r6oRBsqg=="
 ---

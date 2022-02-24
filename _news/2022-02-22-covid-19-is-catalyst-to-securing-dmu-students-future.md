@@ -36,17 +36,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 39
-  - title: "How long COVID exhausts the body"
-    excerpt: "Millions of people continue to suffer from exhaustion, cognitive problems and other long-lasting symptoms after a coronavirus infection. The exact causes of the illness, known as long COVID ..."
-    publishedDateTime: 2022-02-20T03:29:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection"
     excerpt: "A critical step in the fight against COVID-19, which continues to have a catastrophic impact on peoples lives, is the effective screening of patients presented in the clinics with severe COVID-19 symptoms."
     publishedDateTime: 2022-02-23T03:24:00Z

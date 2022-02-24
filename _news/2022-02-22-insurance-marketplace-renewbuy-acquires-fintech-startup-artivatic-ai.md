@@ -41,22 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "RenewBuy acquires AI solutions-based insurtech start-up Artivatic.AI"
-    excerpt: "RenewBuy announced the acquisition of cutting-edge, artificial intelligence-based insurtech company Artivatic.AI on 21 February. The Bengaluru-based insurtech firm has been delivering underwriting and claim solutions to multiple life and non-life insurers."
-    publishedDateTime: 2022-02-22T04:43:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-11645503822626.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/02/22/600x338/iStock-1127497866_1603325813158_1603325819158_1645504894690.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
     excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
     publishedDateTime: 2022-02-20T23:27:00Z

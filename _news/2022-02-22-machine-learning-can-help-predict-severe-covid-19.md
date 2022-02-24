@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "How long COVID exhausts the body"
-    excerpt: "Millions of people continue to suffer from exhaustion, cognitive problems and other long-lasting symptoms after a coronavirus infection. The exact causes of the illness, known as long COVID ..."
-    publishedDateTime: 2022-02-20T03:29:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/how-long-covid-exhausts-the-body/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Covid-19 is catalyst to securing DMU student's future"
     excerpt: "Romans’ role involves utilising artificial intelligence (AI), specifically object recognition, to help clients become more effective and efficient in their processes. “I’m involved in everything end-to-end, from talking with clients about what they ..."
     publishedDateTime: 2022-02-22T08:39:00Z

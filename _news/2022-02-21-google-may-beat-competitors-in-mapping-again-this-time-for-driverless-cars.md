@@ -43,20 +43,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Column: \"Driverless\" vehicles bring unsolvable problems"
-    excerpt: "Despite all the hype, driverless vehicles have some big problems that definitely will not be solved anytime soon. As someone that studies computer science and artificial intelligence, it is quite perplexing to me how legislators have made it possible for ..."
-    publishedDateTime: 2022-02-20T04:02:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2022/feb/19/column-driverless-vehicles-bring-unsolvable/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200678424_Pelosi-CMYK_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 340
-        height: 518
-        isCached: true
   - title: "Driverless Car Market 2021 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2028"
     excerpt: "Ranging from artificial intelligence (AI), augmented reality ... is anticipated to contribute to the growth of the global Driverless Car market. Based on the increasing number of internet users ..."
     publishedDateTime: 2022-02-24T12:40:00Z

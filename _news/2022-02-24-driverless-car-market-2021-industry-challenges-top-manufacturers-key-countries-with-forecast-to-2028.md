@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Column: \"Driverless\" vehicles bring unsolvable problems"
-    excerpt: "Despite all the hype, driverless vehicles have some big problems that definitely will not be solved anytime soon. As someone that studies computer science and artificial intelligence, it is quite perplexing to me how legislators have made it possible for ..."
-    publishedDateTime: 2022-02-20T04:02:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2022/feb/19/column-driverless-vehicles-bring-unsolvable/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200678424_Pelosi-CMYK_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 340
-        height: 518
-        isCached: true
 
 secured: "CoK5Qo6QdvwOIsLcf/O0OvJERsD5GufZ4T7o5G7vqAqBUg70j6szopxh4htg6dQplDfnqpYsPtbMfdjNY5IUT8oCn2UjLsVOv6S3OpL+76Uz3noX1O6aq7ADWa8fv9kufljFxEvyvy+jAQITyKGIMyLfirSYCuQORzwZ+YRqwRHoG83EWi+r4wbe5KQsMB+XHDfD34LdZu4C4Tl1jssFF1DrNvu/F5itLJ9wmW7PD7L9fCDP2Q2B9o2HrC7VttMJS4flRmD7gI6o2pwWhKwzOxDVYhzt2G7dRRv1NdGIzl8bJq5hbuvx5r/lS7BpVUT/f11ZhfUMhp0Jz2xuEDlVn3XnDu84w5Kuxv4saAwjSsg=;27uloNCV5OdCvgIgsoUK5g=="
 ---

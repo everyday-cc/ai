@@ -71,6 +71,15 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Apple adds Dutch voice recognition support for Siri in HomePod 15.4 Beta"
+    excerpt: "American tech giant Apple has recently added Dutch voice recognition support for Siri in the latest HomePod 15.4 beta. As per Mac Rumours, the addition of this voice recognition means HomePod or ..."
+    publishedDateTime: 2022-02-24T17:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220224/3911356.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 3
 
 secured: "9k+Cjvq+2efIYuv8qtggewKcTUOIwz2SJvy7rE8M1yu37dnOPcokKKu/NGQzExxc2OCRua8s1KBsP/cZEn+dWOyaQVPTfIP4lVib7gWbum84MK0JDrSIr38g9FKs5LA2N6pA2OjVQDeA5UWvHdsmy9JQwrA8n2zuH7alokwvyto51Gsb4zJLc+ABNRLXkjcAODtEcqqgkBw/BLElTDTQ5poTkqvQBxVMgxUWndTLWR8lDG0MriE3eR9/fCwaE9Pl3iespHbmeLt0hTrXDjKGgPZyiPzix9U/uD8qZnpgT2YfYZCRT+bqZGfxXgKTLLB31Kv6e8UK+PeiUiGu323a3hMf8VvRw86ab5LqTVOuo7PAgxnk8+JMs5UQSBWgFfEQllvKfBVD6WUXEn6rlS4HBxDoPuQ9wXS7Ns38exT+ImTyc9k4prvctQJiW0TezydfjSCLk4qwxtZYVSGaGPy4OC5c155N1kA0LcCgNGZjEdpQ1Rqo/LIir8AehMwo5TtTPtXZ4EqQhwS/sFKgZsqSIQ==;Zbkf4n/59weKYKzOwM59Aw=="
 ---

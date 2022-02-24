@@ -27,66 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "RenewBuy acquires fintech firm Artivatic.AI"
-    excerpt: "Promoters of the AI-based start-up have received shares of RenewBuy, according to the chief executives of both the firms. The deal was closed in the first week of February. Agencies Last year around June, RenewBuy had raised $45 million from Apis Partners ..."
-    publishedDateTime: 2022-02-20T16:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms"
+  - title: "Converging AI And Longevity Research: Cutting Edge Innovation In Insurtech At HITS"
+    excerpt: "The convergence of artificial intelligence, aging research, distributed ledger technologies, new sensors, augmented and virtual reality is driving innovation in health and life insurance. To facilitate for this trend Generali set up HITS - House of Insurtech."
+    publishedDateTime: 2022-02-24T18:47:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/"
+    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg"
-        width: 600
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6217ac51d6e1527d378590b6/0x0.jpg?format=jpg&crop=2047,960,x0,y9,safe&fit=crop"
+        width: 2047
+        height: 960
         isCached: true
-  - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
-    excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
-    publishedDateTime: 2022-02-20T23:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
+  - title: "Foresight Research: Consumer Resistance to Banking AI in Illinois"
+    excerpt: "Few banks are disclosing the number of AI users that engage with their chatbots. Why? Bank of America reported about 20 million or about 30% of their customers arere using ERICA – their chatbot. ERICA has been in use for over 4 years,"
+    publishedDateTime: 2022-02-23T20:07:00Z
+    webUrl: "https://www.kxan.com/business/press-releases/cision/20220223DE72073/foresight-research-consumer-resistance-to-banking-ai-in-illinois/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/02/Canada-Flag-Ontario-Toronto.jpg"
-        width: 1280
-        height: 1133
-        isCached: true
-  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
-    excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
-    publishedDateTime: 2022-02-21T07:52:00Z
-    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic AI"
-    excerpt: "Gurgaon-based insurance technology company RenewBuy has acquired Bengaluru-based fintech startup Artivatic. AI in a combination of share-swap deals and cash. The deal was finalised in the first week of February. RenewBuy is a platform for comparing and ..."
-    publishedDateTime: 2022-02-22T07:47:00Z
-    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
+      name: KXAN
+      domain: kxan.com
+    quality: 19
 
 secured: "xo10Gjn53r4f28VjDbTRUUbF/686UzYOAkOthnDnp/MvZsWmwG/jmoR9AQNrZ8Bo0uFYhB+RKzdT22xHnyKGcuvmDmJpaWxet7CZ89V6qhF3+AM6drYq8ySGLbnON6k5VP64oP3CaZ0qJXBO0fEjp+zH8N568vw9cEBKYXjB5fFEJHcdUs8+V7O0qc3wad5sH1cphiRm5plIjHRjyCzQYIJp02J/afnQMEPY/d6PeP3yzYKQyJGaUlL43pnQ7UFmFeg27RXXtbgP8xUGgn6+gPH/SEnhgDfiiicTQPW77l+I6hwednFqKKXXs04jupkQy1EY5R2g/h4xSfotrExRH73t8nrsK77t/n/xlVGebsA=;ayhhTh/biXDtuNvrmV6BrA=="
 ---

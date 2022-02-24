@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Putting AI to work for CX and sales in 2022"
+    excerpt: "In sales, AI is often touted as the new way to forecast and drive results. While it sounds good, you can’t throw AI at just any problem."
+    publishedDateTime: 2022-02-24T19:17:00Z
+    webUrl: "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/"
+    ampWebUrl: "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all"
+        width: 1200
+        height: 629
+        isCached: true
   - title: "The Key Artificial Intelligence and Machine Learning Trends for 2022"
     excerpt: "This allows artificial intelligence to complete numerous tasks that would otherwise have been too challenging, giving it new applications in finance, chemistry, and healthcare. Another key AI trend we expect to see is the continued rollout of natural ..."
     publishedDateTime: 2022-02-21T00:24:00Z
@@ -43,19 +59,37 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Paving the way for AI and Machine Learning success"
-    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
-    publishedDateTime: 2022-02-22T15:15:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
+  - title: "Putting safeguards in place for AI use"
+    excerpt: "As AI is becoming more and more prevalent in our lives, so is its potential to harm. Aporia is the Israeli startup trying to change that"
+    publishedDateTime: 2022-02-23T14:09:00Z
+    webUrl: "https://www.geektime.com/aporia-raises-25-million-series-a/"
+    ampWebUrl: "https://www.geektime.com/aporia-raises-25-million-series-a/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/aporia-raises-25-million-series-a/amp/"
     type: article
     provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 56
+      name: Geektime
+      domain: geektime.com
+    quality: 57
     images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
-        width: 1000
-        height: 450
+      - url: "https://www.geektime.com/content/images/2022/02/Liran-Hason--Founder---Alon-Gubkin--CTO-Aporia.-Credit---Yakir-Shukrun.png"
+        width: 2000
+        height: 1252
+        isCached: true
+  - title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
+    excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots, researchers say farmers’ livelihoods must be protected."
+    publishedDateTime: 2022-02-24T09:43:00Z
+    webUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/"
+    ampWebUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 47
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/02/SEI_89793529.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
         isCached: true
   - title: "Upcoming AI Tech for 2022"
     excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
@@ -71,33 +105,33 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "The Age of AI and Our Human Future"
-    excerpt: "Three leading public thinkers deliver a bracing introduction to the promise and peril of artificial intelligence (AI). Machine learning has already begun to change human society, for good and ill. Computers that can perform tasks that require human-level ..."
-    publishedDateTime: 2022-02-22T05:04:00Z
-    webUrl: "https://www.foreignaffairs.com/reviews/capsule-review/2022-02-22/age-ai-and-our-human-future"
+  - title: "Using artificial intelligence to work smarter, not harder"
+    excerpt: "Rowan College of Engineering and co-director of the Rowan Artificial Intelligence Lab.  One of his research projects aims to develop a rigorous, scalable learning framework that will enable AI systems to self-assess their performance and continually expand upon their prior knowledge."
+    publishedDateTime: 2022-02-23T15:23:00Z
+    webUrl: "https://today.rowan.edu/news/2022/02/meet-dr-ghulam-rasool.html"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
+      name: Rowan
+      domain: rowan.edu
+    quality: 39
+    images:
+      - url: "https://today.rowan.edu/news/2022/02/images/meet-ghulam-rasool.jpg"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "Best Institutes To Study AI In New York, 2022"
+    excerpt: "Artificial Intelligence is the ultimate buzzword that is ruling the roost. The tech trend is most in-demand and one of the top skills that recruiters today are seeking. For many of us, the term AI stirs up an image that is dominated by robots."
+    publishedDateTime: 2022-02-21T09:59:00Z
+    webUrl: "https://ceoworld.biz/2022/02/21/best-institutes-to-study-ai-in-new-york-2022/"
+    type: article
+    provider:
+      name: CEOWORLD magazine
+      domain: ceoworld.biz
     quality: 37
     images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2022/02/17/31XnCvrGC2L._SX320_BO1%2C204%2C203%2C200_.jpg?itok=lDjNfrRO"
-        width: 486
-        height: 694
-        isCached: true
-  - title: "AI in Drug Discovery Market Global Industry Analysis, Trends, Market 2022 Size, and Forecasts up to 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on AI in Drug Discovery Market which emphasizes on th"
-    publishedDateTime: 2022-02-21T14:40:00Z
-    webUrl: "https://menafn.com/1103735412/AI-in-Drug-Discovery-Market-Global-Industry-Analysis-Trends-Market-2022-Size-and-Forecasts-up-to-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
-        width: 375
-        height: 250
+      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2021/12/Best-Institutes-To-Study-AI-In-New-York.jpg"
+        width: 970
+        height: 647
         isCached: true
 
 secured: "xAeqpbfAZLH+TAJhRCapK4uhUvTfBIdIiDJkp1tww+NgqURhyCoADaRCCsTzbj+JAQuaFenk42hCl0CiY73JKwhrD/ceMDyBrFfeK02bjUuLF2fuHYiCYT3f81I7ugQ27el0BwNkeNdjTmsNeZamd/bLYfJEyX8O5e3/yzHYIcRNh2e5RrHVZukkbm+pPLvSeGpENBeZVqglv9j22Zj8MhI/nZmtLBzekCojVB5M2+0SsngIN15eHD4L7/A2bxHEr5JRQYrgEWq/W1M4DBVQ5SFm8SevvMhRppb7Bbku3fPZiy0cCJKpCWcf8kL9FrzFlkDe110TO0yjPMCraLW5ue/OgXW394L632GXR5v4EHG67nVRPu+hsSl/WmBI6mnBRwLrUsgpO8ZYUQBLLejw5eBXsiO0psd8opFVxbAJDVfJe+PnjZQA84KPVRghK4xOArhCjBDg/77PFjy1I+cFQ+n4AYvSngqs/hPY97wavB5TfUbj8126RKgSSHueGhSnH3fbtPWA/Z108Il0McL4TQ==;0uTsoktg9vtxkkmg7JVNgA=="

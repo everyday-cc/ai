@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "It is Time to make AI data-efficient"
-    excerpt: "Corporations in different sectors leverage the power of machine learning along with the availability of big data and compute resources to bring remarkable enhancement to all sorts of operations, including content recommendation,"
-    publishedDateTime: 2022-02-20T04:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/time-make-ai-data-efficient-michael-taylor"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHRfqpeYaLBIQ/article-cover_image-shrink_720_1280/0/1644730147960?e=1651104000&v=beta&t=CLW39YlBuaXCMjwqFGSLpN_2GKD8tt0m779o7gCddFc"
-        width: 717
-        height: 720
-        isCached: true
   - title: "‘Data-Centric AI Community’ to Foster Community-Driven and Expert-Guided Transformations for Better AI"
     excerpt: "The new paradigm shift in approach to AI development, from model-centric to data-centric, YData, a tech-startup, created the Data-Centric AI Community to facilitate community-driven and expert-guided transformations for better AI development. The Data ..."
     publishedDateTime: 2022-02-22T15:24:00Z

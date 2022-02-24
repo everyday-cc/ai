@@ -41,6 +41,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Firefighters relying on artificial intelligence to fight California wildfires"
+    excerpt: "Firefighters are teaming up with data scientists and artificial intelligence experts to battle the growing threat of massive wildfires in California."
+    publishedDateTime: 2022-02-24T20:41:00Z
+    webUrl: "https://abc7news.com/artificial-intelligence-wildfires-wifire-lab-burnpro-3d/11596528/"
+    ampWebUrl: "https://abc7news.com/amp/artificial-intelligence-wildfires-wifire-lab-burnpro-3d/11596528/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/artificial-intelligence-wildfires-wifire-lab-burnpro-3d/11596528/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 36
   - title: "California used facial recognition software to combat insurance fraud. Is it time to scrap it?"
     excerpt: "Gavin Newsom as a crucial tool in combating unemployment insurance fraud, and the system was credited with being a huge help in doing just that. But now, California’s nonpartisan Legislative Analyst’s Office is urging lawmakers to take another look at ID."
     publishedDateTime: 2022-02-21T11:00:00Z

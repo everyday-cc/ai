@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
-    excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots, researchers say farmers’ livelihoods must be protected."
-    publishedDateTime: 2022-02-24T09:43:00Z
-    webUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/"
-    ampWebUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+  - title: "Paving the way for AI and Machine Learning success"
+    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
+    publishedDateTime: 2022-02-22T15:15:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 47
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 56
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/02/SEI_89793529.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
+        width: 1000
+        height: 450
         isCached: true
 
 secured: "ytCCEijxlhse5Vtt8geaOx/3AonsUmXTm3F7Sq5J/McAu34trwip+4Faip4OcINoYm5eerSpglo4ObJLWB/bRelFAVPGLLMopTi00MedAYCBwmV2JwN0ZrIo92snkDBKdrj7f2fdQhfQKRec5HpDd31368gjHlz5gqllCCvKe4GbfqZvhpgo/2KNXW6Qotp3LxZDhR6kVxC3C1DLo9unfCh2g2/Xc/Z+CLqT84Hxc9tKUOxwoTgyJVVRDAPrNMuehqt+ernJlR7FY0bPOg/+XcCa/h4RswF2BG6VIq4Xgiu85Cm3Mmz8/1YXORNk9hhv+wBvi+Ct6ylrryutF4T2Er31mTbd9XqvPhKSC/xReoywTshVY4zlZiYlXkYrnDGblBJfw/wzng9XNcfNGSRZO2TqnlnDIppua0WtA7S0/Cz6hvafjNdI6Sl2NVt7ELQeQKpSYcMq5cZlWLapUPT7JmrZyLZQugznU10FhwIcEiW+Y0Z8ZZNV1GyAHikYkQK/OvnYyfjD3VY82p7V8VjMBA==;aOUGw8TflztzHOedfEa8Fw=="

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 455
         isCached: true
+  - title: "H2O.ai brings AI grandmaster-powered NLP to the enterprise"
+    excerpt: "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati."
+    publishedDateTime: 2022-02-24T19:35:00Z
+    webUrl: "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 455
+        isCached: true
   - title: "H2O unveils AI grandmaster-powered NLP"
     excerpt: "H2O.ai, an AI Cloud company that raised $ 100 million in the Series E round in the end of 2021, and now worth $ 1.6 billion, has hired 10% of the world’s AI grandmasters. The company recently announced the H2O Hydrogen Torch, a product that aims to bring ..."
     publishedDateTime: 2022-02-22T12:21:00Z

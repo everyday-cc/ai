@@ -153,6 +153,20 @@ related:
         width: 940
         height: 529
         isCached: true
+  - title: "Microsoft updates security applications for multi-cloud environments"
+    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
+    publishedDateTime: 2022-02-24T20:22:00Z
+    webUrl: "https://www.reseller.co.nz/article/695602/microsoft-updates-security-applications-multicloud-environments/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 56
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "Microsoft to introduce a new AI platform called ‘Singularity’"
     excerpt: "Singularity is also enabled to jump back in when a job is cut off unlike many other systems that restart from the beginning after failure."
     publishedDateTime: 2022-02-23T05:19:00Z

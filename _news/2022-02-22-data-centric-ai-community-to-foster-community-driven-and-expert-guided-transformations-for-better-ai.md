@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "It is Time to make AI data-efficient"
-    excerpt: "Corporations in different sectors leverage the power of machine learning along with the availability of big data and compute resources to bring remarkable enhancement to all sorts of operations, including content recommendation,"
-    publishedDateTime: 2022-02-20T04:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/time-make-ai-data-efficient-michael-taylor"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHRfqpeYaLBIQ/article-cover_image-shrink_720_1280/0/1644730147960?e=1651104000&v=beta&t=CLW39YlBuaXCMjwqFGSLpN_2GKD8tt0m779o7gCddFc"
-        width: 717
-        height: 720
-        isCached: true
 
 secured: "4GqMl7f0GRVd8JZQjxiRI9dBLFYzZDRKUTy6IuYDyIfXAF6QztmPKyMQ/E7trSWEkFJlFlYLFlsn4frDhaKSZfx3I3spJWZWH0A67tDlsC+t9zxWcedwbZ76qY+c4LfLuWJ4Yi6pl+J5wl6L5jhDKIvQY0IvYzsQ4qMyfv8ftdA+cxTLyzjF7DLwvDJ0x/CG+ULXx8MlnLOnYsj7qW7rqF3yNoQ6pt/EKjp9VgaKREXUCVwq/z6gUVoNsehA00MwwVBYR20y4uCplR669KjzASg15CkkZ4heFD7xXmRI60ZdfRsgVaGJHtE75g8OhH0VGYsr0xoc4H+ahpHDqnJzuXHvs4iaWMRXq+t0HHXG3zI=;CRkPCv1b2C4+ODPzx7Cs9Q=="
 ---

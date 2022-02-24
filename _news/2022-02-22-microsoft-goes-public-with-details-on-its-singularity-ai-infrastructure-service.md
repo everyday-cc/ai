@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/singulairty-ai-ms.jpg?fit=940%2C529&ssl=1"
         width: 940
         height: 529
+        isCached: true
+  - title: "Microsoft updates security applications for multi-cloud environments"
+    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
+    publishedDateTime: 2022-02-24T20:22:00Z
+    webUrl: "https://www.reseller.co.nz/article/695602/microsoft-updates-security-applications-multicloud-environments/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 56
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
+        width: 473
+        height: 315
         isCached: true
   - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
     excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."

@@ -2,9 +2,9 @@
 category: news
 title: "Meta is working on an universal language translator to make socialising easy in metaverse"
 excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-publishedDateTime: 2022-02-24T03:46:00Z
-originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
-webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-maark-zuckerberg-metaverse-1239826/"
+publishedDateTime: 2022-02-24T04:00:00Z
+originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
 ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
 type: article
@@ -250,6 +250,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/ntR1qtEIy7liCziVRr1OOPvX64VCuwtUmi3/hLhL4xpse/1YrSvpQ3GPQ/Bj4lSyqm+t8ZB6ZXDOzrZD5pvJFyxAor4m5DAraZBu4uho+iY5mEKPQAAKv6uKuq2KiBSHiQ7eWbtIjYMQJL3LNhvAqVW4bKrL6EvjRzqhsCCymdlaZdaS5VATbcEOT+4OKLIQdBRvhJlzWGrEHofnMIovq45L/2HH1d4rIk5C5NHZi3aiICEPOhZj+QYLfQgEvcaEPkqZ3E4NT0NwKIwyNd1HlNnaadZE3a0sK9Ow6Z6x4zLuhofs+SyBShJiOmA/tSrTRmMa6HgPOWr1iTtKLyipTOCv4LvfONCsoD4qA7uzh8=;wrCg4PzOH+6CBq8SKC22Vw=="
+secured: "wJNq0GG2LyPl9ZIjXhv7h44nxOMij4SPBJOmKWDzvwJ66ih/w6XoAt4LTU1xOT/7Gn1hgU70MLujrDsDth/qz0ZZESH9Z54v/cYiDTPItilIMQzSFHYPLYc5+qrxykZSD/na6rzk6QxQcKdu0Xq0vh9EoDf4Au1RuoNwbgIDxh5gpNaQnpnu+kbdFIloJKYI68xbUsAe5inargCJgfF6za1HIDeDeCI7Xb4pSaVFq52erNLdIyc+v8vHHn819Gfc6XxWWmtyrTLmgiqJVteMRLSm/oIzT1fXTQKMXZC+CDH6cjHvj/0GdcdC5AngQ1sP7PcgrzS3yBgkmkGo4BLUYcsRmFqbW1aozagti8eJQtM=;KnxqJV7pLzRtkPlVQtefuA=="
 ---
 

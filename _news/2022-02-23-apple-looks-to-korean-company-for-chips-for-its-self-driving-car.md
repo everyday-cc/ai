@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Software-defined vehicles: Apple developing self-driving car chips with South Korean company"
+    excerpt: "Software-defined vehicles: Apple developing self-driving car chips with South Korean company . February 24, 2022 by Sam Francis Leave a Commen"
+    publishedDateTime: 2022-02-24T20:44:00Z
+    webUrl: "https://menafn.com/1103759802/Software-defined-vehicles-Apple-developing-self-driving-car-chips-with-South-Korean-company"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/24/R&AN_e57ddimage_story.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "zt1awIM17H9VhsMDIpfYoVj6rWs5eGcmbgv+w8rn3hKhKAsVtLPaAM8jelZBParuko2pcP0Wtm2C8J690HF5I4xIcjKlpIQI6wHoX9KnP5ufZ9z+phtOn9tyMFefN4EA459fkEh4oyj4Uz0K40lzdXaqjlzZRasDUYJfxqNqB62EKv+yznTTSsda2Fainf0RF09Ph0SJX0dUSiXz9+nIf2gpFB1qG7ldjHTTLC52zIaQ4Ll/5wtx1b6gBRAvmtY16McYYxJewKMw9NvLmj9Id5I52YVYkPouyQGRVDAks72+cS5WOhxRRQmUOfVPGRMxG+SWg5xrJTZ2q5EePhQ4GdAHEfbbsEetPEF8PhZadrQ=;n7nsd3LcuoWMPtCnEx58sg=="
 ---

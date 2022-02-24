@@ -136,6 +136,20 @@ related:
         width: 940
         height: 529
         isCached: true
+  - title: "Microsoft updates security applications for multi-cloud environments"
+    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
+    publishedDateTime: 2022-02-24T20:22:00Z
+    webUrl: "https://www.reseller.co.nz/article/695602/microsoft-updates-security-applications-multicloud-environments/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 56
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
     excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
     publishedDateTime: 2022-02-22T16:40:00Z
@@ -221,6 +235,6 @@ related:
         height: 337
         isCached: true
 
-secured: "cSlXSDjlTwWKdr8H34kDC2j0LLlN8InK/mURSe6hhazzjPh0ijGyM7BhavycMw+RU28NXxlNVUUsLXDg41pCUTASVwDHKrV1SLUd+kMTooofjnEaEKtucDAuvrYvyveWV6292HV6ArXZFBw/LS8/cFh6GAfLhnd4MO4MdoMmQejz40y+VokIyAkJmrfdjXDErKtAHUhUkhvKWbjFAwIQtfzC9hrwcAFDNxdi4dZp9kxFM6h/UX8bOvnxSZS2O5kxzVVqtz+jykwkhTK0jKboP5Yg6V+CkBYG32kjVNqi2bypbWJU+3WIGV0Ecpv5Nqk69OEL6H41imHIWbhI499/fDSpV7jJxvPd4nOvZfTjOGU=;Euf6aYGdDSR/ZiulaZviuQ=="
+secured: "BFgJ1XMv+jm3mnvIRNkJs0FUltWhMsbXdqvL+lSVbOJUxYkAWT/R63r8pqisrG4n60njtrduVXwpF46EC6MT9NGnu6bSn/o3EoEHVz9+DRMO0wu7mgh4Qz5Hw6G85L024MYFlOQlIOuobI3FkT+MvJP+pDs23RTgOGkruOBlP24hQkTQnGsVsecoqXv7jvc2SdPEx69Xd7xCxJCpvxsYTUQRr8FVHOa8ufneNj0kos0gPaccNNteOvEmqN5K+H/XEtBz0zhuTwOLb8BD8g4grK0m5Pws1OuZEXjfoxnPgf357rbkoafWg7JJgsUzfvQxBHS/g+fxG+sdf6m7W8o/CeDBZrBQ216CCSoiRbvfwB05k40OspBhghximeiA58+7PW5EgzqRmTDjaSJjQZoblzS/SSTVU0CVN9VT1E1OeirE2Sqf07jnBTkRo4Ah91BgQ2IlsRmKaJXbceKzIFjyY5UHKr4FGX0K/1YAPD4IQ/cbuVLEx7deipCrXp4pLQE8WmMHx/fJqwvGELlDUAeYqg==;OKMGyCZERxxcgxnCy63dtA=="
 ---
 

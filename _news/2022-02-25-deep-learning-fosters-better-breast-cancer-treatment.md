@@ -3,10 +3,10 @@ category: news
 title: "Deep Learning Fosters Better Breast Cancer Treatment"
 excerpt: "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time."
 publishedDateTime: 2022-02-24T18:29:00Z
-originalUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
-webUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
-ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
-cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
+originalUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm"
+webUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm"
 type: article
 quality: 59
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "iOOq/z+noybxgCxmXS5KD8NJEE1w6DAE3TkmMpENLTCqNwrUoNQRM4+ceBH/ycTYWG3yPno45bfSlORGgcCm2XZ+ceLiVaNbFth/C+k3NS8mowcWcI+0nshe1F/EsGBkX8GgxYO4GX2azYgHiBDLdZy+EL/LLgHsC355RKAMeBdDEE3eK/4LHsM5/L76AZSLioXluc/txjg07Xf1FgLKrlNp5L9hR2x8wSMJrvZJt2hhY0+P8hNv/hZx3oIIk6Cy3VOZOzqUAsvIL7xtnJfBmXB3h9WY83oyDVfArG68bk2ZWhnH4J0OXKWLsmHANVf2nHdAstNYvtETMO5HcExBJr2eOR3Im+hziD5xj5Oooss=;217NhirVeeAOfOGS6ResYQ=="
+secured: "p9BFb6b5yQo+39G8+/eANvBYhtCLye/9LH71PzpO9dVktNoCsiEDJWa6Rbm1og/KVCEQ6iEuOCb/yXrKSoxhOioPAbH8UJ9zBubu0yrw6jigB38jkPmhxJ/VicqjBhY4HSsNX/Y7Jv66hoJwbsMlQ3Nr7MT6XdPDJhn2068EmdFNY70IJbz5AWuez2rf1DpoYqtX2nOYL635bx79zMAHvFdFXjsM+ui7cHaGbEBxp0ZP1zd6DX/CotTkp4ex+QXl3x2vsxSJF214nO82xPEUfEIoZBpn3heA7RcJp40qjvsG1GFFCN/hgCeLXTy52WOx+hnxpwWo/0xnQaQxe8a6RDXZvrZv++AfvaDX69Vfi2c=;Gd5q3JuvM0Oycu53yzFWDA=="
 ---
 
