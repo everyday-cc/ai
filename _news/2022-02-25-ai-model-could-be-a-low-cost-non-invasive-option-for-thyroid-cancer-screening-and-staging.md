@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Model Identifies Thyroid Cancer through Ultrasound Images"
+    excerpt: "New research discovers that an artificial intelligence (AI) model combining several methods of machine learning precisely identifies thyroid cancer and predicts genomic and pathological results via examination of regular ultrasound images."
+    publishedDateTime: 2022-02-25T13:57:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12777"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12777"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12777"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 34
   - title: "ASCO GU 2022: Optimizing Management of Localized Prostate Cancer: Combined Modality Therapy in Localized Disease"
     excerpt: "GU ASCO Annual meeting included a session on the optimization management of localized prostate cancer, specifically looking at artificial intelligence (AI), active surveillance, and intervention, featuring a presentation by Dr."
     publishedDateTime: 2022-02-24T14:09:00Z

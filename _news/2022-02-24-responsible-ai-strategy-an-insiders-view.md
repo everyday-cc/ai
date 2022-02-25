@@ -7,7 +7,7 @@ originalUrl: "https://aicd.companydirectors.com.au/membership/company-director-m
 webUrl: "https://aicd.companydirectors.com.au/membership/company-director-magazine/2022-back-editions/march/supplement/episode-7"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
-    excerpt: "AWS; Conversica; Creative Virtual; EdgeVerve Systems; Google; Haptik; IBM; Inbenta Technologies; Kore.ai; Microsoft; NICE Incontact; Nuance Communications; Oracle; Pypestream; Rulai; SAP; Talkdesk; Zendesk and Others. Artificial intelligence is playing a ..."
-    publishedDateTime: 2022-02-24T15:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_7b3e0f2c-146f-5f30-abe8-fe67b6e2a18b.html"
+  - title: "The Strategic Building Blocks Of Ethical AI: Representation, Governance And Leadership"
+    excerpt: "Consider three fundamental strategies needed to achieve fairness in AI development and use: executive leader readiness, representation of women and people of color and stakeholder governance."
+    publishedDateTime: 2022-02-25T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
+      name: Forbes
+      domain: forbes.com
+    quality: 96
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a4/aa49c3e3-f6cb-5163-bc16-c3551c6cd3ab/6217a5cf99e0c.image.jpg?crop=1536%2C806%2C0%2C98&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
-        height: 630
+        height: 840
+        isCached: true
+  - title: "Ethical AI: The model dilemma"
+    excerpt: "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Building AI with ethics is a pertinent ..."
+    publishedDateTime: 2022-02-21T03:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89714732,imgsize-88468,width-1200,height-628,overlay-etcio/ethical-ai-the-model-dilemma.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "ui1JL99Ils6HGyz8cT2pZtKvfN6IoUMrv4AF8y+uu4H/GF6J4TLEvkkkX/IdwxfIQo3AF5u7E1RgzvpYG6gSVBRLj+8JxlzfdcPD+wPMX2W2WnfrHozuWoG3kAjZT1ZYpGXWikfUlT6o1aaTVoxSVTfZjmpL6onaSYAncsWOIi5ku75Vqc9TO5jYwJU793dANNpKLqriXowtDFVCAOBFQrR9m33QQTU7/vQAOtYYZzxxlyI9AiLlZJzOoFBHt7279L7dgNNfaCHDDm3el67cnZBAAhTJlGTM8bp4Cjn931COXCwyRcxprkJtFNlEjfA1iJbRRHfrmdKUXPyITXL9ucOVOen9lYL86TjkxSWSMvyrjfrIAbZzFdb+5/mNn4/IsMe6fooG1hWQGNxs1356e7DSMBTApWGNwLQzNCgA0fnbPo9u1cFXS75olsCdH5VVNLp3bbmxjIJWQ5yQHyquI+biK0fBawYaO8ksN2jr9k+VNbRWyC2jRNUcvs3q/zh9+QvwNYu1xsAXUwLW7m0B/g==;CwYArUg6GfnKRPrpc6i58w=="

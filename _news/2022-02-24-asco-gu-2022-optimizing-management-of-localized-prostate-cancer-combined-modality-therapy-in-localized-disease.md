@@ -37,6 +37,17 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial Intelligence Model Identifies Thyroid Cancer through Ultrasound Images"
+    excerpt: "New research discovers that an artificial intelligence (AI) model combining several methods of machine learning precisely identifies thyroid cancer and predicts genomic and pathological results via examination of regular ultrasound images."
+    publishedDateTime: 2022-02-25T13:57:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12777"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12777"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12777"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 34
   - title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
     excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
     publishedDateTime: 2022-02-24T15:24:00Z

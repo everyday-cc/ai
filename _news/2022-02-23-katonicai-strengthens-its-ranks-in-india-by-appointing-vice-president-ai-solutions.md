@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/kat
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: India Times
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Student in India develops AI model that turns sign language to English"
-    excerpt: "She invented the AI model using Tensorflow object detection ... a pair of gloves called ‘SignAloud’, which could translate sign language into speech or text. They won the Lemelson-MIT ..."
-    publishedDateTime: 2022-02-20T21:45:00Z
-    webUrl: "https://technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english"
-    ampWebUrl: "https://technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/114964/student-in-india-develops-ai-model-that-turns-sign-language-to-english/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
   - title: "Now an AI model that identifies where solar farms are located in India"
     excerpt: "As of July 2019, India’s solar power capacity stood at 30 GW from 2.6 GW in March 2014. Recently, researchers from Microsoft AI for Good Research Lab, and The Nature of Conservancy have built an AI Dataset for Solar Energy locations in India with up-to ..."
     publishedDateTime: 2022-02-22T08:30:00Z

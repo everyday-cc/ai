@@ -8,8 +8,8 @@ webUrl: "https://www.thehindubusinessline.com/opinion/what-does-artificial-intel
 ampWebUrl: "https://www.thehindubusinessline.com/opinion/what-does-artificial-intelligence-spell-for-policy-makers/article65083799.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/what-does-artificial-intelligence-spell-for-policy-makers/article65083799.ece/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.thehindubusinessline.com/incoming/3p1mz6/article65083888.ece/alternates/LANDSCAPE_615/IMG_bloc_AI_machine_lear_2_1_FV8QIIBN.jpg"
@@ -26,6 +27,6 @@ images:
     height: 383
     isCached: true
 
-secured: "0HHHr3KGS3NBvYNf1okehUKrj+Sey5lCC9yrOgVSCXPJPM4f8T9b5MhQPlKac7j+CN9clcY94hUxReIxhN9dyRMeN8VF5RdrBj54IwKHUYJJDiz5FbzEoP1rslsZvbm89kXSqcFkYPs+ZwOfkPlcXwWVU8+USAi1YOQM6zD6097LGxwfhYQ5Ta4D0x5FR2z8mkewuccOvLewSeHaBiCYOoFuvEKZVYCsPeEPUpnr2/pn6hHBOA539yrpA6UQdpHv8mZNN7qqzDJYd0WllB3dBo9MKHhqH1Y/foNXOrqDEzlEdqKmF1HVrMYB5Xd9XswE8z/hfU9i/B4IMZq4WN/EEHE//gyesVVf1DviNL5iVgE=;3NQkYGrKzuN+EHJJTeOPMA=="
+secured: "xpcO7mlHYwO+sXzPa87TXIeklyPlHPRarlddWuEbJ2mmkyMmuYOMfXGIqElTZSxMfTgL/grypoIKBhnZQC4emFbmiyglwNLlyJyim3BRaq1B1cMgE82v/w+W4PyPAtlNbA8uGYjCsgZBnZdxeX+4igvq2rg4bWAeVbRInVLQT7HryifR09SIFVDtm04YkdIGF4nhZQ43j1vcflcjFWwBV73LM3iyad9u/xGUhsPSBywBCoqH8WU0VmGQQov/L4kj9LK+WImg47sIJDa/0yfr9tPBlGAK9lQNtk0fMUX+Pqaydbuj3B89MpkS0ctduq5tBsJ6U83kHnd3LgqObAGZfTQS1r93t6xcad3p6tdlcXeA0+vSglwbKDaBWZQfOzTwqDq3s874yh8EqYJzxy0zMl3wF/JK04Ty+HjC6DwmhIJDM0K0iFt8VSsDsHBF6PYAMFCg2Y9il/UjMUjlyjnZgYP7XZkXTIctl+HtM5+LIFX2DufT2/uS95X7XcpcsgGsbTB/ppj50cbP33jozPxMCw==;SA8rdawaxYe1rr4tXnqABQ=="
 ---
 

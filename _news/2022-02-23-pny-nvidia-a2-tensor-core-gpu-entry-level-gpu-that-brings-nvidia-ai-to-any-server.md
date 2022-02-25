@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/pny-nvidia-a2-tensor-core-gpu-entry
 webUrl: "https://www.linkedin.com/pulse/pny-nvidia-a2-tensor-core-gpu-entry-level-brings-ai-any-simon-horton"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "See future tech and learn AI skills for free at NVIDIA Developer Conference"
+    excerpt: "Next month the world’s brightest minds in AI and accelerated computing will come together to share their knowledge and peer into the future. Tens of thousands of technologists and developers will attend NVIDIA GTC — a free,"
+    publishedDateTime: 2022-02-22T16:49:00Z
+    webUrl: "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/NVIDIA-GTC-March-2022_press-release_collage.jpg?w=711"
+        width: 711
+        height: 399
+        isCached: true
   - title: "How VMware & NVIDIA are Unleashing AI for Every Enterprise"
     excerpt: "Over the past few years, we’ve seen VMware and NVIDIA’s long-time partnership going from strength to strength. Here are some of the major innovations and joint solutions that are globally available fo"
     publishedDateTime: 2022-02-22T11:39:00Z

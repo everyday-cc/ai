@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "See future tech and learn AI skills for free at NVIDIA Developer Conference"
+    excerpt: "Next month the world’s brightest minds in AI and accelerated computing will come together to share their knowledge and peer into the future. Tens of thousands of technologists and developers will attend NVIDIA GTC — a free,"
+    publishedDateTime: 2022-02-22T16:49:00Z
+    webUrl: "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/NVIDIA-GTC-March-2022_press-release_collage.jpg?w=711"
+        width: 711
+        height: 399
+        isCached: true
   - title: "PNY NVIDIA A2 TENSOR CORE GPU Entry-level GPU that brings NVIDIA AI to any server."
     excerpt: "Versatile Entry-Level Inference The PNY NVIDIA A2 Tensor Core GPU provides entry-level inference with low power, a small footprint, and high performance for NVIDIA AI at the edge. Featuring a low-profile PCIe Gen4 card and a low 40-60W configurable thermal design power (TDP) capability,"
     publishedDateTime: 2022-02-23T14:32:00Z

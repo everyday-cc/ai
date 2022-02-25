@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-belie
 ampWebUrl: "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/"
 type: article
-quality: 78
-heat: 80
+quality: 178
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 450
     isCached: true
 
-secured: "wJxjaNByvNgoWIHH1kfuaGKmtdpEorGYXWHlIO0sYUwi0f5vdNPM/5xKi+cDoxNss6OKsxoePF3suQsxMv5D46w8kpVaCbUJukWg/fDKblf+OJg+iKtXRpiQAi87xijx8w2gXdNyQWo4xs1YrcQQffkJe/ajfs9qh0LkhiFg+ysuuAX2SSaAk4J7bm8IQm08ie/5Dj7EFtER4XUs1U878yYWgCGc0hAftPo94jRxKGKwELpVeHK7J0nNg5pmlRMnRkD7Vu5JJEbq2m7R62bj9fLqLgrwHCrW/r3wTyxE0/SAlT0rtVhp8aCzukRDvORop71qyuH3Lji9t2WZc9e8B2xL9HBI57ntOVstokhcuH4NHEik+STsYHBkwomShNMeCxeUZ+nKcEn3iktz4VuGzz/HPJ3DUKzqpejdKjBwvJkhZPlOEMV+LVrLVxrN3+u0aAUtNunzgePYuaJ2YNldsou5OMZZs04bmOYvqmIbF2+iFu5oBpqsVzKKzPSrC6atiJ9w/0gP9PrvkPU3Oqwo5w==;D0z57EmNBTYufHGygmc9ww=="
+secured: "h1PeJ5WhOO+2Fb74eUvBAw/IjLlxLE+5b8Q268+VLzCwbo1MV5CJq9D2A0a9FGaTTrs9xq8M5GL9fIjmWNIW9XymCbZMkgVTdFzoIUTO4RFp0V3mdYH27wUY0D+xRs/zphEw/SHvQ83NDhenGYIq/ZlUM6ppvIqTKv3RvAESBW2005C4kS6vc0FZXe9pN7KvQf0TwEMbeCjd5r2gCUDZRnNV4L7Rpeado7xAImrN2kEMI59MzPsEugDOB2jYM22upKiE8nW37EAAejLCT4n11FdVBuKvLJ8/gmfZf/wOL9tuz0bT9EoCtsS2GBrXWb6KK9+nu3OZO+W7TsOvEUU2Zkb4YdiwLUVTFubuKqFfhQwziCPD6qeAtGmeLydnwDjHAiDb6frUZU0zyj3ZRcqmTW06vfz6efWJz4gruUDlDJ3x8/nE5evBF6fhPMle8tzlwxx9fZJYJcSEDvSG6hNHFjZPedHyI9u2BphQHrq6YzId4EUJ+RBhqvMgiHF0ZAGFCk7916E+8hFVptofG/A2razNFvo/ljor2XEjjWXgX8Y=;bCXXnIcd//hjaLFEnP4wsg=="
 ---
 

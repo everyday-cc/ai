@@ -32,6 +32,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial intelligence will transform agriculture trade in 21st century, says PM Narendra Modi"
+    excerpt: "Artificial intelligence is going to completely change the trade related to agriculture and farming in the 21st century, Prime Minister Narendra Modi said on Thursday. While addressing a webinar today on `Smart Agriculture’,"
+    publishedDateTime: 2022-02-25T13:27:00Z
+    webUrl: "https://en.trend.az/world/other/3560889.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 25
+    images:
+      - url: "https://cdn.trend.az/2021/06/21/narendra_modi_210621_2.jpg"
+        width: 624
+        height: 479
+        isCached: true
 
 secured: "YmEPgWeELVV50Oy/kVEy2pnZnYA8MRX2mNkPVYITf1/UvMpsB3fh7LckQFLkIcZBAcR9q+32Wht80gleHrnT+qc7zkn62t0PVIbTSL7JuwFiAM3htqOBS6IoZhRvnsrYdS4+0oIkNBEw/aEk9hjNTwg8ZhsmYKe5QTLv/nW5WyUkdV1HilDf6HIYIHfugP7vkpzf/j6934A5w2jSRRbbsLd8qAukisu9REcoDfEsqbLBqepv7TssdH8tSW1JgXhnDGo5Tl29SoD7dgTbRdrAPzeEgdH8LnMfa/huEFvhhUi65Vs6pUeGD/dGn6Wb4yEWOE01YeQKqbYxJik+P2b+M1yn399VREe+Ydnaj8ZENPg=;hOm87CG+K2BVoe6l9irjGg=="
 ---

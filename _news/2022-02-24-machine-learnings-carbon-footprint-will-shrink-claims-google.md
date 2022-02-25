@@ -6,9 +6,9 @@ publishedDateTime: 2022-02-24T13:04:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/machine-learnings-carbon-footprint-will-shrink-claims-google/"
 webUrl: "https://www.datacenterdynamics.com/en/news/machine-learnings-carbon-footprint-will-shrink-claims-google/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 154
+heat: 154
+published: true
 
 provider:
   name: Datacenter Dynamics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Jm3W0Veufl6qW8H76rmwv5tSLGUuXgpJp3gIm2nQPejckDChJiZu2uV4eNLP9uPulCtDWDNwJOQQstbBfzNHlOgnqKjckAxApPyAWj8p1LmLNLWkl87U5NjpaNB0whrJv+FDItWuMhAzRxx9daFImyy9MrpGWH+8j9jJh4FnpYJudAATq8UzDWJamYBR+tAadUngmiLcfag49bwn+/jAP8eWR87JmlLKxp/NRi/zKhQ+U6/CLYXzjrO8WgHkyZU5F8P29JrIuH0eExuauYfqqnvyFDZl7XfgxKBDWkxporyWvMLdporRAtgCq4GXpCm15rYSBWZFCUdwzBs4einI/hLHH5UI8H3QqkpO16kB7nBkpOVXAqWRxC0/Mx2ml7CmLNs0tKgxSHaSHtCEa0YWvYtxdA81hT86rOnrZju+psYMBFd+eEm9mflC6qcF49+WGncfBO6MWuyGq0OXPuidHZlc+NeHS4Ix3nLW6rOfDQwNfZqX39jGDggjOxJfL/iMm42qU1qCVHmNdFV81GzVFA==;4g9naFJizJeBcdSHO9RMow=="
+secured: "LIQxaTG65CFqvNmjrImUcN9OUlDeSOiS02+1PMPaLwM8Dzhh7Jy7YJw/eTUaqzd583PhIg7OnDY8xCn4ZpFtxnCjOoJfDcVfwbBI5hMFg+jTiucBwYI58TwqGrpOj0s/AL1apCLRQJfKfR82Kof307A6tpSvX1+0FVB+ytTOR4bfoOcw+oVqNYExNh9QrHmv8FbhTeRuqcTyjQVyiBOIXio6oDBlkSbfiHrOrIqWnTpY9sH1SNKQ3jT5CcPyTLoJVd4GYtUUwbyKi73wihrTUqUdZXdSeA57kja5uyqsVQlsScOSX2sWoX36TF5JL8MQD8DFtPpYIn1OcXMQv2G0rEsKhF8I31KA17CM6+hmNp0RscALcVigzDcjzlvhPpxek+XLcizQ/NvxTyXjkkbu+GUbLcPFDGk0qVd3zhw6EkiIcxf2yrIajK6luK+sCBi8tsVdaGzJ8AMH8SmS6jO0I5Vq6r4PdtcZCwhjD4nf+7Ecx4rFKB+8D39a6IkqwHI/pawLbkPyqQckJKReV+Zo3g7mxfB8aMjEn6bBrlIo+Ds=;IxL/qe8x5ZsAgsqFmkqL2A=="
 ---
 
