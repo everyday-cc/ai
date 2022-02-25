@@ -194,6 +194,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-18-keep-diving-keep-changing-the-reason-why-i-dived-into-exawizards-after-working-on-numerous-ai-projects-at-ibm-and-line.md",
+      "title": "Keep diving... Keep changing... The reason why I dived into ExaWizards after working on numerous AI projects at IBM and LINE",
+      "excerpt": "The only company that really said, 'Let's do BrainTech' was ExaWizards.” This is a story that introduces the Wizards who work at ExaWizards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
+      "originalUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0jtUalbZGug/article-cover_image-shrink_720_1280/0/1645156885104?e=1651104000&v=beta&t=y8rxwD15WoWX2y6AsGqxWqTYUUTBLD8GtuiuhqRx3tY",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos.md",
       "title": "IBM creates free sustainability accelerator for non-profits and NGOs",
       "excerpt": "IBM has already conducted a pilot of the project with The Nature Conservancy India, Heifer International and Plan21.",
@@ -388,8 +440,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?785747",
-          "width": 409,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?954602",
+          "width": 423,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1376,50 +1428,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-free-ai-protein-software-packages-nearly-predicted-structure-of-the-omicron-coronavirus-variant-correctly.md",
-      "title": "Free AI protein software packages nearly predicted structure of the Omicron coronavirus variant correctly",
-      "excerpt": "In brief Using two different free protein-predicting AI algorithms, computer scientists were almost able to model Omicron before the coronavirus variant had been physically mapped. Colby Ford, a researcher at the University of North Carolina,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
-      "originalUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/07/15/shuttersock_vaccine.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/11/ai_in_brief/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/11/ai_in_brief/",
-      "publishedDateTime": "2022-01-11T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

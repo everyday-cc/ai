@@ -38,20 +38,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The Age of AI and Our Human Future"
-    excerpt: "Three leading public thinkers deliver a bracing introduction to the promise and peril of artificial intelligence (AI). Machine learning has already begun to change human society, for good and ill. Computers that can perform tasks that require human-level ..."
-    publishedDateTime: 2022-02-22T05:04:00Z
-    webUrl: "https://www.foreignaffairs.com/reviews/capsule-review/2022-02-22/age-ai-and-our-human-future"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2022/02/17/31XnCvrGC2L._SX320_BO1%2C204%2C203%2C200_.jpg?itok=lDjNfrRO"
-        width: 486
-        height: 694
-        isCached: true
   - title: "Research offers radical rethink of how to improve artificial intelligence in the future"
     excerpt: "This could be translated to improvements in everything from driverless cars and smartphones having a better understanding of voice commands, to improved automatic medical diagnoses and drug discovery. “Artificial intelligence research ultimately has the ..."
     publishedDateTime: 2022-02-22T18:07:00Z

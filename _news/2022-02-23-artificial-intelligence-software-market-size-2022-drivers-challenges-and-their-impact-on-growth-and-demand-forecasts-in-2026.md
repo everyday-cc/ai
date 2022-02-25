@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Edge AI Software Market May Set New Growth Story"
+    excerpt: "The latest research analysis by the Astute Analytica revolves around the state of the global Edge AI Software Market during the forecast period. The"
+    publishedDateTime: 2022-02-21T14:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-may-set-new-growth-story"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "+4Nm8db2z17ffoSaPd6OgI79hgS9AfV+bQsWcPtKRw/C7pBQSr3xhWe0dyZoH6Bz7WF476pnPlhCxWYQhRCvAuLXGRzPa3eHxHV8YAMu5vrQCiGSLW/rUjChP1CJP/dNGmLvqQ3AdHMkjo8yliLGELQxma0JNCjNVx6NiongAYensDq9s/P7sgCk7nxl8LmLdqI9nGKwkd1e5yuVPYYO5YMBfZUVRwC8qETqqKDuzOASUBCekqgjC+WkIqZekvYiMLJ+OzF0Kgog4wzUXwosT05YglquQOpBO2C89T/RubO0CxTs2YztC6ilu/iplAkgCnia2at6yw3Ocuk27vVmV8LwQksWqXUWpX2jrIEZz7k=;4o5s5HXXndF0aFictZEuCQ=="
 ---
 

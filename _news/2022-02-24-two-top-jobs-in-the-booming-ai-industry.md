@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: TechRepublic
@@ -31,54 +31,89 @@ images:
     isCached: true
 
 related:
-  - title: "5 steps to minimize AI bias in marketing"
-    excerpt: "Register here. Today, more and more marketing tools are AI-powered. As that shift has occurred, marketers are grappling with the fact that there will always be some form of unintentional ..."
-    publishedDateTime: 2022-02-20T14:20:00Z
-    webUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/"
-    ampWebUrl: "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/"
+  - title: "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022"
+    excerpt: "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized."
+    publishedDateTime: 2022-02-24T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1145968976.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6216521a02453bb63285909a/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
-        height: 800
+        height: 841
         isCached: true
-  - title: "The artificial intelligence-enabled nation"
-    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
-    publishedDateTime: 2022-02-20T18:47:00Z
-    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
-    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+  - title: "Integration Of Artificial Intelligence In The Video Streaming Sector"
+    excerpt: "Artificial intelligence (AI) incorporation into streaming platforms has proved to be a game-changer. It’s no surprise that we can’t imagine a day without them, with more customized user experiences and higher-quality streaming alternatives."
+    publishedDateTime: 2022-02-22T21:03:00Z
+    webUrl: "https://techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/"
+    ampWebUrl: "https://techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/amp/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
-    excerpt: "Identifying a malfunction in the nation's power grid can be like trying to find a needle in an enormous haystack. Hundreds of thousands of interrelated sensors spread across the U.S. capture data on electric current,"
-    publishedDateTime: 2022-02-24T21:38:00Z
-    webUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: Impacts
+      domain: techbullion.com
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/tv-5837826_1920.jpg"
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI - an opportunity for the assurance industry?"
+    excerpt: "A couple of months ago, the Centre for Data Ethics and Innovation published The Roadmap to an effective AI assurance ecosystem [1], a document that perhaps got overlooked in the furore over the impact of Omicron and the concern over the Downing Street parties."
+    publishedDateTime: 2022-02-20T17:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-opportunity-assurance-industry-andrew-rogoyski"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHcqxk9c0ik9w/article-cover_image-shrink_720_1280/0/1645376939004?e=1651104000&v=beta&t=0e6d_6dR1jxTGqonmI-8w1n3qDpT2eDZnfIr7747dR4"
+        width: 1206
+        height: 720
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the railway industry rose to a year-high in January 2022"
+    excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose significantly in January 2022 compared with the equivalent month last year. Credit: GlobalData. The proportion of railway ..."
+    publishedDateTime: 2022-02-22T14:22:00Z
+    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-rose-to-a-year-high-in-january-2022/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 39
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/02/railway-data-article-pic-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the mining industry rose in January 2022"
+    excerpt: "The proportion of mining industry operations and technologies companies hiring for artificial intelligence related positions rose in January 2022 compared with the equivalent month last year."
+    publishedDateTime: 2022-02-23T13:00:00Z
+    webUrl: "https://www.mining-technology.com/features/artificial-intelligence-hiring-levels-in-the-mining-industry-rose-in-january-2022/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 32
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningAI2102-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "A call to advance adoption of artificial intelligence across the global finance industry"
+    excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
+    publishedDateTime: 2022-02-24T15:59:00Z
+    webUrl: "https://www.arabianbusiness.com/spotlight/a-call-to-advance-adoption-of-artificial-intelligence-across-the-global-finance-industry"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 25
 
 secured: "GZhPq/C72Sbt+LV8ko9LU5PzFvx84SNS36WW27vsOnqkPsKHVvb5ZG6fV123vhF2ObO47CJYhU5YhUABMfw0Anu6OObWh3OTzOMWadXzMHqLMQnwvWeEEJKqV3nnrxtRJKttIZbvo/sXTHWbtmcTOabjyepMPkG5abGjO6mS0WW9OHIwOWK/X4JHex6xaszxTyxUZXPBx7PG2UVEt0qSNN9A6joSsfTIy5PKsQIX2LnS51mcynvZdu/iBgaN5MtlcpgVtv7PQpl/tMj7e+g0PcIluWHRlH0IAKM/g9Bu03mIs/BObdwfe5mtmz/nMBXP1Yw46XW9ULl9SHRcwf0+aEtCoKz4Ra8i98UHQPIZFOy3vg/6QZsNBZ5QbiFnlkFW5Lmnmvp09ITphGJTi+jsvIV6VuVyb39m9axI2+NLS4pNTBx+XwP1oUFw2Rvfmrqa6AwKyp1r2XWM273MAWUXZytj8a9JqqDFBKE/VAqKi3H+6dfdaWZvxmY6kKoAflg2QFkPOuJ1728XugNsuYOyQw==;UxdnaCXfnoEuR7DITbudGQ=="
 ---

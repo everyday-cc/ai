@@ -93,6 +93,22 @@ related:
         width: 2000
         height: 1252
         isCached: true
+  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+    excerpt: "Identifying a malfunction in the nation's power grid can be like trying to find a needle in an enormous haystack. Hundreds of thousands of interrelated sensors spread across the U.S. capture data on electric current,"
+    publishedDateTime: 2022-02-24T21:38:00Z
+    webUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
     excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots, researchers say farmers’ livelihoods must be protected."
     publishedDateTime: 2022-02-24T09:43:00Z

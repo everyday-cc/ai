@@ -3,8 +3,8 @@ category: news
 title: "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care"
 excerpt: "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,"
 publishedDateTime: 2022-02-23T14:19:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-american-oncology-network-aon-viecure-announce-strategic-collaboration-/2022/02/23/9550827.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-american-oncology-network-aon-viecure-announce-strategic-collaboration-/2022/02/23/9550827.htm"
 type: article
 quality: 0
 heat: 0
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "YStTYqCLd+Plu8iI6nQh9sEgwASb5zpq9LBj4wtK4VluAC9gLVNLf5Xhdw3MtM7SdWnYdiqtT668ih8ieB8y0b5NU55djYhhF1XxWLGVUMJja1+Hlo1bTd6T1FQQCOIM8NshSW8YjHoZJx+7FmG9mz8aeDJcQMCi8GTtr246LTd948AxeoS7/XQxnomVvcnxFYbEia9PsCf46XLUC6Nj88pwICnz3ECBPfNXDrJGmJgh497VS90SghhM0J7GGYS8n+tEz6hGCw9rlJzfRaQqkch7/apqU699Pou3TU/9rvM+yUkInw/Q0r9J8r8c3IMwazaAxxcC9PC+XXCpVS7iCq/Fh7GMbFtgk3PqxT4ugVA=;OV5dXsAKKiNAPfKI4lKyZw=="
+secured: "Hq6OYjQTGxcQc5hcncIKr6pc+X6J9Up7a5+tU+kAYt0Z7JhPTwjT7zT0rO8z5waFK5jgIllnkPxwPkEwUAZtlrAMvdqjAqXc159M+KwF03GdmI53BwGzK8/aUtXb5VNZ9bKEfiT9ZaiieSZLOe9l58Hy8zLOqUwBo6q+sU8Ni+lsIRkTHa5q7aq7c4EhrsoH9BXR28DViv4auKNoo++yDy6eQKpRPLatXkTelJWOuCD0tUhDzuLT9/TngDM+403VOuIU5E/c9fyt55Zqjqpe2+O3q1AZhHPHqdftf2wE1AuvwdzF9WBQdFlL0slBqbX9MHIGqUo4kjAZrntxVHLuuhEdF/z3OFnOHyc6rSuG2p8=;PmnEne4aORAqtnFYGetEKw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,22 +30,89 @@ images:
     isCached: true
 
 related:
-  - title: "Global Industrial Robot Controller Market Is Projected To Surge At A Robust CAGR Of 8.9% During The Forecast Period 2022-2029"
-    excerpt: "integration of superior technology which includes artificial intelligence (ai) and net of things (IoT) is taking the industrial robots region to any other stage. Therefore, numerous industrial robot controller producers are aiming at moving into ..."
-    publishedDateTime: 2022-02-22T12:29:00Z
-    webUrl: "https://techbullion.com/global-industrial-robot-controller-market-is-projected-to-surge-at-a-robust-cagr-of-8-9-during-the-forecast-period-2022-2029/"
-    ampWebUrl: "https://techbullion.com/global-industrial-robot-controller-market-is-projected-to-surge-at-a-robust-cagr-of-8-9-during-the-forecast-period-2022-2029/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-industrial-robot-controller-market-is-projected-to-surge-at-a-robust-cagr-of-8-9-during-the-forecast-period-2022-2029/amp/"
+  - title: "Two top jobs in the booming AI industry"
+    excerpt: "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field."
+    publishedDateTime: 2022-02-23T23:12:00Z
+    webUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/"
+    ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Integration Of Artificial Intelligence In The Video Streaming Sector"
+    excerpt: "Artificial intelligence (AI) incorporation into streaming platforms has proved to be a game-changer. It’s no surprise that we can’t imagine a day without them, with more customized user experiences and higher-quality streaming alternatives."
+    publishedDateTime: 2022-02-22T21:03:00Z
+    webUrl: "https://techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/"
+    ampWebUrl: "https://techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/amp/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/tv-5837826_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "AI - an opportunity for the assurance industry?"
+    excerpt: "A couple of months ago, the Centre for Data Ethics and Innovation published The Roadmap to an effective AI assurance ecosystem [1], a document that perhaps got overlooked in the furore over the impact of Omicron and the concern over the Downing Street parties."
+    publishedDateTime: 2022-02-20T17:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-opportunity-assurance-industry-andrew-rogoyski"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHcqxk9c0ik9w/article-cover_image-shrink_720_1280/0/1645376939004?e=1651104000&v=beta&t=0e6d_6dR1jxTGqonmI-8w1n3qDpT2eDZnfIr7747dR4"
+        width: 1206
+        height: 720
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the railway industry rose to a year-high in January 2022"
+    excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose significantly in January 2022 compared with the equivalent month last year. Credit: GlobalData. The proportion of railway ..."
+    publishedDateTime: 2022-02-22T14:22:00Z
+    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-rose-to-a-year-high-in-january-2022/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 39
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/02/railway-data-article-pic-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the mining industry rose in January 2022"
+    excerpt: "The proportion of mining industry operations and technologies companies hiring for artificial intelligence related positions rose in January 2022 compared with the equivalent month last year."
+    publishedDateTime: 2022-02-23T13:00:00Z
+    webUrl: "https://www.mining-technology.com/features/artificial-intelligence-hiring-levels-in-the-mining-industry-rose-in-january-2022/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
     quality: 32
     images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningAI2102-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
+  - title: "A call to advance adoption of artificial intelligence across the global finance industry"
+    excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
+    publishedDateTime: 2022-02-24T15:59:00Z
+    webUrl: "https://www.arabianbusiness.com/spotlight/a-call-to-advance-adoption-of-artificial-intelligence-across-the-global-finance-industry"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 25
 
 secured: "X9B+RHpzAi0qhTR4/ZPHnW5T2D9nKQaBq1Ny2a2pFv2hck3JG6OKY1vpXjwsGD/rTg9nNfcq2/tYbH/mXuHa37eWJRXmvF37/PA6KmxbfSwCRjc2oqCV++4VDUFjvmyoAXBCiv1wOaa5r0iDgwTLG+Fn39Zk8pEAlFnnIFnGwzI8N/wmHkzGo26MTA7PaKsbfsE0losfk9cIKBVva8coO8elaWST0uGBfXNKXen4p7kiYrVuzcS/mw/oCGpESYSWiAiITKX5x9VP1QNXMryhIU/FECj8cqCZKVfo2K3xiD63E0T9f4juGTl63deMzf5PhAeeDC0WFaPKtj77y9KNNF1Qk44LuyYke/yZVCm4YrfYrk6zmUAt9WlXH7yIJX7TVCqCbThpG4/k+qTMPjdnknT9GBdqOhfzutW++8bx3qmxKkxUEGa/CA0nulHrbM0LECCFdwRSbMIaQ8+O64yW2w0vZv0bHKmSJdX82yuteyVXWhCk34vU+LxKdLJNootWbqB8SQwzAmgz3kQcWuRTdA==;NZcYrpSY63QDe3nndLRn5A=="
 ---

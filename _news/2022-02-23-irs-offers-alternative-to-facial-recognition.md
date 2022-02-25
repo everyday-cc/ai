@@ -2,26 +2,26 @@
 category: news
 title: "IRS offers alternative to facial recognition"
 excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-publishedDateTime: 2022-02-22T22:17:00Z
-originalUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
-webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+publishedDateTime: 2022-02-22T22:21:00Z
+originalUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: JournalofAccountancy
-  domain: journalofaccountancy.com
+  name: The Tax Adviser
+  domain: thetaxadviser.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
-    width: 640
-    height: 388
+  - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
+    width: 255
+    height: 335
     isCached: true
 
 related:
@@ -326,6 +326,20 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 39
+  - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
+    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
+    publishedDateTime: 2022-02-24T03:40:00Z
+    webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
+    type: article
+    provider:
+      name: Walla Walla Union Bulletin
+      domain: union-bulletin.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
+        width: 600
+        height: 403
+        isCached: true
   - title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
     excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
     publishedDateTime: 2022-02-22T22:57:00Z
@@ -383,6 +397,6 @@ related:
         height: 810
         isCached: true
 
-secured: "sB4hvmmo3QbfFveh0+Hg0YCeIrw7hwrIsbvTaZJRlj9RycPfm9WhBjBi/7eaWtbxgqzcHX/qYncPE93WEkOQlDwFn0fZBCnRu918piLVibPQRNk1lXL9Cq9A8pCr5uxc9jEwWaLiqz4D0NQ87B0pmIvO22S/nJw7n7ZQElbanNZVhFq0FcVTmORWXxsKb710VphfoGS19KNPaULhXndSA02ftwqoaClPS+qi+FnXS85Z7tgXbH02JgHHXa+ILwxlakJy6jzvjANi0z2kINTQWDNW297E6P3XRQydpjQzJ72BVbd+vDLD+qJ3Z+LUaVjUsSqITgdqcEPxHWW5y15m2JJO0yAkC3FH7cNoLl0/cmk=;9o8nErePSaMA55c+0b0+Pw=="
+secured: "N49lMuQpvCvyxpHL8Xgt+qhac/1EX0tJklcXCNvaPoUnejzhyDQDzZPsfZNNlt7Gt6i2f8tQ/OEBkKUxWacy11P2cqkJW3PkqkM5Mua5KutZ4y4IGcmBN9nmriil60zSLh6Wl2KBwx+K44obN1Dg+bZFLxFFoU1JyCAagKDjby4fmLHI+PgQ5p/mXKRDk+8/UwMoSVhtFheLebYpqmwSI7SykAlFi/Vhv2HPq03idvTxQId3orVZ/+41Fm16Dq4pXUWbeSgsz45joAXwPuoFFYvi+ilz26AeKpKFg7xTIqxJxYnoM8bffl8EAjhCSUW4ZVMul+LeipKkgYX3nPKZ/lkpciXAbBuUBCeeYlgFCKs=;NGXrpeif7IvrJ6caCOAXug=="
 ---
 
