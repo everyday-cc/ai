@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Deep neural network to find hidden turbulent motion on the sun"
-excerpt: "Scientists developed a neural network deep learning technique to extract hidden turbulent motion information from observations of the Sun. Tests on three different sets of simulation data showed that it is possible to infer the horizontal motion from data for the temperature and vertical motion."
-publishedDateTime: 2022-02-25T14:08:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/944683"
-webUrl: "https://www.eurekalert.org/news-releases/944683"
+excerpt: "Scientists developed a neural network deep learning technique to extract hidden turbulent motion information from observations of the sun. Tests on three different sets of simulation data showed that it is possible to infer the horizontal motion from data for the temperature and vertical motion."
+publishedDateTime: 2022-02-25T15:10:00Z
+originalUrl: "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.html"
+webUrl: "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.html"
+ampWebUrl: "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-deep-neural-network-hidden-turbulent.amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f63c374a-54d0-4cad-bc7d-8891d2d59f3f/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 212
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-neural-network-to.jpg"
+    width: 2000
+    height: 1413
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 347
         isCached: true
 
-secured: "0tvY4LmvnIt/JSANFFQ2m3tv2AOGIP5D8IWwsvc39PQg4ZgFkddcU4myAfvu7SbeskCPvoxc3lHwhl1J7yABOuQn4NF5Nrx6vef0GzJpaSbUnBSk4yLT0W6rDCaRHCDFI4OP0oLuDClvCppBapl/Pn51aAsdbww4L3CXkTAhj3pvZjzBnMgitqsDWyGUj2y37IDPIoYh8Uz/qgwKMal+aE1Azucuas0dXg9CLyADl7dYuD7xZ98C3nPmVsXtfOAJIMYxx+MrwAob4gt8jB814w1u4Wce+Ck42NEzKaYWMjFj7uWgw1gi0GcSz7xjpPtOGCF1osr8lK5IWnCeteoau93koqp1UQOxnZB9yp9ZVaQ=;Wf/J9LhPknFfSVShYrwMDw=="
+secured: "3s9lo0HqZ+keYTVNjMfudjYsMbfeqKQtNiBHsqEihET75gdJ6ASHKFZcPlWedHosxuiw3rITU6vFXVUQDZNrRg794DtCER+KycL66wzVPz5aQJ8dBLu49TgcutM46umeCUjvkBuZMvDflxaqa+oZlzmvHMgn0WOdMZKUVX/UiFNbeoELIY/6ARK8LbSImC6dg+If2yBbUt4R9zcutJqmhzxt6ijIgBTogdBL/Qil4hl4BEzWdYuqTCufClHl5psziSxLemlPT26xB624m9abYn4Ydl3tiB4C1efJ5ZuvIp8/1peqjSvzSGzG7oGUI9DzIpK3i+hdbRdmdTyyd4DAZTt3I7eWk7jyugeCacDAa1U=;cfeebCkMLO1PCyyZwWAdMw=="
 ---
 

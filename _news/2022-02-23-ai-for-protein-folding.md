@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "The Key Artificial Intelligence and Machine Learning Trends for 2022"
-    excerpt: "This allows artificial intelligence to complete numerous tasks that would otherwise have been too challenging, giving it new applications in finance, chemistry, and healthcare. Another key AI trend we expect to see is the continued rollout of natural ..."
-    publishedDateTime: 2022-02-21T00:24:00Z
-    webUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/"
-    ampWebUrl: "https://techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-key-artificial-intelligence-and-machine-learning-trends-for-2022/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/Depositphotos_10142532_S.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Putting safeguards in place for AI use"
     excerpt: "As AI is becoming more and more prevalent in our lives, so is its potential to harm. Aporia is the Israeli startup trying to change that"
     publishedDateTime: 2022-02-23T14:09:00Z

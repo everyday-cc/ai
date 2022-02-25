@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless Car Market 2021 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2028"
+    excerpt: "Ranging from artificial intelligence (AI), augmented reality ... is anticipated to contribute to the growth of the global Driverless Car market. Based on the increasing number of internet users ..."
+    publishedDateTime: 2022-02-24T12:40:00Z
+    webUrl: "https://menafn.com/1103757543/Driverless-Car-Market-2021-Industry-Challenges-Top-Manufacturers-Key-Countries-with-Forecast-to-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?412299"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "ZwBV73UuYNc4clzztqPJ+hrDZdE9yspSmyf28hJ8NWR479jEN8rIfGhwFZtmohJCK1HsEFpgwZMliBOuVK/9vioUaiXfJ0qPQccUX8sXyg6aA5bHh4yptyj4CZCVq+GoZQ1nXSIS1XDYN7MtXU03u86PNVyUp67BPrZshNkR5ENndudt6ryjmTOnZaJsvAoJlyH0YQl/kCDL0uk8rFWgoHwbJhyHFdURjGFx98GwL2XGHiE0zp5hs58kqv0ShIkQRKEZ9sQB+aQBOfHAM7XbvSZEw0pISAUS/NI6Q7iytOOt6BU2VonCVrchrSGtONNewL71U+uQ9sGXC1q3sPC2d4GHuhdttRfIDzgOzrsKBl4=;RLdNY1SCNIOXOVcxKKKJHw=="
 ---

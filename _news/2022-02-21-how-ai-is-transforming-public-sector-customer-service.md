@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How Machine Learning is Transforming the Logistics Industry"
+    excerpt: "Customers can use virtual assistants to be the first point of contact for them and to receive delivery requests. They, like other AI solutions, can"
+    publishedDateTime: 2022-02-25T15:42:00Z
+    webUrl: "https://www.cioapplications.com/news/how-machine-learning-is-transforming-the-logistics-industry-nid-9371.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/b2me9450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Editorial for the special issue on \"Transforming public health through artificial intelligence, machine learning and internet of things\"."
     excerpt: "In recent years, information technologies such as Artificial Intelligence (AI), Machine Learning (ML) and Internet of Things (IoT) have received unprecedented attention and have caused profound changes in traditional lifestyles."
     publishedDateTime: 2022-02-23T02:33:00Z

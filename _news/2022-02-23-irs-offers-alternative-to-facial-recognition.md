@@ -2,26 +2,26 @@
 category: news
 title: "IRS offers alternative to facial recognition"
 excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-publishedDateTime: 2022-02-22T22:21:00Z
-originalUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
-webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+publishedDateTime: 2022-02-22T22:17:00Z
+originalUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Tax Adviser
-  domain: thetaxadviser.com
+  name: JournalofAccountancy
+  domain: journalofaccountancy.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
-    width: 255
-    height: 335
+  - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
+    width: 640
+    height: 388
     isCached: true
 
 related:
@@ -397,6 +397,6 @@ related:
         height: 810
         isCached: true
 
-secured: "N49lMuQpvCvyxpHL8Xgt+qhac/1EX0tJklcXCNvaPoUnejzhyDQDzZPsfZNNlt7Gt6i2f8tQ/OEBkKUxWacy11P2cqkJW3PkqkM5Mua5KutZ4y4IGcmBN9nmriil60zSLh6Wl2KBwx+K44obN1Dg+bZFLxFFoU1JyCAagKDjby4fmLHI+PgQ5p/mXKRDk+8/UwMoSVhtFheLebYpqmwSI7SykAlFi/Vhv2HPq03idvTxQId3orVZ/+41Fm16Dq4pXUWbeSgsz45joAXwPuoFFYvi+ilz26AeKpKFg7xTIqxJxYnoM8bffl8EAjhCSUW4ZVMul+LeipKkgYX3nPKZ/lkpciXAbBuUBCeeYlgFCKs=;NGXrpeif7IvrJ6caCOAXug=="
+secured: "uv4/4SLuraHcAzaagmWuMVvDL0Q4li2bFs89rMYZjD8zWexvLosAkt6M1Ox54YV4umXhjL6b59s2xWY4EMMTV7MA+w7Ant5Z01tuJ+KAuvwdHbut3LsVzo+9EVnvcVJyJJyaAfN2U39daQAJ+Onf/dioGwGPBKt6EMcNteYfSGdvw35jRoPKWr3N4toTW1AYcMalvw8KxnN1VClp+52xgsAweajEQDnwVGshvTclzuTmYRRge3LRWv4Bve+LJ1NHYRgEenfe2t/h88CrcSzkjfSEKt23QiqPYAyIimC5Hw1CSBgEU7uhkZlaZwm2fqHyjKTbRxMSfQAXysor2IJI4btjnAmukeGh2QOXiJDj0Bs=;SC3giM/VhaR0KoCfXqqC7g=="
 ---
 

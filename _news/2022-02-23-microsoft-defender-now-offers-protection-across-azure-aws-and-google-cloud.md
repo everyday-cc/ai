@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Contentstack Runs on Microsoft Azure, Litmus Debuts Email Capabilities, More News"
+    excerpt: "Agile content management system software provider Contentstack has announced it is now available on Microsoft Azure. Contentstack, a multi-cloud SaaS CMS, now offers customers the choice to run their software on either Azure or Amazon Web Services (AWS)."
+    publishedDateTime: 2022-02-25T15:46:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 84
+    images:
+      - url: "https://www.cmswire.com/-/media/6d901154dbc74b268d0d79aad629f43a.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft updates security applications for multicloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure, and making its CloudKnox Permissions Management platform available for public preview."
     publishedDateTime: 2022-02-23T14:08:00Z
@@ -114,20 +130,6 @@ related:
       - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500
         height: 324
-        isCached: true
-  - title: "IBM Acquires Leading Microsoft Azure Consultancy Neudesic"
-    excerpt: "IBM recently announced it has acquired Neudesic, a leading U.S. cloud services consultancy specializing primarily in the Microsoft Azure platform ... further advance the company's hybrid cloud and AI strategy. To improve operational agility, businesses ..."
-    publishedDateTime: 2022-02-20T23:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/23120-ibm-acquires-leading-microsoft-azure-consultancy-neudesic"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 54
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/2fd7a2dea6d47c0405fbba180846ff2c.jpg?t=20220220_221348"
-        width: 752
-        height: 408
         isCached: true
   - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
     excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."

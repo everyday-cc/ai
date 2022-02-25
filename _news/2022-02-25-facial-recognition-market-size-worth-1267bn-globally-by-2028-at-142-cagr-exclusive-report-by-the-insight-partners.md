@@ -24,6 +24,22 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Cognitive Computing Market Size Estimated to Reach USD 148.12 Billion at CAGR of 27.70%, By 2028"
+    excerpt: "USD 20.43 Billion in 2020, CAGR of 27.70%, Increase in demand for cognitive computing in healthcare end-use verticals. NEW YORK, NY, UNITED STATES, February 25, 2022 /EINPresswire.com / -- Increasing demand for cognitive computing in the cloud deployment mode coupled with high investments in R&D of cognitive computing are fueling the market growth."
+    publishedDateTime: 2022-02-25T14:59:00Z
+    webUrl: "https://menafn.com/1103762773/Cognitive-Computing-Market-Size-Estimated-to-Reach-USD-14812-Billion-at-CAGR-of-2770-By-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 11
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?659601"
+        width: 354
+        height: 249
+        isCached: true
+
 secured: "NxbDQADwSILOPPvRKUnCMaVuYeso8my2QGTqYlWis7dDiNpBJ64l35aee3vFQhTJMkTar3GfgSzMefIZLEwqZn7kubrW7Q3bsTAYaiF22pQ+1ktbMVqmV4vx9JDys9uY6QmZ09EvhhgJylcoIOIh6HuazXvpUFmTmrvT7O38GGLAVQDASQg8MqIgTlhPl8tULwaIgEV2Gx2JttmO1YG2fRDgVg3cYNKVeIsQ2TLoUKBYVhArRkRetvA7cQ1IZrS0bj1MLoSaLmfY29iTHDAbelyA+Z1H9ufkHlnMGHrUTuXlhUKRBaAZoVVeIH6GpbQLH0Jw1lz+rVPYraTN2ePgQxIlJ+LcoddJDwoMR9R02SY=;jz2i7MYmMhCbYX+s/itoFg=="
 ---
 

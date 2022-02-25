@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep neural network to find hidden turbulent motion on the sun"
+    excerpt: "Scientists developed a neural network deep learning technique to extract hidden turbulent motion information from observations of the sun. Tests on three different sets of simulation data showed that it is possible to infer the horizontal motion from data for the temperature and vertical motion."
+    publishedDateTime: 2022-02-25T15:10:00Z
+    webUrl: "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.html"
+    ampWebUrl: "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-deep-neural-network-hidden-turbulent.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-neural-network-to.jpg"
+        width: 2000
+        height: 1413
+        isCached: true
   - title: "Machine learning helps identify climatic thresholds that shape the distribution of natural vegetation"
     excerpt: "Changing climate brings more frequent and more intense climatic extreme events. It is unclear, however, exactly how climate extremes will affect vegetation distribution in the future. This is an acute question for research in order to be able to mitigate coming extremities and their impact on vegetation."
     publishedDateTime: 2022-02-25T14:40:00Z
@@ -41,21 +57,7 @@ related:
         width: 632
         height: 313
         isCached: true
-  - title: "Deep neural network to find hidden turbulent motion on the sun"
-    excerpt: "Scientists developed a neural network deep learning technique to extract hidden turbulent motion information from observations of the Sun. Tests on three different sets of simulation data showed that it is possible to infer the horizontal motion from data for the temperature and vertical motion."
-    publishedDateTime: 2022-02-25T14:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944683"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f63c374a-54d0-4cad-bc7d-8891d2d59f3f/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 212
-        isCached: true
 
-secured: "JHmldTPMa6p65DzyfltPWs0cp2Zfjxqh8UQHTke4g26Ip8i+VXtx307cmMKS7HqxHcYLcYP5a94Q6alMgIvb2IjKIggOz9EEOCnON6hVosKOxWsr3jKmq+REUVXwWW9zcZsL/hymxCxYNSxm2g49BtUJoDM/HiM46uNWA9Gh7mEkhhGcdXNMGaa7lOTDmwzB8G9AlQU4WOZjNA2jc8+biX1zlqFVmIikMlxeR3DEsxfSA6bhX21qkFQvM9kYhLZCE2pcaswz+TLYuM7ThBmDxNIULywXCvEi951IaLB6Oq37qOtCDBLrdH5cQcDz57kkVYgyCXNEiehsHhD6ur0r/rXuizpbQgJgAaCL61z8Kjo=;oA1EIP4JsAfWbrr8fJcICw=="
+secured: "GMp3qfPcu91chnLp84h8KN2iJbl339YlBOhug8s+0hhQtIhWl98cqXY/vLV6D0k17a2mReNzuHJYyCEFw70ScBS7F5PeAscfPXkaBiOAPjzCHbERnBKsOVFJN0+i0UP+05RQV50uEuj+AooTqgFpN/F7lNNglrB2AhiigtS8F2oP3uJOE5eicW6jADgoEjNlNNozSCLrxsIC2k+6+R2Br5vnS6NW2IdbKlDnKeqFBWArVTkNsJZoi8m6Dov2pNb17J+1bUcfFJMp8jM+NfxIDyHXYY+wxiPJ/s6QyxsItf00dC6vqX8TNmM5FHkl3Ok2zrOzaZewD7QdUxbPB/VuLQgIRRNM+VMmR5YKJqekulnUprSkHC/J4So5W690vD2mnPKhkHWovNywnvbBxlXycbzFY5km87aZV8/v7J8HUJqIpnme0kRcfEVrpUBqx93sETAe8GjHOm03/G9FVqKo3eDx9+orU0E6M+NYqOpAb/TK0mg1aFT1shJLd8AenCVAgOFTTn39+h3CpCD/+/YhgA==;WVULPUdPHBenpkCYTI4Slw=="
 ---
 

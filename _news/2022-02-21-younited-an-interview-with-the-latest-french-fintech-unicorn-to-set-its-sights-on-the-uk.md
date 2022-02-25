@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "TMX Group Acquires Minority Interest in SigmaLogic, a US based Fintech Firm"
-    excerpt: "Established in 2017, ETFLogic’s flagship product, LOGICLY, “integrates multi-asset research including ETFs, mutual funds, and stocks, AI-powered portfolio analysis ... and other forms of Fintech. Draper Goren Holm announcesworld-class digital private ..."
-    publishedDateTime: 2022-02-20T23:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187255-tmx-group-acquires-minority-interest-in-sigmalogic-a-us-based-fintech-firm/amp/"
+  - title: "Fintech Ideas for Mobile Apps to Get Your Fair Share of Business"
+    excerpt: "It's no secret that the COVID-19 virus has led to the adoption of several of the most promising Fintech developments. For certain players in the finance industry, moving to a digital-only format was essential to survive."
+    publishedDateTime: 2022-02-22T15:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-ideas-mobile-apps-get-your-fair-share-business-amit-agrawal"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/02/Canada-Flag-Ontario-Toronto.jpg"
-        width: 1280
-        height: 1133
-        isCached: true
-  - title: "FinTech FeeX Secures $80M in New Investment, Changes Name to Pontera"
-    excerpt: "New name for held away account platform reflects aspiration to be the bridge to a better retirement for millions of AmericansNEW YORK--(BUSINESS WIRE)--FeeX, the financial technology company that enables financial advisors to securely manage their clients’ retirement accounts and other held away assets,"
-    publishedDateTime: 2022-02-23T11:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=620624"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFozn46CrQ1SA/article-cover_image-shrink_600_2000/0/1644399664098?e=1651104000&v=beta&t=spd5rYfg1ly1ZpaLDsreQnp7Ej6m5mK2S8jJyi3D64M"
+        width: 818
+        height: 398
         isCached: true
   - title: "Western Union to Present at the Wolfe FinTech Forum"
     excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe FinTech Forum on Thursday,"
