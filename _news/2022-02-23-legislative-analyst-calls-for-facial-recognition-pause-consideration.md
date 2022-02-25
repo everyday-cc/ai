@@ -313,17 +313,17 @@ related:
     quality: 39
   - title: "IRS offers alternative to facial recognition"
     excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:17:00Z
-    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+    publishedDateTime: 2022-02-22T22:21:00Z
+    webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
     type: article
     provider:
-      name: JournalofAccountancy
-      domain: journalofaccountancy.com
+      name: The Tax Adviser
+      domain: thetaxadviser.com
     quality: 39
     images:
-      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
-        width: 640
-        height: 388
+      - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
+        width: 255
+        height: 335
         isCached: true
   - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
     excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"

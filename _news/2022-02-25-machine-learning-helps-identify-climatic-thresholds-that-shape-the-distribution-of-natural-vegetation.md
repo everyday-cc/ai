@@ -44,6 +44,15 @@ related:
         height: 1413
         isCached: true
   - title: "Machine learning helps to identify climatic thresholds that shape the distribution of natural vegetation"
+    excerpt: "A new study explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight the importance of climatic extremes in shaping the distribution of several major vegetation types."
+    publishedDateTime: 2022-02-25T17:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220225100229.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 32
+  - title: "Machine learning helps to identify climatic thresholds that shape the distribution of natural vegetation"
     excerpt: "A new international study spearheaded by the University of Helsinki explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight th"
     publishedDateTime: 2022-02-25T14:53:00Z
     webUrl: "https://www.eurekalert.org/news-releases/944713"

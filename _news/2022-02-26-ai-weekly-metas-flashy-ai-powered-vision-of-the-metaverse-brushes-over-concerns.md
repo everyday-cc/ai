@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Fintech in the Metaverse"
-excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
-publishedDateTime: 2022-02-23T11:55:00Z
-originalUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
-webUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
+title: "AI Weekly: Meta’s flashy, AI-powered vision of the metaverse brushes over concerns"
+excerpt: "Meta (formerly Facebook) pitched a flashy vision of the 'metaverse' this week. But the company faces challenges in delivering on its vision."
+publishedDateTime: 2022-02-25T17:11:00Z
+originalUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/"
+webUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/"
+ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 83
+heat: 183
+published: true
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://financialit.net/sites/default/files/img_7407.jpeg"
-    width: 3024
-    height: 3236
+  - url: "https://venturebeat.com/wp-content/uploads/2019/05/zuckerberg-future-is-private.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
-  - title: "AI Weekly: Meta’s flashy, AI-powered vision of the metaverse brushes over concerns"
-    excerpt: "Meta (formerly Facebook) pitched a flashy vision of the 'metaverse' this week. But the company faces challenges in delivering on its vision."
-    publishedDateTime: 2022-02-25T17:11:00Z
-    webUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/"
-    ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/zuckerberg-future-is-private.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "At metaverse event, Meta's Zuckerberg unveils work to improve how humans chat to AI"
     excerpt: "Facebook-owner Meta is working on AI research to allow people to have more natural conversations with voice assistants, CEO Mark Zuckerberg said on Wednesday, a step towards how people will communicate with AI in the metaverse."
     publishedDateTime: 2022-02-23T16:15:00Z
@@ -163,6 +153,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Fintech in the Metaverse"
+    excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
+    publishedDateTime: 2022-02-23T11:55:00Z
+    webUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/img_7407.jpeg"
+        width: 3024
+        height: 3236
+        isCached: true
   - title: "ADGM-based AI wealth manager FinaMaze announces launch of Metaverse Smartfolio"
     excerpt: "FinaMaze, an ADGM-based digital wealth manager utilising AI, announced Monday the launch of its Metaverse Smartfolio. The Smartfolio will bundle stocks of companies that are leading the way in the creation of the metaverse. Included in this bundle are ..."
     publishedDateTime: 2022-02-21T06:01:00Z
@@ -173,6 +177,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "5BJrCv0XMRv/KzeOloA6Yo3BP2mZbZzjvHh2puPgr1YAKzWB3HQy6Wh0al+Is+j8uzsJH+uw75cVm9VTxX/K1xXZ8Vi21V5TWCN5g2agg2yw9wrJFuNfbRcgqDqh+U4HEE7BG5vJe7Wtrp4wo7koNXbMvayanW9+OeNLfnIZgczyfACKhBDC1MrslMXRP7UWVwlMlxnWF1aesVbTH8L4RX3nrfe4rLEbQyXZQbdM1aEDk91YKujYJ04XLE04GxGGnw2ipWLmra9qo9oX5dx3etvmO//0aUlmtt2K4y/ecFysoJ9EA3Eoi7x4aiit5dY0axWMkybIPbdVlhUegwesfMDHXEa2vZGGF7pnI+cCV4M=;OKusY5n1Yg1r3MPSeTd87w=="
+secured: "F9pXiKNzoc2ebp0eL90+Gl0CGgLfkHapd1bEGcLnWgfvIrh/Te2pgu+L0UatE0zSZtgYMIe4F/qLX4XoGKsdjouVcVE3nRpvS88+/CFOglTkD9JakBSmxVtiOS0YaIIBrhVDENoCFp3JwqURPP3dlpuKD1YFQl5m4uHRO6rxxZ9PTgIsK2d+L6yelNr6132xPtDBi/k6Fi8YhMeAGJygy+oC+dpPixmtrTGtFkAy8EZs2+/SmvJRaaV+qW3leDwL7mMhGuzCZ7yyAuVMusYxK/qnlqxBLfP9ituJevGzfuwMDMg+lpU57mxVC1RirnaO+n+54ZVz0n8e5UnAGXPToN135pXZhdv1LqQrQwNCcxo=;jnUiux+ryhwEg5Um46Pr1Q=="
 ---
 

@@ -38,6 +38,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "5G in Healthcare Market 2022 Supply-Demand, Industry Research and End User Analysis, Outlook 2027"
+    excerpt: "Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. Market"
+    publishedDateTime: 2022-02-24T10:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-2022-supply-demand-industry-research-and-end-user-analysis-outlook-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/e72cee448241867e871ce5514b7cd8b2781040ce-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "igZtHFK5KerStRu1whv0cd5dqLwbscN8UUmRiWd/1u740z5vz1TOmTomur3PWbwFGgX4Pd1Nar64je1Hxjxc2/hsPO9KVus+TeMQhSB8wJvIDPJ/enzgFfz8nLMsH5mhefyvtV86H9N8KPyz5CbBpKVwOqdRgB65fl7Jkk/81jZRzIeTvnuxlRmP6XQFrQBniuiA9AfDCN4Ik5gkCmqyL/ChSttSaj3QTf8gdt++37I8rHLAzOgFQHvnqpI6NGUgrZeahh1Rw4qLpQ7+4DHtfQjdFeItkm9EbLKgsJ9mvQXosBvhb3uctOzGLmF1JIsJnKcrV/GbrBeL+8ER0PUKwOlZ4iTV7lKGXlO3ksWHFQf5x2rv1PemTqq7JPu1F2NZwHABYXKhHavPKwaRUxNJiJbiONmqdsnXPeyDF/5z9h8u8f9SydtmXCYrg3AHUFJUuHfMXzblvWWVWvJ2H2YvrB/B2TdNmoW1fMTng+VTcIMJ/BBs3+nf1lcsV0GOPPmz7AbDkgGNqQKi00Q8p6bxcw==;7woxycm19RCPyztD9h7TgA=="
 ---

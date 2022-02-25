@@ -43,6 +43,20 @@ related:
         width: 2047
         height: 960
         isCached: true
+  - title: "Research Reveals AI Gaps in Federal IT Modernization"
+    excerpt: "Only one-quarter of study participants saw AI as critical or very valuable to their modernization efforts, and one-third saw it as not very/not at all valuable."
+    publishedDateTime: 2022-02-25T16:19:00Z
+    webUrl: "https://www.nextgov.com/ideas/2022/02/research-reveals-ai-gaps-federal-it-modernization/362443/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/25/022522AING/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Worldwide Artificial Intelligence in Medical Diagnostics Industry to 2027 - Advancements in AI and Deep Learning Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence In Medical Diagnostics Market Research Report by Technology, by Service, by Diagnosis Type, by Diagnostic Tool, by Application, by End-User, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-02-25T11:02:00Z

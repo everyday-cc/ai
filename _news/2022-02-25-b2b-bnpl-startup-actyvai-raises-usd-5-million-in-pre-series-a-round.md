@@ -1,58 +1,58 @@
 ---
 category: news
 title: "B2B BNPL startup Actyv.ai raises USD $5 million in pre-Series A round"
-excerpt: "Business Wire India Actyv.ai, an AI-powered Enterprise SaaS platform with BNPL for B2B embedded, has raised USD"
-publishedDateTime: 2022-02-25T09:22:00Z
-originalUrl: "https://www.indianweb2.com/2022/02/b2b-bnpl-startup-actyvai-raises-usd-5.html"
-webUrl: "https://www.indianweb2.com/2022/02/b2b-bnpl-startup-actyvai-raises-usd-5.html"
+excerpt: "Actyv.ai, an AI-powered Enterprise SaaS platform with BNPL for B2B embedded, has raised USD $5 million in a Pre-Series A funding round from Dubai-based 1Digi Investment management firm, the family office of Raghunath Subramanian,"
+publishedDateTime: 2022-02-25T07:08:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/b2b-bnpl-startup-actyv-ai-raises-usd-5-million-in-pre-series-a-round-122022500085_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/b2b-bnpl-startup-actyv-ai-raises-usd-5-million-in-pre-series-a-round-122022500085_1.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AI
 
 images:
-  - url: "https://lh5.googleusercontent.com/proxy/b3qMpSry2rwY3OjGJJiDQH72J8N3rRRuxU8KyUoN6OnENP7tmHrwMclBVW91H87LbLwfi7-5oHTnGu1NIFfjkE6LkrIutQ7cRQPM4ei5c2d5wnqEE5dca8iv7UqS4yMtB36H_f_6RxrQ"
-    width: 360
-    height: 480
+  - url: "https://content.indiainfoline.com/images/homepage_banner/Excited-for-LIC-IPO-Web-Banner.jpg"
+    width: 393
+    height: 315
     isCached: true
 
 related:
-  - title: "Rural Social Network Startup Krishify Closes $6.2 Million Pre-Series A Round"
-    excerpt: "Leveraging machine learning, AI, and NLP, Krishify’s app delivers highly personalized ... Shanthi specializes in writing sector-specific trends, interviews and startup profiles. She has worked as a feature writer for over a decade in several print ..."
-    publishedDateTime: 2022-02-22T08:22:00Z
-    webUrl: "https://www.entrepreneur.com/article/419834"
+  - title: "Accelerator StartupBay invests USD 1.2 Mn in Pune-based robotics firm Rocket AI"
+    excerpt: "Accelerator StartupBay has invested USD 1.2 million in the seed round of Pune-based robotics firm Rocket AI’s seed funding round in return for a 10 percent stake. Rocket AI combines low-code no-code,"
+    publishedDateTime: 2022-02-24T08:45:00Z
+    webUrl: "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1-2-mn-in-pune-based-robotics-firm-rocket-ai/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 65
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1645518074-guru-moorthy-gokul-BnsyVc5z0zs-unsplash.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-2.jpg"
+        width: 2240
+        height: 1260
         isCached: true
-  - title: "B2B BNPL startup Actyv.ai raises USD $5 million in pre-Series A round"
-    excerpt: "Actyv.ai, an AI-powered Enterprise SaaS platform with BNPL for B2B embedded, has raised USD $5 million in a Pre-Series A funding round from Dubai-based 1Digi Investment management firm, the family office of Raghunath Subramanian,"
-    publishedDateTime: 2022-02-23T13:23:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-india-1c2b69a6f36c44d597f0adca747c66a0"
+  - title: "Wipro invests in US based AI startup vFunction"
+    excerpt: "Wipro is investing over USD 1 billion over the next three years to build out the capabilities of Wipro FullStride Cloud Services."
+    publishedDateTime: 2022-02-23T09:27:00Z
+    webUrl: "https://analyticsindiamag.com/wipro-invests-in-us-based-ai-startup-vfunction/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Wipro_AIM.jpeg"
+        width: 1200
+        height: 900
         isCached: true
 
-secured: "uvK/SGwlMQMqGP5Q5R0+HhuPJAf124qUXZEn0LdiStGcXvL3iJfvlgRjT05kGha/JLuem21FroJc+ZGmxVjLQEeIE0t6WKst9qU5rh/l2i9bAaWZXFGSNIi18wHrswKPnPdtp6JNvtKiJ9RdxmQGVM584IPXeP1TDyehLp5dzeGeph6h+B0kwO3QTCindnkR9QTRpqSS3Uli+v8T5yr6eXlmT74Cywz0/deO5XTuL8Ou7rvPk6dSF4PL0PmwBVMlLhfPw+oJF1jJWlYak7nrqSULlj8i7WMR+RPIPiZQaH0In/ReHgIoShTTbVqAZSfhyWKy3mNgo2mJnZNHnGRfNB/78qPnDJWAuGizs0LkU9Saqo95NNXlTSqmf5uy7qDNTF89qVr9VxLdcDMp85lI23v/EUUO9P/Ih7PacjqyZagyqzLzd9Gqm33Cw82iG978LT6z2OL/ioH5O7QYNQu//GPk5wB0d36a7GfzLb3VhlMBxkAtXpTwufbj6B1t4A361qB/4ahP+cVHWVcNW/RbGA==;IIH+OWPD2N+9RiJVeQKk8A=="
+secured: "V5yI/mMHIe+5wiZtyYMPrr5gUVP0VKSY5z5nBSp1g0lmZJxWmXPiWrxJczlkocV1GbWCEIOM2vPUEiUUcx8M6lT0bWRbBht7onxtbrEVLi6k9EQlqdhvrHsROatfUMqOQ1GfzsBDN7i2Zrbx96V5m1k3zlaykoTqiMoE6W3DeJFqkQ0b/OwM2/3MLeVyAKFEE9jSiiTxGHWg1pOB4leHluAed7hmIB4iCcZEOADBMV6wdx7aaOcElAO1uE05C7Eb3feFKS8suMEvpYx045IIYwTq2RyyZ0LgTLu9XVKJxASKxtJkaxCC/pNQPlZOohXMWfzfwdxfED/khhCg+4W3ZLHUqOeiSS7Pj2wIuue5Jus=;Nd9tEHrn46z7nFztDSD/kA=="
 ---
 

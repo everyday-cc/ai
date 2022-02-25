@@ -23,6 +23,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Robotics
+  - Microsoft AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGSIoTpL3AqqA/article-cover_image-shrink_720_1280/0/1644772205517?e=1650499200&v=beta&t=2Z-alQD3E6E_oX0-vyELxVTEneHv8751AgNIYiK4xFA"

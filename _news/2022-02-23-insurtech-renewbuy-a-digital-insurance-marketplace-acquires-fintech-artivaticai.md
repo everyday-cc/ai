@@ -55,6 +55,22 @@ related:
         width: 990
         height: 400
         isCached: true
+  - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
+    excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
+    publishedDateTime: 2022-02-25T16:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Travel-Suitcase-Bag-Luggage-Airport-Roll-on-Valet.jpeg"
+        width: 960
+        height: 1280
+        isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."
     publishedDateTime: 2022-02-24T11:36:00Z

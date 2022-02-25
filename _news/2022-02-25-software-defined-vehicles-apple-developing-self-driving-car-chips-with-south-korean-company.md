@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GM applies for approval to deploy self-driving cars without human controls"
-    excerpt: "General Motors and its self-driving unit Cruise petitioned the US regulators to build and deploy its self-driving cars on roads without any human controls. Self-driving units have barely received permission to deploy their vehicles without a safety driver ..."
-    publishedDateTime: 2022-02-21T02:26:00Z
-    webUrl: "https://techstory.in/gm-applies-for-approval-to-deploy-self-driving-cars-without-human-controls/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 22
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/cruise_2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "qchiLUW2M1FGmWze15yEvr+lu3vg0A7gKuLK7POxlG7zLPRVWajYYlVQsFFYwmP94UwTwjBjo3OEXJNDBEtEXTVsgPqOzjoXDu9jxtfSMG9N0mbFgkxL2uXqrGwYgLsJP9XxJdz4lgbo15aTGfCUn05mqfnldLai/SxNBt8+nF4/z2q22oNSx1auJQmzWxbbQbeFB8Emgpeftp1t/jY87R2vNMNWkdKOdOzCn/ysVyc+PKIVZh/WY2PYjMlOlRYcccTZy2ILtX4Ld8LAVzUjzY1X5u/N4XPLusXX1LvgmunBD5R9YqUE/JQ2Xwt9SxGDcm1OH7u+UeRETxxIdwDC4fCXF5R/GiLmn0RM1SSUSbP3jEXbzpXUrBot5kq4NGNwl75AqfqndhIQaAq5iW8lq/TEHF77zRElWiShI/XXc0+LK8T6t6E14prSc8EBnZvrtiAyAglJgyUhxLQynUsUmF60WbmKHGaA2DnDF6LygfLBR18rKAZdh1CWm8J3KrwF/5enKLmBRvh0ZeFacnQo2A==;rGqpluJUQS7Ptt0SonGzLQ=="
 ---

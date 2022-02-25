@@ -24,33 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Aviation Market Analysis | Global Demand Analysis & Opportunity Outlook 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (Heraldkeepers) -- Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results."
-    publishedDateTime: 2022-02-21T02:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027-2022-02-20"
+  - title: "Natural Language Processing (NLP) Industry Assessment and Forecast 2022 - 2027 by Type, Technology, Deployment Mode, Organization Size, End"
+    excerpt: "Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The global natural language processing (NLP) market reached a value of US$ 14."
+    publishedDateTime: 2022-02-24T18:33:00Z
+    webUrl: "https://www.01net.it/natural-language-processing-nlp-industry-assessment-and-forecast-2022-2027-by-type-technology-deployment-mode-organization-size-end-user-and-region-researchandmarkets-com/"
+    ampWebUrl: "https://www.01net.it/natural-language-processing-nlp-industry-assessment-and-forecast-2022-2027-by-type-technology-deployment-mode-organization-size-end-user-and-region-researchandmarkets-com/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/natural-language-processing-nlp-industry-assessment-and-forecast-2022-2027-by-type-technology-deployment-mode-organization-size-end-user-and-region-researchandmarkets-com/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: 01Net
+      domain: 01net.it
+    quality: 40
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "5G in Healthcare Market 2022 Supply-Demand, Industry Research and End User Analysis, Outlook 2027"
-    excerpt: "Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. Market"
-    publishedDateTime: 2022-02-24T10:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-2022-supply-demand-industry-research-and-end-user-analysis-outlook-2027"
+  - title: "Natural Language Processing (NLP) Industry Assessment and Forecast 2022-2027 by Type, Technology, Deployment Mode, Organization Size, End-user, and Re"
+    excerpt: "Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global natural language processing (NLP) market reached a value of US$ 14."
+    publishedDateTime: 2022-02-24T16:50:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=622042"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/e72cee448241867e871ce5514b7cd8b2781040ce-1-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Iris Recognition Market Insights by Industry Demand, Regional Share Analysis and Forecast 2022-2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Iris Recognition Market which emphasizes on the la"
@@ -66,15 +68,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Digital Genome Market – Technological Advancement Opportunities [Global Industry Analysis]"
-    excerpt: "The artificial intelligence in digital genome market has been projected to experience noticeable growth avenues in the following years. The growth in the global market has been possible with the growing rate of investments in artificial intelligence in ..."
-    publishedDateTime: 2022-02-23T08:39:00Z
-    webUrl: "https://www.medgadget.com/2022/02/artificial-intelligence-in-digital-genome-market-technological-advancement-opportunities-global-industry-analysis.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "V+feG7Ses04tFxMl/SC/g2+nIPYyALVpXskaBMjsDL5z8Ze5LO6y0BRfPKnGsx9ALcidazpvvLTWlSGqsLrrS91U2AWhyb9l4+dNlZQWveA6EVXPVy7OsDDQmzwJ5u1PqJatn1V+UWW0WhTYl5lLaxNm7ZceObWeE5tUdSD3YVDSvRPV4iryjqqb4XQiMB31IeEudMK9/KBYQD3uYo0lfsTwPgJl/nZY/0JjU7NgK1uN+EtC+qZcgo/+Z6NyM4qsMFJrq90QwCdLIHp5ZBZkl6mVSsLhLr+eUzAPBuf++nYx+VQGrZ8IoN69swyYXVL2gT2t8JS+97Vc7KXLY2wv/KRs4xueMYZLrn2nldPHxEU=;12nla5G+UcA2wMFKXZ3O/A=="
 ---

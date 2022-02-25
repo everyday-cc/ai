@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Machine learning helps to identify climatic thresholds that shape the distribution of natural vegetation"
-excerpt: "A new international study spearheaded by the University of Helsinki explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight th"
-publishedDateTime: 2022-02-25T14:53:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/944713"
-webUrl: "https://www.eurekalert.org/news-releases/944713"
+excerpt: "A new study explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight the importance of climatic extremes in shaping the distribution of several major vegetation types."
+publishedDateTime: 2022-02-25T17:18:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/02/220225100229.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/02/220225100229.htm"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8f5815e4-2e7a-4ee4-b8bb-a70ead35ac4e/Rendition/low-res/Content/Public"
-    width: 700
-    height: 347
-    isCached: true
 
 related:
   - title: "Deep neural network to find hidden turbulent motion on the sun"
@@ -58,15 +56,20 @@ related:
         height: 313
         isCached: true
   - title: "Machine learning helps to identify climatic thresholds that shape the distribution of natural vegetation"
-    excerpt: "A new study explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight the importance of climatic extremes in shaping the distribution of several major vegetation types."
-    publishedDateTime: 2022-02-25T17:18:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/02/220225100229.htm"
+    excerpt: "A new international study spearheaded by the University of Helsinki explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight th"
+    publishedDateTime: 2022-02-25T14:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944713"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 32
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8f5815e4-2e7a-4ee4-b8bb-a70ead35ac4e/Rendition/low-res/Content/Public"
+        width: 700
+        height: 347
+        isCached: true
 
-secured: "GMp3qfPcu91chnLp84h8KN2iJbl339YlBOhug8s+0hhQtIhWl98cqXY/vLV6D0k17a2mReNzuHJYyCEFw70ScBS7F5PeAscfPXkaBiOAPjzCHbERnBKsOVFJN0+i0UP+05RQV50uEuj+AooTqgFpN/F7lNNglrB2AhiigtS8F2oP3uJOE5eicW6jADgoEjNlNNozSCLrxsIC2k+6+R2Br5vnS6NW2IdbKlDnKeqFBWArVTkNsJZoi8m6Dov2pNb17J+1bUcfFJMp8jM+NfxIDyHXYY+wxiPJ/s6QyxsItf00dC6vqX8TNmM5FHkl3Ok2zrOzaZewD7QdUxbPB/VuLQgIRRNM+VMmR5YKJqekulnUprSkHC/J4So5W690vD2mnPKhkHWovNywnvbBxlXycbzFY5km87aZV8/v7J8HUJqIpnme0kRcfEVrpUBqx93sETAe8GjHOm03/G9FVqKo3eDx9+orU0E6M+NYqOpAb/TK0mg1aFT1shJLd8AenCVAgOFTTn39+h3CpCD/+/YhgA==;WVULPUdPHBenpkCYTI4Slw=="
+secured: "MORPT6Jp5wsCbRxvLBN2p7D9xArjE5wSsDtcODLJrcyzrfGxjjEFoTgGzC1ByKXtgS/yAwshAvWInEQH6cqzEoEwa9m1aj88uDeEKIBi5rThUUlU6kBGOW2J9GZATnPJvjAJdvTuzlar16jYCaT77+mfMvq4PkdeNHgda+hwIjDBXUjOl7La49iPa/PKw7nMcEuh/dFW2DWN1kVPAbuld2HCYrjvfoXIGe+8Yfc4Bd25ydO7ZX8jjUctZ7RxEJ+GPt/QUpPAjFVrWcxspZjZsDildh8diRtT8LXtIKPBDUlcFw+Yr6zpRSg1/ugaBmN1RjtW9rQe6Q0ZZYLIrmIsWFmNGiXr/eOBqX0z2jwooP8=;HYz56lzkxbeVPR1OiBMuCA=="
 ---
 

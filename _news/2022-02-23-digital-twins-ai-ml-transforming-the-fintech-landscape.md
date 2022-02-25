@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/420077"
 webUrl: "https://www.entrepreneur.com/article/420077"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
         width: 990
         height: 400
+        isCached: true
+  - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
+    excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
+    publishedDateTime: 2022-02-25T16:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Travel-Suitcase-Bag-Luggage-Airport-Roll-on-Valet.jpeg"
+        width: 960
+        height: 1280
         isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."

@@ -157,7 +157,7 @@
       "originalUrl": "https://www.zdnet.com/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -199,59 +199,6 @@
         "AI",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-at-metaverse-event-metas-zuckerberg-unveils-work-to-improve-how-humans-chat-to-ai.md",
-      "title": "At metaverse event, Meta's Zuckerberg unveils work to improve how humans chat to AI",
-      "excerpt": "Facebook-owner Meta is working on AI research to allow people to have more natural conversations with voice assistants, CEO Mark Zuckerberg said on Wednesday, a step towards how people will communicate with AI in the metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/",
-      "originalUrl": "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1529,6 +1476,58 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse.md",
+      "title": "Facebook parent Meta creates powerful AI supercomputer to support metaverse",
+      "excerpt": "Facebook’s parent company Meta on Monday ... The computer, which is already up and running but is still being built, is called AI Research SuperCluster. Meta says it will help its AI researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "originalUrl": "https://www.marketwatch.com/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-473186/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
+      "publishedDateTime": "2022-01-24T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

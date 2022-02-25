@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GM applies for approval to deploy self-driving cars without human controls"
-    excerpt: "General Motors and its self-driving unit Cruise petitioned the US regulators to build and deploy its self-driving cars on roads without any human controls. Self-driving units have barely received permission to deploy their vehicles without a safety driver ..."
-    publishedDateTime: 2022-02-21T02:26:00Z
-    webUrl: "https://techstory.in/gm-applies-for-approval-to-deploy-self-driving-cars-without-human-controls/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 22
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/cruise_2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Software-defined vehicles: Apple developing self-driving car chips with South Korean company"
     excerpt: "Software-defined vehicles: Apple developing self-driving car chips with South Korean company . February 24, 2022 by Sam Francis Leave a Commen"
     publishedDateTime: 2022-02-24T20:44:00Z

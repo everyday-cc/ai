@@ -3,24 +3,18 @@ category: news
 title: "AWS Announces Global Expansion of AWS Local Zones"
 excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
 publishedDateTime: 2022-02-16T22:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-global-expansion-of-aws-local-zones/article_8844f9b3-67f3-5bac-9827-49fb53013166.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-global-expansion-of-aws-local-zones/article_8844f9b3-67f3-5bac-9827-49fb53013166.html"
+originalUrl: "https://www.thedailytimes.com/business/aws-announces-global-expansion-of-aws-local-zones/article_16a930e3-007f-5e15-a650-b2d675ec2f09.html"
+webUrl: "https://www.thedailytimes.com/business/aws-announces-global-expansion-of-aws-local-zones/article_16a930e3-007f-5e15-a650-b2d675ec2f09.html"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "naSEJ3wc5FiQDKczUuaiqFzGSkTzrAtNMfzIBxJYMHq6IQreoISr+uq5IULr4RT4Tzk8EngUPrx5f+3wgTmhwoViGs3mqPWWJbBWrUkWZI0iM4MV1KiT+J8h3LeT47gzz8URmN5+3vmXsGu8h8k8fxgIT459j5AqGbpKXQPWHjhHJ2fRE5mcBwWYUEZ9YMPGSQJB64LMenddJLfRovM3r7nQco4kaj5u0tQNEn9fCycYtpb12/+IAL7xi66ef4FC9kMf/HDuvJDVZiI17LjuN6KOslRfV5RuACgvh4xsBcqQVMmCAvw7UKqzuschqf2rL7YQnbF4jaoTdFlGwBfbedfr9EakQ0T3w90UtZF8EjqkkWNNtjIL8ePtWHm9+314BDyjFVVyjy7ELg2jtDypRfHUFJ9uCt2KJF5J0hElZ9JA1LmfNKpFevxWRUcHrUIftLIG2/pnFo6p6nUO1irVRqrlw52s3L7qp9QoAauiorgqmI8H/meILUzzXhvZc5PX0+95FKtRgm4xHg+XDJahaw==;LpG9Bvyda9TUqe7kGmKAWw=="
+secured: "a9EB7uDDPHImzeweVCdWwQ6LR7JLpm7C3fowd+IpnVxGFLDaN1fhLvyTg2bWHL7PotHabUCjuYDJBnITtEMGpYMAznDuWBsfsJnpD9Byk4ijdRfoZ8qO7rPbHefH4JoeUGgnXz/AzeBIg0mzWJPniLfJArLS4rNxWeTAOjhm3eDavqvbGYxHNQ/JLxqAYR1Q8X4yAFsjQSZ9sbWR55fn41W2k3jhU3Hi83gY3kFTRuGigbd94+pXxsJGTxsS6+zDomditEferMUqnktxmCWiJZi+D31RjxbD4aHlJ/+qzhnwtAO8DqlwaFNQXAtuSg0uUAm3psRbikn0frAYkbL+sRFTuTUYHw3KjSyh6m0N90OOYJaaApW+7CEvN9P7vkWI3MHIxPvwJWctc1unD6qHz0GZPcLhn0azmwh2WQLdie7bcCC4QzLguLhUoqe2EGVhdSftknS+AVkUE//vszOVyD7oOX5isWHrGRALUyY+KYGj5edD7fWj7gJztaFlvhEOIPoJjrk834BbfZbmF7mOYQ==;DYvnf8PnTmOwdRxhJr2UOg=="
 ---
 

@@ -1,32 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence is Transforming the Financial Services Sector"
-excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
-publishedDateTime: 2022-02-24T12:16:00Z
-originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
-webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
+title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
+excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
+publishedDateTime: 2022-02-25T16:13:00Z
+originalUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
+webUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
+ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - AI in Finance
   - AI
-  - IBM AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
-    width: 990
-    height: 400
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Travel-Suitcase-Bag-Luggage-Airport-Roll-on-Valet.jpeg"
+    width: 960
+    height: 1280
     isCached: true
 
 related:
@@ -60,21 +57,19 @@ related:
         width: 1800
         height: 1362
         isCached: true
-  - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
-    excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
-    publishedDateTime: 2022-02-25T16:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+  - title: "Artificial Intelligence is Transforming the Financial Services Sector"
+    excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
+    publishedDateTime: 2022-02-24T12:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 41
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Travel-Suitcase-Bag-Luggage-Airport-Roll-on-Valet.jpeg"
-        width: 960
-        height: 1280
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
+        width: 990
+        height: 400
         isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."
@@ -119,6 +114,6 @@ related:
         height: 667
         isCached: true
 
-secured: "5jCe9oHHoB+1NsaRU7LKAzB4ZEFyiZ/ttQCMBXXoZIjWbBothAlNQaV2WAzcNUfy5ZCw7p9x/MPH0W3r73D+YanpHd0z7TshX1p/0iTKQB/nbfJfXq1tKYYxhVUEGwKdSp4D594i1BX53XDX7Mmk2R1J6a7i1z+94l9dljcrmZkhc5EGPcRgS73v2WxcokuUXID24uMZ+bAZoePIXTDChso18lD1QbJqhrMuYzlBKRepDe1b3F8SQfUgBBhkH03ON36iWta/WcuyZGPHC0OJEgqr/nI9ZRbB7dhRJHZxdlx1vf71NK0TUpPoXjfajvaGHutnVv10rtsjNPH6l5j2ME8k4+fRdMLrO3qfYG2cppo=;2rW+x7uYQpFGz3gG7d8DEg=="
+secured: "m1i/R7JWiavZgjSvBC1QxfqmyPlEgm5TBUshhi550B4FRuO8p7MI2pHFZzSk5oVNuKZXG2IumMBJiK5yG/BXlZWGoFpJcgNUDjS/QRmjuT/CNjKl9AaOYQ5LEnJSWHRfQgxfBfqMfq0gIlJHia0Qm80mnO2j2Fyo4D/o+5U1opyqWSQ+B7wOyDlVIQko+bBRnzHJ4Wfcr0U9MtB0jSM+zENFGhTJ9ZBNPTxXgtTSmssOFNIZG2is7JoJ56ioTIbkt5c1ddTp1XbU9TcKcmzuMIcNJahSVfWC4iaLaqLu7jOyo24Vhi9P6BPbNtQtvZWewb9awBBKqvAOpY8eI84kD/1AS9XsOvCInS2OFWmJqus=;/MScuUltn4EW/A7JKATT9w=="
 ---
 

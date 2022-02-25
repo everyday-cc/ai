@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.a
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-deep-neural-network-hidden-turbulent.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         height: 313
         isCached: true
   - title: "Machine learning helps to identify climatic thresholds that shape the distribution of natural vegetation"
+    excerpt: "A new study explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight the importance of climatic extremes in shaping the distribution of several major vegetation types."
+    publishedDateTime: 2022-02-25T17:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220225100229.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 32
+  - title: "Machine learning helps to identify climatic thresholds that shape the distribution of natural vegetation"
     excerpt: "A new international study spearheaded by the University of Helsinki explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight th"
     publishedDateTime: 2022-02-25T14:53:00Z
     webUrl: "https://www.eurekalert.org/news-releases/944713"
@@ -58,6 +67,6 @@ related:
         height: 347
         isCached: true
 
-secured: "3s9lo0HqZ+keYTVNjMfudjYsMbfeqKQtNiBHsqEihET75gdJ6ASHKFZcPlWedHosxuiw3rITU6vFXVUQDZNrRg794DtCER+KycL66wzVPz5aQJ8dBLu49TgcutM46umeCUjvkBuZMvDflxaqa+oZlzmvHMgn0WOdMZKUVX/UiFNbeoELIY/6ARK8LbSImC6dg+If2yBbUt4R9zcutJqmhzxt6ijIgBTogdBL/Qil4hl4BEzWdYuqTCufClHl5psziSxLemlPT26xB624m9abYn4Ydl3tiB4C1efJ5ZuvIp8/1peqjSvzSGzG7oGUI9DzIpK3i+hdbRdmdTyyd4DAZTt3I7eWk7jyugeCacDAa1U=;cfeebCkMLO1PCyyZwWAdMw=="
+secured: "3LvfxJb2/XoCyNX222bivTxlzIcSDV7s6b6mEVt+FdLlsOA+VOTlJbjvysyz7vYh0Rq+wFxJAsz9c599ucpnIZiM5Kxg8zNO+Ziny4WdVfYOJn8AHJKtmLX9PiA8+OwXB6Xt9YKrAvaUiGl9tL0xOdeJ6Xe5TxPEAGEzENe8GkGLKHGS4s5QHcHX2mVMMWD7nv0IWg0tfTsMd/8G3uio2wY/cmA1Idrj89URbRRVwkOfCZ8vqXgNJOCLwHeD9aWdAozV8oJFya+MuUf9olqdY5iVNA62m8FJFLF9Y719R2rUEh838J7c67MhGFWI+aU64ORHFv2PqvPr/PkEuIiSwjqO6I19HSjU+gyEoceUINBbGBVlt3NbjfB4mdgSerSmOw13+SlC8qSfknte0yFEZFXtlncxTrRQCGj+n2OzY5fYrPpEPA6pQV6ZeNcdH+nfoUZUBjcHZB0vX+g/0LuwrGTWJIKHIAMZfU5sjSIcQqE2YBuT5gWvVkPzAT8TxF0dRZS96h7J6MWUfCzSHtJuow==;1FvHChtfi6HMVVlRq2if0w=="
 ---
 

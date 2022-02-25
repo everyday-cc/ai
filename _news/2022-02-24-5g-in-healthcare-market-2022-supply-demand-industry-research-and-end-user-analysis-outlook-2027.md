@@ -25,57 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Aviation Market Analysis | Global Demand Analysis & Opportunity Outlook 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (Heraldkeepers) -- Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results."
-    publishedDateTime: 2022-02-21T02:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027-2022-02-20"
+  - title: "Artificial Intelligence (AI) in Food and Beverage Industry Set to Witness Explosive Growth by 2028"
+    excerpt: "The Global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62.83 Billion at a steady CAGR of 44.4% in 2028, according to latest analysis by Emergen Research. This steady revenue growth can be attributed ..."
+    publishedDateTime: 2022-02-22T07:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-and-beverage-industry-set-to-witness-explosive-growth-by-2028"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
+        width: 600
+        height: 337
         isCached: true
-  - title: "AI in Drug Discovery Market Global Industry Analysis, Trends, Market 2022 Size, and Forecasts up to 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on AI in Drug Discovery Market which emphasizes on th"
-    publishedDateTime: 2022-02-21T14:40:00Z
-    webUrl: "https://menafn.com/1103735412/AI-in-Drug-Discovery-Market-Global-Industry-Analysis-Trends-Market-2022-Size-and-Forecasts-up-to-2031"
+  - title: "AI In Drug Discovery Market GROW WITH A CAGR 2021-2027"
+    excerpt: "Astute Analytica published a new report on the Global AI in drug discovery Market, this market research report provides detailed analysis of primary and"
+    publishedDateTime: 2022-02-21T13:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow-with-a-cagr-2021-2027"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
-        width: 375
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Iris Recognition Market Insights by Industry Demand, Regional Share Analysis and Forecast 2022-2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Iris Recognition Market which emphasizes on the la"
-    publishedDateTime: 2022-02-21T14:42:00Z
-    webUrl: "https://menafn.com/1103734933/Iris-Recognition-Market-Insights-by-Industry-Demand-Regional-Share-Analysis-and-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934279"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence in Digital Genome Market – Technological Advancement Opportunities [Global Industry Analysis]"
-    excerpt: "The artificial intelligence in digital genome market has been projected to experience noticeable growth avenues in the following years. The growth in the global market has been possible with the growing rate of investments in artificial intelligence in ..."
-    publishedDateTime: 2022-02-23T08:39:00Z
-    webUrl: "https://www.medgadget.com/2022/02/artificial-intelligence-in-digital-genome-market-technological-advancement-opportunities-global-industry-analysis.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "dpJ0w9ngSDnZJLDs/h3sf1v1fK4w6LQu3gp8W0dNveChHsM7mqkg7/Vx8HnF+/hAT7iq44T00mjCPdOhZjP3a84+wnHhc6D19E3t9jszLnBjqzKGbeTF09ba8Ilr4LLerb9w4qD0exnvRG4yVTnZPRWaU3Wl6G2uNlAmvDklZqD51Kde6GZ1Tfrg8FCRMH6cgT+oVIIAAUBDy7aFLgt2+F/4VMDIryW7CqtOQwEuA7GUQQuiQVe0BBUmjVWCW4C1jw0oxxZmyK2RhcwdktVSKdKaoz+vZ/ztVtOeYv47yspejURk9JHYbM3MRUDO6aqT4+mbTyUSQsmBUJkk6MQUEtmyQGLmJPSZyIjykrvIoL4BP+LsXh/EGFjSDX09V4aNQWjGqA/JENPORcXqQSVsY3BIisqZ8Y5ieAv1aAVJeeIcNL10FaK0AEbN4HhiJehws8T8I4PGcL1aYUNxNXujuUaZnAgkhjkDkW0iM2N//6jRZ5Vqqb+V5Mgp0Ghx9aEb7+WystbeBT6zHqmpfv9WBg==;x/lC/P0+d5FTEnzoJZZ20g=="
 ---
