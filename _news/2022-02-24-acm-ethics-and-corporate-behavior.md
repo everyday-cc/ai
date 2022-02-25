@@ -3,8 +3,8 @@ category: news
 title: "ACM, Ethics, and Corporate Behavior"
 excerpt: "The biggest problem that computing faces today is not that AI technology is unethical, but that AI technology is used by large and powerful corporations to support a business model that is, arguably,"
 publishedDateTime: 2022-02-23T23:16:00Z
-originalUrl: "https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior"
-webUrl: "https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior"
+originalUrl: "https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior/fulltext"
+webUrl: "https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior/fulltext"
 type: article
 quality: 19
 heat: 19
@@ -29,6 +29,6 @@ related:
       domain: eurekalert.org
     quality: 13
 
-secured: "13zvVwNeaWA4GrCyhBw5bqDXb1MVI8TDBQ5DFg6iTaBd72ZBiWNZQ9B8kELeYUmuhtHlMZ8pVcuXXPRF8D66Qj0b9WODE4eeVVn931Maan+vId5sHeSs0kyb6PBBzLk35eSyDtiMBgepR4UjiiFpQL72s6dtQcDYpz8RO9CVp1gb2ztgLFvYILaOqwE3RWlREqqVF+I2Rew4QcBNFOrc6Qy+R3eJ0hVO+AIqb7ePsHWp9tiNZ4laqlcUe5CInNPBk+PJ5icKVL3AEgQLczzhZwLEkPl9o5QN/L1hYs4wcDsfBcZQ2/8usXfcYCDQOLKQWT4buXGjtnssjEwY6n70gYa7lRejnxrWxkL7hW2p1WU=;ygDxT03BUoKAp74ryN+xTA=="
+secured: "srqVCPDA117d+qbG3V6lR7GH/b7XBkQQ4fYqy6ZRPK3V/3mc+gzKGmKDYAzHr1Jx7JzRYskqZeFtsEiBhpb2BXdCrhiYxdzRLTlJT0rGwjQkdRPEbwvycLm0dyXFwhaY9/ACjpH+ryGmynuQgyewMYl2mQZJLdu9Alz8Ue9oRz64ZdvT1I65U/0UHiTPmUSu6O63OhXLNpk4iZMru2lA9ztt49dLdBxRCd7U6Ti6mCK1qwRALaMElkDyfwEJFz7xcUIxmSEYljwZFPmSa1IMNEN5/AaE3XLS29PQ4mA1Xi/ZAHqza5Ml4pPOYW/+lMbRYIQagb6FffHqXYtU6sHcX+nD+Arxh3Kr/wqcCqTzs2w=;6oEIeRCJNbPa3nnPNxQrOQ=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automated Machine Learning Market Size, Future Opportunity, Emerging Trends, and Growth Forecast Report"
+    excerpt: "The North American region held the largest share of the automated machine ... customer service. Further, the COVID-19 pandemic enhanced the digital transformation in all verticals, such as healthcare, manufacturing, and banking and financial services ..."
+    publishedDateTime: 2022-02-24T00:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automated-machine-learning-market-size-future-opportunity-emerging-trends-and-growth-forecast-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.abnewswire.com/uploads/1645680377.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Cognitive Media Market Analysis Focus on Leading Key Players and Revenue Growth Analysis by Forecast To 2028"
     excerpt: "Key Companies Covered in the Cognitive Media Market Research Report Are  Microsoft (US), Google (US), AWS (US), Adobe (US), IBM (US), nVID"
     publishedDateTime: 2022-02-22T07:05:00Z
