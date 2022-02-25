@@ -81,14 +81,19 @@ related:
         height: 310
         isCached: true
   - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
-    excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
-    publishedDateTime: 2022-02-24T16:36:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "sKmqDigZGmx/2I9lGsG+6G8BueuTW8abMzBo72xJuUwyD+XJHnx5jitSm5fojYPS4OuoG4EW0o7L5Hs69+8CBJm0AN7SnKrzd66vPzVMdEiwBB19tkzOSlZwIn7QFaD60FIpTRneg1YjxSWxeiUwk2TK1FbLtCQlRbIlU5p68oKMDTUsiZvbV43NL2+Bh29yD3NT4srTOCN4vWPqYJWa8qPACKA4pdZJC0jxHOFEtSnee8399sGYLJfkS30g95aN33w5wIq1DjnGdfzUVziaM7lbD73xQ2Ib39zkaA6EUF9QO9WuYzrNHoRe/f73LDbeydnFbWOBsV1FG2aqD6xiJaAEDYbOPhiMZMcs4eDcKjZaKzGWB0F6PwSXjHYGQ0NnKM/ciHDKOWzisPdUDJkoEV7Qe0RyB3eh7InJTEu9dNFC/R/m1rYmBoMB6GBtU9ZNOFLP1PsWpZfPs1IKgZg7uEH16HPcR+pa7V3CRxHGaQFk3l+3lw3ApH7NrhEA9SeCwyqQbVVDeKV5FySEWJBUyg==;fXro+yqOgiCzmH9wIbtSOQ=="
 ---

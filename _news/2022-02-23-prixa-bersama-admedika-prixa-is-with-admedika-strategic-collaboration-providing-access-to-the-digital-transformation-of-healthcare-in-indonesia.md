@@ -26,6 +26,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "AON Collaborates With VieCure to Advance Adoption of Precision Oncology and Personalized Cancer Care"
+    excerpt: "The collaboration between AON and VieCure is designed to facilitate the delivery of precision oncology and personalized care and treatment for patients across the ever-expanding AON network."
+    publishedDateTime: 2022-02-23T18:25:00Z
+    webUrl: "https://www.targetedonc.com/view/aon-collaborates-with-viecure-to-advance-adoption-of-precision-oncology-and-personalized-cancer-care"
+    type: article
+    provider:
+      name: Targeted Oncology
+      domain: targetedonc.com
+    quality: 9
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/targetedonc/c56634b814ba57229a69de3c234db4e4a1f6c3b1-964x488.png?fit=crop&auto=format"
+        width: 964
+        height: 488
+        isCached: true
+
 secured: "IsowR4IqECtwBuHIkHE5ySMqwyx1wE5oJ1QmaiHG6FPexUlJ/XQo3VJlx4HFnvnOHsv50dSGZinwT9go6j9rMwcpqZHaVhXjcu3jt16W80WD+UUZcxU4+MVugLom8NfSoysoxmK9/jDrfbG8E/41gBXOQ7Ls4RG4BjG9pzxfXMJNOGcg4zFU5bg1Zj5maYZhBK84WsjbORJxqWYUfbee8DbPxfrKlie3OW2DQaUlB6mOGg2LSkGM5CGRTVDXA707U65dl2hYocMBQpl7ekxecC/kYC4dCj4ugh67RAT4hwIGxRGXH6Y/fuYqihZzKmAyOeURKihQ6uDUfkvfZNN6gZ3Q190Tw37BRRLCHa/vZ4Q=;D122LlpOH77BaYrJ3RCH2Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-02-15-an-arduino-with-better-speech-recognition-than-siri.md",
+      "title": "An Arduino With Better Speech Recognition Than Siri",
+      "excerpt": "The lowly Arduino, an 8-bit AVR microcontroller with a pitiful amount of RAM, terribly small Flash storage space, and effectively no peripherals to speak of, has better speech recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/",
+      "originalUrl": "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.youtube.com/vi/xpJXD2z8eWs/0.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verifiedtm-cloudconnecttm-to-office-365-and-azure.md",
       "title": "authID.ai Joins Microsoft Partner Network to Expand Verified(TM) CloudConnect(TM) to Office 365 and Azure",
       "excerpt": "AUID] (formerly Ipsidy), a leading provider of secure, mobile, privacy preserving, biometric identity authentication solutions, today announced that it has joined the Microsoft Partner Network and expanded Verified CloudConnect™ with the integration of its flagship facial biometrics solution to Microsoft Office 365 and Azure via Active Directory Federation Services (ADFS).",
@@ -1106,49 +1149,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-ubtech-robotics-launches-mobile-disinfectant-robot.md",
-      "title": "UBTECH Robotics Launches Mobile Disinfectant Robot",
-      "excerpt": "Chinese robotics startup, UBTECH Robotics (UBTECH) has launched a mobile disinfectant robot called ADIBOT-A to meet the demand for autonomous cleaning regimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/",
-      "originalUrl": "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/Image-2-3.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T01:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

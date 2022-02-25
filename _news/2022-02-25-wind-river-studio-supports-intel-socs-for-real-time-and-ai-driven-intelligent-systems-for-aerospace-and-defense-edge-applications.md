@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
-excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
-publishedDateTime: 2022-02-24T16:36:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
-webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+publishedDateTime: 2022-02-24T16:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare"
@@ -89,6 +95,6 @@ related:
         height: 315
         isCached: true
 
-secured: "bOOCtdYEBCmr3VKHzDtyLr/nGnZGKLNI2nU4ZuIsvDlwRvZs0148ZSawPQZWt8NxvnglKxLfRk1aMS7BuGBDkGFsEtQTb7WxvUoGCtuMgAhEcsdOHosIJJ6hMCJouIBugjbXstSEE+NoWMvQifiLfX3m5HQiObVZan3WcWllMD6MkIJjTKDKyMyMoTfEmfqcTUSnOHvad9yYyx4DwgolMhEryGvCI+SRuby03a+OyoyzhBFHHvVr2bwNrDd9PJCfv3VF2x41rF8mA41RiVbwb0Sm11H6miFFNqrnXavZ7la+QB/qx0DM+fXHOpGyuv9+rP5CFkf6rPozPoBlI7NvQAOM5vmNIaVzHbYZcaKsDDU=;J2HA+xAGaDsFwulQAyganA=="
+secured: "c4q+oV8TSfi60rSRQf+7O5AeWA5lnv+NkzwO6uIHODBciLCrBU3gn5DqF10/hVmxgFweGwMMbsPkgJIBtX7+wR3436qQzjzXHmD/ZbWjemRqhE1iuAQKerCHeLVX7VOIEsFc3s1K2la1urpoE5316FXxdOh2rsbo1SO/e4BPQtPfU6djRG+ITEs16Iw89KJdH0dQcXa/fevFU+InkbWWg6chWFyCZEkxDlw4HYjjbvgKdFgaZmXNfTiA0usNI7gAk/gW9GdPQsslqKz1xuqsmDkpzaf3DnXitMcc5sSqnI73JkcZPQWBChJ48v4FV9ymf9N9m5pcuYHqidlBpiA9JdYwRkfOGJFpHh1UrXILIgY=;EkcIGvVgDHTYbU1FuF4yJg=="
 ---
 

@@ -85,14 +85,19 @@ related:
         height: 315
         isCached: true
   - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
-    excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
-    publishedDateTime: 2022-02-24T16:36:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "AQNo7/s+KF5f4AsfV50OlsHTwsDKOjdoZqeH2zUVfZ4kF3xG/TRspnxcVUfgVUKdutfKmQ4Z6VqwtCscwk+tsohtLSIjg9prz30EG7yWB+CEy8iA0+hxhFDiOXvbfaGA93veYdCC9g9KmGTEeIK/tVWNznS84kEIYnupszezpWfch0nCoh1nnutrelGdFghsqYeW5uIySTIjjQR5CxMux9iYf7r7RoqOTedS2Yn71N7JEnTf0EPg2FSctGZlUQyiZX6pa415n3KMAs8CNhTpmhVe7BeEegB3+qg1+qv7DGm2cPMftkxncfFYv7Gryzy27gFs9x5MjMBJLGfDmJp+e1nKdNG5VuHKUN5gqRmFlkv6FjnXSU1Nr0utmtebsyF3zYWGZZtMGDMoVa3DbFbjtKHra05i+ZtdjCdP/nwX7OXZOFridFwAMG8WAnSg0a1yLELiy6QiQz+EVIg6WQqtKVgr5x2hm69a203RgqBnmrpbbrhVDZtFWB3u41WHd/gX6fo6oXNuWPx2drDi5jouyA==;J8yXn0hgqadXBGwmUqdC4w=="
 ---

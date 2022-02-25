@@ -84,14 +84,19 @@ related:
         height: 315
         isCached: true
   - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
-    excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
-    publishedDateTime: 2022-02-24T16:36:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "vNoZ36/kadn3mOR/i8GXt2I667AvGn0hftxnjD3V4uWG53N97JjWMcIVySccntGjtp+nUZwS0Y99f5U4rQH2Fs/G/PFQhR1jWN6BlVWcsNVJXken8o3EjOXuCgt8OcYcuWukzyXdZG+6H0sTwvuufnC9F5RZMww2RwmEl3S8m3NmveZAsqFT6s0ob340VrBSn3Cj7GNRbY/xfcu3abRFZ9thwy5gmjpjcJXJ+gN80KP8M8wrrzjhxAKuovH0ayAq2DN9CrlECWKnLq3mUXQSauUahVqMkh9OTLpTEb+yvzn5DZkcfgcww+iCowXCWp45M6biDRkwOjZQz0Bf25+HEejHiz2ICfs49PADoa4h2dYs7XF03Mkubj8MA69PSTiMGMkM90sXKrvF8nn/0PAOTo7KpQev66MKZPPIqoLLKM2xxyOhTdr7l3k+iiUtstdCoQBlCN3eWRmqkIGb6Za4VlYCoLGu3XAWxWTBOCyLpAe8uMzn67Plu6qQbdlZiGRZzmYwx68wklgPcfZiJB8+9Q==;AVKOdAuAq51pMNAzWc03/A=="
 ---

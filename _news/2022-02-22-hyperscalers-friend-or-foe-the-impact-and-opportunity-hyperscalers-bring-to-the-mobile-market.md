@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/expert-opinion/23146-hyperscalers-frie
 webUrl: "https://www.thefastmode.com/expert-opinion/23146-hyperscalers-friend-or-foe-the-impact-and-opportunity-hyperscalers-bring-to-the-mobile-market"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1126
     height: 550
     isCached: true
+
+related:
+  - title: "Kyndryl completes hyperscaler trifecta with AWS partnership"
+    excerpt: "Kyndryl, the infrastructure services business spun out from IBM last year, has signed a money-making deal with Amazon Web Services to help customers navigate cloud transformation. The move means that Kyndryl now has agreements in place with all three of the major cloud providers."
+    publishedDateTime: 2022-02-24T13:44:00Z
+    webUrl: "https://www.theregister.com/2022/02/24/kyndryl_aws/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/24/kyndryl_aws/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/24/kyndryl_aws/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2020/10/29/aws_shutterstock_editorial_only.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "hm5H3KNTfUMP9C1Gle5GQZs8OE1XuW2dueLizMCIWry56NRmZRBFjevPB3G9UqdEt0ABWbzRreuaVa0gypeAmXMCmr+1JgyXpXF0lqCDXTaAcBfz099UxvXhzP6lGjZMVMAlUDI8h8BBkNEs2IneX/mhdggrs03GzKGbxRtsVr8YrLFPWb9Sk6FQpu247KPtaYNOu1CVy3vx3oC5bmlGCgCKOvZaP/fhKustSV1x/S9a2RLbD/+iEDI3XcHYQGe14Nk6vPmbDlRgnm7NI9bjJDz3u3p6wGE7zYv/s1T0BoxxXHTztp5UyMs8pfQzyOq1G1BjJzvovxJMVPR1Qp0OgCW+OR96ZIuvxPPkqUjazu7QSErmIbix/jfCutsAacbBN7DbqgwghyG9lGpGsGKj5sqwutfhNiTlIuTL7FsYbF/kSkrIY0Z0BdjvaPRXWQBRorpPkrquhFGMU2+sQtdDxX7o8pguQ+itRndqy+P80qmDslY7dLnJorSToJZRcLpgaJVbXhSeXeJkd6TKLi9c/g==;mIZYyc0yfoKik6J1xMZh8w=="
 ---

@@ -83,14 +83,19 @@ related:
         height: 315
         isCached: true
   - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
-    excerpt: "Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings ... The Intel Xeon D processor is a SoC built for the edge, featuring built-in AI, security, advanced I/O, Ethernet, and dense compute."
-    publishedDateTime: 2022-02-24T16:36:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220224005459/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for-aerospace-and-defense-edge-applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "5oV+56nGsK9+Jrh7H9rOTW7/RSDLmlCmXZkf+pyeenx6LFkT0knzYK+IcWkLVmb+IHRW2EDaC1Qok1yejXBkF2IUlyQ0S9kMwohXLdkcamN9GY6P4JHsCj990OSVxCGrjz/mxTfw0PIypolxKXZjlq6QWpokjlcYNXKXQxavpKCvG2Mq5gl7DPawtowU71zWxaon+4IWCVb55uLLHEMTSeYLzW9lvyF4rDbRT59HJhVT9bVR1bBC+gF0aX45PcdS/R39zoFwngSbU0bx2+bNUgBSEd9VSI/PZyO1jFv82Q5b+dnS2YWba1rwXgKqKw6tmmE+ySXos0LfTHM8dskl7OdjsmbSfzFNIH3ijOJAXDo=;cOLsJQILNN1hPmXMDwlhmA=="
 ---

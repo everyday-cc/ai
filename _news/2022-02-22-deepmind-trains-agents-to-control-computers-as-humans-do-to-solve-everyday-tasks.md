@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-f
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/02/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-210/amp/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
-    excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
-    publishedDateTime: 2022-02-20T16:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/deepmind-uses-ai-control-plasma-nuclear-fusion-reactor-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFl50Gmy44_dA/article-cover_image-shrink_600_2000/0/1645374436948?e=1651104000&v=beta&t=1J3LeU3dYyjIR1ZVdOziOmSpc-mWFeZ6GYTRiEz2LR4"
-        width: 945
-        height: 390
-        isCached: true
   - title: "EPFL and DeepMind use AI to control plasmas for nuclear fusion"
     excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. DeepMind’s experts developed an AI algorithm that can create and maintain specific plasma configurations and trained it on the SPC’s simulator."
     publishedDateTime: 2022-02-21T14:38:00Z

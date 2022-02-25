@@ -38,6 +38,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "B2B BNPL startup Actyv.ai raises USD $5 million in pre-Series A round"
+    excerpt: "Actyv.ai, an AI-powered Enterprise SaaS platform with BNPL for B2B embedded, has raised USD $5 million in a Pre-Series A funding round from Dubai-based 1Digi Investment management firm, the family office of Raghunath Subramanian,"
+    publishedDateTime: 2022-02-25T07:08:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/b2b-bnpl-startup-actyv-ai-raises-usd-5-million-in-pre-series-a-round-122022500085_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 37
+    images:
+      - url: "https://content.indiainfoline.com/images/homepage_banner/Excited-for-LIC-IPO-Web-Banner.jpg"
+        width: 393
+        height: 315
+        isCached: true
 
 secured: "Li377ImzrbrqzoaRvqc5REwNPpRb+eaomNezPb3dvfpvPUTYY2u+/P2WulP/JWq2JuUInZ984Td/5VYTflqcIpNkQKQffXLujayO4j2opyWqYx9DIHzPYfdOBc/2i9YHVQZpRVavYh94tJUVmyU0tWQBbbNj7twfClqeJcpH2BwDGVk1G1Z04cn/8A+so31TtbvrGRYTy5hCm6JmQYc0pWPsoxYfTPSnG8zTz8MgOheZRd+3qyD8fPVSKa0EFcKmvkSiuxVzrNq3DBY0NfT/9jt2RLRLsfdPfzLLU6SawixDq0Xb83wo6+xJtogTeE41m4Vqkeu9JnGwQ4OHHlyGPfjlE8Rf8xAk6xsLjl7WAR51eS9O2iaSXXmctn/nupPgVsG0bgJieJ5N104xHRSaCfJqcqcdYyP0m4KSjPj9rlbANwCg8hX11dXBo711dfRJpqt4xTyPezVKeulvywMWY4mi9bspM9UWTxs65J4pJk7h1kFnPG1pnd3fNGnrfwuovXFAJ4x1OEF1hCsuflwA4Q==;QTr39kS9ek5+p4NYikzQ2g=="
 ---

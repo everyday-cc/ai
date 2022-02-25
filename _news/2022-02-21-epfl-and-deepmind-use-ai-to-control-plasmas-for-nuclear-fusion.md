@@ -41,20 +41,6 @@ related:
         width: 949
         height: 534
         isCached: true
-  - title: "DeepMind Uses AI To Control Plasma In Nuclear Fusion Reactor"
-    excerpt: "DeepMind is Contributing More to Science? I find this among Among Google DeepMind's weirdest of headlines so far in 2022. DeepMind AI and Nuclear Fusion? Okay let's try to unpack this. If you enjoy articles about A.I. at the intersection of breaking news ..."
-    publishedDateTime: 2022-02-20T16:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/deepmind-uses-ai-control-plasma-nuclear-fusion-reactor-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFl50Gmy44_dA/article-cover_image-shrink_600_2000/0/1645374436948?e=1651104000&v=beta&t=1J3LeU3dYyjIR1ZVdOziOmSpc-mWFeZ6GYTRiEz2LR4"
-        width: 945
-        height: 390
-        isCached: true
 
 secured: "l6Fr0m2BOjI4GoCEbRIjXgz0Aq9XF9i9hvvxN+gME0yFxeiBK/qeIXzE8sMb6pJd0933+m469ESQ/h7Sm7aMKv9+TmEF4g02W6BqzqGPir8r8506wNZ1rY4zNJEdiR20DpBEV/ZrIWpCW+VjZx+xKoq289CLGQnrQkC+3Wpyj2JOAOL4VjxVqKq5iJ75fWQ6CihicVUiQdALCm0AsTjU6qaUCkyotYT/rJlx3xeRob25wxRXxafEjbn/smRCuiFW0co4AIjYK25/AGIxlqzF4W4iANAovsuhTvj8h6JSKsY+ut/Fhp1y8mM+oNakOoP7R06cxfutuuyjsbl01boDNtr6Ficn5KkTpJdfbVeiFis=;psTenNkgnwoBOXAt6GfOYg=="
 ---
