@@ -206,6 +206,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "‘AI Driven Universal Speech Translator’ To Be Developed By Meta"
+    excerpt: "As part of the social media giant investment in the iteration of the universe, the founder and Chief Executive Officer"
+    publishedDateTime: 2022-02-25T10:45:00Z
+    webUrl: "https://techbooky.com/ai-driven-universal-speech-translator-to-be-developed-by-meta/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/AI-vs-Human-Hero-1024x513-1.png?fit=1024%2C513&ssl=1"
+        width: 1024
+        height: 513
+        isCached: true
   - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
     publishedDateTime: 2022-02-24T21:36:00Z

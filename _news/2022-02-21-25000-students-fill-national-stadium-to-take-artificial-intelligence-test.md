@@ -42,6 +42,20 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "8 Ways to Prevent Ageism in Artificial Intelligence"
+    excerpt: "A new World Health Organization policy brief shares suggestions for how to make A.I. technology more equitable."
+    publishedDateTime: 2022-02-25T10:32:00Z
+    webUrl: "https://www.inc.com/anna-meyer/ageism-artificial-intelligence-world-health-organization.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-644366708_495147_r9mqql.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "PJpr4PlILBUvSwHrwxZOmSoAA9Xh9PSpxy31vA7jjdlto4vOMREboKtm2vQ16j2tR8mgsV/yQIBySfYq3UrMAzlS1eSkppisL2G8ShEPcZyS0L7sZk/x6sfX3thKbAthCOr+S3430Hok67RzilSPgOz5uakTmCjrBBIUrr1d0cvaMzeY4zHS4kp2et6GH08qoV40y9f6uvbA6u8wsyhrYxL331Qk1argUZHxMZw7E8eEqqV+bZB2hlkjtUV9c03OjgjCUXKMehsd12UxFRaz6n1tvO4wwwfSEAq7LHJDd9d2VSJqF0AKe/iOSqwtmV+2BeIVu9FQJLFxi0scxkFIgUHHeckE+lIenY29yPXmaRw=;iY7dT80LN76sdyur8HS0hg=="
 ---

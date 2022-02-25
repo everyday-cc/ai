@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/02/tv-5837826_1920.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "AI - an opportunity for the assurance industry?"
-    excerpt: "A couple of months ago, the Centre for Data Ethics and Innovation published The Roadmap to an effective AI assurance ecosystem [1], a document that perhaps got overlooked in the furore over the impact of Omicron and the concern over the Downing Street parties."
-    publishedDateTime: 2022-02-20T17:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-opportunity-assurance-industry-andrew-rogoyski"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHcqxk9c0ik9w/article-cover_image-shrink_720_1280/0/1645376939004?e=1651104000&v=beta&t=0e6d_6dR1jxTGqonmI-8w1n3qDpT2eDZnfIr7747dR4"
-        width: 1206
-        height: 720
         isCached: true
   - title: "Artificial intelligence hiring levels in the railway industry rose to a year-high in January 2022"
     excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose significantly in January 2022 compared with the equivalent month last year. Credit: GlobalData. The proportion of railway ..."

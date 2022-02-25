@@ -39,20 +39,13 @@ related:
         isCached: true
   - title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
     excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
-    publishedDateTime: 2022-02-24T15:51:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
+    publishedDateTime: 2022-02-24T15:24:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944395"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/thyroid-1.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "4KJAA+E8Vs0eIhyfmWY0tck0Qhc/17u2N0u/+nLVdYke51GPAsqpsfY3ZetlseWPNYXfiltK9v0JGYxY+z1zIYoykzV8wMOBECu/XpKmL5kHlCyrpAMOLqEmI7/D/eXVmM1wKRBhcAh4Ek/TrtsubJF+Q8e46XhPo5B+0ISVrlK8s/580HpC7BzqurPLQ1keGm5KLxnd2WS1aO4WDeOsdbSDZt3sdeP6lnQGt2Gs8KWT8aGN+lDK+jwH1wUb3F30bXsZSvM8xW7CaKq8ddQKqmKsEtHvfdxAvYXoe2nXlK5xaRjUoorlM471vbdn4FlHSmC4epzz/5bEynL1zb/jpk0oZ1wfLOZ1d/eDvdaEsuQ=;gHNkEzPYAGjbkttFL7x+uQ=="
 ---

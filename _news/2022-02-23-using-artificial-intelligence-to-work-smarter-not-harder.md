@@ -137,20 +137,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Upcoming AI Tech for 2022"
-    excerpt: "But is this really the case? So-called AI chips, the new generation of hardware designed to run AI-related workloads in the best possible way, are experiencing explosive growth and innovation. Cloud stalwarts like Google and Amazon are building new AI ..."
-    publishedDateTime: 2022-02-20T17:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/upcoming-ai-tech-2022-pierre-llompart"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEgDB1Qs96U0A/article-cover_image-shrink_600_2000/0/1645375424092?e=1651104000&v=beta&t=RgwJKIDXXwL_yiojs-_0QIH42H9q_ZE3qZEyZtF2Ku8"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Best Institutes To Study AI In New York, 2022"
     excerpt: "Artificial Intelligence is the ultimate buzzword that is ruling the roost. The tech trend is most in-demand and one of the top skills that recruiters today are seeking. For many of us, the term AI stirs up an image that is dominated by robots."
     publishedDateTime: 2022-02-21T09:59:00Z

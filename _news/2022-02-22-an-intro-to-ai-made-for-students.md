@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.dawn.com/large/2022/02/6212efb7d131b.jpg"
         width: 800
         height: 480
+        isCached: true
+  - title: "8 Ways to Prevent Ageism in Artificial Intelligence"
+    excerpt: "A new World Health Organization policy brief shares suggestions for how to make A.I. technology more equitable."
+    publishedDateTime: 2022-02-25T10:32:00Z
+    webUrl: "https://www.inc.com/anna-meyer/ageism-artificial-intelligence-world-health-organization.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-644366708_495147_r9mqql.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "NP9C8pQP9rODxGb4RKSnUfJGVjHa4Y6XCR58rveBEwu1TK/0SLzhbiGr0SBua5v31lVjkFGf51606DlhcYGX6RsmLhKv1lzx8ERqPeA+0M7hf/VuOES+O99BnDUj1CkxqEHA9NrhMzyHZnYjR+yjdn9dg40MVkEu1/XlZFTCKKwRG44SEur9zJQxESEztJwhZ/+0KHsLcT1uQKcxtO6+8Nt0t1o5GZ7zqQImWBntpl6Z7f+8IT+EyqwhW3DS00q24WG54VAc3AT7S+QhhJ2PWvH5EDqurF/CP1Saoy6UDI8xhghnUgBG47Bgnwo74+btRuraoYRk60gR8wMX/03uw9onhfQvS4Gv4hIJHWgRX2k=;aGgMn+PpvdcLLVN+S0bV0A=="

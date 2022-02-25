@@ -2,28 +2,21 @@
 category: news
 title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
 excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
-publishedDateTime: 2022-02-24T15:51:00Z
-originalUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.html"
-webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
+publishedDateTime: 2022-02-24T15:24:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944395"
+webUrl: "https://www.eurekalert.org/news-releases/944395"
 type: article
-quality: 36
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/thyroid-1.jpg"
-    width: 1920
-    height: 1920
-    isCached: true
 
 related:
   - title: "AI model could be a low-cost, non-invasive option for thyroid cancer screening and staging"
@@ -54,6 +47,6 @@ related:
       domain: urotoday.com
     quality: 18
 
-secured: "c5YO0RGc3wN0qnDUbsoigNf29RN9VPXAo94fsfK9mTapEz5hvNiQgqhJM+193qYYG6jEmdnjPZZBzXccn9bLBCoZwdCo14bknSaQxhoGfkkKEq+wkfOFQ+2p8ANkOf8ERgZcvcz86GjvhTmHBXUXJOe9grHBkEOd2cyvWzSAwtwxNZ9gZq0Wt8rkaPLNcrx4cs01vUlZ4RTxRxIr2uJEsQBAPkCFCBPbMH4rzxz/HGZ4U8db7CSOBDR6uQ1U29kZD0aXBEh/4pHyL4MqadY0/epbBA8v8J1jpPon+AAyxSLEyIiHmcIC7nxLJERQZSYLicVYC0NlwKGmXO2j/xgq6eRHKMIluhYCNJd0DQuFVGg=;7lh4Ma+MWxgd4zBz+9CbMA=="
+secured: "lZLIEC2k3MDCU+bpVV7B4UPw8eQVv/nWrxbU57KgUhtFVoFZMts7kN9y/F/cEvCs349pcytxw5qhpxrF4B9CdEDT8h3ZL/W6A7SXRdXMefhecb7LU4dgwnvKWoTsGRuuvX9ubKttRy8pGlJ5E2YclBya7bG80044U2RFb3UxC+t1hi1CWdWbQQ0x9FPtVlS4qayYpIEIjp5DQe3vCgznPw3MVOI/IzmGYCi+QaA3XrkkvItlP01hUWXCMMNmlpBc/OnO1TMe/8JRi+qitG+TDWzuxQ8QIe+TiuVfSKnXVmNu+xjGCw4hSr9u43R40dJgyoChVaoFM8Ryb3Xi+5suQUT4uYf5+M/UZkXSLcohCdg=;Cdfqn5q7SAFbRv9T1FH9og=="
 ---
 

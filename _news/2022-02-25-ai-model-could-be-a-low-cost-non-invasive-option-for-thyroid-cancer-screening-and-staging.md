@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
-    excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
-    publishedDateTime: 2022-02-24T15:51:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-platform-potential-thyroid.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/thyroid-1.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "ASCO GU 2022: Optimizing Management of Localized Prostate Cancer: Combined Modality Therapy in Localized Disease"
     excerpt: "GU ASCO Annual meeting included a session on the optimization management of localized prostate cancer, specifically looking at artificial intelligence (AI), active surveillance, and intervention, featuring a presentation by Dr."
     publishedDateTime: 2022-02-24T14:09:00Z
@@ -54,6 +38,15 @@ related:
       name: UroToday
       domain: urotoday.com
     quality: 18
+  - title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
+    excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
+    publishedDateTime: 2022-02-24T15:24:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944395"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "tZkOWQDKQTkKZ3g4YZn9duyRR8whyyNN3tGnCPAmuUiytLwi0jtwMqamqsnaLjNA0qAsfZ3MbWoaba5T8tWwNGWtY1e5R1TF/H1KkhQ+i/B3O1rSt7GsGAGHKfrbF3PIHShlOvi94hp6TMppKduiHPnAI2LelCM5pvJ/rGm4eVND3toUqkW0Ed3E/z5w8z4NVMSddMCy5moKlcQQq7maKfeQ5jmBv+izU8ssVfDZX7oFRgDqaLYoTn4pE+ZB1P5uwyrNNBoHscTSt3Fto9ShkN/JLGR2oFm5ScsAyH5DGWB0exF8UL/UFGy1Kj2assp3Lg1x5IMlfqyVnvf/NsdbBqZlQRg1hG0Tf4sjQX+N+tg=;ft7O8g8Go1TRQAPq3h71rw=="
 ---

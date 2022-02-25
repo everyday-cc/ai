@@ -21,49 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "The artificial intelligence-enabled nation"
-    excerpt: "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ..."
-    publishedDateTime: 2022-02-20T18:47:00Z
-    webUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html"
-    ampWebUrl: "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp"
+  - title: "Real World Artificial Intelligence Applications in various sectors"
+    excerpt: "While the concept of artificial intelligence may sound futuristic, some real-world AI applications are already in the works. One such application is in the automobile industry, where autonomous cars are the future."
+    publishedDateTime: 2022-02-22T10:29:00Z
+    webUrl: "https://www.linkedin.com/pulse/real-world-artificial-intelligence-applications-onpassive-hyderabad"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "AAEON partners with Hailo to enable AI applications at the edge"
-    excerpt: "By reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) it will possible to provide much greater flexibility for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera ..."
-    publishedDateTime: 2022-02-23T09:22:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/aaeon-partners-with-hailo-to-enable-ai-applications-at-the-edge"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
+      name: LinkedIn
+      domain: linkedin.com
     quality: 39
     images:
-      - url: "https://www.newelectronics.co.uk/media/nxillrud/ai.jpg"
-        width: 730
-        height: 411
-        isCached: true
-  - title: "The Age of AI and Our Human Future"
-    excerpt: "Three leading public thinkers deliver a bracing introduction to the promise and peril of artificial intelligence (AI). Machine learning has already begun to change human society, for good and ill. Computers that can perform tasks that require human-level ..."
-    publishedDateTime: 2022-02-22T05:04:00Z
-    webUrl: "https://www.foreignaffairs.com/reviews/capsule-review/2022-02-22/age-ai-and-our-human-future"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2022/02/17/31XnCvrGC2L._SX320_BO1%2C204%2C203%2C200_.jpg?itok=lDjNfrRO"
-        width: 486
-        height: 694
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEIgDrostRZvQ/article-cover_image-shrink_720_1280/0/1645525341288?e=1651104000&v=beta&t=0EMqBtxS3u-4aMUqGoPYzJmEU_AUJZr8bNBD8SLQax8"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "6JPHzDcnSYTaY6z7zp9Qx+LO9dJhq3gmqi5SXR3KqNVrwHGpBFWT2yf4GbC5e7xwqeaPRUffqble3NS9GhLj0PSPN2jgJGq1eLN76E5W6JNevwIUzBt1qgkmHOXCzJ44btpNb2mRQnObzHm/I1JVWxhj7Yqv+QJvsKcNIVWg4xFORleSC9HsWQXCHqcxPWeDpH4hx/GmSZWI72jNhXyBw5YWL9MZZzK29YNcjRkXOoQ4LjjWuhMWrXt7f+VFL30gc8lZilEjLHznn7zBekDnKKUUTuZ69N4Y4H1yHYpBpEhSLQWZ7esj0FDQ9g5zRGlKu3NIb+avyr2nFuYWKB2NcqEyuLo86bV2e+lBQ2iKSqNIFA/CF3mUgDHfBt4yixrxUXYhaKHyc98cg6LODsASf6NVuE1yGl8CljdgF7WODwCd2iAdIRQjN/+dDmYsg/0dC1a26MGnWZl8nF5xiNTxR/lx0GHa6mG+X8vWf1J96KXUAPxX1Qi+5VAXPHd8miHKeR0g9Q1UC35jdeLPF67TcA==;4zmJHG5wx0TtfMhagGmTvQ=="
