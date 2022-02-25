@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aurora_inno"
   url: "https://twitter.com/aurora_inno"
-  followers: 13056
+  followers: 13057
 
 size: 201-500 employees
 yearFounded: 2016
