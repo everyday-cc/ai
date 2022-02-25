@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strate
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical AI: The model dilemma"
-    excerpt: "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Building AI with ethics is a pertinent ..."
-    publishedDateTime: 2022-02-21T03:33:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ethical-ai-the-model-dilemma/89714732"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89714732,imgsize-88468,width-1200,height-628,overlay-etcio/ethical-ai-the-model-dilemma.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Responsible AI strategy: An insider’s view"
     excerpt: "Develop a deeper awareness of responsible data governance. Have a clear understanding of the risks and opportunities inherent in AI. Consider whether your AI strategy"
     publishedDateTime: 2022-02-23T21:09:00Z

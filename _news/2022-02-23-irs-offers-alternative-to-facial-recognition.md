@@ -2,26 +2,26 @@
 category: news
 title: "IRS offers alternative to facial recognition"
 excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-publishedDateTime: 2022-02-22T22:21:00Z
-originalUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
-webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+publishedDateTime: 2022-02-22T22:17:00Z
+originalUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Tax Adviser
-  domain: thetaxadviser.com
+  name: JournalofAccountancy
+  domain: journalofaccountancy.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
-    width: 255
-    height: 335
+  - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
+    width: 640
+    height: 388
     isCached: true
 
 related:
@@ -268,17 +268,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Advancements in Facial Recognition Technology"
-    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
-    publishedDateTime: 2022-02-21T04:37:00Z
-    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
   - title: "IRS lets taxpayers opt out of facial recognition"
     excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."
     publishedDateTime: 2022-02-22T15:09:00Z
@@ -397,6 +386,6 @@ related:
         height: 810
         isCached: true
 
-secured: "xhtG9xecQbH06ktFbKaO6UzewNRMZtXkecQCsNV60kB4qlsGO7q/Kw3y6Ej+ZXobRrz+uMvFLEiIpArYVCBZ5srfAeBOJHUvcFTyJYDRFCi7jtwnWJl8g0LXeNh1PWqloB0hAdcPVz0DMxO15HrEPDNRA4mmSnMLtL/QvAVCrxLCuXIkdoUU6ZVzjWjFV9d7jNPgoyw3fJnbtvo1L9EHvnhy19FT3MgaoP4g5FAH1d8fpylvrKeB2VqH2gio4ARfGwU9Qwch5WJOS0tFgqX+NwPm+RoTdwlzfwmsZFimqHm+j/gGaG6oUHUvvD+uW2EQEwoH7y9A7e6jXmxuPJgeTAaJE5/p+vzlEd6tnVN7oaU=;8ggDcXWpZb2zIMQhvuPIiA=="
+secured: "jMLjqiUfUPtHYtd/PomJuUhTKWDlRR1A9jS34mxM8Pc/Y+rg/7TkKO6lDp0B60kBt0Xd7E5O14hLeX1O6VJmthjT0RWNGU8Y7W5rVrujGaLMqc6iaRmJUuGlDVAHCbmfxE9FPGh6RHbN2PNc+uhjG8RdG8zI+gYiY2RcENOv/BWt1Wp5t+HRd1MhQZ1wnfXLBmOaxJ1qPrYgHklIuaz3hMXeg6Zz13hIh2OWiutwIX4R8e6K2ZRQgtM/4DG2DkhoO2VSBIiZV6IVpjtKC9dq2MjUzvdD7JwrfcFJd43YOFp8qRscEspneX8Z80pn26JBG7Klk6rdu1k6eJqEnzc/PKskEhhsoiykiwWMxwy1X08=;SpXcVntzICue8q8SPRSRLQ=="
 ---
 

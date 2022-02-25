@@ -255,17 +255,6 @@ related:
         width: 640
         height: 676
         isCached: true
-  - title: "Advancements in Facial Recognition Technology"
-    excerpt: "‘Next level of virtual reality becomes concrete with the upgraded access of facial recognition technology’ An international team of researchers from Australia, New Zealand, and India has taken facial recognition technology to the next level, using a ..."
-    publishedDateTime: 2022-02-21T04:37:00Z
-    webUrl: "https://www.medindia.net/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/advancements-in-facial-recognition-technology-205740-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
   - title: "IRS lets taxpayers opt out of facial recognition"
     excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."
     publishedDateTime: 2022-02-22T15:09:00Z
@@ -304,17 +293,17 @@ related:
     quality: 39
   - title: "IRS offers alternative to facial recognition"
     excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:21:00Z
-    webUrl: "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
+    publishedDateTime: 2022-02-22T22:17:00Z
+    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
     type: article
     provider:
-      name: The Tax Adviser
-      domain: thetaxadviser.com
+      name: JournalofAccountancy
+      domain: journalofaccountancy.com
     quality: 39
     images:
-      - url: "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg"
-        width: 255
-        height: 335
+      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
+        width: 640
+        height: 388
         isCached: true
   - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
     excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."

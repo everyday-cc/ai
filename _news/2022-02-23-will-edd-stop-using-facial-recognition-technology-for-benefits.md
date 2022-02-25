@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.modbee.com/news/california/article258661808.html"
 cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article258661808.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,71 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Unemployment system to soon move away from facial recognition"
-    excerpt: "The state’s unemployment assistance agency will in the “coming weeks” stop utilizing facial recognition technology to verify the identities of benefit applicants after senior"
-    publishedDateTime: 2022-02-24T17:14:00Z
-    webUrl: "https://www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/"
-    ampWebUrl: "https://www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/amp/"
-    type: article
-    provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 59
-    images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2021/05/GettyImages-905549076-e1621418586533.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Erasing tattoos from photos via AI could aid facial recognition systems"
-    excerpt: "face painting and tattoos can potentially impair the performance of computer vision systems like facial recognition algorithms by altering what models “expect to see” in key areas of the face. To better understand and mitigate the effect of facial ..."
-    publishedDateTime: 2022-02-22T17:12:00Z
-    webUrl: "https://www.biometricupdate.com/202202/erasing-tattoos-from-photos-via-ai-could-aid-facial-recognition-systems"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "Unemployment system will move away from facial recognition"
-    excerpt: "The practice has come under scrutiny due to privacy issues and longstanding concerns about racial bias in facial recognition technology."
-    publishedDateTime: 2022-02-25T11:43:00Z
-    webUrl: "https://www.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    ampWebUrl: "https://amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-  - title: "Employment Department Looking Beyond Facial Recognition to Verify Identity"
-    excerpt: "That’s what Employment Development Department Director Nancy Farias told an Assembly subcommittee Tuesday, after questions were raised about the use of the technology last week by the Legislative Analyst’s Office."
-    publishedDateTime: 2022-02-23T23:33:00Z
-    webUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity"
-    ampWebUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 37
-  - title: "California EDD looks at ending facial recognition technology in unemployment verification"
-    excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-    publishedDateTime: 2022-02-23T20:20:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 30
 
 secured: "hPMhdYmkzrm8X7gG55puaiQybX00MZOxZQs75pYtTWkejlm+KSKJGTVRiieD/zxT8uzNNJtdMPEU4I5UbFoY2xFdj7MDyrM/EOBwbcmPKXiVnAqLgUhwYFFb4rjNQJ7ZYTw/z8pAYsTglDVsGwDL9WixcWjVeI07NIPvTYE+zz23DoID1gX+HdsLxmeamAkb6e4EBhHkl6qA+Bn0dERbpF7+//hHxHFPDMhUL+KnrUj/0lwAuozwWKU4dIaXvaBY/0xX/c0vjLE5bblUM/4bywBe3kSQkTzEZwfpbTAfQ5sOpmq/ehcDIBXf2uvwNSenw3A8/hmxncYWyjoRPZ3OcSj030MZAEKljEd8TbS7jv0=;jS+DhauWFK4LpM0vZD3luQ=="
 ---

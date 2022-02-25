@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Apple adds Dutch voice recognition support for Siri in HomePod 15.4 Beta"
-excerpt: "American tech giant Apple has recently added Dutch voice recognition support for Siri in the latest HomePod 154 beta"
-publishedDateTime: 2022-02-24T20:59:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272333198/apple-adds-dutch-voice-recognition-support-for-siri-in-homepod-154-beta"
-webUrl: "https://www.bignewsnetwork.com/news/272333198/apple-adds-dutch-voice-recognition-support-for-siri-in-homepod-154-beta"
+excerpt: "American tech giant Apple has recently added Dutch voice recognition support for Siri in the latest HomePod 15.4 beta. As per Mac Rumours, the addition of this voice recognition means HomePod or ..."
+publishedDateTime: 2022-02-24T17:55:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/India/20220224/3911356.html"
+webUrl: "https://news.webindia123.com/news/Articles/India/20220224/3911356.html"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Apple's latest betas adds new Siri voice for US & Dutch language recognition"
@@ -86,6 +80,6 @@ related:
         height: 640
         isCached: true
 
-secured: "ZD7JU2YX0P5773sCutKIag0phFinOlYiJVBOxvBjsc1XIWuBUiTAXFRoipOgqcx5uEjqZPOjizkDIpJ3+XliyxOEBIyWCKRMpQmz7wuVdXNb0tXAraK+iEma70qwiCllnMSxe5OXuM/dXnpGJkimiahuFBrfHKBlPF26pJEDAOPtxFxfUpMMvAW4sYuZeb0mjECtzL5A5RntDwO86g9o5iFotuQiHljN1oi6JOX7YOUuGhv7/yKli7LqW8eRS/sKTsvKDXblUruhNY3XC8WJuDfyRHidwhrp8abUgoVS4KNHifuB/PMJ7Xl+g+1Ltz9PtKZsRGC9iNdMAqV05bB1LRqyXrymo9flxXXXh9oU3Gk=;mE6SS4Efbh+jJB+ZgM2kug=="
+secured: "tclyPBJ/WZK8vT2PY1EXk6EqvIYjINGtNEAx4Tb6mIA0iRMye5/untVX8csW5rIa6SNRNTRvI47KZ0/9X4pe6Kk+5JZEatp7Ma89FsTT4WbuK7ioGjkhOUwglmK0MD/KKgU9ALcoXTxk8AMVlHVWee37BOkSNxkLTMp1zwMPbPgGktZmYNuEZCTjbpUjXQ5xftaTr9NLCq7sXD+egy8g3m1olmaoFZRlc2yswJjkbIdLoRsWbxYoiO9+ejBf2m3ziD4lCBBKy5TwEChWCcqPKRdFQVrxGHM/4c6LAwDmYAIfAOoJqQhbCw1+RKdJ6IzCLjk0p2mE+gqu9fY17+CKrblxEtioCcLHK6d4/VbA6Lw=;rz2/Wet2HmR7wrWd/NSVEA=="
 ---
 

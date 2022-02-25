@@ -58,6 +58,22 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "How AI Is Shaping the Cybersecurity Arms Race"
+    excerpt: "Cybersecurity staff often find themselves inundated with data they need to sort through to manage their cyber defenses. The stakes are high. Cyberattacks are increasing and affect thousands of organizations and millions of people in the U."
+    publishedDateTime: 2022-02-25T20:01:00Z
+    webUrl: "https://www.govtech.com/security/how-ai-is-shaping-the-cybersecurity-arms-race"
+    ampWebUrl: "https://www.govtech.com/security/how-ai-is-shaping-the-cybersecurity-arms-race?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/how-ai-is-shaping-the-cybersecurity-arms-race?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/de6f650/2147483647/strip/true/crop/6000x3129+0+11/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc9%2F12%2F58d3fe9d4c85821530a88ef106d2%2Fshutterstock-1089540200.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Go-to-market cybersecurity startup Cheq raises $150M in funding"
     excerpt: "Startup Cheq AI Technologies Ltd., which helps companies block malicious online traffic, today announced that it has raised $150 million in new funding. The Series C funding round was led by ..."
     publishedDateTime: 2022-02-22T18:02:00Z

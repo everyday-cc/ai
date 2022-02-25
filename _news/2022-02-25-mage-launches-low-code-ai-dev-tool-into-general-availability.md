@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-too
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 90
 published: true
 
 provider:

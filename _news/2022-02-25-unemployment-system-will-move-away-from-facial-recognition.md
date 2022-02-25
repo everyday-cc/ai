@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Hummingbirds AI to present facial recognition security system at SXSW Pitch event"
+    excerpt: "Hummingbirds AI was selected as an alternate in the Artificial Intelligence, Robotics & Voice category of SXSW Pitch to display its GuacamoleID application."
+    publishedDateTime: 2022-02-25T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 68
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Unemployment system to soon move away from facial recognition"
     excerpt: "The state’s unemployment assistance agency will in the “coming weeks” stop utilizing facial recognition technology to verify the identities of benefit applicants after senior"
     publishedDateTime: 2022-02-24T17:14:00Z
@@ -51,17 +65,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Will EDD stop using facial recognition technology for benefits?"
-    excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday. EDD’s ID.me, regarded as highly effective in ..."
-    publishedDateTime: 2022-02-23T00:45:00Z
-    webUrl: "https://www.modbee.com/news/california/article258661808.html"
-    ampWebUrl: "https://amp.modbee.com/news/california/article258661808.html"
-    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article258661808.html"
-    type: article
-    provider:
-      name: Modesto Bee
-      domain: modbee.com
-    quality: 39
   - title: "Employment Department Looking Beyond Facial Recognition to Verify Identity"
     excerpt: "That’s what Employment Development Department Director Nancy Farias told an Assembly subcommittee Tuesday, after questions were raised about the use of the technology last week by the Legislative Analyst’s Office."
     publishedDateTime: 2022-02-23T23:33:00Z
@@ -73,17 +76,20 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 37
-  - title: "California EDD looks at ending facial recognition technology in unemployment verification"
-    excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-    publishedDateTime: 2022-02-23T20:20:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+  - title: "Mobile Face Unlock Startup to Join SXSW Pitch Festival"
+    excerpt: "Hummingbirds AI will be looking to accelerate its business when it makes the trip to next month’s SXSW Festival in Austin, Texas"
+    publishedDateTime: 2022-02-24T19:02:00Z
+    webUrl: "https://mobileidworld.com/mobile-face-unlock-startup-to-join-sxsw-pitch-festival-7022202/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 30
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "j8Ip8TzdIIIN9bvgMcXRKpVv7Zb39BFEM66LWFK+MbeVfGknzDlxUFzfDf15Z9lpD7CUqCGinJ47E1nQThv2Me/LNp0lXO+UzLHQW+C/7fcLfXvsZMwgi27XdWYHIMmHin0jJsnkweRr5uYdFXxSyX628+Rwk+f+HEnT+VLypZhLCRQM6/PFa82X7rnrLxxn8nf8cwsGbsCkBpDqLPu2BuVl5rhQI75vMa5MmqY5QMrJ4NFF5oCVH1oKC+MOY29XoOa9txJa9s83+5afJQcUEPiI8oQTTOc1p/JDYmpd0Q7UdrVW5E1HCpcHhXqSg2ebN5dmnlY1e1j+/H/1rH6A/5Tu2N3oyonULExvs/vJJIk=;vTZbSRpnyaiAREAecE0d3g=="
 ---

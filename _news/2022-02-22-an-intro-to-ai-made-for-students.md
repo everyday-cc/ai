@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "25,000 students fill National Stadium to take Artificial Intelligence test"
-    excerpt: "KARACHI: More than 25,000 students from different parts of Sindh participated in the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) grand entrance test 2022 here at the National Stadium Karachi (NSK) on Sunday. The initiative is ..."
-    publishedDateTime: 2022-02-21T04:06:00Z
-    webUrl: "https://www.dawn.com/news/1676226/25000-students-fill-national-stadium-to-take-artificial-intelligence-test"
-    ampWebUrl: "https://www.dawn.com/news/amp/1676226"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1676226"
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 55
-    images:
-      - url: "https://i.dawn.com/large/2022/02/6212efb7d131b.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "8 Ways to Prevent Ageism in Artificial Intelligence"
     excerpt: "A new World Health Organization policy brief shares suggestions for how to make A.I. technology more equitable."
     publishedDateTime: 2022-02-25T10:32:00Z

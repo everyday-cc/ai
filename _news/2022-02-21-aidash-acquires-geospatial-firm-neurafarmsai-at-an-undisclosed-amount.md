@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AiDash Acquires Business and Assets of GeoAI Startup, Neurafarms.ai"
-    excerpt: "Bhavesh Patidar, Neurafarms.ai co-founder and leader of the start-up’s data science innovations, will join the AiDash team, with a focus on strengthening AiDash’s Disaster and Disruptions Management System (DDMS), which helps industries better manage ..."
-    publishedDateTime: 2022-02-21T05:01:00Z
-    webUrl: "https://www.indianweb2.com/2022/02/aidash-acquires-business-and-assets-of.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 37
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjeScbQIFE4z6FSmaw-uM4uTXQjRjkBV6D2LTYT4TIGL4Pq7J0XkXoXnVeQmZIxMz08QkEZI4kC0OvVyqryHLsq6TFbFDwrpBikdPICg_bta_yjbxmed9v6RtUT7vs63eXHX1_QybzE9vq79s0Hv0212IIr3FJ4obBfcv1vEdOgfU6qepd0uEGxjO7K=s16000"
-        width: 837
-        height: 396
-        isCached: true
   - title: "AiDash acquires farming solutions company Neurafarms.ai"
     excerpt: "The acquisition will help AiDash strengthen its product line and add valuable talent to its high-performing team."
     publishedDateTime: 2022-02-21T07:18:00Z

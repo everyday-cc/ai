@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-ke
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

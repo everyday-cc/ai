@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traff
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp"
 type: article
 quality: 74
-heat: 76
+heat: 77
 published: true
 
 provider:
