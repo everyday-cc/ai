@@ -2,7 +2,7 @@
 name: "Austin AI Companies"
 overview: "List of AI companies in Austin."
 type: "collection"
-heat: 165
+heat: 110
 
 
 query: item.locations contains 'Austin, TX'
