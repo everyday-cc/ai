@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "GA Telesis Digital Innovation Group Announces FraudBlocktm API Service for Enterprises in AWS Marketplace"
+    excerpt: "The Digital Innovation Group (\"DIG\"), a GA Telesis, LLC company, announces Fraudblocktm, the first Fraud Protection Application Programming Interface (API) service of its kind for U.S.-based enterprises,"
+    publishedDateTime: 2022-02-24T16:51:00Z
+    webUrl: "https://www.lelezard.com/en/news-20258067.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 22
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "u6jdsHVfLE2CSd+Myo0S85yj5FBHbyCO8DbF5SACFU6PV3ERSr6NysVPGgNG60q0sgQhGun0SlZ8Zd6aNgvNCAFEzxSvtQr4qZbbQSYG3jPgJkHk1XxmkpP2yaUDNwXedjK6MvYdtzZGWfyebgyRALl0yHNkbuwOJ2CVoFfnY9q5jnWs0Af5TJxH1J0/cAoBvet2NH9KLcD8aIIDxf4A5NGcj7rZoABFi59X5Dn+q3XEjnvXJhDFX4B5u/d7ipRDf4FkQMTiVwYp7v+OHdxRQ4L/z4WXdPvTUzDyYcvFPpI+aGsJeu1b23xEDAlFHx0MUxWpY0Sy7EGuP7xgg2BCVbdrSAdOA0JlZvS+vKyl05k=;8vlklum6hno56B4uOKJw7A=="
 ---
 

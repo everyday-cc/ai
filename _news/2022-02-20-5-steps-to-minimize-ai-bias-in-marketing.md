@@ -73,7 +73,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
         width: 1920

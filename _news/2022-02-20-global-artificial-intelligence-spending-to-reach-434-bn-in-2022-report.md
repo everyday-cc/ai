@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Global artificial intelligence spending to reach $434 bn in 2022"
-    excerpt: "New Delhi, Feb 20 (IANS) The global revenues for the artificial intelligence (AI) market, including software, hardware, and services, is forecast to grow 19.6 per cent (on-year) in 2022 to $432.8 ..."
-    publishedDateTime: 2022-02-20T07:53:00Z
-    webUrl: "https://menafn.com/1103729283/Global-artificial-intelligence-spending-to-reach-434-bn-in-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?213362"
-        width: 442
-        height: 250
-        isCached: true
 
 secured: "3yhX5vWCYS0cbhRCECB4uVI0fF11e/ytf0rUf2F+9EtLno/gA3mAmOtAVBf75OLChh/dJOrskBZoTSrQdEHf3GcsidQEMKimpQLzqs5gpK5XeiNlxIIJDES/YFTUK50aEmkVZsK9qrSv3QnXSs0gH9i9vmDHdGLpSPW22DluKpkBEzc21KFeiOFomAgils1yQhzPSYJbpqrzwPoYRkHzR3GB1EXYPlH+YUOAdNI2omWEstSbqXoQ7dTYhHK6caL3MeoqCW+jai+lUmxd7Y3hKdZdhOq9qsbQMB/Inwzr275cfC3qAYFH2V81QXJOBPHPqTKF/A4XEZgEwTKs8JNFWkhKlDbQNgjdXZIK3QWMEOFRGyCDlf7Die71pM88pIP+Qlv+Nxjv3nHIDZPwqZryLlA4s6G+h0sWaCLIwU2qreVfkn2pWC1B1+mccxgylgSoF7ClH+F+R7U9YfyrBgvaEkiyTefpRbT+5a4ncPxfciRppW5n+ukCVm3P0aoKb7MemFAZ0QWJmHBiMMELUSXmjw==;C5pjYGz0GMCqhqQOIr3vvA=="
 ---

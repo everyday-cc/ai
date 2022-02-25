@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/control-formality-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/"
 type: article
 quality: 106
-heat: 134
+heat: 126
 published: true
 
 provider:

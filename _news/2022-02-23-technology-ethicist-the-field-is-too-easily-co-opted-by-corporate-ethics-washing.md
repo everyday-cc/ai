@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/943966"
 webUrl: "https://www.eurekalert.org/news-releases/943966"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "ACM, Ethics, and Corporate Behavior"
+    excerpt: "The biggest problem that computing faces today is not that AI technology is unethical, but that AI technology is used by large and powerful corporations to support a business model that is, arguably,"
+    publishedDateTime: 2022-02-23T23:16:00Z
+    webUrl: "https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "IXjSErNz7xfmh5LUaesoholaxKc1t9xWagMwj39kQR/f9vl65ipCVGPims1znVWy+IGNwGvXvbi14sAzdabP8YRbCbT1RedwLsqNEBfeKntMyCLcuSrDOOGa7KkH6btPHrWuereLoC0scho1ijrSMnoYGg1vluE+Fa16n2OPcfpdRRspcKACxQ4v6U/GrrXjBccZDj7ucdA1QbOly8/T76u33jocouqLPDDcTDVTHh2fLjlUwcmHrvi9xyaWbvlwEx5JpOSG2SB3KvXHUH1YKiwIzFc+Ex7n6aaHVDqpaCI32M3nY3qlqXDTQzs2twZPIL1rf0oHk9TXGsPxQP8ZE0yhX95lmlFI1dBtRUDPZOo=;umr+HnfcODp7Yn0vFjZFKw=="
 ---

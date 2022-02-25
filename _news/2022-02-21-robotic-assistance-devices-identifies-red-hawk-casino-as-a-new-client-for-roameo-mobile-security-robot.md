@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robotic Assistance Devices Identifies Red Hawk Casino as a New Client for ROAMEO Mobile Security Robot"
-excerpt: "Detroit, Michigan, Feb. 21, 2022 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has named Red Hawk Casino in Placerville ..."
+excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has named Red Hawk Casino in Placerville, California as the deployment location for a ROAMEO mobile security robot,"
 publishedDateTime: 2022-02-21T13:42:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-robotics-artificial-intelligence-0d4e6c840df891d6d9167602ece9c703"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-robotics-artificial-intelligence-0d4e6c840df891d6d9167602ece9c703"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-0d4e6c840df891d6d9167602ece9c703"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-0d4e6c840df891d6d9167602ece9c703"
 type: article
 quality: 40
 heat: 40
@@ -41,6 +41,6 @@ related:
         height: 249
         isCached: true
 
-secured: "+RLMnEjuty5ZXPyf3NcQkcSFfv5/RE08tLnL4Vd9MLduO1h5rN5bWOZ4DA5XnL6PT89Th6SeFO4J/UPvTlueK7TGNWmBZe/bE8rpeOWkypnLWIMDLEG2g7Sym7ZQyN29r218nUNCbraWfXlK1lgLu0YIOrkrCJhSJ/k6nqAAUWg4dGrPjU89ytwglDW9CozrPQkttwGhB0QkBOxZRC8jVF4WQhTKkkmH31dGsKcF/T+YhztjXYxnLjPQU28B6JTIwKhP/w7jJjM8VYccggecCtK1rGHPiSSAxabIN6GyoPD3UBCGU9FJ7poKIKbB94N1SgRsMGhb5h3gwksM6solVlluz1TI0TjcR4FVBS1q54M=;1OhO7bZZDORZ46/L44vHbw=="
+secured: "lTED+c6xQGc9jTWwC0sefxbZHvO9elPMVkCPVEh63CBGpBV1MNvowvI/oELra6yie+5ultMQgU7ITyRVu8VKSyjKxe19f1P+4jsrP0cqj/jqMHO2XoqQqBjyJlFBhOtpQBK4nNQnlB7q+6P2TOrL/ZMX/81uyBG62vg4ej1onpOruBPFO2GHgKkWq3ifph9h5Hcwjee6M5dcN765FoPqVOo/ks3CIX0GqhI58GHhTbht7QFV2RLevyT1wCmPiLpvxLmkHLaY6H4xqiHLLxQ2WyJYQY9dV8VSwY7+W0BWdSpJbMVZMCffEl6O5DJ4kmEy4iySpkArgy6RF/FW5Q4PbZkla2N5JbYKd/IO9WXexyo=;po7Nv06kitFboBKa591p0A=="
 ---
 

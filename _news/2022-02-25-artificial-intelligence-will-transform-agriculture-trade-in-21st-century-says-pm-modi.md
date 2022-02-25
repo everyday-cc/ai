@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/India/20220224/3911086.
 webUrl: "https://news.webindia123.com/news/Articles/India/20220224/3911086.html"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial intelligence to drive farm growth: PM Modi"
+    excerpt: "Addressing a webinar on agriculture and the Union Budget, the prime minister said over 700 agri startups have been launched in the last couple of years, adding that newer technologies will drive growth."
+    publishedDateTime: 2022-02-25T00:45:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/artificial-intelligence-to-drive-farm-growth-pm-modi-101645726856729.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 37
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/02/24/1600x900/4721c078-959e-11ec-8be6-4325a30d7e20_1645726855676.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "YmEPgWeELVV50Oy/kVEy2pnZnYA8MRX2mNkPVYITf1/UvMpsB3fh7LckQFLkIcZBAcR9q+32Wht80gleHrnT+qc7zkn62t0PVIbTSL7JuwFiAM3htqOBS6IoZhRvnsrYdS4+0oIkNBEw/aEk9hjNTwg8ZhsmYKe5QTLv/nW5WyUkdV1HilDf6HIYIHfugP7vkpzf/j6934A5w2jSRRbbsLd8qAukisu9REcoDfEsqbLBqepv7TssdH8tSW1JgXhnDGo5Tl29SoD7dgTbRdrAPzeEgdH8LnMfa/huEFvhhUi65Vs6pUeGD/dGn6Wb4yEWOE01YeQKqbYxJik+P2b+M1yn399VREe+Ydnaj8ZENPg=;hOm87CG+K2BVoe6l9irjGg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-sol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/667104/semiconductor.jpg"
         width: 2309
         height: 1299
+        isCached: true
+  - title: "Can AI Help Cities With 911 Staff Shortages?"
+    excerpt: "A government call center in California is among those grappling with the nationwide staffing shortage and an influx in demand, and implementing artificial intelligence tools to improve wait times and accessibility for callers."
+    publishedDateTime: 2022-02-24T23:36:00Z
+    webUrl: "https://www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages"
+    ampWebUrl: "https://www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/aa03825/2147483647/strip/true/crop/1072x559+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3f%2Fdd%2F67a9c95b44d9a52c71ccb4eee1c7%2Fcall-center-clip-art.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "Can Artificial Intelligence Help With 911 Staff Shortages?"
     excerpt: "As government call centers grapple with the nationwide staffing shortage and an influx in demand, some are implementing artificial intelligence tools to improve wait times and accessibility for callers."

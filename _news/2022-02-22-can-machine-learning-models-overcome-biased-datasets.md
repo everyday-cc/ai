@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Can machine-learning models overcome biased datasets?"
-excerpt: "Aug. 29, 2019 — In a key step toward making large-scale optical neural networks practical, researchers have demonstrated a first-of-its-kind multilayer all-optical artificial neural network ..."
-publishedDateTime: 2022-02-21T18:27:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/02/220221115403.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/02/220221115403.htm"
+excerpt: "Artificial intelligence systems may be able to complete tasks quickly, but that doesn't mean they always do so fairly. If the datasets used to train machine-learning models contain biased data, it is likely the system could exhibit that same bias when it makes decisions in practice."
+publishedDateTime: 2022-02-21T16:00:00Z
+originalUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
+webUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
+ampWebUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "7t2ALzmo5JlZBOtfooAH89pCF3jHne4XH5oy70tWBUjxwJiC/YGoM8Es/nkCmS/lQPJ/xUaRvVZA0/1oyPAMWkRybX3E3RybpcJcD7+h35E66IEYxngc7a2FBAYAOXqFB/LocjVK4OG/TJihhevQ34Ogjzx3MyJM9ZJ9KXgt9FRUWeRyJ9vnlSWlJj3+jzvUYCf6KGKMtUdamHmMaevY1K9wkFsPkt0Txazd0Ly4t9vX1XFzT+0D7xrl0h0Rk3DHlF1G0yDnzHSBgTj+TdoxEn+fkEU8INx4DUdztL5OXWrtOUMDmQTYtVr6HGaLq3mPKKNIMyxVk32znCGYdJ4DNrLav8d1CKDPVptlLizx+Q4=;W5rwIkTBjlyMydDkfA5nTA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
+
+secured: "TEw53rYjWvngDGPGJR19S4vgy6QQRF+1Bs4ajNbUUkt0UuZY++eJFJQ6fISbLspSjBwpsAsYgr1WltG2ms9kirCC4XkL2lIxD4KYuBmQ5bU1+NAfXOGbcf4WqA/oRNcSyVP98VwSoacFTPv8RFLP7bViisp7KCqQicm2SB0tiCw2HCcRd6HX+MRkQ/ReaWc5I/WFzZW097WnsbSreB8dwy+uSeXmvHUj0BxBMKK+h8t/B0JiC2ScG/brrO0Kf+3POAD2mvqEII6IPJ+I4zabhPcXDDM6qGJWOv6aXaqzbHM+/e2sMKJ22ViEaHAuV+Jv8E2rN+l19VstPiIDlr4mxW/Chmm05DwHUU7LaP4q/No=;w5OIx2+UT4ASvd3G/ZLiHQ=="
 ---
 

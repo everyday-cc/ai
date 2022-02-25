@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-22-lord-lebedevs-peerage-under-spotlight-after-his-lack-of-contribution-to-parliament-since-maiden-speech.md",
+      "title": "Lord Lebedev's peerage under spotlight after his lack of contribution to Parliament since maiden speech",
+      "excerpt": "Boris Johnson recommended Evgeny Lebedev for a peerage, but the tycoon has not voted or contributed since his maiden speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/lord-lebedevs-role-questioned-over-his-lack-of-contributions-2022-2",
+      "originalUrl": "https://www.businessinsider.com/lord-lebedevs-role-questioned-over-his-lack-of-contributions-2022-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6213c79c462ff20019c5eaf0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/lord-lebedevs-role-questioned-over-his-lack-of-contributions-2022-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lord-lebedevs-role-questioned-over-his-lack-of-contributions-2022-2?amp",
+      "publishedDateTime": "2022-02-21T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-sokhumi-tskhinvali-hail-putin-over-donbas-recognition.md",
+      "title": "Sokhumi, Tskhinvali Hail Putin Over Donbas Recognition",
+      "excerpt": "Kremlin-backed leaders of occupied Abkhazia and Tskhinvali Region/South Ossetia, Aslan Bzhania and Anatoly Bibilov, respectively, have promptly welcomed Vladimir Putin’s decision to",
+      "sourceUrl": null,
+      "webUrl": "https://civil.ge/archives/474175",
+      "originalUrl": "https://civil.ge/archives/474175",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://civil.ge/wp-content/uploads/2020/09/Kremlin.jpg",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://civil.ge/archives/474175/amp",
+      "cdnAmpWebUrl": "https://civil-ge.cdn.ampproject.org/c/s/civil.ge/archives/474175/amp",
+      "publishedDateTime": "2022-02-21T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Civil",
+        "domain": "civil.ge",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes.md",
       "title": "No-code automation platform Skael raises $38M to streamline enterprise processes",
       "excerpt": "Skael, a technology vendor developing no-code automation technologies for the enterprise, has raised $38 million in capital.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -313,7 +408,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -966,48 +1061,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-21-global-artificial-intelligence-spending-to-reach-434-bn-in-2022.md",
-      "title": "Global artificial intelligence spending to reach $434 bn in 2022",
-      "excerpt": "ET CIO privacy and cookie policy has been updated to align with the new data regulations in European Union. Please review and accept these changes below to continue using the website. You can see ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89713908,imgsize-734064,width-1200,height-628,overlay-etcio/global-artificial-intelligence-spending-to-reach-434-bn-in-2022.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/global-artificial-intelligence-spending-to-reach-434-bn-in-2022/89713908",
-      "publishedDateTime": "2022-02-20T18:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-21-artificial-intelligence-in-aviation-market-analysis-global-demand-analysis-opportunity-outlook-2027.md",
       "title": "Artificial Intelligence in Aviation Market Analysis | Global Demand Analysis & Opportunity Outlook 2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2022 (Heraldkeepers) -- Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods the productive results.",
@@ -1143,58 +1196,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-02-20-5-steps-to-minimize-ai-bias-in-marketing.md",
-      "title": "5 steps to minimize AI bias in marketing",
-      "excerpt": "Register here. Today, more and more marketing tools are AI-powered. As that shift has occurred, marketers are grappling with the fact that there will always be some form of unintentional ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/",
-      "originalUrl": "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1145968976.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/20/5-steps-to-minimize-ai-bias-in-marketing/amp/",
-      "publishedDateTime": "2022-02-20T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

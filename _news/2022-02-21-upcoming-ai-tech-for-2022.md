@@ -119,7 +119,7 @@ related:
     provider:
       name: Metro
       domain: metro.co.uk
-    quality: 45
+    quality: 47
     images:
       - url: "https://metro.co.uk/wp-content/uploads/2022/02/SEI_89793529.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600

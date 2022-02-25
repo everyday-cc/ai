@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Robotic Assistance Devices Identifies Red Hawk Casino as a New Client for ROAMEO Mobile Security Robot"
-    excerpt: "Detroit, Michigan, Feb. 21, 2022 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has named Red Hawk Casino in Placerville ..."
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has named Red Hawk Casino in Placerville, California as the deployment location for a ROAMEO mobile security robot,"
     publishedDateTime: 2022-02-21T13:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-robotics-artificial-intelligence-0d4e6c840df891d6d9167602ece9c703"
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-0d4e6c840df891d6d9167602ece9c703"
     type: article
     provider:
       name: Associated Press
