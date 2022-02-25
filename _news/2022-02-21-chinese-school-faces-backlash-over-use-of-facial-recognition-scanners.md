@@ -7,7 +7,7 @@ originalUrl: "https://www.sixthtone.com/news/1009712/chinese-school-faces-backla
 webUrl: "https://www.sixthtone.com/news/1009712/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese school faces backlash over use of facial recognition scanners: Report"
-    excerpt: "Beijing [China], February 22 (ANI): Chinese schools that have been rolling out facial recognition systems since 2019 as part of a government \"smart campus\" campaign, are facing a backlash as some parents argued that the technology is endangering their ..."
-    publishedDateTime: 2022-02-22T18:56:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272325059/chinese-school-faces-backlash-over-use-of-facial-recognition-scanners-report"
+  - title: "Is Chinese Math Education as Good as It Seems?"
+    excerpt: "Although the country’s secondary school students dominate competitions like the International Math Olympiad, their training methods are setting them up for failure at the university and post-grad level."
+    publishedDateTime: 2022-02-25T03:15:00Z
+    webUrl: "https://www.sixthtone.com/news/1009764/is-chinese-math-education-as-good-as-it-seems%3F"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 36
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 58
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1645555427.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "ITIF, former DHS exec push back on criticisms of facial recognition use by US agency"
-    excerpt: "The IRS should have taken a more measured response to the controversy around its use of identity verification company ID.me, the ITIF suggests."
-    publishedDateTime: 2022-02-21T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202202/itif-former-dhs-exec-push-back-on-criticisms-of-facial-recognition-use-by-us-agency"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
-        width: 864
-        height: 554
+      - url: "https://image5.sixthtone.com/image/5/50/651.jpg"
+        width: 2000
+        height: 1000
         isCached: true
 
 secured: "qQUmftxr5TP7OoUiATI1nx/gaVr6rtEiBSCRaieXAxfOvQ2yT0z9fz1/fWvsmyfl5U1HgPGgth+gV6jXautGZH9oZft1vHGDtY+Hq28ZZ1fXWEhc2igvUq39TeL9uriBWENZdfAJnmeI/tJZBIYFu5cRwbbKNXweanVuEl4lbhq8ICETXvkXeBmhmKjQyGqlq89hkLo+hkhuHFgiTa/LSHeFxJeRmZluW7x3oYIoGuQhkdmtv7zqrdsyryeo3N98lOAlodKZtt/SY+asN//SSTJauoM80s7Ir6V6yVsTyMGkfXCbJYj/BVOVvCG6Pqa5hHATDTysHvNtuD092mPdfYQROvow+sZzgHbjOj3mwJSNiYmLTbP5fvxFP1tS4cWGBxz/zkYUuKcJm3zf0T6rHL+QW6yZOj/6aU/RlABBo9SY4+tnlCz3o0+vXxNrSLYHpPVM9HUSnUw3vlQxGPh5RuvffRZ6ykfLEjiH1teNRHw1QY5Pci+zFEDSxD2jQ052dLkWcSHisv/HDyOOExlxqA==;lpcwhp4o17vlBkHvTw9eqg=="

@@ -55,20 +55,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Intel's new chip plans could turn rival AMD's fortunes"
-    excerpt: "Intel, which plans large investments in chip technologies in the next four years, said it expects revenue from its segment housing PCs to grow in low to mid single digits, and its data centre and AI business to grow in high teens from 2023 through 2026."
-    publishedDateTime: 2022-02-20T19:46:00Z
-    webUrl: "https://www.itnews.com.au/news/intels-new-chip-plans-could-turn-rival-amds-fortunes-576294"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/reuters_intel.PNG"
-        width: 801
-        height: 568
-        isCached: true
 
 secured: "ScJ+pHA2w5qXOlxmjan2qo+Rp0jlop0fkf9uzerrEyufyCI9RG8qeznQXwypNZSkrmueoJ9CDMTX3IfygQmC/Gf8/Kz5YlFxi5HCXXd+h8vhDSEhXKdD+zpGxWFxMTiVJMPX24pofJQPUwPIG4wDnd/WeBgO28qaNJAILOBja+GTO0INUgcjwLEl4qiCzoOcXAxEU+UqdIrZJkuT7DcFmj0shHVXWHCp/0Bui/cde5st4mUrHwwQaL2PcScIvj9UqNeidQHgfbpl/cmSJy1Mxztr2kKr8DIvkO66w0Q08jKk9qvZp6ILcQmilV4Ksig6OyQGkYYiEOoMUg7Wrfwfa2L3tU5FtjRtWgcoAGqfTYA=;2YjveZ/Z4p1oJYSJLiX4zg=="
 ---

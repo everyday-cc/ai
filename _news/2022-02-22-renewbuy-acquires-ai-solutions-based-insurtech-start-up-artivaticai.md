@@ -43,6 +43,20 @@ related:
         width: 2047
         height: 960
         isCached: true
+  - title: "Worldwide Artificial Intelligence in Medical Diagnostics Industry to 2027 - Advancements in AI and Deep Learning Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence In Medical Diagnostics Market Research Report by Technology, by Service, by Diagnosis Type, by Diagnostic Tool, by Application, by End-User, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-02-25T11:02:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=622413"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Foresight Research: Consumer Resistance to Banking AI in Illinois"
     excerpt: "Few banks are disclosing the number of AI users that engage with their chatbots. Why? Bank of America reported about 20 million or about 30% of their customers arere using ERICA – their chatbot. ERICA has been in use for over 4 years,"
     publishedDateTime: 2022-02-23T20:07:00Z

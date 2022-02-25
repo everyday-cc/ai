@@ -51,6 +51,17 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Unemployment system will move away from facial recognition"
+    excerpt: "The practice has come under scrutiny due to privacy issues and longstanding concerns about racial bias in facial recognition technology."
+    publishedDateTime: 2022-02-25T11:43:00Z
+    webUrl: "https://www.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    ampWebUrl: "https://amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
   - title: "Employment Department Looking Beyond Facial Recognition to Verify Identity"
     excerpt: "That’s what Employment Development Department Director Nancy Farias told an Assembly subcommittee Tuesday, after questions were raised about the use of the technology last week by the Legislative Analyst’s Office."
     publishedDateTime: 2022-02-23T23:33:00Z

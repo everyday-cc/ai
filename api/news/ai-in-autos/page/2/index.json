@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-10-tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving.md",
+      "title": "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving",
+      "excerpt": "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop",
+          "width": 719,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
+      "publishedDateTime": "2022-02-10T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-sony-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust.md",
       "title": "Sony trains AI to leave world’s best Gran Turismo drivers in the dust",
       "excerpt": "an artificial intelligence program has delivered another humiliation, leaving the world’s best video game racing drivers in the dust. Researchers at Sony trained an AI called GT Sophy to play ...",
@@ -1407,40 +1459,6 @@
       "provider": {
         "name": "restaurantdive",
         "domain": "restaurantdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-olympics-chinese-women-online-show-more-interest-in-winter-games.md",
-      "title": "Olympics-Chinese women online show more interest in Winter Games",
-      "excerpt": "BEIJING — Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday. Curling ...",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games",
-      "originalUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/",
-      "publishedDateTime": "2022-02-01T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
         "images": null,
         "publishers": null,
         "authors": null

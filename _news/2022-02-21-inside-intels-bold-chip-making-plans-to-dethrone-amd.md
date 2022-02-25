@@ -9,7 +9,7 @@ ampWebUrl: "https://www.industryleadersmagazine.com/inside-intels-bold-chip-maki
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/inside-intels-bold-chip-making-plans-to-dethrone-amd/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/Intel_foundry.jpeg"
         width: 480
         height: 320
-        isCached: true
-  - title: "Intel's new chip plans could turn rival AMD's fortunes"
-    excerpt: "Intel, which plans large investments in chip technologies in the next four years, said it expects revenue from its segment housing PCs to grow in low to mid single digits, and its data centre and AI business to grow in high teens from 2023 through 2026."
-    publishedDateTime: 2022-02-20T19:46:00Z
-    webUrl: "https://www.itnews.com.au/news/intels-new-chip-plans-could-turn-rival-amds-fortunes-576294"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/reuters_intel.PNG"
-        width: 801
-        height: 568
         isCached: true
 
 secured: "wwrVlWdqCiqjsfMt920uWzNHVKefoKK7TSf06ogI8qZV204HrQFaokVWiJemKJuziuPXmO4sRSQnGcIIO3kBKglY4pbx8KGLuVn+6QsEBWmhUZL1xB3M89FSQGiUDaC4QZedEynM/zhmj13uSvcDqvVs8nI2OZq8UR3xB9JA+DIokSVi3KZ5bcYHUJqMiJenZMjjU2SMsJdg+nMWBZRVzhdMH7gRE9KGXJG1RDI2pfUQzPJYJwW+SlE99RJ45cm1suU//X7OFiLtBC42Z+kBfwyvL6BSwtLbjDzUBWZIAaxlahKOFlgxrI/CYW8mobMalRMPOXPOL4fXrqLNj7iHBo7Gju6TcnZMYnSag7iDCRq/jqZwTHb73e4ykdIMqcfMqN8Qtipmln5osASHs1DCFLAkfy6BKihAD746C++Z7smr7Jmic/tp2ZS15EVqWc1W+sgKRk28VGwW9PT6VOhRo8jYnJSkZICoVBVpXwJvO8UnGltk2VwuO08aDaGMlnWddEI0AJ7VERD3LMGVXb3ImA==;j5BrtjOne3iHFbzsVBCqQw=="

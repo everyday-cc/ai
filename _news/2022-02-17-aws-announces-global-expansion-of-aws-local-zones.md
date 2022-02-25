@@ -3,18 +3,24 @@ category: news
 title: "AWS Announces Global Expansion of AWS Local Zones"
 excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
 publishedDateTime: 2022-02-16T22:02:00Z
-originalUrl: "https://www.thedailytimes.com/business/aws-announces-global-expansion-of-aws-local-zones/article_16a930e3-007f-5e15-a650-b2d675ec2f09.html"
-webUrl: "https://www.thedailytimes.com/business/aws-announces-global-expansion-of-aws-local-zones/article_16a930e3-007f-5e15-a650-b2d675ec2f09.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-global-expansion-of-aws-local-zones/article_8844f9b3-67f3-5bac-9827-49fb53013166.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-global-expansion-of-aws-local-zones/article_8844f9b3-67f3-5bac-9827-49fb53013166.html"
 type: article
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "V1v4rDGWr98i+b5b37WM6OuO6NqdZ4Of6PFTNJIugkJA5LZnTsOpMNylPKoO0yJSTPA/+Kc7FmgOW0CDIhczUFX1TaoyNQhxcUbXhBzClqBNzCJL5C9iu9pk/E8DGwO/pRvlh9ehv3v1xmPd3jhhATPHHXZewBiQ4iufhEZiQRhUYhXyA4c3phNiHgPm0r2NQadx5WPk5qnoKwyoZoVyQwcg/XexVdauBZgrmGF5KbWzPY51MS8M1kWhkVi+O4d2Motv2JTgwk06k6JONwhntiBZ2QxfqVDV1QUZQJxtA6cjWZd52mrBDcAU5H74SNLCansYlJcv0vfFIRKz3uThGKqwTaABCPhfqAuGa82f82bMuFWzy/s99IXf5JfeOFxZHfTaERPxRIQt9HJl7xKb7jEKYTKIIVqclyBM3zHohrzxNtNp4ogZdEvzTMW/q5ZeV924CvFkqZLTorm3sNVlA0jhwU74F5K19MzREEVANkUs6HADrnLphmyCD+/Ed2CLuOL9pWCOAjCWGr+IYIFQtQ==;l6wnUSz6xR+mkVMpWb9jKA=="
+images:
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "Pv2pAF3UqZmAZTfA+yiWSTng641D+FDXpOI9xWVQfFP2dsvmkRUpiGG0eQL21EppA5VzEwmLgSwBLgmp9yB21BxdYd4GCMI+vdtYPlRrfm/cBKwgwJDpiqg/IXf8YGc+VZkGhHfDLIvWL0ACG9vuQEx6D+v5OlyCL4PlZk37587DWGqiPHl1ayMzomiwPzsF5XbZ51bGG6L5FNWgWO854Ba8Px66qlpZh+p1xpVeX4qNLWGL73g3VcBjXLg2u8nYXDKMqOF4gekUwSdiMpuJNAvFpFSaIDPGEP3ALdE0SpKdN39cz3VJA7IrMzGrLnsUI1zMXrRTrTZ97S0FPWOMEFIzYzRvFqG3HywT05fbWlM=;tNHhA9Mpee98UF1zuEr7FQ=="
 ---
 

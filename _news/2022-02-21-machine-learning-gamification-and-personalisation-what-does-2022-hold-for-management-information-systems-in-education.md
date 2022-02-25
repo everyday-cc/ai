@@ -42,15 +42,20 @@ related:
         width: 648
         height: 348
         isCached: true
-  - title: "Three steps to digital/AI transformation"
-    excerpt: "organizational innovation readiness and digital/AI transformation. Once these attitudes are in place, then focus on building your entrepreneurial knowledge, skills, behaviors and competencies. Take a financial inventory. Start accumulating the physical ..."
-    publishedDateTime: 2022-02-20T20:09:00Z
-    webUrl: "https://www.linkedin.com/pulse/three-steps-digitalai-transformation-arlen-meyers-md-mba"
+  - title: "Government to set up centres for transformational artificial intelligence"
+    excerpt: "The Ministry of Electronics and Information Technology (MeitY) on Friday said it will set up centres for transformational artificial intelligence (AI) that will collaborate with academia and industry to develop AI-based solutions."
+    publishedDateTime: 2022-02-25T12:44:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/government-to-set-up-centres-for-transformationalartificial-intelligence/article65084195.ece"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 38
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/zfbzry/article65084229.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_U8O6PHEKS_R1575039980_0_f86f931f-0943-4ba3-9024-6cf9fb6bda2d.jpg"
+        width: 615
+        height: 383
+        isCached: true
 
 secured: "NUiDftg7S1bTNS9QdQJeWj8le0BXq/2Ofr4EqYcqJu65A8sZmqtk2nA2EiYvEjEhg+2eR6hJj8dm3iyi+j/scy6A3EedXLu7O7o8gD9e5W4SuJHZNi/C5odacMFLkDqstCJrEJj7CniM90BD//ht4k5AvvUGnOHSgvqB5u3fyTM/VALkYO5XI1wFhlHUteZ7pHZ3aOV42VX9S8RJ80mkoJPewl0vw3wHibDxqz3dUJNq3fF1oxUd4dhjcWrfcvhvQ2YWl3pAiioKvnim/9xNxN7ov+oVGTnKk1Zyg6bU7bP6BNnffmWpth5xaiBc+POA2UJmpgPcOXAjvP/Uac6UBVdmEHqCr8XEbvX3oA++q9s=;klfU9YiGYqqlx7UXTmkzDw=="
 ---

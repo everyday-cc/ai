@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/02/24/singapore-based-micromobility-star
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/amp/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: TechCrunch
@@ -28,22 +28,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "Go-to-market cybersecurity startup Cheq raises $150M in funding"
-    excerpt: "Startup Cheq AI Technologies Ltd., which helps companies block malicious online traffic, today announced that it has raised $150 million in new funding. The Series C funding round was led by ..."
-    publishedDateTime: 2022-02-22T18:02:00Z
-    webUrl: "https://siliconangle.com/2022/02/22/go-market-cybersecurity-startup-cheq-raises-150m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Cheq.png"
-        width: 800
-        height: 438
-        isCached: true
 
 secured: "GbhQuaZKGDd/D9YSHYQ3Dcwoh8WQImCTkDaemng9OLm54fVKrEJHpav3HdLsM/ayxPrlhFdR6C71t32lkbzHyV4xR6Tp9c9DNG3zdmK1krM39MAn3OOd3IUdNz6V326baiK4T4DytZsnwX7YpFVvRDWtEPlnO/+mOCuOE9fgVbgQj1hIXAg2IlC4UaluyWBgJnWFWGTssUS6oejMBXOoTBQMRow9mTx//2GbXmT+tZh023QVSW7Hv6uLhRdcJ9seSQg/UOFdvHT1xb9Qh5BUkWEuPjv8NLXcmIwl/y0BS0l0HKto2JPpTstRUpKIW/rghJLFSLzXihhwkJEpAgzPfZj8zP9gusxF1+kAqM696DP1po6Ax1PIPk/dRD0ASZNnRhIbgJK6GLBUAdu+H8XHa7ycFRnYCeNDOc1WbH/d5cAMUbRZgO+iD7NNoyb5hJwyZYHWE/HR3OjsFEywazbe6nyHQd3uy2BXufwCsfuIufnXquf/H3kVdjv8nFmQ7P9R9m+kg50Oto1jtyPwYdJ5Ug==;t0n/zbAvz/VLotCZujlCIQ=="
 ---

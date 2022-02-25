@@ -62,6 +62,17 @@ related:
       name: Modesto Bee
       domain: modbee.com
     quality: 39
+  - title: "Unemployment system will move away from facial recognition"
+    excerpt: "The practice has come under scrutiny due to privacy issues and longstanding concerns about racial bias in facial recognition technology."
+    publishedDateTime: 2022-02-25T11:43:00Z
+    webUrl: "https://www.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    ampWebUrl: "https://amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
   - title: "California EDD looks at ending facial recognition technology in unemployment verification"
     excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
     publishedDateTime: 2022-02-23T20:20:00Z
