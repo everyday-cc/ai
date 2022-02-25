@@ -26,24 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "WhatsApp is rolling out a new feature that you’ll see when you make a voice call"
-    excerpt: "It even changes the UI when the user will place a simple voice call. The website shared a screenshot ... The waveform will also be in different colours to help provide easy recognition. Below the windows, the app uses a pop-up window to house the call ..."
-    publishedDateTime: 2022-02-20T12:21:00Z
-    webUrl: "https://www.bgr.in/apps/this-new-whatsapp-feature-will-change-how-app-looks-when-you-make-a-call-1238526/"
-    ampWebUrl: "https://www.bgr.in/apps/this-new-whatsapp-feature-will-change-how-app-looks-when-you-make-a-call-1238526/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/this-new-whatsapp-feature-will-change-how-app-looks-when-you-make-a-call-1238526/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 39
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2022/01/WhatsApp-5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "agqSLUtYk4m2iflyCFpB3hJqfa6tSlxbZ/snFVotlny/INCwSVddwmMS4qdEV6Fso4v9pzPgIos9tO8dtLrujgz1U4NsT//f4q/eJ52Dt/BDkgaVCTwyFY2zHZ9Z1oK033xC/5jM8IsskDhNjIPIXmuo7OCPOFvmCkQjrcPXA1eDW/nz+MbBfmQKYd0p5yrBNQlF2fhp5prakm7Rgqa8YqtGMxm5mbVIxVUjaDBGjAHh0kqMUXw7ZDxaEHoq6uJ5JLmgrcn+5Y6DyArddGyYbRpx7xaj5F2KcOpK5kSwIwClB2nvl3NspwauJLb3OAAx5TXzTJNnNzzb68FJlMI0kBgwtxkBm/7ld8D1wb536mxk0C7hmW213eWx5k9Wfvo2mNc2XSiCHsG4k9wPLOuM8yV/Ki7IjwAkn8x5/uvl8alh8TfrNAT1cOJrkqoezZmiEpLYnlUvdcfwDeKIGhL0iWQT8qgazaD6pjwr3wU/vTTpjK7IYCCOApPPnzkdUZs+L+NGygCdJTCf8VBAs4HFkw==;fYU0eM0+NHvkHJiBl4J9LA=="
 ---
 

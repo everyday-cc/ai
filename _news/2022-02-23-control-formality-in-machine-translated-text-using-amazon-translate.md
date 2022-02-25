@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/control-formality-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Viva Translate Raises $4M in Seed Funding"
-    excerpt: "Viva Translate focuses on translating intent accurately for the context of freelancer-client communications. Starting as a Chrome browser extension, Viva’s AI-powered natural language programming (NLP) translation product will automatically translate ..."
-    publishedDateTime: 2022-02-20T12:33:00Z
-    webUrl: "https://www.finsmes.com/2022/02/viva-translate-raises-4m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 54
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/02/image-1.png"
-        width: 675
-        height: 340
-        isCached: true
   - title: "Meta is working on a universal language translator"
     excerpt: "As part of a recent live streamed event on Wednesday, Meta's CEO Mark Zuckerberg announced that the company is working on a new universal speech translation system, which will use an AI to translate 100s of spoken and written languages in real time."
     publishedDateTime: 2022-02-24T16:47:00Z

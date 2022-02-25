@@ -41,20 +41,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Viva Translate Raises $4M in Seed Funding"
-    excerpt: "Viva Translate focuses on translating intent accurately for the context of freelancer-client communications. Starting as a Chrome browser extension, Viva’s AI-powered natural language programming (NLP) translation product will automatically translate ..."
-    publishedDateTime: 2022-02-20T12:33:00Z
-    webUrl: "https://www.finsmes.com/2022/02/viva-translate-raises-4m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 54
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/02/image-1.png"
-        width: 675
-        height: 340
-        isCached: true
 
 secured: "7W+BmWfkp5UzZmT556z/1BAXK5kX4H3kYi4tX6hQmSqWNwRAZ9hr5WNOwPzsGB2J8uoYI6Gxa4Twp1tzCSquaNRk3SLWwCJGbMJ5hl3abhqoeaFQY0jKz3MEHMELjWC3xx/kqu2IgkKsy4zAss+M3MY2TS9K7McxX2jk/7dAufesPshYGJdAXEKEahkdaXgTprNfRE5RqgjCx5vepcaaAL/Dw704Bj0PWXNWanhd26xgc/N7QwlJBcHi1cmc2UkCrHq8Lp1U4KKDs9YSzT/EOPCPepCxS5CpIeK0yb3dwlKzh8p5KNE81S6jA4CBZ4O2toUawqBcjCBJoMSseX3QnEOmmQsD/ZPkMW5Fvb27qFg=;6k6IuLMlsD+iJbnIDzeg8A=="
 ---

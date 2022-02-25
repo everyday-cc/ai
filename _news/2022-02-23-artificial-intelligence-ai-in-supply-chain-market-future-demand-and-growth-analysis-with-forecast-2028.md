@@ -24,33 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Medical Devices Market Outlook, Revenue & Forecast till 2030"
-    excerpt: "The report on Artificial Intelligence (AI) in Medical Devices makes use of analytical models to study country-level market patterns and forecasts for the next seven years. Healthcare Industry General Scenario and its impact on the Artificial Intelligence ..."
-    publishedDateTime: 2022-02-24T12:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-devices-market-outlook-revenue-forecast-till-2030"
+  - title: "Automated Machine Learning Market Size, Future Opportunity, Emerging Trends, and Growth Forecast Report"
+    excerpt: "The North American region held the largest share of the automated machine learning market, in 2020, and it is expected to maintain its position in the forecast period as well."
+    publishedDateTime: 2022-02-25T00:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/ab25831020/automated-machine-learning-market-size-future-opportunity-emerging-trends-and-growth-forecast-rep"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25831020"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25831020"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Mobile Robot Market Growth, Emerging Trends and Competitive Landscape Forecast to 2027"
+    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
+    publishedDateTime: 2022-02-23T06:58:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-growth-emerging-trends-and-competitive-landscape-forecast-to-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 43
+    quality: 31
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/93847317295f74a28d47ea3752bfcb5d0643ae3a-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Kamel-Ghribi-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Genomics Market Research 2021 | Top Key Players, Demand, Revenue, Growth Factors by Types, Trends and Forecast till 2030"
-    excerpt: "Feb 20, 2022 (Heraldkeepers) -- Market Research Engine has published a new report titled as \"Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision), By Application (Genome ..."
-    publishedDateTime: 2022-02-21T02:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-research-2021-top-key-players-demand-revenue-growth-factors-by-types-trends-and-forecast-till-2030-2022-02-20"
+  - title: "Automated Machine Learning Market Size, Future Opportunity, Emerging Trends, and Growth Forecast Report"
+    excerpt: "The North American region held the largest share of the automated machine ... customer service. Further, the COVID-19 pandemic enhanced the digital transformation in all verticals, such as healthcare, manufacturing, and banking and financial services ..."
+    publishedDateTime: 2022-02-24T00:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automated-machine-learning-market-size-future-opportunity-emerging-trends-and-growth-forecast-report"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.abnewswire.com/uploads/1645680377.png"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
 
 secured: "QONE0STFTD0J0LxoXV+3zLJbb9hnHtOkJMq8btDAYi0pVoj41mstSBOcc9Z/Vy6VqYO3nXC3LxoXV5Ed4BWpeoGSRkKHKflRH8P7cO82CIBEAMKBBGAvDMIef1pZgsedPBGcxVDAritacx5ij8aQgc31G7F7Gwa0sHedv5eWKDWva1fJms5n6lPeHAXRMZWWTP06OkJWQlZv6NYhpGUWqg7nRXV/mMd+4Tu7K6FeTJh7YdvUJ7/Lcms9+/PRGyuLVryoDA4oInnGsAAbwO+1tw5IyY4N9QFoLwb1L/9LQiFKlB6kEciWBh9+Q3F40QMR5knzDGMieMWFTyI9VEWb5Q5E8gEzpgr37X7omaRw2KY=;NvKP+svY+LAo7KcKWjJYXw=="

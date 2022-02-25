@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Darkweb And Cybercrime Monitoring Startup Cyble Announces US $10 Million in Series A Funding"
-    excerpt: "AI-powered cyber intelligence company Cyble announced ... Cyble has also been recognised by Forbes as one of the top 20 Best Cybersecurity Start-ups, along with several other industry recognitions."
-    publishedDateTime: 2022-02-22T16:25:00Z
-    webUrl: "https://venturebeat.com/2022/02/22/darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding/"
-    ampWebUrl: "https://venturebeat.com/2022/02/22/darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/darkweb-and-cybercrime-monitoring-startup-cyble-announces-us-10-million-in-series-a-funding/amp/"
+  - title: "Singapore-based micromobility startup Beam secures $93M Series B, enters new markets"
+    excerpt: "Beam, a Singaporean shared micromobility operator, announced today that it has raised $93 million in a Series B round to accelerate growth into new countries in Asia. The fresh capital, which brings its total funding raised to $135 million,"
+    publishedDateTime: 2022-02-25T03:00:00Z
+    webUrl: "https://techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/"
+    ampWebUrl: "https://techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
     images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20220215006151/en/1359306/4/Cyble_Co-founders.jpg?strip=all&ssl=1"
-        width: 480
-        height: 414
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/Series-B-Visuals_TriModal.jpg?w=960"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "4hOHfkrhj1ouY3vh52pZg6TpGKH7sjw431PlxvGdzHM00Ohdf5e0OMly91Z0Vpk8O02lvMffXflZgoeAKn4l4zbxl+E5+2yywq1wsaN9/LLzjuGCNKGSfIgdZx6o7jqG0ubqiuC7paOrhnTJxYTcWKNqmynK2J50dvXx2tKhVnoPAsvf0p4qjj/nUuh82k+qjLF1sGzrDB2BU3LXjmYZLkfGa4cNuLo5VspRTW1EDnH6wmzJjUxYzESd2HQ0eGWqh/QiHPpaYExczAByiwiItE3dSSbHrWkFPdmnHrtTtmeJr0F/7pQ4NvWClhvDjCcDFdAAL8sQxthb+68lF0KXrZDvTYVFaCTstDnX7/OcVR74qzlABvDXCve1nbVr0ibiNBWZrpYaec8By4byRxj9ifKc/DZSeYG0eHshOf8Yk3wkGtFnF90x/fYMgmMh1BaigeqsRsE19aWjaoDXEo8yEqlMoUaa5EtMx/VLB6BG2S2UuDJRIsLnKsmyYq8xORiYpMGDY2m5NfJDBwi39WlrOg==;pwhRcZTqT1z3yE27KPD1NA=="

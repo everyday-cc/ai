@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Supply Chain Market Future Demand and Growth Analysis with forecast 2028"
-    excerpt: "Key Companies Covered in the Artificial Intelligence (AI) In Supply Chain Market Research Report Intel Corporation, Amazon.com, Inc., Google LLC, Micro"
-    publishedDateTime: 2022-02-23T08:50:00Z
-    webUrl: "https://menafn.com/1103749144/Artificial-Intelligence-AI-In-Supply-Chain-Market-Future-Demand-and-Growth-Analysis-with-forecast-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?80343"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence in Genomics Market Research 2021 | Top Key Players, Demand, Revenue, Growth Factors by Types, Trends and Forecast till 2030"
     excerpt: "Feb 20, 2022 (Heraldkeepers) -- Market Research Engine has published a new report titled as \"Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision), By Application (Genome ..."
     publishedDateTime: 2022-02-21T02:00:00Z
