@@ -7,7 +7,7 @@ originalUrl: "https://officechai.com/startups/bigbasket-acquires-ai-startup-agri
 webUrl: "https://officechai.com/startups/bigbasket-acquires-ai-startup-agrima-infotech-to-power-self-checkout-at-physical-stores/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "BigBasket acquires Kochi based computer vision startup Agrima Infotech"
-    excerpt: "BigBasket has acquired Kochi-based startup Agrima Infotech. BigBasket has plans to deploy “Psyight’, a computer-vision technology platform built by Agrima Infotech, at the self-checkout counters of its retail stores. “We look forward to working with ..."
-    publishedDateTime: 2022-02-21T06:20:00Z
-    webUrl: "https://analyticsindiamag.com/bigbasket-acquires-kochi-based-computer-vision-startup-agrima-infotech/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/03/Bigbasket.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "bfVsA3N34O7+4VKJqe+b7sm3JsD5oUmmCS8WWOK5RHgpV3WactK6rbUEdRLtbATHW/+Y4r4izQFb8grQmDpAszDAneiFd9j7q46UJTgrv2o+146ZBMQdmuLmuM8RV5ibE+QynotNK4VSjdqsaaaybTK/N+LeIacRIHh14SRIMCplOqVyuyqQrDQIrF9oSZGbT8SGo38vix5oFB8s3S/mnWrlld0QsNtGZNYTKxQBxEzqcYnys4eaVoPidgBGdFzUVZGgHpoIq9DORReXd2WXjabeuN2euhxviq/yRfGlHbRKjwv2lsZQ9DOuS/mcNBiVnHTxI0mq0slHajtRmAlpInJ54htOqPaMatZYNGxjaJAkZcT291JAjVcmVyUQ8MNpit0qpRwaEV71XLwY18grVI7G1FWVJTbGCB2K+/3BxSXZ68kZWKoi2LBwqAr+c3paOFFVHW+fAH2oShDaJQZyYg845WC3MFtSFoX3LhP3BQ8/xMYzbU+hCV7irp8L+m2jYOxk6SbLDg5ESA9nrUs+RQ==;uBDyWzYNOj4RHxuOUSIdfA=="
 ---

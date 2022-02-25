@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-artificial-intelligence-tool-overlooked-heart.amp"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Farmers employ AI-powered drones to fight crop diseases, insects"
-    excerpt: "Institutes, farmers and agricultural enterprises in India are employing technologies such as unmanned aerial vehicles (UAVs) and artificial intelligence (AI) tools to improve farm yields. Researchers at IIIT Naya Raipur, for instance, have partnered with ..."
-    publishedDateTime: 2022-02-21T06:28:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/farmers-employ-ai-powered-drones-to-fight-crop-diseases-insects-11645383053749.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/farmers-employ-ai-powered-drones-to-fight-crop-diseases-insects/amp-11645383053749.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/farmers-employ-ai-powered-drones-to-fight-crop-diseases-insects/amp-11645383053749.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/02/20/600x338/farmers_1645383361011_1645383374846.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "New artificial intelligence tool detects often overlooked heart diseases"
     excerpt: "Physician-scientists have created an artificial intelligence (AI) tool that can effectively identify and distinguish between two life-threatening heart conditions that are often easy to miss: hypertrophic cardiomyopathy and cardiac amyloidosis."
     publishedDateTime: 2022-02-23T00:00:00Z

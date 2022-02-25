@@ -41,6 +41,20 @@ related:
         width: 600
         height: 513
         isCached: true
+  - title: "Adam Grocke, Founder of Sherlok on Fintech Chatter."
+    excerpt: "Tier One People has pledged to support 50 up and coming Aussie Fintechs. And this week we launch a new initiative showcasing Australia’s next wave of Fintech Founders to our worldwide audience."
+    publishedDateTime: 2022-02-24T22:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/adam-grocke-founder-sherlok-fintech-chatter-dexter-cousins"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEPUZ1eqGeXoA/article-cover_image-shrink_720_1280/0/1645740390083?e=1651104000&v=beta&t=IqJbIP8xzKj6nfw8xNxDh_eZdUue9UbiRY_a4ALHu4c"
+        width: 1144
+        height: 720
+        isCached: true
 
 secured: "VZv5dfDWa4nRg/6sVup16CQEhc9Xnmn1uwCIkPly1SV/scvpc0lYpaou+JGp8TWHsIOX1NCbQyOfevuGQsA7wxKfYKbe1eUb81dC53wPJ6WKb7GIik/97/xpn6eavUhW6A6GS+VvcjYF4+MpoAxkYqfnKuR5OfQsuvT+RMVC/TGxhPhDzFtgiX3qkIrhoVfhanWjDrdyCvdMVCM091H80VGXGEOR630pU3rRmlYcgNfmpM2xZNDmWbnEQXTOidj9mBYdsUhcvgGcgcWtoD3n/QFL5mKwxVOoCMcoPEKB00tS9AaFtppAtkB8TbJLQdkEmOZlf4Mx1ooak/LDizUTsr0y5fqwXmuu1c8bTmC41NIbl73cjk5jI0D4lp1n/WalJdHvgJjofn2xlDrMs7BcCqdKWWIFgQo5L2WFOE3lmteRit9Ei26ITAJZw9iNMSpufV6J3xORyI4/aj49pV0b/N1/mEnH2z6UvgPioOEMzR/KHTavhEwhLl7b1SEWeNvvjW/Bn8qjeaLiFPJjXZiSSw==;M9UNJNI2QRbQoIyJdRdtyA=="
 ---

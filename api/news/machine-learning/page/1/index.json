@@ -98,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-24-deep-learning-poised-to-improve-breast-cancer-imaging.md",
-      "title": "Deep learning poised to improve breast cancer imaging",
-      "excerpt": "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. \"The near infrared spectral tomography (NIRST) and MRI imaging ...",
+      "path": "_news/2022-02-25-deep-learning-fosters-better-breast-cancer-treatment.md",
+      "title": "Deep Learning Fosters Better Breast Cancer Treatment",
+      "excerpt": "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html",
+      "webUrl": "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
+      "originalUrl": "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-poised-t.jpg",
+          "url": "https://images.medindia.net/amp-images/health-images/protein-inhibitors-against-triple-negative-breast-cancer.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,13 +120,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp",
-      "publishedDateTime": "2022-02-24T06:59:00-08:00",
+      "ampWebUrl": "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
+      "publishedDateTime": "2022-02-24T10:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Medindia",
+        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null

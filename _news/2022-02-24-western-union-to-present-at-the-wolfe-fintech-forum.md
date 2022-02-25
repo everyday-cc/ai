@@ -39,20 +39,6 @@ related:
         width: 818
         height: 398
         isCached: true
-  - title: "Younited: An interview with the latest French fintech unicorn to set its sights on the UK"
-    excerpt: "As vice chairman of France FinTech – a non-profit association promoting fintech ... “We have also developed an AI-based personal finance management tool – called Younited Coach – which provides free budget diagnoses for our customers.”"
-    publishedDateTime: 2022-02-21T05:32:00Z
-    webUrl: "https://www.altfi.com/article/8846_younited-an-interview-with-the-latest-french-fintech-unicorn-to-set-its-sights-on-the-uk"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 15
-    images:
-      - url: "https://www.altfi.com/images/featured/younited-an-interview-with-the-latest-french-fintech-unicorn-to-set-its-sights-on-the-uk.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "UEfY/HoH5XTscwBQS4j2cA9OA+X8iTWvKJ6NcOufjtvmjdGDdNI6PnmMBTHgECxl+amFESh337ToP56klWOcRSNOOYKAgYB9od6mIs0nVXfuxTSWdC53qW6SOoRy3J90ZZKU7YqRZYj2tlEwOl6ActVngEUYPWF2BmbYcXYiYSU8A0MKSVw5qbQLn8edcOdLL46bIydzzuUMFN+xGdI9jdd9a/JyFFnJ1UrADXMBMDPMDLghAvFDfUoGQNgyn62Qc9/OtkOAOJzvktQC593dgdzqa63+Lv7uRKib+Lwqj+eTEezsoh7YFGLlxVTPGfqhWd1cCkGh51v9ffnXfaUzpplK2p5onHoHXobyJ/PlTig=;yssTX9SXInIgT9g8evxHlQ=="
 ---

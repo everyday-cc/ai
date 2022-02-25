@@ -77,6 +77,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta is building an AI-powered universal language translator"
+    excerpt: "During a streamed event, Meta CEO Mark Zuckerberg talked more about the Metaverse his company has been investing in - including that Meta's research division is developing a universal speech translation system."
+    publishedDateTime: 2022-02-24T04:29:00Z
+    webUrl: "https://www.pocket-lint.com/apps/news/facebook/160152-meta-is-building-an-ai-powered-universal-language-translator"
+    ampWebUrl: "https://www.pocket-lint.com/apps/news/facebook/160152-meta-is-building-an-ai-powered-universal-language-translator.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/facebook/160152-meta-is-building-an-ai-powered-universal-language-translator.amphtml"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 59
+    images:
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/160152-homepage-news-meta-is-building-an-ai-powered-universal-language-translator-image1-4mqg8hpu96.jpg"
+        width: 943
+        height: 630
+        isCached: true
   - title: "Meta to break language barriers with AI, builds universal speech translator"
     excerpt: "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme"
     publishedDateTime: 2022-02-24T08:09:00Z

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AIs on the Prize: Competitions Foster Artificial Intelligence Applications for Naval Use"
-    excerpt: "Artificial intelligence and machine learning is one area receiving intensive attention from the Defense Department because of the increasing challenges of managing overwhelming amounts of data and making decisions in a timely manner. The challenge is made ..."
-    publishedDateTime: 2022-02-22T14:15:00Z
-    webUrl: "https://seapowermagazine.org/ais-on-the-prize-competitions-foster-artificial-intelligence-applications-for-naval-use/"
+  - title: "Pulitzer Center Launches AI Accountability Network"
+    excerpt: "The Pulitzer Center, a nonprofit organization that supports independent, global journalism, is now accepting applications for its new Artificial Intelligence Accountability Network. Governments"
+    publishedDateTime: 2022-02-21T20:10:00Z
+    webUrl: "https://pulitzercenter.org/stories/pulitzer-center-launches-ai-accountability-network"
     type: article
     provider:
-      name: SEAPOWER
-      domain: seapowermagazine.org
-    quality: 43
+      name: Pulitzer Center
+      domain: pulitzercenter.org
+    quality: 39
     images:
-      - url: "https://seapowermagazine.org/wp-content/uploads/2022/02/6602846-scaled.jpg"
-        width: 2048
-        height: 1447
+      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/inline-images/ob0S0yKKCEWpjBOSobrledqdTVi6rgEDHoEc12mTJWiq3EUjlL.png?h=21cd0a81&itok=RZ3Yv2VP"
+        width: 768
+        height: 600
         isCached: true
 
 secured: "oAVJaT4vwCS5gx33VlPr/2OUk2sAEsLBIGgdbNKRTIoXrfyiyRE7mijdctN6SWWnq1WWf+gpyweVDwaGi2fvuxvkfJQ34xXQ+T/oeODYGonO376UHNA9hkLknpJWs82P2+jT/yFzMkoy+8NTLP2oHOEydyB9+aUp/sWrjBXHFriUIrgypuQi4lpteqKBK/d5juO4xwKehnfPuWDR3pM544f+YmHihLGbX/JbXaWx8S7x4rHMktsQfyVkU3r5qp8+1ChVFjOfN8RwNxvbyN+YyO7Dz0xsegFMk056ZNZk0TjLZWKlzCVAdsLenlDBGbDp0YZ4vremAazCSYiFsh9V1Njp2F3gYlpUWJ6sr9mEW8w=;0+av+iCyI6fW0Q8vjM9M/g=="

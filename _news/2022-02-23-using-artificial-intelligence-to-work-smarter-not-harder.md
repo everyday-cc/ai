@@ -121,6 +121,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+    excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their artificial intelligence method, which learns to model the ..."
+    publishedDateTime: 2022-02-25T19:32:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220225123541.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Best Institutes To Study AI In New York, 2022"
     excerpt: "Artificial Intelligence is the ultimate buzzword that is ruling the roost. The tech trend is most in-demand and one of the top skills that recruiters today are seeking. For many of us, the term AI stirs up an image that is dominated by robots."
     publishedDateTime: 2022-02-21T09:59:00Z

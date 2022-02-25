@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/"
 type: article
 quality: 99
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
     quality: 56
     images:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
+  - title: "Microsoft updates security applications for multi-cloud environments"
+    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
+    publishedDateTime: 2022-02-25T22:18:00Z
+    webUrl: "https://www.arnnet.com.au/article/695602/microsoft-updates-security-applications-multicloud-environments/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
         width: 473
         height: 315
         isCached: true

@@ -140,6 +140,20 @@ related:
         width: 1894
         height: 832
         isCached: true
+  - title: "The Metaverse Could Fund Important Artificial Intelligence Work"
+    excerpt: "Meta Unveils Voice Mods for the Metaverse Plus AI-powered ‘universal speech translator’ Some context here, I didn’t realize Zuck was building the Holodeck. If you enjoy articles about A."
+    publishedDateTime: 2022-02-25T17:57:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-could-fund-important-artificial-work-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHdhoN3MJMyZg/article-cover_image-shrink_600_2000/0/1645811731057?e=1651104000&v=beta&t=3d_obpkGM1X_5bv-szTxP28FNYX9HJwj95x4mRKWdQ0"
+        width: 807
+        height: 440
+        isCached: true
   - title: "Zuckerberg unveils Meta’s AI innovations designed to build the metaverse"
     excerpt: "To drive innovations in AI, Meta announced Project CAIRaoke ... templates rapidly from a few spoken words. It’s a good start for users taking their first steps into virtual worlds."
     publishedDateTime: 2022-02-23T22:44:00Z
@@ -168,15 +182,6 @@ related:
         width: 3024
         height: 3236
         isCached: true
-  - title: "ADGM-based AI wealth manager FinaMaze announces launch of Metaverse Smartfolio"
-    excerpt: "FinaMaze, an ADGM-based digital wealth manager utilising AI, announced Monday the launch of its Metaverse Smartfolio. The Smartfolio will bundle stocks of companies that are leading the way in the creation of the metaverse. Included in this bundle are ..."
-    publishedDateTime: 2022-02-21T06:01:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/adgm-based-ai-wealth-manager-finamaze-announces-launch-of-metaverse-smartfolio"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 13
 
 secured: "bFrgWt5DMcKn0xE0/ktz+sNp32Gk0B5+TigAXeAnNbyIX7agFK+fDSMoom76QcPy0lFZms1EYYtgWpo+/sSHyj3g45Htz0vgpxUM7G3DpGiOT62Ui/8lx5/gMlL+H1qk7/aGdZwev+DFRgracBpp4ZIUACmym79bPCXQEZe91ywy5iw3WOFMIxanVw6afYAVIxg+Aa2IBpvTbS9dmIIhH0cVA7sf7osyiGNw5JLvH7xgkttbwytoKPji4ko2+0zM3hXuRExEKHP3WnJf52wBderp9Lz90HeC1x5jzBvsAm8JmNIktHFeIgA+ZFXewzJMJ5powRJGL/JvmWmj1AqUN9v9Yr0c9k4x2OmWAKthGxH3jeR7oFYBlj9iFQ5x3e+DpzVYWEaGkMegbGqW/yd221APO+Uqn+6y5sCfiB6EgO4m0TRRs0VzeCkOYA1Qp0sqMCZFiFZD+R5YgFHipjjdtkm36bDnQ/QmGLCH3etHuolbSoU9UDEcyGJk9ikbQVRzONp17lu2vPjk6T5F6W7Nog==;kXS+3i4AMbUdNonsY6fcdg=="
 ---

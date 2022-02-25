@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+    excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their artificial intelligence method, which learns to model the ..."
+    publishedDateTime: 2022-02-25T19:32:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220225123541.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Using artificial intelligence to work smarter, not harder"
     excerpt: "Rowan College of Engineering and co-director of the Rowan Artificial Intelligence Lab.  One of his research projects aims to develop a rigorous, scalable learning framework that will enable AI systems to self-assess their performance and continually expand upon their prior knowledge."
     publishedDateTime: 2022-02-23T15:23:00Z

@@ -1,0 +1,77 @@
+---
+category: news
+title: "Intel targets edgy 5G and AI with new chips, software"
+excerpt: "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing."
+publishedDateTime: 2022-02-25T14:35:00Z
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
+type: article
+quality: 74
+heat: 104
+published: true
+
+provider:
+  name: theregister
+  domain: theregister.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://regmedia.co.uk/2022/02/24/handout_intel_xeon_d_2700.jpg"
+    width: 1920
+    height: 690
+    isCached: true
+
+related:
+  - title: "Intel expands AI developer toolkit"
+    excerpt: "Intel has announced it is updating the OpenVINO AI developer toolkit, which allows developers to bring a wider range of smart applications to the edges."
+    publishedDateTime: 2022-02-25T13:38:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/intel-expands-ai-developer-toolkit/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/intel-expands-ai-developer-toolkit/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/intel-expands-ai-developer-toolkit/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Intel-expands-AI-developer-toolkit-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Intel’s chip making plans an own goal"
+    excerpt: "Wall Street thinks that AMD will win The cocaine nose jobs of Wall Street think Intel’s chip making plans to meet rising demand will give AMD a greater foothold in the segment. Intel, which plans large investments in chip technologies in the next four years,"
+    publishedDateTime: 2022-02-21T11:25:00Z
+    webUrl: "https://www.fudzilla.com/news/54412-intel-s-chip-making-plans-an-own-goal"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/91ae5319373c72cc0d6019e16b21b029_L.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Intel updates AI developer toolkit OpenVINO for higher inferencing performance"
+    excerpt: "Intel has updated its OpenVINO toolkit to bring expanded natural language processing (NLP) support, added device portability on your hardware, and higher inferencing performance. The tool is used to develop applications and solutions to tackle a range of tasks including emulation of human vision,"
+    publishedDateTime: 2022-02-25T11:56:00Z
+    webUrl: "https://analyticsindiamag.com/intel-updates-ai-developer-toolkit-openvino-for-higher-inferencing-performance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 35
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Intel.jpeg"
+        width: 2000
+        height: 1125
+        isCached: true
+
+secured: "0dqYtEfa8MGlBhZT2J53d5E7jjbwZJbIAn4WlWalwxfoW1lmONWV9KtvIvOS1r6dHZUrw5f5PNVDyhPFbcc0id3Zj1ryfBE5pws6s/JmZCLy1ooZTO63uTVtfOYU4wO8XtliLrpZf5W7GhpnsV74VE+kdEZj6xuYZm+7cqvb2jylnUH1aExZKJ9l5VUDSctaS6IzwcfoWPQfvwvC1X7oXnJZgsgw/e5t8Vkf1aVvVNNsUHIoOOmjEl6aAFf9dsL6w6zmkrgUQajSMcV57peNGsLsfvu9UMybCYOGGBitvuYiupKADPPfin/Ea0SVucY9+RwNGtFvRRJ1JC8jtPhwYXIh2KBMxfyRPdoFhXE8PsQ=;sN1cB/7NomEAnPmXXIrxTg=="
+---
+

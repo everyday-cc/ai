@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-25T20:10:00Z
 originalUrl: "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event"
 webUrl: "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event"
 type: article
-quality: 68
-heat: 118
+quality: 70
+heat: 120
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Computer Vision
   - AI in Security
+  - AI in Robotics
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg"

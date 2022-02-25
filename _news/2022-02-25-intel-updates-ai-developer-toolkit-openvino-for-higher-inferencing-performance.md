@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel targets edgy 5G and AI with new chips, software"
+    excerpt: "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing."
+    publishedDateTime: 2022-02-25T14:35:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2022/02/24/handout_intel_xeon_d_2700.jpg"
+        width: 1920
+        height: 690
+        isCached: true
   - title: "Intel expands AI developer toolkit"
     excerpt: "Intel has announced it is updating the OpenVINO AI developer toolkit, which allows developers to bring a wider range of smart applications to the edges."
     publishedDateTime: 2022-02-25T13:38:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Intel-expands-AI-developer-toolkit-01.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Intel’s chip making plans an own goal"
+    excerpt: "Wall Street thinks that AMD will win The cocaine nose jobs of Wall Street think Intel’s chip making plans to meet rising demand will give AMD a greater foothold in the segment. Intel, which plans large investments in chip technologies in the next four years,"
+    publishedDateTime: 2022-02-21T11:25:00Z
+    webUrl: "https://www.fudzilla.com/news/54412-intel-s-chip-making-plans-an-own-goal"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/91ae5319373c72cc0d6019e16b21b029_L.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "ZgmkWBtXrZ0ZkFEAVZtgrXVlcH4jY9aOHErfwjSocJUZE8XqQKC0OUoi5n4O5lb0zyKM+9qu32LnWUOSPXkBL7CcPqZwbUPrqudP82nB7OgtRatWzUgVIGKVKuE0cqG6LV8N+adLzLM3fAw3MT000eSBHVRZyYoaYExAcDjBLgEAYNe1Uvv8tYnhXmgtCjYrmusU0sqOtfd708BhiKAC5jc8DFavYkxZCfKOKJ6hjlrAaJQ78RlQQlLH5gv+4SovAfhlSJFmk5TeAmr4Q/6gB3tjH10CGjE68a3iCkgutntMIAquTH+ftiPnRKXsVNCpn4SKbjkba5dAT9+9onSmbUvlykEEjVqca3I9H2zutFE=;e2IJnRlAgB5I+jGVahKHDg=="
