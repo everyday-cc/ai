@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces Global Expansion of AWS Local Zones"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+excerpt: "(NASDAQ: AMZN), announced the completion of its first 16 AWS Local Zones in the U.S. and plans to launch new AWS Local Zones in 32 new metropolitan areas in 26 countries around the world. AWS Local Zones are a type of infrastructure deployment that extends AWS Regions to place compute,"
 publishedDateTime: 2022-02-16T22:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-global-expansion-of-aws-local-zones/article_8844f9b3-67f3-5bac-9827-49fb53013166.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-global-expansion-of-aws-local-zones/article_8844f9b3-67f3-5bac-9827-49fb53013166.html"
+originalUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-global-expansion-of-aws-local-zones/article_005ed0b0-8928-529a-baf0-dc92def44d48.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-global-expansion-of-aws-local-zones/article_005ed0b0-8928-529a-baf0-dc92def44d48.html"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "dpdf5JK7amuUIUyEs1JAjMRE/JK94HDMhoc2HfPeCrpkqhG7cl5zG4v9JA000FE1admwSoNDz785RSdKzMhoxO7RJSLvpNwpNkQsZdSEY5MEE9dWc9u2Sa9OZVMAUnF+zASNfLFGg4eJp6RlHzcXUmQJImww8Ww7gxquJad0P0LAwgA/nAafcOA29IO27qKjkbp0VTEnyB7NJdcObirlNKLVysqiaHaRJht1WJZrNORqV3fTakdD8yP/DxH42l6HBPN74xxWi9RJxiKoFl+MF5UDx3U9XEsmTrRbeRY90reoc8LiJcBymrtlOm6GdwonQKfLDr/8nqDSogjxiRsNbXbWzvkItzolpy3vCaGcG6CtUDDViGhR9cuVcK+tP3OQIxw1/S0SO70c6dF8+d9eBCrZvqHBtAtJZC2BysOw4D32QsToEpWKlqf+ozRk9mhvpcpluYijCOshe3/v3V4YQCGXEqeGMY8iwmu18c7P8F+4WkGMqFJB+PSswlXB+EW7Kad3nKUtzSfT90dj/bN79w==;DgqXAK6XgJCBiFFec846aQ=="
+secured: "sXLVLqkkSfbyHDxeaeXu9WrtX0W+sXhDOnwYcea3p9crRLQaX0HiQhzG8XFkt+fA1vSMbd2WNPclMQ1BUQsXVSDqIv1an5+0kqh0jGOJ+UUkTfT/d5ypwuuJG5qVyDKtP1lkPHgpIGjMDubbJAcj4FK4Z5MMtMowbp5Fa295AOAlvK4E6MqX7Rr2IWtLDqKDn0IlMpxijD16UrwOIhYGC65LSoFGE7ix92XgZax4O9gWf0wTlcLUPDDf3ARL99SnLRXmdjgoxayylnafXK82ht4k+HKpc/pP506tZpBL7ojllI/htv9lnJnrhsZA1NYU0zxc3QTyFRBpOiIsc0RqAPHWzvVpitMKDW1X7b5gTO8=;3ylngEHDuzyc79AW5gVSsg=="
 ---
 

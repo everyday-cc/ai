@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Catalysing digital healthcare: NASSCOM CoE - IoT and AI launches Healthcare Innovation Challenge 3"
-    excerpt: "After the success of first two editions the NASSCOM Centre of Excellence CoE - IoTampAI announced the launch of the third edition of Healthcare Innovation Chal"
-    publishedDateTime: 2022-02-26T08:49:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272338520/catalysing-digital-healthcare-nasscom-coe---iot-and-ai-launches-healthcare-innovation-challenge-3"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 40
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "z56hA2ybOLPZZd2cTCQ4Eifv8ALvm5dZtgH5ZUMjObXoNcZDSkNWbKaKvVCH3dhgQ9393AxV2WTqcEdsvrUVzrTYtwDIOMiIQEeq8Prj6y/uw/AQHjLOhEzg479yMw/to4rlv2pGw4AmKl3MNTRdM4GcCIENyo3jshZoi7mleXunX6PQ2x21L7NYJlu8Rdt953IfXxkY5aRYmij8+adA/a3xevJNqYI0/12tFDP3TPSVjloPl5VqneJT+jY2LoNdqKZwqJ3bKhXWHtHlHlZTHMM0BUDmO+Z7lGIIx2P9OBnfXe4e7FJosh0WIORJGuUFZiZx3GF25uaGpn71Vbog20Bn6/QQJRslaHAjypDmQbY=;6MNJ0TtXiWbWOIxMI7QnRg=="
 ---

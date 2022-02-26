@@ -40,17 +40,6 @@ related:
         width: 1000
         height: 635
         isCached: true
-  - title: "Can emerging tech help reduce the impact of future pandemics?"
-    excerpt: "Pandemics and endemics are here to stay. With each new breakout, we are learning new ways of tackling and managing unforeseen health crises that can endanger millions. To combat pandemics like COVID-19,"
-    publishedDateTime: 2022-02-21T18:18:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/can-emerging-tech-help-reduce-the-impact-of-future-pandemics/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/can-emerging-tech-help-reduce-the-impact-of-future-pandemics/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/can-emerging-tech-help-reduce-the-impact-of-future-pandemics/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
 
 secured: "VG9oNqL+fDXcXzkPdpU5pMYSwGNrvdG91wueej4gnMpXdlIrKwPkjrgGVSfaEPELx5TLmiWYmYcjyxaFx5ThI6F8IoMZv9xJvsqlmiLpCh4YR0rY9DpObaRAhcXGJxsEMZu2XD/igBd56eLyYjV372hp/xpTs2nn0h05hvtTRsJi9LJ6i6f7fNOQEvsBe809WWMQuUm/JO3wnLqTH+xKeTm9+HfXirb2TSWA8hSorEts9vl67Is+vJffCSe3vKD4xA5O7P+h97qmY/vVTct26Qe0YMpOFoOjE6NcANcMA4FfUiBbA/4++5IaEjoT+O0+xzfJKu03hE8QP871cDzTUlmXmGJU2D6o8R8htwUtlvX91wFJc3ZUFImVne/19ARDywn1GXpfTQ2nXxu8xsoMoiIuKzkyxNiGWqW/nh9qMfcfRc+fpo8cWlEUeSyqLr+PP8hdS2L4EPwNbT7l9P8/vrOwZxVJ79Wbq+x1Y8dIE76ttu9EhcWtFjEDReV8xv94EbdBfA76mc61eZho/wuFdQ==;5bLNQ7S71MPnb4r6oRBsqg=="
 ---

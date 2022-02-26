@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html"
 type: article
 quality: 74
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-johnson2/merlin_202534344_84900b07-78b2-4bbd-af3b-5c5826015950-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Extracts from Putin’s speech on Ukraine"
-    excerpt: "Following are extracts from a televised speech by Russian President Vladimir Putin on Ukraine. ON RECOGNITION OF PRO-RUSSIAN SEPARATISTS \"I deem it necessary to make a decision that should have been made a long time ago - to"
-    publishedDateTime: 2022-02-21T18:35:00Z
-    webUrl: "https://kfgo.com/2022/02/21/extracts-from-putins-speech-on-ukraine/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/21/2022-02-21T193510Z_1_LYNXMPEI1K0TT_RTROPTP_3_UKRAINE-CRISIS-RECOGNITION-PUTIN-ADDRESS.JPG"
-        width: 800
-        height: 439
         isCached: true
   - title: "Putin's angry speech rewriting Ukraine's history"
     excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."

@@ -1,61 +1,59 @@
 ---
 category: news
-title: "Catalysing digital healthcare: NASSCOM CoE - IoT and AI launches Healthcare Innovation Challenge 3"
-excerpt: "After the success of first two editions the NASSCOM Centre of Excellence CoE - IoTampAI announced the launch of the third edition of Healthcare Innovation Chal"
-publishedDateTime: 2022-02-26T08:49:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272338520/catalysing-digital-healthcare-nasscom-coe---iot-and-ai-launches-healthcare-innovation-challenge-3"
-webUrl: "https://www.bignewsnetwork.com/news/272338520/catalysing-digital-healthcare-nasscom-coe---iot-and-ai-launches-healthcare-innovation-challenge-3"
+title: "Catalysing Digital Healthcare: NASSCOM CoE - IoT and AI Launches Healthcare Innovation Challenge 3"
+excerpt: "Gurgaon, Haryana, India   After the success of first two editions, the  NASSCOM Centre of Excellence (CoE)  - IoT & AI a"
+publishedDateTime: 2022-02-26T09:41:00Z
+originalUrl: "https://menafn.com/1103766419/Catalysing-Digital-Healthcare-NASSCOM-CoE-IoT-and-AI-Launches-Healthcare-Innovation-Challenge-3"
+webUrl: "https://menafn.com/1103766419/Catalysing-Digital-Healthcare-NASSCOM-CoE-IoT-and-AI-Launches-Healthcare-Innovation-Challenge-3"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
+  - url: "https://menafn.com/updates/pr/2022-02/26/N_c8b0781e-8_Image_In_Body.jpg"
+    width: 726
+    height: 405
     isCached: true
 
 related:
-  - title: "Healthcare Triangle Eyes Top 10 Position With Successful Launch Of Healthcare Data Analytics And AI Software Platforms"
-    excerpt: "a medical documentation automation software that allows healthcare providers to capture and process paperwork digitally and with the help of artificial intelligence (AI). As medical document management remains one of the key challenges healthcare faces and ..."
-    publishedDateTime: 2022-02-24T11:48:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/22/02/25802488/healthcare-triangle-eyes-top-10-position-with-successful-launch-of-healthcare-data-analytics"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25802488"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25802488"
+  - title: "GAVS partners with NASSCOM CoE-IoT & AI to Accelerate Healthcare Technology Innovation in India"
+    excerpt: "(MENAFN- Newsfile Corp) GAVS partners with NASSCOM CoE-IoT & AI to Accelerate Healthcare Technology Innovation in India The hybrid HealthTech Start-up Accelerator, to be established at GAVS ..."
+    publishedDateTime: 2022-02-22T17:52:00Z
+    webUrl: "https://menafn.com/1103741531/GAVS-partners-with-NASSCOM-CoE-IoT-AI-to-Accelerate-Healthcare-Technology-Innovation-in-India&source=29"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 44
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2012/photo-1599045118108-bf9954418b76_1.jpeg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?825763"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Patriot One awarded contract to develop AI-powered full-motion video analytics app"
-    excerpt: "TORONTO—Patriot One Technologies announced it was awarded a contract worth nearly $1 million CAD with Canada’s Department of National Defence (DND) to further develop an artificial intelligence (AI)-e"
-    publishedDateTime: 2022-02-23T16:32:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/patriot-one-awarded-contract-to-develop-ai-powered-full-motion-video-analytics-app"
+  - title: "GAVS partners with NASSCOM CoE-IoT & AI to Accelerate Healthcare Technology Innovation in India"
+    excerpt: "... and innovators can submit their interest at https://www.gavstech.com/healthcare/healthcare-startup-accelerator/. Sanjeev Malhotra, CEO, NASSCOM CoE-IoT & AI added, “CoE is MeitY initiative focusing on accelerating digital innovation in different ..."
+    publishedDateTime: 2022-02-22T10:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/gavs-partners-with-nasscom-coe-iot-ai-to-accelerate-healthcare-technology-innovation-in-india"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 33
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 42
     images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
-secured: "fLfCW3egypppI8b/4t3K2fF2O2XhB37SPyJUtD/+ANSbr5DveDwpopqNIp6MnsjLnsjo31NQhRWy9W2wYMb85YDEKMjgKzJXFWwg/swk+y5Dzc4d+xZglsPA8ZDeOXSHHTGGKiJjQw4a989y/i4aboJ2NaQyDtS8b3lVBJklCOEm6YGSDIYFZMMMyh28z9WIsI50DyBP7IJ8aOF1bZnpeOjCXljemCpc2OcUspdmvx2VMSXVznas1SSjSQvU5OJJkfGHpFxcBotYPJTfO+c5Q/87TizbLOM/8kMVuomL93azPpTMmSjxYFGGj6GkSHynPMib5a6jyXyLjv8p7NrgShXV8aitlQtifQ2t10dVc5s=;BICPOM8AfAxkoystJjqYAA=="
+secured: "ICMVT1Unf5H3MCdV6wjGWiGdISQ3ec5oBnPCmwWVRs8ANvhf7Wah78d3PFrvj8clg9hfE9Ga9zQGNXZAPG3SilmjNMFM/qX/XMMI2AnNT0ITUMDSfoPYSzRtJCoVPG3ZF/dwQ+684sj31iTMVaK02zUh9kVzEQxkcX7bTPDEX3fIZpMqaKZebJDopbHQqbllFEwy4r6oOdWzyTPY06lJ8nb2tIrSQm3zEY0zLDRZeqKXQT6PP+sMVZfuxhHfPHfOvxHq/VSta4zKS9mZLIUfNyXX7NlOF11mI6Oz2zB+dYKN1j6RWC49lG9lUAuzBpx4V5ERNJ2GP1aDUGQAzMDiYdtbosr0HzEre8DZHCabWyk=;4QrwSNxn8FfgkkIAYWal5g=="
 ---
 

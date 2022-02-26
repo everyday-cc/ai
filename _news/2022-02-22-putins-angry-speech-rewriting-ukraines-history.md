@@ -55,20 +55,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Extracts from Putin’s speech on Ukraine"
-    excerpt: "Following are extracts from a televised speech by Russian President Vladimir Putin on Ukraine. ON RECOGNITION OF PRO-RUSSIAN SEPARATISTS \"I deem it necessary to make a decision that should have been made a long time ago - to"
-    publishedDateTime: 2022-02-21T18:35:00Z
-    webUrl: "https://kfgo.com/2022/02/21/extracts-from-putins-speech-on-ukraine/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-02/21/2022-02-21T193510Z_1_LYNXMPEI1K0TT_RTROPTP_3_UKRAINE-CRISIS-RECOGNITION-PUTIN-ADDRESS.JPG"
-        width: 800
-        height: 439
-        isCached: true
 
 secured: "ODX3GWFZDsynxH6I3aPActGNPD/Rxxswjzb4e1ArvUfd7YWZv6HyRAORZByrIlfGAKWlfqnDWup07TGSiYSAwNB+015JSxDTiaN8t0xjC/HhgamAWChhn5fpnjM9dy59iZxk2UW0lFfqj5hSmwOiHG7YoXFJpEGP1s+5Gy2sr5eplW9raEOVWviHNof/QTfIZdEi5HCoIZjK8VEbbqnRLpczVfG5rJhOFBmGH0fvkmD+TKOT+gObRZlqUYoBu5BkaNIHxoPhXui/be1CMI4ElyiIRYzZ0p2gLZwzG4ZOAbBhrvSHzFckaVD9KLfwG3l2m57Xp6BIYy9y0xKTSC6MNBCNqL76rHTx9WhR/HxnJZU=;q6H06eFWt3YWERf/HzdSew=="
 ---

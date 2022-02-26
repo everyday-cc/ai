@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
-excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-23T00:02:00Z
-originalUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services."
+publishedDateTime: 2022-02-22T21:06:00Z
+originalUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
-heat: 226
+heat: 196
 published: true
 
 provider:
-  name: FOX 17
-  domain: fox17online.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - Computer Vision
@@ -75,38 +75,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/01/31/NAAS/f9ebd3fd-9047-421c-bb8e-4e07809346e8-IMG_Texas_Attorney_Gener_1_1_TDVDDFQI_L1771748395.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "IRS announces alternative to facial recognition software"
-    excerpt: "After an initial backlash over its facial recognition feature, the Internal Revenue Service said Monday it started a new option that will allow taxpayers to sign up for online accounts without the feature."
-    publishedDateTime: 2022-02-21T17:35:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3591645466216/2022/1/0891f8f1261eba40ce02aaf909f19044/v1.5/IRS-announces-alternative-to-facial-recognition-software.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "IRS allowing people to opt-out of facial recognition"
-    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
-    publishedDateTime: 2022-02-22T18:36:00Z
-    webUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
-        width: 3736
-        height: 2421
         isCached: true
   - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
     excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
@@ -189,20 +157,6 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
-  - title: "Many Irish skeptical about responsible facial recognition use, poll shows"
-    excerpt: "Irish nationals still entertain serious doubts about the trustworthiness of facial recognition deployments by any public or private entities."
-    publishedDateTime: 2022-02-21T17:08:00Z
-    webUrl: "https://www.biometricupdate.com/202202/many-irish-skeptical-about-responsible-facial-recognition-use-poll-shows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
     excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
     publishedDateTime: 2022-02-24T21:36:00Z
@@ -243,6 +197,6 @@ related:
         height: 810
         isCached: true
 
-secured: "9baqp5aDjqirvUrDZutwxmXrpt5sW9oLqZ399yHZQw9ngFQgGvBhgqCfYPLQChkfNNF4WrR5MFJBJem/q+k+Ovyu8XSM+ATeQGx2EAkwPP+OQ6Xr3YiBDuxamtjRvn2eZ8IYbga/FhTzLJ9aO7DYFGJfbF3tpjFtUxq/VDy/GpFtUzreUcevqJlYtugFh0xxCh9thwTkhNkLMhxZeupnh81DTbpS+W5BcUWiMKSGOebQ2zotg9ekfJH+/kVRAaDJnutf4IVm4bRkwhcqkY9NwcZT2+LQe1LeQv+YbMTEOEgVZQhARPSkEbezwl2QjGxp5mj1EUroEHdWE9JaIJz2mAfUN8BIGvIqM6GeZz9SsCHL0lQNCw8PXpYDqefA9Ipsp4aOjkET7jdrfHjBv/mJRvqxGohIq/LQG4vKgw5R4q7GTsU0pJ61iMWaDJTKH0M/Gf8tII4asTUxl79NOFhhlfwsUQMduCQN1iICLmU/xOzBY5rhiinUshs1F4g7DB/1E2d4eGL++DRWJUQQ4n0nXQ==;e3vPdHXilj8YADe+dqVxEQ=="
+secured: "I5mKgrMygI2uK/ogvaMlcEsfuqylWWTO083OQQO1JJ8D7ZOy/fEI79Qz210Ox6PvXw4f6khDWvJgb4UERpdOW/4CsxNCOoK1i4zLG3gWRNKd/Itz1/i44af24Y/cEFrWIf4K/65YIkdzYB5SPsGr0AqGtU8iRCyn8CIdkvp1Hbv8Z177oHqrsXCBMNrQdYrKYsDNdOiLMJ++CSTC9bjpTccSTiH0kBQx+rcpdNe9ouFgoPCw1owIo9Yn66VEbWePvg+neIer5R7pPWTUpAlI7aP7/IbqgtV3w1s9NKY4NfsGIZ57xtm9pnw0S7WTyrOWttqACnp5rgrCl2yYKOcs0j4r7UxTS655pV19xZR0aHA=;XlPjPIp9A8R/+Tg+yj3yUQ=="
 ---
 

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS says you can now create account without submitting to facial recognition"
-    excerpt: "The IRS's use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
-    publishedDateTime: 2022-02-21T21:59:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-promises-deletion-of-taxpayer-selfies-as-it-drops-facial-recognition-mandate/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 66
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-phone-face-scan-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "IRS will let tax payers opt out of facial recognition, but there's a big catch"
     excerpt: "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID."
     publishedDateTime: 2022-02-22T20:00:00Z
@@ -78,21 +64,21 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "IRS now allowing people to opt-out of facial recognition"
-    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology."
-    publishedDateTime: 2022-02-23T14:50:00Z
-    webUrl: "https://www.yorkdispatch.com/story/news/2022/02/23/irs-now-allowing-people-opt-out-facial-recognition/6908725001/"
-    ampWebUrl: "https://amp.yorkdispatch.com/amp/6908725001"
-    cdnAmpWebUrl: "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/6908725001"
+  - title: "Tech Bytes: New Macs, IRS facial recognition, Insta time limits"
+    excerpt: "The IRS is now allowing taxpayers to opt-out of using its facial recognition technology. People who want to access their online accounts can choose to verify their identity with a live, virtual interview. The IRS recently announced it would “transition ..."
+    publishedDateTime: 2022-02-22T11:32:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
     type: article
     provider:
-      name: The York Dispatch
-      domain: yorkdispatch.com
+      name: abc27.com
+      domain: abc27.com
     quality: 59
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1393f02a9b4a58fa9b1ae694f334aec229664a9/c=0-36-4569-2606/local/-/media/2020/01/08/YorkDispatch/B99852487Z.1_20200108171744_000_GS12NQ6TO.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
+        width: 1001
+        height: 563
         isCached: true
   - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
@@ -109,20 +95,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
         width: 3736
         height: 2421
-        isCached: true
-  - title: "IRS lets taxpayers opt out of facial recognition"
-    excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."
-    publishedDateTime: 2022-02-22T15:09:00Z
-    webUrl: "https://www.accountingtoday.com/news/irs-lets-taxpayers-opt-out-of-facial-recognition"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/5a0c99f/2147483647/strip/true/crop/2000x1050+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F40%2F53%2F33ce128f42678722f258b8c322cc%2Firs-building-blurry-passerby.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "IRS Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
     excerpt: "WASHINGTON — The Internal Revenue Service said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift to an entirely different identity verification system next year ..."
@@ -146,20 +118,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "IRS offers alternative to facial recognition"
-    excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:17:00Z
-    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
-    type: article
-    provider:
-      name: JournalofAccountancy
-      domain: journalofaccountancy.com
-    quality: 39
-    images:
-      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
-        width: 640
-        height: 388
-        isCached: true
   - title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
     excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
     publishedDateTime: 2022-02-22T22:57:00Z

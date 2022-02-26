@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/article.aspx?ArticleID=480"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Azorobotics
@@ -41,17 +41,6 @@ related:
         width: 486
         height: 694
         isCached: true
-  - title: "Can emerging tech help reduce the impact of future pandemics?"
-    excerpt: "Pandemics and endemics are here to stay. With each new breakout, we are learning new ways of tackling and managing unforeseen health crises that can endanger millions. To combat pandemics like COVID-19,"
-    publishedDateTime: 2022-02-21T18:18:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/can-emerging-tech-help-reduce-the-impact-of-future-pandemics/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/can-emerging-tech-help-reduce-the-impact-of-future-pandemics/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/can-emerging-tech-help-reduce-the-impact-of-future-pandemics/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
 
 secured: "K7ab8nwm1NvX12LhwdahM6YUo5Hw3d+dhTHcDR6MfPat2RyHCu/7siwsS45FeA2v3gvxZnq+y4L929ZeUb1eHux/ypjnBPYGeK6XS/r3F+FJ0cgSmSDzlYTWIriiW7XC7CjFgb6/LVPOZkGuSKAIKKb47ixx3t4hp/Slny41vuVvODra3Phhube9JkDjyGQ4QpLqRgdq93ns/gAVtBsBCHBOgUkWthbCUsbcSXRHUHRO1SC9R0sG/6pG6UKZKHCBKDjo6KimOaXIor8wXwFo2I/69Lq363BEqLy5xg4bKpXx1nPQqO9lwhEv0ZwEFUjlWdoWqX4sxI1QLjW7NwE/VfEuEyAXG4GTXjdWm9l+UsI=;iBHU8lpuALy+NGnwunngNA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/"
 type: article
 quality: 182
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Skael-raises-funds-for-AI-powered-automation-platform-01.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Skael raises $38M for its AI-powered automation platform"
-    excerpt: "San Francisco-based automation startup Skael Inc. today announced that it has closed a $38 million Series A funding round led by RTP Global. Dell Technologies Inc.’s venture capital arm and Bonfire Ventures,"
-    publishedDateTime: 2022-02-21T18:29:00Z
-    webUrl: "https://siliconangle.com/2022/02/21/skael-raises-38m-ai-powered-automation-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Skael.png"
-        width: 1061
-        height: 580
         isCached: true
 
 secured: "90JIOOH8Uiqrlau3qsBKs3VkBm6OqRr7IJAAc/tTt9P+Xwpd/G2WZBTp9YhJsEqzsG7iBxUg+n4TMVTfHWMjrG2IQGCb0usncDIpdvbhqkXJv5TrrtYpu4qkJQF5Q7VARz/p7IMvpIUfaYxPPBn3ThBcRxORFtCuFlj69QRomxk2qzwhAMb1JXajUyZ0/xehto82+JtW4XcZrVXSmXvdai6+3U7rLpCYqOI17UkKxE2j++qhGA5a+pGacDzep4qJS0dT+pmNVP+ewMlfX2Pl7sLA8EA83/kLnAaFb0t8qI/QqqOeHW5gwBj15LkLTmvz3So3E7mHHXhgr2trg43yKPuLA9iTcRr7lrsnQef8xje7oW5RbqOWRCA1tTxlvcMH0WR1bsl1QhqMXyuRr/mQkXBABktgJ8LX6RXna7stnmuAp0h0D8NMNibh0dKHlhFf4WfHdwf22xLTW4CPOeiEv/HwhJooi9jBF8fj4gh1fsfUuBcp/cnOEFcU5mrI/C9wIf5bXiXz/tdSG1ZJwGV43+bFOSXZU9uIAfxFpPu31Pw=;pdiuoYZ5TbjpyYicIYmn0g=="

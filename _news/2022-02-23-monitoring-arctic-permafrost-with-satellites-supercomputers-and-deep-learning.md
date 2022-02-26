@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-02-arctic-permafrost-satellites-supercomp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 550
     height: 202
     isCached: true
+
+related:
+  - title: "Monitoring Arctic permafrost with satellites, supercomputers, and deep learning"
+    excerpt: "Using deep learning and supercomputers, researchers have been able to identify and map 1.2 billion ice wedge polygons in the Arctic permafrost based on satellite imagery. The data helps establish ..."
+    publishedDateTime: 2022-02-23T19:41:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220222135432.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "0r0es0Ms7pvJc1GAn2bNOo5KS0AFacobk0fioSeszE4BxR0zLDICiFHXH73Bu+2Yc+Sftda1cWwwz3vBAoOeoWH8jU9GgjpsW354pv4dZn2STrZAZ4OxLgTAHv8YzsWZoCp02vYFdaICoW1jMuyXMXn275UCWMKlQfU6QVgTgdlqy+oD/lrht7IwkgzGrAomW9uJRL4UpODFW4A2FhAdNGGZAWLT57ItM7vb8UWo1Uxsj3xsUwnNPD4ftToPOvnfw+vmTU8coi7/TnGmEWdgKKP/bG1kQNMIPpKPSTQcWwAE1TgSxflEQ+oE+C8UI9s07xSeSmRgrPhu+98c720zY4AgzS7e54DSIFzcDTr8RNyAvgzMEoPldvam2hBkKhUMHCP3w0XHEce/e3OtmcX2wUg3VlY+UlDfpmT97T9MCIuJam6tLtg7YzU0oliH0S5gdW1T2MM1tNneBdQHEITce97v4Mze/aARUO0nHmSorxIvLqpPku2HARSPvlqgy2YDfec7wdHO81w+ipIdkGEaaA==;ImQLyv/6qjCD2fjIc0kcOw=="
 ---

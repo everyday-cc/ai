@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Ukraine: Putin to decide on recognition of breakaway states today"
-    excerpt: "Broadcast of Russian security council meeting about Donetsk and Luhansk seems to set stage for unexpected and potentially inflammatory move"
-    publishedDateTime: 2022-02-21T17:42:00Z
-    webUrl: "https://www.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/feb/21/ukraine-putin-decide-recognition-breakaway-states-today"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/2c24ae76c4d604b698c0355b9a4da1b111815f02/0_16_1880_1128/master/1880.jpg?width=620&quality=85&auto=format&fit=max&s=3c803be2283e5ce3aa866d59786e0fea"
-        width: 620
-        height: 372
-        isCached: true
   - title: "European leaders condemn Putin’s recognition of Ukraine breakaway regions"
     excerpt: "Vladimir Putin has recognised two breakaway regions of Ukraine as independent states - laying the groundwork for an invasion."
     publishedDateTime: 2022-02-21T19:49:00Z
@@ -386,20 +370,6 @@ related:
       - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/f207f654-22qoxwpzkzhypvucgemt9.jpeg"
         width: 600
         height: 336
-        isCached: true
-  - title: "Karis: Estonia will never accept Russia's recognition of people's republics"
-    excerpt: "Estonia will never accept Russia's decision to recognize the independence of Ukraine's breakaway regions, President Alar Karis said on Monday evening."
-    publishedDateTime: 2022-02-21T18:47:00Z
-    webUrl: "https://news.err.ee/1608507740/karis-estonia-will-never-accept-russia-s-recognition-of-people-s-republics"
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 22
-    images:
-      - url: "https://s.err.ee/photo/crop/2022/02/21/1364765h7198t24.jpg"
-        width: 672
-        height: 420
         isCached: true
   - title: "Putin’s recognition of breakaway regions pushes EU to fast-track sanctions"
     excerpt: "Russian President Vladimir Putin's recognition of the self-proclaimed Donetsk and Luhansk People's Republics in eastern Ukraine on Monday (21 February) will force the EU to fast-track a decision on whether to impose massive sanctions on Moscow."

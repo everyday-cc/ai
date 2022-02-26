@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25802488"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25802488"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Catalysing digital healthcare: NASSCOM CoE - IoT and AI launches Healthcare Innovation Challenge 3"
-    excerpt: "After the success of first two editions the NASSCOM Centre of Excellence CoE - IoTampAI announced the launch of the third edition of Healthcare Innovation Chal"
-    publishedDateTime: 2022-02-26T08:49:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272338520/catalysing-digital-healthcare-nasscom-coe---iot-and-ai-launches-healthcare-innovation-challenge-3"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 40
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Patriot One awarded contract to develop AI-powered full-motion video analytics app"
     excerpt: "TORONTO—Patriot One Technologies announced it was awarded a contract worth nearly $1 million CAD with Canada’s Department of National Defence (DND) to further develop an artificial intelligence (AI)-e"
     publishedDateTime: 2022-02-23T16:32:00Z

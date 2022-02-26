@@ -39,6 +39,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Catalysing Digital Healthcare: NASSCOM CoE - IoT and AI Launches Healthcare Innovation Challenge 3"
+    excerpt: "Gurgaon, Haryana, India   After the success of first two editions, the  NASSCOM Centre of Excellence (CoE)  - IoT & AI a"
+    publishedDateTime: 2022-02-26T09:41:00Z
+    webUrl: "https://menafn.com/1103766419/Catalysing-Digital-Healthcare-NASSCOM-CoE-IoT-and-AI-Launches-Healthcare-Innovation-Challenge-3"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/26/N_c8b0781e-8_Image_In_Body.jpg"
+        width: 726
+        height: 405
+        isCached: true
 
 secured: "B50co7nAwwTqKROlCAlHTkbuVncy8PuzQx1LgKnMXxGE7kLtI+U1fCERZtfxyurAIPiz4wckEjIiFj8EE04f3s9OWN5wH2ircF27AVEhD0jZPd5mIn3o7UDe6cu0PbzpO1Ym7LFaAdMOAdNMlDF+b9/uYs3AMLslqscsXAs1crcz6hR/1vga7Gee49EjuPNTTCTvoIzABeJ9FJ5HeR/F5icm03xtblTQD0UbL2ZZagQU2g98H93/SpFMCFAIPDvqxQr6bBNZS8ZBHzvu8CD8MZv3JqQQ/bMOQIekmwMbkdqmG0JIV6EjFB4dSxNWNwopJqOJllNheM+2kXL4OXFvhT3a/OLkMys3s51GJB1+7RY=;IW9SplPn/kEzA29/HXn2Xg=="
 ---

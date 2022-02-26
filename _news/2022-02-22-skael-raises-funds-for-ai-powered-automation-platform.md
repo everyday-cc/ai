@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 605
         isCached: true
-  - title: "Skael raises $38M for its AI-powered automation platform"
-    excerpt: "San Francisco-based automation startup Skael Inc. today announced that it has closed a $38 million Series A funding round led by RTP Global. Dell Technologies Inc.’s venture capital arm and Bonfire Ventures,"
-    publishedDateTime: 2022-02-21T18:29:00Z
-    webUrl: "https://siliconangle.com/2022/02/21/skael-raises-38m-ai-powered-automation-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Skael.png"
-        width: 1061
-        height: 580
-        isCached: true
 
 secured: "EZEIP6AVF+9Y/cRXz3HVrmQWjhnFJou8TZxdlRIGpB/Yw7oFnWcAeJu5j76jDD7qM2gp5hS61BQ8TgEqqmsEfW6wxCEaESZlOvqoQSmBgHzhhELijtuBus38j9U9kR2EAqO9oSaQ7vA+xSBEjzRByCsl7wDFoUlNkCIusMdEnVYQNyetdOv5u9Y8007JHIGSmMRDB/XNJdjBctUQakZhOCYS+TWcxilCDFryhvXgH07prhrnQwc1qbr06qeUNRcVrZZ8KeGa8HA05gcx2cAEoAA+NJcpdMZI63rzYlSeVNpRprJ7ikLaTebokMgjzqTdnc4/pppDzIZf9OE0akIxTZ1MnLlCqXFRLxdljPIi7Z2KON4xmPbCsNTbau1gVoW60ZJjVMA2wvAFFdLPqWxkFZldpOZPr9NRN3diE2MWq6nU4XFknQvX/As1FrPK3nRWS3RpbS6VzJ8i59Mnm/rVBepiGpcF5hTsCzFfo9e9B2f86kiWgO1GkOreV0bDXiZJXKazzhTYBY1Wn6hi/oSl4g==;RdKuELtkw54slO610gcsTg=="
 ---
