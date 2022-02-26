@@ -453,6 +453,41 @@
       ]
     },
     {
+      "path": "_news/2022-02-16-ibm-watson-could-revolutionize-healthcare.md",
+      "title": "IBM Watson Could Revolutionize Healthcare",
+      "excerpt": "If you’ve been watching Jeopardy! over the past couple days, you probably know that IBM’s highly-advanced artificial intelligence software, Watson, has been competing against Jeopardy!’",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
+      "originalUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-jaic-piloting-artificial-intelligence-education-for-dod.md",
       "title": "JAIC piloting artificial intelligence education for DOD",
       "excerpt": "The Department of Defense’s Joint Artificial Intelligence Center recently launched new AI education pilots for thousands of DOD employees that range from executive education for general officers to in-depth coding bootcamps. The most recent cohort of ...",
@@ -1301,49 +1336,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-leveraging-artificial-intelligence-ai-in-egypt-collaboration-for-improved-breast-cancer-outcomes.md",
-      "title": "Leveraging Artificial Intelligence (AI) in Egypt: Collaboration for Improved Breast Cancer Outcomes",
-      "excerpt": "Most recently, this includes a collaborative program with GE Healthcare that builds on GE Healthcare's experience in women's health, artificial intelligence (AI) and contrast-enhanced spectral ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes",
-      "originalUrl": "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?970859",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

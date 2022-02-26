@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-24-andy-warhol-reads-his-diaries-as-an-ai-in-netflix-doc-series-trailer.md",
+      "title": "Andy Warhol 'reads' his diaries as an AI in Netflix doc series trailer",
+      "excerpt": "One of the most famous yet enigmatic artists of the 20th century, Andy Warhol has continued to perplex the world long after his death in 1987. But a new Netflix series will attempt to decipher the artist's own writings in his own voice — well,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/andy-warhol-netflix",
+      "originalUrl": "https://mashable.com/video/andy-warhol-netflix",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/00qSt2Rcnd0zmLokKCHD9ZR/hero-image.fill.size_1200x675.v1645636459.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-meta-announces-plans-to-build-an-ai-powered-universal-speech-translator.md",
       "title": "Meta announces plans to build an AI-powered ‘universal speech translator’",
       "excerpt": "Meta, the owner of Facebook, Instagram, and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” The project was announced as part of an event focusing on the broad range of ...",
@@ -1170,48 +1212,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-artificial-intelligence-ai-future-of-neurosurgery.md",
-      "title": "Artificial Intelligence (AI) — Future of Neurosurgery?",
-      "excerpt": "Technical performance and learning outcomes during simulated brain tumor removal may be enhanced by artificial intelligence (AI) as per a study at the Neurosurgical Simulation and Artificial Intelligence Learning Centre at The Neuro (Montreal Neurological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-provides-clearer-mir-scans.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
-      "publishedDateTime": "2022-02-22T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

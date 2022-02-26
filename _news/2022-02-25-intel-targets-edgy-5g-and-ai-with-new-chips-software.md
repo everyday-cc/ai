@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Intel-expands-AI-developer-toolkit-01.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Intel’s chip making plans an own goal"
-    excerpt: "Wall Street thinks that AMD will win The cocaine nose jobs of Wall Street think Intel’s chip making plans to meet rising demand will give AMD a greater foothold in the segment. Intel, which plans large investments in chip technologies in the next four years,"
-    publishedDateTime: 2022-02-21T11:25:00Z
-    webUrl: "https://www.fudzilla.com/news/54412-intel-s-chip-making-plans-an-own-goal"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/91ae5319373c72cc0d6019e16b21b029_L.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "Intel updates AI developer toolkit OpenVINO for higher inferencing performance"
     excerpt: "Intel has updated its OpenVINO toolkit to bring expanded natural language processing (NLP) support, added device portability on your hardware, and higher inferencing performance. The tool is used to develop applications and solutions to tackle a range of tasks including emulation of human vision,"

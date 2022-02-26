@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-23T00:02:00Z
-originalUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-23T00:06:00Z
+originalUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: KJRH
-  domain: kjrh.com
+  name: KERO-TV
+  domain: turnto23.com
 
 topics:
   - Computer Vision
@@ -373,6 +373,6 @@ related:
         height: 810
         isCached: true
 
-secured: "RWX7p7VbVquuMZgW8o4WV70enMfoupYKd62uayirmIHpbHlC3ADHj0UcMUPr477JHCDLkknapqQAS01fB7QaKAjeOCb+9nFvSGmrbOVI03d+3qcMs5CzBxTAfz98nFbNRs+3y4hUlqTTJ2YOPpPA3AGM/oF6TRj9GJz/nw2XwDfTxLKVSSMq4RZttjYh0hZhJVEYddC/+7SmGZ5vooQlnwOjOUEywTuzLaFipQUzvAmUovEBAXHQZEANolREU9g3+cRS7+pVFPezOsp0fk8I3nGGts6MMXgHXZalcv0UcOVtdo0TDqgpcqnc5lMBpL02VSd+EnXei0xvPGAZx+Yku0vgVfeakgYIsNBC0OnFVr4=;UwZNUpsBxg6w8QYoOCLs1Q=="
+secured: "OBX6d3Sg+/vcwsTx3kyFI8aiAWdJESP+J9xgIwo8T0NExZw0u4YSB2Gp0Daq5WqJaMqkDDIEWyvtlht/15u8uX37tMRq4yC1V46EPd96cD74e3kBlv85VgkY4G+s6g+5c5jG+KhCQWioV2OS8aEqgCk9T7nQLGpaHwQwhmyli4qjqWKz0B2WR0XOle5c9y08OhnhSGgSGEMx3UmUUZQabhlPX1qZVatzRE2MJmRnY9TDy848A1IxGpyrTAnkcptS1Ac9sMVX5CQidi4F7PY1xfqsTLN9CqG35xcJjuqI0oy9g69VMNUmdrUeJGBrYIVqvkLdEAxipsWAKlS20qlfb9VejNmc22dQxoDZZKmwlmA=;tXwS926hHS6ewLwhTZcQZw=="
 ---
 

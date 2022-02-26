@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Intel’s chip making plans an own goal"
-    excerpt: "Wall Street thinks that AMD will win The cocaine nose jobs of Wall Street think Intel’s chip making plans to meet rising demand will give AMD a greater foothold in the segment. Intel, which plans large investments in chip technologies in the next four years,"
-    publishedDateTime: 2022-02-21T11:25:00Z
-    webUrl: "https://www.fudzilla.com/news/54412-intel-s-chip-making-plans-an-own-goal"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/91ae5319373c72cc0d6019e16b21b029_L.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "ZgmkWBtXrZ0ZkFEAVZtgrXVlcH4jY9aOHErfwjSocJUZE8XqQKC0OUoi5n4O5lb0zyKM+9qu32LnWUOSPXkBL7CcPqZwbUPrqudP82nB7OgtRatWzUgVIGKVKuE0cqG6LV8N+adLzLM3fAw3MT000eSBHVRZyYoaYExAcDjBLgEAYNe1Uvv8tYnhXmgtCjYrmusU0sqOtfd708BhiKAC5jc8DFavYkxZCfKOKJ6hjlrAaJQ78RlQQlLH5gv+4SovAfhlSJFmk5TeAmr4Q/6gB3tjH10CGjE68a3iCkgutntMIAquTH+ftiPnRKXsVNCpn4SKbjkba5dAT9+9onSmbUvlykEEjVqca3I9H2zutFE=;e2IJnRlAgB5I+jGVahKHDg=="
 ---
