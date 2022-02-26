@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://today.rowan.edu/news/2022/02/images/meet-ghulam-rasool.jpg"
         width: 600
         height: 314
-        isCached: true
-  - title: "Best Institutes To Study AI In New York, 2022"
-    excerpt: "Artificial Intelligence is the ultimate buzzword that is ruling the roost. The tech trend is most in-demand and one of the top skills that recruiters today are seeking. For many of us, the term AI stirs up an image that is dominated by robots."
-    publishedDateTime: 2022-02-21T09:59:00Z
-    webUrl: "https://ceoworld.biz/2022/02/21/best-institutes-to-study-ai-in-new-york-2022/"
-    type: article
-    provider:
-      name: CEOWORLD magazine
-      domain: ceoworld.biz
-    quality: 37
-    images:
-      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2021/12/Best-Institutes-To-Study-AI-In-New-York.jpg"
-        width: 970
-        height: 647
         isCached: true
 
 secured: "wNzpQ6ZmK/LDgP8ztafdfPbAYEoxghzxvfqNEeSgdlg72Ur7dozPlsAqafyQiqjDdMR/q7EHxFGxAJhjJThTvdCmv7it/LFpPymsESJwYei4xBbmBlIXTFbroejgK+Ibstiwx7xfihkv8ageKjSYo4jls7AYvBsB4jiPfVrZghobwGUpfjHvw9MP4UcNVdRNZCNFbpfVb6e58Ww53jiNEuQnDv5OYtfFOS5BvAgvlG0oGwdGbdEwenQwJvCD0qdTM3tDPtu8oHOm72qCwdfVaavx1JTKLErdrAzFkdAV0LipzeruWSllPQwvvoxCMSZtiUdKJMoDGLc6Y5a2U+jXLaYMJLaoo1nStKUE7/H/qROmvmkRZuDQ57mhO+yPBWAM85zbrbXFbP2x1zKvKoO63JLkQ1wC7wRXYy4QaJzybHcS+f/Rb/NbxZv+PyTGEgkVTGGegpFvG1BIde9a7TumkQEgcnZoOQRwfsu++JzoZNSlLKz1L3cWrXFspcOJ6CaI4jiw0SSFIXE22LbRWMgdNw==;beMh8o1CicIz+rRUnTW+dQ=="

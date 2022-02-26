@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Can machine-learning models overcome biased datasets?"
-excerpt: "Artificial intelligence systems may be able to complete tasks quickly, but that doesn't mean they always do so fairly. If the datasets used to train machine-learning models contain biased data, it is likely the system could exhibit that same bias when it makes decisions in practice."
+excerpt: "They used an approach from neuroscience to study how training data affects whether an artificial neural network can learn to recognize objects it has not seen before. A neural network is a machine ..."
 publishedDateTime: 2022-02-21T16:00:00Z
-originalUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
-webUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
-ampWebUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
+originalUrl: "https://www.eurekalert.org/news-releases/943925"
+webUrl: "https://www.eurekalert.org/news-releases/943925"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
-
-secured: "wCMbNvMR1DyXh1BJHLJtRym/4cfkEpEM8EAL5zkpOgK5ASIVKzz50bPGqeGKro+XGYOLkxXJ6JYwjq2Mvm3DTxybOx8u8eucU1d2POAscRQcPauJBPM5s8iCscumjPnvUUQudO999jRNlwG1QaS6IcUfMqB1UiCJ/SxG/A0taZ07/O7iUK+J22QXas1tOtFa3x2vtglrvBz01RICOpN1qygyAL1QqNTjXaW/QZaior8VYo3K6+aXe6eg1hXlTYyYtaUKAnI0WZpvkWJY6ivDggLsURCX6h0OysevlZ9Xu2lRQg810kie1mpQzp2FdxBMwFHS28ez13aLoi5T6lu+O2ABX/6v8c2iAS4Cmp9MbfM=;B2w6iQWSB6I2O2JWTFFYhQ=="
+secured: "p+eVZf34HaA90CzmN4KTqaNSflOGjH6t2C5MWszC4YgatknVi9YOJSuu5rJu+5115ysMVeKMB82tUgXuyVj6ILID1qA/37GpJSglHdRMLjfXE1LoFUeDQO7ZQpatcDiy/h9PGexQmv3VgTBWhZF0PJ7jQ2jwasg6T5+ikqv8utGep9CyD3mmBxyI2GUj9r1MK1u7sU+KrWQ5OumJoa0OrPcgZMiemYTi4mUIgutzlYvbZjMnsAst5w/I1aw6NAmgzYtJ2Q5fuFBnBCKlfPS7Pqe5XO1+8Xwiq8r3kiWmi2oxJpIHA9SihufvJ4tg5ndB1R1728aiXmucyO6s1HUeCkiYZxeHRtVdwyMO9oWB5n0=;n1eaSXKadWQwb/v9lgychg=="
 ---
 

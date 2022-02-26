@@ -130,20 +130,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Best Institutes To Study AI In New York, 2022"
-    excerpt: "Artificial Intelligence is the ultimate buzzword that is ruling the roost. The tech trend is most in-demand and one of the top skills that recruiters today are seeking. For many of us, the term AI stirs up an image that is dominated by robots."
-    publishedDateTime: 2022-02-21T09:59:00Z
-    webUrl: "https://ceoworld.biz/2022/02/21/best-institutes-to-study-ai-in-new-york-2022/"
-    type: article
-    provider:
-      name: CEOWORLD magazine
-      domain: ceoworld.biz
-    quality: 37
-    images:
-      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2021/12/Best-Institutes-To-Study-AI-In-New-York.jpg"
-        width: 970
-        height: 647
-        isCached: true
 
 secured: "5ATGOeB28jaHNH/ysXRula55T+wpXYYtozV0dIHrG1dflLc2Wj0ASvGR7AtJhHuVktyeMneYyip1eFSNWrcebj23atxS3jD75zFu96Z4tQ0PCEcrIL0kJTo3FxFTONiYgt+ghVFV86D4zZU26ucmkysNqbt6ng71ePs5ZbMk3jow7IF+sNw4nGBLY6L1YfSJsPTMktBzvfrZRxZKKjr8rk3ucskESdGKpqn40u4loAqmSoFUetgq7U4o072qap4HjPo7OR3mg4iT4HjKnL8tQpdZBQz7VtFkV0FurhPxxWXuast0pDUVJmqfYzSCSFJnOzMpvEeV1PblDNI01LaNdtmmdRuYEhDYYfBxVeMvyEp2Aybhq+4z+up2HotPlsssBhhNaFDTg9vYBqq3eCGqWVVgULHxF1pxExF+C/Qr/5BpVlCgUc82RkCGr5uAuGbxID/va1+b8x+UbBjemB+eInMxtlkVLxALKqqIBiP+o6toSATO4ySwDxW8QBNhvUgsLf5YwyxfR7lnnw5/mhht8A==;gpImpB0e2jVwkb7M1UxKxQ=="
 ---

@@ -89,22 +89,6 @@ related:
         width: 980
         height: 653
         isCached: true
-  - title: "The Metaverse is going to be Built by Meta’s AI Supercomputer to ‘Pave the Way’"
-    excerpt: "Titan social media firm Meta (previously Facebook) has revealed its plans to construct a powerful AI supercomputer, called the AI Research SuperCluster (RSC)"
-    publishedDateTime: 2022-02-21T10:14:00Z
-    webUrl: "https://www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/"
-    ampWebUrl: "https://www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-dmcnews-org.cdn.ampproject.org/c/s/www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/amp/"
-    type: article
-    provider:
-      name: dmcnews
-      domain: dmcnews.org
-    quality: 55
-    images:
-      - url: "https://www.dmcnews.org/wp-content/uploads/2022/02/1643842802_adobestock-ink-drop-1-1.jpg.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook Wants to Finish Your Sentences in The Metaverse"
     excerpt: "This is the tech giant's latest effort to build its conversational AI capabilities to deliver better dialogue in the so-called metaverse or the immersive internet. The Facebook parent wants to create nuanced virtual worlds using voice."
     publishedDateTime: 2022-02-23T23:38:00Z

@@ -61,15 +61,15 @@ related:
         height: 550
         isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
-    excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services."
-    publishedDateTime: 2022-02-22T21:06:00Z
-    webUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
+    publishedDateTime: 2022-02-23T00:02:00Z
+    webUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: KJRH
+      domain: kjrh.com
     quality: 76
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
@@ -240,20 +240,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/65ed04f/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F99%2Fee%2F70e57ea596472533b739cecaf122%2Firs1.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "IRS: Online account signups available without facial recognition"
-    excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
-    publishedDateTime: 2022-02-21T10:48:00Z
-    webUrl: "https://hayspost.com/posts/73771131-c396-4875-ad1a-bab10b42b8cd"
-    type: article
-    provider:
-      name: Hays Post
-      domain: hayspost.com
-    quality: 54
-    images:
-      - url: "https://media.eaglewebservices.com/public/2022/2/1645462219361.png"
-        width: 640
-        height: 676
         isCached: true
   - title: "IRS lets taxpayers opt out of facial recognition"
     excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."

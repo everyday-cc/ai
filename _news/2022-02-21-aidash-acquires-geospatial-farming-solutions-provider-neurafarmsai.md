@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesstoday.in/amp/entrepreneurship/news/story/aidash-
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/entrepreneurship/news/story/aidash-acquires-geospatial-farming-solutions-provider-neurafarmsai-323332-2022-02-21"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AiDash Acquires Geospatial Firm Neurafarms.ai At An Undisclosed Amount"
-    excerpt: "It has not been easy for students... AiDash on Monday announced the acquisition of geospatial and AI (Artificial Intelligence) powered farming solutions provider Neurafarms.ai. With the acquisition of Neurafarms.ai, AiDash strengthens its product line and ..."
-    publishedDateTime: 2022-02-21T10:00:00Z
-    webUrl: "https://www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353"
-    ampWebUrl: "https://www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/aidash-acquires-geospatial-firm-neurafarms-ai-at-an-undisclosed-amount-news-183353/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 57
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645436570.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "TT8zBFQZ8q0MRRJSpSiwKcoRsVjhfirkl+A+Bl1kjlhu6yiJkNVACOYCrLhHheFO/st/WTb5aQBcuGdKsZZGvaFc3O7IuCBWoEoRbIhAIwfhy4XQP0jneEzEjDxUK7NGUU7WgJgVHMOyZvCPjUDFc1uivdbEfIpwzO2+/BkifMNLL4vj9iNGQpWBciiaINDzaYKg12Oz15Dx+eDyvA5SXutXxprsqDrvYg81eycG8Ke/jtZ+iRvgY7R/0vPjl7CT2FcCG5i8zwLsm3ZAOtEXBYfAjuNRY1eS9L5S+DiQoYGIkI+AbUgbmhZHN7CjNxKi07EyCGxcd/Uy6BEdX1u9CShEGSp3G+tqoy7ZhhLjD2E=;ZoCyL1WXt9J8RYUc2uqCHg=="
 ---

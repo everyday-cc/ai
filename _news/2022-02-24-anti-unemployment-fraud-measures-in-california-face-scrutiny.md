@@ -63,17 +63,6 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 30
-  - title: "California used facial recognition software to combat insurance fraud. Is it time to scrap it?"
-    excerpt: "Gavin Newsom as a crucial tool in combating unemployment insurance fraud, and the system was credited with being a huge help in doing just that. But now, California’s nonpartisan Legislative Analyst’s Office is urging lawmakers to take another look at ID."
-    publishedDateTime: 2022-02-21T11:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258551458.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258551458.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258551458.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 27
 
 secured: "2zw26/FP7kv2sLiZtBrmQiZtJf/70e7qolJjQ6UeuEEM6nzAKLUO6XkOnv3il4xha3fbmqbsp46Jgx2dh/5dHYF5MgF+N/NcfaVY2faB4zs/Ejtr/QtYXHvMuHy7g8D2NCxDFQKXAtbvLOcqiC+/sljtuBOmNj2t+vrNVsMGj6WwEO16b58ivYMwltDW5IXWLzF3zLrVGFcjytetXlKnV1CkVgHJ6GL9TmYkdW0ucKUsYVp0MeNYsAoWC9gGaw84wSmMyvnpQT2wj6hV+R1LxF5TPWPTU6Vp/EJAVy0D8n94z4YoRWmx9JbNlOTfkNdE69Yxo1i0ZznXhFCDWJTCzPbUJCWIPVM3RkKnkzXQfjU=;PsDR1+vltNRQ+sN33DynbA=="
 ---

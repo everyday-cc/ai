@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robotics Market is likely to expand at a steady CAGR of 15.60% within the forecast period from 2017 to 2026"
-    excerpt: "In upcoming years, the global mobile robotics market is prognosticated to show an intense competition among the players. The journey of market"
-    publishedDateTime: 2022-02-21T09:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robotics-market-is-likely-to-expand-at-a-steady-cagr-of-15-60-within-the-forecast-period-from-2017-to-2026"
+  - title: "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners"
+    excerpt: "and Face PHI are among the key players profiled during the facial recognition market study. In addition, several other essential market players were studied and analyzed to get a holistic view of the global market and its ecosystem. Inquiry Before Buying ..."
+    publishedDateTime: 2022-02-25T12:58:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-/article_372e9b79-415f-5c7a-b5bf-fe45a137fa32.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/52597e64d073de5ea911f3889c7623d5198f8970-600x337.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
-        height: 337
-        isCached: true
-  - title: "Global Self-driving Cars Market Forecast to Reach 62.4 Million Units by 2030, at a CAGR of 13.3%."
-    excerpt: "Dublin, Feb. 22, 2022 (GLOBE NEWSWIRE) -- The \"Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle, Level of Autonomy, Mobility Type, EV and Region - Global Forecast to 2030\" report has been added to ResearchAndMarkets ..."
-    publishedDateTime: 2022-02-22T08:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/02/g25743315/global-self-driving-cars-market-forecast-to-reach-62-4-million-units-by-2030-at-a-cagr-of-13-3"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25743315"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25743315"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-    images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+        height: 338
         isCached: true
 
-secured: "DhJAYc5hJPNXs5BR/SAelqVS74Nz3TwKC45JNvEegoZLkqFQ/nmoxE09spKCBgCiG6E0jq+lQbCMt1GyJwXM0+uAxG7Za/CzViO31n3HYpyuyIxBwWM4evmv+p5qYs/A8s0NNyuknFwLU+4XNzDrBxoMqVqpF/EtNDhlBy6zYKfUDjwlbnNEGyhKlKhmerW/0+nUOlSVbtuzRQJ5XYt8Z3UrVqCVXFkRmMHwQA2wnwKSf2Fdl0/JCDAFCkkhBbPvAfaIyW6dCE8JNVZCpSVirFJaZ9SYYz085Lxaw3+mqyCO+HQNmzZA0SMLtk8MEG7v7D0dD+5SIMtnf/l9XQp6iHrxEy+W/0wYSumETYPtBng=;wCtLHxmU1f7oSB6IpL+Yvw=="
+secured: "WcgdVT/kTBvbZc5FLWnIrVzH37xfa+s0bviCIyWrM0RHzGn7bzfzpmMNYkpWdKZY+ev5iUx09+QBGamNqJDrdVJ4H5pnOuaII2ae5ebz160as/fh1n9McqNggsTTAuuKRDqNdUYG5WE6EF/Ml/T9agMER1jm7i8RBmMJmcmRKIkCVYOP6xDbd472Pa6tMk+Gwgz0NoL9FSTjS6l2mhgqSJbKkAnbOJm85h2gT+ZwYRgHE5dKg2EmHE8Zumk0iwKr1TVZcigD3W+pN8gQV9QHqdVe7W91375exPmLt1fC4CnCi7MyDZlH8rehZza0ivyy8hvecf/t4GZJ6S0SEBbEIMky7WNx7wTzfA8Fow1m2uLY+ERqlCBO2BVgPbuM5KIIPAUi/Qe+FtXHvY6TVQMmDSTNood8SMXu3yhNDuU2WhQHPKtGQZN/0P6g1D1CR7Tz8Nj0vkRI2K33eemD28VcaTk0FS2D7CW9F+iaXC/D/fsc3vGPj5vkKWPWeOKK6sF4z/ILOXKNC8dKHTBGV+jPXQ==;mrbImmfzEYGqDu2Yndqizw=="
 ---
 

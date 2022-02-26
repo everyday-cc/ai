@@ -166,7 +166,7 @@
       "originalUrl": "https://www.benzinga.com/fintech/22/02/25815021/2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -187,6 +187,40 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services.md",
+      "title": "SoFi Stock Offers a Fintech Play in the Disruption of Financial Services",
+      "excerpt": "SoFi Technologies (NASDAQ:SOFI) offers a wide range of financial services to students, recent graduates, and anyone looking for an easy way to get the money they need. Many companies have been using disruptive technologies to disrupt their industries and make them more efficient in recent years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services",
+      "originalUrl": "https://www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services?amp",
+      "publishedDateTime": "2022-02-24T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -261,7 +295,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/420077",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1360,49 +1394,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-deepbrain-ai-introduces-ai-technology-at-kb-kookmin-bank.md",
-      "title": "DeepBrain AI introduces AI technology at KB Kookmin Bank",
-      "excerpt": "DeepBrain AI has created an AI banker that provides information on financial products, branch information, weather and instructions using banking devices",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/deepbrain-ai-introduces-ai-technology-at-kb-kookmin-bank",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/deepbrain-ai-introduces-ai-technology-at-kb-kookmin-bank",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/668/abc785f6233fa6a348f2db9ed8911530:0e9533c86b7408ef34ceb543ad693c4b/ai-banker-in-a-kiosk.jpg.jpg",
-          "width": 668,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

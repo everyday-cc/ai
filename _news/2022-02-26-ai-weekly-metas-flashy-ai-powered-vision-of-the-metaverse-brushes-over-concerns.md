@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Image-Meta?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/32185dd1-ac1d-5a7b-a004-d431e08d4804&operation=CROP&offset=127x16&resize=1804x1015"
         width: 650
         height: 366
-        isCached: true
-  - title: "The Metaverse is going to be Built by Meta’s AI Supercomputer to ‘Pave the Way’"
-    excerpt: "Titan social media firm Meta (previously Facebook) has revealed its plans to construct a powerful AI supercomputer, called the AI Research SuperCluster (RSC)"
-    publishedDateTime: 2022-02-21T10:14:00Z
-    webUrl: "https://www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/"
-    ampWebUrl: "https://www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-dmcnews-org.cdn.ampproject.org/c/s/www.dmcnews.org/nft-gaming/1080/metas-ai-supercomputer-to-pave-the-way-towards-building-the-metaverse/amp/"
-    type: article
-    provider:
-      name: dmcnews
-      domain: dmcnews.org
-    quality: 55
-    images:
-      - url: "https://www.dmcnews.org/wp-content/uploads/2022/02/1643842802_adobestock-ink-drop-1-1.jpg.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facebook Wants to Finish Your Sentences in The Metaverse"
     excerpt: "This is the tech giant's latest effort to build its conversational AI capabilities to deliver better dialogue in the so-called metaverse or the immersive internet. The Facebook parent wants to create nuanced virtual worlds using voice."

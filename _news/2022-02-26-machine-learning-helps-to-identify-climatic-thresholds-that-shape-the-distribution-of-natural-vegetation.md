@@ -39,6 +39,15 @@ related:
         width: 2000
         height: 1413
         isCached: true
+  - title: "Deep neural network to find hidden turbulent motion on the sun"
+    excerpt: "Scientists developed a neural network deep learning technique to extract hidden turbulent motion information from observations of the Sun. Tests on three different sets of simulation data showed that it is possible to infer the horizontal motion from data for the temperature and vertical motion."
+    publishedDateTime: 2022-02-25T17:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220225100237.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine learning helps identify climatic thresholds that shape the distribution of natural vegetation"
     excerpt: "Changing climate brings more frequent and more intense climatic extreme events. It is unclear, however, exactly how climate extremes will affect vegetation distribution in the future. This is an acute question for research in order to be able to mitigate coming extremities and their impact on vegetation."
     publishedDateTime: 2022-02-25T14:40:00Z

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
-excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services."
-publishedDateTime: 2022-02-22T21:06:00Z
-originalUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
+publishedDateTime: 2022-02-23T00:02:00Z
+originalUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: KJRH
+  domain: kjrh.com
 
 topics:
   - Computer Vision
@@ -225,20 +225,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "IRS: Online account signups available without facial recognition"
-    excerpt: "The IRS announced today that a new option in the agency’s authentication system is now available for taxpayers to sign up for IRS online accounts without the use of any biometric data, including facial recognition."
-    publishedDateTime: 2022-02-21T10:48:00Z
-    webUrl: "https://hayspost.com/posts/73771131-c396-4875-ad1a-bab10b42b8cd"
-    type: article
-    provider:
-      name: Hays Post
-      domain: hayspost.com
-    quality: 54
-    images:
-      - url: "https://media.eaglewebservices.com/public/2022/2/1645462219361.png"
-        width: 640
-        height: 676
-        isCached: true
   - title: "US facial recognition company building a database of 100 million phizzogs – that’s 14 per person on the planet"
     excerpt: "Slide deck punting for an additional US$50 in investment million reveals the reach and ambition of Clearview AIA database so huge and intrusive that even"
     publishedDateTime: 2022-02-21T16:07:00Z
@@ -387,6 +373,6 @@ related:
         height: 810
         isCached: true
 
-secured: "l6NhwptfP0qH+nORPStvbx8xgqvN0DQk/Vt68rBtEozqM9eoMKXzQeolP7SJvJetnWjfhOUv2hIpJzXIMsC0vKo41rrt4np8zPUB4F4SBD5f5tyQmklfbo/jbCiwtYjN9dvz6H8AYWW89QGTXzdztk+pbfLgtXCAp1r79YosJZzYaDqKq7Mz6/VGQSHComkzgTUaj79EeO9hWB5Jx3Zj6HCO7DDLWxIxRQ7H5N4mazYznxKvt4pvnO1PsNevcc0WS3Gc6pthW6I5hFLkO9jkEZ3xkxMlHOSjd4nY9thC1cPNyZiI8MSbdAN0vSYmPnLVOSqGiKnbVVjt21H/htZXeP1K24zIsdORDj9mLH8GD3+Xu5x+hGt4PQe2YAcycdRXsyift9W01VwI3IyzGIxIcuQ85FNP5CAZ1uxcyzU+0ieiZHyPA9jKmGKIAJ2AIfBIPMyrQPGLjaRIT7CQEgCahqaxRx1/+/HgopLVBTKYvOPFhMqW0Q2lGo3WffUpQRPOeJfO5aQV+PG6NFNEFj1VDA==;ZTDB2xskBjsGN3jFSA6QGA=="
+secured: "RWX7p7VbVquuMZgW8o4WV70enMfoupYKd62uayirmIHpbHlC3ADHj0UcMUPr477JHCDLkknapqQAS01fB7QaKAjeOCb+9nFvSGmrbOVI03d+3qcMs5CzBxTAfz98nFbNRs+3y4hUlqTTJ2YOPpPA3AGM/oF6TRj9GJz/nw2XwDfTxLKVSSMq4RZttjYh0hZhJVEYddC/+7SmGZ5vooQlnwOjOUEywTuzLaFipQUzvAmUovEBAXHQZEANolREU9g3+cRS7+pVFPezOsp0fk8I3nGGts6MMXgHXZalcv0UcOVtdo0TDqgpcqnc5lMBpL02VSd+EnXei0xvPGAZx+Yku0vgVfeakgYIsNBC0OnFVr4=;UwZNUpsBxg6w8QYoOCLs1Q=="
 ---
 

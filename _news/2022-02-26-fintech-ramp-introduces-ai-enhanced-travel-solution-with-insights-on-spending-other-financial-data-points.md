@@ -85,20 +85,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "4 ways fintech can halt environmental degradation"
-    excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"
-    publishedDateTime: 2022-02-21T09:11:00Z
-    webUrl: "https://www.finextra.com/the-long-read/348/4-ways-fintech-can-halt-environmental-degradation"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/348.png"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Top Trends to Witness in the Fintech Sector in 2022"
     excerpt: "AI increases employee productivity by 59% in the banking sector. It has reduced loan defaults and has made transactions safer, all for a better customer experience. By 2030, banks will be able to reduce costs by 22% saving nearly 1 trillion. Many fintech ..."
     publishedDateTime: 2022-02-24T09:54:00Z

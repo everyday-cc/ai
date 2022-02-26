@@ -99,20 +99,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "4 ways fintech can halt environmental degradation"
-    excerpt: "Given the new innovations emerging – such as Light Detection and Ranging (LIDAR), satellite imaging, cutting-edge data science techniques, artificial intelligence (AI), distributed ledger technology (DLT),"
-    publishedDateTime: 2022-02-21T09:11:00Z
-    webUrl: "https://www.finextra.com/the-long-read/348/4-ways-fintech-can-halt-environmental-degradation"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/348.png"
-        width: 800
-        height: 449
-        isCached: true
 
 secured: "cp9ilHPQFS2/QKmqyPQOH4OeiAWjRjArgTz6KqNErYyZKvd/ggaugZyboNd4gexRYmwYqJvYo1DtHlN1GIIrQQimfSUjeIuVfJgfvsTrJas4UVQv6eSygkn/pKExng8QK3OU2jV8yN8RXHlGU6ibppCtZLnogxi+HZcHbbhfinAExiT/0lK3W+mLuEfpfNYjVt0PoQMSyGGyDUQe8i7G6g7QJxA8iL6Fo7PoP4sr+3rTkqMusZWAU0hvGky6HpSQ7aLE6fnCxM/mYdKjPw4Yv+qDZQY9YsVc2Gj6ovLWKNMaumV0APNy/KysD/7jy+IwKBTRgyPSVBefaWubv86Hmui70Enq5s43GrWIFKdkIK1YCvql8G1oxS1VdmjLq3b3uL8m5u5id4E4X/VoaBVPz13le2/IHXa7jmRW7nDB4mDqzvEtCyeLVAGxvyv5Xfq5/IpNghasJXg7+oBpaaOllVLNQACdg/hKE0DOrPZQGqe/3h/2Fz38zkkwZrzVHOxTgII4B/OTY/zYnB2hfvCOSg==;MjilyiunR4W1me9Q2rqPmg=="
 ---
