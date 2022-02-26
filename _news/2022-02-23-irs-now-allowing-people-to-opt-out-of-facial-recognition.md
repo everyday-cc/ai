@@ -43,20 +43,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "IRS says you can now create account without submitting to facial recognition"
-    excerpt: "The IRS's use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
-    publishedDateTime: 2022-02-21T21:59:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-promises-deletion-of-taxpayer-selfies-as-it-drops-facial-recognition-mandate/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 66
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-phone-face-scan-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "IRS allowing people to opt-out of facial recognition"
     excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
     publishedDateTime: 2022-02-22T18:36:00Z

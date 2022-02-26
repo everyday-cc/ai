@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-can-help-pre
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-can-help-predict-severe-covid-19"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Covid-19 is catalyst to securing DMU student's future"
-    excerpt: "Romans’ role involves utilising artificial intelligence (AI), specifically object recognition, to help clients become more effective and efficient in their processes. “I’m involved in everything end-to-end, from talking with clients about what they ..."
-    publishedDateTime: 2022-02-22T08:39:00Z
-    webUrl: "https://www.dmu.ac.uk/about-dmu/news/2022/february/covid-19-is-catalyst-to-securing-dmu-student's-future.aspx"
+  - title: "The Pentagon is working on an algorithm to detect Covid early"
+    excerpt: "What if a fitness tracker could predict that the wearer was Covid-positive hours or even days before they start noticing symptoms? To answer the question, the Pentagon ... work to advance the ..."
+    publishedDateTime: 2022-02-23T21:42:00Z
+    webUrl: "https://www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099"
+    ampWebUrl: "https://www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099?_amp=true"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099?_amp=true"
     type: article
     provider:
-      name: dmu.ac.uk
-      domain: dmu.ac.uk
-    quality: 24
+      name: Politico
+      domain: politico.com
+    quality: 142
     images:
-      - url: "https://www.dmu.ac.uk/webimages/About-DMU-images/News-images/2022/February/RomansKononovs-thumb.jpg"
-        width: 600
-        height: 472
+      - url: "https://static.politico.com/dims4/default/47777fa/2147483647/strip/true/crop/1160x773+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F50%2F45%2Fe6a932cb4b348a3d7f2eea7bb078%2F220223-garminwatch-getty-773.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection"
     excerpt: "A critical step in the fight against COVID-19, which continues to have a catastrophic impact on peoples lives, is the effective screening of patients presented in the clinics with severe COVID-19 symptoms."

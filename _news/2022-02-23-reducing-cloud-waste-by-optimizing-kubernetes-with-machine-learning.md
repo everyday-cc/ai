@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/reducing-cloud-waste-by-opt
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 821
     isCached: true
-
-related:
-  - title: "Demand for Deep Learning Growing due to Rising Adoption of Cloud Computing"
-    excerpt: "Owing to this, the use of deep learning technology has also increased significantly. The architecture of cloud computing supports scalability and virtualization, along with offering storage for a ..."
-    publishedDateTime: 2022-02-21T21:54:00Z
-    webUrl: "https://menafn.com/1103735988/Demand-for-Deep-Learning-Growing-due-to-Rising-Adoption-of-Cloud-Computing"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/21/pr_11875_005bf647_image_story.jpg"
-        width: 900
-        height: 522
-        isCached: true
 
 secured: "787nEYffAfRJRalQNafCRx3ovU0siVFEjQNfLKBw2qv6QzZKaDGCrbwSuVCFhMve6Bao44HPNlCO5mq7aKirmWGtgPQyRXHRSA8QBJNfwn4LVEukg4EYz+Ze9PpQl/QJ5A902DBdL+xwosxIYr5UUDHtJ4LZh+Xob4EUA+6zMKWzgOwgeK+2SA0iylyTVvlCwKcy9xZd9bqmf8J/yyGLris2bYO+cbL4hg6FPq7kP0UCIbfFu4dRqLHm1xSoEzbS64cJ3Ift2+cSXvR7f9IQ2wt+ZLfvpDFpFvZJdesUAsVXjZZxsa9CWp2eIUup6icJs4THeEUVtip8G8/LHYBHZ7qOoH5zxZUclf2zYYTZzmw=;U1pP9UNYErdaT78i8varwQ=="
 ---

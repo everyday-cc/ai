@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "US to impose sanctions on breakaway Ukraine regions after Putin recognition"
-    excerpt: "Biden summons top national security officials as European leaders condemn Russia’s move"
-    publishedDateTime: 2022-02-21T21:36:00Z
-    webUrl: "https://www.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/feb/21/putin-eastern-europe-donetsk-luhansk-reaction"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/229a239d4c60de9e183dab34a3392c1eeb7503be/0_110_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=83dafbca43466ad127ce528aaa2e5a14"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Russia’s Recognition Of Ukrainian Republics Reverberates Around The Region"
     excerpt: "Russia’s formal recognition of eastern Ukraine’s two ... using their Russian acronyms) in a late-night speech at the Kremlin on February 21. The news reverberated heavily in the Caucasus ..."
     publishedDateTime: 2022-02-22T17:00:00Z
@@ -150,20 +134,6 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/22/md_protestukraine_22022022.jpg?VersionId=NvQ9yU0rzGuR4B.NXWF3c9yMAX9ABn58"
         width: 780
         height: 520
-        isCached: true
-  - title: "US 'strongly' condemns Russian recognition of Ukraine's breakaway regions"
-    excerpt: "Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen dramatically in ..."
-    publishedDateTime: 2022-02-21T22:53:00Z
-    webUrl: "https://www.aa.com.tr/en/americas/us-strongly-condemns-russian-recognition-of-ukraines-breakaway-regions/2509375"
-    type: article
-    provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 38
-    images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_fccacec837bc06a71f0a8c3430c57639.jpg?v=015115"
-        width: 864
-        height: 486
         isCached: true
   - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
     excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."

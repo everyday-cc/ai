@@ -41,6 +41,22 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "Meta plans to develop AI translator capable of translating 100s of languages"
+    excerpt: "CEO of Meta, Mark Zuckerberg announced the firm is working on building an AI-focused universal instantaneous speech translator that is capable of translating 100s of languages."
+    publishedDateTime: 2022-02-26T13:07:00Z
+    webUrl: "https://interestingengineering.com/meta-ai-translator-languages"
+    ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jg6Pkdb3Gx/sizes/markzuckerberg_resize_md.jpg"
+        width: 744
+        height: 418
+        isCached: true
 
 secured: "7W+BmWfkp5UzZmT556z/1BAXK5kX4H3kYi4tX6hQmSqWNwRAZ9hr5WNOwPzsGB2J8uoYI6Gxa4Twp1tzCSquaNRk3SLWwCJGbMJ5hl3abhqoeaFQY0jKz3MEHMELjWC3xx/kqu2IgkKsy4zAss+M3MY2TS9K7McxX2jk/7dAufesPshYGJdAXEKEahkdaXgTprNfRE5RqgjCx5vepcaaAL/Dw704Bj0PWXNWanhd26xgc/N7QwlJBcHi1cmc2UkCrHq8Lp1U4KKDs9YSzT/EOPCPepCxS5CpIeK0yb3dwlKzh8p5KNE81S6jA4CBZ4O2toUawqBcjCBJoMSseX3QnEOmmQsD/ZPkMW5Fvb27qFg=;6k6IuLMlsD+iJbnIDzeg8A=="
 ---

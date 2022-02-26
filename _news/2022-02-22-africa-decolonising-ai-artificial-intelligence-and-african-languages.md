@@ -7,7 +7,7 @@ originalUrl: "https://allafrica.com/stories/202202220011.html"
 webUrl: "https://allafrica.com/stories/202202220011.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 664
     height: 664
     isCached: true
-
-related:
-  - title: "How AI is being used to stop poaching in Africa"
-    excerpt: "Scientists have developed Artificial Intelligence systems that are being used to reduce poaching in Africa. These systems use and learn from information on where the poaching is taking place to help protect the animals. According to a recent report ..."
-    publishedDateTime: 2022-02-22T11:34:00Z
-    webUrl: "https://www.getaway.co.za/travel-news/how-ai-is-being-used-to-stop-poaching-in-africa/"
-    type: article
-    provider:
-      name: Getaway Magazine
-      domain: getaway.co.za
-    quality: 39
-    images:
-      - url: "https://www.getaway.co.za/wp-content/uploads/2019/04/Approaching-Storm-Elephants-by-Mark-Dumbleton-637x768.jpg"
-        width: 610
-        height: 319
-        isCached: true
 
 secured: "Lw0UmsvTlcWupSkzop5m3tkcH8FrbqRQM/mbV6Wo1ilOtM7i5upIYtPBesnchAiz3BUJkc1RiksrvIFGzr14sJWBLrBAwdqAghRYRyyhyRXyF0m7ETfhrLXvvDO3gHI3N3/IC6wxtWjcIotRR4aPzXnJDt7t5Bz7sd2kLuC49dxmej9GS7Na+GiG6I+0NPAO5a+1hoTxGn6pmzrW/Y9J4wdkgvCxl0bWrltMVu9lX4sdnKqjEh24qFkCknWdjVtRF3TVgMd74BnRThyuVR6yPLlHRDMdQY7kcCB/dDceSIpvgbWpfWYngCo5WImWNrapDjdWSCUr3XToXWiuH4P8Z5xUbnCkBRBuD3aBhZy/otM=;3MXlkbiYqAYRjffyam8XmQ=="
 ---

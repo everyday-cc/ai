@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency"
-    excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net"
-    publishedDateTime: 2022-02-24T18:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency-1031228263"
+    excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities."
+    publishedDateTime: 2022-02-24T18:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "nEAyZ43KYiYfaxHETWaHqUTFqnV4vc3bfNWtzcd9MG3qU1x4zE1Eb7pGZ95ITbdoxbShSQ2oTh8KRuSt6Bw/TrNH+h85CMlQU1wdV16Wvl3KeWo5ND4o20JthrdRcoqSWibc7rOM9IppNcFy5EaerQNUwku4Box25NPVB0jDSehkeAQV7I7SHlVqLpiF+PNB/55ZeZ0W5Yd2b1Fqvyyz2hEyZWA10OB6MvGD2F4VbpQWHE9famIFZqYmte0k6Y5RfvhJYa68W9mPtLoINq9jPnFe2zOU0Q/0Nf/UQdwFXRnUoyr+4YufPXdwG/QcANMj4D1s5SymfTsRqFH71eMck6+VJQj3l2Af3q9hDjp17MyODCsw/ydmbGCQhsdaUD2ZngJu8FVHtDyek3PWM6Qr5iA5FoB04tHs18Sd5wiKtHvnUbLz8JdHguOGsk4ZdioCbM19FRfqdCORDoJuXlrQHRJPpLw1NNlMHCTSDAR1Fp6O/yCScfeFcBiTvSWY1tYURcMrkhTsMMHzDpBGVHFefA==;0vHwDX+q7FoE+ADGkS52Ew=="
 ---

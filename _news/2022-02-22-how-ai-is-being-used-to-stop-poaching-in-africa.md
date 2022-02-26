@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Africa: Decolonising AI - Artificial Intelligence and African Languages"
-    excerpt: "Should we bridge local understanding of Artificial intelligence by creating technological terms that make current scientific developments accessible, or do we teach and help computers understand ..."
-    publishedDateTime: 2022-02-22T04:40:00Z
-    webUrl: "https://allafrica.com/stories/202202220011.html"
+  - title: "ECA to Inaugurate Africa’s 1st AI Research Centre in Brazzaville Congo"
+    excerpt: "Addis Ababa, February 23/2022 /ENA/ The Economic Commission for Africa (ECA) is set to launch Africa’s first Artificial Intelligence (AI) research center in Brazzaville Congo, with focus on technology and innovationThe center,"
+    publishedDateTime: 2022-02-23T00:00:00Z
+    webUrl: "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/"
     type: article
     provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 54
+      name: cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/
+      domain: cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/
+    quality: 137
     images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
+      - url: "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg"
+        width: 848
+        height: 477
+        isCached: true
+  - title: "Congo Brazzaville to get Africa's first Artificial Intelligence research centre"
+    excerpt: "The United Nations Economic Commission for Africa (Uneca) is set to launch the region's first Artificial Intelligence (AI) research centre in Brazzaville, capital of the Republic of Congo. The facility,"
+    publishedDateTime: 2022-02-24T10:12:00Z
+    webUrl: "https://www.theeastafrican.co.ke/tea/news/rest-of-africa/congo-brazzaville-africa-s-first-ai-research-centre-3727794"
+    ampWebUrl: "https://www.theeastafrican.co.ke/tea/news/rest-of-africa/congo-brazzaville-africa-s-first-ai-research-centre-3727794?view=htmlamp"
+    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/news/rest-of-africa/congo-brazzaville-africa-s-first-ai-research-centre-3727794?view=htmlamp"
+    type: article
+    provider:
+      name: The EastAfrican
+      domain: theeastafrican.co.ke
+    quality: 53
+    images:
+      - url: "https://www.theeastafrican.co.ke/resource/blob/3727824/178cc6dfef48c8f3452d3003ff93d193/ai-research-center-data.jpg"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "ND2ckDf2K4HjUZxlqq5orn4hNxY4LAdfXpr8+86q1C2yFh998nXJNpXApa48qLV9IjC+JlpdZM6ZeGkX4YVJOUqFPyZ0OlZ3zrJqM4K4NJm0iSeCRkv+cK7fZT3uEpUAzJQ1xKMIv1Sf9MOgeL7A5XS3zhFI861brAEbZBWNf8ySVrczPnii85Zbzt3ua5Py50Lt0swouA/qvcGI+k5d0FUSIDwkHL9oR4Eg+MciOFD9xpX7d+kwcrxl5MrsNWZ5p8ar3M68GPsJLWh++pegRMTHvIaOdY2MWjDCebaSpF+b+mmmyP5MrxbGdAhuTLOtjKtqokGgPwpyAFcXQkH6FXEYn9Lfp7bv9J1aXxoNgKQ=;vH0/wm8aWO5f94ttTKFRzQ=="

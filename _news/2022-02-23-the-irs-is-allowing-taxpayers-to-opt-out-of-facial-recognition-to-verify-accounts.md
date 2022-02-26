@@ -39,20 +39,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "IRS promises deletion of taxpayer selfies as it drops facial recognition mandate"
-    excerpt: "The IRS' use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
-    publishedDateTime: 2022-02-21T22:04:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-promises-deletion-of-taxpayer-selfies-as-it-drops-facial-recognition-mandate/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-phone-face-scan-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "IRS will let taxpayers opt out of ID.me facial recognition with a live interview"
     excerpt: "The IRS used facial recognition software from ID.me to analyze the selfies after signing an $86 million contract with the company. Civil rights groups and members of Congress from both parties questioned how the IRS could begin the use of facial ..."
     publishedDateTime: 2022-02-22T00:52:00Z
