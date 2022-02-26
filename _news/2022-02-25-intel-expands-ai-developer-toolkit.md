@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 690
         isCached: true
+  - title: "Intel expands its AI developer toolkit"
+    excerpt: "Ahead of MWC 2022, Intel has released a new version of the Intel Distribution of the OpenVINO toolkit which induces major upgrades to accelerate AI inferencing performance. Since the launch of OpenVINO in 2018,"
+    publishedDateTime: 2022-02-26T00:30:00Z
+    webUrl: "https://www.techradar.com/news/intel-expands-its-ai-developer-toolkit"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Intel’s chip making plans an own goal"
     excerpt: "Wall Street thinks that AMD will win The cocaine nose jobs of Wall Street think Intel’s chip making plans to meet rising demand will give AMD a greater foothold in the segment. Intel, which plans large investments in chip technologies in the next four years,"
     publishedDateTime: 2022-02-21T11:25:00Z

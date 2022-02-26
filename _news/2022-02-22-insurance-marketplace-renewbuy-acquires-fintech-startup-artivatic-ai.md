@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acqui
 webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insurance marketplace RenewBuy acquires fintech startup Artivatic. AI"
-    excerpt: "Artivatic. AI leverages artificial to offer underwriting and claim solutions in finance, healthcare and insurance sectors."
-    publishedDateTime: 2022-02-21T07:52:00Z
-    webUrl: "https://analyticsindiamag.com/insurance-marketplace-renewbuy-acquires-fintech-startup-artivatic-ai%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency"
     excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities."
     publishedDateTime: 2022-02-24T18:31:00Z

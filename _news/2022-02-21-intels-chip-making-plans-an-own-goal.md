@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 690
         isCached: true
+  - title: "Intel expands its AI developer toolkit"
+    excerpt: "Ahead of MWC 2022, Intel has released a new version of the Intel Distribution of the OpenVINO toolkit which induces major upgrades to accelerate AI inferencing performance. Since the launch of OpenVINO in 2018,"
+    publishedDateTime: 2022-02-26T00:30:00Z
+    webUrl: "https://www.techradar.com/news/intel-expands-its-ai-developer-toolkit"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Intel expands AI developer toolkit"
     excerpt: "Intel has announced it is updating the OpenVINO AI developer toolkit, which allows developers to bring a wider range of smart applications to the edges."
     publishedDateTime: 2022-02-25T13:38:00Z

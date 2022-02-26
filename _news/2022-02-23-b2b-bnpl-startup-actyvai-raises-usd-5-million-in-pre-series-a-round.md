@@ -38,20 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "B2B BNPL startup Actyv.ai raises USD $5 million in pre-Series A round"
-    excerpt: "Business Wire India Actyv.ai, an AI-powered Enterprise SaaS platform with BNPL for B2B embedded, has raised USD"
-    publishedDateTime: 2022-02-25T09:22:00Z
-    webUrl: "https://www.indianweb2.com/2022/02/b2b-bnpl-startup-actyvai-raises-usd-5.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 37
-    images:
-      - url: "https://lh5.googleusercontent.com/proxy/b3qMpSry2rwY3OjGJJiDQH72J8N3rRRuxU8KyUoN6OnENP7tmHrwMclBVW91H87LbLwfi7-5oHTnGu1NIFfjkE6LkrIutQ7cRQPM4ei5c2d5wnqEE5dca8iv7UqS4yMtB36H_f_6RxrQ"
-        width: 360
-        height: 480
-        isCached: true
 
 secured: "FyuwWZsx+LqI9szrIo2piNmK09gflgXTc2XG8HkqwdwhBvrey4vJdjbd7a/V2DKhZym0qC2A9x83HcpWgUrtcuRnAqxweNFMzW5i6P7OTt1xAndbqzzcaAFdkGy3dF6L8CuXX53hbIlDt5WazZPlU3lyKFJnQFtOzGNYaDLsh1PTbhDfUzXrPhl1nGE6IG0QLJFwrigzy8AToZzix0+lBuOszf8CBPHOushuoxXwwnVfNIT1mXpTTm5Cbj6jNjo//7hnnMoAzwMgGaE45CN5rDCX+r0UcpV13IxfSK6W5g/2TpmgZlgUF1Zc2oF31mdAVC97ujyALzLuDllBemaubKbEVdaFduwDHFwrE3MJ/7E=;hPIvmD7RUWA/Wb9dWDz3dA=="
 ---

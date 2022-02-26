@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html"
 type: article
 quality: 74
-heat: 114
+heat: 115
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/944137"
 webUrl: "https://www.eurekalert.org/news-releases/944137"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Machine learning antibiotic prescriptions can help minimize resistance spread"
+    excerpt: "Antibiotics are a double-edged sword: on the one hand, antibiotics are essential to curing bacterial infections. On the other, their use promotes the appearance and proliferation of antibiotic-resistant bacteria."
+    publishedDateTime: 2022-02-25T23:42:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944695"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 16
 
 secured: "HCUmyXI77pHkumuHwVE961oJLqJea0PVz67eJscyNjDalsD9LNwNsYymirLoayhOmnmY0Rf/uPxdGwvYuw+3EYz2dyM92QhliM5L/w4KFAJv+hOhF/YKX9DlkBB9rUkeFvgCrOt1bXBfhUL+PElXtgEy47Pd2SCU4xC3ehONmfNGU6NgR5nm44/ZfYAVy5c/LvVC2PQx3uVvc+BkpY4vH9p7aVkbWZQtfK5AgJb13hHr/tlUS/uxHsVXFQ3QeoxUTA/5BysUob0zx+vG0p+j9VaeKmXUFvlm0dtx1458cZZDOB4uEhXrFVkECOXhrs5KS5K1v+rQRhP/EF/PIfQ+wzHrSx+5vGCJy0BnqH/LVi4=;yKOYpgAaYLzuzL8gaNX/aA=="
 ---

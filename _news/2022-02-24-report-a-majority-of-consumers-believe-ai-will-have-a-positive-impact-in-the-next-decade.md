@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-be
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/"
 type: article
 quality: 178
-heat: 180
+heat: 178
 published: true
 
 provider:

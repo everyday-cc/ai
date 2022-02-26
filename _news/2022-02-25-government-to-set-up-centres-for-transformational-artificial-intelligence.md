@@ -41,20 +41,6 @@ related:
         width: 648
         height: 348
         isCached: true
-  - title: "Machine learning, gamification and personalisation: What does 2022 hold for management information systems in education?"
-    excerpt: "And though there are doubtless myriad factors at play – from rapid technological development through to significant investment – it would appear that, when focusing on management information systems (MIS),"
-    publishedDateTime: 2022-02-21T08:05:00Z
-    webUrl: "https://www.fenews.co.uk/exclusive/machine-learning-gamification-and-personalisation-what-does-2022-hold-for-management-information-systems-in-education/"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 31
-    images:
-      - url: "https://www.fenews.co.uk/wp-content/uploads/2022/02/brian-mann_holly-westall_fenews_1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "9ggdXq5+6WBkqNCN/rsy54lU1qlZqOpwOluPePQXX7aILgYw3i6yf3L5v7dHeMSObECnGIW7SLcG0sVuVZfCEp8OXJ7E8cPYzV4eCqCmzlxaV/j5yFOXvvC5xzvOBBGw89FScOggdm+f0VbmVriKhrI+k2kMt7Af5qqAdhcRgkGHvTIajVkkyqchnv2B0SzD3q2eCIk+3t6D0WKcILK5OJT823mNjX6hHEq4hT3jlPrX6buoQWoGvHuVyHS5p+fYc6OLL+7UWyOFgw2cmjdCD5aaUKSycseszq1t4wO1X5CH/vGf6B+cnreJHqHNK7AhjOZLyCS8K0kDNnbUm9G2nfcDZfSraRbYUEfO93tosXiNMwlnfvjmiCgyZZW1JU6LmiyOPGEuSn8mCsfI8IpVR7ruDpafpT3NKYr7gCDOoPa8Pk/PCH1+EAUpuZZBwbaCQy0Ic2teWoOzTVPdlxaRCY6yd1tOPOHw3IeGJfoQjlmDNW9aFySjMAOtKpAuCD5VVN9zIIz9sqBTa1LefvzLyg==;vdBXv3a3nF1p/TauNCGjGw=="
 ---
