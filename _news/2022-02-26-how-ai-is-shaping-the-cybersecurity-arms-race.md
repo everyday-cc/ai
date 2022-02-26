@@ -1,29 +1,28 @@
 ---
 category: news
-title: "How AI Is Shaping the Cybersecurity Arms Race"
-excerpt: "Cybersecurity staff often find themselves inundated with data they need to sort through to manage their cyber defenses. The stakes are high. Cyberattacks are increasing and affect thousands of organizations and millions of people in the U."
-publishedDateTime: 2022-02-25T20:01:00Z
-originalUrl: "https://www.govtech.com/security/how-ai-is-shaping-the-cybersecurity-arms-race"
-webUrl: "https://www.govtech.com/security/how-ai-is-shaping-the-cybersecurity-arms-race"
-ampWebUrl: "https://www.govtech.com/security/how-ai-is-shaping-the-cybersecurity-arms-race?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/how-ai-is-shaping-the-cybersecurity-arms-race?_amp=true"
+title: "How AI is shaping the cybersecurity arms race"
+excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find"
+publishedDateTime: 2022-02-26T15:10:00Z
+originalUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/"
+webUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/"
+ampWebUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: KRQE
+  domain: krqe.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://erepublic.brightspotcdn.com/dims4/default/de6f650/2147483647/strip/true/crop/6000x3129+0+11/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc9%2F12%2F58d3fe9d4c85821530a88ef106d2%2Fshutterstock-1089540200.jpg"
-    width: 840
-    height: 438
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"
+    width: 1280
+    height: 864
     isCached: true
 
 related:
@@ -113,6 +112,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "QycQFXtJ1Kk3ZklVa3J4vwCv3alg65ld/f32LK3+LQnirAwpVHCDY0/ddXJWgQxNrbUzwtk0Vsd6VuygiL+0UARcL+KPijIef5DFhHLqTV3gEoYjqgwfj5Cf7oBxyuhNZqmrWI69WtyTvpa0NyrKpymSVepoHlxJo/svFjY9srsdGf3biTWCnOWF58uoKbTIJJtxX8iuZyjZfCChSJuGPIxLlS2xQNsiGJ9WJGPD4fJVRPSczoRoXdqaD0bJzwgIUnQBLMvg4AhtWiIu2z0wrN4Ufbkdc5k7dJg8YmgicKl2BzjrUprsSCKQpd6Ojck6SHgrkLBpE89TTx/nAyfVfMKge6txmTrPfxSS1zH/5vELZr730DcMyaRyGMaXSayX93hRxCIt8xnmSgGqbll+Pvy3733zfXhARTPAU8wj6x6BNYowyjnaZoeueHs9CgP42ti5M/CWOoNNxZW9WVvDdcVbGfJBQovO9SYH/RFftK2G1EkeZWTVBnc4YK9AM1Ui4op9MHscArqD3JkGDCgQdg==;ILZCJ3yX3Yf3f+KtIxMhSg=="
+secured: "0IQBLuNMJSCsOOC6O77SA1KyeDltOQDV08k/gCzi0YyZv4NnDvXYyMhzlMiy13Q/BaUH4fX12gvMA6JPr5/9zpM8vM+AdjRfqIZmh5sg+CH2s6CleloPfVoLs5o1KL8aQYwxgf3f69euitpFaBtzsd1YHTH9yseaB47s+QzqsBPywUGWJ0VwWUiKfk0kNhfyC40T9QUV9IYfIr9bhsH0zqKBtVV4i/MUB5OjVF9qFVZORr84y/s9jyNnMyfkS3rbpkYOWT2raqSdxKF5HZb7Qs4jvVfOIE2jj21Cd4VNo2rA+Skg6S/QYEi9b2k7ARcyGmzqUULvxmiYchnsD4bd89Cei7U4fRxUiyzEcUvnhRQ=;fW8akvb+agORjq+9PAyY5Q=="
 ---
 

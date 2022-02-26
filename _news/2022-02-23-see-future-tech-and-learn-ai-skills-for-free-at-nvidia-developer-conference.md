@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai
 webUrl: "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpW9_XWUDWYg/article-cover_image-shrink_600_2000/0/1645529788492?e=1651104000&v=beta&t=c6c2-7zZDbZJ4iNqbZxY5IrVFwtSGwwbhgOzsXUywgE"
         width: 744
         height: 400
+        isCached: true
+  - title: "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications"
+    excerpt: "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program,"
+    publishedDateTime: 2022-02-22T15:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services/article_92d98518-0662-53d1-87e1-24925c14b9cd.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 8
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/1f/e1f8a665-d2d8-5bd2-ae9b-77a434b1dfb7/6215094d4fb86.image.jpg?crop=1944%2C1021%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mVNjwKZ8nWgVdXQ4U9+g5vejBPrDZdAi8bCFKI/GX36S6ZMrY7jBqW78Awpcbl/vLeO1zGCdpLlyAHCK8Bu4yiEbm1wmpk4uDOAVOLI+GCAa5aNkTI97/B7ieqSyziCkFC8lOFO5BZEEyI9JfYhEqLtdS3vR0NtD0BDTMrvW2ep9q3HrtTQAWhuZUcH9yZSdIyuYkMD0aWRTcTm22Vtc8Hkr7XFNeBgjIoASwUi2JJKGeJfP2JG8Nd+xm3LUdJCOboSSsaJqq2dX6MBO7FD4sKrHV8ngiAKCGFDAzoKqx3Ddw1S8tvq53hrnbS4J6tNea9rtKGX0fAzUl5a3BTLBfNlD8r/0o0MiBvDUvhHFzho=;MEysuY5jiKnD19RjlwEK+A=="

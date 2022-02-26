@@ -57,6 +57,20 @@ related:
         width: 744
         height: 400
         isCached: true
+  - title: "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications"
+    excerpt: "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program,"
+    publishedDateTime: 2022-02-22T15:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services/article_92d98518-0662-53d1-87e1-24925c14b9cd.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 8
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/1f/e1f8a665-d2d8-5bd2-ae9b-77a434b1dfb7/6215094d4fb86.image.jpg?crop=1944%2C1021%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fnGehIbgig6VKzrF45vMVTyf4+OV/UGXfOibQNx6ukSDbzXbzNYVqujiXZS2s3Pl6mMPclgWc9hzO7cGRs5H7YSLib4WCzxAS8QbfBfanG4cQbW5xSNN/5PTdAY6F/anaU6xjbB1mkAXeLYFzI1nrsmDGyzkLFXS67yGZYjcyv0tLEmJ/wYwCM2LuKPULMyTeULDPILZVTZfDy9hPpXOexDqVs9FmLRHzpXvuINr61YmSgBxk/QupwHboZyUY+7kgCT6t+Emi49EzRm7GmG4NOJV5veMkPmePY0rNdmLs8E1qlUs+Ekn1hduNTzhTB56Tew0YRCtVtpMOkWm3n4adtLPfo/EwMeTCBSiVde9Iu43Z54lqz6R3TLcKErOotJEjRuGeO3klsiVlhx/CopdSUH+tJjvX5HaeGvEMc/GznF8i6MXNL6w+Ks011g28nM4sskdY2JhirjPi1wHeWmaAXxi3hTdz0Q2ZzS5f7Fxi6a72Q/wYgn1yUnEWvmXlSE52iouV8YOTIPzbhGPViFx1Q==;ehrifercVebUYDNY+aFzKQ=="
 ---
