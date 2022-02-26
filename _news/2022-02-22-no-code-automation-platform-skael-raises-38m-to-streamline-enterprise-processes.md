@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/"
 type: article
 quality: 182
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Skael-raises-funds-for-AI-powered-automation-platform-01.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "SKAEL Raises $38 Million Series A Round to Help Companies Hyperautomate with Next-Gen AI"
-    excerpt: "SKAEL, the leading automation platform for creating and deploying Digital Employees, today announced it has secured $38 million in Series A funding, led by RTP Global. Additional investors in the round include Bonfire Ventures,"
-    publishedDateTime: 2022-02-21T14:56:00Z
-    webUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/skael-raises-38-million-series-a-round-to-help-companies-hyperautomate-with-next-gen-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 48
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/SKAEL-Raises-_38-Million-Series-A-Round-to-01-1024x577.jpg"
-        width: 1024
-        height: 577
         isCached: true
   - title: "Skael raises $38M for its AI-powered automation platform"
     excerpt: "San Francisco-based automation startup Skael Inc. today announced that it has closed a $38 million Series A funding round led by RTP Global. Dell Technologies Inc.’s venture capital arm and Bonfire Ventures,"

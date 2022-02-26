@@ -44,32 +44,16 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
-    excerpt: "The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview."
-    publishedDateTime: 2022-02-21T14:00:00Z
-    webUrl: "https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/21/us/politics/21dc-irs/21dc-irs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
     excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-    publishedDateTime: 2022-02-23T00:06:00Z
-    webUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    publishedDateTime: 2022-02-23T00:02:00Z
+    webUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+    ampWebUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
     type: article
     provider:
-      name: KERO-TV
-      domain: turnto23.com
+      name: FOX 17
+      domain: fox17online.com
     quality: 76
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"

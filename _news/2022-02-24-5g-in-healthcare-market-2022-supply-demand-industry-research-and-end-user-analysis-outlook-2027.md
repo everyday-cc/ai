@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI In Drug Discovery Market GROW WITH A CAGR 2021-2027"
-    excerpt: "Astute Analytica published a new report on the Global AI in drug discovery Market, this market research report provides detailed analysis of primary and"
-    publishedDateTime: 2022-02-21T13:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow-with-a-cagr-2021-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "dpJ0w9ngSDnZJLDs/h3sf1v1fK4w6LQu3gp8W0dNveChHsM7mqkg7/Vx8HnF+/hAT7iq44T00mjCPdOhZjP3a84+wnHhc6D19E3t9jszLnBjqzKGbeTF09ba8Ilr4LLerb9w4qD0exnvRG4yVTnZPRWaU3Wl6G2uNlAmvDklZqD51Kde6GZ1Tfrg8FCRMH6cgT+oVIIAAUBDy7aFLgt2+F/4VMDIryW7CqtOQwEuA7GUQQuiQVe0BBUmjVWCW4C1jw0oxxZmyK2RhcwdktVSKdKaoz+vZ/ztVtOeYv47yspejURk9JHYbM3MRUDO6aqT4+mbTyUSQsmBUJkk6MQUEtmyQGLmJPSZyIjykrvIoL4BP+LsXh/EGFjSDX09V4aNQWjGqA/JENPORcXqQSVsY3BIisqZ8Y5ieAv1aAVJeeIcNL10FaK0AEbN4HhiJehws8T8I4PGcL1aYUNxNXujuUaZnAgkhjkDkW0iM2N//6jRZ5Vqqb+V5Mgp0Ghx9aEb7+WystbeBT6zHqmpfv9WBg==;x/lC/P0+d5FTEnzoJZZ20g=="
 ---

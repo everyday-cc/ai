@@ -54,20 +54,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "The Perfect Storm of Technology, Intelligence and AI"
-    excerpt: "The quick pace of technology requires a faster pace of adoption by government, writes former CIA Deputy Asst. Director Cynthia Strand."
-    publishedDateTime: 2022-02-21T14:37:00Z
-    webUrl: "https://www.thecipherbrief.com/column_article/the-perfect-storm-of-technology-intelligence-and-ai"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 39
-    images:
-      - url: "https://www.thecipherbrief.com/wp-content/uploads/2022/02/Cynthia-Strand-310x310.jpg"
-        width: 310
-        height: 310
-        isCached: true
   - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
     excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
     publishedDateTime: 2022-02-24T15:02:00Z

@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-02-03-humans-v-ai-we-found-out-whos-better-at-making-money.md",
-      "title": "Humans v AI: We found out who’s better at making money",
-      "excerpt": "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (fintech), where technology startups increasingly challenge ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
-      "originalUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAIvHumanHed.jpg&signature=1d49fa78f49d046b9d0e17884d4723b0",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2022-02-03-how-ai-accelerates-insurance-claims-processing.md",
       "title": "How AI accelerates insurance claims processing",
       "excerpt": "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved.",
@@ -1463,6 +1410,49 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-responsibility-key-to-broader-understanding-and-acceptance-of-ai-in-2022.md",
+      "title": "Responsibility Key to Broader Understanding and Acceptance of AI in 2022",
+      "excerpt": "For its What’s Next in Tech for 2022 survey the College turned to its faculty leadership team and advisory board to get their educated opinions on potential technology trends and developments that could make headlines in the next 12 to 18 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/responsibility-key-broader-understanding-and-acceptance-ai-2022",
+      "originalUrl": "https://www.cc.gatech.edu/news/responsibility-key-broader-understanding-and-acceptance-ai-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/2022%20predictions%20graphic.jpg",
+          "width": 1650,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Georgia Tech News Center",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

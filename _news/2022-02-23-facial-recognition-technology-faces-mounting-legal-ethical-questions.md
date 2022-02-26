@@ -2,19 +2,19 @@
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
 excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-23T00:06:00Z
-originalUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+publishedDateTime: 2022-02-23T00:02:00Z
+originalUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: KERO-TV
-  domain: turnto23.com
+  name: FOX 17
+  domain: fox17online.com
 
 topics:
   - Computer Vision
@@ -43,22 +43,6 @@ related:
       - url: "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
-    excerpt: "The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview."
-    publishedDateTime: 2022-02-21T14:00:00Z
-    webUrl: "https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/21/us/politics/21dc-irs/21dc-irs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "IRS says you can now create account without submitting to facial recognition"
     excerpt: "The IRS's use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
@@ -373,6 +357,6 @@ related:
         height: 810
         isCached: true
 
-secured: "OBX6d3Sg+/vcwsTx3kyFI8aiAWdJESP+J9xgIwo8T0NExZw0u4YSB2Gp0Daq5WqJaMqkDDIEWyvtlht/15u8uX37tMRq4yC1V46EPd96cD74e3kBlv85VgkY4G+s6g+5c5jG+KhCQWioV2OS8aEqgCk9T7nQLGpaHwQwhmyli4qjqWKz0B2WR0XOle5c9y08OhnhSGgSGEMx3UmUUZQabhlPX1qZVatzRE2MJmRnY9TDy848A1IxGpyrTAnkcptS1Ac9sMVX5CQidi4F7PY1xfqsTLN9CqG35xcJjuqI0oy9g69VMNUmdrUeJGBrYIVqvkLdEAxipsWAKlS20qlfb9VejNmc22dQxoDZZKmwlmA=;tXwS926hHS6ewLwhTZcQZw=="
+secured: "Xl3vhEvpnRGrDgsNl5cC8rqlUpDPcn+23wTS7yd6SyB6LOLQmkUGWi+8DLgp5q5CYcSHPoTZpA+twbEnvNx8yeDI7Bqa/qAzHTX0Hu572LeEo/0VhoSQDl5IKCdZQaHB6QljsikeS37eaA5/+Tl3SvgY2Uq+nqlf0KSkdgFuFn4egnDg6jkBYrslYwG+lvQ4W+Ui4KSdJhdvaApTC5rJQTHXPHBcrmaYwqVGPvLJSXD9LI28f1Z+Ve68c6jt141mOi/zFFZ7jgBmz0eakGyRRBGtyLodgELObExEMDfRzPgrjgmA8BJKFNDI5jhVl5WVRi9xcrPM6oCB6N+SX8YzgMoAqP3o+ulqSf8JKhn0yUE=;KASWdaGyl4u+JE0dt91Y1g=="
 ---
 

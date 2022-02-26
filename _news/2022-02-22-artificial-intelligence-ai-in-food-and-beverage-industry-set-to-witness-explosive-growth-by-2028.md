@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Drug Discovery Market GROW WITH A CAGR 2021-2027"
-    excerpt: "Astute Analytica published a new report on the Global AI in drug discovery Market, this market research report provides detailed analysis of primary and"
-    publishedDateTime: 2022-02-21T13:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow-with-a-cagr-2021-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "5G in Healthcare Market 2022 Supply-Demand, Industry Research and End User Analysis, Outlook 2027"
     excerpt: "Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. Market"
     publishedDateTime: 2022-02-24T10:39:00Z

@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Software Market May Set New Growth Story"
-    excerpt: "The latest research analysis by the Astute Analytica revolves around the state of the global Edge AI Software Market during the forecast period. The"
-    publishedDateTime: 2022-02-21T14:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-may-set-new-growth-story"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9f3311d31f7c865d54b1405dbdfb17bd8c7cd906-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Driverless Car Market 2021 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2028"
     excerpt: "Ranging from artificial intelligence (AI), augmented reality ... is anticipated to contribute to the growth of the global Driverless Car market. Based on the increasing number of internet users ..."
     publishedDateTime: 2022-02-24T12:40:00Z
