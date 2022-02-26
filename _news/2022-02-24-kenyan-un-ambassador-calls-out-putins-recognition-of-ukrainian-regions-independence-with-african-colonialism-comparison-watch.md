@@ -41,20 +41,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Following ‘recognition’, first Russian tanks roll into Donetsk"
-    excerpt: "The lengthy televised speech of Russian President Vladimir Putin on Monday ... including a promise that Ukraine will never join NATO. Recognition of the separatist-held areas will narrow the diplomatic options to avoid war, since it is an explicit ..."
-    publishedDateTime: 2022-02-22T06:34:00Z
-    webUrl: "https://www.euractiv.com/section/global-europe/news/following-recognition-first-russian-tanks-roll-into-donetsk/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 24
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/Russian-tank-Donetsk-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "9ySnBMmuSBXrpcTQXdkTvokjfhlbZzMThMpuif5w1CadhgynOQaFtHIrIyTjhCWI1BkoKHHi/4hV2gOuLPTVwPBGfFROdPCcwxoRaZamepgG+RKSUhQ9nIzPMsK+VAS7Yq4BpE6NKxKSRw3n7DmfZRdwB+Z7uWvk3U+ywENU2jDuTFpHU4/wzRjqdtKhypiUQ/8QsmM8htobbkuApPLPscGHZkCx9rr+Edx0ZwlJ+Czy/uYaMcrzYy87JEa+15LIHVhX1D20XfSfYj1u9Kid7IrjlJ2b/DogLaVw8YSVTMFDTi712+YnjCVBe2Wh/XkgVFBALPv2O7uINtNd44VgjZ0kaif8Kq2TargehZFiCwJ2GhCSwLWXFWuTC3H9gP97+a86ON3vkebcRXq6mTRUVs1y1zVSQuC3gW9+rbMLb+P6N9/Zxz8IsQOZDvxpmEKBzzIOz0/yeCQXQT/uv3Xvi6BH0lU6f5GLaIsNec1sL8TobJlS+kb05NFFqb/ZqI9qoIMdAJqCGMqHj2W9FgUUHQ==;BnGkkFx8IjruPYnDkr9Hlw=="
 ---

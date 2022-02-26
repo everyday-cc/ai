@@ -57,22 +57,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Kenya's Powerful Speech on Ukraine-Russia Crisis at UN Event Goes Viral [VIDEO]"
-    excerpt: "In his speech, the Ambassador raised grave concerns over Russia ... But they cannot justify today's recognition of Donetsk and Luhansk as independent states. Not when there were multiple diplomatic tracks available and underway that had the ability to ..."
-    publishedDateTime: 2022-02-22T06:21:00Z
-    webUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video"
-    ampWebUrl: "https://www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
-    cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/73274-kenyan-ambassador-makes-powerful-speech-ukraine-russia-crisis-global-event-video?amp"
-    type: article
-    provider:
-      name: Kenyans.co.ke
-      domain: kenyans.co.ke
-    quality: 55
-    images:
-      - url: "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/Ambassador.jpg?itok=Z6nhHyzT"
-        width: 700
-        height: 350
-        isCached: true
   - title: "In Hour-Long TV Speech, Putin Announces Russia’s Recognition of Ukraine-Held Rebel Areas"
     excerpt: "Moscow: Russia announced on Tuesday that its recognition of independence for areas in eastern ... Putin announced the move in an hour-long televised speech, blaming the US and its allies for the current crisis and describing Ukraine's bid to join NATO ..."
     publishedDateTime: 2022-02-22T12:33:00Z
@@ -104,20 +88,6 @@ related:
       - url: "https://www.thereporteronline.com/wp-content/uploads/2022/02/Russia_Ukraine_Tensions_72618-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
-    excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."
-    publishedDateTime: 2022-02-22T05:06:00Z
-    webUrl: "https://www.stuff.co.nz/national/politics/300523317/ukraine-nz-says-recognition-of-breakaway-republics-is-pretext-for-invasion"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 36
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/z/4/r/image.related.StuffLandscapeSixteenByNine.1420x800.4yx99x.png/1645507296741.jpg"
-        width: 1420
-        height: 798
         isCached: true
   - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkish president"
     excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
@@ -200,20 +170,6 @@ related:
     quality: 24
     images:
       - url: "https://static.ukrinform.com/photos/2022_02/thumb_files/630_360_1645519629-967.jpg"
-        width: 630
-        height: 360
-        isCached: true
-  - title: "Canada preparing sanctions over Russia’s recognition of 'LPR/DPR’"
-    excerpt: "“Canada strongly condemns President Putin’s recognition of the non-government controlled areas ... to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
-    publishedDateTime: 2022-02-22T06:39:00Z
-    webUrl: "https://www.ukrinform.net/rubric-polytics/3409078-canada-preparing-sanctions-over-russias-recognition-of-lprdpr.html"
-    type: article
-    provider:
-      name: Ukrinform
-      domain: ukrinform.net
-    quality: 24
-    images:
-      - url: "https://static.ukrinform.com/photos/2021_11/thumb_files/630_360_1637158724-963.jpg"
         width: 630
         height: 360
         isCached: true

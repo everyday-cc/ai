@@ -129,6 +129,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+    excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their ..."
+    publishedDateTime: 2022-02-24T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944656"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
 
 secured: "/rr1Er+Qyh2TGz4nL/M9Jn6cifZPHAqamAocKo4quJZB1zgFvLZnNadHzpDFMLem+c2k5D5ol90mUArfzWp3utQM8aki7QIXcIXs1cANl2XG719bF9IjPcOAk1kNBi1EYt2waEnvlrXT7cUlI+Gm57aL/rCMw9mRYUbdVLES/SfWfhKx8mconDPxG3s5lhEQI1/XlILFHKCLbqvhLenjE+W9/IVXLiFqAE5Mu8uw9FwKfdO8lcZgemb9cNa8l0gx2Xeg70Koi6xlB4DivW09KXcHS4g09lE435dqa0D5cgES4Er2j0wl0QuoJ7HlXDCM/JlLRy7j/4q2Ec05CfxtK5thAevr02/Uv3D+8GfD3cY=;qlElIqbOL9XNPHpjlx1yNg=="
 ---

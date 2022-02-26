@@ -85,20 +85,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "'Singularity': Microsoft is Working on New AI Cloud Infrastructure Service"
-    excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."
-    publishedDateTime: 2022-02-22T05:25:00Z
-    webUrl: "https://ummid.com/news/2022/february/22.02.2022/singularity-microsoft-is-working-on-new-ai-cloud-infrastructure-service.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 52
-    images:
-      - url: "https://ummid.com/news/2022/february/22.02.2022/microsoft-singularity.jpg"
-        width: 790
-        height: 530
-        isCached: true
 
 secured: "m3JIy3TgqF3+H8LJ5pUZPkpbCw7mJAow+j/JxY8KemsFeI/+gVln3NcqWCq7lyo1I7yorlRUdHKIN+0n8jJ0GRpAyWXghUThLDU/yMxDQrDcYIfIeJ8lW+zR8bFNXfhBlICSc1plzdRgW1iJTANZtE4F3p0d9bb3h6PaSaMQkoEqWnHjJSXC3Wpnt5JDj+uR7fCj4pnDDW56kJOfZALi9r66aNCV0Ct66PZsNPLXc6G4gi3/CqsR9cuimn4LTHLVPJJ1OrcRMeJOvhDAI/YK7YdIhHL0XaBnGKh6/LTjVBXYnRzLUu4ZC0eK5JBTfvwb0BCKErJ5gYFxgoZmwILVqPDWhEQe7L/uU+kxqlTZWFSOecUKMxIlYVgiI42ukeWsmvSATsahXZ1Q7IekdjlSyKbitcL3NltcAgpvsdwwH1up6Ah43DNDGVnVzpHMlSfozbQPSC7lBD58KhGG23qPiYUjd3in8V9yFk+44xrGWnKTuenqhLqwa3a4hnaEIEqtYKZ3Qb4BviYzvTHhx6jnaw==;0jqf62tpjgwvaz+/HNvo5Q=="
 ---

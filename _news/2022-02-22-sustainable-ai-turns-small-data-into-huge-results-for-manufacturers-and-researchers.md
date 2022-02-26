@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-sma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use artificial intelligence to find better tasting fruits and vegetables"
-    excerpt: "The content of this article 'UF/IFAS researchers creating an ‘Artificial Intelligence Connoisseur’' was prepared by Brad Buck for the University of Florida Institute of Food and Agricultural Sciences and has been revised and republished by ..."
-    publishedDateTime: 2022-02-22T06:00:00Z
-    webUrl: "https://www.freshfruitportal.com/news/2022/02/22/researchers-use-artificial-intelligence-to-find-better-tasting-fruits-and-vegetables/"
-    type: article
-    provider:
-      name: Fresh Fruit Portal
-      domain: freshfruitportal.com
-    quality: 30
-    images:
-      - url: "https://cdn.freshfruitportal.com/2022/02/Untitled-design-2022-02-21T145252.004.png"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Business Leaders and Researchers Discuss Future of Deep Learning at the Institute for AI and Beyond’s 2nd International Symposium"
     excerpt: "The Institute for AI and Beyond held its 2nd International Symposium virtually on February 12, 2022. Among the topics discussed were the strides deep learning has made over the past decade, what we can expect to see in the future,"
     publishedDateTime: 2022-02-25T02:00:00Z

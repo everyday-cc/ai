@@ -130,6 +130,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+    excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their ..."
+    publishedDateTime: 2022-02-24T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944656"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
 
 secured: "5ATGOeB28jaHNH/ysXRula55T+wpXYYtozV0dIHrG1dflLc2Wj0ASvGR7AtJhHuVktyeMneYyip1eFSNWrcebj23atxS3jD75zFu96Z4tQ0PCEcrIL0kJTo3FxFTONiYgt+ghVFV86D4zZU26ucmkysNqbt6ng71ePs5ZbMk3jow7IF+sNw4nGBLY6L1YfSJsPTMktBzvfrZRxZKKjr8rk3ucskESdGKpqn40u4loAqmSoFUetgq7U4o072qap4HjPo7OR3mg4iT4HjKnL8tQpdZBQz7VtFkV0FurhPxxWXuast0pDUVJmqfYzSCSFJnOzMpvEeV1PblDNI01LaNdtmmdRuYEhDYYfBxVeMvyEp2Aybhq+4z+up2HotPlsssBhhNaFDTg9vYBqq3eCGqWVVgULHxF1pxExF+C/Qr/5BpVlCgUc82RkCGr5uAuGbxID/va1+b8x+UbBjemB+eInMxtlkVLxALKqqIBiP+o6toSATO4ySwDxW8QBNhvUgsLf5YwyxfR7lnnw5/mhht8A==;gpImpB0e2jVwkb7M1UxKxQ=="
 ---

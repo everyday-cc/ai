@@ -56,20 +56,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Artificial Intelligence can't own artwork: US Copyright Office"
-    excerpt: "San Francisco, Feb 22 (IANS): In a significant ruling, the US Copyright Office has rejected a request to let an artificial intelligence (AI) system called 'Creativity Machine' copyright a piece of art it created. Creativity Machine's artwork is titled \"A ..."
-    publishedDateTime: 2022-02-22T05:17:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=929183"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Mak_feb_sq_1.jpg"
-        width: 280
-        height: 254
-        isCached: true
 
 secured: "NCHJKsWMb95RpT/keWwIIfV/bhPI208vgb0ILh1f2L8D1e30uexX/Ca2nXENckQg0oWQWddXhgHr3gxDPxdCD6K6zlCAvGOffmrVfdJXsrwDSKdwjufOpj+oZ0yhBxBlO4AWdGaAJESf9uxBoad5mTP3CWjPsIy5FVSsSevNfa5t4Dp4YuwI6qqLho7TIRPBqqeQnT/6Ss4jDi5AgYv+AmNgvSMhCovdzjDMz8maKE9ZJVOoCX2XhC0ZMFNA6jevk+LlIPfCLm5Stm+SwkF+l/R0kNSbBCKPyRc+iYJLj5x8WvfYFuPy8LqqEELJ8SFG9FG3/Yam+ct75btypirTgIKDkPAWj+60kTgpIrQIgJN6Efc7vCgbiSpthRz1SQrWXAmeVdDIVVtiqGWfL/TUIMaEMkML4Z8KmmIyu0084ZDa73LW8RPc7sWV0Nh4WZBOFDGtTSKZWJ5FkaEEWz9Il7GXgGZCLaetxqDo9qtuflgyrjLgS3jTSIJbaWubloWBCwWBiwX4542GDdVkLwAK+A==;wMCZmEVsRRZehSMqzwA/cA=="
 ---

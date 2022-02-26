@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Copy-of-Unnamed-Design-1.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "'Singularity': Microsoft is Working on New AI Cloud Infrastructure Service"
-    excerpt: "Microsoft in 2020 unveiled a new powerful supercomputer in collaboration with OpenAI, making new infrastructure available in Azure to train extremely large AI models. The supercomputer developed ..."
-    publishedDateTime: 2022-02-22T05:25:00Z
-    webUrl: "https://ummid.com/news/2022/february/22.02.2022/singularity-microsoft-is-working-on-new-ai-cloud-infrastructure-service.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 52
-    images:
-      - url: "https://ummid.com/news/2022/february/22.02.2022/microsoft-singularity.jpg"
-        width: 790
-        height: 530
         isCached: true
 
 secured: "ZCp3j8zh05bDNn7X2EOEKXvfqcxjs1Kr78BWZYVuZQtHD+NuzpD0nBQwwtpRRzE60xp7QzGb1lcTPVi0O8g90GV5uT7s6DKAiMkL0fGlk/X8tu8TCWjezqUTGzMCp6LfeSZEHueC/UzWHQOZfzvubIpiLGdagEbolJkov/hFscaODjXDxJR4wUl/zWbstZcyBbI46yWAXYcaQBgR89fMVeEOCRV+y302VG/SfN4KCYIs1+GrNOhejguSVyxgiXifngzmyvGG3Mm+3IdCUaxibNsfUNn7fuau0VXa7aWpTSu+jKHtKaURmvnf1d1Tsbrs7EEwajGa2e7IfUZ1bsTYI5ZSrs0CsQJFvD3aHUz6ukXKpPWGCWcQfMduMa5aurp3JXxxSSzLb/9iM/ru3tMXvH1Kn7rwvmnqR+L+n7tecPo5kxB7GOAa+WrsGr+dmBsaOpIedcxe3hkIkGl/Ng9d5SIFa9BGKJvONKHIg/lJdAgSoPnsAh/xcg5+3OrVPze4eBz+dp7e0COeF4qfX4gNfA==;DJAL/SzwaSL/636YnxVHoA=="

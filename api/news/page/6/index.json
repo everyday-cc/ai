@@ -2,6 +2,85 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-21-chinas-driverless-car-dreams-troubled-by-us-chip-dependency.md",
+      "title": "China’s driverless car dreams troubled by US chip dependency",
+      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8?sharetype=gift?token=10a5929d-a553-4978-ad08-5a6d2157ddf8",
+      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8?sharetype=gift?token=10a5929d-a553-4978-ad08-5a6d2157ddf8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-20T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-chinas-driverless-dreams-troubled-by-us-chip-dependency.md",
+      "title": "China’s driverless dreams troubled by US chip dependency",
+      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3d7ee15-7663-4701-8bde-d6019e7d4297.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
+      "publishedDateTime": "2022-02-20T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-the-artificial-intelligence-enabled-nation.md",
       "title": "The artificial intelligence-enabled nation",
       "excerpt": "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ...",
@@ -712,6 +791,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-19-deepmind-scientists-say-they-trained-an-ai-to-control-a-nuclear-fusion-reactor.md",
+      "title": "DeepMind scientists say they trained an A.I. to control a nuclear fusion reactor",
+      "excerpt": "DeepMind claimed that the breakthrough, published in the journal Nature, could open new avenues that advance nuclear fusion research. In this article Scientists at DeepMind have found another real ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "originalUrl": "https://www.cnbc.com/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1645172412",
+          "width": 4488,
+          "height": 2992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "publishedDateTime": "2022-02-18T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-palantir-stock-is-not-a-buy-yet.md",
       "title": "Palantir Stock Is Not a Buy Yet",
       "excerpt": "In other words, the company has an interesting hybrid model that pairs AI with human expertise. It contrasts starkly with, for example, IBM’s (NYSE:IBM) Watson AI system, which is almost ...",
@@ -1056,162 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen.md",
-      "title": "China's Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen",
-      "excerpt": "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
-      "originalUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3a3f19bdef62d31e313b4ac74f3f28d7.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
-      "publishedDateTime": "2022-02-18T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip.md",
-      "title": "Intel to blend CPU, GPU cores into monster supercomputing chip",
-      "excerpt": "“Falcon Shores will bring x86 and Xe GPU acceleration into a Xeon socket ... systems computing large data sets and training gigantic AI models”, he says. Specifically, Intel expects Falcon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
-      "originalUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/PnrNYFJsvBVEdsgUmA2PoE-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022.md",
-      "title": "Why AI and machine learning are vital cybersecurity tools for 2022",
-      "excerpt": "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
-      "originalUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645030838/webroot_carbonite_logos_Numbers_Brain_AI.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

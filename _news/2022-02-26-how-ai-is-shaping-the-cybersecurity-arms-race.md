@@ -8,7 +8,7 @@ webUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurit
 ampWebUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
 cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"

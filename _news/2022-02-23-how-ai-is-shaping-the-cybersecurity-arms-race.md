@@ -68,7 +68,7 @@ related:
     provider:
       name: KRQE
       domain: krqe.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"
         width: 1280

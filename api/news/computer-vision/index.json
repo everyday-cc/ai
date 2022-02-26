@@ -1295,6 +1295,40 @@
       ]
     },
     {
+      "path": "_news/2022-02-13-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
+      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
+      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
+      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-12T13:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-quad-air-drone-reviews-is-the-quadair-drone-legit.md",
       "title": "Quad Air Drone Reviews: Is The QuadAir Drone Legit?",
       "excerpt": "It will thrive despite strong winds. Features of good design on QuadAir include an object recognition system. Its unparalleled power and benefits come from the latest technology, as well as the use of state-of-the-art cameras. Using a clever design ...",
@@ -1367,40 +1401,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
-      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
-      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianagazette.com/news/state/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_288b0ea4-9856-5d3f-a2df-c126e9490dee.html",
-      "originalUrl": "https://www.indianagazette.com/news/state/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_288b0ea4-9856-5d3f-a2df-c126e9490dee.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiana Gazette",
-        "domain": "indianagazette.com",
         "images": null,
         "publishers": null,
         "authors": null

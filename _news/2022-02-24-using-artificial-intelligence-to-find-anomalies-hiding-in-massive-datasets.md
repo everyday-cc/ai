@@ -1,31 +1,22 @@
 ---
 category: news
-title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
-excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots, researchers say farmers’ livelihoods must be protected."
-publishedDateTime: 2022-02-24T09:43:00Z
-originalUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/"
-webUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/"
-ampWebUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+title: "Using artificial intelligence to find anomalies hiding in massive datasets"
+excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their ..."
+publishedDateTime: 2022-02-24T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944656"
+webUrl: "https://www.eurekalert.org/news-releases/944656"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Metro
-  domain: metro.co.uk
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI in Autos
+  - IBM AI
   - AI
-  - AI in Robotics
-
-images:
-  - url: "https://metro.co.uk/wp-content/uploads/2022/02/SEI_89793529.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-    width: 600
-    height: 400
-    isCached: true
 
 related:
   - title: "Putting AI to work for CX and sales in 2022"
@@ -93,6 +84,22 @@ related:
         height: 1280
         isCached: true
   - title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
+    excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots, researchers say farmers’ livelihoods must be protected."
+    publishedDateTime: 2022-02-24T09:43:00Z
+    webUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/"
+    ampWebUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 47
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/02/SEI_89793529.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
     excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots ..."
     publishedDateTime: 2022-02-24T21:20:00Z
     webUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/?ico=related-posts"
@@ -131,16 +138,7 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
-    excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their ..."
-    publishedDateTime: 2022-02-24T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944656"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
 
-secured: "5UPfzxrtAK6kHhLKS5OJyY/HjmWC6xIWL0zwGeYzfJ5iCu8PCkHpiFGY/ROrm+YTVEyjWVi23XAUCl9TqqGg5ua7IMouP5ABqeboZTkCqUnTuvNBjW1YEUU4b9v1r1O7wcR9G14k2NRJhE9wU+zQQGjiXQpKW2yMVzWx95ARNTUYmHBZu8YV6WSuczQJPjEmKnxcKX86S0VZUUVdN17qpPN0AbtSy6l7Zoh+lckULeMCdxfXiQldoASVgIjAp/35HTEfq2ltnjzPFxSnqzHQ+ZpQMXYJStmczlXx7y01nqOFelo1J9URVXVylhLhEA7Vwg/9LEsA9eRLIgWVxMxZLg+YSwywR+lUjKPjEKf40XBlbFN5qiR4kfo0NuiE1rFEKEIN1f02XdY/eBB4WdtTftFKxYmoJ2Yvjn3IRqg0QtIw6vZ9rOIaz6EZlaN2E5zlJAmuzqHC5w7PgpapXn0Duh+teoani99UdvxqtYBO3EuscZSXN/Hg0dCi/VVGbdlYRtNBBMWl638+go1d2Sl+NA==;IS1+elG2sKuBkXFcwWTG+w=="
+secured: "j3wKvgcT3k1gAconMI4vB3QRlfmZ1pw2dsERz7AcC5L35VcSdZE5/zI/KKJ4Y75CL7AwfGCerXAw17zAqP6jQkflWeDj1gnuEk+aQ7t6nx/EvIALRHRdSDIltwQ7MQVNStA/EXYsrWKdG9stC1ZVFIjFwK6JdIyYB4X60EM0sPd+4PZdiy/q6j7iTuk2o86l2KBsp6VSqP/WD90mfGUbl9014ZtyqsTI5znGxCgaB2FdjLlGWrzFRupAhhgG3QnjaLWhYFguO5FhbG/+TTbMQXadZCZBp2HsCxPWVw7ML5pm/JGNbbX3lUVN5P32hVtQkAYiF3ZwiaaANFzMbDTgF/AkR/ir10pSzxbdSwtf8Io=;sn6UZ6GPyd/SAKrUHGQ0fA=="
 ---
 

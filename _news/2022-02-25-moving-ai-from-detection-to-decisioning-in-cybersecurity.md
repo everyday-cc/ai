@@ -47,6 +47,22 @@ related:
         height: 1920
         isCached: true
   - title: "How AI is shaping the cybersecurity arms race"
+    excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find"
+    publishedDateTime: 2022-02-26T15:10:00Z
+    webUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/"
+    ampWebUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 59
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"
+        width: 1280
+        height: 864
+        isCached: true
+  - title: "How AI is shaping the cybersecurity arms race"
     excerpt: "Cybersecurity staff often find themselves inundated with data they need to sort through to manage their cyber defenses. The stakes are high. Cyberattacks are increasing and affect thousands of organizations and millions of people in the U."
     publishedDateTime: 2022-02-23T14:03:00Z
     webUrl: "https://www.stamfordadvocate.com/news/article/How-AI-is-shaping-the-cybersecurity-arms-race-16940412.php"
@@ -61,22 +77,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "How AI is shaping the cybersecurity arms race"
-    excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find"
-    publishedDateTime: 2022-02-26T15:10:00Z
-    webUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/"
-    ampWebUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
-    type: article
-    provider:
-      name: KRQE
-      domain: krqe.com
-    quality: 57
-    images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"
-        width: 1280
-        height: 864
         isCached: true
   - title: "Go-to-market cybersecurity startup Cheq raises $150M in funding"
     excerpt: "Startup Cheq AI Technologies Ltd., which helps companies block malicious online traffic, today announced that it has raised $150 million in new funding. The Series C funding round was led by ..."

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medic
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-size-worth-us-1798-22-mn-by-2030-cagr-49-4-absolute-markets-insights"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AI In Drug Discovery Market GROW WITH A CAGR 2021-2027"
-    excerpt: "Astute Analytica published a new report on the Global AI in drug discovery Market, this market research report provides detailed analysis of primary and secondary market drivers, market share, restraints, challenges, opportunity analysis, and trends ..."
-    publishedDateTime: 2022-02-22T05:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-grow-with-a-cagr-2021-2027-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "u8AbFxHiQeWCIK3eJn8vRsuSfAnH/B0qpELDxupXKXqJEKsEQ2JO9Tlc2eIM9NphfGWUaetznZpf7cwoLoMuebVpRfDTyI9H3H9YIl6MbbRUad8tw8Kdz57LKAlcWLcyYWXruya4rRZ+o3lrjnrfcvrOTjN6+9D+7SOU0il8O9mVEsp6ZAAlr1rHQ4EROmddZbIQxNJadAqJopG6bZTU6tSSYlCv6ZQ6nkSMFrCGf74AcLXnnpHegn86zkOtzHeLakLbWCWWje2NJT26waizP/Xdw/zizsUoAP3JOHEb/CX/Sz+mui6qINDaxkO9KdHUoXnEkc5KX41WTg+1cVc2uhOeZbKB9ut4Qu6Hk9mJyCI=;gSmdL2BkpWqcjmqt5RfjNg=="
 ---

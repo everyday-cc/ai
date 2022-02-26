@@ -2,55 +2,20 @@
   "page": 78,
   "value": [
     {
-      "path": "_news/2021-10-23-deep-learning-market-size-analysis-strategic-assessment-market-growth-and-forecasts-to-2026.md",
-      "title": "Deep Learning Market Size Analysis, Strategic Assessment, Market Growth and Forecasts to 2026",
-      "excerpt": "Deepmind Technologies Ltd. Deep learning can be considered as a subset of machine learning and consists of algorithms that allow a software to self-train to execute tasks such as image and speech ...",
+      "path": "_news/2021-12-09-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
+      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
+      "excerpt": "The AI and machine learning technology outlined in the presolicitation could also support new EHR infrastructure and focus on an improved user experience, mainly with an improved platform ...",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "originalUrl": "https://www.openpr.com/news/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "publishedDateTime": "2021-10-22T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-qualcomm-develops-eyes-free-smartphone-for-the-blind-and-visually-impaired-calls-it-ray.md",
-      "title": "Qualcomm develops eyes-free smartphone for the blind and visually impaired, calls it Ray",
-      "excerpt": "Qualcomm and Project Ray, however, are aiming to consolidate phone calls, text messaging with voice read-out, navigation, object recognition, audio book reading and more for the visually impaired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
-      "originalUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2022/01/us-army-announces-new-machine-learning-tech-burn-treatment/360303/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/uu/api/res/1.2/DHoHJGG4a.E06Km02pVGTw--~B/aD00MDA7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/10/project-ray.jpg",
-          "width": 620,
+          "url": "https://cdn.nextgov.com/media/img/cd/2022/01/03/GettyImages_184355967/open-graph.jpg",
+          "width": 400,
           "height": 400,
           "title": null,
           "attribution": null,
@@ -61,124 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T17:00:00-07:00",
+      "publishedDateTime": "2021-12-08T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.md",
-      "title": "Quotation of the Day: U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World",
-      "excerpt": "U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World “Once they have access to your genetic data, it’s not something you can change like a pin code.” EDWARD YOU, a national counterintelligence officer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/22/todayspaper/quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/22/us/politics/22dc-INTEL1/22dc-INTEL1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
-      "publishedDateTime": "2021-10-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-mailchimp-employs-ai-to-boost-email-marketing-campaigns.md",
-      "title": "Mailchimp employs AI to boost email marketing campaigns",
-      "excerpt": "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1279753951-e1634580409297.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
-      "publishedDateTime": "2021-10-22T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -188,25 +41,25 @@
       ],
       "topics": [
         "AI",
-        "AI in Marketing"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-23-new-bill-would-secure-government-contractors-use-of-ai.md",
-      "title": "New Bill Would Secure Government Contractors' Use of AI",
-      "excerpt": "Two Senate leaders on Thursday introduced legislation that would form a working group charged with monitoring the security of AI data obtained by federal",
+      "path": "_news/2021-12-08-breaking-international-news-views-reuters.md",
+      "title": "Breaking International News & Views | Reuters",
+      "excerpt": "Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/",
-      "originalUrl": "https://www.inforisktoday.com/new-bill-would-secure-government-contractors-use-ai-a-17786",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-exclusive/exclusive-google-pledges-changes-to-research-oversight-after-internal-revolt-idUSKBN2AP1AC",
+      "originalUrl": "https://www.reuters.com/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/615f6fab0208edf75baf39bd/master/pass/AI-Bill-of-Rights.jpg",
-          "width": 2400,
-          "height": 1350,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552870470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O0OD",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -214,577 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
-      "publishedDateTime": "2021-10-22T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Info Risk Today",
-        "domain": "inforisktoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-restaurants-prep-for-long-term-labor-crunch-by-turning-to-robots-to-work-the-fryer-shuttle-food-to-tables.md",
-      "title": "Restaurants prep for long-term labor crunch by turning to robots to work the fryer, shuttle food to tables",
-      "excerpt": "Restaurants that are struggling to fill jobs are beginning to turn to robotic solutions to ease staffing challenges and to speed up operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964441-1634924133556-106964441-1634903029090Team_Member_Next_to_Flippy_ROAR_at_the_Fryer_2.JPG?v=1634924157",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "publishedDateTime": "2021-10-22T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws.md",
-      "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
-      "excerpt": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image001.jpg",
-          "width": 622,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
-      "title": "embedded news week: robotics, rainforests and IoT security",
-      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
-          "width": 1700,
-          "height": 1130,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-eu-proposed-regulatory-regime-for-artificial-intelligence-ai-could-set-global-standard.md",
-      "title": "EU Proposed Regulatory Regime for Artificial Intelligence (AI) Could Set Global Standard",
-      "excerpt": "The European Union (EU) has launched the world’s first comprehensive legislative package to regulate AI.  The Artificial Intelligence Act (AIA), which is currently progressing through the E",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
-      "originalUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
-      "publishedDateTime": "2021-10-22T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-arm-aiming-for-a-huge-ai-performance-boost-with-next-gen-gpu-architecture.md",
-      "title": "Arm Aiming For A Huge AI Performance Boost With Next-Gen GPU Architecture",
-      "excerpt": "As AI and machine learning capabilities play bigger roles in everyday tasks, companies like Arm must push the performance envelope.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56582/content/small_arm_gpu_ai_brain.jpg",
-          "width": 708,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "publishedDateTime": "2021-10-22T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-scientists-built-an-ai-to-give-ethical-advice-but-it-turned-out-super-racist.md",
-      "title": "Scientists Built an AI to Give Ethical Advice, But It Turned Out Super Racist",
-      "excerpt": "Researchers at the Allen Institute for AI created Ask Delphi to make ethical judgments — but it turned out to be awfully bigoted and racist instead.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/delphi-ai-ethics-racist",
-      "originalUrl": "https://futurism.com/delphi-ai-ethics-racist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/10/RacistAI-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/delphi-ai-ethics-racist/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/delphi-ai-ethics-racist/amp",
-      "publishedDateTime": "2021-10-22T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-medical-device-leader-medtronic-joins-race-to-bring-ai-to-health-care.md",
-      "title": "Medical device leader Medtronic joins race to bring AI to health care",
-      "excerpt": "Medtronic has tightened its focus on health care technology with research and development of artificial-intelligence-based medical devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/",
-      "originalUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/image2-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/amp/",
-      "publishedDateTime": "2021-10-22T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-mailchimp-employs-ai-to-boost-email-marketing-campaigns.md",
-      "title": "Mailchimp employs AI to boost email marketing campaigns",
-      "excerpt": "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/",
-      "originalUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1279753951-e1634580409297.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/",
-      "publishedDateTime": "2021-10-22T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart.md",
-      "title": "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart",
-      "excerpt": "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T08:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings.md",
-      "title": "Momentum in Azure Cloud to Aid Microsoft (MSFT) Q1 Earnings",
-      "excerpt": "Microsoft MSFT is scheduled to report first-quarter fiscal 2022 results on Oct 26. The company’s quarterly numbers are likely to have been driven by the continued strength in its cloud platform — Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
-      "originalUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
-      "publishedDateTime": "2021-10-22T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-18-tech-deals-for-the-weekend-black-friday-like-prices-on-tvs-bluetooth-speakers-robot-vacuums-and-more.md",
-      "title": "18 Tech Deals for The Weekend: Black Friday-Like Prices On TVs, Bluetooth Speakers, Robot Vacuums And More",
-      "excerpt": "If you love gadgets, this is a good weekend is looking good. Here are deals on Bluetooth speakers, electric scooters, TVs and streaming boxes, not to mention a slew of other gadgets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6171dfc6690a0277b2699717%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1500%26cropY1%3D139%26cropY2%3D1264",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
-      "publishedDateTime": "2021-10-22T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-senior-industry-leaders-need-to-learn-about-ai.md",
-      "title": "Senior industry leaders need to learn about AI",
-      "excerpt": "Bradley Merrill Thompson of Epstein Becker Green encourages company leaders to develop an understanding of the vocabulary and workings of AI given the present and emerging legal risks and liabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/_QoKdgtINXJfhCTaabc4tqVbsfg=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3RZ4P32MBHDREE3BELIVG7MPQ.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T07:17:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "publishedDateTime": "2021-12-07T22:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
         "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -804,21 +96,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-22-video-showing-jamba-juice-robot-kiosk-miserably-failing-at-pouring-smoothie-goes-viral.md",
-      "title": "Video Showing Jamba Juice Robot Kiosk Miserably Failing at Pouring Smoothie Goes Viral",
-      "excerpt": "Jamba Juice introduced the robot kiosk last year, but the viral video showed it missing the cup when pouring the smoothie.",
+      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
+      "title": "Report: AI investments see largest year-over-year growth in 20 years",
+      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
-      "originalUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
+      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1918111/robot-making-smoothie.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -826,16 +118,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
-      "publishedDateTime": "2021-10-22T06:44:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "publishedDateTime": "2021-12-06T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -851,111 +143,25 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-22-palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai.md",
-      "title": "Palantir's Peter Thiel thinks people should be concerned about surveillance AI",
-      "excerpt": "Tech billionaire Peter Thiel said this week that people should be more worried about \"surveillance AI\" than artificial general intelligences.",
+      "path": "_news/2021-11-04-zillow-group-inc-cl-c.md",
+      "title": "Zillow Group Inc. Cl C",
+      "excerpt": "The Price to Earnings (P/E) ratio, a key valuation measure, is calculated by dividing the stock's most recent closing price by the sum of the diluted earnings per share from continuing operations ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai/ar-AAPPGG9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106723917-1601485714383-gettyimages-1183198447-350472044_1-12.jpeg?v=1618328636",
-          "width": 4643,
-          "height": 3096,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-      "publishedDateTime": "2021-10-22T05:29:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-        "domain": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics.md",
-      "title": "SoftBank in talks to sell French robotics business to Germany’s United Robotics",
-      "excerpt": "SoftBank Group Corp is in talks to sell the Paris-based robotics business behind its Pepper android to Germany's United Robotics Group, according to sources and documents reviewed by Reuters, scaling back a business it once touted as a major growth driver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics/article37123893.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics/article37123893.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/z116p3/article35049023.ece/ALTERNATES/LANDSCAPE_615/SoftBank-Pepper",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics/article37123893.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics/article37123893.ece/amp/",
-      "publishedDateTime": "2021-10-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2026",
-      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market” covering both global and regional markets. It aims to give",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to-2026-2021-10-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to-2026-2021-10-22",
+      "webUrl": "https://www.wsj.com/articles/zillow-offers-real-estate-algorithm-homes-ibuyer-11637159261",
+      "originalUrl": "https://www.wsj.com/market-data/quotes/Z",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.wsj.net/im-436188/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -963,16 +169,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T03:49:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/zillow-offers-real-estate-algorithm-homes-ibuyer-11637159261",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/zillow-offers-real-estate-algorithm-homes-ibuyer-11637159261",
+      "publishedDateTime": "2021-11-04T04:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -988,218 +194,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-ai-in-fintech-market-2021-segmented-by-application-and-geography-trends-growth-and-forecasts-to-2024.md",
-      "title": "AI in Fintech Market 2021 Segmented by Application and Geography Trends, Growth and Forecasts to 2024",
-      "excerpt": "AI in Fintech Market ”report give an insightful analysis of the market development variables and drivers, the geographies have been exclusively examined in terms of the parameters such as production,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-segmented-by-application-and-geography-trends-growth-and-forecasts-to-2024-2021-10-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-segmented-by-application-and-geography-trends-growth-and-forecasts-to-2024-2021-10-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-google-is-still-all-in-on-health-care-chief-health-officer-karen-desalvo.md",
-      "title": "Google is still 'all in' on health care: Chief health officer Karen DeSalvo",
-      "excerpt": "IBM has long attempted to make its AI Watson a major player in health care, and now other major technology companies, especially consumer-facing ones, are increasingly interested in health-care ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/21/google-is-all-in-on-health-care-again.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/21/google-is-all-in-on-health-care-again.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106963617-1634781012100-gettyimages-1283059533-273741final.jpeg?v=1634781062",
-          "width": 5000,
-          "height": 3750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/21/google-is-all-in-on-health-care-again.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/21/google-is-all-in-on-health-care-again.html",
-      "publishedDateTime": "2021-10-22T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-aws-makes-its-panorama-appliance-generally-available.md",
-      "title": "AWS makes its Panorama Appliance generally available",
-      "excerpt": "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570814329/itpro/aws_logo.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
-      "publishedDateTime": "2021-10-22T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai.md",
-      "title": "AI And Data At Dow Jones: Why Humans Are The Machine Behind AI",
-      "excerpt": "Dow Jones is a data company. I speak to Dow Jones’ head of data strategy to explore the important role of humans to leverage data and artificial intelligence (AI) in order to create authentic intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61727575baf82c128aa7d180%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/amp/",
-      "publishedDateTime": "2021-10-22T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
   ],
-  "nextPage": 79
+  "nextPage": null
 }

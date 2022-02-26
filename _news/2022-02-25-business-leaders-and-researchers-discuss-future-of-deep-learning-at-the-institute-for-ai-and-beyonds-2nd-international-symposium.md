@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 848
         isCached: true
-  - title: "Researchers use artificial intelligence to find better tasting fruits and vegetables"
-    excerpt: "The content of this article 'UF/IFAS researchers creating an ‘Artificial Intelligence Connoisseur’' was prepared by Brad Buck for the University of Florida Institute of Food and Agricultural Sciences and has been revised and republished by ..."
-    publishedDateTime: 2022-02-22T06:00:00Z
-    webUrl: "https://www.freshfruitportal.com/news/2022/02/22/researchers-use-artificial-intelligence-to-find-better-tasting-fruits-and-vegetables/"
-    type: article
-    provider:
-      name: Fresh Fruit Portal
-      domain: freshfruitportal.com
-    quality: 30
-    images:
-      - url: "https://cdn.freshfruitportal.com/2022/02/Untitled-design-2022-02-21T145252.004.png"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "vQy+v+YfDNiMlaYJz/RrUOLqfdxE2T7sl/Tf6VsiSynut9ERznh4GH5oK3IPHMl81mPnPNDLIJZvbtB+JnYt2GtAZcyorl9b61VSoYitiiSryYWn09IwMqkzqNUQkMIBGPjy2DYLD0hyQB6f1qg36urNKl819bO5YBe/2IfoLcOnTuz+cisLXOw10ie/lXq8JWrlUQeo/ZFAlrkIrltatmzXkJb6MqaJhEM6dZJp3glF1e9lwg237hSyMfUSZmb6sk745mRglve8GkTh23cxcLcicPwVQGRapSlAnRQvqDj1lervTVpicVvV/OsOt+bSzxJfelrNcq0McZNADOjLtzA+dMq4zr+TrqxofWMrcNQ5DWsvnXsk/o7L0hnPlZ8DOBhKCYbyod/iYaTceoA7C65exTHg500a6xObS+stmtSsY325blg1pjn6G1AJwSNbb2YItGG0CUgs8MP+FGF4sAanLqkwTH9kaBqQxEQkqnowpS4jusk6JHtiVGqJlB0XSrIGB6DvYvP3tLP4NnirgA==;cHF1RpHXYTy37OBKwzN/+g=="
 ---
