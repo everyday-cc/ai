@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html"
 type: article
 quality: 74
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
-    excerpt: "Ukraine seeks an emergency meeting of the U.N. Security Council. Boris Johnson warns that Russia is planning the biggest war in Europe since 1945. Belarus says Russian troops might not leave unless NATO pulls back from Eastern Europe."
-    publishedDateTime: 2022-02-21T15:04:00Z
-    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-biden01/21ukraine-briefing-biden01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
     excerpt: "Why it matters that Russia just recognized Donetsk and Luhansk. In Photos: Eastern Ukraine on Monday. U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit. Highlights from Putin’s address on breakaway regions in Ukraine."
     publishedDateTime: 2022-02-21T19:18:00Z

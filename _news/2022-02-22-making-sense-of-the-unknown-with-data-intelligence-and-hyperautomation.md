@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 646
     isCached: true
-
-related:
-  - title: "Running multiple APIs side-by-side with AI paves way to hyperautomation for business"
-    excerpt: "Running existing APIs side-by-side can cut costs while reducing inefficiencies, but it requires a critical missing piece – AI."
-    publishedDateTime: 2022-02-21T16:17:00Z
-    webUrl: "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/"
-    ampWebUrl: "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1219705473.jpg?w=1200&strip=all"
-        width: 1200
-        height: 539
-        isCached: true
 
 secured: "6lejZNRQ+GTa5LKHY0oTn2+HlObXyzdWqKTxPlpqd1gWBXyzyHz3PYzF0lh5pefyLgT4yFgteqw31YiY8/fVzURXqRZjZcbotBGHWu9Guxi7HpiHF0DK484/zdfjL1XUqDk2n+A7Upr3NemClL9A8j/z3KokKJtjF7ahi7Xhpspso1m22kancYMiPo2L2IZfpTqyoj1mDj0nP6JFM2m5kWsUM6GozQzbMGww5ffGJtqBeh5ShIo/VWor86L8R6EYi103KJCB0K0Wo3+b+Dzco1tpqVVMIdcR2yP+d40kp2Oek7kN1A9tFkbeZOpVNC/iELiZiuE9XeGGw+4+axAcyMFlJXTana+x3pgCSmPj2ag=;HIgPlPiWQB/tlbAmWYeZIg=="
 ---

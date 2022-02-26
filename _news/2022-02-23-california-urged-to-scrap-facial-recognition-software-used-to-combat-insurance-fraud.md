@@ -52,17 +52,6 @@ related:
       name: ABC7 San Francisco
       domain: abc7news.com
     quality: 36
-  - title: "California EDD looks at ending facial recognition technology in unemployment verification"
-    excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-    publishedDateTime: 2022-02-23T20:20:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 30
 
 secured: "o/PItyNNo9rgRPxlT3HxlQXBGt5KBtWq1/sxc6yfElAQe6/EjgcKhvWTc4Ub8BTm8k317yER83ToJS/+IMJa/gS1yqH726FPX1weV/oeN4EKdsySH+W6bdSYL5FVLvfKSwZtzguEY4JqYMeYZujwXJzTR9H7tZJxbD5P1lJLICGD++5Y21okOAyIotNmROZbjGydOmWasdzzdXK46ygQl0ZLKfWuOPDa286tMjIRUitIFtqkC7YnG8+akcS51CTnUYoJhfx0oK9HfMWPe8H5w1u91WC0KWtCsmezNuuS+27YK9I15WawkoQqzlCgNUfpOD41cfYQAsllD3qNOQbqy5UG1++tp8n0zxIrg49+pKh64PTZnidEQl8TfHzUo07itMVLKBfoBJy2BGgaRgAmpxu1z5e71/HMhJS+ZydWGqlN/RXl+5PLz+9L07Ps1E90JD+tC+huudZIQHSpLrtB4OlBCdYlWmLAz/bwjid7e7aUOwLgHePB1egwmFOmcs+ktlujrg0MVufM3kPE/xh9TQ==;uQc/3IdMu9Vq1Vr4yt0Xjg=="
 ---

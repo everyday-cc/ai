@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2022/02/21/people-trust-deepfake-faces-mo
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/21/people-trust-deepfake-faces-more-than-real-ones-study-finds/?amp=1"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Singularity Hub
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Research Study Claims AI-Generated Faces Are More Trustworthy Than Real Humans"
-    excerpt: "New research suggests that not only are AI-generated faces indistinguishable from real ones, but are more trustworthy as well"
-    publishedDateTime: 2022-02-21T15:37:00Z
-    webUrl: "https://hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
-    ampWebUrl: "https://amp.hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/research-study-claims-ai-generated-faces-are-more-trustworthy-than-humans"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 53
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57753/content/deep-fake-ai.jpg"
-        width: 708
-        height: 419
-        isCached: true
   - title: "Deepfake democracy - the presidential hopeful using artificial intelligence to win votes"
     excerpt: "Yoon Suk-Yeol of the People Power Party is using an artificial intelligence version of himself that is younger, wittier, ruder and more direct than the real thing. So is this a strange political stunt? Or will we all soon be able to talk to a superior ..."
     publishedDateTime: 2022-02-22T10:14:00Z

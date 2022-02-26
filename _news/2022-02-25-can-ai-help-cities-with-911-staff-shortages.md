@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techwire.net/news/can-ai-help-cities-with-911-staff-shor
 cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages?_amp=true"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Could AI Help Solve The Global Chip Shortage?"
-    excerpt: "Today’s chip shortage is holding back global economic growth, fueling inflation and making life difficult for consumers and business alike."
-    publishedDateTime: 2022-02-21T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/620d50fbb36ef033e8f05d4f/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 671
-        isCached: true
-  - title: "1 Monster Opportunity in the Global Chip Shortage"
-    excerpt: "and artificial intelligence (AI) technology. On top of these secular tailwinds, the chip industry is being held back due to supply constraints around the world right now, which should push spending higher over the next few years. Many investors focus on ..."
-    publishedDateTime: 2022-02-24T10:48:00Z
-    webUrl: "https://www.fool.com/investing/2022/02/24/1-monster-opportunity-in-the-global-chip-shortage/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/667104/semiconductor.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "Can Artificial Intelligence Help With 911 Staff Shortages?"
     excerpt: "As government call centers grapple with the nationwide staffing shortage and an influx in demand, some are implementing artificial intelligence tools to improve wait times and accessibility for callers."
     publishedDateTime: 2022-02-23T22:31:00Z

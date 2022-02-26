@@ -21,38 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "IRS Adds Option That Lets Taxpayers Skip Facial Recognition"
-    excerpt: "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition."
-    publishedDateTime: 2022-02-21T15:17:00Z
-    webUrl: "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition technology faces mounting legal, ethical questions"
-    excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-    publishedDateTime: 2022-02-23T00:02:00Z
-    webUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    type: article
-    provider:
-      name: FOX 17
-      domain: fox17online.com
-    quality: 76
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "IRS says you can now create account without submitting to facial recognition"
     excerpt: "The IRS's use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
     publishedDateTime: 2022-02-21T21:59:00Z
@@ -106,70 +74,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "IRS announces alternative to facial recognition software"
-    excerpt: "After an initial backlash over its facial recognition feature, the Internal Revenue Service said Monday it started a new option that will allow taxpayers to sign up for online accounts without the feature."
-    publishedDateTime: 2022-02-21T17:35:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/21/IRS-facial-recognition-video/3591645466216/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3591645466216/2022/1/0891f8f1261eba40ce02aaf909f19044/v1.5/IRS-announces-alternative-to-facial-recognition-software.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Tech Bytes: New Macs, IRS facial recognition, Insta time limits"
-    excerpt: "The IRS is now allowing taxpayers to opt-out of using its facial recognition technology. People who want to access their online accounts can choose to verify their identity with a live, virtual interview. The IRS recently announced it would “transition ..."
-    publishedDateTime: 2022-02-22T11:32:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
-        width: 1001
-        height: 563
-        isCached: true
-  - title: "IRS allowing people to opt-out of facial recognition"
-    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
-    publishedDateTime: 2022-02-22T18:36:00Z
-    webUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
-        width: 3736
-        height: 2421
-        isCached: true
-  - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
-    excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
-    publishedDateTime: 2022-02-23T04:19:00Z
-    webUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
-        width: 1000
-        height: 527
-        isCached: true
   - title: "IRS now allowing people to opt-out of facial recognition"
     excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology."
     publishedDateTime: 2022-02-23T14:50:00Z
@@ -201,38 +105,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
         width: 3736
         height: 2421
-        isCached: true
-  - title: "Following Backlash, IRS Allows Skipping Facial Recognition"
-    excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
-    publishedDateTime: 2022-02-24T17:53:00Z
-    webUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/65ed04f/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F99%2Fee%2F70e57ea596472533b739cecaf122%2Firs1.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "US facial recognition company building a database of 100 million phizzogs – that’s 14 per person on the planet"
-    excerpt: "Slide deck punting for an additional US$50 in investment million reveals the reach and ambition of Clearview AIA database so huge and intrusive that even"
-    publishedDateTime: 2022-02-21T16:07:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 41
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/clearview-ai-13724.jpeg?w=1200"
-        width: 1120
-        height: 630
         isCached: true
   - title: "IRS lets taxpayers opt out of facial recognition"
     excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."
@@ -273,17 +145,6 @@ related:
         width: 640
         height: 388
         isCached: true
-  - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
-    excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
-    publishedDateTime: 2022-02-22T23:44:00Z
-    webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
-    ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 39
   - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
     excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
     publishedDateTime: 2022-02-24T03:40:00Z
@@ -311,48 +172,6 @@ related:
       - url: "https://scpr.brightspotcdn.com/dims4/default/0b307da/2147483647/strip/true/crop/4928x2587+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F9d%2F9e%2F40b1cd2643cb9e7b09af4627b020%2Fgettyimages-470401587.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
-    excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
-    publishedDateTime: 2022-02-24T21:36:00Z
-    webUrl: "https://executivegov.com/2022/02/irs-ends-use-of-facial-recognition-software-for-online-account-registration/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 31
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/24/02/43/a0/38/e2/d0/89/54/00P4y000011p6OsEAI-1.png"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "School Board Recognition Week honors board members"
-    excerpt: "School Board Recognition Week. In a news release Monday, Feb. 21, Brainerd Public Schools Superintendent Laine Larson recognized the district’s board members. “I would like to thank all of our dedicated board members for making a difference in the lives of the children while making decisions based on what you believe is best for the school district,"
-    publishedDateTime: 2022-02-24T00:13:00Z
-    webUrl: "https://www.brainerddispatch.com/news/local/school-board-recognition-week-honors-board-members"
-    type: article
-    provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
-    quality: 24
-    images:
-      - url: "https://cdn.forumcomm.com/dims4/default/ed9340c/2147483647/strip/true/crop/3674x1786+0+361/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F77%2Ff8%2Fe7d0f9494a51999b2187bf9fc880%2F20220119-122125.jpg"
-        width: 1440
-        height: 700
-        isCached: true
-  - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
-    excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
-    publishedDateTime: 2022-02-23T10:28:00Z
-    webUrl: "https://www.itsnicethat.com/news/superposition-inside-the-nypds-surveillance-machine-digital-230222"
-    type: article
-    provider:
-      name: It’s Nice That
-      domain: itsnicethat.com
-    quality: 12
-    images:
-      - url: "https://admin.itsnicethat.com/images/_XN1leAQVOU29GQeCz0-jqNXk7Q=/222145/width-1440/superposition-inside-the-nypds-surveillance-machine-digital-itsnicethat-02.jpg"
-        width: 1440
-        height: 810
         isCached: true
 
 secured: "hhjEtJUFJf7o+Xq/Kskt30/JJebt2KEmwYNOL+3pAMCVDJ7yMZmt4KelDYHylfJOKzFoTDIbpxN2v/JH2gNOM4AiqAWntgpUnMX1ID2FPUOAUc0HPp0J520hQbIQDDgcWvhpb1LnxvhQco8mniTs03arQZAK0jOQdB3HWTlJAiylawO8LhWbtoY9QczVCCSPJYN7QeCeFyXV+7+xcOIFg/L+6WwS1ZuM3TEvn5LF4iQEGMDYqRpdoUfLodRwBo2yGfyXY9qz9fnJ+cV6Gj0BHyW2shPFavCkmg1AUqnfR87urEjvg/U/cnbBnozzST3HAzgpad+kP+T8djx0bBYLbeAjqklRvefu2hOeYnf39S47yB6e1uqLw41tsT33FXV6A7lRPePTFz7I6bfnyQ78eshi7hlW7lGwvU9LmUkLJZXxahR1aCwF2HxX7gWdr0fe3CEvGlCS7HWRZ+u+Gz/xNoVfnyB4oGsQGBlym01kB+is5/S/vHKZUoje/369tGYMrXwhkZrhwae54XhC+nYELw==;6UMN0yt2tIA2x7Q3VbEfDA=="

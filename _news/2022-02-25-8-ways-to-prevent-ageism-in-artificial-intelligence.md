@@ -41,6 +41,22 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time"
+    excerpt: "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time."
+    publishedDateTime: 2022-02-25T21:23:00Z
+    webUrl: "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/"
+    ampWebUrl: "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 66
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/02/Indian-student-AI-sign-language-translator-feat..jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "MaNH09aQA87UHT0I6UA7F/YaM2SVDMMLgqPWWesQCA0UBnTkdeuc13rTAcd4mRfVis/FvX8lGqWbsUj60K3fsd87s0J0266voAAj8xo1eh9re5LtaZxrdKb28YZe9Y6ADU4wcQJITH1YYbFXrIMQirOzE9++nI8QKqpS2jaOrYG3pZ5fH6RWDCGnqxJjiwHPxogSsjCMhHk8fTkdMrl/ORZ7ZYJCcXaQn3dAkfI4Ap6teZiGXtAa42Z2P09iNfWMxcaivvIszhsMBw78Is8NNlemL4nP6EE77IiHgn+1eDi2Zp+hIurdiMl5OQxYXWBAPb/H8Yj6+kV+7f+c0VvdGC2xieudrc2nEBBDZIggi1Y=;W4byEP8DcIko2z/dIcBxgA=="
 ---

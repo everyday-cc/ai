@@ -167,20 +167,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Putin Orders Russian Troops Into Ukraine’s Breakaway Provinces"
-    excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
-    publishedDateTime: 2022-02-21T16:25:00Z
-    webUrl: "https://foreignpolicy.com/2022/02/21/ukraine-russia-recognizes-breakaway-provinces/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 39
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
-        width: 1000
-        height: 612
-        isCached: true
   - title: "US 'strongly' condemns Russian recognition of Ukraine's breakaway regions"
     excerpt: "Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have recently risen dramatically in ..."
     publishedDateTime: 2022-02-21T22:53:00Z
@@ -224,20 +210,6 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/z/4/r/image.related.StuffLandscapeSixteenByNine.1420x800.4yx99x.png/1645507296741.jpg"
         width: 1420
         height: 798
-        isCached: true
-  - title: "In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces"
-    excerpt: "Report: In Rambling, Conspiracy-Filled Speech, Putin Recognizes Ukraine’s Breakaway Provinces In Rambling, Conspiracy-Filled Speech, Putin... | View Comments () NEW FOR SUBSCRIBERS: Click + to receive email alerts for new stories written by Jack Detsch,"
-    publishedDateTime: 2022-02-21T16:25:00Z
-    webUrl: "https://foreignpolicy.com/2022/02/21/ukraine-russia-recognizes-breakaway-provinces/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 32
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/Putin-1.jpg?w=1000"
-        width: 1000
-        height: 612
         isCached: true
   - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkish president"
     excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."

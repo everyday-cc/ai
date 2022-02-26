@@ -7,8 +7,8 @@ originalUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-
 webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: intelligentcio.com
@@ -26,22 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Five ways AI is saving wildlife – from counting chimps to locating whales"
-    excerpt: "A family of chimpanzees photographed in the Congo basin. An AI algorithm enables analysis of up to 3,000 camera trap images an hour. Photograph: ANPN-Panthera Artificial intelligence has been identified as one of the top three emerging technologies in ..."
-    publishedDateTime: 2022-02-21T15:50:00Z
-    webUrl: "https://www.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe?share=twitter"
-    ampWebUrl: "https://amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/feb/21/five-ways-ai-is-saving-wildlife-from-counting-chimps-to-locating-whales-aoe"
+  - title: "Using Machine Learning and Artificial Intelligence to strengthen the fight against financial crime"
+    excerpt: "Machine Learning (ML) and Artificial Intelligence (AI) are often touted as the way forward to enhance Anti Money Laundering (AML) and to successfully apply Know Your Customer (KYC) standards. As many banks seek to further strengthen their AML systems,"
+    publishedDateTime: 2022-02-23T09:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-machine-learning-artificial-intelligence-"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 55
     images:
-      - url: "https://i.guim.co.uk/img/media/fd792e8670ae68cd20acf9b2ec83a09e0499829f/127_6_1779_1067/master/1779.jpg?width=620&quality=85&auto=format&fit=max&s=82a518718163c7221b731d9c9b6a89f6"
-        width: 620
-        height: 372
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeJ5o2gmbr6g/article-cover_image-shrink_600_2000/0/1645607413244?e=1651104000&v=beta&t=6ViosQ4NIhbUmAjwyQE2rzMaeuvyfHJvvynUnM5goXE"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Editorial for the special issue on \"Transforming public health through artificial intelligence, machine learning and internet of things\"."
+    excerpt: "In recent years, information technologies such as Artificial Intelligence (AI), Machine Learning (ML) and Internet of Things (IoT) have received unprecedented attention and have caused profound changes in traditional lifestyles."
+    publishedDateTime: 2022-02-23T02:33:00Z
+    webUrl: "https://europepmc.org/article/MED/35185221"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 3
 
 secured: "D9+zBWhjdRjQB5Cs9MUe5cYGqP0H2uJTtaJ3MhiJq7GXim394zlVvTJu61G9wO7AkvPfNX0ZQyMIpzqCouCTLKq2LW5YD3sMGWG3KMKOAM+27e0RA9gMip7Om4tBRrA7r7cvlGQQ7m6Vw3lKq7p8gyiRIxiuTYdXO4rdR10Hx+ovvb8P3Q7ylsqsrFtb3iTjTevY0ii6OcgdrTabsIZq40o6kNoxnkg4IAK6eFcANh0vGL/iJKqqDP/mvDuMFrh2VpoPkyoZueFWWw33BIsntorY6/FdnVYjXKa1JjmcY3QP4pw+XPGDyr5iKCV5YiXmZIPJ0zasfRGe1pEUDW6FtQ1Lc8pbyeJdEXTkFdLLqWgdN4MVjdkIhrxhN+U3dy1yj/pevPhIf8lCkb1ud+k51zL1pBHxgNTjRC1S+vpu3BhtAIK80H6KkN8Hl8xX+5VO0e0/sP+aPyNKaFtFMC/rlJF6Dcd2TRbf+9GYSk6Z5nJgAzbwxVPIQqWj5cPz4jIbcuFo56CK9aHiyQAr5i1KaQ==;UwvqZ3pdgHXEmQikCMOELg=="
 ---

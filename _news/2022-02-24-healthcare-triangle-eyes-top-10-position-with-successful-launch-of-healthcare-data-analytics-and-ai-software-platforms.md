@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Catalysing digital healthcare: NASSCOM CoE - IoT and AI launches Healthcare Innovation Challenge 3"
+    excerpt: "After the success of first two editions the NASSCOM Centre of Excellence CoE - IoTampAI announced the launch of the third edition of Healthcare Innovation Chal"
+    publishedDateTime: 2022-02-26T08:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272338520/catalysing-digital-healthcare-nasscom-coe---iot-and-ai-launches-healthcare-innovation-challenge-3"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 40
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Patriot One awarded contract to develop AI-powered full-motion video analytics app"
     excerpt: "TORONTO—Patriot One Technologies announced it was awarded a contract worth nearly $1 million CAD with Canada’s Department of National Defence (DND) to further develop an artificial intelligence (AI)-e"
     publishedDateTime: 2022-02-23T16:32:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Summit Technology Group Announces Bankers Analytics by Lenders Cooperative"
-    excerpt: "Today, Summit Technology Group (STG) announced the availability of a new analytics service on their Lenders Cooperative platform. Bankers Analytics by Lenders Cooperative"
-    publishedDateTime: 2022-02-21T15:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/summit-technology-group-announces-bankers-analytics-by-lenders-cooperative/article_4cce916f-2792-5c03-ba7b-201e67140ae4.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "dC2ZSDQVpPsuNgTa6F6lBzrTcHy8bU6YIoK1m5kFfX5CMvuAEurJefp6X1K+dfPKX53rmypz5DoxamGldBziCIeIjtMU9DrKcBnNVLpWjPu4JJFJ8SwotJDHVY+ZBCgArzcUNcf54yc079mhHjEMgUGqq8t4Zvvq1HnzMsjdKYp8K+R1uhwd7Rfx+nQa1tU7h3IrJOs0qclt0Bevm0pbW676T7N+Z3T18zhFHWg/gzzGh2U3KwrEC3Ta3ld28IUL/RrlCLgsrFBGOxpHr65QWXjLpCsPPGIeBJ4mPBY+SWnZGcWm2VeseaS7F+sFsPJ5RFzWNblugdEP3UJmPkOiYtC9opBYzSUTYS6hNgYu5Ow=;Ep9noLeYNmhM94dnChWaYw=="

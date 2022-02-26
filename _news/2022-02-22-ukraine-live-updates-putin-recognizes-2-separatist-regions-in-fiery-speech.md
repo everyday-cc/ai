@@ -45,20 +45,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
-    excerpt: "Ukraine seeks an emergency meeting of the U.N. Security Council. Boris Johnson warns that Russia is planning the biggest war in Europe since 1945. Belarus says Russian troops might not leave unless NATO pulls back from Eastern Europe."
-    publishedDateTime: 2022-02-21T15:04:00Z
-    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-biden01/21ukraine-briefing-biden01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Extracts from Putin’s speech on Ukraine"
     excerpt: "Following are extracts from a televised speech by Russian President Vladimir Putin on Ukraine. ON RECOGNITION OF PRO-RUSSIAN SEPARATISTS \"I deem it necessary to make a decision that should have been made a long time ago - to"
     publishedDateTime: 2022-02-21T18:35:00Z

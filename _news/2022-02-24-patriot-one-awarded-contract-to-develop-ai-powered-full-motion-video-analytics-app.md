@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Summit Technology Group Announces Bankers Analytics by Lenders Cooperative"
-    excerpt: "Today, Summit Technology Group (STG) announced the availability of a new analytics service on their Lenders Cooperative platform. Bankers Analytics by Lenders Cooperative"
-    publishedDateTime: 2022-02-21T15:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/summit-technology-group-announces-bankers-analytics-by-lenders-cooperative/article_4cce916f-2792-5c03-ba7b-201e67140ae4.html"
+  - title: "Catalysing digital healthcare: NASSCOM CoE - IoT and AI launches Healthcare Innovation Challenge 3"
+    excerpt: "After the success of first two editions the NASSCOM Centre of Excellence CoE - IoTampAI announced the launch of the third edition of Healthcare Innovation Chal"
+    publishedDateTime: 2022-02-26T08:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272338520/catalysing-digital-healthcare-nasscom-coe---iot-and-ai-launches-healthcare-innovation-challenge-3"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 22
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 40
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "z56hA2ybOLPZZd2cTCQ4Eifv8ALvm5dZtgH5ZUMjObXoNcZDSkNWbKaKvVCH3dhgQ9393AxV2WTqcEdsvrUVzrTYtwDIOMiIQEeq8Prj6y/uw/AQHjLOhEzg479yMw/to4rlv2pGw4AmKl3MNTRdM4GcCIENyo3jshZoi7mleXunX6PQ2x21L7NYJlu8Rdt953IfXxkY5aRYmij8+adA/a3xevJNqYI0/12tFDP3TPSVjloPl5VqneJT+jY2LoNdqKZwqJ3bKhXWHtHlHlZTHMM0BUDmO+Z7lGIIx2P9OBnfXe4e7FJosh0WIORJGuUFZiZx3GF25uaGpn71Vbog20Bn6/QQJRslaHAjypDmQbY=;6MNJ0TtXiWbWOIxMI7QnRg=="

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS Adds Option That Lets Taxpayers Skip Facial Recognition"
-    excerpt: "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition."
-    publishedDateTime: 2022-02-21T15:17:00Z
-    webUrl: "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition technology faces mounting legal, ethical questions"
     excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
     publishedDateTime: 2022-02-23T00:02:00Z
@@ -57,59 +41,54 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IRS says you can now create account without submitting to facial recognition"
-    excerpt: "The IRS's use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
-    publishedDateTime: 2022-02-21T21:59:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-promises-deletion-of-taxpayer-selfies-as-it-drops-facial-recognition-mandate/"
+  - title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
+    excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+    publishedDateTime: 2022-02-24T17:45:00Z
+    webUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 66
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 67
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-phone-face-scan-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+        width: 1920
+        height: 982
         isCached: true
-  - title: "IRS will let tax payers opt out of facial recognition, but there's a big catch"
-    excerpt: "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID."
-    publishedDateTime: 2022-02-22T20:00:00Z
-    webUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch"
+  - title: "Proposed bill aims to put some guardrails around the use of facial recognition technology"
+    excerpt: "Senate Bill 22-113 calls for the creation of the Task Force for the Consideration of Artificial Intelligence, which would take a closer look at the use of the technology by public agencies and offer recommendations for how it should be regulated."
+    publishedDateTime: 2022-02-23T23:38:00Z
+    webUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
     quality: 65
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg"
-        width: 970
-        height: 545
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e88/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/e8865faa51de4d56b42b661a81c13955/poster_2a0312f7745940f1a0f35318c9329aee.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "IRS promises deletion of taxpayer selfies as it drops facial recognition mandate"
-    excerpt: "The IRS' use of the ID.me facial recognition service has been criticized by privacy and civil rights advocates as well as lawmakers from both the Democratic and Republican parties. Two weeks ago ..."
-    publishedDateTime: 2022-02-21T22:04:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-promises-deletion-of-taxpayer-selfies-as-it-drops-facial-recognition-mandate/"
+  - title: "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition"
+    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ..."
+    publishedDateTime: 2022-02-26T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6788045001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788045001"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
+      name: USA Today
+      domain: usatoday.com
+    quality: 61
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-phone-face-scan-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://www.gannett-cdn.com/presto/2022/01/31/NAAS/f9ebd3fd-9047-421c-bb8e-4e07809346e8-IMG_Texas_Attorney_Gener_1_1_TDVDDFQI_L1771748395.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "IRS will let taxpayers opt out of ID.me facial recognition with a live interview"
-    excerpt: "The IRS used facial recognition software from ID.me to analyze the selfies after signing an $86 million contract with the company. Civil rights groups and members of Congress from both parties questioned how the IRS could begin the use of facial ..."
-    publishedDateTime: 2022-02-22T00:52:00Z
-    webUrl: "https://www.zdnet.com/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "IRS announces alternative to facial recognition software"
     excerpt: "After an initial backlash over its facial recognition feature, the Internal Revenue Service said Monday it started a new option that will allow taxpayers to sign up for online accounts without the feature."
     publishedDateTime: 2022-02-21T17:35:00Z
@@ -125,22 +104,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3591645466216/2022/1/0891f8f1261eba40ce02aaf909f19044/v1.5/IRS-announces-alternative-to-facial-recognition-software.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Tech Bytes: New Macs, IRS facial recognition, Insta time limits"
-    excerpt: "The IRS is now allowing taxpayers to opt-out of using its facial recognition technology. People who want to access their online accounts can choose to verify their identity with a live, virtual interview. The IRS recently announced it would “transition ..."
-    publishedDateTime: 2022-02-22T11:32:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
-        width: 1001
-        height: 563
         isCached: true
   - title: "IRS allowing people to opt-out of facial recognition"
     excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
@@ -174,38 +137,6 @@ related:
         width: 1000
         height: 527
         isCached: true
-  - title: "IRS now allowing people to opt-out of facial recognition"
-    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology."
-    publishedDateTime: 2022-02-23T14:50:00Z
-    webUrl: "https://www.yorkdispatch.com/story/news/2022/02/23/irs-now-allowing-people-opt-out-facial-recognition/6908725001/"
-    ampWebUrl: "https://amp.yorkdispatch.com/amp/6908725001"
-    cdnAmpWebUrl: "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/6908725001"
-    type: article
-    provider:
-      name: The York Dispatch
-      domain: yorkdispatch.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1393f02a9b4a58fa9b1ae694f334aec229664a9/c=0-36-4569-2606/local/-/media/2020/01/08/YorkDispatch/B99852487Z.1_20200108171744_000_GS12NQ6TO.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
-    excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
-    publishedDateTime: 2022-02-23T20:28:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
-        width: 3736
-        height: 2421
-        isCached: true
   - title: "Following Backlash, IRS Allows Skipping Facial Recognition"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
     publishedDateTime: 2022-02-24T17:53:00Z
@@ -222,71 +153,21 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "US facial recognition company building a database of 100 million phizzogs – that’s 14 per person on the planet"
-    excerpt: "Slide deck punting for an additional US$50 in investment million reveals the reach and ambition of Clearview AIA database so huge and intrusive that even"
-    publishedDateTime: 2022-02-21T16:07:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/us-facial-recognition-company-building-a-database-of-100-million-phizzogs-that-s-14-per-person-on-the-planet-43685/amp/"
+  - title: "Unemployment system to soon move away from facial recognition"
+    excerpt: "The state’s unemployment assistance agency will in the “coming weeks” stop utilizing facial recognition technology to verify the identities of benefit applicants after senior"
+    publishedDateTime: 2022-02-24T17:14:00Z
+    webUrl: "https://www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/"
+    ampWebUrl: "https://www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/amp/"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 41
+      name: WWLP
+      domain: wwlp.com
+    quality: 59
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/clearview-ai-13724.jpeg?w=1200"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "IRS lets taxpayers opt out of facial recognition"
-    excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."
-    publishedDateTime: 2022-02-22T15:09:00Z
-    webUrl: "https://www.accountingtoday.com/news/irs-lets-taxpayers-opt-out-of-facial-recognition"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/5a0c99f/2147483647/strip/true/crop/2000x1050+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F40%2F53%2F33ce128f42678722f258b8c322cc%2Firs-building-blurry-passerby.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IRS Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback"
-    excerpt: "WASHINGTON — The Internal Revenue Service said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift to an entirely different identity verification system next year ..."
-    publishedDateTime: 2022-02-22T03:12:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "IRS Lets Taxpayers Opt Out Of Facial Recognition After Backlash"
-    excerpt: "The Internal Revenue Service will continue using controversial facial recognition software for the rest of the current tax-filing season to verify taxpayers' identities before they can log on to its website."
-    publishedDateTime: 2022-02-22T22:27:00Z
-    webUrl: "https://detroit.cbslocal.com/2022/02/22/irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/"
-    ampWebUrl: "https://detroit.cbslocal.com/2022/02/22/irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2022/02/22/irs-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
-  - title: "IRS offers alternative to facial recognition"
-    excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:17:00Z
-    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
-    type: article
-    provider:
-      name: JournalofAccountancy
-      domain: journalofaccountancy.com
-    quality: 39
-    images:
-      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
-        width: 640
-        height: 388
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2021/05/GettyImages-905549076-e1621418586533.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
     excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
@@ -299,48 +180,53 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 39
-  - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
-    publishedDateTime: 2022-02-24T03:40:00Z
-    webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
+  - title: "Will EDD stop using facial recognition technology for benefits?"
+    excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday. EDD’s ID.me, regarded as highly effective in ..."
+    publishedDateTime: 2022-02-23T00:45:00Z
+    webUrl: "https://www.modbee.com/news/california/article258661808.html"
+    ampWebUrl: "https://amp.modbee.com/news/california/article258661808.html"
+    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article258661808.html"
     type: article
     provider:
-      name: Walla Walla Union Bulletin
-      domain: union-bulletin.com
+      name: Modesto Bee
+      domain: modbee.com
     quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
-        width: 600
-        height: 403
-        isCached: true
-  - title: "The IRS Is Allowing Taxpayers To Opt Out Of Facial Recognition To Verify Accounts"
-    excerpt: "The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company."
-    publishedDateTime: 2022-02-22T22:57:00Z
-    webUrl: "https://laist.com/news/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-accounts"
+  - title: "Unemployment system will move away from facial recognition"
+    excerpt: "The practice has come under scrutiny due to privacy issues and longstanding concerns about racial bias in facial recognition technology."
+    publishedDateTime: 2022-02-25T11:43:00Z
+    webUrl: "https://www.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    ampWebUrl: "https://amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
     type: article
     provider:
-      name: LAist
-      domain: laist.com
-    quality: 34
-    images:
-      - url: "https://scpr.brightspotcdn.com/dims4/default/0b307da/2147483647/strip/true/crop/4928x2587+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.amazonaws.com%2F9d%2F9e%2F40b1cd2643cb9e7b09af4627b020%2Fgettyimages-470401587.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "School Board Recognition Week honors board members"
-    excerpt: "School Board Recognition Week. In a news release Monday, Feb. 21, Brainerd Public Schools Superintendent Laine Larson recognized the district’s board members. “I would like to thank all of our dedicated board members for making a difference in the lives of the children while making decisions based on what you believe is best for the school district,"
-    publishedDateTime: 2022-02-24T00:13:00Z
-    webUrl: "https://www.brainerddispatch.com/news/local/school-board-recognition-week-honors-board-members"
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+  - title: "Many Irish skeptical about responsible facial recognition use, poll shows"
+    excerpt: "Irish nationals still entertain serious doubts about the trustworthiness of facial recognition deployments by any public or private entities."
+    publishedDateTime: 2022-02-21T17:08:00Z
+    webUrl: "https://www.biometricupdate.com/202202/many-irish-skeptical-about-responsible-facial-recognition-use-poll-shows"
     type: article
     provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
-    quality: 24
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
     images:
-      - url: "https://cdn.forumcomm.com/dims4/default/ed9340c/2147483647/strip/true/crop/3674x1786+0+361/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F77%2Ff8%2Fe7d0f9494a51999b2187bf9fc880%2F20220119-122125.jpg"
-        width: 1440
-        height: 700
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
+  - title: "California EDD looks at ending facial recognition technology in unemployment verification"
+    excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
+    publishedDateTime: 2022-02-23T20:20:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 30
   - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
     excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
     publishedDateTime: 2022-02-23T10:28:00Z
