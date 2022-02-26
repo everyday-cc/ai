@@ -38,6 +38,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
+  - title: "Latin American Fintech Belvo Explains how Data Science, Open Banking APIs are Used by Financial Services Providers"
+    excerpt: "Latin American Fintech Belvo explains how data science, open banking APIs are used by financial services providers."
+    publishedDateTime: 2022-02-26T14:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 52
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Latin-America-South-America-LATAM-Globe-Map-816x1024.jpg"
+        width: 816
+        height: 1024
+        isCached: true
   - title: "Why New Age investors pursue asset allocation with support of fintech industry"
     excerpt: "The customer receives fact-based counsel since AI is data- and insight-driven and free of subconscious prejudice. And it is exactly what India's financial services sector requires: transparency and openness. The goal of new and rising fintech businesses is ..."
     publishedDateTime: 2022-02-26T11:13:00Z

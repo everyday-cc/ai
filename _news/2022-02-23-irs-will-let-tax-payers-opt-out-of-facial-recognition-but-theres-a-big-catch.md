@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-
 webUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch"
 type: article
 quality: 65
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS will let taxpayers opt out of ID.me facial recognition with a live interview"
-    excerpt: "The IRS used facial recognition software from ID.me to analyze the selfies after signing an $86 million contract with the company. Civil rights groups and members of Congress from both parties questioned how the IRS could begin the use of facial ..."
-    publishedDateTime: 2022-02-22T00:52:00Z
-    webUrl: "https://www.zdnet.com/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Tech Bytes: New Macs, IRS facial recognition, Insta time limits"
     excerpt: "The IRS is now allowing taxpayers to opt-out of using its facial recognition technology. People who want to access their online accounts can choose to verify their identity with a live, virtual interview. The IRS recently announced it would “transition ..."
     publishedDateTime: 2022-02-22T11:32:00Z

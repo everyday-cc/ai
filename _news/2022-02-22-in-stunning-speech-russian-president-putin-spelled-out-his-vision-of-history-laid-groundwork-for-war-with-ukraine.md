@@ -89,22 +89,6 @@ related:
         width: 600
         height: 340
         isCached: true
-  - title: "Gold Price Forecast: XAU/USD regains $1900 on Russia’s recognition of DPR and LPR, crisis escalates"
-    excerpt: "On Monday during the North American session, the two separatist leaders sought recognition by Russia, which they got after a “long” speech of Russian President Vladimir Putin, who put in perspective the history of Ukraine and Russia. That said ..."
-    publishedDateTime: 2022-02-21T23:37:00Z
-    webUrl: "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-regains-1900-on-russias-recognition-of-dpr-and-lpr-crisis-escalates-202202212337"
-    ampWebUrl: "https://www.fxstreet.com/amp/news/gold-price-forecast-xau-usd-regains-1900-on-russias-recognition-of-dpr-and-lpr-crisis-escalates-202202212337"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/gold-price-forecast-xau-usd-regains-1900-on-russias-recognition-of-dpr-and-lpr-crisis-escalates-202202212337"
-    type: article
-    provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 45
-    images:
-      - url: "https://editorial.fxstreet.com/images/Markets/Currencies/Crosses/XAUUSD/banknote-and-a-gold-bullion-53019984_Small.jpg"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Putin calls for recognition of Crimea as Russia"
     excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
     publishedDateTime: 2022-02-22T15:51:00Z
@@ -120,20 +104,6 @@ related:
       - url: "https://www.thereporteronline.com/wp-content/uploads/2022/02/Russia_Ukraine_Tensions_72618-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "World leaders condemn Russia's recognition of breakaway Ukraine regions"
-    excerpt: "Germany, France and the United States have agreed to respond to the Russian move. . Read more at straitstimes.com."
-    publishedDateTime: 2022-02-21T23:51:00Z
-    webUrl: "https://www.straitstimes.com/world/europe/world-leaders-condemn-russian-decision-on-ukraine"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/22/md_protestukraine_22022022.jpg?VersionId=NvQ9yU0rzGuR4B.NXWF3c9yMAX9ABn58"
-        width: 780
-        height: 520
         isCached: true
   - title: "Ukraine: NZ says recognition of breakaway republics is 'pretext for invasion'"
     excerpt: "There is no basis under international law for the recognition of the self-proclaimed ‘Donetsk ... while the UK will announce sanctions on Tuesday, UK time. In a speech given on Tuesday morning, New Zealand time, Putin sought to delegitimise Ukraine ..."

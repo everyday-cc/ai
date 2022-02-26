@@ -41,17 +41,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "IRS will let taxpayers opt out of ID.me facial recognition with a live interview"
-    excerpt: "The IRS used facial recognition software from ID.me to analyze the selfies after signing an $86 million contract with the company. Civil rights groups and members of Congress from both parties questioned how the IRS could begin the use of facial ..."
-    publishedDateTime: 2022-02-22T00:52:00Z
-    webUrl: "https://www.zdnet.com/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irs-will-let-taxpayers-opt-out-of-id-me-facial-recognition-with-a-live-interview/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
     publishedDateTime: 2022-02-23T20:28:00Z

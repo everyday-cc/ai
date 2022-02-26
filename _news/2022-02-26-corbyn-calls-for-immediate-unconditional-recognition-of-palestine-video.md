@@ -24,6 +24,17 @@ images:
     height: 455
     isCached: true
 
-secured: "aAv5Wm1DX12FLMnQwtTZkOUJl1TGeRwHm1cyev6U6TQ0q5A2a2wETkG2V3f4DwouCPnLCEizWgc4OUc1n2uLPavr4L/YTalF5/hiWWtbSuj5ICn2ELFf+Q/6fi/qE1BgAH4iSBV86PmvBOR6/Eltuy4XRTLgaTBSpr3vhmKC9mb9G2rUirNA9gie0B0b0eqBh48+tCiDdLDJqEtANTY9I49CcSfeFd/av8VobF7mQVRGhZj1EWy7sqiIcsk8z0F8y+C6ssc58y6/9Mr72OWrz9TLA9kmDTD7MokvDOEElwT2YYGvOhzgTJi7oE6+jwndZkRUulWvBcjyeD8mUlQgYhqOOOzqB9He9/8FyIr5+G0=;P1X+BmZkeBenxKUggGi4kA=="
+related:
+  - title: "Corbyn urges immediate unconditional recognition of Palestine"
+    excerpt: "Former leader of the UK Labour Party Jeremy Corbyn has called on his country to immediately and unconditionally recognize the State of Palestine. In a parliament discussion regarding the recognition of the State of Palestine on Thursday,"
+    publishedDateTime: 2022-02-26T16:17:00Z
+    webUrl: "https://english.wafa.ps/Pages/Details/128205"
+    type: article
+    provider:
+      name: Wafa
+      domain: wafa.ps
+    quality: 4
+
+secured: "pRGHvDUnVu6UbbM6fDM59WQCKqI+qGy9NiF/UjIlcqNOK3kdBzzwfGUMwJY4N7njb64p/i7TB3sL/GUZgDxKyoSm5X6hTPS+Ut6Gz9pdMxfHDzyPBSONCZbWtcgdNgmFoas9D4yrwkcrjRj3PgJcZ3xzacsr9HWYCVBUvy0PvCRqj4xD1QqAJn4/gX1Mh6tjOew13fjpIayqyoXkiHPo1c404ImToeTzTkqpJ/VzugEYhDSrARZ62qbV2KT05ctEH53o6npmo+A6S1PfVcTS2GfihN+jNe/5283qfyEthkQPUm3BKZSoEhKy/0cWpLQN+BlHtsLcM4TI4s4noTTmiyh7iQutbAo4HNQghkjCeMcbOiLNKR5En0I2qpWtY3mQMk999Mus5ZCtx8tMblPM52C9ENL6GZtm3jPCMJQjbU1ioj0/GsP5fDJ75zpN8Q2fepa/PhBXiS/tM/kvsL0zUcQI5SonhJndz1YnhB2XrFN+jq1VEG1LfEYKHeRUz+M/V+k9xgB8BY8D0uiBLJZSfw==;Olbs1dxc6rsgAsSGSfwp9w=="
 ---
 

@@ -38,6 +38,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
+  - title: "Latin American Fintech Belvo Explains how Data Science, Open Banking APIs are Used by Financial Services Providers"
+    excerpt: "Latin American Fintech Belvo explains how data science, open banking APIs are used by financial services providers."
+    publishedDateTime: 2022-02-26T14:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 52
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Latin-America-South-America-LATAM-Globe-Map-816x1024.jpg"
+        width: 816
+        height: 1024
+        isCached: true
   - title: "OkCredit lays off staff as it realigns focus on fintech offerings"
     excerpt: "Bengaluru: Digital ledger and bookkeeping solutions provider OkCredit has laid off 35-40 employees this month across all functions including collections and technology testing, pe"
     publishedDateTime: 2022-02-24T04:46:00Z

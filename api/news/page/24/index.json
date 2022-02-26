@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-02-04-startup-that-models-materials-at-atomic-level-raises-seed-capital.md",
+      "title": "Startup That Models Materials at Atomic Level Raises Seed Capital",
+      "excerpt": "San Francisco-based startup Mat3ra raised $3 million in seed funding led by Draper Associates for an AI-based platform that helps companies model new materials at the atomic level. Mat3ra, formerly known as Exabyte.io, will use the funding to accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "originalUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-479731/social",
+          "width": 1280,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "publishedDateTime": "2022-02-04T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
       "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
       "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
@@ -1135,58 +1186,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-google-has-lost-2-ethical-ai-researchers-to-a-research-institute-founded-by-ousted-colleague-timnit-gebru.md",
-      "title": "Google has lost 2 ethical AI researchers to a research institute founded by ousted colleague Timnit Gebru",
-      "excerpt": "Alex Hanna and Dylan Baker will join Timnit Gebru, who left Google at the end of 2020. Gebru launched the DAIR Institute to scrutinize major tech firms' use of AI. Two more members of Google's ethical AI team are leaving the company to join a nonprofit led ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dair-institute.org/press-release",
-      "originalUrl": "https://www.businessinsider.com/two-google-researchers-quit-to-join-timnit-gebru-ethical-ai-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
-          "width": 1440,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

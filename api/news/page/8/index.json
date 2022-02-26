@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-17-this-googler-wants-to-add-every-voice-to-ai.md",
+      "title": "This Googler wants to ‘add every voice’ to AI",
+      "excerpt": "Early in his career, Laurence Moroney was working on an equation — not something related to his job in tech, but to his bank account. “At one point, I calculated I was about three weeks away from being homeless,” Laurence says. “My motivation was to put a meal on the table and keep a roof over my head.”Today",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
+      "originalUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_2_LZXl4TX.max-1300x1300.png",
+          "width": 1201,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
+      "publishedDateTime": "2022-02-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-singulos-research-unveils-perceptus-ai-for-ar-that-understands-the-real-world.md",
       "title": "Singulos Research unveils Perceptus AI for AR that understands the real world",
       "excerpt": "Singulos is taking the wraps off Perceptus, a spatial technology that enables AR experiences with better fidelity in the real world.",
@@ -1151,58 +1203,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-deepminds-ai-helps-confine-plasma-for-nuclear-fusion-research.md",
-      "title": "DeepMind's AI helps confine plasma for nuclear fusion research",
-      "excerpt": "Across decades of development, scientists have been pursuing nuclear fusion technology through endless experiments, calculations and simulations, trying to find the optimal mix of conditions for atoms to fuse and continually release huge amounts of energy.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
-      "originalUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2582d7a/2147483647/strip/true/crop/1160x773+108+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F21%2Ff1cfe2dc482c922f9c65d5688776%2F1376x774.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
-      "publishedDateTime": "2022-02-16T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Open Finance and Green Fintech Among Swiss Federal Council Top Areas of Focus for Coming Years"
-excerpt: "A new report released by the Federal Council on February 2, 2022 identifies opportunities and risks relating to digital finance, and outlines 12 specific areas of action for the government, among which open finance,"
-publishedDateTime: 2022-02-24T06:00:00Z
-originalUrl: "https://fintechnews.ch/fintech/open-finance-and-green-fintech-among-swiss-federal-council-top-areas-of-focus-for-coming-years/51709/"
-webUrl: "https://fintechnews.ch/fintech/open-finance-and-green-fintech-among-swiss-federal-council-top-areas-of-focus-for-coming-years/51709/"
+title: "Latin American Fintech Belvo Explains how Data Science, Open Banking APIs are Used by Financial Services Providers"
+excerpt: "Latin American Fintech Belvo explains how data science, open banking APIs are used by financial services providers."
+publishedDateTime: 2022-02-26T14:31:00Z
+originalUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/"
+webUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/"
+ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
 type: article
-quality: 27
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: fintechnews.ch
-  domain: fintechnews.ch
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/02/Open-Finance-RegtechSuptech-and-Green-Fintech-Among-Swiss-Federal-Council-Top-Areas-of-Focus-for-Coming-Years.png?x30842"
-    width: 2134
-    height: 1182
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Latin-America-South-America-LATAM-Globe-Map-816x1024.jpg"
+    width: 816
+    height: 1024
     isCached: true
 
 related:
@@ -36,22 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
-  - title: "Latin American Fintech Belvo Explains how Data Science, Open Banking APIs are Used by Financial Services Providers"
-    excerpt: "Latin American Fintech Belvo explains how data science, open banking APIs are used by financial services providers."
-    publishedDateTime: 2022-02-26T14:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187548-latin-american-fintech-belvo-explains-how-data-science-open-banking-apis-are-used-by-financial-services-providers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Latin-America-South-America-LATAM-Globe-Map-816x1024.jpg"
-        width: 816
-        height: 1024
-        isCached: true
   - title: "OkCredit lays off staff as it realigns focus on fintech offerings"
     excerpt: "Bengaluru: Digital ledger and bookkeeping solutions provider OkCredit has laid off 35-40 employees this month across all functions including collections and technology testing, pe"
     publishedDateTime: 2022-02-24T04:46:00Z
@@ -112,6 +98,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Open Finance and Green Fintech Among Swiss Federal Council Top Areas of Focus for Coming Years"
+    excerpt: "A new report released by the Federal Council on February 2, 2022 identifies opportunities and risks relating to digital finance, and outlines 12 specific areas of action for the government, among which open finance,"
+    publishedDateTime: 2022-02-24T06:00:00Z
+    webUrl: "https://fintechnews.ch/fintech/open-finance-and-green-fintech-among-swiss-federal-council-top-areas-of-focus-for-coming-years/51709/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 27
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/02/Open-Finance-RegtechSuptech-and-Green-Fintech-Among-Swiss-Federal-Council-Top-Areas-of-Focus-for-Coming-Years.png?x30842"
+        width: 2134
+        height: 1182
+        isCached: true
   - title: "FinTech FeeX Secures $80M in New Investment, Changes Name to Pontera"
     excerpt: "New name for held away account platform reflects aspiration to be the bridge to a better retirement for millions of AmericansNEW YORK--(BUSINESS WIRE)--FeeX, the financial technology company that enables financial advisors to securely manage their clients’ retirement accounts and other held away assets,"
     publishedDateTime: 2022-02-23T11:00:00Z
@@ -155,6 +155,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/pMxtl5iqvXwcyBJzo7pRdkEbQVgDndJXyVw7hsGhL5a36NWIdopOI1S+uOxx8njG/O72LiN6s4FdTIKW5hn5/1xFBxBApZZl2DHuPTR3y4scWkBhkOaqnifWk0UGoRjZN9gFAH63wBzyyEQgj3lLa8j35tX7mwLm6Tc3VPCwDSYcTPtQchsphNe/hMeypuzS/ziUVHA9jsJB+UM5lJV2Admgv63sHaFEcDzHGxC/e9L4HcDFhZyv38/t67NPrvrz0Hg2lvf0fttYnbZs4orQpMHJ/3BBFnvO1cST6EYYckQXEIXlX8IZcBLE5RLA4AFkzaRVpOJfQ5s1By26TZSMWqjlu4xGLpfqwAyFh81kbE=;r/BEDdCpiJdZBC+gKd6W7A=="
+secured: "q+ts1z/RNCgnczJA4GpIA9I+5TqpR/AlDsfBUB0cQqzcN3APE3jH0tjXd6Kuk0swSYhpz1rXwa5sBlijt6wc6oIIcKuZWY9jQVWiktj5OxIQt4t+Z9shFIbATiMLcmJ5aZY8hNw22V5BiXY+ZbtbPodOnG2/8jzmYkiJhgccjidBkDO5tVslzrSasgUMBCe0cFH7QSNl56yyHio/wgubC6jYI+/eSkabdsP2ZBMn90T1MOZzWXiFGbQaN7caS7n5fgMufFkYg5nh6N9awMok+l7qWUuRVimuwy0LUG1zzZ1V+a5egvWYuqwLtnSypRBVc+R2jQrv4M0f9Itj49Ilq1IL8q5GERsjXx22S5BTFa4=;pZ94g3mEFflnPe/SQkCNgQ=="
 ---
 
