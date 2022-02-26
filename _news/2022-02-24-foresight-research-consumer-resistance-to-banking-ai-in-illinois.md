@@ -35,22 +35,6 @@ related:
         width: 2047
         height: 960
         isCached: true
-  - title: "RenewBuy acquires AI solutions-based insurtech start-up Artivatic.AI"
-    excerpt: "RenewBuy announced the acquisition of cutting-edge, artificial intelligence-based insurtech company Artivatic.AI on 21 February. The Bengaluru-based insurtech firm has been delivering underwriting and claim solutions to multiple life and non-life insurers."
-    publishedDateTime: 2022-02-22T04:43:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-11645503822626.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/02/22/600x338/iStock-1127497866_1603325813158_1603325819158_1645504894690.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Research Reveals AI Gaps in Federal IT Modernization"
     excerpt: "Only one-quarter of study participants saw AI as critical or very valuable to their modernization efforts, and one-third saw it as not very/not at all valuable."
     publishedDateTime: 2022-02-25T16:19:00Z

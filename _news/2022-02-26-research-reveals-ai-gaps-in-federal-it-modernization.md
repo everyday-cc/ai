@@ -40,22 +40,6 @@ related:
         width: 2047
         height: 960
         isCached: true
-  - title: "RenewBuy acquires AI solutions-based insurtech start-up Artivatic.AI"
-    excerpt: "RenewBuy announced the acquisition of cutting-edge, artificial intelligence-based insurtech company Artivatic.AI on 21 February. The Bengaluru-based insurtech firm has been delivering underwriting and claim solutions to multiple life and non-life insurers."
-    publishedDateTime: 2022-02-22T04:43:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai-11645503822626.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/renewbuy-acquires-ai-solutions-based-insurtech-start-up-artivaticai/amp-11645503822626.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/02/22/600x338/iStock-1127497866_1603325813158_1603325819158_1645504894690.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Worldwide Artificial Intelligence in Medical Diagnostics Industry to 2027 - Advancements in AI and Deep Learning Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence In Medical Diagnostics Market Research Report by Technology, by Service, by Diagnosis Type, by Diagnostic Tool, by Application, by End-User, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-02-25T11:02:00Z

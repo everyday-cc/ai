@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft details 'planet-scale' AI infrastructure packing 100,000-plus GPUs"
-    excerpt: "Microsoft has revealed it operates a planet-scale distributed scheduling service for AI workloads that it has modestly dubbed \"Singularity\". Described in a pre-press paper [PDF] co-authored by 26 Microsoft employees, Singularity's aim is described as ..."
-    publishedDateTime: 2022-02-22T03:58:00Z
-    webUrl: "https://www.theregister.com/2022/02/22/microsoft_singularity_ai_infrastructure/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/22/microsoft_singularity_ai_infrastructure/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/22/microsoft_singularity_ai_infrastructure/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 71
-    images:
-      - url: "https://regmedia.co.uk/2022/02/22/shutterstock_singularity.jpg"
-        width: 1299
-        height: 600
-        isCached: true
   - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
     excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
     publishedDateTime: 2022-02-22T16:40:00Z

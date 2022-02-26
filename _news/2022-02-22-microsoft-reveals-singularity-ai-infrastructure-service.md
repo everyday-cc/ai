@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft details 'planet-scale' AI infrastructure packing 100,000-plus GPUs"
-    excerpt: "Microsoft has revealed it operates a planet-scale distributed scheduling service for AI workloads that it has modestly dubbed \"Singularity\". Described in a pre-press paper [PDF] co-authored by 26 Microsoft employees, Singularity's aim is described as ..."
-    publishedDateTime: 2022-02-22T03:58:00Z
-    webUrl: "https://www.theregister.com/2022/02/22/microsoft_singularity_ai_infrastructure/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/22/microsoft_singularity_ai_infrastructure/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/22/microsoft_singularity_ai_infrastructure/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 71
-    images:
-      - url: "https://regmedia.co.uk/2022/02/22/shutterstock_singularity.jpg"
-        width: 1299
-        height: 600
         isCached: true
   - title: "Microsoft Paper Details Its ‘Singularity’ Artificial Intelligence Infrastructure Service"
     excerpt: "Software Company, Microsoft has shown how it operates ‘Singularity”, its planet-scale distributed scheduling services for Artificial Intelligence workloads presented by"
