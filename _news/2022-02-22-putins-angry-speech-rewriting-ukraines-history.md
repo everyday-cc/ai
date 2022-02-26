@@ -41,20 +41,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
-    excerpt: "Why it matters that Russia just recognized Donetsk and Luhansk. In Photos: Eastern Ukraine on Monday. U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit. Highlights from Putin’s address on breakaway regions in Ukraine."
-    publishedDateTime: 2022-02-21T19:18:00Z
-    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/boris-johnson-warns-that-russia-is-planning-the-biggest-war-in-europe-since-1945"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-johnson2/merlin_202534344_84900b07-78b2-4bbd-af3b-5c5826015950-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "ODX3GWFZDsynxH6I3aPActGNPD/Rxxswjzb4e1ArvUfd7YWZv6HyRAORZByrIlfGAKWlfqnDWup07TGSiYSAwNB+015JSxDTiaN8t0xjC/HhgamAWChhn5fpnjM9dy59iZxk2UW0lFfqj5hSmwOiHG7YoXFJpEGP1s+5Gy2sr5eplW9raEOVWviHNof/QTfIZdEi5HCoIZjK8VEbbqnRLpczVfG5rJhOFBmGH0fvkmD+TKOT+gObRZlqUYoBu5BkaNIHxoPhXui/be1CMI4ElyiIRYzZ0p2gLZwzG4ZOAbBhrvSHzFckaVD9KLfwG3l2m57Xp6BIYy9y0xKTSC6MNBCNqL76rHTx9WhR/HxnJZU=;q6H06eFWt3YWERf/HzdSew=="
 ---

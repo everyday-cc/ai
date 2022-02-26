@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "European leaders condemn Putin’s recognition of Ukraine breakaway regions"
-    excerpt: "Vladimir Putin has recognised two breakaway regions of Ukraine as independent states - laying the groundwork for an invasion."
-    publishedDateTime: 2022-02-21T19:49:00Z
-    webUrl: "https://www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/"
-    ampWebUrl: "https://www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/european-leaders-condemn-putins-recognition-of-ukraine-breakaway-regions/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 58
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US to impose sanctions on breakaway Ukraine regions after Putin recognition"
     excerpt: "Biden summons top national security officials as European leaders condemn Russia’s move"
     publishedDateTime: 2022-02-21T21:36:00Z
@@ -362,20 +346,6 @@ related:
       - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/f207f654-22qoxwpzkzhypvucgemt9.jpeg"
         width: 600
         height: 336
-        isCached: true
-  - title: "Putin’s recognition of breakaway regions pushes EU to fast-track sanctions"
-    excerpt: "Russian President Vladimir Putin's recognition of the self-proclaimed Donetsk and Luhansk People's Republics in eastern Ukraine on Monday (21 February) will force the EU to fast-track a decision on whether to impose massive sanctions on Moscow."
-    publishedDateTime: 2022-02-21T20:33:00Z
-    webUrl: "https://www.euractiv.com/section/europe-s-east/news/putins-recognition-of-breakaway-regions-pushes-eu-to-fast-track-sanctions/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 22
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/02/94a66be7-8f79-4900-9880-725c40e3b8ca-1-800x450.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Why Armenians Should Not Support Russia’s Recognition of Donetsk and Luhansk"
     excerpt: "On Tuesday, Russia took the step to recognize the Donetsk People’s Republic (DPR) and the Luhansk People’s Republic (LPR), regarded by the West as a major provocation and triggering sanctions from the United States,"

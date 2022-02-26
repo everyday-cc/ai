@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/facilio-raises-35mi
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/facilio-raises-35million-in-series-b-from-dragoneer-and-brookfield-to-transform-real-estate-operations-with-ai-1.1645526602926"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 540
     height: 405
     isCached: true
+
+related:
+  - title: "Skael raises funds for AI-powered automation platform"
+    excerpt: "San Francisco-based automated start up Skael Inc. today announced the closure of the $ 38 million Series A funding cycle led by RTP Global. Skael is the latest in a series of flexible software providers to increase support recently amid growing demand from ..."
+    publishedDateTime: 2022-02-22T12:23:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/skael-raises-funds-for-ai-powered-automation-platform/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/skael-raises-funds-for-ai-powered-automation-platform/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/skael-raises-funds-for-ai-powered-automation-platform/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Skael-raises-funds-for-AI-powered-automation-platform-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "GJyZeERgyupsKcCdJXZYwVCkvNrjVeLVM78oitedzTyAS8yJvQcbbESb2Y5hi6+8jBU9n6Fr3iBgnewC7NjlSKGmEowAP7/YGHwaCop+/jtSgBdYxnuC5FUgBVhTfUiOkg9Pag3YcyZV7mihjsGEAUGqIijHM6qJimKPKwHq5QiQLE4/DVbElooJ/11dO+/p71pxlI3ZN1HunXDK6X/BpKdcsJLFgbPRY0AD+198NpkZ/Xf18hGhv8Nmt8oLHehCsStcbqmvGda5b37AVvePaER856eJzsIfsdOKIYMXYr3NqR9KS/hYzLtrHOWUSArAC9K7eG1yCGh1TzmMmSImYRbR5OZbYJYdQWwfJrp02yw=;mk8i1BbNVH6NUK5++4uH7Q=="
 ---

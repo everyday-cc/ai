@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html"
 type: article
 quality: 74
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech"
-    excerpt: "Why it matters that Russia just recognized Donetsk and Luhansk. In Photos: Eastern Ukraine on Monday. U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit. Highlights from Putin’s address on breakaway regions in Ukraine."
-    publishedDateTime: 2022-02-21T19:18:00Z
-    webUrl: "https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden/boris-johnson-warns-that-russia-is-planning-the-biggest-war-in-europe-since-1945"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/21/world/21ukraine-johnson2/merlin_202534344_84900b07-78b2-4bbd-af3b-5c5826015950-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Putin's angry speech rewriting Ukraine's history"
     excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."
     publishedDateTime: 2022-02-22T07:57:00Z

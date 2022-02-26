@@ -7,7 +7,7 @@ originalUrl: "https://eurasianet.org/putins-donbas-recognition-reverberates-in-c
 webUrl: "https://eurasianet.org/putins-donbas-recognition-reverberates-in-caucasus"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,33 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Sokhumi, Tskhinvali Hail Putin Over Donbas Recognition"
-    excerpt: "Kremlin-backed leaders of occupied Abkhazia and Tskhinvali Region/South Ossetia, Aslan Bzhania and Anatoly Bibilov, respectively, have promptly welcomed Vladimir Putin’s decision to"
-    publishedDateTime: 2022-02-21T20:21:00Z
-    webUrl: "https://civil.ge/archives/474175"
-    ampWebUrl: "https://civil.ge/archives/474175/amp"
-    cdnAmpWebUrl: "https://civil-ge.cdn.ampproject.org/c/s/civil.ge/archives/474175/amp"
-    type: article
-    provider:
-      name: Civil
-      domain: civil.ge
-    quality: 59
-    images:
-      - url: "https://civil.ge/wp-content/uploads/2020/09/Kremlin.jpg"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Putin signs immediate recognition of Donbass regions"
-    excerpt: "The decision comes amid fears of a worsening conflict in Ukraines war-torn east Russian President Vladimir Putin has announced that Mosco"
-    publishedDateTime: 2022-02-21T20:55:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272321803/putin-signs-immediate-recognition-of-donbass-regions"
+  - title: "Zelensky unveils response to Donbass recognition"
+    excerpt: "President Zelensky called for peace talks no general mobilization and a tax holiday after Russia recognized Donbass republics Kiev is op"
+    publishedDateTime: 2022-02-23T00:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272325942/zelensky-unveils-response-to-donbass-recognition"
     type: article
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/rtc1645474334.jpg"
+      - url: "https://cdn.bignewsnetwork.com/rtc1645575181.jpg"
         width: 630
         height: 420
         isCached: true

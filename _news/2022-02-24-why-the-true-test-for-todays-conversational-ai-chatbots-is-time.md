@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/23/why-the-true-test-for-todays-conv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "People awaiting NHS talking therapy to get AI chatbot while they wait"
+    excerpt: "An AI therapy chatbot called Wysa is about to revolutionise the way people access NHS mental health services. The £1m NHS trial aims to provide clinical evidence that digital health app, Wysa, can maintain,"
+    publishedDateTime: 2022-02-26T12:38:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=622751"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Social Messaging Chatbots Market Next Big Thing | Major Giants- Chatfuel, Floatbot, Botsify, ChatterOn"
     excerpt: "The report is intended to provide market intelligence and strategic insights to help decision ... analysis and profiles of players such as Nuance Communications, Google, AWS, Artificial Solutions, IBM Corporation, SnatchBot, Acquire.io, Chatfuel, Floatbot ..."
     publishedDateTime: 2022-02-22T14:29:00Z

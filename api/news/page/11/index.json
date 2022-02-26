@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
+      "title": "Machine Learning Becomes a Mathematical Collaborator",
+      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "originalUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quanta Magazine",
+        "domain": "quantamagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
       "title": "LivePerson put more personality (and AI) into next-gen bots",
       "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
@@ -1120,49 +1163,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-clubtest-2022-30-top-new-drivers-robot-tested-and-reviewed.md",
-      "title": "ClubTest 2022: 30 top new drivers robot-tested and reviewed",
-      "excerpt": "The details: The 0211 is designed with optimal feel and sound in mind ... added ball control; and TSi4, for high-speed, low-spin aficionados. (Night lights sold separately.) Robot’s take ...",
-      "sourceUrl": null,
-      "webUrl": "https://golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/",
-      "originalUrl": "https://golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://golf.com/wp-content/uploads/2022/02/clubtest-drivers-2022-lead.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/?amp=1",
-      "cdnAmpWebUrl": "https://golf-com.cdn.ampproject.org/c/s/golf.com/gear/drivers/best-drivers-2022-tested-reviewed-clubtest/?amp=1",
-      "publishedDateTime": "2022-02-14T18:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GOLF.com",
-        "domain": "golf.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

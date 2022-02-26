@@ -41,6 +41,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How technology is shaping India’s FinTech startup landscape?"
+    excerpt: "India finds itself at the forefront of a FinTech revolution. Propelling with the world’s highest FinTech adoption rate at 87%, India has produced the second-highest number of FinTech startups in the last three years."
+    publishedDateTime: 2022-02-26T10:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Asif-Bhat-CEO-Co-founder.jpg"
+        width: 436
+        height: 458
+        isCached: true
   - title: "Artificial Intelligence is Transforming the Financial Services Sector"
     excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
     publishedDateTime: 2022-02-24T12:16:00Z

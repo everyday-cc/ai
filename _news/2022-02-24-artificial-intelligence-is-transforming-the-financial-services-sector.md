@@ -60,6 +60,22 @@ related:
         width: 1800
         height: 1362
         isCached: true
+  - title: "How technology is shaping India’s FinTech startup landscape?"
+    excerpt: "India finds itself at the forefront of a FinTech revolution. Propelling with the world’s highest FinTech adoption rate at 87%, India has produced the second-highest number of FinTech startups in the last three years."
+    publishedDateTime: 2022-02-26T10:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Asif-Bhat-CEO-Co-founder.jpg"
+        width: 436
+        height: 458
+        isCached: true
   - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
     excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
     publishedDateTime: 2022-02-25T16:13:00Z

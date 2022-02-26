@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 617
         isCached: true
+  - title: "People awaiting NHS talking therapy to get AI chatbot while they wait"
+    excerpt: "An AI therapy chatbot called Wysa is about to revolutionise the way people access NHS mental health services. The £1m NHS trial aims to provide clinical evidence that digital health app, Wysa, can maintain,"
+    publishedDateTime: 2022-02-26T12:38:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=622751"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "K0LCsQH7ey8ncCdAQ7rge+8Her7TzM5aHYV/lLjhHm1VB2Gt7ZnxQXh2X4NHdIgfnh3TWqktD4r4xjzB91G08PQs3D3VivmHbYLiX3b1zDt6YR7ya1oWcQpuZ7oqQUTkTTTHguwpvfEEHQjBcE9d2z95sqZ8zgn/BnSnLSaXVNhqcUkZ6E9I1ZWzM+q9qoU92kaUWbV6mu0WgbFQ414zH68wDoZIcCyRbM1kNJgE/7AeP5e0pj2xRG9GhFFWNp/sxFbeiaagNZgRzmC9IVOrP2F+NFC2IhhyGpqJ8DvKzT1dXNP5TW9M4PFrgynXjnNpzrh2Yvux3qQD0hMM9JsSqGufpxwSrnx3IM2QkMOsKsw=;mHSRG28eSotxfI4W/42LhQ=="
 ---

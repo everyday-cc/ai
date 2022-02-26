@@ -55,20 +55,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How Far Do Putin’s Recognition Orders Extend?"
-    excerpt: "After the speech, Putin signed orders recognizing the two breakaway territories as independent and pledging Russian defense assistance. The particulars of that order, which aren’t yet known, matter a lot."
-    publishedDateTime: 2022-02-21T20:37:00Z
-    webUrl: "https://www.nationalreview.com/corner/how-far-do-putins-recognition-orders-extend/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 24
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2022/02/vald.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
-        isCached: true
 
 secured: "9ySnBMmuSBXrpcTQXdkTvokjfhlbZzMThMpuif5w1CadhgynOQaFtHIrIyTjhCWI1BkoKHHi/4hV2gOuLPTVwPBGfFROdPCcwxoRaZamepgG+RKSUhQ9nIzPMsK+VAS7Yq4BpE6NKxKSRw3n7DmfZRdwB+Z7uWvk3U+ywENU2jDuTFpHU4/wzRjqdtKhypiUQ/8QsmM8htobbkuApPLPscGHZkCx9rr+Edx0ZwlJ+Czy/uYaMcrzYy87JEa+15LIHVhX1D20XfSfYj1u9Kid7IrjlJ2b/DogLaVw8YSVTMFDTi712+YnjCVBe2Wh/XkgVFBALPv2O7uINtNd44VgjZ0kaif8Kq2TargehZFiCwJ2GhCSwLWXFWuTC3H9gP97+a86ON3vkebcRXq6mTRUVs1y1zVSQuC3gW9+rbMLb+P6N9/Zxz8IsQOZDvxpmEKBzzIOz0/yeCQXQT/uv3Xvi6BH0lU6f5GLaIsNec1sL8TobJlS+kb05NFFqb/ZqI9qoIMdAJqCGMqHj2W9FgUUHQ==;BnGkkFx8IjruPYnDkr9Hlw=="
 ---
