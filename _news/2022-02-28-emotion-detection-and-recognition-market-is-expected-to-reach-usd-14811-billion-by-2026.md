@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Intelligent Drug Discovery Market to Reach a Valuation of USD 3,711.8 Million by 2027 Growing at a CAGR of 39.4% | Emergen Research"
-excerpt: "Intelligent Drug Discovery Market is forecasted to be worth USD 3,711.8 Million by 2027, according to a current analysis by Emergen Research. The"
-publishedDateTime: 2022-02-23T06:13:00Z
-originalUrl: "https://www.digitaljournal.com/pr/intelligent-drug-discovery-market-to-reach-a-valuation-of-usd-3711-8-million-by-2027-growing-at-a-cagr-of-39-4-emergen-research"
-webUrl: "https://www.digitaljournal.com/pr/intelligent-drug-discovery-market-to-reach-a-valuation-of-usd-3711-8-million-by-2027-growing-at-a-cagr-of-39-4-emergen-research"
+title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
+excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+publishedDateTime: 2022-02-27T16:34:00Z
+originalUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
+webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
 type: article
-quality: 0
+quality: 15
 heat: -1
 published: false
 
@@ -15,11 +15,11 @@ provider:
   domain: digitaljournal.com
 
 topics:
-  - AI in Healthcare
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/3c552455d6c335565b744ff1f43b3c00e26f2f07-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
     width: 600
     height: 337
     isCached: true
@@ -53,17 +53,17 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
-    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
-    publishedDateTime: 2022-02-27T16:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
+  - title: "Intelligent Drug Discovery Market to Reach a Valuation of USD 3,711.8 Million by 2027 Growing at a CAGR of 39.4% | Emergen Research"
+    excerpt: "Intelligent Drug Discovery Market is forecasted to be worth USD 3,711.8 Million by 2027, according to a current analysis by Emergen Research. The"
+    publishedDateTime: 2022-02-23T06:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/intelligent-drug-discovery-market-to-reach-a-valuation-of-usd-3711-8-million-by-2027-growing-at-a-cagr-of-39-4-emergen-research"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 15
+    quality: 0
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/3c552455d6c335565b744ff1f43b3c00e26f2f07-600x337.jpg"
         width: 600
         height: 337
         isCached: true
@@ -82,6 +82,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Hp8B8TNHgClR36M8MWMjPwZnrlRzIdhR+Ec9Qb39aRz/bXItcWB+1WZQN6eoxYiukv5Ia+X6ymRau3cBoGG5U9trX/QbBFh/NWz7x3vHegCGsJ/F4UTtD1Hh29eVJgcbhTNBXs6SO5uXh0Y4dx/8ZahuEe8vb6QANylthxlSPYbGEMZFVatl3aJkH+BkhdG+1jyFbPlpNxIBbnC/O5TmC1UMG8DyEimiWfT+p32UWtA+1zHhq9Y/MmSfdATRw6Cio6RTvkvvLndEgMJ8HfXCJ8xGFIqI/um5I6NYI0oHilTfw0p0DOkYOiGtPlILPFsVqhJpkVsjjTuDgF7wRSFoMcNr+Ur73I7UFt9SSUDG6jE=;Lra5PZUa3MGng7LECTs5lQ=="
+secured: "qNYeoDCv3XqGm21PqwkkFFwG/J8wYWAZPf/D1XcFpuWQZl8DDL0NsXjQAmntMxEVtl418n9Xqy8pu1wo4U5/zsvSasBt+Wcr2fZhS59H4YcZ5aKi5QZjD6f2kji6zSTHcLEpsnUD3XBZk8+7xmU/2mP8WGuBovTU0G4NRyEdR0T7TV3G5M/LY1k9roiBaQVUTqzvYZkuImZYMrZ2Bf0GLJstnexUMXZ7eVtigRDF07TQa/S8ViwJroIoIVRjRXh3S8QilXDBPaNoAB9WReXyBBR6tvD1o351TWTrcG6s1girv9OHSt9lP5+SysHmxHcz/tsOaOuhOqPigOtlecxBFas0q7DJcaetND98fHyduqk=;D/O5Lvq4l/NTJ0eiFAkNtw=="
 ---
 

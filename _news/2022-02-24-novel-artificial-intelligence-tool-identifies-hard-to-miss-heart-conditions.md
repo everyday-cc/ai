@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1289
         isCached: true
-  - title: "New artificial intelligence tool detects often overlooked heart diseases"
-    excerpt: "Physician-scientists have created an artificial intelligence (AI) tool that can effectively identify and distinguish between two life-threatening heart conditions that are often easy to miss: hypertrophic cardiomyopathy and cardiac amyloidosis."
-    publishedDateTime: 2022-02-23T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/02/220223133501.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
 
 secured: "HOGI810Rb4SB4dtup+emDIgePBxSoPpjt7BCAnNJv5roaWUXuG728biEl7fZLx7pBZIY6DUaMJbH7pwGAzS2x/tQ+cnH23IScLST3OgiR06ycJylPya67242UtnYUn+lWSmxHd/3zLude/UCsMSVIybIitZGCfK1VUjOvF+H+8iZCw9Ao74F0UUvenzit3MyeD1SYKbcYbJpLmUsrqk19ImpHa+ZZY32zP3bKMFRr2kKWfKCDgHXYE75ejPDD8Y8D+6ptd/4nNACk6DWjxrj1vNsE85SPbu6ppqDeBJXRJ4/rabvvF9yZ9heqo9ac/2h7GPs5zJL4IKiFbOkMUzu+K/qQW5G5ctV8HWFm6PyoMY=;QcUlyMlAUP3imCwo/Yp1/g=="
 ---

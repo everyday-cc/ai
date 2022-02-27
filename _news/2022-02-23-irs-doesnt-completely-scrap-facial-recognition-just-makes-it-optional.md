@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,17 +59,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
-    excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
-    publishedDateTime: 2022-02-22T23:44:00Z
-    webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
-    ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 39
   - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
     excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
     publishedDateTime: 2022-02-24T03:40:00Z

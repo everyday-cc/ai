@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-27-cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist.md",
+      "title": "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist",
+      "excerpt": "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
+      "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
+      "publishedDateTime": "2022-02-27T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-27-muhc-uses-artificial-intelligence-to-train-neurosurgery-students.md",
       "title": "MUHC uses artificial intelligence to train neurosurgery students",
       "excerpt": "A new study from the Montreal Neurological Institute found that when it comes to teaching brain surgery, artificial intelligence (AI) performs better than real teachers.",
@@ -881,7 +915,7 @@
       "originalUrl": "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1173,49 +1207,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-deep-learning-fosters-better-breast-cancer-treatment.md",
-      "title": "Deep Learning Fosters Better Breast Cancer Treatment",
-      "excerpt": "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
-      "originalUrl": "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/protein-inhibitors-against-triple-negative-breast-cancer.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm",
-      "publishedDateTime": "2022-02-24T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
