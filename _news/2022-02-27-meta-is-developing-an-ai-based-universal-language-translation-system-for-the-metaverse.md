@@ -8,7 +8,7 @@ webUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-sy
 ampWebUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
@@ -324,6 +325,6 @@ related:
         height: 225
         isCached: true
 
-secured: "WbH0kNx07UWxIj4zV3q4Cdr/pEc62AqCaxcn39h/cRvbbrgSbUIjVSH77CNqCadzaLKhgZ6PN0+x2dYz9sx7iocSLVj0kug8CQO2NAgjrcu1u/RWg/OFQWeJ/ttf1O3SBxgXgexXfcfhaFZ8K2xg8uADCMNMj7T4mPvs38n75nJ44VeEqUuqBMyb/49dbAFbgyucxvob6RmDEgSJpl3Yjw6vQSfMt7d4CDYg8/DGJb6uZkNkgZh4/t82eT1HZw3aIykWj4oXNrMaTsaW+7SowAAuMqMjIljEps3YJVnMv9rSZKpjDmw9kzO4kshkA9uYtcxh1epxm3oDSusqfQgfOqhvKsEjukzwFO/Rj6aKgoU=;jcqWxfZKJs9LGqHDRt/jxg=="
+secured: "IOWalkSmJN79qtZw5N78OhBRdWGj4TLjwmUWkj8Q5S1HJEleJX67WgpcyFPdstaN20tRUuY5qGGomZk25IxT0BmMybbDf5/Ig4Xcm/5sMAk9J6tWVoYtDNDGCXOnSE1JL3/ZWj2L+TIucWWDvGXn5LyfPB5DhNz36hbspagE5aHUD0gYKLgDw+M576BkGCEBdnHLzQFEWWT7Xl+EFjvMtfzExFEmRZw/YqArRdps/W9lscbWqSYms6zgecGroAu3Ysvp4hddwMj0k8wRuWEQjKtFfoOwGjUC+tMXrmWQTr6kgwY+H3KZnOCtK7LqGk2OtgdFWtvu0Od8LTOVB4bZDBsu5ubGvN3IUxHSmFB2+KsTwbcZT9Iry0odE2K+ebDf3t+uL3Fs7QeI+czYJE4uY7Em2GZkfMJBLKSZyiOkbMQ9c/CWJ/avRszE67GWEd2YIm278e2GlZd68fgTyJHwUJq/RJAX5EOoxqQu2wtHLStidYBZEWUBrLTQT4d4lsBGTQISf2tKj/buq6jd2r1CbQ==;Jai08LrHoIm9cKKXPlC1PQ=="
 ---
 

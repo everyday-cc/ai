@@ -35,20 +35,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Erasing tattoos from photos via AI could aid facial recognition systems"
-    excerpt: "face painting and tattoos can potentially impair the performance of computer vision systems like facial recognition algorithms by altering what models “expect to see” in key areas of the face. To better understand and mitigate the effect of facial ..."
-    publishedDateTime: 2022-02-22T17:12:00Z
-    webUrl: "https://www.biometricupdate.com/202202/erasing-tattoos-from-photos-via-ai-could-aid-facial-recognition-systems"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Mobile Face Unlock Startup to Join SXSW Pitch Festival"
     excerpt: "Hummingbirds AI will be looking to accelerate its business when it makes the trip to next month’s SXSW Festival in Austin, Texas"
     publishedDateTime: 2022-02-24T19:02:00Z

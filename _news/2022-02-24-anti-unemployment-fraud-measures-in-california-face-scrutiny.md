@@ -38,20 +38,6 @@ related:
       name: ABC7 San Francisco
       domain: abc7news.com
     quality: 36
-  - title: "California urged to scrap facial recognition software used to combat insurance fraud"
-    excerpt: "And ID.me, under pressure from Washington lawmakers and others, is saying it will offer alternatives to the controversial facial recognition system. ID.me was touted by Gov. Gavin Newsom as a crucial tool in combating unemployment insurance fraud ..."
-    publishedDateTime: 2022-02-22T18:15:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21257778/california-urged-to-scrap-facial-recognition-software-used-to-combat-insurance-fraud"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 32
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/bigstock_facial_recognition.621525bc61315.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2zw26/FP7kv2sLiZtBrmQiZtJf/70e7qolJjQ6UeuEEM6nzAKLUO6XkOnv3il4xha3fbmqbsp46Jgx2dh/5dHYF5MgF+N/NcfaVY2faB4zs/Ejtr/QtYXHvMuHy7g8D2NCxDFQKXAtbvLOcqiC+/sljtuBOmNj2t+vrNVsMGj6WwEO16b58ivYMwltDW5IXWLzF3zLrVGFcjytetXlKnV1CkVgHJ6GL9TmYkdW0ucKUsYVp0MeNYsAoWC9gGaw84wSmMyvnpQT2wj6hV+R1LxF5TPWPTU6Vp/EJAVy0D8n94z4YoRWmx9JbNlOTfkNdE69Yxo1i0ZznXhFCDWJTCzPbUJCWIPVM3RkKnkzXQfjU=;PsDR1+vltNRQ+sN33DynbA=="
 ---

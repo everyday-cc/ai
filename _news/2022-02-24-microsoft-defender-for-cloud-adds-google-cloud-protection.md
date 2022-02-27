@@ -212,20 +212,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft is building an AI group from the ground up to tackle the Singularity"
-    excerpt: "Microsoft is on the hunt for some talented people to help drive its new AI platform codenamed \"Singularity.\" For those of you paying attention, yes, Microsoft has used the codename Singularity before and from those efforts produced the Midori,"
-    publishedDateTime: 2022-02-22T17:27:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-is-building-an-ai-group-from-the-ground-up-to-tackle-the-singularity"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 50
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/02/Singularity22.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Artificial Intelligence in Construction Market Will Hit Big Revenues In Future | Oracle, Microsoft, Alice Technologies"
     excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence in Construction Market Insights, to 2027” with 232 pages"
     publishedDateTime: 2022-02-24T08:49:00Z

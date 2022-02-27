@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IS ARTIFICIAL INTELLIGENCE A BOON OR BANE"
-    excerpt: "Thanks to AI and robotics today we are in the position to ‘simulate’ in robots and colonies of robots the theories related with consciousness, emotions, intelligence, ethics and compare them on a scientific base. So, we can use AI and robotics to ..."
-    publishedDateTime: 2022-02-22T17:22:00Z
-    webUrl: "https://www.speakingtree.in/blog/is-artificial-intelligence-a-boon-or-bane"
-    ampWebUrl: "https://www.speakingtree.in/blog/is-artificial-intelligence-a-boon-or-bane/m-lite"
-    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/is-artificial-intelligence-a-boon-or-bane/m-lite"
-    type: article
-    provider:
-      name: Speaking Tree
-      domain: speakingtree.in
-    quality: 61
-    images:
-      - url: "https://www.speakingtree.in/b/794204-1350-420-5-1645550552/is-artificial-intelligence-a-boon-or-bane.img"
-        width: 1200
-        height: 420
-        isCached: true
   - title: "The complete guide to artificial intelligence: Use the power of AI in your business"
     excerpt: "From self-driving cars to personal assistants, artificial intelligence is revolutionising the way we do business. Read more."
     publishedDateTime: 2022-02-25T16:00:00Z

@@ -74,20 +74,6 @@ related:
         width: 1280
         height: 864
         isCached: true
-  - title: "Go-to-market cybersecurity startup Cheq raises $150M in funding"
-    excerpt: "Startup Cheq AI Technologies Ltd., which helps companies block malicious online traffic, today announced that it has raised $150 million in new funding. The Series C funding round was led by ..."
-    publishedDateTime: 2022-02-22T18:02:00Z
-    webUrl: "https://siliconangle.com/2022/02/22/go-market-cybersecurity-startup-cheq-raises-150m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Cheq.png"
-        width: 800
-        height: 438
-        isCached: true
   - title: "Avanse Financial Services goes live with Scienaptic’s AI-Powered Credit Decisioning Platform"
     excerpt: "Avanse Financial Services Limited, a new age, technologically advanced, education-focused NBFC announced that it has tied up"
     publishedDateTime: 2022-02-24T08:40:00Z

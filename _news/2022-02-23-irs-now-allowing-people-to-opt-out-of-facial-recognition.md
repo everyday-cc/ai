@@ -43,22 +43,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "IRS allowing people to opt-out of facial recognition"
-    excerpt: "The Internal Revenue Service now says it will allow taxpayers to opt out of using facial recognition technology to verify their identity. The tax agency announced Monday people trying to access their online accounts can verify their identity through a live ..."
-    publishedDateTime: 2022-02-22T18:36:00Z
-    webUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/02/irs-allowing-people-to-opt-out-of-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
-        width: 3736
-        height: 2421
-        isCached: true
   - title: "IRS offers alternative to facial recognition"
     excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
     publishedDateTime: 2022-02-22T22:17:00Z

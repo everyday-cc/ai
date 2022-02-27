@@ -202,20 +202,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft is building an AI group from the ground up to tackle the Singularity"
-    excerpt: "Microsoft is on the hunt for some talented people to help drive its new AI platform codenamed \"Singularity.\" For those of you paying attention, yes, Microsoft has used the codename Singularity before and from those efforts produced the Midori,"
-    publishedDateTime: 2022-02-22T17:27:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-is-building-an-ai-group-from-the-ground-up-to-tackle-the-singularity"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 50
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/02/Singularity22.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
     excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."
     publishedDateTime: 2022-02-23T21:50:00Z

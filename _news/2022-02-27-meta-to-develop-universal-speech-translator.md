@@ -145,7 +145,7 @@ related:
     provider:
       name: Beebom
       domain: beebom.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
         width: 750
@@ -324,6 +324,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3bAVnIY3IYhKYzTy/Q9l1q/C1PBUqq54/ea/fnSPW2aNoXkOQaTXdsbQ7xwFeSRrsSwbAxiDH5v0wDJbqX4JfwTXkHtpmUdN3L7k8IrT5r+nQFGbU2YsGgnm+ms6Ucjf8l9XpXlNjVFz0vUfQ05f8RmTjSKf0Vk5bq2IQRk1U/H1dK+bhTpSxPDgprd+mNCBybJckwEoxxwDnuTL6Tc1YCLCiWfD929/pgnnQjhCbGm/3dcbhfAVLLaO5Y8Jbshogb6cfp5ZKQ4DSwESQuU3reDpL52UDuD93p7SF1tk287d5zUa9/5PHW7+AgvtNxpm+dQUHN6+two4o6+JI3Y5rUzWDUgJCEv6mFLQaks+53A=;fjP5mK0cRZk4uvfIFr/v+g=="
+secured: "uaB9oYppVeXf2I7pMF6PccVu8agSC8P9KkWuZyhTNHvQiVsR2DTRdOlG4scqYUCkvFHYoV55wYfI57W3/F20/L/O5cTpP/u9/+0eHVQJekVlcMKjQy3Ao42wZQ2xZogZQoy+ZtZ2S8axXjFAoxAQH8g0fzCA5M4kqvcqQZxn1IL/Pb0WZ3k7GziDkaugSTEjbxCBdBqw9+y6ZiOvy5SCLBnq0wub33VvigxW21rGklqZpjkfoTuwpcorLLN8roQlSCf84ZupE42B6McQtqv+kyN1RH+qBvgY3xga3IsLh9jc9w0qdWLPS2t8Ts44jtvyEIJyGz5SkvNz1B5Cjusje9PWL2UOQT0zzL11bqUt0A1JprWbtosxQqI1LX0kjKfByzjaTiKuzT6QOn9p25OjvXTasOQLq2JKFDilaZLOb2FgnkEiC7h2gDhqZ96HWNRYMsT/aoH9A7YZtntxi876I1g6vAliJC3PFt7IYxGSHwg5n6Uq5tktrhIjj7eFXZGONLL4i8pBB6wdkvBUhK5dfA==;C7xJzhRfueJ9qjHMbXxCBg=="
 ---
 

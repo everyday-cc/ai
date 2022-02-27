@@ -17,9 +17,9 @@ provider:
   domain: techxplore.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Ethics
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
@@ -197,6 +197,6 @@ related:
         height: 810
         isCached: true
 
-secured: "vYWAy2OK3tA6a1RbZXsLmJNvOTqymRtN+9IpLmT+MyOQFBBVwqRs6uwFL8n7A/SJaunPTWZZhw4864FidFUkmelFmYkTlsoowmcSZexui7SxuhyfzKHZlXgEHAEQqEy2/LnOXUmyvrdUScHmJNuRFQhxiOrnAebHjx9WUCWmOWExyv0qykCuEkDsOkSxgmtxQcFpzzGJNQC/lJWrwPpt/JcnEyT31vOV2ChgOJ5BrAv/se722RA/Efn1XfY8Mujb22/TWqiY9w1VM6SLnAHOeqS9zGo3/r3VGJXa8hAOf5Zbo43VHcCWsTsSNr/CJLyILNNGJ09hRt1SyqGR+FtUGFuLazuJuSUCARWwP0/lYBY=;m+lepmqKhFmLFngLGZO6jg=="
+secured: "65qOaibxKw2zoxiENFbSWZC4D5ElCoWE6jk2y/BeOxZD1tTc7aRGMwdZ/JDm+OVmELsT3CxuV+WfaZu618Yw+9pnQvx1oq3GBCrKmwJXmZC5iSBDtxw0q7jk900fvF8awWibOKKwhNA7WrqNDvCPF3O2RCHzAV850QzF7o1MHqJ8hqzRvPfhBinxHcJtriQOgavYrHjOiUn1arz5ZP2KztxZQiOYhjYR667AI2Nns9Q1Lzj1LUWYjRgwrarIxP7nI3MZ5MEbmdotvIe8y3b2oayj4R/Gl988MXvj+avoDyunl7J61GwhTnYq5NUE0IOh+p1lRecBiU01OghcxdWfl+1H9IyGPYh/ayQ7Cd4gTHc=;bJKuC4y5f3puCPvxEaFw6w=="
 ---
 

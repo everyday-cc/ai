@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103766419/Catalysing-Digital-Healthcare-NASSCO
 webUrl: "https://menafn.com/1103766419/Catalysing-Digital-Healthcare-NASSCOM-CoE-IoT-and-AI-Launches-Healthcare-Innovation-Challenge-3"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 726
     height: 405
     isCached: true
-
-related:
-  - title: "GAVS partners with NASSCOM CoE-IoT & AI to Accelerate Healthcare Technology Innovation in India"
-    excerpt: "(MENAFN- Newsfile Corp) GAVS partners with NASSCOM CoE-IoT & AI to Accelerate Healthcare Technology Innovation in India The hybrid HealthTech Start-up Accelerator, to be established at GAVS ..."
-    publishedDateTime: 2022-02-22T17:52:00Z
-    webUrl: "https://menafn.com/1103741531/GAVS-partners-with-NASSCOM-CoE-IoT-AI-to-Accelerate-Healthcare-Technology-Innovation-in-India&source=29"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 44
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?825763"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "ICMVT1Unf5H3MCdV6wjGWiGdISQ3ec5oBnPCmwWVRs8ANvhf7Wah78d3PFrvj8clg9hfE9Ga9zQGNXZAPG3SilmjNMFM/qX/XMMI2AnNT0ITUMDSfoPYSzRtJCoVPG3ZF/dwQ+684sj31iTMVaK02zUh9kVzEQxkcX7bTPDEX3fIZpMqaKZebJDopbHQqbllFEwy4r6oOdWzyTPY06lJ8nb2tIrSQm3zEY0zLDRZeqKXQT6PP+sMVZfuxhHfPHfOvxHq/VSta4zKS9mZLIUfNyXX7NlOF11mI6Oz2zB+dYKN1j6RWC49lG9lUAuzBpx4V5ERNJ2GP1aDUGQAzMDiYdtbosr0HzEre8DZHCabWyk=;4QrwSNxn8FfgkkIAYWal5g=="
 ---

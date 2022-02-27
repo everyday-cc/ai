@@ -147,7 +147,7 @@ related:
     provider:
       name: Beebom
       domain: beebom.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
         width: 750
