@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/is-artificial-intellig
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/is-artificial-intelligence-an-artist-like-any-other/74019/1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "Asian startups shaping trends in AI, health, and other areas"
-    excerpt: "The number of unicorns across the Asia-Pacific region has neared 200 - second only to the US' number, and their growth is built on AI, decentralized finance (DeFi), fintech/e-commerce, health tech, and sustainability-related solutions,"
-    publishedDateTime: 2022-02-23T07:01:00Z
-    webUrl: "https://www.digitimes.com/news/a20220223PD209/ai-smart-applications-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220223PD209_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "SKkFLnqj3XhN3FcW1b78Knq7J829ZvNEYkXPem/+c6jr0fWt7+YacIbDdB6DlHkjRqdCvVwA+qPB9K5phdFf4OFbuHSRvMsAMY9ExxDpWJkxP2Y28aAF+lZCnMqSah5w/wI4KgH4LMHWac9PD5kXAWfhHqv8XiGssb9djCjMlyTfYh2eyX6f/Bn/VMVkQb8N/LcQgqvX2uaYCy1gj8nJA2sqxGVCsL3bOmrP7NYkP+/wGYWyVc/MnwWwZ79UJmDmPAnPlsQPy5bQS71LjsoP/yeznjdog91P0k3HmbBKneJEBjguT0Uzgr/p9HPCZ3IdquPZ9qCTjRofeWmzmLpDtO1kRgoRytsGdCmIoapKR4UyjT9STU02H5QuLlzV/Hy/KPd/OZHAu4PBPIY6MrvdS4WxlkwNMt1HHyg7tgV1/HC2nXR7dhPkqjrTQsKkUpPAitZIjIGddJO/gQM3dkICBlA/zJxwZIN1abQHwAUzGnMwo1/6L9YBbAuVGtziJ+HKBo0jW38Wv7rHhSjFf+JBrw==;wfqmrAfdPYAeCVLlQAwWvA=="
 ---

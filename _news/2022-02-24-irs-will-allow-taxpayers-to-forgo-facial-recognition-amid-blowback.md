@@ -1,24 +1,28 @@
 ---
 category: news
 title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year."
+excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
 publishedDateTime: 2022-02-24T03:40:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
-webUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
+originalUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
+webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Walla Walla Union Bulletin
+  domain: union-bulletin.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
+    width: 600
+    height: 403
+    isCached: true
 
 related:
   - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
@@ -68,6 +72,6 @@ related:
         height: 270
         isCached: true
 
-secured: "NQxdsbLdhC0XH5lj9wWd4Iu5gglxbkVRnlWq4s0F8jkS9wfwTHp3vDVjGgS4a+kDuvWeFEEfAH3jQuf6iYc24x8PJxk4siUOifHeDdh/yWgIBJIrkXUGRkuceV2RZY7zrEk5rS7+9UueXmaAJs7ssWqlPN8jVs7l+pELAi3K5o8gpY6pzn2JqXVO5IlNkSwA7CIfRvibcCX5zh7ou9kEYCv34no9j0wC3hOwOAmrmFlLp3sFDpg5ShERC+o2QX+pxG2qnN3ZOXIG+onYASPVJiMGZWf9Obekt5u+VJR+NOTkyQLFUlPe/WezkSzq8d5tPcCqBe6RM6Sc9WtKfTdeY7P2w+3qYxL1oHCgckL7ins=;OiOHac+G+oA794kOeQ0EIQ=="
+secured: "1avNoBRbu9z2spGVU0W0Q+4ZnXfRD/qAA4ImKgqQgRjHnu8xdLhJzm4vwTrzFcN+CETYt0uxNn+7V3kdTWno6X8mChcYxweZctlc7sWoXfIHn13upib8PAKiFlsN34sv53824FE9vSKhTMFDko4SlW9cQv4f5/8AXJc+udu0rpy3tLovY07bYlTSxQUxEQ14jjI0f78isgudxeuDOGv3/4L4cxTl8XYDziRvHW9BuYs7Tu6Aee3vGaHfgilxuObKyzck6qx1gsQTYQ5zqMZ2GcMPq4nsvICyui2+yn8ThPXydCRiDesbm+4bUt8KfIJr3s+ZpBWTE4V2zvEHNVsud1YWtpM5YccPzml6gGZcyIE=;/xhmlf1X6wF+E6nkmmiCFA=="
 ---
 

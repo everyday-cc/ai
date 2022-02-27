@@ -53,17 +53,45 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Intelligent Drug Discovery Market to Reach a Valuation of USD 3,711.8 Million by 2027 Growing at a CAGR of 39.4% | Emergen Research"
-    excerpt: "Intelligent Drug Discovery Market is forecasted to be worth USD 3,711.8 Million by 2027, according to a current analysis by Emergen Research. The"
-    publishedDateTime: 2022-02-23T06:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/intelligent-drug-discovery-market-to-reach-a-valuation-of-usd-3711-8-million-by-2027-growing-at-a-cagr-of-39-4-emergen-research"
+  - title: "Healthcare Virtual Assistant Market To Reach USD 2.83 Billion By 2027 | Reports And Data"
+    excerpt: "The rising integration of artificial intelligence in healthcare, growing demand to improve healthcare facilities and increasing funding for improvement in"
+    publishedDateTime: 2022-02-27T22:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-virtual-assistant-market-to-reach-usd-2-83-billion-by-2027-reports-and-data"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 30
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/3c552455d6c335565b744ff1f43b3c00e26f2f07-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
+    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+    publishedDateTime: 2022-02-27T16:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
+    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+    publishedDateTime: 2022-02-27T20:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
         isCached: true

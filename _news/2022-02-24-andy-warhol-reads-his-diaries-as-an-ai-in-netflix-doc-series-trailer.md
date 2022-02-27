@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/video/andy-warhol-netflix"
 webUrl: "https://mashable.com/video/andy-warhol-netflix"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Generated Andy Warhol Will Star in Forthcoming Netflix Docuseries"
+    excerpt: "The Andy Warhol Diaries It is hard to imagine a less reliable narrator than Andy Warhol, but a forthcoming docuseries set to debut next month on Netflix intends to cast him as one. Artificial Intelligence (AI) technology will be used to recreate the artist’s voice in a move that somehow remains poetically true,"
+    publishedDateTime: 2022-02-27T21:00:00Z
+    webUrl: "https://hyperallergic.com/713799/ai-generated-andy-warhol-will-star-in-forthcoming-netflix-docuseries/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2022/02/2014.41.1488_33.jpeg?fit=2000%2C1340&quality=100&ssl=1"
+        width: 2000
+        height: 1340
+        isCached: true
   - title: "Andy Warhol’s AI Voice Narrates Trailer for New Netflix Docuseries"
     excerpt: "Executive produced by Ryan Murphy, the six-part documentary features Warhol’s AI voice narrating his own diary entries."
     publishedDateTime: 2022-02-23T17:56:00Z

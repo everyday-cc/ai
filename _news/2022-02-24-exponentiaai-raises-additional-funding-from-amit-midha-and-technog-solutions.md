@@ -36,20 +36,6 @@ related:
         height: 450
         isCached: true
   - title: "Exponentia.ai raises additional funding from Mr. Amit Midha and Technog Solutions"
-    excerpt: "Exponentia.ai has announced that it has raised funding from Investors - Mr. Amit Midha, President - Dell Technologies and Technog Solutions. The funds will be used to strengthen Exponentia's offerings in the AI space and expand to new geographies."
-    publishedDateTime: 2022-02-23T06:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-exponentiaai-raises-additional-funding-from-mr-amit-midha-/2022/02/23/9550279.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1752365/ramendra_shukla.jpg"
-        width: 400
-        height: 391
-        isCached: true
-  - title: "Exponentia.ai raises additional funding from Mr. Amit Midha and Technog Solutions"
     excerpt: "Exponentia.ai has announced that it has raised funding from Investors -  Mr. Amit Midha, President - Dell Technologies and Technog Solutions. The funds will be used to strengthen Exponentia's offerings in the AI space and expand to new geographies."
     publishedDateTime: 2022-02-23T18:38:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1237079&cat=PR News Wire"

@@ -56,20 +56,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Mobile Robot Market Growth, Emerging Trends and Competitive Landscape Forecast to 2027"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-02-23T06:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-growth-emerging-trends-and-competitive-landscape-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Kamel-Ghribi-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "hW7tOAdsUY+nMLYV2eImLH3hiFIkH1REixSOtJlGkN38mm+BjOfm8BLnU8VvUXZCfhEYMk5FjfquaThU31eN7mOMOjF5GdSVuoTs5WC8RFSMTr9kjHNuTZXQH0xQxyVtlfx4002vX5ELw2ATG1ujGpCtlBXf85DhGh2wFq1jWdqN5NgQNuSsrxwwX2+uWEM4gz5aeoExq4EST+AydhN26LGG7Ft/q19LaFQ29FPrNkkxvXu05e9YH/arrkQAPGkOPVUtqezcAe4sLW7Tz1VZ1P/Vxf5QxxLAbdnc4ajoDzPf5eHg09WAC0RO5QKHRsf25nKxUkJYezYv2u1DFC1XiM+UquMY5TF2BHBb1Q+rVuQ=;s7c3TjkrhMxfJMl59+mbxg=="
 ---
