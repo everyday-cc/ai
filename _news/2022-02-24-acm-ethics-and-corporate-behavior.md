@@ -18,17 +18,6 @@ topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "Technology ethicist: the field is too easily co-opted by corporate ‘ethics-washing’"
-    excerpt: "A leading US technology ethicist has argued that despite the explosion in society-wide attention directed toward technology ethics in the last few years after a series of scandals, his field remains too easily captured by actors more interested in avoiding backlash than in taking actions that may undermine their bottom line."
-    publishedDateTime: 2022-02-23T02:30:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/943966"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 13
-
 secured: "5zZ19GU56y6xs8ZHc+NOgvD2Fo0vBPWQ8Wb5+D2PA821nq7djdxHUF8D5e5/A9YuxjyQ9XP16D13oHECVhiiCUk+GQjNjx3VCL2nSsyj4LAX+kaQn3LudTK4vpoKlT618OiWfkyUBnzI97aI3CT0xeimv1pDWZlehxWa4QkMvRzuFefYdiHurqTjW+jGyGH/BBOUZge68jT2N6HBV5lRn9nakmsUz1RBuTLIkE843z+M9NZGkQVDgaJ+GzHAudChQ9awtZT9udbnzkhcb+A8fQtQO66NCpNsf0hoKzQIgXWQrpNEVEdzFo6pPkDEC1xXTI/Q48A/lTItdJqZYbCxzr87EEGizX083xQWPn/SSOH8kSFQSxFBTSCywpoSegxmAJd0ij7JUo8mdD6x5K+tCg1JCrnPLRX2Uxw/+lYBW1ZstRnbLyKJ88k0LKSiC1VPb3nuvNmkC7l2E4nGPZ3rqlqUZT+dxkrL5Fk78eP7S2HJKt/BX+MZDtbn7sSiOZLY5fYg4VJsGzldZM8w2fcjsg==;vHkos6HpzlIJXFQW4YEz7A=="
 ---
 

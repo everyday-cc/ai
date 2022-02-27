@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "The rise of surveillance start-ups in India"
+    excerpt: "However, a rising concern with India’s multiplying IT industry is the state of surveillance tech affairs with the PDP bill not being passed. Modern-day computer vision algorithms have mastered face recognition,"
+    publishedDateTime: 2022-02-27T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-rise-of-surveillance-start-ups-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/surv-b_11zon.jpg"
+        width: 1678
+        height: 943
+        isCached: true
+
 secured: "gk+KqT/ZagCzqUPAE6hgEhGER1WwJ8epOFdQnTu0+s+L46dYGY8JVby2r49n3SqZJCta/cq6WpHmxe2qIJSNxXJbaX8QeulsHBfV+Nt32ojvCd1aF0IDeQZH4jEQHTLsi5DsMMgzwANjWS0UceFSCZ5WDLJvBZdAOENwOB9fnPUfuHOdIinnsFEVXW8sPXNgZVO0VQuQXk97aagr9nVoNRnhCTt6M1meY294zhgguTSle8QXFV2UELjHyWNQISUkWX5i58qYKIxTlCMF95bNqtUqHzBrZCYMN6xV2Q6ytCC0dEkjy6QmOw6qobscigE7pb7EZK/ugFoB4Qs6JCuq/39125dlvWjRlGbpcAkP3VBhko3mKu/OlPRCam5pyfFy/zo0hL/J1wVxIfwI6Q+NLV73fH0tk7+4U3IUSHv1KwBzfOTmHog6WfV+GW+YU0viY/SF/7aH7i9y88O4awX1sp5YxT6D88WcF0bfK5TR64NyRZidfCaXKuCqxlcNzehjaNd55/6Uay+J7obiNFrIyA==;gQEIQ749ln+Q1emBitvSQw=="
 ---
 

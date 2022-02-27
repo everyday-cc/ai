@@ -1,10 +1,10 @@
 ---
 category: news
 title: "General Motors' Autonomous Driving Unit Cruise is Seeking NHTSA Approval to Deploy Vehicles Without Steering Wheels or Brake Pedals"
-excerpt: "General Motors' autonomous driving unit Cruise has petitioned the U.S. National Highway Traffic Safety Administration (NHTSA) for permission to deploy its driverless shuttles ... autonomous technology, artificial intelligence, supporting the American ..."
+excerpt: "General Motors’ autonomous driving unit Cruise has petitioned the U.S. National Highway Traffic Safety Administration (NHTSA) for permission to deploy the Cruise Origin driverless shuttle on roads in the U."
 publishedDateTime: 2022-02-21T21:10:00Z
-originalUrl: "https://www.futurecar.com/article-5217-1.html"
-webUrl: "https://www.futurecar.com/article-5217-1.html"
+originalUrl: "https://www.futurecar.com/5217/General-Motors’-Autonomous-Driving-Unit-Cruise-is-Seeking-NHTSA-Approval-to-Deploy-Vehicles-Without-Steering-Wheels-or-Brake-Pedals"
+webUrl: "https://www.futurecar.com/5217/General-Motors’-Autonomous-Driving-Unit-Cruise-is-Seeking-NHTSA-Approval-to-Deploy-Vehicles-Without-Steering-Wheels-or-Brake-Pedals"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 449
     isCached: true
 
-secured: "XlRhwNrQ5x+t8oEm5/cOQG/TVnY+527mjuLloaSX/po2i3RCzSjZTVVTpFwfeUUCh1FNZxt2+ufEXeEpyUOvVO2yQVinvxdsoPBvfNCg0py/pcmEZ6tu5T0pDUoo+dk8tK/8WeyIS0ueVY1f9fUiP8L6Ecg20j4Q+isSJDfTW1JhpyJ5lwHMRj4/Ptidp2msPfnYV1XmAJXaRjjNzNyLtMVDELiSSDpIk2qXFvt0iXyylTj4lB4iKudhkq9ScY1VNNV0+9U95QauSLESlYa4dvax6nQEZwmfkHa8Jw85ps427RzdliJ3gjMinCKTaw5L/ApXzyJOWjSPY80DoCio07Ycmb0efQjIKU/+VjAqaBzmK0TB0DDl8YnnKRICLYtmIHmjITi7vZX7f1dj6lM80c5yaLuNP/0QsGs7KaOkcvBdM2KFEinn3VpuuOCyczlZSCZs7+D4XaoffAOIj7SX9+B6MFxtMXsfaYgTEiQh1CTs73DlrTmCusT8MWdAkXuy9mMK+YTwXULNb64LH3wVPw==;yAo2ChIDMtSFb3bR014ryQ=="
+secured: "+DjsseGYtHqsBgH/OLrdnq4qkmHDmMssaHHrjNEh7NnEjXNsBnTdspcfn9yGgQkl8FDpOXDYycaZz0Xbq1ujpIy/fx+r+dGq16UJ7doXzlk2xZc7wGCZ+kvOayX2rFa4+RK8raqbOvN0AJOE/F4omiwNCQvfoOglGdK+fkfWatwKmw3sNQA4Zu+AgEPMDhDQn+EjCKS0MYhSvhe02M5JdTuiY7eh+1YJdLbMot7WjUlC+GgqlMyxJFie/iCSIUHivlGpzZzr+F9WJHhxgX2yjCJRzwDGsWiM4P/tZc6qFC8OzHbiREg7ig0cvBftq7cIMC6kZde10MuIzDZGl2skxv9T0tmtQtv1uwpBCQT0OJQ=;d47sbYDHR2VLFDi/nukdgQ=="
 ---
 

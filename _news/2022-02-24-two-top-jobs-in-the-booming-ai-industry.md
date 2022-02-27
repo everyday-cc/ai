@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 140
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatme
 webUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatment-market-to-grow-at-6-5-during-2021-2029"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Systems Spending Market Research Report 2022 - Global Forecast till 2027"
-    excerpt: "AM 'The global artificial intelligence systems spending market is estimated to be valued at US$ 11.7 Bn in the year 2017 and"
-    publishedDateTime: 2022-02-23T02:49:00Z
-    webUrl: "https://menafn.com/1103747459/Artificial-Intelligence-Systems-Spending-Market-Research-Report-2022-Global-Forecast-till-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?972797"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "DFjNBrCsSKy53JatXJ7AEQDC4eL6Ua9SDvP8aQQjWHTDh5SUZbJRibzfEZ5pZ0xcuUVhEaCD6c3Lopdq2Se4VKLJYPhWwdWcO9H88ebtUa+LRbF7eJS/1Vh4Y6Fv9O52ghv3IIPw4/WSZrHIsNalBtaktwY1+LemitNuC88vAGDexaNQ1WSiBxJ9+RyP0Dta6uKNd6WF/qWB45xPmEaAY6DvsKTgtqqKzzM/oemhIvJc85NJEkv4ofFpRlgcaUcwY/BGgFkM/Nb7MkumYMNcaV+ndEMCIsj1huAxMIXbkjR2YhG/pcCI6YqfQKb+gTnEMdkMdzTv8FaabzAkWQICAqQGCE/hfCfzlvhCakpOBEw=;terDNSaQZYSeBselHSSvMQ=="
 ---

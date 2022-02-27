@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Katonic.ai strengthens its ranks in India by appointing Vice President, AI Solutions"
-    excerpt: "Harpreet joins the Katonic executive team to help organisations to harness the power of AI to transform their operations, accelerate growth opportunit.."
-    publishedDateTime: 2022-02-23T02:46:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions/89762234"
+  - title: "Tracing the rise of medtech in India: Broad trends"
+    excerpt: "Emerging Markets Group & Strategy, Medtronic India highlights the trends in medtech sector in India. India’s healthcare and medical device sector has wi"
+    publishedDateTime: 2022-02-25T09:54:00Z
+    webUrl: "https://www.expresshealthcare.in/news/tracing-the-rise-of-medtech-in-india-broad-trends/433775/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/tracing-the-rise-of-medtech-in-india-broad-trends/433775/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/tracing-the-rise-of-medtech-in-india-broad-trends/433775/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 50
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 44
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89762234,imgsize-22264,width-1200,height-628,overlay-etcio/katonic-ai-strengthens-its-ranks-in-india-by-appointing-vice-president-ai-solutions.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/25155350/EH_GB_Prateek_Tiwari_Medtronic_India_750-1.jpg"
+        width: 750
+        height: 400
         isCached: true
 
 secured: "LIPFrzn+GDsQnhw9q83gOK730ya5QFIVH6YCdtOCVKG77tUgFHK19LbzKP2in94z+GqHxu2I0E+Zkx5P7ZcEK9hqy+m6wmz2I3E9MzejBZEkwEsXbOkvA8rSZdJYtDjpWM4L4bvUjcZCejNSUQ/QqBkpztnbp4gXbgNuwNwb/R1y0/n6DebqlylHFYiciLSvCV5SzRACLIW/iTrtA5gfXhdR2yTji79NCHzWHj7MwjsK2M4Xv3DqVliVqXma/lylS0R06VaasQb81P9W/BtLO1oI2s+qVsJwuKeR1nEn7N0+gY06JcW3C9qqQWNGmgyuB2igoNiJpELeDnLAygpIjfgdV/fyNou/kU7e6OjLhCi0LhVa5eDsYdqq+Iq9NEc1+3qIk4WAmZtJ/GO7rACh23C8pUvJyTIXmmgGRMXPoVsfiFsmJzE/4KWyFTV1vuHVkfHwZrU5pFQMP8oHqJwSYxiB1gLryRkZI4fzlCt562PIWRcIKwCzWWXPkjs0Oq325kcKWqWxlnRrOxzfoOcC9g==;+upwqaq4dSOrw3afSlqgvQ=="

@@ -281,6 +281,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Meta developing AI-based Universal language translating System for Metaverse"
+    excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
+    publishedDateTime: 2022-02-27T18:25:00Z
+    webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
+        width: 554
+        height: 372
+        isCached: true
   - title: "Meta Plans to Build a Universal Speech Translator"
     excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
     publishedDateTime: 2022-02-24T08:14:00Z

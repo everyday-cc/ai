@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project"
 type: article
 quality: 88
-heat: 288
+heat: 298
 published: true
 
 provider:
@@ -268,6 +268,20 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Meta developing AI-based Universal language translating System for Metaverse"
+    excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
+    publishedDateTime: 2022-02-27T18:25:00Z
+    webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
+        width: 554
+        height: 372
         isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."

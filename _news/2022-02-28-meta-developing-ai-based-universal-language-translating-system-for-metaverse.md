@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
-excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
-publishedDateTime: 2022-02-24T21:36:00Z
-originalUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
-webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
+title: "Meta developing AI-based Universal language translating System for Metaverse"
+excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
+publishedDateTime: 2022-02-27T18:25:00Z
+originalUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
+webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
 type: article
-quality: 37
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: iPhone in Canada
-  domain: iphoneincanada.ca
+  name: tech
+  domain: techstory.in
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
-    width: 640
-    height: 360
+  - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
+    width: 554
+    height: 372
     isCached: true
 
 related:
@@ -265,19 +265,19 @@ related:
         width: 1024
         height: 513
         isCached: true
-  - title: "Meta developing AI-based Universal language translating System for Metaverse"
-    excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
-    publishedDateTime: 2022-02-27T18:25:00Z
-    webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
+  - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
+    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
+    publishedDateTime: 2022-02-24T21:36:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 36
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 37
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
-        width: 554
-        height: 372
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
@@ -338,6 +338,6 @@ related:
         height: 225
         isCached: true
 
-secured: "x4y6/YZNHb1x4hX4nuJsUBfY68yWlBNj+6skPoSFbyLCUqQ3nJHtOsyJ6XiHCfiDILzkM9Si6fe2XI57iBzmZLc9WnPHh4snSOWx2gV5YaNyreSTHk5am0xwF1QHGSH0apKLu/JnM1/PZ+Lm18wv+uDqrXqsYVtCDSi30uUqSqs0r2/k6G0LdJfrd5Qb1FpsqhJLUNBt0gjjpczhT28RCg7kz73K+2DtklNyfVh14irZi1omLMS8I8WUE8NbA6WRF4Yp2lYCnziC3FKXlHMqe2aQ9BWl1AX86QvlZP3N2TXcN+lFoe9v6JAtSoSrkgo9Um9bWnJHkMSKH1pq6odpXjWCrl7adZ3Qn8csPQWNyaY=;ahwd7gBcnvuXj6yekImfeA=="
+secured: "lgl+d29O1O5DyvDGmfpJZjO9LZTSTfyWJEpHEX/klN5hSebN3n4QSsTSD1bLN9cZnnqnqmyLZxYzqXGfR+zLz5RkWXT/vhd1Eon4udHtOZmfzvgaWZi182DPil84ehQpXaJHpaSEQanEHgYoFRXj6PsovvBzpqLTc1eeNOtpdOR9mZQ4HT47eh6XDftBInOLWO3F/N6geSqNBph1Dam9QQho91JPmVaBnVffLjBdBrLaeBOhIxQGMI29PnMTxWPd5zZvSN2pS9OGJ9nILPsRVNjhSnoKkAX9F8z9kN+JB5OmTBXIiU+q9Vqx1V64hdf627h8A6rIRoh60SkQVLJSldSqWt56CvAHVkZSR1QmnyU=;rUeqPnDPuRZ+Fz5bVyUe+A=="
 ---
 

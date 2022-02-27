@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

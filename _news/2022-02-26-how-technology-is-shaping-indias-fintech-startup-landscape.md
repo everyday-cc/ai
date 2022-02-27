@@ -41,22 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Insurtech RenewBuy, a Digital Insurance Marketplace, Acquires Fintech Artivatic.AI"
-    excerpt: "India's digital insurance marketplace RenewBuy has reportedly acquired Bengaluru-headquartered Fintech firm Artivatic.AI."
-    publishedDateTime: 2022-02-23T01:43:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187339-insurtech-renewbuy-a-digital-insurance-marketplace-acquires-fintech-artivatic-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/05/alex-knight-Insurtech.jpg"
-        width: 1800
-        height: 1362
-        isCached: true
   - title: "Artificial Intelligence is Transforming the Financial Services Sector"
     excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
     publishedDateTime: 2022-02-24T12:16:00Z

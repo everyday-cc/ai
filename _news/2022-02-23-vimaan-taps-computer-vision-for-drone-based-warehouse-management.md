@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Vimaan Taps Computer Vision for Drone-Based Warehouse Management"
-excerpt: "Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses."
-publishedDateTime: 2022-02-22T16:18:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
-webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
+excerpt: "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ..."
+publishedDateTime: 2022-02-22T16:23:00Z
+originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
+webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Verdict Retail
@@ -24,6 +21,6 @@ images:
     height: 333
     isCached: true
 
-secured: "PCRDEgPAVCWRTM0ctpIuaIVT4p4+Z77PlYxyZbgvvg9AefHJvYsFoHsTXGa97lBGg9iCmeKammsRgoXT8hSsqneZ0Eyvp3EhyLcQG4/EIvjOCOcfnSWCBWbdKRO6cJLSccMTherxgeYm1AOUxm+M4o/CwNEATuoqUvK2K0YXKIeliVYAt+oECk9xFHeixIdXDVx1j2iANiL4Gq39SJZHkhuLlg1a3xeWciEXYtzGW2ZkU5N7RFf6cMA6lBe4pUzCGDXkDiOP960CtkCboRWFShKyVpi8DIsz4O6fcaMXa3DVofuI2pKqlj8Fr758/iLAN+0ajACv2KyAoG+oC3auBa9ADjD9zWtq3aMaz6P5L7Y0j70oGQGaI4cAxBh29LCVQg6RAx0Yxl07070bCbQ6srRxXxZGtYwQ3fgfY0GeNEB1MmS6yIzx2Zh9nADhcurwUQesc08x4OUVf8pq9d+sSaafUR5JOAGjGxI+8M7tR+O3zVjcuXIpM5u7rGdqHTbcAy2TXS8oVo3cN4KZ8X3+kQ==;EMbCuIfWwHgewgJRKwhaSA=="
+secured: "S5gjZd9AmuGnRD5XZOdEOryIg941mxAmL/zAMi81VdCX6PP5+Vky5ZEv4KIK6yJOELXWqi6GbVqXHfQIRIrx1Cx+XyKocRwUP6FI/cCv2UIzcIAmJHLd5kF/e44SZ5TMovSxG/CBKQfP9u8VW4EXjCbEIHNao5bqORmNh9qwK9owVcPVsMRPgtcQ65f112Xc41Lu83H6OqkenKizNPciuOw0/VIUpLREIgcsXRWWkSnYKy5/YZL8h4+g0MyT1tnodjyAQ+4YahuknTWHQAgCBmwkQ9+8v0zarksX8hFMOyQoewFB/IbYWnbuyEoqja7XBK6Qv5LgSl8xZO3OeLtZ4eSOL04ucaI3xBIz4eJi43U=;tWclpqPqlYxcVtZiJ+zKbQ=="
 ---
 
