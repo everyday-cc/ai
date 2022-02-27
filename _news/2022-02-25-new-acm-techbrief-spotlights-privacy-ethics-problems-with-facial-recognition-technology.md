@@ -1,23 +1,31 @@
 ---
 category: news
 title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
-excerpt: "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-publishedDateTime: 2022-02-24T17:08:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/944603"
-webUrl: "https://www.eurekalert.org/news-releases/944603"
+excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+publishedDateTime: 2022-02-24T17:45:00Z
+originalUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
+webUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
+ampWebUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
 type: article
-quality: 27
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Ethics
+  - AI
+  - Computer Vision
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+    width: 1920
+    height: 982
+    isCached: true
 
 related:
   - title: "Facial recognition technology faces mounting legal, ethical questions"
@@ -189,6 +197,6 @@ related:
         height: 810
         isCached: true
 
-secured: "WUuUS6R0UKZZCkju6aGTcEZaWXbl1mUlm4p+z5d3uJmoQEnQezNuBL1gKmzkC8x9EkYtiuDL3oy6diwlM7bL2NeEhDXScEJ0vUqn4rYsY1sGzF8lHHzd5tT+roJB6+g8+ZehRI1aikb8cool3Rh9E7pIuXL7TOJXlaunTttYORY2p2fkRkyLVSjKXRCZQ9ycPkoaT9tJMNYVn3C5OFAXkdDtaZgxoR5juMNFpTQHB00uoPQG1he+0DzrXeNKDqxhqzeoHR2qwDkQ1iK2HPheALUgHwswx1GN6CMfN0ytcvzLiMYlUgDLsyfs99uvZP96eqDILa/vigYzW49Co4xg8CAGKxvbMrXpXz0VT//zTtA=;i7ka7mcflvSAf8Xl/BTLoQ=="
+secured: "IIR9tRLnC7+iinA5PDxB9rubvwR+n/l15ZywT5G/1DWFDgzzFzZoyrUo73vSUVoWrqNCmHIb4DlBoCwP1Vfry3dP9rVLOqBvvkxAOTltdAYl3O0oLLglt7Rf+wllXScit4QybUEmgEERr/yPOd1bZs8RNLsMhfvPzV0Lx8lkSymGwAbvvUzKZmB/XZhZJqu2o17/QiEZe/EgzFg8QZRCsnYqTH6CDZsMP2Wy+gLpfTOkdB0urhqhvFnGr8HaapcNl155EvSmHiPFY/YV+Tm6XXZ5QbWPDIoG6nfqY5xOHrDfc2cb8Gra243OaaBtdO8NW8lHQ42nrTsp32W7Mdyh3ecDCz2W2txLVpIWjguBnz8=;CpNUKFvBLyqDw6vRn0+rUA=="
 ---
 

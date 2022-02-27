@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI denied copyright for its artwork"
-    excerpt: "The US Copyright Office has denied a request to let an AI system, dubbed ‘Creativity Machine’, copyright a piece of artwork titled ‘ A Recent Entrance to Paradise.’ The board reviewed a 2019 ruling against Steven Thaler, the developer of the ..."
-    publishedDateTime: 2022-02-22T10:33:00Z
-    webUrl: "https://analyticsindiamag.com/ai-denied-copyright-for-its-artwork/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/REP-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "NCHJKsWMb95RpT/keWwIIfV/bhPI208vgb0ILh1f2L8D1e30uexX/Ca2nXENckQg0oWQWddXhgHr3gxDPxdCD6K6zlCAvGOffmrVfdJXsrwDSKdwjufOpj+oZ0yhBxBlO4AWdGaAJESf9uxBoad5mTP3CWjPsIy5FVSsSevNfa5t4Dp4YuwI6qqLho7TIRPBqqeQnT/6Ss4jDi5AgYv+AmNgvSMhCovdzjDMz8maKE9ZJVOoCX2XhC0ZMFNA6jevk+LlIPfCLm5Stm+SwkF+l/R0kNSbBCKPyRc+iYJLj5x8WvfYFuPy8LqqEELJ8SFG9FG3/Yam+ct75btypirTgIKDkPAWj+60kTgpIrQIgJN6Efc7vCgbiSpthRz1SQrWXAmeVdDIVVtiqGWfL/TUIMaEMkML4Z8KmmIyu0084ZDa73LW8RPc7sWV0Nh4WZBOFDGtTSKZWJ5FkaEEWz9Il7GXgGZCLaetxqDo9qtuflgyrjLgS3jTSIJbaWubloWBCwWBiwX4542GDdVkLwAK+A==;wMCZmEVsRRZehSMqzwA/cA=="
 ---

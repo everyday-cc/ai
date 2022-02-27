@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "MUHC uses artificial intelligence to train neurosurgery students"
+    excerpt: "A new study from the Montreal Neurological Institute found that when it comes to teaching brain surgery, artificial intelligence (AI) performs better than real teachers."
+    publishedDateTime: 2022-02-27T01:20:00Z
+    webUrl: "https://montreal.ctvnews.ca/muhc-uses-artificial-intelligence-to-train-neurosurgery-students-1.5797818"
+    ampWebUrl: "https://beta.ctvnews.ca/local/montreal/2022/2/26/1_5797818.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/montreal/2022/2/26/1_5797818.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 72
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/2/26/2391594/_jcr_content/renditions/videothumbnail.1645924831439.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time"
     excerpt: "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time."
     publishedDateTime: 2022-02-25T21:23:00Z

@@ -39,20 +39,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "GAVS partners with NASSCOM CoE-IoT & AI to Accelerate Healthcare Technology Innovation in India"
-    excerpt: "... and innovators can submit their interest at https://www.gavstech.com/healthcare/healthcare-startup-accelerator/. Sanjeev Malhotra, CEO, NASSCOM CoE-IoT & AI added, “CoE is MeitY initiative focusing on accelerating digital innovation in different ..."
-    publishedDateTime: 2022-02-22T10:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/gavs-partners-with-nasscom-coe-iot-ai-to-accelerate-healthcare-technology-innovation-in-india"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 42
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ICMVT1Unf5H3MCdV6wjGWiGdISQ3ec5oBnPCmwWVRs8ANvhf7Wah78d3PFrvj8clg9hfE9Ga9zQGNXZAPG3SilmjNMFM/qX/XMMI2AnNT0ITUMDSfoPYSzRtJCoVPG3ZF/dwQ+684sj31iTMVaK02zUh9kVzEQxkcX7bTPDEX3fIZpMqaKZebJDopbHQqbllFEwy4r6oOdWzyTPY06lJ8nb2tIrSQm3zEY0zLDRZeqKXQT6PP+sMVZfuxhHfPHfOvxHq/VSta4zKS9mZLIUfNyXX7NlOF11mI6Oz2zB+dYKN1j6RWC49lG9lUAuzBpx4V5ERNJ2GP1aDUGQAzMDiYdtbosr0HzEre8DZHCabWyk=;4QrwSNxn8FfgkkIAYWal5g=="
 ---

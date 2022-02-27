@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-i
 webUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl"
 type: article
 quality: 52
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/b4cbb61/2147483647/strip/true/crop/1400x735+0+65/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fd9%2Faf%2F047f805144c592780381bcd54ffe%2Fu.S.%20Bank%20Microsoft.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Real World Artificial Intelligence Applications in various sectors"
-    excerpt: "While the concept of artificial intelligence may sound futuristic, some real-world AI applications are already in the works. One such application is in the automobile industry, where autonomous cars are the future."
-    publishedDateTime: 2022-02-22T10:29:00Z
-    webUrl: "https://www.linkedin.com/pulse/real-world-artificial-intelligence-applications-onpassive-hyderabad"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEIgDrostRZvQ/article-cover_image-shrink_720_1280/0/1645525341288?e=1651104000&v=beta&t=0EMqBtxS3u-4aMUqGoPYzJmEU_AUJZr8bNBD8SLQax8"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Patriot One Technologies secures contract to create AI-powered full motion video detection application"
     excerpt: "Patriot One Technologies has announced it was awarded a contract worth nearly US$ 1 million CAD with Canada’s Department of National Defence (DND), to further develop an artificial"

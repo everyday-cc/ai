@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/02/21/people-trust-deepfake-faces-mo
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/21/people-trust-deepfake-faces-more-than-real-ones-study-finds/?amp=1"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1068
     height: 601
     isCached: true
-
-related:
-  - title: "Deepfake democracy - the presidential hopeful using artificial intelligence to win votes"
-    excerpt: "Yoon Suk-Yeol of the People Power Party is using an artificial intelligence version of himself that is younger, wittier, ruder and more direct than the real thing. So is this a strange political stunt? Or will we all soon be able to talk to a superior ..."
-    publishedDateTime: 2022-02-22T10:14:00Z
-    webUrl: "https://www.abc.net.au/radio/darwin/programs/drive/ai-avatar/13765850"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 28
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/8795130-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "jxaEjo7onP8YKmvbyPMs8HclDijZODSr9efhLoWxW6q0z11RKoZz8prabkXhMRn9ICtY/ya8u/dkSzitvb3/0HS5TiqXyU84Qs48foFQRV9rmuE6WBbe1kOlFS+mupbf/He4io9TsX8lFDVFFR6ndpj9675q5/IT6N1K444nWY1YeobfsL1KWF+eFVFPWBntpbk0CMDYSLPvF0oCOxZfdocXio0w1YD4XPFOGbWpylGGNL3sRO4JpUsh1s9LSYSdy1FAeZ3+HgQ7aseBrlACyoONaANt+XlUYNemEn7NKW9EVB8GiaqGHk1weCcBN7TwRXmH1ZJXxY9HAmUlyyBFSyyoDt7U6P5DgYRL9wd3FYtqMPW/1bec7vrG5GEY5F3sizayNwPNos0jYHoB81cvPMyizBnTRovqWseFNFZmaAo56ghRNINvA+gu99X/7DnAW1gVzBX+tXt9fzdlnMOaro4ZjX4EyEGPpRQU2gxIyekky4Y6292GHEbSzVCQ+6mK6FqpqnGPApecgmuor6IGhg==;bYP3HJvdfxiYg652rGU0JQ=="
 ---

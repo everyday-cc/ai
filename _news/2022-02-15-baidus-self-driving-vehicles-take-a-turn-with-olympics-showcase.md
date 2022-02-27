@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase"
-excerpt: "The 2022 Winter Olympics in Beijing promised another big opportunity for autonomous vehicle testing in a real-world situation, this time in vehicles made by one of China’s biggest technology companies, Baidu ... deployment of self-driving vehicles ..."
-publishedDateTime: 2022-02-15T15:31:00Z
-originalUrl: "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
-webUrl: "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
+excerpt: "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase Aside from special demos, 2021 was a record year for autonomous vehicle testing with a combined 6 million miles driven on public ..."
+publishedDateTime: 2022-02-15T13:52:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2022-02-15/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
+webUrl: "https://www.bloomberg.com/news/articles/2022-02-15/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase"
 type: article
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHsLHzGeBdPM/v1/1200x776.jpg"
     width: 1200
-    height: 630
+    height: 776
     isCached: true
 
-secured: "Mi31KsfRa3yoy54teUjt8cgglkl57GOYuFGR0wWwk+j97M5wKUiF8UpWmOC6bpTiwkXEzwjTaV7TdWfQ9i5Sgtr7BnAyxFYa9JEHj54qjjJGVz0NcwmyKBavIh1IU/W8pnjqzK7ltVHKS10u6037qOi57HvHDRI/wF4JX3S8ulEFL9F73fdSsuoWSfMYxxHiZL7O8MkWIaEoiHoR/AxVyRehLphzcg0Hr3V5MncwjiXgsO1HkgJDENK66urIqP6VeKWiRrrgQ2T3tgRuBEjKy3/hAGJXyQ0YdckuapcShs3MCelNj8pw8jhRiWyYyBU+Gg/vh19YyTSqGLrbvTMAyLwdHCYPw6PE+hwHXU0NiXQ=;vc+AFzHcqD7Wx59BXJ4H5w=="
+secured: "Wv8BgdO7yyBRRHSArCnUcV0OYqfniwGEl8NjdhU8B8bpboeHouhFG0OMoJfe9i8X5HItUFbPC55hFlvzp7kGyM1IeliKm2cOZM4eGHk8GOVx7YYFPMap67PSo/jNjmpqRFidfQwRYScRBhR9Ot6YKrmjOlFkZEUoxYJHD0Pb2u2YACBq+qfAEOfIW3nYSRUPkBNeqFtANnibDzZu4vcblZq4zkPUgLVNiM3xDghrfdE12ZbPFOZeTNc+nhUPrK2W8/83KPeW55olmEDS7VN4IebJSJm91kjP24M82vbVKbAXGP1BZJWSdV5l8gyEYxvxifxft+oeULgU9iGWb4xAB0e+Rg185kZnaW1+BApEF+w=;fzc67nz2mnW1FkQBE7nSQQ=="
 ---
 
