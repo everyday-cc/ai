@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology faces mounting legal, ethical questions"
-    excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services."
-    publishedDateTime: 2022-02-22T21:06:00Z
-    webUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    type: article
-    provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
-    quality: 76
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Proposed bill aims to put some guardrails around the use of facial recognition technology"
-    excerpt: "Senate Bill 22-113 calls for the creation of the Task Force for the Consideration of Artificial Intelligence, which would take a closer look at the use of the technology by public agencies and offer recommendations for how it should be regulated."
-    publishedDateTime: 2022-02-23T23:38:00Z
-    webUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 65
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e88/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/e8865faa51de4d56b42b661a81c13955/poster_2a0312f7745940f1a0f35318c9329aee.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition"
-    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ..."
-    publishedDateTime: 2022-02-26T02:17:00Z
-    webUrl: "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6788045001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788045001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/01/31/NAAS/f9ebd3fd-9047-421c-bb8e-4e07809346e8-IMG_Texas_Attorney_Gener_1_1_TDVDDFQI_L1771748395.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
     excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
     publishedDateTime: 2022-02-23T04:19:00Z
@@ -88,6 +40,22 @@ related:
       - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
         width: 1000
         height: 527
+        isCached: true
+  - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
+    excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
+    publishedDateTime: 2022-02-23T20:28:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
+        width: 3736
+        height: 2421
         isCached: true
   - title: "Following Backlash, IRS Allows Skipping Facial Recognition"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
@@ -105,22 +73,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Unemployment system to soon move away from facial recognition"
-    excerpt: "The state’s unemployment assistance agency will in the “coming weeks” stop utilizing facial recognition technology to verify the identities of benefit applicants after senior"
-    publishedDateTime: 2022-02-24T17:14:00Z
-    webUrl: "https://www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/"
-    ampWebUrl: "https://www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/unemployment-system-to-soon-move-away-from-facial-recognition/amp/"
-    type: article
-    provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 59
-    images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2021/05/GettyImages-905549076-e1621418586533.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
     excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
     publishedDateTime: 2022-02-22T23:44:00Z
@@ -132,61 +84,19 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 39
-  - title: "Will EDD stop using facial recognition technology for benefits?"
-    excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday. EDD’s ID.me, regarded as highly effective in ..."
-    publishedDateTime: 2022-02-23T00:45:00Z
-    webUrl: "https://www.modbee.com/news/california/article258661808.html"
-    ampWebUrl: "https://amp.modbee.com/news/california/article258661808.html"
-    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article258661808.html"
+  - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
+    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
+    publishedDateTime: 2022-02-24T03:40:00Z
+    webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
     type: article
     provider:
-      name: Modesto Bee
-      domain: modbee.com
+      name: Walla Walla Union Bulletin
+      domain: union-bulletin.com
     quality: 39
-  - title: "Unemployment system will move away from facial recognition"
-    excerpt: "The practice has come under scrutiny due to privacy issues and longstanding concerns about racial bias in facial recognition technology."
-    publishedDateTime: 2022-02-25T11:43:00Z
-    webUrl: "https://www.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    ampWebUrl: "https://amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-  - title: "California EDD looks at ending facial recognition technology in unemployment verification"
-    excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-    publishedDateTime: 2022-02-23T20:20:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 30
-  - title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
-    excerpt: "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-    publishedDateTime: 2022-02-24T17:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944603"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 27
-  - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
-    excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
-    publishedDateTime: 2022-02-23T10:28:00Z
-    webUrl: "https://www.itsnicethat.com/news/superposition-inside-the-nypds-surveillance-machine-digital-230222"
-    type: article
-    provider:
-      name: It’s Nice That
-      domain: itsnicethat.com
-    quality: 12
     images:
-      - url: "https://admin.itsnicethat.com/images/_XN1leAQVOU29GQeCz0-jqNXk7Q=/222145/width-1440/superposition-inside-the-nypds-surveillance-machine-digital-itsnicethat-02.jpg"
-        width: 1440
-        height: 810
+      - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
+        width: 600
+        height: 403
         isCached: true
 
 secured: "H8azTKATcNpg1YYxw/KS8YjTwcjG7Nujg+0zamv17+HlUynz0lT+p2OMUqgHoTcUNAS8rvfxJN80WAhXoIcPONmXfbNAFwDTyjKfiEgNaImUaFkOnxHTgVY9jMXHCNhjG1E19AoiOi76QXJoqeussR3ayH6Br0ek5MVz251CYz8CbTGVZWxEhbCrshVyv8xtWbbLMshvoByKBXrMqNog8S5L3CBUd1rZ0GfVZMaCcVyEOCj7ZQArYRyqTrCSAYi4iiMA5ztdKh1I0pqshOdUGsjM4HzNDKaRpoHBIBNxOumfVJ0NTvK5Fj+B7iXigSMoSsS5FNli8AGC/loyDEivkV9VRSVEt8Vby4WF4JdEq8ASIY0o3X73TpB8gvrOAOXXTYYuTMw3Q9ahlthncVK3mdSv6yZGCJD+6KjDQAnb9ES7r/Dstzs6dBQ2GPvzWga2d3hxjp/MP7enfnv40SqvuY1RmJUBeLuP/CpGxBWZLeI/gb515r/GfO4aHOsWPOXo57VB2JgDf5RCMupzglqNPg==;dF71T8VKN5MTyQrwz67eFg=="

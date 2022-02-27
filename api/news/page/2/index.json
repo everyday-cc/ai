@@ -45,6 +45,50 @@
       ]
     },
     {
+      "path": "_news/2022-02-25-new-acm-techbrief-spotlights-privacy-ethics-problems-with-facial-recognition-technology.md",
+      "title": "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology",
+      "excerpt": "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html",
+      "originalUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg",
+          "width": 1920,
+          "height": 982,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp",
+      "publishedDateTime": "2022-02-24T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-mercedes-benz-to-offer-hands-free-traffic-jam-assist-in-us-this-year.md",
       "title": "Mercedes-Benz to Offer Hands-Free Traffic Jam Assist in US This Year",
       "excerpt": "The German automaker's Drive Pilot offers Level 3 conditional autonomy that works at low speeds in heavy congestion.",
@@ -751,7 +795,7 @@
       "originalUrl": "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -790,6 +834,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-facebook-parent-meta-details-next-gen-ai-investments-in-event.md",
+      "title": "Facebook parent Meta details next-gen AI investments in event",
+      "excerpt": "CEO Mark Zuckerberg used a Wednesday event to detail the company's next focus areas in building out its immersive",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "originalUrl": "https://seekingalpha.com/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350448399/image_1350448399.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "publishedDateTime": "2022-02-23T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI",
         "Facebook AI"
       ]
@@ -1083,92 +1171,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.md",
-      "title": "IRS now allows taxpayers to avoid facial recognition following backlash",
-      "excerpt": "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html",
-      "originalUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg",
-          "width": 3736,
-          "height": 2421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp",
-      "publishedDateTime": "2022-02-23T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-dexai-robotics-signs-16-million-contract-with-dla.md",
-      "title": "Dexai Robotics signs $1.6 million contract with DLA",
-      "excerpt": "Dexai Robotics' sous-chef robot, Alfred, is currently prepping salads at the Monarch Dining Facility of Travis Air Force Base.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/dexai-robotics-signs-1-6-million-contract-with-dla/",
-      "originalUrl": "https://www.therobotreport.com/dexai-robotics-signs-1-6-million-contract-with-dla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/02/featured-web-alfred.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

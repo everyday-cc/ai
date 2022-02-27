@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-15-are-lifelike-digital-humans-the-future-of-customer-experience.md",
+      "title": "Are lifelike digital humans the future of customer experience?",
+      "excerpt": "Soul Machines, a New Zealand-based company that uses CGI, AI and natural language processing to create lifelike digital people who can interact with humans in real time, has raised $70 million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/",
+      "originalUrl": "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/2_selected_arya_happy1_COMPED_v2-1-copy.png?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/amp/",
+      "publishedDateTime": "2022-02-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-strong-graphic-chip-demand-to-aid-nvidias-nvda-q4-earnings.md",
       "title": "Strong Graphic Chip Demand to Aid NVIDIA's (NVDA) Q4 Earnings",
       "excerpt": "Also, the rising adoption of Natural Language Processing by cloud players is expected to have been an upside during the fiscal fourth quarter. Additionally, NVIDIA’s data center business is likely to have continued the growth momentum during the fourth ...",
@@ -479,6 +531,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-exclusive-report-by-fortune-business-insights.md",
+      "title": "Speech and Voice Recognition Market Worth USD 28.3 Billion by 2026 – Exclusive Report by Fortune Business Insights™",
+      "excerpt": "Speech and Voice Recognition Market Size, Share & Industry Analysis, By Component (Solution, Services), By Technology (Voice Recognition, Speech Recognition), By Deployment (On-Premises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-usd-28-3-billion-by-2026-exclusive-report-by-fortune-business-insights",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-usd-28-3-billion-by-2026-exclusive-report-by-fortune-business-insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-Stop-War-Protests-AFP-1K-02-e1645941090514-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1319,101 +1414,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
       "publishedDateTime": "2022-02-04T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-how-will-conversational-ai-transform-customer-experience.md",
-      "title": "How Will Conversational AI Transform Customer Experience?",
-      "excerpt": "... recognition (ASR), the AI application can understand spoken words and translate them into text. Next, the AI app determines what the text means by using natural language understanding (NLU) and then formulates a response to the text. The app ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/how-will-conversational-ai-transform-customer-experience/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/how-will-conversational-ai-transform-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/069a8728bac64cff929d04d6787a26f0.ashx",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
-      "title": "Does AI Improve Human Judgment?",
-      "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d679ba5e90f8f7f5034ea8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "publishedDateTime": "2022-02-03T04:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

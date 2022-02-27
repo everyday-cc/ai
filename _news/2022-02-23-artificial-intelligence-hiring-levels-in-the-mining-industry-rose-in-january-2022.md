@@ -70,22 +70,6 @@ related:
         width: 555
         height: 330
         isCached: true
-  - title: "Integration Of Artificial Intelligence In The Video Streaming Sector"
-    excerpt: "Artificial intelligence (AI) incorporation into streaming platforms has proved to be a game-changer. It’s no surprise that we can’t imagine a day without them, with more customized user experiences and higher-quality streaming alternatives."
-    publishedDateTime: 2022-02-22T21:03:00Z
-    webUrl: "https://techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/"
-    ampWebUrl: "https://techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/integration-of-artificial-intelligence-in-the-video-streaming-sector/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/tv-5837826_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Artificial Intelligence in Genomics Market Size, share |Industry forecast 2022 -2027"
     excerpt: "Market Research Engine has published a new report titled as “Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision),"
     publishedDateTime: 2022-02-26T06:54:00Z

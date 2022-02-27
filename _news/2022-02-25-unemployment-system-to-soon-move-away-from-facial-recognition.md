@@ -27,108 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology faces mounting legal, ethical questions"
-    excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services."
-    publishedDateTime: 2022-02-22T21:06:00Z
-    webUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-    ampWebUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+  - title: "Hummingbirds AI to present facial recognition security system at SXSW Pitch event"
+    excerpt: "Hummingbirds AI was selected as an alternate in the Artificial Intelligence, Robotics & Voice category of SXSW Pitch to display its GuacamoleID application."
+    publishedDateTime: 2022-02-25T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
-    quality: 76
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 70
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png"
-        width: 1280
-        height: 720
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
-  - title: "Proposed bill aims to put some guardrails around the use of facial recognition technology"
-    excerpt: "Senate Bill 22-113 calls for the creation of the Task Force for the Consideration of Artificial Intelligence, which would take a closer look at the use of the technology by public agencies and offer recommendations for how it should be regulated."
-    publishedDateTime: 2022-02-23T23:38:00Z
-    webUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/local-news/proposed-bill-aims-to-put-some-guardrails-around-the-use-of-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 65
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e88/0e3a3b3bc3ae4d6eac785fb8a26bdb6b/e8865faa51de4d56b42b661a81c13955/poster_2a0312f7745940f1a0f35318c9329aee.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition"
-    excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ..."
-    publishedDateTime: 2022-02-26T02:17:00Z
-    webUrl: "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6788045001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788045001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/01/31/NAAS/f9ebd3fd-9047-421c-bb8e-4e07809346e8-IMG_Texas_Attorney_Gener_1_1_TDVDDFQI_L1771748395.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
-    excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
-    publishedDateTime: 2022-02-23T04:19:00Z
-    webUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
-        width: 1000
-        height: 527
-        isCached: true
-  - title: "Following Backlash, IRS Allows Skipping Facial Recognition"
-    excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
-    publishedDateTime: 2022-02-24T17:53:00Z
-    webUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/65ed04f/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F99%2Fee%2F70e57ea596472533b739cecaf122%2Firs1.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Legislative Analyst Calls for Facial Recognition Pause, Consideration"
-    excerpt: "The nonpartisan Legislative Analyst’s Office is urging state lawmakers to carefully weigh the use of artificial intelligence that helped curb unemployment insurance fraud."
-    publishedDateTime: 2022-02-22T23:44:00Z
-    webUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration"
-    ampWebUrl: "https://www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/legislative-analyst-calls-for-facial-recognition-pause-consideration?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 39
-  - title: "Will EDD stop using facial recognition technology for benefits?"
-    excerpt: "The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday. EDD’s ID.me, regarded as highly effective in ..."
-    publishedDateTime: 2022-02-23T00:45:00Z
-    webUrl: "https://www.modbee.com/news/california/article258661808.html"
-    ampWebUrl: "https://amp.modbee.com/news/california/article258661808.html"
-    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article258661808.html"
-    type: article
-    provider:
-      name: Modesto Bee
-      domain: modbee.com
-    quality: 39
   - title: "Unemployment system will move away from facial recognition"
     excerpt: "The practice has come under scrutiny due to privacy issues and longstanding concerns about racial bias in facial recognition technology."
     publishedDateTime: 2022-02-25T11:43:00Z
@@ -140,53 +52,30 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
-  - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
-    excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
-    publishedDateTime: 2022-02-24T21:36:00Z
-    webUrl: "https://executivegov.com/2022/02/irs-ends-use-of-facial-recognition-software-for-online-account-registration/"
+  - title: "Employment Department Looking Beyond Facial Recognition to Verify Identity"
+    excerpt: "That’s what Employment Development Department Director Nancy Farias told an Assembly subcommittee Tuesday, after questions were raised about the use of the technology last week by the Legislative Analyst’s Office."
+    publishedDateTime: 2022-02-23T23:33:00Z
+    webUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity"
+    ampWebUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 31
+      name: California Techwire
+      domain: techwire.net
+    quality: 37
+  - title: "Mobile Face Unlock Startup to Join SXSW Pitch Festival"
+    excerpt: "Hummingbirds AI will be looking to accelerate its business when it makes the trip to next month’s SXSW Festival in Austin, Texas"
+    publishedDateTime: 2022-02-24T19:02:00Z
+    webUrl: "https://mobileidworld.com/mobile-face-unlock-startup-to-join-sxsw-pitch-festival-7022202/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/24/02/43/a0/38/e2/d0/89/54/00P4y000011p6OsEAI-1.png"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "California EDD looks at ending facial recognition technology in unemployment verification"
-    excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
-    publishedDateTime: 2022-02-23T20:20:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article258661808.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 30
-  - title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
-    excerpt: "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-    publishedDateTime: 2022-02-24T17:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944603"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 27
-  - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
-    excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
-    publishedDateTime: 2022-02-23T10:28:00Z
-    webUrl: "https://www.itsnicethat.com/news/superposition-inside-the-nypds-surveillance-machine-digital-230222"
-    type: article
-    provider:
-      name: It’s Nice That
-      domain: itsnicethat.com
-    quality: 12
-    images:
-      - url: "https://admin.itsnicethat.com/images/_XN1leAQVOU29GQeCz0-jqNXk7Q=/222145/width-1440/superposition-inside-the-nypds-surveillance-machine-digital-itsnicethat-02.jpg"
-        width: 1440
-        height: 810
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "OophVirigWGPrpExqK2LKBJdjV2A0taMkFO5o7iOhMt17P7ijPNj4fYtRlH3DGOMX/MuNOS9v0zOckQqz4T5Akdup19uoUR8AuMNCmldEtpPJyeo73a8sSIsETjPy9wJ0o//EJaVeL+2kJkm+FruGOGCBAJZqkd9LL4pZ+kcWUA0+yefiBM7yjNq1otzNygVaU3m+T8AYK7siidc/RnX5fEOEbailgjcxPiGrqioBnjm2voByH/2+JT9Maa8JNkgjNHmdEbFTWhR5wCvz9f1okB+piLQg0gNnKVTKetXpckfV6Ao3tiCJiJyR6MC4kkbL7eb3eg4c3NcOkV/THGaB7lSyr3Jj8q/LbIGDjwFjII=;Smktm6w21dUAt1TLUfJH0g=="

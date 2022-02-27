@@ -2,6 +2,109 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-02-16-microsoft-extends-emissions-impact-dashboard-to-microsoft-365.md",
+      "title": "Microsoft extends Emissions Impact Dashboard to Microsoft 365",
+      "excerpt": "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4a7df44fb0835e74d125ed7e4365ae7d8ef9e1f9/2022/02/16/d3d7d83c-8620-4899-a8eb-75644c5b689c/eid-m365-image-1-resized-to-1238px.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
+      "publishedDateTime": "2022-02-15T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-inside-the-pentagons-ai-epiphany.md",
+      "title": "Inside the Pentagon's AI Epiphany",
+      "excerpt": "Fool contributor Lou Whiteman describes the history of the Pentagon's relationship with AI, and what the future may hold. Lou Whiteman: We're going to start with a wide view of what's going on with the Pentagon and then dig down into a couple of companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
+      "originalUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/666268/gettyimages-investortablet.jpg",
+          "width": 2138,
+          "height": 1402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-accelerating-fusion-science-through-learned-plasma-control.md",
       "title": "Accelerating fusion science through learned plasma control",
       "excerpt": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning.",
@@ -1068,102 +1171,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-investigation-and-security-services-global-market-report-2022.md",
-      "title": "Investigation And Security Services Global Market Report 2022",
-      "excerpt": "Machine learning enables investigation and security companies to analyze threats and responds to attacks swiftly.For instance, French insurance and financial services company AXA IT uses cyber security software from Darktrace to deal with online threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/g25631249/investigation-and-security-services-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/g25631249/investigation-and-security-services-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25631249",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25631249",
-      "publishedDateTime": "2022-02-15T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-redmagic-7-confirmed-to-feature-independent-gaming-chip-called-red-core-1.md",
-      "title": "REDMAGIC 7 confirmed to feature independent gaming chip called Red Core 1",
-      "excerpt": "REDMAGIC says that the chip was developed jointly with Awinic and JD Esports. Awinic is a Shanghai-based company that specialized in high-quality, high-performance analog, digital-analog mixed-signal, RF, and IC for mobile phones, AI, IoT, and the like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/redmagic-7-red-core-1-chip-featured.jpg",
-          "width": 749,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
-      "publishedDateTime": "2022-02-15T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

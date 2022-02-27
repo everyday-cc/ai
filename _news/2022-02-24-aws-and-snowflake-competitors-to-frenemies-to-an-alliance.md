@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/aws-and-snowflake-competitors-to-frene
 webUrl: "https://www.crn.com.au/news/aws-and-snowflake-competitors-to-frenemies-to-an-alliance-576449"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1254
     height: 836
     isCached: true
-
-related:
-  - title: "AWS And Snowflake: ‘From True Competitors, To Frenemies To…An Alliance’"
-    excerpt: "Amazon Web Services and data cloud provider Snowflake have seen their joint co-selling goals more than double year over year since 2020 amid a revolving relationship"
-    publishedDateTime: 2022-02-22T22:49:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-and-snowflake-from-true-competitors-to-frenemies-to-an-alliance-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0272-1482561aa2aa-3bd9cb0eebe2-1000/aws-snowflake.jpg"
-        width: 610
-        height: 459
-        isCached: true
 
 secured: "ro/UeqFXmOaFgXvEZZNOh9ozsjHGIJVi8wunBEjmAd33cAm3sBX98i3aj2TfN5fIVVUfbaaEqpVmNP2c0fBWngFV9jutgVfmLxqLL4uJo3jzNu0NHe2QDSTj45WaB5AeOw5vuuKEZ9Iev5Kcv8mbiqKQa7/vt926fC2X39pI8vX5CYCjh7Wy9glJ+cVfTTw/IzF5TRdL+eH4Ythxw/kxwyM1QrxNvQJy3uTGd95UqEI/kaDE9dLz4jW7gOVeOXXhr6Mj7b7FgM8jbRAiSb5lhB85m8K+QcR0pqVG06H22sYO8e6LtYeRqZs5W5WnCvD7IoS/hboNOZ4ENHPlbw9+/QGbQbfO5XYlEqFqv5KXOWxrfB33DaRY+C/T+eQI//4jcIS9dKF+3+EQ7N0EzWqmAVkUKIC8pyksvuUVhrWUc7XmnzYb2VFMDqnZOLP3RHoyMPKH96ohWslSLp40l8oeoCZQDBROFLqcw8NgJkimtYakSvV5Vp6V1mgpPAMwFh2c9fJG3DY+sNYH7Z2UgS4XPQ==;hfZ/a90XIkngWnllvp/3IA=="
 ---

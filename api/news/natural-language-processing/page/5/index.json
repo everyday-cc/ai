@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-13-machine-learning-and-natural-language-processing-size-does-matter.md",
+      "title": "Machine learning and natural language processing – size does matter!",
+      "excerpt": "Natural language processing has made huge progress in the last few years, leading to massive advances in areas like machine translation and potentially useful tools for content authors and editors. How was it done?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/machine-learning-natural-language-processing-size-does-matter-",
+      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-natural-language-processing-size-does-matter-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQE_FAvVvkL2NA/article-cover_image-shrink_720_1280/0/1641814713549?e=1648684800&v=beta&t=l8BaQavdUSAC7hjxtSY7MhQiy1PC8WTl7ccbKNih4jA",
+          "width": 1199,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry.md",
+      "title": "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry",
+      "excerpt": "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "originalUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "publishedDateTime": "2022-01-12T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants.md",
       "title": "Daring more raw AI-ness, a critique of personified voice assistants",
       "excerpt": "Personality and gender in voice assistants is not something that emerges due to the nature of “AI systems”. Rather, it is",
@@ -1323,83 +1428,6 @@
         "Facebook AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages.",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/in-africa-rescuing-the-languages-that-western-tech-ignores",
-      "originalUrl": "https://japantoday.com/category/tech/in-africa-rescuing-the-languages-that-western-tech-ignores",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-volkswagen-improves-the-voice-recognition-rate-of-the-golf.md",
-      "title": "Volkswagen improves the voice recognition rate of the Golf",
-      "excerpt": "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
-      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.i-sgcm.com/news/article_news/2021/26098_1_l.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car",
-        "domain": "sgcarmart.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

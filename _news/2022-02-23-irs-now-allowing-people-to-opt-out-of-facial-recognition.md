@@ -43,20 +43,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "IRS offers alternative to facial recognition"
-    excerpt: "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services."
-    publishedDateTime: 2022-02-22T22:17:00Z
-    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html"
-    type: article
-    provider:
-      name: JournalofAccountancy
-      domain: journalofaccountancy.com
-    quality: 39
-    images:
-      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
-        width: 640
-        height: 388
-        isCached: true
 
 secured: "04x2H6NuPfuUXGLYCqUOqKjqACcdA3rUxzuB+dR+zrCWLnMsO4CV2bx7e8h9kKWrgDlBzTbIfaOzBuhWce21qLrM2JHIZNaPOFUx0hq0iwj7zW3pQvii5E8kmNQtkRex1O+G5kRbmde24SWugs1Der5dWieTrACO2d87UBHY63W3eyA7qTnOj8JX1sAw+HnqtsYkgHsMMyaYz6JFnJ50QQiqYEorj6gYWKw8P/AYaQvo4dnhuQoNdy47mBXvOAhm5HMMUO+4ondjEJzke1slDciMIGf6Jj2cs35uOlR1yfse3BN16lvxzJhIksM/HkhO4+04s34plMbCEJwd7XS/ygJMthRtExs5YS+m4hA17Uld0+RiDUxCIBdfOo9sSFsyAxGJ/uNlj9t9PP+BHV9zPS2LTLKxgYj1KN9Y0n6N6Lyxvy2xw2+enuEFb8WdEVI35ZB498IaEgSAiUXmzAZ90DXM1wmGXdRoWcNd7q600ufz20c0ztBjBFO/SemrTqCfwNCtntee1WpjYWIV/L6Uaw==;HyP2r5mrYm3moFCHA5JNaw=="
 ---
