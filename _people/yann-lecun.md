@@ -14,7 +14,7 @@ website: http://yann.lecun.com/
 twitter:
   username: ylecun
   url: https://twitter.com/ylecun
-  followers: 306851
+  followers: 306868
 
 googleScholar:
   url: https://scholar.google.com/citations?user=WLN3QrAAAAAJ
