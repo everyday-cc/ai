@@ -1,46 +1,26 @@
 ---
 category: news
 title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
+excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year."
 publishedDateTime: 2022-02-24T03:40:00Z
-originalUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
-webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
+originalUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
+webUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Walla Walla Union Bulletin
-  domain: union-bulletin.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
-    width: 600
-    height: 403
-    isCached: true
-
 related:
-  - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
-    excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
-    publishedDateTime: 2022-02-23T04:19:00Z
-    webUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
-        width: 1000
-        height: 527
-        isCached: true
   - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
     publishedDateTime: 2022-02-23T20:28:00Z
@@ -88,6 +68,6 @@ related:
         height: 270
         isCached: true
 
-secured: "WRupHe3wqDa2eBvs6I3AGs6DkqgrzxRgeymrL5YXlk8NtFEBIjnFFWLFoKG4fQs6LktUvArqipfSxD9sKM4eSi5nGbmZ4kqWTB72mWiZ/w73MQxV3W349yEhGMcM1OQfhjmBNA4H6dXATT26Z1wGlnMGV32hdr1d/ucid3H8lNKUFNAtrUSGLA2iuX/J5Z+iq3IE+YutceN2bn+GAFEk4bED8SYBYEIMCYEvZ2gttLlI7fxBJmlXsazGNKPmk8+2/cqOjb11lADRjWYRu1a8Gd/HVO1Nw3BkH4eNcJjduP0wUCSwZ3D5Njalp5flXNwpx4l3gybGzg6qhl41zSbNIDRI3bZZGu7op86oiLHEXZUZoOULC0eznbmU/rjPdOKuqalCN7Hz+CF1/78tYz1ltZweAZgN0pSiPEMNzrb8hIghFQLglRFiXCZdHEZlonzIbF/UvfM5V93fPY6J1KUxDV0x343d1Dbsj1mYP4sN9q4SZTBBwLoYj6llr5wxvwkW53F6Z9vWZWh6g1fDBY7Iaw==;rrmeg+eVcBNlPOYmwO8Y2Q=="
+secured: "NQxdsbLdhC0XH5lj9wWd4Iu5gglxbkVRnlWq4s0F8jkS9wfwTHp3vDVjGgS4a+kDuvWeFEEfAH3jQuf6iYc24x8PJxk4siUOifHeDdh/yWgIBJIrkXUGRkuceV2RZY7zrEk5rS7+9UueXmaAJs7ssWqlPN8jVs7l+pELAi3K5o8gpY6pzn2JqXVO5IlNkSwA7CIfRvibcCX5zh7ou9kEYCv34no9j0wC3hOwOAmrmFlLp3sFDpg5ShERC+o2QX+pxG2qnN3ZOXIG+onYASPVJiMGZWf9Obekt5u+VJR+NOTkyQLFUlPe/WezkSzq8d5tPcCqBe6RM6Sc9WtKfTdeY7P2w+3qYxL1oHCgckL7ins=;OiOHac+G+oA794kOeQ0EIQ=="
 ---
 

@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meta plans to develop AI translator capable of translating 100s of languages"
+    excerpt: "CEO of Meta, Mark Zuckerberg announced the firm is working on building an AI-focused universal instantaneous speech translator that is capable of translating 100s of languages."
+    publishedDateTime: 2022-02-26T13:07:00Z
+    webUrl: "https://interestingengineering.com/meta-ai-translator-languages"
+    ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jg6Pkdb3Gx/sizes/markzuckerberg_resize_md.jpg"
+        width: 744
+        height: 418
+        isCached: true
   - title: "Meta wants to build a universal language translator"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
     publishedDateTime: 2022-02-23T18:36:00Z
@@ -150,6 +166,22 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
         width: 750
         height: 500
+        isCached: true
+  - title: "Meta is working on a universal language translator"
+    excerpt: "As part of a recent live streamed event on Wednesday, Meta's CEO Mark Zuckerberg announced that the company is working on a new universal speech translation system, which will use an AI to translate 100s of spoken and written languages in real time."
+    publishedDateTime: 2022-02-24T16:47:00Z
+    webUrl: "https://www.gamereactor.eu/meta-is-working-on-a-universal-language-translator/"
+    ampWebUrl: "https://www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    cdnAmpWebUrl: "https://www-gamereactor-eu.cdn.ampproject.org/c/s/www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 44
+    images:
+      - url: "https://www.gamereactor.eu/media/99/facebookhasnow_3629973_650x.jpg"
+        width: 650
+        height: 366
         isCached: true
   - title: "Meta announces plans for AI powered ‘universal speech translator’"
     excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
@@ -265,6 +297,20 @@ related:
         width: 1024
         height: 513
         isCached: true
+  - title: "Meta developing AI-based Universal language translating System for Metaverse"
+    excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
+    publishedDateTime: 2022-02-27T18:25:00Z
+    webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 38
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
+        width: 554
+        height: 372
+        isCached: true
   - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
     publishedDateTime: 2022-02-24T21:36:00Z
@@ -278,20 +324,6 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Meta developing AI-based Universal language translating System for Metaverse"
-    excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
-    publishedDateTime: 2022-02-27T18:25:00Z
-    webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 36
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
-        width: 554
-        height: 372
         isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."

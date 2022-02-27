@@ -43,6 +43,20 @@ related:
         width: 541
         height: 297
         isCached: true
+  - title: "Speech & Voice Recognition Market Size 2022 Competition by Manufacturers, Concentration Rate, Production Volume, Price"
+    excerpt: "Feb 24, 2022 (The Expresswire) -- Speech and Voice Recognition Market Research report gives analysis by competitors and key business segments 2022-2028. Report discovers complete study on various segments like opportunities, size, development, innovation ..."
+    publishedDateTime: 2022-02-24T02:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-size-2022-competition-by-manufacturers-concentration-rate-production-volume-price-2022-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YYFUbU1UQ7JcPxXdjO2tdLR1PjJs+F9mJKUQmv9SUrNFL7VllfV3int0d+rF2htLuwIH88dDSyin32g7pe66HReAMBmKvLk0Az9HxlIpVlhzExUMLK/RgWl8e7YPa3X/Q9c94MX6mjLCHDzyZ66tkr8qGvdYmiXtOF8dQc6zgEMjNnN1dR4QeF828RuZ+DWuIiDO/MhD4ApsjfITNAQGTX3BgF1/VS7xG51ro7snWgPlbDcxdqmPSwgKbgTfJ2rJ9e/LHuj3Vl++Zh9FaDMl4n0Tmr4tKaJ8FGN0tfNxLN2/e/TKSn/42x4Urx52FRaixlRtDgc9HnP/B6xAGs0kAwcldNInKzr2ZHcdIzJMxRxG5gkDshGV03MU6HjOd0ui9DA8d1pKs+Wq7Qd9RF3xmUlu+cHcc0mlQDjivGebAvgGIGGl1fCLLFZ9hKONx9H4l+qaGrSoV3+V8yl3eNDOQiqFOKwqfFSfCvBHoVE058ijri9CuMlhazxxJsdUReDVd+u6bJxDwtJwFKOkRPa8hA==;Z0VfZ3wXuaaK1bKnp7XsKQ=="
 ---

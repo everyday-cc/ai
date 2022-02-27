@@ -130,6 +130,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "5 Predictions for Fake AI in 2022"
+    excerpt: "AI has been sold for the last 70+ years as an umbrella term representing a wide range of techniques, programs, algorithms and models that would allow computing machinery to mimic, simulate, replicate or fake human body/brains/mind/intelligence/behavior."
+    publishedDateTime: 2022-02-23T18:50:00Z
+    webUrl: "https://www.linkedin.com/pulse/5-predictions-fake-ai-2022-azamat-abdoullaev"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQErdQPy_zqn8Q/article-cover_image-shrink_600_2000/0/1645543506290?e=1651708800&v=beta&t=fCwNvJo8lHp0odIhKDpWYD3H2IzmDXmTN5EUCN8hOO4"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
     excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their ..."
     publishedDateTime: 2022-02-24T00:00:00Z

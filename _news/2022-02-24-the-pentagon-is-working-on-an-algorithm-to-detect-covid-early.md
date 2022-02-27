@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/news/2022/02/23/pentagon-fitness-tracker-co
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099?_amp=true"
 type: article
 quality: 142
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 630
     height: 420
     isCached: true
-
-related:
-  - title: "POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection"
-    excerpt: "A critical step in the fight against COVID-19, which continues to have a catastrophic impact on peoples lives, is the effective screening of patients presented in the clinics with severe COVID-19 symptoms."
-    publishedDateTime: 2022-02-23T03:24:00Z
-    webUrl: "https://europepmc.org/article/PPR/PPR454542"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 10
 
 secured: "w7RXZB0miQC92gi7V4vQQ8hI2zF+hl50KcoHEPasIk4UoJsoq+i4ZS6ccSLt7gATHLH/rItpM3zZLaH2ISIKZdOR4RwERf+Wn99om8xbyI9KeCA3ZbnaCnfhYsUVwYJHnAZ/+VqmpgqNGnQa6Uvyf1vkC08a0xpS9LJrPWwdSbdfrRtOqkiCri6lCbQwEvviZzxxtbVNfQ5+ujGdD9XxmvLifVKjG2Su4W/Ry9MQu8eCrvPcVxvJR7hypqgvoDlOKrmdIy6v0+hVTtLpM0BDvarL4LfzKi7b/8Jy2AcgjnrJr/FkQ28P047zscyWXopCxlxUtbydCpXRUQkPuvFY7blwZOZNMZEKPx4gLSK3vp8=;/R9R3cJ18fMINsT0nY/fbw=="
 ---

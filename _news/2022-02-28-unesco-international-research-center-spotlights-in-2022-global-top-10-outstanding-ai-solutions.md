@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-internati
 ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/"
 type: article
-quality: 77
-heat: 117
+quality: 79
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/621bb520766538529bd5d84e/0x0.jpg?format=jpg&width=1200&fit=bounds"
@@ -92,6 +93,6 @@ related:
         height: 394
         isCached: true
 
-secured: "7Ow6YBAgkdMEDLp4SYvPSk9hXE708Lut3HRNSJTZjEQingq5CIS3NNCrzh9aEEYAFSBrXYqQ3fKsUK0I7fj8WiBES92egBHd4/e6Dq8DcT+3JZo1/ZcOdgBwClPp5BRSd/xIj+iW5hQbhkdhmk7w6oAV8QlaTnyFsTHhBXL8mgVasB36bVWE0nkEvpZUVeqnL1gcFN/lFVQxX3sou9Ejmke9S6le/Iea0Nmg8IAw76l5+of28QnadZjCB9fwldL9EbexeMhhvS02/TSqTapYUg6UK5z9J1csVvEApwDVVjeitXJBZ0ybdKDUJ/G9f8x+7eAQqw6To1XVfTa53fQrcbnpQUIBnD4p6/Ya1BH5mHc=;0MClTBKHEEscVhL4cqn/Wg=="
+secured: "Uj4pvLvNTHHWKBL1K9/kRzSpuajPfP6rdjexj0IfM4y2DBiXBDFeZEw0ubOe2HE2/r4RYQImGSOKodm2VY5QQGwh2g52cK7aa6J3udfhKhe0Gf+k18jFuNByxJUQGEa7g32A0et+eC9FzZ/GHcvEM+0/7ywkiU4Vmry25xAUMJI4ptYVDAzucN7wtM9tjMs6vOYVt+zyJpZT+xEWAjDuf0z0uW5nWIdlHGfafELFRxrY2oc+ykrFts8sVNdcGx9KXnLbruyCX7eX0a9mKJsyFubw22snv4Gh/8QX1H5Ms00EDF+fMHNQHJ7bbD1b3nljpaOtDd2zGmjC1lGO0IdyBYwQ53eZFIjkYuK4egtqWfb/EjhIu3n/0Duc+eQpMhgzTKPjpgM0hBCLDt7SNq9+JQUs6UCinOK23OXvBKAhvjgzarPYeWRGF1Te12P3kxvoEfZkgdRJUoowIeW72/PRyxovf/kYx2O3Z3qFGb23Ll+cEt6o6Xx7T5RJcmdswUV2hBqUcCqDuSW2cGCjJ0EQ/Q==;Gv5cixzPkvrjD1XTiLFlnQ=="
 ---
 

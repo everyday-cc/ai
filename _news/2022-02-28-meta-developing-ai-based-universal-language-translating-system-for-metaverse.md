@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-27T18:25:00Z
 originalUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
 webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
@@ -121,6 +122,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meta plans to develop AI translator capable of translating 100s of languages"
+    excerpt: "CEO of Meta, Mark Zuckerberg announced the firm is working on building an AI-focused universal instantaneous speech translator that is capable of translating 100s of languages."
+    publishedDateTime: 2022-02-26T13:07:00Z
+    webUrl: "https://interestingengineering.com/meta-ai-translator-languages"
+    ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jg6Pkdb3Gx/sizes/markzuckerberg_resize_md.jpg"
+        width: 744
+        height: 418
+        isCached: true
   - title: "Meta wants to build a universal language translator"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
     publishedDateTime: 2022-02-23T18:36:00Z
@@ -150,6 +167,22 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
         width: 750
         height: 500
+        isCached: true
+  - title: "Meta is working on a universal language translator"
+    excerpt: "As part of a recent live streamed event on Wednesday, Meta's CEO Mark Zuckerberg announced that the company is working on a new universal speech translation system, which will use an AI to translate 100s of spoken and written languages in real time."
+    publishedDateTime: 2022-02-24T16:47:00Z
+    webUrl: "https://www.gamereactor.eu/meta-is-working-on-a-universal-language-translator/"
+    ampWebUrl: "https://www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    cdnAmpWebUrl: "https://www-gamereactor-eu.cdn.ampproject.org/c/s/www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 44
+    images:
+      - url: "https://www.gamereactor.eu/media/99/facebookhasnow_3629973_650x.jpg"
+        width: 650
+        height: 366
         isCached: true
   - title: "Meta announces plans for AI powered ‘universal speech translator’"
     excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
@@ -338,6 +371,6 @@ related:
         height: 225
         isCached: true
 
-secured: "lgl+d29O1O5DyvDGmfpJZjO9LZTSTfyWJEpHEX/klN5hSebN3n4QSsTSD1bLN9cZnnqnqmyLZxYzqXGfR+zLz5RkWXT/vhd1Eon4udHtOZmfzvgaWZi182DPil84ehQpXaJHpaSEQanEHgYoFRXj6PsovvBzpqLTc1eeNOtpdOR9mZQ4HT47eh6XDftBInOLWO3F/N6geSqNBph1Dam9QQho91JPmVaBnVffLjBdBrLaeBOhIxQGMI29PnMTxWPd5zZvSN2pS9OGJ9nILPsRVNjhSnoKkAX9F8z9kN+JB5OmTBXIiU+q9Vqx1V64hdf627h8A6rIRoh60SkQVLJSldSqWt56CvAHVkZSR1QmnyU=;rUeqPnDPuRZ+Fz5bVyUe+A=="
+secured: "BM2iig8xIQP4rp2w6X5ltgip4aDVOLtbStOyxJ3PKIuKSB8pOYGeWEDMu4J79/q18uW88wBNFIRPwGFJzC3T6UW9JV1HaiaMXZdlLk4BaARyzZqfvjYhHsx1mnkWTZxtqOWVAKAAuwDzKhKU6NHd60HS3aRVQlQmgagPQc4oJiVxhCDkHvQvJw3wmPDKC1CZxL/+jPEdhuPT5/emOVkUL0tl0NBU/WL9l1VhWlmav6p43Kk0/xn2xkShhpJGxfbcYG0i2d+d/DXFWEgQC8K6+4Bytn60X0JkpnXplJPq65uTeMG7yzQAzlX0u0iFIMlzA1rtlMSDh/4Yz9p2W86yrJh1AlD/8o6md32wlgkipFO6WYmzh40nVulb4Qcme2VdTT/SpPutZTgaQb4CwpezwJFcqCtA4MhkB3MAJs+WvgRAes54pe8ixyUDEicunWVk0qHA21b8YinCP1KR5DKYQU6m6x3umj6OFF90W9Uy3RyMTxVFpDHEauQZrn8056Abr/NAy3rBd0M8pKNf2tPsbA==;diehoLW113f7CJBD/n0Yog=="
 ---
 

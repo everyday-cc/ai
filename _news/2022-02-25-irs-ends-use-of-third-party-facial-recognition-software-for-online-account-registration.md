@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS doesn't completely scrap facial recognition, just makes it optional"
-    excerpt: "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,"
-    publishedDateTime: 2022-02-23T04:19:00Z
-    webUrl: "https://www.theregister.com/2022/02/23/irs_facial_deletion/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg"
-        width: 1000
-        height: 527
-        isCached: true
   - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
     publishedDateTime: 2022-02-23T20:28:00Z
@@ -74,19 +58,16 @@ related:
         height: 438
         isCached: true
   - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
+    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year."
     publishedDateTime: 2022-02-24T03:40:00Z
-    webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
+    webUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
     type: article
     provider:
-      name: Walla Walla Union Bulletin
-      domain: union-bulletin.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
-        width: 600
-        height: 403
-        isCached: true
 
 secured: "H8azTKATcNpg1YYxw/KS8YjTwcjG7Nujg+0zamv17+HlUynz0lT+p2OMUqgHoTcUNAS8rvfxJN80WAhXoIcPONmXfbNAFwDTyjKfiEgNaImUaFkOnxHTgVY9jMXHCNhjG1E19AoiOi76QXJoqeussR3ayH6Br0ek5MVz251CYz8CbTGVZWxEhbCrshVyv8xtWbbLMshvoByKBXrMqNog8S5L3CBUd1rZ0GfVZMaCcVyEOCj7ZQArYRyqTrCSAYi4iiMA5ztdKh1I0pqshOdUGsjM4HzNDKaRpoHBIBNxOumfVJ0NTvK5Fj+B7iXigSMoSsS5FNli8AGC/loyDEivkV9VRSVEt8Vby4WF4JdEq8ASIY0o3X73TpB8gvrOAOXXTYYuTMw3Q9ahlthncVK3mdSv6yZGCJD+6KjDQAnb9ES7r/Dstzs6dBQ2GPvzWga2d3hxjp/MP7enfnv40SqvuY1RmJUBeLuP/CpGxBWZLeI/gb515r/GfO4aHOsWPOXo57VB2JgDf5RCMupzglqNPg==;dF71T8VKN5MTyQrwz67eFg=="
 ---

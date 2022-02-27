@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality"
-    excerpt: "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard."
-    publishedDateTime: 2022-02-23T05:00:00Z
-    webUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/"
-    ampWebUrl: "https://www.thetelegraphandargus.co.uk/news/19943900.amp/"
-    cdnAmpWebUrl: "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/"
-    type: article
-    provider:
-      name: Telegraph & Argus
-      domain: thetelegraphandargus.co.uk
-    quality: 66
-    images:
-      - url: "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Artificial intelligence and robotics could be 'growth area' for Bradford - but there are still gaps in tech inequality"
     excerpt: "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard."
     publishedDateTime: 2022-02-23T13:57:00Z

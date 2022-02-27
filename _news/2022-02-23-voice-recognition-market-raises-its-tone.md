@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Speech & Voice Recognition Market Size 2022 Competition by Manufacturers, Concentration Rate, Production Volume, Price"
+    excerpt: "Feb 24, 2022 (The Expresswire) -- Speech and Voice Recognition Market Research report gives analysis by competitors and key business segments 2022-2028. Report discovers complete study on various segments like opportunities, size, development, innovation ..."
+    publishedDateTime: 2022-02-24T02:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-size-2022-competition-by-manufacturers-concentration-rate-production-volume-price-2022-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Problems with Voice Recognition in Smart TVs and Set-top Boxes"
     excerpt: "The rapidly growing popularity of voice-controlled smart TVs and set-top boxes drives future growth. However, poor speech recognition performance may inhibit further adoption if manufacturers and OEMs don’t heavily invest in superior VUI technology."
     publishedDateTime: 2022-02-23T19:27:00Z
