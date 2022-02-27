@@ -55,20 +55,6 @@ related:
         width: 940
         height: 529
         isCached: true
-  - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
-    excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
-    publishedDateTime: 2022-02-22T16:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/introducing-microsoft-singularity-ai-infrastructure-service-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeUHPCl2rWnA/article-cover_image-shrink_720_1280/0/1645547788519?e=1651104000&v=beta&t=NW_SmuhlSnlHfUtKOMd6TYbsvm6-I6XlEUsbTTpWgbw"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/U/Z/R4RPsUe0jazOKUiUf24T0Zmr9aeOmH5Ow8UstJlc4coeZbk/0a0N3ydG9/otL0j9VQug6uW4/xdm/mdUw+dRxg4h62nZunHTuARNdLjaOmua38Jh80hZk9Zx2CfDR+LkQTwXJ0HVC4ep39s9orLaH5vJw4xs5wnFX/ZlZRl2blwGSYY3s7SxYF5I79SdFULmuV74Y5GId1w7mVf7SMBGfGFqbPAb2cVTsL5w4LShJ9fofFeedOE9mO5KoFnOXkbmw9Ylq7+xZPVcV7a0L9RX5uNjRjO39vjV9xgIDzQ+DoTtscIIQdCyxP0A2pEZ1oQNt6Gmmyo63EuaMY1WZJtfc+YoY7JtHAXfiKzlSZahVyH5UNu+2HCAHhrRewLFoG2gp0Jm75vmNgL9WaxzG8olFH/A0M7giqUIIYJ5+0vmd2lBu2QYapziGZvswkefP9WHVEgKI+PcoHAEavd2suNs4a11QtEiQavkW8CZ/cJrYQcbOua67iOMZTEI/BmXfM41O3QhrxQYwHMMjHX/g==;ZSocmgQaXLFuJ4vE+v19ZA=="
 ---

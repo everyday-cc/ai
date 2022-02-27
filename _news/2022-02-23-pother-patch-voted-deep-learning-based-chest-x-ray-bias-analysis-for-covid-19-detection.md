@@ -35,17 +35,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Machine Learning Can Help Predict Severe COVID-19"
-    excerpt: "February 22, 2022 - Machine learning techniques can be used to predict the severity of COVID-19, thereby enabling providers to optimize care, a study from Infectious Diseases of Poverty shows. The study included 287 patients from the JinYanTan hospital in ..."
-    publishedDateTime: 2022-02-22T15:47:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-can-help-predict-severe-covid-19"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-can-help-predict-severe-covid-19"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-can-help-predict-severe-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
 
 secured: "Ys+urYugZhdMKHZlwVCHAb69jKZMLQ56NQzKRVi/G6XbNLFRMMN1auls8TMpvfr6tqIqthtfX5VyS8V31CHk/URzmzNMxeYfl6sNLgchSBcJv++Q+h8DR6lePc1AKctGuqg3vS+nMq3aw9RV95kmY8ciQeKMidTLfwzALT31R5se9EJf7atH3hLBqG//0rq9yiElyM3hquv95AeTKmB+7Q4dqz9/lUkqcs8juJlb7cL3xOAftrzfxTaK0CpqV/LGYPb6VnKuD75ekg5VDk315E1F+j0SndTpMusl2iOndszhdVhQNVGCDvFw9nQwuPEEBMHZEKZ+Pyl1pMDe1+HVEGwOCetKAlDk4vVb072Z1R0=;qOhPOw8kdtoa9t679hCLuw=="
 ---

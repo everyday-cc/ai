@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/news/2022/02/23/pentagon-fitness-tracker-co
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099?_amp=true"
 type: article
 quality: 142
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Can Help Predict Severe COVID-19"
-    excerpt: "February 22, 2022 - Machine learning techniques can be used to predict the severity of COVID-19, thereby enabling providers to optimize care, a study from Infectious Diseases of Poverty shows. The study included 287 patients from the JinYanTan hospital in ..."
-    publishedDateTime: 2022-02-22T15:47:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-can-help-predict-severe-covid-19"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-can-help-predict-severe-covid-19"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-can-help-predict-severe-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
   - title: "POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection"
     excerpt: "A critical step in the fight against COVID-19, which continues to have a catastrophic impact on peoples lives, is the effective screening of patients presented in the clinics with severe COVID-19 symptoms."
     publishedDateTime: 2022-02-23T03:24:00Z

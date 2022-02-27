@@ -137,6 +137,22 @@ related:
         width: 4000
         height: 2515
         isCached: true
+  - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
+    excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
+    publishedDateTime: 2022-02-26T23:03:00Z
+    webUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/"
+    ampWebUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 51
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Meta announces plans for AI powered ‘universal speech translator’"
     excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
     publishedDateTime: 2022-02-24T14:26:00Z
@@ -292,6 +308,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2021/10/meta-facebook-1-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Meta to develop Universal speech translator"
+    excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
+    publishedDateTime: 2022-02-27T08:32:00Z
+    webUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/meta-facebook-2-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "V1QD7R0FTJDHcAQv4SAx+fJJ9AFv92HXB+PCjucgL6eUHknWfirdk36Bo9euq55xJkF4ZDijhfB0qOYI3uCxvDRoK9CmjGZnGK5VeoZwLsObawAGQHG8viFplDuyOaOwcBV2Ut1hgS56FdayRvB9SlnQZLBCWLCUslmyB/3vszmbjwiZtmKwNOJfyJwAjB/8YcNdCKMzHU2ZL3jih1JAQUqaUUgwu/GKKxc/CXG2bTwa8tq8lykfXiynZ2PobV5UL5DWgj5SlHqnP0RHutZXvmmo7pbMs2YzO3O4XOUK9KN+JjSad2KFbFfPk9Ab64N4TsZ0imM7CRP77rXRCaCg4er8wCD1VeJLfMwx1ctR7gyEJsPglTvr2RVU9CdlEoIb5k3F++GX07j9Kfu7zsJ4nM00PQrd27IwHeN0c6qCoQjb8v1dTWihP6a5mMywfcVg8qpkJw2IiOc3PyDmwLGWuiAZBmNO+ssHQc8lWZ7pqaPxVlST1pBQJSCpM1NoJ2rNLa0/mG0MAA/zGpiDmVOJIg==;ysgExIjiB+gwp1dFdbqpng=="

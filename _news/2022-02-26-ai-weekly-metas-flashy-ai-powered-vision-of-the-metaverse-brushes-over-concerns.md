@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress"
+    excerpt: "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,"
+    publishedDateTime: 2022-02-27T06:48:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/02/133_324614.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
+        width: 980
+        height: 677
+        isCached: true
   - title: "At metaverse event, Meta's Zuckerberg unveils work to improve how humans chat to AI"
     excerpt: "Facebook-owner Meta is working on AI research to allow people to have more natural conversations with voice assistants, CEO Mark Zuckerberg said on Wednesday, a step towards how people will communicate with AI in the metaverse."
     publishedDateTime: 2022-02-23T16:15:00Z

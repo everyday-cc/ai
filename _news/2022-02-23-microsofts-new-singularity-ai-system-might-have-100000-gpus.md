@@ -9,7 +9,7 @@ ampWebUrl: "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/singulairty-ai-ms.jpg?fit=940%2C529&ssl=1"
         width: 940
         height: 529
-        isCached: true
-  - title: "Introducing Microsoft 'Singularity' AI Infrastructure Service"
-    excerpt: "Microsoft's Azure and Research teams are working together on the 'Singularity' AI infrastructure service. You might remember back in 2003, Singularity was billed as an experimental “OS” of the future."
-    publishedDateTime: 2022-02-22T16:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/introducing-microsoft-singularity-ai-infrastructure-service-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeUHPCl2rWnA/article-cover_image-shrink_720_1280/0/1645547788519?e=1651104000&v=beta&t=NW_SmuhlSnlHfUtKOMd6TYbsvm6-I6XlEUsbTTpWgbw"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Microsoft to introduce a new AI platform called ‘Singularity’"
     excerpt: "Singularity is also enabled to jump back in when a job is cut off unlike many other systems that restart from the beginning after failure."

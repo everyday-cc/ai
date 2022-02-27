@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/using-machine-learning-artificial-i
 webUrl: "https://www.linkedin.com/pulse/using-machine-learning-artificial-intelligence-"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -29,43 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Paving the way for AI and Machine Learning success"
-    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
-    publishedDateTime: 2022-02-22T15:15:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
+  - title: "London startup using AI to fight financial crime in the UK by gathering publicly available data scoops up £150K"
+    excerpt: "London-based financial crime intelligence startup Schwarzthal Tech has raised £150,000 in a pre-seed funding. The round was led by the U.K.’s most active seed-stage investor SFC Capital. The startup will use the funds to further develop the platform,"
+    publishedDateTime: 2022-02-23T10:26:00Z
+    webUrl: "https://tech.eu/2022/02/23/london-startup-using-ai-to-fight-financial-crime-in-the-uk-by-gathering-publicly-available-data-scoops-up-ps150k"
     type: article
     provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 56
+      name: Tech.eu
+      domain: tech.eu
+    quality: 17
     images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
-        width: 1000
-        height: 450
+      - url: "https://cdn.tech.eu/uploads/2022/02/untitled-design-48-487.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Business Leaders and Researchers Discuss Future of Deep Learning at the Institute for AI and Beyond’s 2nd International Symposium"
-    excerpt: "The Institute for AI and Beyond held its 2nd International Symposium virtually on February 12, 2022. Among the topics discussed were the strides deep learning has made over the past decade, what we can expect to see in the future,"
-    publishedDateTime: 2022-02-25T02:00:00Z
-    webUrl: "https://www.softbank.jp/en/sbnews/entry/20220225_01"
-    type: article
-    provider:
-      name: SoftBank
-      domain: softbank.jp
-    quality: 25
-    images:
-      - url: "https://cdn-ak.f.st-hatena.com/images/fotolife/s/sbn_16/20220224/20220224111459.png"
-        width: 780
-        height: 436
-        isCached: true
-  - title: "Editorial for the special issue on \"Transforming public health through artificial intelligence, machine learning and internet of things\"."
-    excerpt: "In recent years, information technologies such as Artificial Intelligence (AI), Machine Learning (ML) and Internet of Things (IoT) have received unprecedented attention and have caused profound changes in traditional lifestyles."
-    publishedDateTime: 2022-02-23T02:33:00Z
-    webUrl: "https://europepmc.org/article/MED/35185221"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 3
 
 secured: "r9mXDi+Ag5o6Gkxw5oAnhflj19IlsOEKJvUcPstnJG4HJL2cImI6XDl5hUmPRNMRDb8L3+LiKXgKAQp8imSxfaD1VELy5vkb94T2hPb9wfd7mPpjeU5PF4q3ju2WE0D5dRrEF70AVbvRnTVokvBXfyRZwKU/iKlZmctZs8ulKe8x6Q+tFLBp6TYcc3is3qHBNb449l6bhOR9NoazzAeGGFS7PUYGoKrQfJQ7KrMFHbS4oQo5BKxyESvNgVT6qtmLmSv45V0QxVnvaD0DUPsyIr+YijpQMbLQa81+3ZHJ2Eo2y4/IvEIkpO5Kblym7o+BvApu6I5zcYpU0Mw7iJpMbLgHnUOk5csU/lAO4hLlrbUnZm800a4ck9bpS/fNOCseEParN7toxkCbSLTIJ6DplNnu50RXNBpRzXt3jlca2Z+Dh/i8HzqVyaLhUvFlyIaneTkY36DdKMfecjWtbmP0lv44T+mtTFtHh/ZtGLO3lnkVBe7UVZh4lbEuIGq5tIXL/IIt0dRrcgb0NgYFNtU24w==;AbJWes2GqP9MKZes8W+PCA=="
 ---

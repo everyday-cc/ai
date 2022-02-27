@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Meta is working on an universal language translator to make socialising easy in metaverse"
-excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-publishedDateTime: 2022-02-24T04:00:00Z
-originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
-cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+title: "Meta to develop Universal speech translator"
+excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
+publishedDateTime: 2022-02-27T08:32:00Z
+originalUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
+webUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
 type: article
-quality: 35
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: www.bgr.in
+  name: tech
+  domain: techstory.in
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
-    width: 1200
-    height: 675
+  - url: "https://techstory.in/wp-content/uploads/2022/02/meta-facebook-2-300x225.jpg"
+    width: 300
+    height: 225
     isCached: true
 
 related:
@@ -281,6 +279,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
+    excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
+    publishedDateTime: 2022-02-24T04:00:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+    ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 35
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta Plans to Build a Universal Speech Translator"
     excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
     publishedDateTime: 2022-02-24T08:14:00Z
@@ -309,21 +323,7 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Meta to develop Universal speech translator"
-    excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
-    publishedDateTime: 2022-02-27T08:32:00Z
-    webUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/meta-facebook-2-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
-secured: "Bh2JdYKEonzvhqYSbQ0Ji47ebXk45TcRCcMnK1OR448cQRgYwDBuGOsXbsFI1TYpuHjv0R6qkTvnOPtX7l9DRfdnHyahRxGjIotBHnJZ2Df5SgyAs7qJ84jyyFSCGBRn3usgfrhXQgkoSGXyEOve2jA0ezsyaCd6t5mNj4XeVNDnRft0pMPGEJ3VBJzSMx5F4xsd7k/iSsyyEAcBeTPy8Tl7XZzoLt/XUt5xOxpVGpsPmfqeQTrZYI1Ncjdxw7SMpMZ2AQy/1z5eTQ/maML3cxJvv1tK8xa1d5W4MGY409hR267ll+qNpKdwopI+Ahvt0zbgp4R8F0K+7OZvQB1SZ+dXKZbHULssvvFG2oqa0qk=;kPxOsVaI1lQzSjlXcYm3EA=="
+secured: "3bAVnIY3IYhKYzTy/Q9l1q/C1PBUqq54/ea/fnSPW2aNoXkOQaTXdsbQ7xwFeSRrsSwbAxiDH5v0wDJbqX4JfwTXkHtpmUdN3L7k8IrT5r+nQFGbU2YsGgnm+ms6Ucjf8l9XpXlNjVFz0vUfQ05f8RmTjSKf0Vk5bq2IQRk1U/H1dK+bhTpSxPDgprd+mNCBybJckwEoxxwDnuTL6Tc1YCLCiWfD929/pgnnQjhCbGm/3dcbhfAVLLaO5Y8Jbshogb6cfp5ZKQ4DSwESQuU3reDpL52UDuD93p7SF1tk287d5zUa9/5PHW7+AgvtNxpm+dQUHN6+two4o6+JI3Y5rUzWDUgJCEv6mFLQaks+53A=;fjP5mK0cRZk4uvfIFr/v+g=="
 ---
 

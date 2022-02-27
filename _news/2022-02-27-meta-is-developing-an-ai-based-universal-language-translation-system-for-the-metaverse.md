@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Meta is working on an universal language translator to make socialising easy in metaverse"
-excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-publishedDateTime: 2022-02-24T04:00:00Z
-originalUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
-cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
+excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
+publishedDateTime: 2022-02-26T23:03:00Z
+originalUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/"
+webUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/"
+ampWebUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
+cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
 type: article
-quality: 35
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: www.bgr.in
+  name: Beebom
+  domain: beebom.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
-    width: 1200
-    height: 675
+  - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -136,22 +136,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-02/82fe4f50-8e5d-11ec-bbac-3ec8c9620e85"
         width: 4000
         height: 2515
-        isCached: true
-  - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
-    excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
-    publishedDateTime: 2022-02-26T23:03:00Z
-    webUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/"
-    ampWebUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 51
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
-        width: 750
-        height: 500
         isCached: true
   - title: "Meta announces plans for AI powered ‘universal speech translator’"
     excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
@@ -281,6 +265,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
+    excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
+    publishedDateTime: 2022-02-24T04:00:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
+    ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 35
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta Plans to Build a Universal Speech Translator"
     excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
     publishedDateTime: 2022-02-24T08:14:00Z
@@ -324,6 +324,6 @@ related:
         height: 225
         isCached: true
 
-secured: "Bh2JdYKEonzvhqYSbQ0Ji47ebXk45TcRCcMnK1OR448cQRgYwDBuGOsXbsFI1TYpuHjv0R6qkTvnOPtX7l9DRfdnHyahRxGjIotBHnJZ2Df5SgyAs7qJ84jyyFSCGBRn3usgfrhXQgkoSGXyEOve2jA0ezsyaCd6t5mNj4XeVNDnRft0pMPGEJ3VBJzSMx5F4xsd7k/iSsyyEAcBeTPy8Tl7XZzoLt/XUt5xOxpVGpsPmfqeQTrZYI1Ncjdxw7SMpMZ2AQy/1z5eTQ/maML3cxJvv1tK8xa1d5W4MGY409hR267ll+qNpKdwopI+Ahvt0zbgp4R8F0K+7OZvQB1SZ+dXKZbHULssvvFG2oqa0qk=;kPxOsVaI1lQzSjlXcYm3EA=="
+secured: "WbH0kNx07UWxIj4zV3q4Cdr/pEc62AqCaxcn39h/cRvbbrgSbUIjVSH77CNqCadzaLKhgZ6PN0+x2dYz9sx7iocSLVj0kug8CQO2NAgjrcu1u/RWg/OFQWeJ/ttf1O3SBxgXgexXfcfhaFZ8K2xg8uADCMNMj7T4mPvs38n75nJ44VeEqUuqBMyb/49dbAFbgyucxvob6RmDEgSJpl3Yjw6vQSfMt7d4CDYg8/DGJb6uZkNkgZh4/t82eT1HZw3aIykWj4oXNrMaTsaW+7SowAAuMqMjIljEps3YJVnMv9rSZKpjDmw9kzO4kshkA9uYtcxh1epxm3oDSusqfQgfOqhvKsEjukzwFO/Rj6aKgoU=;jcqWxfZKJs9LGqHDRt/jxg=="
 ---
 

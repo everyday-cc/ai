@@ -243,15 +243,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
-    excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.\" \"More than ever, every financial servces ..."
-    publishedDateTime: 2022-02-22T16:25:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/22/9549654.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 26
 
 secured: "m5NRW5oFePgopHOzI9yZVBC43IXbH3zhbb5aGfQb9d4zxwrnWm/xV/tK55eXyS3pfWO8TQSYyHa0YvWB0Q50zJYT6BgjFOJuZZCYW07TQTuujgunvgsQI364djWXEt6uPC/nfBJoBhw139Q52RlkllS24NbPFZH8nZwU0xPJ76XJaRyaj4drGTiInH6u/pBOzbiby7z/AvHwg7/VqXfVGsxyStCeqvW1Ohl5BUnaX5TCKVLrcf63ZgMCYpU7xgms8NAbbJKJx/7VvdjlN2F9+0Vy27OOfzNvTnbmEJU4Nq+3ySLXV4xHRFtMSo/wiPQxvWTGOzslM2XpZuc9A9MY2jR4AgIXGerWX9zaXHn8CrnvOFDeQFvA9bm0jUBx08Nm+an259gif7L5fA51QL5DYKTJhGdDWivNn13Zm1TyeKruJYeAcGSC9CpzOBER+WiE+o/M9QLyVBsqmh6aFfBf42GesdhX0E5wCj9yNvZFWw2HLdYcO2YmRujcWplVfkrpqYyid1MqEdElQPYyjCxf1w==;0pC87OMk3vd7OWbtK/HCSg=="
 ---

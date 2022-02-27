@@ -20,47 +20,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Paving the way for AI and Machine Learning success"
-    excerpt: "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ..."
-    publishedDateTime: 2022-02-22T15:15:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/"
+  - title: "How Machine Learning is Transforming the Logistics Industry"
+    excerpt: "Customers can use virtual assistants to be the first point of contact for them and to receive delivery requests. They, like other AI solutions, can"
+    publishedDateTime: 2022-02-25T15:42:00Z
+    webUrl: "https://www.cioapplications.com/news/how-machine-learning-is-transforming-the-logistics-industry-nid-9371.html"
     type: article
     provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 56
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
     images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "Using Machine Learning and Artificial Intelligence to strengthen the fight against financial crime"
-    excerpt: "Machine Learning (ML) and Artificial Intelligence (AI) are often touted as the way forward to enhance Anti Money Laundering (AML) and to successfully apply Know Your Customer (KYC) standards. As many banks seek to further strengthen their AML systems,"
-    publishedDateTime: 2022-02-23T09:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/using-machine-learning-artificial-intelligence-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 55
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHeJ5o2gmbr6g/article-cover_image-shrink_600_2000/0/1645607413244?e=1651104000&v=beta&t=6ViosQ4NIhbUmAjwyQE2rzMaeuvyfHJvvynUnM5goXE"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Business Leaders and Researchers Discuss Future of Deep Learning at the Institute for AI and Beyond’s 2nd International Symposium"
-    excerpt: "The Institute for AI and Beyond held its 2nd International Symposium virtually on February 12, 2022. Among the topics discussed were the strides deep learning has made over the past decade, what we can expect to see in the future,"
-    publishedDateTime: 2022-02-25T02:00:00Z
-    webUrl: "https://www.softbank.jp/en/sbnews/entry/20220225_01"
-    type: article
-    provider:
-      name: SoftBank
-      domain: softbank.jp
-    quality: 25
-    images:
-      - url: "https://cdn-ak.f.st-hatena.com/images/fotolife/s/sbn_16/20220224/20220224111459.png"
-        width: 780
-        height: 436
+      - url: "https://www.cioapplications.com/newstransfer/upload/b2me9450308.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "9F1vzdto+UOsl49NnZHDjzMn2SV1TKy3aapRDOU+vweVIL1Yt12qdpe0RralhyV8RWzPVopm4ZUuzPIi4gty25ARkDs5S5jMMqWhe1F6VB5Sutm5emZ5NwdvWrOoZTBiUC1eJ6MaodifK4lfJFrDirIb9opxo+pfluHIwoJtVwSHMjqTcfGnVQN04IWyxP0iQl1kOXl2MsqhZuGF9ZzdUjHO/EWT3QKyzAHRXpHJ+6bRfOzZMgU52zxOAJIDnaz+Ll92ASej8HfyYNT8V+kw+lqy2wKcyZKVgwdaHg4OAS8/vCDM5l4Lb7ZLYFTyZTwrIklL2OVPZEzVpg6UO60bp0279tHL33XwOntnqLUX314=;41Xze97yOtPYKk6Ghmk03w=="

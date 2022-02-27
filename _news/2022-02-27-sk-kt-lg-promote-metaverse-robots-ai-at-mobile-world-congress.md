@@ -1,32 +1,29 @@
 ---
 category: news
-title: "At metaverse event, Meta's Zuckerberg unveils work to improve how humans chat to AI"
-excerpt: "Facebook-owner Meta is working on AI research to allow people to have more natural conversations with voice assistants, CEO Mark Zuckerberg said on Wednesday, a step towards how people will communicate with AI in the metaverse."
-publishedDateTime: 2022-02-23T16:15:00Z
-originalUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
-webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
+title: "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress"
+excerpt: "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,"
+publishedDateTime: 2022-02-27T06:48:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/02/133_324614.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2022/02/133_324614.html"
+ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
+cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
 type: article
-quality: 65
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: koreatimes.co.kr
+  domain: koreatimes.co.kr
 
 topics:
+  - AI in Robotics
   - AI
-  - Facebook AI
-  - Natural Language Processing
 
 images:
-  - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
-    width: 1200
-    height: 628
+  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
+    width: 980
+    height: 677
     isCached: true
 
 related:
@@ -46,21 +43,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress"
-    excerpt: "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,"
-    publishedDateTime: 2022-02-27T06:48:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/02/133_324614.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
+  - title: "At metaverse event, Meta's Zuckerberg unveils work to improve how humans chat to AI"
+    excerpt: "Facebook-owner Meta is working on AI research to allow people to have more natural conversations with voice assistants, CEO Mark Zuckerberg said on Wednesday, a step towards how people will communicate with AI in the metaverse."
+    publishedDateTime: 2022-02-23T16:15:00Z
+    webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 65
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
-        width: 980
-        height: 677
+      - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "AI translation key to communication in metaverse: Flitto CEO"
     excerpt: "The role of artificial intelligence (AI) in translation is becoming more important in the metaverse where people across the world can join and communicate, says Simon Lee, CEO of translation service provider,"
@@ -183,6 +178,6 @@ related:
         height: 3236
         isCached: true
 
-secured: "bFrgWt5DMcKn0xE0/ktz+sNp32Gk0B5+TigAXeAnNbyIX7agFK+fDSMoom76QcPy0lFZms1EYYtgWpo+/sSHyj3g45Htz0vgpxUM7G3DpGiOT62Ui/8lx5/gMlL+H1qk7/aGdZwev+DFRgracBpp4ZIUACmym79bPCXQEZe91ywy5iw3WOFMIxanVw6afYAVIxg+Aa2IBpvTbS9dmIIhH0cVA7sf7osyiGNw5JLvH7xgkttbwytoKPji4ko2+0zM3hXuRExEKHP3WnJf52wBderp9Lz90HeC1x5jzBvsAm8JmNIktHFeIgA+ZFXewzJMJ5powRJGL/JvmWmj1AqUN9v9Yr0c9k4x2OmWAKthGxH3jeR7oFYBlj9iFQ5x3e+DpzVYWEaGkMegbGqW/yd221APO+Uqn+6y5sCfiB6EgO4m0TRRs0VzeCkOYA1Qp0sqMCZFiFZD+R5YgFHipjjdtkm36bDnQ/QmGLCH3etHuolbSoU9UDEcyGJk9ikbQVRzONp17lu2vPjk6T5F6W7Nog==;kXS+3i4AMbUdNonsY6fcdg=="
+secured: "rD1BXs4eZFfDqpiEhR0mqaCONaef+cItMCRuHfNYaUDA+IHLcihwlfP5yJv2mkp3ZZTtCfVf384ntsolwmdtOWC8JhqRmlbEHA3fYEzKBQQFhFttFgite1+6r68CEG3GG0ce99ljINCRJO4Ni6DKpL+ptKnr5n0rDj6dbCU9YjLkZ1PM9AIiTlI09llnNg4sK+bD+S/UCjznE8QR1TltWHDJ9D45u/bZFqHWEyfDlPxSsvfm5pr7u8W3xlUt1jMmHNIsqR+XxkXyOZUYE2Q1XB2h3BWtQnmKje0lS2OMqTInusXoZ1yxWfmYuvccOENVnlUsHbM5+/uAjjYgP7/jqy/rVERlH+Av08dcTE+1F00=;X9xt8RB0doAcPv1Y07bvQw=="
 ---
 

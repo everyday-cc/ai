@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/in/news/microsoft-defender-now-offers-pr
 webUrl: "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud"
 type: article
 quality: 99
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -245,15 +245,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
-    excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.\" \"More than ever, every financial servces ..."
-    publishedDateTime: 2022-02-22T16:25:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/02/22/9549654.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 26
 
 secured: "VvauClfWjgi1YuadlCx5D8dJKRU4Gt4QO8FAj0FYhlgattwC2AdVlIdN1cUJV92dfThdz+8ys2pFFBR8HK5f6ccAZAYOxTPkxN1OaVkjLuiD+f+mXB/edU5DiQSjmLXltORrqQrDIxMi+fel/R4LI/SJC5HmTB8ysRaUP1maXBV4ftCZmHK14mA+f/pE44Vjef2pGdtvjWBm3kVihxb34EOwPRLiMvkYXlfxlmPSTn59kbB/qD4fr3vCCvrIzwfgyXnC7uPRUvFAvZUAU2Kzq4kHVjStnaUvfWFby5xyHD4zxi9PesGQXx9eDzyrnguSYWHv1QL6MoeEnifC9oLyElewKGupvaHpu9cR1A8RBd4=;+c17GpHLdQugx0KMhYHl7w=="
 ---

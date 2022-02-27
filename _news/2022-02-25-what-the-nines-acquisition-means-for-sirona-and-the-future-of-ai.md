@@ -28,6 +28,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Business Leaders and Researchers Discuss Future of Deep Learning at the Institute for AI and Beyond’s 2nd International Symposium"
+    excerpt: "The Institute for AI and Beyond held its 2nd International Symposium virtually on February 12, 2022. Among the topics discussed were the strides deep learning has made over the past decade, what we can expect to see in the future,"
+    publishedDateTime: 2022-02-25T02:00:00Z
+    webUrl: "https://www.softbank.jp/en/sbnews/entry/20220225_01"
+    type: article
+    provider:
+      name: SoftBank
+      domain: softbank.jp
+    quality: 25
+    images:
+      - url: "https://cdn-ak.f.st-hatena.com/images/fotolife/s/sbn_16/20220224/20220224111459.png"
+        width: 780
+        height: 436
+        isCached: true
+
 secured: "nWgKjOJLr41oKxP6Z0j+xVfzOFAMjhnZLa46SULUwaTEeou/QKd7+Pa0vYwyCYwxHUTY9MpONTFaAA9z0J3az1YM7NFzP1meKsIlVX1U4DMr98SWKUoL7Ep/kz6iAVusAS91ov1QXNK6WrHrVVZnXadlxrZl++Ze46ScejX5vJurlWqfHi5HnhtnT/zaVADZpL9W97cPaUsWFWgncWx84XTG46M7UdxEeBW3lJZ/GPfjrmZMiv5QDWSGUsfSGS0acinf5Jm4eAL+N7BkiudIq0XFeDYLodYZkQ5tpJY0b8U3CiuzHAFeBRBkW+M3/4C7UFF+YbObM4A2Je6fvByq6yBZ7u1YlAdeFg8bsB31kLM=;EPNuXhVbtY9yY2hCOfbw7Q=="
 ---
 

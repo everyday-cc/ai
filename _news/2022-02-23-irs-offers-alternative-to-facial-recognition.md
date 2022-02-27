@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IRS lets taxpayers opt out of facial recognition"
-    excerpt: "The IRS announced the new authentication option Monday after the agency came under fire from privacy advocates for starting to require taxpayers to submit a selfie for facial recognition, along with a government document like a passport and driver’s ..."
-    publishedDateTime: 2022-02-22T15:09:00Z
-    webUrl: "https://www.accountingtoday.com/news/irs-lets-taxpayers-opt-out-of-facial-recognition"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/5a0c99f/2147483647/strip/true/crop/2000x1050+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F40%2F53%2F33ce128f42678722f258b8c322cc%2Firs-building-blurry-passerby.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "jMLjqiUfUPtHYtd/PomJuUhTKWDlRR1A9jS34mxM8Pc/Y+rg/7TkKO6lDp0B60kBt0Xd7E5O14hLeX1O6VJmthjT0RWNGU8Y7W5rVrujGaLMqc6iaRmJUuGlDVAHCbmfxE9FPGh6RHbN2PNc+uhjG8RdG8zI+gYiY2RcENOv/BWt1Wp5t+HRd1MhQZ1wnfXLBmOaxJ1qPrYgHklIuaz3hMXeg6Zz13hIh2OWiutwIX4R8e6K2ZRQgtM/4DG2DkhoO2VSBIiZV6IVpjtKC9dq2MjUzvdD7JwrfcFJd43YOFp8qRscEspneX8Z80pn26JBG7Klk6rdu1k6eJqEnzc/PKskEhhsoiykiwWMxwy1X08=;SpXcVntzICue8q8SPRSRLQ=="
 ---
