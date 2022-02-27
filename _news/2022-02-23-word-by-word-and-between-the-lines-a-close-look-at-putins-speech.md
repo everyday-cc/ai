@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html"
 type: article
 quality: 74
-heat: 85
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1050
     height: 549
     isCached: true
-
-related:
-  - title: "Putin's angry speech rewriting Ukraine's history"
-    excerpt: "With this speech, Putin was clearly ceding no ground on his key security ... of them now Russian citizens - from the deadly threat posed by Kyiv, by giving formal recognition to the breakaway regions. Residents from Donetsk celebrating the formal ..."
-    publishedDateTime: 2022-02-22T07:57:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-europe-60458300?at_medium=RSS&at_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5DE2/production/_123343042_7dac87ab-0ed6-4159-aece-6523b1ca9f7d.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "n+bIoK98NdO10Jn84b11nEmlFC4sCOAwJu+lhXsdO71nsJ7U7NSH1OvRau1DreO8gA3XnZLjieEHRfpAXhWui0cA2xId8GShgGEYfGIZJahZY5z5crQNaM8glihmEkcgota8yodh/dCGM/oMwXEQKamZNKaxrilhRrVpR868DiEVEP9YTNODfuFUQg7un9UFq1W7TljDs6dxe05tAbEv+HADZiVddJNA6B1BTxBjTM5cIBghm9gBReaLAOHWydu6pV2YBi5Gz1nY/oC0wB9Ig877eQnFQtPGUI2bEjkD612Nki3022MH7aEvhwSn8HQPHFYpCL0S2z5hYWj8GlXMLxPhenBOa/+2knVBxt5pQCJ5CSwuZuImd343tLe0s043zkAYsH17TipvLTbQEJdODMa6Mrx9IyBEdGUXm/kUeDnAuRktJsvjOFJNo/VNr4lGOnp/nvIjH/FTfjnw3nmlSE/S/VHyyo0K4Qqc/KoGhgYyrT72897kfqe4vdiStRwo6AqmImWbvyFs6ctUMOr5+w==;jqFH2cr9Ck9G3WViW7SKiQ=="
 ---

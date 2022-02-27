@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self-driving Cars Market Forecast to Reach 62.4 Million Units by 2030, at a CAGR of 13.3%."
-    excerpt: "Dublin, Feb. 22, 2022 (GLOBE NEWSWIRE) -- The \"Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle, Level of Autonomy, Mobility Type, EV and Region - Global Forecast to 2030\" report has been added to ResearchAndMarkets ..."
-    publishedDateTime: 2022-02-22T08:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/02/g25743315/global-self-driving-cars-market-forecast-to-reach-62-4-million-units-by-2030-at-a-cagr-of-13-3"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25743315"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25743315"
+  - title: "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners"
+    excerpt: "and Face PHI are among the key players profiled during the facial recognition market study. In addition, several other essential market players were studied and analyzed to get a holistic view of the global market and its ecosystem. Inquiry Before Buying ..."
+    publishedDateTime: 2022-02-25T12:58:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-/article_372e9b79-415f-5c7a-b5bf-fe45a137fa32.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
     images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
+    publishedDateTime: 2022-02-25T23:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1645766442.png"
+        width: 1176
+        height: 505
         isCached: true
 
 secured: "/OAC81eKTTx4yj7k4nB0LMBBX9YaEswkl0wJv02HgPkBLMX+PoFsfHg/r2F2rz1Dmdr9//KDhenBkS6oEaQTT8wymunV7/tqhih7+6iVRIXrf0i+rLaWsIvqBIWIjR7W+bXAjMnj/tdVdIQkNILJCYD91koicmNzF7KNDG7sIk9NevSzYeoLDIKADOXEDUysDV9ilAtSwx6hp3ns2APuMj+ZjK8jU7A+1DUY7OnamnEcULm1o1NiRivKOp/hiHhEH27O1r028xUr5EcjKg60jbfHnfGpu9h6/6+y95N+OYJd/Svpe/KTXYwCBP43beYKRP+X3Qr/vTvLSbxYa/hA8mXrJFJnpcCpxoV4ajtk5s8=;WHzieY4QS6PuqCIxm8iutg=="

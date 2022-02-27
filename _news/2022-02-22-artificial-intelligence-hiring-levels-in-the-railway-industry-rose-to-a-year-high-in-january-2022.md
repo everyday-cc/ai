@@ -86,6 +86,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Artificial Intelligence in Genomics Market Size, share |Industry forecast 2022 -2027"
+    excerpt: "Market Research Engine has published a new report titled as “Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision),"
+    publishedDateTime: 2022-02-26T06:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-genomics-market-size-share-industry-gaikwad"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 30
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFK4T5hdmCG9g/article-cover_image-shrink_600_2000/0/1645858457483?e=1651708800&v=beta&t=tQJrR4IZPvqf0wvowj0DD9u-MjF9Qn0YPOmD86AvWtg"
+        width: 625
+        height: 350
+        isCached: true
   - title: "A call to advance adoption of artificial intelligence across the global finance industry"
     excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
     publishedDateTime: 2022-02-24T15:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.galvnews.com/news_ap/business/article_c03d2170-5235-51
 webUrl: "https://www.galvnews.com/news_ap/business/article_c03d2170-5235-5166-8376-eabdb43ee083.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Rural Social Network Startup Krishify Closes $6.2 Million Pre-Series A Round"
-    excerpt: "Leveraging machine learning, AI, and NLP, Krishify’s app delivers highly personalized ... Shanthi specializes in writing sector-specific trends, interviews and startup profiles. She has worked as a feature writer for over a decade in several print ..."
-    publishedDateTime: 2022-02-22T08:22:00Z
-    webUrl: "https://www.entrepreneur.com/article/419834"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1645518074-guru-moorthy-gokul-BnsyVc5z0zs-unsplash.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "Wpj9k/ij6FTumqcLeYxSEuF9anl0UXu0aX1o0wXyxe1j5O9i1zW5pICgaYsKfv3raTr+K+MeE4V5hU5Rzfg2UgpsRQYB53Mb7G7WnJSMYL28lg9pU4vxOKmu1NmNj5oCV+LKJsH2E9EU2DJE01xposMGYHFvQV9UAnfFokOwCRq4MkkZQxbnw5B8GH8H8+tU80CxIUYMcVUla1GXOWRwEDhpSnZWh2eFoL8kJ2ZylFn+OZgN/mrHMmtmyYeWNlvV9sq+LGBjvoXXuza+t3ZD1g8yUsjPO9Lu6OBHQcVP7U+QMlNoc25l5B90vXZN8EQXMDA0ZRK4P1a8FTHAK35n+er8gbfyFodrag0jalFONCE=;sgpjOVXa1J3jT4p1nvc09w=="
 ---

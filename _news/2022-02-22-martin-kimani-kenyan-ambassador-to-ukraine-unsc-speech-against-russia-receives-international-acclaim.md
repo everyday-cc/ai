@@ -87,22 +87,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "In stunning speech, Russian President Putin spelled out his vision of history, laid groundwork for war with Ukraine"
-    excerpt: "The recognition of the two breakaway regions by Putin ... power and influence. In his speech to the Russian public on Monday night, a sometimes sullen, sometimes angry-sounding Putin was dismissive of modern-day Ukraine, arguing that its creation as ..."
-    publishedDateTime: 2022-02-22T08:00:00Z
-    webUrl: "https://www.freepressjournal.in/world/in-stunning-speech-russian-president-putin-spelled-out-his-vision-of-history-laid-groundwork-for-war-with-ukraine"
-    ampWebUrl: "https://www.freepressjournal.in/amp/world/in-stunning-speech-russian-president-putin-spelled-out-his-vision-of-history-laid-groundwork-for-war-with-ukraine"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/world/in-stunning-speech-russian-president-putin-spelled-out-his-vision-of-history-laid-groundwork-for-war-with-ukraine"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 37
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2022-02/63206b69-3d23-4d6a-a698-c1824d3125ec/putin_history_ukr.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 830
-        isCached: true
   - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkish president"
     excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
     publishedDateTime: 2022-02-22T11:31:00Z
@@ -159,48 +143,6 @@ related:
         width: 864
         height: 486
         isCached: true
-  - title: "UK says recognition of separatist regions of Ukraine violates UN Charter, flouts peace efforts"
-    excerpt: "Rising tensions Putin announced recognition of the regions in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s military buildup, tensions have ..."
-    publishedDateTime: 2022-02-22T08:16:00Z
-    webUrl: "https://www.yenisafak.com/en/world/uk-says-recognition-of-separatist-regions-of-ukraine-violates-un-charter-flouts-peace-efforts-3589876"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 27
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/4ac0495a-8awqols0m7fblymr8txl.jpeg"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Australian government condemns Russia’s recognition of ‘LPR/DPR’"
-    excerpt: "The Australian government condemns the recognition by Russian President Vladimir Putin ... “everything to preserve Ukraine's territorial integrity.” Putin ended his speech with a threat to Ukraine, which is allegedly behaving aggressively."
-    publishedDateTime: 2022-02-22T07:53:00Z
-    webUrl: "https://www.ukrinform.net/rubric-polytics/3409143-australian-government-condemns-russias-recognition-of-lprdpr.html"
-    type: article
-    provider:
-      name: Ukrinform
-      domain: ukrinform.net
-    quality: 24
-    images:
-      - url: "https://static.ukrinform.com/photos/2022_02/thumb_files/630_360_1645519629-967.jpg"
-        width: 630
-        height: 360
-        isCached: true
-  - title: "France responds to Russia's Donbass recognition"
-    excerpt: "In his speech on Monday evening, Putin said his decision to recognize ... A White House readout of the call said the trio \"strongly condemned\" the Russian recognition of \"the so-called DNR and LNR regions of Ukraine\" and will \"continue to coordinate ..."
-    publishedDateTime: 2022-02-22T08:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272322305/france-responds-to-russias-donbass-recognition"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/rtc1645488780.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "The Latest: Putin calls for recognition of Crimea as Russia"
     excerpt: "MOSCOW — Russia says its recognition of independence for areas in eastern Ukraine ... that President Putin already had an agenda – you heard that agenda in his speech last night,'' Wallace said, referring to Putin's decision to recognize two breakaway ..."
     publishedDateTime: 2022-02-22T15:10:00Z
@@ -229,20 +171,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EU calls Russia's recognition of separatist regions of Ukraine 'blatant violation of international law'"
-    excerpt: "Rising tensions Putin announced the recognition in a speech Monday that also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Earlier Monday, after a meeting of EU foreign ministers, Borrell ..."
-    publishedDateTime: 2022-02-22T07:25:00Z
-    webUrl: "https://www.yenisafak.com/en/world/eu-calls-russias-recognition-of-separatist-regions-of-ukraine-blatant-violation-of-international-law-3589873"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 23
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2022/2/22/f207f654-22qoxwpzkzhypvucgemt9.jpeg"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Why Armenians Should Not Support Russia’s Recognition of Donetsk and Luhansk"
     excerpt: "On Tuesday, Russia took the step to recognize the Donetsk People’s Republic (DPR) and the Luhansk People’s Republic (LPR), regarded by the West as a major provocation and triggering sanctions from the United States,"
     publishedDateTime: 2022-02-23T22:43:00Z
@@ -257,15 +185,6 @@ related:
         width: 576
         height: 375
         isCached: true
-  - title: "Nicaragua President support Russia's recognition of Donetsk and Luhansk regions"
-    excerpt: "What Russia is asking for is security, Ortega said during a speech in Managua. According to him, existing agreements could also provide security in eastern Ukraine, but they were not implemented. \"I condemn Russia’s decision to extend recognition to the ..."
-    publishedDateTime: 2022-02-22T08:22:00Z
-    webUrl: "https://news.am/eng/news/687985.html"
-    type: article
-    provider:
-      name: News
-      domain: news.am
-    quality: 0
 
 secured: "9NORAWie5toMQAK/x/e1H9ahJR1ujUS+HF5cCMDwz6BqlGy5aq1jfgK7PwfpkEc82+XVDjX+cwrafEZFjZHhrP/pLgpXES5Zht4ok9PV8sCBJwpGTGdEGnraslbTWeSPaAnhgEdc3Lo1msT/RmTtrSbfuLQHzX/lfa7Vc0T382VBX217v4Nn2UhMhu0SaeBj7uHSd/3uIYod0sw/K9WK7HM6aY+HX8juAjK9EJeI6shelctEbr0gwi21EcF233DaT7vcvqUyRO0rQ3MKjeAE7xZ3sD4xhwBn/XdoPa9uG9JtJeNjI6eW8Mur+qejPLKii12JmOVnILZYr4VDsNt/njhdwdkluLWBO5p2gCwr+n4=;s9KXcLp1SiAe8pGKFlGDUg=="
 ---

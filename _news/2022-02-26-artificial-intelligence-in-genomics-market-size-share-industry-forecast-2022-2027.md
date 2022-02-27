@@ -1,36 +1,49 @@
 ---
 category: news
-title: "Two top jobs in the booming AI industry"
-excerpt: "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field."
-publishedDateTime: 2022-02-23T23:12:00Z
-originalUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/"
-webUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/"
-ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+title: "Artificial Intelligence in Genomics Market Size, share |Industry forecast 2022 -2027"
+excerpt: "Market Research Engine has published a new report titled as “Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision),"
+publishedDateTime: 2022-02-26T06:54:00Z
+originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-genomics-market-size-share-industry-gaikwad"
+webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-genomics-market-size-share-industry-gaikwad"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 30
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
+  name: LinkedIn
+  domain: linkedin.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946"
-    width: 800
-    height: 600
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQFK4T5hdmCG9g/article-cover_image-shrink_600_2000/0/1645858457483?e=1651708800&v=beta&t=tQJrR4IZPvqf0wvowj0DD9u-MjF9Qn0YPOmD86AvWtg"
+    width: 625
+    height: 350
     isCached: true
 
 related:
+  - title: "Two top jobs in the booming AI industry"
+    excerpt: "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field."
+    publishedDateTime: 2022-02-23T23:12:00Z
+    webUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/"
+    ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022"
     excerpt: "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized."
     publishedDateTime: 2022-02-24T13:45:00Z
@@ -91,20 +104,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Artificial Intelligence in Genomics Market Size, share |Industry forecast 2022 -2027"
-    excerpt: "Market Research Engine has published a new report titled as “Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision),"
-    publishedDateTime: 2022-02-26T06:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-genomics-market-size-share-industry-gaikwad"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFK4T5hdmCG9g/article-cover_image-shrink_600_2000/0/1645858457483?e=1651708800&v=beta&t=tQJrR4IZPvqf0wvowj0DD9u-MjF9Qn0YPOmD86AvWtg"
-        width: 625
-        height: 350
-        isCached: true
   - title: "A call to advance adoption of artificial intelligence across the global finance industry"
     excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
     publishedDateTime: 2022-02-24T15:59:00Z
@@ -115,6 +114,6 @@ related:
       domain: arabianbusiness.com
     quality: 25
 
-secured: "GZhPq/C72Sbt+LV8ko9LU5PzFvx84SNS36WW27vsOnqkPsKHVvb5ZG6fV123vhF2ObO47CJYhU5YhUABMfw0Anu6OObWh3OTzOMWadXzMHqLMQnwvWeEEJKqV3nnrxtRJKttIZbvo/sXTHWbtmcTOabjyepMPkG5abGjO6mS0WW9OHIwOWK/X4JHex6xaszxTyxUZXPBx7PG2UVEt0qSNN9A6joSsfTIy5PKsQIX2LnS51mcynvZdu/iBgaN5MtlcpgVtv7PQpl/tMj7e+g0PcIluWHRlH0IAKM/g9Bu03mIs/BObdwfe5mtmz/nMBXP1Yw46XW9ULl9SHRcwf0+aEtCoKz4Ra8i98UHQPIZFOy3vg/6QZsNBZ5QbiFnlkFW5Lmnmvp09ITphGJTi+jsvIV6VuVyb39m9axI2+NLS4pNTBx+XwP1oUFw2Rvfmrqa6AwKyp1r2XWM273MAWUXZytj8a9JqqDFBKE/VAqKi3H+6dfdaWZvxmY6kKoAflg2QFkPOuJ1728XugNsuYOyQw==;UxdnaCXfnoEuR7DITbudGQ=="
+secured: "1P2FkjEebysu+c4eimvg+58U3oM1lwV5qIa14D1Mot2Jsc6E/OdjWjXdaLkG4eEoIkMloPIFwliK4bPMusGyiMoRBKwf5E49MqqBRpXDUSZcMc7I5fjyg5E2Pv8oY1sTr/I3pOelh/gAHaLe4mKndK74knDc9SdPFlSzjXa8HK+9OlF8aicQ/rUo3OkfslDWguhoAuG9doqyQ/CZ6DkbknZaM9UzqF/yu00vCYpihIteVkX3jyY5qFmzGW/ab30QpbZ/qA+y1fGPPfccIM/a+33YVTMO5PlHfnDWaStn7JiQVB9UrJ9QQBYAXJhkY6Q5NKrFylJ6qi2mnRdTOErfSlNydtiXM6ynm3jP7V+9UZ8=;3COaMXEQcZgqPSUS53lr7A=="
 ---
 

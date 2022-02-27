@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
-excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services."
-publishedDateTime: 2022-02-22T21:06:00Z
-originalUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
+publishedDateTime: 2022-02-23T00:06:00Z
+originalUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: 196
 published: true
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: KERO-TV
+  domain: turnto23.com
 
 topics:
   - Computer Vision
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
-    excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-    publishedDateTime: 2022-02-24T17:45:00Z
-    webUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 67
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
-        width: 1920
-        height: 982
-        isCached: true
   - title: "Proposed bill aims to put some guardrails around the use of facial recognition technology"
     excerpt: "Senate Bill 22-113 calls for the creation of the Task Force for the Consideration of Artificial Intelligence, which would take a closer look at the use of the technology by public agencies and offer recommendations for how it should be regulated."
     publishedDateTime: 2022-02-23T23:38:00Z
@@ -182,6 +166,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 30
+  - title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
+    excerpt: "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+    publishedDateTime: 2022-02-24T17:08:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944603"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 27
   - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
     excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
     publishedDateTime: 2022-02-23T10:28:00Z
@@ -197,6 +190,6 @@ related:
         height: 810
         isCached: true
 
-secured: "1kiTMgr7QIuoNSSx4sph9UAZc+CHo0JsOinzrX0kgYl5RheJME4pqxEiLErfcar8yxo1bQH1iFYP2wNpzj89/sUAhV+qJorhCZdp4kiZHKXu3tITcN0ccs3jFxSZAztJXq8x+ESYgkpT7KJmTdPRZEcWU2b/kxEMgOVrpakzhjZ50Ftb3a+r+OFctmiRPw2cZRB69zaeNVXrlGjioiOV5OeAmPfg/nNccqjoijMDepO0Wd10lQ61yFpXQh7+GDjKc5hbxKJeudp+xYO2vjaqbq+e0yLI9OGJLU1CDzw9Gi8xo2VUVbWtEOFPuenrIFgdOlnB7MCV4dcOHRQrSGl2HwBr9S/xc7Yqf4xTghDml/6UdEHlz/UiAclmRLOzJQ4ijRuVjzWs/XMjeJfzxD5uvyL9Q9zha3XXBYAZE7EO3uQDPAnoQeMWnjPTMwoTM1s0YDi6chaD40FHg0OlZLYejcF3+v2gfumHXuKvga9sD9mjyUuXjWCzPZ42qcp4CI3Q52QCYFyV9SeGr9iXd7q5QA==;XsBpXQnsCTZrOg1oN3ODRg=="
+secured: "LjMTGPBp0btGgSkhGrjZEp+nuJbD/1ZiFFWMD9aWEXaRc7GKn2MeqgX7KrK6Od7LEyflqGBtsGoq9HTSfsYlvGaret269Fhb+tI36hDY3C+OOrr5YnG5TJy2xAmvigEC0Zk2f7QEcUMY6OaR9ebP5bSurjq1zAl7cYUecDs6a3Yjh5+rAJz4huduy/DI6GSBw2SgnBCkWoNGr5k37sHaLtIg3C5W7QbmxyaXeM85wrRSqRG0UjVGitsp+FHCqkc6nJOV0kULnAF9nfsoCFgaHWyD7OfcKc8TcViAstqSQdfWNI6gQTKSIMdO2ALXnTjwrjpk73Z3cdpN3x4IjdOCvXz936oqf+05dSImvhSajcc=;qCA+NqL4XiYbRT8ph5vSjQ=="
 ---
 

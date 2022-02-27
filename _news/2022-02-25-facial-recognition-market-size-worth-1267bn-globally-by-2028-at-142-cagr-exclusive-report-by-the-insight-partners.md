@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive Computing Market Size Estimated to Reach USD 148.12 Billion at CAGR of 27.70%, By 2028"
+    excerpt: "USD 20.43 Billion in 2020, CAGR of 27.70%, Increase in demand for cognitive computing in healthcare end-use verticals. NEW YORK, NY, UNITED STATES, February 25, 2022 /EINPresswire.com / -- Increasing demand for cognitive computing in the cloud deployment mode coupled with high investments in R&D of cognitive computing are fueling the market growth."
+    publishedDateTime: 2022-02-25T14:59:00Z
+    webUrl: "https://menafn.com/1103762773/Cognitive-Computing-Market-Size-Estimated-to-Reach-USD-14812-Billion-at-CAGR-of-2770-By-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 11
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?659601"
+        width: 354
+        height: 249
+        isCached: true
   - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
     excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
     publishedDateTime: 2022-02-25T23:10:00Z
