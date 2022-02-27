@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ContentSquare"
   url: "https://twitter.com/ContentSquare"
-  followers: 6814
+  followers: 6815
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "HxN3LlgZZxz03Ex33zU3mp9QhJLw9Jx0Db/kD27UG1d98tWSjWPDbMgQZUkhB4Ew5ohh6UTmYYN02FDRoU71GFliVg7XKvCDNQg2JMOPz74ryTGzHYBZIG/aqCDfqsXHeSe6mxTFYMXE9w9dMG5SuaaFJgiiztRRl3Pi5Wi9z1OJZPEVqjaau2UGVNSV3n5ktx8SYMGj4YMlZ2vjkBRqdCPjw3gW6ZQ04cy72blBpjYlTqbnu1uKYngrfcpMF5aFFo/yN5RdxQJ6Xs8QQV6O78od/I5ZuiuymfE7MgQtEuHJk8fzUZRlH5NCabK9QAm8JCiedwrF0/4GTaaGC6OwX46Gs/lJiGxceOKoY7t1iejO59SfQ4+TymGk+hJ/vM0XEn6uGdNKCXLByGPUyTW7WzQ2hlldj/U1utAWVulrvjM=;PZfUpanVlT8GXvxk33o4sw=="
+secured: "+LhqdGEHjVjikva4Kvwn0SSLClS7fDV79eWWmSSPoPVTPiHg6Czhca1sqJA+gJMjVmAJ8Bdcc1YTiUgLjtK31/E9bwicJfYTYAs4gj0Zl0/wSdXk0S9F+wZ3NcrmFjabmd5GY6YjBRdih8Lvl4Yw/wXRFe4Rxu3rPn7NxiiF6XB3/66npufGE2sTt3ixGaTg9E1TdnKIxftUBVOoGoKA8AJBWCMFfgS1YRVX76vdGPBtwsA1Id4mt+K3l6AXDNRB8MeZCXEDjEv9l7t6zEil6VbDiJ//yBCRzdLaxORxNedi5z3LZO1z9cHp2JVOM78TyHqzupWCNtneblMs4nmX93ywWO6s/K9iS/mamYTm7baWQ3+6U+B6AhJUwF1bvu5Isob88Uf5IibyDr6OnfgKTLmL8d1UigbTWssXUWdqCBk=;zjUwE88WrRakWVQ+0p/Nuw=="
 ---
 

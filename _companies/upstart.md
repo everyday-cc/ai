@@ -2,7 +2,7 @@
 name: "Upstart"
 overview: "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness."
 type: "profile"
-heat: 173
+heat: 196
 
 website: https://www.upstart.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Upstart"
   url: "https://twitter.com/Upstart"
-  followers: 15733
+  followers: 15738
 
 size: 201-500 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "NxCLYr5U6/qYTHYU52ppiovzy9LL+k+UvQDkxIAounNY6LG1e8ZJNuKaUSXiIrZS5UTpuFipa+79qyY43FgmWRdPLEqiAce8Xbm65v7MBMoj0aIXC2P6IUVKxlWBHHUBMPkn1NNBSEr3fFTlx7+bfQhR9DJeqwJASvUXnZmfsLTJLRgnL9vC6wlED+4Bs0Tq9Yx6Vvo8l0xnHH7TIuI+Bn7OlTeOc7TEp/jA3QuU+vmgrFeBeAAcl36xy7ztvwvrmfra47hhcuQV/YUBULT/I8Dt1hTkJR7OGeAMxJ56Jbz2gxXoeTQfx6Hy/df1e/v+FkzofJBJ6hUi6TxJ7G9tkk87Y5p9QewfNdlw8S6iaKEuglJWzRx30U+Mb/ErgFp7ptG3Wwf064i6aDgTn5OOvusKVFYJBzZNtqM5l30Fy9U=;UsGRqBVPHbVj/T3yVdS1Mg=="
+secured: "885ECrTSCc8KIj06hZNF3Z6dftynBFgV8BuREwURTAENtKFX1bw6AAcWRELFK2evon7ZuuWrZxUfnJ1HO9GbhTKjjLeqrPWovpWCA4TVnS5RLnxocn48rxVylAPFaa6d9tjqlIgVL3+QqPGu801YYn7Cu+v72UaqPYxSOIJZHA9DBdH/qNahqJdU8aGfHsA22K0Ab5FB0VJ15WJaLbJc8qoVlLPQsN5Q5Pjso9eZxOMsNXcxbbWyf75hEfguUQsGQCO/4ZmEO8s2am64OcvPKTX5FG4Uehk1psPod/QFp/GuGnasW2AT2ItuKrCuxhcnKC+AXRE2sfNzPxi9+HeB2xwHpXSI0U3ENXqGYIST8G1KEz+8PchNVfgRdJhgTkifhfRND7sAbkOzIsFcEbP9UkQc3KkjEzaaqVQnRMm9CI4=;o9x6nhjaV4goCRyMTLZMjQ=="
 ---
 
