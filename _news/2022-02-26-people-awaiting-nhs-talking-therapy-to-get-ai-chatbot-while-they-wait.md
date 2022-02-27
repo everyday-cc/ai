@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 617
         isCached: true
-  - title: "Social Messaging Chatbots Market Next Big Thing | Major Giants- Chatfuel, Floatbot, Botsify, ChatterOn"
-    excerpt: "The report is intended to provide market intelligence and strategic insights to help decision ... analysis and profiles of players such as Nuance Communications, Google, AWS, Artificial Solutions, IBM Corporation, SnatchBot, Acquire.io, Chatfuel, Floatbot ..."
-    publishedDateTime: 2022-02-22T14:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/social-messaging-chatbots-market-next-big-thing-major-giants-chatfuel-floatbot-botsify-chatteron"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "lG6yjP3KZ8gFfsZinmigYaJb/0X5ytpVgG+QtAHcH9LAju8oC8fuQXWNuWVNOFMvk5MNsUjyuxjy16oQiRtz42AFa3x7eHQaNB5SGXHqq4+36E0Gf5UJycgLIwKdTMXHmhQ3p/QK/OM5dbKw4nRnRQLR8s7eXblDP9MANO5yOkyOPrYdP5HydI5E1iaqHf7VAytFMogh3yT0SJgeJtyUqnQuSZJ1P35wWgRldjlLjIKlkl9zPIv49Mx3rxHrVwGJUYvpRpg0SuwtHliR+9UMemrOUsMyv4o3Sd5+hW+4DuTjw16GyXdD6BJHG0mMOtHQpXAAHe4IzUc9OZqMm5U5+BoSXyy+2JdZwlputkUmUD4=;KT9UaT3ywzuCfRFLU4LN3g=="
 ---

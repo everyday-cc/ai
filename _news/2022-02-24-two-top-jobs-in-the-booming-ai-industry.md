@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/02/tv-5837826_1920.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Artificial intelligence hiring levels in the railway industry rose to a year-high in January 2022"
-    excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose significantly in January 2022 compared with the equivalent month last year. Credit: GlobalData. The proportion of railway ..."
-    publishedDateTime: 2022-02-22T14:22:00Z
-    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-rose-to-a-year-high-in-january-2022/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 39
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/02/railway-data-article-pic-1038x778.png"
-        width: 1038
-        height: 778
         isCached: true
   - title: "Artificial intelligence hiring levels in the mining industry rose in January 2022"
     excerpt: "The proportion of mining industry operations and technologies companies hiring for artificial intelligence related positions rose in January 2022 compared with the equivalent month last year."

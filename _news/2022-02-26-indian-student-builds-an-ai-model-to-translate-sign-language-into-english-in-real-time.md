@@ -59,6 +59,22 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Synthetic data for AI"
+    excerpt: "The benefits of AI are concentrated in areas where data is available.Synthetic data promises to fill the gaps."
+    publishedDateTime: 2022-02-23T09:55:00Z
+    webUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/"
+    ampWebUrl: "https://www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/23/1044965/ai-synthetic-data-2/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/tr10-synthetic-data-16x9-1.png?w=2256"
+        width: 2256
+        height: 1270
+        isCached: true
   - title: "8 Ways to Prevent Ageism in Artificial Intelligence"
     excerpt: "A new World Health Organization policy brief shares suggestions for how to make A.I. technology more equitable."
     publishedDateTime: 2022-02-25T10:32:00Z

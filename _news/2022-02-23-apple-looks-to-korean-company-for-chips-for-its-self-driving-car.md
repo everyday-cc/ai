@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/news/apple-looks-to-korean-company-for-c
 webUrl: "https://www.techradar.com/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TechRadar
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Car autopilot chip a step closer as Apple places test order with Korean company"
-    excerpt: "Such chips, which oversee AI computations, usually integrate a neural processing unit, CPU, GPU, memory as well as camera interface among other functions. Sources said Tesla, when developing its ..."
-    publishedDateTime: 2022-02-22T13:03:00Z
-    webUrl: "https://9to5mac.com/2022/02/22/apple-car-autopilot-chip/"
-    ampWebUrl: "https://9to5mac.com/2022/02/22/apple-car-autopilot-chip/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/02/22/apple-car-autopilot-chip/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 52
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/Apple-Car-autopilot-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Software-defined vehicles: Apple developing self-driving car chips with South Korean company"
     excerpt: "Software-defined vehicles: Apple developing self-driving car chips with South Korean company . February 24, 2022 by Sam Francis Leave a Commen"
     publishedDateTime: 2022-02-24T20:44:00Z

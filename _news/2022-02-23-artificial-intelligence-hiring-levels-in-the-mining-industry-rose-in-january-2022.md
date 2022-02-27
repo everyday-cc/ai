@@ -86,20 +86,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Artificial intelligence hiring levels in the railway industry rose to a year-high in January 2022"
-    excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose significantly in January 2022 compared with the equivalent month last year. Credit: GlobalData. The proportion of railway ..."
-    publishedDateTime: 2022-02-22T14:22:00Z
-    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-rose-to-a-year-high-in-january-2022/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 39
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/02/railway-data-article-pic-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Artificial Intelligence in Genomics Market Size, share |Industry forecast 2022 -2027"
     excerpt: "Market Research Engine has published a new report titled as “Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision),"
     publishedDateTime: 2022-02-26T06:54:00Z

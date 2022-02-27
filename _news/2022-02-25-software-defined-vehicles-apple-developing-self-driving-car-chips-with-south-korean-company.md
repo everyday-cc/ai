@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple Car autopilot chip a step closer as Apple places test order with Korean company"
-    excerpt: "Such chips, which oversee AI computations, usually integrate a neural processing unit, CPU, GPU, memory as well as camera interface among other functions. Sources said Tesla, when developing its ..."
-    publishedDateTime: 2022-02-22T13:03:00Z
-    webUrl: "https://9to5mac.com/2022/02/22/apple-car-autopilot-chip/"
-    ampWebUrl: "https://9to5mac.com/2022/02/22/apple-car-autopilot-chip/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/02/22/apple-car-autopilot-chip/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 52
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/Apple-Car-autopilot-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "qchiLUW2M1FGmWze15yEvr+lu3vg0A7gKuLK7POxlG7zLPRVWajYYlVQsFFYwmP94UwTwjBjo3OEXJNDBEtEXTVsgPqOzjoXDu9jxtfSMG9N0mbFgkxL2uXqrGwYgLsJP9XxJdz4lgbo15aTGfCUn05mqfnldLai/SxNBt8+nF4/z2q22oNSx1auJQmzWxbbQbeFB8Emgpeftp1t/jY87R2vNMNWkdKOdOzCn/ysVyc+PKIVZh/WY2PYjMlOlRYcccTZy2ILtX4Ld8LAVzUjzY1X5u/N4XPLusXX1LvgmunBD5R9YqUE/JQ2Xwt9SxGDcm1OH7u+UeRETxxIdwDC4fCXF5R/GiLmn0RM1SSUSbP3jEXbzpXUrBot5kq4NGNwl75AqfqndhIQaAq5iW8lq/TEHF77zRElWiShI/XXc0+LK8T6t6E14prSc8EBnZvrtiAyAglJgyUhxLQynUsUmF60WbmKHGaA2DnDF6LygfLBR18rKAZdh1CWm8J3KrwF/5enKLmBRvh0ZeFacnQo2A==;rGqpluJUQS7Ptt0SonGzLQ=="
 ---

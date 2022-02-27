@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
-    excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-    publishedDateTime: 2022-02-24T17:45:00Z
-    webUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 67
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
-        width: 1920
-        height: 982
-        isCached: true
   - title: "Proposed bill aims to put some guardrails around the use of facial recognition technology"
     excerpt: "Senate Bill 22-113 calls for the creation of the Task Force for the Consideration of Artificial Intelligence, which would take a closer look at the use of the technology by public agencies and offer recommendations for how it should be regulated."
     publishedDateTime: 2022-02-23T23:38:00Z
@@ -182,6 +166,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 30
+  - title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
+    excerpt: "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+    publishedDateTime: 2022-02-24T17:08:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944603"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 27
   - title: "Superposition reveals the disturbing reach of facial recognition tech in NYC with this interactive data visualisation project"
     excerpt: "Inside the NYPD’s Surveillance Machine allows users to plot a walking route through New York City and discover how much of it might be exposed to surveillance."
     publishedDateTime: 2022-02-23T10:28:00Z
@@ -197,6 +190,6 @@ related:
         height: 810
         isCached: true
 
-secured: "IiCocHbQ+vL5XR+MaGhvq8zLKPPIIiWEymNgNXGbr1ldgTnwAw3jFBv8agCTWH9NN0FOGvXY5Fhb9IssifGQ67hsGfk5yWNWmgWzgI22GqriK2OM0mu55MhGeHjQweJkg4Rw295ei7C7o8doF3aAEKRr3s602soNCaDuFRXEzT7f/2XVFS4lrib9E5cLArJc2uWBptUnnTceb/eaviriLCaOGBCDGDJWfkpmudH1TdKUStkUcr5MBFBOHvMBeRUOSwgpCk1QOzDb+CDiOwAq5+wWipu/sze8kjl7jjA2Q7tDcvLj13R0DTubHTvwR+RW5BsO7Jg0XX2IZknpIgsYQ4RITJYOvbPib09kWP7qN1Y=;xYiNVDr4u7cotNJpbwvAyw=="
+secured: "fjH8+KVTZAewKj5ZQPat/M39A+S0u4+heLaf9L12BG0PhQ/pdfMpk8oKFLuLO+w9+idr05p5QoX9rDvNCOR0Xg3Up4s3Li29s2HDOUlSGEqv17dRedFuO0OT0l1G4hApP9XCBxp6aCpQDoliRKiyq/KdpIp+Tx1qIv6NavwnGMfWpM6VBU2E+8Gb0seJcZ6XohfiXxE1zbJS14paJbjGVOL68inFR5DOAccdswe8ZrVqsQWlJdqIo2q0dQgi45oKSRGcvEzZ96fLw9tlUcx0YCzSxQkUFr2mPYkl0ofEofkfh4j/3Igx6f5OxwRwcXfa7jSWHYkLNYqXa87FL3qe3K/GIMG7taS99ZGVW3mtqXZsBSBuOKKdOCFMSpt4PS0VmR4kZ2CrD2DmrUnUmXKj/ZkQCNXFTkEtwV1cl5jX/Eg6isGkL7Al1fxn3zmBo8M2PEJn8V8QDrpEXJhN6vrJkGP78TDOchzWB5o8nLuRZ8QgT43MuWxkBJJ7CcH9uPOkhILzDjl5U6AYGSktM9fT8w==;1TVYRaU0E0qdDAGW9BwVrg=="
 ---
 

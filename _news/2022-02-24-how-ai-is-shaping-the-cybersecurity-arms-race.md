@@ -103,15 +103,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Avanse Financial Services Goes Live With Scienaptic's AI-Powered Credit Decisioning Platform"
-    excerpt: "Over 150 years of credit experience is embedded in Scienaptic's AI native credit decision platform. Our clients across banks, credit unions, fintech, and other lenders use the platform to constantly improve the quality of underwriting decisions."
-    publishedDateTime: 2022-02-22T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-avanse-financial-services-goes-live-with-scienaptics-ai-/2022/02/22/9549391.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "jRGnrGovBIiCFSgLMY33LejRKbWdrvRv1PhEaB65w6a+0YHah57marcYI8A4JP34lAiFCHCYsLfgq3VDqGE/Yt42c9iHoAop3jL9f2fV5vr3v8i9/oV2fWQGuvnPJnFIwxUFebAiscIQKggIN75IiHLM7yws0G0zwbEwmyNjUQ0ozXKKp7OqmF8Z0HaKTSu1tTS5klVr5RqV2cvc09zbUYMl8Fs1gs7MFABExtagoandpgtkzOvWyLITxnEmL+wuLh6ALRcjxHlEI9f2AcMoD1CamiNtf72cCFMbebapxb2HEyYicL2G4at3Xe9sVkRRE7/QNMzPFZ56IXotZ2I4Y6hZnWIs9hJv1XA3WZSeQnq8DF9ATvmy6ThMdbnIUg6VAFcRQq6jZt+G9JBnhA4nBaQKAOyTbCN/ANvmajd1smqubOzyePpGjzyuEaU1iwg7Cr75emBBJX6jJ+5crFMzLXhaaCKhFFFVZ6RKl55s2wtt5RlIRHsjm/BVbJ9OlZ9rR66mRhZp/SZHbEl7GfUq8w==;NuD27jQ3yhHbnNUPQzZjLA=="
 ---

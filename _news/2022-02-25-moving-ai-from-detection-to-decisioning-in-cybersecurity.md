@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Avanse Financial Services Goes Live With Scienaptic's AI-Powered Credit Decisioning Platform"
-    excerpt: "Over 150 years of credit experience is embedded in Scienaptic's AI native credit decision platform. Our clients across banks, credit unions, fintech, and other lenders use the platform to constantly improve the quality of underwriting decisions."
-    publishedDateTime: 2022-02-22T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-avanse-financial-services-goes-live-with-scienaptics-ai-/2022/02/22/9549391.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "JYyrR2GF/nL/qXgBeqnszfexokATRtVmfq8A2h3kUNx8Lcmax6c36UVAUF/Nysiwop9jXWHsm6gfXZVqa2tFlfjfcVFks1RSyuYjuqBeScvznku9zxU81rbDXnU/xjynk+p9xvUjmAoH2WenPsAPbB/8hNGQIDX5836Ggk0pugt8lz802FXUkygNPJc3hENtEPkfojAbTh9TaqU2L2wZtOXrBAmZbyIcyOQKUKhARxRdhm9BDA4irZJM6CUXiAnQiEgrHdFr1hC2j7gg9VpF2IQQwKtfcJpvIgYBctXE6yH6MVJBakYm73uluANYJZh6m3pOonvo5vjzpw4SpSeoZ7RVwHtwjE+eVxApj01d3PPI2Orikc7iyDpfq8C7T+B3s6pNeIZKYPDx+gu3hs82xuVroSaVR/e6JncZ2BUDTMJAOP78QdInLxqIuye3WCa1r0yQOHvkGLQwcQwcngPOglP7X57qfTjnYnP0pBOgzSBlTtn27eI1/oWgkhDAWyzeYPr2ryQx2Gy/f0yagvY0Ng==;T048gsfZFR8TirDepsj+RA=="
 ---

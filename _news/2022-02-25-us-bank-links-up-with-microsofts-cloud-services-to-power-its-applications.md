@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft working on 'Singularity' AI Cloud infrastructure service"
-    excerpt: "... service codenamed 'Singularity' that will provide data scientists and AI researchers a way to build, scale, experiment and iterate on their models on a Microsoft Azure Cloud service built specifically for AI. A group of researchers, mostly of Indian ..."
-    publishedDateTime: 2022-02-22T15:00:00Z
-    webUrl: "https://www.nationalheraldindia.com/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
-    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
-    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
-    type: article
-    provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 74
-    images:
-      - url: "https://gumlet.assettype.com/nationalherald%2F2021-04%2F8750b88e-9054-464a-9257-a0bd5475e437%2F57069775_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 940
-        height: 494
-        isCached: true
   - title: "US Bank picks Microsoft Azure for cloud migration"
     excerpt: "AI and machine learning will \"transform applications and infrastructure ... \"As US Bank's primary cloud provider, we will apply the power of Azure to help the company adapt and build new, secure experiences for customers and employees in the era ahead.\""
     publishedDateTime: 2022-02-24T00:02:00Z
@@ -257,15 +241,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
-    excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.&CloseCurlyDoubleQuote; \"More than ever ..."
-    publishedDateTime: 2022-02-22T14:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/02/22/u-s-bank-partners-with-microsoft-to-accelerate-the-future-of-banking-with-cloud"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 26
   - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
     excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.\" \"More than ever, every financial servces ..."
     publishedDateTime: 2022-02-22T16:25:00Z

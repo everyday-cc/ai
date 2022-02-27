@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft working on 'Singularity' AI Cloud infrastructure service"
-    excerpt: "... service codenamed 'Singularity' that will provide data scientists and AI researchers a way to build, scale, experiment and iterate on their models on a Microsoft Azure Cloud service built specifically for AI. A group of researchers, mostly of Indian ..."
-    publishedDateTime: 2022-02-22T15:00:00Z
-    webUrl: "https://www.nationalheraldindia.com/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
-    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
-    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/microsoft-working-on-singularity-ai-cloud-infrastructure-service"
-    type: article
-    provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 74
-    images:
-      - url: "https://gumlet.assettype.com/nationalherald%2F2021-04%2F8750b88e-9054-464a-9257-a0bd5475e437%2F57069775_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 940
-        height: 494
-        isCached: true
   - title: "US Bank links up with Microsoft's cloud services to power its applications"
     excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications to the cloud."
     publishedDateTime: 2022-02-24T17:50:00Z
@@ -265,15 +249,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "U.S. Bank Partners With Microsoft to Accelerate the Future of Banking With Cloud Computing"
-    excerpt: "Through this significant technology investment, artificial intelligence and machine learning will transform applications and ... Our cloud-first approach with Microsoft Azure will help us accomplish just that.&CloseCurlyDoubleQuote; \"More than ever ..."
-    publishedDateTime: 2022-02-22T14:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/02/22/u-s-bank-partners-with-microsoft-to-accelerate-the-future-of-banking-with-cloud"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 26
 
 secured: "gZZqg8YHE6myPMX8VPSC7HPkhOKwdMrvV4rKMRapVkWCLsJb1OejAyMZh3+WtnayhC/h37Mlm/S5U1wgLCb27fON5eVh1jrfKzifZx5l5pj2G2rQBe+er7l5ACm+y7xsM2WLGw3LSU3q6VgJU6ZfxWcRbPR9r/BG6ZFZM7M/vmitWv1k9PF+hZElmHZzI0ZDrl6D5VAk/pGRGAnhQAKOV9XxECVeNhmc49900Dqn0w9NsnHFnY92ZwQ/ceKzS2TiyNFoloS12DmPMPh8dkN1RKs4FElt+PeswfeWJO09wURScyKhakxDjEWn1Mb5qoXKqZ98p8qTDa3aeOJ2CY0XUSmF8g5OjkVG06QPn6b0goo=;VJdkBck+VjfqCkW6ijecmQ=="
 ---

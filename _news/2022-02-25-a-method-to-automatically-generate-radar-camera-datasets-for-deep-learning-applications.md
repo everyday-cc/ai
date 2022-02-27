@@ -41,34 +41,6 @@ related:
         width: 395
         height: 225
         isCached: true
-  - title: "AIs on the Prize: Competitions Foster Artificial Intelligence Applications for Naval Use"
-    excerpt: "Artificial intelligence and machine learning is one area receiving intensive attention from the Defense Department because of the increasing challenges of managing overwhelming amounts of data and making decisions in a timely manner. The challenge is made ..."
-    publishedDateTime: 2022-02-22T14:15:00Z
-    webUrl: "https://seapowermagazine.org/ais-on-the-prize-competitions-foster-artificial-intelligence-applications-for-naval-use/"
-    type: article
-    provider:
-      name: SEAPOWER
-      domain: seapowermagazine.org
-    quality: 43
-    images:
-      - url: "https://seapowermagazine.org/wp-content/uploads/2022/02/6602846-scaled.jpg"
-        width: 2048
-        height: 1447
-        isCached: true
-  - title: "U.S. Bank to move most applications to cloud over next three years"
-    excerpt: "The bank chose Microsoft Azure after going through a rigorous evaluation process ... “We'll push those first because we'll be able to better leverage AI and machine learning in the cloud,” Venkatachari said. “We also want to migrate as quickly ..."
-    publishedDateTime: 2022-02-22T13:30:00Z
-    webUrl: "https://www.americanbanker.com/news/u-s-bank-to-move-most-applications-to-cloud-over-next-three-years"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 41
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/b4cbb61/2147483647/strip/true/crop/1400x735+0+65/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fd9%2Faf%2F047f805144c592780381bcd54ffe%2Fu.S.%20Bank%20Microsoft.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AAEON partners with Hailo to enable AI applications at the edge"
     excerpt: "By reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) it will possible to provide much greater flexibility for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera ..."
     publishedDateTime: 2022-02-23T09:22:00Z

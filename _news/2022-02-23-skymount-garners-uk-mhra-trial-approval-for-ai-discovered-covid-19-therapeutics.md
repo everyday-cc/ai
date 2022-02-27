@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 787
         isCached: true
-  - title: "Skymount Medical Receives UK MHRA Approval to Test New Treatment in Patients with Mild to Moderate COVID-19"
-    excerpt: "Feb. 22, 2022 (GLOBE NEWSWIRE) — Skymount Medical, a drug discovery company using an artificial intelligence (AI ... we are pleased to expand the reach of this combination therapy internationally.” “Receiving MHRA approval for UK clinical trials ..."
-    publishedDateTime: 2022-02-22T13:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 6
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "yoX4yO2H38dl3GKOmk2NCwmKURioVhPU6C3uzj6KvaegjFJO+4MdKC04shn+nVVamT8eR2vrREH1lvXFZgsPy8hHORFG4QCzU+j/lYbmp02TFUzt66H7xvzSDM9gqS2Of+Mg2bTDmP73B3mU+A2h4jBAnU2vsTZpY6Iev0YTtADLVptBPYUtzzb4a6BgD746E+Hbi++neT3GwH23oRXSvDT4aRDjnlhyh6hU0d6Aoc9RAaWuV1oG5+7dnpaILhfXuAxFG3VpLLQPzOEnuI8fni+HUB8eS9jRrVusfLGtR15xkZDYikX+wh3YFahEfIi3rAz17M5dQUoHlVBc6cTaZS6xdGhMEapnW2vY0jWkKu4=;eDGAIpfrsf0iCww7zFdcXg=="
 ---

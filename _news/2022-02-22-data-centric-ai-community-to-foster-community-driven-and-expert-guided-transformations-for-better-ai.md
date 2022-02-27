@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "YData launches data-centric AI community for data scientists"
-    excerpt: "Register here. Chief data officers, data scientists and data analysts of all stripes may be interested in a new AI support and information community that’s debuting today. That special ..."
-    publishedDateTime: 2022-02-22T15:00:00Z
-    webUrl: "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/"
-    ampWebUrl: "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/"
+  - title: "Government to set up centres for transformational artificial intelligence"
+    excerpt: "The Ministry of Electronics and Information Technology (MeitY) on Friday said it will set up centres for transformational artificial intelligence (AI) that will collaborate with academia and industry to develop AI-based solutions."
+    publishedDateTime: 2022-02-25T12:44:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/government-to-set-up-centres-for-transformationalartificial-intelligence/article65084195.ece"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 38
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1327569482-e1645483723963.jpg?w=1200&strip=all"
-        width: 1200
-        height: 585
+      - url: "https://www.thehindubusinessline.com/incoming/zfbzry/article65084229.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_U8O6PHEKS_R1575039980_0_f86f931f-0943-4ba3-9024-6cf9fb6bda2d.jpg"
+        width: 615
+        height: 383
         isCached: true
 
 secured: "4GqMl7f0GRVd8JZQjxiRI9dBLFYzZDRKUTy6IuYDyIfXAF6QztmPKyMQ/E7trSWEkFJlFlYLFlsn4frDhaKSZfx3I3spJWZWH0A67tDlsC+t9zxWcedwbZ76qY+c4LfLuWJ4Yi6pl+J5wl6L5jhDKIvQY0IvYzsQ4qMyfv8ftdA+cxTLyzjF7DLwvDJ0x/CG+ULXx8MlnLOnYsj7qW7rqF3yNoQ6pt/EKjp9VgaKREXUCVwq/z6gUVoNsehA00MwwVBYR20y4uCplR669KjzASg15CkkZ4heFD7xXmRI60ZdfRsgVaGJHtE75g8OhH0VGYsr0xoc4H+ahpHDqnJzuXHvs4iaWMRXq+t0HHXG3zI=;CRkPCv1b2C4+ODPzx7Cs9Q=="
