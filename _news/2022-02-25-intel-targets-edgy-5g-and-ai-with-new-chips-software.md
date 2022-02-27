@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
 type: article
 quality: 74
-heat: 104
+heat: 134
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Intel expands AI developer toolkit to bring more intelligence to the edge"
+    excerpt: "The significant update to the OpenVINO toolkit is one of a series of announcements Intel is making ahead of Mobile World Congress related to software-defined networking and edge computing."
+    publishedDateTime: 2022-02-24T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Intel expands AI developer toolkit"
     excerpt: "Intel has announced it is updating the OpenVINO AI developer toolkit, which allows developers to bring a wider range of smart applications to the edges."
     publishedDateTime: 2022-02-25T13:38:00Z
@@ -70,6 +81,34 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Intel.jpeg"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T15:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for/article_9f4269f0-ad0b-58b0-818c-c6d1e66ee782.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 10
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZnSp6nvWK3Z+02r9wutrsi71tnNchCgjk/aAr4cyrnialjKQ6GpH3kU2pil73DyKe8dSJgKP+arnAfzu8iAmlFzMD5YT66ax8oYStnGQUKJXbDyHHL5X3MjI2hA5Kc6DYwUc6oRoFIC/+T66ZkxqGIOYUcu+c315eEQPDOj7OLH1Ymsfwbn1XVZc/xeX8WXHo/5uwwv++7P/J5qeBrgOhf0PDyDegU2pTkau8RABbR+tpN3wularAoMPouIf7kHnRye97GrHrsJeTnUroAPzIeGGdL6xLx9genMoZ1c5VZ0dxdvgg9cX9gyd8QGvvgU+0tr4FzqD0vYdO1o5spImIzS8D+FjJXSAdyjUXFUt4CY+H8nVkVY0IyOi+m5GILPV2U5yGTyxQ6hv5fmdhKUdOImjyxrWb0IuWXkn4AOBq+EX1BcyJYK1YY/XhuDVFSgeqNZd7KPf8PoRbaU/gZktvFZnb8S6r3zqvYITceVj4aPEbUR9tPoWqHhAvmLKIDgESc9eRkKQ8mO/p2mGRu4wbA==;c+WO4LWpWDbpRe4WJ4v1vw=="

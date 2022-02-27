@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 841
         isCached: true
+  - title: "Looking into the use of artificial intelligence in healthcare"
+    excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
+    publishedDateTime: 2022-02-24T09:00:00Z
+    webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 58
+    images:
+      - url: "https://cdn.digitalhealth.net/wp-content/uploads/2019/10/healthy-brain-mind-mental-health.jpg"
+        width: 555
+        height: 330
+        isCached: true
   - title: "Integration Of Artificial Intelligence In The Video Streaming Sector"
     excerpt: "Artificial intelligence (AI) incorporation into streaming platforms has proved to be a game-changer. It’s no surprise that we can’t imagine a day without them, with more customized user experiences and higher-quality streaming alternatives."
     publishedDateTime: 2022-02-22T21:03:00Z

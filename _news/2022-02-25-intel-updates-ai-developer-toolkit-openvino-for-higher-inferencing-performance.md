@@ -55,6 +55,17 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Intel expands AI developer toolkit to bring more intelligence to the edge"
+    excerpt: "The significant update to the OpenVINO toolkit is one of a series of announcements Intel is making ahead of Mobile World Congress related to software-defined networking and edge computing."
+    publishedDateTime: 2022-02-24T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Intel expands AI developer toolkit"
     excerpt: "Intel has announced it is updating the OpenVINO AI developer toolkit, which allows developers to bring a wider range of smart applications to the edges."
     publishedDateTime: 2022-02-25T13:38:00Z
@@ -70,6 +81,34 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Intel-expands-AI-developer-toolkit-01.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T15:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/wind-river-studio-supports-intel-socs-for-real-time-and-ai-driven-intelligent-systems-for/article_9f4269f0-ad0b-58b0-818c-c6d1e66ee782.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 10
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
+    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
+    publishedDateTime: 2022-02-24T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZgmkWBtXrZ0ZkFEAVZtgrXVlcH4jY9aOHErfwjSocJUZE8XqQKC0OUoi5n4O5lb0zyKM+9qu32LnWUOSPXkBL7CcPqZwbUPrqudP82nB7OgtRatWzUgVIGKVKuE0cqG6LV8N+adLzLM3fAw3MT000eSBHVRZyYoaYExAcDjBLgEAYNe1Uvv8tYnhXmgtCjYrmusU0sqOtfd708BhiKAC5jc8DFavYkxZCfKOKJ6hjlrAaJQ78RlQQlLH5gv+4SovAfhlSJFmk5TeAmr4Q/6gB3tjH10CGjE68a3iCkgutntMIAquTH+ftiPnRKXsVNCpn4SKbjkba5dAT9+9onSmbUvlykEEjVqca3I9H2zutFE=;e2IJnRlAgB5I+jGVahKHDg=="

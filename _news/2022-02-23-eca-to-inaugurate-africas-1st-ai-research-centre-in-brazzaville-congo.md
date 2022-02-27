@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-xl/africa/other/eca-to-inaugurate-africa-s-
 webUrl: "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/"
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.theeastafrican.co.ke/resource/blob/3727824/178cc6dfef48c8f3452d3003ff93d193/ai-research-center-data.jpg"
         width: 960
         height: 480
-        isCached: true
-  - title: "How AI is being used to stop poaching in Africa"
-    excerpt: "Scientists have developed Artificial Intelligence systems that are being used to reduce poaching in Africa. These systems use and learn from information on where the poaching is taking place to help protect the animals. According to a recent report ..."
-    publishedDateTime: 2022-02-22T11:34:00Z
-    webUrl: "https://www.getaway.co.za/travel-news/how-ai-is-being-used-to-stop-poaching-in-africa/"
-    type: article
-    provider:
-      name: Getaway Magazine
-      domain: getaway.co.za
-    quality: 39
-    images:
-      - url: "https://www.getaway.co.za/wp-content/uploads/2019/04/Approaching-Storm-Elephants-by-Mark-Dumbleton-637x768.jpg"
-        width: 610
-        height: 319
         isCached: true
 
 secured: "/HeUYSAujehV9tfDHqklZq6yuFU+5nR3JYggTB8gDqfW/kBe9GZBFfGq+cEJ2meuZuycctrMc65Aeil1nIEKPAzR3c8z7eyQ2/JWyFokm/ReJvSOqsKb48u8rkgjtBGas0pvUquhLotE7TZ+7KvUMO26ZFlOor2O4M8UeH8Nfr27r/1Qoi7IE+mrKzceZb0sHIlVY/6kfdaisRTQd2SXaXs6tzB/9IPjw6efexgxtDJ4XWYpRKluElytF/d7wCJKUyceYDKkN0m6W48RnJ7qq4ph1uE4dmfzLBDMGwS8EZIk58IYLeisz3qTGJMkvJIrGhiQLHluc2DKCMvA9d1AVbMC9yImJ14pnfhGznhzsWU=;MftsJCmTsoBHNJQ9SCU9cw=="

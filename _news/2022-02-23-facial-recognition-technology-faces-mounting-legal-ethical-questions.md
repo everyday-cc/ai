@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Facial recognition technology faces mounting legal, ethical questions"
-excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021."
-publishedDateTime: 2022-02-23T00:06:00Z
-originalUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-webUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
-ampWebUrl: "https://www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
-cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+excerpt: "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services."
+publishedDateTime: 2022-02-22T21:06:00Z
+originalUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+webUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions"
+ampWebUrl: "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true"
 type: article
 quality: 76
 heat: 196
 published: true
 
 provider:
-  name: KERO-TV
-  domain: turnto23.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - Computer Vision
@@ -197,6 +197,6 @@ related:
         height: 810
         isCached: true
 
-secured: "uEt5Ss3CE44d/V0wvknE50YWmMCHQWMCUN8UCl+2ZoA31wWwsZwZ95y7uDi1KMez+ixsxQpwgz34Rbh5/9RmM5DJ7HX98e4UMjcZKGxhEQjx4O8PnK+/wh6KcIx2kNOgy7RAVA874DUS+H0HRyOsN1Q4M0vkW1QTwiejYBJvEAzDY6QBugmoJpA3Rwfd1Ed4f13C3gV9vhSdi21RG35v4JVS4MWylAMIgMB+LabtS35VE8bOGwNk9c2iQXuMd11GiZZR8GgMey4XlFNhr2Rn+Pe7I2Ewy0kaM+xxav8UKJiBVtY5xBsBTTK6aSFalcjfPTfolwjXBbIloV3cUxwB4dw5FQhKeLwio5YFxhuMferVBh4CO9sFwiSg4YJoWKXQnPfIVxutg6DtSl6xDr8bsUCCmeiTsgccAvsxFnw4dsta8MScg+1Rpczim3to+oyICGQVY39/f+09gYId1ns84JcQuio+AJUjVYLAGJsTfePpscij+YYvf35gCpN/1OM63qE7HL9JOT4SO44BXbIkMg==;b7eoAs3IhVLwzB5QUsOcQA=="
+secured: "IiCocHbQ+vL5XR+MaGhvq8zLKPPIIiWEymNgNXGbr1ldgTnwAw3jFBv8agCTWH9NN0FOGvXY5Fhb9IssifGQ67hsGfk5yWNWmgWzgI22GqriK2OM0mu55MhGeHjQweJkg4Rw295ei7C7o8doF3aAEKRr3s602soNCaDuFRXEzT7f/2XVFS4lrib9E5cLArJc2uWBptUnnTceb/eaviriLCaOGBCDGDJWfkpmudH1TdKUStkUcr5MBFBOHvMBeRUOSwgpCk1QOzDb+CDiOwAq5+wWipu/sze8kjl7jjA2Q7tDcvLj13R0DTubHTvwR+RW5BsO7Jg0XX2IZknpIgsYQ4RITJYOvbPib09kWP7qN1Y=;xYiNVDr4u7cotNJpbwvAyw=="
 ---
 

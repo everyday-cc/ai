@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "Business Leaders and Researchers Discuss Future of Deep Learning at the Institute for AI and Beyond’s 2nd International Symposium"
+    excerpt: "The Institute for AI and Beyond held its 2nd International Symposium virtually on February 12, 2022. Among the topics discussed were the strides deep learning has made over the past decade, what we can expect to see in the future,"
+    publishedDateTime: 2022-02-25T02:00:00Z
+    webUrl: "https://www.softbank.jp/en/sbnews/entry/20220225_01"
+    type: article
+    provider:
+      name: SoftBank
+      domain: softbank.jp
+    quality: 25
+    images:
+      - url: "https://cdn-ak.f.st-hatena.com/images/fotolife/s/sbn_16/20220224/20220224111459.png"
+        width: 780
+        height: 436
+        isCached: true
   - title: "Editorial for the special issue on \"Transforming public health through artificial intelligence, machine learning and internet of things\"."
     excerpt: "In recent years, information technologies such as Artificial Intelligence (AI), Machine Learning (ML) and Internet of Things (IoT) have received unprecedented attention and have caused profound changes in traditional lifestyles."
     publishedDateTime: 2022-02-23T02:33:00Z

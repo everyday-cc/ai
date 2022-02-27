@@ -43,34 +43,6 @@ related:
         width: 1024
         height: 852
         isCached: true
-  - title: "Neosapience Secures $21.5 Million Series B to Bring AI-Powered Virtual Actors to Content Creators Everywhere"
-    excerpt: "SEOUL, Korea, Feb. 22, 2022 /PRNewswire-PRWeb/ -- Neosapience, a startup that operates AI-powered virtual actor service Typecast, which uses AI to create synthetic voices and videos, today announced it has received $21.5 million in Series B funding."
-    publishedDateTime: 2022-02-22T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neosapience-secures-21-5-million-series-b-to-bring-ai-powered-virtual-actors-to-content/article_77f3aefb-d048-5d9a-8db4-174d9dc4d9a7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Neosapience's Typecast Service Breaks New Ground With the First Commercially Available AI-Powered Voices That Rap and Sing Even Better Than Humans"
-    excerpt: "SEOUL, Korea, Feb. 22, 2022 /PRNewswire-PRWeb/ -- Neosapience, a startup that operates AI-powered virtual actor service Typecast, which uses AI to create synthetic voices and videos, today announced two new offerings that will advance the world of content ..."
-    publishedDateTime: 2022-02-22T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neosapiences-typecast-service-breaks-new-ground-with-the-first-commercially-available-ai-powered-voices-that/article_6095b874-7564-5f09-99a1-bfc4a9b1fa87.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "Tv4EV0jeCoOr7pV43cPKhBf1R4SmjD1gojSd7d4qgg093zwplWtzBhdpVPIFpXfOBcd5EtUt280YgwjFC+g/+GHZDGCRq1/u0k8twLw6xzfxIihre03K6z9SVDrsnZ9/38LzHgYoarLWK/okeoW3HBIoLvr+elgoZeHPzlKJmTh9/BLxCzzUYtJ3t6Wj2NoUKr5613wqtwBQKup6lSyKkxnjNCKyFBAaO8QhHkCh3NNRveetKfCUROobx7ynaeMvAFENhcfWxB0eaPqSungFubBX4Piyv7pQJUrJ2KXQfaJh1Ytl9clFKMZGpxnMpsozQTgjY3fS9pupJCYB8dbWIyB9CNrPbQOcXz0EjcujtfWADy0CZiZRhGZkftgAjZ4vtZ+FLsJPTvuAZrRb1cYn5KGaYtyJUBJgHYlayZORI3iBic4Fun+/oXACEYxk7nE3IcrHHCDGVSd+IsyxMD4W5l4G5PcRWJJY+SPRPF0V52ftN+yPkWFm7tv3ubadRPyaxL12ZJqyMXzDwdA3tJyjIA==;zJ70FZ2NRNE1IhxP83sfUw=="
 ---

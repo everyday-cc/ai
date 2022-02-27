@@ -55,22 +55,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "In Hour-Long TV Speech, Putin Announces Russia’s Recognition of Ukraine-Held Rebel Areas"
-    excerpt: "Moscow: Russia announced on Tuesday that its recognition of independence for areas in eastern ... Putin announced the move in an hour-long televised speech, blaming the US and its allies for the current crisis and describing Ukraine's bid to join NATO ..."
-    publishedDateTime: 2022-02-22T12:33:00Z
-    webUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas"
-    ampWebUrl: "https://www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
-    cdnAmpWebUrl: "https://www-newsclick-in.cdn.ampproject.org/c/s/www.newsclick.in/Hour-Long-TV-Speech-Putin-Announces-Russia-Recognition-Ukraine-Held-Rebel-Areas?amp"
-    type: article
-    provider:
-      name: Newsclick
-      domain: newsclick.in
-    quality: 50
-    images:
-      - url: "https://www.newsclick.in/sites/default/files/2018-12/Putin_0.jpg"
-        width: 600
-        height: 340
-        isCached: true
   - title: "Putin calls for recognition of Crimea as Russia"
     excerpt: "MOSCOW (AP) — Russian President Vladimir Putin called Tuesday for international recognition of Crimea as part of Russia ... Putin reiterated those accusations in an hourlong televised speech on Monday, when he announced that Russia would recognize ..."
     publishedDateTime: 2022-02-22T15:51:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://www.thereporteronline.com/wp-content/uploads/2022/02/Russia_Ukraine_Tensions_72618-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Russia’s recognition of Ukraine’s breakaway regions 'unacceptable': Turkish president"
-    excerpt: "In a speech late Monday, Putin announced the recognition of the separatist regions of Luhansk and Donetsk, also attacking Ukraine’s government and accusing the West of ignoring Moscow’s core security concerns. Later, he ordered the deployment of ..."
-    publishedDateTime: 2022-02-22T11:31:00Z
-    webUrl: "https://www.aa.com.tr/en/politics/russia-s-recognition-of-ukraine-s-breakaway-regions-unacceptable-turkish-president/2509987"
-    type: article
-    provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 32
-    images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/02/22/thumbs_b_c_27a88d0c1b03a8a195cf1b18a7292313.jpg?v=142428"
-        width: 864
-        height: 486
         isCached: true
   - title: "EU lays out sanctions package over Russian recognition of Ukraine’s separatist regions"
     excerpt: "Russian President Vladimir Putin announced Moscow’s recognition of the regions in a speech on Monday in which he also attacked Ukraine’s government and the US and accused the West of ignoring Moscow's core security concerns. Along with Russia’s ..."

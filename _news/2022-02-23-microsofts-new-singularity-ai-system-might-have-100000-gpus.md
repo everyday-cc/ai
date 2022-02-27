@@ -9,8 +9,8 @@ ampWebUrl: "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Foss Bytes
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft reveals ‘Singularity’ AI infrastructure service"
-    excerpt: "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ..."
-    publishedDateTime: 2022-02-22T12:22:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft Paper Details Its ‘Singularity’ Artificial Intelligence Infrastructure Service"
     excerpt: "Software Company, Microsoft has shown how it operates ‘Singularity”, its planet-scale distributed scheduling services for Artificial Intelligence workloads presented by"
     publishedDateTime: 2022-02-23T14:04:00Z

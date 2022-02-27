@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-i
 webUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl"
 type: article
 quality: 52
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/b4cbb61/2147483647/strip/true/crop/1400x735+0+65/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fd9%2Faf%2F047f805144c592780381bcd54ffe%2Fu.S.%20Bank%20Microsoft.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AAEON partners with Hailo to enable AI applications at the edge"
+    excerpt: "By reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) it will possible to provide much greater flexibility for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera ..."
+    publishedDateTime: 2022-02-23T09:22:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/aaeon-partners-with-hailo-to-enable-ai-applications-at-the-edge"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/nxillrud/ai.jpg"
+        width: 730
+        height: 411
         isCached: true
   - title: "Patriot One Technologies secures contract to create AI-powered full motion video detection application"
     excerpt: "Patriot One Technologies has announced it was awarded a contract worth nearly US$ 1 million CAD with Canada’s Department of National Defence (DND), to further develop an artificial"

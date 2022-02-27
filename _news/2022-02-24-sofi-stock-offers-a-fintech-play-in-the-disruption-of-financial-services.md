@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services?amp"
 type: article
 quality: 53
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://bdaily.co.uk/images/uploads/cMGkDvMLcDfY9HdRxa4QQDUmvv56qrfuUg5oLX6n.jpeg?w=940&h=430&fm=jpg&fit=crop-51-40&s=f05b2d90c663aa4baadf3a9802224ff0"
         width: 940
         height: 430
-        isCached: true
-  - title: "Open Letter from FinTech CEOs and Founders from Innovate Finance’s Membership Community"
-    excerpt: "In the Budget the Chancellor also confirmed that R&D tax credits for innovation will be extended to data and cloud computing (boosting investment in FinTech such as AI, open banking and SaaS) and allocated £160 million for the British Business Bank to co ..."
-    publishedDateTime: 2022-02-22T11:14:00Z
-    webUrl: "https://financialit.net/news/it-innovations/open-letter-fintech-ceos-and-founders-innovate-finances-membership-community"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 31
-    images:
-      - url: "https://financialit.net/sites/default/files/featured-image.png"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Open Finance and Green Fintech Among Swiss Federal Council Top Areas of Focus for Coming Years"
     excerpt: "A new report released by the Federal Council on February 2, 2022 identifies opportunities and risks relating to digital finance, and outlines 12 specific areas of action for the government, among which open finance,"

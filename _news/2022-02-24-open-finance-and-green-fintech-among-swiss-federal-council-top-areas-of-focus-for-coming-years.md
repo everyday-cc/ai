@@ -98,20 +98,6 @@ related:
         width: 940
         height: 430
         isCached: true
-  - title: "Open Letter from FinTech CEOs and Founders from Innovate Finance’s Membership Community"
-    excerpt: "In the Budget the Chancellor also confirmed that R&D tax credits for innovation will be extended to data and cloud computing (boosting investment in FinTech such as AI, open banking and SaaS) and allocated £160 million for the British Business Bank to co ..."
-    publishedDateTime: 2022-02-22T11:14:00Z
-    webUrl: "https://financialit.net/news/it-innovations/open-letter-fintech-ceos-and-founders-innovate-finances-membership-community"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 31
-    images:
-      - url: "https://financialit.net/sites/default/files/featured-image.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "FinTech FeeX Secures $80M in New Investment, Changes Name to Pontera"
     excerpt: "New name for held away account platform reflects aspiration to be the bridge to a better retirement for millions of AmericansNEW YORK--(BUSINESS WIRE)--FeeX, the financial technology company that enables financial advisors to securely manage their clients’ retirement accounts and other held away assets,"
     publishedDateTime: 2022-02-23T11:00:00Z

@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AAEON partners with Hailo to enable AI applications at the edge"
+    excerpt: "By reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) it will possible to provide much greater flexibility for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera ..."
+    publishedDateTime: 2022-02-23T09:22:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/aaeon-partners-with-hailo-to-enable-ai-applications-at-the-edge"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/nxillrud/ai.jpg"
+        width: 730
+        height: 411
+        isCached: true
   - title: "Patriot One Technologies secures contract to create AI-powered full motion video detection application"
     excerpt: "Patriot One Technologies has announced it was awarded a contract worth nearly US$ 1 million CAD with Canada’s Department of National Defence (DND), to further develop an artificial"
     publishedDateTime: 2022-02-24T09:47:00Z

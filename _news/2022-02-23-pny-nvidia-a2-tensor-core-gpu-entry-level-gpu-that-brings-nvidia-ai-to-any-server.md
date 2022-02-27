@@ -43,20 +43,6 @@ related:
         width: 711
         height: 399
         isCached: true
-  - title: "How VMware & NVIDIA are Unleashing AI for Every Enterprise"
-    excerpt: "Over the past few years, we’ve seen VMware and NVIDIA’s long-time partnership going from strength to strength. Here are some of the major innovations and joint solutions that are globally available fo"
-    publishedDateTime: 2022-02-22T11:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-vmware-nvidia-unleashing-ai-every-enterprise-lauren-browne"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpW9_XWUDWYg/article-cover_image-shrink_600_2000/0/1645529788492?e=1651104000&v=beta&t=c6c2-7zZDbZJ4iNqbZxY5IrVFwtSGwwbhgOzsXUywgE"
-        width: 744
-        height: 400
-        isCached: true
   - title: "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications"
     excerpt: "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program,"
     publishedDateTime: 2022-02-22T15:02:00Z

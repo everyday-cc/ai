@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-
 webUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Bytes: New Macs, IRS facial recognition, Insta time limits"
-    excerpt: "The IRS is now allowing taxpayers to opt-out of using its facial recognition technology. People who want to access their online accounts can choose to verify their identity with a live, virtual interview. The IRS recently announced it would “transition ..."
-    publishedDateTime: 2022-02-22T11:32:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-new-macs-irs-facial-recognition-insta-time-limits/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
-        width: 1001
-        height: 563
-        isCached: true
   - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
     publishedDateTime: 2022-02-23T20:28:00Z

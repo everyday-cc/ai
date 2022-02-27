@@ -25,35 +25,65 @@ topics:
   - AI
 
 related:
-  - title: "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare"
-    excerpt: "To be clear, much of what is commonly dubbed \"artificial intelligence\" today doesn't really live up to the definition. In healthcare, particularly, plenty of purportedly AI-powered solutions merely represent long-overdue IT automation implementations."
-    publishedDateTime: 2022-02-22T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/"
+  - title: "Intel targets edgy 5G and AI with new chips, software"
+    excerpt: "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing."
+    publishedDateTime: 2022-02-25T14:35:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 92
+      name: theregister
+      domain: theregister.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6205174d5de155a4329ea195/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 800
+      - url: "https://regmedia.co.uk/2022/02/24/handout_intel_xeon_d_2700.jpg"
+        width: 1920
+        height: 690
         isCached: true
-  - title: "Looking into the use of artificial intelligence in healthcare"
-    excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
-    publishedDateTime: 2022-02-24T09:00:00Z
-    webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/"
+  - title: "Intel expands its AI developer toolkit"
+    excerpt: "Ahead of MWC 2022, Intel has released a new version of the Intel Distribution of the OpenVINO toolkit which induces major upgrades to accelerate AI inferencing performance. Since the launch of OpenVINO in 2018,"
+    publishedDateTime: 2022-02-26T00:30:00Z
+    webUrl: "https://www.techradar.com/news/intel-expands-its-ai-developer-toolkit"
     type: article
     provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 58
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
     images:
-      - url: "https://cdn.digitalhealth.net/wp-content/uploads/2019/10/healthy-brain-mind-mental-health.jpg"
-        width: 555
-        height: 330
+      - url: "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
+  - title: "Intel expands AI developer toolkit"
+    excerpt: "Intel has announced it is updating the OpenVINO AI developer toolkit, which allows developers to bring a wider range of smart applications to the edges."
+    publishedDateTime: 2022-02-25T13:38:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/intel-expands-ai-developer-toolkit/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/intel-expands-ai-developer-toolkit/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/intel-expands-ai-developer-toolkit/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Intel-expands-AI-developer-toolkit-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Intel updates AI developer toolkit OpenVINO for higher inferencing performance"
+    excerpt: "Intel has updated its OpenVINO toolkit to bring expanded natural language processing (NLP) support, added device portability on your hardware, and higher inferencing performance. The tool is used to develop applications and solutions to tackle a range of tasks including emulation of human vision,"
+    publishedDateTime: 2022-02-25T11:56:00Z
+    webUrl: "https://analyticsindiamag.com/intel-updates-ai-developer-toolkit-openvino-for-higher-inferencing-performance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 35
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Intel.jpeg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
     excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
