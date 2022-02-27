@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS will let tax payers opt out of facial recognition, but there's a big catch"
-    excerpt: "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID."
-    publishedDateTime: 2022-02-22T20:00:00Z
-    webUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
     excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
     publishedDateTime: 2022-02-23T20:28:00Z

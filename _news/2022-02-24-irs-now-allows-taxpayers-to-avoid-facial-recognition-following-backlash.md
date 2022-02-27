@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpaye
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Penn Live
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS will let tax payers opt out of facial recognition, but there's a big catch"
-    excerpt: "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID."
-    publishedDateTime: 2022-02-22T20:00:00Z
-    webUrl: "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "IRS Lets Taxpayers Opt Out Of Facial Recognition After Backlash"
     excerpt: "The Internal Revenue Service will continue using controversial facial recognition software for the rest of the current tax-filing season to verify taxpayers' identities before they can log on to its website."
     publishedDateTime: 2022-02-22T22:27:00Z

@@ -198,20 +198,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "U.S. Bank links up with Microsoft's cloud services to power its applications"
-    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications over to the cloud. The nation's fifth-largest bank, based in Minneapolis, announced Tuesday that it will migrate that infrastructure to Microsoft Azure,"
-    publishedDateTime: 2022-02-22T21:00:00Z
-    webUrl: "https://www.startribune.com/u-s-bank-links-up-with-microsofts-cloud-services-to-power-its-applications/600149477/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 53
-    images:
-      - url: "https://chorus.stimg.co/22761934/merlin_63268050.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Construction Market Will Hit Big Revenues In Future | Oracle, Microsoft, Alice Technologies"
     excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence in Construction Market Insights, to 2027” with 232 pages"
     publishedDateTime: 2022-02-24T08:49:00Z

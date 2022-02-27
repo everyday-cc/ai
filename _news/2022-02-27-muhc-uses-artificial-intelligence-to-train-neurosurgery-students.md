@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/montreal/2022/2/26/1_5797818.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/montreal/2022/2/26/1_5797818.html"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

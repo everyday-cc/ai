@@ -7,7 +7,7 @@ originalUrl: "https://gulfnews.com/uae/science/video-dubais-museum-of-the-future
 webUrl: "https://gulfnews.com/uae/science/video-dubais-museum-of-the-future-hosts-discussion-on-human-robot-collaboration-1.1645868617194"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "VIDEO: Meet Ameca, the humanoid robot"
-    excerpt: "Robotic technology can do a lot these days, from vacuuming your house to making meals and even driving cars. Now, British engineers are upping their game by developing human-like robots that are"
-    publishedDateTime: 2022-02-22T19:29:00Z
-    webUrl: "https://www.wearecentralpa.com/news/science-and-space/video-meet-ameca-the-humanoid-robot/"
-    ampWebUrl: "https://www.wearecentralpa.com/news/science-and-space/video-meet-ameca-the-humanoid-robot/amp/"
-    cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/news/science-and-space/video-meet-ameca-the-humanoid-robot/amp/"
+  - title: "Second session of Museum of the Future's 'Future Talks' discusses how humans and robots can work together to explore oceans and space"
+    excerpt: "Pioneering professor behind OceanOne delivers second ‘Future Talks’ session at the Museum of the Future, explains why our oceans hold the answers to critical existential questions Museum of the Future opening ‘marks a great moment in the advancement of tech’ - Professor Oussama Khatib,"
+    publishedDateTime: 2022-02-25T16:16:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Second_session_of_Museum_of_the_Futures_Future_Talks_discusses_how_humans_and_robots_can_work_together_to_explore_oceans_and_space-ZAWYA20220225150320/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220225150320/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220225150320/"
     type: article
     provider:
-      name: WEARECENTRALPA
-      domain: wearecentralpa.com
-    quality: 59
-    images:
-      - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2022/02/6BF27435D3959AF07101B762A974E1F0.jpg?w=1280"
-        width: 800
-        height: 450
-        isCached: true
+      name: Zawya
+      domain: zawya.com
+    quality: 8
 
 secured: "8lXeNjAeoRCJ+Du4Zmb/vkUATfSnfrMSQgDBf+Pl6LzgO87sBrIoA1JvDWkbvgINiSJp+eLYP4HI+N2l3oqoQsxjO1fru4mPeCUorjzGMMAPh1IBTNMagMAWa8Xtl/LBvNJGr12VvTt5VnItWUbsKVYz0e/opwWU04CG2ABb+nOoQxuU57ZjbSBzToO2dKEuHq4HVivSm+3YT3zwy6XjTLGV1wf7W0QNj6UzBx+O6KHVCHcBJ1jK/MmbsvYLlXPZWgIjtyGb80SauyVAB1Nxh+AoaMVs7zuoR4C0HzRvwS7MSpakBSviTTLpupMFB8uDuPTFySSk6QIwY0AhpUMgRD7vMgx2h+QCkApszo+zSBQ=;cdl2r+r9xYAI/hiopX35fg=="
 ---

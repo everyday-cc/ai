@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/in/news/microsoft-defender-now-offers-pr
 webUrl: "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud"
 type: article
 quality: 99
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -188,20 +188,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
         width: 473
         height: 315
-        isCached: true
-  - title: "U.S. Bank links up with Microsoft's cloud services to power its applications"
-    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications over to the cloud. The nation's fifth-largest bank, based in Minneapolis, announced Tuesday that it will migrate that infrastructure to Microsoft Azure,"
-    publishedDateTime: 2022-02-22T21:00:00Z
-    webUrl: "https://www.startribune.com/u-s-bank-links-up-with-microsofts-cloud-services-to-power-its-applications/600149477/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 53
-    images:
-      - url: "https://chorus.stimg.co/22761934/merlin_63268050.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
     excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."

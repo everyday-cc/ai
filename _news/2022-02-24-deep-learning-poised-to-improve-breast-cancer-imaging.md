@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Deep learning poised to improve breast cancer imaging"
-excerpt: "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. \"The near infrared spectral tomography (NIRST) and MRI imaging ..."
-publishedDateTime: 2022-02-24T15:03:00Z
-originalUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html"
-webUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
+excerpt: "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. In Optica, Optica Publishing Group’s journal for high-impact ..."
+publishedDateTime: 2022-02-24T15:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944066"
+webUrl: "https://www.eurekalert.org/news-releases/944066"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-poised-t.jpg"
-    width: 1200
-    height: 675
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0ae14217-666d-4f6f-8604-0611f535c7ac/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
     isCached: true
 
 related:
@@ -60,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "RblgCBLDNJ93nZwz9jcqVyhKC/f34kYjUqzA/GaLmW7aSJ4QW6VPCECUOa51ZenR0PymHfsyNfD9jLfq2Vopil326iNVYKFX1Mlfu8PbbVnutX2hUkbEHKCFuBhcrd5RipXVx6QmnQkjWJINXkYbO+LcE0le4ijDJQY28SKFMqt7aYLpyJELvqYoDKkslbV2oZ0HSv6Em+kMPczctAVuxyNkD874xFhUJ0ZuZLgiEUCJHtP1iIO7H9xFoXAHXVZyLBOA3TFAYpUHsnl2gkUA4WsBzDPAXBrct8PkqIK6dITNJ446SmdbwxXdo9w3HOAVzTkGW8jXIixV0oMl9zYQQCWenmwGL4Ja00OIwbQkNMM=;EeEiO0+H76bHsbcE+fMcVg=="
+secured: "OoFWfCSCU3TXBnjbu2ywdyi1ZYvBTWjtkOS3hxxEZAC7tQ0RHJQHMP1C7hOIDFRHfmubcjsESoToj1wtKyEoc5jM6y/xxrmicCNKVi1zq7L8MQZgSp9t2rytWsxsiWsu0bBur3DTL0pzTZqqE7zPfdCYJziATyeFcIHoH6CWLA2Q+Hcto9Kr0DYaCmiHnJq2FzUjeCEaav1p/csJffrvnyvl/e9Jhr8J+riqr55QmUpczwnxOKtz4/2PpFKKfmAR0xIiAaMZ6hDOo20qvMdMaZgKF20jLxRBsQ5Mu83+vrbwpM9ZJhb3p79Z5SP5x8Akaei8o/edHvX5EHZHbXNm1yHYuCbmK772xHhc7akRkZI=;q9l3P+Uoyl4C980uTkWS/A=="
 ---
 

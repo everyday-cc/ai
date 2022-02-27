@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/02/220222135432.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/02/220222135432.htm"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Monitoring Arctic permafrost with satellites, supercomputers, and deep learning"
-    excerpt: "Permafrost—ground that has been permanently frozen for two or more years—makes up a large part of the Earth, around 15% of the Northern Hemisphere."
-    publishedDateTime: 2022-02-22T20:31:00Z
-    webUrl: "https://phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.html"
-    ampWebUrl: "https://phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-arctic-permafrost-satellites-supercomputers-deep.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/monitoring-arctic-perm.jpg"
-        width: 550
-        height: 202
-        isCached: true
 
 secured: "xOLz+bSa7DrdtRC58BZa4twVnNWNLucm4ZR0y1xXHUYKra9ezDRimuz+utUCMhsM6A3zRizUHZqv9Uz7B02rN8OIwC/QUV9MYVhvTPugHnU0U7ufRTElbyyouhwzP5AEF5KPNN4bXez55BUzcMgJMfRAt6wUW/tFwlZTn8W2CgYDkHwLxVQPPp5Sx9zYiNk3HARWdq0bVJgoLs7pCm1l5epHTAGelr4IZzniMM/2jrko9H5Efv8rbHDzVvPVFyc1A01o3w6p9PKbolhaOBm+LwlA8254o2Xf/H4FKADw+6Rg4CZoUmXHQvQXIp+lb/zn3S0819KhJbckwypitrISvhnwKzeORIiNoeeWPUOPJCA=;4dUXYDjk8mvfwvLB/944qw=="
 ---
