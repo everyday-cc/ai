@@ -151,20 +151,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Fintech in the Metaverse"
-    excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
-    publishedDateTime: 2022-02-23T11:55:00Z
-    webUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/img_7407.jpeg"
-        width: 3024
-        height: 3236
-        isCached: true
 
 secured: "8YsSF6WWWEeTWzGi5NbJnypGWkl7KT4YAQ2rlVgnZELZjSRJF8JSML40nAN5yalDdbaaKRtueWQAUFsqVOfinT6lcdL8E+yxRTX5AAm9lUb2z8OvZRjsAZjoxveddMhjpwE1hDFrt3XWv/iBm8z1tiCVY2YczyRvMD2LKb8lmLsFAOK6GHQw9cLhBFp1PqkofJ7dUoHCAxY9gfE/PuFNXS0jOlkJE/FXTLAGfuSpbVfPZ4+zYgCH8VFzY80odFJ/bKHrvn3AdVNzxpz2ZvOlDYxyklfh8X5MahsKTlvHXC0N3dKanolW4MTGsfoT2gd0wrDiVU+Rq3V0ppUSQjtzjAZwa1V5/d334GNr0VXlBFE=;nqZ1VEM/2uz/HrEg6sQGDw=="
 ---

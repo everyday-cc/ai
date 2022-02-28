@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-tor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/"
 type: article
 quality: 108
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     width: 1200
     height: 455
     isCached: true
-
-related:
-  - title: "Natural Language Processing: The Next Frontier in AI for the Enterprise"
-    excerpt: "The power and practicality of artificial intelligence is largely undisputed. However, one of its longest-standing difficulties continues to be human"
-    publishedDateTime: 2022-02-23T13:00:00Z
-    webUrl: "https://www.datanami.com/2022/02/23/natural-language-processing-the-next-frontier-in-ai-for-the-enterprise/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/shutterstock_nlp.jpg"
-        width: 1000
-        height: 533
-        isCached: true
 
 secured: "Tc5wo7AHhWkUhKGWFgd4c8+Kv9EZ2gjh8+tlWa0SOX5GIEtfeLYj3N5PdkdqY8u+k5trxjkuwVG35Z2n/WWkdJK1Dw4PJ4InVaNjlSHKsnLG0eoIwMxZSD82m7lzEYXhPXm930na78PGdecq2QmxdknmtiJzajd1KDIBZRAibk1oeNDVNEYEOFbXkTrRh18DMEWBk/CXiYH3NuB2jPfTGnaisclcqtFRMdWZP8OlwkirYrIV97NV0WpOP+fj2hQymA/hR25acQai4qMKRy5poQBQODoDtSKnrGHRtGtHlDAIo0AJ75kpHVdFGuO3xabdHvJTv/OVfiFbiAkjmd/U0K9/l3EMTE9BtDPounb+LwZ00bSqZjlspp7X8x8g7urrmS/DGxekmszvKo1noFL8o60BPE3HOEmNecUOJUy0EMqOtU8JJqFDHXdruXIZEnCki6n/bWgNwwcVZUbt3Xgkbay5Qe7Dtv+X10pKu+VaKvfoYlcQ0WZb6Uz5ZyjAxF1qC7MjOFl7L0Vlnulx+iDi6Q==;LS8xhv0FikNva7TzUzKguQ=="
 ---

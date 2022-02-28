@@ -2,6 +2,144 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-02-11-telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits.md",
+      "title": "Telemedicine and artificial intelligence, a pairing brimming with benefits",
+      "excerpt": "This support to be provided by artificial intelligence in the world of healthcare stems from the amount of computer data available, whose management now lies beyond human capacity and which requires new tools to organise and understand them. Chatbots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/",
+      "originalUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/01/pexels-negative-space-48604.jpg",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/",
+      "cdnAmpWebUrl": "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/",
+      "publishedDateTime": "2022-02-11T00:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telefonica",
+        "domain": "telefonica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability.md",
+      "title": "Dynatrace transcends multi-cloud serverless for near-omniscient observability",
+      "excerpt": "but of course it means the application of Artificial Intelligence (AI) to the operations (Ops) functions inside modern cloud-centric IT departments. Why the aye-oop AIOps clarification?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability",
+      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2022/02/Capture-1.jpg",
+          "width": 580,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-deepdub-raises-20m-for-ai-powered-dubbing-that-uses-actors-original-voices.md",
+      "title": "Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices",
+      "excerpt": "With Deepdub, the aim is to bridge the language barrier ... including the translation, the adapting, and the mix. In other words, it’s not just an AI platform, it’s a full business that ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/",
+      "originalUrl": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/59cDtx-XFPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/amp/",
+      "publishedDateTime": "2022-02-10T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-exclusive-report-by-fortune-business-insights.md",
       "title": "Speech and Voice Recognition Market Worth USD 28.3 Billion by 2026 – Exclusive Report by Fortune Business Insights™",
       "excerpt": "Speech and Voice Recognition Market Size, Share & Industry Analysis, By Component (Solution, Services), By Technology (Voice Recognition, Speech Recognition), By Deployment (On-Premises ...",
@@ -1051,134 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-facial-analysis-improves-diagnosis.md",
-      "title": "Facial analysis improves diagnosis",
-      "excerpt": "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible ... this varies from disease to disease. Artificial intelligence (AI) uses these ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/facial-analysis-improv.jpg",
-          "width": 1051,
-          "height": 1388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
-      "publishedDateTime": "2022-02-10T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-three-daily-it-chores-where-artificial-intelligence-ai-can-help.md",
-      "title": "Three Daily IT Chores Where Artificial Intelligence (AI) Can Help",
-      "excerpt": "Automation and artificial intelligence are not new concepts, but recent technological advancements are pushing the limits of what robots can accomplish. Here are the top three ways AI can aid teams, businesses, and customers by automating tedious IT ...",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/",
-      "originalUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Three-Daily-IT-Chores-Where-Artificial-Intelligence-AI-Can-Help-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/amp/",
-      "publishedDateTime": "2022-02-10T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works.md",
-      "title": "New algorithm bill could force Facebook to change how the news feed works",
-      "excerpt": "Photo by Leigh Vogel for The Verge A new bipartisan bill, introduced on Wednesday, could ... testimony from Facebook whistleblower Frances Haugen in 2020, members of both parties have started working together to find ways to regulate algorithms that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works/ar-AATHH8i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/sNodlR-Z5KIzTklQkFw80EiLyQE=/0x302:2040x1370/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23194488/lvogel_220119_4968_0010.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T09:35:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
-        "domain": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

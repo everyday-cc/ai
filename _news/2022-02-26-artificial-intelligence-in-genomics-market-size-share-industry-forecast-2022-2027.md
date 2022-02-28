@@ -74,20 +74,6 @@ related:
         width: 555
         height: 330
         isCached: true
-  - title: "Artificial intelligence hiring levels in the mining industry rose in January 2022"
-    excerpt: "The proportion of mining industry operations and technologies companies hiring for artificial intelligence related positions rose in January 2022 compared with the equivalent month last year."
-    publishedDateTime: 2022-02-23T13:00:00Z
-    webUrl: "https://www.mining-technology.com/features/artificial-intelligence-hiring-levels-in-the-mining-industry-rose-in-january-2022/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 32
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningAI2102-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "A call to advance adoption of artificial intelligence across the global finance industry"
     excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
     publishedDateTime: 2022-02-24T15:59:00Z

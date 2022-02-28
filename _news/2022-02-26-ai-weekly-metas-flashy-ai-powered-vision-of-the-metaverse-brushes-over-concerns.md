@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/ITL-system-cards-1440x1080.png"
         width: 1440
         height: 1080
-        isCached: true
-  - title: "Fintech in the Metaverse"
-    excerpt: "Metaverse innovator opens up new prospects for organizations aiming to incorporate fintech solutions into the virtual universe of the digital environment. Many internet users, especially video gamers,"
-    publishedDateTime: 2022-02-23T11:55:00Z
-    webUrl: "https://financialit.net/blog/fintech-metaverse-payments-gaming-nft/fintech-metaverse"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/img_7407.jpeg"
-        width: 3024
-        height: 3236
         isCached: true
 
 secured: "O4j7Y+ECa3ORCl6nEbfo8VwX+9S7nCClL4uLnGSSHFheKASKG5uJ6IjBfNDAy58krUBX8MKWBITZMV2NlwfD94uZHSlr+T/Ff4mR1eGccrYiVK8N7a0jSKHCM+L8K0u1igUwB1v6nYhVTFNQtxlKQepoN6Kk31IQdV7S3HTWuCwDUjGqugFTblXoaupbSSG2p5eoivCz+NXJJ3Hk1hNrLiS1oh0f+VNizodoRQFXQYvbHaR194wXhrKpljjYCbTgk2VRoMJHm7m1sWZVJcSO/vz13di7JSDWH9fJLTC2pUEPu4fxHsxZde45KUSRzemXjpht+4LwQUSb65DUSOL4BO97XxVBpbKS1j7FaRtglJ9l3c2bD2A0Spuv0ER/fYFsELKHoRANGXC1gGSVVHwluc04vqc8NLvIaLi3KybKFwdud2tD6hP3XPx9cnxb07Xt6dIKYtptYCxheV7Pa7Vy2wGXwQ5yQDPAIKkU6UOPM0XOUJYzjSuLmrJaZIPIsgbf9KwCz2MB8xQ72U9IPYIK2Q==;awmvaNNIRBRkWatcbFLSww=="

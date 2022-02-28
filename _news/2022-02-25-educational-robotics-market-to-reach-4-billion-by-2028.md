@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/articles/2022/02/24/educational-robot
 webUrl: "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx"
 type: article
 quality: 54
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -48,6 +48,34 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
+    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+    publishedDateTime: 2022-02-27T16:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
+    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+    publishedDateTime: 2022-02-27T20:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
