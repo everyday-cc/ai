@@ -1025,6 +1025,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-08-how-penguin-computing-helped-design-metas-new-ai-supercomputer.md",
+      "title": "How Penguin Computing Helped Design Meta’s New AI Supercomputer",
+      "excerpt": "Any company with the same level of financial resources as Facebook parent company Meta ... Optimized’ CPUs] In the case of Meta’s new AI Research SuperCluster, the Menlo Park, Calif.-",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/how-penguin-computing-designed-meta-s-new-ai-supercomputer",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/how-penguin-computing-designed-meta-s-new-ai-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0272-1467ab4a70d6-a8fd131b3b46-1000/thierry-pellegrino-penguin.jpg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-two-members-of-google-ethical-ai-research-group-left-the-company.md",
       "title": "Two Members Of Google Ethical AI Research Group Left The Company",
       "excerpt": "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ...",
@@ -1459,49 +1502,6 @@
       "provider": {
         "name": "Cheddar",
         "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia.md",
-      "title": "Facebook’s Meta is building a “massive AI research supercomputer” with Nvidia",
-      "excerpt": "In a blog (via PC Gamer), the company shared that the “massive AI research supercomputer” will be “the largest Nvidia DGX A100 customer system to date”. The AI Research SuperCluster (RSC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/01/Meta-supercomputer-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null

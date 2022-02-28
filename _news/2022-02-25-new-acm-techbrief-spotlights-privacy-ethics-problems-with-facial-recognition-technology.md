@@ -1,24 +1,32 @@
 ---
 category: news
 title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
-excerpt: "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-publishedDateTime: 2022-02-24T17:08:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/944603"
-webUrl: "https://www.eurekalert.org/news-releases/944603"
+excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+publishedDateTime: 2022-02-24T17:45:00Z
+originalUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
+webUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
+ampWebUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
 type: article
-quality: 27
-heat: 27
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Ethics
+  - AI
+  - Computer Vision
 
-secured: "H4K2aXGlBVSkR81jNcl+pw0nV+44n0YpNyaQB7S7FZ4on+kAAbM7mS2OrbLP96gun+gYHd5MNPKeY4sfzRZpnP+wCFWAk3ixMZ0ZXqfS4ixkGQq7JqDicLBQf4a5XzU2p73z7JKHStnBfTlh/hlA2AppEJfzKaqOpBYmVB0JbROvwofJqik3vEc79KsxFt4AFUPKJijWymVbhoYQX44qqtyOPLPc07NiK/nEs4JYmuXJDAeATsRN2ADeP8Ew2I63I1UMwjXYnnkUboHuIcLDv7tMESal0DL3YRiAT5kDlHapTs3zGLLkNQUGUTpr8NswwXS9Woh+MTbk41KQ6E5G8MnCj9PV5Q1OGZv6L+Z9MIA=;iGaQ3nMS/0NZrM+uEObgSw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+    width: 1920
+    height: 982
+    isCached: true
+
+secured: "oduGiS2mmo/x2MNoDctGNhq490iEB/OV+A1Xofeb0+EXHy+A0BfVrPhfllvGpb6q7aPniNazMM9FhvaewW3fqpKCmhv4OSmo7BDrsddKqAW7vf/8rXugnD7AnkbCyVx9z6t6Bq4NSxBHS0tZqnNB9S2SZMQFi9SIBTO6LkCd9MfewvdXzmTyahbtP2wX5HU/ohqVX1DxWXUKgCZBnfzyQYLdgvYJkuhD6M8tSoQiH67Z1PHZ9y9/Pl446pyOGEkdazUDCvGQlrD/i/dAFVrGj6NAzSC5gpZHMEzAQIsB4kSJK46jqMNtJAB7y9+03Ti5ZIGvBplaC/lvjcNunFxh9gzA6TswRcAEeevA28enkeE=;SZDqscYRqhkqoZIc79KMEA=="
 ---
 

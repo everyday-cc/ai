@@ -41,17 +41,20 @@ related:
         width: 395
         height: 225
         isCached: true
-  - title: "Patriot One Technologies secures contract to create AI-powered full motion video detection application"
-    excerpt: "Patriot One Technologies has announced it was awarded a contract worth nearly US$ 1 million CAD with Canada’s Department of National Defence (DND), to further develop an artificial"
-    publishedDateTime: 2022-02-24T09:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
+  - title: "Patriot One Technologies awarded contract to create AI-powered full motion video detection application"
+    excerpt: "Technology to be used to detect, classify and track objects and event of interest for Canada’s Department of National Defence"
+    publishedDateTime: 2022-02-28T18:29:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/press-release/21258491/patriot-one-technologies-patriot-one-technologies-awarded-contract-to-create-aipowered-full-motion-video-detection-application"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
+      name: Security
+      domain: securityinfowatch.com
     quality: 23
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/02/patriotone_logo.621d1307dca33.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+Na0pBPbRb+WhHD1LfHiKM+w0pveFVlsJ1/QosqVYOrLpVrqiMQsyBMrsPWg0O/VX/0ZXoiFJfymnlT5ICvr9r7D6bV+4Y+0+t3i/ObTEFUZ+ZzmkRgCzyZc4X34XsRAhxUkKuFF8ZfrQZBowWKPd1RX3h1JJ84HqrMrtrC6F45Lo6BIzJHDKYdhZ2L39rFGFCMNnayTLzw0+oKqn30jx2ad91JTA55xKi0rbahUcCiujQnXdINUEb0A60CYi5qWyoNKv1Mw5DdIFnqfJ/pEcgbaTvzz/1qGfV9jih6zrPe7CT1owrLVvwcIJT5r1VANG4H0nHgmpAApOW/+ZnPjq/6OnsmzIsiZwsUarHKSsGcJfVTkcKYXNPpdnyi2NdexOQkgpTZkNJGcY9iAYAMOpNCYnnwhpRfB+SOTL/E4W9oC+BG3EvmN7IgOhEwXEVEN04uuxcUlQrV6NwMIS8qEP04P5RXOmxOynVC0AE+X1sWRJY+UJlLKNR/6dL1ZPeya5IcjHnUVzcFEo4UikBX8Zw==;ZehIcIPXhMFi9oHX9X44hw=="
 ---

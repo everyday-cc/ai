@@ -21,35 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "AI Applications: Top 14 Artificial Intelligence Applications in 2022"
-    excerpt: "The function and popularity of Artificial Intelligence are soaring by the day. Artificial intelligence is the ability of a system or a program to think and learn from the experience."
-    publishedDateTime: 2022-02-25T18:09:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl"
+  - title: "Artificial Intelligence Used to Detect Anomalies in Power Grid Failures"
+    excerpt: "Finding a fault in the power grid of a country can be like attempting to locate a needle in a huge haystack. Hundreds of thousands of interconnected sensors spread throughout the United States capture data on electric current,"
+    publishedDateTime: 2022-02-28T16:00:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12780"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12780"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 52
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 74
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGUtNljGiazJg/article-cover_image-shrink_600_2000/0/1645812473245?e=1651104000&v=beta&t=qjjepYpf85l1qb4ssweQGumsRtf5wa6DIH5k1uDhD3I"
-        width: 395
-        height: 225
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12780_16460639924659087.jpg"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "A method to automatically generate radar-camera datasets for deep learning applications"
-    excerpt: "In recent years, roboticists and computer scientists have been developing a wide range of systems that can detect objects in their environment and navigate it accordingly. Most of these systems are based on machine learning and deep learning algorithms trained on large image datasets."
-    publishedDateTime: 2022-02-25T14:30:00Z
-    webUrl: "https://techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.amp"
+  - title: "MIT-IBM Watson AI Lab Tackles Power Grid Failures with AI"
+    excerpt: "Next time your power stays on during a severe weather event, you may have a machine learning model to thank. Researchers at the MIT-IBM Watson AI Lab are"
+    publishedDateTime: 2022-02-25T22:44:00Z
+    webUrl: "https://www.datanami.com/2022/02/25/mit-ibm-watson-ai-lab-tackles-power-grid-failures-with-ai/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 51
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-method-to-automatica.jpg"
-        width: 2566
-        height: 868
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/shutterstock_1625927905.jpg"
+        width: 1000
+        height: 654
         isCached: true
 
 secured: "6JPHzDcnSYTaY6z7zp9Qx+LO9dJhq3gmqi5SXR3KqNVrwHGpBFWT2yf4GbC5e7xwqeaPRUffqble3NS9GhLj0PSPN2jgJGq1eLN76E5W6JNevwIUzBt1qgkmHOXCzJ44btpNb2mRQnObzHm/I1JVWxhj7Yqv+QJvsKcNIVWg4xFORleSC9HsWQXCHqcxPWeDpH4hx/GmSZWI72jNhXyBw5YWL9MZZzK29YNcjRkXOoQ4LjjWuhMWrXt7f+VFL30gc8lZilEjLHznn7zBekDnKKUUTuZ69N4Y4H1yHYpBpEhSLQWZ7esj0FDQ9g5zRGlKu3NIb+avyr2nFuYWKB2NcqEyuLo86bV2e+lBQ2iKSqNIFA/CF3mUgDHfBt4yixrxUXYhaKHyc98cg6LODsASf6NVuE1yGl8CljdgF7WODwCd2iAdIRQjN/+dDmYsg/0dC1a26MGnWZl8nF5xiNTxR/lx0GHa6mG+X8vWf1J96KXUAPxX1Qi+5VAXPHd8miHKeR0g9Q1UC35jdeLPF67TcA==;4zmJHG5wx0TtfMhagGmTvQ=="

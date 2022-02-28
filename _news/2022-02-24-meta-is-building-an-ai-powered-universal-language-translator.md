@@ -59,22 +59,6 @@ related:
         width: 980
         height: 677
         isCached: true
-  - title: "AI translation key to communication in metaverse: Flitto CEO"
-    excerpt: "\"But AI is unlikely to translate all different languages in a virtual world, as it cannot fully process subjective data such as people's thoughts and feelings,\" he said. Lee added that AI excels in handling objective data that involves numbers and figures ..."
-    publishedDateTime: 2022-02-24T01:59:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2022/02/199_324433.html?gonw"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/fb79c546b9064119b67d3fae8fff3e39.jpg"
-        width: 980
-        height: 653
-        isCached: true
   - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
     excerpt: "Feb 23 (Reuters) - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out ..."
     publishedDateTime: 2022-02-24T12:39:00Z

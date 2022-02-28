@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-healthy-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-healthy-machines.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1280
     height: 560
     isCached: true
+
+related:
+  - title: "The pluses and minuses of AI in healthcare"
+    excerpt: "It is expected that, in 2022, artificial intelligence and machine learning will continue to impact healthcare in a multitude of ways."
+    publishedDateTime: 2022-02-28T15:30:00Z
+    webUrl: "https://www.fastcompany.com/90723569/the-pluses-and-minuses-of-ai-in-healthcare"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 54
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/The-pluses-and-minuses-of-AI-in-healthcare.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "FRv5z9OFdUPKfZxcNpVERu6HSBLNo4fouwRXc2OkSGqgY6DmDtYjlmMkqtmyOkpz61qAtS4mwCEeEAhj4rWUz/sfAwcRdincawRT/NLH4NrGDo0dAARgyzGmwgl3bzRHtoKJ+nYBhAhnTHy9VPszZbsyd3ycHi6+41tfxa7dkHzYEt3MNsL8VU3995ZHD78eoKn4cVYQGU7Dw67HrVjtxXUb9dMOL9LpAe327XYWLjUhQdmVYl4sdykTDox2M8vdWk3Cnpwq6W3G4/LlcTfpi90zgnotBLWJeOx9FXk7wdZmozdKywGmg4l4DrjaIniW0v7VgGbM2uJI3NT1fGjYJPbTKA242LgKbQ87Dne7vh9aANtd9Y8+mXr1ESB4C76n6sFCu/Ok6SQEiS2WcDSCK7hPhPo6gdivvIQzFaPWCHwBApbHqefr9SWes1AgU5FwkXDsxsRuSubMquzkSDzd7FIRBeyrkcbFugBrfFIXLpZcNbOmE4lfZWnZ8Fl5Uo6YAjMOqTQBMJEbT+7P12n3CA==;oDNgeOO8Cxjfg7N3EtvOjQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/02/25/mit-ibm-watson-ai-lab-tackles-
 webUrl: "https://www.datanami.com/2022/02/25/mit-ibm-watson-ai-lab-tackles-power-grid-failures-with-ai/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,35 @@ images:
     width: 1000
     height: 654
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Used to Detect Anomalies in Power Grid Failures"
+    excerpt: "Finding a fault in the power grid of a country can be like attempting to locate a needle in a huge haystack. Hundreds of thousands of interconnected sensors spread throughout the United States capture data on electric current,"
+    publishedDateTime: 2022-02-28T16:00:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12780"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12780"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 74
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12780_16460639924659087.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Patriot One Technologies secures contract to create AI-powered full motion video detection application"
+    excerpt: "Patriot One Technologies has announced it was awarded a contract worth nearly US$ 1 million CAD with Canada’s Department of National Defence (DND), to further develop an artificial"
+    publishedDateTime: 2022-02-24T09:47:00Z
+    webUrl: "https://www.sourcesecurity.com/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 23
 
 secured: "VbfWediApL/5+tQrdJRz+qXYU37oRrY4ID+qW+kaFQEIYSfbJjuaEIpheGDuQPH3mfx1Hqt/QPZ+wuzp8fjdPXKDJNTNZe1N/88H7zsF7MzrniinEtpZbp3d+LogKnDKS9yiOdtZw99eZknbq+pJ8F2N3XIrWj512ldGEMvmAJMxHE6rBL3H6/1yDTuV/3FEx75Zxv9JrxMbyMHJ7fTQt3i2kpcrtjNsv9qKa7kBaT07IHaPqeEjEZEwvoTLQtXvJ1yBlaBueEWQs/AbjLgCWMX/iM1I/D+IpogGgF+yxgMAyISDqlZob9cZ/XQccoaNpOrb2LmkK8RM6G+Q7bQ9IzBpPLlOTUUtONMzsWXCZP2TJoP5k0cyM+n31fCMZ/cg0S8W7DgREyitmlLNlKb583E1l7BMFTAgT5AozAQSW3ynwRHi2BULpydQv/0t2VUYVnSRRJM7Pje7eeWo83dtjvoFe+M50Zz+cybj2V7twxCkpwR4FmQEw8guEq3mC2cWwMBIb/9J1Hwot+tsnJRBIw==;tblYNitnWHsG75PT/S76SQ=="
 ---

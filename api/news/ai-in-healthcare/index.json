@@ -45,50 +45,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-24-responsible-ai-deployment-in-healthcare-requires-collaboration.md",
-      "title": "Responsible AI Deployment in Healthcare Requires Collaboration",
-      "excerpt": "Leaders from Mayo Clinic, Duke, and DLA Piper discuss the need for cross-disciplinary collaboration and industry standards to enable responsible AI deployment in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "originalUrl": "https://healthitanalytics.com/features/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2020-06-12_gears_collaboration_yellow-67199ff8dd2aaa686fbbb8d60359499a.png",
-          "width": 600,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "publishedDateTime": "2022-02-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-02-23-american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology-and-personalized-cancer.md",
       "title": "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care",
       "excerpt": "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,",
@@ -1328,6 +1284,41 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-how-values-driven-artificial-intelligence-can-reshape-the-way-we-communicate.md",
+      "title": "How values-driven artificial intelligence can reshape the way we communicate",
+      "excerpt": "Ananny understands that, wherever he goes, data about him is being collected, analyzed and monetized by artificial intelligence (AI ... allow for remarkable technological achievements in healthcare, logistics, games, entertainment, criminal justice ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.html",
+      "originalUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.amp",
+      "publishedDateTime": "2022-02-07T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

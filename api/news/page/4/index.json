@@ -2,6 +2,163 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-24-meta-announces-plans-to-build-an-ai-powered-universal-speech-translator.md",
+      "title": "Meta announces plans to build an AI-powered ‘universal speech translator’",
+      "excerpt": "Meta, the owner of Facebook, Instagram, and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” The project was announced as part of an event focusing on the broad range of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "originalUrl": "https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 328,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/cAAFdsdtH-cN__gTkzhJBklpNRw=/193x175:1782x1198/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70541313/acastro_200730_1777_ai_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "publishedDateTime": "2022-02-23T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-microsoft-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities.md",
+      "title": "Microsoft now delivers comprehensive protection with new multi-cloud capabilities",
+      "excerpt": "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time.md",
+      "title": "Meta's Zuckerberg: 'AI is perhaps the most important foundational technology of our time'",
+      "excerpt": "Zuckerberg said Meta will make \"a single model that can understand hundreds of languages\" and \"a universal speech translator\" that would offer instantaneous translation between all languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "originalUrl": "https://www.zdnet.com/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0473600d410f4325d2d67d8bffe30e38de96e24c/2022/02/23/240b3d28-afe8-462d-9988-306272f429e9/zuckerberg-2022-ai-lab-meta-presentation.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "publishedDateTime": "2022-02-23T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws.md",
       "title": "100 days after IBM split, Kyndryl signs strategic cloud pact with AWS",
       "excerpt": "Kyndryl announced a new partnership with Amazon Web Services (AWS) on Wednesday centered on expanding its enterprise offerings and building out its internal infrastructure in the cloud. Terms of the deal were not disclosed but the companies said Kyndryl will establish an AWS Cloud Center of Excellence (CCOE) to \"offer state-of-the-art customer solutions and services for supporting mission critical infrastructure,",
@@ -1047,135 +1204,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-facial-recognition-technology-faces-mounting-legal-ethical-questions.md",
-      "title": "Facial recognition technology faces mounting legal, ethical questions",
-      "excerpt": "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
-      "originalUrl": "https://www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktvh-com.cdn.ampproject.org/c/s/www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "publishedDateTime": "2022-02-22T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVH",
-        "domain": "ktvh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-eca-to-inaugurate-africas-1st-ai-research-centre-in-brazzaville-congo.md",
-      "title": "ECA to Inaugurate Africa’s 1st AI Research Centre in Brazzaville Congo",
-      "excerpt": "Addis Ababa, February 23/2022 /ENA/ The Economic Commission for Africa (ECA) is set to launch Africa’s first Artificial Intelligence (AI) research center in Brazzaville Congo, with focus on technology and innovationThe center,",
-      "sourceUrl": null,
-      "webUrl": "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-      "originalUrl": "https://www.msn.com/en-xl/africa/other/eca-to-inaugurate-africa-s-1st-ai-research-centre-in-brazzaville-congo/ar-AAUdZz8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
-          "width": 848,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-        "domain": "cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-ai-player-wildwood-data-inc-guarantees-more-sales-for-small-businesses.md",
-      "title": "AI Player Wildwood Data, Inc. Guarantees More Sales For Small Businesses",
-      "excerpt": "Their guarantee is possible because of their access to both public and private data aggregates, their proprietary AI, and their acquisition approach. Their approaches and algorithms were beta tested using a handful of startup companies with memberships at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ab25769210/ai-player-wildwood-data-inc-guarantees-more-sales-for-small-businesses",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ab25769210/ai-player-wildwood-data-inc-guarantees-more-sales-for-small-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25769210",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25769210",
-      "publishedDateTime": "2022-02-22T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

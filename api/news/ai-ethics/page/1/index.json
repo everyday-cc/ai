@@ -160,50 +160,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-24-responsible-ai-deployment-in-healthcare-requires-collaboration.md",
-      "title": "Responsible AI Deployment in Healthcare Requires Collaboration",
-      "excerpt": "Leaders from Mayo Clinic, Duke, and DLA Piper discuss the need for cross-disciplinary collaboration and industry standards to enable responsible AI deployment in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "originalUrl": "https://healthitanalytics.com/features/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2020-06-12_gears_collaboration_yellow-67199ff8dd2aaa686fbbb8d60359499a.png",
-          "width": 600,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/responsible-ai-deployment-in-healthcare-requires-collaboration",
-      "publishedDateTime": "2022-02-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-02-24-meta-tries-to-explain-its-ai-with-an-instagram-algorithm-decoder.md",
       "title": "Meta tries to explain its AI with an Instagram algorithm decoder",
       "excerpt": "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.”",
@@ -1398,6 +1354,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
+      "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
+      "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "publishedDateTime": "2022-02-04T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

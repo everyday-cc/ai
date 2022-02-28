@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
         width: 980
         height: 677
-        isCached: true
-  - title: "AI translation key to communication in metaverse: Flitto CEO"
-    excerpt: "\"But AI is unlikely to translate all different languages in a virtual world, as it cannot fully process subjective data such as people's thoughts and feelings,\" he said. Lee added that AI excels in handling objective data that involves numbers and figures ..."
-    publishedDateTime: 2022-02-24T01:59:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2022/02/199_324433.html?gonw"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/fb79c546b9064119b67d3fae8fff3e39.jpg"
-        width: 980
-        height: 653
         isCached: true
   - title: "Meta is building an AI-powered universal language translator"
     excerpt: "During a streamed event, Meta CEO Mark Zuckerberg talked more about the Metaverse his company has been investing in - including that Meta's research division is developing a universal speech translation system."

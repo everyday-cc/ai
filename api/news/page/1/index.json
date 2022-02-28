@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-01-driving-inclusive-prosperity-through-self-education-and-fiscal-action.md",
+      "title": "Driving Inclusive Prosperity through Self-Education and Fiscal Action",
+      "excerpt": "Growing Black Wealth Self-education was a prominent theme, particularly for young entrepreneurs looking to grow their wealth. Jacques, the youngest on the panel, who started his venture capitalist (VC) firm while still in Harvard Business School,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action",
+      "originalUrl": "https://www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action?amp",
+      "publishedDateTime": "2022-02-28T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-snapdragon-x70-5g-modem-packs-an-ai-processor-to-improve-signal-strength-and-power-efficiency.md",
       "title": "Snapdragon X70 5G modem packs an AI processor to improve signal strength and power efficiency",
       "excerpt": "The AI suite in the new Snapdragon X70 5G modem-RF system will assist ... It’s no slouch in the speed department, either, as the chip is capable of theoretical download speeds of up to 10 Gbps to offer “fiber-like browsing speeds and latency.”",
@@ -50,6 +85,100 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations.md",
+      "title": "Responsible Artificial Intelligence Is Still Out Of Reach For Many Organizations",
+      "excerpt": "Analytics and AI proponents feel resistance from business executives in getting fully on board with data-driven practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621d02aef81f25094c7ba004/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/amp/",
+      "publishedDateTime": "2022-02-28T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-artificial-intelligence-used-to-detect-anomalies-in-power-grid-failures.md",
+      "title": "Artificial Intelligence Used to Detect Anomalies in Power Grid Failures",
+      "excerpt": "Finding a fault in the power grid of a country can be like attempting to locate a needle in a huge haystack. Hundreds of thousands of interconnected sensors spread throughout the United States capture data on electric current,",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12780_16460639924659087.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12780",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780",
+      "publishedDateTime": "2022-02-28T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1040,152 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
-      "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
-      "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
-      "originalUrl": "https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-09-featured-1920x1080-1-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
-      "publishedDateTime": "2022-02-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-indian-student-builds-an-ai-model-to-translate-sign-language-into-english-in-real-time.md",
-      "title": "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time",
-      "excerpt": "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/",
-      "originalUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2022/02/Indian-student-AI-sign-language-translator-feat..jpg?w=750&quality=75",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/",
-      "publishedDateTime": "2022-02-25T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-smartcows-new-dev-kit-promises-conversational-ai-video-apps.md",
-      "title": "SmartCow’s new dev kit promises conversational AI, video apps",
-      "excerpt": "Enterprises needing to beef up development of conversational AI and video-based applications may want to know about SmartCow.ai, an AI engineering company specializing in video analytics and AIoT devices that use containers for deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/25/smartcows-new-dev-kit-promises-conversational-ai-video-apps/",
-      "originalUrl": "https://venturebeat.com/2022/02/25/smartcows-new-dev-kit-promises-conversational-ai-video-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/25/smartcows-new-dev-kit-promises-conversational-ai-video-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/smartcows-new-dev-kit-promises-conversational-ai-video-apps/amp/",
-      "publishedDateTime": "2022-02-25T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
