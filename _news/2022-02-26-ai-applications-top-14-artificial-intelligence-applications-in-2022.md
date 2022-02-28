@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-i
 webUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl"
 type: article
 quality: 52
-heat: 83
+heat: 82
 published: true
 
 provider:

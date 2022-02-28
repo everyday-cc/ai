@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Supply Chain Market Future Demand and Growth Analysis with forecast 2028"
-    excerpt: "Key Companies Covered in the Artificial Intelligence (AI) In Supply Chain Market Research Report Intel Corporation, Amazon.com, Inc., Google LLC, Micro"
-    publishedDateTime: 2022-02-23T08:50:00Z
-    webUrl: "https://menafn.com/1103749144/Artificial-Intelligence-AI-In-Supply-Chain-Market-Future-Demand-and-Growth-Analysis-with-forecast-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?80343"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Automated Machine Learning Market Size, Future Opportunity, Emerging Trends, and Growth Forecast Report"
     excerpt: "The North American region held the largest share of the automated machine ... customer service. Further, the COVID-19 pandemic enhanced the digital transformation in all verticals, such as healthcare, manufacturing, and banking and financial services ..."
     publishedDateTime: 2022-02-24T00:00:00Z
@@ -55,6 +41,20 @@ related:
       - url: "https://www.abnewswire.com/uploads/1645680377.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
+    publishedDateTime: 2022-02-27T23:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/electrocardiograph-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "K3TCtaHPX+sX122dqPMWF6J6wAjLFQtbYE0TZZJ8ZKm6rvgdXMpr7OIy9JBdMwZrvB8u4UVRfZPU1P3k4KyyXQnB+s8zYazi07mb7IXmBDCzITGPdFK64iHwUE8BuSccmPdZ5ObFaBdfh3zVWUiXiXOD4VCVolYbCpDKas5Vn6Cj7kTzEiQx9rnw7g9CIEqV2a6bO5DyS6WqW6Vi2u+Wp5GUbbvsPGPvpRte65FyF5owyT142+fRx3EGDz+zR+s5Q7zg38xDTvor28pz7TAdxROnl2RxoUhrUYTpA++Ddj6Nt+9CJOKeNXfoisj8fdjLHEhyVqXH2jEETR+WdX9WXegHe7vg2JC1O1TNRbUVIVQ=;t6t1Lfjqb/6RapbQVgD65g=="

@@ -2,27 +2,21 @@
 category: news
 title: "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care"
 excerpt: "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,"
-publishedDateTime: 2022-02-23T13:02:00Z
-originalUrl: "https://www.eagletribune.com/region/american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology/article_cacbaf16-e1c9-5299-bf3b-e1ea5d061213.html"
-webUrl: "https://www.eagletribune.com/region/american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology/article_cacbaf16-e1c9-5299-bf3b-e1ea5d061213.html"
+publishedDateTime: 2022-02-23T14:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-american-oncology-network-aon-viecure-announce-strategic-collaboration-/2022/02/23/9550827.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-american-oncology-network-aon-viecure-announce-strategic-collaboration-/2022/02/23/9550827.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/9/48/948d91f9-6c34-5d31-9865-9886df847d05/62164282b2dca.image.jpg?crop=1859%2C976%2C34%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration"
@@ -34,7 +28,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration"
+    excerpt: "and PARIS, Feb. 23, 2022 (GLOBE NEWSWIRE) -- Cyclerion Therapeutics, Inc. (Nasdaq: CYCN) and Ariana Pharma today announced an artificial intelligence-driven, precision medicine collaboration. This collaboration is expected to identify biomarkers of ..."
+    publishedDateTime: 2022-02-28T00:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/02/23/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
-secured: "4KxV5hIwgI++Z9FndDMRPWqN4N2qnvo2ixU3WAkvyaOR2kIBzZfTI5gTW2ZWvAVqWxB9gzclINOfzS7aL051vxxM++B9IfcG13kymKzITlEtaXaw+4OZyKT61m6qHVnV7+9eJJv9KC7uyICFpXnFtki+5M3j0sC1g+fQaZwKfWovyGYwV6yVIuOsuxnRCSmLOYtstvu+q6cXv2S2AD4NMVil7xoMRZQYfUiGzNUfwB/1OSQlIsZMmsfOpp1FJRvcg1HhQ2AA0P4J5HqGvZHiNVSouHEobf/gHpL/NKI4+jc6K+cu21YG50iP7/00am3DMsqv3Vnsc76PD6wmKpXj2iaJBtjKfZq1xTgeZSdG5Rmg1REvN9HiIwusfh56AIDG2qJqPcjOJfdgxOG0KYvsOQVUZzhBX4xsEc+BCkzXYmzswAjlr1yXceSF5CjqzlE+u3vi/xonvHYOULxIg2sQh7oEw4XhazZ+8zecH9wlRd4szUYXoSHiBDcHDhEZoD8mX7rRZnfnml9qa4nATlYEKQ==;y38EciEi8zKvCAqhg6FKaA=="
+secured: "+ODUxYQt8QjiwUWxBdHl6cOiQaLas5B0IIfNntpvukY9RiMApxLB5L58Q592jGK+okH1Lehd88TPgpHBNONZnFD6QoLA+6QLWViStqqsLzNFbQgRI4rPWjxckJksekvRQdBm8bqVDJnQXSiHIo5GbRPrDlbXC7PzlcFdWpJJrTLBN7joskJP1pVYFO7PKMhmV9nZDVyT5MaSti/MpVpyQ2ev3btnMBYDFxkGat++EUXbG5QCG3s6IDFOq5SzrWZoJgmGFi6cQiO4lmDxVvAKuHkvh5AfRQQrXtRH77sxnLcFgHc+UMzYYVdZn/7O6dCpKtofWeunmfdWhQR6uvFyQk89rgpqFoP6wdKaFpRseP4=;1T8pN/L378v7UtZZ+yXOZw=="
 ---
 

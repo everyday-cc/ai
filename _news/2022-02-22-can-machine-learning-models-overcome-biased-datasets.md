@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Can machine-learning models overcome biased datasets?"
-excerpt: "They used an approach from neuroscience to study how training data affects whether an artificial neural network can learn to recognize objects it has not seen before. A neural network is a machine ..."
+excerpt: "Artificial intelligence systems may be able to complete tasks quickly, but that doesn't mean they always do so fairly. If the datasets used to train machine-learning models contain biased data, it is likely the system could exhibit that same bias when it makes decisions in practice."
 publishedDateTime: 2022-02-21T16:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/943925"
-webUrl: "https://www.eurekalert.org/news-releases/943925"
+originalUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
+webUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.html"
+ampWebUrl: "https://techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-machine-learning-biased-datasets.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "i6f9tw1rTa/KUk3fSCDW/2KO1wF6tE7PNkuZyyx/VhOSCRetiYnt63pIp1FrcTYb3hzXxCk1yVogepANga0WT3fN5DLVUMTfkdfLAbgFf+kIEAsiZqLbI5P9CnYkMw1q8BdHV54B7lGrHIHiMVVvTgFqqnUbkBpOXussWZqCR7qfYPqvRMjFBs67lmSUColHDOtVnPFnuc39fzx2+81CukfE1gO2681OIjRqQYJeCzOY3wy+2Z45rmT7y15ormQx/F5dkFKIHO8qZ0JxLQGeYy3AJSQfGKhF8Xf77pLEhBou+uAhCN24OQ1xr3/2OI0zshGaMyo4JcUshJfGc2cNJ4NXQD0xjoYF9sMBOFU8qHA=;73tmgHo5XdwrF93aQro/4w=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
+
+secured: "Q6yrzKQVP1S9I/cLZcVdnBHjLuiafOYRb1afPN9r7xHr+dCkX1PbWPvgj+y/JgIg93TKrfrxK7QWJraLgRmiBtU9zs+06wjxxCBlFIQ3ihXJGuLS7YGVS7lL3eBl2K0fqGlxzGka8W4zll4aTgCRR4spovLpPIoinOi708dk1wJc325Ez6n5zXNl/mEhxSccDlwkAJ2JwpPr7AA9lSJGsfJu5UBfzycO+NJfEhLxvAPLh9iu+4XyNaPJJLKDai0lyOan/yl+mSkoLOH/3K49S6yzxh2QF5ubEvZWI7CK79e0zs6yoookuxYLmsy4lITFfKzlveP4hZ4QSNV8XOoe1VyMy/UHsX3bzbDuB3g+6Sc=;86Jj90xAAnOx2/wLcQfzAQ=="
 ---
 

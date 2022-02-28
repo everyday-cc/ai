@@ -42,19 +42,19 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence (AI) In Supply Chain Market Future Demand and Growth Analysis with forecast 2028"
-    excerpt: "Key Companies Covered in the Artificial Intelligence (AI) In Supply Chain Market Research Report Intel Corporation, Amazon.com, Inc., Google LLC, Micro"
-    publishedDateTime: 2022-02-23T08:50:00Z
-    webUrl: "https://menafn.com/1103749144/Artificial-Intelligence-AI-In-Supply-Chain-Market-Future-Demand-and-Growth-Analysis-with-forecast-2028"
+  - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
+    publishedDateTime: 2022-02-27T23:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/electrocardiograph-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?80343"
-        width: 333
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "hW7tOAdsUY+nMLYV2eImLH3hiFIkH1REixSOtJlGkN38mm+BjOfm8BLnU8VvUXZCfhEYMk5FjfquaThU31eN7mOMOjF5GdSVuoTs5WC8RFSMTr9kjHNuTZXQH0xQxyVtlfx4002vX5ELw2ATG1ujGpCtlBXf85DhGh2wFq1jWdqN5NgQNuSsrxwwX2+uWEM4gz5aeoExq4EST+AydhN26LGG7Ft/q19LaFQ29FPrNkkxvXu05e9YH/arrkQAPGkOPVUtqezcAe4sLW7Tz1VZ1P/Vxf5QxxLAbdnc4ajoDzPf5eHg09WAC0RO5QKHRsf25nKxUkJYezYv2u1DFC1XiM+UquMY5TF2BHBb1Q+rVuQ=;s7c3TjkrhMxfJMl59+mbxg=="

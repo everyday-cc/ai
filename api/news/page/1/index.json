@@ -96,6 +96,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-27-new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications.md",
+      "title": "New Azure for Operators solutions and services built for the future of telecommunications ",
+      "excerpt": "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2026acea-d66f-4fcd-99fc-bd2ea9d18e7c.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-27T09:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
       "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
       "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
@@ -622,7 +674,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -673,7 +725,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -863,7 +915,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1146,60 +1198,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-h2oai-brings-ai-grandmaster-powered-nlp-to-the-enterprise.md",
-      "title": "H2O.ai brings AI grandmaster-powered NLP to the enterprise",
-      "excerpt": "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "originalUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "publishedDateTime": "2022-02-24T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

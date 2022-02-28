@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 127
 published: true
 
 provider:

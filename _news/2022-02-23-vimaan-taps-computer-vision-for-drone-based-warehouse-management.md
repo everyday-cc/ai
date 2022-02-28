@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vimaan Taps Computer Vision for Drone-Based Warehouse Management"
-excerpt: "Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses."
-publishedDateTime: 2022-02-22T16:18:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
-webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
+excerpt: "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ..."
+publishedDateTime: 2022-02-22T16:23:00Z
+originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
+webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 333
     isCached: true
 
-secured: "JoAWrRplSbwaB+A28luseAdQm2MRYW7wC5+h+Ar3cDTe2x9fssxam948xSvjOpGGa0JxngJ9Av9WgzNYJqPtrWNvHQViNztx25f5lYYR0drLzoyMI1seaU85pZ/nZhBCwVZ1sb75fd3XuWaPvptzzBRINW8OCEZI9IkLfvYAPghEMZZW1v1HOZruVh9ql1OUNgZu9ktPQF3UZgzrNN1ce99T4DMUrjGrnvdl5v/3nCaq1DH3xbjLaX6XJ09v24eVqdkjO/wlqBMwxJDJ8yZJFj4QXmMtIcrOorFEvk1ZrkuEftnHo+rqfkL3tv8N//s+QCwe8MX2wUmqSzrxYFq+ndHqn0ZaZ85h4M7QLF+ByOY=;hZ7woMf4lP5DpJUC/HZJ/w=="
+secured: "dDIFQugMbCz07BlUBBg83GbU+FR4l22wQJtsv1EgsPWjQftghoKV/LuZhDEyQvGHaXGzwKHSYvc+7W+CBiMxc4h49sTP4az/bmRWXpBL/Ntu0/S7XTMmvsnblFC+08s6SmsHwWf4MmWq/eh0KNPt2HbR+khsYGSkghOAioWXusU6Zb+7in9BklbW3kSj9jCk8hXM/jxI9nacQyPTA46IuH4MHkoc6X2ttxsFgjVtpjmBx3pzNr2NePFm/UQbsiqXRE/+p3CHO20w8IUDGTcYMjtbctSuLy5uxvJrEuxvzqGFDS2DMGTDpAnHGfZDK0nbChvzojJsxAHiViApPYN7waBnU5k3XEvQvleCr9xSFpw=;w+8SlXe/c/FYpADe6aLFNw=="
 ---
 

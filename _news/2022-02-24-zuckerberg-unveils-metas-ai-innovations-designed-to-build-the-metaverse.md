@@ -72,22 +72,6 @@ related:
         height: 628
         isCached: true
   - title: "AI translation key to communication in metaverse: Flitto CEO"
-    excerpt: "The role of artificial intelligence (AI) in translation is becoming more important in the metaverse where people across the world can join and communicate, says Simon Lee, CEO of translation service provider,"
-    publishedDateTime: 2022-02-23T08:16:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2022/02/199_324433.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/fb79c546b9064119b67d3fae8fff3e39.jpg"
-        width: 980
-        height: 653
-        isCached: true
-  - title: "AI translation key to communication in metaverse: Flitto CEO"
     excerpt: "\"But AI is unlikely to translate all different languages in a virtual world, as it cannot fully process subjective data such as people's thoughts and feelings,\" he said. Lee added that AI excels in handling objective data that involves numbers and figures ..."
     publishedDateTime: 2022-02-24T01:59:00Z
     webUrl: "https://www.koreatimes.co.kr/www/culture/2022/02/199_324433.html?gonw"
