@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-s
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,77 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Twins: AI & ML Transforming the Fintech Landscape"
-    excerpt: "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases"
-    publishedDateTime: 2022-02-23T09:15:00Z
-    webUrl: "https://www.entrepreneur.com/article/420077"
+  - title: "London fintech crime prevention startup raises £150k in seed round"
+    excerpt: "A London based financial crime intelligence startup has raised £150k in a pre-seed funding round from SFC Capital. Schwarzthal Tech uses… | London | Digital | Funding | Finance | Technology | Banking"
+    publishedDateTime: 2022-02-23T12:37:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/02/23/london-fintech-crime-prevention-startup-raises-150k-in-seed-round"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Artificial Intelligence is Transforming the Financial Services Sector"
-    excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
-    publishedDateTime: 2022-02-24T12:16:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
-        width: 990
-        height: 400
-        isCached: true
-  - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
-    excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
-    publishedDateTime: 2022-02-25T16:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Travel-Suitcase-Bag-Luggage-Airport-Roll-on-Valet.jpeg"
-        width: 960
-        height: 1280
-        isCached: true
-  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
-    excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."
-    publishedDateTime: 2022-02-24T11:36:00Z
-    webUrl: "https://menafn.com/1103756980/AI-in-Fintech-Market-is-Expected-to-Reach-USD-4933-Billion-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2022-02/24/EP_1f207image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Top Trends to Witness in the Fintech Sector in 2022"
-    excerpt: "AI increases employee productivity by 59% in the banking sector. It has reduced loan defaults and has made transactions safer, all for a better customer experience. By 2030, banks will be able to reduce costs by 22% saving nearly 1 trillion. Many fintech ..."
-    publishedDateTime: 2022-02-24T09:54:00Z
-    webUrl: "https://www.financialexpress.com/industry/banking-finance/top-trends-to-witness-in-the-fintech-sector-in-2022/2443648/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 24
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/fintech-sector.jpg"
-        width: 1200
-        height: 667
+      - url: "https://bdaily.co.uk/images/uploads/cMGkDvMLcDfY9HdRxa4QQDUmvv56qrfuUg5oLX6n.jpeg?w=940&h=430&fm=jpg&fit=crop-51-40&s=f05b2d90c663aa4baadf3a9802224ff0"
+        width: 940
+        height: 430
         isCached: true
 
 secured: "cUGaS4YhgSKO39VYSgA+Z/rGFoQI/JXTthw4tIESlkSFZGslLUsi2xpyuxf1y3dvqPhRU7BuvMGLPcB/Mg3XTQN8uDbB1FIWMsrP37TmPh0o4R+/shofgMgukpjCXWq3/JMH8lNrxjdLt4qbQsYKlRqLENcnjY/9Qyx9sgBCLfO2uVGtju/g5gvEFDf/wpu+7iVWTcL8TrOclWT4uWJXZUDDErclArju6gCskAk+Cmfi/HzXdD5pqEm5M/5LD9e63yst8/iFmVC4tC1Qx2i6VAsKUDxpODUsDs2QYYHsYgLkGszRQ5kJO4GQGp6xJM7JFHbfNqw9jTLqDhHdExPNXPWNz1kAj/uLhkSLOfc3XgB5Kej8BNE3YD+JXkwseGjdJbPxNQhfnvhZTIrWeJ10MIoU1YKKclyhevbI+hBhTjRok8Ys1Zl6V2OSqTi0HwHIy/faoiKtUWeuTjZYSq/2cCVx8V/HOMNoETyg6BZMFnIqDB9L14rP/xVP6ViP4rzR6HE+IMrZbrl+r5+dTRbJ7g==;fMNEMXWfWk5E+UprBpebkw=="

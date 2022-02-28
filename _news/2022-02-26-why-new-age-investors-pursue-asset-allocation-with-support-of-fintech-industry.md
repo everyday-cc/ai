@@ -26,22 +26,6 @@ images:
     height: 674
     isCached: true
 
-related:
-  - title: "FinTech FeeX Secures $80M in New Investment, Changes Name to Pontera"
-    excerpt: "New name for held away account platform reflects aspiration to be the bridge to a better retirement for millions of AmericansNEW YORK--(BUSINESS WIRE)--FeeX, the financial technology company that enables financial advisors to securely manage their clients’ retirement accounts and other held away assets,"
-    publishedDateTime: 2022-02-23T11:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=620624"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
 secured: "NlvFHc36phITc6x61Gnc1vKMRpXp16KkQP/AscGlmFwwHaPH5rQGrMKP874C2KiqpWkKk3NGZV5irwP5vi+VxKsj62rparh9JkCaWmEjdqo19W3jEm+wZx4OmHjn3UMbdkUA5Xe6gY/ME0Ht7AXiEmhub3RKi170FdD2lTRpkcAR4NaUElQhXbdNMe76pDiNPvH9aUk1ONhiqgafeKQy7vxn5F8WQu/hMA1mGY/nQweoSg6vSwkEwLdcEeHc50cprKKByBzxJ366OVeV6qkRuujsZzWUPBOxuQ1C/JA0nW02trgMEevemXDPRLz1ATWE4d5JBDrgfZR/Ztdr4jm/u/d71I21Q6jow6/b26qdrAJRi3RUJNcWMPLOIOyNO+dO2s2wb0bso7iMPwYvaoX2hluTRWkntQGR9nnt7ckxPSaE/s2GZYW7N0HqFyJIjHBXycIopVeNgcQhX2hrtK8gMuCzVjVXv99yew8B8vQYcM8Cq01ctDRkmSJGdUV0+AEszn6glKheC9ivMa6fn78/cw==;oqMYVlBcC3pxKHJSpAOoag=="
 ---
 

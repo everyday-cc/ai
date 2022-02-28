@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2022/02/23/london-fintech-crime-prev
 webUrl: "https://bdaily.co.uk/articles/2022/02/23/london-fintech-crime-prevention-startup-raises-150k-in-seed-round"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 940
     height: 430
     isCached: true
+
+related:
+  - title: "How technology is shaping India’s FinTech startup landscape?"
+    excerpt: "India finds itself at the forefront of a FinTech revolution. Propelling with the world’s highest FinTech adoption rate at 87%, India has produced the second-highest number of FinTech startups in the last three years."
+    publishedDateTime: 2022-02-26T10:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Asif-Bhat-CEO-Co-founder.jpg"
+        width: 436
+        height: 458
+        isCached: true
 
 secured: "ijiw5qklB2fNWr9/MmgalY6v4t0YL5EJ67vjZHAa0jzdDhg4tzHW6EOryt8iG+MKXWYkj5nOshWzVJzumvOeLFc8QypTM8QbmI/DX4BvhR0GznW/7++kY5cYw33ryUixW5armiqpZpkN9L9SMsJ7diOUYCmsg/CcgCg+FKEhcD7TqzShmHApAiY6SqLOzJ9Rq4GzfKyFXP3AHo4NgnVrH1vMRS0uBPGIPZr0hcpxGZSXtfqircuDOq1EGfj0dnjT4YlDCfF7wOoXskcpZgQDTtrhCD6r5zDaD9JgWx4QnLRQGLA4E5E5rHmxZ44sunzP7h5XmIJuTRMXaU1K0kUG8HXf/gX8vJDVRWLf3I3+UDQycwI+pmBPGgsKSdxnFSedJg6vl/QSzhdIlwH3z34MM8CO6lFHEApYkXMjWc5rfNM3LLNzZoghl0rTVyJF+CvEOKUpKDg+M/NvAi7Vd3RQ5S/jVyj8Q6lsNAwIrgF69Zcl18Rt94fw87vOOHCRLDoakNt2MimzdU1NLy74TJkcIw==;x50kILxSJsZPfo/EAgZkPg=="
 ---

@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-02-14-language-is-the-next-great-frontier-in-ai.md",
+      "title": "Language Is The Next Great Frontier In AI",
+      "excerpt": "What is behind these astonishing new AI abilities, which just five years ago ... against which newer models are compared. Much subsequent research on transformers—for instance, Facebook’s influential RoBERTa model (2019)—is based on refining BERT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6206e085c5625214fbd9ed04/0x0.jpg?format=jpg&crop=1934,1088,x0,y185,safe&fit=crop",
+          "width": 1934,
+          "height": 1088,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
+      "publishedDateTime": "2022-02-13T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-13-airstreams-latest-camper-is-solar-powered-has-a-self-driving-trailer-dolly.md",
       "title": "Airstream’s latest camper is solar-powered & has a self-driving trailer dolly",
       "excerpt": "The electric vehicle revolution is fast catching some never-before thought segments of human activities. This technological improvement is not unconnected with the growing demand for sustainable solutions to environmental problems, with a greater emphasis ...",
@@ -1113,49 +1166,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
-      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
-      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
-      "publishedDateTime": "2022-02-11T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

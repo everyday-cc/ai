@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1
 webUrl: "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1-2-mn-in-pune-based-robotics-firm-rocket-ai/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro invests in US based AI startup vFunction"
-    excerpt: "Wipro is investing over USD 1 billion over the next three years to build out the capabilities of Wipro FullStride Cloud Services."
-    publishedDateTime: 2022-02-23T09:27:00Z
-    webUrl: "https://analyticsindiamag.com/wipro-invests-in-us-based-ai-startup-vfunction/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Wipro_AIM.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "B2B BNPL startup Actyv.ai raises USD $5 million in pre-Series A round"
     excerpt: "Actyv.ai, an AI-powered Enterprise SaaS platform with BNPL for B2B embedded, has raised USD $5 million in a Pre-Series A funding round from Dubai-based 1Digi Investment management firm, the family office of Raghunath Subramanian,"
     publishedDateTime: 2022-02-25T07:08:00Z

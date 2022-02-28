@@ -459,6 +459,40 @@
       ]
     },
     {
+      "path": "_news/2022-02-16-considerations-before-the-decision-making-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid-19.md",
+      "title": "Considerations before the decision-making including fluvoxamine as a treatment option in guidelines on the management of COVID-19",
+      "excerpt": "Unit of Psychiatry, Department of Public Health and Medicinal Administration, & Institute of Translational Medicine, Faculty of Health Sciences, University of Macau, Macao SAR, China Centre for Cognitive and Brain Sciences, University of Macau, Macao SAR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
+      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-ibm-watson-could-revolutionize-healthcare.md",
       "title": "IBM Watson Could Revolutionize Healthcare",
       "excerpt": "If you’ve been watching Jeopardy! over the past couple days, you probably know that IBM’s highly-advanced artificial intelligence software, Watson, has been competing against Jeopardy!’",
@@ -1134,49 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-parascript-goes-a-step-further-in-intelligent-document-processing-with-formxtraai-83.md",
-      "title": "Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3",
-      "excerpt": "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
-      "originalUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/pr-newswire_500_4_387.jpg?itok=1yPMWIJp",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
-      "publishedDateTime": "2022-02-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

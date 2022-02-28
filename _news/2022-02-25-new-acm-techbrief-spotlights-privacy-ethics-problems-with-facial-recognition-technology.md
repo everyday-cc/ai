@@ -1,31 +1,23 @@
 ---
 category: news
 title: "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology"
-excerpt: "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
-publishedDateTime: 2022-02-24T17:45:00Z
-originalUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
-webUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html"
-ampWebUrl: "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp"
+excerpt: "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence."
+publishedDateTime: 2022-02-24T17:08:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944603"
+webUrl: "https://www.eurekalert.org/news-releases/944603"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 27
+heat: -1
+published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI Ethics
-  - AI
   - Computer Vision
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
-    width: 1920
-    height: 982
-    isCached: true
+  - AI
+  - AI Ethics
 
 related:
   - title: "Proposed bill aims to put some guardrails around the use of facial recognition technology"
@@ -44,7 +36,35 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
+    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+    publishedDateTime: 2022-02-27T16:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
+    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+    publishedDateTime: 2022-02-27T20:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "9Znz9uRPiFHVLT1r0sCGxS+50zx17QU4mHR9+DtEit9oSi0QSKwq4Cnw636FyAQ71rmdhmAqFWr+tX9kKxJI4tYOGddmyM8keKUGM8bJuXVwkXmkB8ERF1wO0LFjopvWuSF0PDR6i+2VRR2Bwmh78LEwAOfIZw+Vyg8a3fBEpr1EsMWMY4UBzhqyMVtW5tZErLrakV71geuBRTb84F61kXxd+TrDv5SpaZRVjng63PO8U1wDR4nfCJBLZvaJsg59ogsjovTZy3OdAhrfH0ldjlw/BNAaj/cL2xhJYifqXbWmjz0nbjFZkdyKEm/Z4OyZK5CGwbyO342t4nMWCODwUrbBOwJjgNGulbLvFQO1FO8=;a41u2YiVn0ortf2t5WoRmg=="
+secured: "bqb97QUVpA4mEn7fEXDu35Beje+3L0SaCng91XWcmk/X5r298HvjIXa8rj7j8JdmNGyGBguPZjBKyBllxvzNcaJo1AkjvNeH9K+NF+p8mpSTf59m0Bfb6p9Xzo+1i+pUVhKmR7JX2+LdrVUMY4mWTGaKxoM8RdJYfFcL1oGwXSX91FwceKEpmTEkoCWYfegUYlxRRvZ8AuYiMbvtrBpqHbI9BtPkQodMSGqZJee9vkk5FQDAe79YzhWrUx8kzK4yZHJKZJi5qlUR1DXWhe1cjMmKspU3XMraOMOvrLiDX/FtzrXxFx73dlZdal5aiRTNpOn/U7Ff1dJVrrg82PuY1JVkEOMfq3h+JcD8ecfTCcM=;froqOcTqH9+/zE3QDSP5UA=="
 ---
 

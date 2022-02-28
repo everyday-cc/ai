@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-27-new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications.md",
-      "title": "New Azure for Operators solutions and services built for the future of telecommunications ",
-      "excerpt": "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for",
+      "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
+      "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
+      "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/",
-      "originalUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/",
+      "webUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 184,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2026acea-d66f-4fcd-99fc-bd2ea9d18e7c.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 753,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-27T09:00:01-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "publishedDateTime": "2022-02-27T17:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -690,6 +690,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-considerations-before-the-decision-making-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid-19.md",
+      "title": "Considerations before the decision-making including fluvoxamine as a treatment option in guidelines on the management of COVID-19",
+      "excerpt": "Unit of Psychiatry, Department of Public Health and Medicinal Administration, & Institute of Translational Medicine, Faculty of Health Sciences, University of Macau, Macao SAR, China Centre for Cognitive and Brain Sciences, University of Macau, Macao SAR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
+      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1321,49 +1355,6 @@
         "name": "The Spokesman-Review",
         "domain": "spokesman.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai.md",
-      "title": "TigerGraph launches $1 million challenge to inspire use of graph AI",
-      "excerpt": "With a $250,000 first prize, entrepreneurs, academics, engineers, scientists can create their own problem statement focused on a topic of their choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "originalUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "publishedDateTime": "2022-02-09T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

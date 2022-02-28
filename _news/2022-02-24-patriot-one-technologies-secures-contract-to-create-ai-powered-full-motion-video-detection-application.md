@@ -51,20 +51,6 @@ related:
         width: 2566
         height: 868
         isCached: true
-  - title: "AAEON partners with Hailo to enable AI applications at the edge"
-    excerpt: "By reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) it will possible to provide much greater flexibility for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera ..."
-    publishedDateTime: 2022-02-23T09:22:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/aaeon-partners-with-hailo-to-enable-ai-applications-at-the-edge"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/nxillrud/ai.jpg"
-        width: 730
-        height: 411
-        isCached: true
 
 secured: "6JPHzDcnSYTaY6z7zp9Qx+LO9dJhq3gmqi5SXR3KqNVrwHGpBFWT2yf4GbC5e7xwqeaPRUffqble3NS9GhLj0PSPN2jgJGq1eLN76E5W6JNevwIUzBt1qgkmHOXCzJ44btpNb2mRQnObzHm/I1JVWxhj7Yqv+QJvsKcNIVWg4xFORleSC9HsWQXCHqcxPWeDpH4hx/GmSZWI72jNhXyBw5YWL9MZZzK29YNcjRkXOoQ4LjjWuhMWrXt7f+VFL30gc8lZilEjLHznn7zBekDnKKUUTuZ69N4Y4H1yHYpBpEhSLQWZ7esj0FDQ9g5zRGlKu3NIb+avyr2nFuYWKB2NcqEyuLo86bV2e+lBQ2iKSqNIFA/CF3mUgDHfBt4yixrxUXYhaKHyc98cg6LODsASf6NVuE1yGl8CljdgF7WODwCd2iAdIRQjN/+dDmYsg/0dC1a26MGnWZl8nF5xiNTxR/lx0GHa6mG+X8vWf1J96KXUAPxX1Qi+5VAXPHd8miHKeR0g9Q1UC35jdeLPF67TcA==;4zmJHG5wx0TtfMhagGmTvQ=="
 ---

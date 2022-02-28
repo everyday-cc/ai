@@ -41,22 +41,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Contentstack Runs on Microsoft Azure, Litmus Debuts Email Capabilities, More News"
-    excerpt: "Agile content management system software provider Contentstack has announced it is now available on Microsoft Azure. Contentstack, a multi-cloud SaaS CMS, now offers customers the choice to run their software on either Azure or Amazon Web Services (AWS)."
-    publishedDateTime: 2022-02-25T15:46:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 84
-    images:
-      - url: "https://www.cmswire.com/-/media/6d901154dbc74b268d0d79aad629f43a.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Microsoft updates security applications for multicloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure, and making its CloudKnox Permissions Management platform available for public preview."
     publishedDateTime: 2022-02-23T14:08:00Z
@@ -72,36 +56,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/10/5-cloud-computing-benefits-why-you-should-work-in-the-cloud-100905694-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "US Bank links up with Microsoft's cloud services to power its applications"
-    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications to the cloud."
-    publishedDateTime: 2022-02-24T17:50:00Z
-    webUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoftword.jpg"
-        width: 1920
-        height: 1358
-        isCached: true
-  - title: "US Bank picks Microsoft Azure for cloud migration"
-    excerpt: "AI and machine learning will \"transform applications and infrastructure ... \"As US Bank's primary cloud provider, we will apply the power of Azure to help the company adapt and build new, secure experiences for customers and employees in the era ahead.\""
-    publishedDateTime: 2022-02-24T00:02:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 71
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aryan-singh-vtbqlytx6sq-unsplash1.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "100 days after IBM split, Kyndryl signs strategic cloud pact with AWS"
     excerpt: "Kyndryl announced a new partnership with Amazon Web Services (AWS) on Wednesday centered on expanding its enterprise offerings and building out its internal infrastructure in the cloud. Terms of the deal were not disclosed but the companies said Kyndryl will establish an AWS Cloud Center of Excellence (CCOE) to \"offer state-of-the-art customer solutions and services for supporting mission critical infrastructure,"
@@ -155,48 +109,6 @@ related:
       - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500
         height: 324
-        isCached: true
-  - title: "Microsoft updates security applications for multi-cloud environments"
-    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
-    publishedDateTime: 2022-02-24T20:22:00Z
-    webUrl: "https://www.reseller.co.nz/article/695602/microsoft-updates-security-applications-multicloud-environments/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 56
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
-        width: 473
-        height: 315
-        isCached: true
-  - title: "Microsoft updates security applications for multi-cloud environments"
-    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
-    publishedDateTime: 2022-02-25T22:18:00Z
-    webUrl: "https://www.arnnet.com.au/article/695602/microsoft-updates-security-applications-multicloud-environments/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 56
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
-        width: 473
-        height: 315
-        isCached: true
-  - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
-    excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."
-    publishedDateTime: 2022-02-23T21:50:00Z
-    webUrl: "https://redmondmag.com/articles/2022/02/23/microsoft-defender-for-cloud-adds-google-cloud-protection.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/CloudSecurity1.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Artificial Intelligence in Construction Market Will Hit Big Revenues In Future | Oracle, Microsoft, Alice Technologies"
     excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence in Construction Market Insights, to 2027” with 232 pages"

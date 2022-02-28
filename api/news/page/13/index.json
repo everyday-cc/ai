@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-02-15-texas-sues-metas-facebook-over-facial-recognition-practices.md",
+      "title": "Texas sues Meta’s Facebook over facial-recognition practices",
+      "excerpt": "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna16201",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201",
+      "publishedDateTime": "2022-02-14T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies.md",
       "title": "Sales Down 6% Annually Since 2011, IBM Is Full Of Business Line Dinobabies",
       "excerpt": "IBM launched Watson Health in 2015 aiming to revolutionize medicine through AI, according to MarketWatch. After years of acquisitions — including $4 billion spent on acquisitions aimed at combining “patient records, medical literature, and medical ...",
@@ -1107,59 +1150,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-language-is-the-next-great-frontier-in-ai.md",
-      "title": "Language Is The Next Great Frontier In AI",
-      "excerpt": "What is behind these astonishing new AI abilities, which just five years ago ... against which newer models are compared. Much subsequent research on transformers—for instance, Facebook’s influential RoBERTa model (2019)—is based on refining BERT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6206e085c5625214fbd9ed04/0x0.jpg?format=jpg&crop=1934,1088,x0,y185,safe&fit=crop",
-          "width": 1934,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
-      "publishedDateTime": "2022-02-13T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

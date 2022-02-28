@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care"

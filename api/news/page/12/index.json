@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-15-parascript-goes-a-step-further-in-intelligent-document-processing-with-formxtraai-83.md",
+      "title": "Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3",
+      "excerpt": "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
+      "originalUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/pr-newswire_500_4_387.jpg?itok=1yPMWIJp",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
+      "publishedDateTime": "2022-02-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027.md",
       "title": "Facial Recognition Market Report Trends, Competitive Landscape and Opportunities latest report values till 2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2022 (Market Insight Reports) -- The Global Facial Recognition market study focuses major leading industry players with information such as company profiles ...",
@@ -1104,49 +1147,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-texas-sues-metas-facebook-over-facial-recognition-practices.md",
-      "title": "Texas sues Meta’s Facebook over facial-recognition practices",
-      "excerpt": "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna16201",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201",
-      "publishedDateTime": "2022-02-14T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

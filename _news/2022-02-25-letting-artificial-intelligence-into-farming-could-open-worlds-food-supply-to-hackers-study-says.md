@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "AI for protein folding"
-    excerpt: "DeepMind has opened new paths for drug discovery and design by solving a 50-year-old problem in biology. DeepMind, Isomorphic Labs, Baker Lab Now By the end of 2020, DeepMind, the UK-based artificial-intelligence lab, had already produced many impressive a ..."
-    publishedDateTime: 2022-02-23T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/02/23/1044957/ai-protein-folding-deepmind/"
-    ampWebUrl: "https://www.technologyreview.com/2022/02/23/1044957/ai-protein-folding-deepmind/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/23/1044957/ai-protein-folding-deepmind/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/tr10-ai-protein-folding-16x9-1.png?w=2256"
-        width: 2256
-        height: 1270
-        isCached: true
   - title: "Putting safeguards in place for AI use"
     excerpt: "As AI is becoming more and more prevalent in our lives, so is its potential to harm. Aporia is the Israeli startup trying to change that"
     publishedDateTime: 2022-02-23T14:09:00Z

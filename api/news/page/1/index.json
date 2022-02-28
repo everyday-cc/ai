@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
+      "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
+      "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "publishedDateTime": "2022-02-27T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-28-unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence.md",
       "title": "Unfairness in Competitive Sports may be Overcome by Artificial Intelligence",
       "excerpt": "Doping — the use of banned substances in competitive sports may be scrapped with the help of artificial intelligence.",
@@ -96,58 +148,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-27-new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications.md",
-      "title": "New Azure for Operators solutions and services built for the future of telecommunications ",
-      "excerpt": "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/",
-      "originalUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2026acea-d66f-4fcd-99fc-bd2ea9d18e7c.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-27T09:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
       "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
       "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
@@ -209,7 +209,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -674,7 +674,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1114,7 +1114,7 @@
       "originalUrl": "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {

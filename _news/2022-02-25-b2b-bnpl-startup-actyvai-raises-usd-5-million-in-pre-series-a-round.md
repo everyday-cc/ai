@@ -38,20 +38,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Wipro invests in US based AI startup vFunction"
-    excerpt: "Wipro is investing over USD 1 billion over the next three years to build out the capabilities of Wipro FullStride Cloud Services."
-    publishedDateTime: 2022-02-23T09:27:00Z
-    webUrl: "https://analyticsindiamag.com/wipro-invests-in-us-based-ai-startup-vfunction/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Wipro_AIM.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "tlnBBHoIXs92+q8lGdNkMTuWKx8Hfhstmx19Xppr13UqdIKdS2i4GrkUEEGvp7/yM6fqxT0uuwgFfqGugi5JwBJVdWxqr7x0RNVGuQ6R+3WicaBfPyTr8+y8Y5W6bKWMqITUcZDQzKFvmSiFg1heuuFTs1KOUKN/X9wyFyPKFRmbRzPqjw3P4NZOBBL5gSaPyrtGujjnGn1BEzxfhdubhCEKmlYY+piigSf6AcpsRyOlvLjWD+UyaOwCgPKGT0WQoG0MHeoDrwhaF4R221fePqcx7nMTcfmFODI2ZBOOIftNj7TztKeOvbjO5PnKmBb7tdPLN4POi1w88TSU8AR0P47QX8W4eejJ+8etsXEjgRzmzQ0+HBStSgKqGaH26LN1/3K91o9rqgHwfAUtXjGB+D0yBW++9EkZUjML6v1lwyPBAj2bMdwtz2hsW2CSwxIGspYLVSuqR0+sZ2rtkxPfsroDNt7UUXnehc68RfT7bwQPMe6i5zygERcyhCnawqDfwdZ48mSCUue9ikV0dgSBdQ==;NU0JqpfMMCO6OacjfGC3yQ=="
 ---

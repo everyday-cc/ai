@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "HomePod 15.4 Beta Adds Dutch Siri Voice Recognition Support"
-    excerpt: "Apple has added Dutch language voice recognition support for Siri in the latest HomePod 15.4 beta, further preparing the HomePod mini for release"
-    publishedDateTime: 2022-02-23T10:38:00Z
-    webUrl: "https://www.macrumors.com/2022/02/23/homepod-15-4-beta-dutch-siri-voice-recognition/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 24
-    images:
-      - url: "https://images.macrumors.com/t/vNCnNh4c6NZGG2wexoQH1l1CoVo=/2500x/article-new/2020/11/homepod-mini-thumb-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Apple Adds Voice Recognition To Dutch Siri With iOS 15.4 Beta Ahead Of Likely HomePod mini Launch"
     excerpt: "Apple has added voice recognition to Dutch Siri with iOS 15.4 beta ahead of a likely HomePod mini launch. Here are all the details on this."
     publishedDateTime: 2022-02-23T21:00:00Z

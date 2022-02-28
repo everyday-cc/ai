@@ -25,79 +25,41 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Twins: AI & ML Transforming the Fintech Landscape"
-    excerpt: "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases"
-    publishedDateTime: 2022-02-23T09:15:00Z
-    webUrl: "https://www.entrepreneur.com/article/420077"
+  - title: "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist"
+    excerpt: "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services."
+    publishedDateTime: 2022-02-27T14:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist"
+    ampWebUrl: "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "How technology is shaping India’s FinTech startup landscape?"
-    excerpt: "India finds itself at the forefront of a FinTech revolution. Propelling with the world’s highest FinTech adoption rate at 87%, India has produced the second-highest number of FinTech startups in the last three years."
-    publishedDateTime: 2022-02-26T10:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "SoFi Stock Offers a Fintech Play in the Disruption of Financial Services"
+    excerpt: "SoFi Technologies (NASDAQ:SOFI) offers a wide range of financial services to students, recent graduates, and anyone looking for an easy way to get the money they need. Many companies have been using disruptive technologies to disrupt their industries and make them more efficient in recent years."
+    publishedDateTime: 2022-02-24T10:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services"
+    ampWebUrl: "https://www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sofi-stock-offers-a-fintech-play-in-the-disruption-of-financial-services?amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Asif-Bhat-CEO-Co-founder.jpg"
-        width: 436
-        height: 458
-        isCached: true
-  - title: "Artificial Intelligence is Transforming the Financial Services Sector"
-    excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
-    publishedDateTime: 2022-02-24T12:16:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
+  - title: "Western Union to Present at the Wolfe FinTech Forum"
+    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe FinTech Forum on Thursday,"
+    publishedDateTime: 2022-02-24T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=621710"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
-        width: 990
-        height: 400
-        isCached: true
-  - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
-    excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
-    publishedDateTime: 2022-02-25T16:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Travel-Suitcase-Bag-Luggage-Airport-Roll-on-Valet.jpeg"
-        width: 960
-        height: 1280
-        isCached: true
-  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
-    excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."
-    publishedDateTime: 2022-02-24T11:36:00Z
-    webUrl: "https://menafn.com/1103756980/AI-in-Fintech-Market-is-Expected-to-Reach-USD-4933-Billion-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/24/EP_1f207image_story.jpeg"
-        width: 300
-        height: 300
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "cp9ilHPQFS2/QKmqyPQOH4OeiAWjRjArgTz6KqNErYyZKvd/ggaugZyboNd4gexRYmwYqJvYo1DtHlN1GIIrQQimfSUjeIuVfJgfvsTrJas4UVQv6eSygkn/pKExng8QK3OU2jV8yN8RXHlGU6ibppCtZLnogxi+HZcHbbhfinAExiT/0lK3W+mLuEfpfNYjVt0PoQMSyGGyDUQe8i7G6g7QJxA8iL6Fo7PoP4sr+3rTkqMusZWAU0hvGky6HpSQ7aLE6fnCxM/mYdKjPw4Yv+qDZQY9YsVc2Gj6ovLWKNMaumV0APNy/KysD/7jy+IwKBTRgyPSVBefaWubv86Hmui70Enq5s43GrWIFKdkIK1YCvql8G1oxS1VdmjLq3b3uL8m5u5id4E4X/VoaBVPz13le2/IHXa7jmRW7nDB4mDqzvEtCyeLVAGxvyv5Xfq5/IpNghasJXg7+oBpaaOllVLNQACdg/hKE0DOrPZQGqe/3h/2Fz38zkkwZrzVHOxTgII4B/OTY/zYnB2hfvCOSg==;MjilyiunR4W1me9Q2rqPmg=="

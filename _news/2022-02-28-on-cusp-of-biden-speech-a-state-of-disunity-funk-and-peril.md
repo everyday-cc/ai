@@ -1,24 +1,28 @@
 ---
 category: news
 title: "On cusp of Biden speech, a state of disunity, funk and peril"
-excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
-publishedDateTime: 2022-02-28T00:34:00Z
-originalUrl: "https://www.newsobserver.com/news/article258845368.html"
-webUrl: "https://www.newsobserver.com/news/article258845368.html"
-ampWebUrl: "https://amp.newsobserver.com/news/article258845368.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article258845368.html"
+excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong,” or words very much like it."
+publishedDateTime: 2022-02-27T16:26:00Z
+originalUrl: "https://apnews.com/a28e8c2d5e628474050d8703b861822e"
+webUrl: "https://apnews.com/a28e8c2d5e628474050d8703b861822e"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/7c8fe4bb653e4a82a40ec218afbccdf7/3000.jpeg"
+    width: 3000
+    height: 2000
+    isCached: true
 
 related:
   - title: "On cusp of President Joe Biden’s speech, a state of disunity, funk and peril"
@@ -52,6 +56,6 @@ related:
         height: 667
         isCached: true
 
-secured: "aF2S8Yd5OfnrUiAEa9eOW3O1r1hqKANSZHePUxSc/t3d3bl+IGjeZ1FyFUjdDQtM43JPpDIYKnEJ3/e9uekgIjIVgP8dTpzsfViS68JsayNVejthQykCKfbnDElKOGJ5EiKhoubhWtBApJ3HJw3GQbb2N8GeLCF0Ub6aEW4BiWIrQaG2oYFy0Q1brHX7y5d3qb2OjhvdOIV/TXVM7vHpSrXLZpGFo5cYmgWXpOg20RwE8cSkfsrrknnCH+kUtTSyEpZhzoFKt6le3cGbt+r0r9h1HkMfwcZ16OfVJbVT0W1z1wvGFtOm7Un+fVxJwzMQrEiEGH4xTCArnKxZJ9YeC2tCI30yfI0UrHEkznAkMytnEy6H6gMv+xK9spVhCNQgLsTpHIH9Qn88Cg86XdI99IpLcyoQPbskrJZPVtcXfzyL488Yg717fcUd3QLZh8mhfZaq01zccsT7ZYTxGAcb3H3/SBGlDkAnGjKSeT9YCRNOaM0LYW668pOjz+4sCmgm0BDFG2DwMJkSrKtERjck8g==;jDAZ4SV3VUYy8bVijtj6gA=="
+secured: "BOp1AlzeMNKJTn/mWJYRyt5kIJQPclo7dUJC883YGaNgYmbRRwwE6JJxaMCzHULW1yuAzr47hUEx24gKTNfWy5on9b6QgCSQahVhxZhH4AbAt3G43NVfE8pogatXhf6WIfUKe9EmEnJCVuUPx21zK1udQ+k6m6tulsaCy1jE5RGWrPQAcHRIu/9zEiTJYCuJ8785LZFTSCgfnrCsySvYWN+noLJj1Bm+XU6qgoTW4/MhgW8JagSJhuQqZUOhNgcO3PaVpwJNvnL9nnSfOCOlHZg44vttb+lW3US4t34YR71wr4FA7cTnYiiTv3kf9N8aRN7TkY3n0yqJs7bJxHaLSMjaPRnphdLFZ3jELfyeqP0=;pgAZ8oAnMgwhxRCUpKyeJQ=="
 ---
 

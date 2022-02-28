@@ -25,49 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Twins: AI & ML Transforming the Fintech Landscape"
-    excerpt: "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases"
-    publishedDateTime: 2022-02-23T09:15:00Z
-    webUrl: "https://www.entrepreneur.com/article/420077"
+  - title: "2022 Fintech Awards Spotlight: TOGGLE AI, Award Nominations Announced"
+    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
+    publishedDateTime: 2022-02-24T15:34:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/02/25815021/2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25815021"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25815021"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "How technology is shaping India’s FinTech startup landscape?"
-    excerpt: "India finds itself at the forefront of a FinTech revolution. Propelling with the world’s highest FinTech adoption rate at 87%, India has produced the second-highest number of FinTech startups in the last three years."
-    publishedDateTime: 2022-02-26T10:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technology-is-shaping-indias-fintech-startup-landscape/"
+  - title: "2022 Fintech Awards Spotlight: ToroAlerts, Award Nominations Announced"
+    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of virtual dealmaking, networking, and recognition in the financial technology space, in ..."
+    publishedDateTime: 2022-02-25T20:48:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/02/25851356/2022-fintech-awards-spotlight-toroalerts-award-nominations-announced"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25851356"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25851356"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 44
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Asif-Bhat-CEO-Co-founder.jpg"
-        width: 436
-        height: 458
-        isCached: true
-  - title: "Artificial Intelligence is Transforming the Financial Services Sector"
-    excerpt: "Digitalization using new technologies including artificial intelligence and hybrid cloud are at the heart of this acceleration and this has been more rampant in the financial services sector, also driven by rapid technological innovation and quickly shifting customer preferences."
-    publishedDateTime: 2022-02-24T12:16:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG-OcSiFDMqPw/article-cover_image-shrink_600_2000/0/1645656221991?e=1651104000&v=beta&t=2IcInAVXGXaXx4zyquI0r2DuNKi5edQ2rXD7dxya-2M"
-        width: 990
-        height: 400
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
     excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
@@ -85,19 +73,37 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "Top Trends to Witness in the Fintech Sector in 2022"
-    excerpt: "AI increases employee productivity by 59% in the banking sector. It has reduced loan defaults and has made transactions safer, all for a better customer experience. By 2030, banks will be able to reduce costs by 22% saving nearly 1 trillion. Many fintech ..."
-    publishedDateTime: 2022-02-24T09:54:00Z
-    webUrl: "https://www.financialexpress.com/industry/banking-finance/top-trends-to-witness-in-the-fintech-sector-in-2022/2443648/"
+  - title: "2022 Fintech Awards Spotlight: Turnkey Lender, Best New Product Award Nomination"
+    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
+    publishedDateTime: 2022-02-25T12:51:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/02/25813935/2022-fintech-awards-spotlight-turnkey-lender-best-new-product-award-nomination"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25813935"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25813935"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/fintech-sector.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "2022 Fintech Awards Spotlight: MDOTM, Best New Product And Best Data Analysis Tool Award Nominations"
+    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
+    publishedDateTime: 2022-02-25T12:55:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/02/25814245/2022-fintech-awards-spotlight-mdotm-best-new-product-and-best-data-analysis-tool-award-nominations"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25814245"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25814245"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "E2S5itfI3FtQQzEgw29PGS7y/Xeov32xZTWhjuUB3L7RQzYk6L4KPRvsfwNJ7lENUksi9eG47HQrb6JvIyv42YiC6ofJxjVoMMF2VVySBN9v8d24bqNfDGYSlkUc+xZMBrZd3MNLJYlbdmB4TwpvbWiCHHkrLXqo7IZbr9MApgYvelczXel42/9kYqbsLNamF1ocsWwk25HDeV/sAfQgHUusB0H1yyh5jB3HmpkNOBVKfkI6zXsBVoGdMfMNOvzmF2I2UlmunLFdcxDDuZONRDPNduNzeBiyAtV/d1TImjO50Vfig9hrP54rB3qjjFHbxuOpQJDIIOcTcaSf0dJQhxKnz+DUIKlYJFoe7abgZjY=;aJ86jb014GXiP0v0hsoJOA=="
