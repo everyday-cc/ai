@@ -76,22 +76,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Facebook's parent Meta unveils AI projects aimed at building metaverse future"
-    excerpt: "By Elizabeth Culliford - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between ..."
-    publishedDateTime: 2022-02-24T05:14:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89789686,imgsize-959460,width-1200,height-628,overlay-etbrandequity/facebook-s-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meta makes a big noise about AI and, of course, the metaverse"
     excerpt: "US Internet giant Meta/Facebook has launched a barrage of information ... piling a huge amount of resources into what appear to be essentially research projects around all sorts of AI and metaverse type areas, and it wants you to know it."
     publishedDateTime: 2022-02-24T13:25:00Z

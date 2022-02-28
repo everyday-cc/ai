@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Image-Meta?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/32185dd1-ac1d-5a7b-a004-d431e08d4804&operation=CROP&offset=127x16&resize=1804x1015"
         width: 650
         height: 366
-        isCached: true
-  - title: "Facebook's parent Meta unveils AI projects aimed at building metaverse future"
-    excerpt: "By Elizabeth Culliford - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between ..."
-    publishedDateTime: 2022-02-24T05:14:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89789686,imgsize-959460,width-1200,height-628,overlay-etbrandequity/facebook-s-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
     excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."

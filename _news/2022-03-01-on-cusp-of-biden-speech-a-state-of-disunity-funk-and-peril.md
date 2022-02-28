@@ -1,24 +1,28 @@
 ---
 category: news
 title: "On cusp of Biden speech, a state of disunity, funk and peril"
-excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
-publishedDateTime: 2022-02-28T17:24:00Z
-originalUrl: "https://www.sunherald.com/news/business/article258845368.html"
-webUrl: "https://www.sunherald.com/news/business/article258845368.html"
-ampWebUrl: "https://amp.sunherald.com/news/business/article258845368.html"
-cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article258845368.html"
+excerpt: "- President Joe Biden speaks about Russia's invasion of Ukraine on a television at Shaws Tavern in Washington, Feb. 24, 2022. Biden will deliver his State of the Union address to a joint session of Congress on Tuesday,"
+publishedDateTime: 2022-02-28T21:42:00Z
+originalUrl: "https://www.ironmountaindailynews.com/wire/?category=5023&ID=169498"
+webUrl: "https://www.ironmountaindailynews.com/wire/?category=5023&ID=169498"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Biloxi Sun Herald
-  domain: sunherald.com
+  name: The Iron Mountain Daily News
+  domain: ironmountaindailynews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2022/02/28055306/AP22057809515589.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "On cusp of President Joe Biden’s speech, a state of disunity, funk and peril"
@@ -77,6 +81,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8RdFW8ERi5h/175TSelzgLjSgZEV7yG04kWiSvPdletbgCo4fO8e+Z/tvG73supSAGzoblYJiheAijQT2h47FFNaK2DqP8lLQE3dL2stAWj7UeTvwXQWELi8jmIQDYhpKCajO9A4ceG3fzM5O9fr4Z0xEt9d6HkTK97mZakLx2EbAfTGLo8cSUgHByaAz4ekzC481a6rFpWY3l6qz6U/5fP7rYdySqYzi0HbIpFDDR1QpwRTSggKws/V4pxoc4nJQnHuKjduPGr9fMc4ocixNsRn2FDnf/zdSj4YedscjDhqYjoW+MwWKX/Q9vkOWvwULzvOo69E2HMoHLn7bEwTS6cLPShmcshKRBkCc1SYRzpJtuBzpUakN3dnZbg+DL/0ywXjE7FxiNZs1KuRGtGikZQyXmWO3JNmRXGBX8DnCJ4EwUJMDUEdjgc2DGqkDcaL0Bq7tkrPoIxL5odKpdBruNfNCE+JNEWLA5tUd226s9Q6iVG4uwikuSCeSexHo5014y/OjQpnWhIJgCZ8gM1DEQ==;wgmPuklJVNpbTi4AOExQ4Q=="
+secured: "apSSnEsv7na5LyRCkWsfhXOG3Ed7ViVoxvscLkd3LjERHvFqpQJHkgKF2TspjcwTbU0Uf7lTeSXbHjKeXGBcZILvSlFD8UYCMSfUpV9MskbxLbzseyFmSV8xbA0pSvDFpnNohlp5njz60n2RNNbLiPm3nUn+5GTEvQAj2BEvkFEakMEjS9ALG1jLLhAGisvnR8Gk4C9ihtdSAUSjnTThxu9VcznkpR5yphXvTQo9gqbZnUjwGc4gunjWHfROqnlF7IDizKKINeQyP9j9jiuttb8efEwl8DDoZ+CwQNNWW76KLLdvSdbq/joK95qIlWhks0uO3OOaB16Ct9gRl5REalqM4kUSnnkDFzPi3uL5AM8=;p7vaSbLDPORyswk2JrhoYw=="
 ---
 

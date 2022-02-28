@@ -59,22 +59,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Facebook's parent Meta unveils AI projects aimed at building metaverse future"
-    excerpt: "By Elizabeth Culliford - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between ..."
-    publishedDateTime: 2022-02-24T05:14:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/facebooks-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future/89789686"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89789686,imgsize-959460,width-1200,height-628,overlay-etbrandequity/facebook-s-parent-meta-unveils-ai-projects-aimed-at-building-metaverse-future.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
     excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
     publishedDateTime: 2022-02-26T23:03:00Z

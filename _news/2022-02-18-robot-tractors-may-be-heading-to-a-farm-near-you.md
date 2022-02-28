@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robot tractors may be heading to a farm near you"
-excerpt: "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. “I’m sure that’s really expensive. And I kind of want to be out ..."
+excerpt: "Las Vegas: Driverless plows and autonomous tools ... Equipped with six pairs of cameras and artificial intelligence or AI capabilities, the equipment constantly checks its position to the inch ..."
 publishedDateTime: 2022-02-18T00:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you"
+originalUrl: "https://www.thestar.com.my/business/business-news/2022/01/07/robot-tractors-may-be-heading-to-a-farm-near-you"
+webUrl: "https://www.thestar.com.my/business/business-news/2022/01/07/robot-tractors-may-be-heading-to-a-farm-near-you"
 type: article
 
 provider:
@@ -17,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/01/06/1433425.jpg"
-    width: 1240
-    height: 826
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/01/07/1434712.jpg"
+    width: 620
+    height: 413
     isCached: true
 
-secured: "PEQ+67oODKJFY+jYPpA+iaWsu+exkw3UOvyKXt1AHmAPRv3DVNuptETzKU0iCoHyJCcvxKxkVzYCCXjNBFpErZiGE4L2biRBhul3TncLxXgdoXWv6XOvOhdKl8Sy/ReD4khSE1mcNuFZNiGsMnu0ywqN9FJy/XKd+XDa74t0QPwrwQx3G3XW2ctWH5zw1O9BEebt2mBtDdMc2Q+1xQJnrRXMQNcgOd/vaZ9bkHZuZTDRRFvKUZZXWkUeBq2AJtKy6prk5zXTpMfiFqvY+vQ0pBY85NmXpk2Ym4jcw8GTFkem5uqmJBqU3CEC3AQhxh9cnbYPGiOxz3G1CtDjn7C0DWpz8JmBlqbniMY/OYYMwns=;zULC1kPGEcop9S5dxT2+qw=="
+secured: "Vd2Y1qbDwGyNyNjgxbHI1aynP/irmxA79IRLE2aiku86jdG7SNDxY2EdMikif0IaFjpB/BnzFC+FohX6KeQob5Uq4w1vXnCPXVscGeW0xsb5R9YJR4ye63HdI8GNpg7F6AZo1H4hlwluQTs+TsBQCWj/ks+mbe4H6H23j2phdiV24bt/1d6dfkhiQbXSoba9l+xbIWqrS9KMbvwIJaeeextDBmGSBlo8vy5L9WuR6flZHeJsKfDItT4aMM3y6cgCg9a5CZCAuxG+VqbcwGFAsuu1/Pb+msjhuAfq76L1vkTalbt2KHqG9cXEg/bae/pDvZW4slqdgUb2HB5BV64pWHl8b8czxd3oBGJoAalTIzo=;Tt0vBS4tF4sG7NhrqkdqGg=="
 ---
 

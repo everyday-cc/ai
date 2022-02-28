@@ -41,6 +41,15 @@ related:
         width: 480
         height: 276
         isCached: true
+  - title: "UArizona researchers find way to use AI to speed up lung disease diagnoses"
+    excerpt: "The team’s preliminary studies have shown that the technology has the potential for application to a broad spectrum of diseases.” #tucson #phoenix #azinno"
+    publishedDateTime: 2022-02-28T18:19:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/inno/stories/news/2022/02/28/uarizona-researchers-ai-lung-disease-diagnoses.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "HOGI810Rb4SB4dtup+emDIgePBxSoPpjt7BCAnNJv5roaWUXuG728biEl7fZLx7pBZIY6DUaMJbH7pwGAzS2x/tQ+cnH23IScLST3OgiR06ycJylPya67242UtnYUn+lWSmxHd/3zLude/UCsMSVIybIitZGCfK1VUjOvF+H+8iZCw9Ao74F0UUvenzit3MyeD1SYKbcYbJpLmUsrqk19ImpHa+ZZY32zP3bKMFRr2kKWfKCDgHXYE75ejPDD8Y8D+6ptd/4nNACk6DWjxrj1vNsE85SPbu6ppqDeBJXRJ4/rabvvF9yZ9heqo9ac/2h7GPs5zJL4IKiFbOkMUzu+K/qQW5G5ctV8HWFm6PyoMY=;QcUlyMlAUP3imCwo/Yp1/g=="
 ---
