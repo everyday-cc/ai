@@ -59,22 +59,6 @@ related:
         width: 980
         height: 677
         isCached: true
-  - title: "Meta Wants to Bring AI Assistants and Universal Translation to the Metaverse... One Day... In the Future!"
-    excerpt: "Zuckerberg's company showcased a variety of long-term AI projects it believes will work hand in glove with future online worlds."
-    publishedDateTime: 2022-02-23T22:25:00Z
-    webUrl: "https://gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856"
-    ampWebUrl: "https://gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/meta-wants-to-bring-ai-and-universal-translation-to-the-1848584856/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 72
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bd258d292cbfd33bf97a14a0933cc100.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Meta is building an AI-powered universal language translator"
     excerpt: "During a streamed event, Meta CEO Mark Zuckerberg talked more about the Metaverse his company has been investing in - including that Meta's research division is developing a universal speech translation system."
     publishedDateTime: 2022-02-24T04:29:00Z
@@ -182,20 +166,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHdhoN3MJMyZg/article-cover_image-shrink_600_2000/0/1645811731057?e=1651104000&v=beta&t=3d_obpkGM1X_5bv-szTxP28FNYX9HJwj95x4mRKWdQ0"
         width: 807
         height: 440
-        isCached: true
-  - title: "Zuckerberg unveils Meta’s AI innovations designed to build the metaverse"
-    excerpt: "To drive innovations in AI, Meta announced Project CAIRaoke ... templates rapidly from a few spoken words. It’s a good start for users taking their first steps into virtual worlds."
-    publishedDateTime: 2022-02-23T22:44:00Z
-    webUrl: "https://siliconangle.com/2022/02/23/zuckerberg-unveils-ai-innovations-designed-build-metaverse/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/ITL-system-cards-1440x1080.png"
-        width: 1440
-        height: 1080
         isCached: true
   - title: "Meta developing AI-based Universal language translating System for Metaverse"
     excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"

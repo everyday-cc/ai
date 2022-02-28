@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techwire.net/news/can-ai-help-cities-with-911-staff-shor
 cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: California Techwire
@@ -38,22 +38,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b50a7b2/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd3%2Fca%2Fbb56bffc29ca615bbb2330a88b5c%2Fshutterstock-call-center-header.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Can Artificial Intelligence Help With 911 Staff Shortages?"
-    excerpt: "As government call centers grapple with the nationwide staffing shortage and an influx in demand, some are implementing artificial intelligence tools to improve wait times and accessibility for callers."
-    publishedDateTime: 2022-02-23T22:31:00Z
-    webUrl: "https://www.govtech.com/gov-experience/can-artificial-intelligence-help-with-911-staff-shortages"
-    ampWebUrl: "https://www.govtech.com/gov-experience/can-artificial-intelligence-help-with-911-staff-shortages?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/can-artificial-intelligence-help-with-911-staff-shortages?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
     images:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b50a7b2/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd3%2Fca%2Fbb56bffc29ca615bbb2330a88b5c%2Fshutterstock-call-center-header.jpg"
         width: 840

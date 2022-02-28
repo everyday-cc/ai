@@ -55,6 +55,29 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
+    excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
+    publishedDateTime: 2022-02-28T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/marketing-automation-market-trends-business-strategies-regional-outlook-challenges-and-opportunity-analysis"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.abnewswire.com/uploads/1646031669.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Trends, Future Growth, Share Value, Regional Insights and Size Projection by 2027"
+    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD 12.22 Billion at 51.9% CAGR during the forecast perio"
+    publishedDateTime: 2022-02-28T12:46:00Z
+    webUrl: "https://www.medgadget.com/2022/02/healthcare-artificial-intelligence-market-trends-future-growth-share-value-regional-insights-and-size-projection-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 12
   - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
     excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
     publishedDateTime: 2022-02-27T23:19:00Z
@@ -69,15 +92,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market Trends, Future Growth, Share Value, Regional Insights and Size Projection by 2027"
-    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD 12.22 Billion at 51.9% CAGR during the forecast perio"
-    publishedDateTime: 2022-02-28T12:46:00Z
-    webUrl: "https://www.medgadget.com/2022/02/healthcare-artificial-intelligence-market-trends-future-growth-share-value-regional-insights-and-size-projection-by-2027.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 10
 
 secured: "ETZNCOfSvhihut3Tan8tffHjP+LySBRcBjsm5GMQhm4l/QocEFE4hpzl46BGyCPq4J8gzWjuU9MHCBPKWse06JxRTqLjFwrdEd0ER+kIC0gQfl7nfJvmH9i6YBwJ13VHbJcw63CvWvHtNzYRfHGsSs6pgvlqyIt+5q8/KfEnhOlVf+qvcW3qNKPO3BUvpqmOXQLEC0IC7Xe0hxwxBlyhKsE8MhMvPPdCORUI/gcSgbaSvUbzjaaS+IbjpdlB5Unvbu9EAlu/vZaFx/S7R2NkZieSIqw18VlB+T//SPeeTsVg0JE/zlxMrFJb7FUFiMzaLksxT61HG8QGEp3k0QX3CGtChkNI5Adk2MyM1d2vemU=;ZEMDYBGPdW/rXvIcdsUgCA=="
 ---

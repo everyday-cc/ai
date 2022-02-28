@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency"
-excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net"
-publishedDateTime: 2022-02-24T18:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency-1031228263"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency-1031228263"
+excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities."
+publishedDateTime: 2022-02-24T18:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d"
 type: article
-quality: 36
-heat: 36
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "SIa9PcX9JiymVFrBHxbZVv3je7w3FbKM7Tsn9kAhmpIje50Buh2PpLRwR/k++KUu6ly1k8y3s2QBaIhfPKUIFzqvHxktgwVm+tS/kn9QBy/eMXvXf9vAvERU9YdEzUxicXgqxLfm7Uh39NOjyw0Xan4ovOm/FQfHDwoRIKGjrJxs3bXX6KZZzq7O4diS9TYRgwReuGxcBMD4HstOhJdqZvyEle4UuTOycMYuBZPTkFNu2nR5k5rInxoxtMJHKCLk3GSekTXHBQ2dxvG6Dlwk/KpSU/9SL3tRNuyoUf4ZCkz22IacyWQPB+zA7j5GZGpXt+xk/mYha7t2Z+ic9QYA78z3YMtcj6aL/e6imN1RwQA=;0ZKbkh9ieoaAPZKzlObg2g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "BegJRBe0k6XF7jg1LMHQHPGTbJ9P85WXYFpV5TjXyuVBs8U6k0w6CykYxrDx/QBaggKbVfsaw1LWtgpLrYbPJZTWuR0AqCIkzI+H60PTummaN/FfFop0oQusWSHjWfQGIoat3JYl7eL0xdIECY4Db8u6BbvOARqm//C9ZTi7PzTcGpl57zmwKvBfYS4d3TQf0VsSlUlkQ35jC/dGhbdwB5kI3JLm7mL1kkkjtIwh/mLRlaNWchhcVP7VRItPE+f7JJauciaYWg+VR6oXDcI0UxenMnwrOJLQIqKmds9A+gBKpJj0aohAabdrOfy0INDvIhGuDSilSS1YIM7zxpHbelXb344dV8/hKbTa5nh/hCc=;HpVKv3W3bBpcg3LORCujBw=="
 ---
 

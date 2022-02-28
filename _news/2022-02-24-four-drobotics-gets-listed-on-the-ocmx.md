@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/four-drobotics-gets-listed-on-th
 webUrl: "https://www.digitaljournal.com/pr/four-drobotics-gets-listed-on-the-ocmx"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Robotics in aerial lifts"
+    excerpt: "Robotic lifts, ultimately leading to completely autonomous aerial units, are becoming a reality and it is one that could help to solve the serious challenges we are experiencing t"
+    publishedDateTime: 2022-02-28T12:43:00Z
+    webUrl: "https://www.khl.com/news/robotics-in-aerial-lifts/8018544.article"
+    type: article
+    provider:
+      name: KHL
+      domain: khl.com
+    quality: 54
+    images:
+      - url: "https://www.khl.com/Images/600xany/20211214-143207-SA-logo-Grey--KHL-Blue.png"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "VHKI8t1b33IQe5ucvcvIWDHjPAKpLp5K+IejsW7tMdNvwRtDyekao+3Zc9AuGCpAMEexTV2498CNSuomYa+u9Ui4f4dSefHYHyiO5UCnEYZlg79XjjohE0lhnjlwPgIuL2EdIwon38XyR1KM/oLOH1kDfBfVtgJcn5nlCjlpcfrHSfMejWZ2l+emp2Y7wUj448HGVy8b8+9BpW0bTl5lNxjhP2gEIZIyTY4xAEJgxD/CcHlqPfCkDNlSK1QNjv2fCVWOot5a13pIG0yCLLN9x3e5YJAfO7vbJCB4idnr6K3UPSv3rp5B+HKImO3jyO9T/Bg//Gij8hRQW+jHWQWhWsp4EVMEBwAwsfHKUMqMPtw=;DioOezS6dqlK8HmH13I7kA=="
 ---

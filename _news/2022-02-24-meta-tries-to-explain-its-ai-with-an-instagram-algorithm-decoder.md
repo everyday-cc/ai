@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meta tries to explain its AI with an Instagram algorithm decoder"
-excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.”"
+excerpt: "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.” Kate Kaye is an award-winning multimedia reporter digging deep and telling print,"
 publishedDateTime: 2022-02-23T20:09:00Z
-originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
-webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder"
+originalUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
+webUrl: "https://www.protocol.com/bulletins/meta-ai-instagram-algorithm-decoder?share_id=6924142"
 ampWebUrl: "https://www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/meta-ai-instagram-algorithm-decoder-2656768648"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 225
     isCached: true
 
-secured: "9Z9oqtW8R4n1lUMMW+04mPyB1qQa7Fz2TFh+AlKqDZbyC4tkutPsd10S6WYvX6AqR1D8ICWT0vACInEFIx8aSQAc848YNA4/Q9zLSFKHGfk4K8IDQCwtxSV1e2NqHPfdk3xyqaAEUxLPRjVf+ySy1i6mBz0ifCgiLWF70aXX4gNTOcOo+pKGVTteY2lWMIi8ZDgplA0ZywQEx4EDv5pvsth/wutvOpK6qUhYRF/Ft7YukTFJqQK9T2exYsz6tn2rZ56R9ioKZ3/fYCjHZveVj2D0E99T3gVUGLhRYds4wZe8KV464RyZmOhKmczw2XINz7vP1kPCESCqnakX8G5HvgtvnhW0nVx6ZkODQ0vt+b0=;yXOUq4hCqh5RuHr+e5OE0Q=="
+secured: "leexPYcD22jFEL8gyGCuzb1VH7Bz/R2Jaemr81B3Fm9Pu1udwnj1N1AAjArjGcnWKK5zwhlTaTrEg7QFkEB7DhbRlatXInEYe3PguwNPMHtrJrskppBUHm8ZH5x0XNO+qJr+2vGbkwLMmG4TJjtyMaK8AftT2KmsL5C7a/IqVA/m/ooK0GDxCgXpfnk7XHfXugQoBb8JSdm5gaUCxvmTzonbJTDWMoe0zK5UYiomQyafFLe6JbFOhOLHgNyHHIGuTiR6TJzFr2nJSoRbQrXlLCCHm4dYysk/LdInaYutZ6YOS4zG7gz+lQuv7F23T4Jv7LJvfZYI/EtyNLLuoxFwz3u5qrRMi3WOp54IPGq5wHA=;veNt6+Ms/7BQibgCX1daJA=="
 ---
 

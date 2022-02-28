@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta plans AI-driven universal translator"
+    excerpt: "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,"
+    publishedDateTime: 2022-02-24T05:28:00Z
+    webUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    ampWebUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 61
+    images:
+      - url: "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Meta to break language barriers with AI, builds universal speech translator"
     excerpt: "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme"
     publishedDateTime: 2022-02-24T08:09:00Z
@@ -144,6 +160,20 @@ related:
       - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/AI-vs-Human-Hero-1024x513-1.png?fit=1024%2C513&ssl=1"
         width: 1024
         height: 513
+        isCached: true
+  - title: "Cleary X Will Be An AI-Driven Transactions Factory"
+    excerpt: "Big Law is struggling to retool the factory, so we will build a whole new factory,’ explained Carla Swansburg, CEO of the soon to formally launch Cleary X – a special business unit created by"
+    publishedDateTime: 2022-02-28T08:13:00Z
+    webUrl: "https://www.artificiallawyer.com/2022/02/28/cleary-x-will-be-an-ai-driven-transactions-factory/"
+    type: article
+    provider:
+      name: artificiallawyer.com
+      domain: artificiallawyer.com
+    quality: 37
+    images:
+      - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/02/Screenshot-2022-02-28-at-06.44.53.png"
+        width: 1600
+        height: 1204
         isCached: true
   - title: "Meta is working on a universal translator"
     excerpt: "Meta is working on a universal language translator for real-time communications. The translating AI is another piece of the puzzle for Meta’s vision of the metaverse. Yes, that means Meta (formerly Facebook) is working on an AI version of the Babel fish from Hitchhiker’s Guide to the Galaxy."

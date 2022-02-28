@@ -50,12 +50,12 @@ related:
   - title: "Looking into the use of artificial intelligence in healthcare"
     excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
     publishedDateTime: 2022-02-24T09:00:00Z
-    webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/"
+    webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/?ref=refind"
     type: article
     provider:
       name: Digital Health
       domain: digitalhealth.net
-    quality: 58
+    quality: 54
     images:
       - url: "https://cdn.digitalhealth.net/wp-content/uploads/2019/10/healthy-brain-mind-mental-health.jpg"
         width: 555

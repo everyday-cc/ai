@@ -3,10 +3,10 @@ category: news
 title: "Looking into the use of artificial intelligence in healthcare"
 excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
 publishedDateTime: 2022-02-24T09:00:00Z
-originalUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/"
-webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/"
+originalUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/?ref=refind"
+webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/?ref=refind"
 type: article
-quality: 58
+quality: 54
 heat: -1
 published: false
 
@@ -17,8 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-  - AI in Robotics
-  - AI Ethics
 
 images:
   - url: "https://cdn.digitalhealth.net/wp-content/uploads/2019/10/healthy-brain-mind-mental-health.jpg"
@@ -83,6 +81,6 @@ related:
       domain: arabianbusiness.com
     quality: 25
 
-secured: "5oV+56nGsK9+Jrh7H9rOTW7/RSDLmlCmXZkf+pyeenx6LFkT0knzYK+IcWkLVmb+IHRW2EDaC1Qok1yejXBkF2IUlyQ0S9kMwohXLdkcamN9GY6P4JHsCj990OSVxCGrjz/mxTfw0PIypolxKXZjlq6QWpokjlcYNXKXQxavpKCvG2Mq5gl7DPawtowU71zWxaon+4IWCVb55uLLHEMTSeYLzW9lvyF4rDbRT59HJhVT9bVR1bBC+gF0aX45PcdS/R39zoFwngSbU0bx2+bNUgBSEd9VSI/PZyO1jFv82Q5b+dnS2YWba1rwXgKqKw6tmmE+ySXos0LfTHM8dskl7OdjsmbSfzFNIH3ijOJAXDo=;cOLsJQILNN1hPmXMDwlhmA=="
+secured: "Dl31cdz7Jb9dWdaEdtKzgQOwWGj75fn+H+tELssl2aCgoOvTnt49d8vM0Df8TOkN4Q6VL3Wih7bjagu0Cls3jPP83ky4RJ25KNX4LhkRnYJTtC3YscBfsaSIIga/9GBHkVsubUOz53pUtGKoMk135rDBwaUIKbj8DLQ+tjMLSWGE5ORn6HYgkcblT0u5MbZD1aRSTPxQOQL+Ob8+T4WoildNStMBI88IZzX6UtJDN92+q3yAXcR/or2v+ilRGK6Ge9Ca77FQX8u7pNaQEipT+FwDu7Mw4BK7yBwCWW9ZdlB+XJQ7+pBhF77rYNqbp3/L5V6VR3n/pr9QL/9iM4onppDtrjQzQF9Glpn7NYrI7io=;XFI4UeYJWEmeKM4JGCMM2w=="
 ---
 

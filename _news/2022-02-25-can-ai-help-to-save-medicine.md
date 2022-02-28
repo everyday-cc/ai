@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/can-ai-help-save-medicine-jack-watt
 webUrl: "https://www.linkedin.com/pulse/can-ai-help-save-medicine-jack-watts-jack-of-all-ai-"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Mathematics helps AI in biomedicine"
+    excerpt: "\"Data is the new oil,\" it has often been said. Indeed, in the digital age data is the fuel that runs the engines of digital media, advanced informatics (AI, machine learning etc.) and, not least, scientific research."
+    publishedDateTime: 2022-02-28T14:50:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 89
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/mathematics-helps-ai-i.jpg"
+        width: 1280
+        height: 1020
+        isCached: true
 
 secured: "6HotVkIPsSdb5VJxjEAZUDAR1bs3DJLX7hpA257aUGEBnHsfYiZA+X2JTx/gWlfYkUuyaT0zE+DT56WeUZWqjixeK9s8YMzTOjNoi4rFo6b1yD/B57zqZre2GfZ84h0LhU8azxIPIhlleMJaY0XO3EpnxIz3HurxbsosvnvYzLn+oK0AbSxY0zztXiTMIchh/E9ESq34eHrctH+ToJOjLcVAzTEUO17AR5dQIOy8OR6jWH6YRnNLwn6rDDt0tMfZspg8T260Xs919OIT2+Pu6OUEWfsiBITe5BsiH+jgHsuvHD+sG0eKnwEkHUPv1URgPqWuATL9EsQeH8PTX/gbza1eU3rjeo0IBu6P+EMzFWDKML2z9cPBlSXn2atV/GLjdpzdYBreuGoFqP3dkvYPiayjkb1Y9bw6urPRQNdaZLtNanS2AvAkpPXAVPjVHwNdVYH2TpgkP1nqVPb59ZmfPMqirQRD12luYVu7OvuarJpPdzOFK4cJKNbP799SXfawf4R/lvNPKd4mhLGAa8xSKQ==;yjOv9MELEtqYP+YVNJxiPg=="
 ---

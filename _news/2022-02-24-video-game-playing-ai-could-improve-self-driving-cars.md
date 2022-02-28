@@ -57,6 +57,20 @@ related:
         width: 2000
         height: 1322
         isCached: true
+  - title: "Creating Content Through Artificial Intelligence"
+    excerpt: "There is no question that brands and agencies can build such an engine. Some are already doing it with the help of artificial intelligence (AI), which takes on the burden of the work and creates relevant, inspired, engaging, and different material."
+    publishedDateTime: 2022-02-28T11:56:00Z
+    webUrl: "https://www.communicateonline.me/category/industry-insights/post-details/creating-content-through-artificial-intelligence"
+    type: article
+    provider:
+      name: CommunicateOnline
+      domain: communicateonline.me
+    quality: 37
+    images:
+      - url: "https://communicateonline.me//storage/posts/AMh55orLPOzKo1xwgU1o6rkZDPLSUZDY511X9x7E.png"
+        width: 1800
+        height: 1000
+        isCached: true
 
 secured: "l5kNBm43Wu7jt0AY8H7MSbdZBAJqhIv7LHjLsOspzUIZ87Svd/WurVthiPeX7F1GtjJYtLsHGLwBh8QcNzqxOvbeQ8VZttBBQng3fzmOyGa0Yl8+rur8SxmOEJRX/l7NVKN2YjcLAnLaL1t6OZgBPTOuFfDbjrqsFrchWMh1jHvSkyAlYoO+jZOUJPVfQxlInY1UNkDaYiavheogdTSnvxfHWhVl1DT5WWZ5QARecHfY6O0y64KT57op+NjdRpB7sLugd+4F9qD3YnPV8gOHXGvVnj6M8FsqlvuAR030SVtjKV4vISDjAS3cG5AWMnThsYLJ48M0MH76d6pSgaocfUhHHC2FoTYSph98ppP8/6Q791QZIJ8YbNI0hUE0vWz2s6kadoH37j4182SgMENR1twmkLnumzsq9BZ5Kmy6JgUUfNF4v1QIGpXhN+vfZjEdrnTlgSLbFMc8jx6rcvxwM/FbEav503REm3V14VgD9S2bJmPRMN9KTtNg0DfYvM15TL1JX2ZyqKCM6oyKHNIUbg==;tmYXUt/nKVQJ21Y+HhZTTg=="
 ---

@@ -28,19 +28,16 @@ images:
 
 related:
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare \"the state of our union is strong\" or words very much like it."
-    publishedDateTime: 2022-02-28T11:12:00Z
-    webUrl: "https://www.newstribune.com/news/2022/feb/28/on-cusp-of-biden-speech-a-state-of-disunity-funk/"
+    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
+    publishedDateTime: 2022-02-28T14:12:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article258845368.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article258845368.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article258845368.html"
     type: article
     provider:
       name: News Tribune
-      domain: newstribune.com
+      domain: thenewstribune.com
     quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200761400_200761400-e0593c67a600498cb745ed37cee5bcbc_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "On cusp of Joe Biden speech, a state of disunity, funk and peril"
     excerpt: "In their State of the Union speeches, they declare “the state of our union is strong,” or words very much like it. President Joe Biden’s fellow Americans, though, have other ideas about the state they’re in and little hope his State of the Union address Tuesday night can turn anything around."
     publishedDateTime: 2022-02-27T17:30:00Z

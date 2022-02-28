@@ -59,6 +59,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft expands Azure for Operators with hybrid cloud platform"
+    excerpt: "Microsoft’s push into the telecoms sector has been strengthened at Mobile Worlrd Congress 2022 (MWC) with the launch of several new services that expand its ‘Azure for Operators’ cloud proposition The most revolutionary of 5G applications – such as Industry 4."
+    publishedDateTime: 2022-02-28T14:34:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-expands-azure-for-operators-with-hybrid-cloud-platform"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Azure for Operators solutions and services built for the future of telecommunications "
     excerpt: "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for"
     publishedDateTime: 2022-02-27T17:00:01Z
@@ -147,20 +161,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
-    excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."
-    publishedDateTime: 2022-02-23T21:50:00Z
-    webUrl: "https://redmondmag.com/articles/2022/02/23/microsoft-defender-for-cloud-adds-google-cloud-protection.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/CloudSecurity1.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Why Amazon, Alphabet and Microsoft are undervalued"
     excerpt: "The cloud computing oligopoly just delivered another set of extraordinary quarterly numbers. But this fund manager says the best is yet to come."
     publishedDateTime: 2022-02-28T00:58:00Z
@@ -176,6 +176,6 @@ related:
         height: 628
         isCached: true
 
-secured: "xsPhEpV8eJqhsTILbosdGSswy8Iv3BlJPpaSTIkZxh4ZE7tYqu1p9bLgE4u9dcmb4fdjLwlXGjLRcOthFZnS0KgJjjbE38RuDfF6t+DI2Yn98P6236xzbdHcJ9P/KOecs6w4G52D19aIk/HORFpXIKoGZTQ6I6zZrAn6CGaGgHVfFW1dyL4qkMZGCkDqqHeFFgHh0XNpJ0dGNnhMDy3vv2bki5z9od/1y5QkZiFCtp0dbBioBcIwAyUO25M4A+u2W4zARnZ/UtyxPBuYYP+21PeK8CvGwY7ihAO4fuK4QNvvrt21CtfiuqnAZnBwx2hJ/07n2v9EZ0ICanS4AXO0SV3YnDIi9TSlrcdNAN3mkxM=;8RZnWoe7YN1YBEUKnCj/Ug=="
+secured: "rZtgEbKsTl98CMp05U7/hgzQ0kDOSj4LwEPkW8TfaSCP0tF3PU8aAVrTcTF5c1+2KcIvHIu2BqhziKQF6G5yLpZwJyApfCrzfoLOz9HJ8RiQYdwhm9QoPL9ZlAcGbPiM0LsYlk4LHWl6X4i4R4CQa5v/pa/gpAzdmrOEPeCSxD5clFN2ivgNAN1qewQ+6zBsR4jM1/We5CDf5jYkFEOFy8iJi9O2yuySfG32cWavPbUBZ87lBFyrMkz4TBsYd9sG4cbP9l69zvPeXCPu/jQwyASV7bW4zWcd9Wq8le1ia/pIhzAi4CMaOEqEwntuHJ7pxdOuYncedqvUitYAq6WvA1zVOqIVS55j0MDx9GwWMsqeYvNyilgE8WCAbqJDhuLhKDpKN9nlXpE/eVyNc9m5yaxYLp4LuhGisYc5nTWldR+ewfbTKR9qZ/2AzPdVenq2sWiA/j8A8G7i9B3ywujZY3o6PjSU25L/7IA3bEXqO+nlYgXTl6xynLLtuO6wFm5hp034QWv58bhNHMuVjcZJqA==;yvgTwl3zqNbd55U1e6w9MQ=="
 ---
 

@@ -76,6 +76,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft expands Azure for Operators with hybrid cloud platform"
+    excerpt: "Microsoft’s push into the telecoms sector has been strengthened at Mobile Worlrd Congress 2022 (MWC) with the launch of several new services that expand its ‘Azure for Operators’ cloud proposition The most revolutionary of 5G applications – such as Industry 4."
+    publishedDateTime: 2022-02-28T14:34:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-expands-azure-for-operators-with-hybrid-cloud-platform"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Azure for Operators solutions and services built for the future of telecommunications "
     excerpt: "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for"
     publishedDateTime: 2022-02-27T17:00:01Z
@@ -147,20 +161,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
         width: 473
         height: 315
-        isCached: true
-  - title: "Microsoft Defender for Cloud adds Google Cloud Protection"
-    excerpt: "Microsoft on Wednesday announced a bunch of security product enhancements at the preview stage. One of the highlights is that its cloud security management service, Microsoft Defender for Cloud, will now secure workloads and configurations for Google Cloud Platform (GCP) users."
-    publishedDateTime: 2022-02-23T21:50:00Z
-    webUrl: "https://redmondmag.com/articles/2022/02/23/microsoft-defender-for-cloud-adds-google-cloud-protection.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/CloudSecurity1.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Why Amazon, Alphabet and Microsoft are undervalued"
     excerpt: "The cloud computing oligopoly just delivered another set of extraordinary quarterly numbers. But this fund manager says the best is yet to come."

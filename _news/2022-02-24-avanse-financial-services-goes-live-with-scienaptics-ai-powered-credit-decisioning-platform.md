@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 864
         isCached: true
+  - title: "As the War in Ukraine Spirals, Vectra AI Announces Free Cybersecurity Services"
+    excerpt: "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today responded to the expanding Ukraine-Russia conflict"
+    publishedDateTime: 2022-02-28T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/as-the-war-in-ukraine-spirals-vectra-ai-announces-free-cybersecurity-services/article_1d377015-ec36-59ce-b493-743c9ad80760.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "wI6bKbGsLedmFDSDu8MVvpGMpn9ZGNey2Tsom4BSDDua3t6+5gQO3BKzi9R7hLDD2pE2o3HPrAFYNgCOqSHusXmx2sfJUFGs/wGPfw0UbcpMp/8fnMP3UKTdxMMq1gAPWI5658jlaM35WjBYwHusYHK0CeNO/8QiXlF0teWTiVMavo6KMWVUmsO5cnaEZ1hoVwaXhAh79XE1KXJj3qpiX5Z5cLV9dgV51GmKXenkd9JGkyAUFGvIqKZYlCiVXYczALcPVDClBMnz+KBKKQEwXLsNkOZmvGFFlIY6g1u8YF6S+XI4R5n7JFdGzR+93yk+ZqoU8HVUEfml2P+A9G+vKN1MuxTGgnEA86L9HAi0w38o9gXSYFktOM9LRv26WBZbCOUp3oYRJpRUJw1UG2S0h3FNTXNCbvYTf1STvogJlOQFJCh93KYOnV1Yqt1rLbL8MHp8qTpzohqG1ocHYdRrikiYgCVS3Zi9LoZy8ReABZuZhzKtmiZBRH7m6M+hbL9UX9ITcWyt+7tg0f4xgDnK/A==;Rll7K7Phrwc4TkLhPjjWuA=="
 ---

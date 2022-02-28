@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-28T12:46:00Z
 originalUrl: "https://www.medgadget.com/2022/02/healthcare-artificial-intelligence-market-trends-future-growth-share-value-regional-insights-and-size-projection-by-2027.html"
 webUrl: "https://www.medgadget.com/2022/02/healthcare-artificial-intelligence-market-trends-future-growth-share-value-regional-insights-and-size-projection-by-2027.html"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - IBM AI
 
 related:
   - title: "Automated Machine Learning Market Size, Future Opportunity, Emerging Trends, and Growth Forecast Report"
@@ -47,6 +48,20 @@ related:
     quality: 25
     images:
       - url: "https://www.abnewswire.com/uploads/1645680377.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
+    excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
+    publishedDateTime: 2022-02-28T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/marketing-automation-market-trends-business-strategies-regional-outlook-challenges-and-opportunity-analysis"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.abnewswire.com/uploads/1646031669.png"
         width: 1200
         height: 628
         isCached: true

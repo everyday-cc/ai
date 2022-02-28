@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
+    excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
+    publishedDateTime: 2022-02-28T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/marketing-automation-market-trends-business-strategies-regional-outlook-challenges-and-opportunity-analysis"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.abnewswire.com/uploads/1646031669.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market Trends, Future Growth, Share Value, Regional Insights and Size Projection by 2027"
     excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD 12.22 Billion at 51.9% CAGR during the forecast perio"
     publishedDateTime: 2022-02-28T12:46:00Z
@@ -63,7 +77,7 @@ related:
     provider:
       name: Medgadget
       domain: medgadget.com
-    quality: 10
+    quality: 12
   - title: "North America Deep Learning In Machine Vision Market Growth Overview, Technological Advancements And Competitors Analysis Forecast By 2029"
     excerpt: "The North America Deep Learning In Machine Vision Market analysis provides a high-level summary of classification, competition, and strategic actions"
     publishedDateTime: 2022-02-28T08:06:00Z

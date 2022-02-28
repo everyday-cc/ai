@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 864
         isCached: true
+  - title: "As the War in Ukraine Spirals, Vectra AI Announces Free Cybersecurity Services"
+    excerpt: "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today responded to the expanding Ukraine-Russia conflict"
+    publishedDateTime: 2022-02-28T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/as-the-war-in-ukraine-spirals-vectra-ai-announces-free-cybersecurity-services/article_1d377015-ec36-59ce-b493-743c9ad80760.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Avanse Financial Services goes live with Scienaptic’s AI-Powered Credit Decisioning Platform"
     excerpt: "Avanse Financial Services Limited, a new age, technologically advanced, education-focused NBFC announced that it has tied up"
     publishedDateTime: 2022-02-24T08:40:00Z
