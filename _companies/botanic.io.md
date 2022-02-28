@@ -2,7 +2,7 @@
 name: "Botanic.io"
 overview: "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://botanic.io
 
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-RfVBN3nfRs"
 
-secured: "kkVovSsytK+XW2mKR7AIt9261FtBBXxPdWTbVrOpQK/RMNT8XeWEV4TG82dYmMVFjx46jQ9q/GfdPsR5Gc9j+3oLjEwqBsPqjYj1vat1bd9EusOlY5ZiIXG+7dOiFx3Ze4uktuST6GXnEjPziaFeUxt36mgPNWyKR3jThvUQlxQhzYZkb11vX4mVPfe9+uGWAvRKS7JdxjyAOKKG3ABRp5G6+/n2zWPVf1M3JbgDQ6Pu5VLvFMuGis4gtdPTinPaZuqH+Yd5cY0VPHbREfxmbOhz/eywXR24EZ9tEZJIp+eG8Q/OtA234uD0ZEcscWM0fU8qovRz/We5TGx0I1r7USLv+GJWhjIN7I5WN1Fy+uYlnfgwm3qSvKRANxISEfz05S6A/gsfQrRRGNsbra9GbA==;BwLLvyJbdF1FDudS+v14Hg=="
+secured: "1T+Ip35eAqhKNZgoSXAqDOJKoU7o0XziY5oE9aJc4ndvijToEjFk2abtfifc8qBQooWiPslQLqJdrXQjsA4nHV7KW4wvNIzDWDS0bndMCQGW1t4Og0B7Pf3UciRU3iOsYIJ3cg78q9sFsZVfa9UBR3iE93kyrbb5sEqm8/YQShuRVwI7a19fnJ5wZ7XoALf+XKh+38qFI/EFRKDjMhJ/6JLKjTcQO2eVDdosM1WP3yImyMkGKcJmTDEfG+Qumc7iXICbtnHNKUgaoW1sOKKcgaWnRVyeuQCVokE5C2XelwTnXhJbuRyU73nVc+d89Xfx2/8SnK/lj6i0JNRr9WuA1ePvI2eP6VGiLVPM/taUPf9vWaDGeIdLKmHU1px8sFtJmhWlwSpQxRgOyg3RfPh7pg==;tz1Orvnw8feUtjhiku5BfA=="
 ---
 
