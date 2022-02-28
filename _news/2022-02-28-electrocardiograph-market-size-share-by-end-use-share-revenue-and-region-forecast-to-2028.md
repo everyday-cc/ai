@@ -41,20 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Automated Machine Learning Market Size, Future Opportunity, Emerging Trends, and Growth Forecast Report"
-    excerpt: "The North American region held the largest share of the automated machine ... customer service. Further, the COVID-19 pandemic enhanced the digital transformation in all verticals, such as healthcare, manufacturing, and banking and financial services ..."
-    publishedDateTime: 2022-02-24T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automated-machine-learning-market-size-future-opportunity-emerging-trends-and-growth-forecast-report"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.abnewswire.com/uploads/1645680377.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
     excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
     publishedDateTime: 2022-02-28T13:15:00Z

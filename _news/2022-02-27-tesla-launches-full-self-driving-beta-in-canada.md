@@ -55,6 +55,20 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Tesla Full Self-Driving Beta Is Now Available To Drivers In Canada"
+    excerpt: "Tesla Full Self-Driving beta is now available to drivers in Canada. Here is everything you need to know about this."
+    publishedDateTime: 2022-02-28T15:25:00Z
+    webUrl: "https://www.redmondpie.com/tesla-full-self-driving-beta-is-now-available-to-drivers-in-canada/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 54
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "nwMkTZSpKjzkoDeg2wBcm+6RYKeGlSIi4s7CEbcjcQe35NzI5/e++MiWt2cKl3Hyx5L15fANw3rjALMbcPSpF8/SDCiKwAwt4tyetVYVcAMX1NfWKcyzEG7qpa/Gnp8GkjvmxMhUrhHY7E/LVS0/gWyr5c7XUwE9vT1c/Uqknw+DYVebFWoKO1aNTFF67RDvVY0KplS2D+p95+GYmwBde7GJMDSq8Wq2zM9M2h72NItB+eHmxB7mUA9e7CT4MGJlGa+xVIqOQthnsNrC7m89+xVkhEmmjqu9EdvzmCJod6HbHvLVIMtFU1CUivhFNmj/gx0TsMdMuGyhawl/ajFe/KbzbGmIYeFKEWWF0Voa3G4=;Q+3MkpfzOEyrusvD4Zs6Uw=="
 ---

@@ -56,21 +56,21 @@ related:
         width: 2000
         height: 1322
         isCached: true
-  - title: "Video Game-Playing AI Could Improve Self-Driving Cars"
-    excerpt: "Jamie Wynder /Flickr (CC BY-NC 2.0). An artificial intelligence system, designed by a team including University of Texas at Austin professor Peter Stone, made history recently by beating a human world champion in Sony's popular video racing game,"
-    publishedDateTime: 2022-02-23T23:44:00Z
-    webUrl: "https://cns.utexas.edu/news/video-game-playing-ai-could-improve-self-driving-cars"
+  - title: "Looking into the use of artificial intelligence in healthcare"
+    excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
+    publishedDateTime: 2022-02-24T09:00:00Z
+    webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/?ref=refind"
     type: article
     provider:
-      name: The University of Texas at Austin
-      domain: utexas.edu
-    quality: 39
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
     images:
-      - url: "https://cns.utexas.edu/images/easyblog_shared/2022/b2ap3_large_gran_turismo1400.jpg"
-        width: 1280
-        height: 768
+      - url: "https://cdn.digitalhealth.net/wp-content/uploads/2019/10/healthy-brain-mind-mental-health.jpg"
+        width: 555
+        height: 330
         isCached: true
 
-secured: "CFChFHu1hAaZmifUzOpSMeBFFRM5QGq/t0AVIeMHtXR0+2Jih7cEpPTiUc2ZOfBhMOX0QmCsX2Ikx6DKZ5+He1YzZ7vRJvXgozLgl+UXmFYb1RFYI7EofJn3Ku9Vger7rzGH7YllAwmCZ+jYpCxBVPmTROGGP2CNYohx2raTenbVK9FLmHpuR1IOwz7GESnUJ7uf9sgtF1LGjIvGDJA3OPdFWmTWUbe7yGyq2Hh1LDaa5sdKsaxkyqNktGNoTT2bAHPkRcfPOIQnXtFslyfQ3hyR0lx5yzeYch8vUtbBVsfVilb4e6dXajWDGcvW9hhFfu43srjzXY4QNNVHGnEieq1Q4tDMThUTyX3q7elud5g=;wNPd6O8IazqtxuaZCg2mfQ=="
+secured: "ibzWf2cCA8FP5UWYp5K3LfZEYHrRIpGOGiIznQrqN1Bfa8MBi6xpfu/GZ08vE4kcrTTQMvav8xcwVQALYJDmru/zagjN3wJa+YIONQo/xY7+GCaTFWSn5o9Z55gkUAYA8pf/4fItv/k1TLiNkjSO9kPhjlXDX4Vrht39n1F6grCZ2W1guPe5/rw+r5o+6bHiOVchDv2FlpdfVTLF+cHpIfOWbcX4a7lRZZ2uqBt3uTA3kII6PuDmFLQEsYD3QC7hG2DiKAN7MmPOoNFNzynu7gd6MkXZkvbMgpVK7ldWcw9OX4SL9DVRmN20Lt8ZxlQyJhac0I7rqCjufUhcMkQYvtwVDi+TR4IF0Vr+0jkugcBoVHyIYKTIZh31wXsFOLYY74wg9a1qL+gjd8idw8XeKsZs7sF5HScHW/Po3n36RqeZVVlFotkI6bTltnSYtLr+gTILznG43zuKqkvKYp1g+tr7/5Hph7zYjLqCPl8+mqFNKI8TDzBFZBVlhrrUAScjMLxJOwpcowi9mLmNNLrvYg==;ohrK672K8hFbUAKoavm0pg=="
 ---
 

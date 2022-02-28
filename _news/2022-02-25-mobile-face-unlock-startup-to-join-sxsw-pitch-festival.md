@@ -66,17 +66,6 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
-  - title: "Employment Department Looking Beyond Facial Recognition to Verify Identity"
-    excerpt: "That’s what Employment Development Department Director Nancy Farias told an Assembly subcommittee Tuesday, after questions were raised about the use of the technology last week by the Legislative Analyst’s Office."
-    publishedDateTime: 2022-02-23T23:33:00Z
-    webUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity"
-    ampWebUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 37
 
 secured: "4Hw17S+SLJKiaPkcbEP3EExBACYi9XLzBGzQSDKZ70TUDXibKsUnOKhRUEj29/a/gI6a8iSjGe8xt8oK/DQNLa/mEPSip3/JMEgfs/UUxslWB8mlRd57p1i37YDfhurV8awLXaDgDgR1QR2Iy9IIHtlt6y5/aYhCcy9eqE9XmD0LTWZHD21t7VPvylvq1jwy25f8JUqWnqfOSy8Xf4Y0fhsooQOOK6l8S5md60M6XmL/L9v+rBOoiJvFi77Q9cmyiv4uOz1efQnTkXbd61PVkMNboNWMl2x7mWuTN5elCDjJkrBEuzTAIeq50FtSjgtacFQUHxITnUP3/2/bWTS9CPktpmeXt9gM+zGzWOpTmc1WCbVYWD0py322LXZUXkKDMTL+lBZDng/44Lq3s8HTHI3htatraGvAzdg5SAkuqOtC+vuBu6ehePLIqhBW0SLDFr+g9ZrhCZSUBY8RITzDPkQrJ927TKE0vzScxPjPwcUBCC8kM+b3AjblZIWw/QmCQdvgIs0r3CQMEM7PXUryKw==;X75udejs7jOgcGm/FpmloA=="
 ---

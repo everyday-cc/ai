@@ -119,20 +119,6 @@ related:
         width: 1920
         height: 1358
         isCached: true
-  - title: "US Bank picks Microsoft Azure for cloud migration"
-    excerpt: "AI and machine learning will \"transform applications and infrastructure ... \"As US Bank's primary cloud provider, we will apply the power of Azure to help the company adapt and build new, secure experiences for customers and employees in the era ahead.\""
-    publishedDateTime: 2022-02-24T00:02:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 71
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aryan-singh-vtbqlytx6sq-unsplash1.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Microsoft updates security applications for multi-cloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
     publishedDateTime: 2022-02-24T20:22:00Z

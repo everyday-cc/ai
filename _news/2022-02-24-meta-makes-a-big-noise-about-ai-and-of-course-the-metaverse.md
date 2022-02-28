@@ -137,22 +137,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Facebook Wants to Finish Your Sentences in The Metaverse"
-    excerpt: "This is the tech giant's latest effort to build its conversational AI capabilities to deliver better dialogue in the so-called metaverse or the immersive internet. The Facebook parent wants to create nuanced virtual worlds using voice."
-    publishedDateTime: 2022-02-23T23:38:00Z
-    webUrl: "https://www.thestreet.com/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
-    ampWebUrl: "https://www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTg1NTE3NDI4MzQyNTMxMTU0/market-capitalization-top-image.png"
-        width: 620
-        height: 400
-        isCached: true
   - title: "The Metaverse Could Fund Important Artificial Intelligence Work"
     excerpt: "Meta Unveils Voice Mods for the Metaverse Plus AI-powered ‘universal speech translator’ Some context here, I didn’t realize Zuck was building the Holodeck. If you enjoy articles about A."
     publishedDateTime: 2022-02-25T17:57:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transformin
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transforming-financial-sector-serena"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -30,33 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Machine Learning is Transforming the Logistics Industry"
-    excerpt: "Customers can use virtual assistants to be the first point of contact for them and to receive delivery requests. They, like other AI solutions, can"
-    publishedDateTime: 2022-02-25T15:42:00Z
-    webUrl: "https://www.cioapplications.com/news/how-machine-learning-is-transforming-the-logistics-industry-nid-9371.html"
+  - title: "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022"
+    excerpt: "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized."
+    publishedDateTime: 2022-02-24T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/b2me9450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Five key tech priorities for financial services leaders in 2022"
-    excerpt: "Technology in modern financial ... leaders invest in learning where the opportunities for innovation exist. You can find out more about how to bridge the gap between business and tech in our white paper Fintech Trends for 2022. Machine learning (ML ..."
-    publishedDateTime: 2022-02-25T08:01:00Z
-    webUrl: "https://www.business-reporter.co.uk/technology/five-key-tech-priorities-for-financial-services-leaders-in-2022"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/009/iStock-916358718_Main.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6216521a02453bb63285909a/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
-        height: 800
+        height: 841
         isCached: true
 
 secured: "5jCe9oHHoB+1NsaRU7LKAzB4ZEFyiZ/ttQCMBXXoZIjWbBothAlNQaV2WAzcNUfy5ZCw7p9x/MPH0W3r73D+YanpHd0z7TshX1p/0iTKQB/nbfJfXq1tKYYxhVUEGwKdSp4D594i1BX53XDX7Mmk2R1J6a7i1z+94l9dljcrmZkhc5EGPcRgS73v2WxcokuUXID24uMZ+bAZoePIXTDChso18lD1QbJqhrMuYzlBKRepDe1b3F8SQfUgBBhkH03ON36iWta/WcuyZGPHC0OJEgqr/nI9ZRbB7dhRJHZxdlx1vf71NK0TUpPoXjfajvaGHutnVv10rtsjNPH6l5j2ME8k4+fRdMLrO3qfYG2cppo=;2rW+x7uYQpFGz3gG7d8DEg=="

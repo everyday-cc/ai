@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Firefighters relying on artificial intelligence to fight California wildfires"
+    excerpt: "Artificial intelligence is quickly becoming part of our daily lives. We talk to smart speakers to get weather updates, chat bots answer our customer service questions, and soon, self-driving taxis will begin operating in San Francisco."
+    publishedDateTime: 2022-02-28T03:47:00Z
+    webUrl: "https://abc7news.com/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/"
+    ampWebUrl: "https://abc7news.com/amp/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 56
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11596509_WEB3_AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chinese Self-Driving Taxis Are Headed to California. Here’s Why."
     excerpt: "AutoX – one of China’s biggest autonomous ride-share companies – recently announced it’s setting up shop in San Francisco, where Waymo and Cruise operate. It’s"
     publishedDateTime: 2022-02-28T12:02:00Z

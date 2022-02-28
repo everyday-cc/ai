@@ -44,19 +44,16 @@ related:
         height: 438
         isCached: true
   - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
+    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year."
     publishedDateTime: 2022-02-24T03:40:00Z
-    webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
+    webUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
     type: article
     provider:
-      name: Walla Walla Union Bulletin
-      domain: union-bulletin.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
-        width: 600
-        height: 403
-        isCached: true
   - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
     excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
     publishedDateTime: 2022-02-24T21:36:00Z
@@ -72,6 +69,6 @@ related:
         height: 270
         isCached: true
 
-secured: "qJBVC0o+Vvlos0Emmki+SG35G3pQ0RJ2d8MTqsTKjn2V+7Gs/WoNn3NxNV91/59371fGvCvW+EY7FuavdSKIKiwBarFs4CZOZzYZIvMIqYP2MZJYQJ4K+JOQNd5bMd9fOVx20+F2xoMrrMtQr0IfGFnmqNqoIqWRK1w8MyLuq2QL3KaZSLBtWynZIsp0rJtrSdGyFGLr3XT3w5nwXn0XUe5KZ7dUya+ekRgQo8Of4aMhsvEyYo6fcXtDokOvA7iP9qLl8M8sY2Dgu9cjHzB3f6NL/qzf3C8LAyQDpZ/271aLbwgU/vdwn8kKBMmV/PaQDU/7bQGsLBuOUjYJXNkDUJPeWtJQBkKBon863V3nmQU=;T2IiR8hi/0j4qsW92Yqs7g=="
+secured: "pF60ckZw5EKT6C/4oxg9OhKC5ZAyiuard+rABRjQhdSWhD0LclzQCrvjZ3lAzj88UUl8he2xfXsPWcMRGBoO6vZzGvEYg32cPSP0Scha52DdoOVPvLn975IJBpNlnry2tHQCYgx80R9VOlUZiDJ6sDC3PITTrG2uTgS5I65EvlFymKyy6HPEJxS2ivhSH1J+N8/Z0bswGcKMnIQe4kxg0zjqLraPWNF4Mrt1ARSeLNvYwb0GXvfF1hPGN3P1CbZvU4G3+Tp4Owp/cAZ2C0Y0zoUnlLDtOv2rBiKxfHH9Sp13YIDj9/VdyDcs9WD0aBh8mnPGGZg+U/3PTHCXOwSgrAUyI+wTE0ZOb9CW8z7j1QBjGPCJ2RBpIetqli5qsUdcSEWTiawiS+FkqHtlAVURBYd/yPb0wy55cYBVbe8/syazpNMkJzAXxspx0a5LWWvyWMYmGdppREgQ0Ke3sxWIlbCZmfWDDKgY9frTi59601msKCW2sIbDti13n3GuQNI1IYjJYEiwqJTl9fz/CZ3NoQ==;OItvbic8gxl8kRePGH4DDQ=="
 ---
 

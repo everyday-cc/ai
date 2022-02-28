@@ -52,17 +52,6 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
-  - title: "Employment Department Looking Beyond Facial Recognition to Verify Identity"
-    excerpt: "That’s what Employment Development Department Director Nancy Farias told an Assembly subcommittee Tuesday, after questions were raised about the use of the technology last week by the Legislative Analyst’s Office."
-    publishedDateTime: 2022-02-23T23:33:00Z
-    webUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity"
-    ampWebUrl: "https://www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/employment-department-looking-beyond-facial-recognition-to-verify-identity?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 37
   - title: "Mobile Face Unlock Startup to Join SXSW Pitch Festival"
     excerpt: "Hummingbirds AI will be looking to accelerate its business when it makes the trip to next month’s SXSW Festival in Austin, Texas"
     publishedDateTime: 2022-02-24T19:02:00Z

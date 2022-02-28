@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-th
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Math for AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6217c1522b85afd1980dadb8/0x0.jpg?format=jpg&width=1200&fit=bounds"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "BDkkVPBHDzw07TBQ0linQ5cUaYeYcQRafSRU0k4PYoOw0VRkzamtLWXg68zTnD8727aBybouIvigsPh18eu+A+91bjnGNSR7vqy4K9dQL6Npq1olyoRsRnJLZvYH777Vn5qwjtrqACRBbwkGABb/RO8YYe0ocDigVBAd75x5S0ClW/NO9nblPKlEmJ7G1Qxx0B/mr+eGoaM7vV6cFRLdPotz+bQB7mEHUJqntXnFz+3hx1fQnJTaGKTyasfaHXJMG6ICN/mrg9m0uy4KQLhB/hEAruE4M+AasOKPoy//C2jTQFiuvgjgVs9BdtnwhB7fj1QBiCvlMbBBhR32YXz89p2LMMROfmksYjEWU5SSx1U=;kq5/ht014DiXX4vwUuTffg=="
+secured: "1mUeIGz+ipfhKpnFvnccUQpqkkKhnlFkPM0J1C7rcWQkQhtE2TXC8OjhcA+vHLf4UNTTaEL/JSDMxkw7BaPkIGNcIBORCr2b+bSX8v5rM9GevAcv1cVUSHoU8Ko16xFd3RuIbTkM1aYPUvzhdOH5IKlZlnXLFCP015gCLHwUjd6MKZXloSHuXmM9UKvxHIx03prcL2FGSJz8vr15/td7AwwiHQ89Mu0lTxcRUq09C60eRXcZ6iVX+akyxZoGB2R8brbV+aPJ/idLLFUNXkTpHL3FPoN2E8Jl30vwQvkymL1WshTMkkZ1+vn8ISL5GejkAxq8dXv79GcIrian+UgG3KTxlQ+xhZVSX58/ITW/w+C8fTR36uMut0Y2utmt3LpLJsALRV1CKFGhVLP8i3ESKacFK0T2M2I9Z+sYQo54gF7aCEoIgFq0OnPtsnVq1w31DPbtJpZQdlS+EnJ4h1/4aB/svScQIfCCCVi5dzZ3cTn4slAxModFISac42AqITEa11Kce4oq5PIn0aOE9TA7Vw==;R2hFOOmjNM3xzRjxFQBBDg=="
 ---
 

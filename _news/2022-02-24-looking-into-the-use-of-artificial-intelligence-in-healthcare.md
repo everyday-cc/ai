@@ -25,62 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Two top jobs in the booming AI industry"
-    excerpt: "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field."
-    publishedDateTime: 2022-02-23T23:12:00Z
-    webUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/"
-    ampWebUrl: "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022"
-    excerpt: "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized."
-    publishedDateTime: 2022-02-24T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/"
+  - title: "AI Ethics Grapples With Societal AI Wish Fulfillment, Including The Dreamy Case Of Those Idolized AI-Based Self-Driving Cars"
+    excerpt: "AI ethics examines the impact of societal AI wish-fulfillment when it comes to underplaying AI risks and downsides, which arises in many AI arenas including the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-02-24T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 79
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6216521a02453bb63285909a/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 841
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6213fd49c1dc8fd430c0952c/0x0.jpg?format=jpg&crop=3860,2172,x0,y102,safe&fit=crop"
+        width: 3860
+        height: 2172
         isCached: true
-  - title: "Artificial Intelligence in Genomics Market Size, share |Industry forecast 2022 -2027"
-    excerpt: "Market Research Engine has published a new report titled as “Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision),"
-    publishedDateTime: 2022-02-26T06:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-genomics-market-size-share-industry-gaikwad"
+  - title: "Radar Sensors Enhanced with AI for Autonomous Driving"
+    excerpt: "Researchers at TU Graz have created a powerful AI-enhanced radar that could help improve current radar technologies and help deal with safety concerns."
+    publishedDateTime: 2022-02-24T14:46:00Z
+    webUrl: "https://www.azosensors.com/news.aspx?newsID=14934"
+    ampWebUrl: "https://www.azosensors.com/amp/news.aspx?newsID=14934"
+    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/news.aspx?newsID=14934"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
+      name: Azo Sensors
+      domain: azosensors.com
+    quality: 59
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFK4T5hdmCG9g/article-cover_image-shrink_600_2000/0/1645858457483?e=1651708800&v=beta&t=tQJrR4IZPvqf0wvowj0DD9u-MjF9Qn0YPOmD86AvWtg"
-        width: 625
-        height: 350
+      - url: "https://d10lvax23vl53t.cloudfront.net/images/news/ImageForNews_14934_1645713775967448.jpg"
+        width: 2000
+        height: 1322
         isCached: true
-  - title: "A call to advance adoption of artificial intelligence across the global finance industry"
-    excerpt: "Arif Amiri is Chief Executive Officer at Dubai International Financial Centre Authority. The global finance industry has started to recognise the potential of artificial intelligence to help advance the sector. For several years, the UAE and DIFC have been ..."
-    publishedDateTime: 2022-02-24T15:59:00Z
-    webUrl: "https://www.arabianbusiness.com/spotlight/a-call-to-advance-adoption-of-artificial-intelligence-across-the-global-finance-industry"
+  - title: "Creating Content Through Artificial Intelligence"
+    excerpt: "There is no question that brands and agencies can build such an engine. Some are already doing it with the help of artificial intelligence (AI), which takes on the burden of the work and creates relevant, inspired, engaging, and different material."
+    publishedDateTime: 2022-02-28T11:56:00Z
+    webUrl: "https://www.communicateonline.me/category/industry-insights/post-details/creating-content-through-artificial-intelligence"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 25
+      name: CommunicateOnline
+      domain: communicateonline.me
+    quality: 37
+    images:
+      - url: "https://communicateonline.me//storage/posts/AMh55orLPOzKo1xwgU1o6rkZDPLSUZDY511X9x7E.png"
+        width: 1800
+        height: 1000
+        isCached: true
 
-secured: "Dl31cdz7Jb9dWdaEdtKzgQOwWGj75fn+H+tELssl2aCgoOvTnt49d8vM0Df8TOkN4Q6VL3Wih7bjagu0Cls3jPP83ky4RJ25KNX4LhkRnYJTtC3YscBfsaSIIga/9GBHkVsubUOz53pUtGKoMk135rDBwaUIKbj8DLQ+tjMLSWGE5ORn6HYgkcblT0u5MbZD1aRSTPxQOQL+Ob8+T4WoildNStMBI88IZzX6UtJDN92+q3yAXcR/or2v+ilRGK6Ge9Ca77FQX8u7pNaQEipT+FwDu7Mw4BK7yBwCWW9ZdlB+XJQ7+pBhF77rYNqbp3/L5V6VR3n/pr9QL/9iM4onppDtrjQzQF9Glpn7NYrI7io=;XFI4UeYJWEmeKM4JGCMM2w=="
+secured: "f9Ls4xDTsoCNrkZLxVz/V0mM78rqcJUlXP/JAYjjWMP6C/5YrjNmwRmvdfqJvF/nxZPSSJ6Z/s5TBLobzL465dKTTJgjN8DPcYMW0SZ73zLXbRz9OVGnVXdgkRkxNKSmabHMGYj1tgBAuLJTggEurZzZt2+TCAe6gtv3OrPwerQrrs79wiJoOOb5Q3TQ/yWaNvsvzPQtNVnNBUEAsHIPg2kMQqqEYhMjKk8FiGGq9q0zsQOWr9oVzhI5rJxTJqdUzV+6LT1qy5bbZUUA9uU3gX25aS2/ijrmt9G0FPLC0EMdyT7sf9jurv0ZnF69nZYNxKzucT6jFxHMs09OrYeGr0aUcZxYmOWkjL3bCVyYXEqsYFT9T19rMcZtYljIvW7lBTYG81eDWm7Ff4czne6G8r3PyyzMDDIrT2xi/yRACYKRN+zbGCZtqq9HIXB+39fKAiA9OjcMjhT5utW5Q7HWH+O+ASeT/KZafbKOtg9rjJVPlqEJuh3Tc9iSNBUfOLSClK9j4vLU6NvCDJ/vPAgZHQ==;kpWfcJoNZ+SaMKqHvAgB+w=="
 ---
 

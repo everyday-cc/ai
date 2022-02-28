@@ -52,6 +52,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "On cusp of Biden speech, a state of disunity, funk, peril"
+    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong” or words very much like it."
+    publishedDateTime: 2022-02-28T16:35:00Z
+    webUrl: "https://www.mauinews.com/uncategorized/2022/02/on-cusp-of-biden-speech-a-state-of-disunity-funk-peril/"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/ogden_images/www.mauinews.com/images/2018/02/20104449/fb.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "i9PRLF1ySUrqJ3vMVhtEYKMY/nSNscsy1NJVRU6J5fZAe6cqy3+nkUloseytP0QE51DnnbmuSVZtD/2dJN1bmQhMg0tMD42FnmWcXqtivNHljswdrUScprKXJA+3qEw9z16liUgaB6JrVEfHuxObKPFw84JoMzq/Qe2oP0Uw2Xn0U2r5UbjsoLEGCugQJ3/xhRwer/gVaD4UwBYBdSkS5ONHI0OHqbZUP1NgGy/Js2I5O9aD5uluVbdajW/KwETQC/8J0sl1C2vob6+X8P2BbhNAPiN8Qomp/29RrUNZfYJvj8hgucxz52/2L2c5CN67uG84R9ZysE+WCXFWiGwsnFRevBfC+AvUTQWXw7kJtkA=;xV+MVusnYRFHjB3rMNIPTA=="
 ---

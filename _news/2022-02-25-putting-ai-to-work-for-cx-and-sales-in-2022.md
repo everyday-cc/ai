@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
-    excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their ..."
-    publishedDateTime: 2022-02-24T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944656"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
 
 secured: "wNzpQ6ZmK/LDgP8ztafdfPbAYEoxghzxvfqNEeSgdlg72Ur7dozPlsAqafyQiqjDdMR/q7EHxFGxAJhjJThTvdCmv7it/LFpPymsESJwYei4xBbmBlIXTFbroejgK+Ibstiwx7xfihkv8ageKjSYo4jls7AYvBsB4jiPfVrZghobwGUpfjHvw9MP4UcNVdRNZCNFbpfVb6e58Ww53jiNEuQnDv5OYtfFOS5BvAgvlG0oGwdGbdEwenQwJvCD0qdTM3tDPtu8oHOm72qCwdfVaavx1JTKLErdrAzFkdAV0LipzeruWSllPQwvvoxCMSZtiUdKJMoDGLc6Y5a2U+jXLaYMJLaoo1nStKUE7/H/qROmvmkRZuDQ57mhO+yPBWAM85zbrbXFbP2x1zKvKoO63JLkQ1wC7wRXYy4QaJzybHcS+f/Rb/NbxZv+PyTGEgkVTGGegpFvG1BIde9a7TumkQEgcnZoOQRwfsu++JzoZNSlLKz1L3cWrXFspcOJ6CaI4jiw0SSFIXE22LbRWMgdNw==;beMh8o1CicIz+rRUnTW+dQ=="
 ---

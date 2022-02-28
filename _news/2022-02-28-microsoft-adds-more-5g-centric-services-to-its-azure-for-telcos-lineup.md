@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-cent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoftword.jpg"
         width: 1920
         height: 1358
-        isCached: true
-  - title: "US Bank picks Microsoft Azure for cloud migration"
-    excerpt: "AI and machine learning will \"transform applications and infrastructure ... \"As US Bank's primary cloud provider, we will apply the power of Azure to help the company adapt and build new, secure experiences for customers and employees in the era ahead.\""
-    publishedDateTime: 2022-02-24T00:02:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39750/us-bank-picks-microsoft-azure-for-cloud-migration"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 71
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aryan-singh-vtbqlytx6sq-unsplash1.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
     excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."

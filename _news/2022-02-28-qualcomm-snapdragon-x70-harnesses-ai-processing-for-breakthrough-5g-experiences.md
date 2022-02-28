@@ -56,6 +56,36 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Qualcomm Announces Snapdragon X70 5G Modem With AI-Optimized Connectivity For The Intelligent Edge"
+    excerpt: "As is typically the case for Qualcomm each year at Mobile World Congress in Barcelona, Spain, the world’s 5G innovator has unveiled its latest modem technology dubbed Snapdragon X70."
+    publishedDateTime: 2022-02-28T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2022/02/28/qualcomm-announces-snapdragon-x70-5g-modem-with-ai-optimized-connectivity-for-the-intelligent-edge/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/02/28/qualcomm-announces-snapdragon-x70-5g-modem-with-ai-optimized-connectivity-for-the-intelligent-edge/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/02/28/qualcomm-announces-snapdragon-x70-5g-modem-with-ai-optimized-connectivity-for-the-intelligent-edge/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/621ce3b6e3ccbdf6d08c5f02/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 713
+        isCached: true
+  - title: "Qualcomm X70 5G Modem Announced With Dedicated AI Processor for Better Reach"
+    excerpt: "Since 5G uses a very broad range of network spectrum as compared to 4G, this new AI chip shall help your device to stay on the most efficient band using antenna tuning. Today, Qualcomm has just ..."
+    publishedDateTime: 2022-02-28T16:05:00Z
+    webUrl: "https://techpp.com/2022/02/28/qualcomm-x70-5g-modem/"
+    type: article
+    provider:
+      name: Techno-Science.net
+      domain: techpp.com
+    quality: 36
+    images:
+      - url: "https://media.techpp.com/wp-content/uploads/2022/02/Qualcomm-X70-5G-Modem.jpg"
+        width: 1364
+        height: 767
+        isCached: true
 
 secured: "zJvxZPTBop3tbQ/l6MtnfK2fcpmAkHr5K0E3nMOUdUhaqhOTUyAYSZwtgFXu/ag1uNzSvUVAa8Y98BwTiDoPiuP15S+N0/pgRMH3O0X8FmJFFRfRpfLIfiBjXvKXXisvJ3Lm+EVw9bnyslmA0MaVro9jXFVCLYAh8EiyEqrl0M7di8uXxnwZ/ZXMph0CB8qWKQU1hww+dp7qJRkz0tKyPbjaFhKXC5GM4vMWrnJuKFrbL74elOSf7BvzkXkhX76Qo7XsXRioqCVHmgeKe/ZYHzaa3uBo9mny4LC3TykMgYzkk+yDspcNMK6lg6N5y8678MqxuDSTOOueULg7TEJbL5ajswDrlmD9qhKnX9IJZMA=;TWMuWs1eCRKqLmGR+a32oA=="
 ---
