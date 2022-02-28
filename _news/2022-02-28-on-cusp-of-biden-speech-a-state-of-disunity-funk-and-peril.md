@@ -1,27 +1,29 @@
 ---
 category: news
 title: "On cusp of Biden speech, a state of disunity, funk and peril"
-excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong\" or words very much like it."
-publishedDateTime: 2022-02-28T05:13:00Z
-originalUrl: "https://www.channel3000.com/i/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
-webUrl: "https://www.channel3000.com/i/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
+excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong” or words very much like it."
+publishedDateTime: 2022-02-28T10:05:00Z
+originalUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
+webUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
+ampWebUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/amp/"
+cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/amp/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Channel 3000
-  domain: channel3000.com
+  name: Hawaii Tribune-Herald
+  domain: hawaiitribune-herald.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/02/c/w/685626048bc72e84590f2512b2c1fad820782cad.jpg"
-    width: 1763
-    height: 1175
+  - url: "https://www.hawaiitribune-herald.com/wp-content/uploads/2022/02/web1_AP_Biden_stateunion_address.jpg"
+    width: 760
+    height: 507
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 667
         isCached: true
 
-secured: "dweQXuYT5kcqLl1FYqEO8j72+Y9Jk020xxe0SnP/QIBJCBYkPXHHPRNBlszGhdN2Zx1Anb23Go7lWdWV2aLb9EF9TdivbZJyB0KazNPzP7LmvNfPZRHPooGmc4fZ1Jkxvs3ZE8jBmQj+ymhiMoiaRi0UeH+9Qw5nZDNLNogUxVrP3N+rwoZs9rRzHnqo636yDHLDoNYls5pUi7jjRdZnQFkyORwk+grMy8wYqzHgPrFbW3YXl0GXNGIqxya1CjiXJNRmyNOrIhp89babAlRk14SHI10ldo+iujGrcZUfH/IGgvyR/BlIFw3vy7F3tXajgznKbD+L2quHpI/LgUB5qBJALz7wB8PFP9BAyieIn0guzi2w+OwjDJGT15aLba+FNgTD9R9jBm48D6/O4pa1lcB9RRPNbRuSoDhE8SgbQZQnFTNV3tVA2eXsePhzxEEx29V3oa3wMzPczTbjPQR5drznQBd3uvYetycDAnvrrWJfyE+RkYnOk9YMuts/ylvp8O0weIPsiTDADIgHRKyFlA==;YNl8IfaCpJ0T65H64ER5XQ=="
+secured: "Eo3rbr0t+/2NmIbI8njfxIeGTidqV/+K/hEsIdJ0ir2mlfWIfjI+iY0UXF5R5y6ucX5LcuAFHOPqd+GebCn6Db9CNPM8U4AhzrHO53zRofZOcTyl0uNPcAQWkQ5kdUyYgsQdVYaddZ9PJD4UvpUCEzpMGzj/zkOCmYRzzB9CBzlph8n9wP8zwZrXLaUSUr+DLD6JymG8ftv3RsH6fBZR4C5Hp88H/m5fBPt190ZtCKOxDyu/ruSh2JLW+pW3eZGC6Bic9JKHYfr0JEfp3TOi4ll4CK8t3cwn59lC3rNWZcLu6upczVF5zcFNqPSvRYjDCf7GllTEKouOUBSHtSt0KmV0hY1G9fwPKxDsjbuwbEE=;HeFijKwy/tyZDGh670Y3mw=="
 ---
 

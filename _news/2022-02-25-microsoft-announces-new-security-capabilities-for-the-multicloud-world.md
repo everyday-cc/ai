@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft now delivers comprehensive protection with new multi-cloud capabilities"
-    excerpt: "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers."
-    publishedDateTime: 2022-02-23T17:32:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 64
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft updates security applications for multicloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
     publishedDateTime: 2022-02-23T22:46:00Z
@@ -53,20 +39,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
         width: 473
         height: 315
-        isCached: true
-  - title: "Artificial Intelligence in Construction Market Will Hit Big Revenues In Future | Oracle, Microsoft, Alice Technologies"
-    excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence in Construction Market Insights, to 2027” with 232 pages"
-    publishedDateTime: 2022-02-24T08:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-construction-market-will-hit-big-revenues-in-future-oracle-microsoft-alice-technologies"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/e72cee448241867e871ce5514b7cd8b2781040ce-1-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "esjr/AbZB9Hn2lQhsUYQYqz7eIZIuYPtrOWyvUl55afpXBy7ww9VNpst4kIGxclJg/mUSHSK5amOxgHIx1A+b/TLD7LW6tSEuzkc4SFM0o8tmttUqR4McHeidKYhubgJvNIy8s0fjccFtdW2DGRebWkmcAZqcs98OJFWDd8u7lHPKdpicaaY0Ld/ed/dqIoXNqy4MkClKTbXhYVpKnpX875oXb9GY/Eh7fWdmlwsbrgyV88796zBQiegOa7cpzKvuOwUlNnSkOHmznmHU6IjVmo019NxEVFEcCxsDwrlApqwpvmWI61BDgS4LEo62qd+fTh7oknIg4wBtbXEiOJUQkMTsyrIpkUTxCK0g0p2ZEk=;BHbRmHN/5LG+Y9iMNLzMzQ=="

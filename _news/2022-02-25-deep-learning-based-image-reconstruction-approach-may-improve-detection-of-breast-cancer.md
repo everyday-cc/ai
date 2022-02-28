@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning poised to improve breast cancer imaging"
+    excerpt: "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. \"The near infrared spectral tomography (NIRST) and MRI imaging ..."
+    publishedDateTime: 2022-02-24T15:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-poised-t.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deep Learning Fosters Better Breast Cancer Treatment"
     excerpt: "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time."
     publishedDateTime: 2022-02-24T18:29:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/protein-inhibitors-against-triple-negative-breast-cancer.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "Deep learning poised to improve breast cancer imaging"
-    excerpt: "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. In Optica, Optica Publishing Group’s journal for high-impact ..."
-    publishedDateTime: 2022-02-24T15:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944066"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0ae14217-666d-4f6f-8604-0611f535c7ac/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "otkc9cr+n+wxDrGH958M7UtKe7VbpuOFaHVuCU110/zJYpJiSAjO7TJrc363cHiHYGOz7NSIQcQNqLJF/gtV9M1QLI6W9lxRMdJjt4nevab28wyb1cGCXgUkqDClWct/Bjk5qpeyKRVJanmgfEbOvDK0k97WK/snLDNJOqK9joU6sKgLHutqD1x7s6TpJHnFnS0OBRHdQcQh1AhNj2uQMnk+sqJEugEwQB/Wk6779Ki7erXjUcZokzRPQFRoO2hQNvtPe0k/JdXyuoFeECJnpChmAXTcwP88F5IaoxR6SMBLULSIBUU3JyvA8xqlFGbOY4+vm1XV307lOZoxU+3MBkS+ZjOojYAR6YmHE4YSRp6nmkGX+smuitH3WnArrpWckd6jsByaXOJAl2yjGlPW2iTG4LVivvjoYaF4Uk+qGSNe/BC6nREKSnnv9Ajsdv/VPdSOUzubwQmWM4GMlzFN6dgxHX15/1Pyk0v1T2Ys64XDUg6WTJFXgYdo8c2K/d4TMuKPi0wENs2m+yGcloUECQ==;lXY9qylgv9Kpj51aVzYjgw=="

@@ -67,6 +67,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Exoskeleton Market to reach USD 7.93 Billion by 2028 | Reports and Data"
+    excerpt: "The global exoskeleton market to reach USD 7.93 Billion by 2028 at a CAGR of 43.4%, according to the latest report by Reports and Data. Rising number of"
+    publishedDateTime: 2022-02-28T07:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/exoskeleton-market-to-reach-usd-7-93-billion-by-2028-reports-and-data"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
     excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
     publishedDateTime: 2022-02-27T20:09:00Z
@@ -80,20 +94,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Global $3,945.43 Million Packaging Robots Market to 2028: Intelligent Modernization and Adoption of Vision Sensor Technology - ResearchAndMarkets.com"
-    excerpt: "The “Packaging Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis” report has been added to ResearchAndMarkets.com’s offering. The global packaging robots market is expected to grow from US$ 3,"
-    publishedDateTime: 2022-02-23T17:51:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-middle-east-1c0b28373fc842b1b1462c72cced3c1a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "qNYeoDCv3XqGm21PqwkkFFwG/J8wYWAZPf/D1XcFpuWQZl8DDL0NsXjQAmntMxEVtl418n9Xqy8pu1wo4U5/zsvSasBt+Wcr2fZhS59H4YcZ5aKi5QZjD6f2kji6zSTHcLEpsnUD3XBZk8+7xmU/2mP8WGuBovTU0G4NRyEdR0T7TV3G5M/LY1k9roiBaQVUTqzvYZkuImZYMrZ2Bf0GLJstnexUMXZ7eVtigRDF07TQa/S8ViwJroIoIVRjRXh3S8QilXDBPaNoAB9WReXyBBR6tvD1o351TWTrcG6s1girv9OHSt9lP5+SysHmxHcz/tsOaOuhOqPigOtlecxBFas0q7DJcaetND98fHyduqk=;D/O5Lvq4l/NTJ0eiFAkNtw=="

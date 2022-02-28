@@ -27,37 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Meta announces plans to build an AI-powered ‘universal speech translator’"
-    excerpt: "Meta, the owner of Facebook, Instagram, and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” The project was announced as part of an event focusing on the broad range of ..."
-    publishedDateTime: 2022-02-23T17:48:00Z
-    webUrl: "https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project"
+  - title: "AI Weekly: Meta’s flashy, AI-powered vision of the metaverse brushes over concerns"
+    excerpt: "Meta (formerly Facebook) pitched a flashy vision of the 'metaverse' this week. But the company faces challenges in delivering on its vision."
+    publishedDateTime: 2022-02-25T17:11:00Z
+    webUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/"
+    ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/cAAFdsdtH-cN__gTkzhJBklpNRw=/193x175:1782x1198/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70541313/acastro_200730_1777_ai_0001.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/zuckerberg-future-is-private.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Meta is building an AI Babelfish to translate every language"
-    excerpt: "Universal translation is part of the company’s push to use AI for the creation of the metaverse. Janko Roettgers (@jank0) is a senior reporter at Protocol, reporting on the shifting power dynamics between tech,"
-    publishedDateTime: 2022-02-23T17:24:00Z
-    webUrl: "https://www.protocol.com/bulletins/meta-ai-translation-metaverse-babelfish"
-    ampWebUrl: "https://www.protocol.com/amp/meta-ai-translation-metaverse-babelfish-2656777385"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/meta-ai-translation-metaverse-babelfish-2656777385"
+  - title: "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress"
+    excerpt: "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,"
+    publishedDateTime: 2022-02-27T06:48:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/02/133_324614.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
     type: article
     provider:
-      name: Protocol
-      domain: protocol.com
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
     quality: 74
     images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-mark-zuckerberg-introduced-ai-advancements-for-the-metaverse-this-week-less-than-p-greater-than.png?id=29411772&width=400&coordinates=0%2C0%2C0%2C32&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
+        width: 980
+        height: 677
         isCached: true
   - title: "Meta Wants to Bring AI Assistants and Universal Translation to the Metaverse... One Day... In the Future!"
     excerpt: "Zuckerberg's company showcased a variety of long-term AI projects it believes will work hand in glove with future online worlds."
@@ -75,6 +75,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI translation key to communication in metaverse: Flitto CEO"
+    excerpt: "\"But AI is unlikely to translate all different languages in a virtual world, as it cannot fully process subjective data such as people's thoughts and feelings,\" he said. Lee added that AI excels in handling objective data that involves numbers and figures ..."
+    publishedDateTime: 2022-02-24T01:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2022/02/199_324433.html?gonw"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324433"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/fb79c546b9064119b67d3fae8fff3e39.jpg"
+        width: 980
+        height: 653
+        isCached: true
   - title: "Meta is building an AI-powered universal language translator"
     excerpt: "During a streamed event, Meta CEO Mark Zuckerberg talked more about the Metaverse his company has been investing in - including that Meta's research division is developing a universal speech translation system."
     publishedDateTime: 2022-02-24T04:29:00Z
@@ -91,67 +107,21 @@ related:
         width: 943
         height: 630
         isCached: true
-  - title: "Meta plans AI-driven universal translator"
-    excerpt: "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,"
-    publishedDateTime: 2022-02-24T05:28:00Z
-    webUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
-    ampWebUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+  - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
+    excerpt: "Feb 23 (Reuters) - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out ..."
+    publishedDateTime: 2022-02-24T12:39:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
+      name: IOL News
+      domain: iol.co.za
+    quality: 58
     images:
-      - url: "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Meta to break language barriers with AI, builds universal speech translator"
-    excerpt: "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme"
-    publishedDateTime: 2022-02-24T08:09:00Z
-    webUrl: "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/03/full/1643876854-9687.jpg?im=Resize,width=1200"
-        width: 1200
-        height: 898
-        isCached: true
-  - title: "Meta plans to develop AI translator capable of translating 100s of languages"
-    excerpt: "CEO of Meta, Mark Zuckerberg announced the firm is working on building an AI-focused universal instantaneous speech translator that is capable of translating 100s of languages."
-    publishedDateTime: 2022-02-26T13:07:00Z
-    webUrl: "https://interestingengineering.com/meta-ai-translator-languages"
-    ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jg6Pkdb3Gx/sizes/markzuckerberg_resize_md.jpg"
-        width: 744
-        height: 418
-        isCached: true
-  - title: "Meta wants to build a universal language translator"
-    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe.."
-    publishedDateTime: 2022-02-23T18:36:00Z
-    webUrl: "https://www.engadget.com/meta-wants-to-build-a-universal-language-translator-182519805.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-02/82fe4f50-8e5d-11ec-bbac-3ec8c9620e85"
-        width: 4000
-        height: 2515
+      - url: "https://image-prod.iol.co.za/resize/650x366/Image-Meta?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/32185dd1-ac1d-5a7b-a004-d431e08d4804&operation=CROP&offset=127x16&resize=1804x1015"
+        width: 650
+        height: 366
         isCached: true
   - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
     excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
@@ -169,135 +139,63 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Meta is working on a universal language translator"
-    excerpt: "As part of a recent live streamed event on Wednesday, Meta's CEO Mark Zuckerberg announced that the company is working on a new universal speech translation system, which will use an AI to translate 100s of spoken and written languages in real time."
-    publishedDateTime: 2022-02-24T16:47:00Z
-    webUrl: "https://www.gamereactor.eu/meta-is-working-on-a-universal-language-translator/"
-    ampWebUrl: "https://www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
-    cdnAmpWebUrl: "https://www-gamereactor-eu.cdn.ampproject.org/c/s/www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
+  - title: "Facebook Wants to Finish Your Sentences in The Metaverse"
+    excerpt: "This is the tech giant's latest effort to build its conversational AI capabilities to deliver better dialogue in the so-called metaverse or the immersive internet. The Facebook parent wants to create nuanced virtual worlds using voice."
+    publishedDateTime: 2022-02-23T23:38:00Z
+    webUrl: "https://www.thestreet.com/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/facebook-wants-to-finish-your-sentences-in-the-metaverse"
     type: article
     provider:
-      name: Gamereactor
-      domain: gamereactor.eu
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 44
     images:
-      - url: "https://www.gamereactor.eu/media/99/facebookhasnow_3629973_650x.jpg"
-        width: 650
-        height: 366
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTg1NTE3NDI4MzQyNTMxMTU0/market-capitalization-top-image.png"
+        width: 620
+        height: 400
         isCached: true
-  - title: "Meta announces plans for AI powered ‘universal speech translator’"
-    excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
-    publishedDateTime: 2022-02-24T14:26:00Z
-    webUrl: "https://techstory.in/meta-announces-plans-for-ai-powered-universal-speech-translator/"
+  - title: "Meta makes a big noise about AI and, of course, the metaverse"
+    excerpt: "US Internet giant Meta/Facebook has launched a barrage of information ... piling a huge amount of resources into what appear to be essentially research projects around all sorts of AI and metaverse type areas, and it wants you to know it."
+    publishedDateTime: 2022-02-24T13:25:00Z
+    webUrl: "https://telecoms.com/513626/meta-makes-a-big-noise-about-ai-and-of-course-the-metaverse/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 41
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/feat.img55.jpeg"
-        width: 1199
-        height: 600
-        isCached: true
-  - title: "Zuckerberg's Meta plans AI translation tools"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants"
-    publishedDateTime: 2022-02-23T18:50:00Z
-    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1635517-20220224.htm"
-    type: article
-    provider:
-      name: rthk.hk
-      domain: rthk.hk
-    quality: 41
-    images:
-      - url: "https://newsstatic.rthk.hk/images/mfile_1635517_1_L_20220224023730.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Meta announces plans to build a universal voice translator using AI"
-    excerpt: "Meta, the owner of Facebook, Instagram and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” Meta CEO Mark Zuckerberg in an online presentation said that the ability to communicate with anyone in any language is a superpower that is dreamt of forever."
-    publishedDateTime: 2022-02-24T16:32:00Z
-    webUrl: "https://www.radio.gov.pk/24-02-2022/meta-announces-plans-to-build-a-universal-voice-translator-using-ai"
-    type: article
-    provider:
-      name: Radio Pakistan
-      domain: radio.gov.pk
-    quality: 41
-    images:
-      - url: "https://newsimage.radio.gov.pk/20220224/1645719685.jpg"
-        width: 850
-        height: 478
-        isCached: true
-  - title: "Facebook's Meta Unveils AI Projects Aimed At Building Metaverse Future"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday,"
-    publishedDateTime: 2022-02-23T17:30:00Z
-    webUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-future-3410943"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Telecoms
+      domain: telecoms.com
     quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
-        width: 1200
-        height: 775
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/02/Meta-metaverse.jpg"
+        width: 1894
+        height: 832
         isCached: true
-  - title: "Facebook's Meta Unveils AI Projects Aimed At Building The Metaverse"
-    excerpt: "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out key steps to ..."
-    publishedDateTime: 2022-02-23T18:23:00Z
-    webUrl: "https://www.ibtimes.com/facebooks-meta-unveils-ai-projects-aimed-building-metaverse-3410906"
+  - title: "The Metaverse Could Fund Important Artificial Intelligence Work"
+    excerpt: "Meta Unveils Voice Mods for the Metaverse Plus AI-powered ‘universal speech translator’ Some context here, I didn’t realize Zuck was building the Holodeck. If you enjoy articles about A."
+    publishedDateTime: 2022-02-25T17:57:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-could-fund-important-artificial-work-michael-spencer-"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/10/small-toy-figures-are-seen-in-front-of.jpg"
-        width: 1200
-        height: 775
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHdhoN3MJMyZg/article-cover_image-shrink_600_2000/0/1645811731057?e=1651104000&v=beta&t=3d_obpkGM1X_5bv-szTxP28FNYX9HJwj95x4mRKWdQ0"
+        width: 807
+        height: 440
         isCached: true
-  - title: "Meta is building a new AI-powered speech translator"
-    excerpt: "Meta has announced that is building a new AI-powered speech translator, the software will apparently work for 'everyone in the world'. This is part of"
-    publishedDateTime: 2022-02-24T14:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/meta-is-building-a-new-ai-powered-speech-translator-24-02-2022/"
+  - title: "Zuckerberg unveils Meta’s AI innovations designed to build the metaverse"
+    excerpt: "To drive innovations in AI, Meta announced Project CAIRaoke ... templates rapidly from a few spoken words. It’s a good start for users taking their first steps into virtual worlds."
+    publishedDateTime: 2022-02-23T22:44:00Z
+    webUrl: "https://siliconangle.com/2022/02/23/zuckerberg-unveils-ai-innovations-designed-build-metaverse/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/02/meta-AI-powered-speech-translator.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Metaverse: Universal language translator coming soon? Here's all you need to know"
-    excerpt: "The Meta CEO also revealed that the company aims to build an AI-powered “universal speech translator” for metaverse that works for everyone in the world. Meta is working on a two-fold project. The first part is No Language Left Behind and the second is ..."
-    publishedDateTime: 2022-02-24T07:53:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 39
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "‘AI Driven Universal Speech Translator’ To Be Developed By Meta"
-    excerpt: "As part of the social media giant investment in the iteration of the universe, the founder and Chief Executive Officer"
-    publishedDateTime: 2022-02-25T10:45:00Z
-    webUrl: "https://techbooky.com/ai-driven-universal-speech-translator-to-be-developed-by-meta/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/AI-vs-Human-Hero-1024x513-1.png?fit=1024%2C513&ssl=1"
-        width: 1024
-        height: 513
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/ITL-system-cards-1440x1080.png"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "Meta developing AI-based Universal language translating System for Metaverse"
     excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
@@ -312,20 +210,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
         width: 554
         height: 372
-        isCached: true
-  - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
-    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
-    publishedDateTime: 2022-02-24T21:36:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 37
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
     excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
@@ -342,48 +226,6 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Meta Plans to Build a Universal Speech Translator"
-    excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
-    publishedDateTime: 2022-02-24T08:14:00Z
-    webUrl: "https://hypebeast.com/2022/2/meta-universal-language-translator-plans-news"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Fmeta-universal-language-translator-plans-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Meta is working on a universal translator"
-    excerpt: "Meta is working on a universal language translator for real-time communications. The translating AI is another piece of the puzzle for Meta’s vision of the metaverse. Yes, that means Meta (formerly Facebook) is working on an AI version of the Babel fish from Hitchhiker’s Guide to the Galaxy."
-    publishedDateTime: 2022-02-24T17:28:00Z
-    webUrl: "https://knowtechie.com/meta-is-working-on-a-universal-translator/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/10/meta-facebook-1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Meta to develop Universal speech translator"
-    excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
-    publishedDateTime: 2022-02-27T08:32:00Z
-    webUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/meta-facebook-2-300x225.jpg"
-        width: 300
-        height: 225
         isCached: true
 
 secured: "0CxPz4h4rYjzbb+jDAnZfu3KsUMEYMicWXng4ex22FwMxn1AQLe3EKR92GK+DpmCw7mhV4AeCMjC21KJ6+6EmXgF4J49FaxL1y5U8Lss7zXS5nuioAQ6btaU+7UR/df3Sw8pVpmDA102QqRg+rgi2sa4e6NOCNXMmBS0gxIwzXjsJUTSfhYZcjgrZroSTLSROID6k2RCp8THlh+Enu8zysmcajFfpNOUoKuNtD4xD+fDCWDBheulSeUbXjeZWL/VUHJIgwLqranHFNNyt5bka0Qmp3DK4DiBzy4TR0lFPK0RBDCUn6vZILpNy1PsEpxQCQGtajKJP7OhxNvWiw2qePTig9YD0iK/k9+5T0HbIDs=;Lf2t64oSAwZgfhtlFh/aYA=="

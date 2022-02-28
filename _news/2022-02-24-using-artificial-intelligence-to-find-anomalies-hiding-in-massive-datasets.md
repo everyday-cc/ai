@@ -92,20 +92,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "5 Predictions for Fake AI in 2022"
-    excerpt: "AI has been sold for the last 70+ years as an umbrella term representing a wide range of techniques, programs, algorithms and models that would allow computing machinery to mimic, simulate, replicate or fake human body/brains/mind/intelligence/behavior."
-    publishedDateTime: 2022-02-23T18:50:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-predictions-fake-ai-2022-azamat-abdoullaev"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQErdQPy_zqn8Q/article-cover_image-shrink_600_2000/0/1645543506290?e=1651708800&v=beta&t=fCwNvJo8lHp0odIhKDpWYD3H2IzmDXmTN5EUCN8hOO4"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "j3wKvgcT3k1gAconMI4vB3QRlfmZ1pw2dsERz7AcC5L35VcSdZE5/zI/KKJ4Y75CL7AwfGCerXAw17zAqP6jQkflWeDj1gnuEk+aQ7t6nx/EvIALRHRdSDIltwQ7MQVNStA/EXYsrWKdG9stC1ZVFIjFwK6JdIyYB4X60EM0sPd+4PZdiy/q6j7iTuk2o86l2KBsp6VSqP/WD90mfGUbl9014ZtyqsTI5znGxCgaB2FdjLlGWrzFRupAhhgG3QnjaLWhYFguO5FhbG/+TTbMQXadZCZBp2HsCxPWVw7ML5pm/JGNbbX3lUVN5P32hVtQkAYiF3ZwiaaANFzMbDTgF/AkR/ir10pSzxbdSwtf8Io=;sn6UZ6GPyd/SAKrUHGQ0fA=="
 ---

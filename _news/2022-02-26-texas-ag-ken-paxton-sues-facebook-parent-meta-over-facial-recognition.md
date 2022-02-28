@@ -44,6 +44,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Meta plans AI-driven universal translator"
+    excerpt: "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,"
+    publishedDateTime: 2022-02-24T05:28:00Z
+    webUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    ampWebUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 61
+    images:
+      - url: "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "E8DRYyi6h2d6Siq4LGlI5sD7ERC7geMMfA7MsNrsUZ1c+CWAKwRLDyqvB11v7P81ci4tfVqntSNeJ+Wq5frSGGMS/Z0tqoih2eHDf0W5H6LdMp9vpwSkA5C3X6ZRinHfNaO1TAL4ZftzhLig97nfP3n505148DL+9fooM7B1WinFTy3VQyT9CyeXOZVniBuzUz88FQy1aMCrrp2gYOG/tOo9eGAl9y91vszz/dqFvlR/9FlwnpuM9kDfODayDiyXAZsO4GpIjdLuKsZo34KrpPBY0qXyg1iYzLQl9kBPEJMDizQ/qdnUTj+PU4tXV6BUBoy8gC3JdJYlBsO6cSyoHkemGswOhUly7nDJT1/mzaGdZzlxZCQ9W2QvZCnH1Hm250CFXgNOmF1AGI4c4RVxn91iUPuCDBSQOy0bpI8iv5a45QAx7ELhA9CWqnAWAYrwYL5sLpkyj1n7yLqkoL/uLUktB1ZzQmy8yWX2rMpEjXcXG4W22mKFLCmHAy7sga8MM/X5lFc0zsLRDneLP8UEDQ==;tiI76Jst5HKxYETPzV4UdA=="
 ---

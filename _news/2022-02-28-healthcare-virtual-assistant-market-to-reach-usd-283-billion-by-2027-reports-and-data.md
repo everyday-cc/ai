@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Exoskeleton Market to reach USD 7.93 Billion by 2028 | Reports and Data"
+    excerpt: "The global exoskeleton market to reach USD 7.93 Billion by 2028 at a CAGR of 43.4%, according to the latest report by Reports and Data. Rising number of"
+    publishedDateTime: 2022-02-28T07:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/exoskeleton-market-to-reach-usd-7-93-billion-by-2028-reports-and-data"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
     excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
     publishedDateTime: 2022-02-27T16:34:00Z
@@ -80,20 +94,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Global $3,945.43 Million Packaging Robots Market to 2028: Intelligent Modernization and Adoption of Vision Sensor Technology - ResearchAndMarkets.com"
-    excerpt: "The “Packaging Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis” report has been added to ResearchAndMarkets.com’s offering. The global packaging robots market is expected to grow from US$ 3,"
-    publishedDateTime: 2022-02-23T17:51:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-middle-east-1c0b28373fc842b1b1462c72cced3c1a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "W4xJPtArIsgQZc1EvbFVXo2xCXvuBFQw3pzDx/Ez+3/ErftrucVmmvC8pcxv1cMlxRk8/udaqkFVf/hT32hW5IsQLjdoXiMSMJHErDBni3gvdsfzR4IosbNGbBg2CKJE28YZi5S+tKq2jbTDs4DVoORgZeCdLdQ6NWjKVlS7/VAKbRGzn4/AgNrv/XCrAKm1pEgD5EC18fOgR3+GSZls/XKhnFqYC0bThuTuuGxHX41OIFUxdjYcYq1X9aGHK4Vx9rJ4aPsn2aJGvGU6oC1G17naScVStY63/7VImGCVzMHhLX1FvNbG37r9/mtZUfzpAdNchCn6wbsbcGILHHRaNvvEaSaVHG/cqsIU43aPwCk=;PVCNYccYbkndnlk86LPFRw=="

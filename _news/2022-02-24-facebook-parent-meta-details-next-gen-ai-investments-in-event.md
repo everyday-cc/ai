@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3804794-facebook-parent-meta-detai
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta plans AI-driven universal translator"
+    excerpt: "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,"
+    publishedDateTime: 2022-02-24T05:28:00Z
+    webUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    ampWebUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 61
+    images:
+      - url: "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition"
     excerpt: "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ..."
     publishedDateTime: 2022-02-26T02:17:00Z

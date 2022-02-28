@@ -69,6 +69,20 @@ related:
         width: 1000
         height: 647
         isCached: true
+  - title: "Military Robots Market Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2027"
+    excerpt: "AM ''According to the study, the global military robots market size was USD 13.87 billion in 2019. The global impact of COVID"
+    publishedDateTime: 2022-02-28T10:41:00Z
+    webUrl: "https://menafn.com/1103773940/Military-Robots-Market-Analysis-by-Trends-Size-Share-Company-Overview-Growth-and-Forecast-by-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?749209"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Natural Language Processing (NLP) Industry Assessment and Forecast 2022-2027 by Type, Technology, Deployment Mode, Organization Size, End-user, and Re"
     excerpt: "Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global natural language processing (NLP) market reached a value of US$ 14."
     publishedDateTime: 2022-02-24T16:50:00Z

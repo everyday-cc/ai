@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Anti-unemployment fraud measures in California face scrutiny"
-    excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits. But the nonpartisan Legislative Analyst's Office says state lawmakers should reject Newsom's proposal."
-    publishedDateTime: 2022-02-23T18:39:00Z
-    webUrl: "https://abc7news.com/california-unemployment-edd-ca/11592855/"
-    ampWebUrl: "https://abc7news.com/amp/california-unemployment-edd-ca/11592855/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/california-unemployment-edd-ca/11592855/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10917585_7OYS-BROKE-1280x720.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Firefighters relying on artificial intelligence to fight California wildfires"
     excerpt: "Firefighters are teaming up with data scientists and artificial intelligence experts to battle the growing threat of massive wildfires in California."
     publishedDateTime: 2022-02-24T20:41:00Z

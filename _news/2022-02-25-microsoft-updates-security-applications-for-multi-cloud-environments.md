@@ -113,6 +113,22 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 67
+  - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
+    excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."
+    publishedDateTime: 2022-02-28T10:38:00Z
+    webUrl: "https://www.outlookindia.com/business/tcs-team-up-with-microsoft-azure-to-leverage-software-for-smart-cities-and-customer-analytics--news-184447"
+    ampWebUrl: "https://www.outlookindia.com/business/tcs-team-up-with-microsoft-azure-to-leverage-software-for-smart-cities-and-customer-analytics--news-184447/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-team-up-with-microsoft-azure-to-leverage-software-for-smart-cities-and-customer-analytics--news-184447/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 62
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044635.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft updates security applications for multi-cloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
     publishedDateTime: 2022-02-25T22:18:00Z

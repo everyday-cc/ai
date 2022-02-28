@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7news.com/amp/artificial-intelligence-wildfires-wifire-la
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/artificial-intelligence-wildfires-wifire-lab-burnpro-3d/11596528/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Anti-unemployment fraud measures in California face scrutiny"
-    excerpt: "California Gov. Gavin Newsom's administration wants to pay tens of millions of dollars this year to stop scammers from stealing unemployment benefits. But the nonpartisan Legislative Analyst's Office says state lawmakers should reject Newsom's proposal."
-    publishedDateTime: 2022-02-23T18:39:00Z
-    webUrl: "https://abc7news.com/california-unemployment-edd-ca/11592855/"
-    ampWebUrl: "https://abc7news.com/amp/california-unemployment-edd-ca/11592855/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/california-unemployment-edd-ca/11592855/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10917585_7OYS-BROKE-1280x720.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "California EDD looks at ending facial recognition technology in unemployment verification"
     excerpt: "AP The state’s Employment Development Department is “certainly looking” at different ways to verify identities other than facial recognition, Director Nancy Farias told an Assembly subcommittee Tuesday."
     publishedDateTime: 2022-02-23T20:20:00Z

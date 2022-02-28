@@ -7,7 +7,7 @@ originalUrl: "https://tech.eu/2022/02/25/estonia-startup-picks-up-20-million-to-
 webUrl: "https://tech.eu/2022/02/25/estonia-startup-picks-up-20-million-to-put-personalised-health-diagnostics-in-your-pocket"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Estonian-based healthtech startup company raised $2.0 million"
+    excerpt: "Tallinn's startup company MX Labs announced that it has closed the seed funding round with 2 million dollars. The round was led by Superhero Capital with the"
+    publishedDateTime: 2022-02-28T10:44:00Z
+    webUrl: "https://arcticstartup.com/mx-labs-raised-2-million-dollars/"
+    ampWebUrl: "https://arcticstartup.com/mx-labs-raised-2-million-dollars/"
+    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/mx-labs-raised-2-million-dollars/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 57
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2022/02/MXLabs-Founders.jpg"
+        width: 1225
+        height: 717
+        isCached: true
 
 secured: "cTzbUoEWMaWCuvPmYICnHLfirNXXv+/z69R7jks05oS6PgXfh6OBJ+bZlllIh9q5JIuUHDBDPAI7L83RuiqewQj85KiRYPUPdXcDQBDIbKQsIlAtz76McJQ974dQgBHXp4KrO8hJXkfNYLy7mCo8ZNcuFxM5XIhwpa3lgSVoP9/W93lxfWJZDQy7c3KSo5CXpcw9LJ6Vu+BLMP6DJDTeaI+PEk9dNzODkvrksHpU3KcX7kBrNButd+o8j6wb5WZd70IZyEw8JtnRbn9GJZ9rNBJtAQmoGBZ3SHvzvmfU1MtHD85T36ckHz20mxQkUSBOzrq43BCZpl/U49dI+NfSXyYqdR25tT5rkk6KUdijUldLSxVvuKR4dZ6jNSMey82SAK0MgtSCWVX7ToacD2xJhCv0JtQymSx6d9ZrlMFBqqpLUk7Vn/K1VvIUvFZojepRYp0RG7rFrBDiz4qrGwsuYAJEGW0T73MzuewA4YL8Ks5rOOS4+i22kfvsmGFDXj0GQa5JBkAr849+0qf9uixSTg==;4UsCEY2aRCaqxMRI+Oj7qQ=="
 ---
