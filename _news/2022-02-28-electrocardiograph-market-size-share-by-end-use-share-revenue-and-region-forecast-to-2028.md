@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Trends, Future Growth, Share Value, Regional Insights and Size Projection by 2027"
+    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD 12.22 Billion at 51.9% CAGR during the forecast perio"
+    publishedDateTime: 2022-02-28T12:46:00Z
+    webUrl: "https://www.medgadget.com/2022/02/healthcare-artificial-intelligence-market-trends-future-growth-share-value-regional-insights-and-size-projection-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 10
   - title: "North America Deep Learning In Machine Vision Market Growth Overview, Technological Advancements And Competitors Analysis Forecast By 2029"
     excerpt: "The North America Deep Learning In Machine Vision Market analysis provides a high-level summary of classification, competition, and strategic actions"
     publishedDateTime: 2022-02-28T08:06:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "On cusp of Biden speech, a state of disunity, funk and peril"
-excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong” or words very much like it."
-publishedDateTime: 2022-02-28T10:05:00Z
-originalUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
-webUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
-ampWebUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/amp/"
-cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/amp/"
+excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare \"the state of our union is strong\" or words very much like it."
+publishedDateTime: 2022-02-28T11:12:00Z
+originalUrl: "https://www.newstribune.com/news/2022/feb/28/on-cusp-of-biden-speech-a-state-of-disunity-funk/"
+webUrl: "https://www.newstribune.com/news/2022/feb/28/on-cusp-of-biden-speech-a-state-of-disunity-funk/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Hawaii Tribune-Herald
-  domain: hawaiitribune-herald.com
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.hawaiitribune-herald.com/wp-content/uploads/2022/02/web1_AP_Biden_stateunion_address.jpg"
-    width: 760
-    height: 507
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200761400_200761400-e0593c67a600498cb745ed37cee5bcbc_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -58,6 +56,6 @@ related:
         height: 667
         isCached: true
 
-secured: "Eo3rbr0t+/2NmIbI8njfxIeGTidqV/+K/hEsIdJ0ir2mlfWIfjI+iY0UXF5R5y6ucX5LcuAFHOPqd+GebCn6Db9CNPM8U4AhzrHO53zRofZOcTyl0uNPcAQWkQ5kdUyYgsQdVYaddZ9PJD4UvpUCEzpMGzj/zkOCmYRzzB9CBzlph8n9wP8zwZrXLaUSUr+DLD6JymG8ftv3RsH6fBZR4C5Hp88H/m5fBPt190ZtCKOxDyu/ruSh2JLW+pW3eZGC6Bic9JKHYfr0JEfp3TOi4ll4CK8t3cwn59lC3rNWZcLu6upczVF5zcFNqPSvRYjDCf7GllTEKouOUBSHtSt0KmV0hY1G9fwPKxDsjbuwbEE=;HeFijKwy/tyZDGh670Y3mw=="
+secured: "XZEEyY3bokCmlRIF5Tk+/IFEoh7YrqkNe/TrCul1NKpsIGThY6gT2RmkHJ5eacypD+PcCBUmBT3iCwq0s0YsDHHvaF5Rz+LT3pXvdrZpK1Wm5DJk41myYeABQWEzAmuE1oNqbKl9ky33UDiX5gyJPXpWYEra9WTmPAfUDXba5zw+BucWaKSjv5i4P+lEsqJ5ixe3SZ2gP1DTtHXnpt7LlHRYbKT7wIY6EB37yj7OSQgKldVff+PSGgvup2tUHCYek0eSmF7Dty2MewYV5t5zh+szpuPzCXk6z2o2ETY6mH84fDx+dm5q5e3C7NiS2bGFa9eNbB4V5ZxcIvIQRA9r58DTRB9vn40j5d0Uif/qqGM=;G/9Ix5FxRNyyz27iWegAEw=="
 ---
 

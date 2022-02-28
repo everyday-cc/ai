@@ -81,6 +81,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Computer Vision Market Size is expected to reach USD 19.75 billion by 2027. Computer Vision Market In depth Analysis Report"
+    excerpt: "The latest report Global Computer Vision Market gives an essential review of the business including definitions, groupings, applications, and industry"
+    publishedDateTime: 2022-02-28T11:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-is-expected-to-reach-usd-19-75-billion-by-2027-computer-vision-market-in-depth-analysis-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
     excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
     publishedDateTime: 2022-02-27T20:09:00Z

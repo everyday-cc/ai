@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skippin
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Government Technology
@@ -27,33 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "IRS now allows taxpayers to avoid facial recognition following backlash"
-    excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
-    publishedDateTime: 2022-02-23T20:28:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp"
+  - title: "Florida DEO stands by controversial facial recognition technology to verify IDs as the IRS drops ID.me"
+    excerpt: "NEW PORT RICHEY, Fla. — Concerns the ABC Action News I-Team first revealed a year ago about ID.me's facial recognition blocking legitimate applicants from collecting unemployment have now sparked a national debate over privacy, access and oversight of ..."
+    publishedDateTime: 2022-02-28T11:06:00Z
+    webUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me"
+    ampWebUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 59
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 43
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg"
-        width: 3736
-        height: 2421
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/46af351/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fcc%2Feb%2F8b66c61340519e962eee608b8946%2Ffull-circle-florida-deo-id.me%20I-Team.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year."
+    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology to gain access to their online accounts and would shift"
     publishedDateTime: 2022-02-24T03:40:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
+    webUrl: "https://www.union-bulletin.com/seattle_times/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback/article_93e42120-8c8b-5188-b8f4-9ac453048ee1.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Walla Walla Union Bulletin
+      domain: union-bulletin.com
     quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
+        width: 600
+        height: 403
+        isCached: true
   - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
     excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
     publishedDateTime: 2022-02-24T21:36:00Z

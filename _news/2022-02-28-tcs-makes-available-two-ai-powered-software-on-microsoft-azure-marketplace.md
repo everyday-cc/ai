@@ -1,24 +1,30 @@
 ---
 category: news
 title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
-excerpt: "CI&I customer analytics helps banks, retailers, insurers, and other businesses take advantage of AI, machine learning, and customer data platform capabilities to deliver hyper-personalized consumer and citizen experiences,"
-publishedDateTime: 2022-02-28T07:21:00Z
-originalUrl: "https://www.business-standard.com/article/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-webUrl: "https://www.business-standard.com/article/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
+excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"
+publishedDateTime: 2022-02-28T11:42:00Z
+originalUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
 
 related:
   - title: "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup"
@@ -170,6 +176,6 @@ related:
         height: 628
         isCached: true
 
-secured: "UQVTxB2IRw3NGGHWvFI4MIDa+BmLtpHJVfch2tlaWl1/ArKdT99o6J6m+mW9HUistS6SlghSwl5NVYbbJju0O2K3mkEW8NS1cCYCzyTOGnOS5Nf59XZrNeOPHuO6uOWwVPCzvWdjrMksgOfa2gjhVLXJrOx2wqOzVXVTUxPO7hgLM3sF7fiuG2M4VED9Yjk+kqdGnTtNwaxuf9vCL6dCa5JxQwi2K+pwvyLrP76cQatC7hEneUHpMyfPNx3jv7vzoc4GtyCZc4LhuN2B7fNzUWMl2++O12yOwb5IgUuYRhJe0VITANly+zcnj4RxfLL61FL6bHhqY6ogsNUrau8xkROqDiglBW4CnYtY2WWrrbE=;3ipXhFAwHOIYpvEocgetZg=="
+secured: "xsPhEpV8eJqhsTILbosdGSswy8Iv3BlJPpaSTIkZxh4ZE7tYqu1p9bLgE4u9dcmb4fdjLwlXGjLRcOthFZnS0KgJjjbE38RuDfF6t+DI2Yn98P6236xzbdHcJ9P/KOecs6w4G52D19aIk/HORFpXIKoGZTQ6I6zZrAn6CGaGgHVfFW1dyL4qkMZGCkDqqHeFFgHh0XNpJ0dGNnhMDy3vv2bki5z9od/1y5QkZiFCtp0dbBioBcIwAyUO25M4A+u2W4zARnZ/UtyxPBuYYP+21PeK8CvGwY7ihAO4fuK4QNvvrt21CtfiuqnAZnBwx2hJ/07n2v9EZ0ICanS4AXO0SV3YnDIi9TSlrcdNAN3mkxM=;8RZnWoe7YN1YBEUKnCj/Ug=="
 ---
 

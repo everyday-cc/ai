@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 753
         isCached: true
+  - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
+    excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"
+    publishedDateTime: 2022-02-28T11:42:00Z
+    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 87
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Contentstack Runs on Microsoft Azure, Litmus Debuts Email Capabilities, More News"
     excerpt: "Agile content management system software provider Contentstack has announced it is now available on Microsoft Azure. Contentstack, a multi-cloud SaaS CMS, now offers customers the choice to run their software on either Azure or Amazon Web Services (AWS)."
     publishedDateTime: 2022-02-25T15:46:00Z
@@ -103,17 +119,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
-    excerpt: "CI&I customer analytics helps banks, retailers, insurers, and other businesses take advantage of AI, machine learning, and customer data platform capabilities to deliver hyper-personalized consumer and citizen experiences,"
-    publishedDateTime: 2022-02-28T07:21:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 67
   - title: "Microsoft updates security applications for multi-cloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
     publishedDateTime: 2022-02-24T20:22:00Z
@@ -171,6 +176,6 @@ related:
         height: 628
         isCached: true
 
-secured: "k8dTd8k0cEN5B5+8rG4E2aD1RsTMsYhtDclFIKEVhWJvTmUzO43TR5aM4TYHLPbxaruRm/aG3Munk+Y3v9O0uOsZflkF6LsumVC6HABbll6gIxbsqnHn2b5bsQEWUtHB2gYjJMBpU7J8Bs5RcST26XsVJ/P2LWboy7CtNlhSFW4C5zG2FqeGQFDnYzPP1OGZeiYGtpW3eCTOuNxtTse0rkCV7VRKONUPn17vbr95U6dFGzIm2Q278D8FwmKCvVApUxCIQQG63QdBubaMUpxvw/ijzZkZCBaqpntl56diN6GR+m8BpiYnc+p1/uu7P8KIJyM9TiCBgdYHG4p6cRsTyjRN3arGkVnb8E/KvWKW/y8=;D5hB3o9XPcR2bxZkmWI0Wg=="
+secured: "QCb79gJyH3oXbE5HJq6d9um4oY2LXWDkB2bbnlTm1mT6Q0Dy8GS/9UYjwemSaRpKXlJ9D33K2sWR+WAkhXUpcg2Gbe8tPXzGziAOJIY5+HX45KxEyI6GQbUDDAAa+3fw2pBXXs+iLoiSaIs5pV5uavdoLGeM0xSd5NB3TXi3//50zxE+uQ3Joh/UWnwjAAexN3jP9qgiTV0rJPXl0GEu3fBEVe8QGkB7s+emwu1qGhlueunkwqp06qXNvXsxJZ164GpAfAD+bAoZjb95eas1TxWkL0ZmhLSEOwTDjQiii8mmUyU1eZ/UNUz+Xd/yYaZjMe5IgTdJ9F/oAbG2eBtcizAl8UNQM8tBNjDPx82V5HqOfADpGKiVDjJpl7OBzSKhjGEPQIsMEcdmd4C/s0cjIZA3KsZ4otM49XOfzo76HShdHWpjWjDqzjBRC7aPtu2FI05FOws36sPdh6A2L8ZwuLKKaqhPdpdRMkEy4IPyMYbqGl5fioplo3i7x8qqmHmqTrACW76uf2s79B1SI9B0aA==;c181MPUTr6lNl7xKMgVqBA=="
 ---
 

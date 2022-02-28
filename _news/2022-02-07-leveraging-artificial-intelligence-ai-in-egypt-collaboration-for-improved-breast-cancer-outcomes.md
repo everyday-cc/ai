@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Leveraging Artificial Intelligence (AI) in Egypt: Collaboration for Improved Breast Cancer Outcomes"
-excerpt: "Most recently, this includes a collaborative program with GE Healthcare that builds on GE Healthcare's experience in women's health, artificial intelligence (AI) and contrast-enhanced spectral ..."
-publishedDateTime: 2022-02-07T12:39:00Z
-originalUrl: "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes"
-webUrl: "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes"
+excerpt: "Most recently, this includes a collaborative program with GE Healthcare that builds on GE Healthcare’s experience in women’s health, artificial intelligence (AI ... the treatment pathways for neoadjuvant therapy to improve outcomes for patients ..."
+publishedDateTime: 2022-02-07T12:35:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Leveraging_Artificial_Intelligence_AI_in_Egypt_Collaboration_for_Improved_Breast_Cancer_Outcomes-AFPR0702202237254/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/Leveraging_Artificial_Intelligence_AI_in_Egypt_Collaboration_for_Improved_Breast_Cancer_Outcomes-AFPR0702202237254/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR0702202237254/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR0702202237254/"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?970859"
-    width: 375
-    height: 250
+  - url: "https://www.africa-newsroom.com/files/large/e5f64af1a46ab95"
+    width: 793
+    height: 717
     isCached: true
 
-secured: "wmLCU9rf63yvRvqIYX93OlP0tDHPA5ZXzu2W5ynSCi2pg4q5/AmOLf/tVTtKnLDiyK9tO6herwVMalZdCSlXJoVPXbgT7DJ8xCn1aD7eO4PzKUVafff7ilJP16Oo/aQJcgw0tgBGklL7Q2Di14LrJdfXO6jRMn7K3U/wsunYxY4zHoB9vVfs8mSB257SwNEMq2xq/ESjW8YKajZhQy1XlevB6gHSFaFcCrw/AC5LEaI1Rrc2eGr7AHTZE4/d3Mu4GWmfDEuU63haeYpkI/6GtutufvB0oDCmrEZ7SliXloDTuhobo5iIiUgqYbMMyxLd/jeK2Xo4/IFJn1tq30wFkXdxwP1ZqfslBzeZ9vZpYeE=;SmHerU3fzXTxpdPgZDxiyQ=="
+secured: "tqufCyN2Pkiisk8ye+TrxFx1nVUiPY6rWjbcZQ+H7HOfOKeOXTRZ6l98qUVKtqKl1bNUHFW2cbtFFLuD1H6cIlz8ar9EKKSoZkU5ZCpZ+KKSslH7lgG4rQd9cun1zIYIEpHiujjTixYLpeBf6IFEUohuCdpEMLizU0Wl4FPq6bsuM4+QZbKFJXSSXSZeJTlSI4zjfw1G0rX6C0ex34OHRCaVyXMmffmRCoA4lMy8t6Gx3jdwsYKk066kF8jiFeCpPXyRwtboyZ37/qv+pEhvWzuSUGWAcTN87NxHD+kiJ/pzcw/kkh0PZLtEUymEmwb79qeNGv/QMzJKtb2EYMlJH8X7QTz0HlEJ0fK60NKCMeo=;Ztrr5sXMItXy75HPKcAb0g=="
 ---
 

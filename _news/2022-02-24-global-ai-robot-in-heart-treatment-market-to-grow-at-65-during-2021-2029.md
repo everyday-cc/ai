@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatme
 webUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatment-market-to-grow-at-6-5-during-2021-2029"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Global AI in Healthcare Diagnosis Market Is Expected To Grow At 20.2% CAGR"
+    excerpt: "The size of the global AI in the healthcare diagnosis market is estimated to be growing at a CAGR of 20.2% from 2021 to 2026 and worth USD 5.8 billion by 2026. COVID-19 wrecked the healthcare system,"
+    publishedDateTime: 2022-02-28T11:34:00Z
+    webUrl: "https://www.medgadget.com/2022/02/global-ai-in-healthcare-diagnosis-market-is-expected-to-grow-at-20-2-cagr.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 32
 
 secured: "DFjNBrCsSKy53JatXJ7AEQDC4eL6Ua9SDvP8aQQjWHTDh5SUZbJRibzfEZ5pZ0xcuUVhEaCD6c3Lopdq2Se4VKLJYPhWwdWcO9H88ebtUa+LRbF7eJS/1Vh4Y6Fv9O52ghv3IIPw4/WSZrHIsNalBtaktwY1+LemitNuC88vAGDexaNQ1WSiBxJ9+RyP0Dta6uKNd6WF/qWB45xPmEaAY6DvsKTgtqqKzzM/oemhIvJc85NJEkv4ofFpRlgcaUcwY/BGgFkM/Nb7MkumYMNcaV+ndEMCIsj1huAxMIXbkjR2YhG/pcCI6YqfQKb+gTnEMdkMdzTv8FaabzAkWQICAqQGCE/hfCfzlvhCakpOBEw=;terDNSaQZYSeBselHSSvMQ=="
 ---

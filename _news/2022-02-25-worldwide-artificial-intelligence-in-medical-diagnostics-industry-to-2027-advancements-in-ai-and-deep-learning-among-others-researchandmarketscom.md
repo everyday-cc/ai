@@ -55,15 +55,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Foresight Research: Consumer Resistance to Banking AI in Illinois"
-    excerpt: "Few banks are disclosing the number of AI users that engage with their chatbots. Why? Bank of America reported about 20 million or about 30% of their customers arere using ERICA – their chatbot. ERICA has been in use for over 4 years,"
-    publishedDateTime: 2022-02-23T20:07:00Z
-    webUrl: "https://www.kxan.com/business/press-releases/cision/20220223DE72073/foresight-research-consumer-resistance-to-banking-ai-in-illinois/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 19
 
 secured: "JKI8bzDgG8IxN1v3snNmqp1tfn1kKMvT2aA7o7tgzS5ie+tr+RPahyLm2TC+90f0yk1OlCHhVQYcg/d4DBRU4mrLqe1+IdR3tTWUepssEHqn1Y+mDTN5tUPE0QGyxmVzh7vkg5Ey9KoGnvBMLjmNQBp8OoFB64o1CGbX6eWcws+pSZvBfY8kgn7QGatTHBdfb8GTREscdTPUYHhZPD1myqSv7SeN9sk1itEg9/ztytHRJON9THm+8NW9HGsmOed0iz8hnLISqaRpElNCtZafTZ/WICYQs84lC5jJUAzA/iS+TeCXfhCKqGin4Yb+Pf5I0E5HHBpEK4gZ5UMn+7DqS9GmJAUgMsZR+gPuL2QG1SQ=;VntEsmWmVqkW+yWftJhSKQ=="
 ---

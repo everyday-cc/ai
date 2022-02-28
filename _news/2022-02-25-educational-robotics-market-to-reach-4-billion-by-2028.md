@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/articles/2022/02/24/educational-robot
 webUrl: "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Computer Vision Market Size is expected to reach USD 19.75 billion by 2027. Computer Vision Market In depth Analysis Report"
+    excerpt: "The latest report Global Computer Vision Market gives an essential review of the business including definitions, groupings, applications, and industry"
+    publishedDateTime: 2022-02-28T11:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-is-expected-to-reach-usd-19-75-billion-by-2027-computer-vision-market-in-depth-analysis-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600

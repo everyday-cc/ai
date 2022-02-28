@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 753
         isCached: true
+  - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
+    excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"
+    publishedDateTime: 2022-02-28T11:42:00Z
+    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 87
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Contentstack Runs on Microsoft Azure, Litmus Debuts Email Capabilities, More News"
     excerpt: "Agile content management system software provider Contentstack has announced it is now available on Microsoft Azure. Contentstack, a multi-cloud SaaS CMS, now offers customers the choice to run their software on either Azure or Amazon Web Services (AWS)."
     publishedDateTime: 2022-02-25T15:46:00Z
@@ -88,17 +104,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
-    excerpt: "CI&I customer analytics helps banks, retailers, insurers, and other businesses take advantage of AI, machine learning, and customer data platform capabilities to deliver hyper-personalized consumer and citizen experiences,"
-    publishedDateTime: 2022-02-28T07:21:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 67
   - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
     excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."
     publishedDateTime: 2022-02-28T10:38:00Z

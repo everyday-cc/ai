@@ -9,7 +9,7 @@ ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw--20220227-w
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw--20220227-w3uc5f4w75h6hexkdi6hure6cy-story.html?outputType=amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong” or words very much like it."
-    publishedDateTime: 2022-02-28T10:05:00Z
-    webUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
-    ampWebUrl: "https://www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/amp/"
-    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2022/02/28/nation-world-news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/amp/"
+    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare \"the state of our union is strong\" or words very much like it."
+    publishedDateTime: 2022-02-28T11:12:00Z
+    webUrl: "https://www.newstribune.com/news/2022/feb/28/on-cusp-of-biden-speech-a-state-of-disunity-funk/"
     type: article
     provider:
-      name: Hawaii Tribune-Herald
-      domain: hawaiitribune-herald.com
-    quality: 44
+      name: News Tribune
+      domain: newstribune.com
+    quality: 24
     images:
-      - url: "https://www.hawaiitribune-herald.com/wp-content/uploads/2022/02/web1_AP_Biden_stateunion_address.jpg"
-        width: 760
-        height: 507
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200761400_200761400-e0593c67a600498cb745ed37cee5bcbc_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "On cusp of Joe Biden speech, a state of disunity, funk and peril"
     excerpt: "In their State of the Union speeches, they declare “the state of our union is strong,” or words very much like it. President Joe Biden’s fellow Americans, though, have other ideas about the state they’re in and little hope his State of the Union address Tuesday night can turn anything around."
