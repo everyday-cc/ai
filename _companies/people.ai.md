@@ -32,7 +32,7 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1498129747850801154/YP2xv3IS_400x400.jpg"
     width: 400
     height: 400
     isCached: true

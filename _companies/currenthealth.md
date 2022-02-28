@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "HeyCurrent"
   url: "https://twitter.com/HeyCurrent"
-  followers: 1734
+  followers: 1733
 
 size: 11-50 employees
 yearFounded: 2015
