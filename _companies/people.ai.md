@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ppl_ai"
   url: "https://twitter.com/ppl_ai"
-  followers: 1669
+  followers: 1670
 
 size: 51-200 employees
 yearFounded: 2016
@@ -32,7 +32,7 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1498129747850801154/YP2xv3IS_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1498148482049261571/WJgVikSI_400x400.jpg"
     width: 400
     height: 400
     isCached: true
