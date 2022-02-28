@@ -1,27 +1,27 @@
 ---
 category: news
 title: "On cusp of Biden speech, a state of disunity, funk and peril"
-excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong,” or words very much like it."
-publishedDateTime: 2022-02-27T16:26:00Z
-originalUrl: "https://apnews.com/a28e8c2d5e628474050d8703b861822e"
-webUrl: "https://apnews.com/a28e8c2d5e628474050d8703b861822e"
+excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong\" or words very much like it."
+publishedDateTime: 2022-02-28T05:13:00Z
+originalUrl: "https://www.channel3000.com/i/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
+webUrl: "https://www.channel3000.com/i/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Channel 3000
+  domain: channel3000.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/7c8fe4bb653e4a82a40ec218afbccdf7/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/02/c/w/685626048bc72e84590f2512b2c1fad820782cad.jpg"
+    width: 1763
+    height: 1175
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 667
         isCached: true
 
-secured: "EYQ/cb3VWW2glV7UNQVuqVIEBBxwPRgGoQW7wLmysGweb6wazJDPLDAz30tCDv94q4mu19z78CQqGCjsrgsro1XPdJjoRzfXGLIgXZy9w3vtmEvaiPRaTdKoJhIyYmb+RRPOU4/g04ZgbN56VNhzsJgKbbiWUiYuANgBB8wxq7e1tu33PD9vrI7N0wwTp53O9Cj4KnicEShr/ETJKNCtHSwua9Thfq1uzjgmzkfTb+YRxzBWDXbXqyA7vBh3kc++s7JcR38jamv0iI+IMOCbfeuuXSbr31t63nHjEUBkeqXgDee1SOEuTgyfNKuL0Nr2ibVOvdyiXcf/IJHC/+XnfCr8wP5O+bLKop4IrXYEwrGdV3I/8UYQHRgqx3gRenoVchAT1WQpGqEj73KuT6tR/f7u/1L9Ee6Nn5abDWgdM5oG0QQYJrblb9hqD8jVB6VCLffa2zqvDSsjDNjeiQlRp3g9lWK2V8EdAFM1IX/jmMWxFsbUEV73Lj3S+PF2iRPpnXdy8GSFNhV0MPMeoiLjag==;3P6LSKvQ9jSAxPlOkA1mqw=="
+secured: "qsKP8Oo4uGDZBUg2NTd8Zno4wdZ75Hmja3QbIKq6WW3FR7d9p5rkPIHACj7bO9N+tEIhH+jAf3PEs4rJZnc87fm6u0TLlO00I/kNBbgt7d83hMJxYSBGVsoBotjyRYS5W2zBeLEjXGkDQtmRWS+QG/xl+d9hAbyJgr0aLBi+bQEAYUpXZuNRY19i/beXNVDL9XELKp+KVBoaxbbUA3Kd0t3e9JsRhpQ3tQcpVoSdnTBITLXIFZrDeKKpRoqYrJMUXMJ2sQ4guMA1cswleETbNUBeT2VP33Q4sZ9Nn42yhrhLzPOlF4go0fgr7jV06JsdTkiH9o7xMz4/FRY8Oh6YXR99PEBiQuZMGzXMd+Sn0Yc=;mTE2b+NAykGHYg9AC8zOww=="
 ---
 

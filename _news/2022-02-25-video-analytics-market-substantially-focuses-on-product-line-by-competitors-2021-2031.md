@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/video-analytics-market-substanti
 webUrl: "https://www.digitaljournal.com/pr/video-analytics-market-substantially-focuses-on-product-line-by-competitors-2021-2031"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,52 @@ images:
     isCached: true
 
 related:
+  - title: "TCS AI-powered software for smart cities and customer analytics now on Azure Marketplace; Stock jumps"
+    excerpt: "TCS is a Microsoft Gold Partner with over 1,000 successful Azure engagements for more than 225 global customers."
+    publishedDateTime: 2022-02-28T06:16:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 59
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
+        width: 350
+        height: 233
+        isCached: true
+  - title: "Healthcare Triangle Eyes Top 10 Position With Successful Launch Of Healthcare Data Analytics And AI Software Platforms"
+    excerpt: "a medical documentation automation software that allows healthcare providers to capture and process paperwork digitally and with the help of artificial intelligence (AI). As medical document management remains one of the key challenges healthcare faces and ..."
+    publishedDateTime: 2022-02-24T11:48:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/22/02/25802488/healthcare-triangle-eyes-top-10-position-with-successful-launch-of-healthcare-data-analytics"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25802488"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25802488"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2012/photo-1599045118108-bf9954418b76_1.jpeg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Patriot One awarded contract to develop AI-powered full-motion video analytics app"
+    excerpt: "TORONTO—Patriot One Technologies announced it was awarded a contract worth nearly $1 million CAD with Canada’s Department of National Defence (DND) to further develop an artificial intelligence (AI)-e"
+    publishedDateTime: 2022-02-23T16:32:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/patriot-one-awarded-contract-to-develop-ai-powered-full-motion-video-analytics-app"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 33
+    images:
+      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Enabling 6G: from low-power technologies for communication to machine learning analytics for privacy preservation"
     excerpt: "IMDEA Networks has recently been awarded the coordinated project ENABLE-6G of the national call UNICO 5G. The project consists of two sub-projects, RISC-6G and MAP-6G, and it will be developed by a group of researchers led by Dr."
     publishedDateTime: 2022-02-24T19:22:00Z

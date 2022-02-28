@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/02/28/cyber-security-in-robotics-mark
 webUrl: "https://www.fmiblog.com/2022/02/28/cyber-security-in-robotics-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2029/"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Trends and Forecast to 2026"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence in Healthcare Market: Industry Trends ..."
+    publishedDateTime: 2022-02-28T05:40:00Z
+    webUrl: "https://menafn.com/1103772216/Artificial-Intelligence-in-Healthcare-Market-Report-2021-Size-Share-Trends-and-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/28/EP_e1003image_story.jpeg"
+        width: 1000
+        height: 647
+        isCached: true
   - title: "5G in Healthcare Market 2022 Supply-Demand, Industry Research and End User Analysis, Outlook 2027"
     excerpt: "Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. Market"
     publishedDateTime: 2022-02-24T10:39:00Z
@@ -71,6 +85,6 @@ related:
         height: 339
         isCached: true
 
-secured: "HVHEschP6xpi2FHy95cajiT5ktJClsJV8YKoh2ChdGnz45/5fBpZj6nacSKRfIepNxphpQ/69ujOEKEOLa1vgCxlA8xKBzCjA/XEm57bAerI60oPmGnwHgKtPVxzWBg/nzrZexphHN5fZtQpCY429wULvzkpxmrgyvH+Rv2kJ0en1hMjiY7ggVJSMDw7fLPulAyiAjbN97GlNeuvtYoTMAts6nCwdqVwwDA9kBu28DHLEwKAvsdDbZfGYVw4aOHp0FKU4dZDbz/LGLVGDMH+Wg7c4YWDQe9gUAnJNZC0gpFrWcuuwevcaodpT8d+QYPqqVwy7RJ5OXq1dCjjIMvwi7nX1Dz6dGI+7RzYgDb9jnU=;GkR9pD46/j+GThWC4kCIRw=="
+secured: "tkc1RhsKcbVFqs0mblxh01x1ZcJ1dE+XyNjbBMA25WXt2bVpm51bf6oWVTOVeg/ggaCW1Pd0jAIHROrQwHHxKWdM3ka2zxZkgTakQzmZVmsrDSdGwlTR3n+nXqnz4oKHB6s6XMGdRdCNl3vHohrZoLvarpDjAfrSPGE+62INoVGNZMxEK+h6XCaa16dTXrsqcNZRJHOcMHcGr/FK/QjlkRvh5ZHhwCGbaiSXQZddAEyKCGEYKDTH/bJqPdy6q7nRr7/o+gPi4rX4xO9i/h+JQkwPRf8lGayh8V9jQnFspqGXMAb8tnL0ESrJT/qmgVx425ni6HV0U67QhEbwdNp5ZmRR6L35mZtzIrnooQcPNf0Pt8lPf27C4zXXkFaDsQHgbYLFw9uBhb7UHRvZdUVjLnU/DJvVwFJEUwimDxbg4lGEsWx8ncj7e5/6UvYwG72Z++HfZVl4y6Lli/ZR4SAYdGaLuemAkLyDFUuHSouhaQIhuYQsAHRideisSOLUKTLog1olZZ7ywt5TPaFYXrFi+Q==;XcJCFW/doqV1AVx2Csv3rQ=="
 ---
 

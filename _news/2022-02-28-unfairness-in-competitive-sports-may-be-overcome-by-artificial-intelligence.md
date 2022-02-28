@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/unfairness-in-competitive-sports-m
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

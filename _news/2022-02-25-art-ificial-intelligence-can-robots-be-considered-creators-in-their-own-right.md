@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Artificial emotional intelligence could change senior users' perceptions of social robots"
-    excerpt: "Socially assistive robots (SARS) are a class of robotic systems specifically designed to help vulnerable or older users to complete everyday activities. In addition to increasing their independence, these robots could stimulate users mentally and offer basic emotional support."
-    publishedDateTime: 2022-02-23T14:30:00Z
-    webUrl: "https://techxplore.com/news/2022-02-artificial-emotional-intelligence-senior-users.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-emotional-intelligence-senior-users.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-emotional-intelligence-senior-users.amp"
+  - title: "Swarm Intelligence: What Is It and How Are Agencies Using It?"
+    excerpt: "A kind of “hive mind” artificial intelligence has many potential applications for federal government agencies that use satellites and drones."
+    publishedDateTime: 2022-02-23T15:42:00Z
+    webUrl: "https://fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon"
+    ampWebUrl: "https://fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
+      name: fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 42
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-emotional-i.jpg"
-        width: 731
-        height: 529
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202202/GettyImages-1253453216.jpg?itok=YbmkUy2y"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "The Age of Intelligence: Reimagining human lives with conversational artificial intelligence"
+    excerpt: "The whole blueprint of technology today is underpinned by one pillar – Artificial Intelligence (AI). AI is the meticulously worked project by the best tech minds to provide a melange of human intelligence amalgamated with machine analytics."
+    publishedDateTime: 2022-02-25T07:29:00Z
+    webUrl: "https://www.linkedin.com/pulse/age-intelligence-reimagining-human-lives-conversational-artificial-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 28
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGYsSNkluJVkQ/article-cover_image-shrink_600_2000/0/1645773441173?e=1651104000&v=beta&t=bluDxP2Xw2lsE8Qtxl9zaQjKjYutdWOiAE1iaYBkqx4"
+        width: 784
+        height: 295
         isCached: true
 
 secured: "5fUcO38qTOIXs2SFlkgw84bz5/1hMkXQYAgGbAGFpftYXdb4J+G9KHrHBeW5Xc/2apEfz1sy1cVscV+Myi2sTHGD4BJwM1yvcSHBSNfvoNxXGW+Pz/vOsA2pmOQh05QV0rfQ0FdVY2pyjYLdxVoTfBBmR+tVT/Dz1ga9nMvSQRj6JXLSvXDp4tWEztugbYHGO8IM935nlKB3BFEhb5SYGHGkfZYx8KvNVDqd1alju6NZ1EvPJcFqQNp5DpwUMG2cfC1vlONo3dGTDnEOJHIOiAYQEA7okLkPqS27VcceplCpLDknjMq6hA4vU4/upstq5sFTNEwJ4qrNjFH/HQqIT5vwoBqMFKiyUVpaL28knjk=;Mcv5AelEZI2uXbjoQ+FhMg=="

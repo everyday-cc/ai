@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-wo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

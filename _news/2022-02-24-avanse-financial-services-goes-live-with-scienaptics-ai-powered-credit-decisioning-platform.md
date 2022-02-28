@@ -73,22 +73,6 @@ related:
         width: 1280
         height: 864
         isCached: true
-  - title: "How AI is shaping the cybersecurity arms race"
-    excerpt: "Cybersecurity staff often find themselves inundated with data they need to sort through to manage their cyber defenses. The stakes are high. Cyberattacks are increasing and affect thousands of organizations and millions of people in the U."
-    publishedDateTime: 2022-02-23T14:03:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/How-AI-is-shaping-the-cybersecurity-arms-race-16940412.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/How-AI-is-shaping-the-cybersecurity-arms-race-16940412.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/How-AI-is-shaping-the-cybersecurity-arms-race-16940412.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "wI6bKbGsLedmFDSDu8MVvpGMpn9ZGNey2Tsom4BSDDua3t6+5gQO3BKzi9R7hLDD2pE2o3HPrAFYNgCOqSHusXmx2sfJUFGs/wGPfw0UbcpMp/8fnMP3UKTdxMMq1gAPWI5658jlaM35WjBYwHusYHK0CeNO/8QiXlF0teWTiVMavo6KMWVUmsO5cnaEZ1hoVwaXhAh79XE1KXJj3qpiX5Z5cLV9dgV51GmKXenkd9JGkyAUFGvIqKZYlCiVXYczALcPVDClBMnz+KBKKQEwXLsNkOZmvGFFlIY6g1u8YF6S+XI4R5n7JFdGzR+93yk+ZqoU8HVUEfml2P+A9G+vKN1MuxTGgnEA86L9HAi0w38o9gXSYFktOM9LRv26WBZbCOUp3oYRJpRUJw1UG2S0h3FNTXNCbvYTf1STvogJlOQFJCh93KYOnV1Yqt1rLbL8MHp8qTpzohqG1ocHYdRrikiYgCVS3Zi9LoZy8ReABZuZhzKtmiZBRH7m6M+hbL9UX9ITcWyt+7tg0f4xgDnK/A==;Rll7K7Phrwc4TkLhPjjWuA=="
 ---

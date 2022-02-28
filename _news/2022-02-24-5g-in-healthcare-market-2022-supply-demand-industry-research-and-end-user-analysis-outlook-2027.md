@@ -55,6 +55,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Trends and Forecast to 2026"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence in Healthcare Market: Industry Trends ..."
+    publishedDateTime: 2022-02-28T05:40:00Z
+    webUrl: "https://menafn.com/1103772216/Artificial-Intelligence-in-Healthcare-Market-Report-2021-Size-Share-Trends-and-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/28/EP_e1003image_story.jpeg"
+        width: 1000
+        height: 647
+        isCached: true
   - title: "Natural Language Processing (NLP) Industry Assessment and Forecast 2022-2027 by Type, Technology, Deployment Mode, Organization Size, End-user, and Re"
     excerpt: "Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global natural language processing (NLP) market reached a value of US$ 14."
     publishedDateTime: 2022-02-24T16:50:00Z

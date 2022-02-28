@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-go
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and Maple Leaf announce cloud innovation deal"
+    excerpt: "AWS and MLSE have announced a new deal that will see AWS provide cloud services to key Canadian sports franchises"
+    publishedDateTime: 2022-02-24T14:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/AWS-and-Maple-Leaf-announce-cloud-innovation-deal-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Noble.AI Announces Rollout of AWS GovCloud, Enabling Customers to tackle their most strategic R&D workloads"
     excerpt: "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists and researchers and enables them to innovate and make discoveries faster, today announced the rollout of AWS GovCloud support for their Science-Based AI Platform."
     publishedDateTime: 2022-02-23T20:56:00Z

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Putting safeguards in place for AI use"
-    excerpt: "As AI is becoming more and more prevalent in our lives, so is its potential to harm. Aporia is the Israeli startup trying to change that"
-    publishedDateTime: 2022-02-23T14:09:00Z
-    webUrl: "https://www.geektime.com/aporia-raises-25-million-series-a/"
-    ampWebUrl: "https://www.geektime.com/aporia-raises-25-million-series-a/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/aporia-raises-25-million-series-a/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2022/02/Liran-Hason--Founder---Alon-Gubkin--CTO-Aporia.-Credit---Yakir-Shukrun.png"
-        width: 2000
-        height: 1252
-        isCached: true
   - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
     excerpt: "Identifying a malfunction in the nation's power grid can be like trying to find a needle in an enormous haystack. Hundreds of thousands of interrelated sensors spread across the U.S. capture data on electric current,"
     publishedDateTime: 2022-02-24T21:38:00Z

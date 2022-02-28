@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Putting safeguards in place for AI use"
-    excerpt: "As AI is becoming more and more prevalent in our lives, so is its potential to harm. Aporia is the Israeli startup trying to change that"
-    publishedDateTime: 2022-02-23T14:09:00Z
-    webUrl: "https://www.geektime.com/aporia-raises-25-million-series-a/"
-    ampWebUrl: "https://www.geektime.com/aporia-raises-25-million-series-a/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/aporia-raises-25-million-series-a/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2022/02/Liran-Hason--Founder---Alon-Gubkin--CTO-Aporia.-Credit---Yakir-Shukrun.png"
-        width: 2000
-        height: 1252
-        isCached: true
   - title: "Letting artificial intelligence into farming could open world’s food supply to hackers, study says"
     excerpt: "Relying on artificial intelligence for farming will make the world’s food vulnerable to hackers and terrorists, scientists warned. While many jobs on earth may one day be replaced by robots, researchers say farmers’ livelihoods must be protected."
     publishedDateTime: 2022-02-24T09:43:00Z

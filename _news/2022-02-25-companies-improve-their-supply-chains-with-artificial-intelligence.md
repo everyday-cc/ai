@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chandigarh-based startup uses AI to automate the milk supply chain"
-    excerpt: "Marking a paradigm shift in delivering milk to end consumers in a contactless way, Chandigarh-based startup DairtyTech.ai has introduced an Artificial Intelligence (AI) enabled application that will h"
-    publishedDateTime: 2022-02-23T15:00:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/chandigarh-based-startup-uses-ai-to-automate-the-milk-supply-chain-122022301382_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/chandigarh-based-startup-uses-ai-to-automate-the-milk-supply-chain-122022301382_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/chandigarh-based-startup-uses-ai-to-automate-the-milk-supply-chain-122022301382_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/23/full/20220223193713.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Chandigarh-based startup uses AI to automate the milk supply chain"
     excerpt: "Marking a paradigm shift in delivering milk to end consumers in a contactless way, Chandigarh-based startup DairtyTech.ai has introduced an Artificial Intelligence (AI) enabled application that will help dairy distributors and retailers carry out their businesses seamlessly even in pandemic times."
     publishedDateTime: 2022-02-24T02:51:00Z

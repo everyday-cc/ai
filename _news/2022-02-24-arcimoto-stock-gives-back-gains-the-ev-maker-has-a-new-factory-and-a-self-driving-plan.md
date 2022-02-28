@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-5
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-51645623611"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Arcimoto Stock Rises on Factory Opening, Plan for Self-Driving EV"
-    excerpt: "The electric- vehicle maker opened up its new manufacturing facility in Eugene, Oregon on Tuesday. It also unveiled a new, self-driving vehicle."
-    publishedDateTime: 2022-02-23T13:41:00Z
-    webUrl: "https://www.barrons.com/articles/arcimoto-stock-fuv-ev-factory-51645623611"
-    ampWebUrl: "https://www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-51645623611"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/arcimoto-stock-fuv-ev-factory-51645623611"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-353231/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "S3V9Jmwp5qsj/eZtVah9tvIH3sS05apaFex2csGGAioGM0fKGG0b6cwG97lDTS45p3icuh619snUFVvSYEZc9c5Qi5anCJVIDfEEiXnYbT7AWnKyO7rtisFYEmk3YOKjXFvRMGNYA73ldm0w7UfKyWGmXtfTuQS0ycVQuGsT5uabVJenAuaWoCIxZAApbF6v3XfIhoQIMojnvijrm1XTGX4uEFlDZI/FNx0aBq2XStOUbxXLZwcNRe1Tgdjy18/J9WRVJmPQ+klDNPoRLxVNAHH2+owcAFRfVvMCcjYSAUj0jqjHE1J47t+W0WhptZD7ZghMQ75dnJydT+fMfeK7/IuApUQuqZMq8R9V7iNqTOcBeXpo0ijbFI/BFQw1MAdBCq96RyNEMvkooS6ui6BL7heivK/duhQbTyUe9XLZGSH3Z7wvNQll1VC/4eJuU2ekAdu3zrqh21k/ph5ywmP+Mh7V3V1OUpbk9AUqX6sNOtl24KTaWTXXi7HuF2tZnKaahRM9wg/RhQVqC8VQPTM/Cw==;tfn6gn0qy35lrhhsC/TMVA=="
 ---

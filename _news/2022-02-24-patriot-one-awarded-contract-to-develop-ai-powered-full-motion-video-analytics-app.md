@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "TCS AI-powered software for smart cities and customer analytics now on Azure Marketplace; Stock jumps"
+    excerpt: "TCS is a Microsoft Gold Partner with over 1,000 successful Azure engagements for more than 225 global customers."
+    publishedDateTime: 2022-02-28T06:16:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 59
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Healthcare Triangle Eyes Top 10 Position With Successful Launch Of Healthcare Data Analytics And AI Software Platforms"
     excerpt: "a medical documentation automation software that allows healthcare providers to capture and process paperwork digitally and with the help of artificial intelligence (AI). As medical document management remains one of the key challenges healthcare faces and ..."
     publishedDateTime: 2022-02-24T11:48:00Z
@@ -41,6 +57,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Video Analytics Market Substantially Focuses On Product Line By Competitors 2021-2031"
+    excerpt: "Advancements in Digital Ecosystems Pivot Expansion of Video Analytics Market Video analytics technologies are widely used as part of security solutions"
+    publishedDateTime: 2022-02-25T12:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/video-analytics-market-substantially-focuses-on-product-line-by-competitors-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/846f72fb0065b04e132dd7c26446fdf088d1ab19-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Enabling 6G: from low-power technologies for communication to machine learning analytics for privacy preservation"
+    excerpt: "IMDEA Networks has recently been awarded the coordinated project ENABLE-6G of the national call UNICO 5G. The project consists of two sub-projects, RISC-6G and MAP-6G, and it will be developed by a group of researchers led by Dr."
+    publishedDateTime: 2022-02-24T19:22:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/944622"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "z56hA2ybOLPZZd2cTCQ4Eifv8ALvm5dZtgH5ZUMjObXoNcZDSkNWbKaKvVCH3dhgQ9393AxV2WTqcEdsvrUVzrTYtwDIOMiIQEeq8Prj6y/uw/AQHjLOhEzg479yMw/to4rlv2pGw4AmKl3MNTRdM4GcCIENyo3jshZoi7mleXunX6PQ2x21L7NYJlu8Rdt953IfXxkY5aRYmij8+adA/a3xevJNqYI0/12tFDP3TPSVjloPl5VqneJT+jY2LoNdqKZwqJ3bKhXWHtHlHlZTHMM0BUDmO+Z7lGIIx2P9OBnfXe4e7FJosh0WIORJGuUFZiZx3GF25uaGpn71Vbog20Bn6/QQJRslaHAjypDmQbY=;6MNJ0TtXiWbWOIxMI7QnRg=="
 ---

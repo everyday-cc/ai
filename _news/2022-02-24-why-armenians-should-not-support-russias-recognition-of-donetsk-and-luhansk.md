@@ -7,7 +7,7 @@ originalUrl: "https://asbarez.com/why-armenians-should-not-support-russias-recog
 webUrl: "https://asbarez.com/why-armenians-should-not-support-russias-recognition-of-donetsk-and-luhansk/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 576
     height: 375
     isCached: true
-
-related:
-  - title: "Syria Supports Russia’s Recognition of Breakaway Ukraine Regions"
-    excerpt: "Syria supports Russia’s recognition of the independence of two breakaway regions ... will help increase this cooperation,” Foreign Minister Fayssal Mikdad said in a speech carried by Syrian state media. Russia is the Syrian regime's most powerful ..."
-    publishedDateTime: 2022-02-23T14:02:00Z
-    webUrl: "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-490969/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "/vdyAQ/G+rIj/ZapA2eK5NsvyTvAtV62jnCvY05ezcI4u8zmNWgK/VFa0SkLYuwPD0vgITm+DsfitQ4bZvDeRlfAT9LnsoJw00HsGVbeMBZbmSsH7o+1iWoqp/dYgvKgkYt5HoDgFQHXrpTB3fXmH/SmL6R1rZhM+lMBNuT0EqOsx8ZDavtJHZSQQjBMxwEUgoYOki/r6pqP2mbkrKgCnSB48Ea5irEVwPJ2N30L4KKm8Uro6Os4V9yBiE7xU1Z8ZK3vevMZlzVAgdtr7Fz0yo/zQAQTK0lioBrojOBsIwfChViKCVq+F/kx82vkxumZfuK5j/lqWWUYS0+yfP2hd1lTYoIC8nQnU+QPUikYobE=;1UGtdHXQdlx7EMtqaw+SVQ=="
 ---

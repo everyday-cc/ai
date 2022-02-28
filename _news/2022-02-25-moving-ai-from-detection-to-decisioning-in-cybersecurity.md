@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"
         width: 1280
         height: 864
-        isCached: true
-  - title: "How AI is shaping the cybersecurity arms race"
-    excerpt: "Cybersecurity staff often find themselves inundated with data they need to sort through to manage their cyber defenses. The stakes are high. Cyberattacks are increasing and affect thousands of organizations and millions of people in the U."
-    publishedDateTime: 2022-02-23T14:03:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/How-AI-is-shaping-the-cybersecurity-arms-race-16940412.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/How-AI-is-shaping-the-cybersecurity-arms-race-16940412.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/How-AI-is-shaping-the-cybersecurity-arms-race-16940412.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Avanse Financial Services goes live with Scienaptic’s AI-Powered Credit Decisioning Platform"
     excerpt: "Avanse Financial Services Limited, a new age, technologically advanced, education-focused NBFC announced that it has tied up"
