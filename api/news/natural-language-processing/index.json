@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2022-02-26-texas-ag-ken-paxton-sues-facebook-parent-meta-over-facial-recognition.md",
+      "title": "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition",
+      "excerpt": "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/",
+      "originalUrl": "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/01/31/NAAS/f9ebd3fd-9047-421c-bb8e-4e07809346e8-IMG_Texas_Attorney_Gener_1_1_TDVDDFQI_L1771748395.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6788045001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788045001",
+      "publishedDateTime": "2022-02-25T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-26-indian-student-builds-an-ai-model-to-translate-sign-language-into-english-in-real-time.md",
       "title": "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time",
       "excerpt": "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time.",
@@ -151,7 +195,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1441,58 +1485,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-beijing-visitors-go-hi-tech-to-avoid-getting-lost-in-translation.md",
-      "title": "Beijing visitors go hi-tech to avoid getting lost in translation",
-      "excerpt": "ZHANGJIAKOU, China, Feb 15 (Reuters) - Businesses at the Beijing Olympics are getting around the language barrier by using high ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2022-02-15/",
-      "originalUrl": "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2022-02-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/CWl1hFxcYlumTqokdV5ePg1TlTs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X5N3IS5GP5JI5EWCEIOXBWJKY4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T19:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

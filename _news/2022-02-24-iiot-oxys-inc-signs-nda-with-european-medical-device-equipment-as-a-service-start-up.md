@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "IIOT-OXYS Inc. Signs NDA with European Medical Device Equipment-as-a-Service Start-Up"
+    excerpt: "CAMBRIDGE, MA / ACCESSWIRE / February 24, 2022 / IIOT-OXYS Inc. (OTC PINK:ITOX) announces the execution of a Non-Disclosure Agreement (NDA) with a strategic European medical device Equipment-as-a-Service ... and machine learning, IIoT (Industrial Internet ..."
+    publishedDateTime: 2022-02-28T19:33:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/02/24/iiot-oxys-inc-signs-nda-with-european-medical-device-equipment-as-a-service"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
+
 secured: "nXb/j/RoRLDBsByjq3DIMZPn81s6Mnv2IChEORUAiZ1ta7f0x6xvVm2bpaJGGmCFRD1OHCCFVRwwuPVo03xyhmVPuM/lw5Lllg/JEGy3/UlugsbaSfd38lOOnJRk0e/fAdhG0vlOq7n7nA1ym6lJ1sEtKLrV5AldOG05CLrEwS4vNZzuroqnEpp6e3HvFgG5dmaZ/O54/Vzv/9mvLeRcW/nLbez52bcCnu1A0Z043jjixP6Uopnb9nw0+3erHBZOb5p0HQNvvOTRXgdQHNCC909i+0wcjlSiDji1litRas6pbFQg2k19Yf0HAlB+4srLWN55FG9hBKQpHEI90/DADI0XWFLTp0/wRxN3rjf4YFw=;NYrH5VPWq+3KBdyLhLJWLw=="
 ---
 

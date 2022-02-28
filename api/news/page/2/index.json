@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-26-c3ai-inc-ai-flat-as-market-gains-what-you-should-know.md",
+      "title": "C3.ai, Inc. (AI) Flat As Market Gains: What You Should Know",
+      "excerpt": "C3.ai, Inc. (AI) closed at $21.61 in the latest trading session, marking no change from the prior day. This change lagged the S&P 500's daily gain of 2.24%. Meanwhile, the Dow gained 2.51%, and the Nasdaq,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/420748",
+      "originalUrl": "https://www.entrepreneur.com/article/420748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-420748.jpeg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-25T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-26-why-ai-is-a-small-businesss-best-friend.md",
+      "title": "Why AI is a small business’s best friend",
+      "excerpt": "Both on the cloud and in the traditional data center, new services and software releases are bringing advanced AI tools to small businesses in low-cost, easy-to-use formats that don’t require rare and expensive skillsets to operate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/",
+      "originalUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/business-delivery.GettyImages-1198253818.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/",
+      "publishedDateTime": "2022-02-25T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-26-pittsburgh-pa-project-to-become-hub-for-robotics-ai.md",
+      "title": "Pittsburgh, Pa., Project to Become Hub for Robotics, AI",
+      "excerpt": "Work is underway to transform the LTV Coke Works plant in Pittsburgh’s Hazelwood neighborhood into a hub for robotics, AI, life sciences and similar ventures. The work will include a 150,000-square-foot Robotic Innovation Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
+      "originalUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/3fb5e13/2147483647/strip/true/crop/5120x2670+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fef%2F28%2Fe509fe964ebbbed9678d215bb674%2Fshutterstock-1501235957.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
+      "publishedDateTime": "2022-02-25T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-26-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
       "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
       "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
@@ -253,7 +398,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -895,49 +1040,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-25-deep-learning-fosters-better-breast-cancer-treatment.md",
-      "title": "Deep Learning Fosters Better Breast Cancer Treatment",
-      "excerpt": "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm",
-      "originalUrl": "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/protein-inhibitors-against-triple-negative-breast-cancer.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm",
-      "publishedDateTime": "2022-02-24T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-25-following-backlash-irs-allows-skipping-facial-recognition.md",
       "title": "Following Backlash, IRS Allows Skipping Facial Recognition",
       "excerpt": "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website.",
@@ -946,7 +1048,7 @@
       "originalUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1024,6 +1126,48 @@
       ]
     },
     {
+      "path": "_news/2022-02-25-plant-based-milk-uses-ai-to-formulate-the-perfect-sip.md",
+      "title": "Plant-based milk uses AI to formulate the perfect sip",
+      "excerpt": "Sustaining life for nearly eight billion people is a heavy task for any planet, as Mother Earth is repeatedly reporting. When it comes to food production for the masses, we’ve got to start being more conservative,",
+      "sourceUrl": null,
+      "webUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
+      "originalUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2022/02/1616698769484-889x592.jpg",
+          "width": 889,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
+      "cdnAmpWebUrl": "https://inhabitat-com.cdn.ampproject.org/c/s/inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
+      "publishedDateTime": "2022-02-24T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inhabitat",
+        "domain": "inhabitat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-mercedes-benz-to-offer-hands-free-traffic-jam-assist-in-us-this-year.md",
       "title": "Mercedes-Benz to Offer Hands-Free Traffic Jam Assist in US This Year",
       "excerpt": "The German automaker's Drive Pilot offers Level 3 conditional autonomy that works at low speeds in heavy congestion.",
@@ -1056,152 +1200,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-mage-launches-low-code-ai-dev-tool-into-general-availability.md",
-      "title": "Mage launches low-code AI dev tool into general availability",
-      "excerpt": "California-based startup Mage released to general availability its prize low-code AI tool for product developers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/",
-      "originalUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/low_code-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/amp/",
-      "publishedDateTime": "2022-02-24T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation.md",
-      "title": "IBM, NVIDIA and Bloomberg tout KServe becoming incubation project for LF AI & Data Foundation",
-      "excerpt": "IBM and Bloomberg announced on Thursday that KServe is joining the LF AI & Data Foundation as its latest incubation project. KServe provides a Kubernetes Custom Resource Definitio",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "publishedDateTime": "2022-02-24T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-does-ai-have-the-answer-to-the-customer-experience-riddle.md",
-      "title": "Does AI Have The Answer To The Customer Experience Riddle?",
-      "excerpt": "The telecommunications industry is so many enterprises wrapped into one—they have to get every aspect of customer experience right. It’s a challenge every organization can learn from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621797eb40ac01b3dedcafb3/0x0.jpg?format=jpg&crop=1845,1038,x0,y89,safe&fit=crop",
-          "width": 1845,
-          "height": 1038,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/amp/",
-      "publishedDateTime": "2022-02-24T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

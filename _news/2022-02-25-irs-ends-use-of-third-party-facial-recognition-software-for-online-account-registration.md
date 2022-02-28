@@ -57,17 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year."
-    publishedDateTime: 2022-02-24T03:40:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "H8azTKATcNpg1YYxw/KS8YjTwcjG7Nujg+0zamv17+HlUynz0lT+p2OMUqgHoTcUNAS8rvfxJN80WAhXoIcPONmXfbNAFwDTyjKfiEgNaImUaFkOnxHTgVY9jMXHCNhjG1E19AoiOi76QXJoqeussR3ayH6Br0ek5MVz251CYz8CbTGVZWxEhbCrshVyv8xtWbbLMshvoByKBXrMqNog8S5L3CBUd1rZ0GfVZMaCcVyEOCj7ZQArYRyqTrCSAYi4iiMA5ztdKh1I0pqshOdUGsjM4HzNDKaRpoHBIBNxOumfVJ0NTvK5Fj+B7iXigSMoSsS5FNli8AGC/loyDEivkV9VRSVEt8Vby4WF4JdEq8ASIY0o3X73TpB8gvrOAOXXTYYuTMw3Q9ahlthncVK3mdSv6yZGCJD+6KjDQAnb9ES7r/Dstzs6dBQ2GPvzWga2d3hxjp/MP7enfnv40SqvuY1RmJUBeLuP/CpGxBWZLeI/gb515r/GfO4aHOsWPOXo57VB2JgDf5RCMupzglqNPg==;dF71T8VKN5MTyQrwz67eFg=="
 ---

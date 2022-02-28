@@ -37,6 +37,57 @@
       ]
     },
     {
+      "path": "_news/2022-03-01-how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation.md",
+      "title": "How Levi’s uses AI to accelerate its design process and digital transformation",
+      "excerpt": "AI can unlock so much insight in so many different areas, like sustainability. If we know our fabrics really well, and we know what happens when we wash them, we can start thinking about how we ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/",
+      "originalUrl": "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1237502405.jpg?fit=800%2C537&strip=all",
+          "width": 800,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/amp/",
+      "publishedDateTime": "2022-02-28T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-snapdragon-x70-5g-modem-packs-an-ai-processor-to-improve-signal-strength-and-power-efficiency.md",
       "title": "Snapdragon X70 5G modem packs an AI processor to improve signal strength and power efficiency",
       "excerpt": "The AI suite in the new Snapdragon X70 5G modem-RF system will assist ... It’s no slouch in the speed department, either, as the chip is capable of theoretical download speeds of up to 10 Gbps to offer “fiber-like browsing speeds and latency.”",
@@ -45,7 +96,7 @@
       "originalUrl": "https://www.techspot.com/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -226,6 +277,48 @@
       ]
     },
     {
+      "path": "_news/2022-02-28-africas-first-ai-research-center-inaugurated-in-congo.md",
+      "title": "Africa’s first AI research center inaugurated in Congo",
+      "excerpt": "The Republic of the Congo’s Prime Minister H.E. Anatole Collinet Makosso has inaugurated the African Center for Research in Artificial Intelligence (CARIA) in the nation’s capital of Brazzaville – the first of its kind on the continent.",
+      "sourceUrl": null,
+      "webUrl": "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
+      "originalUrl": "https://africabusinesscommunities.com/sustainable-energy/news/africa’s-first-ai-research-center-inaugurated-in-congo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
+          "width": 848,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-28T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "africabusinesscommunities.com",
+        "domain": "africabusinesscommunities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-28-mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai.md",
       "title": "MWC: Qualcomm's new 5G modem is the first with built-in AI",
       "excerpt": "At Mobile World Congress, Qualcomm is unveiling a series of connectivity innovations, as well as products and capabilities that are taking Qualcomm technology well beyond the smartphone market.",
@@ -234,7 +327,7 @@
       "originalUrl": "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -718,7 +811,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -890,7 +983,7 @@
       "originalUrl": "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1028,72 +1121,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-26-c3ai-inc-ai-flat-as-market-gains-what-you-should-know.md",
-      "title": "C3.ai, Inc. (AI) Flat As Market Gains: What You Should Know",
-      "excerpt": "C3.ai, Inc. (AI) closed at $21.61 in the latest trading session, marking no change from the prior day. This change lagged the S&P 500's daily gain of 2.24%. Meanwhile, the Dow gained 2.51%, and the Nasdaq,",
+      "path": "_news/2022-02-26-texas-ag-ken-paxton-sues-facebook-parent-meta-over-facial-recognition.md",
+      "title": "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition",
+      "excerpt": "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ...",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/420748",
-      "originalUrl": "https://www.entrepreneur.com/article/420748",
+      "webUrl": "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/",
+      "originalUrl": "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-420748.jpeg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-25T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-why-ai-is-a-small-businesss-best-friend.md",
-      "title": "Why AI is a small business’s best friend",
-      "excerpt": "Both on the cloud and in the traditional data center, new services and software releases are bringing advanced AI tools to small businesses in low-cost, easy-to-use formats that don’t require rare and expensive skillsets to operate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/",
-      "originalUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/business-delivery.GettyImages-1198253818.jpg?w=1200&strip=all",
+          "url": "https://www.gannett-cdn.com/presto/2022/01/31/NAAS/f9ebd3fd-9047-421c-bb8e-4e07809346e8-IMG_Texas_Attorney_Gener_1_1_TDVDDFQI_L1771748395.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
           "width": 1200,
-          "height": 706,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1101,64 +1143,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/",
-      "publishedDateTime": "2022-02-25T15:40:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6788045001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788045001",
+      "publishedDateTime": "2022-02-25T18:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-pittsburgh-pa-project-to-become-hub-for-robotics-ai.md",
-      "title": "Pittsburgh, Pa., Project to Become Hub for Robotics, AI",
-      "excerpt": "Work is underway to transform the LTV Coke Works plant in Pittsburgh’s Hazelwood neighborhood into a hub for robotics, AI, life sciences and similar ventures. The work will include a 150,000-square-foot Robotic Innovation Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
-      "originalUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/3fb5e13/2147483647/strip/true/crop/5120x2670+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fef%2F28%2Fe509fe964ebbbed9678d215bb674%2Fshutterstock-1501235957.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
-      "publishedDateTime": "2022-02-25T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1168,8 +1159,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

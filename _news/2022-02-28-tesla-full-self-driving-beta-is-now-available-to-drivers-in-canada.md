@@ -55,6 +55,22 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada"
+    excerpt: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it"
+    publishedDateTime: 2022-02-28T19:52:00Z
+    webUrl: "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/"
+    ampWebUrl: "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/02/Tesla-Autopilot-a-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla Launches Full Self-Driving Beta in Canada"
     excerpt: "The Full Self-Driving beta for Canada ships with the 2022.4.5.4 software update, first spotted in a Tesla Model 3 Long Range in Ontario on Friday."
     publishedDateTime: 2022-02-26T17:14:00Z

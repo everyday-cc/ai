@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -205,10 +205,10 @@
     {
       "path": "_news/2022-02-23-facial-recognition-technology-faces-mounting-legal-ethical-questions.md",
       "title": "Facial recognition technology faces mounting legal, ethical questions",
-      "excerpt": "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021.",
+      "excerpt": "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services.",
       "sourceUrl": null,
-      "webUrl": "https://www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
-      "originalUrl": "https://www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
+      "webUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
+      "originalUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -225,13 +225,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktvh-com.cdn.ampproject.org/c/s/www.ktvh.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "publishedDateTime": "2022-02-22T16:02:00-08:00",
+      "ampWebUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
+      "publishedDateTime": "2022-02-22T13:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTVH",
-        "domain": "ktvh.com",
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,6 +26,22 @@ images:
     height: 458
     isCached: true
 
+related:
+  - title: "India - Fintech SaaS company Clear enters SME credit segment with launch of Invoice Discounting product"
+    excerpt: "Fintech SaaS company Clear enters SME credit segment with launch of Invoice Discounting product   Bangalore, Feb 28 (KNN)  Clear"
+    publishedDateTime: 2022-02-28T09:44:00Z
+    webUrl: "https://menafn.com/1103773659/India-Fintech-SaaS-company-Clear-enters-SME-credit-segment-with-launch-of-Invoice-Discounting-product"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?749209"
+        width: 375
+        height: 250
+        isCached: true
+
 secured: "cUGaS4YhgSKO39VYSgA+Z/rGFoQI/JXTthw4tIESlkSFZGslLUsi2xpyuxf1y3dvqPhRU7BuvMGLPcB/Mg3XTQN8uDbB1FIWMsrP37TmPh0o4R+/shofgMgukpjCXWq3/JMH8lNrxjdLt4qbQsYKlRqLENcnjY/9Qyx9sgBCLfO2uVGtju/g5gvEFDf/wpu+7iVWTcL8TrOclWT4uWJXZUDDErclArju6gCskAk+Cmfi/HzXdD5pqEm5M/5LD9e63yst8/iFmVC4tC1Qx2i6VAsKUDxpODUsDs2QYYHsYgLkGszRQ5kJO4GQGp6xJM7JFHbfNqw9jTLqDhHdExPNXPWNz1kAj/uLhkSLOfc3XgB5Kej8BNE3YD+JXkwseGjdJbPxNQhfnvhZTIrWeJ10MIoU1YKKclyhevbI+hBhTjRok8Ys1Zl6V2OSqTi0HwHIy/faoiKtUWeuTjZYSq/2cCVx8V/HOMNoETyg6BZMFnIqDB9L14rP/xVP6ViP4rzR6HE+IMrZbrl+r5+dTRbJ7g==;fMNEMXWfWk5E+UprBpebkw=="
 ---
 

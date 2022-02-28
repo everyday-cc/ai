@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-fosters-better-breas
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medindia
@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Deep learning poised to improve breast cancer imaging"
-    excerpt: "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. In Optica, Optica Publishing Group’s journal for high-impact ..."
-    publishedDateTime: 2022-02-24T15:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944066"
+    excerpt: "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. \"The near infrared spectral tomography (NIRST) and MRI imaging ..."
+    publishedDateTime: 2022-02-24T15:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0ae14217-666d-4f6f-8604-0611f535c7ac/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-poised-t.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Deep-learning based image reconstruction approach may improve detection of breast cancer"
     excerpt: "Researchers have developed a new image reconstruction approach that could contribute to better breast cancer detection. The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time."

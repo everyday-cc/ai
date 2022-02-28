@@ -2,6 +2,186 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-02-15-gtt-group-to-sell-neural-network-ai-machine-learning-portfolio.md",
+      "title": "GTT Group To Sell Neural Network AI Machine Learning Portfolio",
+      "excerpt": "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25639015",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25639015",
+      "publishedDateTime": "2022-02-15T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-breaking-ai-stock-news-gbt-otcpk-gtch-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of-integrated-circuit-layout.md",
+      "title": "Breaking AI Stock News: GBT (OTCPK: $GTCH) Seeks to Develop an AI Empowered Technology for Automatic Compaction of Integrated Circuit Layout Data IPs",
+      "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is developing an AI empowered technology for automatic compaction of integrated circuit (IC) layout blocks. As modern ICs are ever growing in complexity and size there is a high demand for design automation to reduce silicon area and increase its yield.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investorideas.com/CO/GOPH/news/2022/02151AI-Empowered-IC.asp",
+      "originalUrl": "https://www.investorideas.com/CO/GOPH/news/2022/02151AI-Empowered-IC.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg",
+          "width": 649,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investor ideas",
+        "domain": "investorideas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee.md",
+      "title": "Building an AI flywheel: Grabango's checkout-free tech rolls out in Tennessee",
+      "excerpt": "Five years after launching its first proof-of-concept, the checkout-free technology startup Grabango is rolling out into its ... Thanks to real-world learnings and improvements to its AI, Grabango is gaining real momentum, founder and CEO Will Glaser ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "originalUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ba333dd4285fa180de9fdbb396baddc16f712b33/2022/02/15/aaf6c630-eb78-4bfb-ad41-105772c1b92f/mapco-grabango.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
+      "publishedDateTime": "2022-02-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-parascript-goes-a-step-further-in-intelligent-document-processing-with-formxtraai-83.md",
+      "title": "Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3",
+      "excerpt": "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
+      "originalUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/pr-newswire_500_4_387.jpg?itok=1yPMWIJp",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
+      "publishedDateTime": "2022-02-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027.md",
       "title": "Facial Recognition Market Report Trends, Competitive Landscape and Opportunities latest report values till 2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2022 (Market Insight Reports) -- The Global Facial Recognition market study focuses major leading industry players with information such as company profiles ...",
@@ -957,195 +1137,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform.md",
-      "title": "VMware, Nvidia team up on AI-powered hybrid cloud platform",
-      "excerpt": "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all",
-          "width": 708,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
-      "publishedDateTime": "2022-02-14T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-nvidias-ai-innovation-should-push-stock-higher-analysts.md",
-      "title": "Nvidia’s AI Innovation Should Push Stock Higher: Analysts",
-      "excerpt": "Nvidia has invested heavily in artificial intelligence—in cash and culture—and those expenditures should drive up the stock price, Truist analysts argue ... to $244.80. The S&P 500 was down 0.4% and the Dow Jones Industrial Average was off 0.8%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271?tesla=y",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-485592/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "publishedDateTime": "2022-02-14T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-report-29-of-execs-have-observed-ai-bias-in-voice-technologies.md",
-      "title": "Report: 29% of execs have observed AI bias in voice technologies",
-      "excerpt": "What’s more, nearly a third of respondents have experienced AI bias, or imbalances in the types of voices that are understood by speech recognition. There are significant enhancements to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "originalUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1303435789-e1644856780654.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/report-29-of-execs-have-observed-ai-bias-in-voice-technologies/amp/",
-      "publishedDateTime": "2022-02-14T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-texas-sues-metas-facebook-over-facial-recognition-practices.md",
-      "title": "Texas sues Meta’s Facebook over facial-recognition practices",
-      "excerpt": "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna16201",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201",
-      "publishedDateTime": "2022-02-14T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

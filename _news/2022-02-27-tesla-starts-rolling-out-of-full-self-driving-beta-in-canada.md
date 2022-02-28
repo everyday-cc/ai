@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://img.caixin.com/2022-02-25/164577163217820_560_373.jpg"
         width: 560
         height: 373
+        isCached: true
+  - title: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada"
+    excerpt: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it"
+    publishedDateTime: 2022-02-28T19:52:00Z
+    webUrl: "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/"
+    ampWebUrl: "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/02/Tesla-Autopilot-a-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Tesla Full Self-Driving Beta Is Now Available To Drivers In Canada"
     excerpt: "Tesla Full Self-Driving beta is now available to drivers in Canada. Here is everything you need to know about this."

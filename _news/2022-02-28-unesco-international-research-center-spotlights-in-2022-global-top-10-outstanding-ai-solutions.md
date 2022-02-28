@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-intern
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/thestarphoenix/wp-content/uploads/2022/02/0221_news_young_innovators-mostafa-w.jpg"
         width: 1000
         height: 750
-        isCached: true
-  - title: "AI research center goes operational in Brazzaville"
-    excerpt: "Prime minister Anatole Collinet Makosso of the Republic of Congo has expressed “immense gratitude” to the leadership of the United Nations Economic Commission for Africa (UNECA) for choice of Congo to host the first-ever African Research Centre on Artificial Intelligence (ARCAI)."
-    publishedDateTime: 2022-02-27T15:18:00Z
-    webUrl: "https://newbusinessethiopia.com/technology/ai-research-center-goes-operational-in-brazzaville/"
-    type: article
-    provider:
-      name: newbusinessethiopia.com
-      domain: newbusinessethiopia.com
-    quality: 37
-    images:
-      - url: "https://newbusinessethiopia.com/wp-content/uploads/2022/02/Djibouti-Telecom-joins-SEA-ME-WE-6-Submarine-project-350x220.png"
-        width: 350
-        height: 220
         isCached: true
 
 secured: "Uj4pvLvNTHHWKBL1K9/kRzSpuajPfP6rdjexj0IfM4y2DBiXBDFeZEw0ubOe2HE2/r4RYQImGSOKodm2VY5QQGwh2g52cK7aa6J3udfhKhe0Gf+k18jFuNByxJUQGEa7g32A0et+eC9FzZ/GHcvEM+0/7ywkiU4Vmry25xAUMJI4ptYVDAzucN7wtM9tjMs6vOYVt+zyJpZT+xEWAjDuf0z0uW5nWIdlHGfafELFRxrY2oc+ykrFts8sVNdcGx9KXnLbruyCX7eX0a9mKJsyFubw22snv4Gh/8QX1H5Ms00EDF+fMHNQHJ7bbD1b3nljpaOtDd2zGmjC1lGO0IdyBYwQ53eZFIjkYuK4egtqWfb/EjhIu3n/0Duc+eQpMhgzTKPjpgM0hBCLDt7SNq9+JQUs6UCinOK23OXvBKAhvjgzarPYeWRGF1Te12P3kxvoEfZkgdRJUoowIeW72/PRyxovf/kYx2O3Z3qFGb23Ll+cEt6o6Xx7T5RJcmdswUV2hBqUcCqDuSW2cGCjJ0EQ/Q==;Gv5cixzPkvrjD1XTiLFlnQ=="

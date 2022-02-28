@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Scipher Medicine to Participate in Truist Securities Life Sciences AI Symposium"
+    excerpt: "Scipher Medicine, a precision immunology company matching each patient with their most effective therapy, today announced Chief Technology Officer Slava Akmaev, Ph.D., will participate in a virtual panel at the Truist Securities Life Sciences AI Symposium on Tuesday,"
+    publishedDateTime: 2022-02-28T12:54:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220228006007/scipher-medicine-to-participate-in-truist-securities-life-sciences-ai-symposium"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 15
+
 secured: "LyeHzCpzydq1914QqC6FV67MUWyDu1UVqe/fmXT6i11MC52dSlfVxGXF6eGh/fPjfm6O444ehek9HwGtPstietRfI38LLoiv1ytLEFURJsHwumJJq3GGbnK0/IVhCvsj6kL5L4GpztBxbL6CCxH3Yi57hl5YusjkkhjuylDbBB3MMvKbj2cgu5IDRY69cGe88svTm5/UAz5EO9+3bPoR5/hQ7aesJulyRwFI3rvE1RrAO0ZvYJy80UecfduRZYa51lzuiqOMLS7vBPdzpupyW1L3Z41idZzKALDwGB+dyWTW22Mc/KpkkPlMpNaXILPfnXUYP72nepvicTAKaRhodn+1bLv50pGJCkRySZb9mBs=;iCMhdkBPrViKs0citu9sYg=="
 ---
 

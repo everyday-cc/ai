@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6788045001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788045001"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: USA Today
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Texas wants to sue Meta into bankruptcy owing to Secret Facial Recognition"
+    excerpt: "Texas is suing Meta for thousands of billions of dollars, arguing that automatic facial recognition breached Texas law by billions of dollars"
+    publishedDateTime: 2022-02-28T17:46:00Z
+    webUrl: "https://techstory.in/texas-wants-to-sue-meta-into-bankruptcy-owing-to-secret-facial-recognition/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/Meta.jpeg"
+        width: 800
+        height: 547
+        isCached: true
 
 secured: "E8DRYyi6h2d6Siq4LGlI5sD7ERC7geMMfA7MsNrsUZ1c+CWAKwRLDyqvB11v7P81ci4tfVqntSNeJ+Wq5frSGGMS/Z0tqoih2eHDf0W5H6LdMp9vpwSkA5C3X6ZRinHfNaO1TAL4ZftzhLig97nfP3n505148DL+9fooM7B1WinFTy3VQyT9CyeXOZVniBuzUz88FQy1aMCrrp2gYOG/tOo9eGAl9y91vszz/dqFvlR/9FlwnpuM9kDfODayDiyXAZsO4GpIjdLuKsZo34KrpPBY0qXyg1iYzLQl9kBPEJMDizQ/qdnUTj+PU4tXV6BUBoy8gC3JdJYlBsO6cSyoHkemGswOhUly7nDJT1/mzaGdZzlxZCQ9W2QvZCnH1Hm250CFXgNOmF1AGI4c4RVxn91iUPuCDBSQOy0bpI8iv5a45QAx7ELhA9CWqnAWAYrwYL5sLpkyj1n7yLqkoL/uLUktB1ZzQmy8yWX2rMpEjXcXG4W22mKFLCmHAy7sga8MM/X5lFc0zsLRDneLP8UEDQ==;tiI76Jst5HKxYETPzV4UdA=="
 ---

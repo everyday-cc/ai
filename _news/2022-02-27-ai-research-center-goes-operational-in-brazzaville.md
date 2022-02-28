@@ -24,37 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions"
-    excerpt: "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs)."
-    publishedDateTime: 2022-02-27T16:40:00Z
-    webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/"
+  - title: "Africa’s first AI research center inaugurated in Congo"
+    excerpt: "The Republic of the Congo’s Prime Minister H.E. Anatole Collinet Makosso has inaugurated the African Center for Research in Artificial Intelligence (CARIA) in the nation’s capital of Brazzaville – the first of its kind on the continent."
+    publishedDateTime: 2022-02-28T14:34:00Z
+    webUrl: "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 137
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621bb520766538529bd5d84e/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 670
+      - url: "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg"
+        width: 848
+        height: 477
         isCached: true
-  - title: "U of S researcher dives into deep learning to find global solutions"
-    excerpt: "Research conducted by University of Saskatchewan graduate student Sakib Mostafa is taking a closer look at deep learning in computers to better understand how artificial intelligence can be used ..."
-    publishedDateTime: 2022-02-27T13:06:00Z
-    webUrl: "https://thestarphoenix.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions"
-    ampWebUrl: "https://thestarphoenix.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/"
-    cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/"
+  - title: "Congo Brazzaville to get Africa's first Artificial Intelligence research centre"
+    excerpt: "The United Nations Economic Commission for Africa (Uneca) is set to launch the region's first Artificial Intelligence (AI) research centre in Brazzaville, capital of the Republic of Congo. The facility,"
+    publishedDateTime: 2022-02-24T10:12:00Z
+    webUrl: "https://www.theeastafrican.co.ke/tea/news/rest-of-africa/congo-brazzaville-africa-s-first-ai-research-centre-3727794"
+    ampWebUrl: "https://www.theeastafrican.co.ke/tea/news/rest-of-africa/congo-brazzaville-africa-s-first-ai-research-centre-3727794?view=htmlamp"
+    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/news/rest-of-africa/congo-brazzaville-africa-s-first-ai-research-centre-3727794?view=htmlamp"
     type: article
     provider:
-      name: The StarPhoenix
-      domain: thestarphoenix.com
-    quality: 59
+      name: The EastAfrican
+      domain: theeastafrican.co.ke
+    quality: 53
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/thestarphoenix/wp-content/uploads/2022/02/0221_news_young_innovators-mostafa-w.jpg"
-        width: 1000
-        height: 750
+      - url: "https://www.theeastafrican.co.ke/resource/blob/3727824/178cc6dfef48c8f3452d3003ff93d193/ai-research-center-data.jpg"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "6BSSZQq4h4fKGwOKiDrW7kU3uoKXwc1lt+peQY85zmGGF/okM2xW/whd5dNc4CSJtpt38lJHvWhfhireNe53ASLctOJqV7MR2j7ugHCJ3Zt8lV3VuK+Xqk4qSvjuQcBkpWwJz64J6vZjsSOr6y6Ux8qCvZxUemEa6KtGTIJU3d0pTFpIJ5pMmEM13UwyJ+CGLdGa2NIlFirZ6GdlG/qGKAoNoDxRO7AmuxdRg97dh32ytbUhozf4Fv9993+/uS8fiE6HN3/ypEGb8IgkoaPLLb3Qll9hgxpz3yQMg/KdHJ8D9Jd7GRnlYfU7vYXloEcTuEnJ90PMqLn9xZWj/wXY6twPriN60LvGYPblWQuJ4fw=;loxsI2tw1OGmaAR1HAkVnA=="

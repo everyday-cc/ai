@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-pack
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html"
 type: article
 quality: 78
-heat: 88
+heat: 90
 published: true
 
 provider:

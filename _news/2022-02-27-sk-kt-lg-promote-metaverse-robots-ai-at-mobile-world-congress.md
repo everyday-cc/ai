@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Meta is building an AI-powered universal language translator"
-    excerpt: "During a streamed event, Meta CEO Mark Zuckerberg talked more about the Metaverse his company has been investing in - including that Meta's research division is developing a universal speech translation system."
-    publishedDateTime: 2022-02-24T04:29:00Z
-    webUrl: "https://www.pocket-lint.com/apps/news/facebook/160152-meta-is-building-an-ai-powered-universal-language-translator"
-    ampWebUrl: "https://www.pocket-lint.com/apps/news/facebook/160152-meta-is-building-an-ai-powered-universal-language-translator.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/facebook/160152-meta-is-building-an-ai-powered-universal-language-translator.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/160152-homepage-news-meta-is-building-an-ai-powered-universal-language-translator-image1-4mqg8hpu96.jpg"
-        width: 943
-        height: 630
-        isCached: true
   - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
     excerpt: "Feb 23 (Reuters) - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out ..."
     publishedDateTime: 2022-02-24T12:39:00Z
@@ -148,22 +132,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
         width: 554
         height: 372
-        isCached: true
-  - title: "Meta is working on an universal language translator to make socialising easy in metaverse"
-    excerpt: "Meta is working on a two-fold project. The first part is No Language Left Behind and the second is Universal Speech Translator."
-    publishedDateTime: 2022-02-24T04:00:00Z
-    webUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/"
-    ampWebUrl: "https://www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-universal-language-translator-mark-zuckerberg-metaverse-1239826/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 35
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2022/02/meta-translator.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "rD1BXs4eZFfDqpiEhR0mqaCONaef+cItMCRuHfNYaUDA+IHLcihwlfP5yJv2mkp3ZZTtCfVf384ntsolwmdtOWC8JhqRmlbEHA3fYEzKBQQFhFttFgite1+6r68CEG3GG0ce99ljINCRJO4Ni6DKpL+ptKnr5n0rDj6dbCU9YjLkZ1PM9AIiTlI09llnNg4sK+bD+S/UCjznE8QR1TltWHDJ9D45u/bZFqHWEyfDlPxSsvfm5pr7u8W3xlUt1jMmHNIsqR+XxkXyOZUYE2Q1XB2h3BWtQnmKje0lS2OMqTInusXoZ1yxWfmYuvccOENVnlUsHbM5+/uAjjYgP7/jqy/rVERlH+Av08dcTE+1F00=;X9xt8RB0doAcPv1Y07bvQw=="

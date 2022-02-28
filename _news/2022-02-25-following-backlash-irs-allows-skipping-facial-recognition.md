@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skippin
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IRS will allow taxpayers to forgo facial recognition amid blowback"
-    excerpt: "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year."
-    publishedDateTime: 2022-02-24T03:40:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
     excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
     publishedDateTime: 2022-02-24T21:36:00Z
