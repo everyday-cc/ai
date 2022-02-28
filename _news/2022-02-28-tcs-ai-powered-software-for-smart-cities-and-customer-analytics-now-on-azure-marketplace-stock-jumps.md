@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-te
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Patriot One awarded contract to develop AI-powered full-motion video analytics app"
-    excerpt: "TORONTO—Patriot One Technologies announced it was awarded a contract worth nearly $1 million CAD with Canada’s Department of National Defence (DND) to further develop an artificial intelligence (AI)-e"
-    publishedDateTime: 2022-02-23T16:32:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/patriot-one-awarded-contract-to-develop-ai-powered-full-motion-video-analytics-app"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 33
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Video Analytics Market Substantially Focuses On Product Line By Competitors 2021-2031"
     excerpt: "Advancements in Digital Ecosystems Pivot Expansion of Video Analytics Market Video analytics technologies are widely used as part of security solutions"
     publishedDateTime: 2022-02-25T12:13:00Z
@@ -81,6 +67,6 @@ related:
       domain: eurekalert.org
     quality: 0
 
-secured: "RNBAi7plIrT8fFvpupc4BoTU4lWiEhgciMJXAuXPyOfvChhAOgJW4Xt7rrRAtACOGcc5vzzseYsDkjGx1ZaKbzjCIQ2ZcR7V/r1wjFe1vMMsaPc6y/kdxeqDHF++pCBsa+mHxpW2QipWR3/4K0bJbja7jJyFtDNTPiE+EnfLZ6/UH0JiUOHAA7woXR7oSc3YaCsmvaP4SfgqOEUSFzLovf/tcqofsJxxju+NVUKXVX9uCbeG3+Eamk1YvAe/G5UEy4V3jueYJh6yEK3cdFyiyz9KC+id6tnjcK3vIziNCzE77exYOZxxAqwtBk36xHNK1nQ8TWkn1yDhiZKSmNqWtZl9Q2dRV7Diqc+i87j+fg0=;jI9jROBVMUY2QrBKRNWWuQ=="
+secured: "b5+81SIiOro49tPfNcSxNY7rXBgLZoLd08OUg0DGS/6WuqVTXLv8utSK0Q7udN7YWtnNYC6dh5WmwWN7ImkjF4iGyQkMGTCAyE9Y/l2GjyFHCFGtjGVuWvue5/QnWotx+BkxflkZ/P4lDZ2JhnkViSex9euft84yTRjHxYsRBbrhYobcswLUpRZ4pJNqKqsx7HS4yoMDyQg+hzgR3adNZdgeNW94OdIeSTuHXKH77LhI/nAKXAcHJsE2CpyujUmzvoh3ETN/pLhn1nUCQTU7mwpAz9t7tC/zWGr90cXo47guY8RmDNQ+tjU52GawBOq+t0G8K4ksFZD2izcs/ZBSQwdBkMe/psgNCHIzqIKjqXDUYHWZ+QJvNXjaErsxRBGfjWWBIu6NI2OqlXoZt+c9fi3Ihz0VGRWqvRffDSd9JermBVARS8yrSx7K4KAUrsj+LJJHHBwV73jswF34t7Kqbvb8hl8HHO/iMH+OksGDdHpWrX/+6PghK+E4MRYcNw5BXyE6WKB60fKCcU+mHzhBhg==;3vl8KhUhC9bZw0h3vjvK/g=="
 ---
 

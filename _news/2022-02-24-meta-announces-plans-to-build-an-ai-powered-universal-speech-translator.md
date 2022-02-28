@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project"
 type: article
 quality: 88
-heat: 318
+heat: 328
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/160152-homepage-news-meta-is-building-an-ai-powered-universal-language-translator-image1-4mqg8hpu96.jpg"
         width: 943
         height: 630
+        isCached: true
+  - title: "Meta plans AI-driven universal translator"
+    excerpt: "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,"
+    publishedDateTime: 2022-02-24T05:28:00Z
+    webUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    ampWebUrl: "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Meta to break language barriers with AI, builds universal speech translator"
     excerpt: "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme"

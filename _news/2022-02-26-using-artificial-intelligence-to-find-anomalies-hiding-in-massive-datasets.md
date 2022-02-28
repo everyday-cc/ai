@@ -87,20 +87,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Using artificial intelligence to work smarter, not harder"
-    excerpt: "Rowan College of Engineering and co-director of the Rowan Artificial Intelligence Lab.  One of his research projects aims to develop a rigorous, scalable learning framework that will enable AI systems to self-assess their performance and continually expand upon their prior knowledge."
-    publishedDateTime: 2022-02-23T15:23:00Z
-    webUrl: "https://today.rowan.edu/news/2022/02/meet-dr-ghulam-rasool.html"
-    type: article
-    provider:
-      name: Rowan
-      domain: rowan.edu
-    quality: 39
-    images:
-      - url: "https://today.rowan.edu/news/2022/02/images/meet-ghulam-rasool.jpg"
-        width: 600
-        height: 314
-        isCached: true
   - title: "5 Predictions for Fake AI in 2022"
     excerpt: "AI has been sold for the last 70+ years as an umbrella term representing a wide range of techniques, programs, algorithms and models that would allow computing machinery to mimic, simulate, replicate or fake human body/brains/mind/intelligence/behavior."
     publishedDateTime: 2022-02-23T18:50:00Z

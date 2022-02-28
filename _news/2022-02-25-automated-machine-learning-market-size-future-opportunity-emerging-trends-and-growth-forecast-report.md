@@ -56,6 +56,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "North America Deep Learning In Machine Vision Market Growth Overview, Technological Advancements And Competitors Analysis Forecast By 2029"
+    excerpt: "The North America Deep Learning In Machine Vision Market analysis provides a high-level summary of classification, competition, and strategic actions"
+    publishedDateTime: 2022-02-28T08:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-deep-learning-in-machine-vision-market-growth-overview-technological-advancements-and-competitors-analysis-forecast-by-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "K3TCtaHPX+sX122dqPMWF6J6wAjLFQtbYE0TZZJ8ZKm6rvgdXMpr7OIy9JBdMwZrvB8u4UVRfZPU1P3k4KyyXQnB+s8zYazi07mb7IXmBDCzITGPdFK64iHwUE8BuSccmPdZ5ObFaBdfh3zVWUiXiXOD4VCVolYbCpDKas5Vn6Cj7kTzEiQx9rnw7g9CIEqV2a6bO5DyS6WqW6Vi2u+Wp5GUbbvsPGPvpRte65FyF5owyT142+fRx3EGDz+zR+s5Q7zg38xDTvor28pz7TAdxROnl2RxoUhrUYTpA++Ddj6Nt+9CJOKeNXfoisj8fdjLHEhyVqXH2jEETR+WdX9WXegHe7vg2JC1O1TNRbUVIVQ=;t6t1Lfjqb/6RapbQVgD65g=="
 ---

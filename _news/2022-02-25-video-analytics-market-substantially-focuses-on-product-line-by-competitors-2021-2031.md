@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Patriot One awarded contract to develop AI-powered full-motion video analytics app"
-    excerpt: "TORONTO—Patriot One Technologies announced it was awarded a contract worth nearly $1 million CAD with Canada’s Department of National Defence (DND) to further develop an artificial intelligence (AI)-e"
-    publishedDateTime: 2022-02-23T16:32:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/patriot-one-awarded-contract-to-develop-ai-powered-full-motion-video-analytics-app"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 33
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Enabling 6G: from low-power technologies for communication to machine learning analytics for privacy preservation"
     excerpt: "IMDEA Networks has recently been awarded the coordinated project ENABLE-6G of the national call UNICO 5G. The project consists of two sub-projects, RISC-6G and MAP-6G, and it will be developed by a group of researchers led by Dr."
     publishedDateTime: 2022-02-24T19:22:00Z

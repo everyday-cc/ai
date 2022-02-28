@@ -102,20 +102,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Using artificial intelligence to work smarter, not harder"
-    excerpt: "Rowan College of Engineering and co-director of the Rowan Artificial Intelligence Lab.  One of his research projects aims to develop a rigorous, scalable learning framework that will enable AI systems to self-assess their performance and continually expand upon their prior knowledge."
-    publishedDateTime: 2022-02-23T15:23:00Z
-    webUrl: "https://today.rowan.edu/news/2022/02/meet-dr-ghulam-rasool.html"
-    type: article
-    provider:
-      name: Rowan
-      domain: rowan.edu
-    quality: 39
-    images:
-      - url: "https://today.rowan.edu/news/2022/02/images/meet-ghulam-rasool.jpg"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
     excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their ..."
     publishedDateTime: 2022-02-24T00:00:00Z

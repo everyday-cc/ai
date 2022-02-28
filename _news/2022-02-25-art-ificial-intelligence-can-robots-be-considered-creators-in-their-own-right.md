@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Swarm Intelligence: What Is It and How Are Agencies Using It?"
-    excerpt: "A kind of “hive mind” artificial intelligence has many potential applications for federal government agencies that use satellites and drones."
-    publishedDateTime: 2022-02-23T15:42:00Z
-    webUrl: "https://fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon"
-    ampWebUrl: "https://fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp"
-    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp"
-    type: article
-    provider:
-      name: fedtechmagazine.com
-      domain: fedtechmagazine.com
-    quality: 42
-    images:
-      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202202/GettyImages-1253453216.jpg?itok=YbmkUy2y"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "The Age of Intelligence: Reimagining human lives with conversational artificial intelligence"
     excerpt: "The whole blueprint of technology today is underpinned by one pillar – Artificial Intelligence (AI). AI is the meticulously worked project by the best tech minds to provide a melange of human intelligence amalgamated with machine analytics."
     publishedDateTime: 2022-02-25T07:29:00Z

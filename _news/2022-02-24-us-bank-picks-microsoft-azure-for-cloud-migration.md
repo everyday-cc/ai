@@ -88,6 +88,17 @@ related:
         width: 1920
         height: 1358
         isCached: true
+  - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
+    excerpt: "CI&I customer analytics helps banks, retailers, insurers, and other businesses take advantage of AI, machine learning, and customer data platform capabilities to deliver hyper-personalized consumer and citizen experiences,"
+    publishedDateTime: 2022-02-28T07:21:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800564_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 67
   - title: "Microsoft updates security applications for multi-cloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
     publishedDateTime: 2022-02-24T20:22:00Z

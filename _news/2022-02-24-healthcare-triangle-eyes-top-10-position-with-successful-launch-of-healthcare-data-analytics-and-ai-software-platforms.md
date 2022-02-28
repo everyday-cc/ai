@@ -43,20 +43,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Patriot One awarded contract to develop AI-powered full-motion video analytics app"
-    excerpt: "TORONTO—Patriot One Technologies announced it was awarded a contract worth nearly $1 million CAD with Canada’s Department of National Defence (DND) to further develop an artificial intelligence (AI)-e"
-    publishedDateTime: 2022-02-23T16:32:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/patriot-one-awarded-contract-to-develop-ai-powered-full-motion-video-analytics-app"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 33
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Video Analytics Market Substantially Focuses On Product Line By Competitors 2021-2031"
     excerpt: "Advancements in Digital Ecosystems Pivot Expansion of Video Analytics Market Video analytics technologies are widely used as part of security solutions"
     publishedDateTime: 2022-02-25T12:13:00Z

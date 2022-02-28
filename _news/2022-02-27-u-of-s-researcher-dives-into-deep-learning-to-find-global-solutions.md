@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 670
         isCached: true
-  - title: "Researchers use artificial intelligence to identify potential unsafe locations in cities"
-    excerpt: "Identifying possible hotspots of crime in a city is an important issue for urban safety development and can help the authorities take necessary steps to make the city safer for its residents. The effectiveness of such preventive measures depends on the accuracy of the predictions,"
-    publishedDateTime: 2022-02-23T16:31:00Z
-    webUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-potential-unsafe-cities.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-potential-unsafe-cities.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-potential-unsafe-cities.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-from-the-g.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "AI research center goes operational in Brazzaville"
     excerpt: "Prime minister Anatole Collinet Makosso of the Republic of Congo has expressed “immense gratitude” to the leadership of the United Nations Economic Commission for Africa (UNECA) for choice of Congo to host the first-ever African Research Centre on Artificial Intelligence (ARCAI)."
     publishedDateTime: 2022-02-27T15:18:00Z
@@ -73,21 +57,7 @@ related:
         width: 350
         height: 220
         isCached: true
-  - title: "Researchers from the GIST use artificial intelligence to identify potential unsafe locations in cities"
-    excerpt: "Identifying location-specific attributes is an important aspect of social artificial intelligence. However, models that are frequently trained on subjective perceptions and still images are unreliable in predicting crime."
-    publishedDateTime: 2022-02-23T15:03:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944363"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/25113ac9-f308-4ec9-be78-361dc64c6ae4/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
-secured: "woc8z+zRLeLRecVatWF4va1P44M+6MYhR0Oi3O7KxBhiPVE1+VKvoYy1Ho8zvT3e7j2BznjkP4Sjwml5f+m8T/bQWudHX4jcmtyF+wublqxSJkc6louO3hmDbZXZtSMp4H2NHoM91dJeVUEtdy5f744E9NsqJuMCUYpYg4SB30kncXFwHuDq3BdpvhAMbY8pqOpo6slwse/SS/t2E6kInAu3LMnlhc1UF1uv28KxMHyY0cFi29hIHWyPft05YsYoK1NCXfCq/Iox94BqfxUHkJ4i+OpVj+69PSAi3Z83IOUQhWPiSpZLd6yRU9FujcDfU8dujcUwx3i7Xml5kOOZ62bnVmQG69kzfrznGCSB2V0=;IkwrN6IiWU2WH4xPvsfofQ=="
+secured: "gEjMrDJ1DMn7vHkxwtZ/XsO+WqGCSbhE/YwKd5PxufOVsAeCnIR2ES2WZ7gAvvLGUuJSe/JrqHetJnBSZBb4ab737Qy4ZzkrnZatavAPQbrZZobLF24DUnket6vWAR0Wq0NGacNTrFA8ZH8+W/mYgmqGOGIxYUDK/KmXpuraSG/Jv5fvzu9TUssh+la2LQMb6c95+OvEgq3JHWxyRJDuiH4SXwaH9lm91s6jdOS4UJJtZ7N3/Ry0ksBMCrx0MHlcEuo492yX3z6jHPRmTCRe++rn0LXxAXrZ8XJj7mvTvlO6UTAq8DRTHPNT4f1zFWHP87vh6URppCTjE+PHt7uBOvd0ej9HT+ij8cO7Hiliv3bcY95Pm6Xahw2QOPw0x/Ekfcs9zdPI4F/4qf0fg3GqBd+3cZZGsfSO2zqnhC1egZwPp9c4gRWMcfxHnDHCBNeFsqLK8v+EZG5rr50Ox3Bj2V5bm7Ws8S2rPpkQ/9vZnrEoDngGK3T8MTW0AOtmPFwYWIkhgQw/xIEOKE33FeLIEQ==;Cj+iP46nS+hJ2Gli15lmWw=="
 ---
 

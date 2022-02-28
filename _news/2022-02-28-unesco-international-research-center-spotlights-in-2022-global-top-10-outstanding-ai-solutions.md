@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-intern
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Researchers use artificial intelligence to identify potential unsafe locations in cities"
-    excerpt: "Identifying possible hotspots of crime in a city is an important issue for urban safety development and can help the authorities take necessary steps to make the city safer for its residents. The effectiveness of such preventive measures depends on the accuracy of the predictions,"
-    publishedDateTime: 2022-02-23T16:31:00Z
-    webUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-potential-unsafe-cities.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-potential-unsafe-cities.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-potential-unsafe-cities.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-from-the-g.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "AI research center goes operational in Brazzaville"
     excerpt: "Prime minister Anatole Collinet Makosso of the Republic of Congo has expressed “immense gratitude” to the leadership of the United Nations Economic Commission for Africa (UNECA) for choice of Congo to host the first-ever African Research Centre on Artificial Intelligence (ARCAI)."
     publishedDateTime: 2022-02-27T15:18:00Z
@@ -77,20 +61,6 @@ related:
       - url: "https://newbusinessethiopia.com/wp-content/uploads/2022/02/Djibouti-Telecom-joins-SEA-ME-WE-6-Submarine-project-350x220.png"
         width: 350
         height: 220
-        isCached: true
-  - title: "Researchers from the GIST use artificial intelligence to identify potential unsafe locations in cities"
-    excerpt: "Identifying location-specific attributes is an important aspect of social artificial intelligence. However, models that are frequently trained on subjective perceptions and still images are unreliable in predicting crime."
-    publishedDateTime: 2022-02-23T15:03:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944363"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/25113ac9-f308-4ec9-be78-361dc64c6ae4/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "Uj4pvLvNTHHWKBL1K9/kRzSpuajPfP6rdjexj0IfM4y2DBiXBDFeZEw0ubOe2HE2/r4RYQImGSOKodm2VY5QQGwh2g52cK7aa6J3udfhKhe0Gf+k18jFuNByxJUQGEa7g32A0et+eC9FzZ/GHcvEM+0/7ywkiU4Vmry25xAUMJI4ptYVDAzucN7wtM9tjMs6vOYVt+zyJpZT+xEWAjDuf0z0uW5nWIdlHGfafELFRxrY2oc+ykrFts8sVNdcGx9KXnLbruyCX7eX0a9mKJsyFubw22snv4Gh/8QX1H5Ms00EDF+fMHNQHJ7bbD1b3nljpaOtDd2zGmjC1lGO0IdyBYwQ53eZFIjkYuK4egtqWfb/EjhIu3n/0Duc+eQpMhgzTKPjpgM0hBCLDt7SNq9+JQUs6UCinOK23OXvBKAhvjgzarPYeWRGF1Te12P3kxvoEfZkgdRJUoowIeW72/PRyxovf/kYx2O3Z3qFGb23Ll+cEt6o6Xx7T5RJcmdswUV2hBqUcCqDuSW2cGCjJ0EQ/Q==;Gv5cixzPkvrjD1XTiLFlnQ=="

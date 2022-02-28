@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/age-intelligence-reimagining-human-
 webUrl: "https://www.linkedin.com/pulse/age-intelligence-reimagining-human-lives-conversational-artificial-"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Swarm Intelligence: What Is It and How Are Agencies Using It?"
-    excerpt: "A kind of “hive mind” artificial intelligence has many potential applications for federal government agencies that use satellites and drones."
-    publishedDateTime: 2022-02-23T15:42:00Z
-    webUrl: "https://fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon"
-    ampWebUrl: "https://fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp"
-    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp"
-    type: article
-    provider:
-      name: fedtechmagazine.com
-      domain: fedtechmagazine.com
-    quality: 42
-    images:
-      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202202/GettyImages-1253453216.jpg?itok=YbmkUy2y"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Art-ificial intelligence: can robots be considered creators in their own right?"
     excerpt: "While AI has increasingly converged with the arts, US authorities do not believe works created by technology can be copyrighted."
     publishedDateTime: 2022-02-25T02:29:00Z

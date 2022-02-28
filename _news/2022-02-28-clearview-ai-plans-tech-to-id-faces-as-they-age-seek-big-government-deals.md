@@ -8,8 +8,8 @@ webUrl: "https://www.theregister.com/2022/02/28/in_brief_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/02/28/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/28/in_brief_ai/"
 type: article
-quality: 57
-heat: 57
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://regmedia.co.uk/2019/04/22/facial_shutterstock.jpg"
@@ -26,6 +28,6 @@ images:
     height: 516
     isCached: true
 
-secured: "k7j0TJYxdgWmml6z0TgXIMDiwSRhoA7SLzxsOLQxn3fMLpTNkvFYepjMES3Q/mG4wK9xW6TEOlBsqiGN2NPUF/PsaLK1o2XFAbukVufT7/XLmglXRWe0/VTjV0YDcu0qFy32VvFU+RLLp1ACovHvIaTCprjDLJHdpxUCqwPznBl9q9cJFTXLXeTA1Ha+7KBeq8RnNMun+6tlh2sgY8Hya4J8NpHGeAgWQKQuQEeT3RQYjk6siJi9DCFyX9eYMQZKMqCNKwXDrm7jM80Nn3FECUTaJeI4bz49GSz8N+1TPx9jVYNRJEG4xY0tKMbBJHo+jQEFLExTkeMsGvrlkm601nzu58hmO9E5WLck+1AufqM=;wgV4zbS0kWBYE4fsnIUe6g=="
+secured: "p9UnaMyy5mBnkN0E5k9hWmcb7Z9dXT/3xH4taEL0nANwjXOoCVJGV5hdixDuHi3Spw4v32mBS8mElbeTu1oHM4CVFQBfi79OSsuixl31Ff4Gpaqa+LsaZ+Orrl9jWikwChT539nwmw6hEvPUnM8iha04YVIZbGXjeSyd3VHjGiQztr1bU6stH7Wl6tl046wvDJ/f11cOE+IU5jGhY0pnxTTdKb+Dnxh6+I6C3VYcn/kUroQ4T/QBg+zmhy0y8I//GN20NL/fwqUmkE+DjqC55SNyjxPKh8sCtW+kVRfwfInRmTkiHlUTfYUhFLNuB6r6nyoJJDqlJcZWmqFBJi5TgGsLKRdOboGKmAzOSNunmzawCqEN7g31fEyuGd+WwqDs+uDlJL9OH30DPyymQfJ2qystCYnCOMCm5B1qva7gNMeV5iwt4SDUHDbUe2iBmZCI4rEselsGMGiIs/Cm6/h8pkO+pPHfRdY54sgEE+6wtyLdcKzXZ3Hx477ZxtmE/5Kxww5+eF35AjNRDjXxDU2iDw==;qSpJDV829rxw6RPV97mLTQ=="
 ---
 

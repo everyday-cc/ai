@@ -28,9 +28,9 @@ related:
   - title: "Deep Learning Fosters Better Breast Cancer Treatment"
     excerpt: "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time."
     publishedDateTime: 2022-02-24T18:29:00Z
-    webUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205812-1.htm"
+    webUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
     type: article
     provider:
       name: Medindia
@@ -58,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "vGdXAoip1ROKkq+SXgOCiwPNzwyyxtk6mjnbh6rEWniuzxiYPrfFZM1x+hzunjtJu0nwbXV3dbTQ7fk+/M8vxlj210EuZ0e/z9OfBRNnkXm8+XRapYZ+oTSe3fmGIBtRjs/zDJwnLBbAVLE0CJd9/SQqkw5Y8ZDfWFRaVluWhotj6Os1AaDfbnZAsNfDORSb8Gfot4mNiwfqumKJsPBPSxyEU94qIWOzpyan6NJNv1elKkqRG3NgUT+Dhl1xXaGaYLt75E4pyCBGX85iaENBlKBqKqBdDoYHxpj+2HUrpCE//C2DZenmd+hJTQTb6LHcIRgPzF5YVgYq+pBBDnr0eNoV7lcAJRzaQFAnt7LR4Wc=;imwkHaav4j0rBLmEqWRRDg=="
+secured: "XKevViMw1wnEVKbp7CgmEKEYoDwCHc7/L+XYingm5FWC+M7WvdCyJByKWOEJcLoPG/TkLl2S6r6ixOYYddsNHhGfRQ5MYwuj9iYa+cHoACfhsH5GjjuCBfGfS0H9zRxn2OxiQ8nMdyGP07G/GCaF/lA8zsaUX+N2SUI+jmc7s/NVTCpdx3t0muW1CDr6f/prIyqfqRnudXVzA44y5VMGhlACd5aIdEQLMw2I5pGIkUDElSDxh7h8pOQ/AT/PWW0C5IkvJlrQh2uu4czxtP3enC9gZWe+C0iXn/pZFHFKZMP4BMKXWwmWBfHe+vtGYCN+WoFIk0J4Gmm+s1tig2fo2uT/v3s/sj8tdgLUoVZwSkM=;PyW4HqGJVk2Izh/IUO1N1A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
         width: 980
         height: 677
-        isCached: true
-  - title: "At metaverse event, Meta's Zuckerberg unveils work to improve how humans chat to AI"
-    excerpt: "Facebook-owner Meta is working on AI research to allow people to have more natural conversations with voice assistants, CEO Mark Zuckerberg said on Wednesday, a step towards how people will communicate with AI in the metaverse."
-    publishedDateTime: 2022-02-23T16:15:00Z
-    webUrl: "https://www.reuters.com/technology/metaverse-event-metas-zuckerberg-unveils-work-improve-how-humans-chat-ai-2022-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "AI translation key to communication in metaverse: Flitto CEO"
     excerpt: "\"But AI is unlikely to translate all different languages in a virtual world, as it cannot fully process subjective data such as people's thoughts and feelings,\" he said. Lee added that AI excels in handling objective data that involves numbers and figures ..."
