@@ -22,7 +22,7 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1438620038005723140/zVILNd_j_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1498780105799204866/DVzbJckK_400x400.png"
     width: 400
     height: 400
     isCached: true
