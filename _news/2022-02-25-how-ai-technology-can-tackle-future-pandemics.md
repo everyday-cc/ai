@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/article.aspx?ArticleID=480"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Azorobotics
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can 911 Staff Shortages Be Alleviated by AI Technology?"
+    excerpt: "As government call centers grapple with the nationwide staffing shortage and an influx in demand, some are implementing artificial intelligence tools to improve wait times and accessibility for callers."
+    publishedDateTime: 2022-02-27T06:08:00Z
+    webUrl: "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology"
+    ampWebUrl: "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b50a7b2/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd3%2Fca%2Fbb56bffc29ca615bbb2330a88b5c%2Fshutterstock-call-center-header.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Researchers develop an AI-powered surveillance system for future pandemics"
     excerpt: "Nobody wants to think about the next pandemic. But we need to be prepared, and a critical step in prevention is early detection and intervention."
     publishedDateTime: 2022-03-01T08:01:00Z

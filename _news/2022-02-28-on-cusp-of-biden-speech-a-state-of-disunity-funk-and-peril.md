@@ -38,15 +38,15 @@ related:
         height: 800
         isCached: true
   - title: "On cusp of Biden's State of the Union speech, a state of disunity, funk and peril"
-    excerpt: "Biden will step up to the House speaker's rostrum to address a nation in conflict with itself. The country is litigating how to keep kids safe and what to teach them, and suddenly plenty worried about Russian expansionism."
-    publishedDateTime: 2022-02-28T21:20:00Z
-    webUrl: "https://www.koat.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-    ampWebUrl: "https://www.koat.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-    cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+    excerpt: "Biden, in his speech, will highlight the improvements from a year ago — particularly on COVID-19 and the economy — but also acknowledge that the job is not yet done, in recognition of the fact that many Americans don't believe it. A year into Biden's ..."
+    publishedDateTime: 2022-02-28T23:25:00Z
+    webUrl: "https://www.wcvb.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+    ampWebUrl: "https://www.wcvb.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
     type: article
     provider:
-      name: KOAT Albuquerque
-      domain: koat.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 39
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-gettyimages-1373741404.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"

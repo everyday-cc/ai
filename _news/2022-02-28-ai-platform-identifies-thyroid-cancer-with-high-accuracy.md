@@ -7,7 +7,7 @@ originalUrl: "https://www.cancertherapyadvisor.com/home/cancer-topics/endocrine-
 webUrl: "https://www.cancertherapyadvisor.com/home/cancer-topics/endocrine-cancer/thyroid-cancer-ai-platform-identifies-high-accuracy/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Artificial Intelligence Model Identifies Thyroid Cancer through Ultrasound Images"
+    excerpt: "New research discovers that an artificial intelligence (AI) model combining several methods of machine learning precisely identifies thyroid cancer and predicts genomic and pathological results via examination of regular ultrasound images."
+    publishedDateTime: 2022-02-25T13:57:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12777"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12777"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12777"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 34
 
 secured: "5DkSjyvkJXnksW8fiF50mZ9hYiXqYBXVb020XQ5ewJqSz98/03mUN396Wv55d2a5FAB85JIM9EYfBNzZkmVTYHKm9l2tlQCZNC3p3ewGzoiw+f6bh/E81jQYW3jCgIVc1cc8Q/LetWXdxkW58pt66afAySjMN7bnSneUUCB2hS/9HtN5FOoRz+tW5hKvpBi9kIK8XUqZo8LCNC/WlPPp9gFYKjEuBapnvQWqwDA0e9aBa0zaRK05PxMHIl+euQjnmr7sFOUa/qAk5wYh4pPgx1esxX5qxZyfV8kCSqteT3RLUx0P5TTse8sYua7Bdn0SLloTi5P5Bg6I66qYvErpUgwaQYPS0VV4W70V8a4y6Xk=;HlTMO1iab5eb9ahZoYs5Gg=="
 ---

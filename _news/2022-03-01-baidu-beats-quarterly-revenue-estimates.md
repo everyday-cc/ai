@@ -32,6 +32,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown"
+    excerpt: "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33."
+    publishedDateTime: 2022-03-01T15:39:00Z
+    webUrl: "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 56
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
     publishedDateTime: 2022-03-01T07:35:00Z
@@ -45,6 +59,20 @@ related:
       - url: "https://static.euronews.com/articles/wires/831/25/8312510/1000x563_hmtk1h.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Baidu reports better-than-expected results, driven by AI and cloud businesses"
+    excerpt: "According to IDC's first half of 2021 report on China's public cloud market, Baidu was once again ranked the No. 1 AI cloud provider. The firm has also stressed the significance of self-driving businesses in its financial report, noting that large-scale ..."
+    publishedDateTime: 2022-03-01T16:17:00Z
+    webUrl: "https://www.globaltimes.cn/page/202203/1253662.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 36
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-12-20/f989268d-b4f3-4488-8c8a-368ae807bc8d.jpeg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "m+RvbpP2nN64rYTEMU+lL3Be6LFb7owO1orTCzEN0AC/jimoAw2sra84L092NxUYjKbCGt8MV8dZMrUJPWy/NNQ/YUEkMbg2/AMnZUey4X0Oe2Dme4JI0YwonYepl5HynMvQXG7D1odcOcIsI3qjWMgrJj5hnWfUBtPDufmR6LlJRbSqlGZ343O+pYoq94ps+DfCrYzhEkj92lzZJFA74WySzaJNk8zu9sLVxuCTdfPXMBpRkGOY1+scV3hmi45H4p37yE/oEkWT3KKLupE+X0yvDN6DSekBB5DWwUXE17PwdY0/ASnSY025TYL4sCxz+gJqx4XbK5EnaxfGEM5pmiW1BO8eDZXR3PWydXt31MM=;3V2mF6jeWMVz2cJvDweetA=="

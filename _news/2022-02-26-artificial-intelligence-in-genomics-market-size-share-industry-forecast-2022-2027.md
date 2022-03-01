@@ -42,6 +42,20 @@ related:
         width: 620
         height: 380
         isCached: true
+  - title: "Military Robots Market Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2027"
+    excerpt: "AM ''According to the study, the global military robots market size was USD 13.87 billion in 2019. The global impact of COVID"
+    publishedDateTime: 2022-02-28T10:41:00Z
+    webUrl: "https://menafn.com/1103773940/Military-Robots-Market-Analysis-by-Trends-Size-Share-Company-Overview-Growth-and-Forecast-by-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?749209"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "4Z6JJXC9ogeGublkOtp4hCR9p5R6rfGMpji0cknOxOqFhqEb+nQkWxhxB43H0AiEovbUP9rIS1GGmM9jArVl6pAPrzjm0MH9fyYVjFT1/NlDy2ETFiG6nVnJE7tckxMOgFyuseCnXwjPLwaHJAkRv9OpSjhEMfZRunuUWcvmrvyR5z6tmXvVMOv3cCxgHqWEdYnG0G5pGEfm6erkNkwkh4qyh9YOiHkB2v6ip9+GJLBkPfVbZKSGwiO9JlQSTL6r1mpE0qeI7J/eRRMG3XKyC+8zoHNmWGWOgD8vl80y0tfXlUCT2hQq77+rK+G1yZssXT9j5qcsa7Srq9PvWaLbs/ur5DI2nZaOLKX9w9g90bCR/qQT1n9IUJMtO14SVlsaKJFC8/nIsqbhotUU7Yvz2cq0y/ZA47cKvZNdnaNE/bERIxLGpPu4FXZoqlS2thn0MRzP3WrfUKZR95ywDUg0SmRH4hJtcOG7tKLw9Mo6wC3gQ22aJ98Y1NwFwamB8Nb+mGk0LfVTxQsuNFNGXn4fww==;eNan9mMgBUfAhHIGOw/ONQ=="
 ---

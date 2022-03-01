@@ -421,19 +421,19 @@
     {
       "path": "_news/2022-02-17-ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits.md",
       "title": "IBM launches 2-year global pro bono environmental program for non-profits",
-      "excerpt": "Some of the technologies that will be applied will include IBM Watson, IBM Cloud ... finished their phase I last December: \"Cloud, AI, 5G, quantum computing can all be put to work to drive ...",
+      "excerpt": "IBM (NYSE: IBM ) today announced the launch of the IBM Sustainability Accelerator, a global pro bono social impact program that applies IBM technologies, such as hybrid cloud and artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220217ny65265/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220217ny65265/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -443,11 +443,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T05:00:00-08:00",
+      "publishedDateTime": "2022-02-17T05:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

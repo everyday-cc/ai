@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Can machine-learning models overcome biased datasets?"
-excerpt: "Aug. 29, 2019 — In a key step toward making large-scale optical neural networks practical, researchers have demonstrated a first-of-its-kind multilayer all-optical artificial neural network ..."
-publishedDateTime: 2022-02-21T18:27:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/02/220221115403.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/02/220221115403.htm"
+excerpt: "They used an approach from neuroscience to study how training data affects whether an artificial neural network can learn to recognize objects it has not seen before. A neural network is a machine ..."
+publishedDateTime: 2022-02-21T16:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/943925"
+webUrl: "https://www.eurekalert.org/news-releases/943925"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "DfLqH1C5YhdSsyNnX+iFhBZ0YMb52nPWrrxy/9NyD+Gde9cKsDwknLFqHcTL0QHycUHWBFWwb+jFHCF+3AKgZaA+2DL7lvJr9wpfYZhQ/NA7MeL6erGDmhlHi8n8BZhXy+XuuRmj8uyL2yf12nHngDK3KWu/csnzJ1hLX6D45egNbd7udLZEODE+6pOXYX45Cj9bnv/zF3X9Pj9FchwjsgYQ3XrclGIuFj28+CkLhKbj0TfKf1AVs5O/iSFR1Cebly0ckRt7j1ohoG2X7TgtRNoavzfxjdIcMcWOvR5REeMvWubYrXa/hmA7P7fEkCmTzPd24+4viu1kBVcFpCBYi+INyW0V6/Po9vdgZ9AUCs8=;0kqZO9HRoTpaszXin4x+Vw=="
+secured: "k2Iq7GAE5bMbp7oKJONSxSqfI9p0TyjtD9QfdDUiiPDA/cZTGMR5mhFH22FtIbyv7/KRgjzU1BXfk8efsCBRKd05RPr4xoRRXKrL70fMOib49duICgYbnupL54hJx84tZHCeIwAJh5ThzoTdknC3sM7HWSMpIljP8KNwFI4RQlcs47DaGfhJ7+yWuzQtEcJG7pwN29tv1rgJWQMEtdu4W+Nfw5rqWRHghbiHc/m/6dtonFejnHGBe2pW8tbMy5eMWi3BhAFaLxvLptUNbJcaOX6ctXaDkrU/nH/VZVOBaxJB516duNeyDYAz6FkQf6fnFyYTMWjdbekN+MvCCSbP93epGipk9f3uTf2+l6gMn2E=;DtIJ9LAKqP0yI3eRKNi0pQ=="
 ---
 

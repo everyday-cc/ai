@@ -24,6 +24,22 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
+    publishedDateTime: 2022-02-25T23:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1645766442.png"
+        width: 1176
+        height: 505
+        isCached: true
+
 secured: "yjJF32f/F4FikOP9eUfSGLYisIv1Nk6vGx9bOSe99M5LRIiKjSu6jvVOvI9AXFfPld4qwF26cN99uXyL8uC4MSn1QZLiYMNWdk7tykEgwmWSZ1mcHB9FBy+iOylLQqJuCrkBHcWbTFZvPbIvoLWrC0tWwbuxoSIEKui/aGh/sUJc6Q3cpHa1NFMk2wNdb9YW5jxPd2IgNJxP6aRc9alaxEF7+Zhbh1IIBT7JO0cnXqni63WtVjuTiFnQ6A804/l34YN4dXHWLQ7CeH282V4jxSz1TuZ50Gjl81XF0EwHl7dhD2jiUpIoyxjLHsm8u8kGu/wG1XE95KojLn940dS7HEh8IrFeYl8eoBe/gxOBFprDXpD0TsZHT0Q8mnFeCt0+LceNLWv/c8bbRHo8m1WqX8CGfIzu8+kHaCKEK1rnSti2DNYgRtIA+cVkmy6O9HZWiA3KVullRoZ8EJZRz04pjmn85N4wFQRdjB0cn1bXELEA2nr/VGP5EK0tGfUHPnmRdq9AKo0j78PgRGlDQyagMg==;mpsmZwkCBssjk8C6CK3DGw=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM launches 2-year global pro bono environmental program for non-profits"
-excerpt: "Some of the technologies that will be applied will include IBM Watson, IBM Cloud ... finished their phase I last December: \"Cloud, AI, 5G, quantum computing can all be put to work to drive ..."
-publishedDateTime: 2022-02-17T13:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220217ny65265/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220217ny65265/ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits"
+excerpt: "IBM (NYSE: IBM ) today announced the launch of the IBM Sustainability Accelerator, a global pro bono social impact program that applies IBM technologies, such as hybrid cloud and artificial intelligence,"
+publishedDateTime: 2022-02-17T13:22:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10"
+webUrl: "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "QzmPFQ6qRFSlWKVdGNOBpVNU5G05aTpr5l7rUeTJ2MMnBq0rWJRJt78O2EtOM43e5SPLL1dfJscZXNk5zaerdaSCEJofuqcom3eGuDmdJGPtquDLaf4rRLInBW/lpqO3PJzGiJ4IKOlZ/U5sO4VCOHxRJiTVPnxMLgVEbgEK/N1TTVF9N8OYfhLhODsYJtT+KaBtGzYeiAFKad05cs07aRUORn5WGVKq3A8jp3TOUaiFVjAtylwTDb/QlLWPuMGA3b4dDVlM3VtOGQRO37+GBTOWkhw2CEBRX2Dz7ZCXlHitfdBSk6A0rriST9U0BKtlQoLOI+JzaDY2d/mmf8NfvIWzuw+g2WAN74Q4J4l6a4g=;qzsTdzf5pNbQ8cG38U7Yhg=="
+secured: "HAlTEPBaBlE627q9TgkA43LCL6cjVnkZzEJPWHGuGDkl79SrjglzkCTmEKkxRcaCv9z0rhRF892S5fO1/4XN8ZfhRf69Z901jlJ+RqqgA/XmgRrQmq2VBGVIG5LjcfWtEJOOOgD28KqO6TqBnfdm0cb5UTHb/xtd2kVrPq1Ut3/GcLBENYxzxpO3QzdejYrEqt73FzH24/18qrm7EK/NpE9iFj/KuhSb3veG3texi1V9x7fgTNkLPktrRBHkZ5c23eo1iW77uSF84F3w/gcWE5e58Np7Bgweyw2HUqCjWau1Gz+WapfKaDad+PqC9bXQ2BgceO+f5SqYAHE1e1fNSSyMCbMqPb+wmdgoc2K1p44=;W1PiB2E3RILD7lo8zGRvwQ=="
 ---
 

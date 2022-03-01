@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cleaning Robot Market Size to Reach USD 36.63 Billion in 2028, Says Reports and Data"
+    excerpt: "The global Cleaning Robot Market size is expected to reach USD 36.63 Billion in 2028 and register a revenue CAGR of 22.4% over the forecast period,"
+    publishedDateTime: 2022-02-26T00:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cleaning-robot-market-size-to-reach-usd-36-63-billion-in-2028-says-reports-and-data"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
     excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
     publishedDateTime: 2022-02-28T12:52:00Z
@@ -39,29 +53,15 @@ related:
         width: 508
         height: 339
         isCached: true
-  - title: "State of the Market Update: Speech and Voice Recognition"
-    excerpt: "UC analyst shares how AI-driven speech tech has brought new forms of value to the workplace in this Enterprise Connect 2022 session preview."
-    publishedDateTime: 2022-03-01T14:00:00Z
-    webUrl: "https://www.nojitter.com/ai-speech-technologies/state-market-update-speech-and-voice-recognition"
-    type: article
-    provider:
-      name: No Jitter
-      domain: nojitter.com
-    quality: 24
-    images:
-      - url: "https://www.nojitter.com/sites/default/files/Sergey%20Oplanchuk%20%20Alamy%20Stock%20Vector.jpg"
-        width: 774
-        height: 516
-        isCached: true
-  - title: "Data Exchange Platform Services Market To Reach Valuation Of US$ 1.3 Bn By 2031"
-    excerpt: "Transparency Market Research delivers key insights on the global data exchange platform services market. In terms of revenue, the global data"
-    publishedDateTime: 2022-02-28T08:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/data-exchange-platform-services-market-to-reach-valuation-of-us-1-3-bn-by-2031"
+  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
+    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
+    publishedDateTime: 2022-02-28T12:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 20
+    quality: 28
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
@@ -81,6 +81,20 @@ related:
         width: 354
         height: 249
         isCached: true
+  - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
+    publishedDateTime: 2022-02-27T23:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/electrocardiograph-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
     excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
     publishedDateTime: 2022-02-27T20:09:00Z
@@ -94,20 +108,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
-    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
-    publishedDateTime: 2022-02-25T23:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.abnewswire.com/uploads/1645766442.png"
-        width: 1176
-        height: 505
         isCached: true
 
 secured: "L8/K+n9TTQYZQ4NcOaTDeWSRchQwZCQatPi6UawlFvwZUWb2Da9iRWTC/UQY0jrDm1bkelFzr2gI5CiiPt5WYwqKvE2pGf7pEfqhYyv58WNPoFsqOQRunQrUikjhM1wzLqBdJkCmH5VltePbDmlChaUGTzem74X8KEel48rw1ZHH6lqwK/9fsL3MG3sxbCmP+7PxjLaGiKzQA9lYYBo1cPRq+A+byxFnIRkuo6fTGLg6kSufWC/RzhxGL7Xn9AqPrv2gJUStr9GEJ1jM/B0pWzN/Isza7nkPo4o3I4gn2ebGAZ1JOGacekGp8NYv3vj8efhKnInhLlS564qO+LEnYZKPPPZnIUG3ynncIQ3lQSQ=;p1xkXAjdNGYv2ddMuaftaQ=="

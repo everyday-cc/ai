@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
+        isCached: true
+  - title: "InnoValor, Clearview AI SOC 2 cybersecurity certifications boost data privacy assurance"
+    excerpt: "InnoValor and Clearview AI have each announced they completed the Service Organization Control 2 (SOC 2) certification requirements."
+    publishedDateTime: 2022-03-01T16:48:00Z
+    webUrl: "https://www.biometricupdate.com/202203/innovalor-clearview-ai-soc-2-cybersecurity-certifications-boost-data-privacy-assurance"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/06131808/data-protection.jpg"
+        width: 926
+        height: 618
         isCached: true
 
 secured: "JYyrR2GF/nL/qXgBeqnszfexokATRtVmfq8A2h3kUNx8Lcmax6c36UVAUF/Nysiwop9jXWHsm6gfXZVqa2tFlfjfcVFks1RSyuYjuqBeScvznku9zxU81rbDXnU/xjynk+p9xvUjmAoH2WenPsAPbB/8hNGQIDX5836Ggk0pugt8lz802FXUkygNPJc3hENtEPkfojAbTh9TaqU2L2wZtOXrBAmZbyIcyOQKUKhARxRdhm9BDA4irZJM6CUXiAnQiEgrHdFr1hC2j7gg9VpF2IQQwKtfcJpvIgYBctXE6yH6MVJBakYm73uluANYJZh6m3pOonvo5vjzpw4SpSeoZ7RVwHtwjE+eVxApj01d3PPI2Orikc7iyDpfq8C7T+B3s6pNeIZKYPDx+gu3hs82xuVroSaVR/e6JncZ2BUDTMJAOP78QdInLxqIuye3WCa1r0yQOHvkGLQwcQwcngPOglP7X57qfTjnYnP0pBOgzSBlTtn27eI1/oWgkhDAWyzeYPr2ryQx2Gy/f0yagvY0Ng==;T048gsfZFR8TirDepsj+RA=="

@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Help Cities With 911 Staff Shortages?"
-    excerpt: "A government call center in California is among those grappling with the nationwide staffing shortage and an influx in demand, and implementing artificial intelligence tools to improve wait times and accessibility for callers."
-    publishedDateTime: 2022-02-24T23:36:00Z
-    webUrl: "https://www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages"
-    ampWebUrl: "https://www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/can-ai-help-cities-with-911-staff-shortages?_amp=true"
+  - title: "How AI Technology Can Tackle Future Pandemics"
+    excerpt: "Artificial intelligence (AI) has come to bear on many of our responses to SARS-CoV-2 (COVID-19), and will continue to help us tackle future pandemics"
+    publishedDateTime: 2022-02-25T10:35:00Z
+    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=480"
+    ampWebUrl: "https://www.azorobotics.com/amp/article.aspx?ArticleID=480"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480"
     type: article
     provider:
-      name: California Techwire
-      domain: techwire.net
+      name: Azorobotics
+      domain: azorobotics.com
     quality: 59
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/aa03825/2147483647/strip/true/crop/1072x559+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3f%2Fdd%2F67a9c95b44d9a52c71ccb4eee1c7%2Fcall-center-clip-art.jpg"
-        width: 840
-        height: 438
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_480_16457846554832959.jpg"
+        width: 1000
+        height: 635
+        isCached: true
+  - title: "Researchers develop an AI-powered surveillance system for future pandemics"
+    excerpt: "Nobody wants to think about the next pandemic. But we need to be prepared, and a critical step in prevention is early detection and intervention."
+    publishedDateTime: 2022-03-01T08:01:00Z
+    webUrl: "https://techxplore.com/news/2022-03-ai-powered-surveillance-future-pandemics.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-ai-powered-surveillance-future-pandemics.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-powered-surveillance-future-pandemics.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg"
+        width: 1920
+        height: 875
         isCached: true
 
 secured: "5s/LgjzwCuTQYaCBin7SIN0zUgsRTEchlyIGc0MmsWLl0V6Rfl8owKPISnednFlv44jNaxNbSBDOLVwWyKK+zhcuikM6I2yPGfoHrMJ2CLhM3Rv76a2auswFRS6G7xIwJw6Pd3p/yByT3+hEI0wapM4dk9LUg6oReKlvyUX8w+LV7VitxUkH286/HDn0sG+ZOsRnCLqwRtF1iVDxoOVWOm/z1H8zmgjgGlLBO8nsPBz2f8EOxykQFKXsh5s1cSkTtckHarjsOOIYot85P/20CPwpakhCYF4PLMU/Qps47BCn4VmjMe5ZniyXJ1dShQlTfGn7qoXRamoIoPGS6HP4S0aCv+Qfy1LA60ykv+nfeQ04iXayzPZ/u398z4gazh4Poapzxh72GZZHmVBYRXKQcr9sKOehrzhmB0Cg9BsdlLfesqLhysIdl1pynwuQ53g2/4sTZBq2r0xr5K+US6fpTLyMUM1Adn0nU+qWveieaGwW5n4HdEOf41BryompBKh7VvAF58UURNoCEzNXMmSByw==;pD1OjMoTGXjvj2k53SRrQw=="

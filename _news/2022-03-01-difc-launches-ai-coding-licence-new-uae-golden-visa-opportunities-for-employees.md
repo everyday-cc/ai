@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/difc-launches-ai-coding-licence-ne
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
 type: article
 quality: 54
-heat: 115
+heat: 114
 published: true
 
 provider:

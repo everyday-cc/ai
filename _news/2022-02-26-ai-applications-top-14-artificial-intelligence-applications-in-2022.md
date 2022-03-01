@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-i
 webUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MWC 2022: APDCAT calls for ethics in the development of artificial intelligence applications"
+    excerpt: "The Catalan Data Protection Authority (APDCAT) has called this Tuesday, as part of the celebration of the Four Years From Now (4YFN) event, at the Mobile World Congress (MWC), to promote an ethical look at the development of artificial intelligence (AI) applications,"
+    publishedDateTime: 2022-03-01T16:32:00Z
+    webUrl: "https://tynmagazine.com/mwc-2022-apdcat-calls-for-ethics-in-the-development-of-artificial-intelligence-applications/"
+    type: article
+    provider:
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 23
 
 secured: "8TLXhAodZVcrQWmG7eAwSplf++SFZashXzGzyrqmSg7tz1Y1JTQXxJDubMEES9MvsexO47ufMfI9kpOaxq/x1N02XDItNCdYjD+V2jsUo0ORISYP3kE2xEnzr6FrlnHDZA9XDLJe1XH6gTtiaVnJs2RV/OQ1MmUdlEkN6b5IiQhdAPP4s1lhTvv288UdOMHROrFZvmBVSvuYbaldiitVL8PdhLHuAL45NNeVfU38o4MkVOD9oGD3DFD8OmDiClxtqJ9TBayfgs6ldxRrMZLeDPXWbR52VrGKNsPXzaIpRyFrztoYmxMLVc/7lmkceM5Gv5l+v/0GD0rpKNYueNbYkt0I+GIktd/3eFmxR4tdzcjX7x16KiIdZ7ugNaIFfwBrenLmxaxwaHM2zfbg7vZR5Enw6UJDu0UmVMQuHyl4ILKXOJLtRoIpa35GeRtE0SK9JDLFs0tdqmh5eqRINdNMgg+EEdhg5M7JsvFSrjQqmiH7hDECQOqx2pBo4m9j3dWMqFPNQY8e6zrzu4DUAnagoQ==;kpHbmlekHOWwCElk1xMr0A=="
 ---

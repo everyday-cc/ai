@@ -1,29 +1,31 @@
 ---
 category: news
 title: "AWS and the NHL Unveil New Face-off Probability Stat to Bring Hockey Fans Closer to the Action on the Ice"
-excerpt: "(NASDAQ: AMZN), and the National Hockey League (NHL) today announced Face-off Probability, a live, in-game NHL stat that will be displayed as a graphic that instantly shows the odds of a player winning a face-off and possession of the puck and displays them on screen for fans watching the broadcast of the game."
-publishedDateTime: 2022-03-01T08:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/nhl-entertainment-technology-sports-business-f8090861e2c445728f248f95fb04290b"
-webUrl: "https://apnews.com/press-release/business-wire/nhl-entertainment-technology-sports-business-f8090861e2c445728f248f95fb04290b"
+excerpt: "New machine learning stat predicts which player is more likely to win a face-off before the puck is dropped Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company"
+publishedDateTime: 2022-03-01T07:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/b25895801/aws-and-the-nhl-unveil-new-face-off-probability-stat-to-bring-hockey-fans-closer-to-the-action-on-"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/b25895801/aws-and-the-nhl-unveil-new-face-off-probability-stat-to-bring-hockey-fans-closer-to-the-action-on-"
+ampWebUrl: "https://www.benzinga.com/amp/content/25895801"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25895801"
 type: article
-quality: 22
-heat: 22
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "+fzRWua733RtI4HZsTMxl+6GzIvol0+59G1tdWHxQw9UnXm9dRPmJ5petVAH5011G3Uh4jJFI+YR1Lqam4ECo9QjmlEn7cdFWNzmLxFMvXhqr5/E9OVzkt/uOPwQtXjkBomyoPEOlbXvYJrDdSgBCGrQ1D8hrxx8GNWqPcLgkl1vUQljW2GDze7uC7XkpcDr4EQW8H8fOMYOvYLCGO0/5rkXNwlX9IJVvmNR0FJmMIAo0w6RpCk57aMUnpMmjkm8mA9q9F2LkdGanIQvvZHRcfvoRr8dUdv2P9Wch8jU1giPy0U/0VmUCF/pcNv/diAwHHZJHlErfqIKLzk3+1Bb+C6ObN1uZz8xSQ9li67AzM4=;HbNl22pL7qmVJEUXOfpuYg=="
+secured: "FQWdcpDXmw13bDl/q+VEspzf8w8xPbqH4aU8McATkgDUanp3nY+h2a4lNiW1fSN22nAF/hC5Y96eVES8253L+pSgksz4FTI0AduI1kAM4I4+Q2wx+NtnQ49TowTXzQY/FpLdgYRPX7trg3ZuJlgzWwVnOHwrwSLtbsXVpy2i68/V8HHzuy6rQzDnNGqgS006bFfpZKE9dwqCpIKkzdJ/HFl2PleN6OynExxwQxJSQymIH9AU+1AwG6MEKHQKWEKXXaD0JNZtZ+sUWsNWSPkKTEpvDDzPgBhBBbnAMSooMDBIrtadwxSSLCVYokt+49UTdSmHJyzcdsZMYJvqnbjjC8GlugEHe4vkuQD+A93QjYw=;NppGSimHDBV/qBthXmgfgg=="
 ---
 

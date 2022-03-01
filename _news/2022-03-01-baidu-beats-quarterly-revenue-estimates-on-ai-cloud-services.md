@@ -47,7 +47,35 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown"
+    excerpt: "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33."
+    publishedDateTime: 2022-03-01T15:39:00Z
+    webUrl: "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 56
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Baidu reports better-than-expected results, driven by AI and cloud businesses"
+    excerpt: "According to IDC's first half of 2021 report on China's public cloud market, Baidu was once again ranked the No. 1 AI cloud provider. The firm has also stressed the significance of self-driving businesses in its financial report, noting that large-scale ..."
+    publishedDateTime: 2022-03-01T16:17:00Z
+    webUrl: "https://www.globaltimes.cn/page/202203/1253662.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 36
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-12-20/f989268d-b4f3-4488-8c8a-368ae807bc8d.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
-secured: "SsnQBToTdhfp+zrRPiZ5r5FlY1hyTd1ZXeYp8YW1yTGfvzkXyX8JVfW56Ar5pWbL8+iEenix1ZA4C0ic9NXKAuMZkRYVTA+o5NeJS5+QcsAQAdxARqb67E5vsdTjrImZcK24kJdrQkUFyx8xe+cngtw5bPJVvsSlG3t0RDnTQt1IZTd5LmaoVOiAPVCvcGplD5u5dIuR3BEnv2Y9bxbAKmhtgxeo5VA8qk7p5lsAoPqFCw744CjIHZXfz4OP+/A2EsuDuh5HmEQm3iEwuap49hkVxYJnbFJqHqTWRs6nhUCeuUQHr8AeMt6VGXNclxByN3PH2QYLurz25d+uVSXDb7R5My/w5YomNoBkcpq1Z1U=;Od1sKbfoy65h6j2QLeESVA=="
+secured: "phPTVOh0VVIF5dPPEMeu4tHvnXN512GRjhEz7aqFrTC2LyxN2wDKA87GEEUBs1TQlvtueby14Gypl2SC0TKdBYGegU7GvY8Yd9096A4VDO2xI2dFBkBngJrysWgQa87Hc16O6DZfAWepke6tlO34WZDXfFLPOcEDtIyvYdJ75/4PSKMbgmPIvE3wPfwSq+m7KvjztlSjlTujMLqabbulTRpEhD8We8eER8wcIv8Cdy6yHa9TGvpwFAttPudbDPRNmi2h04Hot3CUKapZI3YF8GioiVWRZ+c9Fk9GB7eYFFKaAypZ+ZW6+sWb3vTwc2hD5Hb5tTSIbouixGQ/v7oGoABLZK17YoznOGZ4mLX5yHEJWA4Qw2Z8QwBrIMhyU9sY6eAGk7WaZLCBTzhu6HHenIeQESI4F+k6/imvqICrBcqfgI1TO22Wsi6RKXjwfoJkA18Y+eTpyyuNyAjZK5aIVirTDM+rDQigWXZ1ccEO+UqMpidi0n4T1WHxWjDE2rjkPTgajSzM0B8hpYyxl+3T7g==;N6PQzqF4zWRY7PomfULCoA=="
 ---
 

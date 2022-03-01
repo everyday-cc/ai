@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/calumchace/2022/02/25/first-wholly-ai-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/02/25/first-wholly-ai-developed-drug-enters-phase-1-trials/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

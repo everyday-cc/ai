@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 864
         isCached: true
+  - title: "InnoValor, Clearview AI SOC 2 cybersecurity certifications boost data privacy assurance"
+    excerpt: "InnoValor and Clearview AI have each announced they completed the Service Organization Control 2 (SOC 2) certification requirements."
+    publishedDateTime: 2022-03-01T16:48:00Z
+    webUrl: "https://www.biometricupdate.com/202203/innovalor-clearview-ai-soc-2-cybersecurity-certifications-boost-data-privacy-assurance"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/06131808/data-protection.jpg"
+        width: 926
+        height: 618
+        isCached: true
 
 secured: "rxS+g45gmb3sI6JZx4opeyJZX0i5dzGoMhwwTt8HLIps8Wb6SoPtko4QS4rd7HF7vCddrcvQm6XleNpiGbK80Gg3/jeMJyst1g6scgiYR2qCZscmiXfgYA0Nd5eUrF7oBhgtCk6LpafCXI8HzvMWtbusbORjKnc87PfJETW8KbBA4iZTcf1MMRhZNOKA1twWD+jA7LVx92ky1UAl/YpEKFZWHtKv5ICa3S/mskkIsEKslLSKA8fxpcioiW8GoccWcMThRxLQXb244bKAEL8vsoENRWxm8b3eNLu4X3vzN4/SqWJUGVcvE9ZzVghtCf07jMK3O9GkRWSDadxAF6odcc62JaqGGuojkWTfcSnFI1UHs8kDPTLvj2sRSGV1JdwFdiw/iaVmOLbaUxwztjorMRjbwMhwtnqzEgDEm3BdJT+FcGCs3BGeTpSzlDpkq1iwz/bbGW6AxQMcAgz+5rLDkMtLpmwmTkfj8p8q1AJaRzL2ZQib38o3WhwsmR/2OcddOisOt3CUIOqXzfGEdBqLLg==;vKoXYx2Xmv6zCPYmcc1soQ=="
 ---

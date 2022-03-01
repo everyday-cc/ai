@@ -1,10 +1,10 @@
 ---
 category: news
 title: "MLSE to roll out new AWS-powered fan experience platforms for NHL, NBA, MLS and CFL teams"
-excerpt: "It sees AWS become MLSE’s cloud provider, as well as a provider of artificial intelligence (AI), machine learning and cloud services. Using AWS’ broad portfolio of solutions, MLSE is seeking to create new technology its teams’ fans can be utilise in ..."
-publishedDateTime: 2022-03-01T14:45:00Z
-originalUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=emerging-tech-data-and-media"
-webUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=emerging-tech-data-and-media"
+excerpt: "Technology partnership between MLSE and AWS to also create mixed reality experiences for fans at home and in venues."
+publishedDateTime: 2022-03-01T14:44:00Z
+originalUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/"
+webUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/"
 type: article
 quality: 10
 heat: 10
@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "a21sCrNVPuTP61kOKvcRbNZnFVWy0ze3UyuQX0peUEXsIGXG2HTpkSSaLdjpTKO1s+aYQuwsPdhwpI+DZ/ne2Qxelq+vPzXlBgIWiylnpjYiRVjIyzOWt2Nnabp7SBhP82meZAZmIMwaCQaB5oTQQaoPrdMklTZF4w2zOnjde2rcGpREDBPd+IPKpeegTlTF6NOJExD7PnAeatm2le4ayDl+SJzw3Rs68jY5XNAZ6cVNsFDHW9GinjimlrwGfoAsbVDzzbu3CX+IhPXjcaJLQ+gYJvMKTMvCsgY1rr2JdbjsK6dBFjWlLMhwJnfLsfZUCjPcksuNIq/DE19iFZlLKdOTjoVS8uj1PMFEm+8UvVK5ruHX/W2g4scvdiEw8uI0dhW86KFDE2rRg+e4nT+ntausyPULPdZ1lhFicJrDhfWHiRH1OhehaApX49vOEpwSbWXvm1wTFkcECe9rAAFl/zwBS4I3R0PTF5Z0OwitKlvGjsE9JfDD8qmX4TXp0RuAhyZChwbHCdswgrlIwtC6kQ==;jdiiMOJHg7SB0+l19V0ibA=="
+secured: "/PN8tdXtOYxX3w5CNrpYde/y218aIX9jW1bkTt+P9kQrJ6aJRye7MohSIV0z0QZAehJWEeUkyyjmYoiWVN6+FPTcj2bV6Ce6Dior/bXp1IE9Lc1cOEETPCW/4e6//cZTp/uQR3wftCgMpD5HwmYG/DnvI67A8xgkCI0lQ8lDAg0iFZbnjUEl8f3/Ff6UktD7GbxXKlZGAUgstOUGzZ5vUBTV92UkelkD7JsTFCOrfyc8lrzY/QEkj68jbsX/zQZ4I5b7jQ7erMXrzNgVGdM3dnOa6lztDJX+KPxwKMvsmm83QbxXli3nyp8DdzGneTI4frC5r27/EXwKtgRdmk+erTXL9Xyp1tIAU06Ce2GASVYvL59PBW8ZuQ8zItSfkrGMKrRMxTNUQE1r7dWTLumUor7xb4M/84zDqOxn2nHGsJlRVZE/v984FDhRiQGoUxUBgSpriqulgGoF8n4sGZLIVSQNC8oBUpiT6B/O3BpR5Mi1Ibzz3nArNYj+FPByXves93rIheR63xDLhww1t12Naw==;HcEFRjZ+6ctyzBimbZw8Vg=="
 ---
 

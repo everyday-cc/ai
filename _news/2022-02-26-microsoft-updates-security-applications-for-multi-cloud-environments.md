@@ -164,6 +164,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Uptake Fusion to Support Microsoft Azure Data Explorer"
+    excerpt: "Uptake, a leader in industrial intelligence software-as-a-service (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer. Uptake Fusion, which automates the extraction of industrial data from historians,"
+    publishedDateTime: 2022-03-01T16:11:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/cision/20220301SF72507/uptake-fusion-to-support-microsoft-azure-data-explorer/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 54
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
+        isCached: true
   - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
     excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
     publishedDateTime: 2022-03-01T12:41:00Z

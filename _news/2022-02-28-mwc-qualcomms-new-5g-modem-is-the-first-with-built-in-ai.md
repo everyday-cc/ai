@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/"
 type: article
 quality: 89
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/621ce3b6e3ccbdf6d08c5f02/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 713
+        isCached: true
+  - title: "Qualcomm unveils new AI-powered 5G networking chip for mobile devices"
+    excerpt: "Qualcomm Inc. has released a new chip that mobile devices can use to connect to 5G network networks. The 5G chip, called the Snapdragon X70, integrates the modem with the RF front end into a single package."
+    publishedDateTime: 2022-03-01T14:58:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Qualcomm-unveils-new-AI-powered-5G-networking-chip-for-mobile-devices-01-1-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
   - title: "Qualcomm Announces X70 Modem, Joining AI & 5G For Better Connections"
     excerpt: "Qualcomm has now officially announced its next-generation 5G modem chip empowered with AI, the Snapdragon X70. The modem is the first reported to be built"

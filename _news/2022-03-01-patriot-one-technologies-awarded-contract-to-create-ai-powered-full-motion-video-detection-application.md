@@ -55,6 +55,15 @@ related:
         width: 2566
         height: 868
         isCached: true
+  - title: "MWC 2022: APDCAT calls for ethics in the development of artificial intelligence applications"
+    excerpt: "The Catalan Data Protection Authority (APDCAT) has called this Tuesday, as part of the celebration of the Four Years From Now (4YFN) event, at the Mobile World Congress (MWC), to promote an ethical look at the development of artificial intelligence (AI) applications,"
+    publishedDateTime: 2022-03-01T16:32:00Z
+    webUrl: "https://tynmagazine.com/mwc-2022-apdcat-calls-for-ethics-in-the-development-of-artificial-intelligence-applications/"
+    type: article
+    provider:
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 23
 
 secured: "VSe/OZXebsC9ksZGb3vOJ9Rx5P3pp4dxHVAderIn0QoA7VRFfydYTVbKr4vsTfEauJ9M9NVmq2SpzPMr8e2515FNTOj+1+erx5Ck7WkdcbSoMkWohTQo/viR3Rz/3Aowqk2a3N3641ucqKXnCxq+E3weoER57AR+wUvlTyimH6HxHm3Lfjm8CwN3SPSuj3RapjHmviS5dvPvpN7KMP7Q1yyrISBLqJD7NYO8dDImt0xBtXeAdmIscmefYHFaxGiGc87GO5+c1suH1urstPPhksRte/GHoG0+iOto/YnSNKVHIzw8/1l3nsfEl1TqKxn+plrSgQ27Wd6p6OpKv4YK9bByGO4UTwvevcLIHq2kgY6Y0T50fCDQ/lSvMPfMiLBoVBbtyNmdKkhG0xBsW4vxIBovzk8k1prmgm1xBmFqlPgj0lAF9gmQMX114Js+OHLLz8Vax52aug06ROer9qU+0YSx5uXe86F+M7/JscoqDh73xH9hwzr3va8ajzxTSz4AecyhAv+voQ/MPPedwUu1yw==;vJei2IYTMmwpqou6cOkrLA=="
 ---

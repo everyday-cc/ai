@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/injecting-fairness-into-ai-machine-learni
 webUrl: "https://scitechdaily.com/injecting-fairness-into-ai-machine-learning-models-that-produce-fair-outputs-even-when-trained-on-unfair-data/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Injecting fairness into machine-learning models"
+    excerpt: "If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin, there is serious risk the model's predictions will be unfair when it is deployed in the real world."
+    publishedDateTime: 2022-03-01T16:10:00Z
+    webUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-fairness-machine-learning.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/injecting-fairness-int.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "WlOwodglZOz3GbEes2AGwSkPMQuIlESlzax1+QvtiSuUmRrmdjpeNOYG2Atwn4qEwYG/U+5V/Z6EH0Fi1Czuct1vAwcrRNlV7stBHzX8AsJ8u6ljjVGtnMvQ4BsI7jL1+7iL8izZaENbQ3QCsd/HtCyfFc47+hxm2Te0utEdD474qmTSM5QsaFppXSs6nkCzQUMLdsNHbw/GBCFGp6tYCLPjAv3nEJe72TOuJSwDo2GeI4kuG8aNcJg1SloR0PXFqDd41JYGeBPGdYUa1d7Bl8AVvEoNjnRfCKdZIT2CL+iOBkv7tc28KbKuYq1iruRuRERsjj9P++tl+H1iJE/NsCVvesMY8NzhOWRrRUL7Rjz0dFlWoXX6A0bzZdKOUb8K6JkHNUOupgJecX78ILFV0dGrxWR3bzg649n4VFqYVM6Ot1EyMEGdxSbQB/eyAasz1sZCFszxQxfJuvmPlt1KB0B22OmRldRjhtSYgAvOsQ5c2/nuMtAtSqffhIwzTRg07iZTjhB70vHjkF80FKxy5g==;3SRoYnjGfFquBzDSC/oS3A=="
 ---
