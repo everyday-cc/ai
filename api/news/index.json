@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-01-from-artificial-intelligence-to-prison-reform-tuscan-wine-producer-evolving-the-world.md",
+      "title": "From Artificial Intelligence To Prison Reform: Tuscan Wine Producer Evolving The World",
+      "excerpt": "The Frescobaldi wine family is finding ways to evolve the world around them with using artificial intelligence and advancing prison reform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathrinetodd/2022/02/28/from-artificial-intelligence-to-prison-reform-tuscan-wine-producer-evolving-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/cathrinetodd/2022/02/28/from-artificial-intelligence-to-prison-reform-tuscan-wine-producer-evolving-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621d22805039b54e6bdcafc3/0x0.jpg?format=jpg&crop=1756,987,x0,y0,safe&fit=crop",
+          "width": 1756,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathrinetodd/2022/02/28/from-artificial-intelligence-to-prison-reform-tuscan-wine-producer-evolving-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathrinetodd/2022/02/28/from-artificial-intelligence-to-prison-reform-tuscan-wine-producer-evolving-the-world/amp/",
+      "publishedDateTime": "2022-02-28T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-corticalio-adds-contract-intelligence-to-document-processing.md",
       "title": "Cortical.io adds contract intelligence to document processing",
       "excerpt": "This technology leverages such tools as computer vision, machine learning, natural language processing, and optical character recognition. But when it comes to delving deeper into more complex ...",
@@ -200,7 +251,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -282,48 +333,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-new-ai-tool-helps-detect-hard-to-diagnose-heart-disease.md",
-      "title": "New AI Tool Helps Detect Hard-to-Diagnose Heart Disease",
-      "excerpt": "A new artificial intelligence (AI) tool created by physician-scientists in the Smidt Heart Institute at Cedars-Sinai was able to detect two types of heart disease that are typically hard to diagnose,",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease",
-      "originalUrl": "https://healthitanalytics.com/news/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/AI_Imaging_Techniques-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease",
-      "publishedDateTime": "2022-02-28T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -629,7 +638,7 @@
       "originalUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {

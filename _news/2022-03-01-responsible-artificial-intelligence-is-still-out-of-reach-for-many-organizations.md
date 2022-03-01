@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://healthitanalytics.com/images/sized/2020-06-12_gears_collaboration_yellow-67199ff8dd2aaa686fbbb8d60359499a.png"
         width: 600
         height: 347
-        isCached: true
-  - title: "The time of a true AI: 5 Predictions for Fake AI in 2022"
-    excerpt: "Ian Bogost What is NOT a true AI: 1: a branch of computer science dealing with the simulation of intelligent behavior in computers; and 2: the capability of a machine to imitate intelligent human behavior."
-    publishedDateTime: 2022-02-24T12:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-predictions-fake-ai-2022-azamat-abdoullaev/?published=t&trackingId=Tg2Ax97%2BSQ25rvzOBDdeDw%3D%3D"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQErdQPy_zqn8Q/article-cover_image-shrink_600_2000/0/1645543506290?e=1651708800&v=beta&t=fCwNvJo8lHp0odIhKDpWYD3H2IzmDXmTN5EUCN8hOO4"
-        width: 960
-        height: 540
         isCached: true
 
 secured: "lQkql9+RRX5M/+ucDJu9Pd9xdif0Pk698dUFG2H5NRndC/QmxfRHOkbPidhBdp17EpvIYglDKCc4g6sW0xlasW6FuMYdiyDpi1zcAJwGQAlD6jgjuipRLZPmki8JluqAWAaCJcmXIkpW5YK8wv60MXx59jUD2vAOuH233cddf/ZEJDPILbD/UgXbvQxlkthM3jTeXr18mkk0L2PqbcQ6lb6pjVAKBKtC1VlgaVY5WoDwF4/ftkrklynTNrZwKfrh4zMYSqn2N17Us/U0bF//oFaPO1iG2+y8Bp6zO1IBWkEV6yGNRm4eP55/AZ2d2nJehAM5BviFk201WjOcfDKugilfZfMqeC4H5Lh5AMYL0mc=;5qY47Hdy9Okb22+WG8gkzg=="

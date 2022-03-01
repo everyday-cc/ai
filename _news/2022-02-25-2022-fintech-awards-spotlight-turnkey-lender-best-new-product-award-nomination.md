@@ -75,20 +75,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
-    excerpt: "AI in Fintech Market Size – USD 3,528.1 Million in 2020, Market Growth - CAGR of 38.50%, Market Trends NEW YORK, NY, UNITED STATES, February 24, 2022 /EINPresswire.com / -- Increasing demand for ..."
-    publishedDateTime: 2022-02-24T11:36:00Z
-    webUrl: "https://menafn.com/1103756980/AI-in-Fintech-Market-is-Expected-to-Reach-USD-4933-Billion-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/24/EP_1f207image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "2022 Fintech Awards Spotlight: MDOTM, Best New Product And Best Data Analysis Tool Award Nominations"
     excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
     publishedDateTime: 2022-02-25T12:55:00Z

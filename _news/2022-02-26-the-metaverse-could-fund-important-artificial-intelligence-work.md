@@ -61,22 +61,6 @@ related:
         width: 980
         height: 677
         isCached: true
-  - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
-    excerpt: "Feb 23 (Reuters) - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out ..."
-    publishedDateTime: 2022-02-24T12:39:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 58
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Image-Meta?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/32185dd1-ac1d-5a7b-a004-d431e08d4804&operation=CROP&offset=127x16&resize=1804x1015"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
     excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
     publishedDateTime: 2022-02-26T23:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-te
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Triangle Eyes Top 10 Position With Successful Launch Of Healthcare Data Analytics And AI Software Platforms"
-    excerpt: "a medical documentation automation software that allows healthcare providers to capture and process paperwork digitally and with the help of artificial intelligence (AI). As medical document management remains one of the key challenges healthcare faces and ..."
-    publishedDateTime: 2022-02-24T11:48:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/22/02/25802488/healthcare-triangle-eyes-top-10-position-with-successful-launch-of-healthcare-data-analytics"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25802488"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25802488"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2012/photo-1599045118108-bf9954418b76_1.jpeg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Video Analytics Market Substantially Focuses On Product Line By Competitors 2021-2031"
     excerpt: "Advancements in Digital Ecosystems Pivot Expansion of Video Analytics Market Video analytics technologies are widely used as part of security solutions"
     publishedDateTime: 2022-02-25T12:13:00Z

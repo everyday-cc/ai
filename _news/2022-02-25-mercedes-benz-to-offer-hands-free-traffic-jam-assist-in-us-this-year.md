@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/"
 type: article
 quality: 172
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Mercedes hopes to roll out Level 3 self-driving in U.S. this year, CEO says"
-    excerpt: "The Drive Pilot system, which lets drivers engage in other activities such as watching a film or sending e-mails, won limited certification in Germany last year."
-    publishedDateTime: 2022-02-24T12:55:00Z
-    webUrl: "https://europe.autonews.com/automakers/mercedes-hopes-roll-out-level-3-self-driving-us-year-ceo-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 22
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Mercedes%20Level%203%20web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PF85AfntlFrB8gxrQybAt8DDV/kC8ReS7ESq7GkN3S12LFLixOsycz9dJ8bWubfcJ24ny6nZ1x9yG81LrqniCGoIvudYGRjkOkv4f2nC0F+S4VppEhTfCr26Xue7bByrQMGe7gM2JndU11m4RPdGw+qv65WMnRTm4RMBlH0TymFP748i3fLHvV+/eq1LWyJquUlTxCZx9I9Y+UFgr66Vj8a+ch2OvEWlhRCZY80FzV3lLfEa1kQvVtbNJay2E/gLi8ylTqH7RWOBq8wI+6AnPvAMYn1LxNr5cbyuChsVus0a1qqFFrdy2aWtKJJnpqVaMQNffoI3Ukc4ZgSpaV+QGJpn8N7WExXMvrfzUXcPPnU=;8FbPZfIhi5a2J1SdE9oUbQ=="
 ---

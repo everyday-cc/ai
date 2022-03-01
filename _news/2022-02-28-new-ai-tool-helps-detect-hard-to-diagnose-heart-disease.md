@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/new-ai-tool-helps-detect-hard
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Analytics
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Novel Artificial Intelligence Tool Identifies Hard-to-Miss Heart Conditions"
-    excerpt: "Scientists from the Smidt Heart Institute at Cedars-Sinai have developed an artificial intelligence (AI) tool that can identify and distinguish between two life-threatening heart conditions that are often easy to miss—hypertrophic cardiomyopathy and cardiac amyloidosis."
-    publishedDateTime: 2022-02-24T12:00:00Z
-    webUrl: "https://www.genengnews.com/artificial-intelligence/novel-artificial-intelligence-tool-identifies-hard-to-miss-heart-conditions/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 37
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2021/09/Getty_1126117009_Heart_sml-e1645654463359.jpg"
-        width: 1400
-        height: 934
-        isCached: true
   - title: "UArizona researchers find way to use AI to speed up lung disease diagnoses"
     excerpt: "The team’s preliminary studies have shown that the technology has the potential for application to a broad spectrum of diseases.” #tucson #phoenix #azinno"
     publishedDateTime: 2022-02-28T18:19:00Z

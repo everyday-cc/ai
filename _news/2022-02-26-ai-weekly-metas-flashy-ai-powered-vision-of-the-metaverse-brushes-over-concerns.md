@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
         width: 980
         height: 677
-        isCached: true
-  - title: "Meta's Zuckerberg unveils AI projects aimed at building metaverse future"
-    excerpt: "Feb 23 (Reuters) - Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out ..."
-    publishedDateTime: 2022-02-24T12:39:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future-09c23cdf-e8eb-54a9-8a0c-896f592c84a1"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 58
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Image-Meta?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/32185dd1-ac1d-5a7b-a004-d431e08d4804&operation=CROP&offset=127x16&resize=1804x1015"
-        width: 650
-        height: 366
         isCached: true
   - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
     excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
