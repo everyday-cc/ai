@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-07-machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data.md",
+      "title": "Machine Learning in Automobile Market to Witness an Outstanding Growth during 2022-2027 with Leading Regions and Countries Data",
+      "excerpt": "Feb 06, 2022 (The Expresswire) -- Global “Machine Learning in Automobile Market\" is expected to ... by creating supply chain and market disruption, and by its financial impact on firms and financial markets. Our analysts monitoring the situation across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data-2022-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data-2022-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-06T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-difference-between-a-neural-network-and-a-deep-learning-system.md",
       "title": "Difference between a Neural Network and a Deep Learning System",
       "excerpt": "Now that we have talked about Neural Networks, let’s talk about Deep Learning. Deep learning, also known as hierarchical learning, is a subset of machine learning in artificial intelligence that can mimic the computing capabilities of the human brain and ...",
@@ -1343,49 +1396,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-artificial-intelligence-for-business-what-you-need-to-know-about-machine-learning-and-neural.md",
-      "title": "Artificial Intelligence For Business: What You Need To Know About Machine Learning And Neural?",
-      "excerpt": "As a subcategory of artificial intelligence (AI), machine learning provides systems with the ability to learn and modify themselves based upon their experiences. There are different algorithms for machine learning (e.g. A neural network is a type of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ictsd.org/artificial-intelligence-for-business-what-you-need-to-know-about-machine-learning-and-neural/",
-      "originalUrl": "https://www.ictsd.org/artificial-intelligence-for-business-what-you-need-to-know-about-machine-learning-and-neural/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnictsd.ictsd.org/how-to-file-ftb-payment-for-limited-partnership-in-california-.jpg",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-30T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ICTSD",
-        "domain": "ictsd.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

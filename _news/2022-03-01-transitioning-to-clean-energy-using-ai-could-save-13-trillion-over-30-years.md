@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25903755"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25903755"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Benzinga.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UI professor awarded a $1 million grant to research machine learning, modeling, and simulation"
-    excerpt: "A $1 million federal grant at the University of Iowa go towards increasing proficiency of UI engineering undergraduate and graduate students in the growing field of modeling and simulation and machine learning."
-    publishedDateTime: 2022-02-25T02:41:00Z
-    webUrl: "https://dailyiowan.com/2022/02/24/university-of-iowa-professor-awarded-a-one-million-dollar-grant-to-research-machine-learning-modeling-and-simulation/"
-    type: article
-    provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 27
-    images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2022/02/bridgeeducationalgap-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Kanverse Delivers Industry Leading Autolearning Capabilities, Delivers End-to-End Insurance Document Processing Offering, and Much More!"
     excerpt: "Kanverse, a Hyperautomation company, has announced the global launch of the Hematite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Hematite release brings industry leading Autolearning to help organizations process new document types with up to 99."
     publishedDateTime: 2022-03-01T10:37:00Z

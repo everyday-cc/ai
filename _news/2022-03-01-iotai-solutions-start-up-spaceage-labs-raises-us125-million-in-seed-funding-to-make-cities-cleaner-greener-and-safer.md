@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/iot-ai-so
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/iot-ai-solutions-start-up-spaceage-labs-raises-us-1-25-million-in-seed-funding/article_bf523a6f-1284-518b-b2da-b63640ad9eaf.html"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker"
+    excerpt: "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language"
+    publishedDateTime: 2022-03-01T18:11:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 103
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg"
+        width: 2304
+        height: 1056
+        isCached: true
 
 secured: "5QFJF8GS/tGrGmtzyfhEjmV35AJJnOcP69dj4EP4yFwWuZmL66Fe2CzCoSV1Z8GTMGUdHgTcB0pzUGbncZte14iYpq6YzUy3CKzWu5NUobzuLiDWcYPJpffU4jTtx94PCAhYQAVtGijeIBIWMGp2at+406/QlUDCNnqtcd93lELI3oXUAPw9Xkh1QGjUdDR1KmTeH1/15ssKoS7rG1WzTnVVq2GgD8sEkrHx5Sv1NXmsLIj3CtaKEHkH9KWSMlxruwz5Mi8kQgwXWy1C22vb3/hNZjrlc3nkoySQjBmg7V8b/3lT3q+VZfVccsp4gvjMD2po00rXYz41Btz9NgjXNKT64rK2dIZUWl+IDimAB0/XZzSAJFp2h7X9ADxkhvMSG+0mgxgSP5jOASaIq6xM3PyYyXhoCmJ6yHJReR6BMbI+TRh/JT41TVTnHS161e6yHbd5IP80WSPECUTly0ud7XqjkGZQnkGbfoxT8SbFskh/vfuSMLOSUd1oRRnGN0fYihqd6kqH8DbxDQHV4g/Cng==;lDaan/BXUtuITJiW0oPfIQ=="
 ---

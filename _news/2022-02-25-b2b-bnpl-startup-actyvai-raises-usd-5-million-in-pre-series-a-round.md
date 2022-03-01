@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "nSure.ai Raises $18M in Series A Funding"
+    excerpt: "Sure.ai, Tel Aviv, Israel-based fraud prevention intelligence platform that is purpose-built for virtual goods, raised $18m in Series A funding"
+    publishedDateTime: 2022-03-01T17:12:00Z
+    webUrl: "https://www.finsmes.com/2022/03/nsure-ai-raises-18m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Alex-Zeltcer-CEO-Co-founder-Left-Ziv-Isaiah-CTO-Co-founder-Right-1-1.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Industrial AI startup ExactSpace Technologies raises USD 1.4 million as seed funding"
     excerpt: "The company’s AI platform Pulse brings solutions to their clients that combine machine learning and industry knowledge."
     publishedDateTime: 2022-03-01T14:03:00Z

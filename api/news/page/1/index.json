@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-01-anomaly-detection-with-amazon-sagemaker-edge-manager-using-aws-iot-greengrass-v2.md",
-      "title": "Anomaly detection with Amazon SageMaker Edge Manager using AWS IoT Greengrass V2",
-      "excerpt": "Deploying and managing machine learning (ML) models at the edge requires a different set of tools and skillsets as compared to the cloud. This is primarily due to the hardware, software, and networking restrictions at the edge sites. This makes deploying and managing these models more complex. An increasing",
+      "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
+      "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
+      "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-sagemaker-edge-manager-using-aws-iot-greengrass-v2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-sagemaker-edge-manager-using-aws-iot-greengrass-v2/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 113,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/17/ML-6786-image002.jpg",
-          "width": 2456,
-          "height": 1434,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg",
+          "width": 2304,
+          "height": 1056,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T08:48:42-08:00",
+      "publishedDateTime": "2022-03-01T10:11:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -50,7 +50,209 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-human-speech-recognition-model-to-overcome-hearing-impairment.md",
+      "title": "Human Speech Recognition Model to Overcome Hearing-Impairment",
+      "excerpt": "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "originalUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "publishedDateTime": "2022-03-01T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
+      "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
+      "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7753-image001.png",
+          "width": 1232,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T09:34:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage.md",
+      "title": "Could AI-Powered Silicon Remastering Be A Solution To The Chip Shortage?",
+      "excerpt": "There’s an excellent opportunity for a solution to at least some of our current chip shortage issues. And it may lie in the idea of making something old new again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62196bf880c2270620b884a3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
+      "publishedDateTime": "2022-03-01T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans.md",
+      "title": "AI, Robotics And Ethics: Harnessing The Power Of Intelligent Machines To Benefit Humans",
+      "excerpt": "The importance of ethics in artificial intelligence stems from the power of what can be accomplished with AI, especially when combined with machines: self-driving cars, robots co-working with humans in factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/",
+      "originalUrl": "https://www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621e4c1c73b90ce7ffd5d84a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/amp/",
+      "publishedDateTime": "2022-03-01T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -62,7 +264,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -102,25 +304,26 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-03-01-transitioning-to-clean-energy-using-ai-could-save-13-trillion-over-30-years.md",
-      "title": "Transitioning to clean energy using AI could save $1.3 trillion over 30 years",
-      "excerpt": "Analysts view AI as vital to ensuring efficient and cost-effective transition ... the launch of corporate and startup innovations, and the transformation of Fortune 1000 companies' digital ideas into real products. During the past 12 years, U+ has ...",
+      "path": "_news/2022-03-01-7-must-read-books-about-artificial-intelligence.md",
+      "title": "7 Must-Read Books About Artificial Intelligence",
+      "excerpt": "In late 2019, we published “7 Classic Books To Deepen Your Understanding Of Artificial Intelligence.” It’s time to run it back. Here are 7 more thought-provoking books that explore the technology, business,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g25903755/transitioning-to-clean-energy-using-ai-could-save-1-3-trillion-over-30-years",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g25903755/transitioning-to-clean-energy-using-ai-could-save-1-3-trillion-over-30-years",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621c5e573cd0ac3fb2b884a3/0x0.jpg?format=jpg&crop=900,507,x0,y77,safe&fit=crop",
+          "width": 900,
+          "height": 507,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,14 +331,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25903755",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25903755",
-      "publishedDateTime": "2022-03-01T06:36:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-03-01T06:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -639,7 +851,7 @@
       "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1006,175 +1218,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-acv-acquires-ai-solutions-company-monk-sas-terms-undisclosed.md",
-      "title": "ACV acquires AI solutions company Monk SAS; terms undisclosed",
-      "excerpt": "Digital automotive marketplace ACV (ACVA) has acquired AI solutions company, Monk SAS.Financial terms of the deal were not disclosed.Monk SAS is a AI-powered imaging and",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3806952-acv-acquires-ai-solutions-company-monk-sas-terms-undisclosed",
-      "originalUrl": "https://seekingalpha.com/news/3806952-acv-acquires-ai-solutions-company-monk-sas-terms-undisclosed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3806952-acv-acquires-ai-solutions-company-monk-sas-terms-undisclosed",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3806952-acv-acquires-ai-solutions-company-monk-sas-terms-undisclosed",
-      "publishedDateTime": "2022-02-28T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-mathematics-helps-ai-in-biomedicine.md",
-      "title": "Mathematics helps AI in biomedicine",
-      "excerpt": "\"Data is the new oil,\" it has often been said. Indeed, in the digital age data is the fuel that runs the engines of digital media, advanced informatics (AI, machine learning etc.) and, not least, scientific research.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/mathematics-helps-ai-i.jpg",
-          "width": 1280,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.amp",
-      "publishedDateTime": "2022-02-28T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-africas-first-ai-research-center-inaugurated-in-congo.md",
-      "title": "Africa’s first AI research center inaugurated in Congo",
-      "excerpt": "The Republic of the Congo’s Prime Minister H.E. Anatole Collinet Makosso has inaugurated the African Center for Research in Artificial Intelligence (CARIA) in the nation’s capital of Brazzaville – the first of its kind on the continent.",
-      "sourceUrl": null,
-      "webUrl": "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-      "originalUrl": "https://africabusinesscommunities.com/sustainable-energy/news/africa’s-first-ai-research-center-inaugurated-in-congo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
-          "width": 848,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "africabusinesscommunities.com",
-        "domain": "africabusinesscommunities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-meta-says-its-shut-down-a-pro-russian-disinformation-network-warns-of-a-social-media-hacking-operation.md",
-      "title": "Meta says it's shut down a pro-Russian disinformation network, warns of a social media hacking operation",
-      "excerpt": "Facebook's parent Meta said Monday it has caught dozens of fake, pro-Russian accounts, groups and pages across its platforms trying to spread anti-Ukrainian propaganda as the war in Ukraine continues to rage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html",
-      "originalUrl": "https://www.msn.com/en-us/news/world/meta-says-its-shut-down-a-pro-russian-disinformation-network-warns-of-a-social-media-hacking-operation/ar-AAUpQLf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220228073436-meta-headquarters-020222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html",
-      "publishedDateTime": "2022-02-28T05:56:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html",
-        "domain": "com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

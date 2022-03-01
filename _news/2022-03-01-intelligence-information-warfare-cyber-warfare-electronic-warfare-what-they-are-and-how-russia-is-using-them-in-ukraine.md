@@ -25,6 +25,24 @@ images:
     height: 336
     isCached: true
 
+related:
+  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
+    excerpt: "Russia has one of the most capable and technological militaries on the planet. They have advanced intelligence, information warfare, cyber warfare and electroni"
+    publishedDateTime: 2022-03-01T18:02:00Z
+    webUrl: "https://www.darientimes.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    ampWebUrl: "https://www.darientimes.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    cdnAmpWebUrl: "https://www-darientimes-com.cdn.ampproject.org/c/s/www.darientimes.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    type: article
+    provider:
+      name: Darien Times
+      domain: darientimes.com
+    quality: 30
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+
 secured: "NP/TPE/sFQvoSBxHitkSXuhWKR4Ni441uJRmrZHPd7QbNxixslP16GiLOOTxbRf+Y3zL7Z0VXzRQg+QgzqWMMzV6n5P7VFMfOBB8FKo9phHWhd8/oBWBWxOfWPIdD+EjeTcXPfrdDgvK9wsIifTKjuJYk+dPxPAnhTWAEX13i0CJveqdzQDk5FScbdDu4RSm27jK7o1s75oRAQjPkSYPYuUmWioRKiYs0VVLcUYxPOEaL5RNnRGycQuA1NAK02YNCddUPhfRGxzv6mGUBtyqvBZUAJDOJX2ue6stvGB31FvI/6L6i1lZpfnDqfoxA0vfnMl7BFqrv1j6T+W9lxvjq4SlxYVyiZXcgnqpZDX/7uQ=;MzpBR64QOZgUqLDfqeXKYQ=="
 ---
 

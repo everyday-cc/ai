@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/smartcows-new-dev-kit-promises-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/smartcows-new-dev-kit-promises-conversational-ai-video-apps/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Uniphore Rolls Out Conversational AI for Sales"
+    excerpt: "The company's Q for Sales uses AI to transform B2B sales, using a platform capable of delivering AI-based analytics to any type of conversation."
+    publishedDateTime: 2022-03-01T18:15:00Z
+    webUrl: "https://www.eweek.com/cloud/conversational-ai-for-sales/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "KhYfF04h6AOFwOY1/xGmpoqAVMbpsu1vXowCBvtJa9ya9NTcTZUooAdYrfbN3LM9GgI8bBjGSiOepyDHKNY0RGMlrlLOawIyfD7GiH8isjx9UFfLmpLiDAS68d5PJsfyvc2POyHehQWI3PKabaZmGxReFViNV/+RCLX14GMudCH77TBOtLYayl1AmSgJraGR2Iv9lXgqReN6NVqcHlqTanAZO5NcKpqixeJWyzXcr0DA75m5TlwkjqxH7fB5ejjRBQltSVJWrQE6liluVjWdROsNaEHqVbtTnBrqV82WJMSq+cbzgJG7Pl9KfOxxuP8BKXVDbaKYXXCaylNCf7UG+q4MkrYu+fdheqs0YKekj7vLMdW2gWC53uJbhWvqbEMn4OBzMGjvIn5JlvhK8I48i8Tl9J8YDxR1QmfrE2wLdOyAHbstUFWtohFDt66jrsOHjJNC5elDK5N2fFr7oYDWbZJWYKsstRHmwInI6mxbTRTv3wH9MBGQQPJkfms+445PA6/JJwSRxnVg6iD92NS8UQ==;oggKzA5ah9jUVv41b0D9gA=="
 ---

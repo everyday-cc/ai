@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/944641"
 webUrl: "https://www.eurekalert.org/news-releases/944641"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 394
     isCached: true
 
-secured: "KOCxA0GwIKPtpNYDPipLSCJzVWR8FmDDxG1ZyUT5FoiQlhSXoln0mzsokG2KZL1r3wBydOTZegmiiNIwNqVG63yfziK9fdloPCD6hW1BMsgZY/iI9EyoRi1MdszM2+1NB1p6i67PX60J8yrfI82iY+9eyiw70JR2nkWu/APLWEooRU2FFX3NsSKXp+d1TVWitcZj7jEh9TB1p1uiqmFScF/unaOXagVjr6u5IzTYl2IjFmuClMy1noI5DUseUf7sz4qznOprAoTSW1Um39BN3JX47FhHkZNb3337EXEqd0//VujcT4JrtGZtXmaTlMp3cIV04LnbVDl6YWOB4CS4gLeU6ycaI4PsUrww9OxkmFw=;/JPzExkQv8UIpGLUwk7AvQ=="
+related:
+  - title: "Human Speech Recognition Model to Overcome Hearing-Impairment"
+    excerpt: "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing."
+    publishedDateTime: 2022-03-01T17:57:00Z
+    webUrl: "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 74
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+
+secured: "o7xzQQNAcnt3rm7yxBLbJlFp7qPlHiYMnc9DKYwLAf1nF5xYJkoGZtYDizJ8KJg6+k0iVb4qXivBSAi+kGhCmQbm8yZcxfVfaYmQjnuo8GEr3ROAuc/b/eveIsCD+HD2cpK4qXP5TG3r/G00Tseo1NmasjAPwvd7r3R6zejpD5B4JLzK3hyHNHmZVNAB/K6HuG4qrHrt/pmqgQsTNQIQHomZv7BmoZEpNG5ph5wpBYJOg2XWq1HbvW4F3mLHTHEaLJlf/P/5yTcRYi6hy2f6xi3IZCf9EokKU3lfKj/TL4SH55iG6XEZuxprr/iUjZ4TvF72L+UOBKgvsO2mLhK0WvyAmWZ53es+EZZACh/yZd8=;JEFAq6KAr1wBuchjSz+XfQ=="
 ---
 

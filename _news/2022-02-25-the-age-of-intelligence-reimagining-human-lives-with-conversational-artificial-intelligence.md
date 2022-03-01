@@ -28,17 +28,6 @@ images:
     height: 295
     isCached: true
 
-related:
-  - title: "Art-ificial intelligence: can robots be considered creators in their own right?"
-    excerpt: "While AI has increasingly converged with the arts, US authorities do not believe works created by technology can be copyrighted."
-    publishedDateTime: 2022-02-25T02:29:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/entertainment/2022/02/25/art-ificial-intelligence-can-robots-be-considered-artists-in-their-own-right/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 15
-
 secured: "jnlC7AkBEGNXuwiYREzREg/E9v343e/ENSE0B8Ep854ecH4L1j6xLQLQsglhNxZQDukUFv8ueMt6KgGyb7q4t0PSab4Qrubg9pw8DlWOM7MyBp0ty3x6N9x+ecqUDUBZpmqn5rpVczZ0j3NUrg3gW1zEdfL9GdFsxUrTfMTAbC5bdld8aVBwlZ7TX9TEFqFwZIQQGtIbiBknx4wGmvn+Wlc+BiTKmE41uW3Mq9yZDklvhYGDkeyGSa7uQWl+kdLaCr+VcztKgCnI1aZiKX0HqzVyR+5ZK6vPBdw4GA5NS21q7GNaylz7RMXYhr7xYxCpdMo4QRMu3CcsaDKoUbC09wFrnRKxpjTmhDLVAmVdcDk=;x8Qo48reqXpgqT3CC+Jv3A=="
 ---
 
