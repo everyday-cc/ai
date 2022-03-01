@@ -2,6 +2,40 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-02-02-olympics-chinese-women-online-show-more-interest-in-winter-games.md",
+      "title": "Olympics-Chinese women online show more interest in Winter Games",
+      "excerpt": "BEIJING — Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday. Curling ...",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games",
+      "originalUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/",
+      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/olympics-chinese-women-online-show-more-interest-in-winter-games/wcm/b9bcb983-e6c0-4b9d-960e-d2e48e7ab4f4/amp/",
+      "publishedDateTime": "2022-02-01T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-alphabet-a-shares-googl-q4-2021-earnings-call-transcript.md",
       "title": "Alphabet (A shares) (GOOGL) Q4 2021 Earnings Call Transcript",
       "excerpt": "Q4 2021 Earnings CallFeb 01, 2022, 5:00 p.m. ETContents:  Prepared Remarks Questions and Answers Call Participants  Prepared Remarks:  OperatorWelcome, everyone, and thank you for standing by for the Alphabet's fourth quarter 2021 earnings conference call.",
@@ -1106,49 +1140,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-government-agencies-are-tapping-a-facial-recognition-company-to-prove.md",
-      "title": "Government agencies are tapping a facial recognition company to prove...",
-      "excerpt": "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php",
-      "originalUrl": "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php",
-      "cdnAmpWebUrl": "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php",
-      "publishedDateTime": "2022-02-01T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenwich Time",
-        "domain": "greenwichtime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

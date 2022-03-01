@@ -41,15 +41,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Enabling 6G: from low-power technologies for communication to machine learning analytics for privacy preservation"
-    excerpt: "IMDEA Networks has recently been awarded the coordinated project ENABLE-6G of the national call UNICO 5G. The project consists of two sub-projects, RISC-6G and MAP-6G, and it will be developed by a group of researchers led by Dr."
-    publishedDateTime: 2022-02-24T19:22:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944622"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "KyFtXY3MI3z9DToJf5z6VEGs6dfWPrteL+k34VWl0bPLr09U+lgtOkA6REjZb0d1FmyWSv7eJRwIyUFUkDdzWi9biVleWJIas5FpYAWz51vTwsc+ct39b7waE1rJkhzJXYmIYnuXE/EEcL2pTr/+PftmoF8zu7jfyvvB9fCHhBTSMQzmtmxecBysXM1kVkU1g32ExXfM8jASM7R/kL9o6V4fEUEztoQ1t2ZMINb0msdEioWH6pdxg3sE3qJY7bR4xklCvMAt9UQRBn13JKXO6QD6MhOIVq6kIhSEtJBv44IYi3SdFOCuTHZGQt5lZolmIMTL9nb7oxjvXrwbaxSDm9yA1ZzBoPfZSbEjAPOlCik=;eBedyFh3gqW275bfFODrog=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-26-customization-basics-tensors-and-operations.md",
+      "title": "Customization basics: tensors and operations",
+      "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-load-and-preprocess-images.md",
       "title": "Load and preprocess images",
       "excerpt": "import numpy as np import os import PIL import PIL.Image import tensorflow as tf import tensorflow_datasets as tfds Note: all images are licensed CC-BY, creators are listed in the LICENSE.txt file. import pathlib dataset_url = \"https://storage.googleapis ...",
@@ -1497,50 +1549,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-free-ai-protein-software-packages-nearly-predicted-structure-of-the-omicron-coronavirus-variant-correctly.md",
-      "title": "Free AI protein software packages nearly predicted structure of the Omicron coronavirus variant correctly",
-      "excerpt": "In brief Using two different free protein-predicting AI algorithms, computer scientists were almost able to model Omicron before the coronavirus variant had been physically mapped. Colby Ford, a researcher at the University of North Carolina,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
-      "originalUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/07/15/shuttersock_vaccine.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/11/ai_in_brief/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/11/ai_in_brief/",
-      "publishedDateTime": "2022-01-11T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

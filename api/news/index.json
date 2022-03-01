@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-01-why-tech-marketing-leaders-are-racing-to-sponsor-formula-1.md",
+      "title": "Why Tech Marketing Leaders Are Racing To Sponsor Formula 1",
+      "excerpt": "With the rising popularity of Formula 1, technology companies are expanding their sponsorships and seeing amazing returns on their investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
+      "originalUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621524e4c9ebfd7631a869a8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
+      "publishedDateTime": "2022-03-01T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
       "title": "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength",
       "excerpt": "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth.",
@@ -97,7 +150,7 @@
       "originalUrl": "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -243,7 +296,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -276,6 +329,50 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
+      "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
+      "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "publishedDateTime": "2022-02-28T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -579,7 +676,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -622,7 +719,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -665,7 +762,7 @@
       "originalUrl": "https://africabusinesscommunities.com/sustainable-energy/news/africa’s-first-ai-research-center-inaugurated-in-congo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -707,7 +804,7 @@
       "originalUrl": "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -907,92 +1004,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-28-tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps.md",
-      "title": "TCS AI-powered software for smart cities and customer analytics now on Azure Marketplace; Stock jumps",
-      "excerpt": "TCS is a Microsoft Gold Partner with over 1,000 successful Azure engagements for more than 225 global customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html",
-      "publishedDateTime": "2022-02-27T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-firefighters-relying-on-artificial-intelligence-to-fight-california-wildfires.md",
-      "title": "Firefighters relying on artificial intelligence to fight California wildfires",
-      "excerpt": "Artificial intelligence is quickly becoming part of our daily lives. We talk to smart speakers to get weather updates, chat bots answer our customer service questions, and soon, self-driving taxis will begin operating in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/",
-      "originalUrl": "https://abc7news.com/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11596509_WEB3_AI.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/",
-      "publishedDateTime": "2022-02-27T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
       "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
       "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
@@ -1001,7 +1012,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 224,
       "tags": null,
       "images": [
         {

@@ -1,27 +1,23 @@
 ---
 category: news
 title: "MediaTek Launches Dimensity 8000 5G Chip Series for Premium 5G Smartphones"
-excerpt: "Three new chips expand MediaTek's Dimensity 5G portfolioHSINCHU, March 1, 2022 /PRNewswire/ -- MediaTek today launched the Dimensity 8100 and"
-publishedDateTime: 2022-03-01T07:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones-1031241439"
-webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones-1031241439"
+excerpt: "Both chips borrow the advanced technology from MediaTek's powerful ... The Dimensity 8000 series integrates MediaTek's fifth generation AI processing unit, APU 580. It delivers the most power-efficient performance in its class. The balance of performance ..."
+publishedDateTime: 2022-03-01T08:54:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220301hk72328/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220301hk72328/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones"
 type: article
-quality: 47
-heat: 47
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "Q2F5k4pw0syuIO4mTcXarteFr+i3EGo/5475qvpBdqumePR/BHsdwJLgbGsaIOo8Z1sbZYrPPN/T2HawsxzpjNBZXuNbdt4LaQdzAvYu8s4fLbhQ0Tt1GJzDk6hhraWQeEvUN6pLHnvr+bUjIgZa8JXnSFpjnOwHtQqAUPceE/8cEgyuG6ZYd7gbiRQkpm89qzcXRku4jfkc6EoOiv9P7Pv8Ut4Vg9i87ubwWt79HyApTIuVRXaxnvMMai24sw9ZZa2q20J8LOcMvndU15bBRDGok898x3X2aCIv4WURw7RJp7omodEjYl+sbemqeKOGRzQiB0PnJrWxrFT/72h+AD5aD4uOkbCAQrjPAevizgc=;UvcdC0Ys+k0ymGvN6pdQEA=="
+secured: "vTTyrQHOqZHZC/g1Nm8gng1Hcq1CptQ3iAIdHrCZHOhzwXoEWMzZmGoYo54Vx5XeVIjihsqCB3LTCfiKqPxrgkMElIg77I7UhCLJSOChz1gClSTLZEyY9bf0IWOsl0CvqNkVhLyB0jX74Wg8kC0ZBPnOSL0IYNKSY/BGqsJCHrh6mQnrg+Zm3KXk539bSY8/CPHbUtrONnl6Wv7K/wkVZkZiNOICqwhhT3SwMzPMOA1MeV/YXAlnO5O0vkJp0aHnw2hC+K+BtRST6oA42rOLYjHJB+g07IpEUxSgNx4Sc7Q0Raddf385W/9EIMcwe7JrBYZHJOJcNundgPNRF/Ik7knQZm74tMDQhwU/Mam0VVw=;gqyo0Jgatt5qDUwqEpcY+w=="
 ---
 

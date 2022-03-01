@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-01T10:27:00Z
 originalUrl: "https://analyticsindiamag.com/83-per-cent-of-indian-bfsi-players-think-ai-is-compulsory-for-better-customer-experience/"
 webUrl: "https://analyticsindiamag.com/83-per-cent-of-indian-bfsi-players-think-ai-is-compulsory-for-better-customer-experience/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/photo-1462206092226-f46025ffe607.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 500
     isCached: true
 
-secured: "r9h1iaSYLHt2HMa3kYucgxd2ERCVQ0ouH6SBjmMGw9BwU9Dzu+YyUaDWJKck9d3vhy3OSBgFRTVWQLK9F1m8ApyxdzQB6EvgqmPYP5SjFfIsQTDBRy+faN9117ifIv2mNDRwdz/wWdaeF3+XhgGDuZEvCOi3dUAVAdfALF3zFe3kZP7/g3OZg22Z04xGQSjK05kHCbxR9z8keyfckbQNV0Jk+a7FzNnFZ0k5a+wTbo/3/Z6HAck3QJEv7xpAVjpNsQcPvug/RtyZesVol3WIFmUwP2n49bdw38OA7X6x+qi3J76CGyLfuIXkafoIaigSYfP1ioonvuMio6ddEKducFLkPVco6Wv3zUoM6j5qmTI=;KyMm8QYx6oK9o8xB0VezrA=="
+secured: "hsAyETdZy+oagjPUj6p9QYjVeFfHZgN6y6MR4Gk7qsxZfbYolvy5/gKw11LxIgUIgKyjtWEox99hmcvs+DGMHwB1HbAtiYiYJK7rowrX3ssTPTXR4KrjgNSCSQW25rdy557rDGJl3LSF3dSooseXybsqVmqqi6xGynYmOeyXWt3Ths9fJ4RBf2RYiaiyJkY5zoGkD8nnmHVcbaHvUK8PVecR70DwnfSySbAjBaGXQnoWa4MX6B8CtoXt2FpDuk9HXsR4NpqpEiTeURfWO2M8+3/OONng8huiYQ4dxxOS4BOlQX729ttcPOZgykpHQX7q/gh7F83pO1WoQMfF/uziKRi/GjFLF/glNC1b/4T8jFj/alaCHZV7A22UiXoWAcgvkm0RTGjwRS2sRHFyNd6PQHbtNrZwuCCFt8R4/nrb91JoJMGBGhrGTs5CLX3IBVVGHgIyl9AJxmtnk4fPEGc3ABnAxtwIi9AnjZ6ehGODZP5ZN7fItwnnQyPCMfBa7NLYfnjE70Fu5bYemmwE238Alw==;Cf3/UOsyDGt6cbrUOGaNsw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/"
 type: article
 quality: 89
-heat: 159
+heat: 180
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
         width: 1919
         height: 1080
         isCached: true
+  - title: "Qualcomm's Snapdragon X70 modem with AI could arrive in 'iPhone 15'"
+    excerpt: "Qualcomm has introduced its Snapdragon X70, a 5G modem that uses AI to increase performance, and it could appear in a future update to the iPhone."
+    publishedDateTime: 2022-03-01T12:10:00Z
+    webUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15"
+    ampWebUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/47216-92027-snapdragon-x70-xl.jpg"
+        width: 1312
+        height: 731
+        isCached: true
   - title: "Qualcomm debuts new AI-powered 5G networking chip for mobile devices"
     excerpt: "Qualcomm Inc. today debuted a new chip that mobile devices can use to connect to 5G carrier networks. A mobile device relies on not one but several different hardware components to establish 5G connections."
     publishedDateTime: 2022-02-28T20:37:00Z
@@ -123,6 +139,20 @@ related:
         width: 708
         height: 421
         isCached: true
+  - title: "Qualcomm unveils its AI-powered Snapdragon X70 modem"
+    excerpt: "Qualcomm has announced the new AI-driven Snapdragon X70 modem at this year’s Mobile World Congress in Barcelona. The modem is expected to deliver an improved 5G experience for mobile devices and tablets."
+    publishedDateTime: 2022-03-01T12:36:00Z
+    webUrl: "https://analyticsindiamag.com/qualcomm-unveils-its-ai-powered-snapdragon-x70-modem/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/qualcomm-Ai-investments.jpeg"
+        width: 770
+        height: 577
+        isCached: true
   - title: "Qualcomm X70 5G Modem Announced With Dedicated AI Processor for Better Reach"
     excerpt: "Since 5G uses a very broad range of network spectrum as compared to 4G, this new AI chip shall help your device to stay on the most efficient band using antenna tuning. Today, Qualcomm has just ..."
     publishedDateTime: 2022-02-28T16:05:00Z
@@ -138,6 +168,6 @@ related:
         height: 767
         isCached: true
 
-secured: "Fw7sOx1tGbnUQbtqNLqMl0QLrrZfIDxvUfmpAePE0mmgDgfTfWaBlRKQX+jizOX2botrvfhAg66gvt68II6N7dpgqlVL5bQBxSOin2BhcCjA2Iar/JJRT2YHoLV3LHqFEsB6wQFZVhAZh9scRu2VFpakV8cbtCbVh/MNkbi0gf4ZLYnzKjF1bvoDWnj/IWaUAlhYHy9KM7bgnNqh8C93TWfmY5+6sIB/Clvb9jdqaPB8yoYlVSm6YzWNwItWFIPgnnpbPRTbQ4WR7se1Lz84vUQHAkQ+RTF9LocKAn33HukpBNFzhECCMYXpIcc0Al1loSeMEiDE5zIvaS2QE5BXT+N6/yDgqbfq+hKpWthVJEE=;GWyBAlDDOX5SXVDxVx9Ubw=="
+secured: "ZvlsWtKR+KsgSRmx+7vlLYl5T1QjNJroYHPoW4JacaD5vebCaw20XS3tI2+DAUj9SgmaF+YCbku6C479DS3zkUh20Dl0uPLOYKKrCnSPhdaS0nuFA8WA2p112ymKJEwVitUIV3w4eH+xDu1Wgsl6aQwo3EjK58p66QoNnbs3+ZwiSavgj7LTcZq+WEqmdYfF+o7YCIo6aI+X92L++vz/nAohjq06lIKb6zqgMfLmrZR0vmd1K6SceNz57IcnD1ZaSIZ/clcGjT6LuK0wnF8YntQk+KZJijYV21rMy46y/Dt/VgJQypfzUwW0bQZRmBpzFATdSDCg0xppfNC6pA31d/XF3ulCtL3/s2yJHGUL/28lyCyq5/dT8Gutvsh5wjHmsvoEkaGNOfIhi8teUkj/FijLtUNwM6iuH+5aRYxQ2iBFwNX8d7BOBOE+JkPF2d0GGJfu+LMA0pvhunzo5nmFB32SJ+fiOUdB7tiRxP2r2J40N9CeB7P2FQkvaiUuTGkHxsYPI9QSF0tcWbiUNusoyg==;VajupcKlZp9vfjh03MTujQ=="
 ---
 

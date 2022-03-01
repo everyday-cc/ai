@@ -19,21 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Are you integrating human sense with machine learning?"
-    excerpt: "Artificial intelligence and machine learning models compute data at hyperscale speed. Without doubt, these computer models have outperformed the human brain in computing data, recognizing patterns ..."
-    publishedDateTime: 2022-02-28T03:29:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
+  - title: "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning"
+    excerpt: "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,"
+    publishedDateTime: 2022-03-01T06:19:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 65
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89883172,imgsize-34264,width-1200,height-628,overlay-etcio/are-you-integrating-human-sense-with-machine-learning.jpg"
-        width: 1200
-        height: 628
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Swiss Plasma Center and DeepMind Use AI To Control Plasmas for Nuclear Fusion"
+    excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. EPFL’s Swiss Plasma Center (SPC) has decades of experience in plasma physics and plasma control methods."
+    publishedDateTime: 2022-02-27T22:19:00Z
+    webUrl: "https://scitechdaily.com/swiss-plasma-center-and-deepmind-use-ai-to-control-plasmas-for-nuclear-fusion/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/Plasma-Inside-TCV-Tokamak.jpg"
+        width: 2214
+        height: 1244
+        isCached: true
+  - title: "Business Leaders and Researchers Discuss Future of Deep Learning at the Institute for AI and Beyond’s 2nd International Symposium"
+    excerpt: "The Institute for AI and Beyond held its 2nd International Symposium virtually on February 12, 2022. Among the topics discussed were the strides deep learning has made over the past decade, what we can expect to see in the future,"
+    publishedDateTime: 2022-02-25T02:00:00Z
+    webUrl: "https://www.softbank.jp/en/sbnews/entry/20220225_01"
+    type: article
+    provider:
+      name: SoftBank
+      domain: softbank.jp
+    quality: 25
+    images:
+      - url: "https://cdn-ak.f.st-hatena.com/images/fotolife/s/sbn_16/20220224/20220224111459.png"
+        width: 780
+        height: 436
         isCached: true
 
 secured: "EV0zeILfr8heypvdVueR4XS18uax/4yhlrzib5kFLnxqth+Gxmkhcr/evRMWeq3Kmk1XKjyAXVbP6KBeCDgCEZlOQllQJmXZ182svOmaGsA2lCly3scbfAMgzjhF3n6ltGUFAOznEV0JoNcakd2wN2jXZ5Y3swCNkje3G9QYAaf3LBFqevQt0aBlawPjPX7W6A0i/WH54kElfb1Iq5Bn/TLzePg2Ik/38fYMRhcmdGoTrbhhmF5SFDzXp3XY6ktmydo4pTvlVMU4h885t8XCORvVNKit6Jp/OlN+Q0tsNScTFRzgZSH2i18nlpXkdOf15LpZ1oLhcq+VPUprxvlohN31E27ZFFbk+Z+3Y73Ia/4=;MN+Tzsj7DV5F45DqguhIRA=="

@@ -133,19 +133,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft updates security applications for multi-cloud environments"
-    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
-    publishedDateTime: 2022-02-24T20:22:00Z
-    webUrl: "https://www.reseller.co.nz/article/695602/microsoft-updates-security-applications-multicloud-environments/"
+  - title: "KX Strategic Announces Partnership with Microsoft"
+    excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
+    publishedDateTime: 2022-03-01T11:28:00Z
+    webUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/"
+    ampWebUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 56
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
-        width: 473
-        height: 315
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/KX-Strategic-Partnership-Agreement-with-Microsoft-01.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Microsoft updates security applications for multi-cloud environments"
     excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
@@ -161,6 +163,31 @@ related:
         width: 473
         height: 315
         isCached: true
+  - title: "KX to embed with Microsoft Azure"
+    excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
+    publishedDateTime: 2022-03-01T11:55:00Z
+    webUrl: "https://www.finextra.com/pressarticle/91679/kx-to-embed-with-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
+    excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
+    publishedDateTime: 2022-03-01T12:41:00Z
+    webUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push"
+    ampWebUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 41
   - title: "KX Strategic Partnership Agreement with Microsoft"
     excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
     publishedDateTime: 2022-03-01T08:54:00Z

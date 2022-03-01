@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Autonomous Driving Network Thought Leadership Paper Release Paves the Way for Autonomous Driving Networks"
-excerpt: "Autonomous Driving Network Thought Leadership Paper Release Paves the Way for Autonomous Driving Networks. BARCELONA, Spain, March 1, 2022 /PRNewswire/ -- During the Mobile World"
-publishedDateTime: 2022-03-01T10:58:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/01/9554035.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/01/9554035.htm"
+excerpt: "Huawei commissioned Forrester Consulting to conduct a study about the autonomous driving network thought leadership paper — \"Building Leading Digital Business Competitiveness with A Highly Autonomous Driven Data Center Network (DCN)\"."
+publishedDateTime: 2022-03-01T11:15:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2022/03/01/9554035.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2022/03/01/9554035.htm"
 type: article
 quality: 7
 heat: 7
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
@@ -24,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "u1KZ1oyrxMTjdrqUfDU6j4TkneFZHkCCp0HbtadJeKAMt6SiGb7MAp9ZpHelcn3klfE/SENHUHzSy+q6r2OJ8+pe8oO3erObNk1YmU8XVvyWMTOW3pkvuV5WZVf9177cfXQkzQg+S34qa13/EubicloCYZg5+cTC6NLkhIBIZe/Yv+iwZceqQNOD+nlyblyWaWqbKNa131oJcEbjMjv1oa7O0YF/2AXJ+oa/mHQocD78oP7Q0MmgshB3cnPsaNotEDABR0SluYvwQD6FHQmdGCPhiGEmFZ/vVfiVOq9v6bitRQK83r0N0TRyFzda9GqyZKCwEMWLhJfZpQMk4FKTL7TpKMEmpL3GBHRyx68W+y8=;ulPf1IDotfZc/V9Bp4nmiQ=="
+secured: "0NgeY59NWLBEfOUX1uvNxUHMxL7PBWoLyPfH+1048caTcdftnrAxXtf/qJ3UHu2wwVNZtdM0onJH2Twwr8dcYyoHFx8+t/fnK9aA24ljAe7NL/Mx5F+7YV6siRabLlKBxjNA8wKKrZrYVZ7NudDuLcXRbBMv6XXDCoTzIVOVXt9JkuhTMDtz2fV99upWUyWNRntu+GjydSLvlmKjIr1EJj29F2iE+rl/CsFDqHIH6MA80Aee1flA77Wlv727cMHrjGVhe8aV+C9DnAhpuZ8z+sa+l7prN6aObs3ZckMw3dYk8vxrysgHcp21126khMsy0ppbh08EEtH83yOhZMisZRf84vpeUG1484VRLcPAFi4=;6UeeS8+OPIZA0qe+ymal7g=="
 ---
 

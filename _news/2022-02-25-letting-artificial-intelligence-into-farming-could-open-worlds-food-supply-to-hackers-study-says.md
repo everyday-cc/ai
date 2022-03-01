@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-f
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/02/24/letting-a-i-into-farming-could-open-food-supply-to-hackers-16158595/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,49 +26,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Putting AI to work for CX and sales in 2022"
-    excerpt: "In sales, AI is often touted as the new way to forecast and drive results. While it sounds good, you can’t throw AI at just any problem."
-    publishedDateTime: 2022-02-24T19:17:00Z
-    webUrl: "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/"
-    ampWebUrl: "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all"
-        width: 1200
-        height: 629
-        isCached: true
-  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
-    excerpt: "Identifying a malfunction in the nation's power grid can be like trying to find a needle in an enormous haystack. Hundreds of thousands of interrelated sensors spread across the U.S. capture data on electric current,"
-    publishedDateTime: 2022-02-24T21:38:00Z
-    webUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Using artificial intelligence to find anomalies hiding in massive datasets"
-    excerpt: "Researchers at the MIT-IBM Watson AI Lab have devised a computationally efficient method that can automatically pinpoint anomalies in those data streams in real time. They demonstrated that their artificial intelligence method, which learns to model the ..."
-    publishedDateTime: 2022-02-25T19:32:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/02/220225123541.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "BQ94p7r3b/UPUbA3Q2eOU+z8FpL+WzRNOl/8EqHqdzRQVk6718OZBjPiNdQBlzfb0e6zUcfP3s/EU06OrhtVSX/sK73pOuQilvZ3yd0lY9RpTTAy2dAzbcwj64x/Ksm76LJdaaDR+0J1Lk8HgTiMZhQatlwrSDzSvH8fmeFkD7f5a00QIJ7NUFpBsJZYbJZrY6WyqE6ZRd0tMJSManhYrHpyv/loebyjUDcVLvxdb61epJQVZ+tsmBeJE0NcGN0DFq1UrbakJYxOt73wW0oWZ55JAszp9CWQbphl49/YNeid/2s5i0/Kpveym7W9h/nsCR1ag+9YjgnFpqjz0rurlHv/jomdDHTdvY0vtyk9Ef52ZYou0DPDoFWcb/OhQiqxzrUUcQ4AiETjctIcYA3bRS888UTD62frLQ8+87e7InekPg0NpKdbHXeZyNR7Zt4IPa+pldspW+2OUAP8cbi8C0vpbwwNF0P3/+Azw72ksqQsNPxJZtlzQQS6tU+cPaaAoX/Y8dFhv2+TYl+i7z0Xfw==;J9QvD6JHDFEM6/xzLxArgA=="
 ---

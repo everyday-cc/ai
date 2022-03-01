@@ -40,6 +40,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Azure builds on AT&T’s Network Cloud, offers 5G Core solutions"
+    excerpt: "Microsoft Azure acquired AT&T’s Network Cloud last yearIt has been developing those assets since last summerNow it has a hybrid cloud platform that’s suitable"
+    publishedDateTime: 2022-03-01T12:50:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/azure-builds-on-at-t-s-network-cloud-offers-5g-core-solutions-43786/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/azure-builds-on-at-t-s-network-cloud-offers-5g-core-solutions-43786/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/azure-builds-on-at-t-s-network-cloud-offers-5g-core-solutions-43786/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/microsoft-azure-azure-operator-distributed-services-13819.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "nHdtAEdoHPNdgXb4HRYS5Fn2ACN7fYWSqBOoujZGDTVkf3wRWGRsztkGgvbUwTZ7E8LhH5ANLXdsyKT/7SSno6GpK7xoGIUZ16zwgWvmlH6HaNXw3EDO0+3ZRDesHhHtHE+fDBfRj4ZuiC6ECf6sfRh3u1SuIJRdctblxsI+RGDSOr+tBRQT/n0vd/cE2D3fERSDX89vFIzMDAYy0yF1Ur9Wyt3FYP/Exyasj+VXaZTJvV0yTNdgxdAxweXOzN9Pou71tYDLSE+89g8Ri+oY65BQPHTj5Klp2r0XueqzwJ90zaIHbvKHTb4WcqvCzSwD/2RZS3+fJIuud+NS3C8V+qItvFoSsmT1rAgVphjd8HQ=;FO76L5C71dovdSepruNRhA=="
 ---

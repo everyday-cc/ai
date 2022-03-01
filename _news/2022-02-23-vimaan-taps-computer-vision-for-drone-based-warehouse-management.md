@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vimaan Taps Computer Vision for Drone-Based Warehouse Management"
-excerpt: "Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses."
-publishedDateTime: 2022-02-22T16:18:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
-webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
+excerpt: "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ..."
+publishedDateTime: 2022-02-22T16:23:00Z
+originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
+webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 333
     isCached: true
 
-secured: "E1GnZd6KG5yJpLNX1ZfyQ6RbU4Kw7iQJSlrbk6GiDHuiMgkZzXRlOO8KG4RSfJDqQVb5ortu8XvPrv9v1XLupMWCEpzWVPWVdzK8ITFRDbCCxEyLSfOa4oBno0wNrCBtim1IRGIyM71nCVrIuFa372bHM/ikDx3qZ+HocqfULwsNGnpoZLzLdOFlI9VQIHvrPh29xy+lOe/hvXLF4VOSwY/wUuhaFFbLb8NDsZyD/tFFxiAEfHnBqVfI3cOg+fHcfJXUlY0fElm736AgCa3Rxur/l2v1F4pf8y/8mbC0NAE5ZnrcTsT2J9oSWETj1whGU7P4vHU0/35nygLA/yNXRVFo5gO4H/wvi6IPGVjly9U=;6X+aTYTp/Yap3eK3Aa/CrA=="
+secured: "/LLGs+b7OYs1/zhGG9W+3rGN67oFhX/qa515HE+xVGklyBHiW8sAgYK20WbtQM1kfoT7P8+2ztUWkHvA18tQmJ8/bVb13VWDHUB1QxJbbG5erx7HXGvNR1ZY90O0Ys3W0bZgmgFGPJutRG4a9CPrq3afMNP4bjfiVDJUq/kYKs2NiE9SZPladTv73fNcmlnWD17A6jrefB5KUisazFjV/HYVDLQcsOf7vsO47/J1IvN9ajELOqDIdqqLtKHPQvbJj5s0va/Mh9ZPaQ3m1MbByHzkQcsF1VneLOkUU1/8Xrb6jdtqrHBkivfjESanYBqOu5b+0+1RUuXXVp84X/oQq3dZO7nD8/hIHulvdUQtrh8=;AJqICjh0oBsD+1Mi4WdEBQ=="
 ---
 

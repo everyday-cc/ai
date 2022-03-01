@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/endpoint/deep-instinct-2022-threat-lan
 webUrl: "https://www.darkreading.com/endpoint/deep-instinct-2022-threat-landscape-report-finds-125-increase-in-threat-types-and-novel-evasion-techniques"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -27,13 +27,18 @@ images:
 related:
   - title: "Deep Instinct 2022 Threat Landscape Report Finds 125% Increase in Threat Types and Novel Evasion Techniques"
     excerpt: "Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today unveiled findings from its bi-annual Threat Landscape Report. The Deep Instinct Threat Research team extensively monitored attack volumes and types and then extrapolated their findings to predict where the future of cybersecurity is heading,"
-    publishedDateTime: 2022-02-28T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deep-instinct-2022-threat-landscape-report-finds-125-/2022/02/28/9553488.htm"
+    publishedDateTime: 2022-02-28T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-health-c47dd09b114b441aad4b6f093ac4fdc9"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9aZJSSc6Lz0PHhgzN2i8rdzowEfP12pJNY/qdOGzWHBtX/u4WStUTvDvA40cPokD02r3eX0eTZCyCpR6xGxblU91LzWYCJkqzPZURbU9E/yQ5ekbXQvxhlPAQJwI/XMw8QnenJpc3xbT54z/IvmuatHdfQnnN8psmmJfaSGC6KGGC9G4/o4uoj59YLPFcvROz8usHgrf27Df2xTAg9v7ebY61T8sj3WgYGxt0aVe8i6RVHxe2aixoLbjSe/t256PrXWqmtM6+ls8IDdK/JU1H25vq4yPfrndld8hGfXY9zp4FId6fkCBae7Y7oIV9xjMDC09kEfPgvOILitIP8RUDI00qfN0zGU3NUv/+xB3eV0lyGbkZ5wYG0eDsPRHHb8HN+2YnvpmiT6OL6/hzBv04eFLea3mmp5OXiy2RmjWyzL7lentJS3IWkQeJGnjtSDSfj7rrxXQiYbdPIdpI4TSTyS7KrXO6R6O4qQCvl1dzWVDYI1BWnGsIrnRex5qASkhNQJhKSfFcavMmfd02Z7pSA==;qiJogixx57nB97rvDCIdmQ=="
 ---

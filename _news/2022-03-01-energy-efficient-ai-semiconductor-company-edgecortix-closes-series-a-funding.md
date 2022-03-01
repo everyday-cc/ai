@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding"
-excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A funding. EdgeCortix’s reconfigurable Dynamic Neural Accelerator® processor architecture and AI acceleration SoC SAKURA™ brings best-in-class power-efficiency with near cloud-level performance across infrastructure and embedded edge devices."
+excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A"
 publishedDateTime: 2022-03-01T01:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
+originalUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
+webUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
+ampWebUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
 type: article
-quality: 34
-heat: 34
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L"
+    width: 763
+    height: 509
     isCached: true
 
-secured: "eq+1ra2WWc80CWGUCzwVl6UHruNhaP9yMCmr4KM8Dh4oKd2ooCcVA4GzKeAzIZDszG9Kgoe6YdkwW76FV+HUYpjtNhP368alzr690f1rM/BQzRl9ySA8BSZds7tU9N/vLCl+PKhmEFoorZ3DtO9jk/PJbpjp7PEMLDvNNVSXM26/8O6xKBMkqc+mOkJIV6iMH+oMW3LdFNY82WFjla7diigONtDvhX0jVtAnj7KJMBJWRW9xFuQMPR5Jd/EN+U2vxhHGJvdQiBT2ivPn5QUshAClCPR2mC2ecS3Y8XPe+OBw+/uFK70DfZqvf5FQFvG2T/BNsQtSRVZuxl1MCQbmsnpGZXTTAIHBJYM33re6Kdc=;zJvJewschKIUlUCVEX1zsA=="
+secured: "4SYZ9N+onuBi8mhlqisUS+bO2paYBQY0j5TcjDGtCFXMg9vtMNVoQ+2q+He7LNZ5cFsVurVqALOT9thSUFkmC7T7CLfaJM/ram1awKXM2I74hmen1zm6Wuap+zxYyRmUJObgNpSYZ5tVW1z2UQIelrOUITWQSgjmU0vVEwelhRxr9vcvKWKI4so4lztTnT6ByOo5f6vyWPulSmAijF5VVY3y95QpB0ifyW6FNXgenGt+jwQslVvDU6dQRJZqPWt5Ck4hADaYfx3E1VA6WozFwkizuyM9Kox0YLek5mB9m7MM15nhSiMS/to+AiVnwnHH0aRtOb7maJHvY9ztFjmvbGz+YMM4wIiHnpTXH8FiCmM=;9di7p14HcTFgZmyLNQvXSQ=="
 ---
 

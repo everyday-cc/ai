@@ -45,17 +45,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Firefighters relying on artificial intelligence to fight California wildfires"
-    excerpt: "Firefighters are teaming up with data scientists and artificial intelligence experts to battle the growing threat of massive wildfires in California."
-    publishedDateTime: 2022-02-24T20:41:00Z
-    webUrl: "https://abc7news.com/artificial-intelligence-wildfires-wifire-lab-burnpro-3d/11596528/"
-    ampWebUrl: "https://abc7news.com/amp/artificial-intelligence-wildfires-wifire-lab-burnpro-3d/11596528/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/artificial-intelligence-wildfires-wifire-lab-burnpro-3d/11596528/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 36
 
 secured: "9Wms6d+EaGKX3Vleq8KbyWulh/oHM90J6veA91/L/dJHCYLb0i2ChGX5O2vCsOJOVOSIK4wZKiBFQm/zLgXpf1MSou2vWMRXNjpvUa46O6mcMt6pEa5RDMaNVbrxD4adJZdANjfC6rhLMxroBHWopjMJtPeokRLSd+aut7kTYuhdchfnilwXee7AcrO5t6d4PZd6CL/nTd33FbK4fxXb33AypBhahRAXa1+b1HSaKj2c5OTUd9pguBlwJacJhu1nzffd29kHRffSGfXeXVJEdXngQ8U2P+X/CmyZooL2Oej14n6QepXjxa9lJAJF2M5XETwbEzX1OmBEtD+Fwizv0Fj6nzS7g1LLkHY+RpuMXFE=;f5bmc5bFEkWHu++iWyXaeg=="
 ---

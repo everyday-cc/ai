@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai
 webUrl: "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Azure builds on AT&T’s Network Cloud, offers 5G Core solutions"
+    excerpt: "Microsoft Azure acquired AT&T’s Network Cloud last yearIt has been developing those assets since last summerNow it has a hybrid cloud platform that’s suitable"
+    publishedDateTime: 2022-03-01T12:50:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/azure-builds-on-at-t-s-network-cloud-offers-5g-core-solutions-43786/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/azure-builds-on-at-t-s-network-cloud-offers-5g-core-solutions-43786/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/azure-builds-on-at-t-s-network-cloud-offers-5g-core-solutions-43786/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/microsoft-azure-azure-operator-distributed-services-13819.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AT&T and IBM Bring the Power of 5G, Hybrid Cloud and AI to Drive Innovation for Clients Across Industries"
     excerpt: "AT&T and IBM have been co-innovating and helping enterprise clients transform for more than 20 years. Most recently, the two companies announced plans to"
     publishedDateTime: 2022-03-01T04:44:00Z

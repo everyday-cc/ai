@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-te
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Infoline
@@ -41,15 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Enabling 6G: from low-power technologies for communication to machine learning analytics for privacy preservation"
-    excerpt: "IMDEA Networks has recently been awarded the coordinated project ENABLE-6G of the national call UNICO 5G. The project consists of two sub-projects, RISC-6G and MAP-6G, and it will be developed by a group of researchers led by Dr."
-    publishedDateTime: 2022-02-24T19:22:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944622"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "b5+81SIiOro49tPfNcSxNY7rXBgLZoLd08OUg0DGS/6WuqVTXLv8utSK0Q7udN7YWtnNYC6dh5WmwWN7ImkjF4iGyQkMGTCAyE9Y/l2GjyFHCFGtjGVuWvue5/QnWotx+BkxflkZ/P4lDZ2JhnkViSex9euft84yTRjHxYsRBbrhYobcswLUpRZ4pJNqKqsx7HS4yoMDyQg+hzgR3adNZdgeNW94OdIeSTuHXKH77LhI/nAKXAcHJsE2CpyujUmzvoh3ETN/pLhn1nUCQTU7mwpAz9t7tC/zWGr90cXo47guY8RmDNQ+tjU52GawBOq+t0G8K4ksFZD2izcs/ZBSQwdBkMe/psgNCHIzqIKjqXDUYHWZ+QJvNXjaErsxRBGfjWWBIu6NI2OqlXoZt+c9fi3Ihz0VGRWqvRffDSd9JermBVARS8yrSx7K4KAUrsj+LJJHHBwV73jswF34t7Kqbvb8hl8HHO/iMH+OksGDdHpWrX/+6PghK+E4MRYcNw5BXyE6WKB60fKCcU+mHzhBhg==;3vl8KhUhC9bZw0h3vjvK/g=="
 ---

@@ -39,6 +39,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Healthcare Market is projected to reach $194.4 billion by 2030"
+    excerpt: "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ..."
+    publishedDateTime: 2022-03-01T11:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
+    excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
+    publishedDateTime: 2022-03-01T11:31:00Z
+    webUrl: "https://menafn.com/1103781763/Enterprise-Artificial-Intelligence-AI-Market-is-Expected-To-Reach-USD-5917-Billion-By-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2022-03/01/EP_7d5d0image_story.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Machine Learning Market size is projected to reach USD 48 Billion by 2027"
+    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Machine Learning Courses"
+    publishedDateTime: 2022-03-01T11:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-size-is-projected-to-reach-usd-48-billion-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Healthcare Virtual Assistant Market To Reach USD 2.83 Billion By 2027 | Reports And Data"
     excerpt: "The rising integration of artificial intelligence in healthcare, growing demand to improve healthcare facilities and increasing funding for improvement in"
     publishedDateTime: 2022-02-27T22:44:00Z
