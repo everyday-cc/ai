@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Company Provides Direct Financial Data; Interview with Sohaib Zahid Co-Founder and CEO at Railz.ai"
+    excerpt: "Railz is a fintech company with the aim of building the largest financial data network. The company recently raised $15M in funding. Railz was accepted into the FIS 2021 Accelerator Program, while Visa announced the expansion of their Fintech Partner Connect program which includes Railz."
+    publishedDateTime: 2022-03-01T21:20:00Z
+    webUrl: "https://techbullion.com/fintech-company-provides-direct-financial-data-interview-with-sohaib-zahid-co-founder-and-ceo-at-railz-ai/"
+    ampWebUrl: "https://techbullion.com/fintech-company-provides-direct-financial-data-interview-with-sohaib-zahid-co-founder-and-ceo-at-railz-ai/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-company-provides-direct-financial-data-interview-with-sohaib-zahid-co-founder-and-ceo-at-railz-ai/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/03/TechBullion-Railz.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Why New Age investors pursue asset allocation with support of fintech industry"
     excerpt: "The customer receives fact-based counsel since AI is data- and insight-driven and free of subconscious prejudice. And it is exactly what India's financial services sector requires: transparency and openness. The goal of new and rising fintech businesses is ..."
     publishedDateTime: 2022-02-26T11:13:00Z
@@ -46,7 +62,7 @@ related:
   - title: "Edge Focus Bolsters Fintech Expertise with Multiple Strategic Appointments"
     excerpt: "Edge Focus, a technology company that applies machine learning and artificial intelligence to analyze credit, is pleased to announce the appointment of Neel Mehta as Chief Marketing Officer, YeeMan Bergstrom as Principle Data Scientist,"
     publishedDateTime: 2022-03-01T15:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-be2b97e7d0c843ee9b117846952a1f00"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-be2b97e7d0c843ee9b117846952a1f00"
     type: article
     provider:
       name: Associated Press

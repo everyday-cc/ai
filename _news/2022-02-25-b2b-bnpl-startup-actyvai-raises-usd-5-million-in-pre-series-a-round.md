@@ -7,7 +7,7 @@ originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/
 webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/b2b-bnpl-startup-actyv-ai-raises-usd-5-million-in-pre-series-a-round-122022500085_1.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fraud Prevention Startup nSure.ai Raises $18M in Series A Round"
+    excerpt: "Fraud prevention platform nSure.ai has raised $18 million in Series A funding, led by MoreTech Ventures with additional investments by"
+    publishedDateTime: 2022-03-01T19:25:00Z
+    webUrl: "https://www.corporatecomplianceinsights.com/fraud-prevention-startup-nsure-series-a-round/"
+    type: article
+    provider:
+      name: corporatecomplianceinsights.com
+      domain: corporatecomplianceinsights.com
+    quality: 39
+    images:
+      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2022/03/series-a-funding-nsureai.jpg"
+        width: 1500
+        height: 1125
+        isCached: true
   - title: "nSure.ai Raises $18M in Series A Funding"
     excerpt: "Sure.ai, Tel Aviv, Israel-based fraud prevention intelligence platform that is purpose-built for virtual goods, raised $18m in Series A funding"
     publishedDateTime: 2022-03-01T17:12:00Z
@@ -38,19 +52,19 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Industrial AI startup ExactSpace Technologies raises USD 1.4 million as seed funding"
-    excerpt: "The company’s AI platform Pulse brings solutions to their clients that combine machine learning and industry knowledge."
-    publishedDateTime: 2022-03-01T14:03:00Z
-    webUrl: "https://analyticsindiamag.com/industrial-ai-startup-exactspace-technologies-raises-usd-1-4-million-as-seed-funding%EF%BF%BC/"
+  - title: "Real-Time Fraud Prevention Intelligence Platform nSure.ai Raises $18 Mn Funding to Revolutionize Business in the Virtual Economy"
+    excerpt: "Alex Zeltcer CEO Co-founder (Left) and Ziv Isaiah CTO & Co-founder (Right) Round A funding led by MoreTech Ventures and multiple"
+    publishedDateTime: 2022-03-01T16:52:00Z
+    webUrl: "https://www.indianweb2.com/2022/03/real-time-fraud-prevention-intelligence.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 10
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-3.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjgF8qFH-jifWsLI4aMuHYO9Ry6ZcVd4oPJhlbjJ740AppYV-J0w8Rnbtt_53qHmqZlxlgGmTppLFVX02PrEtw9eZ6C_IWJckmxjepdrX5P6PrSCWHBlRMgvUlWRHzsJc4FJDWn7pvLr1mlEnOXjIrgPBcsyyYnbgmSCJBljsiLbq9ATTJhboV750_V=s16000"
+        width: 900
+        height: 580
         isCached: true
 
 secured: "tlnBBHoIXs92+q8lGdNkMTuWKx8Hfhstmx19Xppr13UqdIKdS2i4GrkUEEGvp7/yM6fqxT0uuwgFfqGugi5JwBJVdWxqr7x0RNVGuQ6R+3WicaBfPyTr8+y8Y5W6bKWMqITUcZDQzKFvmSiFg1heuuFTs1KOUKN/X9wyFyPKFRmbRzPqjw3P4NZOBBL5gSaPyrtGujjnGn1BEzxfhdubhCEKmlYY+piigSf6AcpsRyOlvLjWD+UyaOwCgPKGT0WQoG0MHeoDrwhaF4R221fePqcx7nMTcfmFODI2ZBOOIftNj7TztKeOvbjO5PnKmBb7tdPLN4POi1w88TSU8AR0P47QX8W4eejJ+8etsXEjgRzmzQ0+HBStSgKqGaH26LN1/3K91o9rqgHwfAUtXjGB+D0yBW++9EkZUjML6v1lwyPBAj2bMdwtz2hsW2CSwxIGspYLVSuqR0+sZ2rtkxPfsroDNt7UUXnehc68RfT7bwQPMe6i5zygERcyhCnawqDfwdZ48mSCUue9ikV0dgSBdQ==;NU0JqpfMMCO6OacjfGC3yQ=="

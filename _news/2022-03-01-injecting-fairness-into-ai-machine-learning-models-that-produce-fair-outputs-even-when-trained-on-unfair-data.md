@@ -41,6 +41,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Zest AI Releases New Race Prediction Model To Reduce Systemic Bias In Lending"
+    excerpt: "Zest AI, a leader in software for AI-driven lending, today announced the launch of Zest Race Predictor (ZRP). This open-source machine-learning algorithm estimates the race/ethnicity of an individual using only their full name and home address as inputs."
+    publishedDateTime: 2022-03-01T16:02:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b82e9c4fca1ac7c0a8db8d2538ff2c8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "WlOwodglZOz3GbEes2AGwSkPMQuIlESlzax1+QvtiSuUmRrmdjpeNOYG2Atwn4qEwYG/U+5V/Z6EH0Fi1Czuct1vAwcrRNlV7stBHzX8AsJ8u6ljjVGtnMvQ4BsI7jL1+7iL8izZaENbQ3QCsd/HtCyfFc47+hxm2Te0utEdD474qmTSM5QsaFppXSs6nkCzQUMLdsNHbw/GBCFGp6tYCLPjAv3nEJe72TOuJSwDo2GeI4kuG8aNcJg1SloR0PXFqDd41JYGeBPGdYUa1d7Bl8AVvEoNjnRfCKdZIT2CL+iOBkv7tc28KbKuYq1iruRuRERsjj9P++tl+H1iJE/NsCVvesMY8NzhOWRrRUL7Rjz0dFlWoXX6A0bzZdKOUb8K6JkHNUOupgJecX78ILFV0dGrxWR3bzg649n4VFqYVM6Ot1EyMEGdxSbQB/eyAasz1sZCFszxQxfJuvmPlt1KB0B22OmRldRjhtSYgAvOsQ5c2/nuMtAtSqffhIwzTRg07iZTjhB70vHjkF80FKxy5g==;3SRoYnjGfFquBzDSC/oS3A=="
 ---

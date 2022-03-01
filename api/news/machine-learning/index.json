@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-02-ai-and-machine-learning-could-improve-cancer-diagnosis-through-biomarker-discovery.md",
+      "title": "AI and machine learning could improve cancer diagnosis through biomarker discovery",
+      "excerpt": "Artificial intelligence (AI), deep learning (DL), and machine learning (ML) have transformed many industries and areas of science. Now, these tools are being applied to address the challenges of cancer biomarker discovery, where the analysis of vast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220301/AI-and-machine-learning-could-improve-cancer-diagnosis-through-biomarker-discovery.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220301/AI-and-machine-learning-could-improve-cancer-diagnosis-through-biomarker-discovery.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220301/AI-and-machine-learning-could-improve-cancer-diagnosis-through-biomarker-discovery.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220301/AI-and-machine-learning-could-improve-cancer-diagnosis-through-biomarker-discovery.aspx",
+      "publishedDateTime": "2022-03-01T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
       "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
       "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
@@ -55,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
-      "title": "Machine learning improves human speech recognition",
-      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
+      "path": "_news/2022-03-02-injecting-fairness-into-machine-learning-models.md",
+      "title": "Injecting fairness into machine-learning models",
+      "excerpt": "If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin, there is serious risk the model's predictions will be unfair when it is deployed in the real world.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "webUrl": "https://techxplore.com/news/2022-03-fairness-machine-learning.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-fairness-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
-          "width": 2880,
-          "height": 1620,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/injecting-fairness-int.jpg",
+          "width": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,9 +120,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
-      "publishedDateTime": "2022-03-01T08:00:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-fairness-machine-learning.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-fairness-machine-learning.amp",
+      "publishedDateTime": "2022-03-01T08:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore.com",
@@ -93,9 +136,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -295,19 +337,19 @@
     {
       "path": "_news/2022-02-24-deep-learning-poised-to-improve-breast-cancer-imaging.md",
       "title": "Deep learning poised to improve breast cancer imaging",
-      "excerpt": "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. In Optica, Optica Publishing Group’s journal for high-impact ...",
+      "excerpt": "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. \"The near infrared spectral tomography (NIRST) and MRI imaging ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944066",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944066",
+      "webUrl": "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0ae14217-666d-4f6f-8604-0611f535c7ac/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-poised-t.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -315,13 +357,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T07:01:00-08:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp",
+      "publishedDateTime": "2022-02-24T07:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1393,49 +1435,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle.md",
-      "title": "Neural Network Market Trends and Opportunities 2022-2028 | Google, IBM, Oracle",
-      "excerpt": "In this sense, a neural network represents a system of neurons, either organic or artificial in nature. The growing number of cloud-based solution implementations is driving the neural networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle",
-      "originalUrl": "https://www.digitaljournal.com/pr/neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

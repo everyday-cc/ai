@@ -1,20 +1,20 @@
 ---
 category: news
 title: "On cusp of Biden's State of the Union speech, a state of disunity, funk and peril"
-excerpt: "Biden will step up to the House speaker's rostrum to address a nation in conflict with itself. The country is litigating how to keep kids safe and what to teach them, and suddenly plenty worried about Russian expansionism."
-publishedDateTime: 2022-02-28T21:20:00Z
-originalUrl: "https://www.kcra.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-webUrl: "https://www.kcra.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-ampWebUrl: "https://www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+excerpt: "Biden, in his speech, will highlight the improvements from a year ago — particularly on COVID-19 and the economy — but also acknowledge that the job is not yet done, in recognition of the fact that many Americans don't believe it. A year into Biden's ..."
+publishedDateTime: 2022-03-01T00:35:00Z
+originalUrl: "https://www.wlky.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+webUrl: "https://www.wlky.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+ampWebUrl: "https://www.wlky.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WLKY
+  domain: wlky.com
 
 topics:
   - Natural Language Processing
@@ -108,6 +108,6 @@ related:
         height: 763
         isCached: true
 
-secured: "nqQK0OYCKN+zYFgxFTAxMwM8X5CKQc07iVgNxnPne+EgkzBqrYwwLiifF2eaRR14vame/Zn2OLoMfVJU5vEY7+8eCsbrI4cJCsSeTmfSyd4x9QkABIj52iDLo62f2Eaak59iXv7E1U4eNAN5xnY184W9UND8FPvMh7VXrWq01nwpMKAWQ9l0fPeDWzWT13GD2/BClwHIG4w3TL/J9Walgw/Xpo5n9/UKywNPB0sjpWAdWaU509hAuSVw+iT4CZWS0N3bi+slGnCHWAOHaO3s2xg0cyPbtCcKKPTRoj2qvxww2z8DIVcAmN/JaGzBFZSJcWqoFRkPMgG+AogY5K2Hgon4mOkhu0RmjXNhIbDbUPQ5W52VzziIpVVve90Lw2b17FZBgS+fvFJCewsD5aYWJc8oIx83KeNnMpXY5Hlb/t38UyLcV2Aww4vqs/c9j/2ziGiNd8jtOdOWobMiaW36A1j1hkIAgOaI4dLyjJZAXGYT1NTwu9u3yMt7HELLd5WWFv3XQ6FXhwn/0D0OsBdjmw==;XhXryD0bkUvdphAdXGXcOg=="
+secured: "+R6Zc373JQyG1l63CAPSJuEKAMJwPruKhTjd676EOmKrJu0YY4KeQfJZ65H17ignmcWEnmJnM5WmqNnauwJ5YxsIuQeV+ap8hX6uErBOqAedUg2j03f7udvkHG+Tkx0/SKBKYZPoYKTzidOeebEnutC7hTddE5hBIC7wjwsXaBdHeXPTHdc197ubEtb1iPEgTn1C1NPsZU60zKPyVHITFXUlinISZBUCv4+pSR3G4BWYaNQYmuapnQEq5cMC2DGRckk2G6MPHwpg9t3YK208GXJggEtm8t2ubI/pXbOqEXCoaNXKIDd2G0bHCBcBo/myj/sstCmpGpM/hh70Fd4BSzmkfiJ2DRVADb8p0IkvcuY=;O/inTBuS2DXaG39maytxbQ=="
 ---
 

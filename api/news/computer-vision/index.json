@@ -106,7 +106,7 @@
       "originalUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -189,33 +189,24 @@
     {
       "path": "_news/2022-02-25-new-acm-techbrief-spotlights-privacy-ethics-problems-with-facial-recognition-technology.md",
       "title": "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology",
-      "excerpt": "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
+      "excerpt": "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html",
-      "originalUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html",
+      "webUrl": "https://www.eurekalert.org/news-releases/944603",
+      "originalUrl": "https://www.eurekalert.org/news-releases/944603",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg",
-          "width": 1920,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp",
-      "publishedDateTime": "2022-02-24T09:45:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T09:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -225,9 +216,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "AI Ethics"
       ]
     },
     {

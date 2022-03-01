@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/mininggeo0103-1038x778.png"
         width: 1038
         height: 778
+        isCached: true
+  - title: "As privacy concerns arise, organizations using facial recognition technology spend on lobbying"
+    excerpt: "At least 32 companies and organizations lobbied Congress, federal departments and the White House on facial recognition and biometric technology in 2021, according to Lobbying Disclosure Act filings. Facial recognition, the controversial technology that ..."
+    publishedDateTime: 2022-03-01T22:10:00Z
+    webUrl: "https://www.opensecrets.org/news/2022/03/as-privacy-concerns-arise-organizations-using-facial-recognition-technology-continue-to-employ-lobbyists"
+    type: article
+    provider:
+      name: OpenSecrets.org
+      domain: opensecrets.org
+    quality: 27
+    images:
+      - url: "https://cdn1.opensecrets.org/news/wp-content/uploads/2022/03/01161816/Screen-Shot-2022-03-01-at-4.16.23-PM.jpg"
+        width: 1818
+        height: 1110
         isCached: true
 
 secured: "Kw+r2kmdwXS1xoE+yXPzM5CldDHc5Lpd160TYZPWfQ6nUVHT1+wnHLKww+WGulF490W+mrrwFNOYHUKiyhNwoHYjPoEBTsKxi2AUSLez7lWUaGl2mU0l81+ADM8x4z4xRhD+rV6XIImGTyXNZIsXHh7Ak4Z37Lj70RLpgYU3oxt4adftBpcqANEtKcm8ZkMyzIgCvvb1ec2aTRxq2V4Z0rT76pBAXBkTpcnv3QlVXVdP+O5fBDvXkG1wILFLj2scsS8v3DJwwWWd+WChBVLoywMf7M65VTgtUtIAM0Re+qF8moiswIcc04TeSmvhkGd8bj+5J/Rh/w56la/x1SOf+aog/KpZXDJMvVW+omhxL/EEnvSMzCzaJ2nQdMIZTchf3cL22+BhUFlLczPv4vSmAkEKXbX6qKmpLkzmaLR0L4H2UZGvCLR5Al457ljtipqswObCm9J0FklpIya8PqBt+0wwg4hOCce82SmqnK8Ml2IEkaQaCjmzdag88idv98pchXVx6sR67tNyxjF7vI6eDA==;KvbbMZ87dRdkFf5ruWLajg=="

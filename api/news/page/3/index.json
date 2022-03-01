@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-26-exclusive-uber-revamps-driver-pay-algorithm-in-large-us-pilot-to-attract-drivers.md",
+      "title": "EXCLUSIVE Uber revamps driver pay algorithm in large U.S. pilot to attract drivers",
+      "excerpt": "Uber Technologies Inc is testing a new driver earnings algorithm in 24 U.S. cities that allows drivers to see pay and destinations before accepting a trip and raises the incentives for drivers to take short rides in an effort to attract more drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/exclusive-uber-revamps-driver-pay-algorithm-large-us-pilot-attract-drivers-2022-02-26/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/exclusive-uber-revamps-driver-pay-algorithm-large-us-pilot-attract-drivers-2022-02-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/mnHbX6rFWqCkbKma-w5E5GSpuE8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MSAXA7SQPBPKTBU5YK4YL626WA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-25T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-26-why-ai-is-a-small-businesss-best-friend.md",
+      "title": "Why AI is a small business’s best friend",
+      "excerpt": "Both on the cloud and in the traditional data center, new services and software releases are bringing advanced AI tools to small businesses in low-cost, easy-to-use formats that don’t require rare and expensive skillsets to operate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/",
+      "originalUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/business-delivery.GettyImages-1198253818.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/why-ai-is-a-small-businesss-best-friend/amp/",
+      "publishedDateTime": "2022-02-25T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-26-pittsburgh-pa-project-to-become-hub-for-robotics-ai.md",
+      "title": "Pittsburgh, Pa., Project to Become Hub for Robotics, AI",
+      "excerpt": "Work is underway to transform the LTV Coke Works plant in Pittsburgh’s Hazelwood neighborhood into a hub for robotics, AI, life sciences and similar ventures. The work will include a 150,000-square-foot Robotic Innovation Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
+      "originalUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/3fb5e13/2147483647/strip/true/crop/5120x2670+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fef%2F28%2Fe509fe964ebbbed9678d215bb674%2Fshutterstock-1501235957.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
+      "publishedDateTime": "2022-02-25T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-26-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
       "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
       "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
@@ -156,7 +301,7 @@
       "originalUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1062,143 +1207,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-new-acm-techbrief-spotlights-privacy-ethics-problems-with-facial-recognition-technology.md",
-      "title": "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology",
-      "excerpt": "The Association for Computing Machinery's global Technology Policy Council (ACM TPC) today released \"ACM TechBrief: Facial Recognition,\" a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html",
-      "originalUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg",
-          "width": 1920,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-acm-techbrief-spotlights-privacy-ethics.amp",
-      "publishedDateTime": "2022-02-24T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-plant-based-milk-uses-ai-to-formulate-the-perfect-sip.md",
-      "title": "Plant-based milk uses AI to formulate the perfect sip",
-      "excerpt": "Sustaining life for nearly eight billion people is a heavy task for any planet, as Mother Earth is repeatedly reporting. When it comes to food production for the masses, we’ve got to start being more conservative,",
-      "sourceUrl": null,
-      "webUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
-      "originalUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2022/02/1616698769484-889x592.jpg",
-          "width": 889,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
-      "cdnAmpWebUrl": "https://inhabitat-com.cdn.ampproject.org/c/s/inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
-      "publishedDateTime": "2022-02-24T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inhabitat",
-        "domain": "inhabitat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-mercedes-benz-to-offer-hands-free-traffic-jam-assist-in-us-this-year.md",
-      "title": "Mercedes-Benz to Offer Hands-Free Traffic Jam Assist in US This Year",
-      "excerpt": "The German automaker's Drive Pilot offers Level 3 conditional autonomy that works at low speeds in heavy congestion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/4uJmfPjtw5_jInExXeyBGsNsUBY=/2022/02/24/6ac5ea1c-fa4f-43a9-b849-389ed7854931/mercedes-benz-drive-pilot-hands-free-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
-      "publishedDateTime": "2022-02-24T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

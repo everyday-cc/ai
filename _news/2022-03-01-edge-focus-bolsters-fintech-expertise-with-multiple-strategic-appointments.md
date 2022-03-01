@@ -3,8 +3,8 @@ category: news
 title: "Edge Focus Bolsters Fintech Expertise with Multiple Strategic Appointments"
 excerpt: "Edge Focus, a technology company that applies machine learning and artificial intelligence to analyze credit, is pleased to announce the appointment of Neel Mehta as Chief Marketing Officer, YeeMan Bergstrom as Principle Data Scientist,"
 publishedDateTime: 2022-03-01T15:29:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-be2b97e7d0c843ee9b117846952a1f00"
-webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-be2b97e7d0c843ee9b117846952a1f00"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-be2b97e7d0c843ee9b117846952a1f00"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-be2b97e7d0c843ee9b117846952a1f00"
 type: article
 quality: 22
 heat: -1
@@ -41,6 +41,22 @@ related:
         width: 960
         height: 1280
         isCached: true
+  - title: "Fintech Company Provides Direct Financial Data; Interview with Sohaib Zahid Co-Founder and CEO at Railz.ai"
+    excerpt: "Railz is a fintech company with the aim of building the largest financial data network. The company recently raised $15M in funding. Railz was accepted into the FIS 2021 Accelerator Program, while Visa announced the expansion of their Fintech Partner Connect program which includes Railz."
+    publishedDateTime: 2022-03-01T21:20:00Z
+    webUrl: "https://techbullion.com/fintech-company-provides-direct-financial-data-interview-with-sohaib-zahid-co-founder-and-ceo-at-railz-ai/"
+    ampWebUrl: "https://techbullion.com/fintech-company-provides-direct-financial-data-interview-with-sohaib-zahid-co-founder-and-ceo-at-railz-ai/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-company-provides-direct-financial-data-interview-with-sohaib-zahid-co-founder-and-ceo-at-railz-ai/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/03/TechBullion-Railz.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Why New Age investors pursue asset allocation with support of fintech industry"
     excerpt: "The customer receives fact-based counsel since AI is data- and insight-driven and free of subconscious prejudice. And it is exactly what India's financial services sector requires: transparency and openness. The goal of new and rising fintech businesses is ..."
     publishedDateTime: 2022-02-26T11:13:00Z
@@ -72,6 +88,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Zo1uhOLKNMa2rzKiNsu6Es0ndLfpR+n+U3ndXtWnhFYOgBybGdqt26ReniT4ymGMVtwHPkoTF9MiC8Ncms8Sy7THm4LrrCN7xLItY5jsteX5PirvaqkWVUPMyBkACU8Zdr8DxUnqV+tbzIrl+FsPzHG5k3ovoVn3tMNNZmEMhfGC4z9xOgB1MhN1OmJSmHr5A/YteJUdb7X/IEP4+ruLtEcEJA179qyx1Igsy6+zY8mGxHNo9Mwnp07PtGg65b0Ccy25mG+jO3leRvhVKjIRr3CS8nyO24iZJdIwRZ2cOSDIkRJVPkfHYhcxsVWwdrCKFHfSpq7II7qbiXhg792vam2tGjfi0HH2iagHGDf8/JQ=;8tkGt8pm9le8bmMq0PzDRw=="
+secured: "5YMZg+FeC3y8kqjjcJKxn27YE+TQbSjLGmM4lnlFiNApgMLIUc8zdUwXx9l/3xHzqC+q5AV8mRLVDz4gOayAFuYx/tL0unegB04ZTx5tkDj5sT6Tc6SK5t5wjUn9IPODjrnhoxW8BAhbdKaar9ocrAv12CZ+Fb11qif4xK5+G19M49YJEooQWMXxoHhNo4wfNbbJ28Hal0LjwIuGXUjrGZrn7mWQwJryjQmZDzfEEIufgJXMABG7tuj19w+3tBf+q1sR4FliZNc2af7x23L8IB4KXMpVjL/c1DHpB/BnD0teigTNzNLcIUDJtMeBsapcNj7xQbvStng91rjlYYtV1BzSRa039fcAPs8QMV82ZuE=;9BdVtIw//4/JJZCMhOXC6g=="
 ---
 

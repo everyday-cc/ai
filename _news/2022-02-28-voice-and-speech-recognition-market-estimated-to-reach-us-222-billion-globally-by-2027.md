@@ -25,89 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Cleaning Robot Market Size to Reach USD 36.63 Billion in 2028, Says Reports and Data"
-    excerpt: "The global Cleaning Robot Market size is expected to reach USD 36.63 Billion in 2028 and register a revenue CAGR of 22.4% over the forecast period,"
-    publishedDateTime: 2022-02-26T00:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cleaning-robot-market-size-to-reach-usd-36-63-billion-in-2028-says-reports-and-data"
+  - title: "Cognitive Media Market Research Report (2022 to 2027) – by Process Type, Material, Application and Region"
+    excerpt: "4.1.2. North America Cognitive Media Market, By Application 4.1.3. North America Cognitive Media Market, By Technology 4.1.4. North America Cognitive Media Market, By ..."
+    publishedDateTime: 2022-02-28T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-research-report-2022-to-2027-by-process-type-material-application-and-region-2022-02-28"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
-    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
-    publishedDateTime: 2022-02-28T12:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
+  - title: "Worldwide Artificial Intelligence in Medical Diagnostics Industry to 2027 - Advancements in AI and Deep Learning Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence In Medical Diagnostics Market Research Report by Technology, by Service, by Diagnosis Type, by Diagnostic Tool, by Application, by End-User, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-02-25T11:02:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=622413"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Exoskeleton Market to reach USD 7.93 Billion by 2028 | Reports and Data"
-    excerpt: "The global exoskeleton market to reach USD 7.93 Billion by 2028 at a CAGR of 43.4%, according to the latest report by Reports and Data. Rising number of"
-    publishedDateTime: 2022-02-28T07:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/exoskeleton-market-to-reach-usd-7-93-billion-by-2028-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Cognitive Computing Market Size Estimated to Reach USD 148.12 Billion at CAGR of 27.70%, By 2028"
-    excerpt: "USD 20.43 Billion in 2020, CAGR of 27.70%, Increase in demand for cognitive computing in healthcare end-use verticals. NEW YORK, NY, UNITED STATES, February 25, 2022 /EINPresswire.com / -- Increasing demand for cognitive computing in the cloud deployment mode coupled with high investments in R&D of cognitive computing are fueling the market growth."
-    publishedDateTime: 2022-02-25T14:59:00Z
-    webUrl: "https://menafn.com/1103762773/Cognitive-Computing-Market-Size-Estimated-to-Reach-USD-14812-Billion-at-CAGR-of-2770-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?659601"
-        width: 354
-        height: 249
-        isCached: true
-  - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
-    excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
-    publishedDateTime: 2022-02-27T23:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/electrocardiograph-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
-    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
-    publishedDateTime: 2022-02-27T20:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 4
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "+6vQplVY63Olxi/Zhj9wTYEhY2qjNhuMqCn/dpLQXodb6CyvZDumIJVBRLiUdOJERQiSkN3FIW3Sw+L9WgyULgSYOkG/hurG63NYwBGzWSMuXm0zMTyt1I8avaCsPNRvi5dsU/BdGn68CaAl8xfXb1ai4FTmJI1P0i7hNaOve2eA1YOQbtREHn/x+5uLZDn5FdNidpFfd676rIgH6zqohH95MH9NYYQf+CjjIvSfkaMmVIErF75cyJR257ENM9ycvNXOIiXuKLE3kU7czhdYpvqs+ptbb1aWh/VlB2f8yS55BUXDLbmrE+cnylb7WSAD4Bezc2CFDzmiJ6W0IVchNyoVR26GTKAh6X/zRNjZw/8=;lvKp2U0Z3t8BZsSu5KCexQ=="

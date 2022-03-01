@@ -53,7 +53,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 66
+    quality: 68
   - title: "AI research center goes operational in Brazzaville"
     excerpt: "Prime minister Anatole Collinet Makosso of the Republic of Congo has expressed “immense gratitude” to the leadership of the United Nations Economic Commission for Africa (UNECA) for choice of Congo to host the first-ever African Research Centre on Artificial Intelligence (ARCAI)."
     publishedDateTime: 2022-02-27T15:18:00Z

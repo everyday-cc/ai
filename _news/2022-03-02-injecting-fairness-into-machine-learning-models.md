@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-fairness-machine-learning.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Zest AI Releases New Race Prediction Model To Reduce Systemic Bias In Lending"
+    excerpt: "Zest AI, a leader in software for AI-driven lending, today announced the launch of Zest Race Predictor (ZRP). This open-source machine-learning algorithm estimates the race/ethnicity of an individual using only their full name and home address as inputs."
+    publishedDateTime: 2022-03-01T16:02:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b82e9c4fca1ac7c0a8db8d2538ff2c8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Injecting Fairness Into AI: Machine-Learning Models That Produce Fair Outputs Even When Trained on Unfair Data"
     excerpt: "A new technique boosts models’ ability to reduce bias, even if the dataset used to train the model is unbalanced. If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin,"
     publishedDateTime: 2022-03-01T11:21:00Z

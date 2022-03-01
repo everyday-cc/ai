@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilli
 ampWebUrl: "https://www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Africa’s first AI research center inaugurated in Congo"

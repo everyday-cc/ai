@@ -3,8 +3,8 @@ category: news
 title: "MLSE to roll out new AWS-powered fan experience platforms for NHL, NBA, MLS and CFL teams"
 excerpt: "Technology partnership between MLSE and AWS to also create mixed reality experiences for fans at home and in venues."
 publishedDateTime: 2022-03-01T14:44:00Z
-originalUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/"
-webUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/"
+originalUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=news"
+webUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=news"
 type: article
 quality: 10
 heat: 10
@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "/PN8tdXtOYxX3w5CNrpYde/y218aIX9jW1bkTt+P9kQrJ6aJRye7MohSIV0z0QZAehJWEeUkyyjmYoiWVN6+FPTcj2bV6Ce6Dior/bXp1IE9Lc1cOEETPCW/4e6//cZTp/uQR3wftCgMpD5HwmYG/DnvI67A8xgkCI0lQ8lDAg0iFZbnjUEl8f3/Ff6UktD7GbxXKlZGAUgstOUGzZ5vUBTV92UkelkD7JsTFCOrfyc8lrzY/QEkj68jbsX/zQZ4I5b7jQ7erMXrzNgVGdM3dnOa6lztDJX+KPxwKMvsmm83QbxXli3nyp8DdzGneTI4frC5r27/EXwKtgRdmk+erTXL9Xyp1tIAU06Ce2GASVYvL59PBW8ZuQ8zItSfkrGMKrRMxTNUQE1r7dWTLumUor7xb4M/84zDqOxn2nHGsJlRVZE/v984FDhRiQGoUxUBgSpriqulgGoF8n4sGZLIVSQNC8oBUpiT6B/O3BpR5Mi1Ibzz3nArNYj+FPByXves93rIheR63xDLhww1t12Naw==;HcEFRjZ+6ctyzBimbZw8Vg=="
+secured: "kfwly6b+BMDfPmBfxV7oW7PwbrCDXdZk1VLrNS1p+f95YvZ8ECxcG4Ht4Czg+SsrYIVBKcO3fb0FshUIaseU05JNM91guw7QLmfAxV7fhsf3I68pr6F5qzVAu53P7gVoCiOk+BxofdvpfYjpjg1HVj5wQSAPctk0TRQK7la8MS1wzMm7ATmTTJIljvnemQzjVhYGJ3/3kzBaqbEOnSrZ5hiXhJMNHSIDyerKDJh4ZepRCpeKdbqhQfgFolm7ELPYPUj4qQ9BnldcMVHLCU79mzWAC3vUBGiVp9vzTKVVZk6AoeXMnxrm+x6q9+tZGZKYUJ4eVwXrU1cgdywdeyhxv62fDbbUVW7Aag+x5PgZZOBYjd+aIkzah/BWT6RQLUDgStJFZUJ4TNrblcjY1aQu5Z3ityfeEhVD6llwpfNUAv++01H3REGXY/xaY4gNfasYw2WQxxXMKXmUHaQB7R/vR4M9bujYHHXiaAjemLDGW8Asm7zwsz+o/UNZ8jSAvb2BqrM259AW1pt5/02S0Z5uEA==;DRFC81Oe3XLqO/s71/NYWQ=="
 ---
 

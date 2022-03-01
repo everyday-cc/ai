@@ -35,6 +35,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Startup to Pitch Face-Scanning Privacy App at SXSW"
+    excerpt: "Hummingbirds AI will be looking to accelerate its business when it makes the trip to the upcoming SXSW Festival in Austin, Texas"
+    publishedDateTime: 2022-03-01T22:52:00Z
+    webUrl: "https://mobileidworld.com/startup-pitch-face-scanning-privacy-app-sxsw-030110/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 26
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/jonas-leupe-wK-elt11pF0-unsplash.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "j8Ip8TzdIIIN9bvgMcXRKpVv7Zb39BFEM66LWFK+MbeVfGknzDlxUFzfDf15Z9lpD7CUqCGinJ47E1nQThv2Me/LNp0lXO+UzLHQW+C/7fcLfXvsZMwgi27XdWYHIMmHin0jJsnkweRr5uYdFXxSyX628+Rwk+f+HEnT+VLypZhLCRQM6/PFa82X7rnrLxxn8nf8cwsGbsCkBpDqLPu2BuVl5rhQI75vMa5MmqY5QMrJ4NFF5oCVH1oKC+MOY29XoOa9txJa9s83+5afJQcUEPiI8oQTTOc1p/JDYmpd0Q7UdrVW5E1HCpcHhXqSg2ebN5dmnlY1e1j+/H/1rH6A/5Tu2N3oyonULExvs/vJJIk=;vTZbSRpnyaiAREAecE0d3g=="
 ---

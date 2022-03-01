@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Iterative Offers Free Online Machine Learning Course for Data Scientists"
-excerpt: "Iterative, the MLOps company dedicated to streamlining the workflow of data scientists and machine learning (ML) engineers, today announced Iterative Tools School, a free online course for data scientists to learn how to use Iterative tools,"
-publishedDateTime: 2022-03-01T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-iterative-offers-free-online-machine-learning-course-data-/2022/03/01/9554934.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-iterative-offers-free-online-machine-learning-course-data-/2022/03/01/9554934.htm"
+excerpt: "The Iterative community has long been asking for an online course to learn Iterative’s GitOps approach to solving many of the challenges faced by data scientists and machine"
+publishedDateTime: 2022-03-01T17:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-san-francisco-96ec85e55f284fd1b4bbfd5da3cf30f6"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-san-francisco-96ec85e55f284fd1b4bbfd5da3cf30f6"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "UobIiiWLrmS9IChTT0q2dMvPP2wJ5uev1m28PQARZtgmie9UoK+K4LLuWTAXuHUeV1ioPD4Cm2vscwdD3mb3OgCpX5hQ9bMrcCNMfsx/IivNlLAZ6A09tEelf+NTWFwPLP3IuuFwab5Y9lTDcQyqD2S2hIW8Xsj/XTE439KdW2nr+rgi0LJwvaENbuxDCm84cxNJYrlLBpt3tb90jZjQ8w9DCggNKHXyQ07HFl3ST/GCYrdxnkQLMzDzZ8/W0g9h80Nczu6wWMFNVzepR/G1xD89ut+r+U+rS/o5uXnhDiFCxpuMK/qn1MksoKB9ySnagwu/gQhrvEKd3PxXupOrSSdcNBqX5W+POKnA16OrVuE=;QwKd+z2CdLpKBx62DCwL4w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "cj7dghiRkg8Gf5Rp5ALP4FBMfVQNwURa2HmY9ExP97I1pg8bC4cN4Gaf8ap00IJ2J05TpRFPT7KrMgr5QRaPWU2yTfW5+PMy7BloxOw9UMFyKw3MIqHugN9qqaA2rOF2OkD/PW2n9V6UUtIhJ8LhxdZB3AYTC5KtjNINpPCnqHWFlnz9LOI9NclcohYL8ExTC3PvoqPzwtVZcOvTbN1THACjwLf8fGnaLIlJWrQHTAuBvmCmiAfIpYE7F3qqfBqCl8/BdmkLdnNf9749MIg1YQ6irjddypewFEdqm8V4RzXsv7Z/zpo0gqLFNPGd/Vw/vVnCDKst7iDmpOmZ6gRn22IgiE28hKdKtgm23lKVjAg=;CwjdhFvkztEboe+Nzicx0Q=="
 ---
 
