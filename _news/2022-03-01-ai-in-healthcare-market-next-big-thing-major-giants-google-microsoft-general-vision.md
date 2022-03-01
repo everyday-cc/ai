@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big
 webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision"
 type: article
 quality: 63
-heat: 83
+heat: 84
 published: true
 
 provider:

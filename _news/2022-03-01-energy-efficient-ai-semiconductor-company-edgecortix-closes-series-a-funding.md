@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-01T01:00:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
 type: article
-quality: 36
-heat: 36
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "2l2yNHdKF3I3HzDxe4LqhaqOp6R5AJP4iQp923gMJ2Am33NkkSUdCQh+TkMC8XE7kcFo+/zjWg3SRYNX2DPpEx7qE8hDWjrcAKdFAXe9ufgSfQy7IIGUWDvQE8rYZ7uhZhfQOI1GZ5a6jYD3CmVzDQDRooGfeJQ5x+z2b6EzuY8ympzy6tAkOLEms+vDcUGR2Lc5rHx7Yg72rVJu9mIC5Z8jTs0F8okol0Y7XXAgd9Z7kO8Sbn5bfKo3PMv7ejYLmidwp0w1Q2JSAGtxknB27/lZViu51772T00RL+BxzBgRxDAwhf39QOwksvw7yMbUqQn7gxtTCQMXvMgqODLhoLeDZQkJCtzS+zD5AIulQik=;FnvbSCVodXmLjOmd7WVeNw=="
+secured: "eq+1ra2WWc80CWGUCzwVl6UHruNhaP9yMCmr4KM8Dh4oKd2ooCcVA4GzKeAzIZDszG9Kgoe6YdkwW76FV+HUYpjtNhP368alzr690f1rM/BQzRl9ySA8BSZds7tU9N/vLCl+PKhmEFoorZ3DtO9jk/PJbpjp7PEMLDvNNVSXM26/8O6xKBMkqc+mOkJIV6iMH+oMW3LdFNY82WFjla7diigONtDvhX0jVtAnj7KJMBJWRW9xFuQMPR5Jd/EN+U2vxhHGJvdQiBT2ivPn5QUshAClCPR2mC2ecS3Y8XPe+OBw+/uFK70DfZqvf5FQFvG2T/BNsQtSRVZuxl1MCQbmsnpGZXTTAIHBJYM33re6Kdc=;zJvJewschKIUlUCVEX1zsA=="
 ---
 

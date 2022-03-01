@@ -1,34 +1,41 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates"
-excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. The company said total revenue was 33."
-publishedDateTime: 2022-03-01T08:43:00Z
-originalUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2528766"
-webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2528766"
+excerpt: "Chinese search engine giant Baidu Inc BIDU.O reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-d"
+publishedDateTime: 2022-03-01T07:41:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
+webUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
+ampWebUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-    width: 1200
-    height: 676
-    isCached: true
-
 related:
-  - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been doubling down on self-driving vehicles by leveraging the company's ..."
-    publishedDateTime: 2022-03-01T08:55:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766"
+  - title: "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength"
+    excerpt: "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth."
+    publishedDateTime: 2022-03-01T08:54:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
+  - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
+    excerpt: "Baidu has also been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth. Apollo Go, its robotaxi service ..."
+    publishedDateTime: 2022-03-01T09:38:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-2528766"
     type: article
     provider:
       name: Channel NewsAsia Singapore
@@ -40,6 +47,6 @@ related:
         height: 676
         isCached: true
 
-secured: "hkY/zGafjNBYpv9QcsCD0GsmGoJ+r2eR/z1ToX+rr9VRAogJNsMyzVVAa7iJBgxaB96Qw5cbfQtAmOXE4ccBq21vd5s6ZFHb+KCyyRisu83OXsQzoMiTyesVPky3yHoVd4QXLh/+3/S+/uZ06yScqM//zgOXcRDZXu9AjUplNcSsjnD1eWTxWbZhB+snvNEsrcUXj8eeAbIMs8l3cou8vtMXuFPbajKGh6F2hunyOYAaMDkV55lZctVcqApK+ltfRGaDbHm2/J2QqP+1xz4LOJ9g4Ay7WgpHHcPfD9ctV5gUOUWDXGeVn+8OD7UEZgXQwezXMyTHpZnQlLfP2SoXDO3BWFNpixGZZqblQsbzpnc=;hgPiRjLE2rGXxLwelA5gCQ=="
+secured: "m+RvbpP2nN64rYTEMU+lL3Be6LFb7owO1orTCzEN0AC/jimoAw2sra84L092NxUYjKbCGt8MV8dZMrUJPWy/NNQ/YUEkMbg2/AMnZUey4X0Oe2Dme4JI0YwonYepl5HynMvQXG7D1odcOcIsI3qjWMgrJj5hnWfUBtPDufmR6LlJRbSqlGZ343O+pYoq94ps+DfCrYzhEkj92lzZJFA74WySzaJNk8zu9sLVxuCTdfPXMBpRkGOY1+scV3hmi45H4p37yE/oEkWT3KKLupE+X0yvDN6DSekBB5DWwUXE17PwdY0/ASnSY025TYL4sCxz+gJqx4XbK5EnaxfGEM5pmiW1BO8eDZXR3PWydXt31MM=;3V2mF6jeWMVz2cJvDweetA=="
 ---
 

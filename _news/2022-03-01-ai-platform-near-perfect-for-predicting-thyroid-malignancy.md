@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Plant-based milk uses AI to formulate the perfect sip"
-    excerpt: "Sustaining life for nearly eight billion people is a heavy task for any planet, as Mother Earth is repeatedly reporting. When it comes to food production for the masses, we’ve got to start being more conservative,"
-    publishedDateTime: 2022-02-24T17:30:00Z
-    webUrl: "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/"
-    ampWebUrl: "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp"
-    cdnAmpWebUrl: "https://inhabitat-com.cdn.ampproject.org/c/s/inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp"
-    type: article
-    provider:
-      name: Inhabitat
-      domain: inhabitat.com
-    quality: 57
-    images:
-      - url: "https://inhabitat.com/wp-content/blogs.dir/1/files/2022/02/1616698769484-889x592.jpg"
-        width: 889
-        height: 592
-        isCached: true
   - title: "AI Platform Near Perfect for Predicting Thyroid Malignancy"
     excerpt: "An artificial intelligence (AI)-supported ultrasound system noninvasively distinguished between benign and malignant thyroid nodules with near-perfect accuracy, a large retrospective analysis showed."
     publishedDateTime: 2022-02-27T18:01:00Z

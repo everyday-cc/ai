@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tahakom Signs a Cooperation Agreement with Dubai Police in Field of Artificial Intelligence Systems"
-    excerpt: "\"Tahakom\" signed today a cooperation agreement with Dubai Police in the United Arab Emirates, in the field of artificial intelligence systems, traffic management, and monitoring of violations to enhance public safety."
-    publishedDateTime: 2022-02-24T18:38:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2332529"
+  - title: "New artificial intelligence and coding licence in Dubai"
+    excerpt: "In collaboration with the UAE Artificial Intelligence Office, the Dubai International Financial Centre (DIFC) has launched an artificial intelligence (AI) and coding licence. The licence ..."
+    publishedDateTime: 2022-03-01T09:02:00Z
+    webUrl: "https://gulfbusiness.com/new-artificial-intelligence-and-coding-licence-in-dubai/"
     type: article
     provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 38
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 52
     images:
-      - url: "https://cdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
-        width: 805
-        height: 612
+      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
+        width: 740
+        height: 493
         isCached: true
 
 secured: "I+r7XeA84ajtpaNRTzbGMmpsLXIMAEJ6HAdKtsx7wajvnGMA6FaBOS6/JPcslZskb0U+rwXxVlA27k4a0noEe2tFo/sl1UAlORhf6y1ytpCLs0rwQq/+66RM3dgMX88lyAAUunJBtt4aG39l1kPS7e6CXsjIUsUli64mEY9vW/MrCZuTdBsJcL4PJIM0bk/t6dOcsS6x3ukrGnrWVE37A/Rjg/zMcUSxuEpQEfBykoAPUnplJeJmHQmUeNhDNHyuTWgenPcpjN9a3gDoIbamKNOFWHRii2rvj2XxBFTbrGSfz2IQF7n5msqbsv7CNvAsSPX6TDLEbusTeL3aKtWZrj9kCjb5gVEmjufYA6UfUag=;XRlKPJVdpFTrXSkYooyjtA=="

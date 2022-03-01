@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=622413"
 webUrl: "https://us.acrofan.com/detail.php?number=622413"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 580
     height: 339
     isCached: true
-
-related:
-  - title: "Converging AI And Longevity Research: Cutting Edge Innovation In Insurtech At HITS"
-    excerpt: "The convergence of artificial intelligence, aging research, distributed ledger technologies, new sensors, augmented and virtual reality is driving innovation in health and life insurance. To facilitate for this trend Generali set up HITS - House of Insurtech."
-    publishedDateTime: 2022-02-24T18:47:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/"
-    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6217ac51d6e1527d378590b6/0x0.jpg?format=jpg&crop=2047,960,x0,y9,safe&fit=crop"
-        width: 2047
-        height: 960
-        isCached: true
-  - title: "Research Reveals AI Gaps in Federal IT Modernization"
-    excerpt: "Only one-quarter of study participants saw AI as critical or very valuable to their modernization efforts, and one-third saw it as not very/not at all valuable."
-    publishedDateTime: 2022-02-25T16:19:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/02/research-reveals-ai-gaps-federal-it-modernization/362443/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/25/022522AING/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "JKI8bzDgG8IxN1v3snNmqp1tfn1kKMvT2aA7o7tgzS5ie+tr+RPahyLm2TC+90f0yk1OlCHhVQYcg/d4DBRU4mrLqe1+IdR3tTWUepssEHqn1Y+mDTN5tUPE0QGyxmVzh7vkg5Ey9KoGnvBMLjmNQBp8OoFB64o1CGbX6eWcws+pSZvBfY8kgn7QGatTHBdfb8GTREscdTPUYHhZPD1myqSv7SeN9sk1itEg9/ztytHRJON9THm+8NW9HGsmOed0iz8hnLISqaRpElNCtZafTZ/WICYQs84lC5jJUAzA/iS+TeCXfhCKqGin4Yb+Pf5I0E5HHBpEK4gZ5UMn+7DqS9GmJAUgMsZR+gPuL2QG1SQ=;VntEsmWmVqkW+yWftJhSKQ=="
 ---

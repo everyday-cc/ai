@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Following Backlash, IRS Allows Skipping Facial Recognition"
-    excerpt: "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website."
-    publishedDateTime: 2022-02-24T17:53:00Z
-    webUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/65ed04f/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F99%2Fee%2F70e57ea596472533b739cecaf122%2Firs1.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Florida DEO stands by controversial facial recognition technology to verify IDs as the IRS drops ID.me"
     excerpt: "NEW PORT RICHEY, Fla. — Concerns the ABC Action News I-Team first revealed a year ago about ID.me's facial recognition blocking legitimate applicants from collecting unemployment have now sparked a national debate over privacy, access and oversight of ..."
     publishedDateTime: 2022-02-28T11:06:00Z

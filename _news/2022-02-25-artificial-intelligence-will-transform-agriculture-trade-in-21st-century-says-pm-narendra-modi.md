@@ -38,15 +38,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence will transform agriculture trade in 21st century, says PM Modi"
-    excerpt: "Artificial intelligence is going to completely change the trade related to agriculture and farming in the 21st century, Prime Minister Narendra Modi said on Thursday. While addressing a webinar today on 'Smart Agriculture,"
-    publishedDateTime: 2022-02-24T18:52:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220224/3911086.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 9
 
 secured: "xkJZckSUVTmAn+P25l8klCVg49ILBNPTed+GdKT3Fl4fmSa08XkuJaxzdwZZ6lJe+iaf0/qU6JEQtcgBOb/9UAmrIWz0kV7YK5EK+lRjvakMYZJZXkyHkHW9+5LTYY23QAqmNh9GqH13XSJVuDLPsVwsftyTsrIsCBsyvNN0mbW2Ya6N6OR1By77OMviIcKMi4xOguBNSdCJF3W6JXMgYVlSMWce4mf2pdQQcddMSph1cpaH+HEgNN3ka3QaUMJTuL0RerFBwUAPMXfa79pLu7jwYPJDDDPyZFPSqXHK9uiWJJDt+8Tf+QbT2QiLLR9XMzSD1b69EYi6LH1Xg1kebsSUQKNofQRpzH6D73UhWhM=;oWJAJDtYFHsP4NEVe1wFfg=="
 ---

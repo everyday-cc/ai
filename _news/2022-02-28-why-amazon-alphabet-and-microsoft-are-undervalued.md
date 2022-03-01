@@ -101,21 +101,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "US Bank links up with Microsoft's cloud services to power its applications"
-    excerpt: "U.S. Bank is taking another big step to upgrade its digital capabilities by moving most of its applications to the cloud."
-    publishedDateTime: 2022-02-24T17:50:00Z
-    webUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-bank-links-microsoft-cloud-power.amp"
+  - title: "Microsoft updates Azure for Operators, adds private 5G"
+    excerpt: "Azure Operator Distributed Services designed to let telcos run workloads on a single carrier-grade hybrid platform"
+    publishedDateTime: 2022-03-01T09:30:00Z
+    webUrl: "https://www.theregister.com/2022/03/01/microsoft_azure_for_operators/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/01/microsoft_azure_for_operators/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/01/microsoft_azure_for_operators/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: theregister
+      domain: theregister.com
     quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoftword.jpg"
-        width: 1920
-        height: 1358
+      - url: "https://regmedia.co.uk/2019/07/24/5g_shutterstock.jpg"
+        width: 648
+        height: 432
         isCached: true
   - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
     excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."

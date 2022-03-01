@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220224/Deep-learning-based-i
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220224/Deep-learning-based-image-reconstruction-approach-may-improve-detection-of-breast-cancer.aspx"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Deep Learning Fosters Better Breast Cancer Treatment"
-    excerpt: "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time."
-    publishedDateTime: 2022-02-24T18:29:00Z
-    webUrl: "https://www.medindia.net/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-fosters-better-breast-cancer-treatment-205810-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/protein-inhibitors-against-triple-negative-breast-cancer.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "otkc9cr+n+wxDrGH958M7UtKe7VbpuOFaHVuCU110/zJYpJiSAjO7TJrc363cHiHYGOz7NSIQcQNqLJF/gtV9M1QLI6W9lxRMdJjt4nevab28wyb1cGCXgUkqDClWct/Bjk5qpeyKRVJanmgfEbOvDK0k97WK/snLDNJOqK9joU6sKgLHutqD1x7s6TpJHnFnS0OBRHdQcQh1AhNj2uQMnk+sqJEugEwQB/Wk6779Ki7erXjUcZokzRPQFRoO2hQNvtPe0k/JdXyuoFeECJnpChmAXTcwP88F5IaoxR6SMBLULSIBUU3JyvA8xqlFGbOY4+vm1XV307lOZoxU+3MBkS+ZjOojYAR6YmHE4YSRp6nmkGX+smuitH3WnArrpWckd6jsByaXOJAl2yjGlPW2iTG4LVivvjoYaF4Uk+qGSNe/BC6nREKSnnv9Ajsdv/VPdSOUzubwQmWM4GMlzFN6dgxHX15/1Pyk0v1T2Ys64XDUg6WTJFXgYdo8c2K/d4TMuKPi0wENs2m+yGcloUECQ==;lXY9qylgv9Kpj51aVzYjgw=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 380
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Genomics Market Size, share |Industry forecast 2022 -2027"
+    excerpt: "Market Research Engine has published a new report titled as “Artificial Intelligence in Genomics Market Size by Offering (Software and Services), By Technology (Machine Learning and Computer Vision),"
+    publishedDateTime: 2022-02-26T06:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-genomics-market-size-share-industry-gaikwad"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 30
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFK4T5hdmCG9g/article-cover_image-shrink_600_2000/0/1645858457483?e=1651708800&v=beta&t=tQJrR4IZPvqf0wvowj0DD9u-MjF9Qn0YPOmD86AvWtg"
+        width: 625
+        height: 350
+        isCached: true
+
 secured: "zGkX7QU3aTF1K1bPGcTJ72QQxMYjLxP0pc9rXm+2fbsiLRyz0QIsXhkrDsf+g2wwP5viSk4Yuc3dgwqt06Nix4zhMRYe8K2X8PL1CL8O5Dbm3IMGoyFiymtO6Kxw2Ppc8y974NYJbSbO46f9+pnrhhaurfeaV3eiByMsUiPuYyDg3GWahQAq+lBj9j80fdbs1dJ89RMa/6AVS5wxzZQ3jb/3CGtTIZmr56/iqMY7fQHx2ra0CCkjciUQzus3LWT3Kr49kpLo1iwSZswQf9ndYBlG3gGGp+C/3vORs7ijEKPFJ8MsLLaQLQO6s2XZts4LWc+6OgtTw7YOnrb7dpDWQocXdPkbMHo0r4vdFNqgza1dVOyAAAoVuH0zJOTSnAKnQaqI+dZ5ctpLcFfEGKi6TCrjI/vaqfxKkOGxrGloG5/fNSWbRbxjf6/7Yx1ZL6PREcvECcQ6+vy2FvjGfUKsN61wwTA49MlNx244qATZk8s7jxgyIgZ09A28KSNes98zltXefZqMJ8gO5k3SrP2YKQ==;Z5yzCfgmOZkQ2BS5wykwGw=="
 ---
 
