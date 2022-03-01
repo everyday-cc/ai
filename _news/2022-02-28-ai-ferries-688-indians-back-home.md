@@ -7,7 +7,7 @@ originalUrl: "https://www.dailypioneer.com/2022/page1/ai-ferries-688-indians-bac
 webUrl: "https://www.dailypioneer.com/2022/page1/ai-ferries-688-indians-back-home.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 325
     height: 325
     isCached: true
+
+related:
+  - title: "Ukraine Crisis: Spicejet, AI Express, IndiGo Operating Special Evacuation Flights For Indians"
+    excerpt: "SpiceJet, Air India Express and IndiGo will operate special flights from Hungarian capital Budapest and Romania's Bucharest on Monday and Tuesday to evacuate Indians stranded in Ukraine due to the Russian military offensive."
+    publishedDateTime: 2022-03-01T02:54:00Z
+    webUrl: "https://www.outlookindia.com/international/ukraine-crisis-spicejet-ai-express-indigo-operating-special-evacuation-flights-for-indians-news-184506"
+    ampWebUrl: "https://www.outlookindia.com/international/ukraine-crisis-spicejet-ai-express-indigo-operating-special-evacuation-flights-for-indians-news-184506/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/ukraine-crisis-spicejet-ai-express-indigo-operating-special-evacuation-flights-for-indians-news-184506/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 46
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645966114.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QCoeJ2+5aletiT38AxsBh9+ALazUcrVLKJpLJQ3rASrzyhxKAbn2QWDRbT3mSscXdCgFqzmK3Pw6kihYVXaLSZF+e1D/golKouYh2IG9NPAN4uOVV9l3S3NAOLLMCPupArNdOXLRh/h5a7fvqFWsnS5p7EVd5YYAgqskl5hZPhRcyDvTFnBgOz12bugK//PzxGQbmmRJ5zUc9eT4qZ/AFlI4FTabwi3sQeMCWl74Wwzq5X7NQdDb1JEFeQ5vSdVdYW4IcftWC+45uPW42Xc5oFKmnMeoaB2Oo7oi49Atp95BE9DSjvxpuPtVCnMVJlwj15408cWSDygK6JVvFKoXM+Wcx8lJYHnRQG+W/mx8Gvw=;Gw5YVVQf5nc5b3CpJHdhvg=="
 ---

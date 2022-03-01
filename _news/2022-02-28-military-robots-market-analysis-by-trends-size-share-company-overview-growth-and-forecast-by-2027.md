@@ -69,20 +69,6 @@ related:
         width: 1000
         height: 647
         isCached: true
-  - title: "5G in Healthcare Market 2022 Supply-Demand, Industry Research and End User Analysis, Outlook 2027"
-    excerpt: "Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. Market"
-    publishedDateTime: 2022-02-24T10:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-2022-supply-demand-industry-research-and-end-user-analysis-outlook-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/e72cee448241867e871ce5514b7cd8b2781040ce-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Natural Language Processing (NLP) Industry Assessment and Forecast 2022-2027 by Type, Technology, Deployment Mode, Organization Size, End-user, and Re"
     excerpt: "Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global natural language processing (NLP) market reached a value of US$ 14."
     publishedDateTime: 2022-02-24T16:50:00Z

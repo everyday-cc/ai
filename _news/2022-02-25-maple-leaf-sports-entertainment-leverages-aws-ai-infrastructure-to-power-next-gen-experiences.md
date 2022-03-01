@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/maple-leaf-sports-entertainmen
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338?amp=1"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and Maple Leaf announce cloud innovation deal"
+    excerpt: "AWS and MLSE have announced a new deal that will see AWS provide cloud services to key Canadian sports franchises"
+    publishedDateTime: 2022-02-24T14:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/AWS-and-Maple-Leaf-announce-cloud-innovation-deal-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "AWS partners with Toronto sports teams to deliver new betting experiences"
     excerpt: "Amazon Web Services and Maple Leaf Sports & Entertainment have launched a new partnership to deliver new betting experiences for fans."
     publishedDateTime: 2022-02-28T17:33:00Z

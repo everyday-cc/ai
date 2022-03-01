@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12780"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 1000
         height: 654
         isCached: true
-  - title: "Patriot One Technologies secures contract to create AI-powered full motion video detection application"
-    excerpt: "Patriot One Technologies has announced it was awarded a contract worth nearly US$ 1 million CAD with Canada’s Department of National Defence (DND), to further develop an artificial"
-    publishedDateTime: 2022-02-24T09:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/patriot-technologies-secures-contract-ai-powered-full-motion-video-detection-application-co-14836-ga-co-1568112841-ga.1645677735.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 23
 
 secured: "zLWYDYPO00qcrwZdVFHNAVJnoZNA68vZ9Q2Sxnq0wqmpl3sTfnZd4D2z0flRJ6UCcTdF0H7nfoI9HsrMbpsFP/xrS7O3sIphSpWQzxZU/QR6psLSIEbh6rrIt6z8Oyl0YJBd1v0ERc0fmgoqZjhPDfydccE+Zb56st+I7bSz5WlRCn9MpB2rbnmzTbC9o/G3zoLodwKod/9OoDqP6npD4U126lMgKsdrP0Bhp6arl5yEl+7C8b8YfDoXsnEEw7O2qPeCUlb/Kvgh1PlPqKC7Eg+LDuIo0JwXRp/zZxPzk7qxULuURvOIfQAuS0xCRBSdvtl+zbENWHw4XhiQRWyCrOmvndMlR+lzdIoSNsbJsweJlqP8u6etAAuhWh59H0FUe2eEm2zg8hTcHlWTjLDSJti29miB79xB4uoNfWUKN16xTC+xsc4rZJgfN6i7/amIeCeULDxBLCvAksczyiqDPIh63DP6/0OCIHF+0yT28G3P4ofUiDzsB4dOrzp2EIYlxu+Eif5sbjdTlo59K8UyXw==;+ACdUVRIXZ5sbHXe5CJ8dg=="
 ---

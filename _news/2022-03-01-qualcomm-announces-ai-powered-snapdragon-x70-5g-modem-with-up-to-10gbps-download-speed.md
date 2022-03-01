@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Qualcomm Snapdragon X70 Harnesses AI Processing For Breakthrough 5G Experiences"
-excerpt: "Qualcomm today is adding to its growing stack of 5G modem-RF systems with a new flagship model, the Snapdragon X70."
-publishedDateTime: 2022-02-28T12:35:00Z
-originalUrl: "https://hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
-webUrl: "https://hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
-ampWebUrl: "https://amp.hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
-cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
+title: "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed"
+excerpt: "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features."
+publishedDateTime: 2022-03-01T02:53:00Z
+originalUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/"
+webUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/"
+ampWebUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
+cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
 type: article
-quality: 53
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: HotHardware
-  domain: hothardware.com
+  name: Gizmochina
+  domain: gizmochina.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://images.hothardware.com/contentimages/newsitem/57813/content/small_qualcomm_snapdragon_x70_hero.jpg"
-    width: 708
-    height: 421
+  - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg"
+    width: 1200
+    height: 713
     isCached: true
 
 related:
@@ -55,22 +60,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1646050444/itpro/Qualcomm_MWC2022.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed"
-    excerpt: "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features."
-    publishedDateTime: 2022-03-01T02:53:00Z
-    webUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/"
-    ampWebUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 81
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg"
-        width: 1200
-        height: 713
         isCached: true
   - title: "Qualcomm Announces Snapdragon X70 5G Modem With AI-Optimized Connectivity For The Intelligent Edge"
     excerpt: "As is typically the case for Qualcomm each year at Mobile World Congress in Barcelona, Spain, the world’s 5G innovator has unveiled its latest modem technology dubbed Snapdragon X70."
@@ -118,6 +107,22 @@ related:
         width: 850
         height: 505
         isCached: true
+  - title: "Qualcomm Snapdragon X70 Harnesses AI Processing For Breakthrough 5G Experiences"
+    excerpt: "Qualcomm today is adding to its growing stack of 5G modem-RF systems with a new flagship model, the Snapdragon X70."
+    publishedDateTime: 2022-02-28T12:35:00Z
+    webUrl: "https://hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
+    ampWebUrl: "https://amp.hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 53
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57813/content/small_qualcomm_snapdragon_x70_hero.jpg"
+        width: 708
+        height: 421
+        isCached: true
   - title: "Qualcomm X70 5G Modem Announced With Dedicated AI Processor for Better Reach"
     excerpt: "Since 5G uses a very broad range of network spectrum as compared to 4G, this new AI chip shall help your device to stay on the most efficient band using antenna tuning. Today, Qualcomm has just ..."
     publishedDateTime: 2022-02-28T16:05:00Z
@@ -133,6 +138,6 @@ related:
         height: 767
         isCached: true
 
-secured: "zJvxZPTBop3tbQ/l6MtnfK2fcpmAkHr5K0E3nMOUdUhaqhOTUyAYSZwtgFXu/ag1uNzSvUVAa8Y98BwTiDoPiuP15S+N0/pgRMH3O0X8FmJFFRfRpfLIfiBjXvKXXisvJ3Lm+EVw9bnyslmA0MaVro9jXFVCLYAh8EiyEqrl0M7di8uXxnwZ/ZXMph0CB8qWKQU1hww+dp7qJRkz0tKyPbjaFhKXC5GM4vMWrnJuKFrbL74elOSf7BvzkXkhX76Qo7XsXRioqCVHmgeKe/ZYHzaa3uBo9mny4LC3TykMgYzkk+yDspcNMK6lg6N5y8678MqxuDSTOOueULg7TEJbL5ajswDrlmD9qhKnX9IJZMA=;TWMuWs1eCRKqLmGR+a32oA=="
+secured: "URMBaXL+non5H+5ufjz+JU51xWKc9m9dbfeqZWyzdLLZ+GQGqHNqYOhZjs4aciZ8X/QTAd5RncGB/4MiJGY6irm3bwBX6r5Gzxorrc14CoJRQMFTeUVad3SOMaVatmrKV0OizzExj0/4aAH8yGSnsyXkkUMigMJklM4bg86ott36UiGZSuDT9mQcIIvlnHzUiX3UBIHwDKr7sr7FVteIgJ52tBRwFLmn6X7KfuIlW0utEuc0QBH7l1GHR0nfQQV9q6QZeVv0uxXNuAJu54OfrAdIWqraVGz5Zm88VANrUV4oz+kpCcXsdsgspxmNSRS5Pd+WnStp2yfOxmOyqoUSxEi1CpRveddKJEj4K8jRh40=;hvHAGZVfrgIxk0INlDQ97g=="
 ---
 

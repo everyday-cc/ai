@@ -1,20 +1,20 @@
 ---
 category: news
 title: "On cusp of Biden's State of the Union speech, a state of disunity, funk and peril"
-excerpt: "Biden, in his speech, will highlight the improvements from a year ago — particularly on COVID-19 and the economy — but also acknowledge that the job is not yet done, in recognition of the fact that many Americans don't believe it. A year into Biden's ..."
-publishedDateTime: 2022-02-28T23:29:00Z
-originalUrl: "https://www.wisn.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-webUrl: "https://www.wisn.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-ampWebUrl: "https://www.wisn.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+excerpt: "Biden will step up to the House speaker's rostrum to address a nation in conflict with itself. The country is litigating how to keep kids safe and what to teach them, and suddenly plenty worried about Russian expansionism."
+publishedDateTime: 2022-02-28T21:20:00Z
+originalUrl: "https://www.kcra.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+webUrl: "https://www.kcra.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+ampWebUrl: "https://www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WISN 12 NEWS
-  domain: wisn.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Natural Language Processing
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SgN1+Ar4E1zRh6TpIMpqlDRryokhkn1WA6JuiGheVSnN2kmW82QgEd7h/KCd2pVV/7tJh3YGAANQBH6uGZR8dCMyikZlS85iSG9VJinH4dLfnZ5wHFkp07f7DXYii4+RYSUPHKMy5ff2lFmL5eRbgaXTJEyfSje2QtjcSQT+qnhQclrY1JjbDzMDNzmuNZIdHZAeBjWT95OL+CvTWlyIDR0WeskpiJKEjD8cVjRWqgZwdMT1dWdtoJQ8tCwC6e9io2hpkjfzof8z8tkoMDhYc7kuc4En4p1nIJ/CGe2CB/TscqESzOY5jV+xeOEeAlld+tKrJ9zGQrHl11m+lF+GCjEAf4NIdmFNm75RUkRywP4=;30EVo0gIQZ1rllEFYMeUsQ=="
+secured: "c4nk3D6wiEtPRMxCO9GHLbDqrLlpv478vUjXS2duUXNIFkTQVVz58Ht/v2H3QwfYu1V3/s3cbgUlG6nRlNeDzmuXCUje5mcdLz8raI++YpHMBZiMLeU0FKq3Kd6q7BHCEtgAEkR0r6jJ5xXZEExnZ108kLwM0MiY2PjjR8YlYjvIXxObju971U0j2pkTjXlo9gKLGeR5UQuIxBcvlP39Ye3wJd4/ha8XGqEKTcNqJBoU+2NcAJa6Q4SY8c7Rl3PHAjvXgmFPqU7FNMhcjEqSGUtDLBK6azolZ6bXXlf8br/IruaCSvdDykn1Kb47HivsTDM1Ecq4/YzsrkV/zRk+W4eud907pW++2N3WgJ2GS6w=;ZrKP2weCscoJ/tGQRy+s9A=="
 ---
 

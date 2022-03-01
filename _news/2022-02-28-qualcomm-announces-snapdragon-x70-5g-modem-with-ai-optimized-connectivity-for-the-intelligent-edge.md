@@ -61,6 +61,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed"
+    excerpt: "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features."
+    publishedDateTime: 2022-03-01T02:53:00Z
+    webUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/"
+    ampWebUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 81
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg"
+        width: 1200
+        height: 713
+        isCached: true
   - title: "Qualcomm Announces X70 Modem, Joining AI & 5G For Better Connections"
     excerpt: "Qualcomm has now officially announced its next-generation 5G modem chip empowered with AI, the Snapdragon X70. The modem is the first reported to be built"
     publishedDateTime: 2022-02-28T19:22:00Z

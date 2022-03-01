@@ -41,6 +41,22 @@ related:
         width: 1076
         height: 697
         isCached: true
+  - title: "AWS and Maple Leaf announce cloud innovation deal"
+    excerpt: "AWS and MLSE have announced a new deal that will see AWS provide cloud services to key Canadian sports franchises"
+    publishedDateTime: 2022-02-24T14:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-and-maple-leaf-announce-cloud-innovation-deal/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/AWS-and-Maple-Leaf-announce-cloud-innovation-deal-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "tPeOY+igfq0+mJ5WBclZ5hP8cUtQ8IAx2YZ7Xg7D5esfUxiUtai8SjDXan+v5gkGvZAAxh3jJSfq6sxp0cxG04D6dcTHy9ABYJd0/4dYxZo6eHiEsJ26msVvkTNi+Zke8rfkSH6LoicUbhJ7RMJ1Y9tLO8ZX/y2p9HNpVXoEPEbUUCX0ni27SWtZp7G2p1jhX79hUdbU/a3/D2Mn7IdXJxARBFPI7Q7ZAcKrN0g4TXrJae0Exk1aXwEDO8vri3itGbxrCMWCr7CXj0Jv38dvdAsKQQqvt1m/wLhsE/mOzgrutv8Yoi9yxfDdfVX9Y6v1gx77YtYb4ExGZEpeWygM9reQGytatRZfAplGWkslca0Nuvqz2ggDczYaTfN8I+6AzgYD9Iqv2PVo6uDEe+cZmOzz5CjVoQ4C5te5sWGp1ysOjTjQFB+yfwnbJjU88ISNL9rEzFz3ZFiw7lYrGK5uJVLlF0XmsOLamtN47UdxA2PHSAk/HBusd7Yw/KpyLYP5UVrionXWlVDc/3q7amgqSA==;k0XZBA2fmUYgfyK1/KGGBQ=="
 ---
