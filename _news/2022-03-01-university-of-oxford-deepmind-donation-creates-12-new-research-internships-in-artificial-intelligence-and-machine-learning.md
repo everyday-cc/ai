@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-oxford-deepmind-donatio
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -56,16 +56,7 @@ related:
         width: 780
         height: 436
         isCached: true
-  - title: "MACHINE AND DEEP LEARNING PROJECTS IN PYTHON"
-    excerpt: "Do you want a Machine Learning / Deep Learning task that needs to be done? If yes then you came to the right place. I can do ML / AI tasks for any purpose. Machine Learning Services: Predictive Models"
-    publishedDateTime: 2022-02-24T23:02:00Z
-    webUrl: "https://www.gumtree.com/p/classes/machine-and-deep-learning-projects-in-python/1426598449"
-    type: article
-    provider:
-      name: Gumtree
-      domain: gumtree.com
-    quality: 19
 
-secured: "60QHQpRL2ngSYnF3jI8LJ5UMwsmeWyo0VW3sTMv3l51PFgEJNV/yG9IKpmuixOt1YEirhrVOgQmfohtyHHlO5j/RNsrvXEqSebigwdwu7dQAn4jiGKwkXU7PihE1mjAp/6jvtEWsGiPLH/YJ6ki3xDYfowG0mmPKd8W+azU5EGyavxi2cVrgmAdiRHKglS8ypf7YpuCSU7JBdf2/Gufa2zYWCw+elFh6Dkzztwwu4wgPDwBLZ5HPw5kMikzeo+o9qD9dhGf9aCTpQW958PS+bp48OLWoIEtQoJRIkKjXyVMmNk280A3VtXwclgmthuR9penS4sdcEmchtHqIBP9dKi1JC9ShVkjajEJaOK4AmcQ=;zPu7RMwKQpJH6SqBBxueeQ=="
+secured: "7E6cKavuuf6pOyqDyVobazZafo7bceMOCmzoj/+r8DAcmhJO8111bIBjv7M3ZWTGAHc4w256nicj2hT/gMhfF9zIuJK3IawdTli3dOAYX4r1o0FkPjDFr5ONgfhHSRuigDy8N6lu33X37Kn9lzCOIvHFQCiVNExkRM0gCGr3gndhVPJB1eAPY+TeaFnbKPDXn55+zFMQaH/tDiUYEVLN4lQ172tiAWaHtbV0grPm0L3lSE7/IbxBwfgUHnFrVffUU0DbDpxdhG+FM2ifo3zGJ+MH7xBJ5HYrV9PO3OpUjR8uWgHTTDLcappHkorgLlzg5xL7ginQDEf3rZfcLpptrcgzu1d7QaUgqsEx7bjFxUWU6bApukVbZUXUt7NqgDhwe1RQNQEPSdymwTYxi/3nvJhHcD0KnsiLTkbyjueR8eqleOn3Ygwsgf6S+me3A8/fd2wyfKq2Mw5IWnMKXhocMKGagieltPWkhZdAD5BzbjsPNk5y71Qzdqw3UvDHPwUP1ba/MdgxisFrJg8EfH2QyQ==;8/PxW1Z9Y7MYDnW38LI37A=="
 ---
 

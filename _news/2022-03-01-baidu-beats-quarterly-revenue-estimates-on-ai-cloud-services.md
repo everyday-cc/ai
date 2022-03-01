@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates on AI, cloud services"
-excerpt: "Baidu has also been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth. Apollo Go, its robotaxi service ..."
-publishedDateTime: 2022-03-01T09:38:00Z
-originalUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-2528766"
-webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-2528766"
+excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
+publishedDateTime: 2022-03-01T07:35:00Z
+originalUrl: "https://www.euronews.com/next/2022/03/01/baidu-results"
+webUrl: "https://www.euronews.com/next/2022/03/01/baidu-results"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-    width: 1200
-    height: 676
+  - url: "https://static.euronews.com/articles/wires/831/25/8312510/1000x563_hmtk1h.jpg"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
       domain: nasdaq.com
     quality: 69
 
-secured: "lCOWyIHVRZLHVh0+KLiptHx5igbK7WVkV2EZTf2bv99310+CjINU40BYpSkO3YOrSF1aorpM6ADE703p8lx2CfnUFSpuXpkumtEqkiOlLS9DKZPpCgm1UoYnTWpwUJZDsWhh1y7r8Jnb6ZsL4SGz2if7ieIrpIJcvwDTaNnlK7PDITQYRKjm7TtZyl9M9xjfuU3SuMpDJZ+rCjqH76W36nMxAak/xlZyMeL39RNjqm1b22citi5EYCSbep4G9xEFL5WTPmm00HME6nr9F5p3EwmFuaIKOSzjuVBiE0sDhzL0qm/9i+QfN54AkZ21Nje3qeiJPr1bAZUO+gspnVfug/GIXvGorK15JE/snoCbLzIpB0rP6vbvG1pcfgA5+jzaM4n/0EEZWWM74eKiekL2FD5IgFAgJ9equPEaUelHvmbSTYRTo8eCRkwvwtlPMFD2UkUZE+Rswu2CXhu5G6OD1ZgbF1dtmo7avm3PhbIqrmpbWDPUHJdY31acZAqRIdHbary8LTa/PBap6i5f6bO5DA==;goSAtALQYNPnyF0lWbMFCg=="
+secured: "SsnQBToTdhfp+zrRPiZ5r5FlY1hyTd1ZXeYp8YW1yTGfvzkXyX8JVfW56Ar5pWbL8+iEenix1ZA4C0ic9NXKAuMZkRYVTA+o5NeJS5+QcsAQAdxARqb67E5vsdTjrImZcK24kJdrQkUFyx8xe+cngtw5bPJVvsSlG3t0RDnTQt1IZTd5LmaoVOiAPVCvcGplD5u5dIuR3BEnv2Y9bxbAKmhtgxeo5VA8qk7p5lsAoPqFCw744CjIHZXfz4OP+/A2EsuDuh5HmEQm3iEwuap49hkVxYJnbFJqHqTWRs6nhUCeuUQHr8AeMt6VGXNclxByN3PH2QYLurz25d+uVSXDb7R5My/w5YomNoBkcpq1Z1U=;Od1sKbfoy65h6j2QLeESVA=="
 ---
 

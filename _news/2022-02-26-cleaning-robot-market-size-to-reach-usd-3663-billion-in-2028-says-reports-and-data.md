@@ -25,141 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "Educational Robotics Market to Reach $4 Billion by 2028"
-    excerpt: "The need for robotics in education will help drive double-digit annual growth worldwide through 2028, according to a forecast from Emergen Research."
-    publishedDateTime: 2022-02-24T21:21:00Z
-    webUrl: "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx"
+  - title: "Automated Machine Learning Market Size, Future Opportunity, Emerging Trends, and Growth Forecast Report"
+    excerpt: "The North American region held the largest share of the automated machine learning market, in 2020, and it is expected to maintain its position in the forecast period as well."
+    publishedDateTime: 2022-02-25T00:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/02/ab25831020/automated-machine-learning-market-size-future-opportunity-emerging-trends-and-growth-forecast-rep"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25831020"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25831020"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "AI in Healthcare Market is projected to reach $194.4 billion by 2030"
-    excerpt: "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ..."
-    publishedDateTime: 2022-03-01T11:51:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
-    excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
-    publishedDateTime: 2022-03-01T11:31:00Z
-    webUrl: "https://menafn.com/1103781763/Enterprise-Artificial-Intelligence-AI-Market-is-Expected-To-Reach-USD-5917-Billion-By-2028"
+  - title: "Military Robots Market Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2027"
+    excerpt: "AM ''According to the study, the global military robots market size was USD 13.87 billion in 2019. The global impact of COVID"
+    publishedDateTime: 2022-02-28T10:41:00Z
+    webUrl: "https://menafn.com/1103773940/Military-Robots-Market-Analysis-by-Trends-Size-Share-Company-Overview-Growth-and-Forecast-by-2027"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2022-03/01/EP_7d5d0image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Machine Learning Market size is projected to reach USD 48 Billion by 2027"
-    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Machine Learning Courses"
-    publishedDateTime: 2022-03-01T11:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-size-is-projected-to-reach-usd-48-billion-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Healthcare Virtual Assistant Market To Reach USD 2.83 Billion By 2027 | Reports And Data"
-    excerpt: "The rising integration of artificial intelligence in healthcare, growing demand to improve healthcare facilities and increasing funding for improvement in"
-    publishedDateTime: 2022-02-27T22:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-virtual-assistant-market-to-reach-usd-2-83-billion-by-2027-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-02-28T12:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-estimated-to-reach-us-22-2-billion-globally-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgTByXnnkMzvH1pIAhUUxSWf-qJEcrSX2EMCIxM4NpHJl3XXuoEL1X17bGdyQpPUFTaKQMYKWW3B6JpHAGX2N6GCC8gT50NmntzyY49KErhD10mNiJMk-s6yKH6jAPsW3SWqfDP7gMtK-5ixyEVCZ4TdmLXRteX9CuvtBy7ITFhqFvHuk0ffOz-MxY=w510-h339"
-        width: 508
-        height: 339
-        isCached: true
-  - title: "Exoskeleton Market to reach USD 7.93 Billion by 2028 | Reports and Data"
-    excerpt: "The global exoskeleton market to reach USD 7.93 Billion by 2028 at a CAGR of 43.4%, according to the latest report by Reports and Data. Rising number of"
-    publishedDateTime: 2022-02-28T07:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/exoskeleton-market-to-reach-usd-7-93-billion-by-2028-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
     quality: 24
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?749209"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
-    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
-    publishedDateTime: 2022-02-27T16:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
+  - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
+    excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
+    publishedDateTime: 2022-02-28T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/marketing-automation-market-trends-business-strategies-regional-outlook-challenges-and-opportunity-analysis"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 15
+    quality: 21
+    images:
+      - url: "https://www.abnewswire.com/uploads/1646031669.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
+    publishedDateTime: 2022-02-27T23:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/electrocardiograph-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Computer Vision Market Size is expected to reach USD 19.75 billion by 2027. Computer Vision Market In depth Analysis Report"
-    excerpt: "The latest report Global Computer Vision Market gives an essential review of the business including definitions, groupings, applications, and industry"
-    publishedDateTime: 2022-02-28T11:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-is-expected-to-reach-usd-19-75-billion-by-2027-computer-vision-market-in-depth-analysis-report"
+  - title: "North America Deep Learning In Machine Vision Market Growth Overview, Technological Advancements And Competitors Analysis Forecast By 2029"
+    excerpt: "The North America Deep Learning In Machine Vision Market analysis provides a high-level summary of classification, competition, and strategic actions"
+    publishedDateTime: 2022-02-28T08:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-deep-learning-in-machine-vision-market-growth-overview-technological-advancements-and-competitors-analysis-forecast-by-2029"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
-    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
-    publishedDateTime: 2022-02-27T20:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 4
+    quality: 5
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600

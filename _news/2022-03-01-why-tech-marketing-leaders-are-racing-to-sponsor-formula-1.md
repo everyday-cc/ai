@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     height: 800
     isCached: true
 
-secured: "OJIynWOMRh6PhvkctbSxcvW3oucC9j0ajrIrDN7eTwr5+wLt56QejOPb7EoVq2vO+7MiiuFTUAsHwzpSxV4n16rSZnzhMsfPUJbgOH1gBgzpVCxCa0JZYeU/rwxdq694UuILAMPIS3YIMke0Ip2bcGF+Cz4CwLZdTraWr91RaHyQnVN349LOhe1atxkaQz/35E4D9Xppe0Sd8hR8DuBFyzYPC8H7uXHW0mNUyaG5DNW3hnd5mICxkDXjLtvnt5q2HvZfaKyuBJE8DxCcTaJbC2v0pfs/li7JA0VUFiBQ8hZjj+XGKGGZrT9PAERJrEaQ+vATKQpczfGaFOyY5SglPbiXuM9q7wX+WUWOwm7qDUM=;JRnprO+3gih1RMtw9e1nXw=="
+related:
+  - title: "North America is seeing a hiring boom in mining industry machine learning roles"
+    excerpt: "North America extended its dominance for machine learning hiring among mining industry companies in the three months ending December."
+    publishedDateTime: 2022-03-01T13:00:00Z
+    webUrl: "https://www.mining-technology.com/features/north-america-is-seeing-a-hiring-boom-in-mining-industry-machine-learning-roles/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 35
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/mininggeo0103-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+
+secured: "Kw+r2kmdwXS1xoE+yXPzM5CldDHc5Lpd160TYZPWfQ6nUVHT1+wnHLKww+WGulF490W+mrrwFNOYHUKiyhNwoHYjPoEBTsKxi2AUSLez7lWUaGl2mU0l81+ADM8x4z4xRhD+rV6XIImGTyXNZIsXHh7Ak4Z37Lj70RLpgYU3oxt4adftBpcqANEtKcm8ZkMyzIgCvvb1ec2aTRxq2V4Z0rT76pBAXBkTpcnv3QlVXVdP+O5fBDvXkG1wILFLj2scsS8v3DJwwWWd+WChBVLoywMf7M65VTgtUtIAM0Re+qF8moiswIcc04TeSmvhkGd8bj+5J/Rh/w56la/x1SOf+aog/KpZXDJMvVW+omhxL/EEnvSMzCzaJ2nQdMIZTchf3cL22+BhUFlLczPv4vSmAkEKXbX6qKmpLkzmaLR0L4H2UZGvCLR5Al457ljtipqswObCm9J0FklpIya8PqBt+0wwg4hOCce82SmqnK8Ml2IEkaQaCjmzdag88idv98pchXVx6sR67tNyxjF7vI6eDA==;KvbbMZ87dRdkFf5ruWLajg=="
 ---
 

@@ -25,90 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Educational Robotics Market to Reach $4 Billion by 2028"
-    excerpt: "The need for robotics in education will help drive double-digit annual growth worldwide through 2028, according to a forecast from Emergen Research."
-    publishedDateTime: 2022-02-24T21:21:00Z
-    webUrl: "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 54
-    images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Healthcare Market is projected to reach $194.4 billion by 2030"
-    excerpt: "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ..."
-    publishedDateTime: 2022-03-01T11:51:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
-    excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
-    publishedDateTime: 2022-03-01T11:31:00Z
-    webUrl: "https://menafn.com/1103781763/Enterprise-Artificial-Intelligence-AI-Market-is-Expected-To-Reach-USD-5917-Billion-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2022-03/01/EP_7d5d0image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Machine Learning Market size is projected to reach USD 48 Billion by 2027"
-    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Machine Learning Courses"
-    publishedDateTime: 2022-03-01T11:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-size-is-projected-to-reach-usd-48-billion-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Cleaning Robot Market Size to Reach USD 36.63 Billion in 2028, Says Reports and Data"
-    excerpt: "The global Cleaning Robot Market size is expected to reach USD 36.63 Billion in 2028 and register a revenue CAGR of 22.4% over the forecast period,"
-    publishedDateTime: 2022-02-26T00:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cleaning-robot-market-size-to-reach-usd-36-63-billion-in-2028-says-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Healthcare Virtual Assistant Market To Reach USD 2.83 Billion By 2027 | Reports And Data"
-    excerpt: "The rising integration of artificial intelligence in healthcare, growing demand to improve healthcare facilities and increasing funding for improvement in"
-    publishedDateTime: 2022-02-27T22:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-virtual-assistant-market-to-reach-usd-2-83-billion-by-2027-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
     excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
     publishedDateTime: 2022-02-28T12:52:00Z
@@ -123,33 +39,47 @@ related:
         width: 508
         height: 339
         isCached: true
-  - title: "Emotion Detection and Recognition Market is Expected to Reach USD 148.11 Billion By 2026"
-    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
-    publishedDateTime: 2022-02-27T16:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-is-expected-to-reach-usd-148-11-billion-by-2026"
+  - title: "State of the Market Update: Speech and Voice Recognition"
+    excerpt: "UC analyst shares how AI-driven speech tech has brought new forms of value to the workplace in this Enterprise Connect 2022 session preview."
+    publishedDateTime: 2022-03-01T14:00:00Z
+    webUrl: "https://www.nojitter.com/ai-speech-technologies/state-market-update-speech-and-voice-recognition"
+    type: article
+    provider:
+      name: No Jitter
+      domain: nojitter.com
+    quality: 24
+    images:
+      - url: "https://www.nojitter.com/sites/default/files/Sergey%20Oplanchuk%20%20Alamy%20Stock%20Vector.jpg"
+        width: 774
+        height: 516
+        isCached: true
+  - title: "Data Exchange Platform Services Market To Reach Valuation Of US$ 1.3 Bn By 2031"
+    excerpt: "Transparency Market Research delivers key insights on the global data exchange platform services market. In terms of revenue, the global data"
+    publishedDateTime: 2022-02-28T08:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/data-exchange-platform-services-market-to-reach-valuation-of-us-1-3-bn-by-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 15
+    quality: 20
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Computer Vision Market Size is expected to reach USD 19.75 billion by 2027. Computer Vision Market In depth Analysis Report"
-    excerpt: "The latest report Global Computer Vision Market gives an essential review of the business including definitions, groupings, applications, and industry"
-    publishedDateTime: 2022-02-28T11:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-is-expected-to-reach-usd-19-75-billion-by-2027-computer-vision-market-in-depth-analysis-report"
+  - title: "Cognitive Computing Market Size Estimated to Reach USD 148.12 Billion at CAGR of 27.70%, By 2028"
+    excerpt: "USD 20.43 Billion in 2020, CAGR of 27.70%, Increase in demand for cognitive computing in healthcare end-use verticals. NEW YORK, NY, UNITED STATES, February 25, 2022 /EINPresswire.com / -- Increasing demand for cognitive computing in the cloud deployment mode coupled with high investments in R&D of cognitive computing are fueling the market growth."
+    publishedDateTime: 2022-02-25T14:59:00Z
+    webUrl: "https://menafn.com/1103762773/Cognitive-Computing-Market-Size-Estimated-to-Reach-USD-14812-Billion-at-CAGR-of-2770-By-2028"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 11
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?659601"
+        width: 354
+        height: 249
         isCached: true
   - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
     excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
@@ -164,6 +94,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
+    publishedDateTime: 2022-02-25T23:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1645766442.png"
+        width: 1176
+        height: 505
         isCached: true
 
 secured: "L8/K+n9TTQYZQ4NcOaTDeWSRchQwZCQatPi6UawlFvwZUWb2Da9iRWTC/UQY0jrDm1bkelFzr2gI5CiiPt5WYwqKvE2pGf7pEfqhYyv58WNPoFsqOQRunQrUikjhM1wzLqBdJkCmH5VltePbDmlChaUGTzem74X8KEel48rw1ZHH6lqwK/9fsL3MG3sxbCmP+7PxjLaGiKzQA9lYYBo1cPRq+A+byxFnIRkuo6fTGLg6kSufWC/RzhxGL7Xn9AqPrv2gJUStr9GEJ1jM/B0pWzN/Isza7nkPo4o3I4gn2ebGAZ1JOGacekGp8NYv3vj8efhKnInhLlS564qO+LEnYZKPPPZnIUG3ynncIQ3lQSQ=;p1xkXAjdNGYv2ddMuaftaQ=="

@@ -55,15 +55,6 @@ related:
         width: 2214
         height: 1244
         isCached: true
-  - title: "MACHINE AND DEEP LEARNING PROJECTS IN PYTHON"
-    excerpt: "Do you want a Machine Learning / Deep Learning task that needs to be done? If yes then you came to the right place. I can do ML / AI tasks for any purpose. Machine Learning Services: Predictive Models"
-    publishedDateTime: 2022-02-24T23:02:00Z
-    webUrl: "https://www.gumtree.com/p/classes/machine-and-deep-learning-projects-in-python/1426598449"
-    type: article
-    provider:
-      name: Gumtree
-      domain: gumtree.com
-    quality: 19
 
 secured: "vQy+v+YfDNiMlaYJz/RrUOLqfdxE2T7sl/Tf6VsiSynut9ERznh4GH5oK3IPHMl81mPnPNDLIJZvbtB+JnYt2GtAZcyorl9b61VSoYitiiSryYWn09IwMqkzqNUQkMIBGPjy2DYLD0hyQB6f1qg36urNKl819bO5YBe/2IfoLcOnTuz+cisLXOw10ie/lXq8JWrlUQeo/ZFAlrkIrltatmzXkJb6MqaJhEM6dZJp3glF1e9lwg237hSyMfUSZmb6sk745mRglve8GkTh23cxcLcicPwVQGRapSlAnRQvqDj1lervTVpicVvV/OsOt+bSzxJfelrNcq0McZNADOjLtzA+dMq4zr+TrqxofWMrcNQ5DWsvnXsk/o7L0hnPlZ8DOBhKCYbyod/iYaTceoA7C65exTHg500a6xObS+stmtSsY325blg1pjn6G1AJwSNbb2YItGG0CUgs8MP+FGF4sAanLqkwTH9kaBqQxEQkqnowpS4jusk6JHtiVGqJlB0XSrIGB6DvYvP3tLP4NnirgA==;cHF1RpHXYTy37OBKwzN/+g=="
 ---

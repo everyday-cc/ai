@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Transitioning to clean energy using AI could save $1.3 trillion over 30 years"
+    excerpt: "Analysts view AI as vital to ensuring efficient and cost-effective transition ... the launch of corporate and startup innovations, and the transformation of Fortune 1000 companies' digital ideas into real products. During the past 12 years, U+ has ..."
+    publishedDateTime: 2022-03-01T14:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25903755/transitioning-to-clean-energy-using-ai-could-save-1-3-trillion-over-30-years"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25903755"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25903755"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "UI professor awarded a $1 million grant to research machine learning, modeling, and simulation"
     excerpt: "A $1 million federal grant at the University of Iowa go towards increasing proficiency of UI engineering undergraduate and graduate students in the growing field of modeling and simulation and machine learning."
     publishedDateTime: 2022-02-25T02:41:00Z
@@ -40,6 +56,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9zJ957PFC/6pFKPIFEVpOyCp2/+oWDsYFCEbw4S4Mp4S0K135EdDpUY8jn3mhQbiVzAIlijdjAOxb4gpusOfJl5DxzUR9ap1KGB2+tjhNPHMsEuilcVnSFI2vofjXEx39nMeX6Drl9KTRmhZ4m2p0XBkcDv9mVIyRAjc4H/agKNBhJDggtWHxIoA009Cxe5UEC+t2qLcRbd3XdSHpH0TDJNVTHaVX0oxH26HuE6IlG+MmTBPGAtRuvfy8HozCRRjbJ6+CZB4Vfj+1kaNyjXtNcEILoFS49yjGt3lLhW1ynRU/W3ZoHBM2VgqDllZaTL3Ybyj1Q8eyKhx+kdtXkaDzBZUMA6btzwDPhLLiX9R6oI=;bK8GnK46sG4KoI/BA7wgGg=="
+secured: "ZEGD6zL9/+qQgAN3jKS72rqZp69//86aYX5ox92nOMh7zzmksWt299uU52zoYQdzlsclqchN1hXuMmCfL8L7o892Gs9YlCp5u7hOXemnY+xZc7qTNz7EQRiAKvasmnh8FbOe4Kw5DiuGKY/bt3rgbRAN0vR96KnmHJlkfNUpBE1c1vyYag0iUDQc5OMTQnXNeTYYsJAJpYlf2YAhun1whXiKCGPvZsRoBA8dYbwqqcVaHDyjCZ7eFTz7Ce2KGJgCJnD0uykJ+NKA+CCWMMN7Phq5BZy0wTIjMSZxAl6LQcNUCu66ZeX96JJtozJSTidcu/s79WRSslRjc5YDnkkGG/aM/GWQi7wJpRIN8WRT/G1g9jAlOX6K3ehPB4WnuqgkP9FrK6NOCqWOi3AnE9+bLR9JEW7ABiwxWUCFhSu5brmQVjFTHBpdCmBAWfKxcuWWLMBEfJkvVXGePfGaa7Iwvg6ZvLnOXGBFRX6iNIgPvIo87NPzK5Ga4NAfVtbeDo5vKWSYw74xP4TgXWTjNwIaKg==;JdX7H2wKzcmx7IBMCOCGpQ=="
 ---
 

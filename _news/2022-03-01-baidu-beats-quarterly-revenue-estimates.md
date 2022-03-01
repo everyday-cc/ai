@@ -33,18 +33,18 @@ related:
       domain: usnews.com
     quality: 69
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
-    excerpt: "Baidu has also been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth. Apollo Go, its robotaxi service ..."
-    publishedDateTime: 2022-03-01T09:38:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-2528766"
+    excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
+    publishedDateTime: 2022-03-01T07:35:00Z
+    webUrl: "https://www.euronews.com/next/2022/03/01/baidu-results"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: Euronews
+      domain: euronews.com
     quality: 39
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-        width: 1200
-        height: 676
+      - url: "https://static.euronews.com/articles/wires/831/25/8312510/1000x563_hmtk1h.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "m+RvbpP2nN64rYTEMU+lL3Be6LFb7owO1orTCzEN0AC/jimoAw2sra84L092NxUYjKbCGt8MV8dZMrUJPWy/NNQ/YUEkMbg2/AMnZUey4X0Oe2Dme4JI0YwonYepl5HynMvQXG7D1odcOcIsI3qjWMgrJj5hnWfUBtPDufmR6LlJRbSqlGZ343O+pYoq94ps+DfCrYzhEkj92lzZJFA74WySzaJNk8zu9sLVxuCTdfPXMBpRkGOY1+scV3hmi45H4p37yE/oEkWT3KKLupE+X0yvDN6DSekBB5DWwUXE17PwdY0/ASnSY025TYL4sCxz+gJqx4XbK5EnaxfGEM5pmiW1BO8eDZXR3PWydXt31MM=;3V2mF6jeWMVz2cJvDweetA=="

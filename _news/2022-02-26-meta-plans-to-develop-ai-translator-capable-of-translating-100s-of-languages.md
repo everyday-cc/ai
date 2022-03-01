@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/AI-vs-Human-Hero-1024x513-1.png?fit=1024%2C513&ssl=1"
         width: 1024
         height: 513
-        isCached: true
-  - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
-    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
-    publishedDateTime: 2022-02-24T21:36:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 37
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Meta to develop Universal speech translator"
     excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."

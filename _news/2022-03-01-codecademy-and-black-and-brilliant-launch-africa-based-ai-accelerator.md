@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-01T12:54:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576"
 webUrl: "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -58,6 +57,6 @@ related:
         height: 220
         isCached: true
 
-secured: "Vrix92ql5fP6cqSVAKS+BqEZPjmidrxY3HqMKizIh4A8Hczmm8U8ss5XQwTQxH8Ve003p0U8xin/j2g30Xzg7mZhIKibcX/3vwD8uD8dvn9GCW/kKuJSPtZV21uDSoAIzcp3nBxg0krDNHAjh+Ut9soeTCbUfsec2JtF66nszs5Yh90LSEF4dLPIXP8X35R4RjdqmSjEH7Ky2eZgDGq54zCcmL/joljO+2J8yO1ZHrqYa9ogw0q9QQdEfIqJva2AMfTSW59SyRg+KUogKaSckTXS1Ugr5ccdoIewhfw5T/jgURi6y48Sk5yBKy2XUqGVfoJvJeLPJCiavhPScYFWuuyvQ5dtIlvIN6WCQbT1Xqg=;jLNaNpuIoYQHW0/11Zw2bg=="
+secured: "DEn/UX8oFApLmtP5/6xYTSS2s2nIQI6OgWOZ5OZmlsOaZ0webZ0m5w7fyZmdPhjFt78V3EpyNsHsuvyPWtODhmW5+pTNob5OnIG6cYUUUu8alBOvR3YlsLJJHC9pPEpLX3uhIdyXWo548x2XthIBSd1NIY8HbcjA7lo766VA3Vtskp8oH5KqpR1Hy95DZqQ7wK4kpU/j1tz9ecIwpSImizY9SErzcl/oNOqaCirROOfnHnSR1sq8ZzWnXx7ib/+REIuFLqiQnurv7cN4gu9elRRPxIiTQbCzQ37nM0++LSG8mCVMDFXEsuRQaMUG8XkQ1g0cSoG2OWuGJthqixmiWqbPcfO5wmCAnhDZqtAs3nc=;fRW93QjeLsRpgJNHwLtUMQ=="
 ---
 

@@ -3,18 +3,18 @@ category: news
 title: "On cusp of Biden's State of the Union speech, a state of disunity, funk and peril"
 excerpt: "Biden will step up to the House speaker's rostrum to address a nation in conflict with itself. The country is litigating how to keep kids safe and what to teach them, and suddenly plenty worried about Russian expansionism."
 publishedDateTime: 2022-02-28T21:20:00Z
-originalUrl: "https://www.kcra.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-webUrl: "https://www.kcra.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-ampWebUrl: "https://www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+originalUrl: "https://www.koat.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+webUrl: "https://www.koat.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+ampWebUrl: "https://www.koat.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: KOAT Albuquerque
+  domain: koat.com
 
 topics:
   - Natural Language Processing
@@ -108,6 +108,6 @@ related:
         height: 763
         isCached: true
 
-secured: "sIJOswYYlN7QHU4gvdv+X+aUjX5g9R/fofeINiHqiUVzetWG+pd6buD665hzb1ZblnpNhE9IkBU9olYlaZ4bu0/MZoIiAwVuZdkXTNb802+CX31TlezEWBiMPn2vxdtHD4KmefjJJ9bBfRBpVTC4fnlrvTz/nueYjelNdM6D6HkrnpvFH+FdpYjxGkpFRJgUOtpXY5OM9couzddAraIeGunpsykHFOFMkrC6QuFKCQ0ncjuMYBFtK6h3N8IgH5mu8mmoOIk1jFV4g2SNryhXqnSLCCFnKCjAeFxQ9b+5Z7xWrPydYRXCFUz4D91OU8Wb4db0fSQxUr3COv9IqN4c6pR8gpmunjfc+GMLXPIWGlFmO2UFB1xBkgzFm/oxAtN/g62TgpPD8o/Kx2UlMG2PKlSEdga9qJgfNq52ZIr0P/828pbPW5+FqSE/D4t6ubRJOk/KFo2LGUafFJNZLPEc/xD0tyTs4Ztg3BNnxawmdjUxUgTlt/2Krow0cY8hRQGTdLr0vFHsZxKtNArDGH9qNA==;h59oe73N7+A1CySTvbn9/w=="
+secured: "dUNNilKvFkSfS+Ik7BjWVP3xf9jYWEIq3oikOMWTpU7zWaYmCzo2dewP1tdpObQOkl7BemiMFDWXjYzO0G27wSC124OZCihxO3EaATafzf1qanpIkaUbcz6FbGh0f1JCrYi9k+g2OmWXSmWVpoqBTACzwaurJ7HzbZEH0kY+5+45qpH55b5M55e7fRjTgnGVVHFjynh/0KYzsmR1sVnYE0SXXbcfKhgQMjNWZx//+aXks5/R+qjxnEYYT+62xd/tDR4ScVxyakI2ip15aaNw/Yvbqo7OaPDdlHPnS8eKoPl3kI9kbzoVxO2nni8pKLHmQ4iOj3FWMGX820eMWQn5Fe5ocYVgb0N6ONhL3qaqwys=;CDhX9dHKpF06IZaQ5Sb3jw=="
 ---
 

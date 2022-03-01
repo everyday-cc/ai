@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 513
         isCached: true
-  - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
-    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
-    publishedDateTime: 2022-02-24T21:36:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 37
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "uaB9oYppVeXf2I7pMF6PccVu8agSC8P9KkWuZyhTNHvQiVsR2DTRdOlG4scqYUCkvFHYoV55wYfI57W3/F20/L/O5cTpP/u9/+0eHVQJekVlcMKjQy3Ao42wZQ2xZogZQoy+ZtZ2S8axXjFAoxAQH8g0fzCA5M4kqvcqQZxn1IL/Pb0WZ3k7GziDkaugSTEjbxCBdBqw9+y6ZiOvy5SCLBnq0wub33VvigxW21rGklqZpjkfoTuwpcorLLN8roQlSCf84ZupE42B6McQtqv+kyN1RH+qBvgY3xga3IsLh9jc9w0qdWLPS2t8Ts44jtvyEIJyGz5SkvNz1B5Cjusje9PWL2UOQT0zzL11bqUt0A1JprWbtosxQqI1LX0kjKfByzjaTiKuzT6QOn9p25OjvXTasOQLq2JKFDilaZLOb2FgnkEiC7h2gDhqZ96HWNRYMsT/aoH9A7YZtntxi876I1g6vAliJC3PFt7IYxGSHwg5n6Uq5tktrhIjj7eFXZGONLL4i8pBB6wdkvBUhK5dfA==;C7xJzhRfueJ9qjHMbXxCBg=="
 ---

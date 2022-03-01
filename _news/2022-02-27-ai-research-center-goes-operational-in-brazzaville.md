@@ -46,7 +46,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 67
     images:
       - url: "https://mma.prnewswire.com/media/1659499/Codecademy_Logo.jpg"
         width: 400

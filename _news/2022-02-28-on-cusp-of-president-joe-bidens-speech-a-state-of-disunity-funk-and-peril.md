@@ -30,13 +30,13 @@ related:
   - title: "On cusp of Biden's State of the Union speech, a state of disunity, funk and peril"
     excerpt: "Biden will step up to the House speaker's rostrum to address a nation in conflict with itself. The country is litigating how to keep kids safe and what to teach them, and suddenly plenty worried about Russian expansionism."
     publishedDateTime: 2022-02-28T21:20:00Z
-    webUrl: "https://www.kcra.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-    ampWebUrl: "https://www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+    webUrl: "https://www.koat.com/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+    ampWebUrl: "https://www.koat.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
+    cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/before-biden-state-of-the-union-speech-what-to-expect/39270396"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: KOAT Albuquerque
+      domain: koat.com
     quality: 39
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-gettyimages-1373741404.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"

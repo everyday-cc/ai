@@ -8,7 +8,7 @@ webUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-mod
 ampWebUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://photos5.appleinsider.com/gallery/47216-92027-snapdragon-x70-xl.jpg"
@@ -163,6 +164,6 @@ related:
         height: 767
         isCached: true
 
-secured: "yP32M2XUPddrJY+UyKRnbqYRvhgamCC/3oEeup4qDWrOWrWKgj0wUrGkVxNVNk4tCXMLGxsT3ewLHcAAmHaoC9no6MFUs93IHuNMqXWhzuD5AdsTv1NwHrhktTy5q/sG2ynBxq/MBT/QnddjAKFErUiir3KEIF1mcq5y+HR7G7KCLom93xVff32aHGSwC5B/63NDlNVlNRG0LGPY677OFXWOwBph+Wit3adz6jzFGODu0QSNIrv6/zENLBG0sfCfQHHDQZO/pqmta2zUPHWeZ6odVeDoAlQ0iH5PFrIsJYOObH1kw4gX+pf3PxHG6uTwO2oc90tP8p6Q6Jmdz5VwGYXIYG43zGEmNXi0MdgNQkk=;wPURbekIZw6pbpkWwaz6QQ=="
+secured: "tOjCbEIkIfqR2qeSXZWSk9Vwkw3J7CWAnq30aKjvnfGZGx3xAxSiyXGuiWYy1ZWFHlLyXDmHV0rOoi821CipGib/tYrUokURloJrWdZn7O75CbSt9kx1Z/dBAen6soPucQtiGGl39AQmFYsm66bg0NzwjFRsTBdCbMO1Xsne1Xbr+ZpOhT2SucIs+7Br9JCpR7lN5oohKoOEF3AJm5Uy15FfVEc09e08myXvjolEn5ny/d7WSl68g1DYnMExsty5RjN+NaUHe+W/lnYyD8D1y5C76h161sxN7VVixfuKt1JpRM9FQ4X7jh3L3aQk0l8cGFxI3UzmDjpYZ/UR++iSElrf73FSuI4alnHhWnIGmpAM8E+UyUT4Xd5Oleq2L/NyiFGDVXTXvQe2nksT/yxQGskAAr09O9Br/ujwMt6AfL7TxsCQOZj2mX+zGABHlg7no4hhy5cVGoTBEG+Tb1iXNLS0fTstOmMTzcsToxcktkGfyG0BXNyceG9XBtHY+qaIoShwDYoJ1sGk3Uy0O17jKg==;MAvmweQkFgzBR5aY5kpALA=="
 ---
 

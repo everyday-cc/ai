@@ -103,7 +103,7 @@ related:
     provider:
       name: AppleInsider
       domain: appleinsider.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://photos5.appleinsider.com/gallery/47216-92027-snapdragon-x70-xl.jpg"
         width: 1312

@@ -26,22 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration"
-    excerpt: "Looking for the latest Government Contracting News? Read about IRS Ends Use of Third-Party Facial Recognition Software for Online Account Registration."
-    publishedDateTime: 2022-02-24T21:36:00Z
-    webUrl: "https://executivegov.com/2022/02/irs-ends-use-of-facial-recognition-software-for-online-account-registration/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 31
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/24/02/43/a0/38/e2/d0/89/54/00P4y000011p6OsEAI-1.png"
-        width: 272
-        height: 270
-        isCached: true
-
 secured: "pF60ckZw5EKT6C/4oxg9OhKC5ZAyiuard+rABRjQhdSWhD0LclzQCrvjZ3lAzj88UUl8he2xfXsPWcMRGBoO6vZzGvEYg32cPSP0Scha52DdoOVPvLn975IJBpNlnry2tHQCYgx80R9VOlUZiDJ6sDC3PITTrG2uTgS5I65EvlFymKyy6HPEJxS2ivhSH1J+N8/Z0bswGcKMnIQe4kxg0zjqLraPWNF4Mrt1ARSeLNvYwb0GXvfF1hPGN3P1CbZvU4G3+Tp4Owp/cAZ2C0Y0zoUnlLDtOv2rBiKxfHH9Sp13YIDj9/VdyDcs9WD0aBh8mnPGGZg+U/3PTHCXOwSgrAUyI+wTE0ZOb9CW8z7j1QBjGPCJ2RBpIetqli5qsUdcSEWTiawiS+FkqHtlAVURBYd/yPb0wy55cYBVbe8/syazpNMkJzAXxspx0a5LWWvyWMYmGdppREgQ0Ke3sxWIlbCZmfWDDKgY9frTi59601msKCW2sIbDti13n3GuQNI1IYjJYEiwqJTl9fz/CZ3NoQ==;OItvbic8gxl8kRePGH4DDQ=="
 ---
 

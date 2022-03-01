@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-01-ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision.md",
-      "title": "AI in Healthcare Market Next Big Thing | Major Giants Google, Microsoft, General Vision",
-      "excerpt": "Advance Market Analytics published a new research publication on “Global AI in Healthcare Market Insights ... ai-in-healthcare-market Scope of the Report of AI in Healthcare Artificial intelligence (AI) in healthcare is the use of algorithms to manage ...",
+      "path": "_news/2022-03-01-ai-in-healthcare-market-is-projected-to-reach-1944-billion-by-2030.md",
+      "title": "AI in Healthcare Market is projected to reach $194.4 billion by 2030",
+      "excerpt": "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T23:59:00-08:00",
+      "publishedDateTime": "2022-03-01T03:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI",
-        "Microsoft AI"
+        "AI in Healthcare"
       ]
     },
     {
