@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/02/tr10-synthetic-data-16x9-1.png?w=2256"

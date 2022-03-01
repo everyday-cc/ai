@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/human-speech-recognition-model-to-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medindia
@@ -28,20 +28,22 @@ images:
 
 related:
   - title: "Machine learning improves human speech recognition"
-    excerpt: "To understand how hearing loss impacts people, researchers study people's ability to recognize speech, and hearing aid algorithms are often used to improve human speech recognition. In The Journal of the Acoustical Society of America,"
-    publishedDateTime: 2022-03-01T16:02:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944641"
+    excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
+    publishedDateTime: 2022-03-01T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 56
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3bfcfecc-b8b8-4a78-b421-6e5fc26bc004/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg"
+        width: 2880
+        height: 1620
         isCached: true
 
-secured: "xDcZlknPfQz6s8Ith1dmTjT3vEnqt376uCyciEwnsXsRzxnJ8FyyffFso7QvClvKA8PwGwz9HvuC2PXrXM0rFhpj9sfF2TXtR/D9aAum6H3E2dzHxYsWobFUeIBpwGDveBRxieqlPhjGzd4+SVc/Tr+C2D9yDbn7j2D8VyAchfvCRm1mFgZPn0dNjFrr4s6BEAUvuBWI4SJ5LTs1e+reK+5weHYV2/8i043bsjEoS8792gQxgRSeGkHj4CxZU0+YjggxPz+zOr+mnZGy0AsbqcSQuSrWxs/hK8811Pen3tGrCWcWrzexuur3Z5vRSPC81KelMXcIg4kS9jagMnRsqYsQARh+KnbV2pPyXgdMTfU=;39psnirsk8w17kN+mK9ywg=="
+secured: "Fo8Mwj1qcIQdfEvCOeJuQK4UKAVUNzfXoouoPloac/UjLMtIw6YHL3jrq40+dqnM0Pez9f4RPfTkIHecw4HJO6Bg9iT2VUl6N9Toko5fV7/oOdQkXWexwGoHjSIj6mHvmQYfpwXqdCUksBGDpI3C9s6Q7ANlOsZfNSkxNNzS45MglcxtqunUbQHi/pmQd2mx+JmO7+gobDIo0PzAh7Jr1vxnrdhncORvqDiRQqIx+TNge1SvyWYwIL5F+9Q+W+XMiZ9ilKNe6zlTETv3h5HtEdcf1FpbPe9cUCKIIcPZoCfUBlZhQ2Gu79Vs1nNQhM+g0eKsggORAErZ+Pi8jeTHXrUtaK/89ot81tQFPF0C+She8dIZ730TlVqj4ZKEPR6L+Gpam8eG47sGYWtUXiDlP9nk4GqSQuLWfcj5jyD6ieW890hz1+0MKLdSXQa6APkD+eVSU7+GBrbxYztToyBizeNbeMOw23jCqK0U81FMups5IFDS3WvGnrNGNNgWIagn8gQa+lw4edxDf2oJAeV/rQ==;ZkNGGAYtIvpdJYMeVYbG6g=="
 ---
 

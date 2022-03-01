@@ -43,6 +43,17 @@ related:
         width: 848
         height: 477
         isCached: true
+  - title: "Codecademy partners with Black and Brilliant for AI accelerator in Africa"
+    excerpt: "Codecademy announced that it will be partnering with the Black and Brilliant advocacy group on a new mentorship program and accelerator in Africa. The two organizations joined for"
+    publishedDateTime: 2022-03-01T19:38:00Z
+    webUrl: "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
   - title: "AI research center goes operational in Brazzaville"
     excerpt: "Prime minister Anatole Collinet Makosso of the Republic of Congo has expressed “immense gratitude” to the leadership of the United Nations Economic Commission for Africa (UNECA) for choice of Congo to host the first-ever African Research Centre on Artificial Intelligence (ARCAI)."
     publishedDateTime: 2022-02-27T15:18:00Z

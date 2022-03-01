@@ -7,7 +7,7 @@ originalUrl: "https://www.caixinglobal.com/2022-02-28/sequoia-china-legend-capit
 webUrl: "https://www.caixinglobal.com/2022-02-28/sequoia-china-legend-capital-lead-188-million-funding-in-self-driving-truck-developer-101848042.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 560
     height: 373
     isCached: true
+
+related:
+  - title: "Chinese Self-Driving Chip Startup EVAS Raises Almost USD31.7 Million in Seed Funding"
+    excerpt: "EVAS Intelligence, a Chinese autonomous driving chip startup founded less than two months ago, has raised almost CNY200 million (USD31.7 million) in angel round financing led by private equity firms CTC Capital and Sunic Capital."
+    publishedDateTime: 2022-03-01T12:29:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-self-driving-chip-startup-evas-raises-almost-usd317-million-in-seed-funding"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 49
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-self-driving-chip-startup-evas-raises-almost-usd317-million-in-seed-funding/5265936897733.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "fJBD3hfx+MU1RO3z7Ok8vEbdeXRjWP7DxT6n6pwJJMS5GIb9DjhnRF7rlsRlUZ26sTo2pw/2E/5+GfuD+0oUpYvX2mvQN1JUJsA49enBlyX4DliYpciJvyKvaCkBy9U5Wn+ihnCc8q5WNCZAOMWYcK3hz1kU8U4JmzPn2dO1io4G7cZDTXL2iDsyGikoR+yfxyEtVVSX7qLwQGwcUarvgC5wuM6HDPb+DHLICeWiF13iuRcZG1TEG+BiJjUKkXLMigMfy8M/Ra0HpK/hyCm4w4+oDd2dc/20WhY6J+FDgn2H0A9F7TDCDZRFNyRdj0/g0xfKF9WssxcuklxUblAXJAejvo8A79FSWZsxM6HiwgBEmnwBJi9pfV++qVnIfbD8Yu/uaKtglmdPYP/qNB+xhTHoR+d6NKWcyeFHKoxINi2sBLG1f73TzaHIiJfjN2WSUi1vk3USA6kIQIBTThyaWTRjAXRdnt+9mgyRdCq7Pmik3JBG0fSqFC8Q1BWVEgsCtFKYcuQ0ofIYiiqOk40VZQ==;0FbNbNbBR/vNsq8YhE/vng=="
 ---

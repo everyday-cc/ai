@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-trucks-start-to-propel
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200"
 type: article
 quality: 74
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Self-driving truck company Embark eyes real estate across U.S."
+    excerpt: "Self-driving truck company Embark is scouting for U.S. real estate. The company said Monday it has partnered with real estate investment firm Alterra Property Group to identify locations across the Sun Belt that could be utilized as transfer points ..."
+    publishedDateTime: 2022-03-01T18:56:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-company-embark-eyes-real-estate-across-us"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Embark2-MAIN_i.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eSZ5CtTqlxbte/54L23QchKQLu9aiqtC9XNeiyiwDM/G2uRj/IkFsNMsJRlY16wWB2ViB5Fd0Jpdx8OH8mmClqNSpgpzdStdZyuvp2yWAR5zbBr3Dswxdoih6ZzXRHNIgB6Lse9bW/bjLUr5MfZyznJ+EeuNNgxMyVZYC3HNgxQ18sT8Gzr15KaKX42/i1QWgskrK0CdOp+AIGYWqXGiTC2ojds22OODpOB/x/ZPhRswB7CIQkXzjRpMBc6tt5zxkCj2lNZ0fjTAosFWytVTvo+DZa+wld3W4+93HZ+Hblqw+WvLObISRJ08/3sil4W/pHmol2dWxaCGOv8/8Gp/d4wHSAKyjq6Pt3uJd1RI4ms=;pP08mAF2GEOQdG7eKQNNig=="
 ---

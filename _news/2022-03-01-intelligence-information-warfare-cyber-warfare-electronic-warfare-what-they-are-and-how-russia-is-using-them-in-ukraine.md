@@ -28,14 +28,14 @@ images:
 related:
   - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
     excerpt: "Russia has one of the most capable and technological militaries on the planet. They have advanced intelligence, information warfare, cyber warfare and electroni"
-    publishedDateTime: 2022-03-01T18:02:00Z
-    webUrl: "https://www.darientimes.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    ampWebUrl: "https://www.darientimes.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    cdnAmpWebUrl: "https://www-darientimes-com.cdn.ampproject.org/c/s/www.darientimes.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    publishedDateTime: 2022-03-01T20:02:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
     type: article
     provider:
-      name: Darien Times
-      domain: darientimes.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 30
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

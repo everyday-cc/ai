@@ -52,6 +52,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Codecademy partners with Black and Brilliant for AI accelerator in Africa"
+    excerpt: "Codecademy announced that it will be partnering with the Black and Brilliant advocacy group on a new mentorship program and accelerator in Africa. The two organizations joined for"
+    publishedDateTime: 2022-03-01T19:38:00Z
+    webUrl: "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
 
 secured: "6BSSZQq4h4fKGwOKiDrW7kU3uoKXwc1lt+peQY85zmGGF/okM2xW/whd5dNc4CSJtpt38lJHvWhfhireNe53ASLctOJqV7MR2j7ugHCJ3Zt8lV3VuK+Xqk4qSvjuQcBkpWwJz64J6vZjsSOr6y6Ux8qCvZxUemEa6KtGTIJU3d0pTFpIJ5pMmEM13UwyJ+CGLdGa2NIlFirZ6GdlG/qGKAoNoDxRO7AmuxdRg97dh32ytbUhozf4Fv9993+/uS8fiE6HN3/ypEGb8IgkoaPLLb3Qll9hgxpz3yQMg/KdHJ8D9Jd7GRnlYfU7vYXloEcTuEnJ90PMqLn9xZWj/wXY6twPriN60LvGYPblWQuJ4fw=;loxsI2tw1OGmaAR1HAkVnA=="
 ---

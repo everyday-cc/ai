@@ -1,25 +1,23 @@
 ---
 category: news
 title: "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency"
-excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities."
-publishedDateTime: 2022-02-24T18:31:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d"
+excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net"
+publishedDateTime: 2022-02-24T18:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency-1031228263"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency-1031228263"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "91zLxKivRTIG6pFDsB0F2ZDVQ3nQHqiDC0n/Kot8M0fMqTzByi1zsI0akrDrjBGMRdZjYE4yQnZKx2ajqG0e/DWYtv85H4E+rPrp9W1SE722KkXZIzG3NTTjgy4gR0om37NWkuB5Z7umFik5wLCOUzEafu3RrsMPNsj6mQwEiXkDVm/pGRiANQhJUjfv9pqzY12zRe647w6dNZ3z5lcAULGZ+PkMR4OuseqndiFMr3sYnvGFXjyvJaHWWL/pFCznv9etQi98KsKqh4DtKtgwkMHtaXiqAOzc8R1iFQ8Md76kUOV6T8znDDLQsKsaSM1AmodqhsbxexBNwkq/+X8JMFNUUjIcKP73UetKW1AFXzo=;vP/6QFQaax1Kc6y/XyvlGA=="
+secured: "YnXigLtFeAq/zum5I8jciTzUJavijvaJGe2yS5YeRY4g01rvC3O6BzeEBjUQk4MvZP59nSloRrdBRjpBDPmfbjVr5OWvMBXFOndfZbRKdW+TjL1qM6a7mqzhxJx3YFauRy1eGbNV1sGzCUrwDWhQ3DBJYDsGXairGQoh7U4icTAlBSym0Nbui/s/P+6/kuzePUIkK8u9y5WOB7Zu1NnpQ3mPdpFsN5FbWSrRgnykzT6laqBbqCBWzLPjDqZ7iLDY6g54m2VdRgxkrU3kDDrPtNYEoRyHqK1I0i2Lpi9WNyOPoadQsKJrDdlUFimSCOpbPL35jJexHJNvNA1sNH5OmUF1NBQzmM110wEu4rmRIU4=;D9wr5xU4RSo8tICsMV1F3A=="
 ---
 

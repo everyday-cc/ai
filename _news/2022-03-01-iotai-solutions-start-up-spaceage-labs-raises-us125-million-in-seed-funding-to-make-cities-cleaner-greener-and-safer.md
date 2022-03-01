@@ -1,44 +1,30 @@
 ---
 category: news
 title: "IoT/AI solutions start-up, SpaceAge Labs, raises US$1.25 million in seed funding to make cities cleaner, greener, and safer"
-excerpt: "PRNewswire/ -- \"Growing populations, increased urbanisation, rising labour costs, lack of skilled workers, high safety standards and social distancing stipulations – various factors have been coming"
-publishedDateTime: 2022-03-01T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/iot-ai-solutions-start-up-spaceage-labs-raises-us-1-25-million-in-seed-funding/article_bf523a6f-1284-518b-b2da-b63640ad9eaf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/iot-ai-solutions-start-up-spaceage-labs-raises-us-1-25-million-in-seed-funding/article_bf523a6f-1284-518b-b2da-b63640ad9eaf.html"
+excerpt: "Company will launch pilot projects in the water and landscaping sectors across Singapore, Australia, and the U.S, to demonstrate benefits of its cutting-edge IoT/AI solutions SINGAPORE,"
+publishedDateTime: 2022-03-01T14:00:00Z
+originalUrl: "https://www.asiaone.com/business/iotai-solutions-start-spaceage-labs-raises-us125-million-seed-funding-make-cities-cleaner"
+webUrl: "https://www.asiaone.com/business/iotai-solutions-start-spaceage-labs-raises-us125-million-seed-funding-make-cities-cleaner"
+ampWebUrl: "https://www.asiaone.com/business/iotai-solutions-start-spaceage-labs-raises-us125-million-seed-funding-make-cities-cleaner?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/iotai-solutions-start-spaceage-labs-raises-us125-million-seed-funding-make-cities-cleaner?amp"
 type: article
-quality: 11
-heat: -1
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_146.jpg?itok=1PMGXbBD"
+    width: 763
+    height: 509
     isCached: true
 
-related:
-  - title: "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker"
-    excerpt: "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language"
-    publishedDateTime: 2022-03-01T18:11:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg"
-        width: 2304
-        height: 1056
-        isCached: true
-
-secured: "5QFJF8GS/tGrGmtzyfhEjmV35AJJnOcP69dj4EP4yFwWuZmL66Fe2CzCoSV1Z8GTMGUdHgTcB0pzUGbncZte14iYpq6YzUy3CKzWu5NUobzuLiDWcYPJpffU4jTtx94PCAhYQAVtGijeIBIWMGp2at+406/QlUDCNnqtcd93lELI3oXUAPw9Xkh1QGjUdDR1KmTeH1/15ssKoS7rG1WzTnVVq2GgD8sEkrHx5Sv1NXmsLIj3CtaKEHkH9KWSMlxruwz5Mi8kQgwXWy1C22vb3/hNZjrlc3nkoySQjBmg7V8b/3lT3q+VZfVccsp4gvjMD2po00rXYz41Btz9NgjXNKT64rK2dIZUWl+IDimAB0/XZzSAJFp2h7X9ADxkhvMSG+0mgxgSP5jOASaIq6xM3PyYyXhoCmJ6yHJReR6BMbI+TRh/JT41TVTnHS161e6yHbd5IP80WSPECUTly0ud7XqjkGZQnkGbfoxT8SbFskh/vfuSMLOSUd1oRRnGN0fYihqd6kqH8DbxDQHV4g/Cng==;lDaan/BXUtuITJiW0oPfIQ=="
+secured: "OnFVV44EugC9h8iROX1kxuP0uC798Eii90sZH7e1nFYKg4Q6Gei885Rysz5Oq428NVwOoVyTvenQBfi8fYcU6NRgqX+dh2esOh7tM3jZ2UuthL8FTb6L4Ux0MDoxub+mU6i955P3ybdttTbgXvEoud7Mg2KGP9eeMSDvCXxA8It5flF5q9cbj0ro/01pbwwINyL+E+627dHRhMEehfuybLSqRp3y8Hpd2QWh5zw1kvYSX0HqMrDAFVJPpenQtcuACC/fCyfqdzSN8Y3qQp3uDSk38to8yeM02bRE+e7Beu9NryvjVPbm+bU2c1pVw8dnO9q96StabYsjmBXbNYGbZ8MUvJdufRMKdWOGfbUzjlI=;O2trtenPOD9oYEB2J/t+4Q=="
 ---
 
