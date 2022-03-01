@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning poised to improve breast cancer imaging"
-    excerpt: "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. \"The near infrared spectral tomography (NIRST) and MRI imaging ..."
-    publishedDateTime: 2022-02-24T15:03:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-deep-poised-breast-cancer-imaging.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-poised-t.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deep Learning Fosters Better Breast Cancer Treatment"
     excerpt: "New image reconstruction approach now helps contribute to better breast cancer detection by allowing breast cancer imaging to be recovered in real-time."
     publishedDateTime: 2022-02-24T18:29:00Z

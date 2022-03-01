@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is shaping the cybersecurity arms race"
-    excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find themselves inundated with data they need to sort through to manage their cyber defenses."
-    publishedDateTime: 2022-02-24T15:50:00Z
-    webUrl: "https://techxplore.com/news/2022-02-ai-cybersecurity-arms.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-ai-cybersecurity-arms.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-ai-cybersecurity-arms.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/cybersecurity.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "How AI is shaping the cybersecurity arms race"
     excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find"
     publishedDateTime: 2022-02-26T15:10:00Z

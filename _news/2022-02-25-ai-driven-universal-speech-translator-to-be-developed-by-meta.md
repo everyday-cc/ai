@@ -41,36 +41,6 @@ related:
         width: 744
         height: 418
         isCached: true
-  - title: "Meta is working on a universal language translator"
-    excerpt: "As part of a recent live streamed event on Wednesday, Meta's CEO Mark Zuckerberg announced that the company is working on a new universal speech translation system, which will use an AI to translate 100s of spoken and written languages in real time."
-    publishedDateTime: 2022-02-24T16:47:00Z
-    webUrl: "https://www.gamereactor.eu/meta-is-working-on-a-universal-language-translator/"
-    ampWebUrl: "https://www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
-    cdnAmpWebUrl: "https://www-gamereactor-eu.cdn.ampproject.org/c/s/www.gamereactor.eu/amp/meta-is-working-on-a-universal-language-translator/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 44
-    images:
-      - url: "https://www.gamereactor.eu/media/99/facebookhasnow_3629973_650x.jpg"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "Meta announces plans to build a universal voice translator using AI"
-    excerpt: "Meta, the owner of Facebook, Instagram and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” Meta CEO Mark Zuckerberg in an online presentation said that the ability to communicate with anyone in any language is a superpower that is dreamt of forever."
-    publishedDateTime: 2022-02-24T16:32:00Z
-    webUrl: "https://www.radio.gov.pk/24-02-2022/meta-announces-plans-to-build-a-universal-voice-translator-using-ai"
-    type: article
-    provider:
-      name: Radio Pakistan
-      domain: radio.gov.pk
-    quality: 41
-    images:
-      - url: "https://newsimage.radio.gov.pk/20220224/1645719685.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
     excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
     publishedDateTime: 2022-02-24T21:36:00Z

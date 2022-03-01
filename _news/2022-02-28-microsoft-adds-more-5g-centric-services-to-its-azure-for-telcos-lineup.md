@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-cent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_56%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/df797ec8ea07fe3ad70113e77b6afaa5e3fde39f"
         width: 1200
         height: 628
+        isCached: true
+  - title: "KX Strategic Partnership Agreement with Microsoft"
+    excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
+    publishedDateTime: 2022-03-01T08:54:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220301io77416/kx-strategic-partnership-agreement-with-microsoft"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1756706/KX_Strategic_Partnership.jpg"
+        width: 400
+        height: 240
         isCached: true
 
 secured: "RG6tSdIslFdu5N1MhD0Onty41V+To6lUVuyIoZKsx/1rxNZTFAd/nQpG5KakFY2EF/jWrY/3UazyAdQU0Wj7z0WZctJ7O3VTh661zHPmzJ4M+c/+Szj0pUyIKlfln0b635hYFCtH3/JQbNU3nrhlM5U8Y9+hrnCYL/wodrJ6ZoT3ioDVgDOVaicdTy69AmFZgQhzjQ/A3Y6hkrwd/spGC/VtKYVEDiuyCvipLF48hBCFFySd+pUP0x0obaWmPhvYgliA8y7aUJs9ynNvySRv/F4K93QDu/g6xaEdWlBKAXoTQj1vj1rw/WulTslDLWO2adyBicneDVaaxba2cpolqjhhksYQXAGgMV/2w3CdYqEvkFFAMcNiwMeHBRaj7N+JU5poZm1NZEYNrhRy6tfQuxUzIRxzJH+Of2Bcp0N2yHunutfcgULmc4Lwb39efxj23+rxuU2R2IRagUgz2zVZiDgMCe4rLNAELbX8hczlFZCU7WqLsxm83iVE+oGintEUbykLElOFiX5vM9M3GlmgCA==;ZUE9gXF2kI0RB7xp9OdGOA=="

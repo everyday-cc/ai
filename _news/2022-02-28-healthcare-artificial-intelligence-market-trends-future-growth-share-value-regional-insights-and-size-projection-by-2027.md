@@ -37,6 +37,34 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Trends and Forecast to 2026"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence in Healthcare Market: Industry Trends ..."
+    publishedDateTime: 2022-02-28T05:40:00Z
+    webUrl: "https://menafn.com/1103772216/Artificial-Intelligence-in-Healthcare-Market-Report-2021-Size-Share-Trends-and-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/28/EP_e1003image_story.jpeg"
+        width: 1000
+        height: 647
+        isCached: true
+  - title: "Military Robots Market Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2027"
+    excerpt: "AM ''According to the study, the global military robots market size was USD 13.87 billion in 2019. The global impact of COVID"
+    publishedDateTime: 2022-02-28T10:41:00Z
+    webUrl: "https://menafn.com/1103773940/Military-Robots-Market-Analysis-by-Trends-Size-Share-Company-Overview-Growth-and-Forecast-by-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?749209"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
     excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
     publishedDateTime: 2022-02-28T13:15:00Z

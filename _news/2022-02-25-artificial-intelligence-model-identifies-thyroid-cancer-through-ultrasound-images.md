@@ -37,15 +37,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
-    excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
-    publishedDateTime: 2022-02-24T15:24:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944395"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "J6HxeYmuzfeF4J8DL/MjvqdqLZFcqCpw5EMyE9f5FecIsqOt/5z4OhXPctq7JzXIOHYLnIlr7bCwY4kFjoCCPo1IeCwa5E1TxsRLzC8pV0shIZ+FCeKTYzw6wBs2JsAW055pazwWtD/2reEb5/k2X4hT66MKJ2VlWChbTJQHDzwztos+6bUZNXPl5FGVZawq2K4qxVbtoc0FfNg+sC3/Ll0b1ldd/Kf9HEHlJBTobH2Wf2h2bDXlbt+/hCRpYt/fqAFCBSL97Gm9JjpX1BWOw0cFi4s4f38KUjZXGziVCe3rg3mIRV9MexJQKbQ1LVJneYbhfglu7XqCLazIE3Ad/U+lAik/EEs23gUINmsTCuQ=;UJ3xFRklf0eK7jOqkbtodw=="
 ---

@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Disinfection Robots Industry to 2028 - Featuring PDI, Nevoa and Skytron Among Others"
-    excerpt: "Technology (Autonomous, Semi-Autonomous), End User (Hospital, Transportation, Hospitality, Industries), and Geography -"
-    publishedDateTime: 2022-02-28T13:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/worldwide-disinfection-robots-industry-to-2028---featuring-pdi-nevoa-and-skytron-among-others/article_86838c40-12ed-54ed-b073-cd896bf90430.html"
+  - title: "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029"
+    excerpt: "AM 'A new market research report by Future Market Insights on cyber security in robotics market includes industry analysis 201"
+    publishedDateTime: 2022-03-01T08:46:00Z
+    webUrl: "https://menafn.com/1103780722/Cyber-Security-in-Robotics-Market-2022-Key-Players-End-User-Demand-and-Consumption-by-2029"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 27
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 60
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?55562"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Cyber Security in Robotics Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2029"
+    excerpt: "A new market research report by Future Market Insights on cyber security in robotics market includes industry analysis 2014-2021 and opportunity assessment 2022-2029. As per the findings of the report,"
+    publishedDateTime: 2022-02-28T04:52:00Z
+    webUrl: "https://www.fmiblog.com/2022/02/28/cyber-security-in-robotics-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2029/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 55
+    images:
+      - url: "https://www.futuremarketinsights.com/report-images/image/cyber-security-in-robotics-market.jpg"
+        width: 650
+        height: 372
         isCached: true
 
 secured: "x/1Sv9RJlnxBfkI79boNlFNCGJhpdt3FFSENY8xMQMA263Mgksl7wTvJ2U4BEdz8F10eUFXApi+wReHXJiBKAwspkZWmn/3ljn1Q1+DtiAMZx1LYRuCJv2rpx8CPC62K/tIP2qzf9eNu9mBLv/rUdKgI2j2Ae5R1ih3KKjjsXz+wqNp3KMKKSTN6t+WETQ61aoeRH6/4dSxov6sVqKOLHWp2B+xs1ivO6JZpq3/KWLoihZ1CLk1korexNHISN6NS/3NwMERsLsvz+6b6210QxyPQGWVzJwsxERDOk/DKxiZtNvPSHawr/YhjDYGKo8NtoQlqv1AWWpia8Lg6u6reMpbLK3z7L/TKCY6xtwTe9pM=;06XKdA67XuVfuRkTVIzGjw=="

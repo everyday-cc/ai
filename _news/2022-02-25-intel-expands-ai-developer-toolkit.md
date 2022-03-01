@@ -57,17 +57,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Intel expands AI developer toolkit to bring more intelligence to the edge"
-    excerpt: "The significant update to the OpenVINO toolkit is one of a series of announcements Intel is making ahead of Mobile World Congress related to software-defined networking and edge computing."
-    publishedDateTime: 2022-02-24T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-expands-ai-developer-toolkit-to-bring-more-intelligence-to-the-edge/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
   - title: "Intel updates AI developer toolkit OpenVINO for higher inferencing performance"
     excerpt: "Intel has updated its OpenVINO toolkit to bring expanded natural language processing (NLP) support, added device portability on your hardware, and higher inferencing performance. The tool is used to develop applications and solutions to tackle a range of tasks including emulation of human vision,"
     publishedDateTime: 2022-02-25T11:56:00Z
@@ -81,20 +70,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Intel.jpeg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Wind River Studio Supports Intel SoCs for Real-Time and AI-Driven Intelligent Systems for Aerospace and Defense Edge Applications"
-    excerpt: "Wind River ®, a global leader in delivering software for mission-critical intelligent systems, today announced support for new Intel Xeon D processors. Part of a multiyear effort to optimize Wind River Studio for Intel IoT system-on-chip (SoC) offerings,"
-    publishedDateTime: 2022-02-24T16:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-cf986a4ea91a476da1837807438e4bc5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Ly8BRdRe2maAK59fUQohwl4m4f9+N8SwlYqu4UC+Nb0MjV2cUSYKxMOoUWrd7EVpKho5NV1W18sHWSnTTk3U0KtKKzrpwjfqnd1EwT0tHMa3X9hOfA0qJG/heJoP1NVMJ+s0SsKSwlzkLTpPq3/X+cavSL4AoTNJ7M1xSZN3RmCcbunF5gQyigCrMRsQgT0rV41fpoTlEiHxgkyxyuXOnNLQ/QGdAUc31ZwxB4YQJRKphu1blqqWW2IFKPLhgp1hLWNfOwtazRrwhfWeJ/+zbl4SUZlvLwCsv0mc/E15GR/iWkjhfUUqwhXKAs4PAylPcjwZ9Uq8PMZCXmSluPt7NLKDdY4/VioBZlAV+cwRefTClYdDCmU8Pl7BnKcaqaD2tnmL3CKjM557dzTnFtBf31qholQPZMT9vZdUoJpinY3tnsqf2pi5Z8MWlbfhvha85/F7pP0Jew2BhVm8RG378qJ4wHnlnr8ljmAFZDD6+qLjWP6EuDtOqr2ndN2tQrCp0gLJj0xRLNwVF9z/2752aQ==;mjO1CgvflawgE3UZrw+04w=="

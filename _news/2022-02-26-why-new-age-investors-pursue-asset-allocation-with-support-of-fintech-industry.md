@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/why-new-age-investors-p
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/why-new-age-investors-pursue-asset-allocation-with-support-of-fintech-industry"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 674
     isCached: true
+
+related:
+  - title: "Fintech Ramp Introduces AI-enhanced Travel Solution, with Insights on Spending, Other Financial Data Points"
+    excerpt: "Fintech Ramp introduces AI-enhanced travel solution, offering insights on spending, other financial data points"
+    publishedDateTime: 2022-02-25T16:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/187505-fintech-ramp-introduces-ai-enhanced-travel-solution-with-insights-on-spending-other-financial-data-points/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Travel-Suitcase-Bag-Luggage-Airport-Roll-on-Valet.jpeg"
+        width: 960
+        height: 1280
+        isCached: true
 
 secured: "NlvFHc36phITc6x61Gnc1vKMRpXp16KkQP/AscGlmFwwHaPH5rQGrMKP874C2KiqpWkKk3NGZV5irwP5vi+VxKsj62rparh9JkCaWmEjdqo19W3jEm+wZx4OmHjn3UMbdkUA5Xe6gY/ME0Ht7AXiEmhub3RKi170FdD2lTRpkcAR4NaUElQhXbdNMe76pDiNPvH9aUk1ONhiqgafeKQy7vxn5F8WQu/hMA1mGY/nQweoSg6vSwkEwLdcEeHc50cprKKByBzxJ366OVeV6qkRuujsZzWUPBOxuQ1C/JA0nW02trgMEevemXDPRLz1ATWE4d5JBDrgfZR/Ztdr4jm/u/d71I21Q6jow6/b26qdrAJRi3RUJNcWMPLOIOyNO+dO2s2wb0bso7iMPwYvaoX2hluTRWkntQGR9nnt7ckxPSaE/s2GZYW7N0HqFyJIjHBXycIopVeNgcQhX2hrtK8gMuCzVjVXv99yew8B8vQYcM8Cq01ctDRkmSJGdUV0+AEszn6glKheC9ivMa6fn78/cw==;oqMYVlBcC3pxKHJSpAOoag=="
 ---

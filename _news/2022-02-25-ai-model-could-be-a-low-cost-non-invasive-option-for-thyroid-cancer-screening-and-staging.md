@@ -38,15 +38,6 @@ related:
       name: Azorobotics
       domain: azorobotics.com
     quality: 34
-  - title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
-    excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
-    publishedDateTime: 2022-02-24T15:24:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944395"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "tZkOWQDKQTkKZ3g4YZn9duyRR8whyyNN3tGnCPAmuUiytLwi0jtwMqamqsnaLjNA0qAsfZ3MbWoaba5T8tWwNGWtY1e5R1TF/H1KkhQ+i/B3O1rSt7GsGAGHKfrbF3PIHShlOvi94hp6TMppKduiHPnAI2LelCM5pvJ/rGm4eVND3toUqkW0Ed3E/z5w8z4NVMSddMCy5moKlcQQq7maKfeQ5jmBv+izU8ssVfDZX7oFRgDqaLYoTn4pE+ZB1P5uwyrNNBoHscTSt3Fto9ShkN/JLGR2oFm5ScsAyH5DGWB0exF8UL/UFGy1Kj2assp3Lg1x5IMlfqyVnvf/NsdbBqZlQRg1hG0Tf4sjQX+N+tg=;ft7O8g8Go1TRQAPq3h71rw=="
 ---

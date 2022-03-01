@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-01-difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees.md",
+      "title": "DIFC launches AI, coding licence; new UAE Golden Visa opportunities for employees",
+      "excerpt": "The licence is designed to attract AI companies and coders from across ... the largest cluster of FinTech and innovation companies in the region. The hub hosts more than 500 firms, ranging from ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678",
+      "originalUrl": "https://gulfnews.com/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/07/29/DIFC_16c3e88e2ef_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678",
+      "publishedDateTime": "2022-03-01T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-26-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
       "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
       "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
@@ -1362,58 +1405,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-overview-of-the-fintech-industry-stats-trends-and-companies-in-the-ecosystem-market-research-report.md",
-      "title": "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report",
-      "excerpt": "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
-      "originalUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fintech-ecosystem-report?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp",
-      "publishedDateTime": "2022-02-03T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

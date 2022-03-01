@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Grapples With Societal AI Wish Fulfillment, Including The Dreamy Case Of Those Idolized AI-Based Self-Driving Cars"
-    excerpt: "AI ethics examines the impact of societal AI wish-fulfillment when it comes to underplaying AI risks and downsides, which arises in many AI arenas including the advent of AI-based self-driving cars."
-    publishedDateTime: 2022-02-24T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
+  - title: "Do AI models even know the context?"
+    excerpt: "In this week's lead story, we explore how this gap between technology and domain knowledge can be bridged and how we can look at humanizing AI."
+    publishedDateTime: 2022-02-28T03:46:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/do-ai-models-even-know-the-context/89883516"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/do-ai-models-even-know-the-context/89883516"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/do-ai-models-even-know-the-context/89883516"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6213fd49c1dc8fd430c0952c/0x0.jpg?format=jpg&crop=3860,2172,x0,y102,safe&fit=crop"
-        width: 3860
-        height: 2172
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89883516,imgsize-30514,width-1200,height-628,overlay-etcio/do-ai-models-even-know-the-context.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "ibzWf2cCA8FP5UWYp5K3LfZEYHrRIpGOGiIznQrqN1Bfa8MBi6xpfu/GZ08vE4kcrTTQMvav8xcwVQALYJDmru/zagjN3wJa+YIONQo/xY7+GCaTFWSn5o9Z55gkUAYA8pf/4fItv/k1TLiNkjSO9kPhjlXDX4Vrht39n1F6grCZ2W1guPe5/rw+r5o+6bHiOVchDv2FlpdfVTLF+cHpIfOWbcX4a7lRZZ2uqBt3uTA3kII6PuDmFLQEsYD3QC7hG2DiKAN7MmPOoNFNzynu7gd6MkXZkvbMgpVK7ldWcw9OX4SL9DVRmN20Lt8ZxlQyJhac0I7rqCjufUhcMkQYvtwVDi+TR4IF0Vr+0jkugcBoVHyIYKTIZh31wXsFOLYY74wg9a1qL+gjd8idw8XeKsZs7sF5HScHW/Po3n36RqeZVVlFotkI6bTltnSYtLr+gTILznG43zuKqkvKYp1g+tr7/5Hph7zYjLqCPl8+mqFNKI8TDzBFZBVlhrrUAScjMLxJOwpcowi9mLmNNLrvYg==;ohrK672K8hFbUAKoavm0pg=="

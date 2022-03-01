@@ -162,6 +162,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "KX Strategic Partnership Agreement with Microsoft"
+    excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
+    publishedDateTime: 2022-03-01T08:54:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220301io77416/kx-strategic-partnership-agreement-with-microsoft"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1756706/KX_Strategic_Partnership.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "aawYeQA8Ez+2bMGvPPn4Swkw6NHDCa9brU3J/XIMsLP7Zs2xq005llqzqjwGfCy+NnGgXxRR+yrAbnYI+4B8CCcosjBZ9KJxe+wm6I78turTBg2caBMuVRq51xnSVJaS1j80dPjdP/zIdbNni439iIOyRVEbPoXNx/TO0YfOUi/fWz2/XAWdpkDEY2D31F6TVzLcH1s7DvgdcPj6KmCh42QHXJYrZkEG8FWjfjRKOM0K/RZutkeahSQA9anROQ/4hamjOx6BLkbQP7ijfS+/rZVSuNQeqMyK66cNki14JPfd6W94CgVIX2UJj2Yq/HVVBPTmqw0kT7JnebsZIE+jnKGtI9yM84XeaTKpoky1y6+/Z3xHOyQydQEsdOAWBBh5Gy0qhzp57bvMweZwexbQBvS52UsCLvTBO9aIlPc+n8gVNywh4ZyigISD0yfAGDO7chfeiZO74pAOSpbwn9du3tulSV4YXFL8Hc8ufK/1ev8lxCeUeTwxBn9mRBEKIvH5g2UOxAqS3pVTjCF58VAJbQ==;QpS0KCrUokwcSbqNPlSHeg=="
 ---
