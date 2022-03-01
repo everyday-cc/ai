@@ -37,17 +37,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "ASCO GU 2022: Optimizing Management of Localized Prostate Cancer: Combined Modality Therapy in Localized Disease"
-    excerpt: "GU ASCO Annual meeting included a session on the optimization management of localized prostate cancer, specifically looking at artificial intelligence (AI), active surveillance, and intervention, featuring a presentation by Dr."
-    publishedDateTime: 2022-02-24T14:09:00Z
-    webUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135660-asco-gu-2022-optimizing-management-of-localized-prostate-cancer-combined-modality-therapy-in-localized-disease.html"
-    ampWebUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135660-asco-gu-2022-optimizing-management-of-localized-prostate-cancer-combined-modality-therapy-in-localized-disease.amp.html"
-    cdnAmpWebUrl: "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135660-asco-gu-2022-optimizing-management-of-localized-prostate-cancer-combined-modality-therapy-in-localized-disease.amp.html"
-    type: article
-    provider:
-      name: UroToday
-      domain: urotoday.com
-    quality: 18
   - title: "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images"
     excerpt: "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images."
     publishedDateTime: 2022-02-24T15:24:00Z

@@ -77,20 +77,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Meta makes a big noise about AI and, of course, the metaverse"
-    excerpt: "US Internet giant Meta/Facebook has launched a barrage of information ... piling a huge amount of resources into what appear to be essentially research projects around all sorts of AI and metaverse type areas, and it wants you to know it."
-    publishedDateTime: 2022-02-24T13:25:00Z
-    webUrl: "https://telecoms.com/513626/meta-makes-a-big-noise-about-ai-and-of-course-the-metaverse/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/02/Meta-metaverse.jpg"
-        width: 1894
-        height: 832
-        isCached: true
   - title: "Meta developing AI-based Universal language translating System for Metaverse"
     excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
     publishedDateTime: 2022-02-27T18:25:00Z

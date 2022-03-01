@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
         width: 750
         height: 500
-        isCached: true
-  - title: "Meta makes a big noise about AI and, of course, the metaverse"
-    excerpt: "US Internet giant Meta/Facebook has launched a barrage of information ... piling a huge amount of resources into what appear to be essentially research projects around all sorts of AI and metaverse type areas, and it wants you to know it."
-    publishedDateTime: 2022-02-24T13:25:00Z
-    webUrl: "https://telecoms.com/513626/meta-makes-a-big-noise-about-ai-and-of-course-the-metaverse/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/02/Meta-metaverse.jpg"
-        width: 1894
-        height: 832
         isCached: true
   - title: "The Metaverse Could Fund Important Artificial Intelligence Work"
     excerpt: "Meta Unveils Voice Mods for the Metaverse Plus AI-powered ‘universal speech translator’ Some context here, I didn’t realize Zuck was building the Holodeck. If you enjoy articles about A."

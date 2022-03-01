@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapple
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Radar Sensors Enhanced with AI for Autonomous Driving"
-    excerpt: "Researchers at TU Graz have created a powerful AI-enhanced radar that could help improve current radar technologies and help deal with safety concerns."
-    publishedDateTime: 2022-02-24T14:46:00Z
-    webUrl: "https://www.azosensors.com/news.aspx?newsID=14934"
-    ampWebUrl: "https://www.azosensors.com/amp/news.aspx?newsID=14934"
-    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/news.aspx?newsID=14934"
-    type: article
-    provider:
-      name: Azo Sensors
-      domain: azosensors.com
-    quality: 59
-    images:
-      - url: "https://d10lvax23vl53t.cloudfront.net/images/news/ImageForNews_14934_1645713775967448.jpg"
-        width: 2000
-        height: 1322
-        isCached: true
   - title: "Creating Content Through Artificial Intelligence"
     excerpt: "There is no question that brands and agencies can build such an engine. Some are already doing it with the help of artificial intelligence (AI), which takes on the burden of the work and creates relevant, inspired, engaging, and different material."
     publishedDateTime: 2022-02-28T11:56:00Z

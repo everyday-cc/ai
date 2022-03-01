@@ -25,19 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "and Face PHI are among the key players profiled during the facial recognition market study. In addition, several other essential market players were studied and analyzed to get a holistic view of the global market and its ecosystem. Inquiry Before Buying ..."
-    publishedDateTime: 2022-02-25T12:58:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-/article_372e9b79-415f-5c7a-b5bf-fe45a137fa32.html"
+  - title: "Global AI in Healthcare Diagnosis Market Is Expected To Grow At 20.2% CAGR"
+    excerpt: "The size of the global AI in the healthcare diagnosis market is estimated to be growing at a CAGR of 20.2% from 2021 to 2026 and worth USD 5.8 billion by 2026. COVID-19 wrecked the healthcare system,"
+    publishedDateTime: 2022-02-28T11:34:00Z
+    webUrl: "https://www.medgadget.com/2022/02/global-ai-in-healthcare-diagnosis-market-is-expected-to-grow-at-20-2-cagr.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
+      name: Medgadget
+      domain: medgadget.com
+    quality: 32
+  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
+    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
+    publishedDateTime: 2022-02-28T12:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
-        height: 338
+        height: 337
         isCached: true
 
 secured: "WcgdVT/kTBvbZc5FLWnIrVzH37xfa+s0bviCIyWrM0RHzGn7bzfzpmMNYkpWdKZY+ev5iUx09+QBGamNqJDrdVJ4H5pnOuaII2ae5ebz160as/fh1n9McqNggsTTAuuKRDqNdUYG5WE6EF/Ml/T9agMER1jm7i8RBmMJmcmRKIkCVYOP6xDbd472Pa6tMk+Gwgz0NoL9FSTjS6l2mhgqSJbKkAnbOJm85h2gT+ZwYRgHE5dKg2EmHE8Zumk0iwKr1TVZcigD3W+pN8gQV9QHqdVe7W91375exPmLt1fC4CnCi7MyDZlH8rehZza0ivyy8hvecf/t4GZJ6S0SEBbEIMky7WNx7wTzfA8Fow1m2uLY+ERqlCBO2BVgPbuM5KIIPAUi/Qe+FtXHvY6TVQMmDSTNood8SMXu3yhNDuU2WhQHPKtGQZN/0P6g1D1CR7Tz8Nj0vkRI2K33eemD28VcaTk0FS2D7CW9F+iaXC/D/fsc3vGPj5vkKWPWeOKK6sF4z/ILOXKNC8dKHTBGV+jPXQ==;mrbImmfzEYGqDu2Yndqizw=="

@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Comparing machine learning models for earthquake detection"
-    excerpt: "However, choosing which method to use is still a challenge because it's not always clear how these deep learning models will respond to data that differ from the data sets they were trained on."
-    publishedDateTime: 2022-02-24T14:11:00Z
-    webUrl: "https://phys.org/news/2022-02-machine-earthquake.html"
-    ampWebUrl: "https://phys.org/news/2022-02-machine-earthquake.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-machine-earthquake.amp"
+  - title: "Are you integrating human sense with machine learning?"
+    excerpt: "Artificial intelligence and machine learning models compute data at hyperscale speed. Without doubt, these computer models have outperformed the human brain in computing data, recognizing patterns ..."
+    publishedDateTime: 2022-02-28T03:29:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/comparing-machine-lear.jpg"
-        width: 2128
-        height: 2727
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89883172,imgsize-34264,width-1200,height-628,overlay-etcio/are-you-integrating-human-sense-with-machine-learning.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "EV0zeILfr8heypvdVueR4XS18uax/4yhlrzib5kFLnxqth+Gxmkhcr/evRMWeq3Kmk1XKjyAXVbP6KBeCDgCEZlOQllQJmXZ182svOmaGsA2lCly3scbfAMgzjhF3n6ltGUFAOznEV0JoNcakd2wN2jXZ5Y3swCNkje3G9QYAaf3LBFqevQt0aBlawPjPX7W6A0i/WH54kElfb1Iq5Bn/TLzePg2Ik/38fYMRhcmdGoTrbhhmF5SFDzXp3XY6ktmydo4pTvlVMU4h885t8XCORvVNKit6Jp/OlN+Q0tsNScTFRzgZSH2i18nlpXkdOf15LpZ1oLhcq+VPUprxvlohN31E27ZFFbk+Z+3Y73Ia/4=;MN+Tzsj7DV5F45DqguhIRA=="

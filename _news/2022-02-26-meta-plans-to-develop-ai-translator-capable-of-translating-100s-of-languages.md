@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
 type: article
 quality: 56
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Meta announces plans for AI powered ‘universal speech translator’"
-    excerpt: "Meta announced on a blog post, its plans to build an AI-powered 'Universal Speech Translator\" for the Metaverse."
-    publishedDateTime: 2022-02-24T14:26:00Z
-    webUrl: "https://techstory.in/meta-announces-plans-for-ai-powered-universal-speech-translator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 41
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/feat.img55.jpeg"
-        width: 1199
-        height: 600
-        isCached: true
   - title: "Meta announces plans to build a universal voice translator using AI"
     excerpt: "Meta, the owner of Facebook, Instagram and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” Meta CEO Mark Zuckerberg in an online presentation said that the ability to communicate with anyone in any language is a superpower that is dreamt of forever."
     publishedDateTime: 2022-02-24T16:32:00Z
@@ -70,20 +56,6 @@ related:
       - url: "https://newsimage.radio.gov.pk/20220224/1645719685.jpg"
         width: 850
         height: 478
-        isCached: true
-  - title: "Meta is building a new AI-powered speech translator"
-    excerpt: "Meta has announced that is building a new AI-powered speech translator, the software will apparently work for 'everyone in the world'. This is part of"
-    publishedDateTime: 2022-02-24T14:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/meta-is-building-a-new-ai-powered-speech-translator-24-02-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/02/meta-AI-powered-speech-translator.jpg"
-        width: 700
-        height: 467
         isCached: true
   - title: "‘AI Driven Universal Speech Translator’ To Be Developed By Meta"
     excerpt: "As part of the social media giant investment in the iteration of the universe, the founder and Chief Executive Officer"

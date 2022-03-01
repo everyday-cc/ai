@@ -7,7 +7,7 @@ originalUrl: "https://www.medgadget.com/2022/02/global-ai-in-healthcare-diagnosi
 webUrl: "https://www.medgadget.com/2022/02/global-ai-in-healthcare-diagnosis-market-is-expected-to-grow-at-20-2-cagr.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Global AI Robot in Heart Treatment Market to Grow at 6.5% during 2021 – 2029"
-    excerpt: "Medical practitioners are now diagnosing, treating, and intervening with greater efficiency than ever before with the help of AI robots. Artificial intelligence (AI) is becoming increasingly important in surgical decision-making to help surgeons and ..."
-    publishedDateTime: 2022-02-24T13:33:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-ai-robot-in-heart-treatment-market-to-grow-at-6-5-during-2021-2029"
+  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
+    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
+    publishedDateTime: 2022-02-28T12:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 51
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/93847317295f74a28d47ea3752bfcb5d0643ae3a-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
+    publishedDateTime: 2022-02-25T23:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1645766442.png"
+        width: 1176
+        height: 505
         isCached: true
 
 secured: "dFljw3yORcdDU52RqBEawDLeE2FX1KQfdaH/wFLHkJrDtnB5Syd1D6SJgluYxDWUw/03qNPk6C9JK/a8O0HQz7yIbU6ey7MY/DVp767veP54F4jOed9QbpCmae4gjJTEroFdevH8+HBnBUUE2FM95JIKz5tXn5j9QvzZobPZjwJZQSvA0ewGTaISJQluSAy9Y+7L5syHPWDlOBBZFggZc72h5JZwju1CcSAlXPOMY93RJOXxgP1AxrdeT4SM45NWWCPzBUYk67PeLzrF/Wemlt/QukJsD58/Jaek3i9NEPXyRDPPU0EBMaHAH69+iw49W0XD43Nua2FFeF09w0nEvYRe5HHjNDvUUeZqg00ZcxQ9TlWkGt+eN1/u/zMYeEfgIHd6L8q4WtJCJdKN9ljUiUwe45yxVWi4/edTYrD6aT/NJCz3Q9ZjEj9uxq3l/DvRyqfS4ZfoCdaCq43SGdFm3Lki3lTDwyIpnr8zSlXcCcEZWKIzGen2d/SMCDdYAi/K614oq4MER/++uAF76KoO/A==;98OuG7TG1KTf8H+aHwdHsw=="

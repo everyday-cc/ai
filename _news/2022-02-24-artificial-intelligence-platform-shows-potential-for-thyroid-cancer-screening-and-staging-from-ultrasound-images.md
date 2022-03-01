@@ -46,17 +46,6 @@ related:
       name: Azorobotics
       domain: azorobotics.com
     quality: 34
-  - title: "ASCO GU 2022: Optimizing Management of Localized Prostate Cancer: Combined Modality Therapy in Localized Disease"
-    excerpt: "GU ASCO Annual meeting included a session on the optimization management of localized prostate cancer, specifically looking at artificial intelligence (AI), active surveillance, and intervention, featuring a presentation by Dr."
-    publishedDateTime: 2022-02-24T14:09:00Z
-    webUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135660-asco-gu-2022-optimizing-management-of-localized-prostate-cancer-combined-modality-therapy-in-localized-disease.html"
-    ampWebUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135660-asco-gu-2022-optimizing-management-of-localized-prostate-cancer-combined-modality-therapy-in-localized-disease.amp.html"
-    cdnAmpWebUrl: "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135660-asco-gu-2022-optimizing-management-of-localized-prostate-cancer-combined-modality-therapy-in-localized-disease.amp.html"
-    type: article
-    provider:
-      name: UroToday
-      domain: urotoday.com
-    quality: 18
 
 secured: "lZLIEC2k3MDCU+bpVV7B4UPw8eQVv/nWrxbU57KgUhtFVoFZMts7kN9y/F/cEvCs349pcytxw5qhpxrF4B9CdEDT8h3ZL/W6A7SXRdXMefhecb7LU4dgwnvKWoTsGRuuvX9ubKttRy8pGlJ5E2YclBya7bG80044U2RFb3UxC+t1hi1CWdWbQQ0x9FPtVlS4qayYpIEIjp5DQe3vCgznPw3MVOI/IzmGYCi+QaA3XrkkvItlP01hUWXCMMNmlpBc/OnO1TMe/8JRi+qitG+TDWzuxQ8QIe+TiuVfSKnXVmNu+xjGCw4hSr9u43R40dJgyoChVaoFM8Ryb3Xi+5suQUT4uYf5+M/UZkXSLcohCdg=;Cdfqn5q7SAFbRv9T1FH9og=="
 ---

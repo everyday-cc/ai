@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/94fe2957ac206bbd2cf1bb49da44fb770d24fc61/2022/02/23/1f831631-725b-4e2f-b0cf-82318abd4921/levine-clearpath-uvg-navigates-to-destination.png?width=1200&fit=bounds&format=pjpg&auto=webp"

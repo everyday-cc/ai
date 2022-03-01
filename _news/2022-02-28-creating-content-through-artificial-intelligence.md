@@ -40,22 +40,6 @@ related:
         width: 3860
         height: 2172
         isCached: true
-  - title: "Radar Sensors Enhanced with AI for Autonomous Driving"
-    excerpt: "Researchers at TU Graz have created a powerful AI-enhanced radar that could help improve current radar technologies and help deal with safety concerns."
-    publishedDateTime: 2022-02-24T14:46:00Z
-    webUrl: "https://www.azosensors.com/news.aspx?newsID=14934"
-    ampWebUrl: "https://www.azosensors.com/amp/news.aspx?newsID=14934"
-    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/news.aspx?newsID=14934"
-    type: article
-    provider:
-      name: Azo Sensors
-      domain: azosensors.com
-    quality: 59
-    images:
-      - url: "https://d10lvax23vl53t.cloudfront.net/images/news/ImageForNews_14934_1645713775967448.jpg"
-        width: 2000
-        height: 1322
-        isCached: true
 
 secured: "ibzWf2cCA8FP5UWYp5K3LfZEYHrRIpGOGiIznQrqN1Bfa8MBi6xpfu/GZ08vE4kcrTTQMvav8xcwVQALYJDmru/zagjN3wJa+YIONQo/xY7+GCaTFWSn5o9Z55gkUAYA8pf/4fItv/k1TLiNkjSO9kPhjlXDX4Vrht39n1F6grCZ2W1guPe5/rw+r5o+6bHiOVchDv2FlpdfVTLF+cHpIfOWbcX4a7lRZZ2uqBt3uTA3kII6PuDmFLQEsYD3QC7hG2DiKAN7MmPOoNFNzynu7gd6MkXZkvbMgpVK7ldWcw9OX4SL9DVRmN20Lt8ZxlQyJhac0I7rqCjufUhcMkQYvtwVDi+TR4IF0Vr+0jkugcBoVHyIYKTIZh31wXsFOLYY74wg9a1qL+gjd8idw8XeKsZs7sF5HScHW/Po3n36RqeZVVlFotkI6bTltnSYtLr+gTILznG43zuKqkvKYp1g+tr7/5Hph7zYjLqCPl8+mqFNKI8TDzBFZBVlhrrUAScjMLxJOwpcowi9mLmNNLrvYg==;ohrK672K8hFbUAKoavm0pg=="
 ---
