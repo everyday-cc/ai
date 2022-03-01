@@ -7,7 +7,7 @@ originalUrl: "https://www.wgbh.org/foundation/nova-explores-innovations-in-robot
 webUrl: "https://www.wgbh.org/foundation/nova-explores-innovations-in-robotic-limbs"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2400
     height: 1600
     isCached: true
+
+related:
+  - title: "Robotics in aerial lifts"
+    excerpt: "Robotic lifts, ultimately leading to completely autonomous aerial units, are becoming a reality and it is one that could help to solve the serious challenges we are experiencing t"
+    publishedDateTime: 2022-02-28T12:43:00Z
+    webUrl: "https://www.khl.com/news/robotics-in-aerial-lifts/8018544.article"
+    type: article
+    provider:
+      name: KHL
+      domain: khl.com
+    quality: 54
+    images:
+      - url: "https://www.khl.com/Images/600xany/20211214-143207-SA-logo-Grey--KHL-Blue.png"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "twOsrIbi04AiS57XJFvn2BW/cz0IMIIkE9DuDaoW02F0TU0tFBnY2hM2aqSMJWvvLpUQov0rOa62FfPpmVLRIaQ0sq1fd5atRbWM5KB1VSpeXXdSG8As1SSqw9vo9PfS2lKLC0VXR3OFgTfblNBWDVe/+qwYA9yy5VwVYAEx+MrfnCJ+fFZ8oPNE+fa7QZGOgmtgeX+tn5ddczFj9YOUF88PI57YB7RiQ1I3+L+Wl1FaV6ijmQsjIhBqY3q5cEtPaYmJWtL4WuEojcCnskdnZQKmH2a6yW9YhZl6iMMPkVbxK2OwPoGJ9OL36ABRf1NoSC09QwsWwvcx90OTQvYaCDegXpLNO14hbawnU8Dd/LM=;HF7AJwNGGNhknZ4/qaKQyw=="
 ---

@@ -2,35 +2,26 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-02-07-leveraging-artificial-intelligence-ai-in-egypt-collaboration-for-improved-breast-cancer-outcomes.md",
-      "title": "Leveraging Artificial Intelligence (AI) in Egypt: Collaboration for Improved Breast Cancer Outcomes",
-      "excerpt": "Most recently, this includes a collaborative program with GE Healthcare that builds on GE Healthcare’s experience in women’s health, artificial intelligence (AI ... the treatment pathways for neoadjuvant therapy to improve outcomes for patients ...",
+      "path": "_news/2022-02-07-how-values-driven-artificial-intelligence-can-reshape-the-way-we-communicate.md",
+      "title": "How values-driven artificial intelligence can reshape the way we communicate",
+      "excerpt": "Ananny understands that, wherever he goes, data about him is being collected, analyzed and monetized by artificial intelligence (AI ... allow for remarkable technological achievements in healthcare, logistics, games, entertainment, criminal justice ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Leveraging_Artificial_Intelligence_AI_in_Egypt_Collaboration_for_Improved_Breast_Cancer_Outcomes-AFPR0702202237254/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Leveraging_Artificial_Intelligence_AI_in_Egypt_Collaboration_for_Improved_Breast_Cancer_Outcomes-AFPR0702202237254/",
+      "webUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.html",
+      "originalUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.africa-newsroom.com/files/large/e5f64af1a46ab95",
-          "width": 793,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/AFPR0702202237254/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR0702202237254/",
-      "publishedDateTime": "2022-02-07T04:35:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.amp",
+      "publishedDateTime": "2022-02-07T04:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +32,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

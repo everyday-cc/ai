@@ -421,7 +421,7 @@
       "originalUrl": "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1035,7 +1035,7 @@
       "originalUrl": "https://montreal.ctvnews.ca/muhc-uses-artificial-intelligence-to-train-neurosurgery-students-1.5797818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1121,21 +1121,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-26-what-you-need-to-know-about-facial-recognition-at-airports.md",
-      "title": "What You Need to Know About Facial Recognition at Airports",
-      "excerpt": "Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in.",
+      "path": "_news/2022-02-26-meta-plans-to-develop-ai-translator-capable-of-translating-100s-of-languages.md",
+      "title": "Meta plans to develop AI translator capable of translating 100s of languages",
+      "excerpt": "CEO of Meta, Mark Zuckerberg announced the firm is working on building an AI-focused universal instantaneous speech translator that is capable of translating 100s of languages.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
-      "originalUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
+      "webUrl": "https://interestingengineering.com/meta-ai-translator-languages",
+      "originalUrl": "https://interestingengineering.com/meta-ai-translator-languages",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/26/travel/26qna-facial-recognition-1/26qna-facial-recognition-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/jg6Pkdb3Gx/sizes/markzuckerberg_resize_md.jpg",
+          "width": 744,
+          "height": 418,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1143,23 +1143,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html",
-      "publishedDateTime": "2022-02-26T02:00:00-08:00",
+      "ampWebUrl": "https://amp.interestingengineering.com/meta-ai-translator-languages",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages",
+      "publishedDateTime": "2022-02-26T05:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1168,7 +1159,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
         "AI"
       ]
     }

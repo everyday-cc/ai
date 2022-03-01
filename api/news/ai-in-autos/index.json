@@ -192,7 +192,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1097,19 +1097,19 @@
     {
       "path": "_news/2022-02-18-robot-tractors-may-be-heading-to-a-farm-near-you.md",
       "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Las Vegas: Driverless plows and autonomous tools ... Equipped with six pairs of cameras and artificial intelligence or AI capabilities, the equipment constantly checks its position to the inch ...",
+      "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. “I’m sure that’s really expensive. And I kind of want to be out ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2022/01/07/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2022/01/07/robot-tractors-may-be-heading-to-a-farm-near-you",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/01/07/1434712.jpg",
-          "width": 620,
-          "height": 413,
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/01/06/1433425.jpg",
+          "width": 1240,
+          "height": 826,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1239,8 +1239,8 @@
       "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
       "excerpt": "DETROIT, Feb 16 (Reuters) - Luxury automaker Jaguar Land Rover (TAMOJL.UL) and Silicon Valley artificial intelligence company ... with Alphabet Inc's (GOOGL.O) Waymo unit to deploy autonomous ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
+      "webUrl": "https://www.reuters.com/article/autos-tech-nvidia-jlr-idUSKBN2KL1GD",
+      "originalUrl": "https://www.reuters.com/article/autos-tech-nvidia-jlr-idUSKBN2KL1GD",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

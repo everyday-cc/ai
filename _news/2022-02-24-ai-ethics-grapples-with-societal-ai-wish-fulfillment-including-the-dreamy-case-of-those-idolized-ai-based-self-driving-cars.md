@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapple
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://d10lvax23vl53t.cloudfront.net/images/news/ImageForNews_14934_1645713775967448.jpg"
         width: 2000
         height: 1322
-        isCached: true
-  - title: "Looking into the use of artificial intelligence in healthcare"
-    excerpt: "Andrew Davies from the Association of British HealthTech Industries (ABHI), explores the use of artificial intelligence (AI) in healthcare."
-    publishedDateTime: 2022-02-24T09:00:00Z
-    webUrl: "https://www.digitalhealth.net/2022/02/looking-into-the-use-of-artificial-intelligence-in-healthcare/?ref=refind"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: "https://cdn.digitalhealth.net/wp-content/uploads/2019/10/healthy-brain-mind-mental-health.jpg"
-        width: 555
-        height: 330
         isCached: true
   - title: "Creating Content Through Artificial Intelligence"
     excerpt: "There is no question that brands and agencies can build such an engine. Some are already doing it with the help of artificial intelligence (AI), which takes on the burden of the work and creates relevant, inspired, engaging, and different material."

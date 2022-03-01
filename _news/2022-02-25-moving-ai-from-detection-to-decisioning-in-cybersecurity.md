@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "Avanse Financial Services goes live with Scienaptic’s AI-Powered Credit Decisioning Platform"
-    excerpt: "Avanse Financial Services Limited, a new age, technologically advanced, education-focused NBFC announced that it has tied up"
-    publishedDateTime: 2022-02-24T08:40:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/avanse-financial-services-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 28
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "JYyrR2GF/nL/qXgBeqnszfexokATRtVmfq8A2h3kUNx8Lcmax6c36UVAUF/Nysiwop9jXWHsm6gfXZVqa2tFlfjfcVFks1RSyuYjuqBeScvznku9zxU81rbDXnU/xjynk+p9xvUjmAoH2WenPsAPbB/8hNGQIDX5836Ggk0pugt8lz802FXUkygNPJc3hENtEPkfojAbTh9TaqU2L2wZtOXrBAmZbyIcyOQKUKhARxRdhm9BDA4irZJM6CUXiAnQiEgrHdFr1hC2j7gg9VpF2IQQwKtfcJpvIgYBctXE6yH6MVJBakYm73uluANYJZh6m3pOonvo5vjzpw4SpSeoZ7RVwHtwjE+eVxApj01d3PPI2Orikc7iyDpfq8C7T+B3s6pNeIZKYPDx+gu3hs82xuVroSaVR/e6JncZ2BUDTMJAOP78QdInLxqIuye3WCa1r0yQOHvkGLQwcQwcngPOglP7X57qfTjnYnP0pBOgzSBlTtn27eI1/oWgkhDAWyzeYPr2ryQx2Gy/f0yagvY0Ng==;T048gsfZFR8TirDepsj+RA=="

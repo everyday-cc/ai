@@ -7,7 +7,7 @@ originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/
 webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/b2b-bnpl-startup-actyv-ai-raises-usd-5-million-in-pre-series-a-round-122022500085_1.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1083
     height: 660
     isCached: true
-
-related:
-  - title: "Accelerator StartupBay invests USD 1.2 Mn in Pune-based robotics firm Rocket AI"
-    excerpt: "Accelerator StartupBay has invested USD 1.2 million in the seed round of Pune-based robotics firm Rocket AI’s seed funding round in return for a 10 percent stake. Rocket AI combines low-code no-code,"
-    publishedDateTime: 2022-02-24T08:45:00Z
-    webUrl: "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1-2-mn-in-pune-based-robotics-firm-rocket-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 65
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "tlnBBHoIXs92+q8lGdNkMTuWKx8Hfhstmx19Xppr13UqdIKdS2i4GrkUEEGvp7/yM6fqxT0uuwgFfqGugi5JwBJVdWxqr7x0RNVGuQ6R+3WicaBfPyTr8+y8Y5W6bKWMqITUcZDQzKFvmSiFg1heuuFTs1KOUKN/X9wyFyPKFRmbRzPqjw3P4NZOBBL5gSaPyrtGujjnGn1BEzxfhdubhCEKmlYY+piigSf6AcpsRyOlvLjWD+UyaOwCgPKGT0WQoG0MHeoDrwhaF4R221fePqcx7nMTcfmFODI2ZBOOIftNj7TztKeOvbjO5PnKmBb7tdPLN4POi1w88TSU8AR0P47QX8W4eejJ+8etsXEjgRzmzQ0+HBStSgKqGaH26LN1/3K91o9rqgHwfAUtXjGB+D0yBW++9EkZUjML6v1lwyPBAj2bMdwtz2hsW2CSwxIGspYLVSuqR0+sZ2rtkxPfsroDNt7UUXnehc68RfT7bwQPMe6i5zygERcyhCnawqDfwdZ48mSCUue9ikV0dgSBdQ==;NU0JqpfMMCO6OacjfGC3yQ=="
 ---

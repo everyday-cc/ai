@@ -73,20 +73,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Avanse Financial Services goes live with Scienaptic’s AI-Powered Credit Decisioning Platform"
-    excerpt: "Avanse Financial Services Limited, a new age, technologically advanced, education-focused NBFC announced that it has tied up"
-    publishedDateTime: 2022-02-24T08:40:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/avanse-financial-services-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 28
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Simplifying-banking-transformation.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "hqHBtB43I0NyjyJOm5XXf7g/schA9EO+SSwcc60jL7bbS6ijW66wH5kPVBF4ygYI7uO5iMkSklsCCH85AGkgPZw8GysQ4Y2g3NHcb4DsmPq5fcl6xbHHD0cfefSjGOakJlE6y2CQ6LMNikGdAFTfTfI1t7dVlHLoFiOduVDbnH6zT8MiqXPXXH383+9mbTRlQaWIFr86bTOy3rRlbyJGenOYRTNj98b4gAMiiMEWyeOL5kCJrUd4sneIY8DtV5usCiARk2yrSqkuy48V4K63ANkArKuA4S3H1ZtvT9SV4PsGxOrHSxVwB+cbXfIqHrVH2WZcuTXJBLCTds+BoKBUOhklS3owUNTnoLjpu54Fj0QpSCUCaFqF/a67r59kw/iiOWnLvI8sO9My76gUthhzxFZmq8cwHDI9rMwmCT3e3Un1ajVPk3m5nE+B1HrEhTnV49zv+O+rM84tx2qNGvMPtnH1wGhWY8TTZaotQKsuzKRVa8V5Lau7KRlkpWXOVymYi+K0bOpee0xecyQw3TjXqQ==;cIYt8o3+h9K6XhWJM6UwAw=="
 ---

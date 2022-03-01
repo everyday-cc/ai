@@ -3,8 +3,8 @@ category: news
 title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
 excerpt: "DETROIT, Feb 16 (Reuters) - Luxury automaker Jaguar Land Rover (TAMOJL.UL) and Silicon Valley artificial intelligence company ... with Alphabet Inc's (GOOGL.O) Waymo unit to deploy autonomous ..."
 publishedDateTime: 2022-02-16T16:24:00Z
-originalUrl: "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/"
-webUrl: "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/"
+originalUrl: "https://www.reuters.com/article/autos-tech-nvidia-jlr-idUSKBN2KL1GD"
+webUrl: "https://www.reuters.com/article/autos-tech-nvidia-jlr-idUSKBN2KL1GD"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 628
     isCached: true
 
-secured: "YhlJmkI234/rw9K6Rb64oZCEWJ3k5kURrRC1TBKFjxrEAZJ1Jo2Dq3gloZbps1hbcsYTJ/oROy0DwOEEIQXx7qN1NckHtcFgnVS+xSk9Ft9QqRX8XUfCTJos5txgDq7p+vN9ktt3cxkhtkFrNSDGgqkX6aIkLx9Z+xDbg3x3I6ZqUMt//os2kK7out5ZqPOpEUYi2HZR93pvEgxks6EHrM+Ed8WQAs1HMMhgmDJgFBId8TYoouR9La4Q6YY3Vq0WikV/7SCRaRENFCFUYdk7McYHMocOyv92tpwyATR6w9eqiSNyamZDBoWd94JqWCNNRxxv7oOtt3TYHWnY/3LYlSNKDiinoBkPibGK95xH+9k=;dfooyrZtrB+DuWaynHhfTw=="
+secured: "d61hPJfvhQiBwN1zwEkwBugly1E2Jwjpb2u/Ua4l36rH6txMeWeGovcQOPpfHP2fErUJNPC4TxJusOe96zE1X5yV7p2862cfDUd0a3bWvqx469yHrIoRpBeqqPmo5y8cLvKj1et9OIRXDntRT9Dqg0Jk1asDg/wAR2hgBVPGZqe36Vzw1yak5HMy62AqPxEWDSELeDAXrIGkyC8Y2H3g9+Pyi1zCBy3irfAsuMgf50UFG49i+8lZTX2t4L1g1wVkaEy2WowRye4nR85Ixd1ypfb4+yliF3hYNjy/h48Rxhj43zsb4K5o3n8b6ocWKEhFzOC4wxfBgUVbcilOc5sfswMC26l6A5/5Ee8sKt4GJnc=;BABciE9dOk+ZWO+K0y3KnQ=="
 ---
 

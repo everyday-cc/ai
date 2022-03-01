@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-18-intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech.md",
+      "title": "Intel reveals glimpse at multi-year Xeon roadmap, teases long-awaited GPU tech",
+      "excerpt": "Intel has unveiled its latest Xeon CPU roadmap reaching through to 2024, revealing a distinct focus on power efficiency. The new “ultra-efficient” ‘Sierra Forest’ processor family, due for release in 2024 on the Intel 3 process technology, will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech",
+      "originalUrl": "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645183040/itpro/intel_xeon_2024_roadmap.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-predictions-how-data-and-ai-will-shape-business-growth-in-2022.md",
       "title": "Predictions: How Data And AI Will Shape Business Growth In 2022",
       "excerpt": "2022 promises to be the year that more companies leverage the power of data and artificial intelligence (AI) technologies to spur business growth. Companies around the globe were put on the defensive when the pandemic rapidly increased the demand for ...",
@@ -446,19 +498,19 @@
     {
       "path": "_news/2022-02-18-robot-tractors-may-be-heading-to-a-farm-near-you.md",
       "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Las Vegas: Driverless plows and autonomous tools ... Equipped with six pairs of cameras and artificial intelligence or AI capabilities, the equipment constantly checks its position to the inch ...",
+      "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. “I’m sure that’s really expensive. And I kind of want to be out ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2022/01/07/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2022/01/07/robot-tractors-may-be-heading-to-a-farm-near-you",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/01/07/1434712.jpg",
-          "width": 620,
-          "height": 413,
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/01/06/1433425.jpg",
+          "width": 1240,
+          "height": 826,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1138,58 +1190,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-5-it-services-stocks-to-buy-in-february.md",
-      "title": "5 IT Services Stocks to Buy in February",
-      "excerpt": "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/419226",
-      "originalUrl": "https://www.entrepreneur.com/article/419226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419226.jpeg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to break language barriers with AI, builds universal speech translator"
-    excerpt: "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme"
-    publishedDateTime: 2022-02-24T08:09:00Z
-    webUrl: "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/03/full/1643876854-9687.jpg?im=Resize,width=1200"
-        width: 1200
-        height: 898
-        isCached: true
   - title: "Meta plans to develop AI translator capable of translating 100s of languages"
     excerpt: "CEO of Meta, Mark Zuckerberg announced the firm is working on building an AI-focused universal instantaneous speech translator that is capable of translating 100s of languages."
     publishedDateTime: 2022-02-26T13:07:00Z
@@ -102,22 +86,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Metaverse: Universal language translator coming soon? Here's all you need to know"
-    excerpt: "The Meta CEO also revealed that the company aims to build an AI-powered “universal speech translator” for metaverse that works for everyone in the world. Meta is working on a two-fold project. The first part is No Language Left Behind and the second is ..."
-    publishedDateTime: 2022-02-24T07:53:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-metaverse-universal-language-translator-coming-soon-heres-all-you-need-to-know-179527/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 39
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
-        isCached: true
   - title: "‘AI Driven Universal Speech Translator’ To Be Developed By Meta"
     excerpt: "As part of the social media giant investment in the iteration of the universe, the founder and Chief Executive Officer"
     publishedDateTime: 2022-02-25T10:45:00Z
@@ -132,19 +100,19 @@ related:
         width: 1024
         height: 513
         isCached: true
-  - title: "Meta Plans to Build a Universal Speech Translator"
-    excerpt: "The first initiative is dubbed “No Language Left Behind,” which will build AI models that learn to translate languages using fewer inputs and training examples. “We are creating a single ..."
-    publishedDateTime: 2022-02-24T08:14:00Z
-    webUrl: "https://hypebeast.com/2022/2/meta-universal-language-translator-plans-news"
+  - title: "Meta Developing AI-Powered Speech Translation, Recognition Systems [VIDEO]"
+    excerpt: "Meta's research division is working on a universal speech translation system that could streamline users' interactions with AI within the company's digital universe."
+    publishedDateTime: 2022-02-24T21:36:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/meta-speech-ai/"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 37
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Fmeta-universal-language-translator-plans-news-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/623198489_213164173_1706x960-640x360.jpeg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Meta is working on a universal translator"
     excerpt: "Meta is working on a universal language translator for real-time communications. The translating AI is another piece of the puzzle for Meta’s vision of the metaverse. Yes, that means Meta (formerly Facebook) is working on an AI version of the Babel fish from Hitchhiker’s Guide to the Galaxy."
