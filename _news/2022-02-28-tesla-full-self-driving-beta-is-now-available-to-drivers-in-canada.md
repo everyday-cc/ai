@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "You can catch a ride with a self-driving car in SF"
+    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
+    publishedDateTime: 2022-03-02T17:03:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 44
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
+        width: 791
+        height: 447
+        isCached: true
   - title: "Tesla Launches Full Self-Driving Beta in Canada"
     excerpt: "The Full Self-Driving beta for Canada ships with the 2022.4.5.4 software update, first spotted in a Tesla Model 3 Long Range in Ontario on Friday."
     publishedDateTime: 2022-02-26T17:14:00Z

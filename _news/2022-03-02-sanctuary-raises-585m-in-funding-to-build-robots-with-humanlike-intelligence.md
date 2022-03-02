@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 617
         isCached: true
+  - title: "Sanctuary AI secures $75.5 million in mission to create the world’s first human-like intelligence robots"
+    excerpt: "Vancouver-based Sanctuary AI has raised a $75.5 million Series A investment to build a human-like brain that is capable of doing human-like tasks."
+    publishedDateTime: 2022-03-02T18:47:00Z
+    webUrl: "https://betakit.com/sanctuary-ai-secures-75-5-million-in-mission-to-create-the-worlds-first-human-like-intelligence-robots/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 37
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/03/Sanctuary-AI.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
-secured: "1P+QVNWPpQFrFLxZUiM+J0ktxPLpYFpLMyNWpkFZf/u62IpfBs5WN3yquub7MVfB+fstwwshjH++GZaThRqFxBEuyP9VGoJlGY4WmBGHUukk1amZ4Iua6ultkzIkvGkKnl/wmhs3OoaC6apoLevRpU1FuAJo0XAG+P1n9fghfBSmGnGIZkWGeP6jXvpv+/HM0lfh/squwOe8GQkImlSaNtDQ4q/5ygyz/wZsaddmgHwMzBIKc5Sh2e4U4+aGTZT+MG6K2fBwQaGKaAjsCP/P5IFpM85yOky650hJvyp1rwBWOecrLKN2hcCBvmiCwPazk1ZJHs0I2ecL3DAQfCm7LONUaPrHeH89eraJlBUwvyA=;k8bEzXQz2fFSKoSSTKk6gQ=="
+secured: "J6/qAgtKySTlSP3a7O4jp/FbaH97K27jevuAj8QK0BKPaf1W+2zpKkVs2UUZhjXo2VVcOSArlfgCbTnSvlRf+PxQdiuyedrUGPVyff/TlEw3dE6DpPkF+jUsNfczXamRCCe9nbVhFn4L94DWyjQuF3USbCG0dDe4ZU66wBNpAW7xXxAA8jyK1RSNCS+x3N/06ITCHSNAvS18xLTjKBlTk5C0BYDRt4mimN83PXTPIO6slwXZaKMHc0PgDOaQKkUujAeO53UQxJXxhneORflcTs4Sc6XYLB2WYjlWC+zDQLK+tG1SKf48EcSd9qLCU5eM4E07fjrvTX6MkCF5cKpK2sToMNMs9aJOvIKMIGaRzGP5H+qgp3ElYlLdWeeKigsFV/ului74M3momCRZP+6icWZ31JMui3q+BNl1J3/s8jwktTvOE5vCG2p+qzMEp4c+uN/QfzOue13sqIdvKSOsHfH528KnCq1JM4iCVu0rZgwIr/wKw59ZJfmVY0/NDkVlQgiGmOV7tuIfXiYjZvnxhg==;6PMmb/2DBARyV3bqJW7Z2A=="
 ---
 

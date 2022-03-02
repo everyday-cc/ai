@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-03-humans-robots.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How to help humans understand robots"
+    excerpt: "Researchers from MIT and Harvard suggest that applying theories from cognitive science and educational psychology to the area of human-robot interaction can help humans build more accurate mental models of their robot collaborators,"
+    publishedDateTime: 2022-03-02T17:36:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/945184"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "WVY9v98V2nx8mnYZhUD1Vh91TyL67y9Cm6sGCH+zZizNO8W93fuitbwYy4PjG6Emzad/cyozUNm+l0hXJaK4xsTv/1+aD2hf3nLXfK6PENIUjUvjidFMsJMmfxQRCAD61EWkTQT/9twAIbjcqgHrkKSiruAxnMFnI/kAP78ojt8Xn71nh1onDpKdFrnFJaReK/MX0mEV8WUvgAgQm3k8uk0Tb5eSZAzctElkWgjMkIZrf+7iVYVR93N8FNPXlKJbm7gS9Toz51e21/fzJLVgYIR/6fjVi2KYTSqiv99S81eWgzbZdrI0tysdjjRqxJn9uuSRu0K1U9I6uDETaH5ToCy6CPl983yOJ875oZG5C5ARlo8DUXEnNc+ZTYnTi7GCjjUEdZqBR7xsp7b6wYbe4/JgYfh5ATQkLOufEcdrNWquQx4kVkAq1361L79K+gFQo2s/jz1mF26KTW8QwUqz7SG2aLUxS2oUE3BBHps+gSFa23g+q7Hn3+GZZ+7CTLGvc3WYxw6RbLm4RyaJDZgGjw==;+JkXW1W9YiPwLf+8muqnoA=="
 ---

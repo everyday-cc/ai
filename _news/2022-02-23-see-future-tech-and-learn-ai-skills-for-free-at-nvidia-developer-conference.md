@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/02/NVIDIA-GTC-March-2022_press-release_collage.jpg?w=711"
@@ -57,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mVNjwKZ8nWgVdXQ4U9+g5vejBPrDZdAi8bCFKI/GX36S6ZMrY7jBqW78Awpcbl/vLeO1zGCdpLlyAHCK8Bu4yiEbm1wmpk4uDOAVOLI+GCAa5aNkTI97/B7ieqSyziCkFC8lOFO5BZEEyI9JfYhEqLtdS3vR0NtD0BDTMrvW2ep9q3HrtTQAWhuZUcH9yZSdIyuYkMD0aWRTcTm22Vtc8Hkr7XFNeBgjIoASwUi2JJKGeJfP2JG8Nd+xm3LUdJCOboSSsaJqq2dX6MBO7FD4sKrHV8ngiAKCGFDAzoKqx3Ddw1S8tvq53hrnbS4J6tNea9rtKGX0fAzUl5a3BTLBfNlD8r/0o0MiBvDUvhHFzho=;MEysuY5jiKnD19RjlwEK+A=="
+secured: "V14KUYVrqDEz3tf/rqG5I8yxs3qPHV+OF0/NK3vbu2r+3MNQ7AmzJ59XTwNkx43RwxT1OvqaJo6Hpqmc8UmGSaYxkcbnIURNVXdBgNqMmlbU0qmMQiUOkwJr7XptmB1x9hyNWF26uM73CWaNALaDk6pkG2G+XC0qP+47jMym7O6MWk5i0DyP8Nnqy5UliEAJoE7koeqHYkqYdv9S8/idzq6i9ZS/Cb96EMzTsL5iyptJYA5b3AkI8pIs67famK/i9A540l8zXXHLfLq1CyO69V1h1fLcIQMibWy/3PJAWJvHluHh6YmzEdXeJyyoVb5FhKrx9yMGmSdpOkOostFZCaaxeda2BVTk8NF9HOKxg2PePEaj91aI6ttrCyBlrD0+9b5zLpfyHYJAsyD1JY27xyxAtAAqt4hVc6Ystakp87nLnoTq/q82LiZBtBKp042+KfzV1iAozs4WbqEInyMzqow9GG+848NQMNOHk65571X+jcFr71Mg8M5wxagw7hc3mQ5A2uUnZrWlKhNYWrBCAw==;HLurRHq9SqkFbkDCtpAqmQ=="
 ---
 

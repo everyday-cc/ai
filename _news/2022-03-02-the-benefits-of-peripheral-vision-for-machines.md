@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The benefits of peripheral vision for machines"
+    excerpt: "New research from MIT suggests that a certain type of computer vision model that is trained to be robust to imperceptible noise added to image data encodes visual representations similarly to the way humans do using peripheral vision."
+    publishedDateTime: 2022-03-02T18:17:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/945191"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a3ff0430-fccc-45f5-b78e-f5524b58cd3a/Rendition/low-res/Content/Public"
+        width: 700
+        height: 413
+        isCached: true
 
 secured: "8tEJns2yIvrWDtx4/zDMGjKmPpBJETvhHC8RD3pRiyFoEu8CV0w3roxeNdShN23KZXzZe4O5DNNHdoq7MvTGm/VbnqgwA75k1kIu6Tsbw3+l337latNdTzGiPghVLtaVM6de23rbmoparr4lKuKN9miIVH1jZne97dRJrdC3PpHbuSjUPzMzbsLI0zFMk19mgAk9FDAmpXb8tutyS8A9MwJe4jUqy7Mz/49odpHwZgb3QJBviK84pE58wadgeApfbGA+Tx1pbFoxUsEs4g0IwsN9tlj0T6JAo/2fmTtLfV5OfWu0JCbja5sXj5u8QvQlNWoyim4Z7aImbmmugmIONSC0/7sl9X6+MFxSK4bm1Gw=;KRfgU0HPaj8uTooVMixbjQ=="
 ---

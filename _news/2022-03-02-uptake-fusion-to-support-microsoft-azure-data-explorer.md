@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sonata Software Named Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
+    publishedDateTime: 2022-03-02T11:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
+        width: 400
+        height: 279
+        isCached: true
   - title: "New Azure for Operators solutions and services built for the future of telecommunications "
     excerpt: "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for"
     publishedDateTime: 2022-02-27T17:00:01Z
@@ -146,20 +160,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider"
-    publishedDateTime: 2022-03-02T15:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
     excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."

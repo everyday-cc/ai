@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-02T15:42:00Z
 originalUrl: "https://menafn.com/1103789668/Artificial-Intelligence-Market-to-Document-Massive-CAGR-of-362-from-2020-2027"
 webUrl: "https://menafn.com/1103789668/Artificial-Intelligence-Market-to-Document-Massive-CAGR-of-362-from-2020-2027"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?690330"

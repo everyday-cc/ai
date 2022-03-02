@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
-excerpt: "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider"
-publishedDateTime: 2022-03-02T15:00:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider"
-webUrl: "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider"
+title: "Sonata Software Named Microsoft Azure Expert Managed Service Provider"
+excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
+publishedDateTime: 2022-03-02T11:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
+webUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
 type: article
-quality: 54
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
+  - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
+    width: 400
+    height: 279
     isCached: true
 
 related:
@@ -201,6 +205,6 @@ related:
         height: 240
         isCached: true
 
-secured: "c6OOb1pRaRkA3O8omII5Lfe4QqX2vidIUUhqlCUvkbSMbnl0GQ2WhjlqxZ9RXSOZGf5UZtUq06qlapU41IWmiEJH263opPdSMt2rlTaiv89L1kEggyKGzpHTujTR6Eyp6va1mWMAAM9XT+/fzYlMuSJWUHYT8MJfdybLH5HBpUE51zn/okbf8b2yf6quRbL73JuijYppmC6svR2JHTPZi1zblTLiQFBPk8L2L22zmreo7W6QGzCvyxFCiY2bw/gWnMmvXQv79MbHXivHUWFyWafOQntkxj2ebE5LNxg08FTmR9hTN/X/PTNrcTygMGJpKXdz4mTrbAjxxUtr43YUsI9I3RcE0PV5Bu/wRm8qv3U=;LDvGztnAq0x1Js+WYIqzzA=="
+secured: "olkdzBXZBxRXgwkQ9bsmXytlBp9+p/b2fsncwdv1/q3Db3Yskk6ztTYC5PDeet893C5z36Bge1IdnKnMckxRsj6El+daU9cLolzFhJR4VW9Gx2ak5cVRBjyS3SRkfhD9+GSzTuoIjzYZ1bBwQwvh7JzeC9ExdzqKn0wfoinJEUNyIgtCctAfcvcjUKxjUzspTi8gZ7CSZJUVRcnOuxmzcpqbf28DfM87AElSWR0h2+5ZctBi0f+n6Cbrt+Tl2O9MS6UgvHYBWCDkwxpHjSeRxsV+tJ4Uz3kG79VkS1bUPgCBAx6xgaW6d2zNFwMUsOTSdyWXA2hmDToMKnRFoYWEV9TkPPit4cBsBwVirPekt7w=;YFjE2BPTA7ZPY9Blk1bY/g=="
 ---
 

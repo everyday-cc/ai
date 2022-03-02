@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "You can catch a ride with a self-driving car in SF"
+    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
+    publishedDateTime: 2022-03-02T17:03:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 44
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
+        width: 791
+        height: 447
+        isCached: true
 
 secured: "nwMkTZSpKjzkoDeg2wBcm+6RYKeGlSIi4s7CEbcjcQe35NzI5/e++MiWt2cKl3Hyx5L15fANw3rjALMbcPSpF8/SDCiKwAwt4tyetVYVcAMX1NfWKcyzEG7qpa/Gnp8GkjvmxMhUrhHY7E/LVS0/gWyr5c7XUwE9vT1c/Uqknw+DYVebFWoKO1aNTFF67RDvVY0KplS2D+p95+GYmwBde7GJMDSq8Wq2zM9M2h72NItB+eHmxB7mUA9e7CT4MGJlGa+xVIqOQthnsNrC7m89+xVkhEmmjqu9EdvzmCJod6HbHvLVIMtFU1CUivhFNmj/gx0TsMdMuGyhawl/ajFe/KbzbGmIYeFKEWWF0Voa3G4=;Q+3MkpfzOEyrusvD4Zs6Uw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-rob
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Sanctuary-General-Purpose-Robot-System82.png"
         width: 1782
         height: 1049
+        isCached: true
+  - title: "Sanctuary AI secures $75.5 million in mission to create the world’s first human-like intelligence robots"
+    excerpt: "Vancouver-based Sanctuary AI has raised a $75.5 million Series A investment to build a human-like brain that is capable of doing human-like tasks."
+    publishedDateTime: 2022-03-02T18:47:00Z
+    webUrl: "https://betakit.com/sanctuary-ai-secures-75-5-million-in-mission-to-create-the-worlds-first-human-like-intelligence-robots/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 37
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/03/Sanctuary-AI.jpg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "GLA3Lg1KxKTwzC1S1pN5yKsJaE6ae2hm1sCSvH/fdhl1OXTHz5ShWU7cs5NFYJbsS1sSnLT8ZdXNRIKJeQL+RHi/jSPftn2x4q9HIC2AnIx6uKh5bmfCYTmFUVJCn4VLhJsILdE3oFJMQIEYmZ95WITtwuGL5eyvUqlPSSs3kFaf8Z6ooBEqZJVv3hz3G+Bcpok1YSTKmzDScHxOXzVsIXF6HeGKwAzufcCteiYp7UWc9I2Kbh+gNuRQ3T2eqkNPrwBOQaJO3+O+O5bkgu4WLq80d+ts4UWWXtzb1F/ce1Gyk7orXZFz87utXtMlfk73qJJnEAQho7BH1JJ8rQ04WkxAhAXDXRf6DmCyPav1U71oDqK1932LacIJ1HK6d8KpegydTzOPxzZznFSXcQOfXDsE0b6BSikqOHCf7W2X6Rau6OV2/9FO7uQoO2zVTdnDoHMFttwFvKGFxt76QoDNnxvpUNe3hY0g9OVfjt0hPkyErXJQwvC7TCYBeIURhAKQwVHmXPAMGV73hVIkNQICxQ==;afmTOoX3tlHNt+g8c7Hs9A=="

@@ -24,6 +24,17 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "OmniSci Rebrands as HEAVY.AI"
+    excerpt: "Advanced analytics company OmniSci announced its rebrand to HEAVY.AI with the intent of helping enterprises face a new era of challenges in leveraging their big location and time data to visualize and identify business opportunities and risks."
+    publishedDateTime: 2022-03-01T13:56:00Z
+    webUrl: "https://insidehpc.com/2022/03/omnisci-rebrands-as-heavy-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
+
 secured: "dUdP49I+5FaFVZzQ0sqsmGUb6cNnVgGQRwu+FQVQ5v0YTeqwSl87/EEPlIF6u+Zrf2kZ6d2GyXPDP608u79X+I5odGAJh8AKYodlMG8zLarWoUMABI401RYlzrJ8DIRPNNdW27PlgxZ/UF8V4jUWYsOOIRFr5hOCLqrJLh8ebCzlD/twP2lGhPbFmAk8yFanNYl9Lx7km9ajYfLcgzd6/DbTMEFCvBdt/0zGOZzvOdp0zyT5SN1DXNs5EGapxQ+2P8Khx3kOXAILrl7s61jnMnvPdVXSWBs/LoaNL44bBrUQtTyTUbXww2fdXBzyr9JZYROmmOV+QUo0vjJ0trQQAUMRysPYgSUceBJcpIO7w88=;xRfI3n+1Nr4OGmx97c2o0g=="
 ---
 

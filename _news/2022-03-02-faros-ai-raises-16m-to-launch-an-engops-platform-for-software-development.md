@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bright Security raises $20M to make enterprise applications more secure with AI"
+    excerpt: "Bright Security Inc., a startup using artificial intelligence to help companies improve the security of their applications, has closed a $20 million funding round led by Evolution Equity Partners. Existing investors DNX Ventures,"
+    publishedDateTime: 2022-03-02T18:29:00Z
+    webUrl: "https://siliconangle.com/2022/03/02/bright-security-raises-20m-make-enterprise-applications-secure-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/code-1-800x453.png"
+        width: 800
+        height: 453
+        isCached: true
   - title: "Fraud Prevention Startup nSure.ai Raises $18 Million"
     excerpt: "Fraud prevention startup nSure.ai has closed an $18 million Series A funding round that brings the total investment in the company to $25.4 million. The funding round was led by MoreTech Ventures and received participation from previous investors DisruptiveAI,"
     publishedDateTime: 2022-03-02T12:03:00Z
@@ -75,6 +89,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "UQ49l4YCuSbzu+mnAM78zsiIFNTEOyvWXbKrwszrVLCDkYWFiz4L6Yeyi0U6R8J7d0BjecQ0gpDe7vntZbQcKKiVlNNCHzp8xctI/fZnGVhNYd/zgkZ8t6EPOEYZcvLdhfFV0tw0PI9+2aO6jKdVa5XQT3op2dKTI8p8M4QnzvZr1osXvqJp3U4MCmpiT1IGHrEgNSX7qKozXezVoRkQgS+NCjXA8xScEtx9Gg2BQrl3Yb0hHSHC9/C3aIA1tBiBxOrJQSrJGqONhsxlIA5K0w4zuzuuXK5FLBeXQsmDEtoY1FJhBJchLdFlNdaJ/H+gSiai3II9U4rzONKNDMuM42GRDkQoOEjFEao3X+YZ+l8=;Vwmdjti8d6tOpB3X8BSERw=="
+secured: "NpquyMFjeLj7cAT03RUWMwvtujAeOCwWqqhQ2LnA2PDdbpoIUMvle0+Coq/WbqjUz0oT3pZOKruCs9Ah3WNO4k+oPLhj8BIIl4P/BfjFCw3IU5M/q3NI+ZjU7rsrCsXHnAlQFgdhMfQWgL1YYW+X+VdBWJ6DpPm/f4jX9znxw1C/wGjkt/js5BrlFaAQb0AAGUHaOzBUqhCSMZyXvxQG/y5Nf+2HxM+TCoPERjCH4tkYBZko5r0NTPSHVD48HTevQ2jB/gm1WS4tDV0ainU/fLs0iVlmuJiPRSss8Ax2f1h0le4dSbcsmZbvOXWxsUIvL+cqjwsG2QGVo/A41J8jy7+N1rUaIEmTv6ILTH00j4M/0a6q8UiWiMW7pYX6ThCq1iIlb/GWmd6SWoHex0D7WqkoVJar6DpjbISyARo8kjOiODYAeQTOOBlEVzMCaZMlbc9jmfgtzleGdq/qygmzxPzuuUEhk68noUJj4p2YhYq07xTI+rFrL+KNiUL/rJikwRsokRjEE1WFztvB1shgXg==;Fjn0l53wTpYEHQT58foVxg=="
 ---
 
