@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Real-Time Fraud Prevention Intelligence Platform nSure.ai Raises $18 Mn Funding to Revolutionize Business in the Virtual Economy"
-excerpt: "Alex Zeltcer CEO Co-founder (Left) and Ziv Isaiah CTO & Co-founder (Right) Round A funding led by MoreTech Ventures and multiple"
-publishedDateTime: 2022-03-01T16:52:00Z
-originalUrl: "https://www.indianweb2.com/2022/03/real-time-fraud-prevention-intelligence.html"
-webUrl: "https://www.indianweb2.com/2022/03/real-time-fraud-prevention-intelligence.html"
+title: "Israeli predictive AI fraud protection startup nSure.ai raises $18M"
+excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. announced today it has raised $18 million in new funding to allow the company to extend anti-frau"
+publishedDateTime: 2022-03-02T00:58:00Z
+originalUrl: "https://siliconangle.com/2022/03/01/israeli-predictive-ai-fraud-protection-startup-nsure-ai-raises-18m/"
+webUrl: "https://siliconangle.com/2022/03/01/israeli-predictive-ai-fraud-protection-startup-nsure-ai-raises-18m/"
 type: article
-quality: 10
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - AI in Finance
   - AI
 
 images:
-  - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjgF8qFH-jifWsLI4aMuHYO9Ry6ZcVd4oPJhlbjJ740AppYV-J0w8Rnbtt_53qHmqZlxlgGmTppLFVX02PrEtw9eZ6C_IWJckmxjepdrX5P6PrSCWHBlRMgvUlWRHzsJc4FJDWn7pvLr1mlEnOXjIrgPBcsyyYnbgmSCJBljsiLbq9ATTJhboV750_V=s16000"
-    width: 900
-    height: 580
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/nsure.png"
+    width: 820
+    height: 312
     isCached: true
 
 related:
@@ -53,20 +52,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Israeli predictive AI fraud protection startup nSure.ai raises $18M"
-    excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. announced today it has raised $18 million in new funding to allow the company to extend anti-frau"
-    publishedDateTime: 2022-03-02T00:58:00Z
-    webUrl: "https://siliconangle.com/2022/03/01/israeli-predictive-ai-fraud-protection-startup-nsure-ai-raises-18m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/nsure.png"
-        width: 820
-        height: 312
-        isCached: true
   - title: "nSure.ai Raises $18M in Series A Funding"
     excerpt: "Sure.ai, Tel Aviv, Israel-based fraud prevention intelligence platform that is purpose-built for virtual goods, raised $18m in Series A funding"
     publishedDateTime: 2022-03-01T17:12:00Z
@@ -81,7 +66,21 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Real-Time Fraud Prevention Intelligence Platform nSure.ai Raises $18 Mn Funding to Revolutionize Business in the Virtual Economy"
+    excerpt: "Alex Zeltcer CEO Co-founder (Left) and Ziv Isaiah CTO & Co-founder (Right) Round A funding led by MoreTech Ventures and multiple"
+    publishedDateTime: 2022-03-01T16:52:00Z
+    webUrl: "https://www.indianweb2.com/2022/03/real-time-fraud-prevention-intelligence.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 10
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjgF8qFH-jifWsLI4aMuHYO9Ry6ZcVd4oPJhlbjJ740AppYV-J0w8Rnbtt_53qHmqZlxlgGmTppLFVX02PrEtw9eZ6C_IWJckmxjepdrX5P6PrSCWHBlRMgvUlWRHzsJc4FJDWn7pvLr1mlEnOXjIrgPBcsyyYnbgmSCJBljsiLbq9ATTJhboV750_V=s16000"
+        width: 900
+        height: 580
+        isCached: true
 
-secured: "A6nRgNJkvpgPcUnpYIgf+3FcUWHDgC0S+oc6f8O9PuDHAXeBaLaAoOVSvGVvhjI1iB+9U3SOo8BnR3AK6Owbj3818SUCfOLSwwwtukwL1cUQ77JCcTWvoW9AzjXD3zSKw877P5XbJmPyM0Gu3Ds+1G42uocb2llnP2a6zBOrkUSYro+YkP4E1K1eMJ7q0Jz5QM8vTmQfzNJlyK/OM81rW2j+Q0zGHNysvzfWRXOeakBoBM66Zoal2gZn1yLoePPVKFTxYdL8ETdeHPoj7KFoLkgZ+GlIf4vpYnF9dYPqLWKJkHQngqPPd4k2JPiKZllcUf/eIdBaWgQbSmpyYveeymB3gWqlSfv5RUXegl1vgaI=;idgV1IdAVmtfemPiTDg6sQ=="
+secured: "anMAEUZFrA3Va+WJLoPBs9uyyzEQIBpMUeJpt/KeRiKnNO3c9cAdXOrRa/VuQJaTVeSC6VsREOPgSXrwbEcQRpEr55cTTQewcnLpJwBVafqlZTM8S2QZ1LKK4D+egeXHNo/r/qwB2fN72+LCPUE1CBIh2nM19lNhG3iSvVdcMBNGVdU9oYh99DsNqj+IU1GzWQfKeYXVAoU0mqRyTVhotPtP1fRnHqyd5cgSo4e3R4k0xmYiVtFSaYyNFeVW+vNixbRPxqgmudsxLU9vS26d8x7uXfqhxbb9/W/suaXBgeSKqrSG0I5j2NBfxFjO49UPJ9vUA+KFINJAhGzcJjP4C+9Ln5gjjC02txxwuJeGmVs=;1uGjVb1UEjhJuJg1vJe38A=="
 ---
 

@@ -2,12 +2,12 @@
 category: news
 title: "Industrial AI startup ExactSpace Technologies raises USD 1.4 million as seed funding"
 excerpt: "The company’s AI platform Pulse brings solutions to their clients that combine machine learning and industry knowledge."
-publishedDateTime: 2022-03-01T14:03:00Z
-originalUrl: "https://analyticsindiamag.com/industrial-ai-startup-exactspace-technologies-raises-usd-1-4-million-as-seed-funding%EF%BF%BC/"
-webUrl: "https://analyticsindiamag.com/industrial-ai-startup-exactspace-technologies-raises-usd-1-4-million-as-seed-funding%EF%BF%BC/"
+publishedDateTime: 2022-03-02T05:24:00Z
+originalUrl: "https://analyticsindiamag.com/industrial-ai-startup-exactspace-technologies-raises-usd-1-4-million-as-seed-funding/"
+webUrl: "https://analyticsindiamag.com/industrial-ai-startup-exactspace-technologies-raises-usd-1-4-million-as-seed-funding/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -26,8 +26,8 @@ images:
 related:
   - title: "Industrial AI startup ExactSpace Technologies raises USD 1.4 million as seed funding"
     excerpt: "The company’s AI platform Pulse brings solutions to their clients that combine machine learning and industry knowledge."
-    publishedDateTime: 2022-03-02T05:24:00Z
-    webUrl: "https://analyticsindiamag.com/industrial-ai-startup-exactspace-technologies-raises-usd-1-4-million-as-seed-funding/"
+    publishedDateTime: 2022-03-01T14:03:00Z
+    webUrl: "https://analyticsindiamag.com/industrial-ai-startup-exactspace-technologies-raises-usd-1-4-million-as-seed-funding%EF%BF%BC/"
     type: article
     provider:
       name: Analytics India Magazine
@@ -39,6 +39,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "qIQwjYnGYdG9uJSqfup/nZ7Xvlj/OahmNS/g4gDdvk/PzT0FeBLQQsOhXCb5oUjhvoA1TYLAXCotxhfaezTjGbPbckS7lanaH350A305VAcUXq+gxQc7tIGhdUhw8iK+2VUbIu6akKzQvj5R9+yjAxX0TcVpPHomlzA8CQso+pFWrKTL1i7CXfriNH+ytGHYPHi3g+ffbz2s3VgOobAA30f63m2tKIlHLwiP/CuqRAvVSa0ocHH8o2y5UbR5jebUYfGlce430vBT8qte5t5dkcd9fBwf83Xw7AlTU/r7db0rYlJxSB4IHZ0qVprZzHKzwww0hwAtB0YMXKdPt2BC42zmSHK2RPqrW5ZoYO67plr/pCU/boj8xz9q92rNFiQG2PPQNjFjXqv8Uh8VQIcwpzzeJSzBkC6j4vqcO/sY9YSS77CU4o3ZUAK3Enwm7CkAsAgXPeCTmAjs0jZ34ICNsZG8N0Wyr3xJ7YVf1roI0fRZYYL6MCHgi6Zy0d2EIlz+FDHRLgZCnJ2orMWuyNYDsA==;ge/1fZnxkHsjdB7soNpixA=="
+secured: "kJmcbGPKiaCT44a5QLYuPvite6VqPpvgPqy+WzF+N5NCX1paVVy9W5eTpXb3mZuyHtIkhT+yu05oTqIoVolYdKvuxy8ZtOBKwbY1Fk6RYXnkIaYZRNkOLtbT5TJbtam3JRSp5kgsrmz0yU+8FiXXCCV3AE2oMveU4xPBwM3qYO86JqmyY0w0zyuZpBjENzUA6Gel+smn7yTcktWgo5+kqsEM4Vb6rSqw/ciAFkZZzh9kR4sRx9sAowJpePDt9bPUzmFQwd3NwHcEMc6d4UIvRTXEtuH78fWTZgFqEgU6NQhixbbfhSJ1nCmvw6iq93ZZts5VZ0hYbeom2v2fHqhmCDGDCsK85834BorufnDXhj0=;M1t6mOZ7mTbthsI4J0IcLg=="
 ---
 

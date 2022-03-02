@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-te
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 350
     height: 233
     isCached: true
+
+related:
+  - title: "Cypriot fintech first to use AI-powered analytics tool"
+    excerpt: "Cyprus-based financial technology company SquaredFinancial announced on Tuesday that it will be the first organisation to utilise iQbyQi, an advanced retail trading analytics tool. “SquaredFinancial,"
+    publishedDateTime: 2022-03-02T06:30:00Z
+    webUrl: "https://cyprus-mail.com/2022/03/02/cypriot-fintech-first-to-use-ai-powered-analytics-tool/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 19
 
 secured: "b5+81SIiOro49tPfNcSxNY7rXBgLZoLd08OUg0DGS/6WuqVTXLv8utSK0Q7udN7YWtnNYC6dh5WmwWN7ImkjF4iGyQkMGTCAyE9Y/l2GjyFHCFGtjGVuWvue5/QnWotx+BkxflkZ/P4lDZ2JhnkViSex9euft84yTRjHxYsRBbrhYobcswLUpRZ4pJNqKqsx7HS4yoMDyQg+hzgR3adNZdgeNW94OdIeSTuHXKH77LhI/nAKXAcHJsE2CpyujUmzvoh3ETN/pLhn1nUCQTU7mwpAz9t7tC/zWGr90cXo47guY8RmDNQ+tjU52GawBOq+t0G8K4ksFZD2izcs/ZBSQwdBkMe/psgNCHIzqIKjqXDUYHWZ+QJvNXjaErsxRBGfjWWBIu6NI2OqlXoZt+c9fi3Ihz0VGRWqvRffDSd9JermBVARS8yrSx7K4KAUrsj+LJJHHBwV73jswF34t7Kqbvb8hl8HHO/iMH+OksGDdHpWrX/+6PghK+E4MRYcNw5BXyE6WKB60fKCcU+mHzhBhg==;3vl8KhUhC9bZw0h3vjvK/g=="
 ---

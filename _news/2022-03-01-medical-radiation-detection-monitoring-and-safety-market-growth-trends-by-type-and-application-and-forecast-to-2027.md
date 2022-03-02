@@ -39,22 +39,6 @@ related:
         width: 395
         height: 225
         isCached: true
-  - title: "A method to automatically generate radar-camera datasets for deep learning applications"
-    excerpt: "In recent years, roboticists and computer scientists have been developing a wide range of systems that can detect objects in their environment and navigate it accordingly. Most of these systems are based on machine learning and deep learning algorithms trained on large image datasets."
-    publishedDateTime: 2022-02-25T14:30:00Z
-    webUrl: "https://techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-method-to-automatica.jpg"
-        width: 2566
-        height: 868
-        isCached: true
   - title: "Patriot One Technologies awarded contract to create AI-powered full motion video detection application"
     excerpt: "Technology to be used to detect, classify and track objects and event of interest for Canada’s Department of National Defence"
     publishedDateTime: 2022-02-28T18:29:00Z

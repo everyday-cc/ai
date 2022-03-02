@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 type: article
 quality: 56
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
         width: 740
         height: 493
+        isCached: true
+  - title: "Dubai economic zone launches artificial intelligence ‘license’"
+    excerpt: "The Emirates is seeking to become a regional leader in artificial intelligence, and wants to attract more technology startups."
+    publishedDateTime: 2022-03-02T05:28:00Z
+    webUrl: "https://www.al-monitor.com/originals/2022/03/dubai-economic-zone-launches-artificial-intelligence-license"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 52
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-03/GettyImages-1175954229.jpg?h=1d34674f&itok=VG9A7HQp"
+        width: 1200
+        height: 628
         isCached: true
   - title: "DIFC introduces AI and coding licence"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa and South Asia (MEASA) region has announced the launch of a ground-breaking Artificial Intelligence (AI) and coding license,"

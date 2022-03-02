@@ -1,29 +1,26 @@
 ---
 category: news
-title: "DIFC launches AI, coding licence; new UAE Golden Visa opportunities for employees"
-excerpt: "The licence is designed to attract AI companies and coders from across ... the largest cluster of FinTech and innovation companies in the region. The hub hosts more than 500 firms, ranging from ..."
-publishedDateTime: 2022-03-01T08:07:00Z
-originalUrl: "https://gulfnews.com/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
-webUrl: "https://gulfnews.com/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
-ampWebUrl: "https://gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
+title: "Dubai economic zone launches artificial intelligence ‘license’"
+excerpt: "The Emirates is seeking to become a regional leader in artificial intelligence, and wants to attract more technology startups."
+publishedDateTime: 2022-03-02T05:28:00Z
+originalUrl: "https://www.al-monitor.com/originals/2022/03/dubai-economic-zone-launches-artificial-intelligence-license"
+webUrl: "https://www.al-monitor.com/originals/2022/03/dubai-economic-zone-launches-artificial-intelligence-license"
 type: article
-quality: 54
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: Al-Monitor
+  domain: al-monitor.com
 
 topics:
-  - AI in Finance
   - AI
 
 images:
-  - url: "https://imagevars.gulfnews.com/2019/07/29/DIFC_16c3e88e2ef_medium.jpg"
-    width: 540
-    height: 405
+  - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-03/GettyImages-1175954229.jpg?h=1d34674f&itok=VG9A7HQp"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -43,6 +40,22 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "DIFC launches AI, coding licence; new UAE Golden Visa opportunities for employees"
+    excerpt: "The licence is designed to attract AI companies and coders from across ... the largest cluster of FinTech and innovation companies in the region. The hub hosts more than 500 firms, ranging from ..."
+    publishedDateTime: 2022-03-01T08:07:00Z
+    webUrl: "https://gulfnews.com/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
+    ampWebUrl: "https://gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 54
+    images:
+      - url: "https://imagevars.gulfnews.com/2019/07/29/DIFC_16c3e88e2ef_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "New artificial intelligence and coding licence launched in Dubai"
     excerpt: "The licence offered by Dubai International Financial Centre can also serve as a gateway to obtaining UAE Golden Visas."
     publishedDateTime: 2022-03-01T09:05:00Z
@@ -56,20 +69,6 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
         width: 740
         height: 493
-        isCached: true
-  - title: "Dubai economic zone launches artificial intelligence ‘license’"
-    excerpt: "The Emirates is seeking to become a regional leader in artificial intelligence, and wants to attract more technology startups."
-    publishedDateTime: 2022-03-02T05:28:00Z
-    webUrl: "https://www.al-monitor.com/originals/2022/03/dubai-economic-zone-launches-artificial-intelligence-license"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 52
-    images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-03/GettyImages-1175954229.jpg?h=1d34674f&itok=VG9A7HQp"
-        width: 1200
-        height: 628
         isCached: true
   - title: "DIFC introduces AI and coding licence"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa and South Asia (MEASA) region has announced the launch of a ground-breaking Artificial Intelligence (AI) and coding license,"
@@ -142,6 +141,6 @@ related:
         height: 250
         isCached: true
 
-secured: "tGbEKnLufYaXQ4KM4LC1nhea8MnKSRDS13Cac2x5L7OxuAFuFLKQL1QJFF+1GjG3kXwc3nZ3n37wZE8hOnTjoKB/K/AHcDj84Xmo2reHOt0ccUd3wg4wsbHTcAu729j0NMyLoKATnoLAlgtYz5Tr91bDMsEx55GAyXWAPm9WaPpCyQDIXP5BuY+yypmfaUWk8fsasWv4buz1zvspZJkSD+ponB7sAtGhWj9jp8PquZxsmBubAC97tg96RFg1LSI8yI5bONFC2C45AB6ju0T9x0dI0A5HA+yialtCTcYNstf9GvnLBF3sy6mSjns+4LcpQn4+u3Y5rSJa7IfVQMR25vOHleYu5u90erK6xV0oO9o=;/YxEA9kkzZYVxPtpPs79kQ=="
+secured: "CnQHaBcnZMl59xvKidJIvoyZXx9bUncfOdbBZ6t3REuYdstZNVPMrRc/109A0UMOtBJN7oZNwrX73reGMq+2NGf9zOzQtmqC1eyft6nz3k6uv0EGw47JczoutfujSnRZ8HcZcuzBpjYLgI8+/lkXkJ9/QJ85rS9FCBah0kotDa17gr1eXPuQuN7pJHNAc/tsUeqOL35ZIzkEh4BV/n0jf4LC9mROxilDihYe4z4Kzn9yfnVKx9mJfAB9I/ZHDeqA5jaQs6cfyw2myVkU6IvRhq5a2MyW+IDiieYmSn+HhEc386mA3gm8h4cz63tYncZkUY5j0SsLqTJpwVdBqVri6l9Ys6NMQI982KAswOCi6/w=;4gUdhzepT3WgwErMA1OIUw=="
 ---
 

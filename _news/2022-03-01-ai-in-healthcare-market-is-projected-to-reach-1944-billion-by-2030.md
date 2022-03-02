@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-proje
 webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030"
 type: article
 quality: 54
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-03/01/EP_7d5d0image_story.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Trends and Forecast to 2026"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence in Healthcare Market: Industry Trends ..."
-    publishedDateTime: 2022-02-28T05:40:00Z
-    webUrl: "https://menafn.com/1103772216/Artificial-Intelligence-in-Healthcare-Market-Report-2021-Size-Share-Trends-and-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/28/EP_e1003image_story.jpeg"
-        width: 1000
-        height: 647
         isCached: true
   - title: "Machine Learning Market size is projected to reach USD 48 Billion by 2027"
     excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Machine Learning Courses"

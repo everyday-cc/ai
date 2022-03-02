@@ -39,22 +39,6 @@ related:
         width: 395
         height: 225
         isCached: true
-  - title: "A method to automatically generate radar-camera datasets for deep learning applications"
-    excerpt: "In recent years, roboticists and computer scientists have been developing a wide range of systems that can detect objects in their environment and navigate it accordingly. Most of these systems are based on machine learning and deep learning algorithms trained on large image datasets."
-    publishedDateTime: 2022-02-25T14:30:00Z
-    webUrl: "https://techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-method-automatically-radar-camera-datasets-deep.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-method-to-automatica.jpg"
-        width: 2566
-        height: 868
-        isCached: true
   - title: "MWC 2022: APDCAT calls for ethics in the development of artificial intelligence applications"
     excerpt: "The Catalan Data Protection Authority (APDCAT) has called this Tuesday, as part of the celebration of the Four Years From Now (4YFN) event, at the Mobile World Congress (MWC), to promote an ethical look at the development of artificial intelligence (AI) applications,"
     publishedDateTime: 2022-03-01T16:32:00Z

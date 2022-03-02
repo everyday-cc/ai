@@ -48,36 +48,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Machine learning helps identify climatic thresholds that shape the distribution of natural vegetation"
-    excerpt: "Changing climate brings more frequent and more intense climatic extreme events. It is unclear, however, exactly how climate extremes will affect vegetation distribution in the future. This is an acute question for research in order to be able to mitigate coming extremities and their impact on vegetation."
-    publishedDateTime: 2022-02-25T14:40:00Z
-    webUrl: "https://phys.org/news/2022-02-machine-climatic-thresholds-natural-vegetation.html"
-    ampWebUrl: "https://phys.org/news/2022-02-machine-climatic-thresholds-natural-vegetation.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-machine-climatic-thresholds-natural-vegetation.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-helps.jpg"
-        width: 632
-        height: 313
-        isCached: true
-  - title: "Machine learning helps to identify climatic thresholds that shape the distribution of natural vegetation"
-    excerpt: "A new international study spearheaded by the University of Helsinki explores large-scale relationships between vegetation and climatic characteristics using machine learning. The findings highlight th"
-    publishedDateTime: 2022-02-25T14:53:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944713"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 22
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8f5815e4-2e7a-4ee4-b8bb-a70ead35ac4e/Rendition/low-res/Content/Public"
-        width: 700
-        height: 347
-        isCached: true
 
 secured: "MORPT6Jp5wsCbRxvLBN2p7D9xArjE5wSsDtcODLJrcyzrfGxjjEFoTgGzC1ByKXtgS/yAwshAvWInEQH6cqzEoEwa9m1aj88uDeEKIBi5rThUUlU6kBGOW2J9GZATnPJvjAJdvTuzlar16jYCaT77+mfMvq4PkdeNHgda+hwIjDBXUjOl7La49iPa/PKw7nMcEuh/dFW2DWN1kVPAbuld2HCYrjvfoXIGe+8Yfc4Bd25ydO7ZX8jjUctZ7RxEJ+GPt/QUpPAjFVrWcxspZjZsDildh8diRtT8LXtIKPBDUlcFw+Yr6zpRSg1/ugaBmN1RjtW9rQe6Q0ZZYLIrmIsWFmNGiXr/eOBqX0z2jwooP8=;HYz56lzkxbeVPR1OiBMuCA=="
 ---
