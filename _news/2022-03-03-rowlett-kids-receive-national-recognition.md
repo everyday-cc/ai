@@ -7,7 +7,7 @@ originalUrl: "https://starlocalmedia.com/rowlettlakeshoretimes/rowlett-kids-rece
 webUrl: "https://starlocalmedia.com/rowlettlakeshoretimes/rowlett-kids-receive-national-recognition/article_bd0dd530-9a60-11ec-a8d2-db81405a46a2.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 616
     isCached: true
 
-related:
-  - title: "When Recognition Is Reckless"
-    excerpt: "Argument: When Recognition Is Reckless When Recognition Is Reckless... | View Comments () A major land war looms over Europe. More on this topic Russia pounced on Ukraine even as Russian President Vladimir Putin’s rambling speech denying Ukraine’s sovereignty was still reverberating."
-    publishedDateTime: 2022-02-28T03:17:00Z
-    webUrl: "https://foreignpolicy.com/2022/02/28/putin-ukraine-donetsk-luhansk-georgia-recognitio-reckless-sovereignty/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 24
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/putin-donetsk-luhansk-recognition.jpg?w=1000"
-        width: 1000
-        height: 666
-        isCached: true
-
-secured: "30054dyftR9aCdP2SzWWa1GlcKs0Dvjf8qZuWERe663yaBUxLmialrNVag8Sl8n+kCmEobghePkUdlHgfwmsTniSlWS2gdGStCWl9wG7vNPMzGJC9UvDJCAoTwEdNBfboMpzYIbXwY81pKFU2jPXz7N9gUPrHYha1ZRqgO1OKJf7eq8B+Mnm0v3r5wfcYvBiNfABwET7VV1g4KxjktG9qFIn7AZxLuLxldVAnR3X2QYZdtKAtP2o6hIE9wWjMh/xxpyYCy6A4xhUUTeNU8p11nbYeq51nGTT9hZDMyZdpPBppN1pKmNKCFs6qfACjKhPeJ5Vb5Aa6y4dnjv3CsMBST4ihiBDowJeoaEESP2yFFY=;VHE99Bd+g9UKmxF3GeQvdw=="
+secured: "u79UsAUNsRM13RUjRKlYS+oksjyjjDAMBzb7TitiWcM9sFWwBGNRjdFrS+QovEdGsJaCUf2H3HR0umIo7iv2to30lRPVYTK2AkoNJWv2Z26qDSPPZ+oVA+fV+hmpQKVlN3muzfZUCPiisdUd+ZEhIussTxEnLvnTm/tKWb9aot5KT2eCcIR2lnQnJ1EPaLoxpUEMTU3GukoBsfGd5z+khn+xf2vh9NWjfXh96VNXCJTzikJZSfRIYJpDGAdcuJwhlqKnYUtasakOqulJbCNEzFQ0+9b6BwGBcW/Fr9dz0y4WiproHKchzWFf9GPw/7RE0t1Zktoxch+/+cdHyzBUTvlSTJ1SYDmPdrFT8UOkt50CecoM0kV+C59H7l18ObQNV83BdZU6Y3JXMgBi9nS04KD+X4D6uN5ub+WrZP4SSJygCK9ZF7LmTPUcS+vbM+hddq1Y7yA5ym+1STWcjHvyvzUmAHFNvijdeFGrgsU1mLgqr06ULG7GUa2x7fIEZAPvUiWJbwkgkFNFx1Uihb2QNw==;Q3N++vtTewIqOhjLQReT6w=="
 ---
 

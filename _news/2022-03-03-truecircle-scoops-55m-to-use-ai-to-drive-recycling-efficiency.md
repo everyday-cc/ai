@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/03/02/truecircle-pre-seed/"
 ampWebUrl: "https://techcrunch.com/2022/03/02/truecircle-pre-seed/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/truecircle-pre-seed/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/03/TrueCircle-Fundraise-Feb-2022.jpg?w=1024"
@@ -45,6 +46,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "MV0RR9u6kBwtBgzrIbmDl3NPtwCybpYUnpBA2WpzbwsePsuOf0Utq79eyxfVYaub8IFVxTdHDh72UGA6Bs/Lz/yeBDJGhtrBYKSG9GksSSn+ujx9axMTpQ7DeT0hGEbma++20CjNsUrRo4cvqIbe+tI2WvpJuEc6lU2AiBD5zS63O2Bh/klLbPW2H4es3CVSUU8XbUgramweP8bQ/ggGdC6NRQ9qI36D1n5xWW97NHMfkRqEozYNvfkPpYNs2n/a7BJxS5Z3fJepI/7aAE3BBnqWPYjAKMfZuBkqw6qb6324rkVw0U21NgFfuJE9oT701saUYrtXOIxlWol7oj3GcJbZpaB7dh8mlR1mFkoCHYE=;rOqP96o0nevlLLvifXdLWg=="
+secured: "x+raFJQ4KdMQGSkCKcSPHm9rHpcsYtn76EhZopwXgsd3QMAHYSlfOs4wt6BvrvPEAjf/8jisGB1aevQhTfUdr/UfFzR9I5cr0gxRcqSmT0mw0lAcsY+t1G6OegU0HHYRAL16xfaBfnAHftkmv3G6GKdzqmjK9Yq2DmRBATgoj6LJuWLfZ+T4oyZ3oCDJsTYrQMgb8XcuKJuqTWSKWo0C0EvSRsRrVSfFKqbS2ElcMJNc8ZaIZa7Qo5wuDa26t8mjHAHuMHgsdZEO36UpmCK/+UnUZ3Jl3m/aomB+JNaMGeApRNf0Iuj4JZallR/fNUbdg51sO3wf70VK3L3KL8hZt59KO6+hjfJPiytOYNq1qGi60WD7E+AX+8tzch7/RhPmJSAJzeCe9yUD0sstXUUxTC4UWIwcabVfF2vSiHux47OeyS2bskah683kwEOT5cfIwvLiwLtfmAXMpZtD+UJuHpoBtKdc2o5+tJN2aCVCsQG3xDBtdWzAeHWJ8aHRKPsU5uCjbKIuswhJKy8f/vn5rQ==;bZoVodQZ/6G0KJZbSylLAg=="
 ---
 

@@ -153,6 +153,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "On cusp of Biden speech, a state of disunity, funk and peril"
+    excerpt: "President Joe Biden's fellow Americans, though, have other ideas about the state they're in and little hope his State of the Union address Tuesday night can turn anything around."
+    publishedDateTime: 2022-03-02T18:51:00Z
+    webUrl: "https://www.cleburnetimesreview.com/news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/article_217555f6-9a62-11ec-8953-37fc1559d215.html"
+    type: article
+    provider:
+      name: Cleburne Times-Review
+      domain: cleburnetimesreview.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/cleburnetimesreview.com/content/tncms/assets/v3/editorial/d/2e/d2ef591c-95b7-11ec-a187-bfaa6b3e5c16/6217f732265e0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden steps to State of the Union lectern at fraught moment. Here’s what to know about his speech."
     excerpt: "President Joe Biden will deliver his first State of the Union address Tuesday at a precipitous moment for the nation."
     publishedDateTime: 2022-03-01T11:23:00Z

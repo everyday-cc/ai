@@ -3,8 +3,8 @@ category: news
 title: "Renesas and Fixstars partner for automotive deep learning"
 excerpt: "Renesas and Fixstars are collaborating on automotive deep learning - establishing a laboratory to support early development and operation of driver-assista"
 publishedDateTime: 2022-03-02T10:03:00Z
-originalUrl: "https://www.electronicsweekly.com/news/design/renesas-fixstars-partner-automotive-deep-learning-2022-03/"
-webUrl: "https://www.electronicsweekly.com/news/design/renesas-fixstars-partner-automotive-deep-learning-2022-03/"
+originalUrl: "https://www.electronicsweekly.com/news/design/renesas-fixstars-partner-automotive-deep-learning-2022-03/?eea=*EEA*"
+webUrl: "https://www.electronicsweekly.com/news/design/renesas-fixstars-partner-automotive-deep-learning-2022-03/?eea=*EEA*"
 type: article
 quality: 39
 heat: 39
@@ -35,6 +35,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "EbAWDzVKPgi7eZ9zUcGZZ8ROYkS9Exy77gVxltK/xbB948dHi826190/ibEEbBZnrEh08DPm5gJbJ90WJ7T8iVFsnNkE5BTD1PfWn1lo2fM+8C0ArUrJLSeWbh2A8mrFZMttKJ6u4mOJMLd+1WW4STLsBfS10p1gXZ/wEKXwJ/Q+yNreX8yll/iKqagcedirpvHzFZfAITT0r2KsnroBOOd0H1UcXNvu1/q+fproMk0LnKzYe+dFQFM2diH8+SgrKk1j9tmcbQ/aSj2Vx9FlEU3ffWvWr9d9DjZmCe05A9XAMEp4zTytrm6xdZSClBaPClbeucgL3qrA3pvbQ+IgkCdYkqerAFlMrPfq84sXq3k=;PCrtaeRyAzlXrAO+o3u8vw=="
+secured: "7T2S08K4TYuamgn1vXNdkGl9yUgrjEVWrDxvvtHSSJYT4teS133vmlugoW93SKoafH/sBq1XWwUmDYICgveOo/Elch6js/uLNjEdBcvYWU97oSj4GqJKEPSwvXU5q2vpmRu7zKe6dfY+HFmKxzEH1WmZDaD498x7t/T8tEewF5SvTGUm0rUDqhmExyDzszoHOf/1O4cVU91gLCZ2e71ApwMK8eUTf4i86n2mMZvCX+ySN3YsM9O3osFum+EXUsOgRV6oDHD2R+l/8SVu8q4lXldlEMxuUDIp2Q8NKPgU238TU9USddEU2LIREfTteoNofIRej8raUASmQ0WSanF0oMpEwCPWtDldyk67HyYkAD8=;MbR8hKbdYM3noclv41kTrA=="
 ---
 

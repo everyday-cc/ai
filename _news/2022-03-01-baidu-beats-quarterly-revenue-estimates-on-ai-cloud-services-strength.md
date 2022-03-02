@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services."
-publishedDateTime: 2022-03-01T07:54:00Z
-originalUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2022-03-01/"
-webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2022-03-01/"
+excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
+publishedDateTime: 2022-03-01T10:43:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
 type: article
-quality: 167
-heat: 237
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/b5ky09qDpXo-154NBC2uMt2xODA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5CCSMV27FJZZG4ZP7ZY57QJIM.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-89923039,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -126,6 +125,6 @@ related:
         height: 480
         isCached: true
 
-secured: "KqTayZTTKcfUoIrrjFOM+zDSfR1BhCXcQ9R1DtphTeBzjn9P1DtMn6s5+RylXKwSTIDoUvhyEjtyUMNXcSA6ePabsCKHgMvG5P61SJV+F9Q25Spq0fEGs/XVEgZJH6kL3dZgXfC5rvHLMbAAUua88WWomhwKWmXuzr8cP/imwwrBLNy0oKGaLQPaZTI6jb7+GEpS6vtLqHxDIDiawVUJnT1rWT5YLWfGJsmBxn3NBJP9YDLGHyxttFPDQod7QK6UcfUz2ytm11DAhB9cZ2JHPUUukbI7u8PrdaR70Fw8zyBbyEr0vfNDJEYggd++7bhvfKd0rEI0fBVfuiGWT36KrcY3YXRoJ/nKCUV7TbRhjnM=;6oYxMiqM1xQRfBH5RXDLGA=="
+secured: "wAtsJfaRJddwUcU5i9GxW6msIchp60CNN2O+eRzCo3eu7V/gnvafosmEv41r130qn58thRmQ1lWHJkXlfPe3E4EOrsDQouPgJTKO11NsE8xYTaACq7lbNd1cZDX7Pfj+lric0BUa3TzOUj2hzZ4imBHlUGPQdukFUpOz/6dJnK2jZaPSYfeMLVYzaL5/ray1KCp3bXcEAKln2aVXKzeFXxib44IHdaBXsPuimPcP+n9h5RugB5wjY/fWHd/i8bQbXxDjsAAn5sg00aGcRaE731nyr0mW4r31nXj241WEDja/ihT0YxpYcPNl+Pqq/qspUoGd7a4zkjeVCr7MmHKb+3/ZpRbE5jkgfMe7W8ysx0o=;rbbwxDZiHrMksNacnSDixg=="
 ---
 

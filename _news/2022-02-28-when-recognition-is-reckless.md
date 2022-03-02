@@ -7,7 +7,7 @@ originalUrl: "https://foreignpolicy.com/2022/02/28/putin-ukraine-donetsk-luhansk
 webUrl: "https://foreignpolicy.com/2022/02/28/putin-ukraine-donetsk-luhansk-georgia-recognitio-reckless-sovereignty/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Rowlett kids receive national recognition"
-    excerpt: "Rowlett Fire Explorer Post One has been recognized as the Junior Firefighter Program of the Year by the National Volunteer Fire Council."
-    publishedDateTime: 2022-03-02T18:41:00Z
-    webUrl: "https://starlocalmedia.com/rowlettlakeshoretimes/rowlett-kids-receive-national-recognition/article_bd0dd530-9a60-11ec-a8d2-db81405a46a2.html"
+  - title: "Sandusky native reflects on recognition at State of the Union Address"
+    excerpt: "Danielle Robinson was given a standing ovation in Washington. Her husband, Heath, passed away from cancer after exposure to burn pits while serving."
+    publishedDateTime: 2022-03-02T21:07:00Z
+    webUrl: "https://www.wkyc.com/article/news/local/ohio/sandusky-native-reflects-recognition-state-of-the-union-address/95-c81d1523-8f01-4b26-ae37-d65ae464c759"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/local/ohio/sandusky-native-reflects-recognition-state-of-the-union-address/95-c81d1523-8f01-4b26-ae37-d65ae464c759"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/ohio/sandusky-native-reflects-recognition-state-of-the-union-address/95-c81d1523-8f01-4b26-ae37-d65ae464c759"
     type: article
     provider:
-      name: Star Local Media
-      domain: starlocalmedia.com
-    quality: 24
+      name: WKYC3
+      domain: wkyc.com
+    quality: 44
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/d/86/d86a6726-9a60-11ec-84c6-93a9b90f990b/621fc8c351bc2.image.jpg?crop=1174%2C616%2C0%2C131&resize=1174%2C616&order=crop%2Cresize"
-        width: 1174
-        height: 616
+      - url: "https://media.wkyc.com/assets/WKYC/images/f2299ba5-c1b5-422b-8cbe-8c9690665580/f2299ba5-c1b5-422b-8cbe-8c9690665580_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
+    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
+    publishedDateTime: 2022-02-27T20:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "jt0DkeRfEYge0c/nTzj21O/pN2+cZFt+P/iVClkRhYJfFMApMnKZySftR0qvu6GGEtusUggEZ9yyhibHrpg1Dx9bzNrQ7ZSqFRTmNQP56IKMMtufOH/xjn0mBrB0+8R9vWYjRE10hvPlULXtcPZCXsKaTkI3qCJFMigpaBDPEoP9Jq9vfuDDzckY4USolS/TNRd8nvT2VbipVMGI+ZVJVC+t5D2zmFS+4kQRjIrtVNCVrsDjyqqHTaoK0P9Xxi3+jqG3Z5gJIxKh9n9XblMs5e2vlobe+L5uzvVc8raYUj8IiUhg0pyNV4drj5bLDAy8cH6D338p+84iM2bEVXgZyy4Rcib80jrLhlFkEQgmmowymdDIpyYEbENTSN46ktBYEIvfvt7Cg3zlKsilCj7bKwO/s8Cq0YTAhAIwBRd4mM32p930IPQr35tYQeISdQ8pwdalv3VzSGhoBosFdplxKcGDyoOosnDOV7zEXJk+Wg3/PZRpG/P25bsai9apunpWAPuOf40oE5mlYoZ7OAzRjg==;G8Excdjmi+wHE6+VYb+tAA=="

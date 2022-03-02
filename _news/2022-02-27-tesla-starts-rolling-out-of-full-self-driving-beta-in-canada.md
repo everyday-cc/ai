@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/02/fsd-beta-canada-button-2-575x1024-1.jpeg"
         width: 575
         height: 1024
+        isCached: true
+  - title: "Which Company Starts Deep Learning First Canada America?"
+    excerpt: "Who Is The Leading Company In Ai? The market for artificial intelligence (AI) is fragmenting, although IBM commands a significant share. According to the IDC market research firm, IBM holds a strong lead in artificial intelligence software platforms,"
+    publishedDateTime: 2022-03-02T21:25:00Z
+    webUrl: "https://www.ictsd.org/which-company-starts-deep-learning-first-canada-america/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 39
+    images:
+      - url: "https://cdnictsd.ictsd.org/which-company-starts-deep-learning-first-canada-america-.jpg"
+        width: 626
+        height: 417
         isCached: true
 
 secured: "9NsqjujM6PsnLhK5ihBu5WUIcxhJ0HLqvCE8PRmYGYd5XgvlI9QvUZY87C2vYn68l2ZXw+U/hEep6pu7hrCILBvlGW4vann84H6D3GZYomiajremJUt8NObe+/7rRYpsvRvRV6qHzA7U6kjT/uVWS3wOMQI6WPVaZ/94aMXKE2DD4vGzDJUKnZaOPp+MFQzAiRTq3BlzpFgsuYdTtldypzTfkbBo5eVkr3Y4uo9Lv78SGJRJdWLT/5KaU7ls2PCOiM45mg+JZOUSX5CHfDVqM3yJNzZQcv+SewPPefWjMpD673nFAC//HEnGIn8sJIt0hIKAR7SKXMRzgesrIDQKEqXdD4qjYIR/ZcRoYNfcHIhjsZLRpcTYgcSwQlbm1s7MnHBNMJsaDFxfOxSA/yWl0lKWylGvfzEBhKJw3IXk1NJWDgMwdDEyMRwH8ha6hnf0iegl+HL0Cz2Uxhq6idaYj7J1RC3dyDsfY6kCNHzGJc+hrq+1fizVFt2f+NQnECXnK+rpeeojwr5Td0CbkjjuiA==;lwyVt5z+8yyxxRVgHQHqIw=="

@@ -87,6 +87,20 @@ related:
         width: 575
         height: 1024
         isCached: true
+  - title: "Which Company Starts Deep Learning First Canada America?"
+    excerpt: "Who Is The Leading Company In Ai? The market for artificial intelligence (AI) is fragmenting, although IBM commands a significant share. According to the IDC market research firm, IBM holds a strong lead in artificial intelligence software platforms,"
+    publishedDateTime: 2022-03-02T21:25:00Z
+    webUrl: "https://www.ictsd.org/which-company-starts-deep-learning-first-canada-america/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 39
+    images:
+      - url: "https://cdnictsd.ictsd.org/which-company-starts-deep-learning-first-canada-america-.jpg"
+        width: 626
+        height: 417
+        isCached: true
 
 secured: "gga02O0vr2mxK3eFDrNX69CpIJxLMfq97Zii4av0iZ9CxhTWfTzD2+TZFQwePgr7aW9O4V321/IlVOftkJrhxEqck1yHywtBuwcvbVWccpbCf91mJpThzx7GFXrhc9zwsoPIx+aMizF4URwXPF+xFsIshb6ZUFg7A0o1Q88lXKi/sNg2DGd2dMVNwigGZ0UZQx1Wa7C3byRQyYOp73Ss7oVqjdMsf0VOd8Nm5BzmOFktKkJ890uppry5c3wBZ7TFJI6gSC0dEqWVZLZTBXB7O2TXqyb9U60xlnG6oId+TOgSW0O9+2LvllAMIwZr5C1vhGEdTtsEoa60eab5yKuvtqvc4tEDRdHKuarL0nVzTvqw8fd7/lgViQaAI8yCBQ9aciK9epQmOk4tg+s0/ZwEpkmZREChLTcEXaMSPtHiXdupct0zfHFEjtr624Y6FWqR0bp9CvkfCQjlBU96O8RcGXwps2vh8J0/dUG5TQOCIJkfXC+MM4jGB9l3ujAoQSF83AGjCAMqv8mgXbRwDK/k3g==;P7LwQAnEOd2Ij5fcMhLJkg=="
 ---

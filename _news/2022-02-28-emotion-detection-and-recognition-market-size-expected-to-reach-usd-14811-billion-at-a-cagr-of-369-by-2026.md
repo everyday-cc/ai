@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
-    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
-    publishedDateTime: 2022-02-28T12:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
+  - title: "Sandusky native reflects on recognition at State of the Union Address"
+    excerpt: "Danielle Robinson was given a standing ovation in Washington. Her husband, Heath, passed away from cancer after exposure to burn pits while serving."
+    publishedDateTime: 2022-03-02T21:07:00Z
+    webUrl: "https://www.wkyc.com/article/news/local/ohio/sandusky-native-reflects-recognition-state-of-the-union-address/95-c81d1523-8f01-4b26-ae37-d65ae464c759"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/local/ohio/sandusky-native-reflects-recognition-state-of-the-union-address/95-c81d1523-8f01-4b26-ae37-d65ae464c759"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/ohio/sandusky-native-reflects-recognition-state-of-the-union-address/95-c81d1523-8f01-4b26-ae37-d65ae464c759"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
+      name: WKYC3
+      domain: wkyc.com
+    quality: 44
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://media.wkyc.com/assets/WKYC/images/f2299ba5-c1b5-422b-8cbe-8c9690665580/f2299ba5-c1b5-422b-8cbe-8c9690665580_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "When Recognition Is Reckless"
+    excerpt: "Argument: When Recognition Is Reckless When Recognition Is Reckless... | View Comments () A major land war looms over Europe. More on this topic Russia pounced on Ukraine even as Russian President Vladimir Putin’s rambling speech denying Ukraine’s sovereignty was still reverberating."
+    publishedDateTime: 2022-02-28T03:17:00Z
+    webUrl: "https://foreignpolicy.com/2022/02/28/putin-ukraine-donetsk-luhansk-georgia-recognitio-reckless-sovereignty/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 24
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/putin-donetsk-luhansk-recognition.jpg?w=1000"
+        width: 1000
+        height: 666
         isCached: true
 
 secured: "jO0D8/W+ALSlhKcFoUCdQjVciGV/VrepGE85mFRYb2owbTWLbQ5L/VyngAbLLvQEy0vKaXpIpPFOMLSFT5Ckw8qzUVBjPLMVLBI2qdoDA9AeqgE+Wv+gR/XWeL2IcglTnK2uKvhg6DdtON74F9spk2gskDN/EGdzRVREahbvAWJUxV/3yHGQNdU5SuDBUlOS8q+KPUgFpMbj6mdySWFfN4xy88mDBwMbUpASg+Y4eiubtog9QuRigYge+nBJLj60uNiysWqToLmPpyj9pK5FKr7VWdY2JdjWt0yX0O4nO4QWQ1JlOgr8dWDAEIj8Ht/7yqB9nN20OrbU6UJ0aSwU/kvYoD2CBjtmmM5Td76G/u4=;rbRa2VmcinfA2Tg82TeRUQ=="
