@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fraud Prevention Startup nSure.ai Raises $18M in Series A Round"
-    excerpt: "Fraud prevention platform nSure.ai has raised $18 million in Series A funding, led by MoreTech Ventures with additional investments by"
-    publishedDateTime: 2022-03-01T19:25:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/fraud-prevention-startup-nsure-series-a-round/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 39
-    images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2022/03/series-a-funding-nsureai.jpg"
-        width: 1500
-        height: 1125
-        isCached: true
-  - title: "ViFive: An innovator in Vision AI technology raises $5.8 Million"
-    excerpt: "ViFive, an innovator in Vision AI technology, has recently announced Pre A funding of $5.8 Million. This funding round saw investments from companies like SV Investment (who were the initial investors to BTS),"
-    publishedDateTime: 2022-03-02T00:19:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-health-30c7d702098f545405c0757b5bff2bda"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Israeli predictive AI fraud protection startup nSure.ai raises $18M"
-    excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. announced today it has raised $18 million in new funding to allow the company to extend anti-frau"
-    publishedDateTime: 2022-03-02T00:58:00Z
-    webUrl: "https://siliconangle.com/2022/03/01/israeli-predictive-ai-fraud-protection-startup-nsure-ai-raises-18m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/nsure.png"
-        width: 820
-        height: 312
-        isCached: true
   - title: "nSure.ai Raises $18M in Series A Funding"
     excerpt: "Sure.ai, Tel Aviv, Israel-based fraud prevention intelligence platform that is purpose-built for virtual goods, raised $18m in Series A funding"
     publishedDateTime: 2022-03-01T17:12:00Z

@@ -24,6 +24,19 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Morphean's white paper highlight the rise in flexible working beckons shift to automation and AI for security industry"
+    excerpt: "Morphean, a pioneer in Security-as-a-Service and cloud analytics, has announced a new whitepaper that explores the security challenges associated with the growing prevalence"
+    publishedDateTime: 2022-03-02T10:50:00Z
+    webUrl: "https://www.sourcesecurity.com/news/morphean-white-paper-highlight-rise-flexible-co-12276-ga.1646202182.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/morphean-white-paper-highlight-rise-flexible-co-12276-ga.1646202182.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/morphean-white-paper-highlight-rise-flexible-co-12276-ga.1646202182.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 30
+
 secured: "Wfnla1LxySt/STv1/V/b/9u1YMWC7j8tjH2v5Q/BDcKodGuhc6U60clYdG6aWODwQ1jTJDEh6VgoT+HuN0VudK7XEc4Y3wOjmCUrxMPUMT8Ff1sCUeCwhHKKMdXTxC1qFTJlgUL8wp06YDVtLWFNk4snPyum5PPwLi7lbDvN1ameJJE6Ql4L65GN0Hffm6vz/FYX12o8XTR4r12QZuwP0c6fNJLHd9lgpCGTxpMQnxqUh6g8QoLB4aXBY7HTXXnLzYwmLg/+uppPceqsKEc1e2RaoAcss6wZ/FPlow00hYQqIQLhfVaVVXMqO3b5iL2wY2Ih7xYb/jg7hLKS5t7kT4lf7Ohfi0469It8Zta4xeE=;yWuB2LYNmM9e4o71zCNDFw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-15-vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform.md",
+      "title": "VMware, Nvidia team up on AI-powered hybrid cloud platform",
+      "excerpt": "To make the move, VMWare has partnered with Nvidia, the processor maker with a market share of 80% graphics processing unit (GPU). Nividia has become the most successful chip maker to use AI in silicon, thanks to its long history of making game chips.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/VMware_-Nvidia-team-up-on-AI-powered-hybrid-cloud-platform-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "publishedDateTime": "2022-02-15T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-redmagic-7-confirmed-to-feature-independent-gaming-chip-called-red-core-1.md",
       "title": "REDMAGIC 7 confirmed to feature independent gaming chip called Red Core 1",
       "excerpt": "REDMAGIC says that the chip was developed jointly with Awinic and JD Esports. Awinic is a Shanghai-based company that specialized in high-quality, high-performance analog, digital-analog mixed-signal, RF, and IC for mobile phones, AI, IoT, and the like.",
@@ -1330,58 +1373,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-chip-designer-mimicking-brain-backed-by-sam-altman-gets-25-million-funding.md",
-      "title": "Chip designer mimicking brain, backed by Sam Altman, gets $25 million funding",
-      "excerpt": "(Reuters) - Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million. Gordon Wilson, CEO and co-founder of Rain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB",
-      "originalUrl": "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220202&t=2&i=1589737556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI1109U",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2K70JB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2K70JB",
-      "publishedDateTime": "2022-02-02T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

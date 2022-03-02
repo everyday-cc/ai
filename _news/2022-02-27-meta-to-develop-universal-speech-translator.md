@@ -41,6 +41,20 @@ related:
         width: 744
         height: 418
         isCached: true
+  - title: "A|I: The AI Times – Meta’s killer app is translation?"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-03-02T10:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-metas-killer-app-is-translation/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/12/art-science_feature.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "uaB9oYppVeXf2I7pMF6PccVu8agSC8P9KkWuZyhTNHvQiVsR2DTRdOlG4scqYUCkvFHYoV55wYfI57W3/F20/L/O5cTpP/u9/+0eHVQJekVlcMKjQy3Ao42wZQ2xZogZQoy+ZtZ2S8axXjFAoxAQH8g0fzCA5M4kqvcqQZxn1IL/Pb0WZ3k7GziDkaugSTEjbxCBdBqw9+y6ZiOvy5SCLBnq0wub33VvigxW21rGklqZpjkfoTuwpcorLLN8roQlSCf84ZupE42B6McQtqv+kyN1RH+qBvgY3xga3IsLh9jc9w0qdWLPS2t8Ts44jtvyEIJyGz5SkvNz1B5Cjusje9PWL2UOQT0zzL11bqUt0A1JprWbtosxQqI1LX0kjKfByzjaTiKuzT6QOn9p25OjvXTasOQLq2JKFDilaZLOb2FgnkEiC7h2gDhqZ96HWNRYMsT/aoH9A7YZtntxi876I1g6vAliJC3PFt7IYxGSHwg5n6Uq5tktrhIjj7eFXZGONLL4i8pBB6wdkvBUhK5dfA==;C7xJzhRfueJ9qjHMbXxCBg=="
 ---

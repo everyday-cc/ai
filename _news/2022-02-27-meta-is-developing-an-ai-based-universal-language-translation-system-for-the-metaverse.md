@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Meta’s flashy, AI-powered vision of the metaverse brushes over concerns"
-    excerpt: "Meta (formerly Facebook) pitched a flashy vision of the 'metaverse' this week. But the company faces challenges in delivering on its vision."
-    publishedDateTime: 2022-02-25T17:11:00Z
-    webUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/"
-    ampWebUrl: "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/zuckerberg-future-is-private.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress"
     excerpt: "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,"
     publishedDateTime: 2022-02-27T06:48:00Z
@@ -60,19 +44,21 @@ related:
         width: 980
         height: 677
         isCached: true
-  - title: "The Metaverse Could Fund Important Artificial Intelligence Work"
-    excerpt: "Meta Unveils Voice Mods for the Metaverse Plus AI-powered ‘universal speech translator’ Some context here, I didn’t realize Zuck was building the Holodeck. If you enjoy articles about A."
-    publishedDateTime: 2022-02-25T17:57:00Z
-    webUrl: "https://www.linkedin.com/pulse/metaverse-could-fund-important-artificial-work-michael-spencer-"
+  - title: "Chip geopolitics — A call to ban predictive policing — Building the Metaverse"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2022-03-02T10:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: POLITICO
+      domain: politico.eu
+    quality: 56
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHdhoN3MJMyZg/article-cover_image-shrink_600_2000/0/1645811731057?e=1651104000&v=beta&t=3d_obpkGM1X_5bv-szTxP28FNYX9HJwj95x4mRKWdQ0"
-        width: 807
-        height: 440
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Meta developing AI-based Universal language translating System for Metaverse"
     excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"

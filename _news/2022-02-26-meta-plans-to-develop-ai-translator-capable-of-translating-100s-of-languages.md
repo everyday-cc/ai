@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Interesting Engineering
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "A|I: The AI Times – Meta’s killer app is translation?"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-03-02T10:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-metas-killer-app-is-translation/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/12/art-science_feature.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Meta to develop Universal speech translator"
     excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
     publishedDateTime: 2022-02-27T08:32:00Z

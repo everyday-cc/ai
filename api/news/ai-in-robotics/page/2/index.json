@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-15-local-municipalities-use-ai-robots-to-improve-care-for-elderly.md",
+      "title": "Local municipalities use AI robots to improve care for elderly",
+      "excerpt": "Among the various AI robots which can be found inside of stuffed toys ... Soon-yi is a wristwatch-type product made by DNX, a startup company in the Yongin City Digital Industry Promotion Agency. After DNX provided the products to 111 elderly people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/02/281_323917.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/02/281_323917.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202202/80187d74a9984404b3a204a4ee0b2759.jpg",
+          "width": 980,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917",
+      "publishedDateTime": "2022-02-14T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-alphaics-gets-long-awaited-ai-gluon-chips-fabbed-by-tsmc.md",
       "title": "AlphaICs gets long-awaited AI Gluon chips fabbed by TSMC",
       "excerpt": "AlphaICs says it has put its first AI chip from design to production on a shoestring budget of $10m in venture-capital funding. The four-year-old startup on Monday announced it was sampling the chip, which is called Gluon, to customers for evaluation.",
@@ -1279,40 +1322,6 @@
       "provider": {
         "name": "The Independent",
         "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-innovations-in-robotics-ai-will-continue-to-power-this-etf.md",
-      "title": "Innovations in Robotics, AI Will Continue to Power This ETF",
-      "excerpt": "More innovation in robotics and artificial intelligence could bloom out of healthy competition, which could power the First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) even further. The disruptive space, highlighted by robots and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf",
-      "originalUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp",
-      "publishedDateTime": "2022-02-04T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

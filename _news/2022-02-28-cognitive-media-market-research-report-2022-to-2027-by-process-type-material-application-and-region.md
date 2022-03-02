@@ -43,6 +43,20 @@ related:
         width: 508
         height: 339
         isCached: true
+  - title: "Medical Radiation Detection Monitoring and Safety Market Growth , Trends by Type and Application and Forecast to 2027"
+    excerpt: "The global Medical Radiation Detection, Monitoring, and Safety Market is forecasted to be worth USD 1,339.4 Million by 2027, according to a current analysis by Emergen Research. The market is expected to grow due to the rising number of cancer-related incidence."
+    publishedDateTime: 2022-03-01T06:40:00Z
+    webUrl: "https://note.com/emergenresearch/n/n27a98832b2c1"
+    type: article
+    provider:
+      name: note
+      domain: note.com
+    quality: 1
+    images:
+      - url: "https://d2l930y2yx77uc.cloudfront.net/production/social_images/aaba907c6af5c446499a281ce4482c12249e583c.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "XYeJ+d9CCN20QR8WMf5eGSdemEHkJlt9vQguGhdWyzoxrE3rJS76QJM58vORxh6XFbjr2Rrk3xqiNHe2F9IXudU4cAfYh5AT+MGpDDZj9XRiJr3D3Dyvgg+QXcs2QAxVM4AlfAManfw4QFKwzbWDl5/zqaenc8zbId/u1SIP8GQAOq/mEqpeJCEhthvmGS0xfxpSEICaibYm1AYOYFoxtJ9nXqVjWyvuJApJTAO8ImygQYJC6/4qs8K9q7IFpG9xTq0RqkMJhQ8ljuaHvA6iMKyvmizlONseIuTuA1kx6x5S24V8qSLIPMPN5TM5NLJF43IwLtm+biavhoTmK+7i1L8Vkr/z5I3baNftxHm72/8=;dlJCjlD22ewNBRS+7KUiZw=="
 ---

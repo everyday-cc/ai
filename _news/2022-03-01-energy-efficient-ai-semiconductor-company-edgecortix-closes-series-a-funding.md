@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding"
-excerpt: "while also building out the US sales and marketing teams to deliver the EdgeCortix high-performance low-power AI co-processor chip SAKURA to a global market. Michael Sands, Managing Partner in ..."
-publishedDateTime: 2022-03-01T01:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding-1031240420"
-webUrl: "https://markets.businessinsider.com/news/stocks/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding-1031240420"
+excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A"
+publishedDateTime: 2022-03-01T01:00:00Z
+originalUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
+webUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
+ampWebUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding"
@@ -47,6 +51,6 @@ related:
       domain: morningstar.com
     quality: 9
 
-secured: "m8ye7S59Nadda+0WCnVvjkDGigeiuD26N9ioAO7VJDzlxtfCoGQQbi1Q8yIrLrH12X41S1+cIizTKmy8VmcoyEUPYmlOruYOFKPQez+PpS/S8RKOXnAV0MNaXj+tEaG03qVTF3VX16X+t1htjZeuQTzpvLg2DUnKAJ4pTR98VA4d5ZcuQP1hIT5XCwn3EJsAmrMxrjZYTCkiEFu7YR75xjkaUOcKC2nEmqzfChL7DTf97w3jAQa98NZZKKIA9VIMdW8g/dkxtNSRXyJXi9aTL9AtgzgXZJXts5ZoU/e4lAV2zyHC+p0T4Mj2ZJebGsTcFLLIbwwRQTC0rrh0UAOBR0dqwSeu6kJv9dMpTJ26ROs=;9jgXiW5atUgk3heQCZAy0A=="
+secured: "wEEfh6j6QStp7bO4oeUlrSwEieJxwqZXziuA4vqvo8HU6Ajk2fDJHOrh0yVKZn5Dqp3xYFZOCo5OmtN6PdyqvkdjuqSkjxMNrfOld1R9lO9Got8Pk81n2b0+UxKh2eMuPZz5w79JZk3QxmGUGxYfETiD9f1bdpKX6glMWPUHRweW9ybQes+Xb20mwHaJksH2JLDhmrCY8hu+5vmz+NHPUoDF01tK7YQPgTX4UIinB7/wzWLOoP+eXvy0rtwQfZYoGtbrWyhw0TSj9cScMbd+o4DpPoxfmGLgQa0YJ1Nb/sXmC0DwL1W1N+CaTdEmZlX6FPDlWBtzzDH7Z5jtGmrsNyvNwGYc8TB1WEHQTzvpB7I=;jLgFvVnO6LaaWD1DLkL5+g=="
 ---
 

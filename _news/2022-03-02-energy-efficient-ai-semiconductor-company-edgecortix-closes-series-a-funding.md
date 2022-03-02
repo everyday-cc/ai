@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding"
-    excerpt: "while also building out the US sales and marketing teams to deliver the EdgeCortix high-performance low-power AI co-processor chip SAKURA to a global market. Michael Sands, Managing Partner in ..."
-    publishedDateTime: 2022-03-01T01:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding-1031240420"
+    excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A"
+    publishedDateTime: 2022-03-01T01:00:00Z
+    webUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
+    ampWebUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: Asia One
+      domain: asiaone.com
+    quality: 56
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding | Morningstar"
     excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A funding.  EdgeCortix's reconfigurable Dynamic Neural Accelerator® processor architecture and AI acceleration SoC SAKURA™ brings best-in-class power-efficiency with near cloud-level performance across infrastructure and embedded edge devices."
     publishedDateTime: 2022-03-01T01:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.corporatecomplianceinsights.com/fraud-prevention-start
 webUrl: "https://www.corporatecomplianceinsights.com/fraud-prevention-startup-nsure-series-a-round/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "ViFive: An innovator in Vision AI technology raises $5.8 Million"
-    excerpt: "ViFive, an innovator in Vision AI technology, has recently announced Pre A funding of $5.8 Million. This funding round saw investments from companies like SV Investment (who were the initial investors to BTS),"
-    publishedDateTime: 2022-03-02T00:19:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-health-30c7d702098f545405c0757b5bff2bda"
+  - title: "Beatoven.AI Raises $1 Million From UK-based Entrepreneur First and Redstart Labs"
+    excerpt: "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. AI-driven music tech startup, Beatoven.ai, announced on Tuesday to have raised $1 million in seed round funding. The funds have been raised through Redstart Labs ..."
+    publishedDateTime: 2022-03-02T10:13:00Z
+    webUrl: "https://www.entrepreneur.com/article/421165"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1646215806-Myproject66.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Beatoven.ai raises $1 million from Entrepreneur First and Redstart Labs"
+    excerpt: "Music tech start-up Beatoven.ai has raised a million dollars as part of its seed round. The funds have been raised through Redstart Labs, a subsidiary of Info Edge and UK-based Entrepreneur First. Beatoven.ai is one of the only AI-driven music tech ..."
+    publishedDateTime: 2022-03-02T08:45:00Z
+    webUrl: "https://www.financialexpress.com/brandwagon/beatoven-ai-raises-1-million-from-entrepreneur-first-and-redstart-labs/2448766/"
+    ampWebUrl: "https://www.financialexpress.com/brandwagon/beatoven-ai-raises-1-million-from-entrepreneur-first-and-redstart-labs/2448766/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/beatoven-ai-raises-1-million-from-entrepreneur-first-and-redstart-labs/2448766/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/03/Funding-2.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Israeli predictive AI fraud protection startup nSure.ai raises $18M"
     excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. announced today it has raised $18 million in new funding to allow the company to extend anti-frau"
@@ -53,33 +69,19 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "nSure.ai Raises $18M in Series A Funding"
-    excerpt: "Sure.ai, Tel Aviv, Israel-based fraud prevention intelligence platform that is purpose-built for virtual goods, raised $18m in Series A funding"
-    publishedDateTime: 2022-03-01T17:12:00Z
-    webUrl: "https://www.finsmes.com/2022/03/nsure-ai-raises-18m-in-series-a-funding.html"
+  - title: "Mobile-based AI self-checkout solution lands $2.5 million funding for Berlin-based retail startup"
+    excerpt: "Berlin-based AI startup Nomitri is betting big on the food retail revolution and has now raised $2.5 million funding"
+    publishedDateTime: 2022-03-02T09:00:00Z
+    webUrl: "https://tech.eu/2022/03/02/mobile-based-ai-self-checkout-solution-lands-berlin-based-retail-startup-with-25-million"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
+      name: Tech.eu
+      domain: tech.eu
+    quality: 24
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Alex-Zeltcer-CEO-Co-founder-Left-Ziv-Isaiah-CTO-Co-founder-Right-1-1.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Real-Time Fraud Prevention Intelligence Platform nSure.ai Raises $18 Mn Funding to Revolutionize Business in the Virtual Economy"
-    excerpt: "Alex Zeltcer CEO Co-founder (Left) and Ziv Isaiah CTO & Co-founder (Right) Round A funding led by MoreTech Ventures and multiple"
-    publishedDateTime: 2022-03-01T16:52:00Z
-    webUrl: "https://www.indianweb2.com/2022/03/real-time-fraud-prevention-intelligence.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 10
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjgF8qFH-jifWsLI4aMuHYO9Ry6ZcVd4oPJhlbjJ740AppYV-J0w8Rnbtt_53qHmqZlxlgGmTppLFVX02PrEtw9eZ6C_IWJckmxjepdrX5P6PrSCWHBlRMgvUlWRHzsJc4FJDWn7pvLr1mlEnOXjIrgPBcsyyYnbgmSCJBljsiLbq9ATTJhboV750_V=s16000"
-        width: 900
-        height: 580
+      - url: "https://cdn.tech.eu/uploads/2022/02/untitled-design-73-497.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "R0jLn4/2pHj4mc5RwSjJ1AtoM/IgDKQpIvQmdAD/n5t/gDzkDPdnGKI/9ghdSUz0Ug1maeOWJ4wu6bVmj/936Xc4Hd5IZ2xiEZ8Kl53uSeqc8Pxr1l3DOvjGk1O3tCSR5TaB6f9sa9/A1pM9hV8G1ILGv6NGVbxeDPNHZUzWChtbBZtPS+H/+yXhVD5pAHURELyrd8lX2QV6OdRkdLAnwLfH+/aF7Za3yNBZQEppK/FRJBs5sm/XVqzNuaT5hfsEMVI+YaWijD9KpglZy9Ld9clpz3H0lEIhoNFe6obadBq7UriyD1px/qdiSAin7ZfW1bjhmjeFvg8a4q72OPAWd43nW29N9GyKKkU8yVCagIM=;nOCp62c5RlscDgPPYxgTYA=="
