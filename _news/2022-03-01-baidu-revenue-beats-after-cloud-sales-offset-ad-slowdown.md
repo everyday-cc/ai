@@ -50,17 +50,17 @@ related:
     quality: 69
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Total revenue grew to 33.09 billion yuan ($5.24 billion) for the fourth quarter to Dec. 31, beating the 32.22 billion forecast by analysts, IBES data .."
-    publishedDateTime: 2022-03-02T02:33:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
+    publishedDateTime: 2022-03-02T04:34:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89935506,imgsize-62329,width-1200,height-628,overlay-ettelecom/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89937522,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services.jpg"
         width: 1200
         height: 628
         isCached: true

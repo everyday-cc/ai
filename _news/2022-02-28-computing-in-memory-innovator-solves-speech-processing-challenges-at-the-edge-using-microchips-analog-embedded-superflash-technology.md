@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-microchip-technology-inc-1fdc9402b827fb1a76a97023e62af0eb"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Computing-in-Memory Innovator Solves Speech Processing Challenges at the Edge Using Microchip's"
+    excerpt: "Computing-in-Memory Innovator Solves Speech Processing Challenges at the Edge Using Microchip's March 1, 2022 10:18 am - SuperFlash memBrain memory"
+    publishedDateTime: 2022-03-02T04:41:00Z
+    webUrl: "https://menafn.com/1103785778/Computing-in-Memory-Innovator-Solves-Speech-Processing-Challenges-at-the-Edge-Using-Microchips"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?179956"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "SHuQ3ZxUr697PWXXMAsSFGHQP5gQQtGq3h5dw2Ie8dAhrpmgPij/E9/YtSHNr+Vs683oZdGZnJ8RH1Z0dnc0JlM8R5h+Uwl0UkJSuxk2rZcNcK6wwmlwXZN8oYUKX9vSoknKEkazX4o25xgb0eHOrKw4UztuqyQlad/ADn8+uFWRAQqQnsCcF9R5v7yLHBlPKMbxM8ohydNuRlrLQYAf6xIfBzqbK6l+1fHi08+A8PIbvrDKDUvR8a94sCdtd/G1LgmMdO6tVzdyAkUhN9y9fBsrGi0uOw4w0OtQticvghxrUIM/lYRnR0vCxZUwdiVJ7Q377W4Ef8YgXGnu0rPCPAhr/GG4MAPomG6cambWdTE=;asgy4gyyhtMrDqFnkIGS6A=="
 ---

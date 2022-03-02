@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 537
     isCached: true
-
-related:
-  - title: "Government to set up centres for transformational artificial intelligence"
-    excerpt: "The Ministry of Electronics and Information Technology (MeitY) on Friday said it will set up centres for transformational artificial intelligence (AI) that will collaborate with academia and industry to develop AI-based solutions."
-    publishedDateTime: 2022-02-25T12:44:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/government-to-set-up-centres-for-transformationalartificial-intelligence/article65084195.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 38
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/zfbzry/article65084229.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_U8O6PHEKS_R1575039980_0_f86f931f-0943-4ba3-9024-6cf9fb6bda2d.jpg"
-        width: 615
-        height: 383
-        isCached: true
 
 secured: "PylcaWSMT4kll8vt8umDS8Ycp7m2aaVi2s1YAsca7PIw8BdG2ER/qi6ONrEh841sWNHRvxuMI4YIzV5/Df4dxAXFeLZH9rAxKpOcYqUzy3t96Y6cEqk1T+miSWDo2UpVWwptxaet5b5W68YmoTtH1HfAWy2uCvIF7lF55IxQyMnXDfpBFNDBrSHAR+pgtiM3sPmJEPpxLLXgpbYTPo5pX0iTv0mv0FWfCDvYjg6cbJccdli29qsf3CmAeTGXKmh54DPeDyHD0CmpOB/4jFc2XFqhbiYMDueEgWvfSguopBtMi1ALT76Em2758JdovRzV2cKoJJIlQfzqJdYUoqILL4pKBYHpmTs3BUMUJLDc8GzY9pBpEcC5h4WJzeJtUyb8UZErFfKJF16kH85/8Xqy4rbK1rTzsKAE5Cy/SwTCv2RJmU+UUJ2DdmtO2CPPaC46h73jFdTjTvm/W9GsihYBNPZ4/ZCqD5ls4OVjyz5z2zMCHCuM1/6bkfvE1kHkreHtxGAQUFxuID5kZlMsqMoCAg==;cHihDl/Y4vFPmP8XVNRZ0Q=="
 ---

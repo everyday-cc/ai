@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Insulin Pumps Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global insulin pumps market is expected to reach USD 10.25 Billion by 2028, according to a new report by Reports and Data. Insulin pumps are used for"
+    publishedDateTime: 2022-03-01T08:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/insulin-pumps-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cognitive Computing Market Size Estimated to Reach USD 148.12 Billion at CAGR of 27.70%, By 2028"
     excerpt: "USD 20.43 Billion in 2020, CAGR of 27.70%, Increase in demand for cognitive computing in healthcare end-use verticals. NEW YORK, NY, UNITED STATES, February 25, 2022 /EINPresswire.com / -- Increasing demand for cognitive computing in the cloud deployment mode coupled with high investments in R&D of cognitive computing are fueling the market growth."
     publishedDateTime: 2022-02-25T14:59:00Z

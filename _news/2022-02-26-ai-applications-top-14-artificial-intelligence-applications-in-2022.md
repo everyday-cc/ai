@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-i
 webUrl: "https://www.linkedin.com/pulse/ai-applications-top-14-artificial-intelligence-2022-robin-dahl"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: tynmagazine.com
       domain: tynmagazine.com
     quality: 23
+  - title: "Medical Radiation Detection Monitoring and Safety Market Growth , Trends by Type and Application and Forecast to 2027"
+    excerpt: "The global Medical Radiation Detection, Monitoring, and Safety Market is forecasted to be worth USD 1,339.4 Million by 2027, according to a current analysis by Emergen Research. The market is expected to grow due to the rising number of cancer-related incidence."
+    publishedDateTime: 2022-03-01T06:40:00Z
+    webUrl: "https://note.com/emergenresearch/n/n27a98832b2c1"
+    type: article
+    provider:
+      name: note
+      domain: note.com
+    quality: 1
+    images:
+      - url: "https://d2l930y2yx77uc.cloudfront.net/production/social_images/aaba907c6af5c446499a281ce4482c12249e583c.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "8TLXhAodZVcrQWmG7eAwSplf++SFZashXzGzyrqmSg7tz1Y1JTQXxJDubMEES9MvsexO47ufMfI9kpOaxq/x1N02XDItNCdYjD+V2jsUo0ORISYP3kE2xEnzr6FrlnHDZA9XDLJe1XH6gTtiaVnJs2RV/OQ1MmUdlEkN6b5IiQhdAPP4s1lhTvv288UdOMHROrFZvmBVSvuYbaldiitVL8PdhLHuAL45NNeVfU38o4MkVOD9oGD3DFD8OmDiClxtqJ9TBayfgs6ldxRrMZLeDPXWbR52VrGKNsPXzaIpRyFrztoYmxMLVc/7lmkceM5Gv5l+v/0GD0rpKNYueNbYkt0I+GIktd/3eFmxR4tdzcjX7x16KiIdZ7ugNaIFfwBrenLmxaxwaHM2zfbg7vZR5Enw6UJDu0UmVMQuHyl4ILKXOJLtRoIpa35GeRtE0SK9JDLFs0tdqmh5eqRINdNMgg+EEdhg5M7JsvFSrjQqmiH7hDECQOqx2pBo4m9j3dWMqFPNQY8e6zrzu4DUAnagoQ==;kpHbmlekHOWwCElk1xMr0A=="
 ---

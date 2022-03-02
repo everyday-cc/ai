@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/Intel-expands-AI-developer-toolkit-01.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Intel updates AI developer toolkit OpenVINO for higher inferencing performance"
-    excerpt: "Intel has updated its OpenVINO toolkit to bring expanded natural language processing (NLP) support, added device portability on your hardware, and higher inferencing performance. The tool is used to develop applications and solutions to tackle a range of tasks including emulation of human vision,"
-    publishedDateTime: 2022-02-25T11:56:00Z
-    webUrl: "https://analyticsindiamag.com/intel-updates-ai-developer-toolkit-openvino-for-higher-inferencing-performance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 35
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Intel.jpeg"
-        width: 2000
-        height: 1125
         isCached: true
 
 secured: "ZnSp6nvWK3Z+02r9wutrsi71tnNchCgjk/aAr4cyrnialjKQ6GpH3kU2pil73DyKe8dSJgKP+arnAfzu8iAmlFzMD5YT66ax8oYStnGQUKJXbDyHHL5X3MjI2hA5Kc6DYwUc6oRoFIC/+T66ZkxqGIOYUcu+c315eEQPDOj7OLH1Ymsfwbn1XVZc/xeX8WXHo/5uwwv++7P/J5qeBrgOhf0PDyDegU2pTkau8RABbR+tpN3wularAoMPouIf7kHnRye97GrHrsJeTnUroAPzIeGGdL6xLx9genMoZ1c5VZ0dxdvgg9cX9gyd8QGvvgU+0tr4FzqD0vYdO1o5spImIzS8D+FjJXSAdyjUXFUt4CY+H8nVkVY0IyOi+m5GILPV2U5yGTyxQ6hv5fmdhKUdOImjyxrWb0IuWXkn4AOBq+EX1BcyJYK1YY/XhuDVFSgeqNZd7KPf8PoRbaU/gZktvFZnb8S6r3zqvYITceVj4aPEbUR9tPoWqHhAvmLKIDgESc9eRkKQ8mO/p2mGRu4wbA==;c+WO4LWpWDbpRe4WJ4v1vw=="

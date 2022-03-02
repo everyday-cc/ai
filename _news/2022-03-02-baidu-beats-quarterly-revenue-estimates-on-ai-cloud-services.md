@@ -2,11 +2,11 @@
 category: news
 title: "Baidu beats quarterly revenue estimates on AI, cloud services"
 excerpt: "Total revenue grew to 33.09 billion yuan ($5.24 billion) for the fourth quarter to Dec. 31, beating the 32.22 billion forecast by analysts, IBES data .."
-publishedDateTime: 2022-03-02T02:33:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
+publishedDateTime: 2022-03-02T04:34:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
 type: article
 quality: 59
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-89935506,imgsize-62329,width-1200,height-628,overlay-ettelecom/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-89937522,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -120,6 +120,6 @@ related:
         height: 480
         isCached: true
 
-secured: "0gER1/kJBhSaXXRHaW8VB1miNS7cG8IvffS5ZoBjMDX+Yasf1S2dKrnMykAcQny36GgDISeVIdRr9pDQFF5G+ISorix3P7oLadLysGrrsEHMno+vw7VBnEPkChah/nIsWN/8//603X2P+sKIFy4aUBhE4QdUQKMj/Tf1REVsbWFVMB1E0FEqmfyRmyWq5NFNST6PbFDKT5bE9NHKUB/a/b8VVoi6P3EnbLIteh63FUfi8BUToBoTb825XZzCFxBCyL03Aj0CwJ/XPnGhwYZCGLUR5uSQZ22lymOFTQNv55ETB90Z/lwKl1ehbNHYQFgCIsLgb/8ANMrVl0/isOXkoH/tVjA0DitzkYbv8AquHhI=;Lj9jkMHPyVTSHcl2NyAHAw=="
+secured: "LeQ/50/Z3V08t2lqLj59JfuuhATAzwcoUxaW/QXPo68I3XJflndsGt3MWnsIwOoQz28gCSjEZiYae/9FdgDElBGDvXbr/JcNE4b/6K0993GNihLpP/MYK1+QCSb09qBWrsP6ORxnXTBUXqAf0XIKntUMCEnmf8APNsd2DYu+/1R4r6RNc5EiRD1xxT/iVLFCBm5x4RuqnrekWi/okZQzv1kIKRk3d7tUi8g/Z3rSbxb8nfRrUsNVyB/hQb2o9i9gZw+uGoXNXgnYuxDeLAFKtRv65saTt8PxKSiFpp1rdfp+x4Zg5Avet53xXx5kRVy7AIbxPDSPvtorox4LxaJA2FW2vC/KcEkwP6oFUldVXw8=;LD0Pwr6C5QgGd1Qw8r4WNw=="
 ---
 

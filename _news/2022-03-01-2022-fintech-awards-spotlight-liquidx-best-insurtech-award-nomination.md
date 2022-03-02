@@ -43,38 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "2022 Fintech Awards Spotlight: Turnkey Lender, Best New Product Award Nomination"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
-    publishedDateTime: 2022-02-25T12:51:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/02/25813935/2022-fintech-awards-spotlight-turnkey-lender-best-new-product-award-nomination"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25813935"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25813935"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "2022 Fintech Awards Spotlight: MDOTM, Best New Product And Best Data Analysis Tool Award Nominations"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
-    publishedDateTime: 2022-02-25T12:55:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/02/25814245/2022-fintech-awards-spotlight-mdotm-best-new-product-and-best-data-analysis-tool-award-nominations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25814245"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25814245"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "YBvT0jhMUrwQLbxTh6wQynybkUCnuew5L+dnt/nUMCpnLrHdMud45u4n+48x1YUOGvLCdIZa5Dux0F8TwiAUD4oSBsd7qoTdPeZZwuK8S4mExYatz/YG9Dkbqvnw/TFKjGjvCst3zjTr+sMgiC+1Te+igs4DtG/diRibCiFF0lKvWQ3TEJNg7mjowuW+qp7TtAgZXHLkcwn0u6yLd8RoCQqy4in3BmhzTh45WNYYcuTMDKZ4tQ3PwGpQAlhLSYCYXPujU2t7V65tMofR20ij9xUx30Gr0+wSVl6lDmSOYomU87q+zpIXVXRjNd10yRWWig26/h29FAcbMVahn/ln1aVlHRIGLtAQ5a6aQr8DxBU=;+eaYgPgxGNfRun7S96VRrw=="
 ---

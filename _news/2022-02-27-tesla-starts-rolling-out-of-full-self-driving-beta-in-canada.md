@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Trucker Settles Security Probe, Tesla Expands in Shanghai"
-    excerpt: "TuSimple settles U.S. security probe with departure of Chinese board members TuSimple Holdings Inc., a self-driving truck startup backed by big name U.S. and Chinese investors, has reached a settlement with the Committee on Foreign Investment in the United States to end a national security probe targeting the company’s data operations and China links."
-    publishedDateTime: 2022-02-25T12:40:00Z
-    webUrl: "https://www.caixinglobal.com/2022-02-25/self-driving-trucker-settles-security-probe-tesla-expands-in-shanghai-101847246.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 71
-    images:
-      - url: "https://img.caixin.com/2022-02-25/164577163217820_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada"
     excerpt: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it"
     publishedDateTime: 2022-02-28T19:52:00Z

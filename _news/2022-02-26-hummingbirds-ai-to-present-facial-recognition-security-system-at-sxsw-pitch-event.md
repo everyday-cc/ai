@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-
 webUrl: "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unemployment system will move away from facial recognition"
-    excerpt: "The practice has come under scrutiny due to privacy issues and longstanding concerns about racial bias in facial recognition technology."
-    publishedDateTime: 2022-02-25T11:43:00Z
-    webUrl: "https://www.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    ampWebUrl: "https://amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/02/25/unemployment-system-facial-recognition"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
   - title: "Startup to Pitch Face-Scanning Privacy App at SXSW"
     excerpt: "Hummingbirds AI will be looking to accelerate its business when it makes the trip to the upcoming SXSW Festival in Austin, Texas"
     publishedDateTime: 2022-03-01T22:52:00Z

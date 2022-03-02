@@ -67,6 +67,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Insulin Pumps Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global insulin pumps market is expected to reach USD 10.25 Billion by 2028, according to a new report by Reports and Data. Insulin pumps are used for"
+    publishedDateTime: 2022-03-01T08:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/insulin-pumps-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
     excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
     publishedDateTime: 2022-02-27T23:19:00Z

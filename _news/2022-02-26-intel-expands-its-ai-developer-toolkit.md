@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Intel updates AI developer toolkit OpenVINO for higher inferencing performance"
-    excerpt: "Intel has updated its OpenVINO toolkit to bring expanded natural language processing (NLP) support, added device portability on your hardware, and higher inferencing performance. The tool is used to develop applications and solutions to tackle a range of tasks including emulation of human vision,"
-    publishedDateTime: 2022-02-25T11:56:00Z
-    webUrl: "https://analyticsindiamag.com/intel-updates-ai-developer-toolkit-openvino-for-higher-inferencing-performance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 35
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Intel.jpeg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "GIiqwi884iwAdAKOGp7uipAcjBu+XmB61OhT7OjT1LCTu7nOE+0fErUS29N4oeJadGwBC3QxxLQox+TYYd5CRnxL/pjoaEgN6e9hY8dfs4OXHBxzBVV7AT7AUYXlVEZqV+mPQLJygbcD37Fxl2EsWKE7yuINwnIHTAJLCXvcNUPoY3xHIpvsBomCxj1wnfbHw6l3aGsK0ftNsDpoFHUvw8vMj0DxvcRFrSnZxTFCPeN3cF0tB67MWS1ivutTuZEPHeJWvTc+uwmcPa6Mt3TQZLLRfzjb/AHjoPYEsG+FEifKP/rbFE7CKKZ7v9QYnCqmdf37apxNBiKETrNIjWVZ3/mnejSnTgRVAIQcZJ8WKnY=;8lAar+1qy7s8Ll2YZR4ZGQ=="
 ---

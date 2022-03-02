@@ -43,20 +43,6 @@ related:
         width: 508
         height: 339
         isCached: true
-  - title: "Worldwide Artificial Intelligence in Medical Diagnostics Industry to 2027 - Advancements in AI and Deep Learning Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence In Medical Diagnostics Market Research Report by Technology, by Service, by Diagnosis Type, by Diagnostic Tool, by Application, by End-User, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-02-25T11:02:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=622413"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "XYeJ+d9CCN20QR8WMf5eGSdemEHkJlt9vQguGhdWyzoxrE3rJS76QJM58vORxh6XFbjr2Rrk3xqiNHe2F9IXudU4cAfYh5AT+MGpDDZj9XRiJr3D3Dyvgg+QXcs2QAxVM4AlfAManfw4QFKwzbWDl5/zqaenc8zbId/u1SIP8GQAOq/mEqpeJCEhthvmGS0xfxpSEICaibYm1AYOYFoxtJ9nXqVjWyvuJApJTAO8ImygQYJC6/4qs8K9q7IFpG9xTq0RqkMJhQ8ljuaHvA6iMKyvmizlONseIuTuA1kx6x5S24V8qSLIPMPN5TM5NLJF43IwLtm+biavhoTmK+7i1L8Vkr/z5I3baNftxHm72/8=;dlJCjlD22ewNBRS+7KUiZw=="
 ---
