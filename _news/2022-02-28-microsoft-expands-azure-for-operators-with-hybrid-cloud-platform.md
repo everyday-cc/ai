@@ -61,22 +61,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Contentstack Runs on Microsoft Azure, Litmus Debuts Email Capabilities, More News"
-    excerpt: "Agile content management system software provider Contentstack has announced it is now available on Microsoft Azure. Contentstack, a multi-cloud SaaS CMS, now offers customers the choice to run their software on either Azure or Amazon Web Services (AWS)."
-    publishedDateTime: 2022-02-25T15:46:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 84
-    images:
-      - url: "https://www.cmswire.com/-/media/6d901154dbc74b268d0d79aad629f43a.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "New Azure for Operators solutions and services built for the future of telecommunications "
     excerpt: "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for"
     publishedDateTime: 2022-02-27T17:00:01Z

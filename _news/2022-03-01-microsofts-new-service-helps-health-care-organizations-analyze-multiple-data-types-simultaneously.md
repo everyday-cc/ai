@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-heal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ..."
+    publishedDateTime: 2022-03-02T07:55:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 70
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
+        width: 350
+        height: 233
+        isCached: true
   - title: "AI in Healthcare Market Next Big Thing | Major Giants Google, Microsoft, General Vision"
     excerpt: "Advance Market Analytics published a new research publication on “Global AI in Healthcare Market Insights ... ai-in-healthcare-market Scope of the Report of AI in Healthcare Artificial intelligence (AI) in healthcare is the use of algorithms to manage ..."
     publishedDateTime: 2022-03-01T07:59:00Z

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Worldwide Disinfection Robots Industry to 2028 - Featuring PDI, Nevoa and Skytron Among Others"
-excerpt: "The global disinfection robots market is expected to grow at a CAGR of 30.1% from 2021 to 2028 to reach $2.79 billion by 2028. Following a comprehensive primary and secondary stud"
-publishedDateTime: 2022-02-28T14:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-worldwide-disinfection-robots-industry-2028-featuring-pdi-nevoa-/2022/02/28/9553544.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-worldwide-disinfection-robots-industry-2028-featuring-pdi-nevoa-/2022/02/28/9553544.htm"
+excerpt: "Technology (Autonomous, Semi-Autonomous), End User (Hospital, Transportation, Hospitality, Industries), and Geography -"
+publishedDateTime: 2022-02-28T13:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/worldwide-disinfection-robots-industry-to-2028---featuring-pdi-nevoa-and-skytron-among-others/article_86838c40-12ed-54ed-b073-cd896bf90430.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/worldwide-disinfection-robots-industry-to-2028---featuring-pdi-nevoa-and-skytron-among-others/article_86838c40-12ed-54ed-b073-cd896bf90430.html"
 type: article
-quality: 7
-heat: 7
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "mkIAo4pnVBzNH2dSZ2b5GzIVkoluz9vCOVNqATPf1xF1ducc4ajS0YNrtLQRG1r0VQsLnN86p40WNkyRlkHXuNZhxYJDHj6OVQvSTOaSAi1NGBL40w8e/l27jwhjhorBDOS5ecH78TfY+fyOvLZ7zGPz++tbsCH9f7qR7eOiU3rfOWZxPY1NOZTX2sEsoI6nHxwFLNyAlwALgJAb/kZlWcG3cnbI5IwNvGBmBF06dyGQRLsVbY21kxZWKQ4QzKvtgqGbmu4UA+71WnEpwEjhmdaXTwBJf3W3ggE5LamUKmogNF5RlVrrO6BeIGKuIY19iCJJbRWNiD58OpI8KWHZTjpk0fzasm82aGM4mA3oBss=;Ho/pLnHn1JBpvhD+Gga+sA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "h26MDNmuvlqlKM02RbDbKRD4oQITBwkIt766+xZ2FhO0T3D7clletG20OYt3nu+eQV+Y8PYorspz7k9nATnrQe7cyQUvdwAFPxUAGqmA8bQyGs0eX5rtIzgAE88rZsDiMLJp0iCl/sC710Zc3cJExWU/XANnlNHvA7NDAdq0lR5KaSEFPGFDNavaTDkNwQ/+Ef71lw/wgSdueFSi1MvsnLlmfsRtEb4N+XID7pfbifzJ14+RgxB8qwlK/JoR02k5nCAnksWzBcXJ/ojQctEt/f2I3vH7zhm2MBAQwq5KQFqabA0fiJGI9wv1ctIoj2xacxhWc1fbrKBN4JuUuninufZstoJFCBQXraJ99+PAoqQ=;SjdQj40qAYfcFke1Mg89Yw=="
 ---
 

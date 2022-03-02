@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/how-deep-learning-can-transfor
 webUrl: "https://www.bbntimes.com/technology/how-deep-learning-can-transform-the-transportation-sector"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 595
     isCached: true
-
-related:
-  - title: "How Machine Learning is Transforming the Logistics Industry"
-    excerpt: "Customers can use virtual assistants to be the first point of contact for them and to receive delivery requests. They, like other AI solutions, can"
-    publishedDateTime: 2022-02-25T15:42:00Z
-    webUrl: "https://www.cioapplications.com/news/how-machine-learning-is-transforming-the-logistics-industry-nid-9371.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/b2me9450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "/5jCJMkiQafSGa/y5oouXZof9zED7t6GRPk2nQwCwQW9xKEvakzO/WHfCYsJTR3JtlvRbtmY2TqIx4ItJaFh4JNZbifpSVtEzR/P7edZ0Bi2X8yuv9kdajsRPVtTDwPfvoVD7GD03HxIib4wwonYVbO8TdaEW5DTEfV2WOhC9wdXSrwkiW3Wo7Ws4l1VSigQ5sPJg34rBehD26xE8/qgFKcoP1vGuUCpyxim6np4/bm2dtZAd5vKWLtsV6jymv3mPHyCGCI072+5Ym9uKiVPkON4ajBPntuwPnoG9mfLbCAzwz+v7gmNnYEE5AP1lv9QXFBdOU7UO5jhonlVlY0dE0mwUL88JYmYjwcTz3ZLBZckf8BaEDbl/rcc0YnQChONVJrZw8BOto1N0sgGSv1Sbdx0eeL8d2SgjYt9c6117qjUHTOx6jDV+2LZSfVGfZfCRjPUpnICJtuDzO3P1PCfuvbu4FcU49oZOTaAEdHX6OiUmyKxLKYVdprxfiSASTSGDmgn8VOpUszwxtbkXVfClg==;xXCLNKo/m/lr4z0F1IsA/A=="
 ---

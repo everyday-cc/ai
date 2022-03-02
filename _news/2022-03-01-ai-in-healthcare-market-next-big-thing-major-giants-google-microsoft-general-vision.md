@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ..."
+    publishedDateTime: 2022-03-02T07:55:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 70
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
+        width: 350
+        height: 233
+        isCached: true
 
 secured: "AQv0BbRrvemcfVdz2RkqPVIhUJrEkXvtGcbmxSgTXMJhrLay1nMwDzu+NRrFef7hnL59cfgjXKT6bGYxoNReEGa7viFFtmFqaQa8FYzhcyFQGRSrMDi6An+OA9Wqlij/5apwNSX+g5DNtwOp6aJgcdhjlwSy77KT5d/Ou0io/qw1/H1llyBjRX665nq5LIA31bqtacjlNwbg76QlypXkGi1QfLlmQrJ43RHgTa5aikWgY5NRTACMyMntjasfOpi1z3VkLtr/H3e+nO/Oy+wUfgQDxuJmQBkZgAsnzfo935gRoSjlRxJNlWynvvkCcF3Zlbcv0ErNJKQ0savaZ5ZvPeavSVsXmF161fC1BatfJcA=;OoUuO/C/bhZBs7PuGQDYdg=="
 ---

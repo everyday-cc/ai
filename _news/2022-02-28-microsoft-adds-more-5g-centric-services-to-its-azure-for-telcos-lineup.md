@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-cent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
         width: 350
         height: 233
-        isCached: true
-  - title: "Contentstack Runs on Microsoft Azure, Litmus Debuts Email Capabilities, More News"
-    excerpt: "Agile content management system software provider Contentstack has announced it is now available on Microsoft Azure. Contentstack, a multi-cloud SaaS CMS, now offers customers the choice to run their software on either Azure or Amazon Web Services (AWS)."
-    publishedDateTime: 2022-02-25T15:46:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/contentstack-runs-on-microsoft-azure-litmus-debuts-email-capabilities-more-news/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 84
-    images:
-      - url: "https://www.cmswire.com/-/media/6d901154dbc74b268d0d79aad629f43a.ashx?mw=1024"
-        width: 640
-        height: 480
         isCached: true
   - title: "Microsoft expands Azure for Operators with hybrid cloud platform"
     excerpt: "Microsoft’s push into the telecoms sector has been strengthened at Mobile Worlrd Congress 2022 (MWC) with the launch of several new services that expand its ‘Azure for Operators’ cloud proposition The most revolutionary of 5G applications – such as Industry 4."

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.am
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.amp"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -40,20 +40,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Global Disinfection Robots Market (2021 to 2028) - by Type, Technology, End-user and Geography - ResearchAndMarkets.com"
-    excerpt: "Technology (Autonomous, Semi-Autonomous), End User (Hospital, Transportation, Hospitality, Industries), and Geography - Global Forecast to 2028” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-02-25T15:04:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-1f005af7443c438cbaf4901872109b96"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "tkc1RhsKcbVFqs0mblxh01x1ZcJ1dE+XyNjbBMA25WXt2bVpm51bf6oWVTOVeg/ggaCW1Pd0jAIHROrQwHHxKWdM3ka2zxZkgTakQzmZVmsrDSdGwlTR3n+nXqnz4oKHB6s6XMGdRdCNl3vHohrZoLvarpDjAfrSPGE+62INoVGNZMxEK+h6XCaa16dTXrsqcNZRJHOcMHcGr/FK/QjlkRvh5ZHhwCGbaiSXQZddAEyKCGEYKDTH/bJqPdy6q7nRr7/o+gPi4rX4xO9i/h+JQkwPRf8lGayh8V9jQnFspqGXMAb8tnL0ESrJT/qmgVx425ni6HV0U67QhEbwdNp5ZmRR6L35mZtzIrnooQcPNf0Pt8lPf27C4zXXkFaDsQHgbYLFw9uBhb7UHRvZdUVjLnU/DJvVwFJEUwimDxbg4lGEsWx8ncj7e5/6UvYwG72Z++HfZVl4y6Lli/ZR4SAYdGaLuemAkLyDFUuHSouhaQIhuYQsAHRideisSOLUKTLog1olZZ7ywt5TPaFYXrFi+Q==;XcJCFW/doqV1AVx2Csv3rQ=="
 ---

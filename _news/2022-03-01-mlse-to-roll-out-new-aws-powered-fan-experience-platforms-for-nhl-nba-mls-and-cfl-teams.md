@@ -3,8 +3,8 @@ category: news
 title: "MLSE to roll out new AWS-powered fan experience platforms for NHL, NBA, MLS and CFL teams"
 excerpt: "Technology partnership between MLSE and AWS to also create mixed reality experiences for fans at home and in venues."
 publishedDateTime: 2022-03-01T14:44:00Z
-originalUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=news"
-webUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=news"
+originalUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=emerging-tech-data-and-media"
+webUrl: "https://www.sportspromedia.com/news/maple-leaf-sports-entertainment-aws-technology-mixed-reality-experience/?blocktaxonomy=emerging-tech-data-and-media"
 type: article
 quality: 10
 heat: 10
@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "kfwly6b+BMDfPmBfxV7oW7PwbrCDXdZk1VLrNS1p+f95YvZ8ECxcG4Ht4Czg+SsrYIVBKcO3fb0FshUIaseU05JNM91guw7QLmfAxV7fhsf3I68pr6F5qzVAu53P7gVoCiOk+BxofdvpfYjpjg1HVj5wQSAPctk0TRQK7la8MS1wzMm7ATmTTJIljvnemQzjVhYGJ3/3kzBaqbEOnSrZ5hiXhJMNHSIDyerKDJh4ZepRCpeKdbqhQfgFolm7ELPYPUj4qQ9BnldcMVHLCU79mzWAC3vUBGiVp9vzTKVVZk6AoeXMnxrm+x6q9+tZGZKYUJ4eVwXrU1cgdywdeyhxv62fDbbUVW7Aag+x5PgZZOBYjd+aIkzah/BWT6RQLUDgStJFZUJ4TNrblcjY1aQu5Z3ityfeEhVD6llwpfNUAv++01H3REGXY/xaY4gNfasYw2WQxxXMKXmUHaQB7R/vR4M9bujYHHXiaAjemLDGW8Asm7zwsz+o/UNZ8jSAvb2BqrM259AW1pt5/02S0Z5uEA==;DRFC81Oe3XLqO/s71/NYWQ=="
+secured: "86zgQr0gBYqETYHBjqyhVoDcDDJK4UPMFlQwkDw1AhYr2QUN8BB96LmSMPFEEvhDinAp9wBg/9ezorWM63jUW+k0aUcCc15CP+Lm/DacnV401ExG46FodpOZvxIoflZRAXBGbzvit7T5HkBVkv9woQjjCsxDwfdxmmfVBayALYFVrrYEGyT6ltg5kU46/K5Ee44zXj7zGNVUSemv+BTBCxr22UexQrlNN8s/jFO/Zuj/dQldBBb2kVj7/xzait8AjKG3e2qMu+0e07KYnnvMlEb62hh9jCZRI9PIW46J4IKVykdm1NVWauXNzZN5inlXUAgiv9YKpCJkMrNggLYZCJ8FHt11Fmldo5rn6vxrRoPcqIwd7uDLN8AeI/1vsPbsNwd1OO1jXmlJWWAQx6yaHkLyMDvV6lbOgIvshgQUQr9MLaySg2n2Xjbg3eFUJZWs/luhDxS901DYbIAEyUJTSpzwBzy7vfHIwB6eVq52WHb4qL+gthcafmHWQavyhtLm2THxn5QAnGKUBFMrwTmzWQ==;syqfsXNq/VmGvXPMTvI90Q=="
 ---
 
