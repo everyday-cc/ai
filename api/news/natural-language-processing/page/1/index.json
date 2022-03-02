@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-02-europe-is-in-danger-of-using-the-wrong-definition-of-ai.md",
+      "title": "Europe Is in Danger of Using the Wrong Definition of AI",
+      "excerpt": "Some intelligent systems are at risk of being excluded from oversight in the EU's proposed legislation. This is bad for both businesses and citizens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/621ed5534f9a52429a2b4140/master/pass/030122_Europe%20Is%20in%20Danger%20of%20Using%20the%20Wrong%20Definition%20of%20AI%20(0;00;00;00).jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
+      "publishedDateTime": "2022-03-02T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
       "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
       "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
@@ -107,7 +159,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -930,6 +982,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-22-voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027.md",
+      "title": "Voice Recognition Technologies Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2027",
+      "excerpt": "Global \"Voice Recognition Technologies\" Market (2022-2027) report identifies Sales of Market by regional analysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027-2022-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027-2022-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-lord-lebedevs-peerage-under-spotlight-after-his-lack-of-contribution-to-parliament-since-maiden-speech.md",
       "title": "Lord Lebedev's peerage under spotlight after his lack of contribution to Parliament since maiden speech",
       "excerpt": "Boris Johnson recommended Evgeny Lebedev for a peerage, but the tycoon has not voted or contributed since his maiden speech.",
@@ -1371,110 +1475,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-wearable-smart-camera-can-detect-voice-commands-without-a-sound.md",
-      "title": "This Wearable Smart Camera Can Detect Voice Commands Without a Sound",
-      "excerpt": "Here’s to hoping the researchers continue to develop the technology, because with more advanced speech recognition capabilities, the world would be a more peaceful place where no one had to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "originalUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655ba50d6201fb981d11ac499e741434.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "publishedDateTime": "2022-02-16T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-the-african-software-developers-using-ai-to-fight-inequality.md",
-      "title": "The African software developers using AI to fight inequality",
-      "excerpt": "AI used to tackle poverty, translate languages African data seen vital to fighting racial bias More funding, wider digital access needed, say developers DURBAN, Feb 16 (Thomson Reuters Foundation) - Determined to use her skills to fight inequality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/",
-      "originalUrl": "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aZ4xNu-ln4i_A-3vva2EJWWRkho=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLI26I5ZD5KFNFT24JWJVI75BY.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

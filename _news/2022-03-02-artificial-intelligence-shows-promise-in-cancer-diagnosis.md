@@ -38,13 +38,20 @@ related:
         isCached: true
   - title: "Artificial intelligence and machine learning show promise in cancer diagnosis and treatment"
     excerpt: "Artificial intelligence (AI), deep learning (DL), and machine learning (ML) have transformed many industries and areas of science. Now, these tools are being applied to address the challenges of cancer biomarker discovery,"
-    publishedDateTime: 2022-03-01T16:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944970"
+    publishedDateTime: 2022-03-02T13:01:00Z
+    webUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 64
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-15.jpg"
+        width: 695
+        height: 372
+        isCached: true
 
 secured: "FN1dy2x0vMxjiGvaKYtGsPKJ4QcIYXm0wqlKBKs8sysYYqZ9hvxfDCIS0k6Wt/Asy9TA/sP+yNFXOcxagP9bNV9o5lxfShcYBmmVchw1LSawHNk1BcE4yK0cul+P0EJBdg9xfCXB/orB5VIP3mh2oLGGY5pSSKMouGvvnkQj6JbaRp1e0gnvzAu3chyExoDJgM8aDIs2oQxLcTV+s3gvA9f4b4sJnPjuiH7gWojqp24WsohwLpwFjmcga4tHF2E6I42dn6hp4jjDMtKnVSue1VbU5nxASp2aiMpYe1Y+aT+DLfXFq+/d09mUWXifAcNsjsVhRjN8jZO8kBttHQfGWhcES3gI67Kya6gKFfHtwgeb0RDv3ixrr/uD1sU4GwwPWlyAh6fOD2LuvgnYwcRDF/fCb1hoORgELilmI+wLsi5k9m5Oc2y7eMPp+EpJMEtafcZbBIUaGlb50Pxv+nC0jFDOEadq3iXDoUJv9xYxrSI1fYRygPJ5KG3lSjasNG2oLN1hJ+MvgYJkHtjB48bamA==;xrOeJaIvtPE/qdbqPdWpVA=="
 ---

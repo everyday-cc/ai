@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Sonata Software Named Microsoft Azure Expert Managed Service Provider"
-excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
-publishedDateTime: 2022-03-02T11:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
-webUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
+title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
+excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its"
+publishedDateTime: 2022-03-02T14:32:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
 type: article
-quality: 84
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
-    width: 400
-    height: 279
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/02/full/20220302185818.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -137,20 +135,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Microsoft updates security applications for multi-cloud environments"
-    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
-    publishedDateTime: 2022-02-25T22:18:00Z
-    webUrl: "https://www.arnnet.com.au/article/695602/microsoft-updates-security-applications-multicloud-environments/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 56
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
-        width: 473
-        height: 315
-        isCached: true
   - title: "KX to embed with Microsoft Azure"
     excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
     publishedDateTime: 2022-03-01T11:55:00Z
@@ -219,6 +203,6 @@ related:
         height: 240
         isCached: true
 
-secured: "kxtCCpdc9/4Geffta4n/lAAzlZBumMWro3A1JQ1k43xDILmxkLtXZWn0Fd+hT1vIEbWqXhJvL/Oh7AGhjkZzosjafn/QpF+Ogf2SBR6cc5eIDgYJ9LETHMWJ96fbybm6wG+X4aGpLzbg+BLj1Iw9Ynzy9bTs3EsErhKZFhDxsAnZOARg7n50Ly/4FfbKQz7gZYNza1LPDHq8grquQ380HAoKwSceAb94RgnNgnnXyIwi5zjoja2pqcPxl6EkdQaldH5y9nyqOPuo2LKQtej4SBg7vrp1FYerYCQVgoLGqU1Lh2Pv9Di0lPiArMFMkrcwmcyq/ZwCY6XK5Rl6IDlaahSpO+003/mlR2OyA8PSxgY=;MVAk0fvKb+yhKTbFa+9x5A=="
+secured: "Jo728/m8o9m0JB0UotLXQe/RNALmES9W8Oo9MbBEBWvi/2AmYf1OFfabi678pjApArJNepDmjVNMIOkzXRxpPtYxdvK0tudmF0lQbz9d5lZMmPXHeLTsnPk/ENVpwVsnrHmO3uDs0zXc0Zs/PFosxD/NPXh/5/5eKrQd+kMhw6EGCG0S5A/lpTdsf1UFwYlCmYYJZ1jJ53F+a7xNSVOLtJ+YwXlzzcOsZEyBxyeM04yIIDJpEClOBJ8RL3opweuyF/jxLXuFhsj3mkyiFhIlA+FXKCtJKqdtAI5JplyiMzGHj3JYBKbz//DuVBgKflrwhknz/+d6OvUKap8TybbkPSXR6RLxOhcjTTEvQpNqFIQ=;3TPWzekSEZdCtCwpS7U5nA=="
 ---
 

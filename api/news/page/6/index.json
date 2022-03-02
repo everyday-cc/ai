@@ -2,6 +2,394 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-24-dexai-robotics-signs-16-million-contract-with-dla.md",
+      "title": "Dexai Robotics signs $1.6 million contract with DLA",
+      "excerpt": "Dexai Robotics' sous-chef robot, Alfred, is currently prepping salads at the Monarch Dining Facility of Travis Air Force Base.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/dexai-robotics-signs-1-6-million-contract-with-dla/",
+      "originalUrl": "https://www.therobotreport.com/dexai-robotics-signs-1-6-million-contract-with-dla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/02/featured-web-alfred.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-why-the-true-test-for-todays-conversational-ai-chatbots-is-time.md",
+      "title": "Why the true test for today’s conversational AI chatbots is time",
+      "excerpt": "If we want to improve conversational AI bots, we can’t keep adding complexity without considering the latency of the whole system.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/",
+      "originalUrl": "https://venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/why-the-true-test-for-todays-conversational-ai-chatbots-is-time/amp/",
+      "publishedDateTime": "2022-02-23T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care.md",
+      "title": "How InpharmD uses Amazon Kendra and Amazon Lex to drive evidence-based patient care",
+      "excerpt": "The intersection of DI and AI: Drug information refers to the discovery, use, and management of healthcare and medical information. Healthcare providers have many challenges associated with drug information discovery, such as intensive time involvement, lack of accessibility, and accuracy of reliable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/15/ml-6682-graphic-2.png",
+          "width": 766,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T10:42:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-andy-warhol-reads-his-diaries-as-an-ai-in-netflix-doc-series-trailer.md",
+      "title": "Andy Warhol 'reads' his diaries as an AI in Netflix doc series trailer",
+      "excerpt": "One of the most famous yet enigmatic artists of the 20th century, Andy Warhol has continued to perplex the world long after his death in 1987. But a new Netflix series will attempt to decipher the artist's own writings in his own voice — well,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/andy-warhol-netflix",
+      "originalUrl": "https://mashable.com/video/andy-warhol-netflix",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/00qSt2Rcnd0zmLokKCHD9ZR/hero-image.fill.size_1200x675.v1645636459.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash.md",
+      "title": "IRS now lets taxpayers opt out of facial recognition after backlash",
+      "excerpt": "The IRS announced that people who want to avoid turning over their biometric data as part of the login process can now talk to a human via video chat instead to prove they are who they say they are.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcci.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
+      "originalUrl": "https://www.kcci.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7a8ae4098e073e8f2fb2e6f40c4c93e7-h-8ce2cce79bbfecca6040b34e0961c2b9-1645645051.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kcci.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
+      "cdnAmpWebUrl": "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
+      "publishedDateTime": "2022-02-23T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCCI Des Moines",
+        "domain": "kcci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-meta-announces-plans-to-build-an-ai-powered-universal-speech-translator.md",
+      "title": "Meta announces plans to build an AI-powered ‘universal speech translator’",
+      "excerpt": "Meta, the owner of Facebook, Instagram, and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” The project was announced as part of an event focusing on the broad range of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "originalUrl": "https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 328,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/cAAFdsdtH-cN__gTkzhJBklpNRw=/193x175:1782x1198/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70541313/acastro_200730_1777_ai_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project",
+      "publishedDateTime": "2022-02-23T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-microsoft-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities.md",
+      "title": "Microsoft now delivers comprehensive protection with new multi-cloud capabilities",
+      "excerpt": "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time.md",
+      "title": "Meta's Zuckerberg: 'AI is perhaps the most important foundational technology of our time'",
+      "excerpt": "Zuckerberg said Meta will make \"a single model that can understand hundreds of languages\" and \"a universal speech translator\" that would offer instantaneous translation between all languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "originalUrl": "https://www.zdnet.com/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0473600d410f4325d2d67d8bffe30e38de96e24c/2022/02/23/240b3d28-afe8-462d-9988-306272f429e9/zuckerberg-2022-ai-lab-meta-presentation.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
+      "publishedDateTime": "2022-02-23T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws.md",
       "title": "100 days after IBM split, Kyndryl signs strategic cloud pact with AWS",
       "excerpt": "Kyndryl announced a new partnership with Amazon Web Services (AWS) on Wednesday centered on expanding its enterprise offerings and building out its internal infrastructure in the cloud. Terms of the deal were not disclosed but the companies said Kyndryl will establish an AWS Cloud Center of Excellence (CCOE) to \"offer state-of-the-art customer solutions and services for supporting mission critical infrastructure,",
@@ -813,369 +1201,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-court-rules-that-waymo-can-keep-its-robotaxi-emergency-protocols-a-secret.md",
-      "title": "Court rules that Waymo can keep its robotaxi emergency protocols a secret",
-      "excerpt": "The California Superior Court in Sacramento has ruled in favor of Waymo, allowing the company to keep specific details about its autonomous vehicle technology a secret. Waymo won the case against the California Department of Motor Vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/court-rules-waymo-can-keep-robotaxi-emergency-protocols-secret-084641836.html",
-      "originalUrl": "https://www.engadget.com/court-rules-waymo-can-keep-robotaxi-emergency-protocols-secret-084641836.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/67df5d70-947c-11ec-aaf7-a06e955e8824",
-          "width": 1600,
-          "height": 1003,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-amit-midha-and-technog-solutions.md",
-      "title": "Exponentia.ai raises additional funding from Amit Midha and Technog Solutions",
-      "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Amit Midha, President - Dell Technologies and Technog Solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/23/full/20220223124931.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "publishedDateTime": "2022-02-23T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for-canadian-sports-fans.md",
-      "title": "Maple Leaf Sports & Entertainment and AWS Team Up to Transform Experiences for Canadian Sports Fans",
-      "excerpt": "(NASDAQ: AMZN), and Maple Leaf Sports & Entertainment (MLSE) today announced they are innovating together to transform how some of Canada’s best-known sports franchises—Toronto Maple Leafs, Toronto Raptors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for-canadian-sports-fans/article_7a6f6c7d-671c-551a-9e05-2cf608c48035.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for-canadian-sports-fans/article_7a6f6c7d-671c-551a-9e05-2cf608c48035.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-microsofts-new-singularity-ai-system-might-have-100000-gpus.md",
-      "title": "Microsoft’s New ‘Singularity’ AI System Might Have 100,000+ GPUs",
-      "excerpt": "Microsoft's research teams are working on Singularity, a new infrastructre to manage AI and deep learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
-      "originalUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/",
-      "publishedDateTime": "2022-02-22T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-are-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
-      "title": "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality",
-      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
-      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
-      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
-      "publishedDateTime": "2022-02-22T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telegraph & Argus",
-        "domain": "thetelegraphandargus.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-doesnt-completely-scrap-facial-recognition-just-makes-it-optional.md",
-      "title": "IRS doesn't completely scrap facial recognition, just makes it optional",
-      "excerpt": "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
-      "originalUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg",
-          "width": 1000,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
-      "publishedDateTime": "2022-02-22T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-control-formality-in-machine-translated-text-using-amazon-translate.md",
-      "title": "Control formality in machine translated text using Amazon Translate",
-      "excerpt": "Amazon Translate&nbsp;is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. Amazon Translate now supports formality customization. This feature allows you to customize the level of formality in your translation output. At the time",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T19:45:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict.md",
-      "title": "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict",
-      "excerpt": "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "originalUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzkyMTc5NTIzODIyOTI1/stock-trader-distressed.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "publishedDateTime": "2022-02-22T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

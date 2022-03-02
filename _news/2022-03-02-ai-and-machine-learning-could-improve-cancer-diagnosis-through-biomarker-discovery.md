@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence and machine learning show promise in cancer diagnosis and treatment"
+    excerpt: "Artificial intelligence (AI), deep learning (DL), and machine learning (ML) have transformed many industries and areas of science. Now, these tools are being applied to address the challenges of cancer biomarker discovery,"
+    publishedDateTime: 2022-03-02T13:01:00Z
+    webUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 64
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-15.jpg"
+        width: 695
+        height: 372
+        isCached: true
   - title: "Artificial Intelligence Shows Promise in Cancer Diagnosis"
     excerpt: "Scientists have explored the use of artificial intelligence and machine learning to enhance the predictive power of cancer biomarkers."
     publishedDateTime: 2022-03-01T17:17:00Z
@@ -38,15 +54,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 37
-  - title: "Artificial intelligence and machine learning show promise in cancer diagnosis and treatment"
-    excerpt: "Artificial intelligence (AI), deep learning (DL), and machine learning (ML) have transformed many industries and areas of science. Now, these tools are being applied to address the challenges of cancer biomarker discovery,"
-    publishedDateTime: 2022-03-01T16:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/944970"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
 
 secured: "sI4pMvKf0WnujQC471YJTDZVHuyVV5XKVFpcYJbqME0AjaGCTo6II55oSGXuqnGfJQ/ccmaHgR9cC+fjYFWdOL9fqCn9XJ0JAbXZZ5MFq6PPEsLxFIesWkxfvjW5/LY6VcEqQp2kYQ+EeImqZ+psbbhy+PSoRxZLXU+KBMvuIrrpjYo4/rvZ8SNn3Hwf6R1xhHFvM//SZnfJa5ZeXBiSCcNJfxIDS2bJ4tWtyDIMgfvFFagdQMOyU80DqX37oXZJYIhA+9mtJa2rPSYckToXwpzGCWpytSls13kHEnp5pIZ4c/bJuiUIsWr05MEkZp+57l3NN46gHgfo6frCuBT8S5F5Ko69OQ3v8ntBmD4yYAQ=;AWZBUclqTag79y9AnKzSJg=="
 ---

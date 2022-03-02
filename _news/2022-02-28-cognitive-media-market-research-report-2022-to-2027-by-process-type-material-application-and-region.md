@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-r
 webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-research-report-2022-to-2027-by-process-type-material-application-and-region-2022-02-28"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in the Education Sector Market PESTELE Analysis, Drivers, Restraints Research Report by 2028"
+    excerpt: "The Global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a"
+    publishedDateTime: 2022-03-02T13:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-pestele-analysis-drivers-restraints-research-report-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Cleaning Robot Market Size to Reach USD 36.63 Billion in 2028, Says Reports and Data"
+    excerpt: "The global Cleaning Robot Market size is expected to reach USD 36.63 Billion in 2028 and register a revenue CAGR of 22.4% over the forecast period,"
+    publishedDateTime: 2022-02-26T00:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cleaning-robot-market-size-to-reach-usd-36-63-billion-in-2028-says-reports-and-data"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
     excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
     publishedDateTime: 2022-02-28T12:52:00Z
@@ -43,19 +71,103 @@ related:
         width: 508
         height: 339
         isCached: true
-  - title: "Medical Radiation Detection Monitoring and Safety Market Growth , Trends by Type and Application and Forecast to 2027"
-    excerpt: "The global Medical Radiation Detection, Monitoring, and Safety Market is forecasted to be worth USD 1,339.4 Million by 2027, according to a current analysis by Emergen Research. The market is expected to grow due to the rising number of cancer-related incidence."
-    publishedDateTime: 2022-03-01T06:40:00Z
-    webUrl: "https://note.com/emergenresearch/n/n27a98832b2c1"
+  - title: "Exoskeleton Market to reach USD 7.93 Billion by 2028 | Reports and Data"
+    excerpt: "The global exoskeleton market to reach USD 7.93 Billion by 2028 at a CAGR of 43.4%, according to the latest report by Reports and Data. Rising number of"
+    publishedDateTime: 2022-02-28T07:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/exoskeleton-market-to-reach-usd-7-93-billion-by-2028-reports-and-data"
     type: article
     provider:
-      name: note
-      domain: note.com
-    quality: 1
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
     images:
-      - url: "https://d2l930y2yx77uc.cloudfront.net/production/social_images/aaba907c6af5c446499a281ce4482c12249e583c.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Deep Neural Network Market Research Report Including Drivers, Restraints, Global Industry Outlook and Key Players Analysis By 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the"
+    publishedDateTime: 2022-03-02T13:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-neural-network-market-research-report-including-drivers-restraints-global-industry-outlook-and-key-players-analysis-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Insulin Pumps Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global insulin pumps market is expected to reach USD 10.25 Billion by 2028, according to a new report by Reports and Data. Insulin pumps are used for"
+    publishedDateTime: 2022-03-01T08:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/insulin-pumps-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
+    publishedDateTime: 2022-02-27T23:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/electrocardiograph-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "image recognition Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
+    publishedDateTime: 2022-03-02T14:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
+    publishedDateTime: 2022-02-25T23:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1645766442.png"
+        width: 1176
+        height: 505
+        isCached: true
+  - title: "Insights on the Artificial Intelligence In Diagnostics Global Market to 2027 - Implementation of Cloud-based Technologies Presents Opportunities - Res"
+    excerpt: "The \"Artificial Intelligence In Diagnostics Market Research Report by Component, by Type, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-03-01T12:19:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=624056"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "XYeJ+d9CCN20QR8WMf5eGSdemEHkJlt9vQguGhdWyzoxrE3rJS76QJM58vORxh6XFbjr2Rrk3xqiNHe2F9IXudU4cAfYh5AT+MGpDDZj9XRiJr3D3Dyvgg+QXcs2QAxVM4AlfAManfw4QFKwzbWDl5/zqaenc8zbId/u1SIP8GQAOq/mEqpeJCEhthvmGS0xfxpSEICaibYm1AYOYFoxtJ9nXqVjWyvuJApJTAO8ImygQYJC6/4qs8K9q7IFpG9xTq0RqkMJhQ8ljuaHvA6iMKyvmizlONseIuTuA1kx6x5S24V8qSLIPMPN5TM5NLJF43IwLtm+biavhoTmK+7i1L8Vkr/z5I3baNftxHm72/8=;dlJCjlD22ewNBRS+7KUiZw=="

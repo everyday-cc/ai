@@ -3,25 +3,25 @@ category: news
 title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
 excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
 publishedDateTime: 2022-03-02T01:40:00Z
-originalUrl: "https://www.mcall.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
-webUrl: "https://www.mcall.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+originalUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Morning Call PA
-  domain: mcall.com
+  name: Capital Gazette
+  domain: capitalgazette.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.mcall.com/resizer/E8VWaKLMhWUCgjLCJq9NHNmYf-s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CTBH5USYUAVLP2NMVCKTUEKRZI.jpg"
+  - url: "https://www.capitalgazette.com/resizer/nBD8zOJop3or2l3xpTt6L1D7GnY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKZRSW4BIOREK3N6CJOPRN3XEI.jpg"
     width: 1200
-    height: 800
+    height: 724
     isCached: true
 
 related:
@@ -168,6 +168,6 @@ related:
         height: 763
         isCached: true
 
-secured: "/1XOhmBx1rmg61ByUENuLCmrLG2cVBaZDSJARf2JWclVMnpA+UuZsS5PLzVJ5zs6slabZJx+hLWjMJKckISC4EkUUfR7eUO6jCXL/geTpQL6U60A8pJbVO+0orv7bClicObs43GCGnabvJfpeZpyXuslUghKWHSi5CmYOjlumMO6MUJA1jbVoPHXn1SN3QK4gWkEM3DXrdEnKxUuOVDGlffJcO6OzD5ppYwLPuqXH9EXURU8NWmLT2TUP0BwezahoyeJBAmQLXI4Vc5yap6lFhG/R6FqvskgcJn44H/waxuqhM6hZw/FFzc/r76WhzehoGMdmuaq4uhbLVyDApgn9ornOXJ5eQvZQx144Sv3apLge04FoY+48tA7k+Oi2RHM9YkgHxc3B3g26+NCX73N+tzz+Iwy1Z+ccX6uZ4B2ysxF2I34AnS6TsrSYaGFwcNNwxwncrY6WXPtwTZOoJh+2jeJvsj7KLgb7gk8ySvcoviNZ2HlBDF8Dm3o5D8KL/85HUZIEXY6Vbdr/i9w9WMZ8Q==;qtm8zYJx2xxZdGlfFgfTRw=="
+secured: "+Fmj3c65YWd0o4yTG8LlsrtWvXJPPTkvq3UQ9y9CcANjQxBdyZu+Rxr10I9beiFQu0mQxs1NbU1xGl4aEh5iZmRGrgeaYNfKnEQ3G23bacbHRecWehTZI0+4FSmJ+utibbo6j5ILXS9RiWBD+PFXfgUiQU/Eal630jxiONmfmBV6KUmH9oemtapxWMgYRSHIdJXIznSufvB2G7iDoSPBEZUSrwjjp2hqaaLSOMGVLpYkpKlXgcomZ8if7Pqz3xdCI63vv3XujUVE7yslxdJ2U1ekeKJEPY0sg1jNYBVikpt1KCAsePTeK+JHMTMt3SD43IEWcHuyVewuSRzygM9zGV3M73Cj0dIsi1t/qpoP4Ps=;l5uSJS0vlma0chr+bIDNPg=="
 ---
 

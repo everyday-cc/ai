@@ -2,6 +2,349 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-02-faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform.md",
+      "title": "Faros AI raises $16M to shine a light on developer productivity and the value of software, launches free open source platform",
+      "excerpt": "What if what you think you know about developer productivity and the value of software is off the mark, and that is hurting the quality of your software, the operation of your organization, as well as your bottomline?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "originalUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8a819abbd7405506c1b7527740b00bd5c40bd8e4/2022/03/02/09bb4a17-40a5-4bea-872f-7e60aeaab361/44b7dade8566bd527b25c2f2ddd47f0907f27814-1640x908.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "publishedDateTime": "2022-03-02T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
+      "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
+      "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
+      "originalUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
+      "publishedDateTime": "2022-03-02T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-europe-is-in-danger-of-using-the-wrong-definition-of-ai.md",
+      "title": "Europe Is in Danger of Using the Wrong Definition of AI",
+      "excerpt": "Some intelligent systems are at risk of being excluded from oversight in the EU's proposed legislation. This is bad for both businesses and citizens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/621ed5534f9a52429a2b4140/master/pass/030122_Europe%20Is%20in%20Danger%20of%20Using%20the%20Wrong%20Definition%20of%20AI%20(0;00;00;00).jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
+      "publishedDateTime": "2022-03-02T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-level-ai-which-provides-call-center-automation-software-raises-20m.md",
+      "title": "Level AI, which provides call center automation software, raises $20M",
+      "excerpt": "Level AI, a company providing call center automation software, has raised $20 million in funding from venture capital investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
+      "originalUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/india-call-center-masks.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
+      "publishedDateTime": "2022-03-02T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-amid-war-an-independent-russian-radio-station-goes-silent.md",
+      "title": "Amid war, an independent Russian radio station goes silent",
+      "excerpt": "In the days since Russian President Vladimir Putin ordered an invasion of Ukraine on February 24, officials have begun a crackdown on independent media and protesters who have come out in their thousands to decry the war ... of ill fortune, who was ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/",
+      "originalUrl": "https://www.aljazeera.com/news/2022/3/2/amid-war-an-independent-russian-radio-station-goes-silent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
+          "width": 1250,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-03-02T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-this-fintechs-hypergrowth-could-last-for-years.md",
+      "title": "This Fintech's Hypergrowth Could Last for Years",
+      "excerpt": "Upstart Auto went live in 2021 after the company acquired Prodigy and married its AI with Prodigy's retail software. It gives automotive dealers a digital sales tool that can instantly get lending decisions from Upstart instead of going back and forth with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
+      "originalUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/668280/gettyimages-1319565513-1.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-why-the-blockchain-community-needs-ethics.md",
+      "title": "Why the blockchain community needs ethics",
+      "excerpt": "Data ethics studies evaluate moral problems related to data (including generation, recording, curation, processing, dissemination, sharing, and use, for example), algorithms (artificial intelligence, artificial agents, machine learning, and robots), and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/why-the-blockchain-community-needs-ethics/",
+      "originalUrl": "https://www.cityam.com/why-the-blockchain-community-needs-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2022/01/CAMD-G89-1024-JThomason.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/why-the-blockchain-community-needs-ethics/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/why-the-blockchain-community-needs-ethics/?amp=1",
+      "publishedDateTime": "2022-03-02T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-seeing-straight-with-the-help-of-artificial-intelligence.md",
       "title": "Seeing straight with the help of artificial intelligence",
       "excerpt": "Israeli startup AEYE aims to save the sight of millions by making retinal exams cost-effective and readily available",
@@ -104,7 +447,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/421165",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -882,343 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously.md",
-      "title": "Microsoft’s new service helps health care organizations analyze multiple data types simultaneously",
-      "excerpt": "The goal of Azure Health Data Services is to help organizations discover insights by bringing disparate data together and connecting it with tools for machine learning, analytics, and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/",
-      "originalUrl": "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/",
-      "publishedDateTime": "2022-03-01T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-how-to-become-an-ai-driven-company-today-part-1.md",
-      "title": "How To Become An AI-Driven Company Today (Part 1)",
-      "excerpt": "Similarly, becoming an AI-driven company is a top strategic endeavor. It's a cultural change. It's a people challenge. And it requires changes in many fundamentals of your organization. Here are my perspectives and learnings on this from the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/amp/",
-      "publishedDateTime": "2022-03-01T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-16-tech-experts-share-advice-for-companies-considering-an-ai-plan.md",
-      "title": "16 Tech Experts Share Advice For Companies Considering An AI Plan",
-      "excerpt": "Determining if AI will be a helpful tool for your organization and, if so, how and where to deploy it takes careful planning, groundwork and teamwide buy-in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
-      "publishedDateTime": "2022-03-01T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ai-in-healthcare-market-is-projected-to-reach-1944-billion-by-2030.md",
-      "title": "AI in Healthcare Market is projected to reach $194.4 billion by 2030",
-      "excerpt": "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-why-tech-marketing-leaders-are-racing-to-sponsor-formula-1.md",
-      "title": "Why Tech Marketing Leaders Are Racing To Sponsor Formula 1",
-      "excerpt": "With the rising popularity of Formula 1, technology companies are expanding their sponsorships and seeing amazing returns on their investments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
-      "originalUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621524e4c9ebfd7631a869a8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
-      "publishedDateTime": "2022-03-01T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
-      "title": "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength",
-      "excerpt": "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
-      "publishedDateTime": "2022-03-01T00:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
-      "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
-      "excerpt": "AM 'A new market research report by Future Market Insights on cyber security in robotics market includes industry analysis 201",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103780722/Cyber-Security-in-Robotics-Market-2022-Key-Players-End-User-Demand-and-Consumption-by-2029",
-      "originalUrl": "https://menafn.com/1103780722/Cyber-Security-in-Robotics-Market-2022-Key-Players-End-User-Demand-and-Consumption-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?55562",
-          "width": 444,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-25-intelligent-ultrasound-extends-agreement-with-ge-healthcare.md",
+      "title": "Intelligent Ultrasound Extends Agreement With GE Healthcare",
+      "excerpt": "By Michael Susin Intelligent Ultrasound Group PLC said Tuesday that it has signed an agreement extension with GE Healthcare to use its software in a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "originalUrl": "https://www.marketwatch.com/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "publishedDateTime": "2022-01-24T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
       "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
       "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
@@ -1276,58 +1328,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-healthcare-transformation-made-possible-by-ai-and-social-listening.md",
-      "title": "Healthcare Transformation – Made Possible by AI and Social Listening",
-      "excerpt": "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
-      "originalUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY",
-          "width": 820,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T21:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

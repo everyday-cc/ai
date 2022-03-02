@@ -70,6 +70,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in BFSI Market Growth, Analysis, Share, Company Profiles and Forecast by 2028"
+    excerpt: "AI in BFSI makes overall banking process easy on both ends; bank employees and customers, and also reduce cyber risks, money laundering, and frauds. AI"
+    publishedDateTime: 2022-03-02T13:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-growth-analysis-share-company-profiles-and-forecast-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "4Z6JJXC9ogeGublkOtp4hCR9p5R6rfGMpji0cknOxOqFhqEb+nQkWxhxB43H0AiEovbUP9rIS1GGmM9jArVl6pAPrzjm0MH9fyYVjFT1/NlDy2ETFiG6nVnJE7tckxMOgFyuseCnXwjPLwaHJAkRv9OpSjhEMfZRunuUWcvmrvyR5z6tmXvVMOv3cCxgHqWEdYnG0G5pGEfm6erkNkwkh4qyh9YOiHkB2v6ip9+GJLBkPfVbZKSGwiO9JlQSTL6r1mpE0qeI7J/eRRMG3XKyC+8zoHNmWGWOgD8vl80y0tfXlUCT2hQq77+rK+G1yZssXT9j5qcsa7Srq9PvWaLbs/ur5DI2nZaOLKX9w9g90bCR/qQT1n9IUJMtO14SVlsaKJFC8/nIsqbhotUU7Yvz2cq0y/ZA47cKvZNdnaNE/bERIxLGpPu4FXZoqlS2thn0MRzP3WrfUKZR95ywDUg0SmRH4hJtcOG7tKLw9Mo6wC3gQ22aJ98Y1NwFwamB8Nb+mGk0LfVTxQsuNFNGXn4fww==;eNan9mMgBUfAhHIGOw/ONQ=="
 ---

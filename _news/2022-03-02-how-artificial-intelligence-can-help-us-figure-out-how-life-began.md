@@ -8,8 +8,8 @@ webUrl: "https://www.newscientist.com/article/mg25333763-200-how-artificial-inte
 ampWebUrl: "https://www.newscientist.com/article/mg25333763-200-how-artificial-intelligence-can-help-us-figure-out-how-life-began/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25333763-200-how-artificial-intelligence-can-help-us-figure-out-how-life-began/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/03/02104559/SEI_90959574.jpg?width=1200&enable=upscale"
@@ -25,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "r1XjE2QMvm4ISHlAys/RF/ptIQsr+TJfJUwUMHBBoIakE+fIPJ52+ZXyJTvuHOKzS4LWjdR/aMqpHlDxXJUlrl7EkPN0sRD8S/INyFEFpgC5gftY0lBHDWxfN+M2DoV2U0oQEtsKTM2if/yXDlGLxYZX3cPOj0oAo6cwSSNqg1eReKFmCKolnml+Dl7+DmGwoySUDYATFVcB7RbsK2WcoBXS9EaNmAdtcrATZ06sVv+WhbXJBMiguwiGBLl3waJkBBlTl51LCo9/3F4oOAM/9CZPOD55Vfu37rcfbfja5HF0BW5d/pCWD9EI3U8hkV21X+eXejeN+Okq7t5VT1EE226PGpMUe7wt9DWz974fXGM=;8W8ombIUpDuGC4vKpXOHTw=="
+secured: "xXPRNnanxV9q9kOStitstL+4oCbJ9yiW8cDqOd7EZoR4zwdsgEYkzGJupBL2DUlV3TWmzRWQokdhXeASvq3GqZWAv73wRvj9+ssYfbx24bhuIy8NWlh9lbSOtiHNXpsuYEg7wW71ZSr+mknCIN/3mNpA6yRowCeQVHXwyDtFG215zbmu0IVwlayew1CAmvcB7oj+Hs1U7di++AkdJv6iviG0irfXha1kFReXGxAyQtop3lZE6iyvdDtlA0ybh3d0sXpRX04vpzKLP5yeOHdoMzJps4IWfKlWJYa8dnpE1gU/EhJ+k+uPsSx5D8yAUdr4sm06U9J1A4qoSlRQa9dmmcYMlaBGYBddqg4jz/gpv+hof8fbFkM/HuaHw+t/31qKc/ouMUXCfgSar4k82iseQVgbH5IZwez78UTGWxtNcAAiuvswvVzcqHZ+ZzGlP4+2hke52jEuXyMZgjIWk8M6dlVZH5NoQa7Rq/6SGuyBWrUWdEw8xmMS/rNwMeeYLykJsDJBcSUcftOrRITad2kLUQ==;MmTEm3HKL0s0nkv9b78naA=="
 ---
 

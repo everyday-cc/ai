@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/how-to-help-humans-understand-robots-to-c
 webUrl: "https://scitechdaily.com/how-to-help-humans-understand-robots-to-collaborate-faster-and-more-effectively/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "How to help humans understand robots"
+    excerpt: "Scientists who study human-robot interaction often focus on understanding human intentions from a robot's perspective, so the robot learns to cooperate with people more effectively. But human-robot interaction is a two-way street,"
+    publishedDateTime: 2022-03-02T13:20:00Z
+    webUrl: "https://techxplore.com/news/2022-03-humans-robots.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-humans-robots.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-robot.jpg"
+        width: 1920
+        height: 1169
+        isCached: true
 
 secured: "Qct+QsJS6GReILUnCSGF6CQj84/R55T/xTMG+fZi8R5tcMvGb37F0Zhel0bn9ixoOK10GRu1+ZMriwi+wdMoFQdka4GfNesG2ZSH6ZxCXMnNl+DqJ1kCIK5b8t9v9yoPlgM4V0VyZ2nuW0qQxCrv34Vrz01yd8iaeHbehgmZWGlIErLTpdYM2ttsOhPuTKtukXvLBgyv/189cCU2vK1NL8jIwUYGZnzXPz6/Rb+Gdg4SSLp5BoPSFC5cWdMjmcnEFPANcvjRQ4hKgQgCxXMkzHJdIQ3ce3uFfcS3DZxYFghZZRemjC9jACc5eqP+lukA85aUHaGUwXAnzMQq7P9xQUlUIqCW6n6+EMp8IlZfzK6h9UXLOkqZh2cYrtTPMc95V5uAimGVeJd9cgGVf0fb1G18azs8Hn3KEaiOeA8m5p7x4chpuOhMW1GhYqLEgl8pDGCiK/fWx5VuVt6hGynevgfzHFR2myqioJyefvKxETSA6vU0Iase4l8vYXiv9ErWSJWuD+SQ1O8ALLaR+Yyajg==;+KcDe3ikYdZcZJ7yRx8TSQ=="
 ---

@@ -2,6 +2,404 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-28-self-driving-trucks-start-to-propel-land-rush-near-major-cities.md",
+      "title": "Self-Driving Trucks Start to Propel Land Rush Near Major Cities",
+      "excerpt": "Alterra Property and Embark are forming an alliance to create autonomous-trucking hubs across the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-492555/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "publishedDateTime": "2022-02-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school.md",
+      "title": "To Realize The Future Potential Of AI, It's Time To Make Math The Cool Kid At School",
+      "excerpt": "While English, math and science form the trilogy of staple sectors that children learn throughout school, only one is frequently looked back on as \"unnecessary,\" \"unusable\" or redundant to adult life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6217c1522b85afd1980dadb8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/",
+      "publishedDateTime": "2022-02-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do.md",
+      "title": "AI Is Poised To Revolutionize How We Coach Employees: Here’s What Company Leaders Need To Know And Do",
+      "excerpt": "It's just the beginning of what I believe will be a rapid evolution of people management techniques over the next decade or more, driven by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/amp/",
+      "publishedDateTime": "2022-02-28T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
+      "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
+      "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "publishedDateTime": "2022-02-27T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence.md",
+      "title": "Unfairness in Competitive Sports may be Overcome by Artificial Intelligence",
+      "excerpt": "Doping — the use of banned substances in competitive sports may be scrapped with the help of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
+      "originalUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/olympics-based-exercise.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
+      "publishedDateTime": "2022-02-27T10:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-why-voice-assistants-could-be-the-future-of-user-experience.md",
+      "title": "Why voice assistants could be the future of user experience",
+      "excerpt": "The next generation of voice assistants will live inside apps and be deeply integrated with the app’s user interface and workflow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/",
+      "originalUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/headerimage1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/amp/",
+      "publishedDateTime": "2022-02-27T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
+      "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
+      "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621bb520766538529bd5d84e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
+      "publishedDateTime": "2022-02-27T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-27-nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge.md",
+      "title": "NASSCOM CoE- IOT & AI launches third edition of Healthcare Innovation Challenge",
+      "excerpt": "In this program, there is participation from hospitals, diagnostic chains, insurance players, pharma companies and government delegates, technology enterprises and deeptech start-ups",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "originalUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/27202523/98148b81-8f28-4b5c-a222-55b360195244.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "publishedDateTime": "2022-02-27T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-27-sk-kt-lg-promote-metaverse-robots-ai-at-mobile-world-congress.md",
       "title": "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress",
       "excerpt": "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,",
@@ -799,395 +1197,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns.md",
-      "title": "AI Weekly: Meta’s flashy, AI-powered vision of the metaverse brushes over concerns",
-      "excerpt": "Meta (formerly Facebook) pitched a flashy vision of the 'metaverse' this week. But the company faces challenges in delivering on its vision.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/",
-      "originalUrl": "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/zuckerberg-future-is-private.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/25/ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns/amp/",
-      "publishedDateTime": "2022-02-25T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-deep-neural-network-to-find-hidden-turbulent-motion-on-the-sun.md",
-      "title": "Deep neural network to find hidden turbulent motion on the sun",
-      "excerpt": "Scientists developed a neural network deep learning technique to extract hidden turbulent motion information from observations of the sun. Tests on three different sets of simulation data showed that it is possible to infer the horizontal motion from data for the temperature and vertical motion.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.html",
-      "originalUrl": "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-neural-network-to.jpg",
-          "width": 2000,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-02-deep-neural-network-hidden-turbulent.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-deep-neural-network-hidden-turbulent.amp",
-      "publishedDateTime": "2022-02-25T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-intel-targets-edgy-5g-and-ai-with-new-chips-software.md",
-      "title": "Intel targets edgy 5G and AI with new chips, software",
-      "excerpt": "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing.",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/24/handout_intel_xeon_d_2700.jpg",
-          "width": 1920,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "publishedDateTime": "2022-02-25T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership.md",
-      "title": "The Strategic Building Blocks Of Ethical AI: Representation, Governance And Leadership",
-      "excerpt": "Consider three fundamental strategies needed to achieve fairness in AI development and use: executive leader readiness, representation of women and people of color and stakeholder governance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
-      "publishedDateTime": "2022-02-25T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-how-ai-technology-can-tackle-future-pandemics.md",
-      "title": "How AI Technology Can Tackle Future Pandemics",
-      "excerpt": "Artificial intelligence (AI) has come to bear on many of our responses to SARS-CoV-2 (COVID-19), and will continue to help us tackle future pandemics",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
-      "originalUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_480_16457846554832959.jpg",
-          "width": 1000,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=480",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480",
-      "publishedDateTime": "2022-02-25T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-moving-ai-from-detection-to-decisioning-in-cybersecurity.md",
-      "title": "Moving AI From Detection To Decisioning In Cybersecurity",
-      "excerpt": "The two partners — human and machine — must work in tandem, with each augmenting the other. Then and only then will AI realize its full promise as a major defense against the digital dark arts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/",
-      "publishedDateTime": "2022-02-25T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-first-wholly-ai-developed-drug-enters-phase-1-trials.md",
-      "title": "First Wholly AI-Developed Drug Enters Phase 1 Trials",
-      "excerpt": "Insilico Medicine today announces the start of the world’s first Phase 1 clinical trial of a drug developed from scratch using Artificial Intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/02/25/first-wholly-ai-developed-drug-enters-phase-1-trials/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/02/25/first-wholly-ai-developed-drug-enters-phase-1-trials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621760b45515d81ae3ea4192/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/02/25/first-wholly-ai-developed-drug-enters-phase-1-trials/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/02/25/first-wholly-ai-developed-drug-enters-phase-1-trials/amp/",
-      "publishedDateTime": "2022-02-25T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable.md",
-      "title": "Machine learning: The AIOps system Azure uses to make the cloud reliable",
-      "excerpt": "To spot faults quickly even if they take a month to show up, Azure feeds signals into a machine learning system: in the future, you will be able to do that for your own cloud workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/08/multi-cloud-image-for-tr-ebook.jpg?x18594",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/amp/",
-      "publishedDateTime": "2022-02-24T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

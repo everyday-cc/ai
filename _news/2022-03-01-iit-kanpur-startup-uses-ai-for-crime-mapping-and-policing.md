@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Kanpur Incubates Startup To Develop AI-Powered Search Engine To Help In Policing"
+    excerpt: "Indian Institute of Technology Kanpur's Centre of Excellence (CoE) has incubated Lucknow-based thinktank Future Crime Research Foundation which is working to develop a first-of-its-kind AI-powered big data search engine to help in policing."
+    publishedDateTime: 2022-03-02T14:37:00Z
+    webUrl: "https://www.ndtv.com/education/iit-kanpur-incubates-startup-develop-ai-powered-search-engine-help-in-policing"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 30
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/3/2/iit-kanpur-featured-image.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "New Flagship Pioneering startup to hunt for causes of disease using AI"
     excerpt: "Cambridge venture capital and creation firm Flagship Pioneering is formally launching — and infusing $75 million into — its latest startup, Vesalius Therapeutics."
     publishedDateTime: 2022-03-02T10:00:00Z

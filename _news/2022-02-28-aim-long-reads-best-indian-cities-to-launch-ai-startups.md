@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/aim-long-reads-best-indian-cities-to
 webUrl: "https://analyticsindiamag.com/aim-long-reads-best-indian-cities-to-launch-ai-startups/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time"
-    excerpt: "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time."
-    publishedDateTime: 2022-02-25T21:23:00Z
-    webUrl: "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/"
-    ampWebUrl: "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 66
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/02/Indian-student-AI-sign-language-translator-feat..jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
   - title: "OPPO to ally Indian startups working on camera AI, battery"
     excerpt: "OPPO to ally Indian startups working on camera AI, battery - Global technology brand OPPO is planning to work with camera and battery startups in India to improve"
     publishedDateTime: 2022-03-02T04:51:00Z

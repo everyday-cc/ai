@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time"
-    excerpt: "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time."
-    publishedDateTime: 2022-02-25T21:23:00Z
-    webUrl: "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/"
-    ampWebUrl: "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 66
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/02/Indian-student-AI-sign-language-translator-feat..jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
   - title: "AIM Long Reads: Best Indian cities to launch AI startups"
     excerpt: "The Indian tech startup space exploded in 2021 with over 2,250 tech startups and 42 unicorns added in a year’s span. India is now the third largest startup ecosystem in the world after the US and China."
     publishedDateTime: 2022-02-28T09:18:00Z

@@ -26,22 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Insights on the Artificial Intelligence In Diagnostics Global Market to 2027 - Implementation of Cloud-based Technologies Presents Opportunities - Res"
-    excerpt: "The \"Artificial Intelligence In Diagnostics Market Research Report by Component, by Type, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-03-01T12:19:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=624056"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
 secured: "sKrMHoWxduahANrv3+yIbZwGMsBXKgmIc29xVqjI2ipzU+k/VpQTIG31jLdZVdAWXb6EGmg2uygzU0L3aJd2JilB/f3SYnjn/uoR5ob/nZo6LAdgr9oji80BjpW11wE2y7UwSwHXKjfCxxTGeTxcWQ7/wiLCu6TXmwRz+Fys/tBLpLbPgnYPxS+1OTbdli4K8mXCYMqLfvDIZKc/LgwjeRUJetNfKSUfj4YM3abrZ7X8szJ85qtIJWz8aliR/8aB/3CqP01o98a9L2o+E96X57nk5ApO+KWjawCu/fTafQm18TRmGgkrxZXpueAftKmpVdx3/gs+F/SKzUeDK7v1MO+BiIee2Y5CKD5HHdMsvhg=;Hahg23zKj1PRnhw6RM6C6w=="
 ---
 

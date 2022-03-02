@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sonata Software Named Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
-    publishedDateTime: 2022-03-02T11:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
-        width: 400
-        height: 279
-        isCached: true
   - title: "New Azure for Operators solutions and services built for the future of telecommunications "
     excerpt: "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for"
     publishedDateTime: 2022-02-27T17:00:01Z
@@ -117,6 +103,22 @@ related:
         width: 648
         height: 432
         isCached: true
+  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its"
+    publishedDateTime: 2022-03-02T14:32:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/02/full/20220302185818.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "KX Strategic Announces Partnership with Microsoft"
     excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
     publishedDateTime: 2022-03-01T11:28:00Z
@@ -132,20 +134,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/KX-Strategic-Partnership-Agreement-with-Microsoft-01.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Microsoft updates security applications for multi-cloud environments"
-    excerpt: "Microsoft is extending Microsoft Defender for Cloud to support Google Cloud environments, rolling out a raft of security updates for Azure Active Directory and Azure."
-    publishedDateTime: 2022-02-25T22:18:00Z
-    webUrl: "https://www.arnnet.com.au/article/695602/microsoft-updates-security-applications-multicloud-environments/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 56
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
-        width: 473
-        height: 315
         isCached: true
   - title: "KX to embed with Microsoft Azure"
     excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."

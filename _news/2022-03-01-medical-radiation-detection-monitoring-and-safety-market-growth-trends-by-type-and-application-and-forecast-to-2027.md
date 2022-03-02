@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Media Market Research Report (2022 to 2027) – by Process Type, Material, Application and Region"
-    excerpt: "4.1.2. North America Cognitive Media Market, By Application 4.1.3. North America Cognitive Media Market, By Technology 4.1.4. North America Cognitive Media Market, By ..."
-    publishedDateTime: 2022-02-28T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-research-report-2022-to-2027-by-process-type-material-application-and-region-2022-02-28"
+  - title: "Outlook on the Wireless Mesh Network Global Market to 2028 - Rising Applications in the Healthcare Industry is Driving Growth"
+    excerpt: "The \"Wireless Mesh Network Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The wireless mesh network market is projected to grow steadily during the forecast period."
+    publishedDateTime: 2022-03-01T09:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25896974/outlook-on-the-wireless-mesh-network-global-market-to-2028-rising-applications-in-the-healthcare-i"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25896974"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25896974"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-02-28T12:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-estimated-to-reach-us-22-2-billion-globally-by-2027"
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
+    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the vision screeners market will continue to witness an average 5."
+    publishedDateTime: 2022-03-02T07:45:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-03-02/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 10
     images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgTByXnnkMzvH1pIAhUUxSWf-qJEcrSX2EMCIxM4NpHJl3XXuoEL1X17bGdyQpPUFTaKQMYKWW3B6JpHAGX2N6GCC8gT50NmntzyY49KErhD10mNiJMk-s6yKH6jAPsW3SWqfDP7gMtK-5ixyEVCZ4TdmLXRteX9CuvtBy7ITFhqFvHuk0ffOz-MxY=w510-h339"
-        width: 508
-        height: 339
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
 
 secured: "Xo3vcZWwGvugv0en/J86HqYAWI84Ar+6SgO/o5Xq/ErlAy2YVjzM1nQbpEp/lNT10NbDdLg7RH0xGYxpSqrhKT/A1yPJnL8RiN8HfEOdWe2+jlpAiwLTc3nau0GrP2rtIViddh17vVVJYYrAQPTiPpBEeNEjpLdZkKGqOB7WLt36ltjyI5vwfb+eFSyJ6GIEs/mj65JeUBOAv8eqzSlXBIx5aZvCS6SXQl6YZe4VlHtH0jQ9hEpHguIvlYtV7NCE2NSbb5LRk9URldEoM/q2XY6fSBSHPCoDuRadQoZG61ObBtMzjZL1I8KAPJTCfyNgmSGZaHCtCeDQmON/Z7807kgtTElK7aQvearn1KXgRuM=;iy5zs3/s7wpC6JUT4+EKrQ=="

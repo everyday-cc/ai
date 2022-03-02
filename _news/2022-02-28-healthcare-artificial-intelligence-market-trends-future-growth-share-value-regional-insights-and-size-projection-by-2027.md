@@ -35,6 +35,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Call Centers Artificial Intelligence (AI) Market Report 2022: Market to Reach $3.5 Billion by 2026 from $1.1 Billion in 2020"
+    excerpt: "The \"Artificial Intelligence (AI) in Call Centers - Global Market Trajectory & Analytics\" report has been added"
+    publishedDateTime: 2022-03-02T09:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25930031/global-call-centers-artificial-intelligence-ai-market-report-2022-market-to-reach-3-5-billion-by-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25930031"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25930031"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
     excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
     publishedDateTime: 2022-03-01T11:31:00Z

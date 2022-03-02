@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12780"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "MIT-IBM Watson AI Lab Tackles Power Grid Failures with AI"
-    excerpt: "Next time your power stays on during a severe weather event, you may have a machine learning model to thank. Researchers at the MIT-IBM Watson AI Lab are"
-    publishedDateTime: 2022-02-25T22:44:00Z
-    webUrl: "https://www.datanami.com/2022/02/25/mit-ibm-watson-ai-lab-tackles-power-grid-failures-with-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/shutterstock_1625927905.jpg"
-        width: 1000
-        height: 654
-        isCached: true
 
 secured: "zLWYDYPO00qcrwZdVFHNAVJnoZNA68vZ9Q2Sxnq0wqmpl3sTfnZd4D2z0flRJ6UCcTdF0H7nfoI9HsrMbpsFP/xrS7O3sIphSpWQzxZU/QR6psLSIEbh6rrIt6z8Oyl0YJBd1v0ERc0fmgoqZjhPDfydccE+Zb56st+I7bSz5WlRCn9MpB2rbnmzTbC9o/G3zoLodwKod/9OoDqP6npD4U126lMgKsdrP0Bhp6arl5yEl+7C8b8YfDoXsnEEw7O2qPeCUlb/Kvgh1PlPqKC7Eg+LDuIo0JwXRp/zZxPzk7qxULuURvOIfQAuS0xCRBSdvtl+zbENWHw4XhiQRWyCrOmvndMlR+lzdIoSNsbJsweJlqP8u6etAAuhWh59H0FUe2eEm2zg8hTcHlWTjLDSJti29miB79xB4uoNfWUKN16xTC+xsc4rZJgfN6i7/amIeCeULDxBLCvAksczyiqDPIh63DP6/0OCIHF+0yT28G3P4ofUiDzsB4dOrzp2EIYlxu+Eif5sbjdTlo59K8UyXw==;+ACdUVRIXZ5sbHXe5CJ8dg=="
 ---

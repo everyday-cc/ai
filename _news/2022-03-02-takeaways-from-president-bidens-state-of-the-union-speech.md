@@ -78,16 +78,16 @@ related:
   - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
     excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
     publishedDateTime: 2022-03-02T01:40:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
+      name: Capital Gazette
+      domain: capitalgazette.com
     quality: 26
     images:
-      - url: "https://www.mcall.com/resizer/E8VWaKLMhWUCgjLCJq9NHNmYf-s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CTBH5USYUAVLP2NMVCKTUEKRZI.jpg"
+      - url: "https://www.capitalgazette.com/resizer/nBD8zOJop3or2l3xpTt6L1D7GnY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKZRSW4BIOREK3N6CJOPRN3XEI.jpg"
         width: 1200
-        height: 800
+        height: 724
         isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
@@ -168,6 +168,6 @@ related:
         height: 763
         isCached: true
 
-secured: "VQ8o+VqyNVvpz94+IAH8FdSc8VZlgvGLDPrQ+q8IKnC6Kovsi3JH387q5d5oT9Tfzj+DSd+WEtmBOAae9N7gaKdsRxf+PstqliZg9tPAbskzipFC6VhfWTVu2AnBpoWfIBVXCpqsvuqrW+JLh19izIqnIL3/oIWQRCrUBdCaoA7vfp1HqDFIxKIttQ96bwRRNWwYCzkHlYoDTx4m9AZK0GxHL3fF7Hx3pZttwKLFaA+IbBIeVPr52KdkR1WZGe7ZrYysX1J/79d5aFTBRl0tmVH0vYqUw/4Kyn5bE3UuiONwoqTCR2pAUbHDppvc60rJXufLRkKwsCBkzwGzD9vEVOBjETj3drfXRwQFLpx9sYM=;nTCUmKWiYT+Q1uw7NznRPA=="
+secured: "Di6fmMl1JI/fyW45M1BP7BcmHZGlXe31hxwHpvhWrJ8iLfvZ2O7xddJoG8VAF5XPxN54RU8BA0p89VUxY5UClQNay9b+BwXfBb2+sirlZaWu8oEGOdhFKV4dVJa7wTG0lDFYrT6goEZ9kuFbVojl/hRoSvxifHYCy2vj6BCzTHrVAspymoZxvNY9h36vYeKQRXcTaWa3M/uboYbq9JNAS+26gjoIYGnOK1ZWb16i5vlmpSXxr2X6N1L5Bl87L2n0s5aeS9z6spW5dhEOvq4OKSbJUTAPNOyCJyqz4zp+vgl6178WiMSlSfQQ7vG9qh0ZiIljMj720MLITYnpR7JW9a92WoZsGTDWMVe4ynCtTTvBl6d1PwFHDVOI9qvKOjipApa5AWZzENzXDoVKTq/yrJMfSU4MmltKfumh2cicauWIO+t/LwosB2Y5CVUCqQRisVI5wt19058wRhCqtL2pB5BSqqcLLzRUl5amstzrWZtK1n4b+nmjN8i/pRl6fMILpY/FOW/P4zXtDdwJsuzMUg==;lDkyLZWGVe3l0PW4oS8gKA=="
 ---
 

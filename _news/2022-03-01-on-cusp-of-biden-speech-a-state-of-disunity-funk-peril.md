@@ -92,16 +92,16 @@ related:
   - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
     excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
     publishedDateTime: 2022-03-02T01:40:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
+      name: Capital Gazette
+      domain: capitalgazette.com
     quality: 26
     images:
-      - url: "https://www.mcall.com/resizer/E8VWaKLMhWUCgjLCJq9NHNmYf-s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CTBH5USYUAVLP2NMVCKTUEKRZI.jpg"
+      - url: "https://www.capitalgazette.com/resizer/nBD8zOJop3or2l3xpTt6L1D7GnY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKZRSW4BIOREK3N6CJOPRN3XEI.jpg"
         width: 1200
-        height: 800
+        height: 724
         isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."

@@ -7,8 +7,8 @@ originalUrl: "https://www.fastcompany.com/90723569/the-pluses-and-minuses-of-ai-
 webUrl: "https://www.fastcompany.com/90723569/the-pluses-and-minuses-of-ai-in-healthcare"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Fast Company
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Alliance for Artificial Intelligence in Healthcare Elects New Board Leadership for 2022"
+    excerpt: "Alliance for Artificial Intelligence in Healthcare (AAIH), a 501(c)(4) non-profit advocacy and educational organization dedicated to promoting the development and implementation of AI in"
+    publishedDateTime: 2022-03-02T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alliance-for-artificial-intelligence-in-healthcare-elects-new-board-leadership-for-2022/article_330d974b-d1e4-548e-b298-52b52be70286.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Trends and Forecast to 2026"
     excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence in Healthcare Market: Industry Trends ..."
     publishedDateTime: 2022-02-28T05:40:00Z

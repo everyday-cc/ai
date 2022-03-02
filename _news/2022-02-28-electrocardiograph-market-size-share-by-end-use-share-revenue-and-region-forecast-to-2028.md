@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in the Education Sector Market PESTELE Analysis, Drivers, Restraints Research Report by 2028"
+    excerpt: "The Global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a"
+    publishedDateTime: 2022-03-02T13:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-pestele-analysis-drivers-restraints-research-report-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Cognitive Media Market Research Report (2022 to 2027) – by Process Type, Material, Application and Region"
+    excerpt: "4.1.2. North America Cognitive Media Market, By Application 4.1.3. North America Cognitive Media Market, By Technology 4.1.4. North America Cognitive Media Market, By ..."
+    publishedDateTime: 2022-02-28T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-research-report-2022-to-2027-by-process-type-material-application-and-region-2022-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cleaning Robot Market Size to Reach USD 36.63 Billion in 2028, Says Reports and Data"
     excerpt: "The global Cleaning Robot Market size is expected to reach USD 36.63 Billion in 2028 and register a revenue CAGR of 22.4% over the forecast period,"
     publishedDateTime: 2022-02-26T00:34:00Z
@@ -39,19 +67,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
-    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
-    publishedDateTime: 2022-02-28T12:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
+  - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
+    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
+    publishedDateTime: 2022-02-28T12:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-estimated-to-reach-us-22-2-billion-globally-by-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 28
+    quality: 30
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgTByXnnkMzvH1pIAhUUxSWf-qJEcrSX2EMCIxM4NpHJl3XXuoEL1X17bGdyQpPUFTaKQMYKWW3B6JpHAGX2N6GCC8gT50NmntzyY49KErhD10mNiJMk-s6yKH6jAPsW3SWqfDP7gMtK-5ixyEVCZ4TdmLXRteX9CuvtBy7ITFhqFvHuk0ffOz-MxY=w510-h339"
+        width: 508
+        height: 339
         isCached: true
   - title: "Exoskeleton Market to reach USD 7.93 Billion by 2028 | Reports and Data"
     excerpt: "The global exoskeleton market to reach USD 7.93 Billion by 2028 at a CAGR of 43.4%, according to the latest report by Reports and Data. Rising number of"
@@ -64,6 +92,20 @@ related:
     quality: 24
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Deep Neural Network Market Research Report Including Drivers, Restraints, Global Industry Outlook and Key Players Analysis By 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the"
+    publishedDateTime: 2022-03-02T13:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-neural-network-market-research-report-including-drivers-restraints-global-industry-outlook-and-key-players-analysis-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
         width: 600
         height: 337
         isCached: true
@@ -81,19 +123,47 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
-    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
-    publishedDateTime: 2022-02-27T20:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
+  - title: "image recognition Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
+    publishedDateTime: 2022-03-02T14:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 4
+    quality: 5
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
+    publishedDateTime: 2022-02-25T23:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1645766442.png"
+        width: 1176
+        height: 505
+        isCached: true
+  - title: "Insights on the Artificial Intelligence In Diagnostics Global Market to 2027 - Implementation of Cloud-based Technologies Presents Opportunities - Res"
+    excerpt: "The \"Artificial Intelligence In Diagnostics Market Research Report by Component, by Type, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-03-01T12:19:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=624056"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "+E/c8BeGy/UdtnTp0XIFbKkMdAD90a+WqDcWzHwNsjTu+1DhwmXTJnTv3AkkZ6B4QxvqqtmE2y93VdmUkbCirsGuJ8TNU6nPvG+mimSwSECvXChRxnQHtxGvFLxwA17YWR8XbSdB06EaD/Y3Poc7+GGprqmBHO3AtsNaZBqbbvqrsRCq6BAf2RqEUyqyfF0mvbe2rp44v4L75KOohTgEP/WTVWN9QplE3LK4W7Fv5Kz4VuFFJfOiImLWQM8LyTkpkNKgDUs9oMjHWnElcyhB4vVtYOHcblv8REUn9M/X+3b0oXsxn0uPo2bQ/IxBVfIXsTI+mFlYKEjCdDjP2CNRlojK5M/KzJVNgav4SHEQ6x4=;BbwceVPnQzrvpjyNnsq47Q=="
