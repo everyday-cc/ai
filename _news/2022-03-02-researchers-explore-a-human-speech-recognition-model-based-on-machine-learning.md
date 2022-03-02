@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Reinforcement learning: How rewards create intelligent machines"
+    excerpt: "The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function."
+    publishedDateTime: 2022-03-02T16:11:00Z
+    webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "eEKxSkpfePQ9dSOcSOBrHqu1+U6KokDgwL6Adr7VXe2a2q3uJFL9ysMIkyLOrHwwdQu6nh8OY29QH4Q+PVmW7hl34zuVtDPQQmreHnh232iZMPzItURdiJpCKp28ETMOd4Bdqb53FyWKA4tSZKPH7+YXNnrsfUXku0YHgSp7BavHRDJoH3Tx+/kdgsttc40jtqWx0+xTwZzH/jywPaIHZppKI04UG6eN/EZVKp7GQMLBvhaUePcs6ringCUsSCNUmViPBpkGonIqBK0vb0l7Wv/c6/zyTfekLg0a3xIFOygH9aZ5apRMcAUqeDjAeQXTr7lykdOo1XJNNZWeKYed7evtKPqbxlLCP1DAFU/gFFA=;mHWCrPPRaBG3sw35vzsC2A=="
 ---

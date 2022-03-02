@@ -42,6 +42,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
+    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
+    publishedDateTime: 2022-03-02T01:40:00Z
+    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+    type: article
+    provider:
+      name: Capital Gazette
+      domain: capitalgazette.com
+    quality: 26
+    images:
+      - url: "https://www.capitalgazette.com/resizer/nBD8zOJop3or2l3xpTt6L1D7GnY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKZRSW4BIOREK3N6CJOPRN3XEI.jpg"
+        width: 1200
+        height: 724
+        isCached: true
 
 secured: "NP/TPE/sFQvoSBxHitkSXuhWKR4Ni441uJRmrZHPd7QbNxixslP16GiLOOTxbRf+Y3zL7Z0VXzRQg+QgzqWMMzV6n5P7VFMfOBB8FKo9phHWhd8/oBWBWxOfWPIdD+EjeTcXPfrdDgvK9wsIifTKjuJYk+dPxPAnhTWAEX13i0CJveqdzQDk5FScbdDu4RSm27jK7o1s75oRAQjPkSYPYuUmWioRKiYs0VVLcUYxPOEaL5RNnRGycQuA1NAK02YNCddUPhfRGxzv6mGUBtyqvBZUAJDOJX2ue6stvGB31FvI/6L6i1lZpfnDqfoxA0vfnMl7BFqrv1j6T+W9lxvjq4SlxYVyiZXcgnqpZDX/7uQ=;MzpBR64QOZgUqLDfqeXKYQ=="
 ---

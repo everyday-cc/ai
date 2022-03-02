@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-cent
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Faros AI raises $16M to launch an ‘EngOps’ platform for software development"
+    excerpt: "Faros AI, which is developing an 'EngOps' platform for enterprise customers, has raised $16 million in venture capital."
+    publishedDateTime: 2022-03-02T15:16:00Z
+    webUrl: "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/"
+    ampWebUrl: "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fraud Prevention Startup nSure.ai Raises $18 Million"
     excerpt: "Fraud prevention startup nSure.ai has closed an $18 million Series A funding round that brings the total investment in the company to $25.4 million. The funding round was led by MoreTech Ventures and received participation from previous investors DisruptiveAI,"
     publishedDateTime: 2022-03-02T12:03:00Z
@@ -59,6 +75,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "o7kAXwESa5k/DW96vd4qybnj8SfgpJpkIHiNoySszH2Mc4O6pFl29fBtCpy0EiKvoKmx4cdGvpFQuaZVUXLi26teQVfJoa5+40VIWuxaLZjJuGUbz7+vaItwwPXA7RG9omtxs7ND6VwVym/zKr6wGO1HAQLysaC0whAE8bUYMgobJJzUQEtfpAkxGldu6r6k+QQvLjwS/dh/wxYH6nARa/JlF2zoVT/UkVHmTc1vIVRp3ntssYmmKVWRdzNS8U8LXL16Y5HZPJH9GIxjR7ncTLGZgTErJCtU8nI9p2q4eROaUzrcHc0H/PLKNZD2IGllRqGbgDFep4IAFPr6U3A4C9N52wodPVr6ADwmpgxr1mY=;QdKursh5PsBoeQlYy5cSVg=="
+secured: "vOC+v32WfdMFZrgLfVBrQde0Z9skKi15f603Qgf5EMaTtpoRkl3BxHJUHVknn/yWjTW/4yZZ9bFYpl66nnmq3nrOJb8PBJU0JSluGHBQ16w+ZVmwcprPDFO461dqmFaEUTcHOSO91QynsICPCCCaO4orRywiTn/XdbB5gDStPImonc/m2CGEZroFwEqDySwfi6Q5vIsJq+GHQAbhcBnAkpskpWtp4oyXXoX3i/spk+98Cqi/54mgbR+GIqKLKEPM1e7ctMMTI1ODWUmNE2SJRClHy07de22KB04aZqRfSyE0qYlJOjDu/HjNQqCsM9kaZlu87S+nA1KPu4fAjBwX3eC0UKJCidL1E4n5/u/2/YR0MLXP1Im02F89fkNYs4t7KFx5VLTVGzD3cxNrqbtdwN6D+u2+vlxBKPEbIjsdFXY2CZRAbPfo3OLOz/H6MFs+L7rIbwsN49ZZKs/Xa98AQyx9sf2VXPt6KvMGrL4lp9f3TapKImjWrlSUaUzKiKcl/VuLBgVzl5JklFN9ozs1Fw==;vTXeB5wpb1Z14uxePdeCdQ=="
 ---
 

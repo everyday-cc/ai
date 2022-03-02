@@ -26,6 +26,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Adversarially Robust: The Benefits of Peripheral Vision for Machines"
+    excerpt: "Researchers find similarities between how some computer-vision systems process images and how humans see out of the corners of our eyes. Perhaps computer vision and human vision have more in common than meets the eye?"
+    publishedDateTime: 2022-03-02T15:22:00Z
+    webUrl: "https://scitechdaily.com/adversarially-robust-the-benefits-of-peripheral-vision-for-machines/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 24
+    images:
+      - url: "https://scitechdaily.com/images/Peripheral-Vision-for-Machines.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
 secured: "8tEJns2yIvrWDtx4/zDMGjKmPpBJETvhHC8RD3pRiyFoEu8CV0w3roxeNdShN23KZXzZe4O5DNNHdoq7MvTGm/VbnqgwA75k1kIu6Tsbw3+l337latNdTzGiPghVLtaVM6de23rbmoparr4lKuKN9miIVH1jZne97dRJrdC3PpHbuSjUPzMzbsLI0zFMk19mgAk9FDAmpXb8tutyS8A9MwJe4jUqy7Mz/49odpHwZgb3QJBviK84pE58wadgeApfbGA+Tx1pbFoxUsEs4g0IwsN9tlj0T6JAo/2fmTtLfV5OfWu0JCbja5sXj5u8QvQlNWoyim4Z7aImbmmugmIONSC0/7sl9X6+MFxSK4bm1Gw=;KRfgU0HPaj8uTooVMixbjQ=="
 ---
 

@@ -101,22 +101,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its"
-    publishedDateTime: 2022-03-02T14:32:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/02/full/20220302185818.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
     excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."
     publishedDateTime: 2022-02-28T10:38:00Z
@@ -162,6 +146,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider"
+    publishedDateTime: 2022-03-02T15:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Uptake Fusion to Support Microsoft Azure Data Explorer"
     excerpt: "Uptake, a leader in industrial intelligence software-as-a-service (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer. Uptake Fusion, which automates the extraction of industrial data from historians,"

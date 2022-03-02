@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hearing_Loss-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Reinforcement learning: How rewards create intelligent machines"
+    excerpt: "The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function."
+    publishedDateTime: 2022-03-02T16:11:00Z
+    webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "royk+ohFxxnCrJKSqVxrwkq2C3sDylIiw2Z1McexsqEIywNsCBloDQATDOGv2JWAGrZjNwNdc6koA9rfXTHeAMIS+nt1pgnXgzkxxfExEsf10qqzDyHQJq98FvKucatOEf9YGf1hpMNWp+bWJjFdrFheFs2oNv60t6fYuDV1hP9bWFT00+fdyGmJzmvy/GUCMdT2fBoS73VAA37kuTj5Ia5zSmrNPf3+jP4FhozT4VRZ73NiE55xbnyL8qqmM8Y2N9CmLfljkzYOh2JszW2c0GeCm1/UGzcQmCzYfpx+frhv9A1PpLrjnV99rvxcIBpC/AAGUgNGm/THAv7UftHyBXL3exsemJ3/OcVfT96RnACjI0bEHLaU/gu5fxS9EsLnix/gcarW+GrERhbjJ44BOSppa7z7odG9N0RnJnRZHEljG+IststRKpzD47pf1N+I2sVE1DNLeVDPJSXJfoBe2ojqJ0Qfcie73Y5PlUBTxIDNH9gnrOuAO4iWBgXAxMVHdtiYA9S0fsp9EXhehdTrCg==;ldQLqdIXFhKdMgamoVC1NA=="

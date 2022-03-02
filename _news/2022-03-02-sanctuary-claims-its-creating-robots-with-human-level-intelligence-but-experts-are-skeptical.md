@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-rob
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/"
 type: article
 quality: 92
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 617
     isCached: true
 
-secured: "ofdIjZ8VeahX4WzRriP7Wl2PKe7KAFoUTgi2ETwze6ApebH34ZSej23kiFrd6AJ+N2sC4JlrAEY0ZQZC16T5BGlwxMh+xBaoCihs8UvmIk5vxScftVMe3OlGr1Ky1jzBYdTYfkhjJe5LmgQ1JgT+eD7TYsOiCEJEYvo3TIx4OjdjuChxnpoJZiE23oREmS3YAehdwFbXNJ+7xfABS84/l/HxrfE6gj8ORL0wX3T5WdALDSRSjR1lkN06FaJZMFltnUvIpBuvFZpEJuwzkZB3+BdGgEGX+KPnwSsqyge8bvt5CkxxX+6MikkXjuS2T4i5+vjWsIel/z2+ADRtgvVg/s0lTUhh/VO6UtGZEaLKtBg=;HJdLZMeJTAT0njQF50F+Uw=="
+related:
+  - title: "Sanctuary raises $58.5M in funding to build robots with humanlike intelligence"
+    excerpt: "Sanctuary Cognitive Systems Corp., a startup that’s attempting to build general-purpose robots with a humanlike appearance and intelligence, said today it has raised $58.5 million in an early-stage funding."
+    publishedDateTime: 2022-03-02T14:00:00Z
+    webUrl: "https://siliconangle.com/2022/03/02/sanctuary-raises-58-5m-funding-build-robots-human-like-intelligence/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Sanctuary-General-Purpose-Robot-System82.png"
+        width: 1782
+        height: 1049
+        isCached: true
+
+secured: "GLA3Lg1KxKTwzC1S1pN5yKsJaE6ae2hm1sCSvH/fdhl1OXTHz5ShWU7cs5NFYJbsS1sSnLT8ZdXNRIKJeQL+RHi/jSPftn2x4q9HIC2AnIx6uKh5bmfCYTmFUVJCn4VLhJsILdE3oFJMQIEYmZ95WITtwuGL5eyvUqlPSSs3kFaf8Z6ooBEqZJVv3hz3G+Bcpok1YSTKmzDScHxOXzVsIXF6HeGKwAzufcCteiYp7UWc9I2Kbh+gNuRQ3T2eqkNPrwBOQaJO3+O+O5bkgu4WLq80d+ts4UWWXtzb1F/ce1Gyk7orXZFz87utXtMlfk73qJJnEAQho7BH1JJ8rQ04WkxAhAXDXRf6DmCyPav1U71oDqK1932LacIJ1HK6d8KpegydTzOPxzZznFSXcQOfXDsE0b6BSikqOHCf7W2X6Rau6OV2/9FO7uQoO2zVTdnDoHMFttwFvKGFxt76QoDNnxvpUNe3hY0g9OVfjt0hPkyErXJQwvC7TCYBeIURhAKQwVHmXPAMGV73hVIkNQICxQ==;afmTOoX3tlHNt+g8c7Hs9A=="
 ---
 

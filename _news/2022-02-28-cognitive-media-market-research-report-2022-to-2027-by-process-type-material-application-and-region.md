@@ -43,20 +43,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Cleaning Robot Market Size to Reach USD 36.63 Billion in 2028, Says Reports and Data"
-    excerpt: "The global Cleaning Robot Market size is expected to reach USD 36.63 Billion in 2028 and register a revenue CAGR of 22.4% over the forecast period,"
-    publishedDateTime: 2022-02-26T00:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cleaning-robot-market-size-to-reach-usd-36-63-billion-in-2028-says-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
     excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
     publishedDateTime: 2022-02-28T12:52:00Z
@@ -140,20 +126,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
-    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
-    publishedDateTime: 2022-02-25T23:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.abnewswire.com/uploads/1645766442.png"
-        width: 1176
-        height: 505
         isCached: true
   - title: "Insights on the Artificial Intelligence In Diagnostics Global Market to 2027 - Implementation of Cloud-based Technologies Presents Opportunities - Res"
     excerpt: "The \"Artificial Intelligence In Diagnostics Market Research Report by Component, by Type, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."

@@ -24,6 +24,22 @@ images:
     height: 778
     isCached: true
 
-secured: "FSNc2h/76ji1+LJq57m4KTwHsw1SJfFo9b7zpIkCm1M9sX8EO7SLFdTnHWKQ4qflt9FKgGDttvd647Is++4/0hr+0EZ/jHzoEzUmK2uc9DN2HshutzOOjrEtQOXbWjM8E5HUPIO5XKRHzg4uWCxb+mp2tVzsZt3uN4CQNTDl8+q8m82DxYj0NHtJffyc2VvFr5I4YGILxah9gVmLPzd//cK8g8Py8/Lvn324WWS+LJ/YfT2W/SUX3WyOmaQ6ZrJvvHsLC7fX0G87Acd+KVAUvGmRYPvrOJMxkK4GGfimMKJB0B2ejdkgiiCLbTLx4nSMHL2fZbjaf1CbbvVczlmtbpqGHV9s6+RAxa4KMCmz2ns=;rI8JRP44Y3QCJW4WzJR6vQ=="
+related:
+  - title: "Machine learning innovation among mining industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in machine learning in the mining industry operations and technologies sector has declined in the last year."
+    publishedDateTime: 2022-03-02T13:00:00Z
+    webUrl: "https://www.mining-technology.com/features/machine-learning-innovation-among-mining-industry-companies-has-dropped-off-in-the-last-year/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 28
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningpatents0103-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+
+secured: "mMiHbf04MUkRdkg2WBdZavkM0Lh9uV40oupzeqW6yXjZ8H03W0BVHK47nsH7qtYOgMySWQvEIKOuMiZNI2MLgsWwmOcp5IE6Da/O+qSZT6vZ3hEUo5Cet1TADoUDw3afgCPCJCngGEiXi+sO7hSAhjesJ8OSAKzNJG/NWBfzR/MLoWXh+pNB5/MXtK7ViQFZjtkFUYgzH/elHKp3XNn1cDFebVnZXFuukbRJcfbTgySziWs3wmoUzmbaFO2LOrS2ghmHmreUrEF5GiNDFynguYLz1GWPDsy86UapH1SKK5Qh8qnylLGoofn3JTI938j6D4Qkwd1LPGHG49x5jCfceBa5RyJPjqo+MbGVBsOfbFM5b/pv/do79tsYv0i/4304KAo6Cw0y8KzAhDEkOOpAeiqx6OypovGaqQloLYIwKDl6aK4QWc9YRJ10xt9SaJSCDlsFQdvLluCasiD/EDgNd9r+OVjwaa6Pmm2gSV0bO7aeuqO48SzMBDqt05CYMSuh2Ka8WbEJedg9HOPmNddiCA==;q+DRSnLe+ypaS+gob6XJXA=="
 ---
 

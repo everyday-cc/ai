@@ -2,19 +2,19 @@
 category: news
 title: "Takeaways from President Biden's State of the Union speech"
 excerpt: "Biden sought to rally a divided and weary country behind a revamped domestic agenda and his attempt to isolate and punish Russian President Vladimir Putin."
-publishedDateTime: 2022-03-02T10:00:00Z
-originalUrl: "https://www.wlwt.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-webUrl: "https://www.wlwt.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-ampWebUrl: "https://www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+publishedDateTime: 2022-03-02T12:54:00Z
+originalUrl: "https://www.wmur.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+webUrl: "https://www.wmur.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+ampWebUrl: "https://www.wmur.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Natural Language Processing
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech"
+    excerpt: "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers."
+    publishedDateTime: 2022-03-02T14:32:00Z
+    webUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/"
+    ampWebUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/621f8b986e1c008edddcafb9/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1067
+        height: 711
+        isCached: true
   - title: "On cusp of President Joe Biden’s speech, a state of disunity, funk and peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong,” or words very much like it."
     publishedDateTime: 2022-02-27T18:25:00Z
@@ -58,36 +74,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-gettyimages-1373741404.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Lauren Boebert, Marjorie Taylor Greene heckle Biden at State of the Union speech"
-    excerpt: "The two yelled \"build the wall,\" Reuters reported. “Sit down,” shouted a Democratic lawmaker in response, that report stated."
-    publishedDateTime: 2022-03-02T04:36:00Z
-    webUrl: "https://www.al.com/news/2022/03/lauren-boebert-marjorie-taylor-greene-heckle-biden-at-state-of-the-union-speech.html"
-    ampWebUrl: "https://www.al.com/news/2022/03/lauren-boebert-marjorie-taylor-greene-heckle-biden-at-state-of-the-union-speech.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/03/lauren-boebert-marjorie-taylor-greene-heckle-biden-at-state-of-the-union-speech.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 39
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7RHC4C3MMRABNIRSATYSGJ5FBU.jpg"
-        width: 2399
-        height: 1607
-        isCached: true
-  - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
-    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
-    publishedDateTime: 2022-03-02T01:40:00Z
-    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 26
-    images:
-      - url: "https://www.capitalgazette.com/resizer/nBD8zOJop3or2l3xpTt6L1D7GnY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKZRSW4BIOREK3N6CJOPRN3XEI.jpg"
-        width: 1200
-        height: 724
         isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
@@ -153,6 +139,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "In State of the Union Speech, Biden Vows to Halt Russia, Tackle Inflation"
+    excerpt: "Addressing a concerned nation and anxious world, President Joe Biden vowed in his first State of the Union address Tuesday night to check Russian aggression in Ukraine, tame soaring U.S. inflation and deal with the fading but still dangerous coronavirus."
+    publishedDateTime: 2022-03-02T16:25:00Z
+    webUrl: "https://www.manufacturing.net/economics/news/22093470/in-state-of-the-union-speech-biden-vows-to-halt-russia-tackle-inflation"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 23
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22061091543682.621f9a481a307.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1022
+        height: 576
+        isCached: true
   - title: "Biden steps to State of the Union lectern at fraught moment. Here’s what to know about his speech."
     excerpt: "President Joe Biden will deliver his first State of the Union address Tuesday at a precipitous moment for the nation."
     publishedDateTime: 2022-03-01T11:23:00Z
@@ -168,6 +168,6 @@ related:
         height: 763
         isCached: true
 
-secured: "Di6fmMl1JI/fyW45M1BP7BcmHZGlXe31hxwHpvhWrJ8iLfvZ2O7xddJoG8VAF5XPxN54RU8BA0p89VUxY5UClQNay9b+BwXfBb2+sirlZaWu8oEGOdhFKV4dVJa7wTG0lDFYrT6goEZ9kuFbVojl/hRoSvxifHYCy2vj6BCzTHrVAspymoZxvNY9h36vYeKQRXcTaWa3M/uboYbq9JNAS+26gjoIYGnOK1ZWb16i5vlmpSXxr2X6N1L5Bl87L2n0s5aeS9z6spW5dhEOvq4OKSbJUTAPNOyCJyqz4zp+vgl6178WiMSlSfQQ7vG9qh0ZiIljMj720MLITYnpR7JW9a92WoZsGTDWMVe4ynCtTTvBl6d1PwFHDVOI9qvKOjipApa5AWZzENzXDoVKTq/yrJMfSU4MmltKfumh2cicauWIO+t/LwosB2Y5CVUCqQRisVI5wt19058wRhCqtL2pB5BSqqcLLzRUl5amstzrWZtK1n4b+nmjN8i/pRl6fMILpY/FOW/P4zXtDdwJsuzMUg==;lDkyLZWGVe3l0PW4oS8gKA=="
+secured: "gF7yUkLK6v7TJpBVmAKPCqFzI9IzxytFvu921sMi3h1QtlORM7OOFxPugbPyffnFZ49I4nBKxrHHOeAjaPAB+oB8HXerAzHrhTzTafhXmhFUo2B5FuZeijDzfFObJxMuU6LmdVnnIea1Bzizr+YZRNdHvYrgKMf3ENAgVHnrTzJygUL5Q8TSVYIXJdPHyajAlovAngV8PN/4RX7ODXVMf8eeZLv5uwdZ9CpWTLqSWD+KM7DyUtd+Vtpl1E6ulmO4/V6aH2FKM5MvR5IrpJS9z/EIIrbL7WpZtOmMl/p/dCr/j5XyLtn2htlOBMLfiesQMlgS1Gf0+Lzgtf4c2uxMTX+GQqimrgu5+nEtF1Y1hyc=;wQSxSJLy38ABY5Q9EMGgow=="
 ---
 

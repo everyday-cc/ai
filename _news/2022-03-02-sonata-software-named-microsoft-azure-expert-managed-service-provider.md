@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
-excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its"
-publishedDateTime: 2022-03-02T14:32:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/sonata-software-named-microsoft-azure-expert-managed-service-provider-122030201273_1.html"
+excerpt: "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider"
+publishedDateTime: 2022-03-02T15:00:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider"
+webUrl: "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/02/full/20220302185818.jpg"
-    width: 600
-    height: 450
+  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -203,6 +201,6 @@ related:
         height: 240
         isCached: true
 
-secured: "Jo728/m8o9m0JB0UotLXQe/RNALmES9W8Oo9MbBEBWvi/2AmYf1OFfabi678pjApArJNepDmjVNMIOkzXRxpPtYxdvK0tudmF0lQbz9d5lZMmPXHeLTsnPk/ENVpwVsnrHmO3uDs0zXc0Zs/PFosxD/NPXh/5/5eKrQd+kMhw6EGCG0S5A/lpTdsf1UFwYlCmYYJZ1jJ53F+a7xNSVOLtJ+YwXlzzcOsZEyBxyeM04yIIDJpEClOBJ8RL3opweuyF/jxLXuFhsj3mkyiFhIlA+FXKCtJKqdtAI5JplyiMzGHj3JYBKbz//DuVBgKflrwhknz/+d6OvUKap8TybbkPSXR6RLxOhcjTTEvQpNqFIQ=;3TPWzekSEZdCtCwpS7U5nA=="
+secured: "c6OOb1pRaRkA3O8omII5Lfe4QqX2vidIUUhqlCUvkbSMbnl0GQ2WhjlqxZ9RXSOZGf5UZtUq06qlapU41IWmiEJH263opPdSMt2rlTaiv89L1kEggyKGzpHTujTR6Eyp6va1mWMAAM9XT+/fzYlMuSJWUHYT8MJfdybLH5HBpUE51zn/okbf8b2yf6quRbL73JuijYppmC6svR2JHTPZi1zblTLiQFBPk8L2L22zmreo7W6QGzCvyxFCiY2bw/gWnMmvXQv79MbHXivHUWFyWafOQntkxj2ebE5LNxg08FTmR9hTN/X/PTNrcTygMGJpKXdz4mTrbAjxxUtr43YUsI9I3RcE0PV5Bu/wRm8qv3U=;LDvGztnAq0x1Js+WYIqzzA=="
 ---
 

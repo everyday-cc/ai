@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shin
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: ZDNet
@@ -29,22 +29,6 @@ images:
     height: 664
     isCached: true
 
-related:
-  - title: "Faros AI Raises $16 Million for Its EngOps Platform, Launches Free Community Edition"
-    excerpt: "New startup from Salesforce Einstein’s founding team takes seed investment to help companies move to data-driven engineering operations.SUNNYVALE, Calif.--(BUSINESS WIRE)--#DORAmetrics--Faros AI, the company behind the Faros Engineering Operations Platform,"
-    publishedDateTime: 2022-03-02T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=625029"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 30
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
-secured: "oNk0ii4LJj/UTJOvM//EuXrtg2bCQTlZsD2pOH3T00L1dnLWX/IqZwpwh69yznDw7DHCIUbQLbTeNTBoOllBKaQdlLniFc0PDU/QO84pbPwrNsFwRPgwGTfhkP+nrBy1AH0K0et4Fsz1J5C27SOBXJhTLgbcYBoqI4nHoYH89SS1Jt8N50IoyPJkxiZxSWeWdREk0pLj8bsrbgWHp9wM4WNgQQeACUucC5ozMe3aC3ObR+ZU1ZgDZAbFnLDTOHCbqfdZ43+Q7lNtYAz0cKqW63KMAV5F54bvnuLDS5aNm8c2vNdUpP7yxGdfsSoYm+9tlwnx51vMD9v43aYBMk+S1nSKuHCXi4nPNEcbBliFyN4=;FVwl/AUbUm1GNR9yAlDMcw=="
+secured: "blQoUoulLpfkrE6sbuXuBd7KaIoId9Gngs0VoW3k+vDRgT61frXlhdR5KJm8WmeRirDIo+VSsr3QDb1z0kqVjCQ4k7FP9uqNL1hs1MsOEsdoZawRFf2xeHj1ltuWB9eaqZ8ubiNJk3cUqRK1GtLc2A3/+J0R22RFGi66n6ycxVab1HcHtAFW3gy9QA3QikR4eO6Sm+yL8AViM4sjzutDE3bD/y4z0K900jmJOa7ax71/DKILpl/CDPEVYf1yub9h2V5SbHq5vuyRT1XnNtFbGyqyj6dv2DjxxD+WoUVyiwwHGrf4HtyrPu20vBNkQnsrc3kzYjON3sFW8k6c7wLT0/7m854tdszxSjjawIoejF8hr4sPr+xOCi8hrpqd/dwIbtuQUfC1z0pmzymx5yKQjOaQx97Pv+APA1YXkdFowctobFRzpAl6sJ0x3AYpOMxxIUMLwDSVNSE2pd/RYiAtO82+pb/et0t+EPkIk+Vql9Ohnct8XLkb1V8bNynzglneWKPaQUZbHHjXViqHTp1kdA==;14n6zwUDjBW+0RkMnS6yfg=="
 ---
 

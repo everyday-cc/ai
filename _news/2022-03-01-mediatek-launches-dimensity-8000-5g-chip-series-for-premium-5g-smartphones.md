@@ -1,28 +1,26 @@
 ---
 category: news
 title: "MediaTek Launches Dimensity 8000 5G Chip Series for Premium 5G Smartphones"
-excerpt: "MediaTek today launched the Dimensity 8100 and Dimensity 8000 system-on-chips (SoCs) to bring flagship level technology – connectivity, displays, gaming, multimedia and imaging features – to premium 5G smartphones."
-publishedDateTime: 2022-03-01T06:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones/article_16680f3d-985f-5b42-b538-c5cbd6c8eda1.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones/article_16680f3d-985f-5b42-b538-c5cbd6c8eda1.html"
+excerpt: "Three new chips expand MediaTek's Dimensity 5G portfolioHSINCHU, March 1, 2022 /PRNewswire/ -- MediaTek today launched the Dimensity 8100 and"
+publishedDateTime: 2022-03-01T07:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones-1031241439"
+webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones-1031241439"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "MediaTek Expands 5G Chip Portfolio at High End"
@@ -35,6 +33,6 @@ related:
       domain: phonescoop.com
     quality: 19
 
-secured: "meYfJ5H5Jshy2XAiC6vLZ3gEiSeSSzlmO14SWfS+ON3/OXoBFbiei2O/4xrzmdc839QOhJn/pNfDqchYw0ejs615zRcmotz4ka4WSdNIVstbQzn3/XSGqbOc9IYaXgeT23XaIEK43afl3CdNk4ASmG5tBFrPdg4j7EN0dbSAHng9DWa6qEvXgChE6EB5/E74MsxC9OWA/WflpN+lMigZzQeGvSIiZUL6i4O0PqP1T3Qd2BBZ5mJ87rGNgegaP9qsgLnPM3QpepoCFxYbLepCwDpA0UdirP2sTu+AdEz36NvMbazd3s074LS4AtSSf2MVlFysNxWJo1SMDTCR8DMLdKBHKYi3FBQxt3YVaiArd5GnEUpKdU3wzwyda0TX5jeUP9CvM7b/eq7LMyCrnB6vNt9nvHh0Iv3ylk7uNPilj4KtpEo3Ofjq4yR9HxsUtjntS9aGoaxTS+z7AqobC3Ew4Qth4QjsV4Cvl8GaSmkfKFoBrw61iAI82ZrgiVab1zASk0hfJbyUrsI9k5yk4z4uYQ==;UJnH6+cx+n01tAXQ7xAqfA=="
+secured: "Ows/3i7zspW/eRhVLNYmDefl38ZSaK763wmKqJf7xp+c+vl+8FMRc6ZlPcilS87Vp5ON7JCm0A6hfl8F2JXkzzR2Ck/KW550XEpMAr0iMBj0OBxyE3cPCfnTcGd4hTRvlF6y6A4WLy0Ft6b6s7HUEi7VXHSOZ7O5JJ+nc8xnv51vnpkA3rVp29TltUVgtB/Micc2Z1lvbLBtGTaUOMBrMt93NnXQ4vnauJr8123BbsuoeKXslGvin7FCErfvqesTX9LjyaktyGonZU2SMYEJGhL5awyozbBcutpSehkGiDkaP65/UjcATjP7UQ4g5CPmIYaa2eUbAQXzCThv+h2zUeb933Nq4IRBhfkj1+FQbnM=;0cTiV9Ud/qc3EWFfIrKiGg=="
 ---
 

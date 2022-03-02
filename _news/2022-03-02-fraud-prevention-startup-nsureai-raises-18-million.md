@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Faros AI raises $16M to launch an ‘EngOps’ platform for software development"
+    excerpt: "Faros AI, which is developing an 'EngOps' platform for enterprise customers, has raised $16 million in venture capital."
+    publishedDateTime: 2022-03-02T15:16:00Z
+    webUrl: "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/"
+    ampWebUrl: "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fraud Prevention Startup nSure.ai Raises $18M in Series A Round"
     excerpt: "Fraud prevention platform nSure.ai has raised $18 million in Series A funding, led by MoreTech Ventures with additional investments by"
     publishedDateTime: 2022-03-01T19:25:00Z

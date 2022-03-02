@@ -25,6 +25,12 @@ topics:
   - AI
   - IBM AI
 
+images:
+  - url: "https://www.zdnet.com/a/img/resize/d19ca28ac531ef8f675fd64e4e99a7d409af47f4/2022/02/24/06de4d18-d1b2-4991-852a-4909e53450a9/pasted-image-0-4.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+    width: 1200
+    height: 606
+    isCached: true
+
 related:
   - title: "KServe joins LF AI & Data Foundation as latest incubation project"
     excerpt: "IBM and Bloomberg have announced that KServe is joining the LF AI & Data Foundation as its latest incubator project. KServe provides Kubernetes Custom Service Description for providing machine learning models in the wrong frames and supports a number of IBM products,"
@@ -43,6 +49,6 @@ related:
         height: 577
         isCached: true
 
-secured: "yMGaIJkuQYQtxly1lzcbJOr6hyupTocaqQXSvXENSXR3Qvr2uk9xKfOeMogNMZeQijPComMTSwZrfQOBS821O+k5xbImY8cxc17Wr+hKVBrGaaDsuLJde+m8ZI2IwLf28JOY0MR+aECaJgBr7pK1m6j/M+L7Vd9fVrSz5qTPf75C1e8CI1ksHicTZW9nLc7yWso9hDB89FhQfZJ1xww1mXgLEmsPqcs7eszA+5w9KmAsHWxRZjrAEFIWY4bSBrVerIVkAp2vqdcFlTeEwWDU60AYbDOGJ00Ta6InZYCvIQBVpF0jdnyqMfKPGttXeyH8nMhv/jK/NDb3j9HUKJsjTFQ3EN4Oi3DlMlI3b5hVk9Q=;32pGqeHytH+oOpZ0C2mNlg=="
+secured: "IjGKDS81GXTd11Tnuj9WYo3MVWhfGnV27r+Zh9t7NfZS4y5uFI3Lhrgkg1mRUwZh5xSoVh4m6P3108F1CGf6fW1THEFsB0tuLr9Kgg14SmoBnJih9sqtl+4517NWFmFmYTCfNVkcwB/99hyndnNlSRv1vwR82w/w8tuDfZ27K8JX29164yM8YtsF26FSCQ+PvdJBnUMeu1zAkjPHLPI+Hj6/lpAIRmxIlYvlsPx5FECQ+ptOKreesklo/5huHIdZ4ox9ejg6dnBX0J8zZcOHkf6Fezte1CksFp86qv9iu4J9uw1FIXSPAOlysxpSyI/pXKZv7v+04zkmn0l1jY1qPtv5UwTCyizD9PUi7svIZSI=;zhdYqTl8fDh7CfQqT1O9gQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-wh
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-whats-in-the-offing?amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Nasdaq
@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "C3.ai, Inc. (AI) Flat As Market Gains: What You Should Know"
-    excerpt: "C3.ai, Inc. (AI) closed at $21.61 in the latest trading session, marking no change from the prior day. This change lagged the S&P 500's daily gain of 2.24%. Meanwhile, the Dow gained 2.51%, and the Nasdaq,"
-    publishedDateTime: 2022-02-26T01:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/420748"
+  - title: "C3.ai (AI) Scheduled to Post Quarterly Earnings on Wednesday"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) is scheduled to announce its earnings results after the market closes on Wednesday, March 2nd. Analysts expect the company to announce earnings of ($0.63) per share for the quarter."
+    publishedDateTime: 2022-02-28T07:02:00Z
+    webUrl: "https://www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 57
     images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-420748.jpeg"
-        width: 900
-        height: 601
+      - url: "https://www.marketbeat.com/scripts/EarningsChart.ashx?Prefix=NYSE&Symbol=AI"
+        width: 650
+        height: 325
         isCached: true
 
 secured: "3FZY7PoubxKcH+BmGUpiFN94gYz0EMrvFfFa0rJaH4x8cqmnycA1/G6Mm6xV0B9RaVKxLZvR3gKEHzH40zISQmBtK3Z8hLOs8Ci5CcQa9krA0nstZ2EfmK2rO+rtlJRCvhU1tALdMaz54PJIBjQ8jtxJFh+BgjcUBOdycX0Hqir1VM3It3LsWIeVpoTCEIbnNgU7wmZD8qr6IwW7DWtfd/G9Yl3uIodoyahEa6cYL+9JTLx08OHMbrWpqsJxNhPCCfT/lzlr4WTLK8CRrneD5HK7Ql7McqEImlrg51nZVxVdHX93x+NjpxTm9NNoTG2KEaf3hqyj74OXVMJTq9WJw+13JbeKmdyHN/bNw34Htek=;0dGvw54H5/S64o+KNn02mQ=="
