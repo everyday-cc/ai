@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 type: article
 quality: 56
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -141,6 +141,15 @@ related:
         width: 376
         height: 250
         isCached: true
+  - title: "UAE to attract global talents with AI and coding licence launch"
+    excerpt: "Companies holding the license will be able to work within a stimulating environment at the DIFC Innovation Hub. UAE to attract global talents with AI and coding licence launch. AI, Coding, DIFc, innovation,"
+    publishedDateTime: 2022-03-02T11:19:00Z
+    webUrl: "https://www.itp.net/business/uae-to-attract-global-talents-with-ai-and-coding-licence-launch"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "sslUSv4wAtgE3qSbdsUKOwancezz6pZWjL6GHzF1nF98ZiEy1CUn6/3ZN/keqgRxhH8NtldXSo04VWL24Xw7VgTdBpbbJxRK1bN2+RGPY47tUTM7ayx1yRSbLSbM3nUrMknwM1L2buQZvmvJXM82UU8WcKSNmupI7UtBPNJ4nppPuNYedR+jSQ6GoT52ncvz/pFIHP7KjVNtt4ZCzZP64uwdAWkrV20wN2XlQUNlQZHK4gISbNg/O1CtQloZ4YGNtkEWC/cddTBe0t64zrWHsYMvZLviykRyIfI9WrNuE21npJ2We0x9sFq+iSxWqXO4JxQAqMWE7Ceu/EKwNz65UWfj2czE4uNT+jecbGvlNBI=;tFjHqULCQKqKUhsHzDplEQ=="
 ---

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why New Age investors pursue asset allocation with support of fintech industry"
-    excerpt: "The customer receives fact-based counsel since AI is data- and insight-driven and free of subconscious prejudice. And it is exactly what India's financial services sector requires: transparency and openness. The goal of new and rising fintech businesses is ..."
-    publishedDateTime: 2022-02-26T11:13:00Z
-    webUrl: "https://www.freepressjournal.in/business/why-new-age-investors-pursue-asset-allocation-with-support-of-fintech-industry"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/why-new-age-investors-pursue-asset-allocation-with-support-of-fintech-industry"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/why-new-age-investors-pursue-asset-allocation-with-support-of-fintech-industry"
+  - title: "4 FinTech companies disrupting the UK Payment ecosystem"
+    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services."
+    publishedDateTime: 2022-02-28T13:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-companies-disrupting-the-uk-payment-ecosystem/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 40
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://images.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 674
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/ibs_Spanish-FinTechs-2.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "5YMZg+FeC3y8kqjjcJKxn27YE+TQbSjLGmM4lnlFiNApgMLIUc8zdUwXx9l/3xHzqC+q5AV8mRLVDz4gOayAFuYx/tL0unegB04ZTx5tkDj5sT6Tc6SK5t5wjUn9IPODjrnhoxW8BAhbdKaar9ocrAv12CZ+Fb11qif4xK5+G19M49YJEooQWMXxoHhNo4wfNbbJ28Hal0LjwIuGXUjrGZrn7mWQwJryjQmZDzfEEIufgJXMABG7tuj19w+3tBf+q1sR4FliZNc2af7x23L8IB4KXMpVjL/c1DHpB/BnD0teigTNzNLcIUDJtMeBsapcNj7xQbvStng91rjlYYtV1BzSRa039fcAPs8QMV82ZuE=;9BdVtIw//4/JJZCMhOXC6g=="

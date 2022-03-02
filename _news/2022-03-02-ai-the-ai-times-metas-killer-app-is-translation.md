@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-02T10:30:00Z
 originalUrl: "https://betakit.com/ai-the-ai-times-metas-killer-app-is-translation/"
 webUrl: "https://betakit.com/ai-the-ai-times-metas-killer-app-is-translation/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.betakit.com/wp-content/uploads/2021/12/art-science_feature.jpg"

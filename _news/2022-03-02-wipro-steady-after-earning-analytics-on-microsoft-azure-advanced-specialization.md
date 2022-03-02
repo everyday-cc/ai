@@ -57,6 +57,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "KX Insights to power Microsoft Azure customers with real-time analytics"
+    excerpt: "FD Technologies has announced a strategic partnership with Microsoft, to expand the reach of KX Insights to Azure customers"
+    publishedDateTime: 2022-03-02T12:24:00Z
+    webUrl: "https://www.information-age.com/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics-123498878/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/03/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics.jpeg.optimal.jpeg"
+        width: 1080
+        height: 486
+        isCached: true
 
 secured: "NBNzAuNTbzNcGmhibLwcmMDnXaDZdvXzo8qd6+rC+jky85Ea7WhoKplZ6dllVHAut7WyD1/dvfnx+qz2rQSycxJbDpQviefJN60tOsJKk8zcCoozvUfZlP+72+39yaIkc9Cwlqb7ntSccL4hcNx1w6pjnpH4IjjOJvm4w9+nEQI6T3uoQKKll9EV2N+4FLdT8rJkm0pDT8f8uh3jYLtD/kuPLokSd5DMfCYGUZ0zC3gNGlX6eKmDIRlWzxbuCcDhjH+VMlIm0G5KClRnIvJa1uoMYTbwdp95zejHALZ7g6KUZWHrrEVfJQhQbUr05BzKZYjFV/CHkuvHA2nsfYUjMVFrsgbcXJCfR9/+c2JUxvY=;gM4s5IZ3DuXyTtnaa065bw=="
 ---

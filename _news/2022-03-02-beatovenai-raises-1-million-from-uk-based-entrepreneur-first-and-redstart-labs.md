@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/421165"
 webUrl: "https://www.entrepreneur.com/article/421165"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/03/Funding-2.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fraud Prevention Startup nSure.ai Raises $18 Million"
+    excerpt: "Fraud prevention startup nSure.ai has closed an $18 million Series A funding round that brings the total investment in the company to $25.4 million. The funding round was led by MoreTech Ventures and received participation from previous investors DisruptiveAI,"
+    publishedDateTime: 2022-03-02T12:03:00Z
+    webUrl: "https://www.securityweek.com/fraud-prevention-startup-nsureai-raises-18-million"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 39
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Fraud Prevention Startup nSure.ai Raises $18M in Series A Round"
     excerpt: "Fraud prevention platform nSure.ai has raised $18 million in Series A funding, led by MoreTech Ventures with additional investments by"
@@ -87,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "ojE23tGoyM2FUN26n0Xx3wXUeQ9yx5CT1ePXILcpejXEGU8qatOHfULSptyOi5SNdxI9gnozkwWC+kBUYr+OgLSXjF2oXH6cVDFm3BBiTRegWyRAgmwHASDIlTN97lFplc38VsR9qWjI9JeXlHmkkTntIIqu8IewD7wdA4m54vVX2XRC1G3I1EAZp685kPaNlwuULG2LbZAeeVt4JnpM2f0h/bqNTXSvQoBEb/ZH4Bp58OIhs7hGRx5aKWnYwizTTSYyCrY8zI8lR0DnM+i8wVqyaHSd5PI73Ji2UYVGFhoQBjzWnKYFVGBikS3nuPEHMFd6qGIMsUsrvkaTAj7dYW4eAuZdxtebTtTKWuFNcNk=;cbDuVvMIqVue12QiOwkpEg=="
+secured: "hWNP32Scacqtyhvhx6yiy+mviHZFmMLBWbBne4o/kVNVz8SrtsYv5rUjuYJgVgyigf42iqitxb9HCnLUGr5OrY98jXBWTTYqSvfXKUa/5gtFgwGJ1uBCEmpch9wf6zk6RbtMC640QJcBFvt1kUIbqBX0f5+dHt3PKRbV7u3m1Tfgza4w8S423J3d+4g4WIz42wzcdCEggjALg2/2IBopwQBe8fnRq2GcNQlKRUo16D8iXNV8HzR/nDE8osood5qn2sadfKxj8aWZacPZ+FRmxxX/IHCtdNOKeqJbKMLKt1m/auxFdGbwbXYhHg6mT3t5/1Wo33D3zGejiVh76RAfdwbnVgi6/1GRE56I97AURr8M/Ejn5Pz2SMtPgHmyzJ2WUPAf6F92UoxFMQDkWWPmNWxoUiqdCz0o+i9q9fbA3j05QfL2jgLx/xzXPsa0g+tgbdphaEa8bkesAuvxbTEoCkjKJWs+8krmjr0GHF8Nl03w6O3s8qA5tgcy4mMTSldxcRExmVWyDuxZeHGKf5IAuQ==;Ttxm8tgU93M8uvDaLBFA9Q=="
 ---
 

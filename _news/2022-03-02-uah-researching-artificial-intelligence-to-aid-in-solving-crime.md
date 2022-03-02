@@ -9,7 +9,7 @@ ampWebUrl: "https://whnt.com/news/stem/uah-researching-artificial-intelligence-t
 cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:

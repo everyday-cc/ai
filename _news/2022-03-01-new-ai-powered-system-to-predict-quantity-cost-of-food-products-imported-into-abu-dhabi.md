@@ -25,6 +25,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "AI-powered products touted by CCC, Dents.co"
+    excerpt: "CCC Intelligent Solutions Chairman and CEO Githesh Ramamurthy during the company’s Q4 earnings call on Tuesday touted its new Estimate-STP AI-powered product and wide"
+    publishedDateTime: 2022-03-02T11:15:00Z
+    webUrl: "https://www.repairerdrivennews.com/2022/03/02/ai-powered-products-touted-by-ccc-dents-co/"
+    type: article
+    provider:
+      name: Repairer Driven News
+      domain: repairerdrivennews.com
+    quality: 37
+    images:
+      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2022/03/CCC-Estimate-STP-300x218.jpg"
+        width: 300
+        height: 218
+        isCached: true
+
 secured: "0YP9zS1KEVdfvGYisVsc5VtSsftkls1ZisoSpZSjDN60XqxArPvB4U5Z6my1r79N6g6TMebZ2R5jnipjyWKBR/Zc43cpZaRO2tPQA8ZwNW92Ufn0w918EJRubXkfeXqZWYKeCbtEZnd2btzlTy3pJ6Byp26Fpqc2EjwLlIyUOVlM59bFT6+BKLbvI0GtE0IE8OCLcI+RWFOw/LuYw03wExGL3HdnvU5IAs+l2yKQr4FVd4zccWzd1ZLUESYn4rQPohZOZn9FlHmgkAiiBD1LuGoCM4ukBpycXB8Gahs6AjFrIvhwRGw2MLIyW0/vzJY7DU/n5ohAGrduy+VoCwqDt0Q1/wSbv044X54uDqkTVi8=;rfuhpYpMCaCgY078D1v1/w=="
 ---
 

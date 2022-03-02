@@ -35,7 +35,7 @@ related:
     provider:
       name: BetaKit
       domain: betakit.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.betakit.com/wp-content/uploads/2021/12/art-science_feature.jpg"
         width: 1050

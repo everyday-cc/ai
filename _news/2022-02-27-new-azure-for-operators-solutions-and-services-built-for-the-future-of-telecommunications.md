@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sonata Software Named Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
+    publishedDateTime: 2022-03-02T11:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
+        width: 400
+        height: 279
+        isCached: true
   - title: "Microsoft updates Azure for Operators, adds private 5G"
     excerpt: "Azure Operator Distributed Services designed to let telcos run workloads on a single carrier-grade hybrid platform"
     publishedDateTime: 2022-03-01T09:30:00Z

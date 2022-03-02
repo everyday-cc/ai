@@ -9,7 +9,7 @@ ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw--20220227-w
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw--20220227-w3uc5f4w75h6hexkdi6hure6cy-story.html?outputType=amp"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Takeaways from President Biden's State of the Union speech"
+    excerpt: "Biden sought to rally a divided and weary country behind a revamped domestic agenda and his attempt to isolate and punish Russian President Vladimir Putin."
+    publishedDateTime: 2022-03-02T10:00:00Z
+    webUrl: "https://www.wlwt.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+    ampWebUrl: "https://www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 44
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-state-of-the-union-gettyimages-1238863517.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "On cusp of Biden's State of the Union speech, a state of disunity, funk and peril"
     excerpt: "Biden will step up to the House speaker's rostrum to address a nation in conflict with itself. The country is litigating how to keep kids safe and what to teach them, and suddenly plenty worried about Russian expansionism."
     publishedDateTime: 2022-02-28T21:20:00Z
@@ -42,6 +58,36 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-gettyimages-1373741404.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Lauren Boebert, Marjorie Taylor Greene heckle Biden at State of the Union speech"
+    excerpt: "The two yelled \"build the wall,\" Reuters reported. “Sit down,” shouted a Democratic lawmaker in response, that report stated."
+    publishedDateTime: 2022-03-02T04:36:00Z
+    webUrl: "https://www.al.com/news/2022/03/lauren-boebert-marjorie-taylor-greene-heckle-biden-at-state-of-the-union-speech.html"
+    ampWebUrl: "https://www.al.com/news/2022/03/lauren-boebert-marjorie-taylor-greene-heckle-biden-at-state-of-the-union-speech.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/03/lauren-boebert-marjorie-taylor-greene-heckle-biden-at-state-of-the-union-speech.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7RHC4C3MMRABNIRSATYSGJ5FBU.jpg"
+        width: 2399
+        height: 1607
+        isCached: true
+  - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
+    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
+    publishedDateTime: 2022-03-02T01:40:00Z
+    webUrl: "https://www.mcall.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 26
+    images:
+      - url: "https://www.mcall.com/resizer/E8VWaKLMhWUCgjLCJq9NHNmYf-s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CTBH5USYUAVLP2NMVCKTUEKRZI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."

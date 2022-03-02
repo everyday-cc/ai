@@ -140,6 +140,15 @@ related:
         width: 376
         height: 250
         isCached: true
+  - title: "UAE to attract global talents with AI and coding licence launch"
+    excerpt: "Companies holding the license will be able to work within a stimulating environment at the DIFC Innovation Hub. UAE to attract global talents with AI and coding licence launch. AI, Coding, DIFc, innovation,"
+    publishedDateTime: 2022-03-02T11:19:00Z
+    webUrl: "https://www.itp.net/business/uae-to-attract-global-talents-with-ai-and-coding-licence-launch"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "UrCwsXapSp30KqCVIPoh40tYHhRdo5twwejU2KW57pW7/ARIztf+jQjOzHSSc/d4N0vXN2gPURPY6MbadIx9JI0/SlzoRWCH0IMe536YdC3UW3YT+awuOFvJ8eLaNLohbkV6A3/4IaBgd4DNdZ7SSjz/wwO3zRvNTZjMom2YknyXMItzlIfyTiw6OgMNEbCTGg1REmEK5PTZEPjkQBdtQFdf4NWYt1UBJ5755t1xnwlYS6wlxvNERB9yQrmbnknCDKDSX/A23aqLNuKVRNyudnMSlhyI/ptu6AtR2nFrpyW7Qp4sHuEMowCN//JcoPljD1rJbx8P2n8vDgOSBuZB165sQ61QNl1ZpngeWQyDdMhJmHxQ1sazGOm7Dub4leA7WbK7nNDrj6l25U+dZo5MxxbD/6mAgfgox0FkmXwebeyFvqg2Lrn/83a6px2P4uCiX7djrEtEGqaSUzzylomFw+YUQGx2tsPrT9J4Kq4AwRgd7G/FILecCTPL6exSk4IACcPbXcil4gOEeOz9v/KNGg==;CJSdBTGh5k1JWgZ/1jbjRg=="
 ---

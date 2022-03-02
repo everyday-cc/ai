@@ -42,20 +42,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
-    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
-    publishedDateTime: 2022-03-02T01:40:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 26
-    images:
-      - url: "https://www.mcall.com/resizer/E8VWaKLMhWUCgjLCJq9NHNmYf-s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CTBH5USYUAVLP2NMVCKTUEKRZI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "OZxgluGuKEc7qYVflpQYM0ua/la0A7X2I9L/L+Zmt69mqcWClbA3LStjhaksXQXWPZrLrd+G+ubQQUevhMHuH6h3GGT76+PXSSZ+kaYwGD1Rfm2MDV32ybaoBAIXh+Mbr2X3pBwlut+qFjXypLVyKo4UcsTR7+tC0LBtkeXef6AF+4ZAbRFLMvpx7gQblJOGC7v7m5SNXKDzfQ/u/njGH0ess42BbWsix6ePKcM6N/kH2iNI0gtZUcIr5rGU7ATu36jDsT5uqODvgAwvpnKEu9Ug+0EZ4MShzNS3YvGKAZWNr4iBnn6VSz/Iah87xbLna0X8E7ZqyvBO0oeiecGnoqGbqxj30PXtGLFSB/ykLgg=;0fmwY72bEJDWZCzZ8o4mVg=="
 ---
