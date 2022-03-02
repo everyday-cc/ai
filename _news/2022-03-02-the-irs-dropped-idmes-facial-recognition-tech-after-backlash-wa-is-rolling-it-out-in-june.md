@@ -37,6 +37,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "IRS has dropped ID.me's facial recognition tech after backlash, but Washington state will roll it out in June"
+    excerpt: "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS last month over privacy and equity concerns."
+    publishedDateTime: 2022-03-02T19:50:00Z
+    webUrl: "https://techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+        width: 1920
+        height: 982
+        isCached: true
 
 secured: "cIf+XDYNCmzHma0gUUvKBcbWQvKMB45P1xzuXhsU7GZIbWcbFz7lNAuHfMZJ1QFg0wn5jVHB4Uk3+eHDM+jC3KuBwjXet0eG4A4bnVi7iL/dwieS59fTGxQNxit3w7QeLRHnQHTCwhizk8fHP95EmtVh6a2IXvhTj5QkoFWZuBKTsRhCMTVMiQ8yqdchlThj7PRwtBcPphSUzqiHqi0/Lt2RBZeDXzaKQ4u9vqCUgcik6pbsIqrw4uEq6tiBszQEVIo1NAEDVP3dR4zQtEQpFD4SW+V5yANQkbIFw3oGJwoK3RdBrfYBwbj/NX3suUYLsFjp0VQeN7tYRN0No12u7XcWIRZck5DtOzHihNwwGfIMJFkyOvVm5VGjPdNDXytklVVxg2jVqSLt3lAHKOfVmPjQFMPlge8YLfPQn25usz05HspBV5H7synOZqB9rjyQoziZbqMNlsjZRNZBZ0CF3r7Tkxu6SdDUDG5K4oXVZDxVQEbN8yIDLJXo2q0jPQUk6f9EfJi8IKt20emIxyA0hg==;/U0z0/GcP26ymtFQxCrMzg=="
 ---

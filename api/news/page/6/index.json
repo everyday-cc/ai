@@ -2,6 +2,258 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-24-all-symbols-in-tensorflow-datasets.md",
+      "title": "All symbols in TensorFlow Datasets",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es-419",
+      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es-419",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=es-419",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-two-top-jobs-in-the-booming-ai-industry.md",
+      "title": "Two top jobs in the booming AI industry",
+      "excerpt": "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/",
+      "originalUrl": "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/",
+      "publishedDateTime": "2022-02-23T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-facebook-parent-meta-details-next-gen-ai-investments-in-event.md",
+      "title": "Facebook parent Meta details next-gen AI investments in event",
+      "excerpt": "CEO Mark Zuckerberg used a Wednesday event to detail the company's next focus areas in building out its immersive",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "originalUrl": "https://seekingalpha.com/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350448399/image_1350448399.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
+      "publishedDateTime": "2022-02-23T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-what-to-do-if-a-cop-tries-to-scan-your-face-during-a-traffic-stop.md",
+      "title": "What to Do If a Cop Tries to Scan Your Face During a Traffic Stop",
+      "excerpt": "Law enforcement’s use of facial recognition technology during investigations has blossomed in recent years thanks in no small part to a booming surveillance industry built on the back of an ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
+      "originalUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3c60689fceb2dd3474c8a28d9a9f3217.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
+      "publishedDateTime": "2022-02-23T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live.md",
+      "title": "What consumers think about AI – and the impact on your industry and business (VB Live)",
+      "excerpt": "Join this VB Live event where research, data, and analytics leaders share the current global consumer outlook on AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/",
+      "originalUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-543194887.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/amp/",
+      "publishedDateTime": "2022-02-23T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-righthand-cashes-in-on-the-white-hot-warehouse-robotics-space-with-a-66m-raise.md",
       "title": "RightHand cashes in on the white-hot warehouse robotics space with a $66M raise",
       "excerpt": "COVID, supply chain issues, labor shortages, Amazon. Take your pick. The reasons for getting excited about logistics robotics are numerous and growing. RightHand Robotics had already amassed its share of buzz well before this whole pandemic thing really accelerated things,",
@@ -929,249 +1181,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud.md",
-      "title": "Microsoft Defender now offers protection across Azure, AWS and Google Cloud",
-      "excerpt": "In addition to existing support for AWS and Microsoft Azure, Microsoft Defender for Cloud will now offer ... He's interested in receiving pitches around cybersecurity, data privacy, cloud, AI, blockchain, internet infrastructure, 5G, data storage, business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
-      "originalUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XtJyaRJPmBf4AcHwWnCGZa-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-this-new-dataset-shows-that-ai-still-lacks-commonsense-reasoning.md",
-      "title": "This new dataset shows that AI still lacks commonsense reasoning",
-      "excerpt": "In a new study, researchers attempt to measure the extent to which AI systems can abductively reason like humans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/23/this-new-dataset-shows-that-ai-still-lacks-commonsense-reasoning/",
-      "originalUrl": "https://venturebeat.com/2022/02/23/this-new-dataset-shows-that-ai-still-lacks-commonsense-reasoning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1289682338.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/23/this-new-dataset-shows-that-ai-still-lacks-commonsense-reasoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/this-new-dataset-shows-that-ai-still-lacks-commonsense-reasoning/amp/",
-      "publishedDateTime": "2022-02-23T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology-and-personalized-cancer.md",
-      "title": "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care",
-      "excerpt": "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-syria-supports-russias-recognition-of-breakaway-ukraine-regions.md",
-      "title": "Syria Supports Russia’s Recognition of Breakaway Ukraine Regions",
-      "excerpt": "Syria supports Russia’s recognition of the independence of two breakaway regions ... will help increase this cooperation,” Foreign Minister Fayssal Mikdad said in a speech carried by Syrian state media. Russia is the Syrian regime's most powerful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD",
-      "originalUrl": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-490969/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-aporia-takes-aim-at-ml-observability-responsible-ai-and-more.md",
-      "title": "Aporia takes aim at ML observability, responsible AI and more",
-      "excerpt": "After launching its platform in 2021, and seeing good traction, Aporia today announced a $25 million Series A funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1209661950.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/aporia-takes-aim-at-ml-observability-responsible-ai-and-more/amp/",
-      "publishedDateTime": "2022-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

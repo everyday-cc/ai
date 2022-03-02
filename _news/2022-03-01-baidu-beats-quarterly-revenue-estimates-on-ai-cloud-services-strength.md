@@ -1,28 +1,31 @@
 ---
 category: news
-title: "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength"
-excerpt: "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth."
-publishedDateTime: 2022-03-01T08:54:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp"
+title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
+excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services."
+publishedDateTime: 2022-03-01T07:54:00Z
+originalUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2022-03-01/"
+webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2022-03-01/"
 type: article
-quality: 69
-heat: 139
+quality: 167
+heat: 237
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/b5ky09qDpXo-154NBC2uMt2xODA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5CCSMV27FJZZG4ZP7ZY57QJIM.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Baidu beats quarterly revenue estimates"
@@ -123,6 +126,6 @@ related:
         height: 480
         isCached: true
 
-secured: "/6LBgo/pmncQzYb6IzXX47N3gkDRRIretfG4AiVw2T1Z4eoHXhHHyOksvn3yw7W6E8ky9h+Xor8QMokGoaatP8O+SRuO8HNat7UrPy0bVyPI0WYsQ/iLcPSuUX0zGvYf5enfS7p5vbes0hN4sC7Z3cn6w3creq2htAB6GljJ9EkYH1QCpUNJcfJuMGrw76wblUYWRe0N8AMWhHBXVUxllVzqo5EW46O/90EtqOBsY5s1o7M630ihVKN5Q1Q2lfUy6h++8wKIKkpmqrnSU/75bOr/CtFWq1Fw/YdcwFDdDjbF5rni41XowJHHdjkCa2CX5CF2nV6hhQimmzJrhHPGXubTlvKZ8qCgBpRoZyIuUPLLAunqdEKmsSNwLIixtxCE/1VIqeU0/q9AIJgrIS7Bvh+cRGSQe8JbN6gRdQF/+4/gJKpbntimjwHTSfI7Cx2zvmHojLpIzyXTqMOw1psMeH/i7mHXzg2d1J738r3lbN9wMCE9H+cxPoBbKvQ9Fv87nzWIwzY+UyzyRFFUtw+tPQ==;BGKkPsZNjbNakiNKpEWP4g=="
+secured: "KqTayZTTKcfUoIrrjFOM+zDSfR1BhCXcQ9R1DtphTeBzjn9P1DtMn6s5+RylXKwSTIDoUvhyEjtyUMNXcSA6ePabsCKHgMvG5P61SJV+F9Q25Spq0fEGs/XVEgZJH6kL3dZgXfC5rvHLMbAAUua88WWomhwKWmXuzr8cP/imwwrBLNy0oKGaLQPaZTI6jb7+GEpS6vtLqHxDIDiawVUJnT1rWT5YLWfGJsmBxn3NBJP9YDLGHyxttFPDQod7QK6UcfUz2ytm11DAhB9cZ2JHPUUukbI7u8PrdaR70Fw8zyBbyEr0vfNDJEYggd++7bhvfKd0rEI0fBVfuiGWT36KrcY3YXRoJ/nKCUV7TbRhjnM=;6oYxMiqM1xQRfBH5RXDLGA=="
 ---
 

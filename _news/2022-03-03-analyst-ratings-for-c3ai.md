@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-02T18:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762"
 webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg"
@@ -38,6 +39,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "Ly2lbYgDjEXF3fmD9LsxMcqBLJCD+A9wHTnKYCIfcavOlG7/UG+gYekXE9NXSVaSb6pCZDlskrpORaA6qGN/gXKmDOVq55Y4ZiRm7lCj92zj84xTQ8LTvSaV6y/PDEr7rW6YolRm+QPLFBqViU8MGkImittuNfDO2IdNCkJU9PUV5C8/2dBPcHHrJh+NUYMZfKWCyQ0WjAh2OUow/NjYaFr14Oe5BuH4HXI1GRqoEHXyYnSYiqmyjtMhkslQ73lKaBiDbjN2cxMdCKC+lIygu3b4rQ3UpxAMyxkXpAOBavAsEbbm0U9wK0vten60pkAmd2kEMpJo8a/QZHRuyeqA28lP1q/aRoSXwU9jacpw8as=;HWgCVxyGEWWLRF1q6yHm9Q=="
+secured: "SPPEsXAvyr0jf7W8gt1/gJjnz7CGIzYXDfItrlET56UbbiJcFM1AEb8k1dvpJ/dgnAdfNA3jy4cy1m7avvfXFmdoY/tJZXxwNNPdP8aijUxRSgeRp2zTfzXJKf5R1otRGNAubtKqxr6c1u0mQEJ/NRXc5AN5OwECqDwOuvs98A2lgnCAeimwA4c148rz10FI17eR8kfr+5ekzpGqQ4ezP0B5NEq2pGwgFqwaCLbTVaqJkpD6cVlTuEWoj+8nJK6tB49PBU8ApxHoZpkB/LHeer4mIUCVGimml/REn5zQm9XQzLOKt3j+yh19pDOMDEBc26nnfyG/KgrTQiHxjYbZdxL8v2iyt5K5a+0PoZx8r6tVMID6aruJYw3v6i52HcLZZIKgvlkAYhlxH2ac3rboaMNB9o3BOkcVoRI2dL6u/PIJGy7zRV9ESZXbs9Mzn8/NntyK5ruO3wc8XFCy40BglstvobGL4bE3IQflcW7w9WvAnSOSddlKv6oCZT+bhhhktGqC+XFjFOP9mvZ29XMI9g==;TiJAsR4kPzIEvmmQd4l0hQ=="
 ---
 

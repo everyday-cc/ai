@@ -43,7 +43,21 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "GSA administrator reaffirms decision to stay away from facial recognition, at least for now"
+    excerpt: "The head of the General Services Administration re-affirmed Tuesday the stance of senior tech leaders at her agency who said they aren’t yet ready to introduce facial recognition as a method for identity verification for federal services — but they may be one day."
+    publishedDateTime: 2022-03-02T19:39:00Z
+    webUrl: "https://www.fedscoop.com/carnahan-reaffirms-gsa-decision-to-stay-away-from-facial-recognition-at-least-for-now/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 29
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/03/GettyImages-72326316.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
-secured: "hlRkvqfXBsNpZFdrWPrBRMIL1VYCyfg/7LKHZAj2jYZH3ydBLsa8n9pc4vDcKl4gmvnLKE/h4fEOYgV8OuqOXjWSwWlGE7xRL2lPuDqDv39rGwNRQB1bxlZrQ8rgoYf1Lz/jvDBlJUE5OTuPViJcjMDEn4LXVAe9f63D4YO+ai0DnkzKH/wTJQdhQIzr72DgopYXtdU83fDMyBnVTS3Nxk+MFuEVOBgdE1FZ4qxRow+sO7tVKzCCtdpOYDaKkW2W/bAyVCjgbbzYB3vIF0Mg77jMWH9nYAxWKqqVM4zoTvZ9/icBIn9l4I2RiYFWzlGt8I0pkdz8k9QxEcOfJL3otnh9DVLYL+96/RN5is9y7hg=;LFHF9uVhzKtuKfbsqDFvpg=="
+secured: "R3SU/wmhk82DTcmGiOkeXhh0VEUtLyVawpoYDCetTsO4mVgdKjE7hIn2r3CLZYtmxhi924Umwr08t4M+g8OfcPKihhYVxEX/5RDGt9OJiEtSJrfoQ75li4W9VqJpCqpRB8LYVtCIx3C6ri+8x9BvZWG/CD8f5GLlfzCrAS8XPzkf9hIAEss5A3etJYMCzx6VjpcxmNu4bru3IlBzkd7EihGi+g4VRJkB9ZHADAoNOfFM7PFgfj6bEscdEZM/J8/yhJten4l4ffRX4F+J66QIxCED4SioZiJKweGG97Xt2VjN0VP/b1otKYJcOElPG3kLyAiBejdihvAqm+0T+dBvxi2Tzigbwedn/GWgPwdUaH6s8+4jz5gmwDCGFodUiVtkfMTUcpUXm6V/dNoaQN6XjQAfYkhmDVQLjAdd0UJdSDPD7tKjsmyR9EzcjhrA/ttmroORsfZkIM8bNXf10lyYsp1Jagmqco04pAroxARPXjFgRnnk7XXN67rudOwsLqRsfxxbu++GlBpbboQvxL9x8w==;cA/kSlJRaBPWGZp3794Hyw=="
 ---
 

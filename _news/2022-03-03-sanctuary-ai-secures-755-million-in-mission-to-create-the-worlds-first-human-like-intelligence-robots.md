@@ -55,7 +55,21 @@ related:
         width: 1782
         height: 1049
         isCached: true
+  - title: "Vancouver-based Sanctuary Cognitive Systems Closes $75M Series-A Funding to Create Human-Like Intelligence in General-Purpose Robots"
+    excerpt: "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, announced the successful closing of an oversubscribed C$75.5 million (US$58."
+    publishedDateTime: 2022-03-02T19:58:00Z
+    webUrl: "https://www.bctechnology.com/news/2022/3/2/Vancouver-based-Sanctuary-Cognitive-Systems-Closes-75M-Series-A-Funding-to-Create-Human-Like-Intelligence-in-General-Purpose-Robots.cfm"
+    type: article
+    provider:
+      name: T-Net
+      domain: bctechnology.com
+    quality: 8
+    images:
+      - url: "https://www.bctechnology.com/tmp/social/news/tw/C92C413CEAD7D8B67A89850BA352E1D1D6F0794044CBBD448067CA4DCFF5C610.png?1646226115"
+        width: 600
+        height: 335
+        isCached: true
 
-secured: "lPT3Z0iqQJFKFDgKXfCaRUYzG3E8vfZscuKDglbd5gKIBoYxbjkCP1tI/mWgOxlctBGHXNKnqc0skeSgQz8Eekx+zh0oJhZLqOE8bAz2t7kPVWGnCQtyJR+Eq5n6tIDu7hN6WjRV/itrjwk5hymepe0E6odf2M+MW5iuNu0csJxihp6Vv10q7/C8FtJZDkbQDVSWD2uAdV/3c5sdbYSLtV17ItD0MFIsq55G/Tf17ctnMLyAfX1IEKEqK95CyHO94Tj4rbIyRbsUt2vxg8cHhuWPGpIWgjyYBAsOWjCLSzkmYnzAzCk32EP+FK6YDoJiyeJvZcI23ERXU7IgL86IyJxgaSnJ681ihdDjkU4uDfE=;XTgaojgNyifCUa/K+b9enA=="
+secured: "JgytpzXn4Qmo4/wMqTzJvhMxssJlmoc03yn5DL0GjhJuudqGA5gNsbRn+c+7tz8KGRYSqkF28VTLpoik1X5243DR/S7qf4S67dHZHdrXadYcQ88ERjcpSYvW2+iOLFj/rrjVotIZ0OgZyGPUZUGzRlLuIN/Om0uVyfeDzV9XXoKHkY1n7YcXALgoDnDqRcEDSRjrhMuj1X8j4HbessRxh7c0dDRfQ5qIuLgCg/aPv4EjZomzZ3IYt1PsrkMIURPGSsVa7aaks2B78G+mlb1pVlGIbjC8ZJESlbMWB7Jqc/sYFLoC6sltVidCtlarw2XptLF40YLWjkeZO3RHEKrgW8iWQSWiwQ0I4X9xbAQy+D5eMp+cXHtOCAld7CtDcADMvjw512akYvhvvIbi2MLSco0P4fvNU4rdvbl19umMi6TBVH/JIm0srQbb11QGcHW+drEVUX8tbcks9rAIjcTdxhgy6PC8o+15kIp/Oq8CDItXFTSo8AeLI0+fisiv2mbYZICHLgAxUUjoN20cPMFMNw==;kCmTucdlhVAbTiUONa1OJg=="
 ---
 

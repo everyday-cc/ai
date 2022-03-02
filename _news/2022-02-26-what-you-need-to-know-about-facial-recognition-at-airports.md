@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airport
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "GSA administrator reaffirms decision to stay away from facial recognition, at least for now"
+    excerpt: "The head of the General Services Administration re-affirmed Tuesday the stance of senior tech leaders at her agency who said they aren’t yet ready to introduce facial recognition as a method for identity verification for federal services — but they may be one day."
+    publishedDateTime: 2022-03-02T19:39:00Z
+    webUrl: "https://www.fedscoop.com/carnahan-reaffirms-gsa-decision-to-stay-away-from-facial-recognition-at-least-for-now/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 29
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/03/GettyImages-72326316.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
         isCached: true
 
 secured: "YryxjoSx+v9DX+of422i3ZbY8F+xCmbam04EcXHjaycGf0wzCl2/hFTHh57R1KnLnbG4NO5lfc3N+gr3HdkJo6w8SYWhM8kBKSKaUCU2AA84sB0GDvtBm8EtksKjMmqGbXA7g5hPhCNhjREePFJRtMzG9T35PYr4IJzAOAcoxfrifIZq2EdXkMRL0mMft0Y3ojwBIORwiuyBojw0t7sJi+sYeUpUvWGDEmn4OsFO/UdVgCJxeXfzDBNjSTqtGxGJjWHnSuq7zYK7kriXZnDR1F8loLBMhpbQ3AFyq12w7JEqAZm3KDkLA87RCiucr6RTQ+4HyFWPjKDmfb5u9e3dRlYXkmySboqKIHoG3BpIY7zRJhXlHZgH36CjK8PBX6At9nfazObf+kS0XE3GiTh4NKeBzYBAI/cfzd0p/sgjoTL2pIDoYXxDrwvQA2Uum57B4Z8B4kqj5V6jFV9Rs7ZP94RDbqxHNu1Dsind7h08sQX0uFW0I8rw4UcMMz93j4qsRDH2h/NxwY2EGnYGVhdUmw==;yRVqRUYWJ7+8RR86f7PSmQ=="

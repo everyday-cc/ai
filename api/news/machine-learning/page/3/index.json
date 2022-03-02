@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-08-data-integration-remains-essential-for-ai-and-machine-learning.md",
+      "title": "Data integration remains essential for AI and machine learning",
+      "excerpt": "The nature of human consciousness has so far evaded all, from philosophers to neuroscientists. It should therefore be of no surprise that the artificial intelligence (AI) that we can currently build is limited to more basic pattern recognition within sets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
+      "originalUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a279596285.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
+      "publishedDateTime": "2022-02-08T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa.md",
       "title": "The Great Resignation gives birth to digital employees powered by AI, ML, and RPA",
       "excerpt": "Companies across numerous industries are increasingly relying on digital workers to automate and streamline various tasks — and, in turn, these virtual employees powered by AI, machine learning ...",
@@ -1342,50 +1385,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-machine-learning-the-hard-way-ibm-watsons-fatal-misdiagnosis.md",
-      "title": "Machine learning the hard way: IBM Watson's fatal misdiagnosis",
-      "excerpt": "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
-      "originalUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg",
-          "width": 648,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
-      "publishedDateTime": "2022-01-31T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

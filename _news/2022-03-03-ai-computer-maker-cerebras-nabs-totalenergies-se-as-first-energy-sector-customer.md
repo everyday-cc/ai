@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalener
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/eff230571995ff8fc499d826aec6b544704283b7/2022/03/02/951afdba-2f83-4334-8772-7929bcd223fa/cerebras-totalenergies-cs-2-pic-2022.jpg?width=1200&fit=bounds&auto=webp"

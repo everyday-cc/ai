@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-02-machine-learning-can-help-read-the-language-of-life.md",
+      "title": "Machine learning can help read the language of life",
+      "excerpt": "DNA is the language of life: our DNA forms a living record of things that went well for our ancestors, and things that didn’t. DNA tells our body (and every other organism) which proteins to produce; these proteins are tiny machines that carry out enormous tasks, from fighting off infection to helping",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/",
+      "originalUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/machine-learning-can-help-read-language-life/amp/",
+      "publishedDateTime": "2022-03-02T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-analyst-ratings-for-c3ai.md",
       "title": "Analyst Ratings For C3.ai",
       "excerpt": "In the last 3 months, 4 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $33.5 with a high of $40.00 and a low of $27.00. Below is a summary of how these 4 analysts rated C3.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -49,7 +102,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -61,7 +115,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -100,7 +154,103 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-truecircle-scoops-55m-to-use-ai-to-drive-recycling-efficiency.md",
+      "title": "TrueCircle scoops $5.5M to use AI to drive recycling efficiency",
+      "excerpt": "UK-based TrueCircle, a computer vision startup founded just last year, has nabbed $5.5 million in pre-seed funding in a bid to bring data-driven AI to the recycling industry to improve recovery rates and quality — with the overarching goal of transforming the economics of waste reuse to",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
+      "originalUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/TrueCircle-Fundraise-Feb-2022.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
+      "publishedDateTime": "2022-03-02T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-the-ethics-of-computational-language-processing.md",
+      "title": "The ethics of computational language processing",
+      "excerpt": "Ethical considerations in language processing—and in machine learning—are becoming more important, as technology increases in scope and skill.    The Association of Computational Linguistics (ACL) is an organization which",
+      "sourceUrl": null,
+      "webUrl": "https://psuvanguard.com/the-ethics-of-computational-language-processing/",
+      "originalUrl": "https://psuvanguard.com/the-ethics-of-computational-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://psuvanguard.com/wp-content/uploads/2022/03/Ameeta.png",
+          "width": 270,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://psuvanguard.com/the-ethics-of-computational-language-processing/amp/",
+      "cdnAmpWebUrl": "https://psuvanguard-com.cdn.ampproject.org/c/s/psuvanguard.com/the-ethics-of-computational-language-processing/amp/",
+      "publishedDateTime": "2022-03-02T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PSU Vanguard",
+        "domain": "psuvanguard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -319,7 +469,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -495,7 +645,16 @@
       "provider": {
         "name": "Al Jazeera English",
         "domain": "aljazeera.com",
-        "images": null,
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -841,7 +1000,7 @@
       "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1072,164 +1231,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
-      "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
-      "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg",
-          "width": 2304,
-          "height": 1056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T10:11:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
-      "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
-      "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7753-image001.png",
-          "width": 1232,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T09:34:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage.md",
-      "title": "Could AI-Powered Silicon Remastering Be A Solution To The Chip Shortage?",
-      "excerpt": "There’s an excellent opportunity for a solution to at least some of our current chip shortage issues. And it may lie in the idea of making something old new again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62196bf880c2270620b884a3/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
-      "publishedDateTime": "2022-03-01T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

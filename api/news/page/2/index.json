@@ -2,6 +2,164 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
+      "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
+      "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg",
+          "width": 2304,
+          "height": 1056,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T10:11:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
+      "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
+      "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7753-image001.png",
+          "width": 1232,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T09:34:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage.md",
+      "title": "Could AI-Powered Silicon Remastering Be A Solution To The Chip Shortage?",
+      "excerpt": "There’s an excellent opportunity for a solution to at least some of our current chip shortage issues. And it may lie in the idea of making something old new again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62196bf880c2270620b884a3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
+      "publishedDateTime": "2022-03-01T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-injecting-fairness-into-machine-learning-models.md",
       "title": "Injecting fairness into machine-learning models",
       "excerpt": "If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin, there is serious risk the model's predictions will be unfair when it is deployed in the real world.",
@@ -600,49 +758,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
-      "title": "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength",
-      "excerpt": "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering pace of growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
-      "publishedDateTime": "2022-03-01T00:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-01-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
       "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
       "excerpt": "AM 'A new market research report by Future Market Insights on cyber security in robotics market includes industry analysis 201",
@@ -790,6 +905,57 @@
       ]
     },
     {
+      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
+      "title": "Baidu beats quarterly revenue estimates on AI, cloud services strength",
+      "excerpt": "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2022-03-01/",
+      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2022-03-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/b5ky09qDpXo-154NBC2uMt2xODA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5CCSMV27FJZZG4ZP7ZY57QJIM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-28T23:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
       "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
       "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
@@ -881,6 +1047,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding.md",
+      "title": "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding",
+      "excerpt": "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "originalUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "publishedDateTime": "2022-02-28T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1021,203 +1230,6 @@
         "AI in Autos",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation.md",
-      "title": "How Levi’s uses AI to accelerate its design process and digital transformation",
-      "excerpt": "AI can unlock so much insight in so many different areas, like sustainability. If we know our fabrics really well, and we know what happens when we wash them, we can start thinking about how we ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/",
-      "originalUrl": "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1237502405.jpg?fit=800%2C537&strip=all",
-          "width": 800,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/amp/",
-      "publishedDateTime": "2022-02-28T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-snapdragon-x70-5g-modem-packs-an-ai-processor-to-improve-signal-strength-and-power-efficiency.md",
-      "title": "Snapdragon X70 5G modem packs an AI processor to improve signal strength and power efficiency",
-      "excerpt": "The AI suite in the new Snapdragon X70 5G modem-RF system will assist ... It’s no slouch in the speed department, either, as the chip is capable of theoretical download speeds of up to 10 Gbps to offer “fiber-like browsing speeds and latency.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "originalUrl": "https://www.techspot.com/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-28-image-19.jpg",
-          "width": 2434,
-          "height": 1447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "publishedDateTime": "2022-02-28T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations.md",
-      "title": "Responsible Artificial Intelligence Is Still Out Of Reach For Many Organizations",
-      "excerpt": "Analytics and AI proponents feel resistance from business executives in getting fully on board with data-driven practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621d02aef81f25094c7ba004/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/02/28/responsible-artificial-intelligence-is-still-out-of-reach-for-many-organizations/amp/",
-      "publishedDateTime": "2022-02-28T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-artificial-intelligence-used-to-detect-anomalies-in-power-grid-failures.md",
-      "title": "Artificial Intelligence Used to Detect Anomalies in Power Grid Failures",
-      "excerpt": "Finding a fault in the power grid of a country can be like attempting to locate a needle in a huge haystack. Hundreds of thousands of interconnected sensors spread throughout the United States capture data on electric current,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12780_16460639924659087.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12780",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780",
-      "publishedDateTime": "2022-02-28T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

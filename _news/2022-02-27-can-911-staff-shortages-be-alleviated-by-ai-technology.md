@@ -9,7 +9,7 @@ ampWebUrl: "https://www.governing.com/work/can-911-staff-shortages-be-alleviated
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 840
     height: 438
     isCached: true
+
+related:
+  - title: "AI Interviewing Technologies: Concerns of Ethics, Accessibility, and Usability"
+    excerpt: "AI and Video Interviewing. Throughout my job search over the past few months as I wrap up my Master’s program, I have come across a new phenomenon within the interviewing proces"
+    publishedDateTime: 2022-03-02T20:34:00Z
+    webUrl: "https://uxpamagazine.org/ai-interviewing-technologies-concerns-of-ethics-accessibility-and-usability/"
+    type: article
+    provider:
+      name: uxpamagazine.org
+      domain: uxpamagazine.org
+    quality: 50
+    images:
+      - url: "https://uxpamagazine.org/wp-content/uploads/sites/8/2022/03/kayden1.png"
+        width: 415
+        height: 339
+        isCached: true
 
 secured: "5s/LgjzwCuTQYaCBin7SIN0zUgsRTEchlyIGc0MmsWLl0V6Rfl8owKPISnednFlv44jNaxNbSBDOLVwWyKK+zhcuikM6I2yPGfoHrMJ2CLhM3Rv76a2auswFRS6G7xIwJw6Pd3p/yByT3+hEI0wapM4dk9LUg6oReKlvyUX8w+LV7VitxUkH286/HDn0sG+ZOsRnCLqwRtF1iVDxoOVWOm/z1H8zmgjgGlLBO8nsPBz2f8EOxykQFKXsh5s1cSkTtckHarjsOOIYot85P/20CPwpakhCYF4PLMU/Qps47BCn4VmjMe5ZniyXJ1dShQlTfGn7qoXRamoIoPGS6HP4S0aCv+Qfy1LA60ykv+nfeQ04iXayzPZ/u398z4gazh4Poapzxh72GZZHmVBYRXKQcr9sKOehrzhmB0Cg9BsdlLfesqLhysIdl1pynwuQ53g2/4sTZBq2r0xr5K+US6fpTLyMUM1Adn0nU+qWveieaGwW5n4HdEOf41BryompBKh7VvAF58UURNoCEzNXMmSByw==;pD1OjMoTGXjvj2k53SRrQw=="
 ---

@@ -15,6 +15,10 @@ published: true
 provider:
   name: Al Jazeera English
   domain: aljazeera.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -43,6 +47,6 @@ related:
         height: 619
         isCached: true
 
-secured: "p7lC+0O6z4aKEMEKVH5eAcbk7FoPIIuYYgzyEiEC1zFrSquLXSaO82pG/UW+msyDEZPasofdNQC94G2BU6eC+BHeFmvamJY9/zH3CtsihGJ8s7EbviyBVlNRi5rLAlToQFBAQRutP5RQT1o8cdYCxJGyY1u2sclMrVnxtIex3J4gxqDuzSe0tyIlNZRY37MUZHWlamBcevMjJYzHtsUq+cw8ym1/j2oDYIQDftJUqRZKZBtDS777Ti9+c8O1QgAcnBaaHMcr31dn1YAaThe5oFG+DPOswL4tyStQaZCVAYCCXYgDxA3y/IlDGOpUUCoQDXlmHyE2BF5B3aLhFuhYTLAeGAERX03VMyFhCWZag4A=;7zKh6HYGd9ifCWLfir2ZyA=="
+secured: "jjCS4hXbQmjrN9XkiJ3YBO8nfv0utukpU1k3nvx5s63LdIf8SEPYkYB9AmmG5AHl0hc43/qQb2tdAQ1GepNvjxYKDv7jyia9Vdrat3gskdFv9TQpvuyag5vU+ZIznJhLSSrWfYanv6INSoRjS/dhyhHkDujwYqAS5wUHLpXV52ECaEArIKoEf+l2iia0igeaPNqkFl10IN8v+tcBubrvSfrQRKu23B6qA8eJHecEt5JKmb6GrkSydTip6RZqU2vawwy9dhSvuOCNQC5694UhhGeKWZhS3HOe49HQPb2QFkiOAMWHilZUrFboDHKun+beO9QyslHsPOqdOSpjlIMlPqf03Vr9yrb6298K0bK00v0DlUqW1OR/Pfepm3bMDWLSYZ1iWhYWNQ0M7vHXVjiLOHg4yj4Y9b1hGr/3CvJFp3QkpVXhKwoTQW70JjXFlqhydHcfb6ncdSWorCrYBNAVUH5mMVBuLbfGHj3306NKaZpH4FwvhiJZCb6pSamtvAMrWi46GSAe5WzqKclqv3ivKE3eofF6heQmnMN3GJenQ4k=;wOStlKWJdChdgMoEpVNv3w=="
 ---
 

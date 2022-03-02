@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-16-aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge.md",
+      "title": "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge",
+      "excerpt": "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/c0/9c084c6d-15a0-5ffc-aaf7-7555392729f0/620ce7e092764.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
+      "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
+      "excerpt": "A combination of GDDR6-AiM with CPU or GPU instead of a typical DRAM makes ... It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg",
+          "width": 400,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-breaking-ai-stock-news-gbt-otcpk-gtch-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of-integrated-circuit-layout.md",
       "title": "Breaking AI Stock News: GBT (OTCPK: $GTCH) Seeks to Develop an AI Empowered Technology for Automatic Compaction of Integrated Circuit Layout Data IPs",
       "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is developing an AI empowered technology for automatic compaction of integrated circuit (IC) layout blocks. As modern ICs are ever growing in complexity and size there is a high demand for design automation to reduce silicon area and increase its yield.",
@@ -1275,103 +1370,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix.md",
-      "title": "GPU Database Market to See Huge Growth by 2026 | Blazingdb, Heterodb, Fuzzy Logix",
-      "excerpt": "The Latest research study released by HTF MI “GPU Database Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
-      "originalUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/679798b7b60852d77d12fd2313bd60373088e7da-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027.md",
-      "title": "Artificial Intelligence (AI) Robots Market Key Players, Industry Outlook, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2027",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2022 (Heraldkeepers) -- Artificial Intelligence in Robots Market size is expected to reach US$ 30.44 Bn. by 2026, at a CAGR of 31.78% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

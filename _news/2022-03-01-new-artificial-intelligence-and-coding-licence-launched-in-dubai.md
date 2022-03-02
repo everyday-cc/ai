@@ -56,6 +56,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "New artificial intelligence and coding licence in Dubai"
+    excerpt: "In collaboration with the UAE Artificial Intelligence Office, the Dubai International Financial Centre (DIFC) has launched an artificial intelligence (AI) and coding licence. The licence ..."
+    publishedDateTime: 2022-03-01T09:02:00Z
+    webUrl: "https://gulfbusiness.com/new-artificial-intelligence-and-coding-licence-in-dubai/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 52
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Dubai economic zone launches artificial intelligence ‘license’"
     excerpt: "The Emirates is seeking to become a regional leader in artificial intelligence, and wants to attract more technology startups."
     publishedDateTime: 2022-03-02T05:28:00Z

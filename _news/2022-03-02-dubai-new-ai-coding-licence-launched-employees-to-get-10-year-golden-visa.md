@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 type: article
 quality: 56
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://imagevars.gulfnews.com/2019/07/29/DIFC_16c3e88e2ef_medium.jpg"
         width: 540
         height: 405
+        isCached: true
+  - title: "New artificial intelligence and coding licence in Dubai"
+    excerpt: "In collaboration with the UAE Artificial Intelligence Office, the Dubai International Financial Centre (DIFC) has launched an artificial intelligence (AI) and coding licence. The licence ..."
+    publishedDateTime: 2022-03-01T09:02:00Z
+    webUrl: "https://gulfbusiness.com/new-artificial-intelligence-and-coding-licence-in-dubai/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 52
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "New artificial intelligence and coding licence launched in Dubai"
     excerpt: "The licence offered by Dubai International Financial Centre can also serve as a gateway to obtaining UAE Golden Visas."

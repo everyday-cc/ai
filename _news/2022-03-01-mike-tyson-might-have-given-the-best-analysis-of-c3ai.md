@@ -30,7 +30,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg"
         width: 1024

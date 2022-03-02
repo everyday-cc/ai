@@ -2,6 +2,185 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-25-following-backlash-irs-allows-skipping-facial-recognition.md",
+      "title": "Following Backlash, IRS Allows Skipping Facial Recognition",
+      "excerpt": "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition",
+      "originalUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/65ed04f/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F99%2Fee%2F70e57ea596472533b739cecaf122%2Firs1.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true",
+      "publishedDateTime": "2022-02-24T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences.md",
+      "title": "Maple Leaf Sports & Entertainment leverages AWS AI infrastructure to power next gen experiences",
+      "excerpt": "Maple Leaf Sports & Entertainment services (MLSE) has announced that it will be leveraging Amazon Web Services (AWS) to enable next-generation entertainment experiences for Maple Leafs, Raptors, Toronto Football Club,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338",
+      "originalUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/02/hockey-feature-image.jpg",
+          "width": 1076,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338?amp=1",
+      "publishedDateTime": "2022-02-24T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-plant-based-milk-uses-ai-to-formulate-the-perfect-sip.md",
+      "title": "Plant-based milk uses AI to formulate the perfect sip",
+      "excerpt": "Sustaining life for nearly eight billion people is a heavy task for any planet, as Mother Earth is repeatedly reporting. When it comes to food production for the masses, we’ve got to start being more conservative,",
+      "sourceUrl": null,
+      "webUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
+      "originalUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2022/02/1616698769484-889x592.jpg",
+          "width": 889,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
+      "cdnAmpWebUrl": "https://inhabitat-com.cdn.ampproject.org/c/s/inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
+      "publishedDateTime": "2022-02-24T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inhabitat",
+        "domain": "inhabitat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-mercedes-benz-to-offer-hands-free-traffic-jam-assist-in-us-this-year.md",
+      "title": "Mercedes-Benz to Offer Hands-Free Traffic Jam Assist in US This Year",
+      "excerpt": "The German automaker's Drive Pilot offers Level 3 conditional autonomy that works at low speeds in heavy congestion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/4uJmfPjtw5_jInExXeyBGsNsUBY=/2022/02/24/6ac5ea1c-fa4f-43a9-b849-389ed7854931/mercedes-benz-drive-pilot-hands-free-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "publishedDateTime": "2022-02-24T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-new-acm-techbrief-spotlights-privacy-ethics-problems-with-facial-recognition-technology.md",
       "title": "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology",
       "excerpt": "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
@@ -613,6 +792,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-24-zf-to-develop-chassis-for-baidus-smart-ev-brand-jidu.md",
+      "title": "ZF to develop chassis for Baidu's smart EV brand Jidu",
+      "excerpt": "German supplier ZF Friedrichshafen will assist Jidu, a smart electric-vehicle brand of Chinese self-driving technology developer Baidu, to develop chassis and other components. Under an agreement ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
+      "originalUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/JIDU%20Robocar%20Concept%20Car.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-accelerator-startupbay-invests-usd-12-mn-in-pune-based-robotics-firm-rocket-ai.md",
       "title": "Accelerator StartupBay invests USD 1.2 Mn in Pune-based robotics firm Rocket AI",
       "excerpt": "Accelerator StartupBay has invested USD 1.2 million in the seed round of Pune-based robotics firm Rocket AI’s seed funding round in return for a 10 percent stake. Rocket AI combines low-code no-code,",
@@ -922,258 +1144,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es-419",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es-419",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=es-419",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-two-top-jobs-in-the-booming-ai-industry.md",
-      "title": "Two top jobs in the booming AI industry",
-      "excerpt": "Artificial intelligence (AI) is an ever-growing technology that’s changing how businesses operate, and the support of AI-savvy IT pros has become critical. Here’s a look at two of the hottest jobs in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/",
-      "originalUrl": "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/01/mlcloud.jpg?x19946",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/two-top-jobs-in-the-booming-ai-industry/amp/",
-      "publishedDateTime": "2022-02-23T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-facebook-parent-meta-details-next-gen-ai-investments-in-event.md",
-      "title": "Facebook parent Meta details next-gen AI investments in event",
-      "excerpt": "CEO Mark Zuckerberg used a Wednesday event to detail the company's next focus areas in building out its immersive",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
-      "originalUrl": "https://seekingalpha.com/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350448399/image_1350448399.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3804794-facebook-parent-meta-details-next-gen-ai-investments-in-event",
-      "publishedDateTime": "2022-02-23T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-what-to-do-if-a-cop-tries-to-scan-your-face-during-a-traffic-stop.md",
-      "title": "What to Do If a Cop Tries to Scan Your Face During a Traffic Stop",
-      "excerpt": "Law enforcement’s use of facial recognition technology during investigations has blossomed in recent years thanks in no small part to a booming surveillance industry built on the back of an ever ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
-      "originalUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3c60689fceb2dd3474c8a28d9a9f3217.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
-      "publishedDateTime": "2022-02-23T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live.md",
-      "title": "What consumers think about AI – and the impact on your industry and business (VB Live)",
-      "excerpt": "Join this VB Live event where research, data, and analytics leaders share the current global consumer outlook on AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/",
-      "originalUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-543194887.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/amp/",
-      "publishedDateTime": "2022-02-23T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

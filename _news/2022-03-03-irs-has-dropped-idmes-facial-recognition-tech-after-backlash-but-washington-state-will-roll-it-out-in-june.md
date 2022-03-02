@@ -1,0 +1,60 @@
+---
+category: news
+title: "IRS has dropped ID.me's facial recognition tech after backlash, but Washington state will roll it out in June"
+excerpt: "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS last month over privacy and equity concerns."
+publishedDateTime: 2022-03-02T19:50:00Z
+originalUrl: "https://techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.html"
+webUrl: "https://techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.html"
+ampWebUrl: "https://techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.amp"
+type: article
+quality: 40
+heat: -1
+published: false
+
+provider:
+  name: techxplore.com
+  domain: techxplore.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+    width: 1920
+    height: 982
+    isCached: true
+
+related:
+  - title: "Florida DEO stands by controversial facial recognition technology to verify IDs as the IRS drops ID.me"
+    excerpt: "NEW PORT RICHEY, Fla. — Concerns the ABC Action News I-Team first revealed a year ago about ID.me's facial recognition blocking legitimate applicants from collecting unemployment have now sparked a national debate over privacy, access and oversight of ..."
+    publishedDateTime: 2022-02-28T11:06:00Z
+    webUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me"
+    ampWebUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 43
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/46af351/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fcc%2Feb%2F8b66c61340519e962eee608b8946%2Ffull-circle-florida-deo-id.me%20I-Team.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The IRS dropped ID.me’s facial recognition tech after backlash. WA is rolling it out in June"
+    excerpt: "The IRS backed off a plan to require taxpayers to record a video of their faces to access records. Now, Washington is rolling out the tech for its unemployment system."
+    publishedDateTime: 2022-03-02T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/"
+    ampWebUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 28
+
+secured: "la1x89//vil74ZVf5VvJr9UEj2hDF6P6AMDQY2LmSGPSMtPCoows8AOho/354mzMNBR58bztZKUPGPCLcbseWZNzsbxey1jZgUcvv6HlERYw+KIY+9VdR0iDSrhGyFIeNBP0r0uIqbLBo2CuOcegDv0TCxALJFPBwDgXxwRTTf5HXtC84FYsGpJw9BjfrRO4fG5L0eOqTyd7TiTNLeNii1RHrqNizg/Y1JODLIOsjUf7XevxF9YhbX9fW4x6RinI8BChYQHS67kshuq/6Hj6JUq5ChHbPW5t/oN61W8cgwkY7NQe28zoT0tBy1z7ti4B1QPlfAYHIxcfoA73z9+t/QmOrisNgD45UzGiYTXa9Zc=;MVnZy890E9RVpGikRYxwqA=="
+---
+

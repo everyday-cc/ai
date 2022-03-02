@@ -1,10 +1,10 @@
 ---
 category: news
 title: "British public to receive the opportunity to invest directly in advanced self-driving technology on the roads today"
-excerpt: "Academy of Robotics, a high-growth British autonomous vehicle and robotic technology company, today announces it has launched its pre-series A fundraising which will be"
-publishedDateTime: 2022-03-01T07:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
+excerpt: "The company successfully proved its complete self-driving delivery technology in road trials with the Royal Air Force (RAF) in September 2021. The trials focused on last-mile airbase logistics, supporting RAF personnel by using the Kar-go Delivery Bot to ..."
+publishedDateTime: 2022-03-01T09:04:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
 type: article
 quality: 2
 heat: 2
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ZnT76cckhJNIF1a2NYMrmcghONbyVOoYuEv47uDU7ZvoWYN7LRKPJZO1g+6Tr2qDHcICJ+dNMvqwjE11noOpdmC/H5Nzd0MxLLr+ugsj5SZQwUP3MSGbEaY8hH3dIbwyfpzXfjxHkVLlSR8uxkaF7QB1PcPXtzGyTAQ47XKcc54L3Xw+azV8/QbN5fEEh37IxFhoHDWfO0ErctxVmHGr+h2Pq0nLvDpq7jrQJCuaZwGryUR0oDVZfAnjed4X61etN2tCdxaMR4AsyIhxR1T2pKr2FVvm+iQd392mDmWH+GI5hevnjSY5uH8sTrzf5pWuwah2CNZTv1Z5USn0gqAAMaN3s6kE8mOuAnCfeJLhWSoqzTF2K7RHERA9Ww8lViiOXwewft9uMQb//lSxeqNxDryeNnEkWbFHWscb1uOZL//0yzmnCweHl/X67RXQsgI4HsSTGcTMG7WVrK4hxh4UOggMUd9jqArSb/smN54aZ6ZjlhiAanqyYNv9cA30JOTLb6pT8AdPOHah4hkCWgyFaA==;GznNNR8Wr/8/5o6aK5Bhcg=="
+secured: "tIEDtN289AvXRx4jH+ljIRjGyLZ1Lf3a1wbINDWPpUH3GkOYjVIAHKWibkwI6/OZGj124f/t6mp123mEBWyWgN3bNULppvOV3uuUVhrh3cPy6z+TPMphAkf5iqgO3sG2JHiLMyeKaN8qygeIeGfkfxOC06FeGrFGwf1dJWkOk5C8/Cl2tpIlMA0uiiU1hPGU/JHfgEX9acSBbspVN/PXbe5ukKOyw399KCbRoJ/0F3t0LXZjmsvTlVb/DFSvAtj7azOATI7txIrQ9EbJW+4DDjHOqLI3Jcjt8pLykKGWKy5NzbnZ38l3VDMa7y0ipy+UCRAbu01Y4RJ1tKFMmgUqCfQtBymqfO7px+J+eaw382s=;32kYbPpIv+Dw1Rfh0zBllg=="
 ---
 

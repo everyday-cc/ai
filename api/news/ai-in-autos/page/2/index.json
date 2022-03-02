@@ -229,19 +229,19 @@
     {
       "path": "_news/2022-02-16-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
       "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
-      "excerpt": "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology.",
+      "excerpt": "DETROIT, Feb 16 (Reuters) - Luxury automaker Jaguar Land Rover (TAMOJL.UL) and Silicon Valley artificial intelligence company ... with Alphabet Inc's (GOOGL.O) Waymo unit to deploy autonomous ...",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/automobile/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-8116341.html",
-      "originalUrl": "https://www.moneycontrol.com/news/automobile/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-8116341.html",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/01/Jaguar-Land-Rover-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
+          "url": "https://www.reuters.com/resizer/lDKr2wQMMv6csePVXeGKl7gImc4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4I3LW5Z4NK5XD3QVCGL5T6TCU.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -249,14 +249,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/automobile/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-8116341.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-8116341.html/amp",
-      "publishedDateTime": "2022-02-16T07:19:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T06:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

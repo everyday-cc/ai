@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-rob
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/"
 type: article
 quality: 92
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2022/03/Sanctuary-AI.jpg"
         width: 1050
         height: 700
+        isCached: true
+  - title: "Vancouver-based Sanctuary Cognitive Systems Closes $75M Series-A Funding to Create Human-Like Intelligence in General-Purpose Robots"
+    excerpt: "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, announced the successful closing of an oversubscribed C$75.5 million (US$58."
+    publishedDateTime: 2022-03-02T19:58:00Z
+    webUrl: "https://www.bctechnology.com/news/2022/3/2/Vancouver-based-Sanctuary-Cognitive-Systems-Closes-75M-Series-A-Funding-to-Create-Human-Like-Intelligence-in-General-Purpose-Robots.cfm"
+    type: article
+    provider:
+      name: T-Net
+      domain: bctechnology.com
+    quality: 8
+    images:
+      - url: "https://www.bctechnology.com/tmp/social/news/tw/C92C413CEAD7D8B67A89850BA352E1D1D6F0794044CBBD448067CA4DCFF5C610.png?1646226115"
+        width: 600
+        height: 335
         isCached: true
 
 secured: "GLA3Lg1KxKTwzC1S1pN5yKsJaE6ae2hm1sCSvH/fdhl1OXTHz5ShWU7cs5NFYJbsS1sSnLT8ZdXNRIKJeQL+RHi/jSPftn2x4q9HIC2AnIx6uKh5bmfCYTmFUVJCn4VLhJsILdE3oFJMQIEYmZ95WITtwuGL5eyvUqlPSSs3kFaf8Z6ooBEqZJVv3hz3G+Bcpok1YSTKmzDScHxOXzVsIXF6HeGKwAzufcCteiYp7UWc9I2Kbh+gNuRQ3T2eqkNPrwBOQaJO3+O+O5bkgu4WLq80d+ts4UWWXtzb1F/ce1Gyk7orXZFz87utXtMlfk73qJJnEAQho7BH1JJ8rQ04WkxAhAXDXRf6DmCyPav1U71oDqK1932LacIJ1HK6d8KpegydTzOPxzZznFSXcQOfXDsE0b6BSikqOHCf7W2X6Rau6OV2/9FO7uQoO2zVTdnDoHMFttwFvKGFxt76QoDNnxvpUNe3hY0g9OVfjt0hPkyErXJQwvC7TCYBeIURhAKQwVHmXPAMGV73hVIkNQICxQ==;afmTOoX3tlHNt+g8c7Hs9A=="
