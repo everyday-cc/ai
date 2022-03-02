@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai: New AI, coding licence launched; employees to get 10-year Golden Visa"
+    excerpt: "Dubai International Financial Centre (DIFC) on Tuesday launched an artificial intelligence (AI) and coding licence to attract AI companies and coders from around the world as part of the UAE’s Artificial Intelligence Strategy 2031."
+    publishedDateTime: 2022-03-02T01:01:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 56
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/180516221655ZMHF.jpg"
+        width: 1199
+        height: 800
+        isCached: true
   - title: "DIFC launches AI, coding licence; new UAE Golden Visa opportunities for employees"
     excerpt: "The licence is designed to attract AI companies and coders from across ... the largest cluster of FinTech and innovation companies in the region. The hub hosts more than 500 firms, ranging from ..."
     publishedDateTime: 2022-03-01T08:07:00Z
@@ -110,15 +126,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "DIFC launches UAE’s first AI and coding license attracting global experts to its Innovation Hub"
-    excerpt: "Companies holding the license will be able to work within a stimulating environment at the DIFC Innovation Hub, which is the largest cluster of fintech and innovation companies ... to be collaborating with the UAE AI Office, confirming our commitment ..."
-    publishedDateTime: 2022-03-01T09:33:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/difc-launches-uaes-first-ai-and-coding-license-attracting-global-experts-to-its-innovation-hub"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 7
 
 secured: "Lh3J7rsmqpScWNRg1oyC4wNhyUNt664BsMIByVwm0A/kud50p76tDfhSa1PAwecVdLbbgKplfHUSpwCKGC5SMLa0Gt90Vmi8ROSM1ofUev8Z9yski/+pU2k1PTieV8ujsj+G2HivPXN4MmEp5ozR2F+DnJGMM1RZWXzJwwUZxcbO3VvbjaWOvs7KWlpb9KEisU59gc5P+OZq04mZA1TtlMvXgJWyDZ5YwPtPpCUqLvHXQws9x07jCSwAbL9jGJBkn6J/SfRVFoaq5GPwWIuXc2Zzl7ZV5XcbIU44mZbQXJOsd2ITboB2ir8augA1XwMHMrwM6txW+z0zqwXtH+V7RN7moqgDfR2NyR3dMwgz9PI=;txMcYD7ffWDpYToq0PpzHA=="
 ---

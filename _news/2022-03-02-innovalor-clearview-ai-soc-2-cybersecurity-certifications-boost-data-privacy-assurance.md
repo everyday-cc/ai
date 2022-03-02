@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Moving AI From Detection To Decisioning In Cybersecurity"
-    excerpt: "The two partners — human and machine — must work in tandem, with each augmenting the other. Then and only then will AI realize its full promise as a major defense against the digital dark arts."
-    publishedDateTime: 2022-02-25T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 645
-        isCached: true
   - title: "How AI is shaping the cybersecurity arms race"
     excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find"
     publishedDateTime: 2022-02-26T15:10:00Z

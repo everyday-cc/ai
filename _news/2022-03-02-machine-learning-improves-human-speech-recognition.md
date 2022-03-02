@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Machine learning improves human speech recognition"
-excerpt: "To understand how hearing loss impacts people, researchers study people's ability to recognize speech, and hearing aid algorithms are often used to improve human speech recognition. In The Journal of the Acoustical Society of America,"
-publishedDateTime: 2022-03-01T16:02:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/944641"
-webUrl: "https://www.eurekalert.org/news-releases/944641"
+excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
+publishedDateTime: 2022-03-01T16:00:00Z
+originalUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
+webUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 76
+heat: 86
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - Machine Learning
-  - AI
   - Natural Language Processing
+  - AI
+  - Machine Learning
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3bfcfecc-b8b8-4a78-b421-6e5fc26bc004/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg"
+    width: 2880
+    height: 1620
     isCached: true
 
 related:
@@ -43,6 +45,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "AL6dv40WhaTWy469pOVDdwiIGn/orsXjPJCXtqau/X9CACnnTDAOoKuKu05/7NxNCaPUJXB9VuHp88Hncv+XJkMw2taGnnVVRhyZcbRvstzW26JgXWeKoSA8mAeBZ7sYZcoyPBy+/KPIey30/al4kv1g/o8IHw2XDPIty6Ck1Rb4RldtTaKba/LpOOZsc0EjptTUGheyLfYdwCcgcA5tNDNwWD0ZxGxm0yEf27cnh/EGeOjsuPQinoPbqJqsWa0brXti90fH50bjbqMLf9PtPN9XB9bwYHJlWazFiACpRSE9OcYak8/n+mSysgbyUAv8fr6uNhvAbfpKhjMcXhn0N+x6e8LxprTWout6MD15e9Y=;WF7cWXq1nb5bKsK6yLx0Jg=="
+secured: "nsmseJOYyPb3iNlTA6HaXTifNtvC06mnCMQMaQ3ESh5Ln/5tyYNmMbWNpxQ5MIerVTQ0U5aBpe5qg9W5luSU8ImIkOPthBCTEpcGGj6QlnvHU8KIl/FN4Ujfx737bObIWJymCpL8RbcyYwnbMp6t9xhL6gZx/qs4DMoBDKJmZJB+wQZacuddIFvGnmHk8Ft/zaJQRdU+9dAP1BaXYKnz63WP6heR66LeTQC0OyrwjeUxp4Lm65VWYeJAsvxpB4oLASqQ2Vq/hLIAoto/emNYTP7vmvzHP+ktuPEP9JeUWElkfAj3etSmS1CEC5mnCPXsbbrVhAySzLxNEiJIGoM3gMGfXDVinRyaLqn88c+kCuQ=;+h01W+k2QSMmYyASAmOM1A=="
 ---
 

@@ -37,6 +37,15 @@ related:
         width: 500
         height: 324
         isCached: true
+  - title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding | Morningstar"
+    excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A funding.  EdgeCortix's reconfigurable Dynamic Neural Accelerator® processor architecture and AI acceleration SoC SAKURA™ brings best-in-class power-efficiency with near cloud-level performance across infrastructure and embedded edge devices."
+    publishedDateTime: 2022-03-01T01:00:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220228cn75316/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 9
 
 secured: "gmP7JhhAbPGY3S7QBlVO5b2U0chNHETGlzEKPC4npmn2vbXuGuMGRCI76Dec2TnAG5Yfu6202z6eO8axrLHBqQhYtJTNXBdig4B/rdV7AjR1trY9npnM2dh8X7r23NIuAOBmRlDh48ighY+NVUYbF4Xm0ME3EoQhZIVJHYmkJYddgGimM8P5aiKLsei2zxQyqHYBRBG4BRDnN0QTtvEFfasPQE8yqMXj3FWdBs2Ku5yNbY+PHf1SYx4Pdb+X+06CbaFj6bYrefqaSa+0R2DOYcuXTWVfgOT9LBD60nn8OBdYO9wsqH8+4o02845X4TojpqOHLwQEhr0VmZ2B5HHjOa7fQPwbkfbBXqDmdBGHs+8=;3TZ2B3EyaYomaV96XZSbfQ=="
 ---

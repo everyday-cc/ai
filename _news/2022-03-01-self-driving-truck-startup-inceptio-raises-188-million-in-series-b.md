@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese Self-Driving Truck Startup Secures $188 Million In Funding From Sequoia China And Legend Capital"
+    excerpt: "China’s Ministry of Industry and Information Technology rolled out guidelines for autonomous vehicles last April, encouraging local governments to open highways and roads for testing self-driving cars."
+    publishedDateTime: 2022-03-01T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/"
+    ampWebUrl: "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/621dd187b8e605f51c6f0b4d/0x0.jpg?format=jpg&crop=2461,1641,x0,y174,safe&fit=crop"
+        width: 2461
+        height: 1641
+        isCached: true
+  - title: "Chinese Self-Driving Taxis Are Headed to California. Here’s Why."
+    excerpt: "AutoX – one of China’s biggest autonomous ride-share companies – recently announced it’s setting up shop in San Francisco, where Waymo and Cruise operate. It’s"
+    publishedDateTime: 2022-02-28T12:02:00Z
+    webUrl: "https://www.wsj.com/video/series/george-downs/chinese-self-driving-taxis-are-headed-to-california-heres-why/1D55EEAB-2F6C-4ADA-A14E-B3E48A829989"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "http://images.wsj.net/im-493761?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Chinese Self-Driving Chip Startup EVAS Raises Almost USD31.7 Million in Seed Funding"
     excerpt: "EVAS Intelligence, a Chinese autonomous driving chip startup founded less than two months ago, has raised almost CNY200 million (USD31.7 million) in angel round financing led by private equity firms CTC Capital and Sunic Capital."
     publishedDateTime: 2022-03-01T12:29:00Z
@@ -54,6 +84,6 @@ related:
         height: 373
         isCached: true
 
-secured: "KqI0VioCua1kZxq48pAmij5IBA4pPj4yYh7YrdgrvX+kpIws9wPHbQheTuAoY6zToKTln5ZiGXXyWEtSFHIvqgA8MoDummvkFdGXp9HSmwRt8XPmIrE97P5xh8o4zdT+1MY+LwSveU5pOyiSTW3I/1VwfrCMa5tuDIrp4lrXkTZWmZg9kmt17cz1mqdzJEhSAOL+Jw3Tx/DodvHBf5kkNp8RWfcCmZ6b5F2JGcZez8hYuHyb/w848WZPq/QxPtDUWAn0QzlbHm+GIoAOIgqBtJ4msu8RA4DeQGa3E2JQh3qPGRXm2lEDviqqOiKHy33ISMGuRjqIbhbeIm2CMBU4xKf85+jc8vW1eoTSNvJsRow=;vXnARTezkNhmX4Di1bl1JA=="
+secured: "kjmji6EWmjEuLQaKjEoEP2ymEX+DUfi4BRd8eITMDiO4n853sS9ibmDBjJz2UbmKh9J7HsMfe/wE3G5nvoR0NapCFbmubwxUJ8Ja2m2xbj/ntJvyfUfcRBICysVL0jdtSQR/xmFfW4sx/gBs7Ao7i/PUkc/9WZkbwh0kH8HzBurznZg1itpSBULEXpZ8grB6q0pYT0d5eSS+U5o9YIPvC6ASFXM4Vo/1QDKWcIC9733JiAN9obvdxBHbS+fq6Zbsfp6nBRi7QtB3Y6O1eoYIEmKSAIgD9nTHi2P0BXMtSeFx6k2ArPYMT2Kzm0xfXALx757OdjvW+3tgLYBCDb9EWNBf2QGkNvxXPHYXkEiSKkQYiNbuXpHKYMxH4ijzzdrqFm0TMW8QHj1W3r64zjL0AC6SbGrNX92mS1bYciopDcRdliZ7F2vnI/4pD/uqoOuOtdlkwAsG1qNiovwt9rUaxYn51GgIRsi0GVjY++7vkWZhNV4btAMuobLrPYwFUka9h4Y2e67MREWYFDtbAyKiJQ==;bd6W3IJSD1YVvCefePaBQg=="
 ---
 

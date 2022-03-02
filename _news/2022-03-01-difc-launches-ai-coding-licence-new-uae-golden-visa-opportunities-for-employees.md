@@ -9,8 +9,8 @@ ampWebUrl: "https://gulfnews.com/amp/business/difc-launches-ai-coding-licence-ne
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
 type: article
 quality: 54
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gulf News
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai: New AI, coding licence launched; employees to get 10-year Golden Visa"
+    excerpt: "Dubai International Financial Centre (DIFC) on Tuesday launched an artificial intelligence (AI) and coding licence to attract AI companies and coders from around the world as part of the UAE’s Artificial Intelligence Strategy 2031."
+    publishedDateTime: 2022-03-02T01:01:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 56
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/180516221655ZMHF.jpg"
+        width: 1199
+        height: 800
+        isCached: true
   - title: "New artificial intelligence and coding licence launched in Dubai"
     excerpt: "The licence offered by Dubai International Financial Centre can also serve as a gateway to obtaining UAE Golden Visas."
     publishedDateTime: 2022-03-01T09:05:00Z
@@ -111,15 +127,6 @@ related:
         width: 376
         height: 250
         isCached: true
-  - title: "DIFC launches UAE’s first AI and coding license attracting global experts to its Innovation Hub"
-    excerpt: "Companies holding the license will be able to work within a stimulating environment at the DIFC Innovation Hub, which is the largest cluster of fintech and innovation companies ... to be collaborating with the UAE AI Office, confirming our commitment ..."
-    publishedDateTime: 2022-03-01T09:33:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/difc-launches-uaes-first-ai-and-coding-license-attracting-global-experts-to-its-innovation-hub"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 7
 
 secured: "tGbEKnLufYaXQ4KM4LC1nhea8MnKSRDS13Cac2x5L7OxuAFuFLKQL1QJFF+1GjG3kXwc3nZ3n37wZE8hOnTjoKB/K/AHcDj84Xmo2reHOt0ccUd3wg4wsbHTcAu729j0NMyLoKATnoLAlgtYz5Tr91bDMsEx55GAyXWAPm9WaPpCyQDIXP5BuY+yypmfaUWk8fsasWv4buz1zvspZJkSD+ponB7sAtGhWj9jp8PquZxsmBubAC97tg96RFg1LSI8yI5bONFC2C45AB6ju0T9x0dI0A5HA+yialtCTcYNstf9GvnLBF3sy6mSjns+4LcpQn4+u3Y5rSJa7IfVQMR25vOHleYu5u90erK6xV0oO9o=;/YxEA9kkzZYVxPtpPs79kQ=="
 ---

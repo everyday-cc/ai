@@ -47,6 +47,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
+    excerpt: "Total revenue grew to 33.09 billion yuan ($5.24 billion) for the fourth quarter to Dec. 31, beating the 32.22 billion forecast by analysts, IBES data .."
+    publishedDateTime: 2022-03-02T02:33:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89935506"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89935506,imgsize-62329,width-1200,height-628,overlay-ettelecom/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown"
     excerpt: "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33."
     publishedDateTime: 2022-03-01T15:39:00Z
@@ -104,6 +120,6 @@ related:
         height: 480
         isCached: true
 
-secured: "96O+awb1l5wKq6pHwUszOFglyseBFTrReKDCT5xq0xJEDG+APiK2oSw7MUK45xk+mQllrmapL1y09QmJEkPNDtc9rpYTb9mysU7VqOLvzKLFqIcj/rUoWU43EH2QUZahaPiSeTfChoByZq3z1i/1gEEqs2mG2s+uVtlukL4ICKBhx8lmJ+TR5JQfOn53FGGWZhdFTQXqbfNNNG4Ceud+VdgPZcVsjQm44UqS6jTWJH2WgcG1Elpo5I5i0wMasixAhiS6+Q0iAD+ZiS97XTbHnXWyPCK6OnZEA3bnpa/tLdGvR/yhj5fqLgCQpCvbZrygL5AHZdD/cZR4eqA2AJLEIs9ZD6UPdrCpXp0XFjdR6qU=;3lzOEOLfvgNclRGqNKUwXQ=="
+secured: "w13GxzxvS4tfjhKntOWYp/I85pMIERDt1LhsqrAguMuLxgjv1hCv3c8Ei+I3SCqcoJJQf5Xyx/+yrypLIfvlJBKbm57qWieaypfe7jUC/6vQ2nQkadWijJPwab59cqVPbCposff08cWzK0VRNvQ8FsopTcrXA8ciVD/ao+4lD0KFzExI710kf4m+7RHV9Zb89j66cAM64TcHmRpdpn6aN4/zj57vwTr1CA5cs5RtC5RXLz43V9nEo9P9scZefSW684dxQSJo6UGUZE19kz+ldZy5oPGI8w/ABPUhPZrguP2pw03sC45wVlxWQJn+AGeV/Wzf0N3zIMAknzLkXz1+4oP3wCyI1GBhWOrW4NNmodZdpBFI4eVYBk6H542O8BeqLcho1lgcV6X5mC6sIv1RNdFg64rULSL7elDMwtjJLWGK2POIXXHr1+l6ZuY69aYOMFNqFT/8jtBv6wVrwFGjOPssNjT735Uq/Ug9FC5d0R2qQX8auv36XtjvbMA6hTaS+osF5xmry5euwGSdihJarQ==;fj9B1dhnmWqlIfYI91naNw=="
 ---
 

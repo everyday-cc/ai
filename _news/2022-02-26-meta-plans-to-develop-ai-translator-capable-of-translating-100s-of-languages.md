@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/meta-ai-translator-languages"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/meta-ai-translator-languages"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Interesting Engineering
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘AI Driven Universal Speech Translator’ To Be Developed By Meta"
-    excerpt: "As part of the social media giant investment in the iteration of the universe, the founder and Chief Executive Officer"
-    publishedDateTime: 2022-02-25T10:45:00Z
-    webUrl: "https://techbooky.com/ai-driven-universal-speech-translator-to-be-developed-by-meta/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/02/AI-vs-Human-Hero-1024x513-1.png?fit=1024%2C513&ssl=1"
-        width: 1024
-        height: 513
-        isCached: true
   - title: "Meta to develop Universal speech translator"
     excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
     publishedDateTime: 2022-02-27T08:32:00Z

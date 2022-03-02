@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/online-tools-to-create-mind-blowing-
 webUrl: "https://analyticsindiamag.com/online-tools-to-create-mind-blowing-ai-art/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1896
     height: 1067
     isCached: true
+
+related:
+  - title: "UAH researching artificial intelligence to aid in solving crime"
+    excerpt: "HUNTSVILLE, Ala. (WHNT) — The University of Alabama in Huntsville is working on ways to use artificial intelligence (AI) to analyze cell phone data to aid in solving crime. Dr. Tathagata ..."
+    publishedDateTime: 2022-03-02T02:12:00Z
+    webUrl: "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/"
+    ampWebUrl: "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 72
+    images:
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2022/03/uah-.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Aob5jaNkR9NxgJjIBh+awvlm0tEBlAIOevTGSDknHT1zv3a0vJZrUf8IIsQb+ohRaSm32fpAKIrVLADRDKo8p5FW5mw9T02a/6xh8muRqCn7KC57fvpOjs5h3+gE4CXkuFrjPv05zv1gbTvhjANI4IHXLYq7BiW06KgKrnPjW3ZEQ+8EXRG3aMWfnhG7wjxIEyP40e5sA7W6fuPTZbgZx39SHHoLcc58qF6D+NBK5ZCskMmzSrrG5w82cePVdJHTJ2ydNkWugohwPdHstyAu6+Hkkqi5+n8/o0LWcehn/vxV2rhO244z3YKmVTkMGqGWZNCiQeNeF1OeSKyIyZgjEN9rhgGVLHVndquKPDy88jY=;X3o3SbSROOdmEMvykNoecA=="
 ---

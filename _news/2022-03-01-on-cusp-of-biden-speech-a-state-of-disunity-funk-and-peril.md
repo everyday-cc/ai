@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "On cusp of President Joe Biden’s speech, a state of disunity, funk and peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong,” or words very much like it."
-    publishedDateTime: 2022-02-27T18:25:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw--20220227-w3uc5f4w75h6hexkdi6hure6cy-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw--20220227-w3uc5f4w75h6hexkdi6hure6cy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw--20220227-w3uc5f4w75h6hexkdi6hure6cy-story.html?outputType=amp"
+  - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
+    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
+    publishedDateTime: 2022-03-02T01:40:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html?outputType=amp"
     type: article
     provider:
       name: The Baltimore Sun
       domain: baltimoresun.com
-    quality: 41
+    quality: 46
     images:
-      - url: "https://www.baltimoresun.com/resizer/xa70Ztngjv5cj9azb7s7we7NzrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4YQ7SL2SA2KM6CTSOZN53CZHEA.jpg"
+      - url: "https://www.baltimoresun.com/resizer/DEMiW3WXUrNmSHFhDTyddIQbK38=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/52ZGSPRYVXFDJ6OITN6QRKFUDQ.jpg"
         width: 1200
-        height: 800
+        height: 763
         isCached: true
   - title: "On cusp of Biden's State of the Union speech, a state of disunity, funk and peril"
     excerpt: "Biden will step up to the House speaker's rostrum to address a nation in conflict with itself. The country is litigating how to keep kids safe and what to teach them, and suddenly plenty worried about Russian expansionism."
@@ -52,6 +52,38 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-gettyimages-1373741404.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
+    excerpt: "... collect vast amounts of data from open-source intelligence (OSINT) – information collected from news, social media and other publicly available sources – as well as secret sources, and use artificial intelligence to analyze the information. Russia ..."
+    publishedDateTime: 2022-03-01T15:50:00Z
+    webUrl: "https://www.chron.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 30
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
+    excerpt: "Russia has one of the most capable and technological militaries on the planet. They have advanced intelligence, information warfare, cyber warfare and electroni"
+    publishedDateTime: 2022-03-01T20:02:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 30
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
@@ -91,6 +123,20 @@ related:
       - url: "https://s3.amazonaws.com/ogden_images/www.mauinews.com/images/2018/02/20104449/fb.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Watch live: Biden addresses the nation in 1st State of the Union speech"
+    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
+    publishedDateTime: 2022-03-02T02:08:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2022/03/01/watch-live-biden-addresses-the-nation-in-1st-state-of-the-union-speech/"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 24
+    images:
+      - url: "https://www.tampabay.com/resizer/4qwFKxjRgOxQaiUVvHqKdCOEiQA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/WY3KW7AZGFCXZDSGVCZEQ5VMHU.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Biden steps to State of the Union lectern at fraught moment. Here’s what to know about his speech."
     excerpt: "President Joe Biden will deliver his first State of the Union address Tuesday at a precipitous moment for the nation."

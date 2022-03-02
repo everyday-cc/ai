@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Expedera Announces First Production Shipments of Its Deep Learning Accelerator IP in a Consumer Device"
-excerpt: "Expedera Inc, a leading provider of scalable Deep Learning Accelerator (DLA) semiconductor intellectual property (IP), today announced that a global consumer device"
-publishedDateTime: 2022-03-01T12:42:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html"
+excerpt: "SANTA CLARA, Calif., March 1, 2022 /PRNewswire/ -- Expedera Inc, a leading provider of scalable Deep Learning Accelerator (DLA) semiconductor intellectual property (IP), today announced that a global consumer device maker is now in production with its ..."
+publishedDateTime: 2022-03-01T13:53:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html"
 type: article
 quality: 23
 heat: 23
@@ -24,6 +24,6 @@ images:
     height: 335
     isCached: true
 
-secured: "60kuP91t8niEPH1asx1VUxKwTsQJcZlWLqNqKu80q6LMZvSsVHbfwioFAtU+o6PerK3hrJmxwyiEr9oCKCVcNzMMeqLUoODP2E2ky0wmP5uvCLfGPBibgwBHHAkYYB1pvoaSq5jEmaIKVNEotWwIPqTadOFe08+lJTRRx6VWfYTNEZiEWXzHVvDG1T4wT0qhRvdR+Do3QlIR6I2qj8DNkpBoXoGQyWSJitiC7i7rMHUFViqnLmqoIuqxE7CxtFmKjHABB8oDdcqvUS3J0Q9sEqDukllKoTVQTP6wi7r2X+jmed/MvWWGqnf0jFN2SuFlQM1ApGAqD8x4JqCDFe60+zOKcQgViez8Gh2fKTGBzTk=;SB08v6aeovO68LjRiGATQQ=="
+secured: "tJVOUFRdZXWvEKDUb+s/whYSwjs+LOnt/KaZWf1BJqc3G5AaENgCjQztTybute7KzE45RA+fzp5EWTRaFMNwMoav/P/2wwX7ypp4iobrzQVCZmmKAPlgL0LouAlvdHsuBPxP6ItnmDJHA64sQSG27JnzE/KfDQjof9IZhCD4L6DTK1vypiIcCT7Vqh8juV4D5qqD80ApMiV0oABZyg2IBLRV9EuAvHLDiosa+rM72iMzNv8rBj4w/8yZ8GR72x9S9wl9RHnM96+S75vfFM/5CBvlsw5o4DB6yLuAsFL6OxqI6U1mX2JmZ9/4yVmeT8vCPeeHpQaHr/SZK3Up87RCUBEcRc+m8zpN+sQzF9mfPzc=;RdgN+Z71iK7hYHx1PDZcFQ=="
 ---
 
