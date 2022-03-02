@@ -2,7 +2,7 @@
 name: "Verkada"
 overview: "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure."
 type: "profile"
-heat: 50
+heat: 64
 
 website: https://www.verkada.com/
 
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Verkada"
 
-secured: "/kPAwAbpm/dqwehs1347IdvhSHVFIWEwGVthGUosB3H2w8aoH/SxlsOkOH5a7D6JkObibGD0XBzRec8q85pthpC4sWjhoalvTVD1qDVM3cVzByDIDeGMPASDXaKO1did6SnSEHMRfv6W6gs+Thsm4nhRXjzcnetkTCEOEm/JFFRnjP1k2IXLMjw7WjQz2q0vzFr+Wld1kuCDJetsN1/Ymk5G3Kdied3uZY34lsp9RaGrrBdjY92KiXlMayks3wdb/PYQ+U3C3vCp1dtOB2g2b/nogMiWOsnQanfBCM9ulgb/9gVDYk6O67lFyp8yXb30R09ok0fX6bE3Boy0yzeT2kRsnkT+v7qRG3qMkND/8Go0mbmY3pB6e4VWRkN1WPzwS1S0ojiDD4uB4OP6ucl163AUBiUpDrLfbrdrufuTWhg=;G3a5/9qrIFnZZn9MT5OEFg=="
+secured: "p69ACOyh6aNb0TUplhTZw8acNRF3SyHFaD4+/4/EUbX2nfv5y5BZ2ia41czdiHTe+DlggJt6/Nzal4e7sqfsACkRc7pv1B/GQl18Di0sIbERAzECGZvC3EsMH3dfvdjSNBe9idyMiAHOScJvp92zXDRshaGV5dv8QJ8x3aMbNlnZMFe+j1EU0+M7Hsqa/HECuIKwi5YZiRHSzZIocpShV0l9fcvYsxwlGw8P2bo30RtNW8D1bKyoVs5qK8yu54oZocfSme3MRr3SSy+71iTOCcuqkYgy0HZmIX5mBIl11hMJtJJTITxXn8fXc3vpscsF7K8OZue+1lBD7hcP8h3UAYNvIDCu9dAaLh5q+omj/1Ptc7XNPq4MKf1ZXK4htqdkqoh9QNUGK782Rx5JGZxZKT2dd4Pvu/NYIrmdXcj+dSM=;+uJiwPV8tma0LOsgL9NxeQ=="
 ---
 

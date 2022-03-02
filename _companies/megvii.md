@@ -9,7 +9,7 @@ otherNames:
   - "Kuangshi Keji"
 overview: "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole."
 type: "profile"
-heat: 41
+heat: 42
 
 website: http://www.megvii.com/
 
@@ -57,6 +57,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sbsCwlkSlp0"
 
-secured: "1VRjkMey425L0Ov390KXxJhkuk5vSqLpyRhS2zY47GCuFQDsh9XLWCtgBJjkyKxsCJV1FsR1dDYi9RDWLdLZ4cWQFHKWTxXDR+fMBXKS5tTErVvX5pgZdfHPOJatqEiHbgNstXjPNAsAW9jxDD/EQwa0fF0ydgtHxz7kegsdZVJxfzmo7DGgfov7rqNHsZyt8akfOfapsaX+7XwqYmpznkMtUwKym34lMZE00EoO54crjtbDZajlARd3jgEFRwirPAHiMKTljR33Z9/brixGyDtL/8HzK0TSEXYVL24SF4AzIbjqZ2efjIe4FzuxlykB1rV+lR3SRx2wgjeqxSGzwFM1PLe0wyns/ZFoR4fXQYt48hfEigpv0KE27TAELXPZj8Sbu3GAt0c7cpevI4b164lCN/9MJn35sxeNNHUfxxg=;15g+xNKS70nYvjo4h67uLA=="
+secured: "/18d922vr78ZVrLzecjr8/Zkry5X81gEBBqV3wkdN3GNkQVyDJYet/xxOmfW9D+i+Z6sLLtsEEaCPJcg75r5rpyjgJNi9Pg4I2EIM0MDFP5QU+PMsszh5chAB0OhbBITZxHFTMtOXr+2Zah4/+f9jtfAaKfypa7W32jRCIKGSnjbv6UENKz3DfVIb5QPVjTB8hyZEgjzP7AN0YLunTesBhDk4rroWxRrHF61ACzIiMPhS3sHluOhJahDDRznmhzHarKNDPtAtAqdKjLK685pS6phXFRH5W9ne47j60KPvUaR4leQv5IMP5toVk6+qQQqgItSwB1ppNy0ixEHTIICfMnWJ4Kr1JBVCkpTfQioaM6W/czzz3PYt2v30vLAPu3tK/Z3eBeyWzEq0Fe2w/1smw==;C2mBoNwElVZ4IXCjqTkgEA=="
 ---
 
