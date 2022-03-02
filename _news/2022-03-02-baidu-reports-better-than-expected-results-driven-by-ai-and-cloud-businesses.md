@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "China’s Baidu beats quarterly revenue estimates on AI, cloud services"
+    excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, powered by growth in its cloud business and AI initiatives."
+    publishedDateTime: 2022-03-01T23:13:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/baidu-revenue-2-283182/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 39
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
+        width: 976
+        height: 551
+        isCached: true
 
 secured: "qxQrO0pBrLc5Ir4LpVHuGt+GQ3Hjp6JfiMldmNlLZjlqJUrJ7IVhWSR9AOIiZIUcTxMwPaP8r6N3fp8WRVS80lQQLEZFWK1FTwgG4/2DAdC7uI1EoH99FF2fWrE8XFBkMFjbLmfrDAzZQX4CnIKlN9vft8+rbwyiK7fz3GCSHjKtsEyvkHP7HMpn/YfjHywQZCgmR7250C5BIpjvFaEujn+Jfn6mXkGkT2K0RkZX6sU1D2uwZ2x9Jm5TtARFVa5Vfp6D53nnxM8Ez58ZJc9JtKpaxTnm/3aGLxIOIRjhaI5fZ5QsZbYsuz/APqzDFqWazxstjPAjYN6MGp7FXJgnLbAzVAyj050uxTW9u+Xy8QZIIjfJPH3ZXNef8TSBea0hxoQzU+MCI8o3Zfe0MGL5br4QBXenYMDRoZ6zhrNyL1eJ4IZSK76a16mOSxSGgijp32sg5QxDLUwJ6c/FRt8R8SD/WrYS44l8QA8aeh32eC8ygVM01I9cjpIBqvzlxSvfu5q+WDSsPan4G0/tUMMA4w==;kyDo83+eVKvC7z760cmV2Q=="
 ---

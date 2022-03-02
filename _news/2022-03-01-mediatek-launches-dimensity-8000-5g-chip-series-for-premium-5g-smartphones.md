@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "MediaTek Expands 5G Chip Portfolio at High End"
+    excerpt: "MediaTek has announced the Dimensity 8000/8100 5G chip for high-end phones. This new, high-end chip sits just below the company's flagship Dimensity 9000 chip. Comparing the two chips, the new 8000 series has slightly scaled-back performance in most areas."
+    publishedDateTime: 2022-03-01T23:25:00Z
+    webUrl: "https://www.phonescoop.com/articles/article.php?a=22725"
+    type: article
+    provider:
+      name: Phone Scoop
+      domain: phonescoop.com
+    quality: 19
+
 secured: "HkpDjl5CXo81G+I+VjIra8x2G/k7NFf7zuC4Ya8cIJD+I3QqLRgl+9pMTNhnY6fV273W+UVaB2VkvLQ1oEFGaFaOZxCe1X29HBpF0CIZQSjPOUchW88X4fBS2hf+dQdKvpxUMCv59ejHeegkJZlp2W8+4KFaOyAlpwoP3rd+ELQ0sd4w33moK9+XY4HdDbTXqFGp6RI5Qbjw/0iK/GVbUBMp3iqAiirDtnnVr/FBt99VYy9GCzAjwNidvASFuTZ10BXEcI0LTRWvOvkgRkCohtPrn2JQdCzN06J4sNMwzms0IT7niW3xjgro1OGNuBq7Mc/FAw5TQwz5sbSmYll1/x6+2/NhwqIlH4urS+vEPk8=;9i3z8TeWLQtcp0meof5FYw=="
 ---
 

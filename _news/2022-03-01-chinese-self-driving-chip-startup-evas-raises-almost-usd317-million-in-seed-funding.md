@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving truck startup Inceptio raises $188 million in Series B+"
+    excerpt: "Chinese self-driving truck startup Inceptio announced on Monday that it raised $188 million in a Series B+ which was co-led by Sequoia Capital China and Lenovo’s corporate venture capital arm, Legend Capital."
+    publishedDateTime: 2022-03-01T10:16:00Z
+    webUrl: "https://technode.com/2022/03/01/self-driving-truck-startup-inceptio-raises-188-million-in-series-b/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "Sequoia China, Legend Capital Lead $188 Million Funding in Self-Driving Truck Developer"
     excerpt: "Sequoia Capital China and Legend Capital, a fund management arm of Chinese conglomerate Legend Holdings, have jointly led a $188-million Series B+ round in Chinese self-driving truck developer Inceptio Technology."
     publishedDateTime: 2022-02-28T06:07:00Z

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "B2B BNPL startup Actyv.ai raises USD $5 million in pre-Series A round"
-    excerpt: "Actyv.ai, an AI-powered Enterprise SaaS platform with BNPL for B2B embedded, has raised USD $5 million in a Pre-Series A funding round from Dubai-based 1Digi Investment management firm, the family office of Raghunath Subramanian,"
-    publishedDateTime: 2022-02-25T07:08:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/b2b-bnpl-startup-actyv-ai-raises-usd-5-million-in-pre-series-a-round-122022500085_1.html"
+  - title: "ViFive: An innovator in Vision AI technology raises $5.8 Million"
+    excerpt: "ViFive, an innovator in Vision AI technology, has recently announced Pre A funding of $5.8 Million. This funding round saw investments from companies like SV Investment (who were the initial investors to BTS),"
+    publishedDateTime: 2022-03-02T00:19:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/technology-health-30c7d702098f545405c0757b5bff2bda"
     type: article
     provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://www.indiainfoline.com/new_hp/include/_mod/site/img/marketClose.jpg"
-        width: 1083
-        height: 660
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "nSure.ai Raises $18M in Series A Funding"
     excerpt: "Sure.ai, Tel Aviv, Israel-based fraud prevention intelligence platform that is purpose-built for virtual goods, raised $18m in Series A funding"

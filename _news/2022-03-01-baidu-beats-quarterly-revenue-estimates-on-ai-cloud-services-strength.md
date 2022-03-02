@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-bea
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
         width: 1200
         height: 676
+        isCached: true
+  - title: "China’s Baidu beats quarterly revenue estimates on AI, cloud services"
+    excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, powered by growth in its cloud business and AI initiatives."
+    publishedDateTime: 2022-03-01T23:13:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/baidu-revenue-2-283182/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 39
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
+        width: 976
+        height: 551
         isCached: true
   - title: "Baidu reports better-than-expected results, driven by AI and cloud businesses"
     excerpt: "According to IDC's first half of 2021 report on China's public cloud market, Baidu was once again ranked the No. 1 AI cloud provider. The firm has also stressed the significance of self-driving businesses in its financial report, noting that large-scale ..."
