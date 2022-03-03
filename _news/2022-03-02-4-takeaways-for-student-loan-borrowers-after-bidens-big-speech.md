@@ -33,14 +33,14 @@ images:
 related:
   - title: "Takeaways from President Biden's State of the Union speech"
     excerpt: "Biden sought to rally a divided and weary country behind a revamped domestic agenda and his attempt to isolate and punish Russian President Vladimir Putin."
-    publishedDateTime: 2022-03-02T12:54:00Z
-    webUrl: "https://www.wmur.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-    ampWebUrl: "https://www.wmur.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+    publishedDateTime: 2022-03-02T10:00:00Z
+    webUrl: "https://www.wlwt.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+    ampWebUrl: "https://www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: WLWT
+      domain: wlwt.com
     quality: 44
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-state-of-the-union-gettyimages-1238863517.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
