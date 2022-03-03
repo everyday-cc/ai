@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-cent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -204,6 +204,15 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
+    publishedDateTime: 2022-03-03T02:23:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220302/3914041.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "RG6tSdIslFdu5N1MhD0Onty41V+To6lUVuyIoZKsx/1rxNZTFAd/nQpG5KakFY2EF/jWrY/3UazyAdQU0Wj7z0WZctJ7O3VTh661zHPmzJ4M+c/+Szj0pUyIKlfln0b635hYFCtH3/JQbNU3nrhlM5U8Y9+hrnCYL/wodrJ6ZoT3ioDVgDOVaicdTy69AmFZgQhzjQ/A3Y6hkrwd/spGC/VtKYVEDiuyCvipLF48hBCFFySd+pUP0x0obaWmPhvYgliA8y7aUJs9ynNvySRv/F4K93QDu/g6xaEdWlBKAXoTQj1vj1rw/WulTslDLWO2adyBicneDVaaxba2cpolqjhhksYQXAGgMV/2w3CdYqEvkFFAMcNiwMeHBRaj7N+JU5poZm1NZEYNrhRy6tfQuxUzIRxzJH+Of2Bcp0N2yHunutfcgULmc4Lwb39efxj23+rxuU2R2IRagUgz2zVZiDgMCe4rLNAELbX8hczlFZCU7WqLsxm83iVE+oGintEUbykLElOFiX5vM9M3GlmgCA==;ZUE9gXF2kI0RB7xp9OdGOA=="
 ---

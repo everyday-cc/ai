@@ -1,30 +1,22 @@
 ---
 category: news
-title: "KX Strategic Announces Partnership with Microsoft"
-excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
-publishedDateTime: 2022-03-01T11:28:00Z
-originalUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/"
-webUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/"
-ampWebUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
+title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
+excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
+publishedDateTime: 2022-03-03T02:23:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20220302/3914041.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20220302/3914041.html"
 type: article
-quality: 59
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/KX-Strategic-Partnership-Agreement-with-Microsoft-01.jpg"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup"
@@ -133,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KX Strategic Announces Partnership with Microsoft"
+    excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
+    publishedDateTime: 2022-03-01T11:28:00Z
+    webUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/"
+    ampWebUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/KX-Strategic-Partnership-Agreement-with-Microsoft-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "KX to embed with Microsoft Azure"
     excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
     publishedDateTime: 2022-03-01T11:55:00Z
@@ -200,16 +208,7 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
-    publishedDateTime: 2022-03-03T02:23:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220302/3914041.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
-secured: "lUpL8uaxL/eJCcyuq+ElZ+LPLOY0cNC90jqsYrTqRrSMZXlhLNdPyAhotaY7QqjvHAdE2M9380G4qKW1QmSHt1Yj1tBR/aqTxpH8HaFJoW0jQXTOrm4OLhJ2nhh7WZRhCw/BCYsFlemLVSAzjboXNlpZxr40uJ36sOGhBHMxyn+r8PXwkhYjOzhegtCCbOldXD/4SCshrtyc68a5aOwNZHrLzVMP5Ydi8m7nTwA3Wu8IN2LjcnD1X2wFvCjOAuI+qCZROJaCFkd+aPJnW3kC1dTChOgclBNL8+aXgy/mZhNPKLvPZh9MY3An0trw6zc6ezQ1z2Xb0W3f2zCORnKR2ZARivJHsqgQWUqcyWBOa3rqIBBJnz77/k0xDFtS4GFAdED3KmVE3re0eTNCaB8LaYmFOxyIW/vAXDchjs7MwBf1sNhS89F3EG9hTHtm4dvBmjpnW9ot98jsnMYEOynA6YIjMv4mJHjjACm3AbAjagumJCOAln8ay7KCtXw0RWsagiSr48j3GMQxJql0sSXWFg==;oRK4CG1vZrU6kPTqn39Ziw=="
+secured: "ZTL4vIEfWG5Ji0JrHWAchbfTm8fJl414drbgxLBFe9arVjLxFGneS5218SPFZaZTwwQy/ttZYb1HbU+dZNEHQ44bsOgd9op+Xk0wjooaPsKT2bJQKK+wvQQWl1nvk8qVwTAvH1E0TscGmlyvKgFd8z4aQJDmTMRsdX02Pg30GYL7m4X5gxpq0i/aWQiR6RLt7kLfi0Aq5M1yFJPOuKJZMM+YoalAcbvOWpb0yQ4OLGEtDRLTBOBTJFCve83TjLS0udrMCgjO/iwrBhVy7QTJFAij5G0EmvrE0CffRjB6pJIDpNxgT5nC21X55TnFPSeyftCXq+xRtXRsv8aLEanCfMdxFRSsp0itQmZeI9hcMbs=;ond8E2G0Wz8avLRpUZeDMQ=="
 ---
 

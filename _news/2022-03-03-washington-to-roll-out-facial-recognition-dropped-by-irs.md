@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/washington-to-roll-out-facial-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Government Technology
@@ -27,36 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "What You Need to Know About Facial Recognition at Airports"
-    excerpt: "Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in."
-    publishedDateTime: 2022-02-26T10:00:00Z
-    webUrl: "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html"
+  - title: "Florida DEO stands by controversial facial recognition technology to verify IDs as the IRS drops ID.me"
+    excerpt: "NEW PORT RICHEY, Fla. — Concerns the ABC Action News I-Team first revealed a year ago about ID.me's facial recognition blocking legitimate applicants from collecting unemployment have now sparked a national debate over privacy, access and oversight of ..."
+    publishedDateTime: 2022-02-28T11:06:00Z
+    webUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me"
+    ampWebUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 43
     images:
-      - url: "https://static01.nyt.com/images/2022/02/26/travel/26qna-facial-recognition-1/26qna-facial-recognition-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/46af351/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fcc%2Feb%2F8b66c61340519e962eee608b8946%2Ffull-circle-florida-deo-id.me%20I-Team.png"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "GSA administrator reaffirms decision to stay away from facial recognition, at least for now"
-    excerpt: "The head of the General Services Administration re-affirmed Tuesday the stance of senior tech leaders at her agency who said they aren’t yet ready to introduce facial recognition as a method for identity verification for federal services — but they may be one day."
-    publishedDateTime: 2022-03-02T19:39:00Z
-    webUrl: "https://www.fedscoop.com/carnahan-reaffirms-gsa-decision-to-stay-away-from-facial-recognition-at-least-for-now/"
+  - title: "IRS has dropped ID.me's facial recognition tech after backlash, but Washington state will roll it out in June"
+    excerpt: "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS last month over privacy and equity concerns."
+    publishedDateTime: 2022-03-02T19:50:00Z
+    webUrl: "https://techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-irs-idme-facial-recognition-tech.amp"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 29
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 40
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/03/GettyImages-72326316.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+        width: 1920
+        height: 982
         isCached: true
+  - title: "The IRS dropped ID.me’s facial recognition tech after backlash. WA is rolling it out in June"
+    excerpt: "The IRS backed off a plan to require taxpayers to record a video of their faces to access records. Now, Washington is rolling out the tech for its unemployment system."
+    publishedDateTime: 2022-03-02T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/"
+    ampWebUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 28
 
 secured: "R3SU/wmhk82DTcmGiOkeXhh0VEUtLyVawpoYDCetTsO4mVgdKjE7hIn2r3CLZYtmxhi924Umwr08t4M+g8OfcPKihhYVxEX/5RDGt9OJiEtSJrfoQ75li4W9VqJpCqpRB8LYVtCIx3C6ri+8x9BvZWG/CD8f5GLlfzCrAS8XPzkf9hIAEss5A3etJYMCzx6VjpcxmNu4bru3IlBzkd7EihGi+g4VRJkB9ZHADAoNOfFM7PFgfj6bEscdEZM/J8/yhJten4l4ffRX4F+J66QIxCED4SioZiJKweGG97Xt2VjN0VP/b1otKYJcOElPG3kLyAiBejdihvAqm+0T+dBvxi2Tzigbwedn/GWgPwdUaH6s8+4jz5gmwDCGFodUiVtkfMTUcpUXm6V/dNoaQN6XjQAfYkhmDVQLjAdd0UJdSDPD7tKjsmyR9EzcjhrA/ttmroORsfZkIM8bNXf10lyYsp1Jagmqco04pAroxARPXjFgRnnk7XXN67rudOwsLqRsfxxbu++GlBpbboQvxL9x8w==;cA/kSlJRaBPWGZp3794Hyw=="
 ---

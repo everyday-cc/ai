@@ -39,6 +39,34 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Investors are shifting the focus from fintech to climate startups in 2022"
+    excerpt: "The inaugural State of Australian Startup Funding report analysed data from more than 800 Australian founders and startup investors."
+    publishedDateTime: 2022-02-28T22:21:00Z
+    webUrl: "https://www.startupdaily.net/2022/03/investors-are-shifting-the-focus-from-fintech-to-climate-startups-in-2022/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 23
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/04/AdobeStock_124297029-scaled.jpeg"
+        width: 2560
+        height: 1599
+        isCached: true
+  - title: "India - Fintech SaaS company Clear enters SME credit segment with launch of Invoice Discounting product"
+    excerpt: "Fintech SaaS company Clear enters SME credit segment with launch of Invoice Discounting product   Bangalore, Feb 28 (KNN)  Clear"
+    publishedDateTime: 2022-02-28T09:44:00Z
+    webUrl: "https://menafn.com/1103773659/India-Fintech-SaaS-company-Clear-enters-SME-credit-segment-with-launch-of-Invoice-Discounting-product"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?749209"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "sMuJga55TgIWIdFH3beg17bSBQHrY+GDi/pA/lEOloXVPsgHtNsTr6UFQ2YtpDyRJYQnC7bFHz/q5Id3OWSCsX5HovtyIhY5QG3FDNLKrXbEb1g7Rdvdsdh8AEVHkoAlXsE3CyvtWXYUUvkrwiIszEen2/KznCj9BZqgglChBolbB/QLpsENyKUT0Hsf2/P9TKyE4/sMmZJuXnnIv5iwU0ItaRkTA/QX7jg+3PVRd3h+Z7a4VmXZziO4sM9MXhlgGX+HamqaD0+nz/0Ml7uakFW7vyYecrvR+zGo9fC6gPTeOgAN3ZuG++nh1hQVEYXxqQBHk3YwRnp/ST3cJ3e1Mex5ibx34A2Fc++LPk3odjk=;wvYl/QttiAsyy7iQSjTYvA=="
 ---

@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Qualcomm Announces X70 Modem, Joining AI & 5G For Better Connections"
-excerpt: "Qualcomm has now officially announced its next-generation 5G modem chip empowered with AI, the Snapdragon X70. The modem is the first reported to be built"
-publishedDateTime: 2022-02-28T19:22:00Z
-originalUrl: "https://www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html"
-webUrl: "https://www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html"
-ampWebUrl: "https://www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html?amp"
-cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html?amp"
+title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
+excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"
+publishedDateTime: 2022-03-03T02:17:00Z
+originalUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc"
+webUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc"
+ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
 type: article
-quality: 59
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Android
-  domain: androidheadlines.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.androidheadlines.com/wp-content/uploads/2022/02/qualcomm-snapdragon-x70-5g-modem-from-Android-Central.jpg"
-    width: 1919
-    height: 1080
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/ce7fa9b/2147483647/strip/true/crop/4505x3013+0+102/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2018_12%2F3067518_sd_fi_viasat_campusexpand_02.JPG"
+    width: 320
+    height: 214
     isCached: true
 
 related:
@@ -105,6 +104,22 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "Qualcomm Announces X70 Modem, Joining AI & 5G For Better Connections"
+    excerpt: "Qualcomm has now officially announced its next-generation 5G modem chip empowered with AI, the Snapdragon X70. The modem is the first reported to be built"
+    publishedDateTime: 2022-02-28T19:22:00Z
+    webUrl: "https://www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/02/qualcomm-snapdragon-x70-5g-modem-from-Android-Central.jpg"
+        width: 1919
+        height: 1080
+        isCached: true
   - title: "Qualcomm's Snapdragon X70 modem with AI could arrive in 'iPhone 15'"
     excerpt: "Qualcomm has introduced its Snapdragon X70, a 5G modem that uses AI to increase performance, and it could appear in a future update to the iPhone."
     publishedDateTime: 2022-03-01T12:10:00Z
@@ -151,22 +166,6 @@ related:
         width: 708
         height: 421
         isCached: true
-  - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
-    excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"
-    publishedDateTime: 2022-03-03T02:17:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 42
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ce7fa9b/2147483647/strip/true/crop/4505x3013+0+102/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2018_12%2F3067518_sd_fi_viasat_campusexpand_02.JPG"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Qualcomm unveils its AI-powered Snapdragon X70 modem"
     excerpt: "Qualcomm has announced the new AI-driven Snapdragon X70 modem at this year’s Mobile World Congress in Barcelona. The modem is expected to deliver an improved 5G experience for mobile devices and tablets."
     publishedDateTime: 2022-03-01T12:36:00Z
@@ -196,6 +195,6 @@ related:
         height: 767
         isCached: true
 
-secured: "XLxTwKQuZqNm+I9h1O/lPTffqsQoaSvhTrU4xb9JwosrgojiVpOUJtbmRu+Li9wQjLorfrm89Tg1hIUcBLdLQOIsv7+kiQDcZoPcJV1eSBJMiZnjZ5tpj+Apn5akqkSJggxdGhQ2LrKeQZttJFUf0kJfJQHqJj3ZXLtgpAAIgl2J5+Ce2gn6VlnhYFrGh9Edzk8PkmXhDzZoJwp16QQ2l01RdjOHc5Y1BTsjjkCsFX2GzoL4qN9jLz5wv0Vy3YKynD9NW8ljeEJ104kr8ypm+oG+M4VtrYweZF4T21Txgjh4eeRXZfrkzv/DuR5/0z2gf0MzeP20+u6DIyH3D5Nhpy7gxcEShplpw0+T21HSRxkFmHWGqKOgo+R5AMkLFiWHPIUCCWnJtacH+h7vPFbQlpYnPDfrWWnXOKyLjTcLAY0l/DAGuwufGUtQRKwYgvfx0OJ4L5FDz3J1QOe74iL0gHdWQPCs+qriB2NILDlaZetUyiVXkZRGEzHvpNSpGoonGMuNhuWdJXL1sLan4TTTBQ==;4Nd7SIsgkD8ayOwO6/bKog=="
+secured: "doVUhxjymtRU+U/VkOV1r7VHxrOKmimE9WFgO5uVqIygOp9LWauxF25yiQliCflOJlAyXUmXA30KqQ2LAMo1UizS+iU9xYiuV5ldA9Q7r5tpVTTu9m5+5Qg2B/aAgZPkbj5DmRbeVY8pX7KvUq21PqdiM3phc3KZ+/EKLhpEqx+LSPEKGi52OPP7sq6IdTxi26T03tb+wh9eRZ5rAShZgeNORnfX8CCUh6zfzLEaTbehgapLP9aqdnCkCckJlF99mFIaYfHji8N+DtywNXfhLjr+8N6LjeFRN8a313YQyKJYxIOWi2fgvhIJ3yuzdf0lYzjWm92qf0wvJOE4+5Q2pSxNz4KX9MqA4HbtFl5aJfE=;pgc3+j3xEayW40fBQHEv2Q=="
 ---
 

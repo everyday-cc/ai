@@ -200,6 +200,15 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
+    publishedDateTime: 2022-03-03T02:23:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220302/3914041.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "gddSAK32O5WDyo2Mt2PBR7cSI9LvwbuTnor339PvNeYKoeYXpQfHKN4tgpiYTg+Yl/Jung/c4WBtzU/SvDDQJM4SlVe3FDhHVM6xcCEnMa8j16XKXbpeDo/egkTn6RXvn6Ctt2gKz98cJOBrGJZisYnB369Oq2IgN9f1yMYD/ecOEZaIwwXTIVAIgYiRH+/f779vHSkXpvyLUcLcqS9mEV7k6aMDHIYyQSbx2gcgvwwxRYoAFmizko4rPaksMUUpUEbfvUiiseaYwKoc/nEjVPVmOGLsu7Stb51Vs+9OYpG6ja3P6uVTvZYhuWcmPkxpYVtheGcnP+saVCTqmZkVquVue6uYjYpz4b0yOROOPJ8=;4quwugjay+Vx6+nP+1XiPw=="
 ---

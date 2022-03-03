@@ -165,6 +165,22 @@ related:
         width: 708
         height: 421
         isCached: true
+  - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
+    excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"
+    publishedDateTime: 2022-03-03T02:17:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 42
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ce7fa9b/2147483647/strip/true/crop/4505x3013+0+102/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2018_12%2F3067518_sd_fi_viasat_campusexpand_02.JPG"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Qualcomm X70 5G Modem Announced With Dedicated AI Processor for Better Reach"
     excerpt: "Since 5G uses a very broad range of network spectrum as compared to 4G, this new AI chip shall help your device to stay on the most efficient band using antenna tuning. Today, Qualcomm has just ..."
     publishedDateTime: 2022-02-28T16:05:00Z

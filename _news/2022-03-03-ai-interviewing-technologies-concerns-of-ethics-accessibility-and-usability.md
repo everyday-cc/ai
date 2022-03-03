@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Humans, not technology, should be put at the centre of artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is increasingly influencing every aspect of our lives. But trust in these systems, which is critical to their widespread adoption in society, is an issue that still needs to be addressed."
+    publishedDateTime: 2022-03-03T01:30:00Z
+    webUrl: "https://www.independent.ie/business/technology/humans-not-technology-should-be-put-at-the-centre-of-artificial-intelligence-41404981.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 33
+    images:
+      - url: "https://www.independent.ie/business/technology/d4379/41404979.ece/AUTOCROP/w1240h700/IB%20facial%20recognition"
+        width: 1240
+        height: 700
+        isCached: true
 
 secured: "z0k8Ksf/e1VYmmBaR5lg2G8XnDUQ9qu1m7C5wXvVU95P2b23F8osJEAkUJ0Ev+lorTikRKHtx92lcY0fsxpUYrwNOaycdWGOtfX4bu/OyUAw03Z3KaIn8uOZp4EqmMH9pDmDz3la+QQ64KeXj6PRf0Yd9yfmhcUqcVL8VkXSeBF3tVDTcbSgnL7Gy0+U115hBkUyi86Z2QhF4pwkklzjeMHUSFI0WFDBl/5S/a7v/xoEp+DjiZKbVv+QjN9JAmHSqr4Cx9X03MY/LwcNeNxbj8rKXxpKX3ntLYt8G7TJ+qf8S+GglWXVwux9OPdUB+i+/SEymuRPr8qraFDbQ1Rn1YnrdfLqheXEk8IpauUaOL8=;rK826DGVJBxiQjfoXBol8w=="
 ---

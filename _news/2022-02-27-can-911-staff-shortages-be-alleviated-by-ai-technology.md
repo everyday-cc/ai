@@ -9,8 +9,8 @@ ampWebUrl: "https://www.governing.com/work/can-911-staff-shortages-be-alleviated
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Governing
@@ -40,6 +40,20 @@ related:
       - url: "https://uxpamagazine.org/wp-content/uploads/sites/8/2022/03/kayden1.png"
         width: 415
         height: 339
+        isCached: true
+  - title: "Humans, not technology, should be put at the centre of artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is increasingly influencing every aspect of our lives. But trust in these systems, which is critical to their widespread adoption in society, is an issue that still needs to be addressed."
+    publishedDateTime: 2022-03-03T01:30:00Z
+    webUrl: "https://www.independent.ie/business/technology/humans-not-technology-should-be-put-at-the-centre-of-artificial-intelligence-41404981.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 33
+    images:
+      - url: "https://www.independent.ie/business/technology/d4379/41404979.ece/AUTOCROP/w1240h700/IB%20facial%20recognition"
+        width: 1240
+        height: 700
         isCached: true
 
 secured: "5s/LgjzwCuTQYaCBin7SIN0zUgsRTEchlyIGc0MmsWLl0V6Rfl8owKPISnednFlv44jNaxNbSBDOLVwWyKK+zhcuikM6I2yPGfoHrMJ2CLhM3Rv76a2auswFRS6G7xIwJw6Pd3p/yByT3+hEI0wapM4dk9LUg6oReKlvyUX8w+LV7VitxUkH286/HDn0sG+ZOsRnCLqwRtF1iVDxoOVWOm/z1H8zmgjgGlLBO8nsPBz2f8EOxykQFKXsh5s1cSkTtckHarjsOOIYot85P/20CPwpakhCYF4PLMU/Qps47BCn4VmjMe5ZniyXJ1dShQlTfGn7qoXRamoIoPGS6HP4S0aCv+Qfy1LA60ykv+nfeQ04iXayzPZ/u398z4gazh4Poapzxh72GZZHmVBYRXKQcr9sKOehrzhmB0Cg9BsdlLfesqLhysIdl1pynwuQ53g2/4sTZBq2r0xr5K+US6fpTLyMUM1Adn0nU+qWveieaGwW5n4HdEOf41BryompBKh7VvAF58UURNoCEzNXMmSByw==;pD1OjMoTGXjvj2k53SRrQw=="
