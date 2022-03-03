@@ -7,7 +7,7 @@ originalUrl: "https://www.automationworld.com/process/plant-maintenance/article/
 webUrl: "https://www.automationworld.com/process/plant-maintenance/article/22093084/3-ways-ai-is-changing-food-and-beverage-manufacturing"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,56 @@ images:
     width: 1200
     height: 729
     isCached: true
+
+related:
+  - title: "Five Ways Artificial Intelligence Is Reshaping Enterprise Sales Operations"
+    excerpt: "AI helps by automating the process based on behavioral trends and uncovering effective next steps while providing full-funnel visibility for managers and other members of the revenue operations organization."
+    publishedDateTime: 2022-03-03T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Three Salesforce AI pioneers launch Faros AI to bring order to engineering operations"
+    excerpt: "When the three founders of Faros AI were working at Salesforce, they helped develop the company’s artificial intelligence, known as Einstein. While the goal of Einstein was to help companies become more data-driven,"
+    publishedDateTime: 2022-03-02T15:16:00Z
+    webUrl: "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/"
+    ampWebUrl: "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/Faros2.png?w=680"
+        width: 679
+        height: 366
+        isCached: true
+  - title: "10 enterprise AI trends for 2022"
+    excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organzation."
+    publishedDateTime: 2022-03-03T10:00:00Z
+    webUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html"
+    ampWebUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/03/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "hWQcz3DkAXU/A1ZGwKfdAjq8b93cnmYLzST22Y1XfmYGG9BHxD47v9qWSUx0F12UtcKcyDac2qTCrTcjYctBxHE+7dpHQYCkCdiy2mi4UWy4cVr+bpkB5eopK8Dtzvov35TcOFcqP2Lj7tMS/h43ZKEcwoqE/friyU9WBAEz4y6P+G46aSR73NioH2cX7e9JXVeiHhxmbYxDaq8SuNYM2MFqSBzMdmEFlMxJmtMoc1xzcyU2hromN9EFQpKo3Axs2HWipsU/n/8FtGksAQaujX9A8VdXsvWBKC6rLvX1tvxpRsLOrssJtqYq9q9L3L2bWrXaI9wfPPXtbN08mgxKmrhYd7PQd10iKxLbrd7FVnPpvNkhZJz3gdiTjl6lngzRmXez5ygtBMJd4j5XbaxIebds1nzAsyXRtrs/UMDmlr5qFtG0GtfK5qWXnt/fsPwJn1zHgAZYJ2KkHaBfGCgRCI+XuA+2PP6i8+5R3IGrsdopJSEcYvI3dCCkaxGvdwGuFn2XD3nTWOe6j9F+Y5bDPg==;tqvBrSWK3pjKZ5wUa0l4og=="
 ---

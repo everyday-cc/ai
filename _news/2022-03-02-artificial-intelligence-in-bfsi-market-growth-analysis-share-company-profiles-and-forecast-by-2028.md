@@ -38,6 +38,20 @@ related:
         width: 620
         height: 380
         isCached: true
+  - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-03-03T12:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/smart-robot-market-report-2022-2027-industry-trends-size-share-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
+        width: 327
+        height: 432
+        isCached: true
   - title: "Artificial Intelligence Market Trends 2022 | Growth, Share, Size, Demand and Future Scope 2027"
     excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     publishedDateTime: 2022-03-03T08:42:00Z

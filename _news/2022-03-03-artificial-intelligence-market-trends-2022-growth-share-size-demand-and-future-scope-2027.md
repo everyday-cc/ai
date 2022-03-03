@@ -39,6 +39,20 @@ related:
         width: 620
         height: 380
         isCached: true
+  - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-03-03T12:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/smart-robot-market-report-2022-2027-industry-trends-size-share-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
+        width: 327
+        height: 432
+        isCached: true
   - title: "Smart Robot Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031"
     excerpt: "Comserve / -- The Smart Robot Market is expected to be around US$ 17 Billion by 2031 at a CAGR of 24% in the given forecast period. A smart robot is an artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge."
     publishedDateTime: 2022-03-02T06:42:00Z

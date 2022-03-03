@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making Financial Auditing More Assured With Blockchain"
+    excerpt: "As a technology, blockchain comes with a few well-known qualities—tools based on the technology are impossible to breach, they store transactions and other records in real-time, the data stored in blockchains cannot be manipulated without authorization and many others."
+    publishedDateTime: 2022-03-03T10:55:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6212d5286c70df80ffc0952e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1035
+        height: 924
+        isCached: true
   - title: "Why the blockchain community needs ethics"
     excerpt: "Data ethics studies evaluate moral problems related to data (including generation, recording, curation, processing, dissemination, sharing, and use, for example), algorithms (artificial intelligence, artificial agents, machine learning, and robots), and ..."
     publishedDateTime: 2022-03-02T13:00:00Z

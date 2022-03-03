@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/march-2022/industry-iot-
 webUrl: "https://www.automation.com/en-us/articles/march-2022/industry-iot-consortium-industrial-iot-ai? Control News & Articles"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 500
     height: 313
     isCached: true
+
+related:
+  - title: "Three Ways To Overcome Industrial AI Roadblocks"
+    excerpt: "Industrial AI can unlock any number of game-changing benefits for the oil/gas and energy sectors: overhauling inefficient operations, increasing productivity and cost efficiencies, reducing downtime,"
+    publishedDateTime: 2022-03-03T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Why artificial intelligence can continue to transform industries"
+    excerpt: "Business Reporter brings you news, features and analysis around the critical issues affecting business and management."
+    publishedDateTime: 2022-03-02T09:35:00Z
+    webUrl: "https://business-reporter.co.uk/management/why-artificial-intelligence-can-continue-to-transform-industries"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 37
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/011/iStock-1182697690.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "nVIQy923aDUolVP1QjcXkU85s5rXLRz9KwWC0shwNySWw0TNv+ePuoPIIS3qyPnuMJcOD1wp4CwvDZzT6c8tO304yvPPelRm+z+qlahibZVxBqMF0aA0XvIrK0IUyKFO6ncK38Ja0z9pivUqZEOKmTQTIpgC+uEOyqdbMKQFskLC/tLf5DYllkP2MTEoMHYM6vIcYDX1sjeF3iLqBRY/IpScGraoVXD0BdRFWBK8+3TwK6VpV2MXTNHX6RONBl+Etb8VRFopEPCLNAid/wIODd2VQ7KTukL73+hwH/8T3ndrzJa70JMAYvQRkL6UATBrNs285ipW/snFZgoRzxuVezGZvkxFf3BuhwqqHIX3+DCySiTcq+y1554/PIGowVlonEVT5IZGLqDdDe5T/XfQnnLfW/OLWQ4RCqJ79M/2p5CQgWlrMrJtIn+DaXrIlvumsqfJdxvvkJVMAI5IHuSXiQddpoK9kT9Y0Nirv0dtDzCQ6O0NlEv14KDofxmmGqvz0QwPpGz6ZpsEVPLLQbwITw==;BDUw86Fsrx3W80Re6xt4Qw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/"
 type: article
 quality: 80
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,19 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "Faros AI Raises $16 Million for Its EngOps Platform, Launches Free Community Edition"
-    excerpt: "New startup from Salesforce Einstein’s founding team takes seed investment to help companies move to data-driven engineering operations.SUNNYVALE, Calif.--(BUSINESS WIRE)--#DORAmetrics--Faros AI, the company behind the Faros Engineering Operations Platform,"
-    publishedDateTime: 2022-03-02T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=625029"
+  - title: "Five Ways Artificial Intelligence Is Reshaping Enterprise Sales Operations"
+    excerpt: "AI helps by automating the process based on behavioral trends and uncovering effective next steps while providing full-funnel visibility for managers and other members of the revenue operations organization."
+    publishedDateTime: 2022-03-03T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 30
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "10 enterprise AI trends for 2022"
+    excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organzation."
+    publishedDateTime: 2022-03-03T10:00:00Z
+    webUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html"
+    ampWebUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/03/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "3 Ways AI is Changing Food and Beverage Manufacturing"
+    excerpt: "Learn how utilizing AI can bring improvements to a company's product quality, maintenance procedures, and data analysis."
+    publishedDateTime: 2022-03-01T14:00:00Z
+    webUrl: "https://www.automationworld.com/process/plant-maintenance/article/22093084/3-ways-ai-is-changing-food-and-beverage-manufacturing"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 37
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2022/02/pfw_41481_garethwilliamsweb_0.619daecacce95.621c2ed8d5fda.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 729
         isCached: true
 
 secured: "XjmZ6YzKt2iuRC8YFA0O0Ri8/rajrsCTOCrusD/vL9HJ1yQnO65y+q62T8o3O2pxjnaqetkgG4Uf5MxbIXqJJUXht7BBENuBtQPNjgE/GndEfM5k2uyQ67m3O3RsnkKWcg3ikPPNY4mdADZ3ob02ZZz64u7si1kwbQN4aa1bcRZ82cK0VM/8rV8+1QB5MoKf9iX435aKAVzp7OQd4pTuZ+lyOVGRnZR7TVsgplDK5Ba8WglrORzYjUm/yP1EZ+X7SKdl6PS1j1EOYAp3hXjZ08EZ44Ebc3BJGG4INGGDwbstazlJVotQuQyFHZS7Pb/w60ae7s+tVsqxxklBSk1FZ8ZjDs7uj5wa18dOprhWC8EZCkapdxIX4fTiILjOV7RctdLVRFUYJih11P4eJGWNsfmIWsWOG454eatP3sX5CG2tp88Ogex4pdQfyjdJN+aGMqL3Az7MQQnmGQTFOA0H0FMplMHE3FOqRgH0DNybIvbif7btMocxPFR5N4uaO6uLaipLsBiLUyWAWV7avqfG8A==;0wU1SyaZHmSlJ5+CGwJocQ=="

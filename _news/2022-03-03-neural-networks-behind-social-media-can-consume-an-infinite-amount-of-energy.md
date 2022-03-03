@@ -19,17 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "University of Copenhagen: Neural networks behind social media can consume an infinite amount of energy"
-    excerpt: "Artificial neural networks are deployed intensively by social media platforms like Twitter and Facebook to recommend content that matches user preferences. The process is energy intensive and generates heavy carbon emissions."
-    publishedDateTime: 2022-03-02T04:38:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-copenhagen-neural-networks-behind-social-media-can-consume-an-infinite-amount-of-energy/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-copenhagen-neural-networks-behind-social-media-can-consume-an-infinite-amount-of-energy/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-copenhagen-neural-networks-behind-social-media-can-consume-an-infinite-amount-of-energy/"
+  - title: "The Neural Networks Powering Social Media Have an Endless Energy Appetite"
+    excerpt: "Neural networks used for social media require high amounts of energy for training, and a new study has demonstrated that all the world's energy could be used to train a single neural network but perfection would still not be possible."
+    publishedDateTime: 2022-03-03T10:21:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/the-neural-networks-powering-social-media-have-an-endless-energy-appetite-359198"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 23
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 38
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/359198/the-neural-networks-powering-social-media-have-an-endless-energy-appetite-359198-640x360.jpg?cb=20220303"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "53UQZ9bPAFqcscsIdiTV25+L/hdOxrtdE9344UINcrYLanWQ4zRvgxuG0SUcDqsMiPUXnXrh+FwXsI4hwSWReej9NqMyv4RSz5Y/mhsGHAxRUTf1qEo3nzluts0oXFQAxXsm0Kd15FBIZlEdb/fD5qTD/xl0OOWkrqCE0DBqkTbzX9yQYbJzyNW7BJyA2vcNvtOUfC9G2Z+2/qcIReKutXeJe0aJMFUDCTVMQcUioNjw26HIrvKdbYOqous/7kYMM5+B6M/5DysQ5m8OkxS8UsGM5phC+h9z1F2ek5wMVLYeBeK0/WZzPntuV8F3unPj334KR0tFKYypGl1D4+L1eb88LxIL2kK6Vv6rrVpF2ek=;oTrImh/BjtXap496+K2ODQ=="
 ---

@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-03-three-ways-to-overcome-industrial-ai-roadblocks.md",
+      "title": "Three Ways To Overcome Industrial AI Roadblocks",
+      "excerpt": "Industrial AI can unlock any number of game-changing benefits for the oil/gas and energy sectors: overhauling inefficient operations, increasing productivity and cost efficiencies, reducing downtime,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/",
+      "publishedDateTime": "2022-03-03T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations.md",
+      "title": "Five Ways Artificial Intelligence Is Reshaping Enterprise Sales Operations",
+      "excerpt": "AI helps by automating the process based on behavioral trends and uncovering effective next steps while providing full-funnel visibility for managers and other members of the revenue operations organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/",
+      "publishedDateTime": "2022-03-03T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-these-ai-mistakes-are-slowly-killing-your-customer-experience.md",
+      "title": "These AI Mistakes Are Slowly Killing Your Customer Experience",
+      "excerpt": "AI assumes an expanded role in the customer service landscape. For one, companies started using AI to automate customer behavior pattern analysis — processing gigabytes of data at a velocity that humans can never match.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f8ce871defbdeb0c90630/0x0.jpg?format=jpg&crop=3659,2597,x0,y0,safe&fit=crop",
+          "width": 3659,
+          "height": 2597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/",
+      "publishedDateTime": "2022-03-03T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-making-financial-auditing-more-assured-with-blockchain.md",
+      "title": "Making Financial Auditing More Assured With Blockchain",
+      "excerpt": "As a technology, blockchain comes with a few well-known qualities—tools based on the technology are impossible to breach, they store transactions and other records in real-time, the data stored in blockchains cannot be manipulated without authorization and many others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d5286c70df80ffc0952e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1035,
+          "height": 924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/",
+      "publishedDateTime": "2022-03-03T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector.md",
       "title": "Intellimation.ai launches its NLP and ML-based product ADEPT for insurance sector",
       "excerpt": "Intellimation.ai, a Natural Language Processing and Machine Learning- based cognitive fintech company is launching its product ADEPT for the insurance and insurance brokerage industry. ADEPT is an extension of their core AI platform Vector into the insurance sector.",
@@ -47,21 +254,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-03-ai-computer-maker-graphcore-unveils-3-d-chip-promises-500-trillion-parameter-ultra-intelligence-machine.md",
-      "title": "AI computer maker Graphcore unveils 3-D chip, promises 500-trillion-parameter 'ultra-intelligence' machine",
-      "excerpt": "The new chip, made of two die stuck together, will speed performance by 40% for machine learning tasks such as EfficientNet.",
+      "path": "_news/2022-03-03-graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer.md",
+      "title": "Graphcore unveils next-generation AI chips and plans for powerful supercomputer",
+      "excerpt": "Graphcore, a company developing AI accelerator chips, has announced the latest generation of its products and plans for an AI supercomputer.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-computer-maker-graphcore-unveils-3-d-chip-promises-500-trillion-parameter-ultra-intelligence-machine/",
-      "originalUrl": "https://www.zdnet.com/article/ai-computer-maker-graphcore-unveils-3-d-chip-promises-500-trillion-parameter-ultra-intelligence-machine/",
+      "webUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/502695fb2067bb4dded539f74c3322b2bdb51bb3/2022/03/03/13f6ee74-f0f1-476b-8763-3eabefbbec68/graphcore-wow-diagram.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 908,
+          "height": 593,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,16 +276,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-computer-maker-graphcore-unveils-3-d-chip-promises-500-trillion-parameter-ultra-intelligence-machine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-computer-maker-graphcore-unveils-3-d-chip-promises-500-trillion-parameter-ultra-intelligence-machine/",
-      "publishedDateTime": "2022-03-03T02:10:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "publishedDateTime": "2022-03-03T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -94,8 +301,11 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Natural Language Processing",
+        "Facebook AI"
       ]
     },
     {
@@ -775,57 +985,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations.md",
-      "title": "Three Salesforce AI pioneers launch Faros AI to bring order to engineering operations",
-      "excerpt": "When the three founders of Faros AI were working at Salesforce, they helped develop the company’s artificial intelligence, known as Einstein. While the goal of Einstein was to help companies become more data-driven,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/",
-      "originalUrl": "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Faros2.png?w=680",
-          "width": 679,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/",
-      "publishedDateTime": "2022-03-02T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-02-4-takeaways-for-student-loan-borrowers-after-bidens-big-speech.md",
       "title": "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech",
       "excerpt": "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers.",
@@ -874,6 +1033,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform.md",
+      "title": "Faros AI raises $16M to shine a light on developer productivity and the value of software, launches free open source platform",
+      "excerpt": "What if what you think you know about developer productivity and the value of software is off the mark, and that is hurting the quality of your software, the operation of your organization, as well as your bottomline?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "originalUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8a819abbd7405506c1b7527740b00bd5c40bd8e4/2022/03/02/09bb4a17-40a5-4bea-872f-7e60aeaab361/44b7dade8566bd527b25c2f2ddd47f0907f27814-1640x908.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "publishedDateTime": "2022-03-02T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1029,196 +1239,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-amid-war-an-independent-russian-radio-station-goes-silent.md",
-      "title": "Amid war, an independent Russian radio station goes silent",
-      "excerpt": "In the days since Russian President Vladimir Putin ordered an invasion of Ukraine on February 24, officials have begun a crackdown on independent media and protesters who have come out in their thousands to decry the war ... of ill fortune, who was ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/",
-      "originalUrl": "https://www.aljazeera.com/news/2022/3/2/amid-war-an-independent-russian-radio-station-goes-silent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
-          "width": 1250,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-03-02T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-pepper-the-robot-offers-friendly-face-tackling-crimes-against-children.md",
-      "title": "Pepper the robot offers friendly face tackling crimes against children",
-      "excerpt": "The semi-humanoid robot Pepper is being used by police in the United Arab Emirates to uncover crimes against children such as abuse and exploitation, a sensitive area where a friendly android face could prove more approachable and less traumatic for those involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
-      "originalUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2022/03/4418555f46dfa57ee74e09e597cb156b06f0c15bw-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
-      "publishedDateTime": "2022-03-02T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-this-fintechs-hypergrowth-could-last-for-years.md",
-      "title": "This Fintech's Hypergrowth Could Last for Years",
-      "excerpt": "Upstart Auto went live in 2021 after the company acquired Prodigy and married its AI with Prodigy's retail software. It gives automotive dealers a digital sales tool that can instantly get lending decisions from Upstart instead of going back and forth with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "originalUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/668280/gettyimages-1319565513-1.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-how-to-help-humans-understand-robots.md",
-      "title": "How to help humans understand robots",
-      "excerpt": "Scientists who study human-robot interaction often focus on understanding human intentions from a robot's perspective, so the robot learns to cooperate with people more effectively. But human-robot interaction is a two-way street,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-robot.jpg",
-          "width": 1920,
-          "height": 1169,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-humans-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp",
-      "publishedDateTime": "2022-03-02T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

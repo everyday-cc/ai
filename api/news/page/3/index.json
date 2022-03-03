@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-01-16-tech-experts-share-advice-for-companies-considering-an-ai-plan.md",
+      "title": "16 Tech Experts Share Advice For Companies Considering An AI Plan",
+      "excerpt": "Determining if AI will be a helpful tool for your organization and, if so, how and where to deploy it takes careful planning, groundwork and teamwide buy-in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
+      "publishedDateTime": "2022-03-01T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ai-in-healthcare-market-is-projected-to-reach-1944-billion-by-2030.md",
+      "title": "AI in Healthcare Market is projected to reach $194.4 billion by 2030",
+      "excerpt": "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-buffett-backed-byd-to-use-baidu-apollos-autonomous-driving-technology-in-its-evs-as-it-raises-its-game-against-tesla-domestic-rivals.md",
+      "title": "Buffett-backed BYD to use Baidu Apollo’s autonomous driving technology in its EVs as it raises its game against Tesla, domestic rivals",
+      "excerpt": "It will be an important step for Beijing-based Baidu too, as it strives to commercialise its Apollo self-driving technologies after nearly five year of development. “BYD’s EVs have a good ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/01/0b981023-b94c-4324-be7a-50218aaf4a76_75ac7235.jpg?itok=El5opAGi&v=1646126110",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "publishedDateTime": "2022-03-01T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-why-tech-marketing-leaders-are-racing-to-sponsor-formula-1.md",
       "title": "Why Tech Marketing Leaders Are Racing To Sponsor Formula 1",
       "excerpt": "With the rising popularity of Formula 1, technology companies are expanding their sponsorships and seeing amazing returns on their investments.",
@@ -331,6 +477,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-01-energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding.md",
+      "title": "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding",
+      "excerpt": "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "originalUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "publishedDateTime": "2022-02-28T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital.md",
       "title": "Chinese Self-Driving Truck Startup Secures $188 Million In Funding From Sequoia China And Legend Capital",
       "excerpt": "China’s Ministry of Industry and Information Technology rolled out guidelines for autonomous vehicles last April, encouraging local governments to open highways and roads for testing self-driving cars.",
@@ -478,7 +667,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/28/how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -991,194 +1180,6 @@
         "AI",
         "Math for AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do.md",
-      "title": "AI Is Poised To Revolutionize How We Coach Employees: Here’s What Company Leaders Need To Know And Do",
-      "excerpt": "It's just the beginning of what I believe will be a rapid evolution of people management techniques over the next decade or more, driven by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/amp/",
-      "publishedDateTime": "2022-02-28T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-are-you-integrating-human-sense-with-machine-learning.md",
-      "title": "Are you integrating human sense with machine learning?",
-      "excerpt": "Artificial intelligence and machine learning models compute data at hyperscale speed. Without doubt, these computer models have outperformed the human brain in computing data, recognizing patterns ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89883172,imgsize-34264,width-1200,height-628,overlay-etcio/are-you-integrating-human-sense-with-machine-learning.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "publishedDateTime": "2022-02-27T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
-      "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
-      "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 753,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "publishedDateTime": "2022-02-27T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence.md",
-      "title": "Unfairness in Competitive Sports may be Overcome by Artificial Intelligence",
-      "excerpt": "Doping — the use of banned substances in competitive sports may be scrapped with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "originalUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/olympics-based-exercise.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "publishedDateTime": "2022-02-27T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

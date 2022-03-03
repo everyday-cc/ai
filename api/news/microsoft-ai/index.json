@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-03-graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer.md",
+      "title": "Graphcore unveils next-generation AI chips and plans for powerful supercomputer",
+      "excerpt": "Graphcore, a company developing AI accelerator chips, has announced the latest generation of its products and plans for an AI supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "publishedDateTime": "2022-03-03T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously.md",
       "title": "Microsoft’s new service helps health care organizations analyze multiple data types simultaneously",
       "excerpt": "The goal of Azure Health Data Services is to help organizations discover insights by bringing disparate data together and connecting it with tools for machine learning, analytics, and AI ...",
@@ -1339,49 +1394,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsofts-azure.md",
-      "title": "TCS launches Clever Energy, Intelligent Power Plant and TCS Envirozone on Microsoft’s Azure",
-      "excerpt": "The award-winning TCS Clever Energy platform uses IoT, AI, machine learning, and cloud to help organizations ... and TCS Envirozone on Microsoft’s Azure IoT platform. These suites will help organizations gain insights into energy usage and reduce waste ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
-      "publishedDateTime": "2022-02-09T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

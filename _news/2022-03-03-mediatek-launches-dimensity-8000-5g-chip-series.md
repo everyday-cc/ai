@@ -28,14 +28,19 @@ images:
 
 related:
   - title: "MediaTek Launches Dimensity 8000 5G Chip Series for Premium 5G Smartphones"
-    excerpt: "Three new chips expand MediaTek's Dimensity 5G portfolioHSINCHU, March 1, 2022 /PRNewswire/ -- MediaTek today launched the Dimensity 8100 and"
-    publishedDateTime: 2022-03-01T07:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones-1031241439"
+    excerpt: "MediaTek today launched the Dimensity 8100 and Dimensity 8000 system-on-chips (SoCs) to bring flagship level technology – connectivity, displays, gaming, multimedia and imaging features – to premium 5G smartphones."
+    publishedDateTime: 2022-03-01T06:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mediatek-launches-dimensity-8000-5g-chip-series-for-premium-5g-smartphones/article_16680f3d-985f-5b42-b538-c5cbd6c8eda1.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "MediaTek Expands 5G Chip Portfolio at High End"
     excerpt: "MediaTek has announced the Dimensity 8000/8100 5G chip for high-end phones. This new, high-end chip sits just below the company's flagship Dimensity 9000 chip. Comparing the two chips, the new 8000 series has slightly scaled-back performance in most areas."
     publishedDateTime: 2022-03-01T23:25:00Z
@@ -46,6 +51,6 @@ related:
       domain: phonescoop.com
     quality: 19
 
-secured: "Y90TZa8WnQ1ObRK7nkhwpp4He+VfFwU7bN6Zkd8vdZjKR8BFdCcZu2i5up4iXeSYlmbUO49vzlxSz21ZakCBUWpZGHmHBVa8H1x0pP/qvncmB9JRvXMdTF4o3rsxy6ERyMdeS5nH/kiL83wqpN3vNhEhqfZCBd4qgd47CyIXbBDapkeLdw/GO7zvLksPJlc3xG/OhCfJ21Po65d1NPIME7mYetjCyrm346qJ2s6eoGrpzuNV+affrHaqI3FKfz9UEDZuWsUhUP6vNG0vHIRJw6a/YJJ1GN5pQMxFLQBAwDBd0VWQD6iDuYa36EOU4tM1fP4d118jioTNJbAvdk9hIctK4BB3a3oNHqGkhC2utQA=;cjEJ3KRnzC4W2HleGVMREA=="
+secured: "0EgQoGaPHk+bnIKflbnkhY+ALL9rkDr+P8EppAw4Ef+5U++4FCjCV7MNgdGYu6KxMVgpN+w6h5nOZvVwRnSBt+QX+QlpNKB5DfrVMZTL9ijKTB7EHXcQ5XKXYAQonZpvIMzMQ/Ly7ueQ+JJ4t4qSnTh8/lJOj6MeXRN6yKra8v2VCdKfdfUmMBbgRVITWPxuxcbdtBerY8rQDzR7kzr+4hjfRMcWWXojGP2u+AlKUu8oTLoQS1FAnvFfPTWxBAbBjOWrOOIjDOMCH9s7Cy6nnPcrg8r67xAN0AHMHZobkuQJOOBiPuQPn8g5nLvRfgGRmG8QKievJ/ewzVimH3ccwwXBpAvOef6X8YCNukGbiyJDdnpN/niDwh8SoqWT05ssrqfnNFVXb/A9Ptd0OKTIHGNk0U9IDUcBnAWJxTponGdd/Qh7CfawMY5ouy77zAbbXwO6a/JOZOYRUqJScQYlXKYQQyHbJzee5kcjqc/w2hukHBj9r3Vh458iVcYhzGNKBwLr3xk1DqhbiTvStn5xMA==;zTReFiRhGvpKEt82fBdsbw=="
 ---
 

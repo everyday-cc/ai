@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cityam.com/why-the-blockchain-community-needs-ethics/?am
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/why-the-blockchain-community-needs-ethics/?amp=1"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: City A.M.
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making Financial Auditing More Assured With Blockchain"
+    excerpt: "As a technology, blockchain comes with a few well-known qualities—tools based on the technology are impossible to breach, they store transactions and other records in real-time, the data stored in blockchains cannot be manipulated without authorization and many others."
+    publishedDateTime: 2022-03-03T10:55:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6212d5286c70df80ffc0952e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1035
+        height: 924
+        isCached: true
   - title: "Disrupting centralised structures of digital economy using AI and Blockchain"
     excerpt: "Access to AI and blockchain technologies has been democratised, but humans still lack full control of their digital interactions. This is now beginning to change. Technologies such as AI and blockchain are now becoming more commonplace across multiple industries – healthcare,"
     publishedDateTime: 2022-02-27T04:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/increasing-revenue-and-enhancing-member-
 webUrl: "https://www.cuinsight.com/increasing-revenue-and-enhancing-member-experience-with-artificial-intelligence.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,52 @@ images:
     width: 1000
     height: 500
     isCached: true
+
+related:
+  - title: "These AI Mistakes Are Slowly Killing Your Customer Experience"
+    excerpt: "AI assumes an expanded role in the customer service landscape. For one, companies started using AI to automate customer behavior pattern analysis — processing gigabytes of data at a velocity that humans can never match."
+    publishedDateTime: 2022-03-03T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/621f8ce871defbdeb0c90630/0x0.jpg?format=jpg&crop=3659,2597,x0,y0,safe&fit=crop"
+        width: 3659
+        height: 2597
+        isCached: true
+  - title: "Neiman Marcus Improves Customer Experience via AI, Machine Learning"
+    excerpt: "A lot has changed since the  Neiman Marcus Group (NMG) was founded in 1907, but one thing that hasn't changed is the company's focus on customer service and style. More than a century on, NMG still sees high-touch \"style interactions\" as its key differentiator."
+    publishedDateTime: 2022-03-01T12:01:00Z
+    webUrl: "https://www.rfidjournal.com/neiman-marcus-improves-customer-experience-via-ai-machine-learning"
+    type: article
+    provider:
+      name: RFID Journal
+      domain: rfidjournal.com
+    quality: 54
+    images:
+      - url: "https://www.rfidjournal.com/wp-content/uploads/2022/02/NeimanMarcus-1.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "83 per cent of Indian BFSI players think AI is compulsory for better customer experience"
+    excerpt: "A survey conducted by PwC in collaboration with FICCI showed that about 83 per cent of the respondents believed that AI is key to offering a better customer experience in Indian financial service companies."
+    publishedDateTime: 2022-03-01T10:27:00Z
+    webUrl: "https://analyticsindiamag.com/83-per-cent-of-indian-bfsi-players-think-ai-is-compulsory-for-better-customer-experience/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 30
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/photo-1462206092226-f46025ffe607.jpeg"
+        width: 753
+        height: 500
+        isCached: true
 
 secured: "v+rg9TIQsEW4W50XP+ZuD/tNOWE5yJ+YAy0ydpQv4U4rU+pNZ2KhU8NnZJhBNsagUR3DrZRNLXG7faYQfwC4GGa19ekgS9bK6zo10SnLJ8QwhhDHLnH0/NjbT+8kEHYxy1F0KjYh5Lfk8CNMmiy0AzpOj/Vn7EYIT7mBr20Oej2R6LwzMeKnSjp4gBdHX8NN8/44AtPBoekqEDUoyJTdzDYTIuHA1ikoDOMe3n+e00ug9/sm7nZ1OBcZ6FdugsIJMaKnTXvDuS4oSdWFsOvTh2B4Rl5QeuEx2aV8ft7YB78kHwbHjX5ZNiY2qJPasc/INHZkt3Pt2vWV0poR7nB12DeQy7XtKTdsSN6m8waaRsnwO8K6+hwxwRi0BofIUC0NddqbcrHQKp0BodlYE4GMK5f79iTBqVeLiIN+loBc+WvZ2L0xqUFcmb0sfgtQbhCsckccqFkZ4ydjwfBRviiF/Oe7z4k5n9RKeIut4n3eu0QAA/ExNF6ykUdN3q+MGIga8ssATWyciGs7SUvfESOEaw==;FXg5qQn7wzSVBKXkJ8Sg1w=="
 ---

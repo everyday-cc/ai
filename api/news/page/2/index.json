@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-03-02-why-the-blockchain-community-needs-ethics.md",
-      "title": "Why the blockchain community needs ethics",
-      "excerpt": "Data ethics studies evaluate moral problems related to data (including generation, recording, curation, processing, dissemination, sharing, and use, for example), algorithms (artificial intelligence, artificial agents, machine learning, and robots), and ...",
+      "path": "_news/2022-03-02-amid-war-an-independent-russian-radio-station-goes-silent.md",
+      "title": "Amid war, an independent Russian radio station goes silent",
+      "excerpt": "In the days since Russian President Vladimir Putin ordered an invasion of Ukraine on February 24, officials have begun a crackdown on independent media and protesters who have come out in their thousands to decry the war ... of ill fortune, who was ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/why-the-blockchain-community-needs-ethics/",
-      "originalUrl": "https://www.cityam.com/why-the-blockchain-community-needs-ethics/",
+      "webUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/",
+      "originalUrl": "https://www.aljazeera.com/news/2022/3/2/amid-war-an-independent-russian-radio-station-goes-silent",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 152,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/01/CAMD-G89-1024-JThomason.jpg",
-          "width": 1024,
-          "height": 640,
+          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
+          "width": 1250,
+          "height": 625,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cityam.com/why-the-blockchain-community-needs-ethics/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/why-the-blockchain-community-needs-ethics/?amp=1",
-      "publishedDateTime": "2022-03-02T05:00:00-08:00",
+      "ampWebUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-03-02T05:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-pepper-the-robot-offers-friendly-face-tackling-crimes-against-children.md",
+      "title": "Pepper the robot offers friendly face tackling crimes against children",
+      "excerpt": "The semi-humanoid robot Pepper is being used by police in the United Arab Emirates to uncover crimes against children such as abuse and exploitation, a sensitive area where a friendly android face could prove more approachable and less traumatic for those involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
+      "originalUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.laprensalatina.com/wp-content/uploads/2022/03/4418555f46dfa57ee74e09e597cb156b06f0c15bw-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
+      "publishedDateTime": "2022-03-02T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +91,103 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-this-fintechs-hypergrowth-could-last-for-years.md",
+      "title": "This Fintech's Hypergrowth Could Last for Years",
+      "excerpt": "Upstart Auto went live in 2021 after the company acquired Prodigy and married its AI with Prodigy's retail software. It gives automotive dealers a digital sales tool that can instantly get lending decisions from Upstart instead of going back and forth with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
+      "originalUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/668280/gettyimages-1319565513-1.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-how-to-help-humans-understand-robots.md",
+      "title": "How to help humans understand robots",
+      "excerpt": "Scientists who study human-robot interaction often focus on understanding human intentions from a robot's perspective, so the robot learns to cooperate with people more effectively. But human-robot interaction is a two-way street,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-robot.jpg",
+          "width": 1920,
+          "height": 1169,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-humans-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp",
+      "publishedDateTime": "2022-03-02T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -527,49 +674,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-human-speech-recognition-model-to-overcome-hearing-impairment.md",
-      "title": "Human Speech Recognition Model to Overcome Hearing-Impairment",
-      "excerpt": "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "originalUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "publishedDateTime": "2022-03-01T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
       "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
       "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
@@ -768,6 +872,50 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
+      "title": "Machine learning improves human speech recognition",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1079,152 +1227,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-16-tech-experts-share-advice-for-companies-considering-an-ai-plan.md",
-      "title": "16 Tech Experts Share Advice For Companies Considering An AI Plan",
-      "excerpt": "Determining if AI will be a helpful tool for your organization and, if so, how and where to deploy it takes careful planning, groundwork and teamwide buy-in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
-      "publishedDateTime": "2022-03-01T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ai-in-healthcare-market-is-projected-to-reach-1944-billion-by-2030.md",
-      "title": "AI in Healthcare Market is projected to reach $194.4 billion by 2030",
-      "excerpt": "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-buffett-backed-byd-to-use-baidu-apollos-autonomous-driving-technology-in-its-evs-as-it-raises-its-game-against-tesla-domestic-rivals.md",
-      "title": "Buffett-backed BYD to use Baidu Apollo’s autonomous driving technology in its EVs as it raises its game against Tesla, domestic rivals",
-      "excerpt": "It will be an important step for Beijing-based Baidu too, as it strives to commercialise its Apollo self-driving technologies after nearly five year of development. “BYD’s EVs have a good ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "originalUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/01/0b981023-b94c-4324-be7a-50218aaf4a76_75ac7235.jpg?itok=El5opAGi&v=1646126110",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "publishedDateTime": "2022-03-01T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

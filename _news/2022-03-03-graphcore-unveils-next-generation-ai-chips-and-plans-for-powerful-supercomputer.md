@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai
 ampWebUrl: "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 106
+heat: 116
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +23,9 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
@@ -48,6 +51,6 @@ related:
         height: 908
         isCached: true
 
-secured: "sOsZO2fXQq5r7UGnvCldEemA1uAfl10zZE3y5uikqj0Fv9JaTt+HSMRfLxouolOGbyUKETp3McnEDpKR7FZx55m+Acskl4IF4/pm2p382Oe+vJM8EhKejlVtTgmhZqCMmeBfx1DU+r3a+BmCOArVd5o5m9NRActX4UDy4u4qxs/K8hab/ciMx79rH6u0pVZjmaM6/XoCYNUaH7AuV+YUWb6ZjRD7YkG+0RvU9yPXqaqU7uNS0NLaHkXoXGBay5olRZqNwuyc5TRWQ73Xo3xWAv7j6pwokJqYYWVZ7fdtZU7lL70/JMOX0UDaAIFcV+V4wFeF74RzLj//C9AzaoY/sbP1u7ChVzhStXqgStKdbjg=;FcioN9wj42AN0dtsRilWOw=="
+secured: "m3dfO8Zq/SgLFYCq2sXRqytPco365fV+ccP74syST1cIZtOc2QAtuPwyuPmh/dsR6kMqcOCqJtGjct3/5PgP0y6Tws5Cwtyvjc/KVkpePc/S9Uqr66JsIj+s7BV6GMYF+CRGDIGmzAXin5aGg8cnnuVxu88VGHiykpuFM3+cRvrRkX/Jc+35WRn99n/Sq8DT2Ub7LAB23Yutr9kdUuQbTqE8OdabJJWLE2wRDaZhlx2RqntKUeh6Ue1FL1Ks2g4zC3NLF/T91WcNTTsVhneRudl4lq0Z4o810BD9Ky3Mc90Ce9+j2EraBz/0rRtvTwIj4FCbT480nvpAyWJ5ywqwO5TGYlhuy4AO4NSgwMPBdUIRPIOawcW6UAaJVBzPmkEgXglwx5bm4BW2+WTBf1fHWNbGa1rmw10MTwV96CKSP8AvGKf/pC1u6didmovPLAEShEvY0W8tVbZldIcrJubrvevWy7uJN76Eo8KlZcD+Dj2sJ8XcEysXPR/1SpolFnLTHLFJ0SaN9/LFSs9799ZpeQ==;YsZzS9H6Ba0Zpmp4RhSBqw=="
 ---
 

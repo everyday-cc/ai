@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "7 Favorite Fintech Stocks to Buy After the Correction"
+    excerpt: "Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future."
+    publishedDateTime: 2022-03-03T06:10:00Z
+    webUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/"
+    ampWebUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2021/07/fintech_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "P4ttsUwChwtd7sRXEpLU5XsBan7o2vvW1Tt6sqS6ajDhbFrlyhdi2oJZJTThqJNJQIZtGb+aEZN4ic7VIEwcdhzjPF4AT4Poc6SfZrTratX99Wp5eKmIAPNs6/x2POE17wRV3PxqgHpGFRWvl+RpWL3DUhRCGWLuOdO7cWaI/BCJQQIELqGxJ4nYg1j5BRmLOppUye1Z7VaClvhjmyL1FL01rAYMgBgZTs8vTRAeQ/Bq4SkgUHUwZCCT43TlwbPPH5LIrDOACtiftvYx8f/EF/wdmTm/WIPlto2TiJjn92Y6Td9ZnGs6xih39LFN/S9FICNcK2B9b2GHE3DgQmTYOPFrOpW2VXluLzXqRoiVCaw=;c2Pbel+Z9t/38at6XYqYGw=="
 ---

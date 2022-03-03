@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-03-making-financial-auditing-more-assured-with-blockchain.md",
+      "title": "Making Financial Auditing More Assured With Blockchain",
+      "excerpt": "As a technology, blockchain comes with a few well-known qualities—tools based on the technology are impossible to breach, they store transactions and other records in real-time, the data stored in blockchains cannot be manipulated without authorization and many others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d5286c70df80ffc0952e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1035,
+          "height": 924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/",
+      "publishedDateTime": "2022-03-03T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector.md",
       "title": "Intellimation.ai launches its NLP and ML-based product ADEPT for insurance sector",
       "excerpt": "Intellimation.ai, a Natural Language Processing and Machine Learning- based cognitive fintech company is launching its product ADEPT for the insurance and insurance brokerage industry. ADEPT is an extension of their core AI platform Vector into the insurance sector.",
@@ -233,6 +285,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-27-cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist.md",
+      "title": "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist",
+      "excerpt": "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
+      "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
+      "publishedDateTime": "2022-02-27T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1320,101 +1406,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group.md",
-      "title": "Troutman Pepper Expands Financial Services Practice with Addition of Nationally Recognized Consumer Financial Services Group",
-      "excerpt": "NEW YORK, Feb. 8, 2022 /PRNewswire/ -- Troutman Pepper announced today that a nationally recognized consumer financial services ... including machine learning marketing, fraud prevention and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group-1031172110",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group-1031172110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-benefits-of-5g-in-banking-and-financial-services.md",
-      "title": "Benefits of 5G in banking and financial services",
-      "excerpt": "5G, the high-speed network technology, following various benefits in banking and financial service. With the help of low latency ... Issues will be instantly resolved thanks to AI and machine learning equipped customer ‘bots’, making the whole process ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/benefits-5g-banking-financial-services-arun-rabra",
-      "originalUrl": "https://www.linkedin.com/pulse/benefits-5g-banking-financial-services-arun-rabra",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGtY31R9ZfoQg/article-cover_image-shrink_600_2000/0/1644348379508?e=1650499200&v=beta&t=Z2udv0vMsuS03QGhW2qlNHP-C2ZTMRY8EXpXd_BsXEo",
-          "width": 713,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
