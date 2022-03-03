@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-03T06:44:00Z
 originalUrl: "https://menafn.com/1103792434/Automotive-Artificial-Intelligence-Market-2022-SWOT-Analysis-and-Worldwide-Growth-Survey-by-2031"
 webUrl: "https://menafn.com/1103792434/Automotive-Artificial-Intelligence-Market-2022-SWOT-Analysis-and-Worldwide-Growth-Survey-by-2031"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?406730"

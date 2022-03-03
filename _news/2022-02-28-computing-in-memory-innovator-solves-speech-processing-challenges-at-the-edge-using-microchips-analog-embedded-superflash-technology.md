@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Computing-in-Memory Innovator Solves Speech Processing Challenges"
+    excerpt: "SuperFlash memBrain™ memory solution enables WITINMEN’s System on Chip (SoC) to meet the most demanding neural processing cost, power, and performance requirements"
+    publishedDateTime: 2022-03-03T08:28:00Z
+    webUrl: "https://www.electronicsforu.com/press-releases/computing-in-memory-innovator-solves-speech-processing-challenges"
+    ampWebUrl: "https://www.electronicsforu.com/press-releases/computing-in-memory-innovator-solves-speech-processing-challenges/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/computing-in-memory-innovator-solves-speech-processing-challenges/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 44
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/03/220216-PR-SST-memBrain-WITINMEM-9x5-1-e1646293771839.jpg"
+        width: 540
+        height: 300
+        isCached: true
   - title: "Computing-in-Memory Innovator Solves Speech Processing Challenges at the Edge Using Microchip's"
     excerpt: "Computing-in-Memory Innovator Solves Speech Processing Challenges at the Edge Using Microchip's March 1, 2022 10:18 am - SuperFlash memBrain memory"
     publishedDateTime: 2022-03-02T04:41:00Z

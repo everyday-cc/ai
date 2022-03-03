@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is shaping the cybersecurity arms race"
-    excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find"
-    publishedDateTime: 2022-02-26T15:10:00Z
-    webUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/"
-    ampWebUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
-    type: article
-    provider:
-      name: KRQE
-      domain: krqe.com
-    quality: 59
-    images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"
-        width: 1280
-        height: 864
-        isCached: true
   - title: "As the War in Ukraine Spirals, Vectra AI Announces Free Cybersecurity Services"
     excerpt: "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today responded to the expanding Ukraine-Russia conflict"
     publishedDateTime: 2022-02-28T12:00:00Z
@@ -53,6 +37,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
+        isCached: true
+  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
+    excerpt: "Russia has one of the most capable and technological militaries on the planet. They have advanced intelligence, information warfare, cyber warfare and electroni"
+    publishedDateTime: 2022-03-01T20:02:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 30
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "e1f8FowUnCXHH0f1y2NNEJr4WAIe0PO3fK0luL1Tw/sZ9vVk5iXHyuvsYEGbnCa1iDtsTuc4M9uE9ovY9hrDNNNqjnrnnzarkWK0pEBSQaHVvO2FX9pmPXWMiS2yRIJ5Cp7t38Eu/o/f1uzy4RAcA3m9Z3ThDRO+JA9TiIlQ5Zohb9bCtXI8guQ/x/wE3X/fkMcSNbFXGAMbY6fSfdhtT1pdhhb/hent4Afu4wP6SDjoCHHSMLA/2+MMNkdTgoAgi64Y2oB8L28O9RYjj7Y9L7IeYw/YOQkk4O6vBh/50BNIfyoW2iyIPF0xJ4eH6tqTbCmcQdpKk0BQWRbQ/7hfRxBkOs7BRngORxma7XPf/4A=;u/3j2jiXhlSwmeo8tXYIyg=="

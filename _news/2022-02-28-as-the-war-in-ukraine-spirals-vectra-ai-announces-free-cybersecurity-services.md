@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/as-th
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/as-the-war-in-ukraine-spirals-vectra-ai-announces-free-cybersecurity-services/article_1d377015-ec36-59ce-b493-743c9ad80760.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is shaping the cybersecurity arms race"
-    excerpt: "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find"
-    publishedDateTime: 2022-02-26T15:10:00Z
-    webUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/"
-    ampWebUrl: "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/"
+  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
+    excerpt: "Russia has one of the most capable and technological militaries on the planet. They have advanced intelligence, information warfare, cyber warfare and electroni"
+    publishedDateTime: 2022-03-01T20:02:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
     type: article
     provider:
-      name: KRQE
-      domain: krqe.com
-    quality: 59
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 30
     images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280"
-        width: 1280
-        height: 864
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "InnoValor, Clearview AI SOC 2 cybersecurity certifications boost data privacy assurance"
     excerpt: "InnoValor and Clearview AI have each announced they completed the Service Organization Control 2 (SOC 2) certification requirements."

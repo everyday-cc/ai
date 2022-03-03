@@ -26,35 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
-    excerpt: "... collect vast amounts of data from open-source intelligence (OSINT) – information collected from news, social media and other publicly available sources – as well as secret sources, and use artificial intelligence to analyze the information. Russia ..."
-    publishedDateTime: 2022-03-01T15:50:00Z
-    webUrl: "https://www.chron.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
+  - title: "As the War in Ukraine Spirals, Vectra AI Announces Free Cybersecurity Services"
+    excerpt: "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today responded to the expanding Ukraine-Russia conflict"
+    publishedDateTime: 2022-02-28T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/as-the-war-in-ukraine-spirals-vectra-ai-announces-free-cybersecurity-services/article_1d377015-ec36-59ce-b493-743c9ad80760.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 30
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
-        height: 336
+        height: 338
         isCached: true
-  - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
-    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
-    publishedDateTime: 2022-03-02T01:40:00Z
-    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
+  - title: "InnoValor, Clearview AI SOC 2 cybersecurity certifications boost data privacy assurance"
+    excerpt: "InnoValor and Clearview AI have each announced they completed the Service Organization Control 2 (SOC 2) certification requirements."
+    publishedDateTime: 2022-03-01T16:48:00Z
+    webUrl: "https://www.biometricupdate.com/202203/innovalor-clearview-ai-soc-2-cybersecurity-certifications-boost-data-privacy-assurance"
     type: article
     provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 26
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
     images:
-      - url: "https://www.capitalgazette.com/resizer/nBD8zOJop3or2l3xpTt6L1D7GnY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKZRSW4BIOREK3N6CJOPRN3XEI.jpg"
-        width: 1200
-        height: 724
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/06131808/data-protection.jpg"
+        width: 926
+        height: 618
         isCached: true
 
 secured: "OZxgluGuKEc7qYVflpQYM0ua/la0A7X2I9L/L+Zmt69mqcWClbA3LStjhaksXQXWPZrLrd+G+ubQQUevhMHuH6h3GGT76+PXSSZ+kaYwGD1Rfm2MDV32ybaoBAIXh+Mbr2X3pBwlut+qFjXypLVyKo4UcsTR7+tC0LBtkeXef6AF+4ZAbRFLMvpx7gQblJOGC7v7m5SNXKDzfQ/u/njGH0ess42BbWsix6ePKcM6N/kH2iNI0gtZUcIr5rGU7ATu36jDsT5uqODvgAwvpnKEu9Ug+0EZ4MShzNS3YvGKAZWNr4iBnn6VSz/Iah87xbLna0X8E7ZqyvBO0oeiecGnoqGbqxj30PXtGLFSB/ykLgg=;0fmwY72bEJDWZCzZ8o4mVg=="

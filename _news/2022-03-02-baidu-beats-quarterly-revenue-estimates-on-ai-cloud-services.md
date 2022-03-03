@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates on AI, cloud services"
-excerpt: "Total revenue grew to 33.09 billion yuan ($5.24 billion) for the fourth quarter to Dec. 31, beating the 32.22 billion forecast by analysts, IBES data .."
-publishedDateTime: 2022-03-02T04:34:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
-webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services/89937522"
+excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
+publishedDateTime: 2022-03-01T20:43:00Z
+originalUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-2528766"
+webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-2528766"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-89937522,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -139,6 +137,6 @@ related:
         height: 480
         isCached: true
 
-secured: "LeQ/50/Z3V08t2lqLj59JfuuhATAzwcoUxaW/QXPo68I3XJflndsGt3MWnsIwOoQz28gCSjEZiYae/9FdgDElBGDvXbr/JcNE4b/6K0993GNihLpP/MYK1+QCSb09qBWrsP6ORxnXTBUXqAf0XIKntUMCEnmf8APNsd2DYu+/1R4r6RNc5EiRD1xxT/iVLFCBm5x4RuqnrekWi/okZQzv1kIKRk3d7tUi8g/Z3rSbxb8nfRrUsNVyB/hQb2o9i9gZw+uGoXNXgnYuxDeLAFKtRv65saTt8PxKSiFpp1rdfp+x4Zg5Avet53xXx5kRVy7AIbxPDSPvtorox4LxaJA2FW2vC/KcEkwP6oFUldVXw8=;LD0Pwr6C5QgGd1Qw8r4WNw=="
+secured: "FaEsCNAtRYpkXhieOYRAdDPmV4CqvZmoGf/p6VjVes2ZcLdlvhkwCvYpNWJW/9JakUFHk4GgYqW+ub2mi8wAFhUlJlXeqf3pKKVvLDyrmsIY27mle56/MKruHeMUsi6ZoNGU83KsDJ9PnKWzCWT/UXvV0OFh9XIDb23xK34Uo/cM19J5z7WLbTqN/B5XYcA0MabgkLptGD2R1D5sH2ArpwOAQP1IHO9hAQK0cAcSpEa2HWWdgRoxZEOm+B78g96VXFnXjWcBTyYvVxXws8gQOlyJFMiaea2PB6pv56AX7TAdI8zzijGKVCLftcK2kgbftTvjWEJgiYzVw15+VsArpJ6wAQNxGk/SW2Tx6/fYJn4=;hjDJ/O0LGnK6xLmZynBsSg=="
 ---
 

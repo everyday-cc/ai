@@ -18,33 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "IIT Kanpur startup uses AI for crime mapping and policing"
-    excerpt: "The search engine will use predictive policing, crime mapping and analysis to quicken the investigation policing process, FCRF said."
-    publishedDateTime: 2022-03-01T10:15:00Z
-    webUrl: "https://analyticsindiamag.com/iit-kanpur-startup-uses-ai-for-crime-mapping-and-policing/"
+  - title: "Flagship’s Vesalius launches with $75M to take AI into realm of common diseases"
+    excerpt: "Artificial intelligence is a powerful tool for rare disease drug discovery. The founders of Vesalius Therapeutics say AI and machine learning can also be applied to common diseases, and the startup has launched with $75 million in committed financing."
+    publishedDateTime: 2022-03-02T18:52:00Z
+    webUrl: "https://medcitynews.com/2022/03/flagships-vesalius-launches-with-75m-to-take-ai-into-realm-of-common-diseases/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 33
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/IIT-Kanpur.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "IIT Kanpur Incubates Startup To Develop AI-Powered Search Engine To Help In Policing"
-    excerpt: "Indian Institute of Technology Kanpur's Centre of Excellence (CoE) has incubated Lucknow-based thinktank Future Crime Research Foundation which is working to develop a first-of-its-kind AI-powered big data search engine to help in policing."
-    publishedDateTime: 2022-03-02T14:37:00Z
-    webUrl: "https://www.ndtv.com/education/iit-kanpur-incubates-startup-develop-ai-powered-search-engine-help-in-policing"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 30
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2022/3/2/iit-kanpur-featured-image.jpg"
-        width: 1280
-        height: 854
+      - url: "https://medcitynews.com/uploads/2021/06/GettyImages-1209661917.jpg"
+        width: 788
+        height: 443
         isCached: true
 
 secured: "BfGAITpswG8p3y3FPu6lM6qWXAZ2ogUpIIYKehD3vEhSUmF2cngqXvlx9Qn/s1VXvdxQThAGzjzzbwI7pe4W7WR1jcNiBK0bDEO1v0MDhJjeVgW2IdMD+xLqN2lk0OIg9h4CdRERCWNxcxbQvdIrsZ3iIunmQp+WVw/s0JLOobPU+O1JtvFdDGkP/XJdmzT0NSeL1yV9EecWWextUaOyXCQE1yYdoBGQn0txO6muXnjoVsj9xRerXlVgYKwGD6WbrIcAJJk6b4sTaoFWwpOS51sg1JwAUrjrjitsJoJvl8ef2vpSVpa7tOwTwX34L8L5zORzYKP0+1qNytlcUJwjpkOqkaYddyQyCsEESqPNRu7IMYnO++IyeEezxRfRy1RlOB0VCsoBJZIk1XOfnH9nf322ig6xqRwtQ8gOrRvpavTWhM9cOfGIvjYhFJANxnMN+H1Oagw6cg5q+jN1dfA4ZWP6drYbWuJVuaunVAW6gjs3lI8HjHdEpG9WJmVQ2iOv5hr/oi5cWTPhnCZtgmzXDA==;/iWb6CKZrTlSKboMOcwQGA=="

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT-Kanpur incubates startup to develop AI-powered search engine to aid in policing"
+    excerpt: "The Centre of Excellence (CoE) at the Indian Institute of Technology Kanpur has incubated the Lucknow-based Future Crime Research Foundation, which is working to develop a first-of-its-kind AI-powered big data search engine to aid policing."
+    publishedDateTime: 2022-03-03T07:13:00Z
+    webUrl: "https://www.freepressjournal.in/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing"
+    ampWebUrl: "https://www.freepressjournal.in/amp/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 51
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2022-03/1545590e-590b-4b40-b2a5-9d96c773f9c8/IIT_Kanpur.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 901
+        isCached: true
   - title: "IIT Kanpur startup uses AI for crime mapping and policing"
     excerpt: "The search engine will use predictive policing, crime mapping and analysis to quicken the investigation policing process, FCRF said."
     publishedDateTime: 2022-03-01T10:15:00Z
@@ -38,15 +54,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "New Flagship Pioneering startup to hunt for causes of disease using AI"
-    excerpt: "Cambridge venture capital and creation firm Flagship Pioneering is formally launching — and infusing $75 million into — its latest startup, Vesalius Therapeutics."
-    publishedDateTime: 2022-03-02T10:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2022/03/02/flagship-pioneering-vesalius-therapeutics-launch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "EZPfNIO0wZEpb1VUGAuQ2PnZZUtP36JgfchNnE+kSCzMn4ZwbTO+n5/KyH60hvtMoLFX8rZN48Ra1yHjSJyte1sqk5as3U59pbXZ1QiX/8XD3z6unU1xx0ahBOuPylObN4ImEbUgvv6kt8k+TQ8HwH0Dfi5jDktn8/I7rFg/lF0HXhaKH/1yzhYWwvQ4UHClSST2CiVQ7i+6Ef1Be+8m7y+AZb4AD1wM1EMdlb8b7Gg9RRvDGq+OVlf03REOB2qDo+akyV3/3RogeuK48nQ5W9s5uh6ekbqepwCKEBiH1njNHXlzXcZ6mPIGIc0zeq4SvJzYt5od7C/yV4qk/e0gR5Gcx0JnvM5VB8oI9DVhe6cJyob7AGwTTWUDskYFgzROroC/e+5o3MIVO/DlGq/pyWvtyFH+XndP9ImjkkrWVNodq+tIjXV2Sn3fr6b6FniLyIe11jqHtZRA/mTf6TWBYh8kYpyDIE1iOlvQq+DsxxdcweAn2Ll8LVBWxQsFMRZWZheIvw/7beRCnT2Gtjo58w==;Xp3LlJO3K9SHCj9hQZRb3w=="
 ---

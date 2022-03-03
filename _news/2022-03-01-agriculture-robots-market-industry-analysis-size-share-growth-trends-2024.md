@@ -39,6 +39,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Market Trends 2022 | Growth, Share, Size, Demand and Future Scope 2027"
+    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-03-03T08:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-trends-2022-growth-share-size-demand-and-future-scope-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2dc6109d10f9c7cb3e53b861d7a9f851d454174b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Military Robots Market Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2027"
     excerpt: "AM ''According to the study, the global military robots market size was USD 13.87 billion in 2019. The global impact of COVID"
     publishedDateTime: 2022-02-28T10:41:00Z

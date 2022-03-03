@@ -109,6 +109,22 @@ related:
         width: 648
         height: 432
         isCached: true
+  - title: "Uptake Fusion Announces Support to Microsoft Azure Data Explorer"
+    excerpt: "Uptake, a leader in industrial intelligence (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer."
+    publishedDateTime: 2022-03-03T07:21:00Z
+    webUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/"
+    ampWebUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Uptake-Fusion-to-Support-Microsoft-Azure-Data-Explorer-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
     excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."
     publishedDateTime: 2022-02-28T10:38:00Z
@@ -169,6 +185,17 @@ related:
         width: 814
         height: 330
         isCached: true
+  - title: "TCS launches Enterprise 5G Edge suite of solutions with Microsoft Azure private MEC"
+    excerpt: "The new offering serves various industry verticals, bringing together enterprise assessment toolkits for edge and 5G readiness, and edge-native solutions ranging from industrial automation, quality detection,"
+    publishedDateTime: 2022-03-03T07:46:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tcs-launches-enterprise-5g-edge-suite-of-solutions-with-microsoft-azure-private-mec-122030300557_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-launches-enterprise-5g-edge-suite-of-solutions-with-microsoft-azure-private-mec-122030300557_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-launches-enterprise-5g-edge-suite-of-solutions-with-microsoft-azure-private-mec-122030300557_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 48
   - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
     excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
     publishedDateTime: 2022-03-01T12:41:00Z
