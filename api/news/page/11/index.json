@@ -2,6 +2,99 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-02-21-leveraging-ai-to-decrease-potential-logistics-costs.md",
+      "title": "Leveraging AI to decrease potential logistics costs",
+      "excerpt": "Artificial intelligence (AI) has now become an all-pervasive technology that is being increasingly seen as the panacea for almost all the challenges in different business verticals. From customer support to analysing diagnostic reports,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
+      "publishedDateTime": "2022-02-21T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-y-combinator-startup-nanonets-uses-ai-to-extract-data-from-documents-check-out-the-17-slide-pitch-deck-it-used-to-raise-10-million.md",
+      "title": "Y Combinator startup Nanonets uses AI to extract data from documents. Check out the 17-slide pitch deck it used to raise $10 million.",
+      "excerpt": "Nanonets' software uses machine learning to make it easier for enterprises to extract data from documents, such as scanned invoices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startup-nanonets-raises-10m-pitch-deck-2022-2",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-nanonets-raises-10m-pitch-deck-2022-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/620ba2d916a6300018c90e1c?width=1200&format=jpeg",
+          "width": 971,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T00:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability-with-kts-ai-assistant-giga-genie.md",
       "title": "Cerence Expands Cloud Capabilities for Korean Drivers through Interoperability with KT's AI Assistant, GiGA Genie",
       "excerpt": "CloseCurlyDoubleQuote; Cerence Cognitive Arbitrator makes it fast and easy for automakers to build in-car voice systems that deliver co-existence between the wide variety of virtual assistants, third-party services, and content – including KT&CloseCurlyQ ...",
@@ -1060,103 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-artificial-intelligence-may-already-be-slightly-conscious-ai-scientists-warn.md",
-      "title": "Artificial intelligence may already be ‘slightly conscious’, AI scientists warn",
-      "excerpt": "study warns Google’s DeepMind AI can now manipulate nuclear fusion New AI chip rewires itself to learn continuously - just like a human brain “Seeing so many prominent machine learning folks ridiculing this idea is disappointing,” he tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
-      "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/02/17/14/artificial%20intelligence%20conscious%20ai.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
-      "publishedDateTime": "2022-02-18T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-deepmind-scientists-say-they-trained-an-ai-to-control-a-nuclear-fusion-reactor.md",
-      "title": "DeepMind scientists say they trained an A.I. to control a nuclear fusion reactor",
-      "excerpt": "DeepMind claimed that the breakthrough, published in the journal Nature, could open new avenues that advance nuclear fusion research. In this article Scientists at DeepMind have found another real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
-      "originalUrl": "https://www.cnbc.com/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1645172412",
-          "width": 4488,
-          "height": 2992,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
-      "publishedDateTime": "2022-02-18T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

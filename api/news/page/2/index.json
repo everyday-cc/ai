@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-02-bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws.md",
+      "title": "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS",
+      "excerpt": "In football, as in many sports, discussions about individual players have always been part of the fun. “Who is the best scorer?” or “Who is the king of defenders?” are questions perennially debated by fans, and social media amplifies this debate. Just consider that Erling Haaland, Robert Lewandowski,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/skill_impact3-1260x437.png",
+          "width": 1260,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T07:24:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-4-takeaways-for-student-loan-borrowers-after-bidens-big-speech.md",
+      "title": "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech",
+      "excerpt": "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
+      "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f8b986e1c008edddcafb9/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1067,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
+      "publishedDateTime": "2022-03-02T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform.md",
+      "title": "Faros AI raises $16M to shine a light on developer productivity and the value of software, launches free open source platform",
+      "excerpt": "What if what you think you know about developer productivity and the value of software is off the mark, and that is hurting the quality of your software, the operation of your organization, as well as your bottomline?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "originalUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8a819abbd7405506c1b7527740b00bd5c40bd8e4/2022/03/02/09bb4a17-40a5-4bea-872f-7e60aeaab361/44b7dade8566bd527b25c2f2ddd47f0907f27814-1640x908.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "publishedDateTime": "2022-03-02T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
       "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
       "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
@@ -1070,162 +1226,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars.md",
-      "title": "AI Deciding How To Distribute Harm Breeds Dicey AI Ethics Dilemma, Markedly So For Nascent AI-Based Self-Driving Cars",
-      "excerpt": "AI systems are having to ascertain how to distribute harm, a decidedly Ethical AI issue, including for the case of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62184c65dbd6bd0c97949c9c/0x0.jpg?format=jpg&crop=5676,3194,x0,y188,safe&fit=crop",
-          "width": 5676,
-          "height": 3194,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-01T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services.md",
-      "title": "Zero Systems gets $12M Series A to bring automation to professional services",
-      "excerpt": "Zero Systems launched seven years ago with an idea to bring automation to professional services like law firms. They wanted to focus on speeding up manual tasks, rather than moving large volumes of information,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/",
-      "originalUrl": "https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/amp/",
-      "publishedDateTime": "2022-03-01T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-7-must-read-books-about-artificial-intelligence.md",
-      "title": "7 Must-Read Books About Artificial Intelligence",
-      "excerpt": "In late 2019, we published “7 Classic Books To Deepen Your Understanding Of Artificial Intelligence.” It’s time to run it back. Here are 7 more thought-provoking books that explore the technology, business,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621c5e573cd0ac3fb2b884a3/0x0.jpg?format=jpg&crop=900,507,x0,y77,safe&fit=crop",
-          "width": 900,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/01/7-must-read-books-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-03-01T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

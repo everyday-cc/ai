@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million
 webUrl: "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,22 @@ images:
     height: 370
     isCached: true
 
-secured: "qfZ2pGIlBSA20o/ybMY//jmXF3T2pyiwteF5DzW9Vn5LvYFE24SBS6uDC0DAzjc+t6F2ebJ6vQq54Cq/nK6vNf4dYqeb1dVZXxKbFE11jSWuWYetfk/+MkFsVXhgcUcpgYxpRekTVAYhkgsaedR3CAiZhC07N48IyVv0SVvnMTFA04ENSc48JqZy3dNi0BnjTA3dSJwPNeXklJu6fVi1rhEJjazumt2gqmkd/UPw7xh5iPewIaHbqUkeolb5suZk+Fq4wFSor0CAbKjpFeGpJySmc9Uv1CPphBRhfr5MhefxEPsugCh8gT9nssbg026/pir/KZW8oMJlwFulFcaXisQ0LnA7KZBnulTWH1/24Q8=;bC36SgeHTZKh1RoKX5IWXQ=="
+related:
+  - title: "Document AI Startup Docsumo Raises $3.5M Seed, Eyes Expansion in North American Market"
+    excerpt: "Singapore-headquartered Docsumo, a document AI startup that helps enterprises make automated decisions from customer documents, recently raised $3.5 Million in seed capital. The round was led by Common Ocean with participation from Fifth Wall,"
+    publishedDateTime: 2022-03-03T15:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-north-america-singapore-937f04aecdc86306209b1cdc631254bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "w3jSRhrPG+PVPlUqjuCajRgvtvxH26j0i02k+PbznuZgs3M9QC2qpaWfpY+0fZqO6agoehLUVxHH1tEa7Bn0cFYkL0kubjRpMuUI1CJLm1Qedi5xTY/G+X5/DG8Ui3zC9y3wMUxdNiRS8WAjOPFe3CnjQBybqAd/T76/mOZUAqQpj4wrDdPam1reXPXKWfaddYPunGE0BKlcpilMtO50D4BgB0nFjO9BJj5sfrkctctUtFnx9ACz51G13zRd8APHy0YiDX8E0h0rrMj1k1dz2Er2+33XUXF4dKxwfpLRNZJj5JnafGeY34cjFDG1rYwDPPszZsXriPgH4zDuKzHD74UVe1vc3+m8GnKczIdLBNrdE5bCTNQaEJId4ueGvb74HmgITqpBcaXUwkO0KU85z1CD0FYvM204X2fb/A1zpo8yXmdenYqg6ndjPT0ym9tEQxoJhkEixkBx7gfh/UoCnPEy607uEuBrjwmDJYUbj5hvr5B2nEJVqDtYiA3xSLHZYbEbluT/2lonDpjJWFw1Vg==;vFhBsSqiKEW7A1qu9ywBQA=="
 ---
 

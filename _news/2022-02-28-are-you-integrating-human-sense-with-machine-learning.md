@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Deep Learning: It's Not Too Good to Be True - It's Genuine Progress"
+    excerpt: "Deep learning has come on leaps and bounds in recent years and is fast-tracked to becoming one of the most revolutionary technologies in cybersecurity. As a subset of artificial intelligence (AI), deep learning is often confused with associated technologies like machine learning (ML)."
+    publishedDateTime: 2022-03-03T16:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/deep-learning-genuine-progress/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "L9rwbJHN/qrOVA4Il76Ku45hf3YO9SAhm1LNA9eMAPRCOckNiJZFh6deEKc1uUF/3hE6eeNc+9IurJZes//BXWTPzYRjxcesbnvlOs72svgQ0RgdGrEHZrTk8bDpEqstRFU8n0JvPDQnNv7Grnf13pgXH9UBE78hX3SCJ+u9TL1IpYjsbMNxklHcd+loa0UHYU1HT2/grqJpomu+2a2GYRG6jZI4knQ0buij3q+lkfu5jl0EQdwDUJoBP9kzL/Q5mzCX5xHWHJdRbuXyHv0hNgyadZQh55pcbmXAulZSinpuyZ1I0ADZc6czHQdBJiOWnEpPlkIGfEBKdT77cU0vptKxXIYPiuPjw+/ENeX1A+c=;9R1Yq1EYGPWvlKJf9nhAcw=="
 ---

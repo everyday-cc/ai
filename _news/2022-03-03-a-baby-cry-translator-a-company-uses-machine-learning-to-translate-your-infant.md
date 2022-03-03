@@ -1,0 +1,76 @@
+---
+category: news
+title: "A baby cry translator? A company uses machine learning to translate your infant"
+excerpt: "Switzerland-based startup Zoundream is working on a proprietary device that translates what they call the \"universal language\" of babies, with help of A.I."
+publishedDateTime: 2022-03-03T15:20:00Z
+originalUrl: "https://interestingengineering.com/baby-cry-translator-ai"
+webUrl: "https://interestingengineering.com/baby-cry-translator-ai"
+ampWebUrl: "https://amp.interestingengineering.com/baby-cry-translator-ai"
+cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baby-cry-translator-ai"
+type: article
+quality: 72
+heat: 102
+published: true
+
+provider:
+  name: Interesting Engineering
+  domain: interestingengineering.com
+
+topics:
+  - Machine Learning
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/MRw4ZnPBG1/sizes/baby-cry_resize_md.jpeg"
+    width: 744
+    height: 419
+    isCached: true
+
+related:
+  - title: "A|I: The AI Times – Meta’s killer app is translation?"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-03-02T10:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-metas-killer-app-is-translation/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 41
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/12/art-science_feature.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "How Deep Learning Can Transform the Transportation Sector"
+    excerpt: "Deep learning in transportation is expected to plug out some of the oldest and most stubborn problems affecting the sector’s overall performance."
+    publishedDateTime: 2022-02-28T21:56:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-can-transform-the-transportation-sector"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Deep_Learning_Can_Transform_the_Transportation_Sector.jpeg"
+        width: 1000
+        height: 595
+        isCached: true
+  - title: "Meta to develop Universal speech translator"
+    excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
+    publishedDateTime: 2022-02-27T08:32:00Z
+    webUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/02/meta-facebook-2-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
+
+secured: "dnuF21gjtFUqcCstpiteoQAZUD0ESaGJkp11hWqTJFXeH391BJDDV/whm+c81Re6RbFfkwNfdwEe5Mw7Uk5o0+iEhZ8ZdK+/GHDsJruBaSY7ERoEhbdtq1bCSq4DBimhNz8jXyUagJrxh7WmPRD866xxZS/qMWmVEM9toBpXko1Sye0ec/ASE63VpZ6xwONkcDQRtSYxpXmwZAqNTxhDveM7OaUZ70LLcr4rv/bfs/3RUlwvt51KYTB30WGf60aHzRSyvJ+oYueXHzWwZjg+V78hcaeibpr/c76M7oZ6ZtfgELKEdjUpFUN5CIe4+L6fJyxlaTM1PorMu43AMTjdxINpisqPqXBljJC7niO4gDM=;uXgurMVcxjlkfOhYn25dMw=="
+---
+

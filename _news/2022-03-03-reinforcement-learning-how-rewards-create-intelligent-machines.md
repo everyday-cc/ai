@@ -59,6 +59,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Deep Learning: It's Not Too Good to Be True - It's Genuine Progress"
+    excerpt: "Deep learning has come on leaps and bounds in recent years and is fast-tracked to becoming one of the most revolutionary technologies in cybersecurity. As a subset of artificial intelligence (AI), deep learning is often confused with associated technologies like machine learning (ML)."
+    publishedDateTime: 2022-03-03T16:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/deep-learning-genuine-progress/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "mZ+zRvF5RAq1HRgiVFGakWn3cX3Atv6BHsF1xyxZfM2HSfYtXO1frPiF4stvkmtfM0GXcOd5Dfi6/7pON+SSQhTJZ0nomBgsS41qCxA+dbhP5AQijR+/WW1REYlj3K1eLOd0ULpo8YcqYD1zFn/E2gD3OjVBON/HOvKWnu5GcU4S90HcbmkYkQ1bvjzNa7nHjmi1r23EBwK7vdrNuAzZ7sv7E3K/v5rYKQw7ls6Cw/ZTZwyjonJM7jox1pNms78HmEGBNFsmPFJw7FTsZ5iYzsYxAPWqmytruwZgJ8OYSaba7/35mT/wCJboeEOq8xEFJxmN5s45xsKrbsT5ZY9Uo+iGW7sA9h5+JpDIiG9L7B2YzWF+ELnsK9DUN1cKPXuPYcJEebDYY55MDFhuTvS9gst6Oc3bM0dV+E6hN9r/GVXmbUtsHlX2K4popgUhVTRTYhDRz7p9MdYfUL+WmlCdEBTavGbmw+SwNDrRb/jFmDGpRyI4bUn8ql30DqyZWTvteBvV69fU4gPGkloIma5mMg==;tp6BXSPRce5cqc4bCKFdAg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-02T17:12:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-sanctuary-cognitive-systems-closes-c755-million-us585-million-/2022/03/02/9555699.htm"
 webUrl: "https://www.prnewswire.com/news-releases/sanctuary-cognitive-systems-closes-c75-5-million-us58-5-million-series-a-funding-accelerating-its-mission-to-create-the-worlds-first-human-like-intelligence-in-general-purpose-robots-to-address-labour-shortages-around-the-wo-301493034.html"
 type: article
-quality: 122
-heat: 142
+quality: 124
+heat: 144
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook"
@@ -53,6 +54,6 @@ related:
         height: 335
         isCached: true
 
-secured: "0MJa5mjpArgO6c10wlmGMcangfzyoczWiw0JUQYaF6EgULiuiwHhj8rOJ0pclv3j8Ee2dcnnAVZtkmxING2uW0T2WBJWZCuaqlkjBkm01sH9f0RTfb9r5sAOfhU89NGNvPQcN8LC/Tgy+MngrH9Z0i+4TzUh6S1GA36RV8huqKKoJv7k87KgkTiEf0+v23DLw3qOOT3lwe6vHZH/XFTcauoWHLs8M8bCEWXHaZJu+SM7Mjhr516xFMDzcIvzO3HZ96kiDNEi82DtHSMmL+r4DPDiG82RgFUgWwsAZz8SmcMZNTfoFb7pmjKTXbpk3GWqS2wjG5nRlTJ0ovoI4fbn7NdMxhiZJ3HGCFm1A9S/5pE=;QHRLibLgyFgZDak+FecUew=="
+secured: "Vl8NQez9/tXUekre5yMKPOqljxB9KlCgYnMhvqPgiMLCJzb0XZGUayavAGnyPNpg1Lrc2UsYTb+Xv3CsGdP8M+f97d9jvAsMW9oEiFMcOfFRf1TYl7zSNAfht9MwU6CFTKL1bPsftK4Kn+HXVFGt7Z7F463cjqg/wnl7f5h2LC53IDTtTu7V1Ngdum9W8NNjTKsyvc+OoznZgkWIFFGZZlT8clxCw6Oq4c7Urj1meRCpQjZTEKGWwRu3FEsErt/Q+w4JE/kxDftE1zOx25Eo+ZlJEb6M3up3prgRSA33/2wlO9Ez1/rhIJMV5UYp8orY5p2t57kxSOSntLhxwR+EaEToLnt3Rz/NAvnDQglUa64qLdWAlicUkJTF5H5VBp/dJGsexw0Ml6BzEIqGzNOZDR+FI9MiEC9JW9dm/M1IRFcLHZSv7hbh1Dyko+WFX91lJQ7S5/NahQ11gJU3cBUmFvZKrQdLkek+1zH3stKECDFwCDf63ZtZtlcMjX2YztpeYaPj4tg558+xbZRsEposPCnT8YROLHGvIOmhMvWipME=;gaqZea39g2CCbFSUnpsSHw=="
 ---
 

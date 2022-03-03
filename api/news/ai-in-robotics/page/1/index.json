@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-03-sanctuary-cognitive-systems-closes-c755-million-us58.md",
+      "title": "Sanctuary Cognitive Systems Closes C$75.5 Million (US$58.…",
+      "excerpt": "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, today announced the successful closing of an oversubscribed C$75.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/sanctuary-cognitive-systems-closes-c75-5-million-us58-5-million-series-a-funding-accelerating-its-mission-to-create-the-worlds-first-human-like-intelligence-in-general-purpose-robots-to-address-labour-shortages-around-the-wo-301493034.html",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sanctuary-cognitive-systems-closes-c755-million-us585-million-/2022/03/02/9555699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook",
+          "width": 2104,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
       "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
       "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
@@ -1350,49 +1393,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-the-best-stories-for-national-robotics-week.md",
-      "title": "The Best Stories for National Robotics Week",
-      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/Manufacturing%20Robot%20Stock%20Image_thumbnail.jpg?itok=ywt4DKA_",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

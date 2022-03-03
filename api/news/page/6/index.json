@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-25-mercedes-benz-to-offer-hands-free-traffic-jam-assist-in-us-this-year.md",
+      "title": "Mercedes-Benz to Offer Hands-Free Traffic Jam Assist in US This Year",
+      "excerpt": "The German automaker's Drive Pilot offers Level 3 conditional autonomy that works at low speeds in heavy congestion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/4uJmfPjtw5_jInExXeyBGsNsUBY=/2022/02/24/6ac5ea1c-fa4f-43a9-b849-389ed7854931/mercedes-benz-drive-pilot-hands-free-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "publishedDateTime": "2022-02-24T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-new-acm-techbrief-spotlights-privacy-ethics-problems-with-facial-recognition-technology.md",
+      "title": "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology",
+      "excerpt": "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/944603",
+      "originalUrl": "https://www.eurekalert.org/news-releases/944603",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-mage-launches-low-code-ai-dev-tool-into-general-availability.md",
       "title": "Mage launches low-code AI dev tool into general availability",
       "excerpt": "California-based startup Mage released to general availability its prize low-code AI tool for product developers.",
@@ -1080,109 +1166,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-what-to-do-if-a-cop-tries-to-scan-your-face-during-a-traffic-stop.md",
-      "title": "What to Do If a Cop Tries to Scan Your Face During a Traffic Stop",
-      "excerpt": "Law enforcement’s use of facial recognition technology during investigations has blossomed in recent years thanks in no small part to a booming surveillance industry built on the back of an ever ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
-      "originalUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3c60689fceb2dd3474c8a28d9a9f3217.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
-      "publishedDateTime": "2022-02-23T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live.md",
-      "title": "What consumers think about AI – and the impact on your industry and business (VB Live)",
-      "excerpt": "Join this VB Live event where research, data, and analytics leaders share the current global consumer outlook on AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/",
-      "originalUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-543194887.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/what-consumers-think-about-ai-and-the-impact-on-your-industry-and-business-vb-live/amp/",
-      "publishedDateTime": "2022-02-23T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

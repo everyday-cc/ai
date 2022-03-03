@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
+    excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
+    publishedDateTime: 2022-03-03T16:49:00Z
+    webUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/"
+    ampWebUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/Inworld-AI-Character-Screenshot.png?w=1200&strip=all"
+        width: 1199
+        height: 871
+        isCached: true
   - title: "AI supercomputer startup Luminous lands $105M in Series A funding"
     excerpt: "LuminousAI lands $105M to tackle big #AI supercomputing problems. #SiliconValley #supercomputer #tech #Luminous #venture #startups"
     publishedDateTime: 2022-03-03T12:00:00Z

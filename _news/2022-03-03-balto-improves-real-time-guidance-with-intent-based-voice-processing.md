@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Balto Improves Real-Time Guidance With Intent-Based Voice Processing"
-excerpt: "Balto has released its next generation of intent-based conversational dialogue models, raising the bar in conversational guidance capability, and reaffirming the company's reputation as the premier real-time guidance platform for contact centers."
-publishedDateTime: 2022-03-03T14:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/balto-improves-real-time-guidance-with-intent-based-voice-processing-1031251807"
-webUrl: "https://markets.businessinsider.com/news/stocks/balto-improves-real-time-guidance-with-intent-based-voice-processing-1031251807"
+excerpt: "Balto has released its next generation of intent-based conversational dialogue models, raising the bar in conversational guidance capability, and reaffirming the company’s reputation as the premier real-time guidance platform for contact centers."
+publishedDateTime: 2022-03-03T14:58:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/st-louis-ef6b3f5253a7bb8caf00e59d32ea80d2"
+webUrl: "https://apnews.com/press-release/pr-newswire/st-louis-ef6b3f5253a7bb8caf00e59d32ea80d2"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "dCGCIlUVVUMjIiczIw1gkzD2BNXV8g+mFurhx60zZN36D0eC80co2iwR3jDrsE7dCDhjlicEQJ90IadIkwu0pMopfkVVqG3yeI2SaH6eO2Yr0LM5454vYg1wVc3HWu6RmTdp6+eqXv5dJFVSP+7CGqdzzQFTs584aprPKOyawWoBmQ9DPukuB1z3/rLidBRPObgUybjdHDdvMzH2B8AQ5MOs9AkOTIAVV/qhG8Bgn5MzY6xxoAO6LNGSsk+bSxn6Xjj0d8dSTFOEU9mHg/E27Vg3H1HBSotqvo9wPfgMoLIT0FJ1N+3EsU9zIHer+o0nbnHtQbpjl5H5K13VDb7Hh4CJ+nQD64bx7dT/85MSXCo=;LXfm4fPwywVIHo+H5L6u0w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "s1YniKY3apJTH/EaF+AUS7a8M8V4T8RHHyFaqGPKj+ymL/eRohgwPrUQ9NxLnhCuC279Jf+RMD33nS5gd5osdpCdymfTa9HwDOUHrivwAqhavJlopXvP7zaWWqQZU9QsgLw8OlLhWWYWL0t/+pBjcWaGywemixjBly41KNxj03N93diDqOAmdBoUupYjMi5Ufccrrz3VLvoKAlix02MADcZIRRifG9mNMTql2wJFNzukjo/bJNiTA+HytuXZ9Knp8r4rm9g1HS+dSd8pv2fkgoTZ48Ql6AX6O6+gGCMf5CrrSJaaunrTAOXSsdtFMU1Za7lo3gbofQNrmWStReR3s8sU+D5E48pdO9vtKr0fIHg=;m3RmDpD3Y0u3XYMxxRb+Hg=="
 ---
 

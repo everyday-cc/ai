@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-devel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
+    excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
+    publishedDateTime: 2022-03-03T16:49:00Z
+    webUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/"
+    ampWebUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/Inworld-AI-Character-Screenshot.png?w=1200&strip=all"
+        width: 1199
+        height: 871
+        isCached: true
   - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
     excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
     publishedDateTime: 2022-03-03T12:02:00Z
@@ -56,6 +72,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "vpR3RRM1sXgGG7IzNYZ1929LSAjy5Nh1SgHUq6vY/7D+arhIJjRNB6U4Qw1b28p+22PtL7WHBGUyGHEVvpodDJoudMCKy9Y8nRHLIBW4dFfkRsdy/Fc42om/mlhYROhTEZsoDMFoHrNlKGX7lTgrequ4gEkqSScXGJsJSMddERz3G98qrHZeBYnCaJZhlLFRhTmeBW9lifOV0lrz/Z3YSmONDCV+FcnxThgHmWTbAfWN98W0zF32x6W+zMLAdldK5st1PMZhWsk6mCEbebHmCNcet0yKzL2fELYI9blDvYAuLyrKwFprA21IjDtI6+US4HXWdnF/r0pMNNemlOkJPQTd65Z/lZxs5V8cojiBVC8=;18Z/5+uLkn7Fg34hPmGJ9w=="
+secured: "RO0EZ+16Sk6SHcmoEu4d4ORDanAM0MY7bL8EHJfHB4te7+tCSOZER1noWheZpOByE/1SP5WURZm0jMs5wekjCthPHk+9T7BI+M42LW+W1PCVTLrVvify6AnhNNPi7AIFK9TVI3/pOaHzTsJfRPJmxKLN5ENBp0LbId57d5YlpNoVNvxJhoAyMpRS3wWTnmS/04mYYwWI5x/8IqcxPSFncV/2QoJjakL3un6tKjJdEjXXGXLPs67Sa1z+Jl36rffphryu1rQsiy9ORZ1s7C3kk7/E9Qumeh+OddMcMbBMJFA7L9U6P4NF27S0pSi7To4ScK1efqyOSn3pLtJiwz/OjIbQ0maRR/gk6JsG9BvXxGhH2pCqK8toxoSO5mnA1NXTlo6SM1hZ9q5qPs/mSJAsUF91ysuNjLIMfIaGFONeeDpYYL8OWPnY4lSQo3ygKzgNM53SlBTp4ytjLMBxTAb6bQD3M1cze3ImU0Z5m+JflVglPac0fqv4+AyoMmFFfnHW/vrcOSURG3Q2kc+DyjCIQg==;CE2pFpBdP7hts172PQl0lw=="
 ---
 

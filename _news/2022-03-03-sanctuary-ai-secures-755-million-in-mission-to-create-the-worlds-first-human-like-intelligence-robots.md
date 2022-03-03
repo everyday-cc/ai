@@ -33,7 +33,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 122
+    quality: 124
     images:
       - url: "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook"
         width: 2104
