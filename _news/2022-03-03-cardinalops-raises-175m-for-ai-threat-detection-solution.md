@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million
 webUrl: "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israeli AI-powered security engineering startup CardinalOps raises $17.5M"
+    excerpt: "Israeli artificial intelligence-powered security engineering startup CardinalOps Ltd. revealed today that it has raised $17.5 million in new funding to fuel global expansion in go"
+    publishedDateTime: 2022-03-03T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/03/03/israeli-ai-powered-security-engineering-startup-cardinalops-raises-17-5m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/cardinalops.png"
+        width: 772
+        height: 399
+        isCached: true
   - title: "Document AI Startup Docsumo Raises $3.5M Seed, Eyes Expansion in North American Market"
     excerpt: "Singapore-headquartered Docsumo, a document AI startup that helps enterprises make automated decisions from customer documents, recently raised $3.5 Million in seed capital. The round was led by Common Ocean with participation from Fifth Wall,"
     publishedDateTime: 2022-03-03T15:24:00Z

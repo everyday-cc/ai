@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -42,6 +42,20 @@ related:
       - url: "https://healthitanalytics.com/images/sized/AI_Imaging_Techniques-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 276
+        isCached: true
+  - title: "Deep-learning diagnoses: Edge AI detects COVID-19 from smartwatch sensors"
+    excerpt: "By combining health questions with data from smartwatch sensors, a new app developed using research at Princeton University can predict within minutes whether someone is infected with COVID-19."
+    publishedDateTime: 2022-03-03T20:43:00Z
+    webUrl: "https://www.princeton.edu/news/2022/03/03/deep-learning-diagnoses-edge-ai-detects-covid-19-smartwatch-sensors"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 38
+    images:
+      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/03/NeuTigersCOVID-Deep_012422_0011-2880x1920px.jpg?itok=hPfQnWvR"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "rsHVCJIHI6EUou5Qd4/jF8hB2ynd4qHAw0i6j7wmOImBgFe3LljrdX7aBaSvPNxHVDqqgkBxKoBP6HUuEGP7jaERCHl1MH+dLFv4dXAaQrXIi0eyUY369dwRKUqHKOb5MXD6jww9ECzuUp00elAoKRNgiE1IZj+geiHOXrA/UIYJYKxTpfaNjgPAbFu8mR3u4odKAMCOz4kUicIx0EDvESZ4GDKHPOJnpCDW4kS537XN98MRjyzbPC5prpkJrMH2+aodbNjvIRoU4VBa99aSgqTO1xg8HAvx1H6EeBx/uXO7ajF02U4LWjnCg/axRB/E4wlwnc2NmWfsGDSjY5Ml8Rr5CsfCDbEh2KAgAHzSvqFULuMmNQGENgOECEeIUoy2Cd4D09cQy/YV/h6jDs8u16xywlxr8MRoHsftzttIl2CwVcrLLSFqWXK+InMbjXei3vkiHOsLJCyZF2VF5rAawO+gi/+HY/XLJsU+Nhd+9S8HpdZDbewOO23bunTIWrnTPaovggJk9+UqY+VyuidL2w==;RcaHWl7L5LAm1RLY5AFD8Q=="

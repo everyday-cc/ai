@@ -71,6 +71,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Luminous Computing raises $105M to build a photonics-powered AI supercomputer"
+    excerpt: "Startup Luminous Computing Inc., which is developing a new kind of supercomputer for running artificial intelligence models, today said that it has closed a $105 million funding round. The Series A round included the participation of more than a half-dozen investors."
+    publishedDateTime: 2022-03-03T19:05:00Z
+    webUrl: "https://siliconangle.com/2022/03/03/luminous-computing-raises-105m-build-photonics-powered-ai-supercomputer/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/unsplash.png"
+        width: 870
+        height: 500
+        isCached: true
   - title: "AI supercomputer startup Luminous lands $105M in Series A funding"
     excerpt: "LuminousAI lands $105M to tackle big #AI supercomputing problems. #SiliconValley #supercomputer #tech #Luminous #venture #startups"
     publishedDateTime: 2022-03-03T12:00:00Z

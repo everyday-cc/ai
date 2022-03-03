@@ -38,6 +38,20 @@ related:
         width: 749
         height: 370
         isCached: true
+  - title: "Israeli AI-powered security engineering startup CardinalOps raises $17.5M"
+    excerpt: "Israeli artificial intelligence-powered security engineering startup CardinalOps Ltd. revealed today that it has raised $17.5 million in new funding to fuel global expansion in go"
+    publishedDateTime: 2022-03-03T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/03/03/israeli-ai-powered-security-engineering-startup-cardinalops-raises-17-5m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/cardinalops.png"
+        width: 772
+        height: 399
+        isCached: true
 
 secured: "cOamlg5A8He7LSFQ60FWdAbySdpXo2CC0S+kQLvcOX+OS/vKPy3gL+qSmjbwtSDsHPtYYwmm2b9/u4qtxoU7tmrCg8/+qYZ+oqoWXkmqBOXchbyODs38SFVXt9GZcsGGUkTxBAheImQzKdMfeKYULdjQuI2LkjYz8EBCbJJaAABeo52+WZTTqm9u4mrCzHDqEeHS/mPVanpNGMxT8jm/sKhW70Hsc3xElnq3RMSaDDKyYqO5Uu0tR5zpVAJ3+jTz7Az2SaGQZCQ8ImEv/dsHzDKL7iTUkuFiLJKwuL/JUCwSAfdw3ByLtqLZOyKT9mSs0q2BQFmHaZQpGR+36MRzAuM4zaZle2u03OZt5Tz6XzQ=;cjvnQorZU76hw2/evJuw/g=="
 ---

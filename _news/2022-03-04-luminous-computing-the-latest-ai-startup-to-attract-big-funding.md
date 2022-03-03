@@ -56,6 +56,20 @@ related:
         width: 1199
         height: 871
         isCached: true
+  - title: "Luminous Computing raises $105M to build a photonics-powered AI supercomputer"
+    excerpt: "Startup Luminous Computing Inc., which is developing a new kind of supercomputer for running artificial intelligence models, today said that it has closed a $105 million funding round. The Series A round included the participation of more than a half-dozen investors."
+    publishedDateTime: 2022-03-03T19:05:00Z
+    webUrl: "https://siliconangle.com/2022/03/03/luminous-computing-raises-105m-build-photonics-powered-ai-supercomputer/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/unsplash.png"
+        width: 870
+        height: 500
+        isCached: true
   - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
     excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
     publishedDateTime: 2022-03-03T12:02:00Z
@@ -80,6 +94,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "2j61q/pPvbOmBta6gGq1i1MV/MeIjv73awA3vPwBKzx0e9vDC8xUwpCqJG/b7lFfaMsoABodIuBO8edGzbhUO2v4o5OaXTW8j+mpLP3rFKSEgQuZwN+mLF9r/OTQGCeRlNN9xYEVZrb4o92bV2qmTibpIlkezuwKq/ldLtkt4eQHpqDQlqq2NnJAgHO/5PNq1iF3D08Ct8vjB5IVt1yPFw28wyooQc/LkRaahGUEu/f4olLEUaMtuGt0XHV8jmD6g/PJLaNKdM02SS3dvn0q16/cYQLOTQrS+yct0Z+vGabOe1Vmr9f2vh92SEXGfVa2vhXREuWVKZzFxg3vgeFaHO6vdNvBBvtvnmXnLXPObnc=;75iCqKD9U69uOuLbSrTCHQ=="
+secured: "QDTWjFrHLnQuX+6RIYP+a+rKFrMbuKOmZGG6X1qo6M0Lh9aSyaV2/kOQIAO60b6ENHv01HegdMJ8IraQjor/Fi9LUpx1OiVNj3nCcNRzVr/MhV/czw2E9+MO6SQ8dOE+hfpOePmW7hGGgRjm3Kc6fdBtcBbUs/cEXcuJ0UOkVKDsJ5B8I3Fd0hIBJ6WHr0q7jDSTOy59JHBI+k4GSh3TCcBv9GJCvbNhbY4WW3m0uyNANpWT9RoG9gn8bvCr3rmgxmih61pF5FwHFbml5SMM91KFIaNC2DLuzJs245pF/sj77L4adptN8BFxWLoQpOgFegv5pwiD8e0UZd5e8M8qa65gunyRBdDRI+JSco/65pbUD7wzTNbRaN6mwSsiyKpvE71EThmndRyGilikK8C+qH5WO1jiOUyCnmrmGHzv/RxtwNwmMf/1+axeUhKQocQpnLMZONeTLkAq0mI3AKFUpWgqRIWe2ZVIZeh2gnXIYELHP8MuB7ImEdYkXU9ZIgweAE83yfX4lq9F789hZZOTrA==;AjXHWKG8fQy2m6nHzYCdaQ=="
 ---
 

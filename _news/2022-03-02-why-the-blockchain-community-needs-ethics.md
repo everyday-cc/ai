@@ -43,20 +43,6 @@ related:
         width: 1035
         height: 924
         isCached: true
-  - title: "Disrupting centralised structures of digital economy using AI and Blockchain"
-    excerpt: "Access to AI and blockchain technologies has been democratised, but humans still lack full control of their digital interactions. This is now beginning to change. Technologies such as AI and blockchain are now becoming more commonplace across multiple industries – healthcare,"
-    publishedDateTime: 2022-02-27T04:19:00Z
-    webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/disrupting-centralised-structures-of-digital-economy-using-ai-and-blockchain"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-    images:
-      - url: "https://images.prismic.io/reuterscustomhubs/9c0e51d1-53b8-47a0-9bc1-1d29918678c6_tbr-fetchai-main-hero.png?auto=compress,format"
-        width: 2166
-        height: 1219
-        isCached: true
 
 secured: "V1Z9cKJ3GwTD11TCrjH2jD05LBKMZ6dScxZNmwRES0tERwKroo3Sdlr/4arfu7lPPU5QItMxUuqS4ij293RlkLDIYmbKgsGlJmFnGbw03DldpmEzHCUmvg6vzUoV/caQM8JCEv0TBRD9Fkq8EiEx5+wEPE9LdHIU8qeoAjlkjVfenVIkpkz5TmrnDs44C79QmvGWJLagL2BNQ94euYdLu20d+fgholEAWUVl8pLFjEZd2m0rxt5p66qsVi0PaEWQNBYJ6d+Hz5lqCKzxFDsEnD0l4NXA1RtM9I80+JzfSaUbMvSmexJj3+xzjw9yvDZy/1Us0dATPl8gxTLZGuaWthqGE1D7SlHG1sBSV8gZ74jlnK+NzzNo5ARObt5kJOZMWipf/U5L9CpbIUviPt0EM7hwWE9ZQLG3q+HfI0YLzT9u8rJfI3NuX7ybcLNrPL4D2218Fqp531JvbFmUWdTw0/WmaCyBESbMPjSJeKvlLLjEWvQ0FD2vFZiQBUyFhUncZbBsgSLxYdqPPeMO8UvNNg==;a9ZIizxiUzfhtsj4MF1YoA=="
 ---

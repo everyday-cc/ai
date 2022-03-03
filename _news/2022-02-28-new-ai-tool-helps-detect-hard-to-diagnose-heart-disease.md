@@ -42,6 +42,20 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "Deep-learning diagnoses: Edge AI detects COVID-19 from smartwatch sensors"
+    excerpt: "By combining health questions with data from smartwatch sensors, a new app developed using research at Princeton University can predict within minutes whether someone is infected with COVID-19."
+    publishedDateTime: 2022-03-03T20:43:00Z
+    webUrl: "https://www.princeton.edu/news/2022/03/03/deep-learning-diagnoses-edge-ai-detects-covid-19-smartwatch-sensors"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 38
+    images:
+      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/03/NeuTigersCOVID-Deep_012422_0011-2880x1920px.jpg?itok=hPfQnWvR"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "S1qHwNahowLvt6qUzcUy2Y0oTqQqPxdeN8CWQlVWtYUfCj+T5xn/PcbfZcpRHiB3wADe3Rok5Sr9tz+TpY/5sY3xMyPY6SAdskmfSKLyLba+wHX6H0GyMzTSAuRyUHgZHGIAAENgKMw1UTMDyZqH+0g3RH7dIgDk/dIeQro5ZEWQeu5rRZeAmoEuVgTNxPKOfi3fsZ+bnwGhnco5gq0wALgTazBPSJSna4A6mJxMMrtqlAsPea9JZKdqobJ2OiYm//BPa3JHl3zXAfStgIixZqtz5ZWdRSYVA5ZTUu5xrIlqzjmsYtbLeYVbsJoEP8gxSChjxtzEgBUj5N41awY9Wi9wOsuJe1Lm9wXV2C6Ry2YhJ+u+rSrBIFonMknmeO9bcioE5iOv8cB1qP1X/WxF7kr/lOfqQaKnw+L5oG+DbU9NdhlAOIGXlsvwVt64N6ILgAB34ComH0z8Lzoa+I+qEpDQh7NOy0wEferGz/HzBmHpzI+/PuT1vlO0Jg1SAsZ67Lpne6bIgfluDdNCOG7JQw==;6bi7poQzf+W/V6PkQ4wUjg=="
 ---

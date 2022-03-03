@@ -33,6 +33,15 @@ related:
         width: 730
         height: 400
         isCached: true
+  - title: "IHub-Data at IIIT Hyderabad launches course on machine learning for chemistry and drug design"
+    excerpt: "With AI/ML revolutionizing the field of natural and applied sciences, there is an increasing need for professionals with knowledge of both AI/ML as well as applied sciences. IHub-Data in collaboration with IIIT-Hyderabad,"
+    publishedDateTime: 2022-03-03T20:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220303/3914370.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "8D1FVNlqMxL94n0+cYCyEo5bbcgEhMG1TMgozlGY6/Scxi7KgqfPiMUlU3dDC8OgsUVOFdV5SPTkfyWIKS0limu5WgA48ApV5GMCHfkW9qe1W/w1u6sroKpXpOyD7airkzMZiLbZEHorTn4O7KWKbnSoRp0ee+CVhfVsHMttVFXW/ssKIrFm36+85eI5jthozxeq09OfPjNaiNVcRZI1YYH5X4G2tdNrZuDYz28OAGMN87XFTYlog+yHT/W4JYCM8uW1AFSSlBQ9kZuUUxVR+iSz3eH1XLa/7rPea3RTvFHM0pRGAz1uPFMgiPKc5IjwSgkZqKPLMcjy9gBn9WsktVqMqr/dt8gQgoCSG4XHcXuBCpkUGJC0ldrbLJ7YU4zG231cI8UBQN2KIYJeh7FaUYomLammtZE6WTSNPKyaOjoiGySih7kGZuvR58ZZLZPTO2nNzV3ma3WtWfn1OUKJLBNJP6/0Lc/KzaGfQoBf4O1CV/Yg5isS4Cw/fPtf1eL5qo1JIAdymiaGqyzmPcldAA==;EGcwFu8Q+qCcezsVQny+5w=="
 ---

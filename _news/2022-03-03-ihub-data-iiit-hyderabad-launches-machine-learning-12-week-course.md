@@ -34,6 +34,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 8
+  - title: "IHub-Data at IIIT Hyderabad launches course on machine learning for chemistry and drug design"
+    excerpt: "With AI/ML revolutionizing the field of natural and applied sciences, there is an increasing need for professionals with knowledge of both AI/ML as well as applied sciences. IHub-Data in collaboration with IIIT-Hyderabad,"
+    publishedDateTime: 2022-03-03T20:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220303/3914370.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "GeZ+QIwBNDStOqeKH9RvIXp/Bj9n6dHcvagCXd/bCCi/DjDGr3fGYY51Rx1JZosrYimn08sdv3Pm3pBhxaEIAJEfRcAtNWD4qojIURWQmUREagVNuofuWVMT5U2NN4AntjMDUmIp0JU2kjaZibhFduW/f+uchoo6KejdSNWUiU66UTE7XKcxrttQlIahYAp1deC8aIsso4FSRwX+FGwkj0PlavCGYtZQXB4/hKnSoMlz0hoiNWVJWSs+YBO5virL6fmScluy7fRtPTASMH1I3/0PZ4XR6zTXaMEUfWsUXLbClljdjmV80Mj9gnetgOLEd2O/uv9BiGq1JgD2eykL0vcLfBrlE3GbHICFJ9F5xtI=;Ec+aAExbb462NIEcMG8lpw=="
 ---
