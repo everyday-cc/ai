@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Corbyn Calls for Immediate, Unconditional Recognition of Palestine (VIDEO)"
-    excerpt: "Former head of the UK Labour Party Jeremy Corbyn has called for the immediate and unconditional recognition of the State of Palestine."
-    publishedDateTime: 2022-02-26T14:15:00Z
-    webUrl: "https://www.palestinechronicle.com/corbyn-calls-for-immediate-unconditional-recognition-of-palestine-video/"
-    type: article
-    provider:
-      name: Palestine Chronicle
-      domain: palestinechronicle.com
-    quality: 22
-    images:
-      - url: "https://www.palestinechronicle.com/wp-content/uploads/2020/02/Corbyn.jpg"
-        width: 678
-        height: 455
-        isCached: true
   - title: "WAFA: Jeremy Corbyn Urges Immediate Unconditional Recognition of Palestine"
     excerpt: "Former leader of the UK Labour Party Jeremy Corbyn has called on his country to immediately and unconditionally recognize the State of Palestine. In a parliament discussion regarding the recognition of the State of Palestine on Thursday,"
     publishedDateTime: 2022-02-26T17:27:00Z

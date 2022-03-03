@@ -1,10 +1,10 @@
 ---
 category: news
 title: "British public to receive the opportunity to invest directly in advanced self-driving technology on the roads today"
-excerpt: "The company successfully proved its complete self-driving delivery technology in road trials with the Royal Air Force (RAF) in September 2021. The trials focused on last-mile airbase logistics, supporting RAF personnel by using the Kar-go Delivery Bot to ..."
-publishedDateTime: 2022-03-01T09:04:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
+excerpt: "Academy of Robotics, a high-growth British autonomous vehicle and robotic technology company, today announces it has launched its pre-series A fundraising which will be"
+publishedDateTime: 2022-03-01T07:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/british-public-to-receive-the-opportunity-to-invest-directly-in-advanced-self-driving-technology-on/article_466b724a-b821-5c24-b303-2860eab9b11b.html"
 type: article
 quality: 2
 heat: 2
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "xelcIOieEBP/YxMv1on+98oBnuhY3PsZRKeVmj7ip9EXklyUDiL6RbHSUYpvcU8eIr5KP+22ZhHUg0AUTxJST/aU0JNhPWuYg6kuBRqu9YRwzAI/NS8csrrJkb2Vdu5hXcexW6zOs+iGMG1OtStrC+0HpKRZsaC7EsjxlLdKwf7Lrm1EIeQ2zAGxW6U4QrgS1vFlzle9IJze0ncBDY+x0aCVOxNMoAs20xMFwgcXwKe0pfLF/JTWxt3VZLC7DYviF4Im02+AMsmLxnMEoN5u5IHksbfUrmD8ly88sMusizEkdwISC9aZkiGxMBXID1KJ3MA2L58f8A+2Xj9Q6v5j9E2QmQkbtM+EagPBp3HgrcA=;gLRqaNIggFX7kPW1eryckw=="
+secured: "s1wwt3uPIMOsrijgy6IqabVTR3gMfFHY2yEewKl3QnIo8q98uZD4gBv8rNkk5W0JtBka5ujWYJ+iX/55khS5thKAXezc90p/NNuShxZn5BwbX5R2+xQrSpZkZKA2nhEUfkn1Alk5RBr4Rn+eWv6N+pD05+FzXzMYmLg6IPJh2nrs0kJ+kcp/wNRlGFbdYnzsTC9Uc8x+WAONS8bwPlcMbuZovxNEF5Y/L/Tt6QD1lmktLta3cmUz2nt2ffh9kGvgAMe+Sqgd9dgeMFw/mq31JSqr6yLTzBBzw1Rqxu4czJtjR0tChARM8LuBn1AH7fjS3HNd1spTe8Cp92hM8fsGEnbVfNNNfsOfglTVriG9aTs=;1rVT8BBMFbzuexBTAKgwGQ=="
 ---
 

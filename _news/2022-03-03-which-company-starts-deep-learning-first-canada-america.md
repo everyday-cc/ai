@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla and the ethics of self-driving cars"
+    excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
+    publishedDateTime: 2022-03-03T05:14:00Z
+    webUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 76
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada"
     excerpt: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it"
     publishedDateTime: 2022-02-28T19:52:00Z
