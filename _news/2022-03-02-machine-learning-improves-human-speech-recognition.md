@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Machine learning improves human speech recognition"
-excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
-publishedDateTime: 2022-03-01T16:00:00Z
-originalUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
-webUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
-ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
+excerpt: "To understand how hearing loss impacts people, researchers study people's ability to recognize speech, and hearing aid algorithms are often used to improve human speech recognition. In The Journal of the Acoustical Society of America,"
+publishedDateTime: 2022-03-01T16:02:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/944641"
+webUrl: "https://www.eurekalert.org/news-releases/944641"
 type: article
-quality: 76
-heat: 116
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg"
-    width: 2880
-    height: 1620
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3bfcfecc-b8b8-4a78-b421-6e5fc26bc004/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
     isCached: true
 
 related:
@@ -60,20 +58,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Reinforcement learning: How rewards create intelligent machines"
-    excerpt: "The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function."
-    publishedDateTime: 2022-03-02T16:11:00Z
-    webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Researchers Develop Human Speech Recognition Model With Deep Neural Networks"
     excerpt: "A group of researchers from Germany is exploring a new human speech recognition model based on machine learning and deep neural networks. The new model could help greatly improve human speech recognition."
     publishedDateTime: 2022-03-03T19:43:00Z
@@ -82,13 +66,13 @@ related:
     provider:
       name: unite
       domain: unite.ai
-    quality: 36
+    quality: 53
     images:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/03/brain-6103020_1280.jpg"
         width: 900
         height: 600
         isCached: true
 
-secured: "R8pFbRGaCHNutdXlqz1ad4XIYEDK84zsD7KS4d71b5QQlEmW0+wcynmaJSA9lvE8e0Fbe5gKq67uMRnSXGAjzQCxMxOgKOMNDX45bqn/aZmhj8qNKVCpLlsmmqql1T9JiVF00WEwTeeIX7xpqZvcpYh4Bwes5GeRyXhELwndpE7nv/VEwDOnaIdl38mMLSbhOIkhr0aaWyddrMR8C/eCD0w8Eo295Mfjs77x3g6mOI3c5ehku+9ETbrBVbJ5VOTgk026vmGEJE4RATl9k0OJ4+gC5wpa0CuTY9YTwQY7UE1dG5M/SO9FX+B3xS6pNaiiqBI4ib4uJ/RHmGwSWzTO1Dv3p0IP03rpOYuAlIMHFao=;LvHHO2B05jUNv4+nqZ8YbA=="
+secured: "M/dCBup99Ek6hh9jevX0qyTM34jmmiL0LqeMoTtmaTT3osjP6trGgFZVgYl6/OdtWI58j2eq6ayunOD3O+jx+yDBckEgO6k37iaHmLhj/13b/IXk2mmU3hYIIV2P/sqlL3LqJE9/fyJoouDnrDhUbvzjyxs9NUb0gwnwfKYxWuaOIZX9lagSIUaFQvJRTivZ56auZ4prpeeLGTpdoUvk8c7Vktc+amIb+HAzIXVWNnHzd41IvvAFXFAOdaqGENO5qZ4nRya0EiuTetGlGOWrt7/fQE//n6WHLsbai54ukGOdNYE6xbl3EPqJl+N3sCOxmimB9TNbTxCp0jfs4NltrldiorCBwLJHOv5B4KU62o0=;Ylczwo94dDr5nmQlw6yXVQ=="
 ---
 

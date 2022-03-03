@@ -37,6 +37,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Washington to leverage ID.me's facial recognition tech for unemployment claims"
+    excerpt: "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS last month over privacy and equity concerns. Human rights activists and some federal lawmakers are asking state government officials,"
+    publishedDateTime: 2022-03-03T20:57:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21258916/washington-to-leverage-idmes-facial-recognition-tech-for-unemployment-claims"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 50
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/bigstock_Facial_Recognition_Security_Sy_295494367.62212a53e624f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Florida DEO stands by controversial facial recognition technology to verify IDs as the IRS drops ID.me"
     excerpt: "NEW PORT RICHEY, Fla. — Concerns the ABC Action News I-Team first revealed a year ago about ID.me's facial recognition blocking legitimate applicants from collecting unemployment have now sparked a national debate over privacy, access and oversight of ..."
     publishedDateTime: 2022-02-28T11:06:00Z

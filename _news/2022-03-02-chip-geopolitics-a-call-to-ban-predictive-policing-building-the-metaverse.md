@@ -43,22 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress"
-    excerpt: "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,"
-    publishedDateTime: 2022-02-27T06:48:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/02/133_324614.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
-        width: 980
-        height: 677
-        isCached: true
   - title: "Meta developing AI-based Universal language translating System for Metaverse"
     excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
     publishedDateTime: 2022-02-27T18:25:00Z

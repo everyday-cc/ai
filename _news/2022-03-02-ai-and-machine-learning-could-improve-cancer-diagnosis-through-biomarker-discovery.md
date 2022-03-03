@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220301/AI-and-machine-learni
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220301/AI-and-machine-learning-could-improve-cancer-diagnosis-through-biomarker-discovery.aspx"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning show promise in cancer diagnosis and treatment"
-    excerpt: "Artificial intelligence (AI), deep learning (DL), and machine learning (ML) have transformed many industries and areas of science. Now, these tools are being applied to address the challenges of cancer biomarker discovery,"
-    publishedDateTime: 2022-03-02T13:01:00Z
-    webUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 64
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-15.jpg"
-        width: 695
-        height: 372
-        isCached: true
   - title: "Artificial Intelligence Shows Promise in Cancer Diagnosis"
     excerpt: "Scientists have explored the use of artificial intelligence and machine learning to enhance the predictive power of cancer biomarkers."
     publishedDateTime: 2022-03-01T17:17:00Z

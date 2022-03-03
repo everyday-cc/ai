@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -49,6 +49,36 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/502695fb2067bb4dded539f74c3322b2bdb51bb3/2022/03/03/13f6ee74-f0f1-476b-8763-3eabefbbec68/graphcore-wow-diagram.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200
         height: 908
+        isCached: true
+  - title: "GraphCore Goes 3D With AI Chips, Architects 10 Exaflops Ultra-Intelligent Machine"
+    excerpt: "The 3D stacking of chips has been the subject of much speculation and innovation in the past decade, and we will be the first to admit that we have been"
+    publishedDateTime: 2022-03-03T22:19:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 69
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/graphcore-chip-shot-logo.jpg"
+        width: 1505
+        height: 873
+        isCached: true
+  - title: "Graphcore debuts 3D AI chip with new wafer-on-wafer technology"
+    excerpt: "Chip startup Graphcore Ltd. today introduced a new artificial intelligence processor, the Bow IPU, that uses an innovation dubbed wafer-on-wafer technology to speed up calculations. U.K.-based Graphcore is backed by more than $680 million in venture funding."
+    publishedDateTime: 2022-03-03T20:55:00Z
+    webUrl: "https://siliconangle.com/2022/03/03/graphcore-debuts-3d-ai-chip-new-wafer-wafer-technology/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/graphcore.png"
+        width: 795
+        height: 445
         isCached: true
 
 secured: "m3dfO8Zq/SgLFYCq2sXRqytPco365fV+ccP74syST1cIZtOc2QAtuPwyuPmh/dsR6kMqcOCqJtGjct3/5PgP0y6Tws5Cwtyvjc/KVkpePc/S9Uqr66JsIj+s7BV6GMYF+CRGDIGmzAXin5aGg8cnnuVxu88VGHiykpuFM3+cRvrRkX/Jc+35WRn99n/Sq8DT2Ub7LAB23Yutr9kdUuQbTqE8OdabJJWLE2wRDaZhlx2RqntKUeh6Ue1FL1Ks2g4zC3NLF/T91WcNTTsVhneRudl4lq0Z4o810BD9Ky3Mc90Ce9+j2EraBz/0rRtvTwIj4FCbT480nvpAyWJ5ywqwO5TGYlhuy4AO4NSgwMPBdUIRPIOawcW6UAaJVBzPmkEgXglwx5bm4BW2+WTBf1fHWNbGa1rmw10MTwV96CKSP8AvGKf/pC1u6didmovPLAEShEvY0W8tVbZldIcrJubrvevWy7uJN76Eo8KlZcD+Dj2sJ8XcEysXPR/1SpolFnLTHLFJ0SaN9/LFSs9799ZpeQ==;YsZzS9H6Ba0Zpmp4RhSBqw=="

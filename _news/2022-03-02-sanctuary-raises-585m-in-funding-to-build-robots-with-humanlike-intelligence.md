@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 617
         isCached: true
+  - title: "When it Comes to Great Customer Experience, Artificial Intelligence and People Intelligence Are Both Critical"
+    excerpt: "For the past decade, the chorus of voices demanding the prioritization of CX (customer experience) has grown to a deafening roar. This rise tracks closely with the leaps in technology powering the software,"
+    publishedDateTime: 2022-03-02T15:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/when-comes-great-customer-experience-artificial-people-jared-wilson"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 18
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHrT2LU5RLMbQ/article-cover_image-shrink_720_1280/0/1646234413205?e=1651708800&v=beta&t=MnQnhchUrxQGrVZ59NDiRQEAQTGJlBIDu2MPSZM2YtU"
+        width: 1079
+        height: 720
+        isCached: true
 
 secured: "J6/qAgtKySTlSP3a7O4jp/FbaH97K27jevuAj8QK0BKPaf1W+2zpKkVs2UUZhjXo2VVcOSArlfgCbTnSvlRf+PxQdiuyedrUGPVyff/TlEw3dE6DpPkF+jUsNfczXamRCCe9nbVhFn4L94DWyjQuF3USbCG0dDe4ZU66wBNpAW7xXxAA8jyK1RSNCS+x3N/06ITCHSNAvS18xLTjKBlTk5C0BYDRt4mimN83PXTPIO6slwXZaKMHc0PgDOaQKkUujAeO53UQxJXxhneORflcTs4Sc6XYLB2WYjlWC+zDQLK+tG1SKf48EcSd9qLCU5eM4E07fjrvTX6MkCF5cKpK2sToMNMs9aJOvIKMIGaRzGP5H+qgp3ElYlLdWeeKigsFV/ului74M3momCRZP+6icWZ31JMui3q+BNl1J3/s8jwktTvOE5vCG2p+qzMEp4c+uN/QfzOue13sqIdvKSOsHfH528KnCq1JM4iCVu0rZgwIr/wKw59ZJfmVY0/NDkVlQgiGmOV7tuIfXiYjZvnxhg==;6PMmb/2DBARyV3bqJW7Z2A=="
 ---

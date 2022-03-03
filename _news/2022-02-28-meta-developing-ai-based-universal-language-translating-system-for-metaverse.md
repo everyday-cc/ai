@@ -42,22 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "SK, KT, LG promote metaverse, robots, AI at Mobile World Congress"
-    excerpt: "SK Telecom, KT, LG Uplus, Samsung Electronics and other Korean companies will promote their latest technologies such as the metaverse, robots, artificial intelligence (AI) and other services at the Mobile World Congress (MWC) tech show,"
-    publishedDateTime: 2022-02-27T06:48:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/02/133_324614.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202202/b26fbb6d50654aa18ba0f793fd62f26e.jpg"
-        width: 980
-        height: 677
-        isCached: true
   - title: "Chip geopolitics — A call to ban predictive policing — Building the Metaverse"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2022-03-02T10:00:00Z

@@ -47,6 +47,36 @@ related:
         width: 1200
         height: 593
         isCached: true
+  - title: "GraphCore Goes 3D With AI Chips, Architects 10 Exaflops Ultra-Intelligent Machine"
+    excerpt: "The 3D stacking of chips has been the subject of much speculation and innovation in the past decade, and we will be the first to admit that we have been"
+    publishedDateTime: 2022-03-03T22:19:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 69
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/graphcore-chip-shot-logo.jpg"
+        width: 1505
+        height: 873
+        isCached: true
+  - title: "Graphcore debuts 3D AI chip with new wafer-on-wafer technology"
+    excerpt: "Chip startup Graphcore Ltd. today introduced a new artificial intelligence processor, the Bow IPU, that uses an innovation dubbed wafer-on-wafer technology to speed up calculations. U.K.-based Graphcore is backed by more than $680 million in venture funding."
+    publishedDateTime: 2022-03-03T20:55:00Z
+    webUrl: "https://siliconangle.com/2022/03/03/graphcore-debuts-3d-ai-chip-new-wafer-wafer-technology/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/graphcore.png"
+        width: 795
+        height: 445
+        isCached: true
 
 secured: "ebxoc/dAgquqzqYyy1SjHQav/4abM0eCBjLYQUVpbJEpvsl0YO18O3SwVewY88ySSUVf96LAGmaObsmfr6A43k9FVWPxNS+ziZrV3ENSMOOuAStOLYjI6tqhf+We9mMSNLEUc6JTqaTEy8wPHrBuJb4lYcUkjQ6RJ+FTpZLd1ZQtM6SF7Rvzc5GWNOJjejW2dSxJx+mbyy+R8Pq95PhydBAeI2Ag/Jb6Q/Dg4+KnS88QgI2rF+MRF4VII4G44FmlF3EE5jcLL4SrcCdXWyISKoVn0QPvPBAQNwT3chLoH1pY5Ei9fXHrJxBP6FaEvJylm4zDOYka5sbSUc/rjxwbtc7+YsSKTmL7gLXAx9Z50/cZQt3N3ZOj+pzrVCUuFQA5bRIwxkLACguSwjCrZGxcVEpj6JnoRmMqGQ4Yb62XGEYRW67E1/LcPRK2cgrDgCA1ii1kvGSwKyqIss+GJP+gXt7xZDSgxoa4Asj9lUEMq3LBkcbUhhQvSuxm46pR0f2/CMFXXj9y6MX+C2GUphkD5Q==;ACAnJgdSWTHE3ANjm2sYKg=="
 ---
