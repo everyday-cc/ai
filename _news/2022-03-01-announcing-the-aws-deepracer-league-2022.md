@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepracer-league-2022/"
 type: article
 quality: 121
-heat: 121
+heat: 122
 published: true
 
 provider:

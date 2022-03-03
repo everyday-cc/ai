@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "UPDATE 1-Baidu beats quarterly revenue estimates on AI, cloud services strength"
+    excerpt: "March 1 (Reuters) - Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services."
+    publishedDateTime: 2022-03-01T08:58:00Z
+    webUrl: "https://www.reuters.com/article/baidu-results-idUSL4N2V42EV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/b5ky09qDpXo-154NBC2uMt2xODA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5CCSMV27FJZZG4ZP7ZY57QJIM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
     excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
     publishedDateTime: 2022-03-01T10:43:00Z

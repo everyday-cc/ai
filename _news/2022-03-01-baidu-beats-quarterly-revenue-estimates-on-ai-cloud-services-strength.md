@@ -38,6 +38,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "UPDATE 1-Baidu beats quarterly revenue estimates on AI, cloud services strength"
+    excerpt: "March 1 (Reuters) - Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services."
+    publishedDateTime: 2022-03-01T08:58:00Z
+    webUrl: "https://www.reuters.com/article/baidu-results-idUSL4N2V42EV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/b5ky09qDpXo-154NBC2uMt2xODA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5CCSMV27FJZZG4ZP7ZY57QJIM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Total revenue grew to 33.09 billion yuan ($5.24 billion) for the fourth quarter to Dec. 31, beating the 32.22 billion forecast by analysts, IBES data .."
     publishedDateTime: 2022-03-02T04:34:00Z
@@ -125,6 +139,6 @@ related:
         height: 480
         isCached: true
 
-secured: "wAtsJfaRJddwUcU5i9GxW6msIchp60CNN2O+eRzCo3eu7V/gnvafosmEv41r130qn58thRmQ1lWHJkXlfPe3E4EOrsDQouPgJTKO11NsE8xYTaACq7lbNd1cZDX7Pfj+lric0BUa3TzOUj2hzZ4imBHlUGPQdukFUpOz/6dJnK2jZaPSYfeMLVYzaL5/ray1KCp3bXcEAKln2aVXKzeFXxib44IHdaBXsPuimPcP+n9h5RugB5wjY/fWHd/i8bQbXxDjsAAn5sg00aGcRaE731nyr0mW4r31nXj241WEDja/ihT0YxpYcPNl+Pqq/qspUoGd7a4zkjeVCr7MmHKb+3/ZpRbE5jkgfMe7W8ysx0o=;rbbwxDZiHrMksNacnSDixg=="
+secured: "IOWt/Lz7cBLCrTmLBJ4LHkK4HWMkAbBK7YAiS4nt2rJi1ZbGQcgFlinxvu6IYxOGoZ7wJZhNzQx5Wd+WSjraG6Hv87JbdyP1Og5iwupTscUeAIicck1a8daECVfL73gOACJLN4kkcRadP1oZbSoVVPjVsmHvXExCBz6KfRKPvUBqlvsBVwdqR2JGqhwtlNuDQLQWUQUVQMjq3yfomvJ2l8D9NzslPICl0kndzMZVL6eL2PKKZrd3pOBDuAnJr7oRBZp8niO4DKrv1SXx3q5cSZKG/9PQqNfTjysqQLIOqGepYvIHuWUeOLSCP+z/jYp/O8k5KtcQf0J/TTYNzCNR8mg8zSKg4c+7H0y7hk4b7gM=;l/+kyy0MJYUTKfpaGr6Nww=="
 ---
 

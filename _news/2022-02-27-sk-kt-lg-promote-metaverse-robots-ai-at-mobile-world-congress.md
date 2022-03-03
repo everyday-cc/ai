@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=324614"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: koreatimes.co.kr
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta describes how AI will unlock the metaverse"
+    excerpt: "Zuckerberg says the metaverse will require advances across a whole range of areas, and AI is the key to unlocking a lot of these advances."
+    publishedDateTime: 2022-03-02T22:59:00Z
+    webUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/"
+    ampWebUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1353722877-e1646248329892.jpg?fit=800%2C594&strip=all"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Chip geopolitics — A call to ban predictive policing — Building the Metaverse"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2022-03-02T10:00:00Z

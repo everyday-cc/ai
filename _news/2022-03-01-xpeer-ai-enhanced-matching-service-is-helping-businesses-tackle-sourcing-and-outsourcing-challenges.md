@@ -38,6 +38,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Partnership with Meta Brings New Online Machine Learning Resources to HBCUs"
+    excerpt: "Georgia Tech and Meta have launched a new co-teaching initiative, the Artificial Intelligence Learning Alliance (AILA), with the goal of bringing graduate-level machine learning educational opportunities to historically black colleges and universities (HBCUs) and other minority-serving institutions (MSIs)."
+    publishedDateTime: 2022-03-02T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/index.php/news/partnership-meta-brings-new-online-machine-learning-resources-hbcus"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 37
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/news-default-image%20-%20New.png"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "FQxtxK6qVTM/C1PKtDZqU/v10m6myjqgbk/oaSz9Gt3EEdaHz/fx9GBaa+oLg3leAKKVjPhxM8+7HJcWNzIF0kgA6odevwNgrabS+63LOEfjg9eP9u+FGg6qeKC7ywWj3SbsZvIApUBdT4srIOeLJtcztng0Ny3llTz4AvHCdKPLyTkpWNAg4677G3SQhN/1JdmWzgxyAIlWo1lmSV8H+6/sLpI0nS65frM/u9Qc4XBzEbpogaTMsZms0eVn6SZ4gqQpVkBFV37OXG+e7yfiRz/YTwtOUekXEJNl4oNfSEU3WTTb3zKWKX59/a0ZM0PkbWApWzKTgn0uCTLGd9A9XstT0VfJeXcGHzNVvWt+GBs=;8q/8nFZ7dIStRD2il0D3Ng=="
 ---

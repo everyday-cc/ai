@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Partnership with Meta Brings New Online Machine Learning Resources to HBCUs"
+    excerpt: "Georgia Tech and Meta have launched a new co-teaching initiative, the Artificial Intelligence Learning Alliance (AILA), with the goal of bringing graduate-level machine learning educational opportunities to historically black colleges and universities (HBCUs) and other minority-serving institutions (MSIs)."
+    publishedDateTime: 2022-03-02T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/index.php/news/partnership-meta-brings-new-online-machine-learning-resources-hbcus"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 37
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/news-default-image%20-%20New.png"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Xpeer AI-Enhanced Matching Service is Helping Businesses Tackle Sourcing and Outsourcing Challenges"
     excerpt: "Across a broad range of services, the Xpeer AI adopts a new technological approach in assisting business executives make winning decisions, limiting the"
     publishedDateTime: 2022-03-01T03:35:00Z

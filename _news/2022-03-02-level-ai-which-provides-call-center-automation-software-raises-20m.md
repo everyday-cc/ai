@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-cent
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/machine-learning-can-help-read-lan
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/machine-learning-can-help-read-language-life/amp/"
 type: article
 quality: 111
-heat: 111
+heat: 112
 published: true
 
 provider:

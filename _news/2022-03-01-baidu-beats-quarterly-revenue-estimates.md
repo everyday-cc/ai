@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estima
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "UPDATE 1-Baidu beats quarterly revenue estimates on AI, cloud services strength"
+    excerpt: "March 1 (Reuters) - Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services."
+    publishedDateTime: 2022-03-01T08:58:00Z
+    webUrl: "https://www.reuters.com/article/baidu-results-idUSL4N2V42EV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/b5ky09qDpXo-154NBC2uMt2xODA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5CCSMV27FJZZG4ZP7ZY57QJIM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
     excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
     publishedDateTime: 2022-03-01T10:43:00Z
@@ -124,6 +138,6 @@ related:
         height: 480
         isCached: true
 
-secured: "NDyGn81G75Mq8FTuaQyozmbt4RViTByt5v8MNzjnVECw7XWpQu0zg9ThxdriMtSrcarkV+JU2XsKJto3s5T9zgBYvcnGuEWslNeptuozUiA/KsB+fAOghEstwWYkklzP6blX1g2/4nHv2hR6BCjQk4LMGcaSKweMBGjU0eT8JCZe7A95WB975itjyi8SvgGBBLpMfvZvug6zJRG/lvE88wz6u59PbexhmQHPqE25JZmPBpLj9eEhJKetDZsi/Fq8PMqYxo/KmRwD72RRzA9YVPWM1uSDvUnrER9L86D31RG+l6nwrENW69imx/QPyA4rZjH2Og9uBY1LuNl/E/Xw0CUNrfU2X0nj0VOfPWP7TA0=;FG7gwZfUa9YWs99HsK0LFw=="
+secured: "objFTTA2pCS1HwsqE7rg+e4ht5TPttsVz31UTv/xs/X0fvWzwbDO/IvFTKES9VliXjDWI0sw+CSRA1wbZyYUL9HLWAMM11qrKibHOyQKeiT6b1CUEmBgaDq5sG72CdIRMxAi8lzDtR4QAkze8Irm9rO3A9DJY7xRp8zKKtVIKD6I/w1ppyxyBPaJhsE0e0D4rSkTBLQ/UbDdK+jEf43WIfgRy0zRM/V7Cd1kk01FhbBPLdr+J6W/JMzcRIKEdTvkwGnPUG6sw/dIQpMzxN9mlt6HT7X4r7jjN3aPFjwmYMeWVBOjQWPveUYdrWsRzpwPocJyvsxAbtvpNaTZFUKQGrO5k6T/omKQq1vWVk4dj3g=;201ry+nyIwlphXW3FDh/ag=="
 ---
 
