@@ -41,6 +41,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "New MIT Technique Aims to Boost Fairness Within Machine-Learning Models"
+    excerpt: "Recognizing the harm that unbalanced data can bring to the creation of machine-learning models, a study shows how Massachusetts Institute of Technology (MIT) researchers attempted to increase fairness in these models through a new technique,"
+    publishedDateTime: 2022-03-03T17:15:00Z
+    webUrl: "https://healthitanalytics.com/news/new-mit-technique-aims-to-boost-fairness-within-machine-learning-models"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/new-mit-technique-aims-to-boost-fairness-within-machine-learning-models"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-mit-technique-aims-to-boost-fairness-within-machine-learning-models"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-861104740-1-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Zest AI Releases New Race Prediction Model To Reduce Systemic Bias In Lending"
     excerpt: "Zest AI, a leader in software for AI-driven lending, today announced the launch of Zest Race Predictor (ZRP). This open-source machine-learning algorithm estimates the race/ethnicity of an individual using only their full name and home address as inputs."
     publishedDateTime: 2022-03-01T16:02:00Z

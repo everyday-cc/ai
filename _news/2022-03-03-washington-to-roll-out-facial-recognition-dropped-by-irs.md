@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/washington-to-roll-out-facial-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
         width: 1920
         height: 982
+        isCached: true
+  - title: "Critics of facial recognition out-lobbying well-known vendors"
+    excerpt: "A research group picking through U.S. lobbying activity about facial recognition shows fairly modest spending by most organizations last year."
+    publishedDateTime: 2022-03-03T18:16:00Z
+    webUrl: "https://www.biometricupdate.com/202203/critics-of-facial-recognition-out-lobbying-well-known-vendors"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "The IRS dropped ID.me’s facial recognition tech after backlash. WA is rolling it out in June"
     excerpt: "The IRS backed off a plan to require taxpayers to record a video of their faces to access records. Now, Washington is rolling out the tech for its unemployment system."

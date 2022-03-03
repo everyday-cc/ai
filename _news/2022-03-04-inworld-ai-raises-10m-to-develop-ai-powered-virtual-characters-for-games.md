@@ -46,19 +46,33 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
+    excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+    publishedDateTime: 2022-03-03T17:46:00Z
+    webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
     excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
     publishedDateTime: 2022-03-03T12:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_3e7ee5e6-8273-55e7-b43c-e0ef4b81d2e1.html"
+    webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_185ec743-7266-54fa-a0a2-0241c799b8db.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 26
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "AI supercomputer startup Luminous lands $105M in Series A funding"
     excerpt: "LuminousAI lands $105M to tackle big #AI supercomputing problems. #SiliconValley #supercomputer #tech #Luminous #venture #startups"
@@ -70,6 +84,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "8VSj7PcBNVtzZ6pWbPha1FgU7O1wxmDDpQ2gJw0cNU7sjmHcmfbIA2yQ03DmvEtmDgaOQl2/kTQ/tAEbTQDXdnHDCm3wZ3eAcyYYNwUJ3qsso5NakPnIl6JxiYhTgvpR1AOimczhXwjvXYWeZsrQIdr8+0G19++Z2TXYDeVo9jf0CV74/7fKfebgoOEl3c3whMQz0lWoiGB7tdZ5rSNardvSlj3NmXHXay19GTua05+IRUz+wL0M4vDNk7+C9Yrgqsv1EQRCJhxOh1zAAHlhXkIE3mKv1mS6n4zy6MUujeGETUf3Gn95f4JtB/1YCnJ1NqxOjdKsuqIWhCs3DKbAife+mYU0akIzfWgk7r7cVAM=;i0Szoxj+h4OLN39ZfjRnrg=="
+secured: "lKD6LOnsT49QEv98IDwVdgXzt4irRCFd5H3CxOe7egzfM9z+0LT7zBsSi9QKG2m7cvQjLesiFJPAW3hjIosvH9+GBPs+pHVV3dZD+wLQ8yM4oF0rKrTCsn0jXEq4uAnT7R0xDJLv9wH+USgNVToAstX70Yv86+SBnwUjtPUyRiOfQjGSWtzPzI6FgVyUFY2RmaxlPKOOsaWr5JGnfcDXogaNNirTc8h4eo5uckbyCGZsRFZzjRzxpgCJNAAPUD+o1fE8czca6tIrxMy1DRk2uHzB1BinrxreAQR47hr+lPxGpZUG5nDxcNVT7i+YTpocKw1qoyPHXbTv4+UFvIbm3Kcs+cX9m3SvfPGNEX7NRVWsywqeNZ4Ca1wsMQIYa7iwnvollNmXzFZrX6S/EdHb9BvIn4hT/sjReBvfm1KlF4/06mk2jvKGRAxH4sMg0NALTlJElwW5YtVRWJR4um40TsDLBHAe6PQQIpvFCJFD63SucGz3qT7ZLjuBmu+zJb1BrIPha5ScprHkoSR+ZDvdEQ==;MKvZIJvarGqWP4xVIckYng=="
 ---
 

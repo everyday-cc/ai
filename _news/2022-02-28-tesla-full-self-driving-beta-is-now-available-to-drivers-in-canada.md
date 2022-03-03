@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla and the ethics of self-driving cars"
-    excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-    publishedDateTime: 2022-03-03T05:14:00Z
-    webUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 76
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada"
     excerpt: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it"
     publishedDateTime: 2022-02-28T19:52:00Z
@@ -57,19 +41,35 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Lidar Leading the Way to Safe Self-Driving Cars"
-    excerpt: "Once only a concept seen in movies, the world of autonomous driving is fast becoming a bona fide reality. Until now, only a"
-    publishedDateTime: 2022-03-01T12:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/lidar-leading-the-way-to-safe-self-driving-cars/article_5d909d68-84b4-503f-8891-830f07ad5e6e.html"
+  - title: "Tesla and the ethics of self-driving cars"
+    excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
+    publishedDateTime: 2022-03-03T14:00:00Z
+    webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
+      name: KUOW
+      domain: kuow.org
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 942
+        height: 628
+        isCached: true
+  - title: "You can catch a ride with a self-driving car in SF"
+    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
+    publishedDateTime: 2022-03-02T17:03:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 44
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
+        width: 791
+        height: 447
         isCached: true
 
 secured: "FEEB1B12GKrae+y3zS2Q9qUb079OErlHTGV5SMXNxWWEVS++iekKFgEkqQbMzO6qdoztOcjCKkCKWYpoNuUstWyn9JDRl+F3wIL+qOkvqhuqv58XCr5twg91Hz17BvTckAwKBExf7X3Fh6SWELevErU3if6HbesxsywiNcQalZ+2JAU49FbrZWn/9X/3SdSls3AOZl6vcJ4Rbz/ITuFv5jgNOWqyVC05QLj2/9D0EL25EUP5IH1LdmKNdzYlb7MtOqfbWWTQFaRXjmQfzYIUSm24d6IhR2J661l1jnzBHCAACaMmOOyPTJU2LfYc9+uqwnhzxri7p9EqXDEeZLXApwZwn+6hYFfNziXQhxeNOOzxUj7wZmdd2SuvEqiVfcyfca93qJ7J1g8+PWITnhSRzqheYPFOXVFexBwN92AqHSX2v6N6r93Kb6MSEu/Vm84jJf4Vc0g1TMF2Up6GGFVkqPGHVXzELzfeySawZcljVHWyGij+PyXIVrAaSX4Lc2RXwnoZnxdoIFsOsVTHeXzDoQ==;MWQt2r8bIDRjAT6gZpRokw=="

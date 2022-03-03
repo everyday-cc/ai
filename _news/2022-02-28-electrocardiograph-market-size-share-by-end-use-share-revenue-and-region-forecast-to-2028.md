@@ -123,6 +123,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+    publishedDateTime: 2022-03-03T16:08:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=626092"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 13
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "image recognition Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
     excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
     publishedDateTime: 2022-03-02T14:03:00Z

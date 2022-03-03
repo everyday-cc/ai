@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-devel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -48,19 +48,33 @@ related:
         width: 1199
         height: 871
         isCached: true
+  - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
+    excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+    publishedDateTime: 2022-03-03T17:46:00Z
+    webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
     excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
     publishedDateTime: 2022-03-03T12:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_3e7ee5e6-8273-55e7-b43c-e0ef4b81d2e1.html"
+    webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_185ec743-7266-54fa-a0a2-0241c799b8db.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 26
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "AI supercomputer startup Luminous lands $105M in Series A funding"
     excerpt: "LuminousAI lands $105M to tackle big #AI supercomputing problems. #SiliconValley #supercomputer #tech #Luminous #venture #startups"

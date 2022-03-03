@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alliance-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alliance-for-artificial-intelligence-in-healthcare-elects-new-board-leadership-for-2022/article_330d974b-d1e4-548e-b298-52b52be70286.html"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "The pluses and minuses of AI in healthcare"
-    excerpt: "It is expected that, in 2022, artificial intelligence and machine learning will continue to impact healthcare in a multitude of ways."
-    publishedDateTime: 2022-02-28T15:30:00Z
-    webUrl: "https://www.fastcompany.com/90723569/the-pluses-and-minuses-of-ai-in-healthcare"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/The-pluses-and-minuses-of-AI-in-healthcare.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Trends and Forecast to 2026"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence in Healthcare Market: Industry Trends ..."
-    publishedDateTime: 2022-02-28T05:40:00Z
-    webUrl: "https://menafn.com/1103772216/Artificial-Intelligence-in-Healthcare-Market-Report-2021-Size-Share-Trends-and-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/28/EP_e1003image_story.jpeg"
-        width: 1000
-        height: 647
-        isCached: true
 
 secured: "XLxWzcX21Wp7fiZZRUc+ilkp0SgKsRYw16dXAOGMuNcnoZ0UxASpAXsV4f9HKiJEhsDBfAMZxnMoesi6kZXI1S2MckUWuIgDeEY+dKAV6xDmXzirTD6RyAVFOoZaXmUW1biAf+R6FfnKUnd/yK/RElHOOrJ7H/r/XxTuCX40TY+m/NDLMp5I7rX+Bt5hTf+t3Q5RUqCPngD2XhbfWkj/ppqKOGrFtf/PfQHFVP5yRPYsnOUmXEaxQDoyWtpPggyovWI3SQsgdNS3iMUwiXM1Qb6hxIbqSdges+9/ydW6+fFmvhywo+kChosc9WpmRY7e0wGg6Z6JKPCjnfIk9D6Gbb37rd9Tzg8U9Vsw7PTqYmCTJcMn3fJPJGvH7BUT5DX0aNzfehHsbPc6W3tE684nYG7JLg70OeZUNLPCrKzCojWX5ZgrRw6c2Xr1JtXRuq6pb1nn3s8Z78sOar6kflQ4pItc58Q3ZdNnzjNiIkVyt1YH6GaeeByHYM9RGk3paETBcfeX4ys183Q4WOVkY79LOQ==;C4zNYzeN6ecf8IkuSpI0TA=="
 ---

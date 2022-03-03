@@ -2,19 +2,17 @@
 category: news
 title: "Tesla and the ethics of self-driving cars"
 excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-publishedDateTime: 2022-03-03T05:14:00Z
-originalUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-webUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+publishedDateTime: 2022-03-03T14:00:00Z
+originalUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
 type: article
-quality: 76
-heat: 106
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
   - AI in Autos
@@ -22,9 +20,9 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 942
+    height: 628
     isCached: true
 
 related:
@@ -58,21 +56,23 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lidar Leading the Way to Safe Self-Driving Cars"
-    excerpt: "Once only a concept seen in movies, the world of autonomous driving is fast becoming a bona fide reality. Until now, only a"
-    publishedDateTime: 2022-03-01T12:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/lidar-leading-the-way-to-safe-self-driving-cars/article_5d909d68-84b4-503f-8891-830f07ad5e6e.html"
+  - title: "You can catch a ride with a self-driving car in SF"
+    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
+    publishedDateTime: 2022-03-02T17:03:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
+      name: KRON4
+      domain: kron4.com
+    quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
+        width: 791
+        height: 447
         isCached: true
 
-secured: "O/0M0qs5D/xKajGEiXUYMJLrqwkgXPdOPNesTrgog7lhtjrsQJQs1LRBVGTDimZyT/ROM7e9DikBUKUSVTNu9UZ11GTx9wagcreZKXLRf1Qy/5UAl0wFyg82MPEeX5rHOC+FOQhv5aP/vF3iQMQ5SN4MyFKFGhcAzSHsENhA7k2CUa6/rPs5FGPxlW2Y82BrKlCHxe2sZcp2lmmYeYwThrMjy/KqBF4jxU/Uj+xvm4C9q+Fj+n2XRYBzrovaOOMEiZASGFGAScIMGgdQ5vk5aSGLwB7lH3aqya+xG2pb2rkiOsQ1d0tiECk8aEB21mnZcD1cTHZwiRuyqq3QY60OPnVdoajt/MiwYMovH90JU3A=;LtDjBJNmqR/fdrOU0rW3XA=="
+secured: "OXZKZBWzEKbxGWB3Bbo7GOXPfcR447yEiz7+iQ/1mJe4xq0/u8BHH9zfQlsy40WfIjPPacJm4ElkegoVot6j2IFEUUupCkeQ6LJJtJa7Jeh3SRx1iWun32K/YqrPbjbfUu1tGgweoLx99q3caRq1Ama2FcanpnlttDWGza25IjCsXsYdwSm6LqgAQc5mY0mi24qaEzoXJG/4NqJ7k+5j4y6khcsh2L3DdhmRZ2bHnM8pIfzne+k+fSjpMsdTsCqIvMM28QynnnRGQ0riC/zGUz2GcUdsqJ0Iycb8e6+hOvjH3kuP17ahas0j3xTTVXikw6YZDiL2quSQTbCqRL2xpNtpC6vPJo4p3In3M4NpPRQ=;C5W/ME6Ut0fELtGNypey0g=="
 ---
 

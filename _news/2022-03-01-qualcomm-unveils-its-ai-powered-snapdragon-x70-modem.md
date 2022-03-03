@@ -181,6 +181,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
+    excerpt: "Though still probably overhyped, 5G has clearly gotten a foothold since it rolled out three years ago, with 175 networks lit up globally and 5G smartphone sales forecast to reach $750 million this year."
+    publishedDateTime: 2022-03-03T17:40:00Z
+    webUrl: "https://techxplore.com/news/2022-03-qualcomm-embeds-artificial-intelligence-latest.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-qualcomm-embeds-artificial-intelligence-latest.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-qualcomm-embeds-artificial-intelligence-latest.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 42
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/qualcomm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Qualcomm X70 5G Modem Announced With Dedicated AI Processor for Better Reach"
     excerpt: "Since 5G uses a very broad range of network spectrum as compared to 4G, this new AI chip shall help your device to stay on the most efficient band using antenna tuning. Today, Qualcomm has just ..."
     publishedDateTime: 2022-02-28T16:05:00Z

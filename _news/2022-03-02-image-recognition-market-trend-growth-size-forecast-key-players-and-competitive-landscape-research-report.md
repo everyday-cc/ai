@@ -123,6 +123,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+    publishedDateTime: 2022-03-03T16:08:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=626092"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 13
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
     excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
     publishedDateTime: 2022-02-27T23:19:00Z

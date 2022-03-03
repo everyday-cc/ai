@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "IoT in Healthcare Market to hit USD 135.87 Billion, Globally, by 2025 at 21.2 % CAGR: The Insight Partners"
+    excerpt: "The IoT in healthcare market was valued at US$ 20.15 billion in 2015 and it is projected to reach US$ 135.87 billion in 2025; it is expected to grow at a"
+    publishedDateTime: 2022-03-03T17:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-to-hit-usd-135-87-billion-globally-by-2025-at-21-2-cagr-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/27f2bf527b901f7bf89e65211331317bac62288f-e1646243587537-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "7Y5BQiuXuueS4xKNbM69eHghgzbeLcqKstlsb7n+SyXKsX6a5Ssrz2ZM1mgloTVAEjBBYuEmf1oe3L8pBwzOd/x/rBD8lAomNVvsCxKmxpdStJqe9oLyAXWv8rBk1/khsI1OE6C6XZiUqvaNv0yUzkHx6zxojtm0Kqv9Zr6sIdV6qgvbiojtLNtd6B6V/xyQDtio0L9zZ1hOCF14Hl488BMV0i2P+OPLmk7xzekpUDr7Kqd1Ok3xdlo713hu3y/S8AbT+IWDVE5oNn4VQqW+7AIX7Gg8vG1yX7m/1SrDjoFXxa1mfbjiOxCQr2qarvfDdTfPkh0mgDPxkff76fLJouBjdeTdKOp6dzYi4c30t6E=;ZYovg7WzF63hFce+9pdxcg=="
 ---

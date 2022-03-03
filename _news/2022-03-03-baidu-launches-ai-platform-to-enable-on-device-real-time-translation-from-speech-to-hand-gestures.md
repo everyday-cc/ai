@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
-excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud’s digital avatar platform XiLing,"
-publishedDateTime: 2022-03-03T15:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
-webUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
+excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,"
+publishedDateTime: 2022-03-03T15:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures-1031251920"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures-1031251920"
 type: article
-quality: 25
-heat: 25
+quality: 55
+heat: 65
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg"
+    width: 400
+    height: 213
     isCached: true
 
 related:
@@ -35,6 +39,6 @@ related:
       domain: webindia123.com
     quality: 10
 
-secured: "uoBY1JTGWfu3mX/wCjZm+mQvHBWAo6xvJA72z1A7M/Gzu7hQ2eJuLIt0HmUJ9T/XkQxsZO0n3eMKLTmJ/vXhCKyZBUC9zz4q/PNgJ6dNaWMapkUS9WEkUjbZDEYNyP28Aw1G/bGwYoiRi5Tmbs7CGN+7P9OIB9sfyl+dAYkmRFELmjfOim9iBbO9nuEhwpcZmpW8hQOLqSIfLUtoYuxWmAkOtUgrFNf0MgaFaVmuIEbQ2CJpsyv1UoiPMmtcK8h16YJ8z4pdf5eUsGDNCdToNcaGR1fla2Q3cTooP/pgd/U4wHxy8qntXJUJ64XGd4tmANYuW2kCAB7tJeCn6Pu+xOBWBASoUP/yAerWkXylEH8=;+OqfRVdFMEDkj8W9V5H4tg=="
+secured: "u3nQWI/L9qSUMx/K+GqoaSBN196UtMoGal0NJsKWVt4KmgjWgz8DSOF2x3Zqhby8sOtTNcJKlQVI8LiTD8TeEeZy5VJUS0QS+MT2bWsUAXkMBlcmeFz4BOXL4E/NTkrqNTJrRZA/ZVNVSg+es56HeHGLcvCX07wPKGobtWxrFAtgP6Rgk3RRGHY6hn1rToQKkUCk0RI6DMlRa6xvVpuchFE5r3PV4gvYOe2Iui4B4V+8pbVTMQAMIgT7XGsiasRcnCvoGNT1hX2+tGYCZWqS4L5vpcWnwzgd6WMSMbyLtuMDxQACN26SaKjpFEhiyFH96cG+FIBMiEmoQMk1FqF1B+RKBr2V3Zr7AHYKZAPYhvs=;88U0kqp9HVZIgcVPOd6DsA=="
 ---
 

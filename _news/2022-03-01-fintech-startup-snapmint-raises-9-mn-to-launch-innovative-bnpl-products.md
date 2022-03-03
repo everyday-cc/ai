@@ -9,8 +9,8 @@ ampWebUrl: "https://inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launc
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: inc42.com
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Fintech Startups Given Chance to Join 'Hotbed of Innovation' at 2022 FIS Fintech Accelerator"
+    excerpt: "Fintech startups and growth-stage companies are encouraged to apply for the 2022 FIS Fintech Accelerator and the opportunity to accelerate the development of their innovative solutions. Ten companies will be selected to present their solutions to more than 100 leading financial institutions,"
+    publishedDateTime: 2022-03-03T13:10:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/03/03/fintech-startups-given-chance-to-join-hotbed-of-innovation-at-2022-fis-fintech"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "kIOg+U4E4Y15pXpk3JZF/rzO1OWLAg6eWbNI2o+3S9uzVP227CMxn7dq8bnOV0ln1WNdSzOsur1sP85+pCGzGHKMweCEZEKaIyIWUGUZN4m0mBuLz1sfs3PLKkVq6wfP4mqQUJHAtFlUQw4FA1Qek3oxwC6XJxdd/a8RCOfPqhc61hW5B2pmw7e91cJXXAQuVhq5KLhUqCJe7DiI9ebJtujN7vIpuaB1cJ+WA2L0Pm4ESvMYNGzVW6DTWbQioM3DFObBbKxCmqLMOyIGxKvBmAJitesiOzLpDXAGJVRTRrLWYidrJ7mG3B38gx3HpY6ujvlE7Ot03QUD6E4pdFjtC4S/dvzTtaMHkrHMj72KTVA=;DYbcgaYhle/7I5DHoWwVcQ=="
 ---

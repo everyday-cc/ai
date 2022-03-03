@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding"
-excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A funding. EdgeCortix’s reconfigurable Dynamic Neural Accelerator® processor architecture and AI acceleration SoC SAKURA™ brings best-in-class power-efficiency with near cloud-level performance across infrastructure and embedded edge devices."
+excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A"
 publishedDateTime: 2022-03-01T01:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
+originalUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
+webUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
+ampWebUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -49,6 +51,6 @@ related:
       domain: morningstar.com
     quality: 9
 
-secured: "asw9PV3sp7HtC9WmuThMgtYecJ4cN8y29Q3hL+xwj2OMWIAymlGapL9PAq0h+NNhcVwA1aI8bAaaVx3JKVv/cQ+pvgs+2o6c7xsQFT9F0roaJclDgP7xWSKm2llz/pBv3tB/EI/RIfiiLCetSC7bNDcMuMf/YYGSZB5BgvK6gu61F3IY4C9W5SkYfi5VGuXU1a5LXMi0x0fGfnutS7YzZTGSCtI+NNNGEPUE7nR2xQkZvoHdivX5woQ6bfVneE+8NVtCvPyVbU8Ub0rxJnNGqdwlVy19Kxa5KoEBeYgufO13StOFTFpndroLMz2NZi4wYKd3Nj7RzIrkTNKEqtseH+hpl2CpwRlKWV1mmkKtzZM=;9maBmjTpMKKng5apNZRNZw=="
+secured: "btoSG9ixs4yWZq6fXIJLhLaW+nHE0K6yLJg+0mIOSPokClhML13EIrDIS29TrKL16M0v8seOE+IXyE2l8rne+8Qil2lTCEnotoG7hF1/gYkhnbJwX+Hqxc6FtbHFLJi1Sk9YZ4cvCzRU89wHSeVAWMLfukOdOhx5Y7Hjyy3leiYOW9YHowVG5BO+GBJbwW+BsYmaotsoTbgeFcO0yr4dEgLlgaAYTEhhjOljpFJZ8nYgkzaBjbWb0lNv9/w2rwt1LlJslifgFwV6rtP8GY/+gy+R+vh6qw4jR7NMFF5SJsGtdgWFt5im6Ss7ymWPhIQjihpQ5k4YGCLD+srMh4U+QUBCTO3DZiJtdHCxl7aAVYg=;XcnorSGlFxM+yiOgPWmjSQ=="
 ---
 

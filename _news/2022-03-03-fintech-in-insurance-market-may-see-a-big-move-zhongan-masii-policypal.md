@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/fintech-in-insurance-market-may-
 webUrl: "https://www.digitaljournal.com/pr/fintech-in-insurance-market-may-see-a-big-move-zhongan-masii-policypal"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud AI in Fintech Market May Set Epic Growth Story in Future | Autodesk, IBM, SAP"
+    excerpt: "The Latest research study released by HTF MI “Cloud AI in Fintech Market” with 100+ pages of analysis on business Strategy taken up by key and emerging"
+    publishedDateTime: 2022-03-03T18:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-ai-in-fintech-market-may-set-epic-growth-story-in-future-autodesk-ibm-sap"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/27f2bf527b901f7bf89e65211331317bac62288f-e1646243587537-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "FinTech in Insurance Market Is Going To Boom | Paytm, Moonshot-Internet, Acko General Insurance"
     excerpt: "The Latest research study released by Market Intellix “FinTech in Insurance Market” with 100+ pages of analysis on business Strategy taken up by key and"
     publishedDateTime: 2022-03-02T17:35:00Z

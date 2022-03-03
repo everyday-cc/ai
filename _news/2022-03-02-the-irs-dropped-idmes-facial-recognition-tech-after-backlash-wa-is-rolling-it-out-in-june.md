@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 982
         isCached: true
+  - title: "Critics of facial recognition out-lobbying well-known vendors"
+    excerpt: "A research group picking through U.S. lobbying activity about facial recognition shows fairly modest spending by most organizations last year."
+    publishedDateTime: 2022-03-03T18:16:00Z
+    webUrl: "https://www.biometricupdate.com/202203/critics-of-facial-recognition-out-lobbying-well-known-vendors"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "u+Ehjo+nJsRRhuMGaU1ncCSPDlySp8fnlwSKdCBb+ty/VmfQN29ZgO2nh1TLC9BxWMM3NXNA13L5JHFZA1MdzJs1WFU5gsJkIGJqHQwsrG9evS7C+GTSv14ZJzeagd4xhFaYEPHM0/8if+ve9ledQ4G8hcj+yNxeI4WCthhV4M1BbUehteYTRT0iFj0zc9EeLFDNDL7yylAsbNmsmgkPOlR2pizjbCmfvmArBJgHfryiFGQ6N+cXQyUaiND/wkR/x8GxJ5TFX5oTTCsVQivuyXwyNAQOoKK1FWWxUD5ITGKcJx0oQ4BoXrbqKpU4yRgT7wpWe7H2IlMd0PNElIOz4+w75gfEhUpCmr1RnVrtPViJezh0lGYAxRmsTa05pmM9wVR2dL89S+5fNIDc+yv+X1cK7d/Bt8f+MAiBVG6HfTqrCGwAUMEq4Yn/L4GhjMUq0JpLXYrHhUK2IyNZ1d6YXjS9Ud5kZmBZ0VD2QO4sfo7eyr9pV0Ljj+EhxdBaagFxrUG3VjczxUQAntjpf1XDdQ==;ABim1CbYk9JAghN9K9SG0Q=="
 ---
