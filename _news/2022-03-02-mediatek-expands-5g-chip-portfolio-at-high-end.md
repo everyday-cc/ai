@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "MediaTek Launches Dimensity 8000 5G Chip Series"
+    excerpt: "MediaTek today launched the Dimensity 8100 and Dimensity 8000 system-on-chips (SoCs) to bring flagship level technology – connectivity, displays, gaming, multimedia and imaging"
+    publishedDateTime: 2022-03-03T09:03:00Z
+    webUrl: "https://www.electronicsforu.com/press-releases/mediatek-launches-dimensity-8000-5g-chip-series"
+    ampWebUrl: "https://www.electronicsforu.com/press-releases/mediatek-launches-dimensity-8000-5g-chip-series/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/mediatek-launches-dimensity-8000-5g-chip-series/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 59
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/03/cccd.png"
+        width: 402
+        height: 447
+        isCached: true
   - title: "MediaTek Launches Dimensity 8000 5G Chip Series for Premium 5G Smartphones"
     excerpt: "Three new chips expand MediaTek's Dimensity 5G portfolioHSINCHU, March 1, 2022 /PRNewswire/ -- MediaTek today launched the Dimensity 8100 and"
     publishedDateTime: 2022-03-01T07:00:00Z

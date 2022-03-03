@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-03T08:37:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=625550"
 webUrl: "https://us.acrofan.com/detail.php?number=625550"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "http://us.acrofan.com/img/noImg.jpg"

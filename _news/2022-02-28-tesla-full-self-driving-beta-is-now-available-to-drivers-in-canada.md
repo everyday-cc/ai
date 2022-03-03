@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla starts rolling out of Full Self-Driving Beta in Canada"
-    excerpt: "Since October 2020, Tesla has been slowly rolling out what it is calling “Full Self-Driving Beta” (FSD Beta), which is an early version of its self-driving software that is currently being ..."
-    publishedDateTime: 2022-02-26T18:35:00Z
-    webUrl: "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/"
-    ampWebUrl: "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/Tesla-FSD-Beta-request.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla and the ethics of self-driving cars"
     excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
     publishedDateTime: 2022-03-03T05:14:00Z
@@ -73,49 +57,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "You can catch a ride with a self-driving car in SF"
-    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
-    publishedDateTime: 2022-03-02T17:03:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+  - title: "Lidar Leading the Way to Safe Self-Driving Cars"
+    excerpt: "Once only a concept seen in movies, the world of autonomous driving is fast becoming a bona fide reality. Until now, only a"
+    publishedDateTime: 2022-03-01T12:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/lidar-leading-the-way-to-safe-self-driving-cars/article_5d909d68-84b4-503f-8891-830f07ad5e6e.html"
     type: article
     provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 44
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
-        width: 791
-        height: 447
-        isCached: true
-  - title: "Tesla Launches Full Self-Driving Beta in Canada"
-    excerpt: "The Full Self-Driving beta for Canada ships with the 2022.4.5.4 software update, first spotted in a Tesla Model 3 Long Range in Ontario on Friday."
-    publishedDateTime: 2022-02-26T17:14:00Z
-    webUrl: "https://www.iphoneincanada.ca/tesla/tesla-launches-full-self-driving-beta-in-canada/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 39
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/02/fsd-beta-canada-button-2-575x1024-1.jpeg"
-        width: 575
-        height: 1024
-        isCached: true
-  - title: "Which Company Starts Deep Learning First Canada America?"
-    excerpt: "Who Is The Leading Company In Ai? The market for artificial intelligence (AI) is fragmenting, although IBM commands a significant share. According to the IDC market research firm, IBM holds a strong lead in artificial intelligence software platforms,"
-    publishedDateTime: 2022-03-02T21:25:00Z
-    webUrl: "https://www.ictsd.org/which-company-starts-deep-learning-first-canada-america/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 39
-    images:
-      - url: "https://cdnictsd.ictsd.org/which-company-starts-deep-learning-first-canada-america-.jpg"
-        width: 626
-        height: 417
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "FEEB1B12GKrae+y3zS2Q9qUb079OErlHTGV5SMXNxWWEVS++iekKFgEkqQbMzO6qdoztOcjCKkCKWYpoNuUstWyn9JDRl+F3wIL+qOkvqhuqv58XCr5twg91Hz17BvTckAwKBExf7X3Fh6SWELevErU3if6HbesxsywiNcQalZ+2JAU49FbrZWn/9X/3SdSls3AOZl6vcJ4Rbz/ITuFv5jgNOWqyVC05QLj2/9D0EL25EUP5IH1LdmKNdzYlb7MtOqfbWWTQFaRXjmQfzYIUSm24d6IhR2J661l1jnzBHCAACaMmOOyPTJU2LfYc9+uqwnhzxri7p9EqXDEeZLXApwZwn+6hYFfNziXQhxeNOOzxUj7wZmdd2SuvEqiVfcyfca93qJ7J1g8+PWITnhSRzqheYPFOXVFexBwN92AqHSX2v6N6r93Kb6MSEu/Vm84jJf4Vc0g1TMF2Up6GGFVkqPGHVXzELzfeySawZcljVHWyGij+PyXIVrAaSX4Lc2RXwnoZnxdoIFsOsVTHeXzDoQ==;MWQt2r8bIDRjAT6gZpRokw=="

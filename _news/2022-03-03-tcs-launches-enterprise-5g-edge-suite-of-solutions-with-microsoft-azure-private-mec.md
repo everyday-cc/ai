@@ -111,6 +111,22 @@ related:
         width: 648
         height: 432
         isCached: true
+  - title: "Sonata Software Becomes Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Sonata Software today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP),"
+    publishedDateTime: 2022-03-03T10:06:00Z
+    webUrl: "https://enterprisetalk.com/news/sonata-software-becomes-microsoft-azure-expert-managed-service-provider/"
+    ampWebUrl: "https://enterprisetalk.com/news/sonata-software-becomes-microsoft-azure-expert-managed-service-provider/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sonata-software-becomes-microsoft-azure-expert-managed-service-provider/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Sonata-Software-Named-Microsoft-Azure-Expert-Managed-Service-Provider-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Uptake Fusion Announces Support to Microsoft Azure Data Explorer"
     excerpt: "Uptake, a leader in industrial intelligence (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer."
     publishedDateTime: 2022-03-03T07:21:00Z
@@ -187,6 +203,17 @@ related:
         width: 814
         height: 330
         isCached: true
+  - title: "Sonata Software named a Microsoft Azure Expert MSP"
+    excerpt: "Sonata Software company announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP) for providing its expertise in IT"
+    publishedDateTime: 2022-03-03T09:50:00Z
+    webUrl: "https://www.ciol.com/sonata-software-named-microsoft-azure-expert-msp/"
+    ampWebUrl: "https://www.ciol.com/sonata-software-named-microsoft-azure-expert-msp/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/sonata-software-named-microsoft-azure-expert-msp/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 54
   - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
     excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
     publishedDateTime: 2022-03-01T12:41:00Z

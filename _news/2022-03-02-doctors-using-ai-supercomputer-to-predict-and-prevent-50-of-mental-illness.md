@@ -38,7 +38,7 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 8
+    quality: 10
     images:
       - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500

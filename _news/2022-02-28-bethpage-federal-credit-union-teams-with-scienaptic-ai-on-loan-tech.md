@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "U GRO Capital Goes Live on Scienaptic’s AI-Powered Credit Underwriting Platform"
+    excerpt: "U GRO to leverage platform’s Early Warning Predictions NEW YORK & BANGALORE, India--(BUSINESS WIRE)--#AI--Leading global AI-powered credit decision platform provider,"
+    publishedDateTime: 2022-03-03T09:13:00Z
+    webUrl: "https://bebeez.it/en/private-capital-in-asia-pacific/u-gro-capital-goes-live-on-scienaptics-ai-powered-credit-underwriting-platform/"
+    type: article
+    provider:
+      name: Be Beez
+      domain: bebeez.it
+    quality: 35
+    images:
+      - url: "https://bebeez.it/wp-content/uploads/2019/10/be-beez-logo-x2.png"
+        width: 683
+        height: 242
+        isCached: true
+
 secured: "qyVACBMAaOxPRdFtyhI3cM+9h9KygkyFw9ZGHD7PpDUta8FJmQjq0BQlzcDaSX2yrgIpJTzoSaQ7q8GsSscthEELCkIp5gelUg8puasSPdHgAV2iUPluxgLuaMAUUskdWcuLRKGDLuV4YNSNw9xrS6IoIpOt/FIfF515hnVeumpyPhi4WHmGDB3KEq730nm0AFJcwOUi01NXwDQTr12oSFpTr3rt0WtKk2unp6T4cFaDDFyIX8ACJNlhOZFuQgoLQyuAqzRkOgkz3Bjr76SYfXdzz+/LgUVgF233QqXCoHG2VtT5kVJcAb+vfx9M6l6c6jEhxg0+oKFTm9P0T0zXecf6tSvbCmsFZ8RqTjlFuW4=;dwWhZrYagItQOQHwCpHIyg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.just-drinks.com/features/north-america-tops-the-tree-f
 webUrl: "https://www.just-drinks.com/features/north-america-tops-the-tree-for-machine-learning-roles-in-beverages-data/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "North America Deep Learning In Machine Vision Market Growth Overview, Technological Advancements And Competitors Analysis Forecast By 2029"
-    excerpt: "The North America Deep Learning In Machine Vision Market analysis provides a high-level summary of classification, competition, and strategic actions"
-    publishedDateTime: 2022-02-28T08:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/north-america-deep-learning-in-machine-vision-market-growth-overview-technological-advancements-and-competitors-analysis-forecast-by-2029"
+  - title: "Which Company Starts Deep Learning First Canada America?"
+    excerpt: "Who Is The Leading Company In Ai? The market for artificial intelligence (AI) is fragmenting, although IBM commands a significant share. According to the IDC market research firm, IBM holds a strong lead in artificial intelligence software platforms,"
+    publishedDateTime: 2022-03-02T21:25:00Z
+    webUrl: "https://www.ictsd.org/which-company-starts-deep-learning-first-canada-america/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
+      name: ICTSD
+      domain: ictsd.org
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdnictsd.ictsd.org/which-company-starts-deep-learning-first-canada-america-.jpg"
+        width: 626
+        height: 417
         isCached: true
 
 secured: "IlasniMBtv/kYjbpLFVDA4gGfQJxZbvAIZTr8tqnF3PqA8o9uOcc4RFk1qfg8ntQMhOQi6dE6BDiV9Xtl1IdHc49097o2h+HZ+4zk7inCUXjmhXhyabbPOT6AQfwDd+V1F26NTjsK76fVllpUklu02x9bSrOLWTq3pEDslNxr9oMJKFzInV4+FV6gwyLlHOaEn7O3xy0YZqv6LFwpTbxrNb/HM0wf+ckfSM+SKNaHEuHLH69hiTixkClpvMp7yN42Eoje0oxyUgkzQcCBV+U0AAlSmXBCf7zE4QiSr4/uy+tK6C+FO1PmVWPPpsOBLb3OTaPE8DPDns61qgQ0sp9TaZ/4cQOrctB2z1g9UhdOcffZaOHYzmz33bE224kvS7VBmtRwNOcW8eFKOCNzQeuaSLq0QZ98e0fxsnD3+VSuyLgtjHRaE1EFUdDBFikRx+szqKfqqfAEAKgxyI2LVpoD0xrAfAkubZcqHAutR2Fu9riXGRwMh4OIyHC5aZ9MTfimCTU6ANhgatYJg1zFdw/lg==;opwuj+WGEj4zm/UuGGk0Tg=="

@@ -2,19 +2,19 @@
 category: news
 title: "Takeaways from President Biden's State of the Union speech"
 excerpt: "Biden sought to rally a divided and weary country behind a revamped domestic agenda and his attempt to isolate and punish Russian President Vladimir Putin."
-publishedDateTime: 2022-03-02T10:00:00Z
-originalUrl: "https://www.wlwt.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-webUrl: "https://www.wlwt.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-ampWebUrl: "https://www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+publishedDateTime: 2022-03-02T12:54:00Z
+originalUrl: "https://www.wmur.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+webUrl: "https://www.wmur.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+ampWebUrl: "https://www.wmur.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Natural Language Processing
@@ -182,6 +182,6 @@ related:
         height: 763
         isCached: true
 
-secured: "8/GWWfPWDGWJYkkULJdEK0AYkmX+53ve01fphwHKrykLadCZqv5+8X/3QBzBFpA7udUWTJdDy+jnuLJ6ptkE7hTKikVeSHp4Yo2XCxoDcjvnTfXbOWKnRYUM+zPV2Rvlxs46RrKvxXOiAj7+IGUmgNHamitBGa8PNNXKRxxruaL7YbsesNTCHa9uCQX/ORf33p2atTMRIYHLnKyM/YTJ69qi3znM01RQ8znI/zjxcslGTIaC9F99aZ8XAoxWIbfm2rcNYr0g4y6KEXgRtj46+4riHCxJjqC64nHVHUFYT/R76CSljyi47xgWoxbvdCiebuFBqkMMFQvROMNMFxryjikkwfEtDo8DfTfAKR2kRhMiTCpJBrM2DaOhImIiq/2LBBYN4fSrVGoOB4Pl+gub0CWlLzyiLtbMrXbRYhXoGGYF2g8gHh9YFVBSxI8+cGc6A3hjE4kwRxoR9tn4uoyhrT9eIctrfgk1boZKaosc8RiobiEWFlvM7unTmzVD20AKJdeqcJbJdEW0vP9qo56dlw==;5e4z/nqUcxdzJnCAue4Peg=="
+secured: "d8cITYqqeEnJMI5PvGnNSUvDZU/N68acBfBC85w5YffSs785xvA9yw+a4KZNkQDku+DKVQgnIeutxh/KQk3speYyrCnJeoTGsDlb6OmGBZjLzMKOvUqieTJjASMeq27si4lMx7TMnpgfXYq3Y8Z87UmaO+RH3678eJnpnfFYZYO2p/GEeeMeXM621tSruszlR6DotOsrJJloZYVjr0loEDNmoU2Zer+rWp9eVmig5LduhC5RlXGn/RZXXdnU5kDWrawQ2gI7AY0aK3Ejk06U9hods2mV1w8YE7/PSjkvsx6uLYOM15AWLeFrYx1JMYvAO6qxz5HBP5jZM2AAQ2qhs9vkyRiTprUB6ZFoZLUiNXQ=;IZrDcqvGjvtJHhrZ0DCbyA=="
 ---
 

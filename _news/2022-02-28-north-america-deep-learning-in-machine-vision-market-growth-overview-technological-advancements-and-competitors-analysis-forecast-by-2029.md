@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "North America tops the tree for machine learning roles in beverages – data"
-    excerpt: "North America has extended its dominance of 'machine learning' hirings among beverage companies, according to recent research."
-    publishedDateTime: 2022-02-28T14:34:00Z
-    webUrl: "https://www.just-drinks.com/features/north-america-tops-the-tree-for-machine-learning-roles-in-beverages-data/"
+  - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
+    excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
+    publishedDateTime: 2022-02-28T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/marketing-automation-market-trends-business-strategies-regional-outlook-challenges-and-opportunity-analysis"
     type: article
     provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 37
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
     images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/Machine-Learning-Q4-21-1038x778.png"
-        width: 1038
-        height: 778
+      - url: "https://www.abnewswire.com/uploads/1646031669.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "ETZNCOfSvhihut3Tan8tffHjP+LySBRcBjsm5GMQhm4l/QocEFE4hpzl46BGyCPq4J8gzWjuU9MHCBPKWse06JxRTqLjFwrdEd0ER+kIC0gQfl7nfJvmH9i6YBwJ13VHbJcw63CvWvHtNzYRfHGsSs6pgvlqyIt+5q8/KfEnhOlVf+qvcW3qNKPO3BUvpqmOXQLEC0IC7Xe0hxwxBlyhKsE8MhMvPPdCORUI/gcSgbaSvUbzjaaS+IbjpdlB5Unvbu9EAlu/vZaFx/S7R2NkZieSIqw18VlB+T//SPeeTsVg0JE/zlxMrFJb7FUFiMzaLksxT61HG8QGEp3k0QX3CGtChkNI5Adk2MyM1d2vemU=;ZEMDYBGPdW/rXvIcdsUgCA=="

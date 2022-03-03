@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-03T08:42:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-trends-2022-growth-share-size-demand-and-future-scope-2027"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-trends-2022-growth-share-size-demand-and-future-scope-2027"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2dc6109d10f9c7cb3e53b861d7a9f851d454174b-600x337.jpg"
