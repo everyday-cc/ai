@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalener
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/"
 type: article
-quality: 84
-heat: 86
+quality: 184
+heat: 186
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "OzSL2EEDloIMwtp4WeVDu5NoGPm+8sfb++CYJHhRLN1ELtCVEISuTeN/XoHU1rrFTwU/xUt7o1HO4sGiRMFDmtJvV4WVp+J0F/TWw8+QMumuip6BtBwamhiH+iV9af3jw1kUFDyKQYEEBAaLc4vAUj4KuNOraUDJU6cNoSAidPZe8sLf+NXPZ/RlqW0YNh6jtegilxhz5CreylO/r8OpJjM0DPkTOB21YGKzvP4+dOfMLDyrc2rIPMvDQe704/PxEZj7ptkPJMnpjQlKetjyWKTFQGqQgwZK4998krkAQzaPnY6XR3Lcvtvq3eNfbBABtTbKUH9eHMofU7yVSo+omewxj5o2YdX80A3lVG496PM=;ZqV78wbAm8CKI89F4ekSRw=="
+secured: "1zkSK/NCXIg6jXwqx/aZdSQUOVT48kaFgSsyRrHm033HBMPOLuQVL3YibiuOb++0BZLBBSlyYeMn1kk0EC5BO1Ih3DBvB+LNpXPd59dyx56ExN68NB2JVdVXPjD4I1emCwePzdRkHeYAdkhntX0V8yDSlofXXizjhG0RMJZACcPkI5S0P4JKEG4PdQXq2jL+FIqUykm5H02rhalx0muUbbqZfomIledHNduN2BqLZ2Ry7ub2b7o0lqzjd3YVgTKLOKZv/WiqIxlQA0Ue3FoB6Ctqm6RZsdZAYKLPqi+MSROSYF+5ISArqM90hmrkwUdSuYf/8aj3G7KYYuAyMZ0XO/DxWfPkPH1u8ivWr+oIsUEaxfQt/F7rjMx9Q4l8bWzp;J075sSZJuZsaQX0IsKi00A=="
 ---
 

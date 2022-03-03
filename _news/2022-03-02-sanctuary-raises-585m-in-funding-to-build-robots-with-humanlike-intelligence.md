@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 617
         isCached: true
-  - title: "Sanctuary AI secures $75.5 million in mission to create the world’s first human-like intelligence robots"
-    excerpt: "Vancouver-based Sanctuary AI has raised a $75.5 million Series A investment to build a human-like brain that is capable of doing human-like tasks."
-    publishedDateTime: 2022-03-02T18:47:00Z
-    webUrl: "https://betakit.com/sanctuary-ai-secures-75-5-million-in-mission-to-create-the-worlds-first-human-like-intelligence-robots/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 37
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/03/Sanctuary-AI.jpg"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Vancouver-based Sanctuary Cognitive Systems Closes $75M Series-A Funding to Create Human-Like Intelligence in General-Purpose Robots"
-    excerpt: "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, announced the successful closing of an oversubscribed C$75.5 million (US$58."
-    publishedDateTime: 2022-03-02T19:58:00Z
-    webUrl: "https://www.bctechnology.com/news/2022/3/2/Vancouver-based-Sanctuary-Cognitive-Systems-Closes-75M-Series-A-Funding-to-Create-Human-Like-Intelligence-in-General-Purpose-Robots.cfm"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 8
-    images:
-      - url: "https://www.bctechnology.com/tmp/social/news/tw/C92C413CEAD7D8B67A89850BA352E1D1D6F0794044CBBD448067CA4DCFF5C610.png?1646226115"
-        width: 600
-        height: 335
-        isCached: true
 
 secured: "J6/qAgtKySTlSP3a7O4jp/FbaH97K27jevuAj8QK0BKPaf1W+2zpKkVs2UUZhjXo2VVcOSArlfgCbTnSvlRf+PxQdiuyedrUGPVyff/TlEw3dE6DpPkF+jUsNfczXamRCCe9nbVhFn4L94DWyjQuF3USbCG0dDe4ZU66wBNpAW7xXxAA8jyK1RSNCS+x3N/06ITCHSNAvS18xLTjKBlTk5C0BYDRt4mimN83PXTPIO6slwXZaKMHc0PgDOaQKkUujAeO53UQxJXxhneORflcTs4Sc6XYLB2WYjlWC+zDQLK+tG1SKf48EcSd9qLCU5eM4E07fjrvTX6MkCF5cKpK2sToMNMs9aJOvIKMIGaRzGP5H+qgp3ElYlLdWeeKigsFV/ului74M3momCRZP+6icWZ31JMui3q+BNl1J3/s8jwktTvOE5vCG2p+qzMEp4c+uN/QfzOue13sqIdvKSOsHfH528KnCq1JM4iCVu0rZgwIr/wKw59ZJfmVY0/NDkVlQgiGmOV7tuIfXiYjZvnxhg==;6PMmb/2DBARyV3bqJW7Z2A=="
 ---

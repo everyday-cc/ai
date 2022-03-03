@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Paysafe to Participate in the Wolfe FinTech Forum March 9"
+    excerpt: "Paysafe Limited (NYSE: PSFE), a leading specialized payments platform, today announced that Chief Executive Officer, Philip McHugh, and Chief Financial Officer, Izzy Dawood, will participate in the Wolfe FinTech Forum on Wednesday,"
+    publishedDateTime: 2022-03-03T12:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=625820"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Fiserv to Present at Evercore ISI’s 2022 Payments and FinTech Innovators Forum"
     excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present virtually at the Evercore ISI Payments and FinTech Innovators Forum on March 3,"
     publishedDateTime: 2022-03-02T12:01:00Z

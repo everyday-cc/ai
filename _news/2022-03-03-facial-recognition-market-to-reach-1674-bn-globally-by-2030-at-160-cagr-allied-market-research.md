@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Facial Recognition Market to Reach $16.74 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, \"Facial Recognition Market by Technology (2D, 3D, and Facial Analytics), Application"
-publishedDateTime: 2022-03-03T12:50:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/facial-recognition-market-to-reach-16-74-bn-globally-by-2030-at-16-0-cagr-allied-market-research-880518615.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/facial-recognition-market-to-reach-16-74-bn-globally-by-2030-at-16-0-cagr-allied-market-research-880518615.html"
+excerpt: "Increase in demand for face detection systems to enhance the essential safety & security in organizations and emergence of intelligent signage solutions drive the growth of the global facial recognition market."
+publishedDateTime: 2022-03-03T13:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-reach-1674-bn-globally-2030-/2022/03/03/9556494.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-reach-1674-bn-globally-2030-/2022/03/03/9556494.htm"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "Ak+uzwPUvckelp16QKsY6ovwuPCajSQ/uXHX/t+9ufep2lcGyj/u9cSbuySV7GXcBekzeOsaaRJ6Me3e3v8zfFNKH/wf+fQMBCcML1SugAR17hv+heEk8n5svm2Dgz+LO5Uq3dnm0EZEfl6y4yGePWYAMHzskRhOZQSc/+Ukkl/py1gaoZGAIUnNSywjGxkX0xg7tEzCsQb3rimnBPAEusSfurN2OtJr0tQXqGd2FidgBMksSfi37KaaG6nDrVpsVxbFm1cp6sCPDxFALRyFYroR1AoWMLdKXIgcwoIM5j++bwGM6QNpR2onEAhA/xcKrJ+V1qeNgMbpkxKZrYGjrgd0uCI9ArKUiSdeunr6Txw=;G61bhphgb4TIH4q5DcH7Eg=="
+secured: "GmsAYOT7kQI3xSUQT1knkLL6LJcNEhJUBZBS8QK4qnSRSaVMGl+Y1LHZY4VDE6Y7+kvGJ50J0DI/TcqkoVqwd8kbRgLhmHRbsDjRO4+WqxPATzEw+oqDRHl7d/vb6uA0n2lRAqJV8FoG0E7VTKJOizrbgMULDvkRzlih50t2qMccjRdIzciEqjWujX3Zm7c2WfJyKxIfF7YehAXhqmdHzkw9CbndrvKzLsKMeFMpOQu7ba0SM4UqLFCA1RmCIUdmOlycARW0Y3cBiOLSiPvKZ3XDQh3KKfCXxtanVhyDdaJmeQ4Ari8Np26RASApbvW+3WnDBcL7NzCBLNEH7OdZScTNjwRAwgcYf/DCRI32QJ8=;qTf9asa+huPh3+MSE7HT6w=="
 ---
 

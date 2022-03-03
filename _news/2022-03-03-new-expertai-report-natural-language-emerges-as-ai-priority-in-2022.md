@@ -1,29 +1,23 @@
 ---
 category: news
 title: "New expert.ai Report: Natural Language Emerges as AI Priority in 2022"
-excerpt: "Expert.ai (EXAI:IM), a leading company in artificial intelligence (AI) for language understanding, today released a new Expert IQ Report, \" Natural Language Emerges as"
-publishedDateTime: 2022-03-02T20:05:00Z
-originalUrl: "https://www.eagletribune.com/region/new-expert-ai-report-natural-language-emerges-as-ai-priority-in-2022/article_1a40e6e6-c362-560a-a403-53cd4224737d.html"
-webUrl: "https://www.eagletribune.com/region/new-expert-ai-report-natural-language-emerges-as-ai-priority-in-2022/article_1a40e6e6-c362-560a-a403-53cd4224737d.html"
+excerpt: "Expert.ai (EXAI:IM), a leading company in artificial intelligence (AI) for language understanding, released a new Expert IQ Report, “Natural Language Emerges as AI Priority in 2022.” The report looks at the most discussed AI topics of 2021,"
+publishedDateTime: 2022-03-03T14:00:00Z
+originalUrl: "https://insidebigdata.com/2022/03/03/new-expert-ai-report-natural-language-emerges-as-ai-priority-in-2022/"
+webUrl: "https://insidebigdata.com/2022/03/03/new-expert-ai-report-natural-language-emerges-as-ai-priority-in-2022/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-    width: 600
-    height: 333
-    isCached: true
-
-secured: "19UzBm5li5MIIc+4DTzPhHdvFH4IigsSEd05ds8+R3uGiJb1SUzxRb9XnZ9MMyejCaoDqhma8JMAZEz4MSzn+rvVXgcU4iGySwOCoRxbu22de1IjkSkBCXcAFx1oD2z4bOL3Ga8FXE7ICl7vkqAdM8InFPf7TlAYl79pcLM9qUVbQM3U3TLzXKynNj2FOTDIgWf4824ojAa2AvpVf5xXB7xQb7v2dAQntAzIJ5ypfZIoNp0xuA54+fJuBfoNzECIvSZigeabNjYGviJpZqpBEob8NIRliriWcdcMBMfdmp9JpBhWOqV7EPyu7A5MHOK5O5nE9xMVN++TCJ06PP115mCN2tAQsLAlo0Pv/sMeII2QqD0Wt7bYikYNGXVT6R/LIJSJWVS+r94m4Ou4lychXoWzk9QUld/rW7tU8YAzEU7+s32iMf3f6C7MVyImc3H1VRRDqw6vju49VqS/rw8CHaEYO0rytPrJGbop2ZNIc7JnJJXC/sVZgLbc+vfeS+4kRykVLUbfDW1oTD+sPPgEVg==;/w0+EosFglptGeJeV8usIA=="
+secured: "ooTAwJ0/nPZAWZOyWcHT/RO/QDRbApsfC0CMMPusX1no7mzAFYQGIdnxuKPLmVg7pEzgwN0dLjPfjHPzFSM5Ptc8gphRjAzDTi4aKPRLOEGOPDygneWovcFJNl++W6Ox4WE8xFWKSTf0tPSgXmjf4UJtKywyem7nzPaPjZHJ8Dg6Z5ugDTHsOO6tFAaRuIhuUUuWTt7aN6hOSDhGwHGEEdjWU2TuHCVlkEdwo96bed9UM7jbl6QP74ph8Pm5R5wNGix+/p41bSorU5d2aohRw7OaGCEFxbbnapxttB4vR4iHITXjyHhZGjn9bERxnXqASHKAFj/6WhWZEI9xJ+Cb18TcufWOtYXyVWvlBUFyMUzFirfakeie6WBKnRVVP2ZIf3DcXkhSxF4WlrzOJ+VcAXaJNYzLwXlvncF2wJLpZRi4TeUkHzoOY6ksTDETKoeD8bycx4ZaVLIvwScA+PMWA2YZwoAqwqHKlnvUXRChtrpCD2RLT5HaCoP8NfO4o7NixLFRr9oSkSEa7h46EogTgg==;E5UzuJvQLd7SXh1pWEMsCA=="
 ---
 

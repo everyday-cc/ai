@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/03/01/starship-technologies-raises-another-
 ampWebUrl: "https://techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/amp/"
 type: article
-quality: 72
-heat: 82
+quality: 172
+heat: 182
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: bizjournals.com
     quality: 34
 
-secured: "4bXh3radVRAv/bS9yGM8elPcKNYscKJm26KxSK8y7wOKq71BMmS/K9ZBspNOkomPo+t6lvmJt1i0lTn0rtSV+g9NCfKwLbx3R5eoVXuctG+rVCE3g1u64AsbockujX1GfM/4PqVj1La3TdLw0jQi3p9R3Iijtfurx8lbmGPxzoqX4SDSlIDn/jjiEC6rd/B683p9udKxwdwkOwfvav9MUyroJTajiv5RO3xkMlL2o0f4JLccgorbsffHgbhX4w7aTc9BUcRRt4B/oWn7wlYCXNAckmzIIQuAKDyOxZ28u/pfDQiBiQHUj/7f7IeehCRGj2qZTlhTepF3NObflXHfw39BKe+IwaU/Sho/tL19svYL/d4T9wyDXAsVSIVh9Z1CV0d0bV8ojE2kBsCrkdUliw1ZYWCxnnylQ7cqCXYel20Iu8bUVaxlhpEXA8jAe03yIS2CUSHx7usYMYYZClxxdfZAm6uqOuCqvc5+xxQ6drheo09xzId8HWw/OXDz+tNTEkhf812/V6kJDdKafZU3vA==;0BwHi3x2f6bGPG5TlnaNqA=="
+secured: "aG5hx+aYLd0tGZ184bnLWMvEIp2N+qnSPzJ8c8mtpusHrPwGXEF3Bz2Js1zU0N+KZKnCx+nSUILo4EuBLcJfGFWyWcYIzhTvRtQDbNYkCZZemvJtH07pz5ApHUO/yYl9JBdTJIujWfbKqEq5BAzjYA/whLBMifiODOwrr+67PTgn6zRpK4qKCpVkEd7QoNXO83lCdQ3PHORyM9gQ9MKjxo4KAzfaKh/G4BdyfZFhoudC4yQe84JSqDucgMECc7QwZ559ZaNd7IEpN7bevGIi/TbMtHmeffQNDJj7VVU4PCZMNJktqhgscdhsYQE8v0gGcfZfMI79OEkeVxXIJr/e9p/UoR311dM2NJcTqrpe6BpKopGML9PrN3QeLUpkd1SWI4tvm4dr+yno+RLqtmxQpClHZ/556wM8MRXC+33YNCm1zl0pe8ENPf14WxV6cZd0+RqkH/Mr63tSSHoc53jXYrXt+3tRszIyrTqc6SMddA0afRWD5PJ0vKH8BQ0rWiHtcghXDCsLriM1AZSV41PONWDMGS2kI+BGFqAbJG18/DA=;UH3tEVis6zyhtQ1dZbhuTA=="
 ---
 

@@ -74,22 +74,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta Is Developing an AI-Based Universal Language Translation System for the Metaverse"
-    excerpt: "Meta recently revealed that it is developing an AI universal language translation system to avoid language barriers in the metaverse."
-    publishedDateTime: 2022-02-26T23:03:00Z
-    webUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/"
-    ampWebUrl: "https://beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-developing-ai-universal-language-translation-system-metaverse/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 53
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/02/Meta-Is-Developing-an-AI-Based-Universal-Language-Translation-System-for-the-Metaverse-feat..jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "BM2iig8xIQP4rp2w6X5ltgip4aDVOLtbStOyxJ3PKIuKSB8pOYGeWEDMu4J79/q18uW88wBNFIRPwGFJzC3T6UW9JV1HaiaMXZdlLk4BaARyzZqfvjYhHsx1mnkWTZxtqOWVAKAAuwDzKhKU6NHd60HS3aRVQlQmgagPQc4oJiVxhCDkHvQvJw3wmPDKC1CZxL/+jPEdhuPT5/emOVkUL0tl0NBU/WL9l1VhWlmav6p43Kk0/xn2xkShhpJGxfbcYG0i2d+d/DXFWEgQC8K6+4Bytn60X0JkpnXplJPq65uTeMG7yzQAzlX0u0iFIMlzA1rtlMSDh/4Yz9p2W86yrJh1AlD/8o6md32wlgkipFO6WYmzh40nVulb4Qcme2VdTT/SpPutZTgaQb4CwpezwJFcqCtA4MhkB3MAJs+WvgRAes54pe8ixyUDEicunWVk0qHA21b8YinCP1KR5DKYQU6m6x3umj6OFF90W9Uy3RyMTxVFpDHEauQZrn8056Abr/NAy3rBd0M8pKNf2tPsbA==;diehoLW113f7CJBD/n0Yog=="
 ---

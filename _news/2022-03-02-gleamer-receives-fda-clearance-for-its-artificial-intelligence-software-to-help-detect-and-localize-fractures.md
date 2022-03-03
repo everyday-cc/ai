@@ -1,27 +1,27 @@
 ---
 category: news
 title: "GLEAMER Receives FDA Clearance for Its Artificial Intelligence Software to Help Detect and Localize Fractures"
-excerpt: "GLEAMER, a French medtech company pioneering the use of artificial intelligence technology in the practice of radiology, announced today that the United States Food and Drug Administration has cleared its BoneView® AI software for use by U."
-publishedDateTime: 2022-03-02T14:17:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-software-united-states-a1f7c68d168ab1e24fa69c89f978ac2f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-software-united-states-a1f7c68d168ab1e24fa69c89f978ac2f"
+excerpt: "GLEAMER, a French medtech company pioneering the use of artificial intelligence technology in the practice of radiology, announced today that the United States Food"
+publishedDateTime: 2022-03-02T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures/article_d73fcedb-7bfc-5c7d-855c-6655db162e16.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures/article_d73fcedb-7bfc-5c7d-855c-6655db162e16.html"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 339
         isCached: true
 
-secured: "APq1MpS2Ef5pVJXFCdh32ztvW5lR7Lc+KZ9ieavD9It+9TVbjRd16HKVrarTpsh1hwtyMdrhIktDJTf+xVtRFt3AoUJji/jUOTV9ZOSoYQ4fws1C5iSnJ0GTBplIC5eY4Vjyq9bDgL0XzNKk2i6RCTwJuRCQUeO1P51yKXrJDNn0uMHws6jSzZ6Uk4H8Ho5FCuLDIeCcMUeE90MzvR0nJsSPNxMmynXiXZba8Ia+sfXy9xKchy1jc4eswq16I4JnA/iTLxDb2OO/+OxuOn8svjxI1pJwpKI44JGNqzHrlu8ByY5KxXtavWwPjXMTPMEfUzcloZ2/RuomMuPFDxUR3+qPHT4o4MBmcFM/kw/dd/w=;S1174bqc+y/QwjOONvn8cA=="
+secured: "2uW/eyt+Ylsw85V0q/0wOlkssNRJLYzsT1AIyqhEMOg//JNEMJzEZJ7jIyAmm8LBgh4Wbb9FazhLQFyI0i+Ovui/vdvqrnkGbrQ19YJKRJtpoBxHYtKf73hBMwnh/PNcmQF8cu/SV/hAbPuC69rM8UF/vQdWHE/CIvMiLmjznKdKCI/UGGmkziexv3iUbBxN+GQpIOdmr3n+WYijRIFAIUxSyuYOIgsw0JGCnGA2UISQlySSxbAnvQuuHuiLP0h8+gaxiHcgo6h/T64xgTqH+3L40nxkFemhGhuJzqE502ChL4mAdsO+HdXq9IQWTQ/oi+I5dV4G6Uhf2hAhD1wwjQBc1OV0CwRC1m7fBSpmkY8=;1r3dX1kKnmUtOYcfkVcr7w=="
 ---
 

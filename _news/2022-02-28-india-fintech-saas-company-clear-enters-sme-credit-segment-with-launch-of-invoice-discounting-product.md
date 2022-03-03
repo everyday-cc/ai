@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Paysafe to Participate in the Wolfe FinTech Forum March 9"
+    excerpt: "Paysafe Limited (NYSE: PSFE), a leading specialized payments platform, today announced that Chief Executive Officer, Philip McHugh, and Chief Financial Officer, Izzy Dawood, will participate in the Wolfe FinTech Forum on Wednesday,"
+    publishedDateTime: 2022-03-03T12:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=625820"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Investors are shifting the focus from fintech to climate startups in 2022"
     excerpt: "The inaugural State of Australian Startup Funding report analysed data from more than 800 Australian founders and startup investors."
     publishedDateTime: 2022-02-28T22:21:00Z

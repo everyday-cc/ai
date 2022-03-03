@@ -3,8 +3,8 @@ category: news
 title: "The IRS dropped ID.me’s facial recognition tech after backlash. WA is rolling it out in June"
 excerpt: "The IRS backed off a plan to require taxpayers to record a video of their faces to access records. Now, Washington is rolling out the tech for its unemployment system."
 publishedDateTime: 2022-03-02T13:00:00Z
-originalUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/"
-webUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/"
+originalUrl: "https://seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/"
+webUrl: "https://seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/"
 ampWebUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
 type: article
@@ -70,6 +70,6 @@ related:
         height: 982
         isCached: true
 
-secured: "cIf+XDYNCmzHma0gUUvKBcbWQvKMB45P1xzuXhsU7GZIbWcbFz7lNAuHfMZJ1QFg0wn5jVHB4Uk3+eHDM+jC3KuBwjXet0eG4A4bnVi7iL/dwieS59fTGxQNxit3w7QeLRHnQHTCwhizk8fHP95EmtVh6a2IXvhTj5QkoFWZuBKTsRhCMTVMiQ8yqdchlThj7PRwtBcPphSUzqiHqi0/Lt2RBZeDXzaKQ4u9vqCUgcik6pbsIqrw4uEq6tiBszQEVIo1NAEDVP3dR4zQtEQpFD4SW+V5yANQkbIFw3oGJwoK3RdBrfYBwbj/NX3suUYLsFjp0VQeN7tYRN0No12u7XcWIRZck5DtOzHihNwwGfIMJFkyOvVm5VGjPdNDXytklVVxg2jVqSLt3lAHKOfVmPjQFMPlge8YLfPQn25usz05HspBV5H7synOZqB9rjyQoziZbqMNlsjZRNZBZ0CF3r7Tkxu6SdDUDG5K4oXVZDxVQEbN8yIDLJXo2q0jPQUk6f9EfJi8IKt20emIxyA0hg==;/U0z0/GcP26ymtFQxCrMzg=="
+secured: "u+Ehjo+nJsRRhuMGaU1ncCSPDlySp8fnlwSKdCBb+ty/VmfQN29ZgO2nh1TLC9BxWMM3NXNA13L5JHFZA1MdzJs1WFU5gsJkIGJqHQwsrG9evS7C+GTSv14ZJzeagd4xhFaYEPHM0/8if+ve9ledQ4G8hcj+yNxeI4WCthhV4M1BbUehteYTRT0iFj0zc9EeLFDNDL7yylAsbNmsmgkPOlR2pizjbCmfvmArBJgHfryiFGQ6N+cXQyUaiND/wkR/x8GxJ5TFX5oTTCsVQivuyXwyNAQOoKK1FWWxUD5ITGKcJx0oQ4BoXrbqKpU4yRgT7wpWe7H2IlMd0PNElIOz4+w75gfEhUpCmr1RnVrtPViJezh0lGYAxRmsTa05pmM9wVR2dL89S+5fNIDc+yv+X1cK7d/Bt8f+MAiBVG6HfTqrCGwAUMEq4Yn/L4GhjMUq0JpLXYrHhUK2IyNZ1d6YXjS9Ud5kZmBZ0VD2QO4sfo7eyr9pV0Ljj+EhxdBaagFxrUG3VjczxUQAntjpf1XDdQ==;ABim1CbYk9JAghN9K9SG0Q=="
 ---
 

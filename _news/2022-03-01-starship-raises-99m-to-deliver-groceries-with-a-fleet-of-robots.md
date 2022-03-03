@@ -29,7 +29,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 72
+    quality: 172
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/01/Starship-Technologies-2.jpeg?w=840"
         width: 840
