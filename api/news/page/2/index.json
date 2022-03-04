@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-03-luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m.md",
+      "title": "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. According to some experts, the growth in the compute power necessary to develop future AI systems might run up against a wall with mainstream chip technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
+      "publishedDateTime": "2022-03-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-three-ways-to-overcome-industrial-ai-roadblocks.md",
       "title": "Three Ways To Overcome Industrial AI Roadblocks",
       "excerpt": "Industrial AI can unlock any number of game-changing benefits for the oil/gas and energy sectors: overhauling inefficient operations, increasing productivity and cost efficiencies, reducing downtime,",
@@ -480,6 +533,50 @@
       ]
     },
     {
+      "path": "_news/2022-03-03-tesla-and-the-ethics-of-self-driving-cars.md",
+      "title": "Tesla and the ethics of self-driving cars",
+      "excerpt": "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
+      "publishedDateTime": "2022-03-02T21:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-meta-describes-how-ai-will-unlock-the-metaverse.md",
       "title": "Meta describes how AI will unlock the metaverse",
       "excerpt": "Zuckerberg says the metaverse will require advances across a whole range of areas, and AI is the key to unlocking a lot of these advances.",
@@ -488,7 +585,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -592,7 +689,7 @@
       "originalUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -697,7 +794,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1117,109 +1214,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform.md",
-      "title": "Faros AI raises $16M to shine a light on developer productivity and the value of software, launches free open source platform",
-      "excerpt": "What if what you think you know about developer productivity and the value of software is off the mark, and that is hurting the quality of your software, the operation of your organization, as well as your bottomline?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
-      "originalUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8a819abbd7405506c1b7527740b00bd5c40bd8e4/2022/03/02/09bb4a17-40a5-4bea-872f-7e60aeaab361/44b7dade8566bd527b25c2f2ddd47f0907f27814-1640x908.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
-      "publishedDateTime": "2022-03-02T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
-      "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
-      "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
-      "publishedDateTime": "2022-03-02T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

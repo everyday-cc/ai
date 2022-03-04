@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowt
 webUrl: "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Fintech Market Share, Growth Factors , Key Market Players, CAGR of 8.5% , Trends & Forecast, 2028"
-    excerpt: "Rising Internet in various processes, and implementation of Artificial Intelligence and blockchain technologies are some key factors driving market"
-    publishedDateTime: 2022-02-28T01:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-market-share-growth-factors-key-market-players-cagr-of-8-5-trends-forecast-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "MfOtXeYhY7+k2TjLBHpf+qgQqgsHOFyjiXZmGk0Svcp0XEnL1OH0zY38fUygPXouTLxrt+MURvh+qe1mQUBFRSqhs/ZvMXYsN4w+xV2A5Vuo74eBOJNDTQ6k/TfalY+tV0UgT2ArQZfXYRylr527PhZR+ewNLEliI/s6BNb4BK+F30ipMJQj7Yter9bmeWu54P6qY1IC+/EWyUNDAYU+aZi4G4UbMD+LjE/9adKztTubLDQ7FMQ6e7LZUk4MTAYxlUWju3HfeYUKaC5VSzvWSJG+a2zX5BuxmdHjLp5bKq3aEGLpNuXYXR/w1x6vAMe5RTiewD1YIrUTuI6zbuzRPEuk4HxAykAxoAIRhnVU+VgkOYdUXHpO9mRH5XOqvphSSFfxcy4X9A2rNJfxZd1QSuh9hpLsUWy7pBedYZM42SiciK1+b6KK5Vhe4XFl2k/WnnoTLiQ0vRuKMIPXCi3ElHXbzqaXoximHpI7pUI7tEvrKSaI7CaQiElz1wkHadfiA1VBr+9TQzhvqNB07dO30w==;8UjvV7KVVIQZ7+464zklRg=="

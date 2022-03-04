@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup"
-    excerpt: "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services."
-    publishedDateTime: 2022-02-28T01:11:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 753
-        isCached: true
   - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
     excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"
     publishedDateTime: 2022-02-28T11:42:00Z
@@ -84,6 +68,52 @@ related:
       - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
         width: 400
         height: 279
+        isCached: true
+  - title: "Microsoft completes acquisition of Nuance, ushering in new era of outcomes-based AI"
+    excerpt: "Microsoft Corp (Nasdaq: MSFT) on Friday announced the completion of its acquisition of Nuance Communications Inc. (Nasdaq: NUAN), a leader in conversational AI and ambient intelligence across industries including healthcare,"
+    publishedDateTime: 2022-03-04T14:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai-1031255368"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://mma.prnewswire.com/media/1759379/msft_nuance_social_tile_0_0_1__1.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "Microsoft acquires speech recognition company Nuance for $16 billion"
+    excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools."
+    publishedDateTime: 2022-03-04T16:22:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 76
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Microsoft’s new service helps health care organizations analyze multiple data types simultaneously"
+    excerpt: "The goal of Azure Health Data Services is to help organizations discover insights by bringing disparate data together and connecting it with tools for machine learning, analytics, and AI ..."
+    publishedDateTime: 2022-03-01T14:30:00Z
+    webUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/"
+    ampWebUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
         isCached: true
   - title: "Microsoft updates Azure for Operators, adds private 5G"
     excerpt: "Azure Operator Distributed Services designed to let telcos run workloads on a single carrier-grade hybrid platform"
@@ -133,6 +163,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ..."
+    publishedDateTime: 2022-03-02T07:55:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 70
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
     excerpt: "Microsoft Corp. completed its acquisition of Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud ..."
     publishedDateTime: 2022-03-04T14:19:00Z
@@ -147,21 +193,33 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
-    excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."
-    publishedDateTime: 2022-02-28T10:38:00Z
-    webUrl: "https://www.outlookindia.com/business/tcs-team-up-with-microsoft-azure-to-leverage-software-for-smart-cities-and-customer-analytics--news-184447"
-    ampWebUrl: "https://www.outlookindia.com/business/tcs-team-up-with-microsoft-azure-to-leverage-software-for-smart-cities-and-customer-analytics--news-184447/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-team-up-with-microsoft-azure-to-leverage-software-for-smart-cities-and-customer-analytics--news-184447/amp"
+  - title: "AI in Healthcare Market Next Big Thing | Major Giants Google, Microsoft, General Vision"
+    excerpt: "Advance Market Analytics published a new research publication on “Global AI in Healthcare Market Insights ... ai-in-healthcare-market Scope of the Report of AI in Healthcare Artificial intelligence (AI) in healthcare is the use of algorithms to manage ..."
+    publishedDateTime: 2022-03-01T07:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 62
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 63
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044635.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Get Microsoft 365 Under Control with CoreView, Now Available through Azure Marketplace"
+    excerpt: "CoreView today announced it is now the first and only Microsoft 365 Management Platform available for purchase via the trusted Azure Marketplace, allowing IT teams to purchase CoreView through Microsoft."
+    publishedDateTime: 2022-03-03T18:19:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=626148"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 61
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "KX Strategic Announces Partnership with Microsoft"
     excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
@@ -204,6 +262,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 54
+  - title: "Artificial Intelligence in Healthcare Service Market Next Big Thing : Major Giants IBM, Microsoft, Atomwise"
+    excerpt: "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 03/04/2022 -- The Latest research study released by HTF MI"
+    publishedDateTime: 2022-03-04T18:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 53
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/65fee5aea0144dc3985f990140d40b1b7228b8ef-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "TCS launches Enterprise 5G Edge suite of solutions with Microsoft Azure private MEC"
     excerpt: "The new offering serves various industry verticals, bringing together enterprise assessment toolkits for edge and 5G readiness, and edge-native solutions ranging from industrial automation, quality detection,"
     publishedDateTime: 2022-03-03T07:46:00Z
@@ -215,6 +287,48 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 48
+  - title: "Industrial Artificial Intelligence Market to See Huge Growth by 2027 : Alphabet, Microsoft, IBM"
+    excerpt: "Advance Market Analytics published a new research publication on “Industrial Artificial Intelligence Market Insights, to 2027” with 232 pages and enriched with self-explained Tables ... Introduction, market driving force product Objective of Study ..."
+    publishedDateTime: 2022-03-04T08:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-huge-growth-by-2027-alphabet-microsoft-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Microsoft closes $16B acquisition of Nuance, launching a bold experiment in health AI"
+    excerpt: "Microsoft closed on a $16 billion acquisition of Nuance Communications Friday, and now AI’s next big health care experiment can begin."
+    publishedDateTime: 2022-03-04T14:00:00Z
+    webUrl: "https://www.statnews.com/2022/03/04/microsoft-closes-16-billion-acquisition-nuance-communications/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 47
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/03/GettyImages-1238869000-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Machine Learning in Education Market Is Likely to Experience a Tremendous Growth in Near Future | IBM, Microsoft, Google, Amazon"
+    excerpt: "Global Machine Learning in Education Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report"
+    publishedDateTime: 2022-02-28T03:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-education-market-is-likely-to-experience-a-tremendous-growth-in-near-future-ibm-microsoft-google-amazon"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
     excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
     publishedDateTime: 2022-03-01T12:41:00Z
@@ -249,6 +363,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "Machine Learning in Communication Market Is Likely to Experience a Tremendous Growth in Near Future | Amazon, IBM, Microsoft, Google"
+    excerpt: "Global Machine Learning in Communication Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report"
+    publishedDateTime: 2022-02-28T03:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-communication-market-is-likely-to-experience-a-tremendous-growth-in-near-future-amazon-ibm-microsoft-google-2"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "J3romgtnGLvDffThMkfIlxR962IToSr88FIV8g54ctETf9NB/UXFV7YAbqTFTB7mFLNR1ofJ/WMWa1GTWWcuJ2wnxr2ilf+0VXJ9c4rZOjE6f1qeqYuPRhFdYRkKiYNOSYBH9IhKH9VvXHLLoIauySaxoYCwDwr5119eZx1QPkSfofxIUpF/QYH0yiW41s2iMAQJCZ6g4C7WITUoN9zRC7PQCYK/7HRCgFAqGP1zFreyrWyLesYG1x1gylup3I38W94OpabG2WAv79+AgAN2llNqus0guHbCJXjmC9XEiT+gRdwxCxMjjiwR/H73scw3q/kxjWVYjEJmzu48Rbv9E9j1aA5lh9ZURQXLYoorBtY=;g8+oGNYahjrHjIlvvwwZvA=="
 ---

@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-02-faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform.md",
+      "title": "Faros AI raises $16M to shine a light on developer productivity and the value of software, launches free open source platform",
+      "excerpt": "What if what you think you know about developer productivity and the value of software is off the mark, and that is hurting the quality of your software, the operation of your organization, as well as your bottomline?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "originalUrl": "https://www.zdnet.com/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8a819abbd7405506c1b7527740b00bd5c40bd8e4/2022/03/02/09bb4a17-40a5-4bea-872f-7e60aeaab361/44b7dade8566bd527b25c2f2ddd47f0907f27814-1640x908.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/faros-ai-raises-16m-to-shine-a-light-on-developer-productivity-and-the-value-of-software-launches-free-open-source-platform/",
+      "publishedDateTime": "2022-03-02T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
+      "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
+      "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
+      "originalUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
+      "publishedDateTime": "2022-03-02T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-europe-is-in-danger-of-using-the-wrong-definition-of-ai.md",
       "title": "Europe Is in Danger of Using the Wrong Definition of AI",
       "excerpt": "Some intelligent systems are at risk of being excluded from oversight in the EU's proposed legislation. This is bad for both businesses and citizens.",
@@ -208,7 +311,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -829,49 +932,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-human-speech-recognition-model-to-overcome-hearing-impairment.md",
-      "title": "Human Speech Recognition Model to Overcome Hearing-Impairment",
-      "excerpt": "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "originalUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "publishedDateTime": "2022-03-01T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
       "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
       "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
@@ -1116,21 +1176,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-01-ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars.md",
-      "title": "AI Deciding How To Distribute Harm Breeds Dicey AI Ethics Dilemma, Markedly So For Nascent AI-Based Self-Driving Cars",
-      "excerpt": "AI systems are having to ascertain how to distribute harm, a decidedly Ethical AI issue, including for the case of AI self-driving cars.",
+      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
+      "title": "Machine learning improves human speech recognition",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62184c65dbd6bd0c97949c9c/0x0.jpg?format=jpg&crop=5676,3194,x0,y188,safe&fit=crop",
-          "width": 5676,
-          "height": 3194,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1138,23 +1198,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-01T07:30:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1163,61 +1214,9 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services.md",
-      "title": "Zero Systems gets $12M Series A to bring automation to professional services",
-      "excerpt": "Zero Systems launched seven years ago with an idea to bring automation to professional services like law firms. They wanted to focus on speeding up manual tasks, rather than moving large volumes of information,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/",
-      "originalUrl": "https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/amp/",
-      "publishedDateTime": "2022-03-01T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
+        "Machine Learning"
       ]
     }
   ],

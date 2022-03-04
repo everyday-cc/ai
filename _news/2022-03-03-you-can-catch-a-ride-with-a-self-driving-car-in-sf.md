@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self
 cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,47 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada"
-    excerpt: "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it"
-    publishedDateTime: 2022-02-28T19:52:00Z
-    webUrl: "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/"
-    ampWebUrl: "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/"
+  - title: "Self-driving cars can now collect fares from riders in San Francisco"
+    excerpt: "The state’s public utility regulator issued its first-ever permits Monday allowing passenger service in autonomous vehicle The permits, which the California Public Utilities Commission granted to self-driving vehicle companies Cruise LLC and Waymo LLC,"
+    publishedDateTime: 2022-03-01T08:30:00Z
+    webUrl: "https://www.sfexaminer.com/fixes/self-driving-cars-can-now-collect-fares-from-riders-in-san-francisco/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 24
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/02/Tesla-Autopilot-a-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "http://www.sfexaminer.com/wp-content/uploads/2022/03/28316200_web1_220301-SFE-AUTONOMOUS_1.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Tesla and the ethics of self-driving cars"
-    excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-    publishedDateTime: 2022-03-03T14:00:00Z
-    webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+  - title: "Abu Dhabi’s TII takes a step into the future with self-driving race car"
+    excerpt: "While the UAE Capital is a motorsport hub hosting the Formula One Grand Prix, Abu Dhabi’s Technology Innovation Institute (TII) has taken a major step in autonomous robotics with its participation at world-class self-driving car competitions. TII ..."
+    publishedDateTime: 2022-03-04T11:22:00Z
+    webUrl: "https://www.khaleejtimes.com/auto/abu-dhabis-tii-takes-a-step-into-the-future-with-self-driving-race-car"
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 56
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 24
     images:
-      - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 942
-        height: 628
-        isCached: true
-  - title: "Tesla Full Self-Driving Beta Is Now Available To Drivers In Canada"
-    excerpt: "Tesla Full Self-Driving beta is now available to drivers in Canada. Here is everything you need to know about this."
-    publishedDateTime: 2022-02-28T15:25:00Z
-    webUrl: "https://www.redmondpie.com/tesla-full-self-driving-beta-is-now-available-to-drivers-in-canada/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 54
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+      - url: "https://image.khaleejtimes.com?uuid=63e8ffb7-94b2-5f2b-adec-55baa29336cb&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
         width: 1200
         height: 675
         isCached: true

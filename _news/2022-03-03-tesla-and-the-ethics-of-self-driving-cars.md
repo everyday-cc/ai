@@ -2,17 +2,19 @@
 category: news
 title: "Tesla and the ethics of self-driving cars"
 excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-publishedDateTime: 2022-03-03T14:00:00Z
-originalUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
-webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+publishedDateTime: 2022-03-03T05:14:00Z
+originalUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+webUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 76
+heat: 116
+published: true
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: WBUR
+  domain: wbur.org
 
 topics:
   - AI in Autos
@@ -20,9 +22,9 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 942
-    height: 628
+  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -42,6 +44,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "First Person: Behind the wheel of a 'self-driving' Tesla"
+    excerpt: "This is part of our hour on Tesla and the ethics of self-driving cars. Listen here. Self-driving technology has come a long way in recent years, but it remains far from perfect. In a podcast special, we share what it's like behind the wheel when Tesla ..."
+    publishedDateTime: 2022-03-03T19:16:00Z
+    webUrl: "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 59
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2017/04/0417_tesla.jpg"
+        width: 1700
+        height: 1133
+        isCached: true
   - title: "Tesla Full Self-Driving Beta Is Now Available To Drivers In Canada"
     excerpt: "Tesla Full Self-Driving beta is now available to drivers in Canada. Here is everything you need to know about this."
     publishedDateTime: 2022-02-28T15:25:00Z
@@ -56,23 +74,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "You can catch a ride with a self-driving car in SF"
-    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
-    publishedDateTime: 2022-03-02T17:03:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+  - title: "Lidar Leading the Way to Safe Self-Driving Cars"
+    excerpt: "Once only a concept seen in movies, the world of autonomous driving is fast becoming a bona fide reality. Until now, only a"
+    publishedDateTime: 2022-03-01T12:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/lidar-leading-the-way-to-safe-self-driving-cars/article_5d909d68-84b4-503f-8891-830f07ad5e6e.html"
     type: article
     provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 44
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
-        width: 791
-        height: 447
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
-secured: "rXhlP8Fs06PkpBg4/yd6gu2Zrr4zXVXbKdH2dJNl/gSMe29uhu+6Ieu8pCO7xPH8K12oiAeL9qRMftGqZGSJ0OYIFvbQL4xV5Zb4fn6TEnT1eQ9hg6QaBAwXqiaWKYYNNMWh+PHoaU6SZfVRUnALyQZxUfzdH+uTmRrw1VBXc5wGfU4GCIL3hCcwq1tkEI1yj6szFnmJbuLvOkLEtSveOYO4cmOv9Dkd6y0yo7MzToe0NgXUMfAqq0FfIaYp5uiOVMXQTGQUMy37lNsEraYL5k9lnwtWoRWvpsMvExM++ARye01aOQZTpzyIZPiDnTMmm3DerkOfZvwlH9KYTpkp9tSy5LrxJDEfDYfpGkffwd0=;UrXcR9DIn4NzKM86wWKp/w=="
+secured: "rBVx3a15LkM3Sq08yQ6W6aC4IseJwHXR6eZVikKVWeVf71Z7S81nUTlROMIKk/XjoQ4R+BHKb7rh0sHjaPM29GjVHsmprpFD5U2+jMuvG9CFrpnSz67VacmP+Q0rzcmXJzBFBQMk4G9QaRBAUsu33w3HGroGC0CuDN7FFpjHaK7XxTBP7X9yhgQnx8R5bhqRIUrQomcG6y3rQb3fBGQ/lAfLhczT7iN5kni9c3178m1/bhfBbQhpHe8NUUX5idLXJNMWE/PO+2e0XoGvQMWMuPDshFFRF10D+zWMkeZ68kyoeeqq655TXbGMqKTHmvPrO5Pczp7hrD0TYNuh8jCt+8ngpBUkBe2rizhFBAZP/2g=;cDSD+PO+ycsaPjTD8O4mpg=="
 ---
 

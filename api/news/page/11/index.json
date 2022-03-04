@@ -2,6 +2,108 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-02-22-sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers.md",
+      "title": "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers",
+      "excerpt": "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a7008f65109a2886f0b25/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "publishedDateTime": "2022-02-22T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation.md",
+      "title": "Making Sense Of The 'Unknown' With Data Intelligence And Hyperautomation",
+      "excerpt": "Analysts like Gartner propose that robotic process automation (RPA), low-code application platforms, integration platform as a service (iPaaS), artificial intelligence (AI), intelligent document processing and other streamlining hyperautomation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f5a781e94c16200363132d/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
+      "publishedDateTime": "2022-02-22T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-key-learnings-for-financial-brands-to-use-in-2022.md",
       "title": "Key Learnings For Financial Brands To Use In 2022",
       "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent ... So how can brands engage artificial intelligence (AI) and machine learning (ML) effectively to get tangible results?",
@@ -1103,100 +1205,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3ai-inc-with-losses-of-100000-to-contact-the-firm.md",
-      "title": "ONGOING INVESTIGATION NOTICE: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / February 21, 2022 / The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ac25738076/ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with-losses-of",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ac25738076/ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with-losses-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25738076",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25738076",
-      "publishedDateTime": "2022-02-21T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-how-ai-is-changing-data-infrastructure.md",
-      "title": "How AI is changing data Infrastructure",
-      "excerpt": "The impact artificial intelligence (AI) is having on enterprise data processes and workloads is well-documented, as is its capability to monitor and manage complex systems. But what is not widely reco",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/subspace-globe.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/",
-      "publishedDateTime": "2022-02-21T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

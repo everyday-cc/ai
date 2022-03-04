@@ -29,61 +29,68 @@ images:
     isCached: true
 
 related:
-  - title: "Are you integrating human sense with machine learning?"
-    excerpt: "Artificial intelligence and machine learning models compute data at hyperscale speed. Without doubt, these computer models have outperformed the human brain in computing data, recognizing patterns ..."
-    publishedDateTime: 2022-02-28T03:29:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
+  - title: "Machine learning improves human speech recognition"
+    excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
+    publishedDateTime: 2022-03-01T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89883172,imgsize-34264,width-1200,height-628,overlay-etcio/are-you-integrating-human-sense-with-machine-learning.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Human Speech Recognition Model to Overcome Hearing-Impairment"
+    excerpt: "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing."
+    publishedDateTime: 2022-03-01T17:57:00Z
+    webUrl: "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 74
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg"
         width: 1200
-        height: 628
+        height: 1000
         isCached: true
-  - title: "Detecting plant leaf disease using deep learning on a mobile device"
-    excerpt: "The visual and tactile examination of plant leaves is a standard method for identifying disease in crops and horticultural products. However, such an approach can be highly subjective and is dependent on the skills of the examiners."
-    publishedDateTime: 2022-03-04T12:28:00Z
-    webUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.html"
-    ampWebUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
+  - title: "Researchers explore a human speech recognition model based on machine learning"
+    excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
+    publishedDateTime: 2022-03-02T05:12:00Z
+    webUrl: "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: News Medical
+      domain: news-medical.net
+    quality: 72
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/diseased-leaf.jpg"
-        width: 1920
-        height: 1440
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hearing_Loss-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "Did GPUs render CPUs obsolete in deep learning?"
-    excerpt: "GPUs (graphic processing units) are chips built for parallel processing. Originally developed to accelerate the 3D rendering tasks in video games, GPUs have found major applications in deep learning,"
-    publishedDateTime: 2022-03-02T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/did-gpus-render-cpus-obsolete-in-deep-learning/"
+  - title: "Researchers Develop Human Speech Recognition Model With Deep Neural Networks"
+    excerpt: "A group of researchers from Germany is exploring a new human speech recognition model based on machine learning and deep neural networks. The new model could help greatly improve human speech recognition."
+    publishedDateTime: 2022-03-03T19:43:00Z
+    webUrl: "https://www.unite.ai/researchers-develop-human-speech-recognition-model-with-deep-neural-networks/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: unite
+      domain: unite.ai
+    quality: 53
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/CPU_AIM.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/03/brain-6103020_1280.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Deep Learning: It's Not Too Good to Be True - It's Genuine Progress"
-    excerpt: "Deep learning has come on leaps and bounds in recent years and is fast-tracked to becoming one of the most revolutionary technologies in cybersecurity. As a subset of artificial intelligence (AI), deep learning is often confused with associated technologies like machine learning (ML)."
-    publishedDateTime: 2022-03-03T16:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/deep-learning-genuine-progress/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "mZ+zRvF5RAq1HRgiVFGakWn3cX3Atv6BHsF1xyxZfM2HSfYtXO1frPiF4stvkmtfM0GXcOd5Dfi6/7pON+SSQhTJZ0nomBgsS41qCxA+dbhP5AQijR+/WW1REYlj3K1eLOd0ULpo8YcqYD1zFn/E2gD3OjVBON/HOvKWnu5GcU4S90HcbmkYkQ1bvjzNa7nHjmi1r23EBwK7vdrNuAzZ7sv7E3K/v5rYKQw7ls6Cw/ZTZwyjonJM7jox1pNms78HmEGBNFsmPFJw7FTsZ5iYzsYxAPWqmytruwZgJ8OYSaba7/35mT/wCJboeEOq8xEFJxmN5s45xsKrbsT5ZY9Uo+iGW7sA9h5+JpDIiG9L7B2YzWF+ELnsK9DUN1cKPXuPYcJEebDYY55MDFhuTvS9gst6Oc3bM0dV+E6hN9r/GVXmbUtsHlX2K4popgUhVTRTYhDRz7p9MdYfUL+WmlCdEBTavGbmw+SwNDrRb/jFmDGpRyI4bUn8ql30DqyZWTvteBvV69fU4gPGkloIma5mMg==;tp6BXSPRce5cqc4bCKFdAg=="
 ---

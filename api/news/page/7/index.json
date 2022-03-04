@@ -2,6 +2,91 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-25-ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency.md",
+      "title": "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency",
+      "excerpt": "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-following-backlash-irs-allows-skipping-facial-recognition.md",
+      "title": "Following Backlash, IRS Allows Skipping Facial Recognition",
+      "excerpt": "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition",
+      "originalUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/65ed04f/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F99%2Fee%2F70e57ea596472533b739cecaf122%2Firs1.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true",
+      "publishedDateTime": "2022-02-24T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences.md",
       "title": "Maple Leaf Sports & Entertainment leverages AWS AI infrastructure to power next gen experiences",
       "excerpt": "Maple Leaf Sports & Entertainment services (MLSE) has announced that it will be leveraging Amazon Web Services (AWS) to enable next-generation entertainment experiences for Maple Leafs, Raptors, Toronto Football Club,",
@@ -1068,83 +1153,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback.md",
-      "title": "IRS will allow taxpayers to forgo facial recognition amid blowback",
-      "excerpt": "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "publishedDateTime": "2022-02-23T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-facebooks-hyped-new-ai-concept-looks-busted-as-hell.md",
-      "title": "Facebook's hyped new 'AI concept' looks busted as hell",
-      "excerpt": "The biggest stories of the day delivered to your inbox.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "originalUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00WJ1YKZuWlWoFBX77qQhh3/hero-image.fill.size_1200x675.v1645662499.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "publishedDateTime": "2022-02-23T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

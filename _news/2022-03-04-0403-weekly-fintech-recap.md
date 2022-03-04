@@ -67,20 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Fintech Market Share, Growth Factors , Key Market Players, CAGR of 8.5% , Trends & Forecast, 2028"
-    excerpt: "Rising Internet in various processes, and implementation of Artificial Intelligence and blockchain technologies are some key factors driving market"
-    publishedDateTime: 2022-02-28T01:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-market-share-growth-factors-key-market-players-cagr-of-8-5-trends-forecast-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "AfvJjLN7jwEqEqsSMpDrBMa5zSqCOgSoN2IqWNr+0Nnaavx3NgjFPeGEPBZlM4lUUFl9GoQQtLl7I+XRwi6baEqeeatEcFmFFXy+ZvbIF9dHis73rIMAkDhXURtl5I5Ek7wiBydhODtm1fOQZJwM55TNw/pg71Fltfi34FIyJrBslfP9NTVoUwjjkBocKoP8q7TNlee9MhtB2qzWn6tElIYGFFhNHPioijTcDM6XWDq8AtapRt5uGAM9hkCELGPK6cN6C8kbtH3O12SOnJcpEZuAn3+LNlho8pIYIrUfBgETHQ6/ZfVCruv0HpcWbKE3zrBuoG3bX+CZJf6Gf1R90THafcqRsSBzoiSjYlP1cyE=;KS3cvaPRdNbCPb29k26KlA=="
 ---
