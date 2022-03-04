@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/ai-brings-greater-resilience-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-brings-greater-resilience-to-self-healing-endpoints/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

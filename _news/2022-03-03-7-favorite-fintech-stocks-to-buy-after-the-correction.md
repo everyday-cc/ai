@@ -27,30 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist"
-    excerpt: "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services."
-    publishedDateTime: 2022-02-27T14:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist"
-    ampWebUrl: "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp"
+  - title: "2022 Fintech Awards Spotlight: LiquidX, Best InsurTech Award Nomination"
+    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
+    publishedDateTime: 2022-03-01T12:40:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/03/25903103/2022-fintech-awards-spotlight-liquidx-best-insurtech-award-nomination"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25903103"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25903103"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "WEX Inc. to Present at the Wolfe Research FinTech Forum 2022"
-    excerpt: "WEX Inc. (NYSE: WEX), the global commerce platform that simplifies the business of running a business, today announced that its Chair and Chief Executive Officer, Melissa Smith, will present at the Wolfe Research FinTech Forum 2022 on Wednesday,"
-    publishedDateTime: 2022-03-02T20:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=625383"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "zWw9GVVLRP3tdK+G/LaYZyCM8fzWLVfr9YnuE3KV6zSkHoRvFHvrztmJlheQdX1BSEYOOKjdt/AHdGK+PxmsngcpLEt0IRUhK7dvXYc5bSABlah/nq1WdgXA8uPwzM7rP9AuHzYbkDpElev2fH2ROLAUUxSG7AuRXtsX2Ag/uTX4uDH3ikdynkn8CgUKnFmlGRQ6sRfh3Lur4Ey/TyZ35/zGmXuB+sCCTUOaJYnmXaasK0YDCXXNwcBbhu8HP7j49I6ebb9NWuuVAIQFHs2gTz3hq9Oe46aXibndLxqFsGzxszjD2ys14yaIYHJdZegQvOER2BSAhQwj3FVSpcM3hGkOME/TWolJPGSjAgbBCDoDw/4jRMcQZzYSjcQLR7S8uIu4Fgl2hxNH/qCX9pDSEAfWWokzr9v7u355/tRiVirWzZw4YpWIFsuxcCbOuS+ZCUWCtsc9u1AmjDnb9/O5RGfJuwOkNBtFzP5K92z4R3NqMHqrYEqvvqaFdYzzVahfC0WpOpjP/Wllfi1zV6MnYg==;FJZv2QhfiGvlrpWGC/1shA=="

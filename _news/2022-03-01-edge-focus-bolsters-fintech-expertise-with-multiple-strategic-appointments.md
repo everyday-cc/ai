@@ -39,6 +39,20 @@ related:
         width: 2309
         height: 1299
         isCached: true
+  - title: "How Personalized Banking Helps FinTech Companies to Retain Clients"
+    excerpt: "Previously, to receive personalized service, bank clients had to hire personal assistants. Personal bankers helped them to open savings accounts, arrange loans, maintain accounts, and solve other financial issues."
+    publishedDateTime: 2022-03-04T06:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/21932/how-personalized-banking-helps-fintech-companies-to-retain-clients"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://d3jqtupnzefbtn.cloudfront.net/andersenlab/new-andersensite/cases/Klarna/visuals/shop.png"
+        width: 1110
+        height: 760
+        isCached: true
   - title: "Fintech Market Share, Growth Factors , Key Market Players, CAGR of 8.5% , Trends & Forecast, 2028"
     excerpt: "Rising Internet in various processes, and implementation of Artificial Intelligence and blockchain technologies are some key factors driving market"
     publishedDateTime: 2022-02-28T01:44:00Z

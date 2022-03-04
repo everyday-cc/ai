@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "WEX Inc. to Present at the Wolfe Research FinTech Forum 2022"
+    excerpt: "WEX Inc. (NYSE: WEX), the global commerce platform that simplifies the business of running a business, today announced that its Chair and Chief Executive Officer, Melissa Smith, will present at the Wolfe Research FinTech Forum 2022 on Wednesday,"
+    publishedDateTime: 2022-03-02T20:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=625383"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Investors are shifting the focus from fintech to climate startups in 2022"
     excerpt: "The inaugural State of Australian Startup Funding report analysed data from more than 800 Australian founders and startup investors."
     publishedDateTime: 2022-02-28T22:21:00Z

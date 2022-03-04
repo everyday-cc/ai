@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-intern
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 670
     isCached: true
-
-related:
-  - title: "U of S researcher dives into deep learning to find global solutions"
-    excerpt: "Research conducted by University of Saskatchewan graduate student Sakib Mostafa is taking a closer look at deep learning in computers to better understand how artificial intelligence can be used ..."
-    publishedDateTime: 2022-02-27T13:06:00Z
-    webUrl: "https://thestarphoenix.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions"
-    ampWebUrl: "https://thestarphoenix.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/"
-    cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/"
-    type: article
-    provider:
-      name: The StarPhoenix
-      domain: thestarphoenix.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/thestarphoenix/wp-content/uploads/2022/02/0221_news_young_innovators-mostafa-w.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "Uj4pvLvNTHHWKBL1K9/kRzSpuajPfP6rdjexj0IfM4y2DBiXBDFeZEw0ubOe2HE2/r4RYQImGSOKodm2VY5QQGwh2g52cK7aa6J3udfhKhe0Gf+k18jFuNByxJUQGEa7g32A0et+eC9FzZ/GHcvEM+0/7ywkiU4Vmry25xAUMJI4ptYVDAzucN7wtM9tjMs6vOYVt+zyJpZT+xEWAjDuf0z0uW5nWIdlHGfafELFRxrY2oc+ykrFts8sVNdcGx9KXnLbruyCX7eX0a9mKJsyFubw22snv4Gh/8QX1H5Ms00EDF+fMHNQHJ7bbD1b3nljpaOtDd2zGmjC1lGO0IdyBYwQ53eZFIjkYuK4egtqWfb/EjhIu3n/0Duc+eQpMhgzTKPjpgM0hBCLDt7SNq9+JQUs6UCinOK23OXvBKAhvjgzarPYeWRGF1Te12P3kxvoEfZkgdRJUoowIeW72/PRyxovf/kYx2O3Z3qFGb23Ll+cEt6o6Xx7T5RJcmdswUV2hBqUcCqDuSW2cGCjJ0EQ/Q==;Gv5cixzPkvrjD1XTiLFlnQ=="
 ---

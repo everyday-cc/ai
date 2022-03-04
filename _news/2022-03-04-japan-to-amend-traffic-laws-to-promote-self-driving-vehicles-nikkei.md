@@ -41,6 +41,20 @@ related:
         width: 1046
         height: 550
         isCached: true
+  - title: "Japan to amend traffic laws to promote self-driving vehicles"
+    excerpt: "The government wants to make the change in order to promote services using self-driving vehicles, the Nikkei newspaper said. A shrinking workforce coupled with a rise in online shopping has made it difficult for Japanese delivery companies to hire enough ..."
+    publishedDateTime: 2022-03-04T06:42:00Z
+    webUrl: "https://www.bangkokpost.com/world/2273987/japan-to-amend-traffic-laws-to-promote-self-driving-vehicles"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20220304/c1_2273987_700.jpg"
+        width: 700
+        height: 439
+        isCached: true
 
 secured: "EcqPwWjJjCH+7qQQa8RTRldE82fqSPhPozQBfmI0TCP+qx9QuqfDinqq1SKBTvIVVdb0iNzqvNx6+3tdY9rNVF4YurrFjCqiqgZyCZdSDJrYgSecTFRlQyeyKJK7TtSRz6hIXFgk/IW5+6mjuL8teBeJLjHm8iJGgknG7N0RjpnpfnX1CsyOZxvru+XTaJLjFLzGkx10a79rcWm3/Cqy7zTcjuT5xJ8PkleZpm3b0t6fa3OIVr+zyRE+j02RrA4/PKkW7faZXPNwMY3TCSg9aKdcezUPUg3znbvdxH7ZoknpXMciOuB4VUc+JHzsLcvqJDngHPc1A2/1Ny2Y74KsGj5PJsSSOx4Hp3qwFC4N95Q=;HJAeDjv3J4HGARI6AxTPZg=="
 ---

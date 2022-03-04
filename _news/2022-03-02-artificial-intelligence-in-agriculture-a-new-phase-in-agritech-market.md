@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-02T14:00:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-agriculture-new-phase-agritech-market-"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-agriculture-new-phase-agritech-market-"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHZqW9xPE7kiA/article-cover_image-shrink_720_1280/0/1646229519447?e=1651708800&v=beta&t=Zj9pB_YCUcxL5heE_eUS78HU9-A7S0okkTqkgYJg86o"

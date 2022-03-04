@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identitie
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-15.jpg"
         width: 695
         height: 372
+        isCached: true
+  - title: "How Artificial Intelligence Offers Real-World Opportunities For Indian Students"
+    excerpt: "Looking at the pace at which the AI space is expanding, it won’t be surprising to see the need and demand for professionals and experts shoot up substantially in the coming years."
+    publishedDateTime: 2022-03-04T06:17:00Z
+    webUrl: "https://www.outlookindia.com/international/how-artificial-intelligence-offers-real-world-opportunities-for-indian-students--news-185092"
+    ampWebUrl: "https://www.outlookindia.com/international/how-artificial-intelligence-offers-real-world-opportunities-for-indian-students--news-185092/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/how-artificial-intelligence-offers-real-world-opportunities-for-indian-students--news-185092/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 53
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646374626.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "QbLcCAHeGNsdKQk6JeKu1gSoF/GqQ+0WuvecepAHOu9UWzgvj/hsfnTJpGKC9/sdVavs79VWIwNNM0xBMBmb3/iU/THv2Qtk4UuVk7nxKSID3BHk31vWe1IY4ImIpThnraYmpeKq+sztgRlHIy2mU3vsEjG6iu5MLQ7ZNio6ibMx3dI9DxmJvXukfNtbeNheeh98EBnlNNdSB+2/QG+dW/IEYpss20jpZXuXYXmEvMDwuPhSZDUwNsRkCu/7kdMWbmQQKPQ0zsD/WXsPqJ/8M95CB1WHDQRp7Cwlsuor3NfgyyXX8HkOygL5Ypo1bD1JD0UOlFrTeSQapFwKsjp0XpNnI+E9480igH0GwzhgIKvpg/Noy+X311rDhK16J6OgfOAnp8pWlmW9eV8OaJ2zhM1LxLw9GuyWv65Wxx9KKnNDGY09HCCV0Zkl/vjmUdcOD1OQpBXVN3+d7Jv8cyyhQnRV1mh/QOjGdhga6CDpcVU6uRR2RA8XVI4WkRuwswXGDynyDrUE59expTnHeCJ7xg==;5ca3U/9oLl3XWWRd+yHwuA=="

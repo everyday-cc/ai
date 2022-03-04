@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "How Artificial Intelligence Offers Real-World Opportunities For Indian Students"
+    excerpt: "Looking at the pace at which the AI space is expanding, it won’t be surprising to see the need and demand for professionals and experts shoot up substantially in the coming years."
+    publishedDateTime: 2022-03-04T06:17:00Z
+    webUrl: "https://www.outlookindia.com/international/how-artificial-intelligence-offers-real-world-opportunities-for-indian-students--news-185092"
+    ampWebUrl: "https://www.outlookindia.com/international/how-artificial-intelligence-offers-real-world-opportunities-for-indian-students--news-185092/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/how-artificial-intelligence-offers-real-world-opportunities-for-indian-students--news-185092/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 53
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646374626.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6+21MpHigMvXokjyGb6vzxnmj8D8OhJH+KJa+mPTQMsBg4LN8uANKJkYC6OShp2IlkN6QwTPyuhX4plzCdr2mXNi2fefyMym8rLcJk/fJG+A0rrtDyqrtYP152HdElRm3zowpYwcaCcxLzbdkJruhlTbpRvl3fCh8vMbZRsmLHAzDwUYkOYMNZIOiAhnDgKhZG/vuKp/mu+h8JpCZPXqxZyK5e2wmei8Hjaxrb7C/f/jcqKxRBlV25AJ+KjMrJZnp97Qoro4Rx5iyjH0MORavYmQc7OPh8O72GbkVWDPMH4je0umx6klVpghGluLayvymjq4parnXuCPxsXkIMA/hPSsujXZbKiWeJqF28Q1jqVYrOSWwYLOt9X1ahMvs9Z0ZaYB41ihGfemhI/E/UhRig0fWMBVR/G/bJFgvtvf+J+bzXVg5XccnIeL1eR4/YQwBg7feBA7/ANuM7lHbM8jJRg3VqLsgIbpKbWJ4uaWbvyDw5TAqHcNFIHZEi0UFSEM0gZ1/Xs1xGAL5+TPucdvzA==;hMvf4mG4WIZumie2BjlAlg=="
 ---

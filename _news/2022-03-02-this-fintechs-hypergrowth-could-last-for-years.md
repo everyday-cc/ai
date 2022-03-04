@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowt
 webUrl: "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Personalized Banking Helps FinTech Companies to Retain Clients"
+    excerpt: "Previously, to receive personalized service, bank clients had to hire personal assistants. Personal bankers helped them to open savings accounts, arrange loans, maintain accounts, and solve other financial issues."
+    publishedDateTime: 2022-03-04T06:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/21932/how-personalized-banking-helps-fintech-companies-to-retain-clients"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://d3jqtupnzefbtn.cloudfront.net/andersenlab/new-andersensite/cases/Klarna/visuals/shop.png"
+        width: 1110
+        height: 760
+        isCached: true
   - title: "Edge Focus Bolsters Fintech Expertise with Multiple Strategic Appointments"
     excerpt: "Edge Focus, a technology company that applies machine learning and artificial intelligence to analyze credit, is pleased to announce the appointment of Neel Mehta as Chief Marketing Officer, YeeMan Bergstrom as Principle Data Scientist,"
     publishedDateTime: 2022-03-01T15:29:00Z
