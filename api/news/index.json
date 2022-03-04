@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-04-the-5-biggest-computer-vision-trends-in-2022.md",
+      "title": "The 5 Biggest Computer Vision Trends In 2022",
+      "excerpt": "Computer vision (sometimes called machine vision) is one of the most exciting applications of artificial intelligence. Here we look at the five biggest trends in this fast-developing area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6221c6ec627443cf26ea478e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
+      "publishedDateTime": "2022-03-03T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.md",
       "title": "Proactive machine learning models could speed data collection and analysis in healthcare",
       "excerpt": "Shifting machine learning workflows to a proactive model could speed data collection and analysis in healthcare, according to a viewpoint article published in JAMA.",
@@ -346,6 +398,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-get-microsoft-365-under-control-with-coreview-now-available-through-azure-marketplace.md",
+      "title": "Get Microsoft 365 Under Control with CoreView, Now Available through Azure Marketplace",
+      "excerpt": "CoreView today announced it is now the first and only Microsoft 365 Management Platform available for purchase via the trusted Azure Marketplace, allowing IT teams to purchase CoreView through Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=626148",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=626148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1158,91 +1253,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-global-artificial-intelligence-ai-in-drug.md",
-      "title": "Global Artificial Intelligence (AI) in Drug...",
-      "excerpt": "The Global Artificial Intelligence in Drug Discovery Market size is expected to reach USD 4,197.5 Million by 2028, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g25957282/global-artificial-intelligence-ai-in-drug-discovery-market-4197-5-mn-by-2028-growth-forecast-at-41",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g25957282/global-artificial-intelligence-ai-in-drug-discovery-market-4197-5-mn-by-2028-growth-forecast-at-41",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25957282",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25957282",
-      "publishedDateTime": "2022-03-03T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing.md",
-      "title": "IIT-Kanpur incubates startup to develop AI-powered search engine to aid in policing",
-      "excerpt": "The Centre of Excellence (CoE) at the Indian Institute of Technology Kanpur has incubated the Lucknow-based Future Crime Research Foundation, which is working to develop a first-of-its-kind AI-powered big data search engine to aid policing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing",
-      "originalUrl": "https://www.freepressjournal.in/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2022-03/1545590e-590b-4b40-b2a5-9d96c773f9c8/IIT_Kanpur.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing",
-      "publishedDateTime": "2022-03-02T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-01-why-tech-marketing-leaders-are-racing-to-sponsor-formula-1.md",
+      "title": "Why Tech Marketing Leaders Are Racing To Sponsor Formula 1",
+      "excerpt": "With the rising popularity of Formula 1, technology companies are expanding their sponsorships and seeing amazing returns on their investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
+      "originalUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621524e4c9ebfd7631a869a8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
+      "publishedDateTime": "2022-03-01T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products.md",
+      "title": "Fintech Startup Snapmint Raises $9 Mn To Launch Innovative BNPL Products",
+      "excerpt": "Besides, Snapmint plans to expand its network of merchants and power the purchases of more than 450 Mn consumers in India",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/",
+      "originalUrl": "https://inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/03/Snapmint-social.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/amp/",
+      "publishedDateTime": "2022-03-01T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
+      "title": "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength",
+      "excerpt": "Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
+      "publishedDateTime": "2022-03-01T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
       "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
       "excerpt": "AM 'A new market research report by Future Market Insights on cyber security in robotics market includes industry analysis 201",
@@ -240,6 +379,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding.md",
+      "title": "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding",
+      "excerpt": "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "originalUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "publishedDateTime": "2022-02-28T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -767,7 +949,7 @@
       "originalUrl": "https://africabusinesscommunities.com/sustainable-energy/news/africa’s-first-ai-research-center-inaugurated-in-congo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1005,195 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-are-you-integrating-human-sense-with-machine-learning.md",
-      "title": "Are you integrating human sense with machine learning?",
-      "excerpt": "Artificial intelligence and machine learning models compute data at hyperscale speed. Without doubt, these computer models have outperformed the human brain in computing data, recognizing patterns ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89883172,imgsize-34264,width-1200,height-628,overlay-etcio/are-you-integrating-human-sense-with-machine-learning.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
-      "publishedDateTime": "2022-02-27T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
-      "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
-      "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 753,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "publishedDateTime": "2022-02-27T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence.md",
-      "title": "Unfairness in Competitive Sports may be Overcome by Artificial Intelligence",
-      "excerpt": "Doping — the use of banned substances in competitive sports may be scrapped with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "originalUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/olympics-based-exercise.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "publishedDateTime": "2022-02-27T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-why-voice-assistants-could-be-the-future-of-user-experience.md",
-      "title": "Why voice assistants could be the future of user experience",
-      "excerpt": "The next generation of voice assistants will live inside apps and be deeply integrated with the app’s user interface and workflow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/",
-      "originalUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/headerimage1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/amp/",
-      "publishedDateTime": "2022-02-27T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

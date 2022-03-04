@@ -53,7 +53,7 @@ related:
     provider:
       name: Outlookindia
       domain: outlookindia.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646374626.jpg"
         width: 1200

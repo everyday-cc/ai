@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-04-the-5-biggest-computer-vision-trends-in-2022.md",
+      "title": "The 5 Biggest Computer Vision Trends In 2022",
+      "excerpt": "Computer vision (sometimes called machine vision) is one of the most exciting applications of artificial intelligence. Here we look at the five biggest trends in this fast-developing area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6221c6ec627443cf26ea478e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
+      "publishedDateTime": "2022-03-03T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor.md",
       "title": "Eufy Security Video Smart Lock Combines 2K Camera And Fingerprint Sensor",
       "excerpt": "Anker's Eufy Security reveals a new video smart lock system that makes smart protection of one's own front door seem simple, handy, and enjoyable.",
@@ -1086,6 +1138,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-21-computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market Is Anticipated Grow Aggressively during 2022 to 2028",
+      "excerpt": "Feb 21, 2022 (Market Insight Reports) -- Global Computer Vision in Artificial Intelligence (AI) Market Insights, Regional Analysis, Market Share & Competitive Analysis The Computer Vision in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-20T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-global-market-for-ai-in-computer-vision-to-reach-737-billion-by-2027-researchandmarketscom.md",
       "title": "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com",
       "excerpt": "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
@@ -1264,101 +1368,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-facial-recognition-technology-taken-to-the-next-level-in-virtual-reality.md",
-      "title": "Facial recognition technology taken to the next level in virtual reality",
-      "excerpt": "An international team of researchers from Australia, New Zealand and India has taken facial recognition technology to the next level, using a person’s expression to manipulate objects in a virtual reality setting without the use of a handheld controller or touchpad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/943967",
-      "originalUrl": "https://www.eurekalert.org/news-releases/943967",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9e7498e8-47ec-4a1b-9e70-87d4e94ee325/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database.md",
-      "title": "Clearview AI aims to put almost every human in facial recognition database",
-      "excerpt": "The controversial facial recognition company Clearview AI reportedly told investors that it aims to collect 100 billion photos—supposedly enough to ensure that almost every human will be in its database.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -453,21 +453,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-human-speech-recognition-model-to-overcome-hearing-impairment.md",
-      "title": "Human Speech Recognition Model to Overcome Hearing-Impairment",
-      "excerpt": "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing.",
+      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
+      "title": "Machine learning improves human speech recognition",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
       "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "originalUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg",
-          "width": 1200,
-          "height": 1000,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -475,13 +475,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
-      "publishedDateTime": "2022-03-01T09:57:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -492,7 +492,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

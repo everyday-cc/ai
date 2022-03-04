@@ -87,20 +87,6 @@ related:
         width: 400
         height: 279
         isCached: true
-  - title: "New Azure for Operators solutions and services built for the future of telecommunications "
-    excerpt: "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for"
-    publishedDateTime: 2022-02-27T17:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2026acea-d66f-4fcd-99fc-bd2ea9d18e7c.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Sonata Software Becomes Microsoft Azure Expert Managed Service Provider"
     excerpt: "Sonata Software today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP),"
     publishedDateTime: 2022-03-03T10:06:00Z

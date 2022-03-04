@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-17-dragonfruit-ai-launches-frontier-cloud-vms-with-video-analytics-for-multi-location-enterprises.md",
+      "title": "Dragonfruit AI launches Frontier Cloud VMS with video analytics for multi-location enterprises",
+      "excerpt": "Frontier is designed for multi-location enterprises that can't deploy expensive GPU hardware across all their sites (for on-premise AI), and don't have enough upload bandwidth (for cloud-based AI). Dragonfruit’s patented Split AI (US 11265591 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
       "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
       "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
@@ -1307,49 +1341,6 @@
       "provider": {
         "name": "Singularity Hub",
         "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-msi-raider-ge76-shows-off-the-good-and-bad-of-intels-i9-12900hk.md",
-      "title": "MSI Raider GE76 shows off the good (and bad) of Intel’s i9-12900HK",
-      "excerpt": "With the GPU benchmarks specifically ... I benchmarked Civilization VI using the 'AI' test, which is more CPU-focused and measures the time it takes to complete turns with the game's AI. As with the other CPU tests, the GE76 saw performance fall slightly ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobilesyrup.com/2022/02/06/msi-raider-intel-i9-12900hk-hands-on/",
-      "originalUrl": "https://mobilesyrup.com/2022/02/06/msi-raider-intel-i9-12900hk-hands-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mobilesyrup.com/wp-content/uploads/2022/02/msi-raider-ge76-20220205-header-scaled.jpg",
-          "width": 2560,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MobileSyrup",
-        "domain": "mobilesyrup.com",
         "images": null,
         "publishers": null,
         "authors": null

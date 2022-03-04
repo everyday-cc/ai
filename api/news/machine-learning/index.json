@@ -293,6 +293,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-03-edtech-startup-scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings.md",
+      "title": "Edtech Startup Scaler Acquires AppliedRoots For $50 Mn To Strengthen AI, ML Offerings",
+      "excerpt": "As a part of the acquisition, all the six cofounders of AppliedRoots will join Scaler and lead varied projects.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/",
+      "originalUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/03/Scaler-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/amp/",
+      "publishedDateTime": "2022-03-02T23:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-machine-learning-can-help-read-the-language-of-life.md",
       "title": "Machine learning can help read the language of life",
       "excerpt": "DNA is the language of life: our DNA forms a living record of things that went well for our ancestors, and things that didn’t. DNA tells our body (and every other organism) which proteins to produce; these proteins are tiny machines that carry out enormous tasks, from fighting off infection to helping",
@@ -581,6 +624,50 @@
       ]
     },
     {
+      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
+      "title": "Machine learning improves human speech recognition",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
       "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
       "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
@@ -633,7 +720,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1336,103 +1423,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-h2o-brings-ai-grandmaster-powered-nlp-to-the-enterprise.md",
-      "title": "H2O brings AI grandmaster-powered NLP to the enterprise",
-      "excerpt": "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "originalUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "publishedDateTime": "2022-02-21T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-new-machine-learning-model-flags-abnormal-brain-scans-in-real-time.md",
-      "title": "New machine learning model flags abnormal brain scans in real-time",
-      "excerpt": "Researchers from the King's College London School of Biomedical Engineering & Imaging Sciences have developed a deep learning framework based on convolutional neural networks to flag clinically relevant abnormalities at the time of imaging,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brainscan.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
-      "publishedDateTime": "2022-02-21T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

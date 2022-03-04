@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-cent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
 type: article
 quality: 104
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
         width: 400
         height: 279
-        isCached: true
-  - title: "New Azure for Operators solutions and services built for the future of telecommunications "
-    excerpt: "Imagine the benefits to communities and organizations that have access to improved bandwidth, reliability, and reduced latency, while leveraging the rich capabilities of cloud-to-edge technology without compromise to security, critical services, or key workloads. With the most complete offerings for"
-    publishedDateTime: 2022-02-27T17:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2026acea-d66f-4fcd-99fc-bd2ea9d18e7c.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Microsoft updates Azure for Operators, adds private 5G"
     excerpt: "Azure Operator Distributed Services designed to let telcos run workloads on a single carrier-grade hybrid platform"

@@ -54,20 +54,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "AI research center goes operational in Brazzaville"
-    excerpt: "Prime minister Anatole Collinet Makosso of the Republic of Congo has expressed “immense gratitude” to the leadership of the United Nations Economic Commission for Africa (UNECA) for choice of Congo to host the first-ever African Research Centre on Artificial Intelligence (ARCAI)."
-    publishedDateTime: 2022-02-27T15:18:00Z
-    webUrl: "https://newbusinessethiopia.com/technology/ai-research-center-goes-operational-in-brazzaville/"
-    type: article
-    provider:
-      name: newbusinessethiopia.com
-      domain: newbusinessethiopia.com
-    quality: 37
-    images:
-      - url: "https://newbusinessethiopia.com/wp-content/uploads/2022/02/Djibouti-Telecom-joins-SEA-ME-WE-6-Submarine-project-350x220.png"
-        width: 350
-        height: 220
-        isCached: true
 
 secured: "qaEvA1qEJp+LFA1Y9tDf7a3bEQIpI/KdZ3pC45zuUO/FFjwvIyt+Z1Xc4GM0Il0JplFA7F6kWXJNrMndXh6R0qY01yXkSo5+kEYQsIjmWUe8asYw27rj421VhfTwlHB4ahhG6fwEWvFtcV2lVSGKh8cMSlY8edW8Z1tTu3aqlITqS9+DkhTJGKOyO3RfTLivHM8gMnwywskcSjir59S7wPJflZDckOeqFpics7InlLgFEvfZf9czAGatVEAJOXtFDhX1bkbMMXhOOwDkKgC9XPsBY/fmLdg2Qj5Z8N+wLwynQYz4pbxcl+OUXfna/TL3lZjyQzhB84yCy6g/KrgvcMrrqxLxvZ5agGJ7PtE+nzYXSt6b1AjMKzKsVW0kPcPc5fzDBdzwT/FIEFdLzlxWxx/EYGgmf+KoTHFPHRa3SiUatNOcLI0kEx2GWffEd23Q5aqjpWGkgoHqMB/d1FXr7FagIjHICpXTsZCI4FlBXlzJtfizXmV2zD3nGQROQ7JEGrhnVSA+cHNbPF1OKYBdoA==;YFtsV9STJkKNMcntkfML1w=="
 ---
