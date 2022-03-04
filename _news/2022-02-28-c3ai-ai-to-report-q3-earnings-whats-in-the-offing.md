@@ -50,22 +50,6 @@ related:
         width: 720
         height: 720
         isCached: true
-  - title: "C3.ai (AI) Scheduled to Post Quarterly Earnings on Wednesday"
-    excerpt: "C3.ai (NYSE:AI – Get Rating) is scheduled to announce its earnings results after the market closes on Wednesday, March 2nd. Analysts expect the company to announce earnings of ($0.63) per share for the quarter."
-    publishedDateTime: 2022-02-28T07:02:00Z
-    webUrl: "https://www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 57
-    images:
-      - url: "https://www.marketbeat.com/scripts/EarningsChart.ashx?Prefix=NYSE&Symbol=AI"
-        width: 650
-        height: 325
-        isCached: true
   - title: "Global Call Centers Artificial Intelligence (AI) Market Report 2022: Market to Reach $3.5 Billion by 2026 from $1.1 Billion in 2020"
     excerpt: "The \"Artificial Intelligence (AI) in Call Centers - Global Market Trajectory & Analytics\" report has been added"
     publishedDateTime: 2022-03-02T09:23:00Z

@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TCS AI-powered software for smart cities and customer analytics now on Azure Marketplace; Stock jumps"
-    excerpt: "TCS is a Microsoft Gold Partner with over 1,000 successful Azure engagements for more than 225 global customers."
-    publishedDateTime: 2022-02-28T06:16:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 59
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "KX Insights to power Microsoft Azure customers with real-time analytics"
     excerpt: "FD Technologies has announced a strategic partnership with Microsoft, to expand the reach of KX Insights to Azure customers"
     publishedDateTime: 2022-03-02T12:24:00Z

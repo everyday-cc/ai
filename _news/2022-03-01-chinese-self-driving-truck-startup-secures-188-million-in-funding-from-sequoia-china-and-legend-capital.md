@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
-        isCached: true
-  - title: "Sequoia China, Legend Capital Lead $188 Million Funding in Self-Driving Truck Developer"
-    excerpt: "Sequoia Capital China and Legend Capital, a fund management arm of Chinese conglomerate Legend Holdings, have jointly led a $188-million Series B+ round in Chinese self-driving truck developer Inceptio Technology."
-    publishedDateTime: 2022-02-28T06:07:00Z
-    webUrl: "https://www.caixinglobal.com/2022-02-28/sequoia-china-legend-capital-lead-188-million-funding-in-self-driving-truck-developer-101848042.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 16
-    images:
-      - url: "https://img.caixin.com/2022-02-28/164602843158444_560_373.jpg"
-        width: 560
-        height: 373
         isCached: true
 
 secured: "kDimUyOS3ggZDoL6sVvBHPC6pN/eU17mHAYRWx0c+iXFwlbHBDyquAkfO4QEebemykS0GGVFVkG4YE+CDzPBbGKAFb2rxPV9Zd4c7dhkN9Zp0IJWnlzniVdy1nVmJMYthizSD9PrNdwra0vF6aN6+pR1+h2A1pvazrGnecxbV0F8c3OmZabQSV1RwIzfQebu0qX9BnBfsfB58p4fjYx2MXuBxX0/beUMVBNfbbIY/M+zMhhWCLGkA7mZnV2cNxg2HTdDitTLxZIx4S15xS6NQvWwYpc7lw7gpslgaKdJfjOgeqZRm9ECBwycqM97iBwbQPGqXiTHmnPRAZS4wGlsbhclZD92PbW7q21MYDLpxhtkY3JNr6H4W9s3TdNCI2hq9nUlJrB7F/gBeHkigO8rrcpd8QfmMO8PGrvOIjTv6F8XlCOu0qrJAAa4I67AG87ieZTkxqcEu6WVEmVhQZsDyu9fPGXLtmlBomfVsS2Sr+efc5z0gkuJ1JYj/eIYX0aJGamon7lCbX69enjpZunZOA==;LJfgVou/1J7RmYEG4e+D8g=="

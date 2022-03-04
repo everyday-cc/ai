@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-02-17-neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle.md",
+      "title": "Neural Network Market Trends and Opportunities 2022-2028 | Google, IBM, Oracle",
+      "excerpt": "In this sense, a neural network represents a system of neurons, either organic or artificial in nature. The growing number of cloud-based solution implementations is driving the neural networks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle",
+      "originalUrl": "https://www.digitaljournal.com/pr/neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-jaguar-land-rover-teams-up-with-silicon-valley-firm-to-up-its-digital-tech-game.md",
       "title": "Jaguar Land Rover teams up with Silicon Valley firm to up its digital tech game",
       "excerpt": "Detroit - Jaguar Land Rover is teaming up with Silicon Valley-based artificial intelligence company Nvidia ... has a previous deal with Alphabet's Waymo unit to deploy autonomous driving technology.",
@@ -1120,49 +1163,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor.md",
-      "title": "DeepMind’s AI can control superheated plasma inside a fusion reactor",
-      "excerpt": "The prospect of unlimited clean energy is still a long way off, but this is another example of DeepMind tackling hard real-world problems DeepMind’s streak of applying its world-class AI to hard science problems continues. In collaboration with the Swiss ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
-      "originalUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/TCV-purple-plasma-visible-light-cam.jpeg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/",
-      "publishedDateTime": "2022-02-16T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

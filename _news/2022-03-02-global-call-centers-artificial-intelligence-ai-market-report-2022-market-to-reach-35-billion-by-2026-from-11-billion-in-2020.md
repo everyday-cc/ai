@@ -68,22 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "C3.ai (AI) Scheduled to Post Quarterly Earnings on Wednesday"
-    excerpt: "C3.ai (NYSE:AI – Get Rating) is scheduled to announce its earnings results after the market closes on Wednesday, March 2nd. Analysts expect the company to announce earnings of ($0.63) per share for the quarter."
-    publishedDateTime: 2022-02-28T07:02:00Z
-    webUrl: "https://www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/02/28/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 57
-    images:
-      - url: "https://www.marketbeat.com/scripts/EarningsChart.ashx?Prefix=NYSE&Symbol=AI"
-        width: 650
-        height: 325
-        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
     excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
     publishedDateTime: 2022-03-01T11:31:00Z

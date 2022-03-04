@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-05-in-the-metaverse-responsible-ai-must-be-a-priority.md",
+      "title": "In the metaverse, responsible AI must be a priority",
+      "excerpt": "Language technology powered by AI can perpetuate bias if we are not careful. We need to be sure that language AI is trained to be ethical as well.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/",
+      "originalUrl": "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1351539611.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/",
+      "publishedDateTime": "2022-03-04T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare.md",
       "title": "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare",
       "excerpt": "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -50,7 +103,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1361,50 +1415,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-who-its-time-to-eliminate-ageism-in-artificial-intelligence.md",
-      "title": "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence",
-      "excerpt": "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.who.int/publications/i/item/9789240040793",
-      "originalUrl": "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.who.int/images/default-source/campaigns/global-campaign-to-combat-ageism/ageism-in-ai---cover.tmb-1200v.jpg?sfvrsn=8925a8df_1",
-          "width": 1200,
-          "height": 1697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
       ]
     }
   ],

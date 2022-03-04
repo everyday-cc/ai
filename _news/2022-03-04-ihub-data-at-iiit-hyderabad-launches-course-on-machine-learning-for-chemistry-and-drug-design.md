@@ -42,6 +42,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 8
+  - title: "IHUB-DATA AT IIIT HYDERABAD LAUNCHES COURSE ON MACHINE LEARNING FOR CHEMISTRY AND DRUG DESIGN"
+    excerpt: "Hyderabad, is offering a 12-week course on ‘Machine Learning for Chemistry and Drug Design’ with special emphasis on drug discovery. The course is slated to commence from 10 March 2022. Participation is open to students,"
+    publishedDateTime: 2022-03-04T22:08:00Z
+    webUrl: "https://www.easternherald.com/2022/03/05/ihub-data-at-iiit-hyderabad-launches-course-on-machine-learning-for-chemistry-and-drug-design/"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 8
 
 secured: "WAPAiv6wWHOtbqkUj+FloepxEw2CK/ij/rP8UFfsgk4KArAD9hEKRy3tVMpENBY07tOtJGMMK3fnBxosBbcR4F1UQDR4WoofKbYpCfVFndwxYZcazSrdtLX21cbyYp5NwIZlr6QVFdHAgQ+GUt/fRMkYf2umaSAVAyRDFVqtT2i0E+JzrQQCjhRHLDtLSHDZ7wBo/AWY93ZYGQhPcI6b0AcVRm92b04qlf2foG/132feBgFZuVn0wxh42I/7nDdFVzZ+q/KvNjDPCqafHtNWvqQe6o2sV2dGYC7uQ7ggHZsxqLY3G213Mzi3fB6tKL6F8g89StCQdfvcVVav8axuXHoxNBY1x8hmHStQCIzYGgA=;LootiXwacdR2y7WOvvqNVA=="
 ---

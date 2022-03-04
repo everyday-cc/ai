@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflic
 ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
 type: article
-quality: 89
-heat: 130
+quality: 91
+heat: 132
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-534144629-1.jpg?fit=800%2C532&strip=all"

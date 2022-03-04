@@ -29,81 +29,67 @@ images:
     isCached: true
 
 related:
-  - title: "Injecting fairness into machine-learning models"
-    excerpt: "If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin, there is serious risk the model's predictions will be unfair when it is deployed in the real world."
-    publishedDateTime: 2022-03-01T16:10:00Z
-    webUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-fairness-machine-learning.amp"
+  - title: "Machine learning improves human speech recognition"
+    excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
+    publishedDateTime: 2022-03-01T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
     type: article
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 59
+    quality: 76
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/injecting-fairness-int.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Human Speech Recognition Model to Overcome Hearing-Impairment"
+    excerpt: "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing."
+    publishedDateTime: 2022-03-01T17:57:00Z
+    webUrl: "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 74
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "Researchers explore a human speech recognition model based on machine learning"
+    excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
+    publishedDateTime: 2022-03-02T05:12:00Z
+    webUrl: "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 72
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hearing_Loss-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Researchers Develop Human Speech Recognition Model With Deep Neural Networks"
+    excerpt: "A group of researchers from Germany is exploring a new human speech recognition model based on machine learning and deep neural networks. The new model could help greatly improve human speech recognition."
+    publishedDateTime: 2022-03-03T19:43:00Z
+    webUrl: "https://www.unite.ai/researchers-develop-human-speech-recognition-model-with-deep-neural-networks/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 53
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/03/brain-6103020_1280.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Detecting plant leaf disease using deep learning on a mobile device"
-    excerpt: "The visual and tactile examination of plant leaves is a standard method for identifying disease in crops and horticultural products. However, such an approach can be highly subjective and is dependent on the skills of the examiners."
-    publishedDateTime: 2022-03-04T12:28:00Z
-    webUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.html"
-    ampWebUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/diseased-leaf.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
-  - title: "New MIT Technique Aims to Boost Fairness Within Machine-Learning Models"
-    excerpt: "Recognizing the harm that unbalanced data can bring to the creation of machine-learning models, a study shows how Massachusetts Institute of Technology (MIT) researchers attempted to increase fairness in these models through a new technique,"
-    publishedDateTime: 2022-03-03T17:15:00Z
-    webUrl: "https://healthitanalytics.com/news/new-mit-technique-aims-to-boost-fairness-within-machine-learning-models"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/new-mit-technique-aims-to-boost-fairness-within-machine-learning-models"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-mit-technique-aims-to-boost-fairness-within-machine-learning-models"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
-    images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-861104740-1-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
-        isCached: true
-  - title: "Zest AI Releases New Race Prediction Model To Reduce Systemic Bias In Lending"
-    excerpt: "Zest AI, a leader in software for AI-driven lending, today announced the launch of Zest Race Predictor (ZRP). This open-source machine-learning algorithm estimates the race/ethnicity of an individual using only their full name and home address as inputs."
-    publishedDateTime: 2022-03-01T16:02:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b82e9c4fca1ac7c0a8db8d2538ff2c8a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Injecting Fairness Into AI: Machine-Learning Models That Produce Fair Outputs Even When Trained on Unfair Data"
-    excerpt: "A new technique boosts models’ ability to reduce bias, even if the dataset used to train the model is unbalanced. If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin,"
-    publishedDateTime: 2022-03-01T11:21:00Z
-    webUrl: "https://scitechdaily.com/injecting-fairness-into-ai-machine-learning-models-that-produce-fair-outputs-even-when-trained-on-unfair-data/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
-    images:
-      - url: "https://scitechdaily.com/images/Machine-Learning-AI-Technology-Concept.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "mZ+zRvF5RAq1HRgiVFGakWn3cX3Atv6BHsF1xyxZfM2HSfYtXO1frPiF4stvkmtfM0GXcOd5Dfi6/7pON+SSQhTJZ0nomBgsS41qCxA+dbhP5AQijR+/WW1REYlj3K1eLOd0ULpo8YcqYD1zFn/E2gD3OjVBON/HOvKWnu5GcU4S90HcbmkYkQ1bvjzNa7nHjmi1r23EBwK7vdrNuAzZ7sv7E3K/v5rYKQw7ls6Cw/ZTZwyjonJM7jox1pNms78HmEGBNFsmPFJw7FTsZ5iYzsYxAPWqmytruwZgJ8OYSaba7/35mT/wCJboeEOq8xEFJxmN5s45xsKrbsT5ZY9Uo+iGW7sA9h5+JpDIiG9L7B2YzWF+ELnsK9DUN1cKPXuPYcJEebDYY55MDFhuTvS9gst6Oc3bM0dV+E6hN9r/GVXmbUtsHlX2K4popgUhVTRTYhDRz7p9MdYfUL+WmlCdEBTavGbmw+SwNDrRb/jFmDGpRyI4bUn8ql30DqyZWTvteBvV69fU4gPGkloIma5mMg==;tp6BXSPRce5cqc4bCKFdAg=="

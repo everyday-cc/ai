@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-
 ampWebUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 131
+published: true
 
 provider:
   name: TechCrunch
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1351539611.jpg?w=1024"
@@ -63,6 +64,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Making data a first-class citizen through responsible AI"
+    excerpt: "Gaining value from data insights became a high priority, and businesses saw the power that AI could bring. “Organizations are really thirsty to figure out how do we actually add customer value,” said Vidya Setlur (pictured),"
+    publishedDateTime: 2022-03-01T23:28:00Z
+    webUrl: "https://siliconangle.com/2022/03/01/making-data-first-class-citizen-responsible-ai-wids2022/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Vidya-Setlur-WiDS-2022-pre-event.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
     excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
     publishedDateTime: 2022-03-04T20:37:00Z
@@ -78,6 +93,6 @@ related:
         height: 450
         isCached: true
 
-secured: "AQCHqr04yreVBVqcNjyfqOugmCEi8DgEXy/LxoOAKdMC3ECZDe6t/PiLdjQnDUWaQ1wUvNBpIWIyIp7WXCatl+5PYutGsTpQtoAag20dmrtmDHy3XKEAY9J1WgouTs5eqgNNS9xIupg4JsQiRDfva2u432FqGLvkZwGUy/sKJqILw/WFTQyTJVbDrtcIqMKJnnoF7etyyFivePSx2EJqPs3GPjhl/7tLm+kk4oA98OAsQkiIiEJPOT4yheEv5HOSzvDnqGCZwgyXLHNCrD/WdrAFvlOxqww0js4WmPIuELBu9w0Zh6u8+zgsMJIQ9KgqWb7OTEUMl9Ssm9t7CBTXXQiiSiyfYDsTxg6isjc+L7g=;PASiXT8TMG49uCxcmhXCNg=="
+secured: "3vTo9cAUxcejAFcdICbjYJCmGvlyTkiPnoUJg/WZ4dkOjWwJEqmA3sW+9RPxRY+EJaWpjz2oXre6vE3SfygQ7JYzn3APK3sP1M200zhpG7ayesHupf+3mCQk2EX1NtFO3EOCgWG3xGoAwzb0fWyTZjAdmukOI0wKIvUVIcb/JlKl1PkJypI6tdqfAfeHs+uD/44DxeCcCZKsJ0k3LogEZc7beHwjF7REFNyJ7INYOZbvYG8BxohlMfg0M4VNsXB7yBWuPmNO29QSySMtsnVr3yvl+IfrJfOeWgnY+1o0yFObBjGUORh8yOJ2ylZhGc8k6BJ9BaM14BgxSmjvD4Swnjkww+GDxiUBe+t8t5zAE7Uyr/HPKLSdGalAP/of9AZhilITHUVHOc1P5q4l1yOLJhaNJMrcrv1vu9LyJ8MA9TEimOgWv5op7JWmFvXbSEaSL/m+2XSOqLqmh7S/6jetTId1jJ4XjkBe23o+tEWRFPv0h9VZs8+FbZIS8rCN/TzrakknAIJ8VylBeUqhZE3Yqg==;zaeHFwFwwWEHwV8B5eEXrw=="
 ---
 

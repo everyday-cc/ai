@@ -37,11 +37,27 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 153
+    quality: 157
     images:
       - url: "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000"
         width: 1799
         height: 1200
+        isCached: true
+  - title: "Microsoft Makes a Big Move Into AI-Driven Healthcare"
+    excerpt: "American tech giant Microsoft - Get Microsoft Corporation Report has made a major push into artificial intelligence this week, closing its deal to acquire AI pioneer Nuance Commun"
+    publishedDateTime: 2022-03-04T21:40:00Z
+    webUrl: "https://www.thestreet.com/technology/microsoft-makes-a-big-move-into-ai-driven-healthcare"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/microsoft-makes-a-big-move-into-ai-driven-healthcare"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/microsoft-makes-a-big-move-into-ai-driven-healthcare"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 91
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgwMjY1ODY0NDU1NTI5ODE2/nuance-communications_2.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
     excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"

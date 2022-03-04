@@ -1,29 +1,59 @@
 ---
 category: news
 title: "Facial Recognition Market to Reach $16.74 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-excerpt: "Increase in demand for face detection systems to enhance the essential safety & security in organizations and emergence of intelligent signage solutions drive the growth of the global facial recognition market."
-publishedDateTime: 2022-03-03T13:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/03/03/9556494.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/03/03/9556494.htm"
+excerpt: "Allied Market Research published a report, titled, \"Facial Recognition Market by Technology (2D, 3D, and Facial Analytics), Application (Access Control, Attendance Tracking &"
+publishedDateTime: 2022-03-03T11:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/facial-recognition-market-to-reach-16-74-bn-globally-by-2030-at-16-0-cagr/article_8fdeb9a5-ccd1-5a2f-b32e-eef0f38eccfe.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/facial-recognition-market-to-reach-16-74-bn-globally-by-2030-at-16-0-cagr/article_8fdeb9a5-ccd1-5a2f-b32e-eef0f38eccfe.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61ea06e968cf9.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "LV15ptNV57r1VtfwkGv2k50mUm8vlKtr4mTDzslFBgCZSc+g4+kpc+9OSltPdJiXVyJk0Fn9W6ylMNtl5iBJVudZuEZxubSlQI81AE3DOkDFH/IuRBf0a+JlPmcSJyXBtH6womwk5pL0XB/78Hk2cI9O7S647eI79d96ddalMRciBg7frBNIxevzYs2Z3fgfrLaVJ+QwqiseHu4IKDTF9YbE5cXVSb24Oyhiek5ApWgrI7RD5B6t807rmGZShtBOy+13IiS6cR1bmS4T+Tk3XX16TCGF0Yoxs5Frr3No9i4x1/n9Rr+T4mkSHvflRdyeAZN1lGI5W3WAjVJj4zsfKISJOIfEFwLVzH6fUkc1SDJJyDc5qOu2YDjIlNhcew5G9QqMlFdW8AC/i6Ych9vu80r3i1BVZbQz+Q3bEY5Datg6XIwQ3reqozrqlo/TOHqHE2lVfUquRpeSNOx0GUIl0DuXPHOcVu13ryiA5SVGEawx80iC8hnw0NEGp/G0970kn8eedeo1wgDpqUrmWqOdzQ==;uBRq9KykCE9uw6QdovukDQ=="
+related:
+  - title: "Cognitive Media Market Research Report (2022 to 2027) – by Process Type, Material, Application and Region"
+    excerpt: "4.1.2. North America Cognitive Media Market, By Application 4.1.3. North America Cognitive Media Market, By Technology 4.1.4. North America Cognitive Media Market, By ..."
+    publishedDateTime: 2022-02-28T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-research-report-2022-to-2027-by-process-type-material-application-and-region-2022-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+    publishedDateTime: 2022-03-03T17:08:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "DkytroNJKd4xC2ruWdMEODGLfc3Gl/d+ItQ/P3FX5UlNqgYCI1FfHSsVfHy62I7m4guWaiyhtV8zhe3QpLsnKIZ/q8uqFN34JJATj58PoXwXka8E7qPvRSpZ+t1uNhcqnqbnDEQXlaCUZ9vFG07Xo8BMQPksBWIRv8oUwPwdBNRu7i44+Vip7N5NftdCYMJ1qCggjYCfUIHacMFrlLJJjriKE7rpaXk/8oGigMJphCbuPCdpyBqQpyRXnkfkN0cc+Y1wC3DVF/jSOLRFLJjLTYYYM71v98MWcnsx/Ttlja4P3HtZwREr8KURswaW9Ftt9eAEJucOm6Ywfsg9I9aDOYxyqcWUT8xSLTaVPRXzhqg=;zQPRXtSdxRaD+Wurm3aihg=="
 ---
 

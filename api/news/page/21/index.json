@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-02-14-it-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-transformation-plan.md",
+      "title": "IT skills and ethical AI among key focus in New Zealand's draft transformation plan",
+      "excerpt": "The plan [PDF] also noted the importance of taking a data-driven approach by adopting technologies such as AI that could have flow-on benefits, such as emissions reduction and greater productivity, as well as taking an ethical approach to AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "originalUrl": "https://www.zdnet.com/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/75a9f5bebe86bd848974df3f81d132836540779e/2021/04/14/fb8b315c-6642-4f75-b1aa-3aa2e5cfc05d/new-zealand-beehive.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 952,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "publishedDateTime": "2022-02-13T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-predictors-of-cognitive-functioning-in-presentations-to-a-community-based-specialist-addiction-neuropsychology-service.md",
       "title": "Predictors of cognitive functioning in presentations to a community-based specialist addiction neuropsychology service",
       "excerpt": "Turning Point, Eastern Health, Richmond, VIC, Australia The National Centre for Clinical Research on Emerging Drugs (NCCRED), University of New South Wales, Sydney, NSW, Australia National Drug and Alcohol Research Centre, University of New South Wales ...",
@@ -1098,49 +1150,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci.md",
-      "title": "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI",
-      "excerpt": "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ...",
-      "sourceUrl": null,
-      "webUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "originalUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "publishedDateTime": "2022-02-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha TV",
-        "domain": "odishatv.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

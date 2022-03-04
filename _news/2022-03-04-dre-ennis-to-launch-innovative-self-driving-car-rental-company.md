@@ -41,6 +41,20 @@ related:
         width: 512
         height: 384
         isCached: true
+  - title: "Hugh Chambers, Better Known as The Growr, to Launch Innovative Self-Driving Car Rental Company and Mentor Upcoming Entrepreneurs."
+    excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The"
+    publishedDateTime: 2022-03-04T22:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-mentor-upcoming-entrepreneurs"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/65fee5aea0144dc3985f990140d40b1b7228b8ef-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Hugh Chambers, Better Known as The Growr, to Launch Innovative Self-Driving Car Rental Company and Mentor Young & Upcoming Entrepreneurs"
     excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The"
     publishedDateTime: 2022-03-04T16:20:00Z

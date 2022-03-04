@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-04T18:06:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise"
 webUrl: "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/"
 type: article
-quality: 153
-heat: 293
+quality: 157
+heat: 307
 published: true
 
 provider:
@@ -18,6 +18,8 @@ topics:
   - AI
   - AI in Healthcare
   - Microsoft AI
+  - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000"
@@ -26,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Makes a Big Move Into AI-Driven Healthcare"
+    excerpt: "American tech giant Microsoft - Get Microsoft Corporation Report has made a major push into artificial intelligence this week, closing its deal to acquire AI pioneer Nuance Commun"
+    publishedDateTime: 2022-03-04T21:40:00Z
+    webUrl: "https://www.thestreet.com/technology/microsoft-makes-a-big-move-into-ai-driven-healthcare"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/microsoft-makes-a-big-move-into-ai-driven-healthcare"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/microsoft-makes-a-big-move-into-ai-driven-healthcare"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 91
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgwMjY1ODY0NDU1NTI5ODE2/nuance-communications_2.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
     excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"
     publishedDateTime: 2022-02-28T11:42:00Z
@@ -221,6 +239,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "eSaLJoz9BTa67UASFsI6oY3rP821/tVz/czE3sgOMKbegW+jgVvCKS+Opm8DQFvEKuNl4WlmAa5VVnKoqPnZuLVgx1lXca0urJSUtgNhrYCfrQW7l3J2Z14y1ISIw6Qnxu0mCB9GkLlJF0XfQAHDwftakGA3cHKMedxrQKxh5V4vsMkqw/lgYmyvkXFAIAR0omX3Y1LloV7k74Uh+78SNBvs2WTlutXObHUWYy5jHXayl7v9EcOCaXmE+hc3KYfS/ie9W43glv8Z5KX/GuoDxlz7oRlYUm/dNnNDOdGNj0ziG63zJZ1Gtf47HpR0QBu8/qaSHTN7BOZmr2qMIG/6WccNCsOoz8F0swpFN/F1Dyo=;uwNZ8Iqzr+GQ7nTA/jR4pg=="
+secured: "Rl2F8HGxo3A9X4oXoNxR/gkEIbMX3XaO4nDZjJUaUqW5+SeDFF2q3PCh6JNqlJiCfaW40gmLESlGjitrSVWyKwFzqe31Ab/q9zlsUS0JKDvtmLPZeiQGgw1cyYGiB4yuU/qNQQsr/DLvNdM3otibGVX0hgN07NNv8W4nEKRvKLZxBDFZ4Rp3ThQ/KxyhqkaxkmdN5VJrp7TdTPHRSHvHnXIJzCL1Xx2zyNsHoixMX8NRarMou+6ZQMjdEQTkdAjtNYP0ykEtw/kDw70ISKEKPCfNNYiLA3LimD65AVKmZVWyhenj6wQO44+V1auvkJ1i+aSnkDKOfdYYPj+fcghNx1wMtMmWMHuhqTqQ059oHgRiRsYlZN+xkBMYzcCtoPou;TbmWAFIvflS+dLiQ9BrICQ=="
 ---
 

@@ -43,6 +43,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 8
+  - title: "IHUB-DATA AT IIIT HYDERABAD LAUNCHES COURSE ON MACHINE LEARNING FOR CHEMISTRY AND DRUG DESIGN"
+    excerpt: "Hyderabad, is offering a 12-week course on ‘Machine Learning for Chemistry and Drug Design’ with special emphasis on drug discovery. The course is slated to commence from 10 March 2022. Participation is open to students,"
+    publishedDateTime: 2022-03-04T22:08:00Z
+    webUrl: "https://www.easternherald.com/2022/03/05/ihub-data-at-iiit-hyderabad-launches-course-on-machine-learning-for-chemistry-and-drug-design/"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 8
 
 secured: "GeZ+QIwBNDStOqeKH9RvIXp/Bj9n6dHcvagCXd/bCCi/DjDGr3fGYY51Rx1JZosrYimn08sdv3Pm3pBhxaEIAJEfRcAtNWD4qojIURWQmUREagVNuofuWVMT5U2NN4AntjMDUmIp0JU2kjaZibhFduW/f+uchoo6KejdSNWUiU66UTE7XKcxrttQlIahYAp1deC8aIsso4FSRwX+FGwkj0PlavCGYtZQXB4/hKnSoMlz0hoiNWVJWSs+YBO5virL6fmScluy7fRtPTASMH1I3/0PZ4XR6zTXaMEUfWsUXLbClljdjmV80Mj9gnetgOLEd2O/uv9BiGq1JgD2eykL0vcLfBrlE3GbHICFJ9F5xtI=;Ec+aAExbb462NIEcMG8lpw=="
 ---

@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Machine learning improves human speech recognition"
-excerpt: "To understand how hearing loss impacts people, researchers study people's ability to recognize speech, and hearing aid algorithms are often used to improve human speech recognition. In The Journal of the Acoustical Society of America,"
-publishedDateTime: 2022-03-01T16:02:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/944641"
-webUrl: "https://www.eurekalert.org/news-releases/944641"
+excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
+publishedDateTime: 2022-03-01T16:00:00Z
+originalUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
+webUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 76
+heat: 116
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - Machine Learning
-  - AI
   - Natural Language Processing
+  - AI
+  - Machine Learning
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3bfcfecc-b8b8-4a78-b421-6e5fc26bc004/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg"
+    width: 2880
+    height: 1620
     isCached: true
 
 related:
@@ -58,6 +60,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Reinforcement learning: How rewards create intelligent machines"
+    excerpt: "The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function."
+    publishedDateTime: 2022-03-02T16:11:00Z
+    webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Researchers Develop Human Speech Recognition Model With Deep Neural Networks"
     excerpt: "A group of researchers from Germany is exploring a new human speech recognition model based on machine learning and deep neural networks. The new model could help greatly improve human speech recognition."
     publishedDateTime: 2022-03-03T19:43:00Z
@@ -73,6 +89,6 @@ related:
         height: 600
         isCached: true
 
-secured: "1lDgz2unM2sz+YXI/zojvZIHgGoPlDbuQAnf3c11rTM3d+Xl//p/fQeHPHG/aVwqtM7IzRDP04SLEQUOV9ZB9n4oOSysRkafeHwP7NNEzoQ7A914Xuw7gBlRr9F3d0EuNZmpWiTL36TDIy7Zn/iB9p89mJslFGoMcJdElmJFPFdn2YyUj8CV4toBDCokQWa1d0DgkFR2rFVluAfgtCBxbS1p2GYmGCvhJB39/bhqP39/0tmgCzuU/N8ecW6ag8KNCyzx9kMaLpQary2QMdS+75VU3Q2AKB78o52yk0h29cl6Faepw3qRozbEmD2do8vwV4iXIYG3sq5G7PvJZK8soddE1HVEVmXPpYymvW2Pbas=;KOUv9C8udaj0Jexa78/Gbw=="
+secured: "bdQ1B5ZmZBnxPHSiy2VQ56a+S63kJp2BfIlsYjmtFi92nVj1socTlTB2LBgnvcBhOC/5bmlH3m0lCoxaGtKBuz10TNcGMlnne8BKOueJxToAb7VIaH9jOqwULbR41u7DQGH3p6+fHSrocBf3/6encnJpFiCidHL6Yun1qmleiPQwRF7xUY+gPyxWVI5nPjLUFTnX+mqj4MFhtdJ8pjW+jN4nJ3BqA14jJVA1DusYr6MRX6EEpFzSls8feqFi4dJQZ8Sccm14VOxzqieRG6v6wSN4k6GS3asWPrlTFelGz3M+kYxrv4+GeHGAB3NfyA1z0dFu68zvFGZYXUINegzuYsUKbOHobmiAHNH4VfxtqvU=;L11W8WSrZxg2L27mU+ysFw=="
 ---
 

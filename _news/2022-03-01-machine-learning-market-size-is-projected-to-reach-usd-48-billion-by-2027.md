@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Trends and Forecast to 2026"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, February 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intelligence in Healthcare Market: Industry Trends ..."
-    publishedDateTime: 2022-02-28T05:40:00Z
-    webUrl: "https://menafn.com/1103772216/Artificial-Intelligence-in-Healthcare-Market-Report-2021-Size-Share-Trends-and-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/28/EP_e1003image_story.jpeg"
-        width: 1000
-        height: 647
-        isCached: true
   - title: "Global AI in Healthcare Diagnosis Market Is Expected To Grow At 20.2% CAGR"
     excerpt: "The size of the global AI in the healthcare diagnosis market is estimated to be growing at a CAGR of 20.2% from 2021 to 2026 and worth USD 5.8 billion by 2026. COVID-19 wrecked the healthcare system,"
     publishedDateTime: 2022-02-28T11:34:00Z

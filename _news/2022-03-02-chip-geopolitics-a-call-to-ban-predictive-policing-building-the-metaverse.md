@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "In the metaverse, responsible AI must be a priority"
+    excerpt: "Language technology powered by AI can perpetuate bias if we are not careful. We need to be sure that language AI is trained to be ethical as well."
+    publishedDateTime: 2022-03-04T20:52:00Z
+    webUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/"
+    ampWebUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1351539611.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Meta describes how AI will unlock the metaverse"
     excerpt: "Zuckerberg says the metaverse will require advances across a whole range of areas, and AI is the key to unlocking a lot of these advances."
     publishedDateTime: 2022-03-02T22:59:00Z
@@ -43,21 +59,19 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "In the metaverse, responsible AI must be a priority"
-    excerpt: "Language technology powered by AI can perpetuate bias if we are not careful. We need to be sure that language AI is trained to be ethical as well."
-    publishedDateTime: 2022-03-04T20:52:00Z
-    webUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/"
-    ampWebUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
+  - title: "Making data a first-class citizen through responsible AI"
+    excerpt: "Gaining value from data insights became a high priority, and businesses saw the power that AI could bring. “Organizations are really thirsty to figure out how do we actually add customer value,” said Vidya Setlur (pictured),"
+    publishedDateTime: 2022-03-01T23:28:00Z
+    webUrl: "https://siliconangle.com/2022/03/01/making-data-first-class-citizen-responsible-ai-wids2022/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1351539611.jpg?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Vidya-Setlur-WiDS-2022-pre-event.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
     excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
