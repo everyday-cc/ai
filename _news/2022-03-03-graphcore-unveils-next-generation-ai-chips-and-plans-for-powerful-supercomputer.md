@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -49,6 +49,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/502695fb2067bb4dded539f74c3322b2bdb51bb3/2022/03/03/13f6ee74-f0f1-476b-8763-3eabefbbec68/graphcore-wow-diagram.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200
         height: 908
+        isCached: true
+  - title: "AI computer maker Graphcore Announces new 3D chip"
+    excerpt: "Graphcore, an England-based AI chips and systems maker, has announced a new 3D chip called “Bow”. The new chip will use two stacked"
+    publishedDateTime: 2022-03-04T12:16:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/AI-computer-maker-Graphcore-Announces-new-3D-chip-01-1-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
   - title: "GraphCore Goes 3D With AI Chips, Architects 10 Exaflops Ultra-Intelligent Machine"
     excerpt: "The 3D stacking of chips has been the subject of much speculation and innovation in the past decade, and we will be the first to admit that we have been"

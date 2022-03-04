@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 696
         isCached: true
+  - title: "Baidu’s Robin Li to Propose Setting Up Pilot Zones for Self-Driving Vehicles"
+    excerpt: "China should guide and support local governments to issue policies to allow driverless vehicles without any safety supervisor to run on roads and build pilot zones for manned operation of completely autonomous driving vehicles,"
+    publishedDateTime: 2022-03-04T11:48:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-robin-li-to-propose-setting-up-pilot-zones-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 36
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-robin-li-to-propose-setting-up-pilot-zones-for-self-driving-vehicles/5528803869382.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Ford self-driving partner Argo testing vehicles in Nashville"
     excerpt: "After a Ford- and Argo AI-branded vehicle was spotted making laps around The Gulch on Thursday, an Argo spokesperson confirmed the self-driving tech company is testing two cars in Nashville this week."
     publishedDateTime: 2022-03-03T19:55:00Z
@@ -55,6 +69,15 @@ related:
         width: 1046
         height: 550
         isCached: true
+  - title: "GM is seeking approval to commercialize its self-driving vehicles"
+    excerpt: "The submission of the petition to NHTSA signals that Cruise and GM are ready to build and deploy its self-driving vehicles, the Origin, here in America."
+    publishedDateTime: 2022-03-04T10:05:00Z
+    webUrl: "https://techhq.com/2022/03/gm-is-seeking-approval-to-commercialize-its-self-driving-vehicles/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 4
 
 secured: "QCeWYAjdOzEhHcaxLDDEGC8mOWKWtL74YmRCkST8/ret4uI6A9MELpNQcSbNJTbu9p6/FYs/lJYx3ZJm380Kf+aMhoaKNvWOo5GIDMs7dJdNVv8bsNCy4xd0S0OHGIrodgGt5mOZW4zBET1jIYJtQgReDMHxnyFQduevYVKkY6CwohC+b2aTZDFOMP6IMI4wtx3tXwhFmzc9seGwnOP9hDuwpS2NeDqcWAA11NdiuvY3OK0R/xPZ0TIbqFHxklMqAnZEDfDH5STR5ZusYlGHx0TgrEtAvQxwUnXspFDbYS9ABLbT2UbpREmB0Mdd55Un4sw3z0gpF90twFnO7gyVV6WT+Q6w8nw0qhif+q7RpcwynlmyPf1n7Dg1+DP7/LZuS9oSUcCiVQ6oU65S94x/R6Zv7DKTVZp8LvNk81l2LO8CQ9oS5N0BHYdVVCZPR4i3v5wtyKw8l7xlNtbNN1r+sksDLmGbzKyCSPrkCBvqSUYNN20n75m4heDruo5Pzry17BM+Jsa8JjpELKv+q0MEMw==;T5UF4F5MgqDqrhdWeoLRQA=="
 ---

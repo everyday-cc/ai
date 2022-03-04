@@ -39,6 +39,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI in Fintech Market Giants Spending Is Going To Boom | Google, Intel, Amazon Web Services"
+    excerpt: "Advance Market Analytics published a new research publication on “Global AI in Fintech Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
+    publishedDateTime: 2022-03-04T10:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-giants-spending-is-going-to-boom-google-intel-amazon-web-services"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
   - title: "FinTech in Insurance Market May See a Big Move | ZhongAn, Masii, PolicyPal"
     excerpt: "The Latest research study released by HTF MI “Global FinTech in Insurance Market” with 100+ pages of analysis on business Strategy taken up by key and"
     publishedDateTime: 2022-03-02T18:39:00Z

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 908
         isCached: true
+  - title: "AI computer maker Graphcore Announces new 3D chip"
+    excerpt: "Graphcore, an England-based AI chips and systems maker, has announced a new 3D chip called “Bow”. The new chip will use two stacked"
+    publishedDateTime: 2022-03-04T12:16:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/AI-computer-maker-Graphcore-Announces-new-3D-chip-01-1-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "Graphcore debuts 3D AI chip with new wafer-on-wafer technology"
     excerpt: "Chip startup Graphcore Ltd. today introduced a new artificial intelligence processor, the Bow IPU, that uses an innovation dubbed wafer-on-wafer technology to speed up calculations. U.K.-based Graphcore is backed by more than $680 million in venture funding."
     publishedDateTime: 2022-03-03T20:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Meta developing AI-based Universal language translating System for Metaverse"
-    excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
-    publishedDateTime: 2022-02-27T18:25:00Z
-    webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 38
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
-        width: 554
-        height: 372
         isCached: true
 
 secured: "55WAOvexjQmMs1yhu6HkmOngA4/a5aDiAn4rvufcI6zIJTRajgOV16MRIkwbe7k6fF+Dn9R/yJ+ZVvLG3eJ3pwQbyu7UKUxJC1nIDtNK0umToplvgiI383w+6jqwb4lEumhGZVxW5/EWJ0aFjldql8/RcSiZBqgTWvCMXWtuVt4jLJ2E5JFEMT4TYNaBGY1ksaYfP4GlsJRCYBnH7xjV6yAmTbZVNW2jpw7IOzN01yrV0o2+xSZgJxTlFNMl/iykxEGFXWqrWkDO+Yo4txQTuWXplGfa6NMaN8e2OGmJPN0uDJKpue1IOVAi2yQPp5CbNPf6nDLSr0r65W9+nRmvlAq0Rzwq6jIb+LmezZ9/6+8=;i8oILyNnN7yJdWSlOjKm8g=="

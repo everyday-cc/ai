@@ -123,6 +123,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-03-04T11:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
     publishedDateTime: 2022-03-03T17:08:00Z

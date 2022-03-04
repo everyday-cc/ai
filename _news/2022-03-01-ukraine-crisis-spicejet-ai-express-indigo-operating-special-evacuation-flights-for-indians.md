@@ -25,22 +25,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "AI ferries 688 Indians back home"
-    excerpt: "As many as 688 Indian nationals returned on Sunday from Ukraine on board three Air India evacuation flights from the Romanian capital Bucharest and Hungarian capital Budapest. So far, four evacuation flights have brought back a total of 907 Indian nationals from Ukraine."
-    publishedDateTime: 2022-02-27T18:43:00Z
-    webUrl: "https://www.dailypioneer.com/2022/page1/ai-ferries-688-indians-back-home.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
-
 secured: "i4PIjkpwzLK4TaIuTZMAUofvtD863S7BaTd0xv9F4Hs01zpuwRpy7joZ6HmquJWm3xfsrjiakBQbsIZ4vwPTtE2IOUR6VXUsH1boFOtUEDUM+LNltOxgMwc8sPiaOAyyEXCJ0wSZEGPrWGo+CKLzKLYyopJ7YXmAMVGrtQbpcEMrZ6uGL4pXCATnld7XK74hjRAaTeFyQgW+OxAQMrA9cRyrNOQX2ffXN7dZfpbTsu70xpjUzqZpzznt8HlbPVyX/+DIAoqzY2AiROThCS8B+b+bgO1wUaP92CjnrujmCzQPWoyc1xEYMqY0sBb6cxOM42SrUSdlNEkwX2F49we2JQL5uPoFPYGaOmU5lae+npI=;fNLzo9iY1FiqMyMaWKIBZQ=="
 ---
 

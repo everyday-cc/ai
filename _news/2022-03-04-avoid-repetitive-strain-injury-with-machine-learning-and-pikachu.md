@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-04T09:00:00Z
 originalUrl: "https://hackaday.com/2022/03/04/avoid-repetitive-strain-injury-with-machine-learning-and-pikachu/"
 webUrl: "https://hackaday.com/2022/03/04/avoid-repetitive-strain-injury-with-machine-learning-and-pikachu/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Hackaday

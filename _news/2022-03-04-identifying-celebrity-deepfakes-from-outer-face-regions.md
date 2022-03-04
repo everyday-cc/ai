@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-04T10:50:00Z
 originalUrl: "https://www.unite.ai/identifying-celebrity-deepfakes-from-outer-face-regions/"
 webUrl: "https://www.unite.ai/identifying-celebrity-deepfakes-from-outer-face-regions/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: unite

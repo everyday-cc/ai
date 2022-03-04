@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-03T13:12:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/balto-improves-real-time-guidance-with-intent-based-voice-processing/article_b29ed5ce-d378-5f7b-81e9-622ca006e351.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/balto-improves-real-time-guidance-with-intent-based-voice-processing/article_b29ed5ce-d378-5f7b-81e9-622ca006e351.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WFMZ-TV

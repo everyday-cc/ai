@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/are-you-integrating-human-sense-with-machine-learning/89883172"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Detecting plant leaf disease using deep learning on a mobile device"
+    excerpt: "The visual and tactile examination of plant leaves is a standard method for identifying disease in crops and horticultural products. However, such an approach can be highly subjective and is dependent on the skills of the examiners."
+    publishedDateTime: 2022-03-04T12:28:00Z
+    webUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.html"
+    ampWebUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/diseased-leaf.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Did GPUs render CPUs obsolete in deep learning?"
     excerpt: "GPUs (graphic processing units) are chips built for parallel processing. Originally developed to accelerate the 3D rendering tasks in video games, GPUs have found major applications in deep learning,"
     publishedDateTime: 2022-03-02T06:30:00Z

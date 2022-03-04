@@ -1,30 +1,22 @@
 ---
 category: news
-title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-publishedDateTime: 2022-03-02T09:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
-ampWebUrl: "https://www.benzinga.com/amp/content/25929444"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25929444"
+title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams"
+excerpt: "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,"
+publishedDateTime: 2022-03-02T03:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams"
+webUrl: "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams"
 type: article
-quality: 39
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS"
@@ -72,6 +64,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+JIRioHSwtzrm2hzelyI0ZBVoW9oHi5N59JopYkAKaF9RDwOVoC/lOwyIsEryuQBCbuJrjOdiUk/rB23ha7/oI9lQiq1RqmhZv+9Xk0dtp2AsT4KPCGMhRyrk5vInl/1HVhhKbDWbtvyqTOLJvhntiv66bwSv8gu+K7tCUg2xTsIY9xkHXnpeHyOnz6R62EK05hCORpIeFqzu2YDiWJHQr6hqFpgRJ34qjBVSFRluPdMgEODl1eATHSY0IvX8CCg9lTIIiap8X3XZbZWtnWfbjISU32JzpSEVFuWARPc7jhmHig7YNlmruOcl5eyMpmZcyx1DHQjDREGDZk0cVEf4d4l2V6wEhnx4om6h81cqYJV1/pXgcUgv4mD45O9M7pBeoQDnki8Y8sN3ahCz3vVKIU8GxXvGNJT7folkRhSQRFEY7kU3aX+8H2hGWbsnQzwjGsmyAtgrAmZYWauBbCTxhlw6RD/Ff2WgQ/bH1VOWPO2Gtg+WLEMN5cZaa0g59a2McPfi/QFOGzT92rPMRtfpA==;aKslVyDGDRUMhFWEJin+WA=="
+secured: "4hx8xXXv2QRp6U3nueYfuPIoZeTWSQxj+8uLtcWCFqRQ2oXQQ6PbW26tZZ/wHueLcTDWMUcIrg9HxNfFoGFdlEkwqv3CKP5Bi3tLFgFC8aJIJGjkSXTYbswCxHOKFH6S+YxEVBLDm+BYIA5ckzU1hjxUL01jB/FahKD8FiU61/SmvEJUctNZd6jdaKXjpuO4i8b7VnyDihYlz3oOyqknY691EOGJtZu1kCArlyod7fMteWgevrVoHXcofk0BuKCWV+qJ9xtNgPblZu31lRUWLNLvn/L0+hqAHBTan3jjxF3VA93vjh1q++mY9eKaCGASzKcr0d8dsG/kMsDFP3iWNAXUoNH5KrxjRxyn1fijuJ8ff+OwiZsV4BSYWgnBYwgjWcXb3scGOQdEWXoPQfYAHD2bFBRiBrOD/Fmd0KIFN79lTW+/EStmZayiqO4qCDhgJLU+oJee6ASa2m7kBfRnPVAzErPF1p8VhGvIZ0f6fquNfSODLCO4iN681oaxAG0V4kk7kfWtYRqvyMaFytnhQg==;j4qbMdsn409sCAqLJU8eAw=="
 ---
 

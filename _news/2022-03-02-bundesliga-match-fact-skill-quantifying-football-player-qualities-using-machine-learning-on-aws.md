@@ -60,22 +60,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2022-03-02T09:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25929444"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25929444"
+  - title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams"
+    excerpt: "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,"
+    publishedDateTime: 2022-03-02T03:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "nYI/Wsk0DbHJe29xEtOxVZOiT+joIGYRlegqfQ2kXVamRpceqHAdokYxlfHyduvyBN5jUzbwkUG7ZkBSu6q69584N34mb83he/nRvtZY1wBFughdW20TBDgUc8P/ZCgiLmsd0NIja0QVkLtMESsJWpQt3WIKYWHCUN/RET+pq82B+ygrtLnwmIyx9e41Wg/1bm4DxU/RzYY3PO7XEEOTjqXuL5MrcLzBiDsXUqgObFIZiKLRNsV79Wb/cyEnjw9cJe+BJCNwNRgI06NvokuUBnDzaqERLv7XM+QIsR2WhDfDmH0a4xxRWARFxIZrW6HhuNlPNM+NVDlGKpV1y2tokis5ujhDcWdneSd/zC2cqdc=;MEe3HdFDkiM6PxGtVpGzuw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ITWeb
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 ways AI optimisation can revolutionise the financial sector"
+    excerpt: "Financial services are increasingly implementing AI technologies in order to help analyse massive volumes of data and identify market trends."
+    publishedDateTime: 2022-03-04T10:57:00Z
+    webUrl: "https://ibsintelligence.com/blogs/3-ways-ai-optimisation-can-revolutionise-the-financial-sector/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Leslie-TurinTech.jpg"
+        width: 500
+        height: 749
+        isCached: true
   - title: "Ai Insurance Organization helps traditional brokerages navigate changing world"
     excerpt: "Ai Insurance Organization partners with and assumes operations of Dream Insurance to help the traditional insurance brokerage navigate the ever-changing"
     publishedDateTime: 2022-02-28T08:01:00Z

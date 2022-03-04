@@ -41,20 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size Expected To Reach USD 148.11 Billion at a CAGR of 36.9%, By 2026"
-    excerpt: "The rising need to perceive consumer behavior across different end-user industries, and elevated demand for Wearable Technology, are some of the factors"
-    publishedDateTime: 2022-02-27T20:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-expected-to-reach-usd-148-11-billion-at-a-cagr-of-36-9-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 4
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "jt0DkeRfEYge0c/nTzj21O/pN2+cZFt+P/iVClkRhYJfFMApMnKZySftR0qvu6GGEtusUggEZ9yyhibHrpg1Dx9bzNrQ7ZSqFRTmNQP56IKMMtufOH/xjn0mBrB0+8R9vWYjRE10hvPlULXtcPZCXsKaTkI3qCJFMigpaBDPEoP9Jq9vfuDDzckY4USolS/TNRd8nvT2VbipVMGI+ZVJVC+t5D2zmFS+4kQRjIrtVNCVrsDjyqqHTaoK0P9Xxi3+jqG3Z5gJIxKh9n9XblMs5e2vlobe+L5uzvVc8raYUj8IiUhg0pyNV4drj5bLDAy8cH6D338p+84iM2bEVXgZyy4Rcib80jrLhlFkEQgmmowymdDIpyYEbENTSN46ktBYEIvfvt7Cg3zlKsilCj7bKwO/s8Cq0YTAhAIwBRd4mM32p930IPQr35tYQeISdQ8pwdalv3VzSGhoBosFdplxKcGDyoOosnDOV7zEXJk+Wg3/PZRpG/P25bsai9apunpWAPuOf40oE5mlYoZ7OAzRjg==;G8Excdjmi+wHE6+VYb+tAA=="
 ---

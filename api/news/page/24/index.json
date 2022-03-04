@@ -2,6 +2,239 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-02-10-tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving.md",
+      "title": "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving",
+      "excerpt": "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop",
+          "width": 719,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
+      "publishedDateTime": "2022-02-10T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-three-ways-fintech-will-influence-the-cfo-role.md",
+      "title": "Three Ways Fintech Will Influence The CFO Role",
+      "excerpt": "So, who is the primary beneficiary of this fintech revolution? CFOs. In the past few years, new technologies and software have spilled into every aspect of finance, from analytics to AI and beyond. Digital tools have helped boost efficiency and decision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/606b44f264bac4503c6bfc54/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
+      "publishedDateTime": "2022-02-10T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean.md",
+      "title": "UAE: Female students develop solar-powered AI robot to clean ocean",
+      "excerpt": "Five female students have created a robot that uses Artificial Intelligence (AI) to clean the sea from plastic and other floating and mineral wastes to protect the marine environment. The robot, powered entirely by solar energy, can navigate autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean",
+      "originalUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=e5126623-23d0-405d-a9ea-4cf4f75be3f4&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.89189&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1",
+      "publishedDateTime": "2022-02-10T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games.md",
+      "title": "Deepdub closes fresh financing round for AI that dubs movies, shows, and games",
+      "excerpt": "The AI-generated voice in the target language can then perform at any ... But localization isn’t as straightforward as simple translation. As The Washington Post’s Steven Zeitchik points ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/",
+      "publishedDateTime": "2022-02-10T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-idc-survey-illustrates-the-growing-importance-of-purpose-built-ai-infrastructure-in-the-modern-enterprise.md",
+      "title": "IDC Survey Illustrates the Growing Importance of Purpose-built AI Infrastructure in the Modern Enterprise",
+      "excerpt": "Security/compliance and cost also play a role. GPU-accelerated compute, host processors with AI-boosting software, and high-density clusters are top requirements for on-premises/edge and cloud-based compute infrastructure for AI training and inferencing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_6d2af9ef-b44b-5341-8896-ad7a81f8a2d8.html?block_id=531919",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_6d2af9ef-b44b-5341-8896-ad7a81f8a2d8.html?block_id=531919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-robots-and-being-spied-on-by-smart-technology-are-among-nations-new-fears.md",
       "title": "Robots and being spied on by smart technology are among nation's new fears",
       "excerpt": "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us. The digital age has replaced clowns ...",
@@ -900,219 +1133,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-salesforce-empowered-an-ai-ethics-team-to-keep-it-honest-dealing-with-third-party-apps-is-trickier.md",
-      "title": "Salesforce empowered an AI ethics team to keep it honest. Dealing with third-party apps is trickier.",
-      "excerpt": "Some ethics roles sit inside a legal compliance team or are relegated to a monthly governance or privacy check-in. However, Baxter’s team has a surprising amount of day-to-day interaction and input into decisions made throughout the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/salesforce-ethics-team-lacks-control",
-      "originalUrl": "https://www.protocol.com/enterprise/salesforce-ethics-team-lacks-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/kathy-baxter.png?id=29248254&width=1500&coordinates=360%2C0%2C320%2C0&height=2000",
-          "width": 1500,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/salesforce-ethics-team-lacks-control-2656561932",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/salesforce-ethics-team-lacks-control-2656561932",
-      "publishedDateTime": "2022-02-09T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sony-ai-defeats-human-racers-in-gran-turismo-playstation-game.md",
-      "title": "Sony AI defeats human racers in Gran Turismo PlayStation game",
-      "excerpt": "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/KlfOTPy35e47QPPkBUgvcoUXhKI=/1200x630/2022/02/09/43f22c13-7fdb-440f-a61a-2d911b8dc3a0/sony-ai-gt-sophy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sony-ai-defeats-human-racers-in-gran-turismo-playstation-game/",
-      "publishedDateTime": "2022-02-09T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-amd-infinity-hub-channeling-the-power-of-amd-accelerators-for-faster-time-to-science.md",
-      "title": "AMD Infinity Hub: Channeling the Power of AMD Accelerators for Faster Time-to-Science",
-      "excerpt": "[Sponsored Content] GPUs have revolutionized HPC and AI, carrying advanced performance forward where Moore’s Law dropped off. The result: exploding global demand for the chips. The GPU market reached $87 billion for 2021 with a projected CAGR of 33 ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/tag/amd-infinity-hub/",
-      "originalUrl": "https://insidehpc.com/tag/amd-infinity-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-mphasis-goes-all-in-on-cloud-technology.md",
-      "title": "Mphasis goes all in on cloud technology",
-      "excerpt": "Mumbai, Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive ... and Microsoft Azure • Advisor & Stock Plan Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
-      "originalUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sony-ais-first-project-can-drive-circles-around-you.md",
-      "title": "Sony AI's First Project Can Drive Circles Around You",
-      "excerpt": "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "originalUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3938443-granturismo73.png",
-          "width": 1918,
-          "height": 1073,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "publishedDateTime": "2022-02-09T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

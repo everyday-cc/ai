@@ -53,6 +53,20 @@ related:
         width: 1110
         height: 760
         isCached: true
+  - title: "04/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
+    publishedDateTime: 2022-03-04T11:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/0403-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_2.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fintech Market Share, Growth Factors , Key Market Players, CAGR of 8.5% , Trends & Forecast, 2028"
     excerpt: "Rising Internet in various processes, and implementation of Artificial Intelligence and blockchain technologies are some key factors driving market"
     publishedDateTime: 2022-02-28T01:44:00Z

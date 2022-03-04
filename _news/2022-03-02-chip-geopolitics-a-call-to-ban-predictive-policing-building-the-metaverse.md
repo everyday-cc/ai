@@ -43,20 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Meta developing AI-based Universal language translating System for Metaverse"
-    excerpt: "Metaverse is a rapidly gaining traction notion, and Meta (previously Facebook) is leading the charge, offering different technology advancements to assist the internet’s future. Meta is working on a pair of unique metaverse gloves that allow users to touch and feel virtual items,"
-    publishedDateTime: 2022-02-27T18:25:00Z
-    webUrl: "https://techstory.in/meta-developing-ai-based-universal-language-translating-system-for-metaverse/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 38
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/1-2.png"
-        width: 554
-        height: 372
-        isCached: true
 
 secured: "CONte/8GljYTZM4cdR7LnTlBhTT9WQjVij8VcBIQ7dFapq3hbrc9YgkkPuu5tmtG7ivfMXUq4NmSjb00wTLWLnTWcZ5XDnOEkACWxfWG3CWbvHl1Z6qc+HFm8hqrME4widfxEQrVkTnfkoSHvNRNqEHLqn0akl+Jm9aQx29eAnNdAK3Hcfy6UXWNswUC0aze/LRN6ii5K2nQunGUq/gUEdknQzbBeIxadM9k0u8InkBkXDwwsQd8nCkpiV1ay+Z1Wax414i3jTtsIdWlOvl8sug2JNQRE1HdFkr90kUoFEGCbK9TT2totJs/sdrHSsC84cOh/btL8xQGgw1VkQIshSo+AFcXaa4gGAmVQ8tKK6Q=;v4HHEXfCAOWSZY4RTyTtWQ=="
 ---

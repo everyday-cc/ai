@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Fintech Startups Given Chance to Join 'Hotbed of Innovation' at 2022 FIS Fintech Accelerator"
-excerpt: "Fintech startups and growth-stage companies are encouraged to apply for the 2022 FIS Fintech Accelerator and the opportunity to accelerate the development of their innovative solutions. Ten companies will be selected to present their solutions to more than 100 leading financial institutions,"
-publishedDateTime: 2022-03-03T13:10:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/03/03/fintech-startups-given-chance-to-join-hotbed-of-innovation-at-2022-fis-fintech"
-webUrl: "https://stockhouse.com/news/press-releases/2022/03/03/fintech-startups-given-chance-to-join-hotbed-of-innovation-at-2022-fis-fintech"
+excerpt: "Financial technology leader FIS ® (NYSE: FIS) announced today that applications are being accepted for the 2022 FIS Fintech Accelerator program, now in its seventh year. The FIS Fintech Accelerator, in collaboration with The Venture Center (of Arkansas) and the State of Arkansas,"
+publishedDateTime: 2022-03-03T13:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-startups-given-chance-jo-hotbed-innovation-2022-/2022/03/03/9556529.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-startups-given-chance-jo-hotbed-innovation-2022-/2022/03/03/9556529.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -52,6 +52,6 @@ related:
         height: 628
         isCached: true
 
-secured: "KbBrlezX5ZziiZviN6ndcc05jgxjIW3GXHIqMF21e6veENZ8+dN+O1MS4n9i+fUHrou1LBvQlEosE/wzc+EVSH7p5HrNjA03GwqnYteufyWk2+XtA/nipFN7XfPH6rzj7h+S1Hxo3Er+IJr1MzutiueAtn4Pr4oLubrWUjQp87ZsnFTmp7PYviBtj5qI8TL7HpE7u6JozaqTknF8uy1GLZr0gZy3v1hgyM+e+BQ5fbWezvTCTJU8zWaaFZJgh2PZSIQtb+dFYL618gZZVpNJD9PbKlTsxxDswldqDy8USZB2gUMHI95V9RIoTGTAk49fr9Oyp4HmOhNfxSdvQwk/TMShXF0U0NCm2kPZ1Os6xCMny5qTY2jOAcuHJBIB2+i0oG8iZOwXGg3qtN2ihzbKWWb660arMFRq/CTiSN35geIt97/nK/t9Rlb+BLIuyCx0bABcMF0kGmT/BcX2qhcB2Z8/fG6FxNvR5lTtgXdK8CgYtjap8B2wb51RVYQ4jlx06gQgOWxf4QSy55ebYywD5A==;dTReioHsS0iO5fs1oWk7KA=="
+secured: "oBHIMkTIDYWOSoTjsefcjMP6KcFsEk0767xpvu5gCze4FJMQbZ2DOkD7zu7AnsTNSQLkQd3OZICgVha73EYHwZC7hL1dvwW0eIZFWLss6Uwqtp8ARza5rGz3HbO2zNQPWWzh12IRRMdfV4nJqv6/F+7dQGliXgGy+By4dmpzAeLBUrWuXA8yjA5xSokufZ2qa122U+ZMhwUQXcrwuSD0JNZ9bIQVNSE6TlVZvxU/1MdbQmh7tlAON+S/WImh6XWwio12964mRouhAXCATK/rxOKBUhCcC7bcIsZ61oEarlVYWku02KPDdbPswa/9w91lgzFaJgr6mr5MbQczHjUS3kclF3atgFWivSDFIpyBVeo=;lUzRiR1Wm5EhEUSk+PjvhQ=="
 ---
 

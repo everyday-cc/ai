@@ -39,6 +39,24 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "North America Deep Learning Neural Networks (DNNs) Market Size, Trends, Growth Opportunities, Analysis and Forecast by 2029"
+    excerpt: "Market study encompasses a market attractiveness analysis, wherein all segments are benchmarked based on their market size, growth rate, and general attractiveness. The report gives the details about market trends,"
+    publishedDateTime: 2022-03-04T12:33:00Z
+    webUrl: "https://eclecticnortheast.in/2022/03/04/north-america-deep-learning-neural-networks-dnns-market-size-trends-growth-opportunities-analysis-and-forecast-by-2029/"
+    type: article
+    provider:
+      name: Eclectic Northeast
+      domain: eclecticnortheast.in
+    quality: 8
+  - title: "Geospatial Analytics Market Technology, Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2028"
+    excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
+    publishedDateTime: 2022-03-04T09:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-market-technology-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "ETZNCOfSvhihut3Tan8tffHjP+LySBRcBjsm5GMQhm4l/QocEFE4hpzl46BGyCPq4J8gzWjuU9MHCBPKWse06JxRTqLjFwrdEd0ER+kIC0gQfl7nfJvmH9i6YBwJ13VHbJcw63CvWvHtNzYRfHGsSs6pgvlqyIt+5q8/KfEnhOlVf+qvcW3qNKPO3BUvpqmOXQLEC0IC7Xe0hxwxBlyhKsE8MhMvPPdCORUI/gcSgbaSvUbzjaaS+IbjpdlB5Unvbu9EAlu/vZaFx/S7R2NkZieSIqw18VlB+T//SPeeTsVg0JE/zlxMrFJb7FUFiMzaLksxT61HG8QGEp3k0QX3CGtChkNI5Adk2MyM1d2vemU=;ZEMDYBGPdW/rXvIcdsUgCA=="
 ---

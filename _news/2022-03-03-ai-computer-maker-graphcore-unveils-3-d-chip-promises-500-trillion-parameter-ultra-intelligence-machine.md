@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 593
         isCached: true
+  - title: "AI computer maker Graphcore Announces new 3D chip"
+    excerpt: "Graphcore, an England-based AI chips and systems maker, has announced a new 3D chip called “Bow”. The new chip will use two stacked"
+    publishedDateTime: 2022-03-04T12:16:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/AI-computer-maker-Graphcore-Announces-new-3D-chip-01-1-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "GraphCore Goes 3D With AI Chips, Architects 10 Exaflops Ultra-Intelligent Machine"
     excerpt: "The 3D stacking of chips has been the subject of much speculation and innovation in the past decade, and we will be the first to admit that we have been"
     publishedDateTime: 2022-03-03T22:19:00Z

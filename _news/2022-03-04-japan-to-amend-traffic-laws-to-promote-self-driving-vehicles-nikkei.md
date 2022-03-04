@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu’s Robin Li to Propose Setting Up Pilot Zones for Self-Driving Vehicles"
+    excerpt: "China should guide and support local governments to issue policies to allow driverless vehicles without any safety supervisor to run on roads and build pilot zones for manned operation of completely autonomous driving vehicles,"
+    publishedDateTime: 2022-03-04T11:48:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-robin-li-to-propose-setting-up-pilot-zones-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 36
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-robin-li-to-propose-setting-up-pilot-zones-for-self-driving-vehicles/5528803869382.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Ford self-driving partner Argo testing vehicles in Nashville"
     excerpt: "After a Ford- and Argo AI-branded vehicle was spotted making laps around The Gulch on Thursday, an Argo spokesperson confirmed the self-driving tech company is testing two cars in Nashville this week."
     publishedDateTime: 2022-03-03T19:55:00Z
@@ -55,6 +69,15 @@ related:
         width: 700
         height: 439
         isCached: true
+  - title: "GM is seeking approval to commercialize its self-driving vehicles"
+    excerpt: "The submission of the petition to NHTSA signals that Cruise and GM are ready to build and deploy its self-driving vehicles, the Origin, here in America."
+    publishedDateTime: 2022-03-04T10:05:00Z
+    webUrl: "https://techhq.com/2022/03/gm-is-seeking-approval-to-commercialize-its-self-driving-vehicles/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 4
 
 secured: "EcqPwWjJjCH+7qQQa8RTRldE82fqSPhPozQBfmI0TCP+qx9QuqfDinqq1SKBTvIVVdb0iNzqvNx6+3tdY9rNVF4YurrFjCqiqgZyCZdSDJrYgSecTFRlQyeyKJK7TtSRz6hIXFgk/IW5+6mjuL8teBeJLjHm8iJGgknG7N0RjpnpfnX1CsyOZxvru+XTaJLjFLzGkx10a79rcWm3/Cqy7zTcjuT5xJ8PkleZpm3b0t6fa3OIVr+zyRE+j02RrA4/PKkW7faZXPNwMY3TCSg9aKdcezUPUg3znbvdxH7ZoknpXMciOuB4VUc+JHzsLcvqJDngHPc1A2/1Ny2Y74KsGj5PJsSSOx4Hp3qwFC4N95Q=;HJAeDjv3J4HGARI6AxTPZg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai
 webUrl: "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

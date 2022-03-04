@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-04T08:40:00Z
 originalUrl: "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-huge-growth-by-2027-alphabet-microsoft-ibm"
 webUrl: "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-huge-growth-by-2027-alphabet-microsoft-ibm"
 type: article
-quality: 44
+quality: 48
 heat: -1
 published: false
 

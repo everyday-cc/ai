@@ -247,6 +247,40 @@
       ]
     },
     {
+      "path": "_news/2022-02-20-the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues.md",
+      "title": "The fundamental goal of AI is to allow people to focus on the most pressing issues",
+      "excerpt": "Anxiety over artificial intelligence breakthroughs was stoked this week when DeepMind announced the AlphaCode deep learning system, which generates source code. According to my AlphaCode deep dive, DeepMind researchers have done an excellent job of ...",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
+      "originalUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-20-deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments.md",
       "title": "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments",
       "excerpt": "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth.",
@@ -1426,49 +1460,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-googles-deepmind-says-its-ai-coding-bot-is-competitive-with-humans.md",
-      "title": "Google's DeepMind says its AI coding bot is 'competitive' with humans",
-      "excerpt": "Alphabet-owned AI outfit DeepMind claims it has created an AI that can write programming code, find novel solutions to interesting problems, and do it at the level of the mid-ranking human entrants in coding contests. Dubbed \"AlphaCode\" and detailed in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
-      "publishedDateTime": "2022-02-02T19:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

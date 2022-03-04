@@ -42,6 +42,20 @@ related:
         height: 1169
         isCached: true
   - title: "How to help humans understand robots"
+    excerpt: "Thanks to decades of cognitive science and educational psychology research, scientists have a pretty good handle on how humans learn new concepts. So, researchers at MIT and Harvard University collaborated to apply well-established theories of human concept learning to challenges in human-robot interaction."
+    publishedDateTime: 2022-03-04T11:17:00Z
+    webUrl: "https://robohub.org/how-to-help-humans-understand-robots/"
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 39
+    images:
+      - url: "https://robohub.org/wp-content/uploads/2022/03/MIT-Human-Learning-01-press_0-425x283.jpg"
+        width: 425
+        height: 283
+        isCached: true
+  - title: "How to help humans understand robots"
     excerpt: "Researchers from MIT and Harvard suggest that applying theories from cognitive science and educational psychology to the area of human-robot interaction can help humans build more accurate mental models of their robot collaborators,"
     publishedDateTime: 2022-03-02T17:36:00Z
     webUrl: "https://www.eurekalert.org/news-releases/945184"

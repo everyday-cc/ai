@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-04T10:45:00Z
 originalUrl: "https://www.govconwire.com/2022/03/iridium-ceo-matt-desch-earns-8th-consecutive-wash100-award-recognition/"
 webUrl: "https://www.govconwire.com/2022/03/iridium-ceo-matt-desch-earns-8th-consecutive-wash100-award-recognition/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: GovCon Wire

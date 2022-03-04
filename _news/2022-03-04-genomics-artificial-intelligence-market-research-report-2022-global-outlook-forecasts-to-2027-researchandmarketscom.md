@@ -122,6 +122,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-03-04T11:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
     excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
     publishedDateTime: 2022-02-27T23:19:00Z

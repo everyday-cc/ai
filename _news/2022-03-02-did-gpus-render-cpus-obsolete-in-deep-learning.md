@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Detecting plant leaf disease using deep learning on a mobile device"
+    excerpt: "The visual and tactile examination of plant leaves is a standard method for identifying disease in crops and horticultural products. However, such an approach can be highly subjective and is dependent on the skills of the examiners."
+    publishedDateTime: 2022-03-04T12:28:00Z
+    webUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.html"
+    ampWebUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/diseased-leaf.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Deep Learning: It's Not Too Good to Be True - It's Genuine Progress"
     excerpt: "Deep learning has come on leaps and bounds in recent years and is fast-tracked to becoming one of the most revolutionary technologies in cybersecurity. As a subset of artificial intelligence (AI), deep learning is often confused with associated technologies like machine learning (ML)."
     publishedDateTime: 2022-03-03T16:30:00Z

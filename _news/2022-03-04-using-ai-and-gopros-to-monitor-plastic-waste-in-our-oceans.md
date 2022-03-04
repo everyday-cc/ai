@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-04T10:40:00Z
 originalUrl: "https://www.digitalcameraworld.com/news/using-ai-and-gopros-to-monitor-plastic-waste-in-our-oceans"
 webUrl: "https://www.digitalcameraworld.com/news/using-ai-and-gopros-to-monitor-plastic-waste-in-our-oceans"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: digitalcameraworld.com

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowt
 webUrl: "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d3jqtupnzefbtn.cloudfront.net/andersenlab/new-andersensite/cases/Klarna/visuals/shop.png"
         width: 1110
         height: 760
+        isCached: true
+  - title: "04/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
+    publishedDateTime: 2022-03-04T11:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/0403-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_2.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Edge Focus Bolsters Fintech Expertise with Multiple Strategic Appointments"
     excerpt: "Edge Focus, a technology company that applies machine learning and artificial intelligence to analyze credit, is pleased to announce the appointment of Neel Mehta as Chief Marketing Officer, YeeMan Bergstrom as Principle Data Scientist,"

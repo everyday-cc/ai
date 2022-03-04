@@ -98,36 +98,27 @@
       ]
     },
     {
-      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
-      "title": "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength",
-      "excerpt": "Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering ...",
+      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates.md",
+      "title": "Baidu beats quarterly revenue estimates",
+      "excerpt": "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters) - Chinese search engine giant Baidu Inc BIDU.O reported ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
+      "webUrl": "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp",
-      "publishedDateTime": "2022-03-01T01:11:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp",
+      "publishedDateTime": "2022-03-01T00:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -193,7 +184,7 @@
       "originalUrl": "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -284,6 +275,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-how-to-build-ai-into-your-organisation.md",
+      "title": "How to build AI into your organisation",
+      "excerpt": "Artificial intelligence engineering brings together various disciplines to tame the AI hype, while providing a clearer path to realising value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
+      "originalUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/qXhtGqfRmvYJemNXeBA1UrYupb6q0DGm9VELa4ioE_d74vqV-zZ7Q3LsZMF56J9dCI16rcZK9SdVHmDrToHkwC8PWErMndcvJ0M=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
+      "publishedDateTime": "2022-02-28T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -856,6 +890,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-28-patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
+      "title": "Patriot Financial Group Insurance Agency LLC Grows Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
+      "excerpt": "Patriot Financial Group Insurance Agency LLC increased its holdings in shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 91.1% during the 3rd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "originalUrl": "https://www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NYSEARCA&Symbol=IRBO",
+          "width": 650,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "publishedDateTime": "2022-02-28T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-28-acv-acquires-ai-solutions-company-monk-sas-terms-undisclosed.md",
       "title": "ACV acquires AI solutions company Monk SAS; terms undisclosed",
       "excerpt": "Digital automotive marketplace ACV (ACVA) has acquired AI solutions company, Monk SAS.Financial terms of the deal were not disclosed.Monk SAS is a AI-powered imaging and",
@@ -1083,110 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school.md",
-      "title": "To Realize The Future Potential Of AI, It's Time To Make Math The Cool Kid At School",
-      "excerpt": "While English, math and science form the trilogy of staple sectors that children learn throughout school, only one is frequently looked back on as \"unnecessary,\" \"unusable\" or redundant to adult life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6217c1522b85afd1980dadb8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/",
-      "publishedDateTime": "2022-02-28T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do.md",
-      "title": "AI Is Poised To Revolutionize How We Coach Employees: Here’s What Company Leaders Need To Know And Do",
-      "excerpt": "It's just the beginning of what I believe will be a rapid evolution of people management techniques over the next decade or more, driven by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/28/ai-is-poised-to-revolutionize-how-we-coach-employees-heres-what-company-leaders-need-to-know-and-do/amp/",
-      "publishedDateTime": "2022-02-28T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
